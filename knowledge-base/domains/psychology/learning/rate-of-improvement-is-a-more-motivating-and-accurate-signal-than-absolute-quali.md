@@ -56,7 +56,6 @@ stance: >-
   correct heuristic for evaluating whether to continue ambitious early-stage
   work
 related:
-  - INS-260321-167A
   - INS-260326-3CDE
   - INS-260327-35C7
   - INS-260328-B57E
@@ -66,6 +65,7 @@ related:
   - INS-260403-F943
   - INS-260403-2CFE
   - INS-260405-0CE7
+  - PRI-260328-4810
 ---
 Graham observes that one of the most reliable ways to stay motivated through the early lame phase of ambitious work is to shift attention from absolute quality to rate of change. Lame work that is rapidly improving is far more valuable than mediocre work that is static — but our intuitions about quality are calibrated to current state, not trajectory.
 

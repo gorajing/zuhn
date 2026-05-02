@@ -53,6 +53,6 @@ related:
   - INS-260405-6019
   - INS-260327-70DF
   - INS-260329-78AE
-  - INS-260322-116B
+  - INS-260501-93DD
 ---
 The authenticity movement conflates two things: honesty with intimates (valuable) and emotional-state transparency with customers (counterproductive). Customers don't want the server at the restaurant to authentically be in a bad mood when they serve. Patients don't want the surgeon to be authentically frustrated. Employees don't want their paycheck authenticity — they want it consistently on time. What customers actually pay for is consistency: a reliable delivery of the promised experience regardless of the provider's emotional state. Small business operators who insist on being their full authentic self with customers confuse the professional role with the personal identity. The advanced frame: treat your business persona as a role (George Clooney the actor, not George Clooney the person) and commit to consistency in that role while saving authentic emotional expression for private life.

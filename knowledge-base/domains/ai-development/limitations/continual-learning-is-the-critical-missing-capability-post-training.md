@@ -54,8 +54,8 @@ related:
   - INS-260404-7CBC
   - INS-260329-9AE9
   - INS-260410-D49F
+  - INS-260501-D360
   - PRI-260407-7FB7
-  - PRI-260407-ED1C
-  - INS-260403-219F
+  - INS-260501-8186
 ---
 Current foundation models are frozen after training — they don't elegantly integrate new information into their existing knowledge base. Hassabis points to the brain's sleep consolidation mechanism (replaying daily memories and integrating them into long-term knowledge) as the likely architectural inspiration needed. All leading labs are working on this. This matters because systems that can't continually learn need constant retraining, expensive fine-tuning, or brittle context-window hacks. Agents in particular suffer — they can't 'grow' from their experiences. Watch for breakthrough architectures combining memory systems with sleep-like replay/consolidation as a leading indicator of near-AGI progress.

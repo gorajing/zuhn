@@ -46,11 +46,11 @@ resolutions:
     reverse-engineer the steps. This bypasses positional bargaining entirely by
     aligning on outcomes before negotiating means.
 related:
+  - INS-260501-BBB7
   - INS-260323-9C11
   - INS-260329-B011
   - INS-260409-7DB7
   - INS-260323-4082
-  - INS-260329-A9B7
 stance: People endure incredible hardship today if the future portends what they want
 evidence:
   - id: INS-260329-B011

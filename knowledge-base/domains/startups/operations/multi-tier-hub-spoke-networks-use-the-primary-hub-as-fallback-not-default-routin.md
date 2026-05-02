@@ -56,6 +56,7 @@ related:
   - INS-260329-F887
   - INS-260410-ED34
   - INS-260403-8011
+  - INS-260501-FA6B
   - INS-260405-88A4
 ---
 A naive hub-and-spoke model routes everything through the central hub, but FedEx's actual network is more sophisticated. Secondary hubs like Oakland handle high-demand regional corridors (Phoenix to Seattle), while Memphis serves as the catch-all for routes without enough volume to justify direct connections. A Phoenix-to-Seattle package routes 1,300 miles through Oakland instead of 3,000+ miles through Memphis.

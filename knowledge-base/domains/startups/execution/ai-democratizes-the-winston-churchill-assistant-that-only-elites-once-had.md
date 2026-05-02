@@ -45,11 +45,11 @@ stance: >-
   to world leaders—a contextually aware assistant that understands your voice,
   intent, and preferences, fundamentally democratizing creative production.
 related:
+  - INS-260501-06B1
   - INS-260322-96D1
   - INS-260326-98A0
   - INS-260403-10CE
   - INS-260322-0C28
-  - INS-260403-6EC2
 evidence:
   - id: INS-260322-0C28
     type: CHALLENGES

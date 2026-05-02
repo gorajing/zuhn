@@ -60,8 +60,8 @@ related:
   - INS-260402-7C15
   - INS-260403-1A96
   - INS-260403-8BF4
-  - INS-260404-C99B
   - INS-260403-8C20
   - INS-260404-D45D
+  - INS-260403-F9EE
 ---
 The common advice for new writers is to optimize for engagement: strong hooks, clear takeaways, structured lists. This produces readable content that builds audience quickly but generates a specific pathology: the author never develops their own thinking because they never write anything they weren't already planning to argue. Dan Koe's counter-practice: start each essay from genuine uncertainty. Pick a concept, viewpoint, question, or experience you haven't fully thought through. Let the writing be the thinking. Be willing to abandon the draft and start over (he scrapped three drafts of this very video). The engagement-optimization skill comes later and applies to the final packaging, not the first draft. This posture distinction matters enormously for the Zuhn Intelligence Brief cadence: each brief must genuinely work through a position the author has not fully articulated before, or the brief becomes the article-shaped repackaging of existing thinking, which AI can increasingly produce. The discovery posture is the irreplaceable human contribution; the packaging is secondary.

@@ -2,10 +2,12 @@
 
 - `INS-260403-E23C` An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260409-8DDA` Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
+- `INS-260501-27BF` The board says 'we need more AI', the CEO hires a consultant, the project no one understands fails — but every individual employee uses ChatGPT brilliantly.
 - `INS-260423-8504` Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
 - `INS-260323-282F` Microsoft — the apex predator of enterprise software with 440M Office 365 users — has only 8M active paying AI Copilot users, generating roughly $2.9B/year against $200B+ in AI capex.
 - `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
+- `INS-260501-3D0C` Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
 - `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
 - `INS-260403-D56A` Anthropic's 2026 report shows the biggest agent gains go to teams that rebuild work around agents rather than layering AI on top of old systems.
 - `INS-260413-36B4` Generative AI reached 53% US population adoption within 3 years — faster than the PC or internet — while organizational adoption hit 88% and Singapore/UAE lead at 61%/54% with the US ranking 24th at 28.3%.

@@ -42,8 +42,8 @@ stance: >-
 related:
   - INS-260403-F160
   - INS-260403-D4E1
+  - INS-260501-646A
   - INS-260327-F4DD
   - INS-260329-206D
-  - INS-260403-F400
 ---
 Rather than describing a scene verbally for each new generation, the workflow screenshots the final frame of the previous video and uses it as the seed for the next shot. This preserves lighting, character position, wall textures, and subtle details that prompts fail to specify. The principle: when working with generative models, the richest context is the prior output itself - transcribing it into words loses information. Extends to any iterative generative workflow where state needs to propagate across calls.

@@ -47,7 +47,6 @@ stance: >-
   effective than developing equivalent capabilities independently.
 related:
   - INS-260323-E797
-  - INS-260327-2520
   - INS-260327-8BFF
   - INS-260329-58E7
   - INS-260330-C7E6

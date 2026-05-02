@@ -52,7 +52,6 @@ stance: >-
   building any technology to scale it, because premature scaling optimizes the
   wrong experience
 related:
-  - INS-260327-1C7C
   - INS-260330-410A
   - INS-260403-39F6
   - INS-260412-8C4F

@@ -53,7 +53,7 @@ related:
   - INS-260409-665F
   - INS-260402-8C42
   - INS-260330-0CAD
-  - INS-260404-61DA
+  - INS-260501-15D5
 ---
 The accessibility of AI tools in 2024 has made it faster and cheaper to ship features, but this creates a new overbuilding trap: teams can now accumulate large, complex codebases and feature sets before confirming customers actually want them. The risk isn't technical debt in the traditional sense—it's strategic debt from optimizing for a direction that hasn't been validated.
 

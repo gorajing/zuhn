@@ -43,14 +43,14 @@ resolutions:
     again. This is the once-in-a-generation move -- equivalent to the cloud
     computing boom 25 years ago that created the last wave of billionaires.
 related:
-  - INS-260323-216A
   - INS-260320-CDE4
   - INS-260329-5B7B
   - INS-260403-A2BA
   - INS-260321-801C
   - INS-260423-FB98
   - INS-260329-FAE2
-  - INS-260423-BFDE
+  - INS-260501-8A1F
+  - INS-260323-216A
 stance: >-
   AI works with data -- if you don't have complete data architecture in place,
   there's nothing for AI to operate on.

@@ -42,8 +42,8 @@ related:
   - INS-260404-F0C3
   - INS-260410-49C5
   - INS-260329-8DC5
-  - INS-260403-5CA6
   - INS-260320-76D2
+  - INS-260501-3F01
 stance: >-
   If you're copying the same instructions into multiple projects, that's a
   signal to create a Skill instead

@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260406-A6A2
   - INS-260405-2C44
+  - INS-260501-EC00
   - INS-260330-F7B2
   - INS-260322-C935
-  - INS-260330-CCF0
 ---
 The Geneva Hospital team used a physical whiteboard with paper post-its for alignment and Trello for task tracking — not because these were optimal tools, but because they were immediately available. The Strategyzer team explicitly notes 'we dived straight into the content by using whatever materials were at hand.'
 

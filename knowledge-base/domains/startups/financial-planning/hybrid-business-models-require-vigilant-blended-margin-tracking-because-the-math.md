@@ -50,10 +50,10 @@ stance: >-
   high-margin recurring revenue masks the true cost of hardware unit economics
 related:
   - INS-260403-BE7C
+  - INS-260501-DAD0
   - INS-260403-FF7E
   - INS-260404-D471
   - INS-260410-E5C9
-  - PRI-260407-93D7
 ---
 When a company sells hardware alongside recurring software subscriptions, the financial model becomes structurally deceptive. Strong SaaS margins can mask hardware unit economics that are deeply negative — a company can look healthy on blended metrics while each hardware unit sold is destroying value. The template tip — 'watch your blended margin like a hawk; that's where most fail' — points at a real failure mode in companies like IoT startups, consumer hardware with subscriptions, and med-tech devices.
 

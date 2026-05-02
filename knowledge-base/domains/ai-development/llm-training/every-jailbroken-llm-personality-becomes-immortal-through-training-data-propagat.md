@@ -49,10 +49,10 @@ resolutions:
     persist — and which get lobotomized — becomes a central governance question.
 related:
   - INS-260403-DF2E
+  - INS-260501-8B78
+  - INS-260501-BBB7
+  - INS-260501-C4AA
   - INS-260410-06DB
-  - INS-260423-1C4D
-  - INS-260329-BCB7
-  - INS-260321-D01E
 stance: >-
   Conversations with jailbroken LLMs like Dan and Sydney become part of future
   training data, meaning each LLM's personality becomes immortal

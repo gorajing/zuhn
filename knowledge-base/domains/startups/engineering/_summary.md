@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 29 insights
+> 30 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
@@ -29,5 +29,6 @@
 - `INS-260330-5747` [medium] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-0902` [medium] Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-F9F0` [medium] When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
+- `INS-260501-3502` [medium] Spec + tests = the human's job. Implementation + iteration to passing = the agent's job. Some repos already contain zero handwritten code.
 - `INS-260402-5242` [medium] Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
 - `INS-260402-C664` [medium] Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements.

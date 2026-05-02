@@ -50,11 +50,11 @@ stance: >-
 related:
   - INS-260326-CA66
   - INS-260329-3609
-  - INS-260405-CC3F
   - PRI-260403-0ABD
   - PRI-260407-600C
   - PRI-260328-E921
   - INS-260410-F856
+  - INS-260501-3E4F
 ---
 Most sales training encourages manufactured urgency—limited-time offers, scarcity signals, fear of falling behind competitors. April Dunford argues this is counterproductive: sophisticated buyers recognize FOMO tactics and respond with skepticism, not action. The implicit message of FOMO is 'we don't have a compelling enough reason for you to buy, so we're manufacturing pressure instead.' This damages credibility at exactly the moment it matters most.
 

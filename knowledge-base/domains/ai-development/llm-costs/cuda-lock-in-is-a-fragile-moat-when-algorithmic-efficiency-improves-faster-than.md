@@ -50,7 +50,6 @@ stance: >-
   Nvidia's dominance through proprietary CUDA tooling will erode as efficient
   training algorithms reduce dependency on massive GPU clusters
 related:
-  - INS-260323-584D
   - INS-260323-13C0
   - INS-260322-0CE3
   - INS-260323-D18D
@@ -60,6 +59,7 @@ related:
   - INS-260327-C4C8
   - INS-260327-5D5F
   - INS-260327-6061
+  - PRI-260328-A82C
 evidence:
   - id: INS-260322-144E
     type: TRANSFERS_TO

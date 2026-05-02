@@ -49,11 +49,11 @@ resolutions:
     management: the instinct to make something disappear is almost always worse
     than the instinct to stand behind it with additional explanation.
 related:
+  - INS-260501-61C7
   - INS-260330-B885
   - INS-260327-6ACA
   - INS-260327-A048
   - INS-260330-CDE1
-  - INS-260327-4A64
   - INS-260330-0DFC
 stance: >-
   Pakman deleted a controversial tweet under threat pressure, which he deeply

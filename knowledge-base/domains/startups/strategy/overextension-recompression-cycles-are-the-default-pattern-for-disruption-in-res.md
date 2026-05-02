@@ -55,9 +55,9 @@ related:
   - INS-260403-D62F
   - INS-260403-CC4E
   - PRI-260328-A4AC
+  - INS-260501-2759
   - PRI-260406-F9EB
   - PRI-260406-12A2
-  - PRI-260325-D34E
 ---
 The nuclear bubble in the trench doesn't simply expand or simply collapse — it oscillates. It overextends, loses pressure, gets pushed back by the water, re-expands with remaining energy, gets pushed back again, and eventually is chopped into smaller bubbles that drift upward harmlessly.
 

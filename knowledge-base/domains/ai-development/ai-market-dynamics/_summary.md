@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 167 insights
+> 171 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -32,6 +32,7 @@
 - `INS-260323-F2BD` [high] Whatever personal productivity you gain from AI comes at externalized costs of stolen training data, exploited Global South workers, and data centers extending the life of coal plants.
 - `INS-260327-85E2` [high] Cloud replaced software with software ($350B to $650B TAM); AI replaces services with software, starting from a tens-of-trillions base.
 - `INS-260321-7C97` [high] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
+- `INS-260501-AF86` [high] Price tiers are involuntary architectural disclosures — competitors must price close to cost, so the structure of the price reveals the structure of the system.
 - `INS-260321-C5AA` [high] Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
 - `INS-260323-13C0` [high] Organizations routinely assign their least technical person to 'train the AI' because they don't understand that this is actual data science work.
 - `INS-260403-E6F0` [high] Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
@@ -76,6 +77,7 @@
 - `INS-260405-B7C7` [high] Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
 - `INS-260327-C15B` [high] Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
 - `INS-260327-0C4A` [high] Network quality, not just GPU power, determines how many GPUs can effectively work together on a single AI workload.
+- `INS-260501-B6EE` [high] Pat Grady: there's an expression in racing — you cannot pass 15 cars in the sun, but you can pass 15 cars in the rain. Right now there is a torrential downpour of new capabilities, which means no lead is safe but anybody can win.
 - `INS-260321-2BF9` [high] NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260325-DAD7` [high] Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
 - `INS-260403-8A65` [high] DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
@@ -105,6 +107,7 @@
 - `INS-260321-015B` [high] Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
 - `INS-260403-9CC1` [high] AI companies are scaling revenue at rates never seen before, concentrating market leadership rapidly.
 - `INS-260321-FD14` [high] Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
+- `INS-260501-A746` [high] Agents pick infrastructure tools (Twilio, Cloudflare) and ignore productivity tools (Marquetto, Outreach, Atlassian) — the public markets are reading this correctly.
 - `INS-260409-A4F0` [medium] Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon.
 - `INS-260410-5D16` [medium] Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
 - `INS-260327-CED9` [medium] Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.
@@ -128,6 +131,7 @@
 - `INS-260327-1D37` [medium] Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
 - `INS-260409-56A3` [medium] Enterprise buyers are asking for natural-language 'shims' that strangle existing SaaS UIs and let agents handle the backend complexity, collapsing the defensibility of UI-layer SaaS products.
 - `INS-260409-CBC7` [medium] Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
+- `INS-260501-10B4` [medium] Anthropic at $1T enterprise-of-choice today — but the autonomous-agent battle is just starting and OpenAI's Codex is shipping daily.
 - `INS-260403-F7A9` [medium] Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
 - `INS-260403-C1D2` [medium] Over 630 investors backed LLM startups, but NVIDIA, Amazon, Microsoft, Alibaba, Salesforce, and Google write the largest checks while serving as suppliers and competitors.
 - `INS-260404-116E` [medium] When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.

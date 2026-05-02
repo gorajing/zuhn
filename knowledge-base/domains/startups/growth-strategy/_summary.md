@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 81 insights
+> 83 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260402-24B0` [high] Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
@@ -58,8 +58,10 @@
 - `INS-260327-B034` [high] Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260322-36E3` [high] Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
 - `INS-260403-538C` [high] Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
+- `INS-260501-2322` [high] Show me MAU/revenue ratio. If revenue grows but engagement doesn't, your customers have already churned mentally — they just haven't done the paperwork yet.
 - `INS-260322-C33D` [high] Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260322-E8BA` [high] Filter for keywords under 10 difficulty with 1000+ monthly volume to find rankable free tool opportunities.
+- `INS-260501-15D5` [high] One person + AI tools = old large engineering team. Therefore: high API bill is cheap relative to the headcount it replaces.
 - `INS-260403-922C` [high] Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
 - `INS-260330-B0EB` [high] Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
 - `INS-260330-20F7` [high] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.

@@ -16,3 +16,4 @@
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260327-7A48` Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260409-654B` After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
+- `INS-260501-6ECF` Verifiability is the lever; the labs cover the obvious cases; the under-served verifiable domains are founder territory.

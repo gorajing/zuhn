@@ -46,6 +46,6 @@ related:
   - INS-260327-0E86
   - INS-260327-6F26
   - INS-260325-060A
-  - INS-260325-17BF
+  - INS-260501-CF7D
 ---
 The AI industry's monthly release cadence for new foundation models means the capability frontier moves faster than any perfection-oriented development cycle. A product built against today's capabilities is obsolete against next month's. The only coherent response is to treat the product as a continuously evolving surface, release daily, and let the market reveal which features are worth doubling down on. This inverts the traditional advice to 'ship when it's ready' — in AI, it is better to ship before it's ready and iterate in public.

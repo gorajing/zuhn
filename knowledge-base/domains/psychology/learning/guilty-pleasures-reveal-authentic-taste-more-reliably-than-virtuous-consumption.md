@@ -47,11 +47,11 @@ stance: >-
   honest signal of what you actually value and should build on.
 related:
   - INS-260404-5AEB
+  - INS-260501-93DD
   - INS-260403-B9E5
   - INS-260329-E900
   - INS-260329-5B3D
   - INS-260327-8DDE
-  - INS-260423-AB6B
 evidence:
   - id: INS-260329-E900
     type: TRANSFERS_TO

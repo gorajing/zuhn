@@ -49,11 +49,11 @@ stance: >-
   compound errors, just as monolithic applications create bottlenecks and limit
   performance.
 related:
+  - INS-260501-91C2
   - PRI-260320-BC72
   - INS-260322-EAB6
   - INS-260320-9D89
   - INS-260327-BF89
-  - INS-260410-F910
 ---
 Google's ADK guide opens with a direct analogy: monolithic applications don't scale, and neither do monolithic agents. As instruction complexity increases, adherence to specific rules degrades and hallucination rates compound. A single agent asked to parse, extract, summarize, route, and validate will perform worse at each task than specialized agents in a coordinated system.
 

@@ -67,7 +67,6 @@ stance: >-
   whose capabilities you cannot internally develop.
 related:
   - INS-260327-0875
-  - INS-260329-96EC
   - INS-260330-240A
   - INS-260330-73F3
   - INS-260409-1652
@@ -76,6 +75,7 @@ related:
   - INS-260330-39B0
   - PRI-260403-40D7
   - PRI-260407-E7CD
+  - INS-260412-F660
 ---
 Lane describes giant bacteria that achieved large cell sizes not through innovation but through extreme polyploidy: tens or even hundreds of thousands of copies of their complete genome, all being maintained and expressed simultaneously. The energy cost is colossal, and it caps out. None of these giant bacteria ever developed sophisticated internal trafficking, complex multicellularity, or anything resembling a eukaryotic cell. They just got bigger through replication of the same machinery.
 

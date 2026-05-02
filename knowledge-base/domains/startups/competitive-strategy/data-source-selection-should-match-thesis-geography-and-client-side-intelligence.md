@@ -49,5 +49,6 @@ related:
   - INS-260403-7037
   - INS-260404-8A02
   - INS-260322-C472
+  - INS-260501-D701
 ---
 The article makes a non-obvious case for choosing Inven over Crunchbase: beyond covering startups, it includes potential B2B clients with financial data from trade registries, enabling quick market sizing. This reflects a broader principle — the most valuable data for investors isn't about the companies they invest in, but about the markets those companies serve. A fund that can independently estimate addressable market from real client revenue data has a structural analytical advantage over one relying on self-reported startup metrics.

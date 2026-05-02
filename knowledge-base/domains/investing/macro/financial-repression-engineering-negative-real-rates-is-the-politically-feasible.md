@@ -53,8 +53,8 @@ stance: >-
 related:
   - PRI-260412-3344
   - INS-260410-AC50
+  - INS-260501-0A62
   - PRI-260406-BAAC
   - PRI-260406-53BC
-  - PRI-260406-407C
 ---
 Russell Napier's framework: sovereign debt is too high to be serviced through any market mechanism. Growth via AI is possible but too slow given debt is accumulating at $7.2B/day. Inflation, default, and restructuring are all politically intolerable. The remaining lever is financial repression — forcing nominal rates below inflation to make real rates negative, silently transferring wealth from bondholders and savers to the state. This requires the government to control the financial system so institutions cannot exit the repressed regime, and to provide incentives (or coercion) for private savings to fund public priorities. The regime is now beginning and will likely persist 10-15 years, during which the 'market sets interest rates' assumption breaks down completely.

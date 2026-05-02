@@ -52,7 +52,7 @@ related:
   - INS-260412-BA6D
   - INS-260330-A2D4
   - INS-260327-DCAF
-  - INS-260410-7E29
+  - INS-260501-2A52
 stance: >-
   China is stealing American AI models, removing all guardrails, and potentially
   deploying them against the US

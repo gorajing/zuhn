@@ -67,7 +67,7 @@ related:
   - PRI-260405-6A4E
   - PRI-260407-ED1C
   - PRI-260403-EA13
-  - INS-260321-8C35
+  - INS-260501-FDF0
 ---
 Sutton makes a sharp distinction between solving a problem and generalizing well. Generalization means that training on one state affects what you do in other states in a beneficial way. Deep learning's default behavior is catastrophic interference: train on new data, and old capabilities degrade. This is the signature of poor generalization, not good generalization.
 

@@ -46,7 +46,6 @@ stance: >-
   requirements because showing hackers a lock activates their instinct to pick
   it, while a handshake activates their sense of honor.
 related:
-  - INS-260330-4E68
   - INS-260330-E881
   - INS-260412-4233
   - INS-260402-31D8
@@ -56,6 +55,7 @@ related:
   - INS-260405-5617
   - INS-260405-E7F9
   - INS-260403-DDD5
+  - INS-260410-2623
 evidence:
   - id: INS-260403-3587
     type: TRANSFERS_TO

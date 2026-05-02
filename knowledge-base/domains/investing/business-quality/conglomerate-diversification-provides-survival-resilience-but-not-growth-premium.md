@@ -63,6 +63,7 @@ related:
   - PRI-260328-A4AC
   - INS-260327-505A
   - INS-260412-1711
+  - INS-260501-3BCF
 ---
 Samsung's diversification across 80 subsidiaries — spanning construction, insurance, healthcare, food production, and defense — means the company cannot truly fail in an existential sense. Revenue from other divisions cushions semiconductor downturns. Yet this diversification didn't prevent the stock from losing nearly half its value when Samsung Electronics stumbled.
 

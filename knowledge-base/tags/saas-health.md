@@ -1,3 +1,4 @@
 # Tag: saas-health
 
 - `INS-260403-1B8C` Expansion revenue from deeper workflow adoption is durable, but expansion used to mask failing customer acquisition is a delayed detonation that shows up in cohort performance.
+- `INS-260501-2322` Show me MAU/revenue ratio. If revenue grows but engagement doesn't, your customers have already churned mentally — they just haven't done the paperwork yet.

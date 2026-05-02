@@ -50,5 +50,6 @@ related:
   - INS-260403-573F
   - INS-260327-D2F3
   - INS-260403-C9DC
+  - INS-260501-6ECF
 ---
 Traditional product discovery assumes users have latent but articulable needs — the job of research is to surface them. AI inverts this: users often don't know what workflows are possible until they interact with the product, and the product itself may reveal a more valuable application than the one it was designed for. This means early AI products should be deployed with loose problem framing and strong observability to detect emergent use patterns, rather than tightly optimized for the founder's initial hypothesis. The real PMF signal may come from an unexpected direction. Founders who over-commit to their original problem statement will miss it.

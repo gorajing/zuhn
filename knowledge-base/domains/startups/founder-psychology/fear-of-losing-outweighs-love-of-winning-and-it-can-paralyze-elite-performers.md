@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260323-97DB
   - INS-260323-2B53
+  - INS-260501-5320
   - INS-260330-1C50
   - INS-260323-3A98
-  - INS-260323-D621
   - INS-260330-CC9E
 stance: >-
   Nicky Ryan admits fear of losing has made him less active as a competitor

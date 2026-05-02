@@ -60,6 +60,7 @@ related:
   - INS-260410-988F
   - INS-260327-8C1C
   - INS-260409-2EF3
+  - INS-260501-22AD
 ---
 Todd Jackson's 'four P's' framework (persona, problem, promise, product) gives founders a structured diagnostic when PMF stalls. The ordering matters: most founders instinctively change the product when stuck, but often the real issue is targeting the wrong persona, solving the wrong problem, or positioning with the wrong promise. The framework forces founders to check upstream assumptions before investing engineering effort.
 

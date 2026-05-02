@@ -53,7 +53,6 @@ stance: >-
   mistakes in a narrow field.
 related:
   - INS-260323-86FA
-  - INS-260327-24D2
   - INS-260327-A5CD
   - INS-260327-5547
   - INS-260330-66E6

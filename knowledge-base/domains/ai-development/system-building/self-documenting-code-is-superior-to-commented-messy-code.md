@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-500E
   - INS-260403-0A7A
+  - INS-260501-A5F5
   - INS-260321-703F
   - INS-260330-2C97
-  - INS-260321-82FE
   - INS-260409-DBCF
 evidence:
   - id: INS-260330-2C97

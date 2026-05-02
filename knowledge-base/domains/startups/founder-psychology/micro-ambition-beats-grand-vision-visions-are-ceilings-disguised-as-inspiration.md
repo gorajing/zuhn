@@ -51,10 +51,10 @@ stance: >-
   cap potential the founder cannot yet imagine.
 related:
   - INS-260409-A318
+  - INS-260501-801C
   - INS-260410-87C4
   - INS-260403-6F9C
   - INS-260330-C658
-  - INS-260403-A8BA
 ---
 Harry Stebbings argues that visions are among the most dangerous things in entrepreneurship — a deeply contrarian stance against every startup playbook. His reasoning: when he started 20VC at 18, any vision he could have articulated would have capped his potential far below what actually happened. He never envisioned raising $800M; he focused on getting one great guest. He never envisioned becoming a top VC podcast; he focused on cutting boring content.
 

@@ -57,7 +57,6 @@ related:
   - PRI-260406-28E1
   - INS-260404-007F
   - INS-260404-433E
-  - INS-260410-DA0E
 ---
 Workday (HR/finance), ServiceNow (IT workflows), and Splunk (data analytics) all shared a common business model trait: subscription-based pricing with deep integration into enterprise workflows. Once adopted, these tools became embedded in daily operations, making switching prohibitively expensive and disruptive.
 

@@ -51,13 +51,12 @@ stance: >-
   probabilistic beliefs, making search engines arbiters of uncertain futures
   rather than just recorders of the past.
 related:
-  - INS-260327-0595
   - INS-260329-C092
   - INS-260402-7A1A
   - INS-260405-567D
   - INS-260404-4758
   - INS-260411-8AEF
-  - INS-260323-B309
+  - INS-260501-E8E9
   - INS-260403-9149
 ---
 Google partnered with Polymarket and Kalshi to display real-time prediction market probabilities directly in Search and Google Finance results. When users search questions about future events — elections, inflation, GDP — they now see market-implied probabilities sourced from active trading.

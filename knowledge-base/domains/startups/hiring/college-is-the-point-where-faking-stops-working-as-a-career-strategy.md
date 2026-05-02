@@ -48,7 +48,6 @@ stance: >-
   compliance, but from college onward, genuine interest and ability become the
   only reliable path to success.
 related:
-  - INS-260330-DE89
   - INS-260330-1FA8
   - INS-260323-9D6E
   - INS-260409-53A1
@@ -58,6 +57,7 @@ related:
   - INS-260403-47C0
   - INS-260404-E8F4
   - INS-260403-62A9
+  - INS-260404-F2F5
 evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO

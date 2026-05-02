@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 623 insights
+> 631 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -145,6 +145,7 @@
 - `INS-260404-8076` [high] Defense-tech and climate-tech are drawing the largest late-stage rounds, reflecting a structural reallocation of venture capital toward hard-tech sectors.
 - `INS-260403-FF7E` [high] AI-era startups should prioritize building compounding moats over optimizing gross margins, because margins can mislead while defensibility determines survival.
 - `INS-260403-9A5D` [high] Peter Thiel's principle that advantages must be defensible means VCs discount any competitive edge that competitors can replicate within 12-18 months.
+- `INS-260501-DC5D` [high] Software wrappers around foundation models get swarmed by next model release; deep tech (materials, bio, robotics) is defensible because atoms are slow.
 - `INS-260403-8450` [high] Nvidia's $20B Groq deal was not about buying growth but about preventing the fragmentation of buyer choice that would weaken long-term leverage.
 - `INS-260327-25D7` [high] Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
@@ -195,6 +196,7 @@
 - `INS-260327-34EB` [high] The smashburger format succeeded because the cooking technique is simpler and more consistent than traditional methods, 
 - `INS-260327-7C67` [high] For an alarming number of major companies, becoming a monopoly isn't just profit maximization - it's the only way they can make a profit at all.
 - `INS-260323-0539` [high] Cursor forked VS Code rather than building an extension because plugin APIs limit what you can build — when AI changes how software is built, you need full control of the editing surface.
+- `INS-260501-2A52` [high] If you own the agent, you own which model the agent picks. That's why Sam, Dario, and Marc Benioff are all racing to win the agent layer.
 - `INS-260327-94F5` [high] Kevin Plank spent $700M acquiring fitness apps to chase big data and IoT hype, declared Under Armour was 'a technology company' on national TV, and no one in the organization could push back because the founder's voice was always the loudest and always correct.
 - `INS-260327-CB72` [high] Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.
 - `INS-260412-4CC8` [high] TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
@@ -216,6 +218,7 @@
 - `INS-260330-E670` [high] Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260328-75B8` [high] Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
 - `INS-260327-26CF` [high] Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health 
+- `INS-260501-D7CB` [high] SpaceX at $2T (100x revenue) buying Cursor at $60B (10x revenue) is arbitrage — paper for paper, both sides win.
 - `INS-260402-E60E` [high] For most of human history, the fastest way to get rich was stealing — wealth creation as the dominant path only emerged with the Industrial Revolution.
 - `INS-260330-B284` [high] Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260403-F519` [high] The best web3 gaming teams pair experienced web2 game designers with blockchain-native engineers, rather than building teams of pure crypto specialists.
@@ -286,6 +289,7 @@
 - `INS-260327-A61B` [high] Lower barriers to build (AWS, Stripe, AI) simultaneously lower barriers for competitors, making speed the primary differentiator.
 - `INS-260324-1CC8` [high] Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3 'different' brands — all your money goes to the same company (Kering). LVMH ($54B revenue) and Kering dominate through an illusion of brand independence.
 - `INS-260327-87A3` [high] LVMHs competitive advantage is vertical integration across the luxury value chain: they own materials suppliers, manufac
+- `INS-260501-FA6B` [high] Pat Grady: get MAD — Modes (customer-back, not tech-out), Affordance (paths of least resistance for specific customer problems), Diffusion (the gap between capability creation and enterprise adoption is your opportunity).
 - `INS-260410-F681` [high] Luxury brands like Rolex and Hermès win by controlling the market — keeping production flat, raising prices incrementally, and refusing to chase demand spikes — rather than by participating as price-taking sellers.
 - `INS-260403-2496` [high] Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
 - `INS-260403-B89E` [high] Markets systematically undervalue tools that expand who can participate versus tools that make experts faster, creating windows for compounding growth.
@@ -400,6 +404,7 @@
 - `INS-260405-D6E6` [high] Sears, Toys-R-Us, and Payless didn't die because of Amazon — they died because they stopped adapting, and Amazon is a conveniently blameable scapegoat.
 - `INS-260327-9C3A` [high] Uber proved enormous demand for ride-hailing at subsidized prices but has struggled to demonstrate that demand persists 
 - `INS-260327-8997` [high] Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.
+- `INS-260501-9D73` [high] Benioff just gave up Salesforce's UI to keep Salesforce's database — that's the right move when agents replace humans typing into UIs.
 - `INS-260329-F33F` [high] Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260330-45A9` [high] Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
 - `INS-260403-C7A0` [high] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
@@ -473,6 +478,7 @@
 - `INS-260330-6B7F` [high] Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260412-D103` [high] Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
 - `INS-260327-E2BC` [high] AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.
+- `INS-260501-09FD` [high] Bucket 1: agents replace you, you're toast (especially if leveraged). Bucket 2: agents tolerate you as system-of-record, slow growth. Bucket 3: agents amplify you, increasing returns.
 - `INS-260410-8BF9` [high] No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
 - `INS-260410-90C5` [high] Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.
 - `INS-260403-7A48` [high] Foundation models can now integrate, retrain, and migrate data across platforms with minimal friction, rendering traditional SaaS lock-in strategies obsolete.
@@ -518,6 +524,7 @@
 - `INS-260330-DF31` [medium] 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge.
 - `INS-260330-2064` [medium] A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
 - `INS-260329-5B18` [medium] Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
+- `INS-260501-1774` [medium] Twice a year a foundation model lab ships a step change. Don't roadmap around incremental capability — roadmap around the next inflection.
 - `INS-260405-487E` [medium] AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
 - `INS-260329-E8EB` [medium] Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260404-0095` [medium] Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
@@ -619,6 +626,7 @@
 - `INS-260410-756C` [medium] IKEA started designing its own furniture only because Swedish competitors organized a supplier boycott against it — and that forced pivot is the reason there is no direct IKEA competitor in 2024.
 - `INS-260327-F0B2` [medium] Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
 - `INS-260330-A660` [medium] Tax optimization strategies like the Double Irish Dutch Sandwich create temporary advantages that inevitably attract regulatory attention proportional to their scale.
+- `INS-260501-6ECF` [medium] Verifiability is the lever; the labs cover the obvious cases; the under-served verifiable domains are founder territory.
 - `INS-260327-8358` [medium] The best problem-solvers may be in places without internet—AI could unlock this enormous untapped potential.
 - `INS-260403-4B31` [medium] California's proposed billionaire tax on unrealized gains could force founders to sell equity to pay taxes on illiquid paper wealth.
 - `INS-260327-B946` [medium] Under Armour spent years building retailer confidence by maintaining premium pricing and high sell-through rates, but when the brand faltered, retailers who had been cautiously increasing orders immediately pulled back -- the trust that took years to build evaporated in a single bad season.

@@ -48,11 +48,11 @@ stance: >-
   and more authentic decisions than those searching for objectively correct life
   paths
 related:
-  - INS-260403-FFFE
   - PRI-260327-8D8C
   - INS-260402-4C4C
   - INS-260322-C935
-  - INS-260403-9362
+  - INS-260403-FFFE
+  - INS-260501-EC00
 ---
 Analysis paralysis often stems from the belief that there exists an objectively correct life path and the terror of choosing wrong. Optimistic nihilism dissolves this by removing the external scorekeeper. If the universe has no principles, the only principles relevant are ones you decide on.
 

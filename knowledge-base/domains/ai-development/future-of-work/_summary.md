@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 112 insights
+> 119 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -15,6 +15,7 @@
 - `INS-260329-6CE8` [high] AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260329-B062` [high] AI replaced creative and expert roles before low-skill physical jobs, reversing what most people predicted.
 - `INS-260404-5628` [high] Predicting AI will disrupt specific jobs does not automatically mean the overall economy crashes — these are separate analytical questions requiring different frameworks.
+- `INS-260501-20F9` [high] Engineering hiring is now bimodal — AI-fluent vs not. The productivity gap is enormous and we hire only for the fluent group.
 - `INS-260327-C962` [high] Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260405-FCBE` [high] AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260404-6BD6` [high] AI agents are moving beyond task-level automation to reshape how entire workforces are structured.
@@ -48,6 +49,7 @@
 - `INS-260327-32F1` [high] Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260325-ADF5` [high] Open Router reports that sales and support staff are building agents that multiply their output, doing in hours what previously took days — the transformation is not engineers getting faster but non-engineers becoming builders.
 - `INS-260320-F78E` [high] Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
+- `INS-260501-10A0` [high] Greg Brockman: a dashboard that used to take a week to build, you just do it now. The bottleneck has shifted to sharing — how do you make it easy for anyone in your enterprise to build and share a dashboard, widget, or bot.
 - `INS-260413-BE3E` [high] Public vs expert forecasts for AI-driven job loss: cashiers 73% / 73% (agree), truck drivers 33% / 62%, lawyers 23% / 38% — public underestimates expert-identified risk, and overestimates teacher/doctor risk.
 - `INS-260423-44B4` [high] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
 - `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
@@ -58,11 +60,13 @@
 - `INS-260403-5D1F` [high] Software engineers are transitioning from master craftsmen to factory operators who set up and maintain AI systems, mirroring the Industrial Revolution's displacement of artisans.
 - `INS-260410-9AF4` [high] AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.
 - `INS-260423-4CB1` [high] Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
+- `INS-260501-70FE` [high] Amjad Masad: I no longer think you should learn how to code — people building multi-million dollar businesses solo don't need to learn how to code, they need to learn how to create.
 - `INS-260423-6DFB` [high] Hinton: when a tractor replaces physical labor, people go do intellectual things; but if you replace human intelligence, where are the people who work in a call center going to go?
 - `INS-260404-B81C` [high] Career planning requires hedging across multiple fields rather than betting on a single professional track.
 - `INS-260321-9A03` [high] Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260321-99C0` [high] Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
 - `INS-260403-A2E9` [high] As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
+- `INS-260501-3CAA` [high] Vibe coding is for everyone; agentic engineering is for professionals who can't ship vulnerabilities.
 - `INS-260402-1FE9` [high] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
 - `INS-260423-7DC6` [high] Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7.
 - `INS-260323-D2AA` [medium] AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
@@ -99,10 +103,12 @@
 - `INS-260403-22C2` [medium] AI can render decades of painstakingly accumulated human expertise economically worthless in months, as demonstrated by the sudden devaluation of software engineering skills.
 - `INS-260403-3664` [medium] Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
+- `INS-260501-AB31` [medium] Future companies have builders (deputizing agents) and salespeople (transferring trust). Everything else is automated by the builders.
 - `INS-260410-18A0` [medium] Productivity improvements historically generate more jobs, not fewer, because companies with infinite ambition expand into new areas whenever they become more profitable.
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` [medium] When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
+- `INS-260501-3088` [medium] 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening.
 - `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
 - `INS-260424-123B` [medium] Logan Kilpatrick: this is going to increase the demand for traditional developers — there will be a stopping point of how far you can go without understanding the technology, and people need a developer to partner with.
 - `INS-260403-7D1D` [medium] Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
@@ -111,6 +117,7 @@
 - `INS-260403-6691` [medium] The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
 - `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
+- `INS-260501-033E` [medium] When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap.
 - `INS-260403-DED4` [medium] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - `INS-260410-410E` [medium] Dwarkesh still hires a human editor to clean transcripts even though Claude 4 Opus can technically do the task, because he can't train the model to learn his preferences over time.
 - `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

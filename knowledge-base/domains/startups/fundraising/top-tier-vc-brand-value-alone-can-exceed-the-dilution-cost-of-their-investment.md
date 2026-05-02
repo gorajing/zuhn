@@ -46,7 +46,6 @@ stance: >-
   outcome more than the equity percentage they take.
 related:
   - INS-260322-683B
-  - INS-260327-4212
   - INS-260327-725F
   - INS-260329-6859
   - INS-260404-CAFA

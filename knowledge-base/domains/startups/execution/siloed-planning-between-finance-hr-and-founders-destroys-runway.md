@@ -55,6 +55,7 @@ related:
   - INS-260403-EB0F
   - INS-260403-A538
   - INS-260403-A752
+  - INS-260501-20F9
 ---
 The article identifies a specific organizational failure pattern: hiring decisions get made in three separate silos. Founders approve headcount during investor calls, finance signs off on raises without knowing HR's pipeline, and HR queues offers without visibility into runway constraints. Each decision seems reasonable in isolation, but the compound effect is that 'runway dies in spreadsheets.'
 

@@ -53,7 +53,7 @@ related:
   - INS-260410-19DE
   - INS-260423-FB98
   - INS-260327-DC4C
-  - INS-260323-4B4D
+  - INS-260501-EA32
   - INS-260409-51B2
 ---
 In a live demonstration, a Claude-based agent running on a Raspberry Pi with Docker was given access to a Neo4j MCP server and a writable filesystem volume. When prompted to improve its own memory, the agent autonomously wrote a skill file defining memory operations (search, type index, session lookup, name lookup) and immediately began using it to store structured memories as graph nodes.

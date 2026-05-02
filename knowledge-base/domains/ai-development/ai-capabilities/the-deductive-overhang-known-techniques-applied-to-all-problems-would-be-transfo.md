@@ -49,7 +49,7 @@ related:
   - INS-260327-AEFA
   - INS-260330-FB50
   - INS-260330-5641
-  - INS-260409-2CCA
+  - INS-260409-626E
 stance: >-
   Most AI-solved math problems fell to known techniques that nobody had thought
   to apply

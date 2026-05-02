@@ -52,12 +52,12 @@ stance: >-
   even trained engineers fail to fully appreciate until forced to observe them
   directly
 related:
-  - INS-260325-21D1
   - INS-260330-D950
+  - INS-260501-0662
   - PRI-260328-5D9E
+  - INS-260325-21D1
   - INS-260403-4502
   - INS-260330-D1A1
-  - INS-260403-7D1D
 evidence:
   - id: INS-260325-21D1
     type: SUPPORTS

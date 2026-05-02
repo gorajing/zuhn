@@ -51,7 +51,6 @@ stance: >-
   any financial instrument because skills can always be traded for money
   regardless of market conditions or asset losses.
 related:
-  - INS-260323-97DB
   - PRI-260406-12D7
   - INS-260412-023C
   - INS-260403-6E23

@@ -49,11 +49,12 @@ related:
   - INS-260323-A7F6
   - INS-260403-E099
   - PRI-260406-806C
+  - INS-260501-AB31
   - INS-260325-ADF5
   - INS-260327-BB71
-  - INS-260403-4120
   - INS-260410-1803
   - INS-260410-E71E
+  - INS-260501-8A1F
 ---
 The article presents a clear two-tier architecture: GPT Builder for rapid prototyping within OpenAI's ecosystem, and the Assistant API for production deployment outside it. The author explicitly frames this as breaking free from 'OpenAI's designated playground' to deploy 'wherever you want.'
 

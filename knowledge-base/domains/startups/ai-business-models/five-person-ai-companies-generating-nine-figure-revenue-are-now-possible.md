@@ -46,7 +46,6 @@ stance: >-
   AI-native businesses can achieve $10-100M+ revenue with teams of five people
   because models replace headcount for most operational functions.
 related:
-  - INS-260325-8F49
   - INS-260403-CBFF
   - PRI-260406-7FE4
   - INS-260323-BF81
@@ -56,6 +55,7 @@ related:
   - INS-260404-5CD3
   - INS-260405-5755
   - INS-260403-CEB7
+  - INS-260405-35DF
 evidence:
   - id: INS-260325-8F49
     type: SUPPORTS

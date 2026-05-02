@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260327-0519
   - INS-260329-A231
+  - INS-260501-0A62
   - INS-260403-3280
   - INS-260410-AC50
-  - INS-260403-CA46
 evidence:
   - id: INS-260327-0519
     type: CHALLENGES

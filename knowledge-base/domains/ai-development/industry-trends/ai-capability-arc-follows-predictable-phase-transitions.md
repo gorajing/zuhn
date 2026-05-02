@@ -49,7 +49,6 @@ stance: >-
   mental models of the prior phase.
 related:
   - INS-260325-7FAF
-  - INS-260330-EE25
   - INS-260403-F160
   - PRI-260407-A13C
   - PRI-260328-A82C

@@ -57,7 +57,6 @@ related:
   - INS-260404-F631
   - INS-260402-8595
   - INS-260403-A2FE
-  - INS-260409-BC1E
 ---
 Smith identifies a specific threat model: AI with permanent autonomy, highly capable robots, and end-to-end automation of its own production chain could defeat humans today despite jagged intelligence. This framing is useful because it identifies three concrete chokepoints rather than the vague 'alignment problem.'
 

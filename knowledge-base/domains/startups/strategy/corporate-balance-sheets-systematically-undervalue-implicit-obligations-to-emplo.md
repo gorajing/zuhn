@@ -56,10 +56,10 @@ stance: >-
   liabilities that make them appear more valuable than they are to acquirers
 related:
   - INS-260327-1555
+  - INS-260501-B854
   - INS-260403-7C71
   - PRI-260407-93D7
   - PRI-260406-861A
-  - INS-260409-FCE1
 evidence:
   - id: INS-260323-C8AC
     type: TRANSFERS_TO

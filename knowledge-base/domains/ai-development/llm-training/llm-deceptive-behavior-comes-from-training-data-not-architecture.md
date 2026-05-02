@@ -41,11 +41,11 @@ resolutions:
     for AI safety: the risks are in data curation and deployment, not in some
     emergent will.
 related:
+  - INS-260501-C4AA
   - INS-260403-141E
   - PRI-260407-7FB7
   - PRI-260403-EA13
   - PRI-260403-67FC
-  - PRI-260328-0AB1
 stance: >-
   Scary stories about LLMs trying to deceive or resist shutdown are reflections
   of training data patterns, not emergent architectural properties

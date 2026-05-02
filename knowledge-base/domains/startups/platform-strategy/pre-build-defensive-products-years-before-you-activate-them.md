@@ -64,7 +64,6 @@ stance: >-
   threat materializes is too late.
 related:
   - INS-260327-FC6F
-  - INS-260328-7942
   - INS-260402-E85D
   - INS-260403-F932
   - INS-260410-81E8
@@ -73,6 +72,7 @@ related:
   - INS-260403-8011
   - INS-260410-CE39
   - INS-260412-CDDD
+  - INS-260412-6E87
 ---
 Google knew by 2001 they had a Microsoft-dependency problem: 90% of searches ran through Internet Explorer on Windows. Eric Schmidt explicitly refused to build a browser in 2001 ('I don't want to moon the giant'), but Google didn't just wait. They became Mozilla's primary funder, then hired Firefox's best engineers directly into Google under a newly-formed 'client products' group led by a McKinsey import named Sundar Pichai. This team sat inside Google for years as what the transcript calls a 'latent sleeper cell.' When Microsoft finally moved to buy Yahoo in 2008 and launch Bing, Chrome shipped within months — because the team, the V8 engine, the process-per-tab architecture, and the WebKit relationship were all already in place.
 

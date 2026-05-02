@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2505 insights across 24 topics
+> 2511 insights across 24 topics
 
 ## Topics
 
@@ -22,7 +22,7 @@
 | human-computer-interaction | 1 | Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match. |
 | learning | 246 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 55 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
-| mental-models | 108 | Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed. |
+| mental-models | 114 | Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed. |
 | negotiation | 19 | Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts. |
 | perception | 309 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
 | persuasion | 70 | Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative. |

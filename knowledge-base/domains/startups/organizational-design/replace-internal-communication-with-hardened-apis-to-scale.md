@@ -54,10 +54,10 @@ stance: >-
   contracts outperforms investing in better coordination processes.
 related:
   - INS-260330-D031
+  - INS-260501-2243
   - INS-260405-8080
   - INS-260403-DB38
   - INS-260409-96B0
-  - INS-260330-687B
 ---
 When Amazon hit a complexity wall around 2002, the obvious response most companies choose is more coordination: program managers, better processes, tighter communication loops. Microsoft invented the PM role for exactly this reason. Bezos and Jassy made the opposite bet — remove communication entirely. Teams had to expose all data and functionality through hardened service interfaces, and no direct reads, shared memory, or backdoors were allowed. The penalty for non-compliance was termination.
 

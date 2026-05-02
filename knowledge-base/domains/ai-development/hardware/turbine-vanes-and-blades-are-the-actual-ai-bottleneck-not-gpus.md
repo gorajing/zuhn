@@ -56,11 +56,11 @@ stance: >-
   casting companies that make turbine vanes and blades, which are sold out
   through 2030.
 related:
+  - INS-260501-CF7D
+  - INS-260501-814C
   - INS-260404-8076
   - PRI-260406-9599
   - INS-260410-52C8
-  - INS-260410-D316
-  - INS-260405-B6CB
   - INS-260410-6A86
 ---
 Most AI commentary treats GPUs as the scarce resource. Musk argues the actual binding constraint is several layers deeper. You need power plants to run data centers, and power plants need gas turbines, and gas turbines need cast vanes and blades — and only three companies worldwide make them, with backlogs extending to 2030. Every other component can be sourced 12-18 months ahead of the vanes and blades.

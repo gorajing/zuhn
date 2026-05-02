@@ -51,7 +51,6 @@ stance: >-
   Starlink, chip fabs, space data centers) that each unlock $100-300B of net
   present value.
 related:
-  - INS-260321-1749
   - INS-260411-1676
   - INS-260403-87AC
   - INS-260412-8BE0
@@ -59,6 +58,7 @@ related:
   - INS-260410-7875
   - INS-260328-58B1
   - INS-260405-FE74
+  - INS-260501-2BF8
 evidence:
   - id: INS-260327-85E2
     type: EXTENDS

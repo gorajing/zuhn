@@ -46,10 +46,10 @@ resolutions:
     is currently easier than it's ever been.
 related:
   - INS-260330-D583
+  - INS-260501-3D0C
   - INS-260330-7FFE
   - PRI-260403-C337
   - PRI-260406-8F89
-  - PRI-260406-CA09
   - INS-260403-4FA4
   - INS-260403-F8FB
 stance: >-

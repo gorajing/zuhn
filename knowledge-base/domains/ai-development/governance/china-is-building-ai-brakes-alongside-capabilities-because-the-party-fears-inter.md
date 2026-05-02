@@ -71,6 +71,7 @@ related:
   - INS-260410-D0F5
   - INS-260323-748A
   - INS-260330-DE65
+  - INS-260501-6ECF
 ---
 Victor Shih's reading of Ding Xuexiang's Davos speech — 'we need to invest in AI, but we can't go all out without knowing what the brakes are' — reveals the defining asymmetry between Chinese and American AI strategy. In the US, the private sector races toward AGI with minimal state oversight. In China, AGI sits under the Central Commission on Cybersecurity (headed nominally by Xi, day-to-day by Ding Xuexiang), and every major internet company, including DeepSeek, has an embedded team capable of halting the system if it generates content threatening to Party legitimacy (e.g., Falun Gong material proliferating beyond censor capacity).
 

@@ -54,9 +54,9 @@ related:
   - INS-260403-84E1
   - INS-260404-1579
   - INS-260410-3264
+  - INS-260501-10B4
   - INS-260330-09E3
   - INS-260404-0153
-  - INS-260330-2CE3
 ---
 Gauri Nagavkar (MemMachine) led her entire talk with sovereignty: transparency (open source, readable code), sovereignty (deploy anywhere — laptop, VPC, on-prem, Kubernetes), controllability (every memory object manageable with retention and access policies). This matters specifically for 'enterprises, healthcare, finance, government, and any regulated workload.'
 

@@ -53,7 +53,6 @@ stance: >-
   decisions like payment rail standardization, not consumer-facing product
   launches.
 related:
-  - INS-260402-3196
   - INS-260323-3D7D
   - INS-260403-05B8
   - INS-260404-9E4E

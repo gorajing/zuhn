@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260327-368D
   - INS-260329-919F
+  - INS-260501-E377
   - INS-260404-292E
   - INS-260328-5431
   - PRI-260411-0C54
-  - INS-260403-FF74
 ---
 The intuitive framing of agent safety is a dial: more autonomy means less safety, more safety means more friction. Anthropic's sandboxing work demonstrates this framing is wrong when you change the architecture. By shifting from 'ask permission for each action' to 'define the playing field once, then let the agent run freely inside it,' they got an 84% reduction in prompts AND a stronger security posture (prompt injection can't exfiltrate secrets or escape the directory).
 

@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 42 insights
+> 43 insights
 
 - `INS-260403-3852` [high] Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
@@ -24,6 +24,7 @@
 - `INS-260409-175D` [high] Pick markets for willingness-to-pay density, not total addressable users.
 - `INS-260409-25FF` [high] In the AI era, only two roles matter — builder and seller — because commodity infrastructure handles everything else.
 - `INS-260404-63F0` [high] 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
+- `INS-260501-723C` [high] Amjad Masad: we're not seeing people rip out Salesforce or Workday — they're building MCPs into Salesforce. But vertical SaaS is in trouble — survey software gets replaced wholesale.
 - `INS-260322-837A` [high] Companies with proprietary data that previously sold raw access can now deliver finished AI-powered products, multiplying revenue by 5-100x.
 - `INS-260403-EBC3` [medium] Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities.
 - `INS-260405-615E` [medium] Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.

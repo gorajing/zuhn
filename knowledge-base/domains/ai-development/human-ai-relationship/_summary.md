@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 82 insights
+> 85 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -25,6 +25,7 @@
 - `INS-260328-5431` [high] AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
 - `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
 - `INS-260411-E6BD` [high] AI can computationally monitor and regulate itself (functional self-awareness) but lacks subjective experience (phenomenal self-awareness), setting a hard epistemic boundary.
+- `INS-260501-A5F5` [high] Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
 - `INS-260403-7CD3` [high] AI provides speed and pattern recognition, but human instinct for customer psychology, timing, and emotional resonance remains the irreplaceable competitive edge.
 - `INS-260405-DFFB` [high] AI commoditizes information synthesis, elevating human curatorial judgment to the primary value layer in media.
 - `INS-260410-E042` [high] On Anthropic's accelerator take-home, humans beat Claude only with unlimited time; inside a 2-hour window, Opus 4.5 matched the best humans.
@@ -53,6 +54,7 @@
 - `INS-260403-AB55` [high] The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260322-83D4` [high] The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260322-DAA1` [high] Using AI to do learning-stage work (writing, reasoning) destroys the cognitive development the work was designed to build, creating a generation that cannot think independently.
+- `INS-260501-D9D1` [high] Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why.
 - `INS-260329-0CDD` [medium] AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260410-CC1F` [medium] Zuckerberg grounds the AI-companion product thesis in a concrete social statistic: Americans average fewer than three close friends but want around fifteen — the gap is the market, and AI fills it when physical connection is unavailable.
 - `INS-260409-B12B` [medium] AI frees business owners from drudgery while simultaneously conscripting the laid-off working class into dehumanizing annotation labor — the 'more human' story is class-specific.
@@ -62,6 +64,7 @@
 - `INS-260326-E5D3` [medium] AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
 - `INS-260403-CE95` [medium] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
 - `INS-260403-AEF7` [medium] AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
+- `INS-260501-5DF6` [medium] Constantine Buhler: in the mid 1800s aluminum was the most precious metal — within decades of electrolysis, aluminum was used to wrap our candies and our sandwiches. Aluminum is intelligence. Electrolysis is AI.
 - `INS-260325-0E70` [medium] Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260404-E077` [medium] Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
 - `INS-260323-9385` [medium] If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.

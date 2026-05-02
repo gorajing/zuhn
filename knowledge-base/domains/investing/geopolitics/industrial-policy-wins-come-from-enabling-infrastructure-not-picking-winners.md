@@ -60,7 +60,6 @@ stance: >-
   by sector-specific industrial policy success.
 related:
   - INS-260328-6C9A
-  - INS-260410-7C07
   - INS-260412-4499
   - PRI-260406-C4FD
   - INS-260403-690C

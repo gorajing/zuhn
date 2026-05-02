@@ -49,12 +49,13 @@ resolutions:
     deployment' to 'artistic collaboration' makes the difference between
     superficial usage and genuine creative expansion.
 related:
-  - INS-260321-3312
   - INS-260321-6D01
   - INS-260403-CE95
   - INS-260323-7263
   - INS-260403-0218
+  - INS-260321-3312
   - INS-260327-B403
+  - INS-260501-9E23
 stance: 'Approaching AI as a new artist to discover, befriend, and develop'
 evidence:
   - id: INS-260321-3312

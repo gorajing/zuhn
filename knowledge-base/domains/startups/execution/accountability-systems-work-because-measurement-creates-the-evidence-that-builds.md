@@ -48,7 +48,6 @@ stance: >-
   so systems that force measurement automatically build the confidence that
   enables higher performance.
 related:
-  - INS-260322-4757
   - INS-260321-9A03
   - INS-260327-CD49
   - INS-260327-BEEE
@@ -58,6 +57,7 @@ related:
   - INS-260403-F1C6
   - INS-260402-8223
   - INS-260329-882A
+  - INS-260329-FC53
 evidence:
   - id: INS-260322-4757
     type: SUPPORTS

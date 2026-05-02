@@ -52,6 +52,7 @@ related:
   - INS-260403-3A44
   - INS-260322-B641
   - PRI-260328-7E58
+  - INS-260501-DAD0
   - INS-260403-AEAF
 ---
 Asked about defensibility when AI apps can be copycatted easily, Horowitz gives three durable answers: (1) genuinely hard technical problems still exist — e.g., a model for a humanoid robot is a hard technical problem despite everything; (2) possession of the customer is still very very valuable — 'how much model differentiation does OpenAI have at this point? Maybe they have negative differentiation in some areas — but they've got the most consumers and that still matters and that kind of can get them to the next square'; and (3) brand. His general principle: 'as long as customers are humans, that's still quite a big thing.' This is an important claim because it contradicts the 'AI apps have no moat' narrative — distribution/brand/installed base are moats even when the underlying model is commoditized.

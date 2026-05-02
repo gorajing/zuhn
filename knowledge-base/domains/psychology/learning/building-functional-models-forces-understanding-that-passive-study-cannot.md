@@ -50,10 +50,10 @@ stance: >-
   understanding than any amount of reading or explanation alone
 related:
   - PRI-260406-122A
+  - INS-260501-FDF0
   - INS-260329-B2F4
   - INS-260329-023F
   - INS-260410-D49F
-  - INS-260330-63B8
 evidence:
   - id: INS-260329-B2F4
     type: TRANSFERS_TO

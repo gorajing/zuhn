@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 199 insights
+> 200 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -146,6 +146,7 @@
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
 - `INS-260403-8A80` [medium] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-F745` [medium] The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
+- `INS-260501-3D33` [medium] Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes.
 - `INS-260403-4E23` [medium] A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.
 - `INS-260329-545B` [medium] Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-A1A4` [medium] Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.

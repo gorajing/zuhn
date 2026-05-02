@@ -54,6 +54,7 @@ related:
   - INS-260411-1676
   - INS-260327-3B91
   - INS-260327-969D
+  - INS-260501-723C
 ---
 Unlike horizontal SaaS that can scale quickly across industries, vertical software businesses must go deep into a specific sector — building integrations, winning regulatory trust, and displacing entrenched workflows. This depth takes time. Point Nine's Louis Coppey argues that while vertical software can become very valuable, the inflection in value often doesn't arrive until well past year 10.
 

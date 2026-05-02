@@ -65,10 +65,10 @@ stance: >-
 related:
   - INS-260320-5818
   - PRI-260406-8B75
+  - INS-260501-D18A
   - INS-260403-1F1B
   - INS-260404-CE26
   - INS-260423-6172
-  - INS-260409-2B5F
 ---
 The Von Neumann bottleneck — the single bus between CPU and memory — has been AI's central constraint historically. Three of every four CPU clock cycles in a simple add operation are spent loading and storing data, and this gets worse over time as CPUs outpace memory. Nvidia's architecture broke this by making compute massively parallel, but that shifted the constraint to memory bandwidth: modern LLM training requires hundreds of gigabytes of model weights to be in memory simultaneously, and chips can't grow larger because EUV lithography already uses the full reticle size.
 

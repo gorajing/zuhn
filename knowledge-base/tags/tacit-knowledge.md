@@ -1,5 +1,6 @@
 # Tag: tacit-knowledge
 
+- `INS-260501-17BB` Amjad Masad: when a model comes out, our AI engineers sit down with it for a day or two — they're like model psychologists, they play around with it, plug it in, figure out the limits.
 - `INS-260402-5ACE` Context graphs store not just facts but the precedent and reasoning behind decisions, answering 'why' questions that vector similarity search alone cannot.
 - `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260410-9AF4` AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.

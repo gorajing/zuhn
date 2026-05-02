@@ -45,7 +45,6 @@ stance: >-
   destroy runway faster than revenue can compensate
 related:
   - INS-260327-76DA
-  - INS-260327-4B5A
   - INS-260403-0551
   - INS-260404-771B
   - INS-260403-6177

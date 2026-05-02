@@ -51,11 +51,11 @@ stance: >-
   previously unaffordable, creating abundance where scarcity existed.
 related:
   - INS-260323-48AF
+  - INS-260501-FA6B
   - INS-260327-B12E
   - INS-260329-B194
   - INS-260327-3A71
   - INS-260405-A992
-  - INS-260327-0246
   - INS-260403-4501
 evidence:
   - id: INS-260327-B12E

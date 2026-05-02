@@ -55,7 +55,6 @@ stance: >-
   optimization, and product velocity that competitors cannot replicate without
   acquisitions or partnerships
 related:
-  - INS-260322-8BD1
   - INS-260323-C90C
   - INS-260327-7D53
   - INS-260329-5F19

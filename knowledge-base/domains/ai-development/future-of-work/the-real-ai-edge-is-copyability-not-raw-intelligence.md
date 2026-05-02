@@ -61,8 +61,8 @@ related:
   - INS-260403-267B
   - INS-260327-0C4A
   - INS-260409-4719
-  - INS-260410-F5C5
   - INS-260410-204E
+  - INS-260410-7AF5
 ---
 Most AGI discussions frame the advantage as raw cognitive capability — a smarter personal assistant that works 24/7. Dwarkesh argues this misses the structural shift. Human firms are bottlenecked by hiring and training because biological brains can't copy-paste knowledge; teaching a single worker takes years or decades. Digital workers break this constraint entirely.
 

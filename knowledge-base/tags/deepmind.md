@@ -4,3 +4,4 @@
 - `INS-260412-837F` DeepMind required Google to establish an AI ethics board as a condition of its $500M acquisition, setting an early precedent for AI governance.
 - `INS-260409-5FF6` Hassabis sees a very good chance of AGI within 5 years, consistent with Shane Legg's 2010 extrapolation predicting ~20 years.
 - `INS-260404-07C3` Google DeepMind's AlphaGenome can analyze up to 1 million DNA base pairs simultaneously, focusing on the regulatory regions that control gene expression.
+- `INS-260501-F9F7` Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it.

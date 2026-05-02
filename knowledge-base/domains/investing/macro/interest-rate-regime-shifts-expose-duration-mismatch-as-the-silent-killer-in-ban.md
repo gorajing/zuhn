@@ -57,6 +57,7 @@ related:
   - INS-260403-6024
   - INS-260405-5C3F
   - PRI-260406-992F
+  - INS-260501-3BCF
   - INS-260412-D937
 ---
 Silicon Valley Bank invested $80 billion of depositor cash into long-term bonds and securities during the low-rate era of 2020-2021. The assets themselves were high-quality (US government-backed), but the maturity mismatch was catastrophic: when rates rose rapidly, bond prices fell, creating $15B in unrealized losses by end of 2022. Simultaneously, their depositor base (cash-burning startups) began withdrawing as cheap credit dried up. The forced sale of bonds at a $1.8B realized loss triggered a panic spiral.

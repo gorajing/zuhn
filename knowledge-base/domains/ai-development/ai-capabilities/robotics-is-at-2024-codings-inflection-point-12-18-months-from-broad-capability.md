@@ -59,7 +59,8 @@ related:
   - INS-260328-0B99
   - INS-260330-1F25
   - INS-260330-9346
+  - INS-260501-CF7D
   - INS-260327-1D37
-  - INS-260323-758B
+  - INS-260501-3585
 ---
 The coding-AI transition from research-grade to broadly deployed happened roughly 2023-2024 when models crossed enough capability that the rough edges of the previous generation were patched by raw intelligence. Robotics in early 2026 is at a similar inflection. Boston Dynamics, Figure, 1X, and Tesla all show progress on the underlying intelligence layer, and Gemini's robotics partnerships are powering edge-case coverage that previously required handcrafted engineering. Logan estimates 12-18 months to broad capability breakthrough, plus or minus six. The implications: robotics-adjacent investments and career bets should treat 2027-2028 as the deployment-readiness window, not 2030+. Companies that need physical labor automation should be running pilots with current robotics platforms now to identify integration challenges, even though the hardware-software combination is not yet at production reliability — the 12-18 month timeline means production reliability arrives during the integration learning curve. Companies that wait until robotics is fully ready will lose 18-24 months of integration learning to faster movers.

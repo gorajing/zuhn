@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 160 insights
+> 170 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -12,6 +12,7 @@
 - `INS-260326-AE6C` [very_high] A quantizer that minimizes reconstruction error (MSE) does NOT give accurate similarity search -- at 1 bit, MSE-optimal quantization inflates inner products by a factor of 2/pi.
 - `INS-260326-E1A8` [very_high] TurboQuant's core trick: rotate vectors randomly, coordinates become Beta-distributed and nearly independent, then optimal scalar quantizers handle each dimension separately.
 - `INS-260325-9C89` [very_high] AlphaProof's TTRL adds 15 percentage points to solve rates beyond tree search scaling, enabling solutions to problems that exhaustive search at any budget cannot crack.
+- `INS-260501-FD20` [high] Greg Brockman: over the course of December, agentic coding tools went from writing 20% of your code to writing 80% — they went from sideshow to main thing.
 - `INS-260326-7F79` [high] On the HumanEval coding benchmark, GPT-3.5 with agentic workflows scored approximately 95% versus GPT-4 zero-shot at 67%, demonstrating that workflow design can matter more than model scale.
 - `INS-260328-C246` [high] Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
 - `INS-260329-5ECD` [high] Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
@@ -36,11 +37,14 @@
 - `INS-260408-B5EC` [high] AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - `INS-260423-55B2` [high] Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words.
 - `INS-260321-8433` [high] Karpathy's auto-research loop found hyperparameter improvements overnight that his two decades of ML experience missed — the agent found weight decay and Adam beta issues that interact jointly.
+- `INS-260501-47F5` [high] Hype cycles reshape the early curve, not the long tail. Survivors are the ones who knew it was a long tail from the start.
 - `INS-260410-F64D` [high] Evolution has spent a billion years making chickens the cheapest possible protein converters, creating a cost floor that even AGI-enabled alternatives may not beat.
 - `INS-260325-D392` [high] PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
 - `INS-260410-BD9D` [high] AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
+- `INS-260501-801C` [high] Sonia Huang: Nathan from Zed accomplished a three-year moonshot project over the holidays by himself with cloud code. Brett Taylor rebuilt Sierra over a weekend. Notion rewrote 8 million lines of code in six weeks. Whatever you can imagine building over the next 100 years, we think is now possible in 100 days.
 - `INS-260403-976C` [high] Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260327-3F40` [high] The fierce debate around Assembly Theory's Nature paper produced more scientific scrutiny and engagement than a hundred uncontroversial papers would have.
+- `INS-260501-E843` [high] Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale.
 - `INS-260325-3F9B` [high] Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260325-05EC` [high] Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
 - `INS-260412-2327` [high] Free apps like FakeApp achieved results comparable to Hollywood's 18-month, six-figure VFX pipelines in 30 minutes on consumer hardware.
@@ -60,6 +64,7 @@
 - `INS-260323-8AEC` [high] Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
 - `INS-260410-9425` [high] Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260412-DDD2` [high] Go has more possible board positions than atoms in the universe, making brute-force impossible and forcing AlphaGo to develop intuition-like pattern recognition.
+- `INS-260501-A550` [high] If you're in the RL circuits, you fly; if you're not, you struggle — and the labs decide which circuits exist.
 - `INS-260403-107E` [high] Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260321-52EF` [high] Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-539C` [high] Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
@@ -74,6 +79,7 @@
 - `INS-260330-5F36` [high] Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
 - `INS-260403-141E` [high] Next-token prediction shapes AI systems the way evolution shapes humans — it's the training process, not the resulting cognition.
 - `INS-260403-58DA` [high] Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
+- `INS-260501-0662` [high] Greg Brockman: a systems engineer prepared a design document, handed it to the model, went to sleep — woke up to find the model had implemented the spec, seen it was slow, added instrumentation, run a profiler, and iterated multiple times until it got an optimized result.
 - `INS-260323-7A50` [high] Just as ChatGPT needed a language model, robots need a world foundation model that understands gravity, friction, inertia, and cause-and-effect — trained in physics-grounded simulations.
 - `INS-260323-B47B` [high] NIST's post-quantum encryption standards use lattice-based problems in ~1000 dimensions where finding the closest vector is computationally infeasible for both classical and quantum machines.
 - `INS-260321-D959` [high] The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
@@ -107,6 +113,7 @@
 - `INS-260403-C709` [medium] Claude Opus 4.6's adaptive effort — dynamically adjusting reasoning depth by task difficulty — represents a fundamental shift from uniform computation to intelligent resource allocation.
 - `INS-260327-EDF0` [medium] Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260323-3045` [medium] The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
+- `INS-260501-9C3F` [medium] Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency.
 - `INS-260403-F943` [medium] The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260410-8C08` [medium] More George Churches in data centers would not multiply bio progress because intelligence-in-silicon has no stake in biology and the true bottleneck is wet-lab experimentation, not idea generation.
 - `INS-260405-6A6F` [medium] AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
@@ -123,7 +130,9 @@
 - `INS-260327-9DB0` [medium] Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-1563` [medium] Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260322-B33E` [medium] AI reasoning capabilities plus robot learning are converging to create autonomous labs that accelerate scientific discovery across life sciences, chemistry, and materials.
+- `INS-260501-7A59` [medium] Claude Design wireframing = 9/10. Pitch decks = 8/10. Hi-fi = 8/10. Video = 5/10. The weakest modality sets the ceiling for video-heavy workflows.
 - `INS-260330-B5D2` [medium] Human science depends on compressing nature into simple formulas, but many real patterns may be inherently too complex for human cognition yet perfectly tractable for AI.
+- `INS-260501-2388` [medium] Amjad Masad: cost question is secondary to performance — when you focus on cost is when you reach a certain asymptotic plateau in the S-curve.
 - `INS-260330-6BBD` [medium] Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260410-E660` [medium] The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260330-44EF` [medium] If invention is mostly high-dimensional recombination with taste rather than pure creation, then LLMs trained on all human knowledge are architecturally well-suited for it.
@@ -133,6 +142,7 @@
 - `INS-260409-F90C` [medium] Hassabis predicts Isomorphic's drug design engine ready in 5-10 years, then regulatory reform of trials is the second act.
 - `INS-260404-DDC8` [medium] Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer neural network that handles balance, sensor fusion, and reasoning in a single system.
 - `INS-260413-61CE` [medium] Sakana's AI Scientist-v2 produced a paper accepted at an ICLR workshop without human-coded templates, and Google's AI Co-Scientist was validated in three biomedical areas — the first autonomous AI research crossing peer review.
+- `INS-260501-9465` [medium] Pat Grady: from a commercial standpoint, if you can dispatch an agent to do a job and it can recover from failure and persist until that job is done — I don't know, that feels pretty much like AGI.
 - `INS-260323-B029` [medium] When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
 - `INS-260410-4782` [medium] Pure video prediction is cursed by having to model too much — clouds, molecules, pedestrians, everything — while an embodied agent with a goal has a ruthless focusing mechanism that tells it what to pay attention to, making the same raw data far more learnable.
 - `INS-260409-5975` [medium] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.

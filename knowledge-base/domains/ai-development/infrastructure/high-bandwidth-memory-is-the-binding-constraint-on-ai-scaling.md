@@ -52,9 +52,9 @@ related:
   - INS-260329-8CC0
   - INS-260329-06F2
   - INS-260327-0C4A
+  - INS-260501-2243
   - INS-260321-4B99
   - PRI-260406-F21A
-  - INS-260323-FEDF
 ---
 As AI models scale to trillions of parameters, GPUs require high-bandwidth memory stacked vertically and placed in close physical proximity to process the data fast enough. Over 70% of Micron's revenue is DRAM, and their HBM segment is growing faster than standard DRAM. The supply constraint is structural: HBM manufacturing is more difficult, yields are lower, and only SK Hynix, Samsung, and Micron can produce it at scale.
 

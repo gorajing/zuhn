@@ -47,7 +47,6 @@ stance: >-
   the convergent architecture for production AI memory systems
 related:
   - INS-260405-6C88
-  - INS-260409-C133
   - INS-260421-E9FC
   - INS-260421-43EC
   - INS-260330-9D44

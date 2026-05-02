@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260403-9FB1
   - INS-260330-14CA
+  - INS-260501-A3ED
   - INS-260325-A52D
   - INS-260325-95EB
   - PRI-260328-3BEF
-  - INS-260325-EF66
 ---
 When Google faced the China censorship decision in 2010, Schmidt's operator instinct was to preserve market access — a rational optimization for business continuity. But Page and Brin saw it as an identity question: what does Google stand for? Their willingness to exit China despite enormous financial cost reveals a structural difference between founder and operator decision-making.
 

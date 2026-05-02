@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260325-EC85
   - PRI-260328-BEAB
+  - INS-260501-2B5B
   - INS-260327-B45A
   - INS-260327-2627
-  - INS-260327-F544
 ---
 Dalton notes that the friction to radical change often comes from organizational size: 'what about the director level, what about this department' — every function claims a voice, and the result is that no uncomfortable move clears consensus. The framing given to founders: the ship is going down anyway, so asking people to leave isn't betrayal, it's a precondition for the kind of nimble decision-making that might save what remains. Smaller ships are easier to steer. This sequences the escape: layoffs first, then radical product work, not the reverse.

@@ -15,5 +15,5 @@
 - `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.
 - `INS-260403-781D` Tokenized debt is already 3x tokenized equity because credit's predictable cash flows map naturally to smart contract enforcement.
 - `INS-260409-7C61` Fink's 2025 shareholder letter — private capital must fill a $68T infrastructure gap because governments have hit fiscal ceilings — is identical to Napier's financial repression thesis, dressed as 'democratization of investment' rather than coerced savings reallocation.
-- `INS-260403-B8A3` As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.
 - `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
+- `INS-260403-B8A3` As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.

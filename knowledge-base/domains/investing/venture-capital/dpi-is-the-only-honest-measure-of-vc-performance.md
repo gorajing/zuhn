@@ -59,6 +59,7 @@ related:
   - PRI-260406-CC5E
   - INS-260330-D63C
   - INS-260404-DFE5
+  - INS-260501-07C8
 ---
 TVPI includes unrealized paper gains that may never convert to cash, making it unreliable during market downturns. IRR can be artificially inflated through financial engineering that shortens the period between capital calls and markups. DPI—distributions to paid-in capital—measures only actual cash (or distributed securities) returned to investors versus what they contributed, making it the most honest performance signal.
 

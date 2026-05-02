@@ -58,9 +58,9 @@ stance: >-
 related:
   - PRI-260406-B9A3
   - INS-260405-36E6
+  - INS-260501-3BCF
   - INS-260403-C7AB
   - INS-260403-71E6
-  - INS-260403-3BBB
 ---
 Investors and founders commonly evaluate returns against the initial investment amount, but most venture positions involve follow-on capital. A $500K seed check that becomes $2M total deployed across seed, Series A, and Series B pro-rata has a very different return profile than it appears when evaluated against just the initial check.
 

@@ -62,7 +62,7 @@ related:
   - INS-260323-2DF2
   - INS-260405-DAC9
   - INS-260325-14DC
-  - INS-260404-ECDF
+  - INS-260501-814C
 ---
 Huang: 'That's the only unnegotiable rule in our company. Everything else is negotiable.' CUDA traces back to UDA (Unified Device Architecture), which predated CUDA by over a decade. Every chip NVIDIA has ever shipped fits into this architectural line. No other accelerator vendor has achieved this; each new generation breaks compatibility and resets the developer base.
 

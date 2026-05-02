@@ -46,7 +46,6 @@ resolutions:
     amount of verbal encouragement or feature requests changes the underlying
     lack of need. The real metric is retention, not reaction.
 related:
-  - INS-260321-7C97
   - INS-260325-36EA
   - PRI-260323-8EEA
   - PRI-260407-2E0F
@@ -56,6 +55,7 @@ related:
   - INS-260327-8B1A
   - INS-260327-52CF
   - INS-260329-A7E2
+  - INS-260329-C996
 stance: >-
   Friends and acquaintances will give positive feedback and feature requests not
   because they want your product, but because they want to be nice to ...

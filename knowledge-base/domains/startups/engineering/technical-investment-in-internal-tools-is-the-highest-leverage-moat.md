@@ -66,7 +66,7 @@ related:
   - INS-260409-3AEE
   - PRI-260406-9FA8
   - INS-260403-4819
-  - PRI-260406-806C
+  - INS-260501-801C
 ---
 Facebook made a series of contrarian engineering choices that compounded into durable process power. Against the microservices tide of the 2010s, they kept one monolithic codebase so engineers could be reassigned across teams in days rather than months — critical when they needed to spin up a company-wide response to Google+ or to ship Reels in response to TikTok. They wrote HipHop, a PHP-to-C++ compiler, so they could scale without forcing engineers to learn systems languages. When PHP became untenable for a company with sensitive data, they invented Hack — a PHP-compatible statically-typed language — rather than migrate engineers to Java. Every new engineer ships a feature on their first day because the tooling makes it safe: feature flags, real-time metrics, automatic rollback on performance regression.
 

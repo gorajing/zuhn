@@ -44,7 +44,6 @@ stance: >-
   not insufficient capability, which means it can be solved through learning
   rather than waiting for circumstances to change
 related:
-  - INS-260323-28FB
   - INS-260329-C089
   - PRI-260403-88F5
   - PRI-260406-6FA3

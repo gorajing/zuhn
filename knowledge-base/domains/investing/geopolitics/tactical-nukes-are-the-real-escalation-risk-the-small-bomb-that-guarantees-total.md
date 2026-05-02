@@ -50,10 +50,11 @@ resolutions:
 related:
   - INS-260410-3A01
   - INS-260330-F488
+  - INS-260501-504A
   - INS-260403-7E6A
   - INS-260323-CB47
-  - INS-260412-531A
   - INS-260323-AEA5
+  - INS-260412-531A
 stance: >-
   Tactical nuclear weapons — designed for battlefield use — are the most
   dangerous category because their use almost certainly triggers full

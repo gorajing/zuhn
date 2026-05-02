@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 333 insights
+> 335 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -28,6 +28,7 @@
 - `INS-260329-F07A` [high] When you have nothing to lose, the rational move is maximum risk-taking because any upside is pure gain.
 - `INS-260403-E6A7` [high] Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260321-C513` [high] Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
+- `INS-260501-F9F7` [high] Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it.
 - `INS-260322-7276` [high] Founders assume if the winner makes $500M and they make $50M, they're worth one-tenth — but the actual pattern is the seventh player trends toward zero revenue, not a stable fraction.
 - `INS-260328-23B4` [high] Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260327-DAA4` [high] Most people dramatically under-invest in risk—the US ecosystem uniquely rewards those who take bold career bets.
@@ -278,6 +279,7 @@
 - `INS-260327-6CB7` [medium] Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
 - `INS-260404-1986` [medium] Some founders have such extreme willpower that standard evaluation frameworks break down for them.
 - `INS-260403-36C1` [medium] Forgetting disputes signals that you've successfully kept them from occupying your top mental slot — a practical form of cognitive hygiene.
+- `INS-260501-5320` [medium] Don't play not to lose. Play to win. Chase-winning is the founder mentality — fear-losing is the manager mentality.
 - `INS-260404-89DA` [medium] Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
 - `INS-260405-F20D` [medium] Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.

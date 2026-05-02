@@ -50,10 +50,10 @@ stance: >-
   interest savings.
 related:
   - INS-260329-C345
+  - INS-260501-0A62
   - PRI-260406-967A
   - PRI-260406-CA93
   - INS-260403-3280
-  - INS-260405-3403
 evidence:
   - id: INS-260327-0519
     type: CHALLENGES

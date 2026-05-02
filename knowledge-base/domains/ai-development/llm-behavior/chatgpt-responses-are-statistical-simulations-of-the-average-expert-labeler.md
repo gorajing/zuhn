@@ -62,11 +62,11 @@ stance: >-
   are sampling what a professional data labeler following the company's labeling
   instructions would have written.
 related:
+  - INS-260501-FDF0
   - INS-260323-584D
   - INS-260410-966F
   - INS-260404-312D
   - INS-260409-1FD3
-  - INS-260410-9AF4
 ---
 The assistant persona is programmed by example: companies like OpenAI hire labelers (often via Upwork or Scale AI) who write the 'ideal assistant response' for thousands of prompts, guided by hundred-page instruction documents telling them to be helpful, truthful, and harmless. The model trains on these conversations and statistically internalizes the distribution of responses. Modern pipelines bootstrap this with LLM-generated drafts that humans edit, but the causal chain still terminates in human labelers following instructions.
 

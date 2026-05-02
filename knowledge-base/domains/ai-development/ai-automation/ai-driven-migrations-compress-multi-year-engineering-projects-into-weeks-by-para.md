@@ -54,7 +54,7 @@ related:
   - INS-260321-0CCD
   - INS-260409-3AEE
   - INS-260325-ADF5
-  - INS-260410-52C8
+  - INS-260501-801C
 ---
 Nubank's migration of a 6-million-line ETL monolith — estimated at 18 months and 1,000 engineers — was completed in weeks using Devin. This compression ratio (roughly 50-100x in engineer-time) suggests migrations are uniquely suited to AI automation because they involve applying consistent transformation patterns across large codebases with clear before/after specifications.
 

@@ -58,6 +58,7 @@ related:
   - PRI-260406-0A0B
   - PRI-260406-ADF0
   - INS-260403-E611
+  - INS-260501-2B5B
 ---
 Hinge Health's IPO trajectory — from a $6.2B private peak to a potential $2.9B public listing — exemplifies the broader repricing happening across venture-backed companies. The era of ever-increasing private valuations disconnected from fundamentals is being corrected by public market discipline. Companies that accept this reality and go public at realistic valuations gain access to liquidity, currency for acquisitions, and credibility that perpetually-private zombiecorns cannot.
 

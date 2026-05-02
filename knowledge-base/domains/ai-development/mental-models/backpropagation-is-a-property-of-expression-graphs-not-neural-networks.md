@@ -61,6 +61,7 @@ related:
   - INS-260330-6BBD
   - INS-260410-5F60
   - INS-260330-189F
+  - INS-260501-DF06
 ---
 Most ML courses couple backprop and neural networks so tightly that students believe the algorithm is specific to layers, weights, and activations. Karpathy deliberately separates them: micrograd's engine.py (100 lines) knows nothing about neurons — it operates on a generic Value object that builds an expression graph from scalar operations. The nn.py library (50 more lines) sits on top and defines neurons, layers, and MLPs as convenience wrappers.
 

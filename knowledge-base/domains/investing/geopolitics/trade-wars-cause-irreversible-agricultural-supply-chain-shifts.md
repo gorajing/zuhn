@@ -46,11 +46,11 @@ stance: >-
   diversify their food supply chains away from unreliable partners, even at
   higher cost.
 related:
+  - INS-260501-3E4F
   - INS-260327-F6BA
   - INS-260322-D051
   - INS-260403-8450
   - INS-260403-44A6
-  - INS-260327-D0F4
 evidence:
   - id: INS-260327-F6BA
     type: TRANSFERS_TO

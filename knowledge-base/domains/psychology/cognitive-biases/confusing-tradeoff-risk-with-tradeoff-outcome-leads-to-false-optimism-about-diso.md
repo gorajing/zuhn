@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-6B87
   - INS-260329-7B56
-  - INS-260403-C732
   - INS-260329-27DF
+  - INS-260403-C732
+  - INS-260501-3BCF
   - PRI-260328-4144
-  - INS-260403-FAFA
 ---
 Alexander warns that the tradeoff-failure framework can mislead if applied carelessly. When schizophrenia risk genes also boost creativity or educational attainment, people may conclude that schizophrenia itself is somehow advantageous. But the tradeoff exists at the genetic risk level, not at the disease level — to a first approximation, active schizophrenia is simply bad. The same applies to cancer: elevated cell-division capacity trades off against degenerative disease risk, but cancer itself has no silver lining. This level-confusion is a recurring reasoning error in medicine, psychology, and evolutionary just-so stories, where people infer that because a harmful trait persists, it must be secretly beneficial rather than just linked to something beneficial at a different level of analysis.

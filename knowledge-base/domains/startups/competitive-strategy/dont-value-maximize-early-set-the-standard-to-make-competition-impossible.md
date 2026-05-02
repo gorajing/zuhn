@@ -68,7 +68,7 @@ related:
   - INS-260410-DFE2
   - INS-260410-BD9D
   - INS-260410-F455
-  - INS-260410-0330
+  - INS-260501-70FE
 ---
 In 1977, after winning the MITS arbitration, Bill Gates immediately licensed Microsoft BASIC to Apple, Commodore, Radio Shack and others — but at remarkably modest prices. The Apple deal was $31,000 for eight years of unlimited access. Gates explicitly was not value-maximizing. His logic: 'we want to make it a no-brainer for everybody who's selling a microcomputer to have Microsoft's BASIC on it.' Once Microsoft BASIC was the standard programming environment, software written by users would only run on Microsoft's interpreter, competitors couldn't catch up, and the position would compound through network effects.
 

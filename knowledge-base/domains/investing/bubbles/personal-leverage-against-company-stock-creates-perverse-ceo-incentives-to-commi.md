@@ -57,8 +57,8 @@ related:
   - INS-260327-E4F1
   - INS-260327-7F73
   - INS-260330-6204
+  - INS-260501-F021
   - INS-260404-A53F
-  - INS-260403-3D38
 ---
 Bernie Ebbers took out $408 million in personal loans from JPMorgan, secured by WorldCom stock, to fund yachts, a yacht-building company, and the largest privately owned ranch in the world. When the telecom sector declined and WorldCom's stock fell from $62 to $18, Ebbers faced devastating margin calls. The WorldCom board even gave him a $408M company loan to prevent him from selling stock and spooking the market—effectively making the company complicit in propping up the CEO's personal finances.
 

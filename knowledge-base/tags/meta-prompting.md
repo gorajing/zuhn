@@ -1,3 +1,4 @@
 # Tag: meta-prompting
 
+- `INS-260501-247C` Ask your agent every day: 'what's one task I'm doing repeatedly that you should automate?' That's the loop until proactive observation works.
 - `INS-260320-D972` Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.

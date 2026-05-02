@@ -1,8 +1,9 @@
 # Topic: claude-code
 
-> 47 insights
+> 60 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
+- `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
 - `INS-260410-D034` [high] If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
 - `INS-260405-1951` [high] Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260320-93E1` [high] Planning is king — always use planning mode before implementation; never let the builder start without plans.
@@ -27,25 +28,37 @@
 - `INS-260321-A5D4` [high] Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
 - `INS-260320-0D43` [high] A PostToolUse hook tracks which files were edited, which repo they belong to, and timestamps — feeding downstream hooks like the build checker.
 - `INS-260410-DABE` [high] Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
+- `INS-260501-0D6D` [high] Every agent platform converged on the same UI: chat list left, conversation middle, artifact right. Terminal-first is dying for non-developer users.
 - `INS-260320-4ED6` [high] The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260320-F8FD` [high] Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
+- `INS-260501-AE73` [high] Adversarial review: score the doc, find issues, attempt auto-fix, re-score. 6→8/10 in two rounds without human intervention.
 - `INS-260320-2DDE` [high] Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260320-8F12` [high] Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
 - `INS-260320-949A` [high] A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
 - `INS-260320-4993` [high] Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
 - `INS-260320-6CCE` [high] Take time to review the plan thoroughly — you'd be surprised how often you catch silly mistakes before implementation.
+- `INS-260501-2130` [high] Talk into your phone for 20 minutes about everything you do. Transcribe. Ask AI which parts are automatable. Those are your skills.
 - `INS-260320-96C9` [high] If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - `INS-260321-E2FC` [high] Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
 - `INS-260320-B210` [high] Keep SKILL.md files under 500 lines and use progressive disclosure via resource files for 40-60% token efficiency improvement.
 - `INS-260321-E9B7` [high] If you're copying the same instructions into multiple projects, that's a signal to create a Skill instead — Skills work across ALL conversations while Projects only work within one.
+- `INS-260501-91A3` [high] Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.
+- `INS-260501-6453` [high] Skills name + description = always in context. Skill body = loaded on demand. You can have 50 skills available without 50x the context cost.
 - `INS-260320-F872` [high] Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.
 - `INS-260320-DC3C` [high] Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
 - `INS-260321-703F` [high] Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
 - `INS-260320-47DC` [high] If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
 - `INS-260320-69CD` [high] A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
 - `INS-260410-796F` [high] Use subagents for any task that reads many files — they run in their own context window and return only summaries.
+- `INS-260501-9503` [high] Don't write skills upfront. Walk the workflow with the agent step-by-step. Get one successful run. Then ask the agent to extract the skill from what just worked.
 - `INS-260320-04A2` [high] Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260320-0127` [high] Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
+- `INS-260501-F0E5` [medium] If your CLAUDE.md just says 'this is React, use TypeScript', delete it. The model figures that out from the code. Save the tokens.
+- `INS-260501-8E29` [medium] Anthropic split Claude Code from Co-work; Codex unified everything. The unified product is winning.
+- `INS-260501-22AD` [medium] Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence.
 - `INS-260410-B118` [medium] Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
+- `INS-260501-3F01` [medium] Marketing says: explore 5 design directions in parallel. Reality: you wait, watch, iterate one at a time.
 - `INS-260329-4D03` [medium] Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
+- `INS-260501-F90F` [medium] Skills, plugins, MCPs, integrations, connectors — Pemberton calls them all 'skills' because the differences are platform-vendor business distinctions, not user mental models.
+- `INS-260501-52B5` [medium] Pemberton oneshotted a Replit-style sandboxing app on his phone in one prompt. 95% of what you'd want to code is now PowerPoint-easy.

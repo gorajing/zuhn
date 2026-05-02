@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260322-6DFC
   - INS-260324-72E8
+  - INS-260501-801C
   - INS-260325-3C17
   - INS-260403-A0F7
-  - INS-260404-9004
 ---
 Amazon raised ~$2B in convertible debt during the go-go years and then spent the 2000-2007 nuclear winter building while competitors were laying people off and dying. Pets.com, Drugstore.com, Webvan—all dead. eBay survived but didn't advance. Amazon came out of the crash with six fulfillment centers (up from one warehouse), Prime, Marketplace, and the seeds of AWS. By the time capital became available again in 2007-2008, the moats were measured in miles, not feet.
 

@@ -52,12 +52,10 @@ stance: >-
   migration roughly doubles total enterprise technology spend as a share of
   revenue
 related:
-  - INS-260320-2058
   - INS-260327-8D5D
   - INS-260403-F03A
   - INS-260405-4D81
   - INS-260405-3066
-  - INS-260410-0EFE
   - INS-260410-9EFC
   - INS-260424-E832
   - INS-260325-4FF3

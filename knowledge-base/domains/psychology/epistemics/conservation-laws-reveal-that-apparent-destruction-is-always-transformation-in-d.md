@@ -53,11 +53,11 @@ stance: >-
   destruction or loss is always reclassification of the same information into a
   less readable form.
 related:
+  - INS-260501-BC7C
   - INS-260410-C045
   - INS-260409-60C2
   - INS-260330-B784
   - PRI-260328-22EC
-  - PRI-260325-1640
 ---
 Quantum mechanics holds that information is indestructible. When paper burns, every bit of information about the original paper persists in the ash, smoke particles, and radiated heat. It's not lost — it's just hard to read. If you could measure every atom and wave of radiation, you could theoretically reconstruct the paper. The information paradox was alarming precisely because black holes seemed to violate this otherwise universal conservation law.
 

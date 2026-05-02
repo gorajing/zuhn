@@ -50,7 +50,6 @@ related:
   - INS-260403-504D
   - INS-260403-7068
   - INS-260405-4523
-  - INS-260409-01E7
 evidence:
   - id: INS-260330-ACDA
     type: TRANSFERS_TO

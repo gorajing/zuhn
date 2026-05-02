@@ -50,7 +50,7 @@ related:
   - PRI-260406-12D7
   - PRI-260403-C229
   - INS-260403-22C2
-  - PRI-260405-1FBC
+  - INS-260501-801C
 ---
 Naval's thought experiment — being dropped on a random street in any English-speaking country and rebuilding wealth within 5-10 years — illustrates that wealth creation is fundamentally a skill set rather than a circumstantial outcome. This reframes the common narrative that success is primarily about connections, timing, or initial capital.
 

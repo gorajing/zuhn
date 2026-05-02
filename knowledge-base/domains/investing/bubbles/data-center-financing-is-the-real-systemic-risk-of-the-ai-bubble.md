@@ -53,6 +53,7 @@ related:
   - PRI-260406-C932
   - PRI-260406-53BC
   - INS-260327-68C1
+  - INS-260501-B854
 stance: >-
   $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt,
   for customers that are unprofitable AI startups

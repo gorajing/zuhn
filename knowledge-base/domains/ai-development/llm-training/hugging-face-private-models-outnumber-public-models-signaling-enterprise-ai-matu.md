@@ -52,11 +52,11 @@ stance: >-
   experimentation — is now mainstream.
 related:
   - INS-260323-01F9
+  - INS-260501-A1C7
   - INS-260325-3CE2
   - INS-260325-522A
   - INS-260327-7299
   - INS-260413-0EF6
-  - INS-260325-FADB
   - INS-260327-E07C
   - INS-260403-EA93
   - INS-260403-F4C7

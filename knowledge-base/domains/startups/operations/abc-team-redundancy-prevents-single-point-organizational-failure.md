@@ -45,9 +45,9 @@ stance: >-
   any single location
 related:
   - INS-260330-F8A2
+  - INS-260501-2243
   - INS-260403-DB38
   - INS-260404-63B0
   - INS-260327-999C
-  - INS-260327-2043
 ---
 The US Continuity of Government plan requires every federal agency to maintain three separate teams at three separate facilities. Team A operates from near headquarters, Team B from Mount Weather, and Team C from an undisclosed location. Each team can independently run the full agency. This cascading failover model is directly applicable to startups and tech companies: critical functions (deployment, customer support, billing) should have at least two independent teams or runbooks that can take over if the primary team is unreachable. The key design principle is that each layer must be fully autonomous — not dependent on handoff from the layer above — because in a real crisis, handoffs fail silently.

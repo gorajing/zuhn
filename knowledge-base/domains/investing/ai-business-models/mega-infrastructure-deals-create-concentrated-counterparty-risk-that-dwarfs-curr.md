@@ -57,7 +57,7 @@ related:
   - INS-260403-8EE8
   - INS-260404-4146
   - INS-260330-DC0D
-  - INS-260327-5DD2
+  - INS-260501-D7CB
 ---
 Oracle locked in a $300 billion, five-year cloud infrastructure deal with OpenAI as part of Project Stargate, causing its remaining performance obligations to rocket to $455 billion (up 359% YoY). Critics flag the AI bubble risk: OpenAI's projected 2025 revenue of $12.7B is a fraction of the deal's size, meaning Oracle's financial future is heavily concentrated in one counterparty whose own economics are unproven at scale.
 

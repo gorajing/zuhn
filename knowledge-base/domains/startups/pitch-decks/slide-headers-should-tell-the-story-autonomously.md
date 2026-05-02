@@ -44,11 +44,11 @@ stance: >-
   Year') make decks more persuasive than generic labels ('Market') because they
   communicate even when the founder isn't present.
 related:
+  - INS-260501-3E4F
   - INS-260403-C37D
   - PRI-260403-0ABD
   - PRI-260405-91AD
   - INS-260329-4A69
-  - INS-260405-B11B
 ---
 Most pitch decks use generic section headers—'Team,' 'Market,' 'Problem'—that require the founder to be present to interpret them. This creates a single-channel communication dependency: the deck alone conveys almost nothing.
 

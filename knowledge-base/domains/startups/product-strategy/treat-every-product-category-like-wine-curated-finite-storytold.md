@@ -54,7 +54,6 @@ stance: >-
   promise is consistent availability.
 related:
   - INS-260330-696D
-  - INS-260410-8122
   - INS-260322-2155
   - INS-260327-CC35
   - INS-260327-F6BA

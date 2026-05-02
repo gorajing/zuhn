@@ -50,13 +50,12 @@ stance: >-
   behavior through real-time feedback loops.
 related:
   - INS-260330-112E
+  - INS-260501-F394
   - INS-260327-C99D
   - INS-260323-B309
   - INS-260403-F8CB
-  - INS-260330-AE16
   - INS-260330-FCA3
   - INS-260327-26BF
-  - INS-260409-1AA0
 evidence:
   - id: INS-260330-112E
     type: CHALLENGES

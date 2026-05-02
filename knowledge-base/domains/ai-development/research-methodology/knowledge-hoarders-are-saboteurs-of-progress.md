@@ -63,10 +63,10 @@ stance: >-
   larger than the multiplier on individual mastery.
 related:
   - PRI-260323-A33E
+  - INS-260501-801C
   - PRI-260406-5CA8
   - INS-260323-AEA7
   - PRI-260328-7A4D
-  - INS-260323-E77E
 ---
 Palmer provocatively argues that Leonardo da Vinci was not a scientist. Her definition: a scientist publishes results so a community of other scientists can test and build on them. Leonardo wrote everything in coded mirror writing precisely so no one, not even his own students, could reproduce his work — he wanted future generations to gaze at his paintings and ask 'how did he do that?' the way he gazed at the Colosseum. Brunelleschi, who built Florence's famous dome, deliberately burned all his notes and schematics so no one could replicate the method. In a community-of-science frame, these people are not heroic inventors but active saboteurs who made progress and then cut it off so that no one else could be their peer.
 

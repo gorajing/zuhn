@@ -41,10 +41,10 @@ stance: >-
   drives repeat visits.
 related:
   - INS-260327-415B
+  - INS-260501-10A0
   - INS-260327-FEB7
   - INS-260327-E9F3
   - INS-260402-C301
-  - INS-260403-8DB5
 evidence:
   - id: INS-260327-FEB7
     type: SUPPORTS

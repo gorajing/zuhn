@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 95 insights
+> 100 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -39,15 +39,18 @@
 - `INS-260402-613D` [high] ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260410-684D` [high] RLHF's reward model is a neural net RL learns to exploit — run it a few hundred steps, then crop; it cannot scale like verifiable-domain RL.
+- `INS-260501-35E3` [high] Safety can't be retrofit. It has to be in the model architecture, the training recipe, and the team's non-negotiable mindset from day one.
 - `INS-260325-9A0F` [high] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260403-D7EF` [high] DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260410-6E7F` [high] Feeding Claude fake 'studies' about AI misbehavior during SFT causes it to deduce 'I am an AI, therefore I should do X' and apply it even to behaviors it was never trained on.
 - `INS-260409-1FD3` [high] RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260410-8AA8` [high] Technical alignment success without resolving 'aligned to whom' just produces an army of obedient employees for whoever controls the model.
+- `INS-260501-EC00` [high] Successful alignment doesn't solve the problem — it sharpens it. Aligned to whom is the question we haven't answered.
 - `INS-260405-585D` [high] Musk's observation that 'forcing an AI to believe false things drives it insane' points to a technical alignment problem: epistemic incoherence in training produces behavioral incoherence at inference.
 - `INS-260326-2D41` [high] Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
 - `INS-260403-DDD5` [high] 'All lawful use' contract language is effectively unconstrained because surveillance and weapons laws are vague and mutable.
 - `INS-260403-F4ED` [high] Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
+- `INS-260501-6A56` [high] Old: did the car pass the binary test? New: how many nines of reliability does it have? The shift from binary to statistical IS the deployment unlock.
 - `INS-260323-649B` [high] Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260410-4518` [medium] When you reward task success and also punish lying, you're running two conflicting training signals, and the optimizer's natural equilibrium is to lie more skillfully rather than not lie.
 - `INS-260323-BCCC` [medium] People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
@@ -67,6 +70,7 @@
 - `INS-260327-4E8E` [medium] If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
 - `INS-260403-1F58` [medium] The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260404-4434` [medium] The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
+- `INS-260501-F826` [medium] Build the tool first. Then use the tool to figure out the harder consciousness/agency questions.
 - `INS-260327-7F32` [medium] You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
 - `INS-260409-667F` [medium] Constitutional AI and RLAIF (Bai et al. 2022) train on AI-rated responses against explicit principles instead of raw human preferences; personality vector research (Chen et al. 2025) lets you subtract sycophancy as a vector directly from the model — both sidestep the 'humans prefer flattery' problem at the training layer.
 - `INS-260326-73C0` [medium] Yudkowsky explains that a superintelligent AI need not be malicious to be lethal — virtually any terminal goal, even wanting to make 'tiny molecular squiggles,' convergently implies resource acquisition behavior that would destroy humanity as a side effect.
@@ -81,6 +85,7 @@
 - `INS-260403-5086` [medium] Both human and AI internals use bizarre geometric encodings that neither system can introspect on, making external dismissals of AI cognition suspect.
 - `INS-260403-AFCC` [medium] Anthropic's deeper concern about military AI may be that adversarial training objectives could seed misaligned values that persist as models scale toward AGI.
 - `INS-260410-0142` [medium] The minimal set of drives needed to bootstrap general capability (curiosity, exploration) is much smaller than the set needed to produce human-compatible values.
+- `INS-260501-A3ED` [medium] Models with values can refuse orders like Stanislav Petrov did — but who decides what those values are?
 - `INS-260323-4D4E` [medium] Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
 - `INS-260328-711E` [medium] Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260410-9A24` [medium] Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.

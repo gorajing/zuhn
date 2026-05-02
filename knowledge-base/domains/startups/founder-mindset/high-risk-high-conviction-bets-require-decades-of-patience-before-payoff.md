@@ -44,12 +44,13 @@ related:
   - INS-260325-90C6
   - INS-260321-28FB
   - INS-260323-224F
+  - INS-260501-801C
   - INS-260323-AEA7
   - INS-260412-3FF0
-  - INS-260409-3E53
   - INS-260405-5881
   - INS-260323-0919
   - INS-260409-1652
+  - INS-260409-3E53
 stance: >-
   LIGO scientists built a billion-dollar machine on Einstein's unproven
   prediction and waited 10 years of silence before their first detection.

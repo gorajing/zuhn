@@ -5,6 +5,7 @@
 - `INS-260330-2601` A hierarchy of control exists in tech — plugins < browsers < operating systems < physical devices — where each higher layer can override everything below it.
 - `INS-260410-28C3` The semiconductor industry split into EDA / IP / fabless / equipment / foundry because Moore's Law made it impossible for one company to stay at the frontier across all five layers.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
+- `INS-260501-BBB7` Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
 - `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260424-24A3` David Rosenthal: Google is the only company that has a chip, a cloud, and a model — there are multi-trillion-dollar companies that have one of those things.
 - `INS-260410-F96E` Nvidia's decision to write its own drivers in the 1990s — a costly move most chip companies outsourced — planted the low-level software expertise that became CUDA and eventually enabled 66% gross margins on hardware.

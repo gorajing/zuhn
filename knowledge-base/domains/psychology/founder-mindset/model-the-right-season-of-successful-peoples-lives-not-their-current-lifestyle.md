@@ -50,7 +50,6 @@ stance: >-
   Emulating a successful person's current behavior rather than their early-stage
   behavior leads to premature spending that undermines wealth building.
 related:
-  - INS-260322-AFE9
   - INS-260323-FDB8
   - INS-260328-7942
   - INS-260403-5426

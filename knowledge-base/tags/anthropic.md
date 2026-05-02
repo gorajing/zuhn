@@ -13,8 +13,8 @@
 - `INS-260403-9012` Actions under threat reveal true safety commitments in ways that publications and policies never can.
 - `INS-260403-5086` Both human and AI internals use bizarre geometric encodings that neither system can introspect on, making external dismissals of AI cognition suspect.
 - `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
-- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
+- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260410-2F8D` Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
 - `INS-260410-46CA` Capabilities unlock domain by domain based on how cleanly you can construct a verifiable reward signal, not on general intelligence improvements.
 - `INS-260325-FDF5` Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
@@ -29,5 +29,6 @@
 - `INS-260404-34D4` Amazon's $2.75B Anthropic investment signals that big tech strategic capital now dominates AI startup funding over traditional VC.
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
+- `INS-260501-D7CB` SpaceX at $2T (100x revenue) buying Cursor at $60B (10x revenue) is arbitrage — paper for paper, both sides win.
 - `INS-260327-8FD4` Kate Jensen identifies three AI use cases she uses daily: AI-powered account planning and exec meeting prep, screenshot-based dashboard analysis for insights, and rapid coaching from call transcripts.
 - `INS-260327-679A` Kate Jensen builds Anthropic's sales culture around data obsession, deliberate experimentation (letting ICs propose and test hypotheses), and vulnerability — celebrating wins while learning quickly from failures.

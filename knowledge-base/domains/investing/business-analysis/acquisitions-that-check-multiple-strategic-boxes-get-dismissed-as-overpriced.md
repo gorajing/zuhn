@@ -65,11 +65,11 @@ stance: >-
   purposes are systematically undervalued at purchase time because critics only
   grade them against the obvious scoreboard.
 related:
+  - INS-260501-63E7
   - INS-260330-8326
   - INS-260330-809A
   - INS-260330-9933
   - INS-260409-882E
-  - INS-260403-D70C
 ---
 YouTube at $1.65B in 2006 was universally panned — Google's own CFO said 'never again' about doing a stock deal that size, Wall Street called it Google tossing balls into the air like a drunken juggler, and the Acquired hosts themselves graded it a C on their 2016 episode. It lost ~$1B/year for its first several years (roughly a penny per view) on $30M of revenue. Every framework for evaluating it as an advertising business at purchase time said it was overpriced.
 

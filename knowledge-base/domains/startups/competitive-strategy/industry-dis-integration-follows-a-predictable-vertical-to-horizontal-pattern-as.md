@@ -62,6 +62,7 @@ related:
   - PRI-260406-3285
   - PRI-260406-EB94
   - PRI-260323-49F8
+  - INS-260501-FBC6
 ---
 Christensen's dis-integration theory explains why the computer industry flipped from vertically integrated companies (IBM, DEC) in the 1980s to horizontal specialists (Intel, Microsoft, Dell) by the mid-1990s. As products mature and interfaces standardize, coordination costs drop and specialized horizontal players can outperform integrated ones. The automobile industry illustrates both directions: Ford's 1920s River Rouge plant was peak vertical integration, and the industry has since become heavily horizontally integrated with ~1,400 tier-1 suppliers.
 

@@ -59,6 +59,5 @@ related:
   - PRI-260406-F95C
   - INS-260329-4109
   - INS-260330-3879
-  - INS-260409-4290
 ---
 A naive listener might wonder why computers don't just use ten voltage levels to encode decimal directly. The answer is that electricity 'flickers' and is inconsistent, so reliably distinguishing ten levels on a wire is an engineering nightmare, while distinguishing two (above threshold vs below) is trivial and robust. This is a general principle: many of the design choices that seem like pure abstractions in computing are actually downstream of analog physical constraints. The digital stack sits on top of carefully-shaped analog behavior, and forgetting that leads people to reify binary as a mathematical truth rather than a noise-tolerance compromise. Whenever you see a 'clean' abstraction in a real system, ask what messy reality it is hiding.

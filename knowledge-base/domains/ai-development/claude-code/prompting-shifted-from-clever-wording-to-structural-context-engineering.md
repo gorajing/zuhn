@@ -49,7 +49,7 @@ related:
   - INS-260320-D972
   - INS-260321-703F
   - INS-260329-0F39
-  - INS-260329-CB03
+  - INS-260403-BE4D
 stance: >-
   Effective prompting is no longer about linguistic tricks — it's about
   providing the right structure: role, background, format, constraints

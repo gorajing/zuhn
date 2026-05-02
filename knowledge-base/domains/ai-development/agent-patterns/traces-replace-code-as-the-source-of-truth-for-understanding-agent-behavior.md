@@ -52,10 +52,10 @@ stance: >-
   pull in arbitrary information.
 related:
   - INS-260327-5F10
+  - INS-260501-3502
   - INS-260409-0DB0
   - PRI-260406-3EF8
   - INS-260410-E658
-  - INS-260325-031F
   - INS-260405-1CAA
 evidence:
   - id: INS-260405-1CAA

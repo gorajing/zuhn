@@ -61,7 +61,7 @@ related:
   - INS-260403-CEB7
   - PRI-260406-F8BD
   - INS-260327-0C9F
-  - INS-260327-9192
+  - INS-260501-801C
 ---
 Skunk Works delivered the P-80 Shooting Star in 143 days and the U-2 spy plane in 18 months for $3.5M total — feats that larger, more resourced aerospace divisions could not match. Kelly Johnson's third rule was explicit: 'The number of people having any connection with the project must be restricted in an almost vicious manner — use a small number of good people, 10 to 25.' The pattern recurs in the original iPhone, iPod, and Xerox PARC teams: six to ten full-stack people who cross disciplines beat hundreds of specialists.
 

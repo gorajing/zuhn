@@ -52,5 +52,6 @@ related:
   - INS-260403-9DC2
   - PRI-260406-466E
   - PRI-260328-DF2D
+  - INS-260501-AF86
 ---
 SpaceX manufactures 85% of its components in-house versus traditional rocket companies that aggregate parts from multi-tier supplier networks. Each supplier in the chain must mark up their components to profit, so by the time parts reach the final assembler, costs are enormously inflated—SpaceX's in-house radios cost $5,000 versus $50,000-$100,000 externally. This principle applies broadly: any industry where the incumbent model is 'aggregator assembling purchased components from deep supplier chains' has a structural cost vulnerability. The counterforce is that vertical integration requires mastering every manufacturing step, which creates execution risk and can slow production when any single step fails, as Tesla experienced with Model 3 steel welding issues.

@@ -45,7 +45,6 @@ stance: >-
   fully materializes can be measured in centuries, not product cycles.
 related:
   - INS-260325-820C
-  - INS-260325-8062
   - INS-260330-9A46
   - INS-260402-26B0
   - INS-260412-0D71
@@ -54,6 +53,7 @@ related:
   - INS-260327-538D
   - INS-260327-0048
   - INS-260330-3C4C
+  - INS-260403-A22E
 evidence:
   - id: INS-260323-2D1D
     type: TRANSFERS_TO

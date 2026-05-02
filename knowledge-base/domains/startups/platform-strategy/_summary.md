@@ -1,6 +1,6 @@
 # Topic: platform-strategy
 
-> 16 insights
+> 17 insights
 
 - `INS-260410-A17B` [high] Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model.
 - `INS-260410-4D1F` [high] Sony won the PS1 generation by telling third-party developers 'we need you' while Nintendo told them 'we have Mario, we don't need you' — and by letting them develop on PCs instead of expensive Silicon Graphics workstations.
@@ -14,6 +14,7 @@
 - `INS-260405-8107` [high] Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
 - `INS-260410-F455` [high] Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.
 - `INS-260405-ABE0` [high] Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
+- `INS-260501-D701` [medium] The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard.
 - `INS-260405-1B93` [medium] When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
 - `INS-260412-8B95` [medium] Epic Games released the entire Matrix demo — all assets and code — for free, seeding the UE5 developer ecosystem with production-quality reference material.
 - `INS-260410-91C0` [medium] Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.

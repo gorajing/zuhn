@@ -43,9 +43,9 @@ stance: >-
   features nobody adopts.
 related:
   - INS-260403-D82B
+  - INS-260501-FA6B
   - INS-260403-B635
   - INS-260403-AEAF
   - INS-260322-8D47
-  - INS-260404-C720
 ---
 David's team had a working demo that excited providers and investors, but deliberately chose to spend four months living in clinics instead of shipping. This counter-intuitive move revealed that providers were burned out on AI point solutions and resistant to trying new tools. By involving providers in the design process through design thinking, the team converted the most resistant staff into their biggest champions who now proactively ask for new features. The insight applies beyond healthcare: when your users have been burned by similar products before, immersive co-design is the only way to overcome adoption resistance. Demo excitement is not adoption signal.

@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 215 insights
+> 223 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -81,6 +81,7 @@
 - `INS-260327-E0F7` [high] Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
 - `INS-260329-920D` [high] Hash tables achieve O(1) average-case operations not by avoiding collisions but by choosing the right collision resolution strategy for the specific access pattern and load factor.
 - `INS-260329-F886` [high] Open addressing trades deletion complexity for cache-friendly memory layout; separate chaining trades memory locality for operational simplicity.
+- `INS-260501-8E5C` [high] Agents are licenses. Maybe at different price points than humans, but they need identity, permissions, audit — that's a seat.
 - `INS-260409-212F` [high] Humans abandoned wikis because maintenance grew faster than value; LLMs reverse that ratio by doing all the cross-referencing for free.
 - `INS-260329-D6AA` [high] Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
 - `INS-260329-ACEB` [high] Using tuples for coordinates signals 'this data is fixed' at the type level, making the constraint impossible to violate rather than merely documented.
@@ -99,6 +100,7 @@
 - `INS-260329-C991` [high] HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
 - `INS-260409-1078` [high] MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-BA55` [high] RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.
+- `INS-260501-7726` [high] Karpathy built Menu Gen as a multi-step app, then realized Gemini + Nano Banana renders the entire thing in one shot — the app shouldn't exist.
 - `INS-260409-0D87` [high] Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
 - `INS-260323-2FC3` [high] The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
 - `INS-260330-F5A1` [high] Store the result of expensive computations and reuse them instead of recomputing from scratch.
@@ -169,6 +171,7 @@
 - `INS-260321-167A` [high] Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
 - `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260409-4CE8` [high] Plain files beat opaque stores because you can see, edit, and trust what the system knows.
+- `INS-260501-F258` [high] Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license.
 - `INS-260329-02B3` [high] String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
 - `INS-260329-DEA1` [high] Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260330-0A8D` [high] One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
@@ -179,12 +182,16 @@
 - `INS-260329-BAB7` [high] The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
 - `INS-260329-9074` [high] Variables create single points of change that prevent linear maintenance scaling in growing codebases.
 - `INS-260323-DC99` [high] As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
+- `INS-260501-4646` [high] Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
 - `INS-260409-0EEE` [medium] Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
 - `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
+- `INS-260501-FBC6` [medium] Any enterprise older than 10 years or larger than 1000 people is a mass of stuff waiting to be integrated — and AI doesn't fix integration.
 - `INS-260409-A3EC` [medium] The KB is a curated prior; agents should still fetch fresh web content to supplement it.
+- `INS-260501-5582` [medium] AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260329-3177` [medium] The C++ compile-build-run pipeline maps surprisingly well onto the LLM prompt-to-output pipeline as a teaching mental model.
 - `INS-260325-2B76` [medium] The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
 - `INS-260329-92FC` [medium] Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
+- `INS-260501-BBB7` [medium] Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
 - `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
@@ -214,6 +221,7 @@
 - `INS-260327-F232` [medium] Gershenfeld argues Turing and von Neumann made a fundamental mistake by separating software from hardware - biology computes with its physical structure, not with programs running on it.
 - `INS-260330-77E2` [medium] Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.
 - `INS-260409-086A` [medium] Spawn a subagent per source during ingest so context pollution doesn't degrade later items in the queue.
+- `INS-260501-BA23` [medium] Every SaaS tool you buy creates a data silo. The fix isn't another SaaS — it's a vibe-coded internal tool that hits the source.
 - `INS-260323-E0B5` [medium] Text-only planning (markdown PRDs) is insufficient for vibe coding — parallel visual artifacts like user flows and tree views of functional specs provide the contextual consistency AI agents need.
 - `INS-260329-FEC5` [medium] The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
 - `INS-260409-51B2` [medium] Wiki-link syntax in markdown is already a graph; the agent traverses it by reading files.

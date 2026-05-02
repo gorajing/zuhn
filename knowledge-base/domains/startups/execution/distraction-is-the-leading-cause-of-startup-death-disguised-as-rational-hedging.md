@@ -51,7 +51,6 @@ stance: >-
   reliable death signal because it reveals the founder has already
   psychologically quit.
 related:
-  - INS-260327-F544
   - INS-260327-5297
   - INS-260327-2684
   - INS-260328-00E8

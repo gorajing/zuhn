@@ -54,7 +54,6 @@ related:
   - INS-260323-8289
   - INS-260325-33DA
   - INS-260404-1E65
-  - INS-260410-31AA
   - INS-260412-66F5
 stance: >-
   Across multiple quantum consciousness frameworks, the brain consistently

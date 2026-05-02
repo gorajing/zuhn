@@ -48,11 +48,11 @@ stance: >-
   mental, physical, and financial stability leads to mutual ruin rather than
   mutual benefit.
 related:
+  - INS-260501-0A62
   - INS-260327-C316
   - INS-260327-4D29
   - INS-260327-52CF
   - INS-260330-D2CE
-  - INS-260327-439A
 ---
 There is an important distinction between 'humble' kindness (self-sacrificing, depleting) and 'generous' kindness (overflow-based, sustainable). The Korean concept of kindness often maps to humility -- lowering yourself for others -- but the more admirable model is generosity from abundance, like Bill Gates funding infrastructure in Africa. Nobody dismisses that as weakness because the giver's strength is obvious.
 

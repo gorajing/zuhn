@@ -53,11 +53,11 @@ stance: >-
   material cost floor then working backward to identify what's actually making
   things expensive.
 related:
+  - INS-260501-2388
   - INS-260330-72D0
   - INS-260410-13C8
   - INS-260322-D079
   - INS-260324-A046
-  - INS-260327-5973
   - INS-260410-BED1
 evidence:
   - id: INS-260322-D079

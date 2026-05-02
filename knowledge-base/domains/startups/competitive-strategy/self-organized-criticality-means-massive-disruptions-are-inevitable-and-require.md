@@ -58,6 +58,7 @@ related:
   - INS-260325-3A0E
   - INS-260322-B369
   - INS-260412-E42E
+  - INS-260501-B1AA
 stance: >-
   Systems at criticality — forests, economies, markets — naturally drive
   themselves to a state where a single small event can cascade through the

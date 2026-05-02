@@ -50,8 +50,8 @@ related:
   - INS-260409-E080
   - PRI-260411-14DC
   - INS-260322-24FB
+  - INS-260501-646A
   - INS-260329-D48B
-  - INS-260329-DAD1
 ---
 Google distinguishes two loop patterns: generator-critic (binary pass/fail on correctness) and iterative refinement (qualitative improvement over cycles). Both use ADK's LoopAgent, but the exit mechanisms differ critically.
 

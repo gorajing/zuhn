@@ -49,14 +49,15 @@ resolutions:
     it wealth — they're fundamentally different assets.
 related:
   - INS-260324-0DC1
+  - INS-260501-07C8
   - PRI-260406-1849
   - PRI-260406-8DF5
   - INS-260330-16F7
-  - INS-260411-102F
   - INS-260329-FCE6
   - INS-260403-98E1
   - INS-260404-BCA2
   - INS-260410-8D62
+  - INS-260411-102F
 stance: Cash flow funds your lifestyle today; equity creates wealth tomorrow
 evidence:
   - id: INS-260324-0DC1

@@ -47,7 +47,6 @@ stance: >-
   to where the network effects are strongest.
 related:
   - INS-260327-2661
-  - INS-260327-F417
   - INS-260330-DD63
   - INS-260330-DDF0
   - INS-260403-78AD
@@ -56,6 +55,7 @@ related:
   - PRI-260407-7C1A
   - INS-260403-87CF
   - INS-260403-3058
+  - INS-260403-CCB7
 evidence:
   - id: INS-260327-F417
     type: CHALLENGES

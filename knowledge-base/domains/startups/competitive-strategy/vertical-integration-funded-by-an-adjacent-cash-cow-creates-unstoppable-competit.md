@@ -54,5 +54,6 @@ related:
   - INS-260403-3BBB
   - INS-260327-CB1E
   - PRI-260406-C40C
+  - INS-260501-12F4
 ---
 Apple's M1 story illustrates how vertical integration plus an adjacent revenue engine creates compounding competitive advantage. While Intel improved flagship performance ~28% over five years, Apple improved 300% in the same period — because iPhone revenue (hundreds of billions annually) funded massive chip R&D with zero dependency on external customers to justify the investment. This is a structural advantage competitors can't replicate by simply 'trying harder.' Intel sells chips to many customers and must optimize for broad compatibility; Apple designs chips for its own products and can optimize ruthlessly for its specific use cases. The lesson generalizes: companies that control both the hardware and the application layer, funded by a massive adjacent cash cow, can out-iterate specialists who depend on the open market for R&D funding.

@@ -54,15 +54,15 @@ stance: >-
   faster comprehension than introducing concept and syntax simultaneously
 related:
   - INS-260329-6D6C
-  - INS-260329-B2F4
   - INS-260329-DAD1
   - INS-260329-D3F6
   - INS-260330-81A7
   - INS-260403-D4EA
-  - INS-260405-EFC2
   - INS-260329-5ECD
   - INS-260330-81D3
   - INS-260403-F835
+  - INS-260329-04FA
+  - INS-260330-0102
 evidence:
   - id: INS-260329-5ECD
     type: SUPPORTS

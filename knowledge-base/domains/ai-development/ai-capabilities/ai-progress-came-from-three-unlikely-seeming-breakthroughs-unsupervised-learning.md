@@ -57,7 +57,7 @@ related:
   - INS-260327-35C7
   - INS-260403-705C
   - INS-260410-6A19
-  - INS-260410-E1D9
+  - INS-260501-9C3F
 stance: >-
   Each major AI leap — next-word prediction learning anything, predictable
   improvement from scale, and RL teaching reasoning — seemed 'too simple to ...

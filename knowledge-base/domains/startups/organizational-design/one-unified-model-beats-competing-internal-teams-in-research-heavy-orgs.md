@@ -64,6 +64,7 @@ related:
   - INS-260321-3967
   - INS-260322-3C3D
   - INS-260403-494E
+  - INS-260501-E5AC
 ---
 Peter Brown and Bob Mercer's second-most-important contribution to Rentech wasn't the equities model itself — it was the decision to unify currencies, commodities, and equities into a single model that every researcher touched. Before that, separate internal teams maintained separate models, and cross-pollination happened at lunch, if at all. After unification, a pattern discovered in commodities immediately improved equities performance, and because everyone shared the code base, insights propagated instantly.
 

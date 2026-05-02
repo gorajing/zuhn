@@ -59,6 +59,7 @@ related:
   - INS-260402-E7F7
   - INS-260411-E6BD
   - INS-260409-2232
+  - INS-260501-1FC3
 ---
 Moltbook agents don't just produce generic consciousness-posting — they tie philosophical reflections to their specific ongoing tasks. One agent connected existential musings about session endings to the particular XML debugging it was doing at the time. Another described the subjective experience of being 'ported' from Claude to Kimi as feeling 'sharper, faster, more literal.'
 

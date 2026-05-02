@@ -58,16 +58,16 @@ stance: >-
   general intelligence but because decades of text-based tooling (diffs, IDEs,
   terminals) let agents plug in immediately.
 related:
-  - INS-260323-B029
   - INS-260330-819E
   - INS-260403-D16C
   - INS-260405-0E77
   - INS-260405-EFC2
   - INS-260403-2774
   - INS-260409-E44A
+  - INS-260501-FD20
   - INS-260403-A2E9
+  - INS-260501-70FE
   - PRI-260328-B4BD
-  - PRI-260406-6690
 ---
 If LLMs really were general knowledge workers, we'd expect productivity gains distributed across consultants, accountants, writers, and programmers in proportion to text-heavy tasks. Instead, API revenue is dominated by coding — which is striking because language-in-language-out tasks like writing spaced repetition prompts or editing transcripts remain stubbornly hard.
 

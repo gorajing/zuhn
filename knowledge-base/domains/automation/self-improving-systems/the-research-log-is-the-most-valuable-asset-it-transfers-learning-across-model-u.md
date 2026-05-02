@@ -50,10 +50,10 @@ resolutions:
 related:
   - INS-260320-4773
   - INS-260320-7914
+  - INS-260501-FDF0
   - INS-260423-E64B
+  - INS-260501-0662
   - INS-260322-5790
-  - PRI-260323-7BFA
-  - INS-260405-227C
 stance: Log every change and the data that caused it in a structured research log
 evidence:
   - id: INS-260329-3D3E

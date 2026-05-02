@@ -47,8 +47,8 @@ related:
   - INS-260320-B210
   - INS-260320-F872
   - PRI-260403-9E80
+  - INS-260501-F0E5
   - INS-260329-3423
-  - INS-260330-3B0B
 ---
 CLAUDE.md is loaded every single session, so every line pays a recurring context tax. For each line, ask 'would removing this cause Claude to make mistakes?' If not, cut it. Include things Claude can't guess (bash commands, project-specific conventions, non-obvious gotchas); exclude things Claude already knows (standard language conventions, self-evident practices, file-by-file descriptions).
 

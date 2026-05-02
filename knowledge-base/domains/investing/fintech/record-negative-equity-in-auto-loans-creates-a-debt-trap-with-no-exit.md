@@ -46,12 +46,13 @@ stance: >-
   negative equity for borrowers, trapping them in loans they cannot exit through
   sale and making default the only escape.
 related:
+  - INS-260501-B854
   - PRI-260328-386C
   - PRI-260406-861A
   - PRI-260407-93D7
   - PRI-260406-B702
-  - PRI-260406-8987
   - INS-260411-0B4F
+  - INS-260501-07C8
 ---
 Auto loans and vehicle depreciation have created a particularly vicious debt trap. Vehicles lose value rapidly (especially EVs with extreme depreciation), but auto loans are longer than ever (7+ year terms common). The result: millions of borrowers owe more than their vehicle is worth within months of purchase.
 

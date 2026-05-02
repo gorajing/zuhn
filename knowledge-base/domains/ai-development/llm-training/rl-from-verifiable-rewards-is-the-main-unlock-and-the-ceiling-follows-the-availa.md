@@ -65,6 +65,7 @@ related:
   - INS-260402-0E46
   - INS-260330-696D
   - INS-260410-684D
+  - INS-260501-1608
 ---
 Sholto Douglas argues the single biggest shift since 2024 is that RL from verifiable rewards has been conclusively demonstrated on competitive programming and math — domains where correctness is cheap to check (does it compile, does it pass the test, is the answer right). Software engineering pulled ahead of writing and computer use for the same reason: it's naturally verifiable. This reframes the forecasting question. Instead of asking 'when will AI be good at X,' ask 'how hard is it to build a clean reward signal for X, and how much compute are labs willing to spend on it?' It also predicts an unusual ordering: Nobel Prize–assisting work may come before Pulitzer Prize novels, because scientific discovery has more layers of verifiability (wet-lab confirmation, reproducibility) than literary taste does.
 

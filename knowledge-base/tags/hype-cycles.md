@@ -1,6 +1,7 @@
 # Tag: hype-cycles
 
 - `INS-260403-C10D` The biggest AI risk is confidence outrunning understanding, not the technology itself.
+- `INS-260501-47F5` Hype cycles reshape the early curve, not the long tail. Survivors are the ones who knew it was a long tail from the start.
 - `INS-260409-A318` Hassabis confirms Amara's Law holds for AI: we overestimate what's possible in a year and underestimate what's possible in 10 years — even amid current hype.
 - `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
 - `INS-260404-9DBB` Quantum computing's theoretical promise far outpaces its engineering reality, making most near-term investment narratives premature.

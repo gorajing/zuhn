@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260404-8D91
   - INS-260323-7424
+  - INS-260501-A1C7
   - PRI-260403-5DEA
   - INS-260403-754F
   - INS-260404-B31C
-  - INS-260402-BCEC
   - INS-260330-38E1
 ---
 Founders often equate progress with adoption metrics — user counts, revenue growth, market share. In infrastructure markets, however, strategic relevance operates on a different axis. What matters early is not how many customers you have, but which assumptions you force powerful buyers to revisit. If your product changes how incumbents think about what is possible or necessary, you capture leverage long before you need to care about scale.

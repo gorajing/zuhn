@@ -60,7 +60,6 @@ stance: >-
   no peer among manufactured products, and this advantage is accelerating rather
   than saturating.
 related:
-  - INS-260323-2651
   - INS-260325-722C
   - INS-260322-D079
   - INS-260321-4B99
@@ -70,6 +69,7 @@ related:
   - INS-260403-9DEC
   - INS-260403-2833
   - INS-260330-ED9D
+  - INS-260405-A103
 ---
 Solar production doubles roughly every 2-2.5 years, and each doubling cuts cost by ~40%, giving 15-20% annual price declines. Handmer argues this isn't a fluke — it's driven by ~10,000 manufacturing process engineers working full-time on an inherently easy-to-manufacture product with extreme standardization. The critical insight is that demand elasticity exceeds the learning rate, so cheaper panels unlock more than 40% additional demand per doubling, sustaining the flywheel indefinitely.
 

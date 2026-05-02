@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260323-334D
   - INS-260329-FC53
+  - INS-260501-B6EE
   - INS-260323-3CC2
   - INS-260321-BFA3
-  - INS-260329-3848
 ---
 Every new technology wave produces a phase where easy-to-game metrics (Google search rank in 2005, App Store charts in 2010, crypto token price in 2017, AI-generated content volume in 2025) make slop producers look like winners. The founders who anchor decisions on first-10% metrics will optimize for slop because that is what the metrics reward. The founders who anchor on retention, long-term value creation, and second-order user reaction consistently do worse in the short term but dominate the 90%. The practical heuristic: whenever you see a metric that looks suspiciously easy to move in a new category, suspect it is the slop metric of that category, and find a slower metric to optimize against instead.

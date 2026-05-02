@@ -60,10 +60,10 @@ stance: >-
   years.
 related:
   - INS-260325-8062
-  - INS-260325-F306
   - INS-260327-BA97
   - INS-260409-A8A3
-  - INS-260325-8290
+  - INS-260325-F306
+  - INS-260501-5B48
 ---
 Palmer argues that what feels like 'ten tech revolutions in a row' (computer → PC → internet → cell phone → social media → LLMs) is really one revolution deepening and finding new application layers. She traces the same pattern for print: Gutenberg's press in 1450 wasn't economically sustainable until 1490; pamphlet distribution in the 1510s enabled Luther's Reformation the way cell phones enabled the Arab Spring; the newspaper arrived later as an accountability mechanism against unreliable pamphlets; the magazine arrived still later to fact-check newspapers. Each successive layer is as disruptive as the original.
 

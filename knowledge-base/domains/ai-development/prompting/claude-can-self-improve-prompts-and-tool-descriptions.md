@@ -52,7 +52,6 @@ stance: >-
   Letting Claude rewrite its own agent prompts and MCP tool descriptions based
   on observed failures is a high-leverage improvement loop.
 related:
-  - INS-260320-A4BF
   - INS-260330-8920
   - INS-260403-9B5D
   - INS-260403-C584

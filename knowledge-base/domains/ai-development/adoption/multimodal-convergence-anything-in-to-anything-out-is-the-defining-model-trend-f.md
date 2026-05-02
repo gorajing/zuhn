@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260403-9774
   - INS-260408-C572
+  - INS-260501-8E29
   - INS-260402-142F
   - INS-260321-CCD9
-  - INS-260323-2AE2
   - INS-260403-58DA
 stance: >-
   Labs are merging previously separate text, image, and video capabilities into

@@ -11,6 +11,7 @@
 - `INS-260410-18A0` Productivity improvements historically generate more jobs, not fewer, because companies with infinite ambition expand into new areas whenever they become more profitable.
 - `INS-260412-9B00` At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
+- `INS-260501-5F37` Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
 - `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260323-F528` Musk argues space-based AI will cost less than terrestrial AI within 2-3 years because space solar is 5x more efficient (no atmosphere, no day/night, no seasons), needs no heavy protective glass, and scales with increasing returns — while terrestrial power hits NIMBY constraints and gets harder over time.

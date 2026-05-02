@@ -55,7 +55,6 @@ stance: >-
   defend against Saddam) combined with outrage at American bases on Islamic holy
   land.
 related:
-  - INS-260323-3614
   - PRI-260406-82EA
   - INS-260327-A75C
   - INS-260330-B444

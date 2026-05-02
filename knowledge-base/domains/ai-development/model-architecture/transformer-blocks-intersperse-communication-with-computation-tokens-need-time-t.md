@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260325-5B28
   - INS-260410-0EFE
+  - INS-260501-C4AA
   - INS-260323-8D12
   - INS-260323-A5EC
-  - INS-260327-1563
 ---
 When Karpathy first added self-attention without a feedforward layer, the tokens gathered information from each other but then 'went too fast to calculate the logits' — they had no private computation step to process what they'd gathered. Adding a simple per-token MLP (linear → ReLU → linear, with an inner 4x dimension expansion) dropped validation loss from 2.28 to 2.24 and was prerequisite for the later gains from residuals and layer norm.
 

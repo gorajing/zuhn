@@ -70,7 +70,7 @@ related:
   - INS-260403-9362
   - INS-260322-C935
   - PRI-260327-8D8C
-  - PRI-260406-7CD8
+  - INS-260501-EC00
 ---
 Paine closes the lecture with a compact decision heuristic that generalizes far beyond geopolitics: before you commit — 'before you leave the parking lot' — map every player's primary objective, primary adversary, and primary theater of interest, and check whether the alignments actually support the outcome you want. Then form your hypotheses about how events will play out. Then, critically, reassess early and often to see if your assumptions still hold. 'Some people get really hung up about being wrong. Don't worry. Reassessing is a sign of strength. It's like, I got more information, I've changed my mind. Good thing. Don't double down on bad information.'
 

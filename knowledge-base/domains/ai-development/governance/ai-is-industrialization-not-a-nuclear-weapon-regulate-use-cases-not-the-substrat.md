@@ -58,11 +58,11 @@ stance: >-
   rather than like nuclear weapons (monopolize the whole capability under state
   control).
 related:
+  - INS-260501-504A
   - INS-260322-8147
   - INS-260330-1183
   - PRI-260324-5F05
   - INS-260324-C1B8
-  - PRI-260323-7805
 ---
 Patel rejects the Leopold Aschenbrenner / Ben Thompson analogy that because nuclear weapons would never be left to a private company, AI shouldn't be either. The analogy fails because AI is not a self-contained weapon with one function — it's a general-purpose transformation of the entire economy, closer to industrialization than to a bomb.
 

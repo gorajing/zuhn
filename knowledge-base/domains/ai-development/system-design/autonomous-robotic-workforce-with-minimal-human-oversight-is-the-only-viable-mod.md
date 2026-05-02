@@ -49,13 +49,13 @@ stance: >-
   Planetary-scale engineering projects require almost complete automation with
   humans serving only as high-level controllers, not operators.
 related:
-  - PRI-260328-1ED1
   - INS-260404-292E
   - INS-260405-E34C
   - INS-260410-B6EA
   - INS-260412-F660
+  - PRI-260328-1ED1
+  - INS-260501-577A
   - INS-260412-5272
-  - INS-260403-10CE
 ---
 The video notes that 'humans are expensive to keep alive and very sensitive to the environment' and proposes a small crew of controllers overseeing autonomous machines for the actual work. This isn't just a space constraint — it's a fundamental scaling law. Any system operating at planetary or stellar scale must be overwhelmingly automated because human labor doesn't scale linearly with project scope.
 

@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260404-7C3F
   - INS-260409-B521
+  - INS-260501-9CD4
   - INS-260326-C692
   - INS-260409-2B3A
-  - INS-260329-B0F4
 evidence:
   - id: INS-260326-C692
     type: TRANSFERS_TO

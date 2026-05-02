@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260329-72EF
   - INS-260329-DFD1
+  - INS-260501-7726
   - INS-260323-22E8
   - INS-260404-D646
-  - INS-260409-BE39
 ---
 Web Clipper alone has a known weakness: images are left as remote links rather than downloaded and embedded, which breaks offline use and long-term archival. Adding the Local Images Plus community plugin rewrites image references to local copies automatically. Configuring Web Clipper's default clipping location to the RAW folder makes the whole pipeline one click. This matters because ingestion friction is the main reason personal KBs die — if adding a source takes more than a few seconds, the habit breaks.

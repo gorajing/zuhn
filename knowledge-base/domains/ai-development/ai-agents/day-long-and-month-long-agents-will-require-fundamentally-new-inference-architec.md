@@ -53,7 +53,6 @@ related:
   - INS-260405-3B54
   - INS-260403-F6F6
   - INS-260410-2307
-  - INS-260409-8408
   - INS-260410-315B
 evidence:
   - id: INS-260403-1E5A

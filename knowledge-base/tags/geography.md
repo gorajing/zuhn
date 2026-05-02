@@ -9,9 +9,9 @@
 - `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
 - `INS-260410-2AEE` Britain could blockade Germany but Germany couldn't blockade Britain, because narrow-seas powers can't deploy surface fleets against ocean-facing coastlines.
 - `INS-260325-DDEE` Russia's geography defeats invaders by trading space for time — Napoleon, Hitler, and Charles XII all broke on the same strategic depth.
+- `INS-260412-FDBF` Canada's east coast is closer to Croatia than Vancouver; Russia's east is closer to Mexico than Moscow — facts that feel wrong because flat-map intuitions override spherical reality.
 - `INS-260412-9270` Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
-- `INS-260412-FDBF` Canada's east coast is closer to Croatia than Vancouver; Russia's east is closer to Mexico than Moscow — facts that feel wrong because flat-map intuitions override spherical reality.
 - `INS-260403-3155` Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260403-B378` Perfect weather, mountains, and proximity to San Francisco explain why Silicon Valley formed around Stanford specifically.

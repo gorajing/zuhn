@@ -56,7 +56,6 @@ stance: >-
   system-prompt examples showing exactly what to iterate over during the think
   step.
 related:
-  - INS-260409-1812
   - INS-260410-095B
   - INS-260410-6ABA
   - PRI-260405-49C0

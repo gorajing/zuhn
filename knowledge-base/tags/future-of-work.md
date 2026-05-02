@@ -10,6 +10,7 @@
 - `INS-260410-204E` Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
 - `INS-260408-3691` Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260410-045C` Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
+- `INS-260501-AB31` Future companies have builders (deputizing agents) and salespeople (transferring trust). Everything else is automated by the builders.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
 - `INS-260423-4CB1` Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
@@ -19,3 +20,4 @@
 - `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
+- `INS-260501-A6E0` Three roles: builders, DRIs (one person, one outcome), AI founders. Middle management = legacy of pre-AI information routing. Goes away.

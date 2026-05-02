@@ -55,8 +55,8 @@ related:
   - INS-260410-376A
   - INS-260410-095B
   - INS-260410-F24A
+  - INS-260501-C4AA
   - INS-260410-87B5
-  - INS-260330-7A80
 ---
 Anthropic is explicit about when *not* to use this pattern. The think tool doesn't help when the agent is making a single tool call, several parallel tool calls with no cross-dependencies, or just following straightforward instructions. In those cases it adds prompt length and output tokens with no performance gain — a real cost at scale.
 

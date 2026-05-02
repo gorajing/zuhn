@@ -58,7 +58,6 @@ stance: >-
   more tokens — a tax that no amount of inference-time effort can remove.
 related:
   - INS-260320-CE36
-  - INS-260327-1563
   - INS-260330-206C
   - INS-260402-5034
   - INS-260403-410A
@@ -67,6 +66,7 @@ related:
   - INS-260409-1078
   - INS-260410-B282
   - INS-260421-3E99
+  - INS-260410-18CF
 ---
 The standard explanation for poor non-English LLM performance is 'less training data in those languages.' Karpathy points out a second, often overlooked cause: the tokenizer itself was trained mostly on English, so its BPE merges are optimized for English character sequences. When you tokenize Korean or Japanese or any non-Latin script, the same semantic content becomes 3-5x as many tokens because the tokenizer never learned long merges for those scripts.
 

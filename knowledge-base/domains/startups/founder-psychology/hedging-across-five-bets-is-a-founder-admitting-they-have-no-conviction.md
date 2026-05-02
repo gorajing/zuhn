@@ -45,7 +45,6 @@ stance: >-
   real feedback.
 related:
   - INS-260403-AAC8
-  - INS-260403-C074
   - INS-260405-95CB
   - INS-260403-7DBB
   - PRI-260406-992F

@@ -65,7 +65,7 @@ related:
   - INS-260329-D0B3
   - INS-260320-0F7C
   - INS-260321-801C
-  - INS-260322-F46F
   - PRI-260406-DC9B
+  - INS-260409-5D67
 ---
 The simplistic SaaS Apocalypse thesis treats all SaaS as equivalent: agents can call APIs, so the UI-wrapped SaaS layer is commoditized. Aaron Levie argues this is reductive. Real SaaS businesses fall on a spectrum: UI-heavy apps where the value proposition is largely in the button arrangements (many vertical CRMs, project management tools, thin productivity wrappers) are genuinely at risk of commoditization. Business-logic-heavy apps (ERPs with supply chain automation, security platforms with decades of threat intelligence, accounting systems with regulatory compliance logic) retain their value because the logic is what the agent needs access to. The practical valuation framework: for each SaaS investment or purchase decision, evaluate the ratio of business-logic-in-APIs to button-clicks-in-UI. High-logic-depth products survive the agent transition; low-logic-depth products commoditize. Categories where depth protects: ERP, security (especially identity and access management), accounting and financial-close automation, regulated-industry compliance, supply chain. Categories where depth is thin: generic CRM, basic project management, standalone email marketing, one-feature productivity apps. The implication for Zuhn B2B positioning: Zuhn's compression-above-memory layer is structurally deep-logic (prediction tracking, principle compression, cross-domain transfer) and positioned to survive agent commoditization.

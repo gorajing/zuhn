@@ -54,9 +54,10 @@ stance: >-
 related:
   - INS-260403-2FC3
   - INS-260403-21A7
+  - INS-260501-8A1F
   - INS-260323-197A
   - INS-260323-FEDF
-  - INS-260327-5CB0
+  - INS-260501-35E3
 ---
 Patel's synthesis: the current LLM paradigm, despite its sample inefficiency and dependence on finite human data, will cross the AGI line first because it has the accumulated compute, tooling, and incremental improvements. But Sutton's first-principles critique is pointing at real gaps — abysmal sample efficiency, no continual learning, dependence on exhaustible human data — that practitioners underweight because those gaps are pervasive in the current paradigm.
 

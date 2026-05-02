@@ -51,9 +51,9 @@ related:
   - INS-260410-1898
   - INS-260330-7C58
   - INS-260325-DFA5
+  - INS-260501-5DF6
   - INS-260330-09A2
   - INS-260323-BC61
-  - INS-260323-03F4
 ---
 When Edison recognized that his DC system was technically inferior to Tesla's AC, he launched a fear campaign rather than improving his product. He paid schoolboys to steal neighborhood pets, then publicly electrocuted them using AC current to 'prove' it was too dangerous for homes. He also ensured the electric chair used AC current to cement the association between AC and death.
 

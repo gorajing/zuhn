@@ -44,7 +44,6 @@ stance: >-
   friction
 related:
   - INS-260328-9408
-  - INS-260328-D0F6
   - INS-260330-36DB
   - INS-260325-502D
   - INS-260330-C24F

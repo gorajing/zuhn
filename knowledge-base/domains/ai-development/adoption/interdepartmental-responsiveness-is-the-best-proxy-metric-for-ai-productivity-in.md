@@ -48,11 +48,12 @@ resolutions:
     bottlenecks.
 related:
   - INS-260322-A36C
+  - INS-260501-FD20
   - PRI-260406-3EF8
   - INS-260329-500E
   - INS-260423-2B80
-  - INS-260328-E410
   - INS-260403-7EB2
+  - INS-260501-3D33
 stance: >-
   Instead of measuring lines of code or contracts drafted, measure whether
   departments using AI tools become more responsive to other departments

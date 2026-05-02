@@ -5,6 +5,7 @@
 - `INS-260403-3852` Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260404-6586` AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
 - `INS-260403-3517` Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
+- `INS-260501-723C` Amjad Masad: we're not seeing people rip out Salesforce or Workday — they're building MCPs into Salesforce. But vertical SaaS is in trouble — survey software gets replaced wholesale.
 - `INS-260404-19B0` Vertical SaaS companies are scaling ACV by embedding AI to automate more tasks across three waves: Cloud, Fintech, and now AI Inside.
 - `INS-260403-CC59` ERP systems are unbundling into specialized tools, opening market entry windows for focused startups.
 - `INS-260404-1DDB` The most successful pitch decks in this collection target specific verticals (grocery, legal, women's health) or build infrastructure layers (billing, banking-as-a-service, payments).

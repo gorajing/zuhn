@@ -28,8 +28,8 @@
 - `INS-260403-EEE5` Evaluate new ideas by trying to imagine how they could work, not by listing reasons they won't.
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
-- `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - `INS-260405-B4D2` Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
+- `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - `INS-260410-3264` Fred Terman single-handedly willed Silicon Valley into existence by recruiting defense researchers to Stanford, rewriting tech transfer to be company-friendly, and anchoring the Stanford Industrial Park with Lockheed as its first major tenant.
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.

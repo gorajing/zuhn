@@ -62,11 +62,11 @@ stance: >-
   and hypothesis-formation; closing that gap requires significant RL on tasks
   that model how researchers actually interact with the world.
 related:
+  - INS-260501-D360
   - PRI-260406-B9E0
   - INS-260410-F985
   - INS-260329-E402
   - PRI-260405-6A4E
-  - PRI-260407-ED1C
 ---
 Dwarkesh raises the puzzle that LLMs have memorized essentially all human knowledge yet have produced zero documented examples of the cross-field novel synthesis humans sometimes perform (e.g., noticing that magnesium deficiency produces brain structures matching migraines, leading to a treatment). Sholto's answer: the pre-training objective imbues broad flexible knowledge but not the skill of making novel connections — that skill is what humans build through PhD programs and real-world research loops. Trenton adds that models also lack good memory scaffolding: they don't decide what to compress into durable summaries the way a human learner does.
 

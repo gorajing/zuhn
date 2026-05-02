@@ -58,6 +58,7 @@ related:
   - PRI-260406-BE21
   - INS-260403-76B7
   - INS-260412-B6D3
+  - INS-260501-7A59
 ---
 The four channel categories — inbound, outbound, paid, and partnerships — have different risk profiles at different stages. Paid channels pre-PMF burn cash testing messaging on an audience you haven't validated. Inbound and outbound channels, while slower, generate direct customer feedback that refines your positioning and ICP simultaneously.
 

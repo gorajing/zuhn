@@ -54,6 +54,6 @@ related:
   - INS-260327-FC68
   - INS-260403-A6F1
   - INS-260330-14CA
-  - INS-260405-3046
+  - INS-260501-5582
 ---
 Ben Gurion airport's risk-scoring system (1-6 scale based on interviews and profiling) creates a tiered experience: low-risk passengers (score 1-2) pass through standard screening identical to any Western airport, while high-risk passengers (score 5-6) face manual bag searches, additional questioning, and pat-downs. This concentrates expensive human attention where the probability of threat is highest rather than spreading it uniformly across all passengers. The US TSA PreCheck program represents a partial adoption of this principle—pre-vetted travelers get expedited screening. This design pattern applies directly to product and platform strategy: fraud detection, content moderation, customer support, and onboarding all benefit from risk-tiered resource allocation rather than one-size-fits-all treatment. The key tradeoff is that tiered systems require accurate risk assessment upfront; if the scoring model is biased or inaccurate, the system both fails at security and creates discriminatory experiences.

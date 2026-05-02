@@ -52,11 +52,11 @@ stance: >-
   premiums intact.
 related:
   - INS-260330-819E
+  - INS-260501-70FE
   - INS-260403-D966
   - INS-260404-D6F7
   - INS-260330-7C24
   - INS-260329-B2F4
-  - PRI-260406-25D0
 evidence:
   - id: INS-260330-B28C
     type: SUPPORTS

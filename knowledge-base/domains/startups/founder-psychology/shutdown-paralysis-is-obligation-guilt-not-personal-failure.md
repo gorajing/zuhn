@@ -43,7 +43,6 @@ stance: >-
   investors — and the correct reframe is that the obligation was always to try
   hard, try smart, and act ethically, not to win.
 related:
-  - INS-260405-4CDA
   - INS-260403-B008
   - INS-260327-7D75
   - INS-260328-7CA9

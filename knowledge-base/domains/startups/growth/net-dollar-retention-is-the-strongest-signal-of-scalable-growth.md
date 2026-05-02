@@ -57,6 +57,7 @@ related:
   - INS-260403-1B8C
   - PRI-260406-BE21
   - INS-260403-53B0
+  - INS-260501-2322
 ---
 Net Dollar Retention measures whether your existing customer base generates more revenue over time through upsells, cross-sells, and usage expansion — net of churn and downgrades. Best-in-class SaaS companies achieve 110-130%+ NDR, meaning the business grows even if it stops acquiring new customers entirely.
 

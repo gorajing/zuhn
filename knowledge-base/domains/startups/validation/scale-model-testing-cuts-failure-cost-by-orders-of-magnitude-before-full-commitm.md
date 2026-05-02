@@ -50,7 +50,6 @@ stance: >-
   cheaper — it reveals failure modes that no amount of theoretical analysis can
   predict.
 related:
-  - INS-260325-DAD7
   - PRI-260406-9DD4
   - INS-260320-EF3A
   - INS-260410-89D0

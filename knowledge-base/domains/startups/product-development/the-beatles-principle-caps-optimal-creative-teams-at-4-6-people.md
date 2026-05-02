@@ -50,7 +50,6 @@ stance: >-
   products than teams of 4-6, regardless of the project's ambition level
 related:
   - INS-260320-A1D3
-  - INS-260327-725F
   - INS-260403-0185
   - PRI-260406-1993
   - INS-260325-FADB

@@ -12,5 +12,6 @@
 - `INS-260329-44C9` Figma-first design eliminates the ambiguity that causes AI code editors to hallucinate features and layouts.
 - `INS-260329-8DC5` Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - `INS-260423-7C1A` Dalton: you can oneshot a Salesforce clone, then oneshot the next TechCrunch-clone when that fails, and end up deep in pivot hell because the shiny thing is always what you know least about.
+- `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - `INS-260404-9D14` AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.

@@ -44,7 +44,6 @@ stance: >-
   promises while punishing them less for missing delivery targets, creating an
   incentive structure that prioritizes narrative over results.
 related:
-  - INS-260327-4212
   - PRI-260406-1AA1
   - INS-260403-D880
   - INS-260410-5CAA

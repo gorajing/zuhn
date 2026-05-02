@@ -50,11 +50,10 @@ stance: >-
   responsibility that directly enables team alignment, investor confidence, and
   market positioning.
 related:
-  - INS-260330-ACDA
   - INS-260402-E148
   - INS-260403-6BF7
-  - INS-260403-1984
   - INS-260403-E4C6
+  - INS-260403-1984
   - INS-260328-ACC3
   - INS-260409-7249
 ---

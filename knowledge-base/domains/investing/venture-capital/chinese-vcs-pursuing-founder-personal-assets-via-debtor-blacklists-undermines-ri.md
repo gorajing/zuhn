@@ -58,5 +58,6 @@ related:
   - PRI-260328-604D
   - PRI-260403-26B9
   - INS-260403-1217
+  - INS-260501-3BCF
 ---
 Chinese VCs have begun placing failed founders on official debtor blacklists and pursuing personal assets — a practice that threatens the underlying incentive structure of startup ecosystems. The power of venture-backed entrepreneurship depends critically on limited liability: founders can swing for ambitious bets because the downside is bounded. When investors can pierce that boundary and attach personal liability to startup failure, the rational response is to take smaller, safer bets or avoid founding altogether. This is a structural difference from US VC norms, where failed founders are typically recycled back into the ecosystem as experienced operators or second-time founders. The Chinese approach optimizes for capital recovery at the cost of the ecosystem's generative capacity.

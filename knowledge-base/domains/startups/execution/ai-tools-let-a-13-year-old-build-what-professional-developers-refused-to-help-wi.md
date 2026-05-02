@@ -52,8 +52,8 @@ related:
   - PRI-260406-806C
   - INS-260323-BF81
   - INS-260410-91A1
+  - INS-260501-801C
   - INS-260329-F4E4
-  - INS-260323-FCBB
 ---
 Goldstein had an idea for a general AI agent but every developer he contacted refused to help—probably because of his age. So he built it himself using AI coding tools, supplemented with weekly coding lessons. He went from idea to launched product to first paying customer (via Stripe) as a 13-year-old building after school.
 

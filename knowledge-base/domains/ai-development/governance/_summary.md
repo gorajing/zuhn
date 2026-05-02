@@ -1,10 +1,11 @@
 # Topic: governance
 
-> 25 insights
+> 28 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` [high] AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260413-9E3D` [high] August 2025: US lawmakers increased scrutiny of AI companion safeguards after a widely reported teen suicide linked to an AI companion. October 13: California enacted SB 243 regulating companion bots — emotional AI is now a distinct regulatory frontier.
+- `INS-260501-504A` [high] AI is industrialization, not nuclear bombs — regulate the dangerous use cases, not the technology itself.
 - `INS-260409-647D` [high] AI labs bankroll most AI scientists and fire the ones who produce critical findings — producing the same epistemic distortion fossil fuel funding creates in climate science.
 - `INS-260410-59F4` [high] Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
 - `INS-260410-991B` [high] China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
@@ -20,8 +21,10 @@
 - `INS-260412-C3AB` [medium] Training AI detectors on fake videos creates a feedback loop where detection signals become training data for better fakes, structurally favoring attackers.
 - `INS-260405-A23B` [medium] Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260410-230E` [medium] Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
+- `INS-260501-B53D` [medium] The vocabulary of AI safety regulation is the toolkit a wannabe despot needs — vague terms become whatever the government wants them to mean.
 - `INS-260410-7AC1` [medium] Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
 - `INS-260412-837F` [medium] DeepMind required Google to establish an AI ethics board as a condition of its $500M acquisition, setting an early precedent for AI governance.
+- `INS-260501-2759` [medium] Wider diffusion = more vendors willing to comply, not more places for resistance to take root.
 - `INS-260423-31A1` [medium] Hinton: if the Chinese figured out how to prevent AI from ever wanting to take control away from people, they would immediately tell the Americans, because they don't want AI taking control in America either.
 - `INS-260405-5113` [medium] Khosla and Andreessen represent two ideological poles on AI's future — concentrated safety vs. unfettered advancement — and their influence shapes policy and capital flows.
 - `INS-260409-EA56` [medium] Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.

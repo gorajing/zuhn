@@ -56,5 +56,6 @@ related:
   - PRI-260328-D2FB
   - PRI-260411-31BB
   - INS-260412-3CF8
+  - INS-260501-DF06
 ---
 Today's internet security (HTTPS, email encryption, banking) rests on the mathematical difficulty of factoring large numbers — a task that takes classical computers years but that quantum computers with Shor's algorithm can solve efficiently. Unlike most technology transitions where the old system degrades gradually, this is a threshold event: once quantum computers reach sufficient scale (estimated ~4,000 logical qubits for RSA-2048), existing encryption breaks completely and suddenly. This has massive investment implications: post-quantum cryptography (PQC) is already being standardized by NIST, and companies providing PQC migration infrastructure represent a hedge against this binary risk. The 'harvest now, decrypt later' threat means adversaries are already storing encrypted data to decrypt once quantum capability arrives, making the timeline for migration more urgent than the timeline for quantum computers themselves.

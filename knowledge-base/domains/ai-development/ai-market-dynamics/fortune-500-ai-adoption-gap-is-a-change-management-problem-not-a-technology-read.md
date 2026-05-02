@@ -55,9 +55,9 @@ resolutions:
 related:
   - INS-260410-797C
   - INS-260411-CF02
+  - INS-260501-814C
   - INS-260403-F234
   - PRI-260328-0C51
-  - INS-260327-969D
 stance: >-
   Fortune 500 CEOs universally say they want to become AI companies, but actual
   deployment lags because change management across large organizations ...

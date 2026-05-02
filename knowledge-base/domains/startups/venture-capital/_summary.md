@@ -1,7 +1,8 @@
 # Topic: venture-capital
 
-> 10 insights
+> 11 insights
 
+- `INS-260501-63E7` [high] Cursor at $60B is the largest private venture acquisition ever — but it's structured as a post-IPO option because both companies need each other to look like a real business.
 - `INS-260405-180A` [high] Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.
 - `INS-260405-B01A` [high] Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
 - `INS-260409-AB8D` [high] VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.

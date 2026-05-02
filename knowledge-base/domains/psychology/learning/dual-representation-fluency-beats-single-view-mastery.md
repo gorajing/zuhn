@@ -49,7 +49,6 @@ stance: >-
   translating between them produces deeper insight than mastering either
   representation alone
 related:
-  - INS-260325-B061
   - INS-260330-D511
   - PRI-260406-FA5B
   - INS-260403-E2FB

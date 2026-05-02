@@ -65,6 +65,7 @@ related:
   - INS-260328-7241
   - PRI-260328-7E58
   - PRI-260328-99F0
+  - INS-260501-814C
   - INS-260321-4B99
 ---
 Kroeber identifies what he calls the 'materialist Achilles heel' of East Asian industrial-policy models: a deep conviction that physical stuff is what matters and that services/intangibles will magically follow. Chinese leaders share this with Silicon Valley techno-optimists. But the evidence is that modern high-wage economies run on intangible services demand, not industrial output.

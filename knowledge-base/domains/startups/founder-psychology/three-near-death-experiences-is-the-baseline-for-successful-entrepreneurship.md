@@ -48,7 +48,6 @@ stance: >-
   weren't sure the company would survive the week, and founders who claim
   otherwise are retconning their story.
 related:
-  - INS-260330-1226
   - INS-260410-2AF4
   - INS-260330-E39E
   - INS-260323-C4E2

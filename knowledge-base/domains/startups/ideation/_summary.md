@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 90 insights
+> 91 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -84,6 +84,7 @@
 - `INS-260403-06D5` [medium] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.
 - `INS-260323-8897` [medium] Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.
+- `INS-260501-2243` [medium] Amjad Masad: operations teams sit at the nexus of data flow, buy a lot of SaaS, are typically not happy with it — when they use Replit the ROI is as good if not greater than product teams.
 - `INS-260403-44ED` [medium] Projects conceived as charities but requiring company economics to operate are fertile ground for startup ideas precisely because they're overlooked.
 - `INS-260403-96F9` [medium] Like a brainless virus that outpaces scientists through sheer mutation speed, startups find PMF by running many cheap experiments faster than competitors can think.
 - `INS-260321-08AC` [medium] There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.

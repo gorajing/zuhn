@@ -64,7 +64,7 @@ related:
   - INS-260328-91A1
   - INS-260402-8E46
   - INS-260405-DFBC
-  - INS-260403-6F22
+  - INS-260403-B301
 stance: AI companies will be 'model busters'
 evidence:
   - id: INS-260322-8BD1

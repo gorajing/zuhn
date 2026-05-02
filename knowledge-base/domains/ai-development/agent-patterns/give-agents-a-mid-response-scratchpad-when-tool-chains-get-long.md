@@ -64,6 +64,7 @@ related:
   - INS-260410-4067
   - INS-260410-87B5
   - INS-260410-6ABA
+  - INS-260501-F826
 ---
 Most agentic failures in long chains come not from reasoning ability but from the model barreling past important information in tool call results. A 'think' tool — literally a no-op that accepts a thought string and appends it to the log — gives the model a structured place to pause, restate constraints, and verify its plan before acting. Anthropic's tau-bench results showed this improved consistency (pass^k) across k=1 through k=5 in both airline and retail customer service domains.
 

@@ -70,6 +70,7 @@ related:
   - PRI-260324-36BF
   - INS-260327-B815
   - INS-260410-46BB
+  - INS-260501-6ECF
 ---
 Karen Hao defines the distinction sharply: a normal business has a fair exchange where the counterparty feels they received the same amount of value they provided. An empire is predicated on extracting more value than it offers at every layer of the supply chain — from the artists whose IP trains models without consent, to the data annotators who are paid poverty wages to teach the very capabilities that will automate their former jobs, to the communities whose water and air are consumed by data centers they never consented to host.
 

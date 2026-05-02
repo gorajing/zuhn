@@ -59,9 +59,9 @@ related:
   - INS-260410-FEFA
   - INS-260410-5F60
   - INS-260330-AE16
+  - INS-260501-F394
   - PRI-260403-9D15
   - PRI-260403-6E50
-  - INS-260325-4C6D
   - INS-260410-D3A7
 ---
 Because addition distributes gradients equally to both branches during backprop, a residual pathway of the form y = x + f(x) gives every layer an unimpeded gradient flow from the loss all the way back to the input. At initialization, residual blocks (f) are weight-initialized to contribute near-zero, so the effective network is almost the identity — but gradients still flow everywhere. As training proceeds, individual blocks 'come online' and start contributing meaningful transformations, without ever breaking the gradient path.

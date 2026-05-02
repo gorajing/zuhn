@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260327-5D5F
   - INS-260409-3230
+  - INS-260501-FDF0
   - INS-260327-7A48
   - PRI-260403-67FC
-  - PRI-260328-A82C
   - INS-260410-3A08
 stance: Supervised fine-tuning only changed tone and instruction-following
 ---

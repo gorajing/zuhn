@@ -58,5 +58,6 @@ related:
   - INS-260330-70A8
   - INS-260329-A461
   - INS-260329-2DF2
+  - INS-260501-A550
 ---
 The video's central claim is that nothing about a modern computer is mysterious once you see the full stack: a wire either has electricity or doesn't (bit), bits combine through logic gates (decisions), gates form adders and ALUs (arithmetic), flip-flops store state (memory), buses route data between components, and a control ROM sequences everything into executed instructions. Each layer exists only to hide the layer below from the layer above. When a programmer feels a computer is 'magic,' it means they have never mentally walked the layers — not that there is any layer where the causal chain breaks. This matters because the same intuition applies to any complex system: the magic feeling is a map, not the territory, and deep understanding comes from refusing to accept any layer as opaque.

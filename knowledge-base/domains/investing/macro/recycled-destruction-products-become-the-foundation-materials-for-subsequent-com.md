@@ -56,7 +56,7 @@ related:
   - INS-260410-F342
   - INS-260412-DE2D
   - INS-260412-BDB5
-  - INS-260330-DC5E
+  - INS-260501-5DF6
 ---
 Every heavy element in our technological civilization — the gold in circuits, the uranium in reactors, the platinum in catalytic converters — was forged in neutron star collisions billions of years ago. These atoms scattered through the galaxy, mixed into gas clouds, and eventually coalesced into our solar system. The catastrophic destruction of neutron stars became the foundation materials for all subsequent complexity.
 

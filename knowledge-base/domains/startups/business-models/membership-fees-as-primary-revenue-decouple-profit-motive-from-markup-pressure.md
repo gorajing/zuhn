@@ -48,7 +48,6 @@ stance: >-
   margins will consistently undercut competitors on price because raising prices
   destroys the subscription value proposition
 related:
-  - INS-260323-F753
   - INS-260322-3259
   - INS-260327-048B
   - INS-260330-77D1
@@ -58,6 +57,7 @@ related:
   - INS-260405-8884
   - INS-260404-6751
   - INS-260404-C9B5
+  - INS-260403-EE02
 evidence:
   - id: INS-260323-F753
     type: SUPPORTS

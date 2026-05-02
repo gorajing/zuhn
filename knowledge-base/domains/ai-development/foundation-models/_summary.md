@@ -1,7 +1,8 @@
 # Topic: foundation-models
 
-> 10 insights
+> 11 insights
 
+- `INS-260501-CF7D` [high] Frontier capability today shows up in tiny edge models within a year — and we don't know where the ceiling is yet.
 - `INS-260410-022B` [high] Amodei's 2017 'Big Blob of Compute' hypothesis still holds: scaling is bottlenecked by compute, data, objective function, and numerical stability — not by clever methods.
 - `INS-260410-F342` [high] Pretraining data is to AGI what fossil fuels were to industrial civilization: finite and eventually replaced, but indispensable as the bridge to what comes next.
 - `INS-260410-56F7` [high] Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.

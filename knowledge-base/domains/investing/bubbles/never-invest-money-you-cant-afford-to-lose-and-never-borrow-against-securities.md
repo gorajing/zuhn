@@ -51,7 +51,7 @@ related:
   - PRI-260405-0099
   - INS-260405-092A
   - INS-260323-1B42
-  - INS-260328-195E
+  - INS-260501-0A62
   - INS-260330-072D
 stance: >-
   The two cardinal rules of investing: only use money you don't need short-term,
