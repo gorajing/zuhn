@@ -52,10 +52,10 @@ stance: >-
   between performance and reality
 related:
   - INS-260323-6908
+  - INS-260505-1165
   - PRI-260325-3F50
   - INS-260323-E81D
   - INS-260403-9861
-  - INS-260325-537A
 evidence:
   - id: INS-260323-99E0
     type: CHALLENGES

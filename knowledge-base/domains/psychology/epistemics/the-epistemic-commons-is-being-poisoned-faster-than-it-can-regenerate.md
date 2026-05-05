@@ -61,5 +61,6 @@ related:
   - INS-260325-2BDB
   - PRI-260406-3AE8
   - INS-260423-3F3B
+  - INS-260505-5DC4
 ---
 The framing borrowed from Daniel Schmachtenberger: societies run on substrates (soil, attention, trust) that regenerate slowly but are consumed quickly by certain systems. Social media and AI-generated content are structurally substrate-consumptive of attention: they optimize for engagement rather than transformation, which depletes user cognitive capacity at a rate faster than any regenerative process. Unlike physical substrates, attention substrate depletion is invisible to the individual user in the moment — they feel entertained, not depleted. Over years, the population-level depletion shows up as declining attention spans, decreased capacity for complex argument, and increased susceptibility to polarizing framings. The practical implication: individuals choosing their information diet should treat engagement-optimized content as a substrate-depleting food category, similar to how processed foods deplete the metabolic substrate. Organizations designing for durable audience relationships should identify which side of the substrate-depleting versus substrate-regenerating line their content falls on, and weight toward regeneration (slow content, essays, long-form) even when it costs short-term engagement.

@@ -69,7 +69,7 @@ related:
   - INS-260410-67D5
   - INS-260330-4DC5
   - PRI-260405-FB37
-  - INS-260321-D959
+  - INS-260505-584B
 ---
 Sutskever's argument is elegant: if humans only outperformed models at vision, locomotion, and dexterity, you could attribute it to evolutionary priors refined over hundreds of millions of years. But humans are also robust, reliable learners in domains like programming and mathematics that literally did not exist until recently. This means whatever makes humans good at learning is 'not so much a complicated prior, but something more, some fundamental thing.'
 

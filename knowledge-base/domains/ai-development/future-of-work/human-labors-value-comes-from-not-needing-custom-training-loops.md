@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260403-5D81
   - INS-260403-6EA6
+  - INS-260505-2FFB
   - INS-260403-449D
   - INS-260404-CE26
-  - INS-260410-1197
 ---
 The biologist looking at slides to distinguish a real macrophage from a lookalike represents the modal knowledge-work task: technically a 'textbook deep learning problem' but one where the cost of building, validating, and maintaining a custom model exceeds the value of automating that single microtask. Multiply this across the hundreds of judgment-laden subtasks that any worker handles per day and the picture flips.
 

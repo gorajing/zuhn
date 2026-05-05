@@ -49,11 +49,11 @@ stance: >-
   AI analysis of non-coding DNA regions will unlock more therapeutic
   breakthroughs than protein-coding gene research over the next decade
 related:
+  - INS-260505-50AC
   - INS-260408-8F0A
+  - INS-260505-45B7
   - INS-260410-CEAA
   - INS-260412-812C
-  - INS-260330-4329
-  - INS-260403-13AF
 ---
 AlphaGenome represents a paradigm shift in genomics by targeting the 98% of DNA that was previously considered 'junk' but actually regulates everything from gene expression to disease susceptibility. It outperformed existing models in 24 of 26 evaluations covering gene expression, splicing, and mutation-disease links.
 

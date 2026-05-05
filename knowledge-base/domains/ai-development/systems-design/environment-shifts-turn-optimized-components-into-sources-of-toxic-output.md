@@ -48,7 +48,6 @@ stance: >-
   Systems optimized for one environment will actively produce harmful byproducts
   when conditions change, not merely degrade gracefully
 related:
-  - INS-260403-979D
   - PRI-260405-3449
   - INS-260330-A3EB
   - INS-260330-8C54

@@ -55,13 +55,13 @@ stance: >-
   most effective technique for making abstract precision differences intuitively
   graspable.
 related:
-  - INS-260323-144F
   - INS-260330-8FF8
   - INS-260323-527B
   - INS-260330-CBFD
   - INS-260325-CC49
+  - INS-260323-144F
   - INS-260325-5B7F
-  - INS-260330-4824
+  - INS-260505-D35A
 evidence:
   - id: INS-260329-D8BC
     type: SUPPORTS

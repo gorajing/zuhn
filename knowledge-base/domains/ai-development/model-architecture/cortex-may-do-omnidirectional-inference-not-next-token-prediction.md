@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260321-3967
   - INS-260325-D4F6
+  - INS-260505-0200
   - INS-260403-9D8A
   - INS-260330-B539
-  - INS-260403-4672
 ---
 LLMs do a single, directional computation: given prior tokens, predict the next. They can emulate masked inference at inference time through prompting tricks, but it's not native — the forward pass only amortizes one direction. The cortex, by Marblestone's account (and close to Yann LeCun's energy-based-model view), may natively support clamping arbitrary subsets of variables and sampling from any other subset.
 

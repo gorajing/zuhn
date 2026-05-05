@@ -1,5 +1,6 @@
 # Tag: active-learning
 
+- `INS-260505-9723` Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 - `INS-260404-023C` Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260403-F9EE` Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.

@@ -51,7 +51,6 @@ related:
   - PRI-260323-A33E
   - PRI-260328-1D0B
   - INS-260323-9BC8
-  - INS-260409-1652
 stance: >-
   The Aharonov-Bohm effect required 27 years of progressively tighter
   experiments

@@ -52,10 +52,10 @@ stance: >-
   step of choosing what to work on the key to the whole game
 related:
   - PRI-260406-2411
+  - INS-260505-A55F
   - PRI-260406-874A
   - INS-260325-898A
   - INS-260402-4AB4
-  - INS-260403-3E9A
   - INS-260405-D606
 evidence:
   - id: INS-260402-5522

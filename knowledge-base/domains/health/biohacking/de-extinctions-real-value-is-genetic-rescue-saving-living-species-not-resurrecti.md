@@ -53,9 +53,9 @@ related:
   - PRI-260328-5989
   - PRI-260323-A05E
   - INS-260325-DFA5
-  - INS-260323-E81D
   - INS-260412-23C8
   - INS-260412-A4E9
+  - INS-260505-AA8C
 stance: >-
   The same gene editing tools used for de-extinction can save living species
   from genetic bottlenecks, invasive species, and disease

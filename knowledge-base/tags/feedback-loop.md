@@ -1,3 +1,4 @@
 # Tag: feedback-loop
 
+- `INS-260505-B98F` Brain digital twins are tools to study the brain, but also tools to discover better AI architectures.
 - `INS-260323-CE9A` Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'

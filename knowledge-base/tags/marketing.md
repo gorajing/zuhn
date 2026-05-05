@@ -7,9 +7,9 @@
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260410-8122` 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
+- `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260405-DFBC` Getting cited by AI engines compounds brand authority faster than traditional SEO because AI models return to sources that performed well before.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
-- `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260322-5745` When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.

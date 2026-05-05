@@ -57,7 +57,7 @@ related:
   - PRI-260328-B2EA
   - PRI-260321-14D8
   - INS-260403-8176
-  - INS-260322-474A
+  - INS-260505-D35A
 ---
 Altman draws a direct analogy between the AI community's fixation on parameter counts and the processor gigahertz wars of the 1990s-2000s. Nobody knows or cares about their phone's clock speed today; they care about what it can do. Similarly, the path to better AI performance doesn't always run through bigger models — it runs through whatever delivers the most value to users.
 

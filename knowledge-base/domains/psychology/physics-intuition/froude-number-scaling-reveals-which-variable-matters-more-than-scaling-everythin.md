@@ -49,10 +49,10 @@ stance: >-
   predictions than trying to match all variables simultaneously.
 related:
   - INS-260403-BB23
+  - INS-260505-1E61
   - INS-260330-4824
   - INS-260413-09C4
   - PRI-260323-8E89
-  - INS-260410-022B
 evidence:
   - id: INS-260329-D8BC
     type: SUPPORTS

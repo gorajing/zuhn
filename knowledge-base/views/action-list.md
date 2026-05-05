@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-02 | 5048 actionable insights
+Generated on 2026-05-05 | 5049 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -622,6 +622,7 @@ Generated on 2026-05-02 | 5048 actionable insights
 - [INS-260410-5951] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - [INS-260410-303B] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
 - [INS-260410-D03C] Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
+- [INS-260505-9723] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.

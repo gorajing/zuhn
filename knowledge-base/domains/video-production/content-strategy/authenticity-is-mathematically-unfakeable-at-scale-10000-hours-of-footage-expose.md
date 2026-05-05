@@ -44,8 +44,8 @@ related:
   - PRI-260322-94C4
   - INS-260405-6019
   - PRI-260321-5857
+  - INS-260505-7B61
   - INS-260322-F891
-  - INS-260329-577E
 stance: >-
   With 10,000+ hours of footage online, any inauthenticity would surface as
   visible inconsistencies

@@ -52,6 +52,6 @@ related:
   - INS-260412-09A7
   - INS-260412-DE2D
   - PRI-260323-A33E
-  - INS-260325-23E0
+  - INS-260505-7EF5
 ---
 The video highlights that neutron star cores reproduce conditions similar to the moments after the Big Bang, making them 'fossils' of the universe's origin. This is a broadly applicable epistemological principle: to understand why a system behaves as it does under normal conditions, study it under extreme conditions that strip away accumulated complexity and reveal foundational dynamics. In startups, stress-testing a business model under extreme constraints (zero budget, 10x demand) reveals which assumptions are load-bearing. In psychology, crisis situations reveal a person's core values and decision-making heuristics. The extreme case doesn't just test the system — it exposes the generative rules that the normal case obscures.

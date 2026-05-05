@@ -46,7 +46,6 @@ stance: >-
   your genetic set point accounts for roughly half, leaving enormous room for
   deliberate practice to shift your baseline contentment.
 related:
-  - INS-260323-8F70
   - INS-260330-C31B
   - PRI-260406-1188
   - PRI-260406-69FC

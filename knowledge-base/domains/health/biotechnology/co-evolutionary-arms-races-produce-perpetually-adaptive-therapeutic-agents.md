@@ -50,6 +50,7 @@ related:
   - INS-260412-56B8
   - PRI-260403-C34A
   - INS-260412-CF0E
+  - INS-260505-D52C
 ---
 The fundamental advantage of phage therapy over antibiotics is that phages are living systems locked in an evolutionary arms race with their targets. While antibiotics are static chemical compounds that bacteria can permanently outrun through mutation, phages continuously counter-adapt. This makes them 'smart weapons that are constantly getting better at killing.'
 

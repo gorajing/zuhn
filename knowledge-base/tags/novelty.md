@@ -2,6 +2,7 @@
 
 - `INS-260410-9EA8` Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
 - `INS-260423-A0C9` Dan Koe: you can tell AI to share something novel, but then you're anticipating it — it is no longer novel, no longer a surprise, and you destroyed any chance of stumbling upon a discovery.
+- `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
 - `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.

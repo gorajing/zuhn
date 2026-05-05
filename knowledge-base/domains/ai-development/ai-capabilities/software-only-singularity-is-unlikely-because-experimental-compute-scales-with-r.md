@@ -58,7 +58,6 @@ related:
   - INS-260403-5427
   - INS-260320-7682
   - INS-260330-4C5A
-  - INS-260323-7424
   - INS-260410-DD35
 stance: >-
   AI automating AI R&D won't produce runaway self-improvement because research

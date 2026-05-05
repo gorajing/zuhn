@@ -60,6 +60,7 @@ related:
   - INS-260404-D6F7
   - INS-260501-FD20
   - INS-260329-03B5
+  - INS-260505-2FFB
 evidence:
   - id: INS-260329-03B5
     type: TRANSFERS_TO

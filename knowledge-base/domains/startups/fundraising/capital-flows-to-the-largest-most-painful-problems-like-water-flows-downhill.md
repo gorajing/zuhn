@@ -47,7 +47,6 @@ stance: >-
   problem they solve will attract funding more reliably than those who lead with
   technology or solution elegance.
 related:
-  - INS-260325-13B9
   - INS-260325-1AD3
   - INS-260325-EC93
   - INS-260327-CEE4

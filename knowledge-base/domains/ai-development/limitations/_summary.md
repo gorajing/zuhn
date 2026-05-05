@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 67 insights
+> 68 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -58,6 +58,7 @@
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.
 - `INS-260403-B8AA` [medium] Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
 - `INS-260410-9FE6` [medium] Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
+- `INS-260505-7B61` [medium] After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing.
 - `INS-260325-3D31` [medium] Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.
 - `INS-260323-FE69` [medium] Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
 - `INS-260411-59F7` [medium] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.

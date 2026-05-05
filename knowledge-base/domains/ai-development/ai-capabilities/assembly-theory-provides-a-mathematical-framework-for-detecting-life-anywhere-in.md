@@ -50,7 +50,6 @@ stance: >-
   assembly steps offers the first rigorous, substrate-independent method for
   detecting whether something was produced by evolutionary processes.
 related:
-  - INS-260323-8519
   - PRI-260328-36C3
   - INS-260327-F608
   - INS-260327-0692
@@ -60,6 +59,7 @@ related:
   - INS-260330-6165
   - INS-260330-CA62
   - INS-260405-C3B0
+  - INS-260330-849D
 evidence:
   - id: INS-260330-B68F
     type: CHALLENGES

@@ -56,7 +56,6 @@ stance: >-
   the threshold from weak network effects (utility without network) to strong
   network effects (each side actively pulling the other).
 related:
-  - INS-260327-6E86
   - INS-260410-25AF
   - INS-260405-DADB
   - INS-260501-FD20

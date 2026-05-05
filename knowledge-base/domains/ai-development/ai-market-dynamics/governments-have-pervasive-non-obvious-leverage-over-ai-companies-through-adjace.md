@@ -63,7 +63,7 @@ related:
   - INS-260409-B005
   - INS-260409-8181
   - INS-260409-7731
-  - INS-260330-DE65
+  - INS-260505-3CA0
   - INS-260501-8E5C
 ---
 A key revelation from the Anthropic-Pentagon episode: the government's leverage over AI labs is vastly greater than direct contract leverage. Even if an AI lab refuses to do business with the government at all, the government controls: (1) permitting for power generation, which every data center needs; (2) antitrust enforcement; (3) contracts with every major cloud, chip, and infrastructure partner the lab depends on.

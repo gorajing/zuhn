@@ -5,6 +5,7 @@
 - `INS-260410-41EF` Microsoft bet 30 years on topological qubits because Nadella believed reliable utility-scale quantum demanded a physics breakthrough, not incremental noise reduction.
 - `INS-260501-1608` Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today.
 - `INS-260410-EF9E` Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
+- `INS-260505-2FFB` EVO-1, EVO-2, all training data, all code — released openly because that's where academic labs add unique value.
 - `INS-260325-0103` Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260409-E73C` GBAR builds a positronium converter and elaborate ion cooling just to make fewer antihydrogen atoms than ALPHA-g — because ALPHA-g's 0.5K is 50,000x too warm for 1% gravity precision.
 - `INS-260409-34EA` Going the opposite direction from the dominant frontier — cold instead of hot, slow instead of fast — exposes different physics than the popular path.

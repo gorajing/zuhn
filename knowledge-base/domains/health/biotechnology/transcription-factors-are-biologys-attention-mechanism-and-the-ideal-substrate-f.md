@@ -72,8 +72,8 @@ related:
   - INS-260323-3657
   - INS-260410-1AF0
   - INS-260409-2A51
+  - INS-260505-1165
   - PRI-260328-5989
-  - INS-260325-E652
 ---
 Kimmel's observation — partly playful, partly substantive — is that the TF/binding-site/gene architecture maps cleanly onto attention's queries/keys/values. This isn't just metaphor: the structural property that matters is that a small edit to one component (swap one TF in or out, mutate one binding site) produces a large phenotypic change in the final output. Evolution needs this property because mutation rates are too low for large-edit optimization to work; TFs are the substrate that makes biology gradient-friendly despite discrete random mutations.
 

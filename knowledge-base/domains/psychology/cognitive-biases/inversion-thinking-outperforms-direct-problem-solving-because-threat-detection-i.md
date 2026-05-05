@@ -52,7 +52,6 @@ stance: >-
   threat-detection circuitry is evolutionarily stronger than its
   opportunity-finding circuitry.
 related:
-  - INS-260321-BFA3
   - INS-260325-29D5
   - INS-260327-482E
   - INS-260327-9F46
@@ -62,6 +61,7 @@ related:
   - INS-260410-988F
   - INS-260329-B34E
   - INS-260330-D7CC
+  - INS-260330-64D8
 evidence:
   - id: INS-260321-BFA3
     type: CHALLENGES

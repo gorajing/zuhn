@@ -46,9 +46,9 @@ stance: >-
   incorrect assumptions.
 related:
   - INS-260325-4C09
+  - INS-260505-5D69
   - INS-260412-8361
   - INS-260403-96F9
   - INS-260325-9CDC
-  - INS-260321-D959
 ---
 The discovery timeline of gyruses is instructive: visible under microscopes for a century, dismissed as bacteria, formally recognized only in 2003, and now found to be ubiquitous — in oceans, water towers, animal guts, human mouths. In under 20 years the field went from 'this doesn't exist' to 'this is everywhere and reshapes our understanding of life itself.' This pattern repeats across science: prions, dark energy, the microbiome. The implication for any knowledge worker is that the most impactful discoveries often don't require new instruments — they require abandoning an assumption that makes existing evidence invisible. Actively seeking the 'elephant-sized ducks' in your own field means questioning which observations you've been automatically filing into comfortable categories.

@@ -47,6 +47,7 @@ related:
   - INS-260412-3603
   - PRI-260323-DAB9
   - INS-260412-644F
+  - INS-260505-7B61
   - INS-260330-649B
   - INS-260409-D170
 stance: Smifter's video uses a ladder of progressively larger scale comparisons

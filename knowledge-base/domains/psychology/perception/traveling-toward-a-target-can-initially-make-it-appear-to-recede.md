@@ -50,7 +50,6 @@ stance: >-
   counter-intuitively makes your destination appear to move away before it
   rushes toward you
 related:
-  - INS-260330-14B1
   - INS-260330-30E8
   - INS-260330-BBEE
   - INS-260330-6A9E

@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-02 | 2569 sources
+Generated on 2026-05-05 | 2578 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -298,9 +298,14 @@ Generated on 2026-05-02 | 2569 sources
 | Why fearlessness beats experience every time | Steve Stoute for Big Think+ | youtube | 6 | 2026-03-25 |
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 6 | 2026-03-25 |
+| Andreas Tolias | audio | 5 | 2026-05-05 |
+| Anshul kundaje | audio | 5 | 2026-05-05 |
+| Brian Hie   Generative biology from molecular to genome scale | audio | 5 | 2026-05-05 |
 | Code with claw | audio | 5 | 2026-03-31 |
 | Gtc after hours | audio | 5 | 2026-03-25 |
 | GTC panel 2 | audio | 5 | 2026-03-25 |
+| introduction | audio | 5 | 2026-05-05 |
+| Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
@@ -2500,6 +2505,10 @@ Generated on 2026-05-02 | 2569 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| ​Manisha Gupta | audio | 0 | 2026-05-02 |
+| Panel #1 | audio | 0 | 2026-05-02 |
+| Panel 2 | audio | 0 | 2026-05-02 |
+| Product demo | audio | 0 | 2026-05-02 |
 | 하버드대에서 밝힌 「삶에 여유가 없을수록 꼭 해야하는 1가지」 | youtube | 0 | 2026-04-23 |
 | "10배 저렴한데, 효과는 더 좋습니다!" 피부과 의사가 매일 쓰고 효과 본 재생크림 6가지 추천 | youtube | 0 | 2026-04-23 |
 | 10년 전, 젠슨 황과 일론 머스크가 본 미래 | 거장들의 대화 Ep.01 | youtube | 0 | 2026-04-23 |

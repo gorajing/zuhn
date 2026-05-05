@@ -6,6 +6,7 @@
 - `INS-260413-8CA7` Google DeepMind's Veo 3 demonstrated emergent physical understanding — buoyancy simulation and maze solving — without being explicitly trained on those tasks, across 18,000 generated videos.
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260323-EECF` The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
+- `INS-260505-7B61` After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing.
 - `INS-260328-4717` Higher-quality world models require exponentially less search to achieve the same or better outcomes.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.

@@ -50,7 +50,6 @@ stance: >-
   The feeling that money comes 'too fast' signals that you've found a large gap
   between value delivered and price charged, not that something is wrong
 related:
-  - INS-260321-4280
   - INS-260405-7838
   - INS-260403-EA2D
   - INS-260403-D880

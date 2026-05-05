@@ -48,10 +48,10 @@ stance: >-
   problems at all.
 related:
   - INS-260325-13B9
+  - INS-260505-A55F
   - INS-260405-D20A
   - INS-260404-F970
   - INS-260329-E0DE
-  - INS-260405-ECCD
   - INS-260323-4082
   - INS-260403-AAA6
 evidence:

@@ -49,10 +49,10 @@ stance: >-
   them would be empty and automatable.
 related:
   - INS-260325-1AD3
+  - INS-260505-A55F
   - INS-260405-D20A
   - INS-260405-ECCD
   - INS-260323-9C11
-  - INS-260404-F970
   - INS-260323-4082
   - INS-260330-75B5
   - INS-260403-AAA6

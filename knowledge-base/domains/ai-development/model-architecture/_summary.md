@@ -1,6 +1,6 @@
 # Topic: model-architecture
 
-> 31 insights
+> 35 insights
 
 - `INS-260405-1F0B` [high] Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
 - `INS-260501-BCCB` [high] Attention = perfect memory in context. Parametric memory = compression + abstraction. They lose and win at different things.
@@ -10,6 +10,8 @@
 - `INS-260410-2FEE` [high] With 27 tokens a bigram table has 729 entries but a 10-gram table would need 27^10 ≈ 2×10^14 entries — tables are structurally unscalable, which is the real reason neural language models won.
 - `INS-260405-5649` [high] Biological neurons operate in milliseconds on minimal power; H100 GPUs process billions of times faster but consume massive energy—these are fundamentally different engineering solutions to intelligence, not points on a spectrum.
 - `INS-260405-7383` [high] Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
+- `INS-260505-584B` [high] Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in.
+- `INS-260505-1684` [high] Same model that predicts what a variant does can be inverted to design what variant to make.
 - `INS-260501-646A` [high] End-to-end is right. End-to-end alone is not. You need structured intermediate representations for runtime validation, closed-loop training, and human feedback integration.
 - `INS-260410-268D` [high] WaveNet-style tree structures that fuse two elements at a time through multiple layers preserve more information than flattening all context into a single hidden layer.
 - `INS-260501-FE35` [high] A 7M-parameter TRM beats a frontier LLM on ARC-AGI by recursing the same weights at inference time — recursion is a scaling axis distinct from parameters.
@@ -27,10 +29,12 @@
 - `INS-260405-547E` [medium] AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260405-16AB` [medium] DeepSeek's mHC paper shows that manifold constraints on layer connections preserve model stability while enabling richer information flow.
 - `INS-260501-2BE3` [medium] Different modules forgetting at different speeds means information is preserved somewhere even when fast modules overwrite it.
+- `INS-260505-B98F` [medium] Brain digital twins are tools to study the brain, but also tools to discover better AI architectures.
 - `INS-260501-22BF` [medium] Big LLM finds the latent space, tiny TRM reasons inside it — skip the round-trip through tokens.
 - `INS-260501-FDF0` [medium] Hope's models don't just learn from input — they learn how to learn from input, generating their own learning rates and decay factors per situation.
 - `INS-260501-F394` [medium] Real depth = hierarchy of update frequencies across time scales. Stacking N transformer blocks at the same learning rate is single-time-scale learning in disguise.
 - `INS-260410-3271` [medium] Jeff Dean envisions a single 'organic blob' model where 100 teams independently train specialized modules (Southeast Asian languages, Haskell reasoning, medical imaging) that attach to a base, with continuous distillation cycling between big exploration and small efficient serving.
 
+- `INS-260505-56BD` [medium] Two independent intelligence systems built from different physics arrive at edge detectors and similar representational features.
 - `INS-260501-0EA3` [medium] VLAs spend their parameters on Taylor Swift recognition. Robots need gravity, friction, deformation. Video world models > VLAs.
 - `INS-260410-B9A6` [low] Any cortical area can clamp any subset of variables and sample from any other subset — a generality LLMs only emulate at the context-window level.

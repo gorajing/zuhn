@@ -50,6 +50,7 @@ related:
   - INS-260323-D631
   - INS-260410-55B5
   - INS-260408-76F4
+  - INS-260505-5DC4
 stance: >-
   CRISPR-Cas9 uses RNA-guided proteins to make targeted DNA edits cheaply and
   quickly, unlike earlier one-off gene-editing tools.

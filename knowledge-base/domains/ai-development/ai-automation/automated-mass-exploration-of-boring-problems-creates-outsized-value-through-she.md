@@ -52,7 +52,6 @@ stance: >-
   easiest ones produces more cumulative scientific value than the human strategy
   of small teams working on hard problems for months.
 related:
-  - INS-260322-888D
   - INS-260321-53E2
   - INS-260323-2117
   - INS-260325-2F12
@@ -62,6 +61,7 @@ related:
   - INS-260330-541B
   - PRI-260328-8516
   - PRI-260406-D3E4
+  - INS-260501-DE83
 ---
 Terence Tao observes that AI approaches mathematics fundamentally differently from humans: instead of small groups spending months on hard problems, AI systematically sweeps a thousand problems and solves the 12 easiest ones. This mirrors China's innovation strategy where massive volumes of incremental results compound into transformative technology advantages.
 

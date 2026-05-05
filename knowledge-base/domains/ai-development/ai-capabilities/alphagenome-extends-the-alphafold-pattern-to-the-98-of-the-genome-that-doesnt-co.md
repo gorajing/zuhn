@@ -49,9 +49,11 @@ stance: >-
   at.
 related:
   - INS-260404-07C3
+  - INS-260505-50AC
   - INS-260410-1AF0
+  - INS-260505-1606
   - PRI-260323-A05E
-  - PRI-260323-F37F
-  - INS-260412-347D
+  - INS-260505-AA8C
+  - INS-260505-45B7
 ---
 Jennifer Doudna's question to Hassabis: CRISPR can edit nearly any DNA sequence, but for most genetic diseases we don't know which specific changes are causing the problem — especially in the 98% of the genome that doesn't code for proteins. AlphaGenome takes the long genetic sequence and predicts whether a given mutation is harmful or benign. Hassabis says current AlphaGenome isn't accurate enough yet, but the multigenic case (where cascades of mutations cause the problem) is exactly where AI should win because humans can't trace those interactions. Combine future AlphaGenome with CRISPR and you have a path from 'identify the mutation' to 'fix the mutation' for diseases that are currently incurable.

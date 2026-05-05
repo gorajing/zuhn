@@ -50,12 +50,11 @@ stance: >-
   reaching the insights that would have made the venture viable
 related:
   - PRI-260320-A2C7
-  - INS-260330-E282
   - PRI-260406-7ED0
   - INS-260403-B1F2
+  - INS-260330-E282
   - INS-260403-48FE
   - INS-260404-2E6C
-  - INS-260403-63F1
 evidence:
   - id: INS-260330-E282
     type: CHALLENGES

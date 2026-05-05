@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-B1F2
   - INS-260404-A46A
+  - INS-260505-483B
   - INS-260323-DA13
   - INS-260403-FFEA
-  - INS-260403-4050
 ---
 The article distinguishes a Minimum Viable Experiment (MVE) from an MVP by flipping the question from 'What can we launch?' to 'What can we learn?' MVE tactics — landing pages, fake-door tests, concierge prototypes — validate demand without writing full product code. This is especially powerful when time or funding is limited.
 
