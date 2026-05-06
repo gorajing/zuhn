@@ -65,11 +65,11 @@ stance: >-
   move is to redesign the product to compete in an entirely different category
   with different buyers, not to push harder on your existing segment.
 related:
+  - INS-260505-AE69
   - INS-260327-442D
   - INS-260327-F2DF
   - INS-260330-F22A
   - INS-260403-E4B3
-  - INS-260327-723A
 ---
 By the time Lalit Modi launched the IPL, his BCCI international rights deal had consumed essentially all of India's ~$2-3B advertising budget allocated to cricket — perhaps 5% of the entire national ad market just for the international team. There was literally no remaining cricket-advertiser budget to capture, which seemingly capped the IPL's revenue ceiling before launch.
 

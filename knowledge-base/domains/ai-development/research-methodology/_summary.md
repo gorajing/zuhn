@@ -1,30 +1,39 @@
 # Topic: research-methodology
 
-> 50 insights
+> 78 insights
 
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
+- `INS-260505-CBE5` [high] Good students ask 'what's the gap I'm missing?' — AI models confidently fill the gap with plausible-sounding wrong answers.
 - `INS-260413-B79B` [high] AI benchmark saturation has compressed from years to months, making sustained measurement infrastructure the binding constraint on progress tracking.
 - `INS-260505-A55F` [high] Solving more problems doesn't mean solving the right problems — problem-selection stays human.
+- `INS-260505-5A06` [high] Prediction: AI guesses, formal verification confirms. Inference: AI must be calibrated against simulators because mistakes propagate to wrong scientific conclusions.
+- `INS-260505-347C` [high] When you switch to AI tools, your citations move toward big-data central topics — AI is closing fields faster than it's opening them.
 - `INS-260410-5740` [high] AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.
 - `INS-260501-1608` [high] Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today.
 - `INS-260409-004E` [high] Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
+- `INS-260505-33E6` [high] If you generate 'less aggressive' versions of public comments, the LLM also makes them more agreeable — residualize or you'll attribute the wrong cause.
 - `INS-260410-83CF` [high] Sandor Strauss's self-motivated project of ingesting, cleaning, and unifying tick data alongside 1800s-era historical pricing — years before anyone had models that could use it — is what made Medallion's later machine learning possible.
 - `INS-260410-303B` [high] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
 - `INS-260410-5036` [high] Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260410-AC0B` [high] DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
+- `INS-260505-03F6` [high] Engineering is happy with weird-looking optimal antennas; mathematicians need to understand the proof's journey. AI deployment should match the field.
 - `INS-260413-C040` [high] MSAPairformer (111M params) beat prior SOTA on ProteinGym; GPN-Star (200M) beat a 40B genomics model; AlphaFold 3 (370M) still leads FoldBench despite SimpleFold's 3B challenger — data beats scale in biology.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - `INS-260412-B805` [high] Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
 - `INS-260505-1606` [high] Models on biological data quietly learn the biases of the experiments — interpretability catches that.
 - `INS-260410-B30D` [high] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
 - `INS-260505-483B` [high] Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
+- `INS-260505-CDAE` [high] FrontierMath is held by an AI lab, DeepMind's MathConjectures benchmark has wide difficulty spread, NYT-style 30-mathematician evaluations don't scale.
 - `INS-260505-2FFB` [high] EVO-1, EVO-2, all training data, all code — released openly because that's where academic labs add unique value.
 - `INS-260410-BFCF` [high] Zuckerberg admits Meta tuned a Llama 4 Maverick variant that sat near the top of Chatbot Arena, but shipped the un-tuned version because arena-optimization 'led us astray' on actual product quality.
 - `INS-260409-C016` [high] AI research output gets judged on interim expert assessments because peer review is too slow — treat these as preliminary, not final.
+- `INS-260505-E5CC` [high] Physics: 'we know what's going on, AI extends the math.' Biology: 'we don't know what's going on, AI finds patterns.' Different toolkits.
 - `INS-260505-5510` [high] A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution.
 - `INS-260408-76F4` [high] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
 - `INS-260410-0923` [high] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
+- `INS-260505-9E07` [high] Simulators are causal-generative-models with mechanism inside, but you can't backprop through Geant4 — that's why we approximate them with neural networks.
+- `INS-260505-8E0B` [high] It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'
 - `INS-260409-C3F7` [high] Building a cell-type atlas of the avian pallium and comparing it to mammalian equivalents settled a 60-year debate about whether bird and mammal intelligence share common neural origins — a pattern other biology debates should emulate.
 - `INS-260409-5E40` [high] Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.
 - `INS-260410-9D04` [high] BrowseComp answers leaked through 20+ distinct sources, and the act of running agents on them permanently caches query trails — the benchmark degrades every time it's used.
@@ -37,21 +46,40 @@
 
 - `INS-260410-D03C` [high] Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
 - `INS-260505-3CA0` [high] Frontier labs are going closed; universities differentiate by being radically open with everything they produce.
+- `INS-260505-97AD` [high] Universities can be patient AND fast. Right now they're patient AND bureaucratic — the second is killing the first.
+- `INS-260505-C5D8` [high] Universities can't out-spend Meta on compute. They can out-open-source Meta on weights, and out-patient Meta on long-horizon research.
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260505-9723` [medium] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
+- `INS-260505-415C` [medium] Students aren't writing more papers with Claude — they're writing better papers, with figures of beauty and explorations they couldn't have done alone.
+- `INS-260505-D1E9` [medium] AI is a compression engine — it deduces from training data. Real science is abductive — surprising claims that violate expectations. The two are in tension.
 - `INS-260501-5F37` [medium] Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments.
 - `INS-260505-5D69` [medium] Nature is constantly producing pandemic-grade viruses; what we lack is the ability to detect, respond, and cure them — that's where AI's marginal benefit goes.
 - `INS-260410-3075` [medium] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260410-EF9E` [medium] Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
+- `INS-260505-0F0B` [medium] AI's transformation of biology, physics, climate, and math are different in instructive ways — comparison is the unit of insight.
+- `INS-260505-37D6` [medium] Identify the structural pattern in your problem, abstract it into general language, then look for it in other fields — this is a teachable skill.
+- `INS-260505-9B9F` [medium] MSE gives you accurate means but miscalibrated uncertainty. CRPS gives you both — optimize directly for what you actually need.
+- `INS-260505-4E44` [medium] PINNs were going to beat data-driven, then ChatGPT happened, then weather models happened — pure data-driven won most of these fights.
 - `INS-260410-F436` [medium] Gradient descent makes you solve the training problem, not generalize well — catastrophic forgetting is the natural default and good transfer happens only when researchers iterate until they find a representation that transfers.
+- `INS-260505-969C` [medium] Don't double the number of papers — accelerate fusion energy by 3 years. The metric is mission-level outcome, not output count.
 - `INS-260409-E080` [medium] Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
+- `INS-260505-864E` [medium] Same scaling law that took models from Olympiad silver to gold also applies to research-grade problems — just with much longer proof traces.
+- `INS-260505-4EB7` [medium] Anthropic and others are studying when language is learned during training, not just whether the final model speaks it.
 - `INS-260501-428B` [medium] Six years after Kaplan's language scaling law, the dexterity equivalent appeared: clean log-linear pretraining-hours to validation-loss curve.
+- `INS-260505-4351` [medium] If a new clinical policy takes an action your offline data never saw, off-policy evaluation can't bound its value — synthetic data fills the gap.
+- `INS-260505-AFAB` [medium] Two grad student talks, two domains, same lesson: encode the physics in the objective and tiny labeled datasets suffice.
 - `INS-260501-2BF8` [medium] Applied has completely rewritten their stack every ~2 years — 4 times in 10 years. That's the realistic AI engineering cadence.
+- `INS-260505-A413` [medium] Train an RL reasoning model on hard problems, and inside the reasoning trace it spins up little debate societies — more dramatic, extroverted, less agreeable than the base model.
+- `INS-260505-D545` [medium] Docker bundles are bit-for-bit reproducible but unreadable. Text specs that AI can re-execute are reproducible AND comprehensible.
 - `INS-260409-6833` [medium] Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260501-0C6C` [medium] Teleop = 24 hr/day cap per robot. Wearables = better. Egocentric video = 10M hours/year, ambient like FSD.
 - `INS-260505-D35A` [medium] AI for science demands precision (13 decimal places in physics) that consumer AI can ignore, forcing better fundamental research.
 - `INS-260501-E5AC` [medium] Scaling works AND recursion works AND specialized architectures work — they're alternative paths, not competing claims.
+- `INS-260505-5FA7` [medium] Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?'
 - `INS-260505-1E61` [medium] Foundation-model-scale science needs team-science-scale resources, which existing academic structures don't provide.
 - `INS-260410-0741` [medium] Nadella says the first thing a working quantum computer lets you do is design the next one, because simulating atom-level gate construction is exactly the workload classical hardware cannot handle.
 - `INS-260410-6BBC` [medium] The tech tree branches so widely that different civilizations would discover entirely different subsets of it, producing enormous potential gains from trade between any two.
+- `INS-260505-4426` [medium] Take the model at every training checkpoint, not just the final one — extreme events are often learned at step 50K, then forgotten by step 500K.
 - `INS-260501-BC7C` [low] If information is more fundamental than matter or energy, AI is operating on the substrate of reality — and is qualitatively different from prior revolutions.
+- `INS-260505-058D` [low] Lightning-talk grad students are running 11K-company causal inference with state-of-art LLMs, scientist-curated agent benchmarks, principled OOD evaluation.
+- `INS-260505-7527` [low] Papers tell the polished story; full institutional context could transfer the actual learnings — a society of institutions sharing context-window codecs.

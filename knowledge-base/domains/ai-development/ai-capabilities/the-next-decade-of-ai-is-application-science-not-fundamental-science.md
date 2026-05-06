@@ -55,6 +55,7 @@ related:
   - INS-260325-9CDC
   - INS-260328-6C9A
   - INS-260329-4488
+  - INS-260505-8322
 stance: Jensen Huang argues the last decade was about the science of AI
 evidence:
   - id: INS-260325-4C09

@@ -52,8 +52,8 @@ related:
   - INS-260327-4F94
   - INS-260403-6BF7
   - INS-260403-7B3B
+  - INS-260505-AE69
   - PRI-260406-CA09
-  - INS-260328-2BCF
   - INS-260404-CAFA
 ---
 The Lighthouse Playbook describes a growth strategy where founders identify individuals who already influence their target audience and help those connectors grow their own reach. Rather than paying for distribution directly, you invest in making your champions more successful — which naturally amplifies your message through their expanding platform.

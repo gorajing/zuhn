@@ -53,10 +53,10 @@ stance: >-
   identical behaviors range from expected to unthinkable depending on context
 related:
   - INS-260403-5A91
+  - INS-260505-5A06
   - PRI-260406-0109
   - INS-260410-6E7F
   - INS-260410-4518
-  - INS-260403-DE45
 evidence:
   - id: INS-260403-DE45
     type: TRANSFERS_TO

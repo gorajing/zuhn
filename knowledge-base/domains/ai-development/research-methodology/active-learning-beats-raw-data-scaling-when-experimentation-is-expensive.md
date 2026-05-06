@@ -49,11 +49,11 @@ stance: >-
   training alone.
 related:
   - INS-260403-6632
-  - INS-260410-9DB0
   - INS-260501-17BB
+  - INS-260505-D440
   - PRI-260412-7664
+  - INS-260410-9DB0
   - INS-260501-FDF0
-  - INS-260403-0A97
 ---
 Anshul Kundaje on the panel: there are two strategies for low-data scientific domains. (1) Massive bulk data collection in service of a foundation model. (2) An active-learning loop: train on what's available, identify what the model is uncertain or wrong about, design small experiments specifically to address those gaps. Both work; the active learning approach is more capital-efficient when experiments are expensive. The model itself becomes a tool for prioritizing which experiments are worth doing.
 

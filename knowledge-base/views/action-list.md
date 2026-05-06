@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-05 | 5049 actionable insights
+Generated on 2026-05-06 | 5051 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -186,6 +186,7 @@ Generated on 2026-05-05 | 5049 actionable insights
 - [INS-260423-81C4] Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
 - [INS-260424-E832] Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business?
 - [INS-260501-74AD] $150 of tokens for a board memo that would've taken a CEO 20 hours = obvious win. But people anchor on $20/month subscriptions and balk.
+- [INS-260505-F164] Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
 
 ## ai-development/ai-capabilities
 - [INS-260323-4D14] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.
@@ -623,6 +624,7 @@ Generated on 2026-05-05 | 5049 actionable insights
 - [INS-260410-303B] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
 - [INS-260410-D03C] Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
 - [INS-260505-9723] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
+- [INS-260505-5FA7] Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?'
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.

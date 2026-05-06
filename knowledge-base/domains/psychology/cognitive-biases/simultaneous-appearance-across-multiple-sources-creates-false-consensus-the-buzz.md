@@ -44,11 +44,11 @@ stance: >-
   sources, they incorrectly infer an organic trend rather than a coordinated
   campaign.
 related:
+  - INS-260505-AE69
   - INS-260321-C902
   - INS-260325-F451
   - INS-260405-5D8A
   - INS-260403-1B9E
-  - INS-260404-D3C3
 evidence:
   - id: INS-260403-1B9E
     type: CHALLENGES

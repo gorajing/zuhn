@@ -1,9 +1,9 @@
 # Tag: energy
 
+- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down.
 - `INS-260404-CC8B` Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260328-F05E` Zuckerberg argues that gigawatt-scale datacenters are technically feasible but energy permitting creates multi-year delays that capital alone cannot solve.
-- `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260410-A325` AGI will compress the measured GDP of cognitive work even as it vastly expands the value produced, so total energy throughput becomes a better civilizational yardstick than GDP.
 - `INS-260403-B539` AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260402-1640` AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.

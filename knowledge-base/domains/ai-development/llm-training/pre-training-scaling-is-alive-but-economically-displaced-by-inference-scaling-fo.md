@@ -50,11 +50,11 @@ resolutions:
 related:
   - INS-260323-4D8D
   - INS-260323-3F11
+  - INS-260505-864E
   - PRI-260323-8E89
   - INS-260323-8AEC
   - PRI-260328-D893
   - INS-260330-7FAC
-  - INS-260403-EEDF
   - INS-260405-547E
 stance: >-
   Scaling laws hold across 13 orders of magnitude and won't stop, but

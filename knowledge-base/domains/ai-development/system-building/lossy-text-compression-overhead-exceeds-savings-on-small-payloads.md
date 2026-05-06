@@ -51,11 +51,11 @@ related:
   - INS-260325-6150
   - INS-260326-8201
   - INS-260330-2294
-  - INS-260330-81A7
   - INS-260402-5034
   - INS-260403-410A
   - INS-260409-6560
   - INS-260409-ADD0
   - INS-260410-4E62
+  - INS-260410-699C
 ---
 The AAAK compression scheme adds entity codes (mapping 'driftwood' to a short symbol), structural markers, and sentence truncation. The maintainers discovered in their April 2026 correction that on their own README example, AAAK tokens (73) exceed plain English tokens (66) — they had used a naive len(text)//3 heuristic to estimate token counts instead of a real tokenizer. The underlying lesson: compression has constant overhead (the code tables, the markers, the scheme itself) that only pays off when the compressed entities repeat enough to amortize the cost. For a team mentioned once, compression loses; for a team mentioned 500 times across thousands of sessions, it wins. Applying this to Zuhn: any compression layer added to insights or principles should be measured against actual token counts, not heuristics, and should only fire at scales where entities genuinely repeat.

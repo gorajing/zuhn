@@ -48,7 +48,6 @@ stance: >-
   become nearly independent, reducing a hard joint optimization to
   embarrassingly parallel scalar quantization
 related:
-  - INS-260325-D392
   - INS-260326-AE6C
   - INS-260330-4F49
   - INS-260410-85F5

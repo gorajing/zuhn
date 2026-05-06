@@ -49,7 +49,6 @@ stance: >-
   idea-to-seed-round timeline to under one quarter, fundamentally changing what
   speed means in startup execution.
 related:
-  - INS-260320-922A
   - INS-260403-36DD
   - INS-260403-7483
   - INS-260329-4DBC

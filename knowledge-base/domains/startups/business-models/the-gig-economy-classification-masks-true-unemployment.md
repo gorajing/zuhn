@@ -47,13 +47,12 @@ stance: >-
   rather than filing for unemployment, official statistics systematically
   undercount economic distress.
 related:
-  - INS-260322-59B9
   - INS-260327-A70C
   - PRI-260328-D68F
+  - INS-260322-59B9
   - INS-260327-3A81
   - INS-260327-2627
   - INS-260403-B0CB
-  - INS-260403-3223
 evidence:
   - id: INS-260322-59B9
     type: EXTENDS

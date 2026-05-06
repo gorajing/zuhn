@@ -50,11 +50,11 @@ stance: >-
   The capacity to ask questions — not merely answer them — is what separates
   minds that model other minds from those that merely respond to stimuli.
 related:
+  - INS-260505-4EB7
   - INS-260323-2C19
   - PRI-260407-1D23
   - INS-260410-9FE6
   - PRI-260405-F5A0
-  - INS-260327-4C73
 evidence:
   - id: INS-260323-2C19
     type: SUPPORTS

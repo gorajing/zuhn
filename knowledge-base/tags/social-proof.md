@@ -19,8 +19,8 @@
 - `INS-260404-AF54` Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
 - `INS-260412-1440` Mixing genuine credentials with fabricated ones creates a credibility halo that makes each element harder to independently question.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
-- `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
+- `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260327-212A` Stanley tumblers grew explosively not because they were better water bottles but because carrying one signaled membership in specific social tribes.
 - `INS-260329-F73D` Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260403-92E9` Use testimonials with full attribution and specific quantified outcomes that map to core product benefits, never generic praise.

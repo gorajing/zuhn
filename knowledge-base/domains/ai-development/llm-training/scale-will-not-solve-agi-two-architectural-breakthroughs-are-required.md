@@ -49,6 +49,7 @@ related:
   - INS-260408-C572
   - INS-260403-BB23
   - INS-260330-0A8D
+  - INS-260505-9E07
 stance: >-
   AGI requires weight plasticity (continual learning without catastrophic
   forgetting) and causal modeling (simulation over correlation)

@@ -54,7 +54,6 @@ stance: >-
   You cannot reach a useful quantum computer by incrementally scaling noisy
   qubits — a new physical substrate is required.
 related:
-  - INS-260409-B367
   - INS-260323-DA1E
   - PRI-260328-D2FB
   - PRI-260411-31BB

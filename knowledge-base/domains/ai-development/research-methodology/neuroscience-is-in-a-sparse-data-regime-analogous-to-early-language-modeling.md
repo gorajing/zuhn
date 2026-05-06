@@ -49,9 +49,9 @@ related:
   - INS-260327-6E86
   - INS-260403-63F1
   - INS-260323-B309
+  - INS-260505-4EB7
   - INS-260501-FDF0
   - INS-260325-2FC1
-  - PRI-260407-7FB7
   - INS-260505-2FFB
 ---
 Tolias's argument: most neuroscience labs collect data targeted at specific hypotheses in specific brain regions. This is analogous to training a language model on a few books — you're in the sparse-data regime where models struggle to be accurate. AI's scaling laws revealed that data quantity is one of the primary unlocks. The same physics likely applies to neural data. The ENIGMA project at Stanford is built around this realization: collect tens of millions of neurons in primate visual cortex during naturalistic behavior, the way internet-scale text enabled LLMs.

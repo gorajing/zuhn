@@ -58,7 +58,6 @@ related:
   - INS-260330-E89A
   - INS-260330-81E0
   - INS-260330-6A65
-  - INS-260330-63DD
   - INS-260403-708E
 stance: >-
   The Aharonov-Bohm effect proved that potentials (once dismissed as mere

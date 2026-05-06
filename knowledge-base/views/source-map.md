@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-05 | 2578 sources
+Generated on 2026-05-06 | 2588 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -145,6 +145,7 @@ Generated on 2026-05-05 | 2578 sources
 | Why Businesses Are Rejecting the AI They’ve Asked For ft Agency CEO Elias Torres | youtube | 10 | 2026-03-26 |
 | World's Roundest Object! | youtube | 10 | 2026-03-30 |
 | You’re Wasting 80% of Your Time (here’s how to fix it) | youtube | 10 | 2026-03-30 |
+| Final Panel | audio | 9 | 2026-05-06 |
 | 10 Different Ways To Break Down Making $1 Million | youtube | 9 | 2026-03-30 |
 | ATP & Respiration: Crash Course Biology #7 | youtube | 9 | 2026-03-30 |
 | C Programming Tutorial for Beginners | youtube | 9 | 2026-03-29 |
@@ -230,6 +231,7 @@ Generated on 2026-05-05 | 2578 sources
 | World's Lightest Solid! | youtube | 8 | 2026-03-30 |
 | You’ll never escape life's problems. Why that’s actually liberating | Oliver Burkeman for BT+ | youtube | 8 | 2026-03-25 |
 | Your brain wasn't built to hold this much information | Richard Cytowic | youtube | 8 | 2026-03-25 |
+| Keynote   Dario Gil | audio | 7 | 2026-05-06 |
 | How to Do Great Work | blog | 7 | 2026-03-31 |
 | #1 Sales Tactic (to Make a TON of Money!) | youtube | 7 | 2026-03-27 |
 | $1.3B AI CEO: "You ONLY Need 2 People and 90 Days to Build a $1M Business" | Higgsfield Founder | youtube | 7 | 2026-03-22 |
@@ -253,6 +255,10 @@ Generated on 2026-05-05 | 2578 sources
 | What the absence of aliens on Earth really tells us | David Kipping | youtube | 7 | 2026-03-25 |
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
+| Hoover Tower | audio | 6 | 2026-05-06 |
+| Lighting talk 2 | audio | 6 | 2026-05-06 |
+| Panel   AI for the Universe | audio | 6 | 2026-05-06 |
+| Talk 1   healthcare | audio | 6 | 2026-05-06 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | A postmortem of three recent issues | blog | 6 | 2026-04-10 |
 | Scaling Managed Agents: Decoupling the brain from the hands | blog | 6 | 2026-04-10 |
@@ -301,10 +307,12 @@ Generated on 2026-05-05 | 2578 sources
 | Andreas Tolias | audio | 5 | 2026-05-05 |
 | Anshul kundaje | audio | 5 | 2026-05-05 |
 | Brian Hie   Generative biology from molecular to genome scale | audio | 5 | 2026-05-05 |
+| Carina Hong | audio | 5 | 2026-05-06 |
 | Code with claw | audio | 5 | 2026-03-31 |
 | Gtc after hours | audio | 5 | 2026-03-25 |
 | GTC panel 2 | audio | 5 | 2026-03-25 |
 | introduction | audio | 5 | 2026-05-05 |
+| Lightning talks | audio | 5 | 2026-05-06 |
 | Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
@@ -1073,6 +1081,7 @@ Generated on 2026-05-05 | 2578 sources
 | Your Legs Are Failing First — Here’s Why | youtube | 5 | 2026-03-26 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
+| Panel for AI for Universe | audio | 4 | 2026-05-06 |
 | SVAI   Keynote 2 | audio | 4 | 2026-03-31 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 4 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
@@ -1778,6 +1787,7 @@ Generated on 2026-05-05 | 2578 sources
 | You Are Immune Against Every Disease | youtube | 4 | 2026-04-12 |
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 4 | 2026-03-25 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
+| takeaway | audio | 3 | 2026-05-06 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 3 | 2026-03-30 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 3 | 2026-03-31 |
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |

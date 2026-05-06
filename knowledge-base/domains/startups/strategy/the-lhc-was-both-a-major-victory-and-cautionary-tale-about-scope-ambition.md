@@ -47,10 +47,10 @@ resolutions:
     often proves more valuable than optimizing for expected outcomes.
 related:
   - INS-260323-9770
+  - INS-260505-02F8
   - PRI-260323-CE34
   - INS-260412-3951
   - PRI-260323-DA09
-  - INS-260323-AEA7
 stance: >-
   The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old
   prediction) but failed to find supersymmetry, becoming a cautionary ...

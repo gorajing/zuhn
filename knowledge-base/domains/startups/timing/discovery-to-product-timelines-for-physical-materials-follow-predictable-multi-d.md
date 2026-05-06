@@ -59,6 +59,7 @@ related:
   - INS-260412-C217
   - INS-260412-7BD5
   - INS-260330-9346
+  - INS-260505-A639
 ---
 Graphene's journey from Andre Geim's scotch-tape experiment in 2004 to Real Graphene's G100 power bank in 2020 follows a 16-year arc. This isn't anomalous — it's roughly consistent with carbon fiber (~20 years from lab to commercial aircraft), lithium-ion batteries (~15 years from Whittingham's work to Sony's commercialization), and other materials breakthroughs. The timeline is driven by the sequential nature of materials development: fundamental characterization, process engineering, manufacturing scale-up, and cost reduction must happen in order.
 

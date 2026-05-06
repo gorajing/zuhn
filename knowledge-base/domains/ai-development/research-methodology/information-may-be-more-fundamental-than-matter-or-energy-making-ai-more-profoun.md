@@ -66,6 +66,7 @@ related:
   - INS-260412-94B2
   - INS-260501-5B48
   - PRI-260323-D475
+  - INS-260505-0F0B
 ---
 Hassabis's speculative-but-grounded claim: physicists in the 1920s treated energy and matter as primary (E=mc²); but information may be even more fundamental. The organization of matter, structure, and especially biological systems resisting entropy can be understood as information processing systems at their heart. Energy, matter, and information may be three quantities convertible into each other, with information being the most fundamental.
 

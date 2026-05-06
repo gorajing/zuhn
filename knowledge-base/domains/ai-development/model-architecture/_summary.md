@@ -1,6 +1,6 @@
 # Topic: model-architecture
 
-> 35 insights
+> 38 insights
 
 - `INS-260405-1F0B` [high] Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
 - `INS-260501-BCCB` [high] Attention = perfect memory in context. Parametric memory = compression + abstraction. They lose and win at different things.
@@ -11,6 +11,7 @@
 - `INS-260405-5649` [high] Biological neurons operate in milliseconds on minimal power; H100 GPUs process billions of times faster but consume massive energy—these are fundamentally different engineering solutions to intelligence, not points on a spectrum.
 - `INS-260405-7383` [high] Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
 - `INS-260505-584B` [high] Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in.
+- `INS-260505-23FB` [high] Use Earth's geometry as a basis function, not a learning target — spherical harmonics give the model the right inductive bias for free.
 - `INS-260505-1684` [high] Same model that predicts what a variant does can be inverted to design what variant to make.
 - `INS-260501-646A` [high] End-to-end is right. End-to-end alone is not. You need structured intermediate representations for runtime validation, closed-loop training, and human feedback integration.
 - `INS-260410-268D` [high] WaveNet-style tree structures that fuse two elements at a time through multiple layers preserve more information than flattening all context into a single hidden layer.
@@ -18,11 +19,13 @@
 - `INS-260410-5033` [high] Residual connections give gradients a direct additive path from loss to input, so deep networks stay trainable even when internal blocks start as near-noise.
 - `INS-260410-85F5` [high] The sqrt(d_k) divisor in attention keeps variance at 1 so softmax stays diffuse at init instead of collapsing to one-hot.
 - `INS-260410-9EEF` [high] Attention is weighted aggregation between nodes in a directed graph — the 'sequence' framing is just one possible graph topology.
+- `INS-260505-0EB5` [high] Train an encoder to map symmetry-related views to the same latent point, then 1000 labeled images do as well as a million.
 - `INS-260410-F08E` [high] BatchNorm layers harbor hidden state (running stats, train/eval mode, cross-batch coupling) that silently corrupts outputs when any one of them is misconfigured, making them a top source of subtle deep-learning bugs.
 - `INS-260501-D360` [high] LLMs have anterograde amnesia: they can use what they learned in pretraining and what's in context, but cannot consolidate new learning into persistent memory.
 - `INS-260410-B282` [high] Larger vocab compresses sequences (more context per token) but bloats embedding/softmax layers — the optimum is a tuned trade-off, not a maximum.
 - `INS-260410-1789` [high] Every transformer block pairs attention (tokens gather info from each other) with a feedforward MLP (each token thinks privately) — communication without computation underfits.
 - `INS-260501-6374` [high] 31-element sort + 30-layer transformer = impossible. Transformer layers ARE the reasoning steps; you can't exceed your depth.
+- `INS-260505-AE40` [high] Correlate with nearest neighbors in the right order — long-range structure still propagates through the chain of conditionals.
 - `INS-260501-033B` [medium] Brains recover from massive damage because their building blocks are uniform — that's the design lesson for architectures that should generalize.
 - `INS-260501-2D0A` [medium] Protein folding has quantum effects, but a classical neural net solves it. Maybe most 'quantum' problems are tractable classically with the right framing.
 - `INS-260410-9303` [medium] The brain's 'special sauce' is a large set of innately wired, species-specific reward functions — not a clever learning algorithm or architecture.

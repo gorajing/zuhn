@@ -68,7 +68,7 @@ related:
   - INS-260501-801C
   - PRI-260406-3EF8
   - INS-260403-D090
-  - INS-260323-FE69
+  - INS-260505-02F8
 ---
 Zuckerberg distinguishes sharply between today's autocomplete (complete this function) and what's coming: an agent you hand a goal, which runs tests, finds issues, iterates, and produces code 'higher quality than the average very good person on the team.' He commits to a concrete 12-18 month timeline for this crossover inside Meta's own Llama research workflow — the place where the team building the models has the most skin in the game and the tightest feedback loop.
 

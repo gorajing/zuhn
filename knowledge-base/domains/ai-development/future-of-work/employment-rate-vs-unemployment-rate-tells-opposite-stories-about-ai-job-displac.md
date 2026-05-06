@@ -55,7 +55,7 @@ related:
   - INS-260330-1BAC
   - INS-260402-8F1E
   - INS-260403-420A
-  - INS-260327-E874
+  - INS-260505-0E06
   - INS-260403-AE6A
 ---
 Mike Konczal's analysis showed young college graduates have historically surprising unemployment rates, implying AI displacement. But Adam Ozimek demonstrated that switching from unemployment rate to employment rate reverses the conclusion. The unemployment rate depends on who self-reports as 'looking for a job,' while employment rate simply measures who has a job. Non-college workers of the same age stopped looking entirely (lowering their unemployment rate), while college grads kept searching (raising theirs). Additionally, Zanna Iscenko showed that 'AI-exposed' occupations are also the most interest-rate-sensitive, and the same pattern appeared in early 2020 when generative AI didn't exist. This is a powerful lesson in how metric selection can fabricate or dissolve a narrative — the same labor market looks like an AI crisis or business-as-usual depending on which denominator you choose.

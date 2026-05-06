@@ -46,13 +46,14 @@ resolutions:
     understanding the base architecture deeply (as in Raschka's 'Build an LLM
     from Scratch') gives you transferable knowledge across all frontier models.
 related:
+  - INS-260505-ABCC
   - INS-260404-8EFB
   - INS-260405-82F3
   - INS-260410-5951
   - INS-260403-1EFF
-  - INS-260408-C572
   - INS-260408-F20F
   - INS-260410-56B4
+  - INS-260505-8322
 stance: >-
   Modern frontier models are essentially GPT-2 with minor tweaks; the real
   advances are in training methodology, data curation, and post-training.

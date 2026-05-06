@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 584 insights
+> 586 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -367,10 +367,12 @@
 - `INS-260412-D367` [high] Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
 - `INS-260327-7750` [high] Belisarius repeatedly defeated armies 5-10x his size because his forces were professionally trained, personally loyal, and under unified command while his opponents were tribal coalitions.
 - `INS-260403-7157` [high] Solar attracts ~$500B/year in investment and installs more new capacity than every other electricity source combined.
+- `INS-260505-30D2` [high] Vague climate language with 'net zero' and 'renewable' targeted at investors predicts WORSE emissions — that's greenwashing in action.
 - `INS-260327-C22F` [high] Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
 - `INS-260327-80AD` [high] Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260327-A052` [high] The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260410-A264` [high] England, the US, and France installed their constitutional orders when only propertied men voted, giving the system breathing room to embed citizenship norms before democratizing — once you're already in the mass age, constitutional revolution reliably fails.
+- `INS-260505-AE69` [high] PRC patronage targets already-aligned outlets to help them outsurvive competitors — reshaping the market rather than reshaping the message.
 - `INS-260327-CE65` [high] Russia's continental size made it unconquerable — Napoleon and later Hitler discovered that Russia could simply retreat, trading space for time until the invader exhausted themselves.
 - `INS-260404-95CA` [high] Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
 - `INS-260330-51B1` [high] States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.

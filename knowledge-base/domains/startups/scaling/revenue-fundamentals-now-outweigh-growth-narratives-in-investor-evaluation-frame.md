@@ -56,7 +56,6 @@ related:
   - INS-260403-5056
   - INS-260413-4EB1
   - INS-260412-94D9
-  - INS-260413-539D
 ---
 Dealroom's seventh annual VC ranking fundamentally restructured its methodology: two-thirds of an investor's score now comes from real revenue milestones achieved by portfolio companies, not fundraising rounds or valuation marks. This rewards investors who back companies that generate actual business results rather than those skilled at raising subsequent rounds at higher prices.
 

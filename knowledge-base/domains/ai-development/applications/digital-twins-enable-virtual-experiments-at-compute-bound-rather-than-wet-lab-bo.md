@@ -54,9 +54,9 @@ related:
   - INS-260329-0487
   - INS-260405-1C8D
   - INS-260404-D122
+  - INS-260505-0C13
   - INS-260405-1F0B
   - INS-260505-B98F
-  - INS-260408-59B3
 ---
 Tolias's pipeline: collect large-scale neural data, train deep learning models, build digital twins that predict neural activity for arbitrary stimuli. Once these twins are accurate, they enable systematic exploration of hypothesis space at GPU-scale rather than wet-lab-scale. Example outcomes: discovered universal wiring rule for visual neurons via in silico screen, identified what stimuli optimally activate specific neurons, predictions then validated experimentally. The compute-vs-physical-experiment ratio is enormous — millions of years of equivalent experimentation in days.
 

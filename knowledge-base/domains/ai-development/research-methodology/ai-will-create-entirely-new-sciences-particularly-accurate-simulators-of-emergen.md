@@ -69,8 +69,8 @@ related:
   - INS-260410-31AA
   - PRI-260411-FB73
   - INS-260403-B1F2
+  - INS-260505-0C13
   - PRI-260323-1187
-  - INS-260325-F21D
 ---
 Hassabis's prediction: AI will unlock new sciences by enabling accurate simulators of emergent systems. Today, economics and social sciences struggle with rigor because you can't run controlled experiments — raise interest rates by 0.5% and there's no way to do it 1,000 times to find the average effect. Biology has the same problem (massive emergent dynamical systems). But machine-learned simulators trained on real-world data could enable thousands of synthetic runs, sampled rigorously.
 

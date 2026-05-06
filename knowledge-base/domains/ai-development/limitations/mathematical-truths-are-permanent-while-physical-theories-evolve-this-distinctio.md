@@ -52,7 +52,6 @@ resolutions:
     reasoning may be the one domain where we can truly verify AI outputs —
     because the answers are provably correct or incorrect.
 related:
-  - INS-260321-D959
   - INS-260325-820C
   - INS-260323-72EB
   - INS-260323-7345
@@ -62,6 +61,7 @@ related:
   - INS-260402-26B0
   - INS-260410-81DC
   - INS-260323-849E
+  - INS-260409-A072
 stance: >-
   Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity
   was superseded by Einstein's

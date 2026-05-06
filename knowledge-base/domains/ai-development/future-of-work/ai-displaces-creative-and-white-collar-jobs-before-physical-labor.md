@@ -42,7 +42,6 @@ stance: >-
   AI automation is replacing high-skill creative and knowledge work first,
   inverting the expected bottom-up displacement order
 related:
-  - INS-260323-DA85
   - INS-260329-6CE8
   - PRI-260406-6690
   - INS-260412-C28A

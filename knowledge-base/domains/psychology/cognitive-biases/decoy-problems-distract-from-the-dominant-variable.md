@@ -54,7 +54,7 @@ related:
   - INS-260330-9575
   - INS-260323-8966
   - INS-260330-3570
-  - INS-260327-3F40
+  - INS-260505-A413
 ---
 The article systematically compares America to peer nations across multiple dimensions: healthcare (Americans spend more but have insurance and lower out-of-pocket costs), inequality (US fiscal system is actually more progressive than most peers), housing (prices 12% above average but houses are bigger), and crime (murder rate 5-10x higher). The first three show modest gaps; crime is an enormous outlier.
 

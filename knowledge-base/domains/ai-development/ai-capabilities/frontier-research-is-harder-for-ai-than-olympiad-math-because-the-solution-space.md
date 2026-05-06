@@ -49,9 +49,9 @@ stance: >-
   with current tools and have no training data describing their solution.
 related:
   - INS-260325-8065
+  - INS-260505-68D3
   - INS-260501-1608
   - INS-260322-32E3
-  - PRI-260403-F981
-  - INS-260330-C31B
+  - INS-260505-ABCC
 ---
 Competition math problems are guaranteed to be solvable by a small known set of tools — the space is polished, closed, and heavily represented in training data. Frontier research problems lack all three properties: they may be unsolvable with existing tools, no one knows the answer so there is no training signal, and candidate solutions cannot be verified by lookup. This distinction matters for forecasting AI research capability: olympiad gold performance is not prima facie evidence a model can contribute to open problems, and progress benchmarks that conflate the two will overstate capability. Aletheia's gains came not from scaling olympiad skill but from architectural choices (separated verifier, trained tool use) that address the open-problem regime specifically.

@@ -9,4 +9,5 @@
 - `INS-260330-3ADD` Networks achieve 96%+ accuracy with hidden layers that look nearly random rather than detecting edges and patterns as designed.
 - `INS-260410-EF9E` Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
 - `INS-260505-1606` Models on biological data quietly learn the biases of the experiments — interpretability catches that.
+- `INS-260505-4EB7` Anthropic and others are studying when language is learned during training, not just whether the final model speaks it.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.

@@ -55,6 +55,7 @@ related:
   - INS-260329-D1F2
   - INS-260327-CFDC
   - INS-260410-F342
+  - INS-260505-4351
 stance: >-
   Whether LLM-generated synthetic data adds genuine new signal beyond its
   training data

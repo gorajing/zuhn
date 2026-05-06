@@ -51,10 +51,10 @@ stance: >-
   practice, not psychological interventions targeting the anxiety itself.
 related:
   - INS-260330-27DD
+  - INS-260505-0C7B
   - INS-260322-32E3
   - INS-260330-207D
   - INS-260330-35CB
-  - INS-260403-9F78
 ---
 Ng et al. (2022) found that intensive math remediation — essentially just teaching kids more math — significantly reduced math anxiety among Taiwanese students after only six weeks. Notably, the training also improved performance for students without initial math anxiety, suggesting that insufficient instructional time, not anxiety per se, is the primary bottleneck in math education.
 

@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260323-DA4A
   - INS-260327-79E8
+  - INS-260505-D440
   - INS-260403-9774
   - INS-260405-227C
-  - INS-260403-5F41
 ---
 Kundaje's framing: their DNA-to-activity models serve dual purposes. (1) Microscope mode: use interpretation methods to extract the regulatory grammar — what DNA words matter, how syntax constraints work, how cell-type context shifts the rules. (2) Design tool mode: invert the model to design sequence edits that achieve target phenotypes (variant effects platform). The same forward-trained model, plus appropriate post-training tooling (interpretation, gradient-based design), yields both products.
 

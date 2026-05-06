@@ -61,7 +61,7 @@ related:
   - INS-260403-803A
   - INS-260403-EB56
   - INS-260405-C709
-  - INS-260403-E554
+  - PRI-260406-E5FB
 ---
 The article's meta-framework is broadly applicable beyond policy: when you can't predict which jobs will exist, what the macroeconomy will look like, or how income distribution will shift, the correct response is not to pick the most likely scenario and optimize for it. Instead, you design interventions that deliver value regardless of which scenario materializes.
 

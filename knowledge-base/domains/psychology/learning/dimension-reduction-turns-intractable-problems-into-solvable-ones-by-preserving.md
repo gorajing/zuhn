@@ -51,6 +51,8 @@ related:
   - PRI-260407-684A
   - INS-260330-579B
   - PRI-260406-D3E4
+  - INS-260505-AE40
+  - INS-260505-37D6
 evidence:
   - id: INS-260327-CEE4
     type: TRANSFERS_TO

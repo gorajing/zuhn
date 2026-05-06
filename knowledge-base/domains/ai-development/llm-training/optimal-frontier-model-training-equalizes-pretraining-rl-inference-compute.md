@@ -58,7 +58,7 @@ related:
   - PRI-260405-9504
   - INS-260329-B2BE
   - INS-260329-ADCD
-  - PRI-260406-6574
+  - INS-260505-9B9F
 ---
 Pope's heuristic claim: for cost functions that are sums of power-law terms (which describes pretraining, RL, and inference scaling), the minimum total cost tends to occur where each term is equal. Applied to frontier training: the optimal split is approximately 1/3 pretraining cost, 1/3 RL cost, 1/3 inference cost over the model's deployed lifetime.
 

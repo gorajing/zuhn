@@ -1,7 +1,7 @@
 # Tag: mental-model
 
-- `INS-260323-1720` Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
 - `INS-260505-7EF5` Telescopes opened the cosmos, microscopes opened cells; AI opens patterns in high-dimensional data that human minds cannot grasp.
+- `INS-260323-1720` Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
 - `INS-260409-9EE8` Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260403-7D7A` Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
 - `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.

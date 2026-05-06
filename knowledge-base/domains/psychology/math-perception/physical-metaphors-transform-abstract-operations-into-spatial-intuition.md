@@ -48,7 +48,6 @@ stance: >-
   Mapping abstract mathematical operations to physical processes like
   center-of-mass tracking makes the math feel discoverable rather than arbitrary
 related:
-  - INS-260330-1609
   - INS-260330-51D6
   - INS-260330-DECB
   - INS-260330-4329
@@ -58,6 +57,7 @@ related:
   - INS-260412-F9BA
   - INS-260330-4E95
   - INS-260403-5808
+  - INS-260404-B8D9
 evidence:
   - id: INS-260330-D511
     type: TRANSFERS_TO

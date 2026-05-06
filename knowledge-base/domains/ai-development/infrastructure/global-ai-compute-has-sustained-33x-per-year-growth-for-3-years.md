@@ -55,5 +55,7 @@ related:
   - INS-260413-539D
   - INS-260413-07F2
   - INS-260413-9269
+  - INS-260505-709C
+  - INS-260505-BD9E
 ---
 The AI Index 2026 puts hard numbers on the compute expansion: global AI computing capacity grew 3.3x per year since 2022, reaching 17.1 million H100-equivalents. Nvidia accounts for over 60% of total compute, with Google and Amazon supplying most of the remainder, and Huawei holding a small but growing share. The buildout is driven by hyperscaler data center expansion and sustained demand for frontier model training and inference. The key point is that despite bubble narratives, the physical infrastructure has not paused — 3.3x annual growth sustained for 3+ years is closer to Moore's-law-squared than to saturation. Strategy implications: (1) compute is not the constraint for frontier development, (2) the real constraint is energy and data center siting (29.6 GW peak capacity), and (3) the chip supply chain runs almost entirely through TSMC, making it the single highest-leverage geopolitical chokepoint in the stack.

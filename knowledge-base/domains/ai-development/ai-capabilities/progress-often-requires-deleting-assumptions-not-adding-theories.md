@@ -40,10 +40,10 @@ resolutions:
     human side of science.'
 related:
   - PRI-260324-F9CD
+  - INS-260505-5A06
   - PRI-260323-2FEE
   - INS-260330-4DC5
   - INS-260330-FB5A
-  - INS-260323-2D1D
   - INS-260325-4C09
   - INS-260323-518A
   - INS-260330-63DD

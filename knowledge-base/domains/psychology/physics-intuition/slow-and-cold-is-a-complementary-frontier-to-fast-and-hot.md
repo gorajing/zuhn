@@ -51,6 +51,6 @@ related:
   - PRI-260323-A33E
   - INS-260329-22B6
   - INS-260409-E366
-  - PRI-260323-CE34
+  - INS-260505-0F0B
 ---
 The researchers frame their lab as the 'opposite end of the spectrum' from the Large Hadron Collider: where the LHC makes things extremely fast and extremely high-energy to see high-energy physics, they make things extremely slow and extremely cold to see quantum entanglement in motion. Both are 'extreme' but in orthogonal directions, and neither sees what the other sees. The generalizable model: when a research field or a market is dominated by one axis of extremity (bigger model, faster chip, more parameters), the opposite extreme is often under-occupied and under-explored — and because fewer eyes are there, the marginal discovery is cheaper. In AI this maps to small models and efficiency work; in startups it maps to boring-but-defensible markets; in investing it maps to contrarian horizons. The principle: cold-and-slow is a real frontier, not a consolation prize.

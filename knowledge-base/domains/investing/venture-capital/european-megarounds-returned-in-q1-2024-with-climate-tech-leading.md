@@ -53,6 +53,7 @@ related:
   - INS-260403-FD57
   - INS-260404-6BCA
   - INS-260403-F5B7
+  - INS-260505-3333
 ---
 After a prolonged post-2022 VC downturn, European megarounds staged a comeback in Q1 2024 with 42 rounds exceeding $100M — the highest count since the peak of Q2 2022. Notably, climate tech companies were the primary beneficiaries of these large checks, suggesting that deep-tech and infrastructure themes are driving recovery rather than the consumer AI frenzy dominating US headlines.
 

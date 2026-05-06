@@ -58,7 +58,6 @@ related:
   - INS-260403-751D
   - INS-260410-3A08
   - INS-260409-FA5E
-  - INS-260501-17BB
 evidence:
   - id: INS-260325-58F5
     type: SUPPORTS

@@ -53,10 +53,10 @@ stance: >-
   a poor default choice.
 related:
   - INS-260327-7A48
+  - INS-260505-0C13
   - INS-260323-584D
   - INS-260329-3D3E
   - INS-260409-17E9
-  - INS-260505-584B
 ---
 The course demonstrates across multiple algorithms that KNN (82.0%), Naive Bayes, and Logistic Regression all achieved comparable accuracy to neural networks on a heart disease classification task. This is not a fluke - it reflects a fundamental property of structured tabular data where feature relationships are relatively simple and the curse of dimensionality works against distance-based methods less than expected.
 

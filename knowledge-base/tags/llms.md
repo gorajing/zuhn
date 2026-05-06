@@ -1,5 +1,6 @@
 # Tag: llms
 
+- `INS-260505-2467` LLMs ship with Silicon Valley's logic baked in: opacity over openness, efficiency over journey, cost-cutting over apprenticeship. Academia gets that logic when it adopts the tools.
 - `INS-260323-2C19` A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
 - `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
 - `INS-260323-B309` LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).

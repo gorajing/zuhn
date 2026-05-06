@@ -47,10 +47,10 @@ stance: >-
   produces systematic errors, not random ones.
 related:
   - INS-260330-A4A5
+  - INS-260505-9B9F
   - INS-260330-59CE
   - PRI-260406-F95C
   - INS-260405-809E
-  - PRI-260325-45A2
 evidence:
   - id: INS-260329-3D3E
     type: SUPPORTS

@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 85 insights
+> 89 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -37,6 +37,7 @@
 - `INS-260403-E5D4` [high] Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
 - `INS-260403-31E4` [high] Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260323-9D6E` [high] Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
+- `INS-260505-E671` [high] AI proves; mathematicians select problems, define new objects, and verify the work fits within Mathlib's coverage.
 - `INS-260329-7BAF` [high] Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260323-7424` [high] The obsession with parameter counts mirrors the 1990s gigahertz race — what matters is end-user utility, not raw numbers.
 - `INS-260405-2DC0` [high] Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.
@@ -72,6 +73,7 @@
 - `INS-260325-ADF3` [medium] Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260330-4AD5` [medium] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260327-8936` [medium] Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.
+- `INS-260505-0C7B` [medium] Students with AI assistants are working on bigger questions and learning faster — the empowerment effect outweighs replacement anxiety in physics labs.
 - `INS-260413-9818` [medium] AI Index 2026 flags emerging evidence that heavy AI reliance may carry long-term learning penalties that slow skill development over time — the productivity-for-learning trade-off becomes structural.
 - `INS-260403-B280` [medium] The deeper significance of AI isn't economic disruption but humanity losing its position as the most intelligent entity on Earth for the first time in history.
 - `INS-260325-19E9` [medium] Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
@@ -83,7 +85,9 @@
 - `INS-260329-206D` [medium] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260410-CD15` [medium] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
 - `INS-260403-529D` [medium] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
+- `INS-260505-4CDB` [medium] The doom isn't mushroom clouds — it's all of us getting lazy and stupid by outsourcing the muscle of actual thinking.
 - `INS-260323-DE7F` [medium] We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
 - `INS-260423-187E` [medium] Seth Godin: a brand's AI that has seen all my tools is a whole new level of permission — the more I teach it, the more their brand is worth to me.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.
+- `INS-260505-8322` [low] Sanskrit-named frontier AI models in 2026 thread cultural continuity from millennia-old farming civilizations to silicon-based intelligence.

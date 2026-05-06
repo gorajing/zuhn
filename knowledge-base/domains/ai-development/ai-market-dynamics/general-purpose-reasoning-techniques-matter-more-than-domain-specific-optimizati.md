@@ -48,12 +48,13 @@ stance: >-
   Building general-purpose reasoning capabilities and applying them to specific
   domains produces better results than building bespoke systems for each domain.
 related:
+  - INS-260505-864E
   - PRI-260328-5D9E
   - INS-260325-5B7F
   - INS-260405-880C
   - INS-260413-A950
-  - INS-260330-F183
   - INS-260501-5DF6
+  - INS-260505-3333
 evidence:
   - id: INS-260330-F183
     type: CHALLENGES

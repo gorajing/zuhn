@@ -55,11 +55,11 @@ stance: >-
   architecture, but there's roughly equal probability that 1-2 fundamentally new
   ideas are still required (vs. that incremental scaling will get us there).
 related:
+  - INS-260505-02F8
   - INS-260403-FAD8
   - INS-260424-2F93
   - PRI-260407-40F9
   - INS-260323-F0A2
-  - INS-260413-C64F
 ---
 Hassabis's AGI architecture audit: pretraining at scale, RLHF, and chain-of-thought reasoning are 'pretty sure' to be part of the final architecture — they've come too far and proven too much to be dead ends. But continual learning, long-term reasoning, and cross-task consistency remain unsolved. The open question is whether these gaps close via incremental innovation on existing techniques, or whether 1-2 fundamentally new ideas are still needed. Hassabis explicitly puts the odds at 50/50.
 

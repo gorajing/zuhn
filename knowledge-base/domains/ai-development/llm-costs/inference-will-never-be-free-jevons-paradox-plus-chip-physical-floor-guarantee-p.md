@@ -57,8 +57,8 @@ related:
   - INS-260327-991D
   - INS-260424-0554
   - INS-260423-6172
+  - INS-260505-0C13
   - INS-260501-E8E9
-  - INS-260323-B309
 ---
 Hassabis on the 'what if inference becomes free' hypothetical: he doesn't think it ever will. Two binding constraints persist: (1) Jevons paradox — anything we can get our hands on, we'll consume. Even if per-token cost drops 100x, demand grows by more (millions of agents in swarms, ensembled reasoning across many directions, multi-agent collaboration). (2) Even if energy costs go to zero (fusion, optimal batteries, superconductors — all of which Hassabis thinks AI will help solve), the physical creation of chips remains a non-zero floor for at least the next few decades.
 

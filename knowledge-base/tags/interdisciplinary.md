@@ -1,6 +1,8 @@
 # Tag: interdisciplinary
 
 - `INS-260505-B98F` Brain digital twins are tools to study the brain, but also tools to discover better AI architectures.
+- `INS-260505-0F0B` AI's transformation of biology, physics, climate, and math are different in instructive ways — comparison is the unit of insight.
+- `INS-260505-37D6` Identify the structural pattern in your problem, abstract it into general language, then look for it in other fields — this is a teachable skill.
 - `INS-260409-F9D5` The bottleneck is integrating disparate fields, not advancing any one of them.
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260403-0B99` Adults avoid new disciplines not from inability but from fear that replaces teenage ignorance-driven confidence.

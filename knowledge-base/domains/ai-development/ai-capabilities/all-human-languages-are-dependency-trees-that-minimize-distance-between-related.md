@@ -62,6 +62,7 @@ related:
   - INS-260403-0550
   - INS-260329-FEC5
   - INS-260330-80AF
+  - INS-260505-AE40
 stance: >-
   Every sentence in every language forms a tree structure where each word
   connects to exactly one other word, and languages evolve to minimize the di...

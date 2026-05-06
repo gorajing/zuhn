@@ -51,8 +51,8 @@ stance: >-
 related:
   - INS-260423-FF52
   - INS-260321-AD95
+  - INS-260505-D440
   - INS-260330-83D5
   - INS-260405-1C8D
-  - PRI-260406-F95C
 ---
 The economic appeal of serverless agent deployment (pay only for active compute, no idle server cost) comes with a specific operational gotcha: the first request to a cold container pays the container-start latency, which for LLM workloads is often 5-30 seconds. For batch or background agents this is irrelevant. For user-facing agents it is fatal — a user will not wait 15 seconds for their first message to produce a response. The production pattern is to include an explicit warm-up call in deployment scripts and CI pipelines, ensuring that by the time traffic arrives, the container is warm. Variants: periodic warm-up pings to prevent scale-to-zero during idle, pre-scaled minimum instance counts that eliminate cold-starts at a monthly cost, or hybrid approaches that warm specific agents before their predictable invocation windows. Any production agent deployment to serverless infrastructure needs a documented warm-up strategy; skipping this step guarantees a user-facing latency bug in the first real use.

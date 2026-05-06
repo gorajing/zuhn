@@ -48,6 +48,7 @@ stance: >-
   real constraint, not compute.
 related:
   - PRI-260325-3A00
+  - INS-260505-A38E
   - INS-260325-39FD
   - INS-260323-9770
   - INS-260325-C394
@@ -56,7 +57,6 @@ related:
   - INS-260404-E077
   - INS-260405-5881
   - INS-260405-4053
-  - INS-260403-F658
 evidence:
   - id: INS-260323-9770
     type: SUPPORTS

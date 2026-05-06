@@ -59,7 +59,6 @@ stance: >-
   blindingly fast but energetically expensive, and neither will simply converge
   to the other.
 related:
-  - INS-260325-40DC
   - INS-260325-1D95
   - INS-260325-CDEA
   - INS-260325-2999
@@ -69,6 +68,7 @@ related:
   - INS-260403-7342
   - INS-260403-558D
   - INS-260403-B16E
+  - INS-260405-1F0B
 ---
 Biological brains run at millisecond timescales but are extraordinarily power-efficient—the human brain runs on roughly 20 watts. Artificial systems like H100 GPU clusters can process information billions of times faster, but at the cost of megawatts of energy consumption at scale. These aren't two points on a single performance curve but two distinct architectural philosophies.
 

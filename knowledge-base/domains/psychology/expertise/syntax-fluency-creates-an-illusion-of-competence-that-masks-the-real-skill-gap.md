@@ -48,7 +48,6 @@ stance: >-
   Learning programming syntax gives people a false sense of capability because
   the valuable skill is algorithmic problem-solving, not language fluency.
 related:
-  - INS-260323-2C19
   - INS-260327-9BA2
   - INS-260329-EDA2
   - INS-260329-B408
@@ -58,6 +57,7 @@ related:
   - PRI-260405-2DE5
   - INS-260405-131B
   - PRI-260407-F684
+  - INS-260330-81D3
 evidence:
   - id: INS-260323-2C19
     type: SUPPORTS

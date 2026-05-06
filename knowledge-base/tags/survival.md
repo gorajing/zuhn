@@ -10,15 +10,15 @@
 - `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260330-1E12` Staying anchored to a known reference point in chaos prevents the fatal disorientation that kills more people than the threat itself.
 - `INS-260330-523E` Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
+- `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
+- `INS-260410-EA10` Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
+- `INS-260410-8D2E` Ek says every successful entrepreneur he knows has had at least three near-death experiences, and that if he'd known how hard Spotify would be he would never have started it.
 - `INS-260327-A234` Be a cockroach—survive everything by doing whatever it takes daily to prevent your company from dying.
 - `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260327-125F` At one point his bank account was under $100 and he lived in a tiny room with mice — that willingness to endure extreme frugality gave Presto the runway to survive 5 years with zero revenue.
 - `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260403-9A4C` Most startups die from giving up, not from insurmountable external forces.
 - `INS-260403-4A2F` The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
-- `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
-- `INS-260410-EA10` Unlike fighting dragons, companies only die when founders quit — so cultivate survival obsession over strategic certainty.
-- `INS-260410-8D2E` Ek says every successful entrepreneur he knows has had at least three near-death experiences, and that if he'd known how hard Spotify would be he would never have started it.
 - `INS-260405-57C5` Startups with corporate investors behind them are statistically more likely to survive, suggesting founders should actively court strategic CVCs.
 - `INS-260403-ADB3` Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260403-0551` No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.

@@ -56,7 +56,7 @@ related:
   - INS-260403-D227
   - INS-260403-D090
   - INS-260403-7825
-  - INS-260501-FD20
+  - INS-260505-0C7B
 ---
 The auto industry consolidated sharply after Ford's assembly line created efficiency advantages that crushed smaller competitors—hundreds of manufacturers collapsed into a handful. AI coding assistants deliver comparable 55-81% productivity gains, but the structural effect is inverted: rather than concentrating power, these tools democratize building capacity so any developer can produce at scale.
 

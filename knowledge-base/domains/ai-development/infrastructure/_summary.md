@@ -1,14 +1,16 @@
 # Topic: infrastructure
 
-> 38 insights
+> 43 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
 - `INS-260501-4B6F` [high] Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since.
+- `INS-260505-02F8` [high] Protein Data Bank: 200K experimental structures over 50 years (1971-2021) → AlphaFold predicts 200M structures in 4 years. AI couldn't do this without the 200K.
 - `INS-260405-567D` [high] NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260410-1159` [high] A gigawatt of Rubin-class compute takes ~3.5 EUV tools of annual output, and ASML can only make ~70 now, scaling to ~100 by 2030 — mathematically capping total AI capacity at ~200 GW/year.
 - `INS-260410-0DA5` [high] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
 - `INS-260410-B1A9` [high] Microsoft paused leases not because demand was weak, but to avoid 4-5 years of depreciation stuck on one chip generation in one location for one workload type.
+- `INS-260505-ABCC` [high] Universities don't need to train frontier models. Use open-source. Use smaller curated-data models. Both are competitive for most research problems.
 - `INS-260501-12F4` [high] Google's $40B + Amazon's $5B is a chip-and-capital bundle to displace Nvidia's 70% gross margin and lock Anthropic onto TPU/Trainium.
 - `INS-260410-B3C4` [high] When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
 - `INS-260413-BD80` [high] Global AI compute reached 17.1M H100-equivalents in 2025, growing 3.3x per year since 2022, with Nvidia supplying 60%, Google/Amazon supplying most of the rest, and Huawei growing slowly.
@@ -24,6 +26,8 @@
 - `INS-260423-9225` [high] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 - `INS-260410-13C8` [high] Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
 - `INS-260410-ED34` [high] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
+- `INS-260505-A38E` [high] Markets fund 5-year ROI; protein databases that take 50 years to build don't qualify. Federal funding fills that specific gap.
+- `INS-260505-BD9E` [high] Genesis Mission: integrate compute + AI + quantum + experimental facilities across 17 national labs as one platform — 10-100x acceleration, double productivity in a decade.
 - `INS-260405-131B` [high] C powers the interpreters, OS kernels, and databases that higher-level developers use daily, making it the most influential language most programmers never consciously think about.
 - `INS-260413-07F2` [high] OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260501-D18A` [high] Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor.
@@ -32,6 +36,7 @@
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
+- `INS-260505-A639` [medium] Fusion ignition wasn't a 2022 breakthrough — it was 50 years of integrated simulation + experiment + theory finally producing the result.
 - `INS-260405-844D` [medium] A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260421-CE27` [medium] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260501-B1AA` [medium] iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL.

@@ -38,11 +38,11 @@ resolutions:
     'depth' of insight remains human.
 related:
   - INS-260410-C045
+  - INS-260505-415C
   - INS-260409-60C2
   - INS-260410-25AF
   - INS-260330-F183
-  - PRI-260411-FB73
-  - INS-260409-5065
+  - INS-260505-969C
 stance: 'Tao''s papers now have more code, more plots, deeper literature searches'
 evidence:
   - id: INS-260329-2FEB

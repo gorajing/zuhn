@@ -52,10 +52,10 @@ stance: >-
   decisions when used as screening criteria.
 related:
   - INS-260330-14B1
+  - INS-260505-4A97
   - INS-260330-E8C6
   - INS-260403-7FFA
   - PRI-260407-F684
-  - INS-260403-267B
 evidence:
   - id: INS-260330-14B1
     type: TRANSFERS_TO

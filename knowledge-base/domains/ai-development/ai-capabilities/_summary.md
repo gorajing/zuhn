@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 170 insights
+> 173 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -24,6 +24,7 @@
 - `INS-260325-5656` [high] Dyno trains ML models on petabytes of capsid performance data from primate experiments, then queries them billions of times in silico to find optimal sequences — replacing random mutation with AI-guided design.
 - `INS-260325-F20C` [high] Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
 - `INS-260410-C045` [high] Tao's papers now contain more code, more figures, deeper literature searches thanks to AI — but the hardest parts still happen on pen and paper.
+- `INS-260505-3333` [high] July 2024: DeepMind almost gold. By summer 2025: multiple labs at gold including perfect scores on the hardest exams.
 - `INS-260403-C584` [high] Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260323-F0A2` [high] Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260330-E282` [high] AI can generate hypotheses far faster than labs can test them, making verification the true bottleneck in experimental sciences.
@@ -68,6 +69,7 @@
 - `INS-260403-107E` [high] Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260321-52EF` [high] Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-539C` [high] Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
+- `INS-260505-3608` [high] Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
 - `INS-260403-5F69` [high] Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260323-1BF7` [high] Unlike human children who build world models from minimal data, LLMs require the entire internet as a crutch because they mimic rather than understand.
 - `INS-260323-2C19` [high] A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
@@ -162,6 +164,7 @@
 - `INS-260322-474A` [medium] AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
 - `INS-260409-1D91` [medium] Birds achieving cognitive parity with mammals via a completely different pallial architecture is biological proof that intelligence doesn't require a specific substrate — relevant analogy for AI systems that differ structurally from brains.
 - `INS-260403-841F` [medium] Superintelligence emerged from combining human-equivalent reasoning with computers' pre-existing superhuman memory, speed, and processing power.
+- `INS-260505-709C` [medium] Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
 - `INS-260405-0327` [medium] Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
 - `INS-260327-F608` [medium] You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
 - `INS-260423-E64B` [medium] Hinton: I had a researcher tell me last year they have a system that looks at what it itself is doing and figures out how to change its own code so it'll be more efficient next time — that's already the beginning of the singularity.

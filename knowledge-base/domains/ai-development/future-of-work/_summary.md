@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 119 insights
+> 120 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -64,6 +64,7 @@
 - `INS-260423-6DFB` [high] Hinton: when a tractor replaces physical labor, people go do intellectual things; but if you replace human intelligence, where are the people who work in a call center going to go?
 - `INS-260404-B81C` [high] Career planning requires hedging across multiple fields rather than betting on a single professional track.
 - `INS-260321-9A03` [high] Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
+- `INS-260505-0E06` [high] AI doesn't replace grad students — because grad students aren't the labor input to research, they ARE the product universities make.
 - `INS-260321-99C0` [high] Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
 - `INS-260403-A2E9` [high] As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - `INS-260501-3CAA` [high] Vibe coding is for everyone; agentic engineering is for professionals who can't ship vulnerabilities.

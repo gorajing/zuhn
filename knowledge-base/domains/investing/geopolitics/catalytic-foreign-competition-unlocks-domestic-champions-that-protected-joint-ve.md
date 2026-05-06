@@ -67,10 +67,9 @@ stance: >-
 related:
   - INS-260325-C5FD
   - INS-260327-EB3E
-  - INS-260403-58BA
+  - INS-260505-A639
   - INS-260327-0004
   - PRI-260406-AF0C
-  - INS-260410-8DDD
 ---
 From the early 1990s, China required foreign auto companies (GM, VW, Toyota, Honda) to form 50/50 joint ventures with local firms, with the theory that Chinese partners would absorb technology and eventually kick the foreigners out. This failed massively. After 25 years, Chinese JV partners were still clipping dividend coupons with all technology and design coming from foreign partners. No global-competitive national champion auto makers emerged.
 

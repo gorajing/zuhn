@@ -70,10 +70,10 @@ related:
   - INS-260410-7C07
   - INS-260410-147B
   - INS-260410-E71E
-  - INS-260410-A98D
   - INS-260410-E590
   - INS-260423-6CC0
   - INS-260501-EC31
+  - INS-260413-3860
 ---
 Younas's strategic frame: physical machines today are at the same fragmentation point phones were before iOS/Android. When Larry Page wanted to run Google products across phones, he discovered ~50 different operating systems and concluded the answer was building Android — a unified OS attractive enough to phone makers to actually consolidate the market. Applied Intuition is doing the same for physical machines: a unified OS that lets modern AI applications run across cars, trucks, drones, mining equipment, defense systems.
 

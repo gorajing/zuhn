@@ -61,7 +61,6 @@ stance: >-
   output, adjust process, self-improve via the intelligence layer) — making AI
   the operating system the company runs on, not a tool the company uses.
 related:
-  - INS-260323-8555
   - INS-260321-167A
   - INS-260330-0102
   - INS-260403-B008

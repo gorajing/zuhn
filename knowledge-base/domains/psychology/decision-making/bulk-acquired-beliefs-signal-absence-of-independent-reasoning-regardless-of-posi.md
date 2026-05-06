@@ -50,10 +50,10 @@ stance: >-
   shortcut of outsourcing their thinking to a group identity.
 related:
   - PRI-260406-B9C9
+  - INS-260505-A413
   - PRI-260406-AA07
   - INS-260321-1A84
   - INS-260322-F65F
-  - PRI-260406-CF83
   - INS-260404-DCCD
   - INS-260404-FDB2
   - INS-260403-0D1F

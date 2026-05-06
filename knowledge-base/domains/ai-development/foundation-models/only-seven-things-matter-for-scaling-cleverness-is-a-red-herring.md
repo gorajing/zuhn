@@ -64,7 +64,6 @@ stance: >-
   scale to the moon, and numerical normalization/conditioning.
 related:
   - INS-260325-9C89
-  - PRI-260323-8E89
   - INS-260329-4109
   - INS-260329-3EB6
   - INS-260329-D8BC
@@ -73,6 +72,7 @@ related:
   - INS-260326-CAAB
   - INS-260403-A9F3
   - INS-260329-4870
+  - INS-260409-8D86
 ---
 Amodei wrote the 'Big Blob of Compute' hypothesis in 2017, before GPT-1 was released, as a general theory about all of AI — robotics, reasoning, RL, and language. It listed seven things that matter: compute, data quantity, data quality and breadth of distribution, training duration, a scalable objective function (pre-training loss or RL reward), and two normalization/conditioning items that keep the compute 'flowing laminar' instead of diverging. Everything else — new methods, clever tricks, architectural breakthroughs — is noise. He now says he has seen nothing in the years since that contradicts this.
 

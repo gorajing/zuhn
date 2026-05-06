@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 171 insights
+> 172 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -95,6 +95,7 @@
 - `INS-260327-BEFF` [high] There is no internet-scale robot action data; community platforms that aggregate diverse robotic datasets from thousands of contributors will be the critical enabler for physical AI scaling.
 - `INS-260327-6061` [high] Giving someone unlimited GPUs and money is insufficient to produce a frontier model; the expertise to orchestrate training across tens of thousands of randomly-failing GPUs is the actual scarce resource.
 - `INS-260327-CB1E` [high] Semiconductor companies prize long-term sincerity over technical superiority -- Nota built partnerships with 17 chip companies by showing up consistently at regular meetings and demonstrating steady progress over years.
+- `INS-260505-4A97` [high] Language was syllables and characters. Spatial intelligence is pixels — nature's language for robotics, imagination, creativity, and physical design.
 - `INS-260409-A200` [high] AI companies shape tech journalism by controlling executive access, and only reporters who've been blacklisted can tell the full story.
 - `INS-260403-02E2` [high] Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
 - `INS-260423-4DD5` [high] Seth Godin: you can't cost-reduce yourself to greatness — the current cycle is cost reduction but the opportunity is using AI to make things better.

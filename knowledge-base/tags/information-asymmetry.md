@@ -10,9 +10,9 @@
 - `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
 - `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
-- `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260412-7728` When you don't know the rules of the game, watch silently before announcing yourself.
 - `INS-260412-1F4E` We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
+- `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260412-1255` The gap between technological advancement speed and public comprehension speed creates a persistent window of fraud vulnerability.
 - `INS-260403-758F` SEIU proposed the same dialysis regulations three consecutive elections because voters lack context to identify extortion disguised as reform.
 - `INS-260403-8FB5` Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.

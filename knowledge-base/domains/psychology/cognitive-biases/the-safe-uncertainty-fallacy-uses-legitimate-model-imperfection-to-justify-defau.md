@@ -56,9 +56,9 @@ related:
   - INS-260329-5924
   - INS-260404-D711
   - INS-260404-1D05
+  - INS-260505-9B9F
   - INS-260405-5E18
   - INS-260403-B228
-  - PRI-260324-2C9F
 ---
 When Bio Anchors critics identified that the model was imperfect and could fail, many defaulted to what the author calls the Safe Uncertainty Fallacy: since we can never be sure a model is exactly right, things are uncertain, which means we can continue to believe everything is fine and normal. But as Yudkowsky pointed out, uncertainty is symmetric — an imperfect forecast could be wrong in either direction, including being too conservative.
 
