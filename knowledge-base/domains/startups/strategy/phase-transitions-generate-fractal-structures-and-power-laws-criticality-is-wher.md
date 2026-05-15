@@ -54,8 +54,8 @@ related:
   - INS-260323-D4EC
   - INS-260330-3170
   - INS-260403-7C67
+  - INS-260514-A0AC
   - INS-260323-7212
-  - PRI-260406-3AE8
 stance: >-
   At the critical point of a phase transition (like a magnet at its Curie
   temperature), the system becomes scale-free and fractal

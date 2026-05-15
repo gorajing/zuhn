@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 631 insights
+> 636 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -98,6 +98,7 @@
 - `INS-260412-664B` [high] The Concorde died not from a faster plane but from flat-bed seats on slower planes that eliminated the time-saving advantage.
 - `INS-260403-16D7` [high] Products are easy to copy but business models create structural advantages that competitors struggle to replicate.
 - `INS-260330-95F3` [high] Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
+- `INS-260514-54F9` [high] When competitors start SELLING you compute instead of trying to beat you with it, they've admitted defeat at the frontier. xAI selling to Anthropic = Grok exits the race. Watch for this pattern as the signal of AI lab consolidation.
 - `INS-260403-2074` [high] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260402-5E4E` [high] Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.
 - `INS-260330-6088` [high] Extreme brand diversification neutralizes reputational risk by making the parent company invisible to consumers.
@@ -132,6 +133,7 @@
 - `INS-260410-D3D8` [high] When one product inside a portfolio can acquire customers and suppliers for another at a quarter of the external CAC, the compounding advantage is invisible for years then suddenly dominant.
 - `INS-260330-C825` [high] Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
 - `INS-260330-923F` [high] A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
+- `INS-260514-BE85` [high] Branded signals (job changers, intent, G2) are commoditized; custom business-specific signals (FAA violations, dumpster colors via Street View) are the moat. Custom signals can be iterated; branded ones can't.
 - `INS-260330-09E3` [high] Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260322-9DDD` [high] a16z's platform model worked because its founders had been VC customers (entrepreneurs), giving them a perspective that career VCs structurally couldn't have.
 - `INS-260410-AAFE` [high] Amazon.com itself took 13 years to migrate off Oracle databases onto its own AWS database products — if the parent company can't quickly escape its own database lock-in, no customer can.
@@ -155,6 +157,7 @@
 - `INS-260403-8F6E` [high] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
 - `INS-260329-C092` [high] Specialists bypass gatekeepers to deliver expert analysis directly to niche audiences who fund the work through subscriptions
 - `INS-260404-EE07` [high] Grid delivery fees and taxes—not generation—make up most of household electricity bills, so distributed solar captures avoided infrastructure costs directly.
+- `INS-260514-FB3C` [high] Every team member built a startup from zero in one week. Implementation was trivial. Distribution was where everyone got stuck.
 - `INS-260403-C4EE` [high] In AI, distribution loops—not features—create defensible positions because features are easily replicated.
 - `INS-260403-FCEA` [high] Generic VC platform services fail; domain-specific research and talent networks in verticals where your portfolio clusters create real competitive advantage.
 - `INS-260328-D0F6` [high] Yahoo, HP, and Intel all looked invincible until they were not — the 'watermelon' pattern of green outside, red inside applies to today's tech giants too.
@@ -519,6 +522,7 @@
 - `INS-260327-CC05` [high] In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260403-599B` [high] When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` [high] Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
+- `INS-260514-F073` [high] AI can build your app in 2 days. It can't build the 7 years of lived experience that told you which app to build. Biographical depth is the only durable moat in the AI era.
 - `INS-260405-F03A` [high] Plants evolved RuBisCo in a low-oxygen atmosphere, then produced the very oxygen that made RuBisCo increasingly dysfunctional — a trap where success altered the environment enough to undermine the mechanism of success.
 - `INS-260330-1C50` [high] Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-DF31` [medium] 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge.
@@ -630,6 +634,7 @@
 - `INS-260327-8358` [medium] The best problem-solvers may be in places without internet—AI could unlock this enormous untapped potential.
 - `INS-260403-4B31` [medium] California's proposed billionaire tax on unrealized gains could force founders to sell equity to pay taxes on illiquid paper wealth.
 - `INS-260327-B946` [medium] Under Armour spent years building retailer confidence by maintaining premium pricing and high sell-through rates, but when the brand faltered, retailers who had been cautiously increasing orders immediately pulled back -- the trust that took years to build evaporated in a single bad season.
+- `INS-260514-42B6` [medium] TikTok Shop pivoted from organic-virality to pay-to-scale gates in mid-2025. Force Factor (a $100M supplement brand) left entirely. Brands that survive: refuse mega-discounts, identify lead-gen products only, use TikTok selectively rather than as primary marketplace.
 - `INS-260403-5710` [medium] Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.
 - `INS-260410-52AE` [medium] Coca-Cola has never patented its formula because patents expire and become public domain — by treating the recipe as a trade secret with elaborate ritual around it, the company has held an artificial moat for 140 years instead of 20.
 - `INS-260410-8B2C` [medium] Porsche's impenetrable model-number lineage (911 / 964 / 993 / 996 / 997 / 991 / 992, GT3, GT3 RS, Carrera, Carrera S, Turbo S) creates a language enthusiasts have to learn, which deepens tribal identification rather than hurting sales.

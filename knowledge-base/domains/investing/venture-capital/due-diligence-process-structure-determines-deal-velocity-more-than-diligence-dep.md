@@ -55,6 +55,7 @@ related:
   - INS-260403-082C
   - PRI-260406-DA72
   - INS-260405-0D9F
+  - INS-260514-78B3
   - INS-260405-9460
 ---
 Most early-stage diligence failures aren't caused by missing information—they're caused by scattered processes where critical items fall through cracks in email threads, Notion docs, and mental checklists. A standardized four-column framework (topic, information request, task owner/deadline, key questions) transforms diligence from a reactive document chase into a proactive, trackable workflow.

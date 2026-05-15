@@ -61,11 +61,11 @@ stance: >-
   finding that our perceptual spacetime is a user interface, not reality.
 related:
   - INS-260321-D959
-  - PRI-260323-6644
   - INS-260327-EDE4
+  - PRI-260323-6644
   - INS-260330-2E54
   - PRI-260323-1187
-  - PRI-260324-3B70
+  - INS-260514-AE3A
   - INS-260403-BADD
   - INS-260403-D294
   - INS-260410-D082

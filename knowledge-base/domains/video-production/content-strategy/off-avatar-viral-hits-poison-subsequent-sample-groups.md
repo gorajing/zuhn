@@ -48,7 +48,6 @@ stance: >-
   next several videos because the algorithm updates its fit score using the
   off-target viewers who engaged with the anomaly.
 related:
-  - INS-260320-A467
   - INS-260327-7CAF
   - INS-260327-FEB7
   - PRI-260405-675B

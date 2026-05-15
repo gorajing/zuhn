@@ -49,7 +49,6 @@ stance: >-
   consciousness developed entirely outside modern civilization, making their
   protection an irreplaceable epistemic resource.
 related:
-  - INS-260325-11A6
   - INS-260323-3C7F
   - INS-260323-9E75
   - INS-260327-8936
@@ -59,6 +58,7 @@ related:
   - INS-260327-6EFB
   - INS-260327-E82A
   - INS-260330-B68F
+  - INS-260330-AFF8
 evidence:
   - id: INS-260325-11A6
     type: CONTRADICTS

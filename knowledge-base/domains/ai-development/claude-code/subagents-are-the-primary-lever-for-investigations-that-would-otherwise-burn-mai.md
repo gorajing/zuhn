@@ -50,8 +50,8 @@ related:
   - INS-260409-086A
   - PRI-260411-9CB1
   - INS-260410-19DE
+  - INS-260514-283E
   - INS-260410-B224
-  - PRI-260328-A65A
 ---
 When Claude investigates a codebase, every file read consumes the main conversation's context. A single 'how does authentication work?' question can fill thousands of tokens of exploration that you never actually needed in your working memory. Subagents solve this by running in an isolated context window with their own tools, then reporting back with a summary.
 

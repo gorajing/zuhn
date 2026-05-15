@@ -1,7 +1,8 @@
 # Topic: operations
 
-> 26 insights
+> 30 insights
 
+- `INS-260514-9DCE` [high] Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever.
 - `INS-260412-2754` [high] The US government's COGCON system splits every agency into three independent teams (A, B, C) at separate sites, each ready to assume full operations if the team above it falls.
 - `INS-260412-3978` [high] Eliminating ground transport forces all physical goods through air freight, creating massive cost premiums proportional to weight and bulk rather than intrinsic value.
 - `INS-260412-2785` [high] F1 priority pallets contain wall panels and electrical systems — not the most valuable items, but the ones needed first for assembly.
@@ -10,7 +11,9 @@
 - `INS-260412-4D3B` [high] Southwest and Spirit achieve cost leadership by keeping planes flying 11+ hours daily versus legacy carriers' 8.5 hours.
 - `INS-260412-F5CF` [high] Deferred maintenance on critical systems creates self-reinforcing degradation spirals that eventually outpace any remediation effort.
 - `INS-260412-600E` [high] Without radar, transatlantic planes need 140-mile separation vs 5 miles with radar — a 28x penalty for lost visibility.
+- `INS-260514-3B5E` [high] When juggling too many hats, deliberately drop the SAME ball every week — oscillating which thing breaks makes the priority invisible to leadership.
 - `INS-260412-7BD8` [high] Isabel dos Santos signed off as both lender and borrower on a $460M transfer between her own companies, illustrating how dual-role positions make fraud structurally undetectable.
+- `INS-260514-E481` [high] Four-component GTM stack: (1) record (CRM/warehouse) (2) enrichment (Clay) (3) action (sequencer/dialer/LinkedIn) (4) analytics (recording). Anything missing breaks the iteration loop.
 - `INS-260412-CFF6` [high] Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
 - `INS-260412-8DF5` [high] FedEx chose Memphis for its SuperHub not because it's the geographic center of the US, but because it's near the mean population center — minimizing average delivery distance to the most people.
 - `INS-260412-A747` [high] Eurocontrol reduces total European flight delays by proactively delaying individual flights before they enter capacity-constrained airspace.
@@ -27,4 +30,5 @@
 - `INS-260412-EB2D` [medium] The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
 - `INS-260405-54A9` [medium] Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
 - `INS-260412-7197` [medium] FedEx's Memphis SuperHub is the fallback router — packages only flow through it when no secondary hub like Oakland offers a shorter path between origin and destination.
+- `INS-260514-44D9` [medium] Match the CRM to your stage — Attio's a Ferrari you probably don't need at <1M ARR; pick the right-sized 'Honda' (Clarify.ai, base HubSpot) until your sales motion actually demands more.
 - `INS-260412-D787` [medium] The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.

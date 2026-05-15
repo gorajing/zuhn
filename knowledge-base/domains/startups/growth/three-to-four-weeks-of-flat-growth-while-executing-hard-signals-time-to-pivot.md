@@ -47,7 +47,6 @@ stance: >-
   execution effort, the fundamental approach is wrong and pivoting should be
   seriously considered.
 related:
-  - INS-260327-BA8E
   - INS-260329-DF07
   - INS-260402-7FF5
   - INS-260404-56AC

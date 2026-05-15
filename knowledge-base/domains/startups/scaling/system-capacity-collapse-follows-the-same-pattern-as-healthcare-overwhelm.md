@@ -47,7 +47,6 @@ stance: >-
   Any system operating near capacity will experience cascading failure when
   demand spikes, because the failure itself further reduces capacity
 related:
-  - INS-260403-868C
   - INS-260325-A1BC
   - INS-260409-526E
   - INS-260412-F5CF

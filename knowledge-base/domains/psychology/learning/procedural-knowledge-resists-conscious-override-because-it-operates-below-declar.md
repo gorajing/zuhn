@@ -56,6 +56,7 @@ related:
   - INS-260411-E6BD
   - INS-260330-FDC2
   - INS-260408-F3F0
+  - INS-260514-BD41
 ---
 The backwards bicycle experiment demonstrates a profound gap between declarative knowledge ('I know the steering is reversed') and procedural competence ('I can ride with reversed steering'). Every participant who understood the mechanism still failed to ride the bike, because bicycle riding is controlled by a deeply trained algorithm involving balance, force, and proprioception that runs below conscious awareness.
 

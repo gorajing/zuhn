@@ -51,6 +51,6 @@ related:
   - INS-260403-6BF7
   - INS-260403-7708
   - INS-260403-3800
-  - INS-260403-014D
+  - INS-260514-BAC9
 ---
 B2B influence marketing is emerging as a highly efficient acquisition channel, with concrete unit economics: €5K spend yielding 100K impressions and 150 leads represents a cost-per-lead of roughly €33, competitive with or better than most paid channels. Companies like Pipedrive, Clay, and Folk are early adopters seeing these returns. The 6.5x ROI figure suggests this channel is still in its underpriced phase — before saturation drives costs up. For B2B startups, the actionable insight is to identify and partner with domain-specific creators now while the channel is still emerging and creator rates haven't inflated to match the value they deliver.

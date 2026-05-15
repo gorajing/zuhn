@@ -51,7 +51,6 @@ related:
   - INS-260327-D9C0
   - INS-260330-7241
   - INS-260330-BCD8
-  - INS-260405-DAC9
 stance: >-
   Linux dominates because anyone can tweak it for their specific use case —
   covering more applications than any proprietary system ever could.

@@ -8,6 +8,7 @@
 - `INS-260408-11E1` Hassabis ranks bad-actor weaponization and rogue agentic AI as the two existential-grade risks, with deepfakes as a separate immediate-term issue.
 - `INS-260404-6BD6` AI agents are moving beyond task-level automation to reshape how entire workforces are structured.
 - `INS-260403-0A83` AI that replaces human learning effort may destroy the byproduct discoveries that grow humanity's total knowledge stock.
+- `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.
 - `INS-260405-4803` Agentic AI is moving from an engineering concern to a board-level strategic imperative.
 - `INS-260404-D646` Agentic AI is eating software by turning autonomous multi-step execution into a new platform layer, not just a feature bolted onto existing products.
 - `INS-260403-AFBC` Agentic AI that replaces human work should charge per outcome; assistive AI that augments humans should charge per seat or usage tier.

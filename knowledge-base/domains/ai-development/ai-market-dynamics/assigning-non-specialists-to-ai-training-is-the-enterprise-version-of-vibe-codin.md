@@ -42,11 +42,11 @@ resolutions:
     everyone can build with AI — the skill bar for deployment that actually
     works remains high.
 related:
+  - INS-260514-791A
   - INS-260323-216A
   - INS-260404-CE26
+  - INS-260514-6530
   - INS-260322-2ABB
-  - INS-260404-DBD2
-  - INS-260403-1F1B
 stance: >-
   Organizations routinely assign their least technical person to 'train the AI'
   because they don't understand that this is actual data science work.

@@ -45,11 +45,11 @@ stance: >-
   rather than technical superiority, making popularity a rational engineering
   constraint.
 related:
+  - INS-260514-8413
   - PRI-260406-9D48
   - INS-260402-72EF
   - INS-260323-7D3C
   - INS-260423-E12B
-  - INS-260405-880C
 evidence:
   - id: INS-260325-4846
     type: TRANSFERS_TO

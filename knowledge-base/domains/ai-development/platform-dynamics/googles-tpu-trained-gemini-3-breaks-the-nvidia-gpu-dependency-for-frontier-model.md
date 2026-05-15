@@ -61,6 +61,7 @@ related:
   - INS-260505-4426
   - INS-260412-9777
   - INS-260325-B50B
+  - INS-260514-9281
 ---
 Google's Gemini 3 Pro topped LMArena, Humanity's Last Exam, and GPQA Diamond benchmarks while being trained entirely on Google's own Tensor Processing Units rather than Nvidia GPUs. This is a significant strategic signal: while virtually every other AI lab competes fiercely for Nvidia H100/B200 allocation, Google has demonstrated that its vertically integrated hardware stack can produce state-of-the-art results independently.
 

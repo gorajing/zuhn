@@ -55,7 +55,6 @@ stance: >-
   surprising emergent structure.
 related:
   - INS-260325-8065
-  - INS-260323-61D4
   - INS-260323-A52F
   - INS-260323-1302
   - INS-260327-2112
@@ -64,6 +63,7 @@ related:
   - INS-260323-72EB
   - INS-260412-5E11
   - INS-260330-137C
+  - INS-260330-9B16
 evidence:
   - id: INS-260325-8065
     type: TRANSFERS_TO

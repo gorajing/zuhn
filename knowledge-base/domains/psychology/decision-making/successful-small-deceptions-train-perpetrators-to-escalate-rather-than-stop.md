@@ -49,11 +49,11 @@ related:
   - INS-260323-FFAC
   - INS-260323-95FE
   - INS-260327-31BD
-  - INS-260327-C05A
   - INS-260330-E5F2
   - INS-260330-A14D
   - INS-260409-1D16
   - INS-260410-831F
   - INS-260412-71C6
+  - INS-260412-F8D1
 ---
 Javice's trajectory followed a clear escalation arc: inflated metrics for a college nonprofit that was never registered, a fabricated Peter Thiel fellowship rejection story, fake user counts pitched to early Frank investors, and finally 4 million synthetic customer accounts sold to JP Morgan. At each stage, the lack of consequences reinforced the behavior. This pattern mirrors research on escalation of commitment in deception — the sunk cost of prior lies makes truthfulness increasingly expensive, while each successful deception lowers the psychological barrier to the next one. For due diligence and hiring, the implication is that verifying early-career claims matters disproportionately, because small fabrications are leading indicators of large ones.

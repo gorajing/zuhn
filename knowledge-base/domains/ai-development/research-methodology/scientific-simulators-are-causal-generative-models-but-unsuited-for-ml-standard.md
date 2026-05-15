@@ -55,10 +55,10 @@ stance: >-
 related:
   - INS-260410-5F60
   - INS-260505-2053
+  - INS-260514-8FC8
   - INS-260321-8C35
   - INS-260410-684D
   - INS-260501-FDF0
-  - INS-260408-C572
 ---
 Cranmer's framing: scientific simulators (Geant4 for particle physics, cosmological N-body codes) generate data, so they're technically generative models. But unlike typical GANs/VAEs/diffusion models, they have explicit causal mechanisms inside — you can intervene on parameters and trace the causal chain through the simulation. This makes them strictly more useful for causal reasoning. The catch: they're computationally expensive (hours to days per sample), which makes them unusable for typical ML workflows where you need millions of samples. Hence the rise of neural-network surrogates that approximate the simulator's distribution at orders-of-magnitude lower cost.
 

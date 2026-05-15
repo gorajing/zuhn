@@ -65,10 +65,11 @@ related:
   - INS-260325-B11F
   - INS-260330-E126
   - PRI-260403-67FC
+  - INS-260514-8FC8
   - INS-260403-141E
   - PRI-260405-0676
   - INS-260410-06DB
-  - INS-260501-FDF0
+  - INS-260514-9281
 ---
 Sutton argues that psychology and animal behavior studies make it obvious that supervised learning is not a basic learning mechanism in nature. There are no examples of 'correct actions' presented to infants or squirrels. What exists are examples of 'we did something and there were consequences' — trial-and-error control — and 'one event followed another' — prediction learning. Even imitation learning, which humans clearly do, is a thin cultural layer on top of these basic mechanisms.
 

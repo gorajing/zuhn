@@ -55,8 +55,8 @@ related:
   - INS-260402-ECD2
   - PRI-260406-806C
   - INS-260405-6DAD
+  - INS-260514-A946
   - INS-260329-1318
-  - PRI-260406-B331
 ---
 Graham notes that 25 years before writing (roughly early 1980s), ambitious people had to go through bosses influenced by college pedigree—there was no practical way to be judged directly by the market. Startups and the broader shift toward smaller organizations changed this fundamentally. Now the question 'why spend twenty years climbing the corporate ladder when you can get rewarded directly by the market?' has a real answer.
 

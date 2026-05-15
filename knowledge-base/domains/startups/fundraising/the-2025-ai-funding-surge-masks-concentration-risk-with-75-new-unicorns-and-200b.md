@@ -51,7 +51,6 @@ stance: >-
   positioning more important than fundraising ability
 related:
   - INS-260403-AA6A
-  - INS-260403-52FF
   - INS-260404-19C2
   - INS-260403-9FEB
   - INS-260404-BEBB
@@ -60,6 +59,7 @@ related:
   - INS-260405-A6E1
   - INS-260403-A2A6
   - INS-260403-CE07
+  - INS-260403-CF1D
 ---
 The 2025 AI funding landscape shows record capital deployment — over $200 billion — alongside 75 new AI unicorns and a surge in robotics deals. On the surface, this suggests a thriving ecosystem. But the underlying dynamic is concentration: a disproportionate share of capital flows to a small number of companies scaling fastest, while the long tail of AI startups faces increasingly competitive funding markets.
 

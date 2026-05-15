@@ -51,10 +51,10 @@ stance: >-
   from a limited pool.
 related:
   - INS-260402-F04F
+  - INS-260514-78B3
   - INS-260328-FF2C
   - PRI-260406-22D5
   - INS-260326-D8B9
-  - INS-260321-33FC
 evidence:
   - id: INS-260402-F04F
     type: CHALLENGES

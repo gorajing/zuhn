@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 271 insights
+> 276 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -19,6 +19,7 @@
 - `INS-260403-5B4E` [high] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260404-CC7C` [high] RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260403-3876` [high] Movements with members on both sides of a divide can influence whichever side currently holds power.
+- `INS-260514-63B2` [high] Companies have BULKING phases (grow revenue, accept margin loss) and CUTTING phases (improve margin, accept growth loss). Commit to one for 6-12 months. You cannot do both simultaneously — you're clicking gas and brake at the same time.
 - `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
 - `INS-260403-0661` [high] Incumbent institutions won't vote to dismantle the systems that keep them in power — reformers must find mechanisms that bypass incumbent consent entirely.
@@ -39,6 +40,7 @@
 - `INS-260404-7A5B` [high] Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
 - `INS-260405-4CDA` [high] The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260410-DE05` [high] Corporate welfare pledges have affected hundreds of millions of animals at a cost of under $100M/year, while the equivalent legislation is blocked by agriculture committees and cultivated meat consumes billions in VC with no scale.
+- `INS-260514-DB02` [high] Costco rotisserie chicken loses money on purpose — it drives customers into the store. Identify your hero product (customers return for it AND buy other things). Kill products customers buy once and never return for, even if margin looks good.
 - `INS-260403-4F68` [high] Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260410-E338` [high] Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.
@@ -129,6 +131,7 @@
 - `INS-260324-0A26` [high] The US government used the American Dream (home + car ownership) as both domestic reintegration tool for veterans and Cold War propaganda against Soviet communism, while Europe nationalized transit.
 - `INS-260403-4C4E` [high] As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260329-C26B` [high] The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
+- `INS-260514-DE49` [high] All-in-one platforms force their workflow on you; primitive-based platforms let you build YOUR workflow. As GTM gets more specialized, primitives win. The right question isn't 'does this tool have feature X' but 'can I compose X from the primitives'.
 - `INS-260330-1DCF` [high] Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260412-FE60` [high] Boeing's 2004 discontinuation of the 757 left a gap between the 737 and 787 that became the most predictable major aircraft opportunity in the industry.
 - `INS-260403-8C56` [high] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
@@ -207,6 +210,7 @@
 - `INS-260404-3C7A` [medium] Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-165F` [medium] Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260405-7DC3` [medium] E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
+- `INS-260514-80C4` [medium] Barabási's artist research: those who exhibited in many diverse places (Italy, Switzerland, local) succeeded more than those who only exhibited in elite venues — diversification of attempts beats elite venue concentration.
 - `INS-260409-B4D0` [medium] Barbell: AI-first disruption bets on one side, durable human-need verticals (health, food, entertainment) on the other — skip the middle.
 - `INS-260412-93EA` [medium] Rwanda's strategy of explicitly targeting World Bank indicators and global rankings mirrors Goodhart's Law in business — when a measure becomes a target, it ceases to be a good measure.
 - `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
@@ -222,6 +226,7 @@
 - `INS-260403-9E4D` [medium] A five-lens framework spanning deep tech, energy, healthcare, economics, and socio-political trends creates more robust investment and strategic decisions than single-dimension analysis.
 - `INS-260329-4161` [medium] Building the frozen yogurt system (franchise, brand, supply chain) generates far more wealth than operating any single store.
 - `INS-260405-E353` [medium] Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
+- `INS-260514-66E5` [medium] SF and NY only for billion-dollar tech ambition — the public-embarrassment forcing function ('just an engineer at Google' = embarrassing) pushes founders past their comfortable ceiling. No other city has this density.
 - `INS-260330-FEB0` [medium] The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260404-1579` [medium] Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.
 - `INS-260410-71D2` [medium] DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.

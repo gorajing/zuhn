@@ -53,12 +53,13 @@ stance: >-
   communication to data management -- making two-person teams capable of
   managing 500-member organizations.
 related:
+  - INS-260514-E860
   - INS-260323-6414
+  - INS-260514-F857
   - PRI-260406-7FE4
   - INS-260403-7825
-  - INS-260410-F3D8
-  - INS-260403-4D1E
   - INS-260403-D4D4
+  - INS-260403-4D1E
 evidence:
   - id: INS-260325-8F49
     type: SUPPORTS

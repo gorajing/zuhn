@@ -9,3 +9,4 @@
 - `INS-260327-999C` OpenAI built a separate dedicated GTM team for ChatGPT Enterprise rather than using their existing API sales org, gaining speed and focus — then merged both orgs into one unified team once both motions were proven.
 - `INS-260327-8115` Plunge waterfalls require patient field marketing and multi-touch attribution; slide waterfalls are dangerous without renewal/CS infrastructure; cascade waterfalls enable land-and-expand but need product management and cross-functional selling.
 - `INS-260327-2043` OpenAI merged two separate go-to-market orgs (API and ChatGPT Enterprise) into one unified team of 500, giving everyone new roles, managers, and a new product to learn — because old playbooks don't apply in AI.
+- `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.

@@ -1,4 +1,5 @@
 # Tag: scott-adams
 
+- `INS-260514-21AA` Top-25% in two areas typically lands you in top-5% of the overlap — skill-stack two adjacent domains rather than chasing top-1% in one.
 - `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.

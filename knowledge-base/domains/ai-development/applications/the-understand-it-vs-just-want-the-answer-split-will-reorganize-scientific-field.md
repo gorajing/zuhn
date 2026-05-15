@@ -54,9 +54,9 @@ related:
   - INS-260325-1F35
   - INS-260330-5DA6
   - INS-260409-2CCA
+  - INS-260514-791A
   - PRI-260403-F981
   - INS-260330-B5D2
-  - PRI-260325-EEE9
 ---
 Doug Finkbeiner's framing: there's a genuine bifurcation. Astronomers do astronomy because they want to understand the universe — an AI that says 'I figured it out, but the explanation is too complicated for you' is a failure outcome. Whereas a medical researcher saying 'we have a drug that works, can't tell you how' is acceptable. Mathematicians have indigestion about AI proof generation because the journey of proof IS the value, not just the proof artifact. Engineers are fine with weird-looking optimal antennas as long as they work. This split was always present but AI is forcing it explicit. Fields will reorganize their evaluation criteria around it.
 

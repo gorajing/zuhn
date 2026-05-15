@@ -53,7 +53,6 @@ stance: >-
   to a war posture — there is no path back to the prior equilibrium, and outside
   observers assuming reversibility misread the situation.
 related:
-  - INS-260327-088D
   - INS-260327-08E7
   - INS-260410-AF9A
   - INS-260410-7028

@@ -52,7 +52,6 @@ stance: >-
   outputs, and no physical bottlenecks—describe an expanding frontier that
   market competition will push to its limits regardless of safety concerns.
 related:
-  - INS-260404-CC79
   - PRI-260328-D401
   - PRI-260406-6DBE
   - PRI-260321-7307

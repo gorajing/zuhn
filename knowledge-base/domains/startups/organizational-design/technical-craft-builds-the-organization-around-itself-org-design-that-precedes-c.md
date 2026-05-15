@@ -50,7 +50,6 @@ stance: >-
   attempts to design structure first and fill it with talent produce weaker
   outcomes
 related:
-  - INS-260320-5F14
   - INS-260322-A928
   - INS-260327-5CB6
   - INS-260327-F6B2

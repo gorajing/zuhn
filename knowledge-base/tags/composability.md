@@ -1,5 +1,6 @@
 # Tag: composability
 
+- `INS-260514-EA9E` A 5-narrow-agent chain (news → researcher → career-page poller → scorer → resume writer) is more reliable than one general agent — narrow agents with single jobs chain better and are easier to debug.
 - `INS-260330-DE16` Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
 - `INS-260329-E015` Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
 - `INS-260329-FAE2` Layer simple, well-understood data structures together rather than inventing clever one-off solutions.
@@ -11,3 +12,4 @@
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260330-628D` Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
 - `INS-260402-97AF` Open-source code plus portable user data means web3 projects cannot rely on IP or lock-in—only ongoing community value sustains them.
+- `INS-260514-DE49` All-in-one platforms force their workflow on you; primitive-based platforms let you build YOUR workflow. As GTM gets more specialized, primitives win. The right question isn't 'does this tool have feature X' but 'can I compose X from the primitives'.

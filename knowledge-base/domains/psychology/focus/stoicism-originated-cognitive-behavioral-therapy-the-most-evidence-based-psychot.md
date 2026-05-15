@@ -53,10 +53,10 @@ stance: >-
   evidence that ancient Stoic approaches to emotion and reasoning actually work.
 related:
   - PRI-260405-262B
+  - INS-260514-8FC8
   - PRI-260327-7924
   - INS-260330-F500
   - INS-260410-0120
-  - INS-260329-E208
 evidence:
   - id: INS-260329-E208
     type: TRANSFERS_TO

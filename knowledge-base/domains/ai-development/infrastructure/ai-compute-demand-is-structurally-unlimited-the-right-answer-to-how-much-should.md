@@ -55,9 +55,9 @@ related:
   - INS-260410-BC76
   - INS-260410-C63C
   - INS-260410-28E0
+  - INS-260514-D44B
   - INS-260403-5CAD
   - INS-260323-B4D2
-  - INS-260326-C305
   - INS-260505-8E0B
 ---
 The standard capacity-planning frame treats demand as estimable from prior trend and assumes a stabilization point. Brockman names the operational truth at OpenAI: demand for intelligence is structurally unlimited at every price point delivered so far, and the compute ramp has never caught up. Matt Garman (AWS) corroborates from the supply side that GPU compute availability in 2026 'rounds to zero.' The implication for capacity-planning at AI-dependent companies: provision aggressively at every level of the stack you control. For AI infrastructure investors: bottleneck shifts upstream (energy, cooling, fab capacity) rather than away. For builders dependent on third-party APIs: every provider is supply-constrained, so your capacity is at their discretion — multi-provider sourcing is risk management, not optimization. The deeper signal: any narrative that AI compute spend will moderate in 2026-2027 contradicts the operator-level information from the largest buyer of compute. Plan accordingly.

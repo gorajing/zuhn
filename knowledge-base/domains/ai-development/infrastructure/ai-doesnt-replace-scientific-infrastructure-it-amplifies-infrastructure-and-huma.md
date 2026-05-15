@@ -53,16 +53,16 @@ stance: >-
   pattern is amplification — AI multiplies what existing infrastructure and
   human expertise can produce, but cannot substitute for either.
 related:
-  - INS-260323-05B5
   - INS-260325-451F
   - INS-260323-9770
   - INS-260323-95BC
   - INS-260323-224F
-  - INS-260405-4053
   - INS-260330-B1A3
   - INS-260408-306A
   - INS-260409-F90C
   - INS-260409-5FF6
+  - INS-260409-A318
+  - INS-260409-B367
 ---
 Gil's archetype example: the Protein Data Bank, established 1971, accumulated ~200K experimentally-determined protein structures over 50 years through patient experimental work. Modern AI systems (AlphaFold and successors) using that 200K-structure training set predicted 200M structures in just a few years. The headline narrative is 'AI replaced experimental structural biology.' The reality: AI couldn't have produced anything without the 200K experimentally-determined ground truth. AI doesn't replace the scientific infrastructure that produced the training data, nor the human expertise that designed those experiments. It amplifies both. Same pattern at DOE facilities — AI extends what instruments can do and what scientists can manage, but neither can be removed from the system.
 

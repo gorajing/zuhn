@@ -49,7 +49,6 @@ stance: >-
   AI does not need to think like humans to exceed human cognitive performance,
   just as submarines outperform fish without mimicking fins.
 related:
-  - INS-260323-1345
   - INS-260321-F864
   - INS-260327-DD48
   - INS-260403-A1DF

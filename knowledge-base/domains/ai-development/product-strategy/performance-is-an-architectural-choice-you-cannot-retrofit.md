@@ -49,7 +49,6 @@ stance: >-
   rewritten from web technology (Atom/Electron) to native Rust despite the
   enormous cost.
 related:
-  - INS-260320-93E1
   - INS-260323-AB5F
   - INS-260327-889F
   - INS-260327-94CC

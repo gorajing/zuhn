@@ -57,9 +57,8 @@ related:
   - INS-260329-3423
   - PRI-260405-2A95
   - PRI-260403-9E80
-  - INS-260403-7D7A
+  - INS-260514-C4CF
   - INS-260329-ACEB
-  - INS-260329-CF16
 ---
 SQL constraints (NOT NULL, UNIQUE, DEFAULT, AUTO_INCREMENT, CHECK) represent validation rules encoded directly in the database schema. When you declare a column as NOT NULL, every INSERT from every source — application code, admin scripts, migration tools, direct SQL — must provide a value. This is categorically different from checking for null in your application's validation layer, which only protects one access path.
 

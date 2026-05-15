@@ -64,10 +64,10 @@ stance: >-
   elegant mathematical derivation.
 related:
   - INS-260329-FC75
-  - INS-260329-3763
   - INS-260410-0EF8
+  - INS-260514-8FC8
   - INS-260403-AC03
-  - INS-260410-AA40
+  - INS-260329-3763
 ---
 Karpathy's meta-commentary on the development process is worth more than the WaveNet implementation itself. He describes a workflow with three concrete features: (1) a huge fraction of time spent on PyTorch's documentation pages checking what shapes each layer accepts (NCL vs NLC, 2D vs 3D, default dimensions), with the caveat that 'no one is maintaining any documentation — it will lie to you, it will be wrong, it will be incomplete'; (2) extensive shape gymnastics — reshaping, viewing, squeezing, broadcasting — just to get tensors to line up between layers; (3) a two-tool workflow where layers are prototyped in a Jupyter notebook to babysit the shapes, and only copy-pasted into a VS Code repository once they actually work.
 

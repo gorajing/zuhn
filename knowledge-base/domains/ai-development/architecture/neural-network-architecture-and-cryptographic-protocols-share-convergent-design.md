@@ -62,10 +62,10 @@ stance: >-
   cryptanalysis applied to nets.
 related:
   - INS-260330-6BBD
+  - INS-260514-8FC8
   - INS-260325-A1B9
   - INS-260410-025A
   - INS-260325-BE3A
-  - INS-260412-79D5
 ---
 Pope's parallel: cryptographic protocols and neural networks both need to mix information across all inputs — for crypto, it's the avalanche property (small input change → large output change); for nets, it's the requirement that each input feature can modulate the interpretation of every other. They optimize for opposite goals (crypto wants to destroy structure, nets want to extract it), but the mixing primitives converge.
 

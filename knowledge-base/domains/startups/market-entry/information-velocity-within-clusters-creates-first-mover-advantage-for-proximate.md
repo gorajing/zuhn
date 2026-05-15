@@ -51,7 +51,6 @@ stance: >-
   technologies and trends that distant competitors cannot replicate through
   digital communication alone.
 related:
-  - INS-260403-20BF
   - INS-260403-C7A0
   - INS-260410-D316
   - INS-260412-C17E

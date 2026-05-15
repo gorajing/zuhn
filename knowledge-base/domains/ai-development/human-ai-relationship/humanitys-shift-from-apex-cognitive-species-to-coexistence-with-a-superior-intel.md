@@ -52,14 +52,14 @@ stance: >-
 related:
   - INS-260323-B726
   - INS-260323-9E75
-  - INS-260327-203C
   - INS-260330-8B79
-  - INS-260330-E082
   - INS-260330-814E
   - INS-260330-6AED
   - INS-260403-8EFF
   - INS-260405-AF1E
   - INS-260323-1345
+  - INS-260327-203C
+  - INS-260323-0961
 ---
 Smith's central thesis transcends the typical AI discourse about jobs and productivity. His 'sleeping next to a tiger' metaphor reframes the situation: we keep pets that are weaker and dumber than us because that's safe and controllable. For the first time, we're creating something that will be stronger (cognitively) than us, and we have no historical precedent for how a formerly-apex species navigates that transition.
 

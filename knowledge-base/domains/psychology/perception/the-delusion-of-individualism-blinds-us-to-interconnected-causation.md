@@ -47,11 +47,11 @@ stance: >-
   that ignores the scientific reality of interconnected causation — we are
   constantly being shaped by the actions of people we will never meet.
 related:
+  - INS-260514-7B5B
   - INS-260330-EFF3
   - INS-260325-922D
   - INS-260325-7974
   - PRI-260406-C60B
-  - INS-260327-439A
 ---
 Klaas identifies what he calls 'the delusion of individualism' — the Western obsession with believing we're in control of our lives. This is at odds with both Eastern philosophy (which emphasizes relational interconnection) and scientific fact (chaos theory, complex systems).
 

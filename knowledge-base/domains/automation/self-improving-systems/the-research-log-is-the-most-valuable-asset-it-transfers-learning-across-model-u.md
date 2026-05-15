@@ -48,12 +48,11 @@ resolutions:
     iterating on prompts or configurations — structured logs of what was tried,
     what worked, and what didn't are more valuable than the current best prompt.
 related:
-  - INS-260320-4773
   - INS-260505-D440
   - INS-260501-FDF0
+  - INS-260514-AC43
   - INS-260423-E64B
   - INS-260320-7914
-  - INS-260501-0662
 stance: Log every change and the data that caused it in a structured research log
 evidence:
   - id: INS-260329-3D3E

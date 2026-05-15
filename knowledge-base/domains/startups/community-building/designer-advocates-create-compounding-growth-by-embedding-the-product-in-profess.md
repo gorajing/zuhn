@@ -58,6 +58,7 @@ related:
   - INS-260330-059C
   - INS-260329-CEC5
   - INS-260403-5788
+  - INS-260514-315F
 ---
 Figma's designer advocate program worked because it made the product part of how designers presented themselves professionally — on Twitter, at meetups, in job listings. This is qualitatively different from a referral program: advocates were not incentivized to share, they shared because sharing affirmed their own professional identity and expertise.
 

@@ -1,5 +1,6 @@
 # Tag: taxonomy
 
+- `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260405-670E` Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
 - `INS-260411-33E5` AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
 - `INS-260505-5A06` Prediction: AI guesses, formal verification confirms. Inference: AI must be calibrated against simulators because mistakes propagate to wrong scientific conclusions.

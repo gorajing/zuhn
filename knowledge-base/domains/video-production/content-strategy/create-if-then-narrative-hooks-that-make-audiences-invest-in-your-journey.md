@@ -45,8 +45,8 @@ related:
   - INS-260405-D216
   - INS-260329-764E
   - INS-260327-112B
+  - INS-260514-F857
   - PRI-260322-DC5E
-  - INS-260403-DDEB
 stance: >-
   Frame your content around a public if-then challenge ('If I get X followers,
   I'll do Y') to create narrative tension that keeps viewers coming back.

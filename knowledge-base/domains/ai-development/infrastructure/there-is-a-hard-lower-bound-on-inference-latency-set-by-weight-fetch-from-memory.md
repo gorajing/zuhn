@@ -57,6 +57,7 @@ related:
   - INS-260410-CB70
   - PRI-260426-9730
   - INS-260410-AC0B
+  - INS-260514-4BD5
 ---
 Pope's roofline derivation: minimum inference latency = max(compute time, memory time). The memory time for weight fetches is total_params / memory_bandwidth. This is a physical lower bound — you can't read the weights faster than HBM allows. Even at batch size 1, you must read all weights once per token.
 

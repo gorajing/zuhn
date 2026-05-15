@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 178 insights
+> 198 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -19,16 +19,22 @@
 - `INS-260412-8111` [high] The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
 - `INS-260412-9D2A` [high] When a disaster destroys the very systems meant to respond to it, only prevention — not preparedness — offers real protection.
 - `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
+- `INS-260514-DB6E` [high] FFmpeg's filter: 'maybe you're a dog, I don't care — show me your code.' Anti-credentialism produces world-class software. 16-year-olds contribute thousands of lines of assembly. Senior Google engineers get rejected. Quality is the only signal.
+- `INS-260514-3223` [high] College is for the network, not the education. The friends you make there become your future hires, co-founders, investors, customers over 30 years. Post-college you'll work 10x as hard for half the network density.
 - `INS-260412-9958` [high] Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
+- `INS-260514-56D8` [high] Disa study: 87% of 9,000 consumers across 9 countries happy with AI music if it's good. Industry debates about 'authenticity' irrelevant — consumers have voted. Industries that try to overrule consumer preference lose.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
+- `INS-260514-5E7C` [high] Delayed-choice experiments confirm the past is partially constructed by present measurement — at the quantum level, whether you measure NOW determines what the particle DID before. The past isn't fixed.
 - `INS-260412-66D8` [high] The dendritic cell's binary choice between anti-virus and anti-bacteria response determines which entire army gets mobilized, making it the highest-leverage decision point in immune response.
 - `INS-260403-0769` [high] The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
 - `INS-260412-0B8B` [high] Charging to 50% twice is faster than charging to 100% once because batteries accept power at diminishing rates as they fill.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260404-E783` [high] Seemingly paradoxical findings often dissolve when you recognize the phenomenon as a mix of tradeoff and failure components rather than seeking a single unified explanation.
 - `INS-260410-0735` [high] Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
+- `INS-260514-F5CC` [high] Don't rely on willpower when stressed/tired/hungry. Purge the kitchen of junk food. Stack the odds.
 - `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
+- `INS-260514-86D9` [high] AI futures (and other deep-uncertainty domains) are hash-function-sensitive — small parameter changes = radically different outcomes. Favor scenario-robust policies (classical liberalism, transparency, checks-balances) over scenario-specific bets.
 - `INS-260412-F8D1` [high] Leeson's losses grew from £4M to £94M to £160M to £830M because each concealment required deeper fraud to sustain.
 - `INS-260405-3048` [high] RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260412-2D98` [high] Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
@@ -36,9 +42,11 @@
 - `INS-260403-CF46` [high] Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-FBC0` [high] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260404-1289` [high] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
+- `INS-260514-AE3A` [high] Friston's free energy principle: every living system minimizes the gap between expectation and reality — either by updating expectations OR by changing the world. The most-cited neuroscience principle of our era, applicable far beyond biology.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260412-7E9E` [high] Governments consistently fail to fund long-horizon projects like lunar bases despite clear positive ROI, because political incentive structures reward short-term spending.
 - `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
+- `INS-260514-4424` [high] Impressions ≠ attention. 86M Show Speed impressions → minimal sales. One Joe Rogan organic mention → massive sales. Quality-of-attention >> quantity-of-impressions. Marketing spending on raw reach without attention context wastes most of the budget.
 - `INS-260410-B47B` [high] The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260412-6F0E` [high] When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260410-AF9A` [high] Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
@@ -51,6 +59,8 @@
 - `INS-260403-C313` [high] Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260412-E89C` [high] South Korean tourists continued visiting Guam during the 2017 North Korean missile crisis because missile threats were a normalized part of their daily reality, unlike Japanese tourists who cancelled en masse.
+- `INS-260514-5594` [high] Bell inequality has been violated in every experiment since 1972 — local hidden variables are dead, and either locality or realism (probably both) must be abandoned. Update on hard empirics, not intuition.
+- `INS-260514-316F` [high] When my agent sends the prompt I approve, I feel less like the owner of my startup. More like an employee. The psychological shift is real.
 - `INS-260409-9412` [high] Earthrise happened because Bill Anders yelled for color film when he saw Earth coming up unscheduled; the Artemis eclipse happened because the crew chose to frame Venus into a dark shot.
 - `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
 - `INS-260403-5BF9` [high] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
@@ -77,6 +87,7 @@
 - `INS-260403-F1C6` [high] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260403-34E0` [high] Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260410-DB1D` [high] Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
+- `INS-260514-D5F0` [high] Precision weighting is the gate between rigidity and plasticity. High-confidence priors block updates (depression, expert blindness, polarization). Psychedelics work by RELAXING precision, letting bottom-up data update beliefs.
 - `INS-260403-7B28` [high] We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
 - `INS-260330-B444` [high] Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260404-1678` [high] Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
@@ -85,11 +96,13 @@
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
+- `INS-260514-21AA` [high] Top-25% in two areas typically lands you in top-5% of the overlap — skill-stack two adjacent domains rather than chasing top-1% in one.
 - `INS-260412-2117` [high] Increased US airport security after 9/11 drove a 6% decline in air travel, causing 500+ additional driving deaths in 2002 alone from passengers choosing cars over planes.
 - `INS-260412-BBF8` [high] Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
 - `INS-260412-59F2` [high] The barrier to becoming an interstellar civilization isn't technical feasibility but humanity's chronic short-term political focus.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
 - `INS-260403-2AC0` [high] Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
+- `INS-260514-C343` [high] The startup roller-coaster always regresses to baseline — internalize that 'things will be okay even when they don't feel okay,' because experience proves the swings normalize with right market + right team.
 - `INS-260403-D06F` [high] Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
 - `INS-260403-803A` [high] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260403-F075` [high] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
@@ -111,6 +124,7 @@
 - `INS-260412-FCF8` [high] SVB had no Chief Risk Officer for 8 months (April 2022 – January 2023) during the exact period when rising rates demanded portfolio rebalancing.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260410-90BD` [high] Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
+- `INS-260514-1C18` [high] Outcomes in fat-tailed domains (college, ads, sales, content) reward volume. Don't apply to 6 colleges — apply to 26. Don't write 1 essay — write 48. Don't run 5 ads — run 1000/day. The unexpected outcomes live in the volume.
 - `INS-260403-330D` [high] Voters expect absolute price decreases, not just slower inflation, creating a nearly impossible standard for politicians to meet.
 - `INS-260410-24DA` [high] Paine notes that World War I started with modest territorial objectives but, as casualties mounted into the millions, escalated to demands for regime change that the original goals never contemplated.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
@@ -139,6 +153,7 @@
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
 - `INS-260412-7512` [medium] Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260514-0239` [medium] Game selection beats game excellence. Hedge funds, IB, big tech — crowded high-status games. Ambulance supply, specialty B2B, niche distribution — uncrowded with similar/better outcomes. Choose the game, then play it well.
 - `INS-260410-BFA1` [medium] Bernard Arnault started accumulating Hermès shares through equity swaps specifically when he saw Jean-Louis Dumas's retirement coming and no clear single successor — the first separation of CEO and artistic-director roles was the opening.
 - `INS-260412-9270` [medium] Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
 - `INS-260405-690F` [medium] The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.
@@ -152,7 +167,10 @@
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260405-6E4F` [medium] Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260412-4CB1` [medium] When no path is cosmically 'right,' the only remaining criterion is personal alignment, which is faster to evaluate.
+- `INS-260514-EE50` [medium] Quantum measurement doesn't reveal pre-existing state — it creates the state. The framework of 'objective external truth waiting to be uncovered' fails at the deepest level.
+- `INS-260514-BB61` [medium] Explaining (clarifying concepts) and mentoring (calibrating help-vs-struggle) are distinct skills — many great explainers are weak mentors because they default to providing answers.
 - `INS-260412-5272` [medium] Stellar engines are machines built by civilizations thinking in eons, not decades — the planning horizon transforms what counts as rational.
+- `INS-260514-56EC` [medium] Modern waking consciousness is slightly sub-critical — too ordered. The ego developed to constrain post-neocortex entropy but became excessive. Psychedelics, meditation, fasting, extreme cold all temporarily restore criticality.
 - `INS-260405-DB32` [medium] You are accountable for acting from your values, even if you didn't choose those values from scratch.
 - `INS-260405-E05D` [medium] The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
 - `INS-260404-1D05` [medium] Nostalgia is a psychological refuge from an illegible future, not a rational assessment of the past.
@@ -169,6 +187,7 @@
 - `INS-260412-BE47` [medium] A 1-in-100,000 chance over 5 billion years sounds negligible, but thousands of years of advance notice transforms an extinction event into a solvable engineering problem.
 - `INS-260403-9FB1` [medium] A typo in the Congressional Apportionment Amendment — 'more than' instead of 'less than' — would force the Supreme Court to definitively choose between textualism and originalism with no room for compromise.
 - `INS-260412-2F0C` [medium] Venus looks far worse than Mars today but its 90% Earth gravity makes it the better multi-generational bet.
+- `INS-260514-EE1F` [medium] Western culture is excellent at decomposing problems (Descartes), structurally weak at synthesis. AI era requires synthesis: curate AI outputs, juxtapose recombinant content, integrate across silos. Synthesis skill = disproportionate advantage.
 - `INS-260403-4452` [medium] The gap between supporting charity via taxation vs. personal donation reflects genuinely conflicting time-horizons within individuals, not hypocrisy.
 - `INS-260403-CB80` [medium] Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
 - `INS-260403-6602` [medium] Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
@@ -179,4 +198,5 @@
 - `INS-260403-E554` [medium] Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
 - `INS-260403-7342` [medium] Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous.
 - `INS-260410-734F` [medium] In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
+- `INS-260514-D57C` [low] Bostrom's trilemma forces a choice: (1) civilizations go extinct first, (2) advanced ones choose not to simulate, or (3) we're probably simulated. The practical lesson is to take rigorously-argued weird conclusions seriously, not dismiss them on feel.
 - `INS-260412-2A09` [low] Ferdinand Porsche declined Stalin's offer to lead Soviet auto development not over ideology, but because he couldn't speak Russian.

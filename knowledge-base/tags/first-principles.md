@@ -39,6 +39,7 @@
 - `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
 - `INS-260330-1D3B` An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
+- `INS-260514-7628` Engineers understand every layer. Coders assemble abstractions. The distinction matters: engineers diagnose from first principles and design new systems; coders only output what AI already outputs. AI is hollowing out the coder rung.
 - `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
 - `INS-260403-832B` eDreams built Spain's first unicorn without lean startup methodology, finding that the absence of playbooks forced them to focus on what actually worked rather than conventional wisdom.
 - `INS-260327-767B` In frontier tech, no existing playbook applies—build your own through experimentation and first principles.

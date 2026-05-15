@@ -67,6 +67,7 @@ related:
   - PRI-260403-0ABD
   - INS-260412-D883
   - INS-260405-BBA3
+  - INS-260514-44D9
 ---
 Maggie draws a hard line: founders are the head of sales until the motion is repeatable. A repeatable motion means: you know your ICP, you know your pitch, you know where leads come from, and a non-founder can move deals predictably through the funnel. Until those conditions are met, hiring a head of sales or CRO is premature.
 

@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 49 insights
+> 52 insights
 
 - `INS-260412-744D` [high] A 2-gram tumor is 10% of a mouse but 0.000002% of a blue whale, so large animals may harbor many small cancers that never reach clinically relevant size.
 - `INS-260412-812C` [high] The adaptive immune system recombines ~100 gene fragments to produce 1-10 billion unique receptors, covering every possible pathogen protein shape.
@@ -11,6 +11,7 @@
 - `INS-260404-EFA8` [high] The light-dependent reactions prove that virtually all life on Earth is fusion-powered, with photosynthesis as the critical conversion step from stellar to chemical energy.
 - `INS-260330-1084` [high] A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260330-BA7F` [high] Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
+- `INS-260514-B9C3` [high] Exercise → BDNF secretion → neuron growth → improved dendritic plasticity → measurably better brain function. Mechanism is specific, not handwave-cardio.
 - `INS-260405-AE0D` [high] Photosynthesis runs in two completely separate stages — light reactions capture energy into ATP/NADPH buffers, then the Calvin Cycle spends that buffer to fix carbon — with neither stage directly coupled to the other.
 - `INS-260330-8538` [high] Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260412-8FB0` [high] Cancer results from compounding tiny replication errors across trillions of reactions over time, making it a when-not-if phenomenon.
@@ -25,6 +26,7 @@
 - `INS-260412-B1F7` [high] The immune system's friendly-fire response, not the virus itself, drives most severe disease outcomes.
 - `INS-260412-4DC7` [high] Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
 - `INS-260412-0689` [high] Measles survivors have a severely weakened immune system that takes extended time to regenerate, leaving them vulnerable to other diseases.
+- `INS-260514-7546` [high] Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260403-2DEE` [high] Tensed muscles absorb punch energy before it reaches organs, while relaxed muscles allow force to transmit directly to vulnerable tissue.
 - `INS-260412-00D4` [high] Neutrophils are programmed to die within days of birth because their indiscriminate killing — including DNA-net explosions — would destroy the body's own tissue if left unchecked.
 - `INS-260412-A9A9` [high] Per 10 million exposures, measles kills ~20,000 children and seriously harms ~2.5 million, while MMR vaccination causes ~120 treatable serious side effects and near-zero deaths.
@@ -50,4 +52,5 @@
 - `INS-260403-687E` [medium] Male testosterone is declining ~1% per year independent of age and lifestyle, meaning today's 30-year-old has 20% less than his father did at the same age.
 - `INS-260330-2A6A` [medium] Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
 - `INS-260409-8759` [medium] November 2025 Chinese mouse study showed treadmill-trained fathers pass physical fitness to male offspring via specific sperm microRNAs regulating metabolism genes — the strongest mechanistic evidence yet for non-DNA paternal inheritance.
+- `INS-260514-4E9A` [medium] Find things mentally challenging but not too difficult. Train the brain, don't strain it.
 - `INS-260330-5D64` [medium] Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.

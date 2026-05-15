@@ -44,7 +44,6 @@ stance: >-
   prompt with caching is faster, cheaper, and more accurate than building a RAG
   pipeline.
 related:
-  - INS-260330-2294
   - INS-260410-3F1A
   - INS-260409-3230
   - INS-260409-1078

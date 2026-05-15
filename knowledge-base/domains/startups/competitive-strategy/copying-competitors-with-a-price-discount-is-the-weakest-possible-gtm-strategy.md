@@ -52,10 +52,10 @@ stance: >-
   and guarantees a race to the bottom that destroys margins for everyone.
 related:
   - INS-260402-FFB2
+  - INS-260514-54F9
   - INS-260404-A520
   - INS-260410-DED5
   - PRI-260403-2B12
-  - PRI-260406-0ACE
 ---
 Price-based competition is listed as one of the biggest GTM mistakes because it reveals a fundamental strategic vacuum. If the only reason a customer would choose you is that you're slightly cheaper, you haven't identified a unique strength to play on or a competitor weakness to exploit. You've outsourced your positioning to their pricing decisions.
 

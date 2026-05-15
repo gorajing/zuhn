@@ -54,7 +54,6 @@ related:
   - INS-260404-9A69
   - PRI-260403-2376
   - INS-260327-3B69
-  - INS-260330-85D9
   - INS-260403-449A
 stance: Repetitive work that violates your values causes cognitive depletion
 evidence:

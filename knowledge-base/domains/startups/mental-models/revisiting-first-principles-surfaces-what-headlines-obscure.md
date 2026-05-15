@@ -57,8 +57,8 @@ related:
   - PRI-260323-0654
   - PRI-260323-CE34
   - PRI-260323-27D6
+  - INS-260514-AE3A
   - INS-260501-1608
-  - PRI-260328-1D0B
 ---
 Chamath describes his practice at 8090 of periodically revisiting first principles as a way to reveal insights obscured by the daily churn of AI headlines and purported breakthroughs. When everything is framed as revolutionary, the useful discrimination is which things are actually structurally significant versus attention-grabbing.
 

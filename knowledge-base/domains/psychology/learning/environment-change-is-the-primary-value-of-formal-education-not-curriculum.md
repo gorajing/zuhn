@@ -50,11 +50,11 @@ stance: >-
   equivalent, not from what you learn in classes — the strongest predictor of
   lifetime earnings is birth zip code, not IQ or degree.
 related:
-  - INS-260329-8B10
   - INS-260329-DD01
   - PRI-260406-E4B0
   - INS-260329-3C67
   - INS-260329-D8C7
+  - INS-260514-3223
   - INS-260403-14D5
 evidence:
   - id: INS-260329-DD01

@@ -47,7 +47,6 @@ stance: >-
   We are entering a third era of agentic coding where agents command sub-agents
   autonomously, and humans supervising each step actually slows progress.
 related:
-  - INS-260321-D3BE
   - INS-260405-AFF7
   - INS-260501-FD20
   - INS-260403-D090

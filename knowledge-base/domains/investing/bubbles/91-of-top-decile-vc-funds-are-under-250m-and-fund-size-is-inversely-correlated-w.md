@@ -53,11 +53,11 @@ stance: >-
   multiples because the required exit values exceed market reality.
 related:
   - INS-260330-77D1
+  - INS-260514-CDCD
   - INS-260403-49EC
   - INS-260403-8EE8
   - INS-260403-CF1D
   - INS-260405-A6E1
-  - INS-260403-713B
   - INS-260403-B224
   - INS-260404-77E7
 ---

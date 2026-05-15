@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 68 insights
+> 71 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -31,6 +31,7 @@
 - `INS-260410-F7B8` [high] Physical Intelligence's robots can execute minute-long tasks like folding inside-out shorts using only ~1 second of visual context because dexterity is Moravec's paradox in disguise — the easy-feeling tasks are where the real hard computation lives.
 - `INS-260410-FD24` [high] Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
 - `INS-260330-B076` [high] Nearly all life on Earth is fusion-powered — photons from solar fusion cascade through photosynthesis into every biological process, revealing how apparent diversity masks single-source dependency.
+- `INS-260514-731A` [high] Black-box opacity is STRUCTURAL, not a temporary engineering gap. The computer creates the weights, not humans — internal patterns aren't legible to humans because they weren't designed by humans. Predicting edge-case behavior is impossible.
 - `INS-260410-699C` [high] Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
 - `INS-260404-0C67` [high] Quantum advantage comes from interference that amplifies correct answers and suppresses wrong ones, not from checking all possibilities simultaneously.
@@ -42,6 +43,7 @@
 - `INS-260330-47E0` [high] From Russell's paradox to Gödel's theorem to the halting problem, self-reference is the single mechanism that breaks formal systems.
 - `INS-260325-ED75` [high] Conway's FRACTRAN — a generalization of 3x+1 — is Turing-complete and subject to the halting problem, raising the possibility that Collatz itself is undecidable.
 - `INS-260323-F68A` [high] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
+- `INS-260514-C4CF` [high] Supervised ML works only when 3 constraints hold: clean labeled data, measurable goal, defined parameters. Edge cases (situations breaking those constraints) cause catastrophic failure. Not a temporary problem — a fundamental architectural limit.
 - `INS-260326-97C9` [high] Searching the space of possible programs yields more sophisticated results than designing them from scratch.
 - `INS-260413-A950` [high] Gemini Deep Think earned IMO gold yet reads analog clocks correctly 50.1% of the time versus 91% for humans — 'AGI-level' performance on one axis predicts nothing about adjacent tasks.
 - `INS-260409-DA17` [high] Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.
@@ -53,6 +55,7 @@
 - `INS-260323-7BA4` [high] Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260403-8302` [medium] Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
 - `INS-260403-0A83` [medium] AI that replaces human learning effort may destroy the byproduct discoveries that grow humanity's total knowledge stock.
+- `INS-260514-8FC8` [medium] Modern 'AI' = supervised machine learning + back-propagation, both invented 40+ years ago. The fancy names ('deep learning', 'neural networks', 'AI') exist to create religious aura, not technical precision. Demystifying clarifies both capabilities and limits.
 - `INS-260410-D49F` [medium] Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.

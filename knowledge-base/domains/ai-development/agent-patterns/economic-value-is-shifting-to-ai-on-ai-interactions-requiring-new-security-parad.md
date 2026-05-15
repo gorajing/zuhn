@@ -53,14 +53,15 @@ stance: >-
   reinvented because AI agents are non-deterministic actors, not deterministic
   tools.
 related:
+  - INS-260514-7B11
   - INS-260403-8BA4
   - INS-260327-E18C
   - INS-260403-DED4
   - INS-260330-30AB
-  - INS-260410-761E
   - INS-260330-4C23
   - INS-260405-3066
   - INS-260405-6E5F
+  - INS-260410-761E
 evidence:
   - id: INS-260330-30AB
     type: SUPPORTS

@@ -45,11 +45,11 @@ stance: >-
   understands purpose, values, and strategy — the constraint isn't trust but
   shared context.
 related:
-  - INS-260327-3136
+  - INS-260514-D5B5
   - PRI-260405-F5A0
   - INS-260322-F128
+  - INS-260327-3136
   - PRI-260406-D9D6
-  - INS-260403-E681
   - INS-260403-59D5
 evidence:
   - id: INS-260329-6D8B

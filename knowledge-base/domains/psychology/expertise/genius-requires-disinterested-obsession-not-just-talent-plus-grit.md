@@ -43,7 +43,6 @@ stance: >-
   a proxy for ability and a substitute for willpower.
 related:
   - INS-260329-6BFC
-  - INS-260329-723A
   - INS-260330-31B5
   - INS-260330-E126
   - INS-260402-D9D0
@@ -52,6 +51,7 @@ related:
   - INS-260403-6935
   - INS-260403-A06E
   - INS-260403-4431
+  - PRI-260406-229E
 evidence:
   - id: INS-260329-723A
     type: CONTRADICTS

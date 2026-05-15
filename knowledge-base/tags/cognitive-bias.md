@@ -8,12 +8,6 @@
 - `INS-260405-5EB2` Peak-consensus forecasts of national rise historically coincide with the onset of structural decline.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260412-91DA` Objects that violate category assumptions become invisible even under direct observation.
-- `INS-260403-3280` Bullet repayment preserves cash today but concentrates all repayment risk into a single exit event, exploiting human tendency to discount future costs.
-- `INS-260412-2D98` Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
-- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
-- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
-- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-14BD` Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
@@ -44,6 +38,12 @@
 - `INS-260323-4711` Active engagement makes short intervals feel fast but long periods feel slow, while boredom does the opposite — a key asymmetry in human time perception.
 - `INS-260325-D25C` We accept that squishing a bug in the past would change the future, but we refuse to believe that our present actions have the same cascading effects.
 - `INS-260327-9562` Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
+- `INS-260403-3280` Bullet repayment preserves cash today but concentrates all repayment risk into a single exit event, exploiting human tendency to discount future costs.
+- `INS-260412-2D98` Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
+- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
+- `INS-260403-C313` Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260403-BCB1` Wozniak, Zuckerberg, and Gates didn't think they were starting companies — that mindset freed them to build what they actually wanted.
 - `INS-260405-80B0` Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
 - `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.

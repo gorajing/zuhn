@@ -54,11 +54,11 @@ stance: >-
   burden for deterministic, predictable performance — the right trade-off for OS
   and systems code.
 related:
+  - INS-260514-1470
   - INS-260329-BDCC
   - INS-260330-3B0B
+  - INS-260514-3100
   - INS-260329-CC79
-  - PRI-260403-9E80
-  - INS-260330-23CD
 evidence:
   - id: INS-260329-BDCC
     type: EXTENDS

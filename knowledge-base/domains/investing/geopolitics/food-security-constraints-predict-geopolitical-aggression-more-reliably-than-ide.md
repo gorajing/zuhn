@@ -52,7 +52,6 @@ stance: >-
   A nation's food import dependency is a stronger predictor of aggressive
   foreign policy than its stated political ideology.
 related:
-  - INS-260327-B4B3
   - INS-260330-8D0C
   - INS-260330-B559
   - INS-260330-13EE
@@ -62,6 +61,7 @@ related:
   - PRI-260405-8E48
   - INS-260403-7285
   - INS-260405-AD58
+  - INS-260412-354B
 evidence:
   - id: INS-260330-8D0C
     type: SUPPORTS

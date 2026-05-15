@@ -60,6 +60,7 @@ stance: >-
   Confiscatory tax rates on distributed profits produce stronger long-run
   enterprise value than lower rates that permit extraction.
 related:
+  - INS-260514-AC07
   - PRI-260406-9599
   - PRI-260324-5F05
   - INS-260403-5A4C

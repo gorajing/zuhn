@@ -48,7 +48,6 @@ stance: >-
   Venture fund success is mathematically determined by a single outlier
   investment, not by portfolio diversification or hitting many doubles.
 related:
-  - INS-260327-17BE
   - INS-260403-52FF
   - INS-260404-92AA
   - INS-260403-B224
@@ -56,6 +55,7 @@ related:
   - INS-260405-EFC1
   - INS-260403-E503
   - INS-260403-DA33
+  - INS-260514-CDCD
   - INS-260403-5056
   - PRI-260406-4D4E
 ---

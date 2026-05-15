@@ -51,7 +51,6 @@ stance: >-
   body may process information in ways so fundamentally different from human
   cognition that 'intelligence' may be a misleading shared label.
 related:
-  - INS-260325-2C31
   - INS-260323-1345
   - INS-260323-0961
   - INS-260403-41BC

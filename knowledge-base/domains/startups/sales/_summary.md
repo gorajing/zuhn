@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 187 insights
+> 195 insights
 
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
@@ -10,6 +10,7 @@
 - `INS-260329-F2BB` [high] Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260327-7A44` [high] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
 - `INS-260330-5A82` [high] Phil Knight failed at selling encyclopedias but effortlessly sold running shoes because customers sensed his genuine conviction in the product's superiority.
+- `INS-260514-AD9E` [high] Automate the boring manual work, but keep the customer signal in your hands — never automate away your closeness to early users.
 - `INS-260327-FD15` [high] Always BAMFAM (Book A Meeting From A Meeting): schedule the next call before hanging up, send the calendar invite while they're still on the line, and commitment-lock them by asking 'if something comes up, could you text me beforehand?'
 - `INS-260327-B8E5` [high] Many enterprise champions want to buy but don't know their own organization's purchasing process -- it's your job to prescribe the steps: architecture review, implementation planning, security assessment, executive sponsorship.
 - `INS-260327-4E36` [high] 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
@@ -38,6 +39,7 @@
 - `INS-260405-270B` [high] Cold outreach succeeds when personalization demonstrates genuine knowledge of the recipient's context rather than mass-blast generic pitches.
 - `INS-260327-C6DC` [high] When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.
 - `INS-260409-57DB` [high] Content gets you seen; email gets you paid — the handoff from one to the other is the core monetization move.
+- `INS-260514-9773` [high] Enterprise sales is emotional connection — Barry's Bootcamp with prospects, Pikachu presents, plane rides. Looks unprofessional, produces unbreakable trust. Feature comparison + pricing never wins on its own.
 - `INS-260327-005D` [high] Horowitz explains that when engineers ask a question, they think about the correct answer; when salespeople hear a question, they think about why you're asking — and this fundamental difference causes engineer-CEOs to reject good sales candidates and hire bad ones.
 - `INS-260328-A666` [high] At companies like Palantir, the CEO doesn't delegate deal origination — the sales team is built as a multiplier around the founder.
 - `INS-260327-C464` [high] Entire departments at enterprise accounts have staked their careers on being experts in legacy systems -- even with a clear ROI case for modernization, the VP of IT who only knows on-premise systems sees your cloud solution as a career threat.
@@ -74,6 +76,7 @@
 - `INS-260329-1DE0` [high] Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260327-8C1C` [high] Instead of 'I'll walk you through everything in our product,' say 'I've thought through this problem at length and have a very specific perspective on solving it' -- nine out of ten founders miss this and jump straight to features.
 - `INS-260403-19D8` [high] Technology-first pitches create obstacles; outcome-first pitches close deals.
+- `INS-260514-60C4` [high] Send cold outbound from warmed lookalike domains (yourcompany-mail.com, .net, .email) and hand off to your primary domain only after the warm reply — never burn your primary domain's reputation.
 - `INS-260330-2BEC` [high] Founders should aggressively drive prospects to yes or no, because a thousand maybes consume all resources while producing zero revenue.
 - `INS-260327-C5D0` [high] MEDDPICC qualifies whether you should be in a deal and what to do to win it, complementing any underlying sales methodology.
 - `INS-260327-E3CA` [high] Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
@@ -121,6 +124,7 @@
 - `INS-260329-B239` [high] Emotional buyers cancel when excitement fades; logical buyers stay because the reasoning that justified their purchase remains valid.
 - `INS-260329-788F` [high] Put your highest-margin products first in any self-serve flow so customers fill up on profitable items before reaching costly ones.
 - `INS-260327-F8EB` [high] A 20% improvement in show-up rates produces the same revenue gain as a 20% improvement in close rates, but show-up rate improvements are far easier to achieve through systematic reminder sequences.
+- `INS-260514-B283` [high] Don't trigger outreach from individual signals — composite multiple signals into an account heat score, then move heated accounts between funnel stages. Signal-as-trigger floods customers and reps; signal-as-score works.
 - `INS-260327-B959` [high] The Oracle veteran's most damaging deal loss: five months deep with one champion who went silent overnight -- no other contacts to call, months of effort wasted, and internal credibility damaged with his own solutions engineers.
 - `INS-260409-526E` [high] Real capacity limits are hidden scarcity assets — make them visible instead of fabricating artificial urgency.
 - `INS-260327-A814` [high] After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
@@ -134,6 +138,7 @@
 - `INS-260327-0E33` [high] The most dangerous sales mistake is chasing easy conversations -- startups, friendly contacts, bottom-up users for top-down products -- because it creates an illusion of progress while yielding zero revenue.
 - `INS-260327-6C54` [high] It's better to send 100 perfectly targeted emails with high open rates than 1,000 untargeted emails -- no amount of copywriting can make someone buy a product they don't need.
 - `INS-260330-DE1D` [high] Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
+- `INS-260514-273E` [high] 10 cold outbound messages a day. Entirely human. No LLM in the copy. Even slight typos and double-spaces help — that's how real people write.
 - `INS-260329-12EC` [high] Reach out to 100 people per day through free warm channels (social media, email, communities) to generate first customers without advertising spend.
 - `INS-260329-8C69` [high] The 3A framework (Acknowledge, Associate, Ask) reframes prospect objections by restating their concern, associating it with successful customer behavior, then asking a targeted question rather than answering directly.
 - `INS-260329-74F9` [high] Hormozi's 6C system for scaling sales teams uses daily call recordings, competitive cycles, and structured practice to maintain quality as teams grow.
@@ -170,12 +175,14 @@
 - `INS-260327-B18F` [medium] End every sales interview by asking 'Based on our conversation, do you think I'd be a good fit? And if so, what are the next steps?' — it's a simple close that demonstrates selling instinct.
 - `INS-260403-C5FA` [medium] Becoming a trusted insider in customer communities creates pipelines that paid marketing cannot replicate.
 - `INS-260327-CC57` [medium] A typical enterprise AE day: 7:30am standup, 8am customer call, follow-up calls for an hour, two financial reviews, two new business meetings, four afternoon calls, then evening prep -- most of it is existing account management, not new deal excitement.
+- `INS-260514-3FBE` [medium] Definitional debates about new roles surface the debater's expertise, not the role's true scope — beware lensing GTM engineering through whichever tool/discipline you happen to already know.
 - `INS-260329-D0F4` [medium] Give exceptional free work to 100 people and 1-5 will convert into paying relationships, outperforming most employment income.
 - `INS-260329-9F8D` [medium] Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.
 - `INS-260329-3036` [medium] Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
 - `INS-260405-443C` [medium] Sales hires amplify product-led momentum but cannot substitute for it.
 - `INS-260329-4B45` [medium] Customers in a buying cycle naturally need adjacent products — not offering them just sends that revenue to competitors.
 - `INS-260329-57B3` [medium] Labels like 'you're a smart decision-maker' or 'you're clearly a family man' given during objection handling create identity commitments that can be referenced during the close to increase conversion.
+- `INS-260514-3DC0` [medium] No note on LinkedIn connection request beats 'thoughtful' notes. Recipients see the note and infer 'sales pitch.' Skip it.
 - `INS-260403-08AE` [medium] Instead of forcing yourself into traditional sales, find the selling modality that matches your natural communication style.
 - `INS-260404-7B37` [medium] Aligning MVP features tightly with ICP needs creates a repeatable sales process that non-founders can execute.
 - `INS-260329-2A5A` [medium] Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
@@ -189,5 +196,6 @@
 - `INS-260405-390B` [medium] The most effective salespeople act as expert guides helping buyers make a good decision, not advocates pushing their own product.
 - `INS-260329-8BFC` [medium] Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-C996` [medium] Use Acknowledge-Compliment-Ask to warm up conversations, tying your ask to the compliment so the transition to your service feels natural rather than transactional.
+- `INS-260514-D155` [medium] Restructure GTM as a product team — salespeople are PMs surfacing customer signal, GTM engineers are engineers building frameworks to act on it, and the whole team runs cross-team experiments instead of solo tradecraft.
 - `INS-260403-2814` [medium] Build a visual pain statement that communicates the prospect's challenge before describing your solution.
 - `INS-260409-EF0C` [medium] Put the founder on camera for 40 minutes; the face-to-face trust signal closes deals no landing page can match.

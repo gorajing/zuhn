@@ -58,7 +58,6 @@ stance: >-
   follow-on dollars, valuation markups, and co-investor activity—is the primary
   mechanism that transforms independent VC judgment into herd consensus.
 related:
-  - INS-260325-0921
   - INS-260325-4300
   - INS-260402-EEDB
   - INS-260403-3AE7

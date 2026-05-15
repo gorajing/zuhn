@@ -50,7 +50,6 @@ stance: >-
   engineering, design, and operations.
 related:
   - INS-260323-BF81
-  - INS-260327-ACB3
   - INS-260403-CAB4
   - PRI-260407-7C1A
   - PRI-260406-806C

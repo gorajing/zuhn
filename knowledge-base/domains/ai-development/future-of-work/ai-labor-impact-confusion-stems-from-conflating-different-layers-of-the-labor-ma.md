@@ -51,8 +51,8 @@ related:
   - INS-260405-C709
   - INS-260323-8966
   - INS-260403-FAC0
+  - INS-260514-3FBE
   - INS-260403-BADB
-  - INS-260505-A413
 ---
 The US economy is $31 trillion, with labor costs accounting for roughly 60% of that value. Chamath argues that the heated disagreement about AI's impact on work exists because different commentators are examining different layers of the labor market and talking past each other.
 

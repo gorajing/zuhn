@@ -54,7 +54,7 @@ related:
   - INS-260403-27A5
   - INS-260325-2C31
   - PRI-260406-4F8E
-  - INS-260323-BEF0
+  - INS-260514-7B5B
 ---
 The stochastic parrot argument claims AIs can't have any real understanding because they exhibit 'hallucinations' — a term that implies bizarre, incomprehensible failure. Alexander argues this framing is doing heavy rhetorical lifting. Rename the behavior 'shameless guessing' and it becomes immediately recognizable as something humans do constantly.
 

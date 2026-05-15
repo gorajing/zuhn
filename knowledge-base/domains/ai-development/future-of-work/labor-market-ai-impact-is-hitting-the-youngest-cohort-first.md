@@ -53,8 +53,8 @@ stance: >-
 related:
   - INS-260330-4E01
   - INS-260413-E5F8
+  - INS-260514-58B1
   - INS-260413-CAA6
   - INS-260413-3AB5
-  - INS-260403-D966
 ---
 The AI Index 2026 Chapter 4 documents an uneven labor impact that falls disproportionately on the youngest workers in AI-exposed occupations. Employment for software developers ages 22 to 25 has fallen nearly 20% from 2024, while employment for older developers continues to grow. Productivity gains from AI are largest in structured, measurable work where outputs are easy to monitor: 14-15% in customer support, 26% in software development, 73% in marketing — but smaller in tasks requiring deeper reasoning. One-third of organizations expect to reduce their workforce in the coming year, with almost half expecting little change. Anticipated reductions outpace those already observed, and are highest in service operations, supply chain, and software engineering. The structural pattern is that entry-level work is exactly the work AI substitutes for first — the tasks junior workers use to build skills become the tasks AI performs more cheaply, severing the training pipeline. This creates a future where senior talent is increasingly valuable and junior talent is increasingly unemployable, with no middle cohort forming to replace the seniors.

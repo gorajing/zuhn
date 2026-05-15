@@ -1,0 +1,3 @@
+# Tag: observer-independent
+
+- `INS-260514-EE50` Quantum measurement doesn't reveal pre-existing state — it creates the state. The framework of 'objective external truth waiting to be uncovered' fails at the deepest level.

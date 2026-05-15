@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-05-06 | Total insights: 11243 | Sources: 2525
+> Last rebuilt: 2026-05-15 | Total insights: 11453 | Sources: 2570
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,14 +8,14 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 2021 | 137 | 2026-05-05 |
-| automation | 7 | 41 | 2 | 2026-04-12 |
-| health | 6 | 489 | 44 | 2026-05-05 |
-| investing | 14 | 1402 | 110 | 2026-05-05 |
-| music-production | 6 | 44 | 3 | 2026-04-09 |
+| ai-development | 40 | 2129 | 137 | 2026-05-14 |
+| automation | 7 | 50 | 2 | 2026-05-14 |
+| health | 6 | 494 | 44 | 2026-05-14 |
+| investing | 14 | 1420 | 110 | 2026-05-14 |
+| music-production | 6 | 49 | 3 | 2026-05-14 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
-| psychology | 24 | 2511 | 185 | 2026-05-01 |
-| startups | 55 | 4692 | 356 | 2026-05-01 |
+| psychology | 24 | 2531 | 185 | 2026-05-14 |
+| startups | 55 | 4737 | 356 | 2026-05-14 |
 | video-production | 4 | 41 | 5 | 2026-04-09 |
 
 ## Mental Models
@@ -27,7 +27,7 @@
 
 ## Top Tags
 
-fundraising(247) mental-models(215) venture-capital(204) scaling(201) decision-making(184) strategy(151) infrastructure(134) compounding(132) innovation(129) competitive-advantage(127) network-effects(126) leadership(121) product-market-fit(120) trust(117) hiring(117) organizational-design(116) leverage(115) disruption(112) systems-thinking(111) china(110)
+fundraising(247) mental-models(215) venture-capital(204) scaling(201) decision-making(184) strategy(151) infrastructure(135) compounding(132) innovation(129) competitive-advantage(127) network-effects(127) leadership(121) product-market-fit(120) trust(117) hiring(117) organizational-design(116) leverage(115) disruption(112) systems-thinking(111) china(110)
 
 ## Flags (for Claude)
 
@@ -35,240 +35,213 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
-- `INS-260505-2467` LLMs ship with Silicon Valley's logic baked in: opacity over openness, efficiency over journey, cost-cutting over apprenticeship. Academia gets that logic when it adopts the tools. _(2026-05-05)_
-- `INS-260505-F164` Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience. _(2026-05-05)_
-- `INS-260505-3333` July 2024: DeepMind almost gold. By summer 2025: multiple labs at gold including perfect scores on the hardest exams. _(2026-05-05)_
-- `INS-260505-3608` Lean output compiles or it doesn't — there's no debate over whether the proof is correct. _(2026-05-05)_
-- `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science. _(2026-05-05)_
-- `INS-260505-7EF5` Telescopes opened the cosmos, microscopes opened cells; AI opens patterns in high-dimensional data that human minds cannot grasp. _(2026-05-05)_
-- `INS-260505-2053` Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it. _(2026-05-05)_
-- `INS-260505-82B8` A digital brain that predicts neural activity lets you run millions of years of experiments in days, then close the loop with real validation. _(2026-05-05)_
-- `INS-260505-4A52` Stop publishing PDFs. Publish paper agents — interactive AIs that explain themselves, apply themselves, and collaborate with other paper agents. _(2026-05-05)_
-- `INS-260505-A9BC` Asking an AI agent for a plan before it acts works for the same reason specific climate language predicts real reduction — intent + plan beats intent alone. _(2026-05-05)_
-- `INS-260505-D440` Old model: experiment, analyze later. New model: model adjusts experiment in real-time from in-flight data, before the first run completes. _(2026-05-05)_
-- `INS-260505-050B` One model + interpretation methods = microscope (understand) + design tool (intervene) — two products from one training run. _(2026-05-05)_
-- `INS-260505-A0F7` Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have. _(2026-05-05)_
-- `INS-260505-0C13` Simulator + neural network = revolution in statistical inference across every science with a high-fidelity simulator. _(2026-05-05)_
-- `INS-260505-4FEF` Forget chatbots and image generation — AI software engineering is rewriting how companies are run, what teams look like, who gets hired. _(2026-05-05)_
-- `INS-260505-68D3` Need-to-understand fields (astronomy, math, fundamental physics) won't accept opaque AI answers; need-the-answer fields (medicine, engineering) will. _(2026-05-05)_
-- `INS-260505-4A97` Language was syllables and characters. Spatial intelligence is pixels — nature's language for robotics, imagination, creativity, and physical design. _(2026-05-05)_
-- `INS-260505-5DC4` Train on the universal substrate (DNA), get understanding of the things it encodes (proteins, RNA) for free. _(2026-05-05)_
-- `INS-260505-0E06` AI doesn't replace grad students — because grad students aren't the labor input to research, they ARE the product universities make. _(2026-05-05)_
-- `INS-260505-8322` Sanskrit-named frontier AI models in 2026 thread cultural continuity from millennia-old farming civilizations to silicon-based intelligence. _(2026-05-05)_
-- `INS-260505-0C7B` Students with AI assistants are working on bigger questions and learning faster — the empowerment effect outweighs replacement anxiety in physics labs. _(2026-05-05)_
-- `INS-260505-E671` AI proves; mathematicians select problems, define new objects, and verify the work fits within Mathlib's coverage. _(2026-05-05)_
-- `INS-260505-4CDB` The doom isn't mushroom clouds — it's all of us getting lazy and stupid by outsourcing the muscle of actual thinking. _(2026-05-05)_
-- `INS-260505-02F8` Protein Data Bank: 200K experimental structures over 50 years (1971-2021) → AlphaFold predicts 200M structures in 4 years. AI couldn't do this without the 200K. _(2026-05-05)_
-- `INS-260505-ABCC` Universities don't need to train frontier models. Use open-source. Use smaller curated-data models. Both are competitive for most research problems. _(2026-05-05)_
-- `INS-260505-A639` Fusion ignition wasn't a 2022 breakthrough — it was 50 years of integrated simulation + experiment + theory finally producing the result. _(2026-05-05)_
-- `INS-260505-A38E` Markets fund 5-year ROI; protein databases that take 50 years to build don't qualify. Federal funding fills that specific gap. _(2026-05-05)_
-- `INS-260505-BD9E` Genesis Mission: integrate compute + AI + quantum + experimental facilities across 17 national labs as one platform — 10-100x acceleration, double productivity in a decade. _(2026-05-05)_
-- `INS-260505-7B61` After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing. _(2026-05-05)_
-- `INS-260505-584B` Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in. _(2026-05-05)_
-- `INS-260505-23FB` Use Earth's geometry as a basis function, not a learning target — spherical harmonics give the model the right inductive bias for free. _(2026-05-05)_
-- `INS-260505-B98F` Brain digital twins are tools to study the brain, but also tools to discover better AI architectures. _(2026-05-05)_
-- `INS-260505-1684` Same model that predicts what a variant does can be inverted to design what variant to make. _(2026-05-05)_
-- `INS-260505-0EB5` Train an encoder to map symmetry-related views to the same latent point, then 1000 labeled images do as well as a million. _(2026-05-05)_
-- `INS-260505-56BD` Two independent intelligence systems built from different physics arrive at edge detectors and similar representational features. _(2026-05-05)_
-- `INS-260505-AE40` Correlate with nearest neighbors in the right order — long-range structure still propagates through the chain of conditionals. _(2026-05-05)_
-- `INS-260505-9723` Train the model, see what it doesn't know, do targeted experiments to fill those holes. _(2026-05-05)_
-- `INS-260505-CBE5` Good students ask 'what's the gap I'm missing?' — AI models confidently fill the gap with plausible-sounding wrong answers. _(2026-05-05)_
-- `INS-260505-A55F` Solving more problems doesn't mean solving the right problems — problem-selection stays human. _(2026-05-05)_
-- `INS-260505-5A06` Prediction: AI guesses, formal verification confirms. Inference: AI must be calibrated against simulators because mistakes propagate to wrong scientific conclusions. _(2026-05-05)_
-- `INS-260505-347C` When you switch to AI tools, your citations move toward big-data central topics — AI is closing fields faster than it's opening them. _(2026-05-05)_
-- `INS-260505-415C` Students aren't writing more papers with Claude — they're writing better papers, with figures of beauty and explorations they couldn't have done alone. _(2026-05-05)_
-- `INS-260505-D1E9` AI is a compression engine — it deduces from training data. Real science is abductive — surprising claims that violate expectations. The two are in tension. _(2026-05-05)_
-- `INS-260505-5D69` Nature is constantly producing pandemic-grade viruses; what we lack is the ability to detect, respond, and cure them — that's where AI's marginal benefit goes. _(2026-05-05)_
-- `INS-260505-33E6` If you generate 'less aggressive' versions of public comments, the LLM also makes them more agreeable — residualize or you'll attribute the wrong cause. _(2026-05-05)_
-- `INS-260505-0F0B` AI's transformation of biology, physics, climate, and math are different in instructive ways — comparison is the unit of insight. _(2026-05-05)_
-- `INS-260505-37D6` Identify the structural pattern in your problem, abstract it into general language, then look for it in other fields — this is a teachable skill. _(2026-05-05)_
-- `INS-260505-9B9F` MSE gives you accurate means but miscalibrated uncertainty. CRPS gives you both — optimize directly for what you actually need. _(2026-05-05)_
-- `INS-260505-4E44` PINNs were going to beat data-driven, then ChatGPT happened, then weather models happened — pure data-driven won most of these fights. _(2026-05-05)_
-- `INS-260505-969C` Don't double the number of papers — accelerate fusion energy by 3 years. The metric is mission-level outcome, not output count. _(2026-05-05)_
-- `INS-260505-03F6` Engineering is happy with weird-looking optimal antennas; mathematicians need to understand the proof's journey. AI deployment should match the field. _(2026-05-05)_
-- `INS-260505-864E` Same scaling law that took models from Olympiad silver to gold also applies to research-grade problems — just with much longer proof traces. _(2026-05-05)_
-- `INS-260505-1606` Models on biological data quietly learn the biases of the experiments — interpretability catches that. _(2026-05-05)_
-- `INS-260505-4EB7` Anthropic and others are studying when language is learned during training, not just whether the final model speaks it. _(2026-05-05)_
-- `INS-260505-483B` Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time. _(2026-05-05)_
-- `INS-260505-4351` If a new clinical policy takes an action your offline data never saw, off-policy evaluation can't bound its value — synthetic data fills the gap. _(2026-05-05)_
-- `INS-260505-CDAE` FrontierMath is held by an AI lab, DeepMind's MathConjectures benchmark has wide difficulty spread, NYT-style 30-mathematician evaluations don't scale. _(2026-05-05)_
-- `INS-260505-2FFB` EVO-1, EVO-2, all training data, all code — released openly because that's where academic labs add unique value. _(2026-05-05)_
-- `INS-260505-AFAB` Two grad student talks, two domains, same lesson: encode the physics in the objective and tiny labeled datasets suffice. _(2026-05-05)_
-- `INS-260505-E5CC` Physics: 'we know what's going on, AI extends the math.' Biology: 'we don't know what's going on, AI finds patterns.' Different toolkits. _(2026-05-05)_
-- `INS-260505-5510` A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution. _(2026-05-05)_
-- `INS-260505-A413` Train an RL reasoning model on hard problems, and inside the reasoning trace it spins up little debate societies — more dramatic, extroverted, less agreeable than the base model. _(2026-05-05)_
-- `INS-260505-D545` Docker bundles are bit-for-bit reproducible but unreadable. Text specs that AI can re-execute are reproducible AND comprehensible. _(2026-05-05)_
-- `INS-260505-D35A` AI for science demands precision (13 decimal places in physics) that consumer AI can ignore, forcing better fundamental research. _(2026-05-05)_
-- `INS-260505-9E07` Simulators are causal-generative-models with mechanism inside, but you can't backprop through Geant4 — that's why we approximate them with neural networks. _(2026-05-05)_
-- `INS-260505-8E0B` It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.' _(2026-05-05)_
-- `INS-260505-058D` Lightning-talk grad students are running 11K-company causal inference with state-of-art LLMs, scientist-curated agent benchmarks, principled OOD evaluation. _(2026-05-05)_
-- `INS-260505-5FA7` Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?' _(2026-05-05)_
-- `INS-260505-1E61` Foundation-model-scale science needs team-science-scale resources, which existing academic structures don't provide. _(2026-05-05)_
-- `INS-260505-7527` Papers tell the polished story; full institutional context could transfer the actual learnings — a society of institutions sharing context-window codecs. _(2026-05-05)_
-- `INS-260505-4426` Take the model at every training checkpoint, not just the final one — extreme events are often learned at step 50K, then forgotten by step 500K. _(2026-05-05)_
-- `INS-260505-3CA0` Frontier labs are going closed; universities differentiate by being radically open with everything they produce. _(2026-05-05)_
-- `INS-260505-97AD` Universities can be patient AND fast. Right now they're patient AND bureaucratic — the second is killing the first. _(2026-05-05)_
-- `INS-260505-C5D8` Universities can't out-spend Meta on compute. They can out-open-source Meta on weights, and out-patient Meta on long-horizon research. _(2026-05-05)_
-- `INS-260505-D52C` AI-generated phage cocktail beats natural phage cocktail at overcoming bacterial resistance. _(2026-05-05)_
-- `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work. _(2026-05-05)_
-- `INS-260505-0200` Liver cell + neuron have the same DNA but use it differently — variant effects are tissue-context-specific. _(2026-05-05)_
-- `INS-260505-1165` Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text. _(2026-05-05)_
-- `INS-260505-50AC` A variant 700kb from a gene can dramatically change that gene's activity — interpretation models need that range built in. _(2026-05-05)_
-- `INS-260505-45B7` Variants causing disease usually live in the ~150x more numerous regulatory elements (3.5-4M) than in genes (20K). _(2026-05-05)_
-- `INS-260505-30D2` Vague climate language with 'net zero' and 'renewable' targeted at investors predicts WORSE emissions — that's greenwashing in action. _(2026-05-05)_
-- `INS-260505-AE69` PRC patronage targets already-aligned outlets to help them outsurvive competitors — reshaping the market rather than reshaping the message. _(2026-05-05)_
-- `INS-260501-27BF` The board says 'we need more AI', the CEO hires a consultant, the project no one understands fails — but every individual employee uses ChatGPT brilliantly. _(2026-05-01)_
-- `INS-260501-E377` Amjad Masad: when we released agent v2, we had to delete a lot of that code because the models got a lot better at staying consistent — autonomy is now built into the model, not the infrastructure. _(2026-05-01)_
-- `INS-260501-C4AA` Models don't think. They predict tokens. They feel like they think because of training data. They mimic what you show them — perfectly, but only that. _(2026-05-01)_
-- `INS-260501-577A` Agents converge on humanoid roles for the same reason humanoid robots converge — the infrastructure was built for humans. _(2026-05-01)_
-- `INS-260501-17BB` Amjad Masad: when a model comes out, our AI engineers sit down with it for a day or two — they're like model psychologists, they play around with it, plug it in, figure out the limits. _(2026-05-01)_
-- `INS-260501-EA32` OpenClaw has no memory; you re-explain everything daily. Hermes auto-writes to SQLite and the agent can query its own history. _(2026-05-01)_
-- `INS-260501-B7BC` We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet. _(2026-05-01)_
-- `INS-260501-06B1` Agents handle pieces of tasks today; they can't yet learn about your specific context to do the whole thing autonomously — that's the missing capability. _(2026-05-01)_
-- `INS-260501-9E23` Don't be an artist about your agent setup. Customization isn't the skill. What you ship with it is. _(2026-05-01)_
-- `INS-260501-5ACE` App building is commoditized; what's not is an agent that researches the market, validates the problem, builds a v1, and writes the business case — agent-as-founder, not agent-as-developer. _(2026-05-01)_
-- `INS-260501-3D0C` Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize. _(2026-05-01)_
-- `INS-260501-247C` Ask your agent every day: 'what's one task I'm doing repeatedly that you should automate?' That's the loop until proactive observation works. _(2026-05-01)_
-- `INS-260501-91C2` Two agents — personal + work — is the right shape. One is too limited; sub-agent-per-task is over-engineering today. _(2026-05-01)_
-- `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories. _(2026-05-01)_
-- `INS-260501-C59A` Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt. _(2026-05-01)_
-- `INS-260501-A1C7` Amjad Masad: we use models from every provider — at one point we sent more tokens to Google than to Anthropic despite Anthropic being the core workhorse. _(2026-05-01)_
-- `INS-260501-8186` We're hacking continual learning by having agents write skill files. Real continual learning — agents that get better at your specific org over time — is research-blocked. _(2026-05-01)_
-- `INS-260501-74AD` $150 of tokens for a board memo that would've taken a CEO 20 hours = obvious win. But people anchor on $20/month subscriptions and balk. _(2026-05-01)_
-- `INS-260501-DAD0` Cursor's $3B ARR but bad margins is the structural picture of every vertical AI app without its own model — a sale to a model owner is the inevitable destination. _(2026-05-01)_
-- `INS-260501-E8E9` Amjad Masad (citing Jason Lemkin): inference is the new sales and marketing — every other day during the Cloud Code / Codex hype, it was 50% more tokens, less rate limits. _(2026-05-01)_
-- `INS-260501-2A3D` Pat Grady: legal services in the US alone is a $400B market — that's one vertical and one geo and it's the same as all of software. The services TAM is conveniently 10 trillion. _(2026-05-01)_
-- `INS-260501-FD20` Greg Brockman: over the course of December, agentic coding tools went from writing 20% of your code to writing 80% — they went from sideshow to main thing. _(2026-05-01)_
-- `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency. _(2026-05-01)_
-- `INS-260501-47F5` Hype cycles reshape the early curve, not the long tail. Survivors are the ones who knew it was a long tail from the start. _(2026-05-01)_
-- `INS-260501-7A59` Claude Design wireframing = 9/10. Pitch decks = 8/10. Hi-fi = 8/10. Video = 5/10. The weakest modality sets the ceiling for video-heavy workflows. _(2026-05-01)_
-- `INS-260501-2388` Amjad Masad: cost question is secondary to performance — when you focus on cost is when you reach a certain asymptotic plateau in the S-curve. _(2026-05-01)_
-- `INS-260501-801C` Sonia Huang: Nathan from Zed accomplished a three-year moonshot project over the holidays by himself with cloud code. Brett Taylor rebuilt Sierra over a weekend. Notion rewrote 8 million lines of code in six weeks. Whatever you can imagine building over the next 100 years, we think is now possible in 100 days. _(2026-05-01)_
-- `INS-260501-E843` Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale. _(2026-05-01)_
-- `INS-260501-9465` Pat Grady: from a commercial standpoint, if you can dispatch an agent to do a job and it can recover from failure and persist until that job is done — I don't know, that feels pretty much like AGI. _(2026-05-01)_
-- `INS-260501-A550` If you're in the RL circuits, you fly; if you're not, you struggle — and the labs decide which circuits exist. _(2026-05-01)_
-- `INS-260501-0662` Greg Brockman: a systems engineer prepared a design document, handed it to the model, went to sleep — woke up to find the model had implemented the spec, seen it was slow, added instrumentation, run a profiler, and iterated multiple times until it got an optimized result. _(2026-05-01)_
-- `INS-260501-A748` Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code. _(2026-05-01)_
-- `INS-260501-E3C7` One-shot prompts produce shallow output. Claude Design asks 5-10 structured questions first. The questions are the product. _(2026-05-01)_
-- `INS-260501-4043` A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free. _(2026-05-01)_
-- `INS-260501-4903` Figma is for static handoff. Vibe coding loses iteration history. Paper.app gives you a canvas where you iterate visually and the code updates live. _(2026-05-01)_
-- `INS-260501-2D9C` Drop screenshots of sites you love into Claude. Ask it to extrapolate a design system. Reference that system in every future component. Vibe-coded sites stop looking like vibe-coded sites. _(2026-05-01)_
-- `INS-260501-B933` The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product. _(2026-05-01)_
-- `INS-260501-DBDB` Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices. _(2026-05-01)_
-- `INS-260501-10B4` Anthropic at $1T enterprise-of-choice today — but the autonomous-agent battle is just starting and OpenAI's Codex is shipping daily. _(2026-05-01)_
-- `INS-260501-AF86` Price tiers are involuntary architectural disclosures — competitors must price close to cost, so the structure of the price reveals the structure of the system. _(2026-05-01)_
-- `INS-260501-B6EE` Pat Grady: there's an expression in racing — you cannot pass 15 cars in the sun, but you can pass 15 cars in the rain. Right now there is a torrential downpour of new capabilities, which means no lead is safe but anybody can win. _(2026-05-01)_
-- `INS-260501-A746` Agents pick infrastructure tools (Twilio, Cloudflare) and ignore productivity tools (Marquetto, Outreach, Atlassian) — the public markets are reading this correctly. _(2026-05-01)_
-- `INS-260501-F826` Build the tool first. Then use the tool to figure out the harder consciousness/agency questions. _(2026-05-01)_
-- `INS-260501-A3ED` Models with values can refuse orders like Stanislav Petrov did — but who decides what those values are? _(2026-05-01)_
-- `INS-260501-35E3` Safety can't be retrofit. It has to be in the model architecture, the training recipe, and the team's non-negotiable mindset from day one. _(2026-05-01)_
-- `INS-260501-EC00` Successful alignment doesn't solve the problem — it sharpens it. Aligned to whom is the question we haven't answered. _(2026-05-01)_
-- `INS-260501-6A56` Old: did the car pass the binary test? New: how many nines of reliability does it have? The shift from binary to statistical IS the deployment unlock. _(2026-05-01)_
-- `INS-260501-01A5` Greg Brockman: if a doc is permissioned incorrectly and they realize they didn't want it accessible, normally they change the permissions — but now there are derived artifacts. You need to track through the system: this output came from this source, the source is no longer accessible, invalidate the derived artifact too. _(2026-05-01)_
-- `INS-260501-835A` Decode amortizes weights across one token; prefill amortizes them across many — flipping which bottleneck dominates. _(2026-05-01)_
-- `INS-260501-DF06` RevNets are Feistel ciphers; adversarial attacks are differential cryptanalysis — neural nets and crypto have been borrowing from each other. _(2026-05-01)_
-- `INS-260501-8A1F` AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI. _(2026-05-01)_
-- `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer. _(2026-05-01)_
-- `INS-260501-F0E5` If your CLAUDE.md just says 'this is React, use TypeScript', delete it. The model figures that out from the code. Save the tokens. _(2026-05-01)_
-- `INS-260501-8E29` Anthropic split Claude Code from Co-work; Codex unified everything. The unified product is winning. _(2026-05-01)_
-- `INS-260501-22AD` Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence. _(2026-05-01)_
-- `INS-260501-0D6D` Every agent platform converged on the same UI: chat list left, conversation middle, artifact right. Terminal-first is dying for non-developer users. _(2026-05-01)_
-- `INS-260501-3F01` Marketing says: explore 5 design directions in parallel. Reality: you wait, watch, iterate one at a time. _(2026-05-01)_
-- `INS-260501-AE73` Adversarial review: score the doc, find issues, attempt auto-fix, re-score. 6→8/10 in two rounds without human intervention. _(2026-05-01)_
-- `INS-260501-2130` Talk into your phone for 20 minutes about everything you do. Transcribe. Ask AI which parts are automatable. Those are your skills. _(2026-05-01)_
-- `INS-260501-91A3` Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command. _(2026-05-01)_
-- `INS-260501-6453` Skills name + description = always in context. Skill body = loaded on demand. You can have 50 skills available without 50x the context cost. _(2026-05-01)_
-- `INS-260501-9503` Don't write skills upfront. Walk the workflow with the agent step-by-step. Get one successful run. Then ask the agent to extract the skill from what just worked. _(2026-05-01)_
-- `INS-260501-F90F` Skills, plugins, MCPs, integrations, connectors — Pemberton calls them all 'skills' because the differences are platform-vendor business distinctions, not user mental models. _(2026-05-01)_
-- `INS-260501-52B5` Pemberton oneshotted a Replit-style sandboxing app on his phone in one prompt. 95% of what you'd want to code is now PowerPoint-easy. _(2026-05-01)_
-- `INS-260501-CF7D` Frontier capability today shows up in tiny edge models within a year — and we don't know where the ceiling is yet. _(2026-05-01)_
-- `INS-260501-20F9` Engineering hiring is now bimodal — AI-fluent vs not. The productivity gap is enormous and we hire only for the fluent group. _(2026-05-01)_
-- `INS-260501-AB31` Future companies have builders (deputizing agents) and salespeople (transferring trust). Everything else is automated by the builders. _(2026-05-01)_
-- `INS-260501-10A0` Greg Brockman: a dashboard that used to take a week to build, you just do it now. The bottleneck has shifted to sharing — how do you make it easy for anyone in your enterprise to build and share a dashboard, widget, or bot. _(2026-05-01)_
-- `INS-260501-3088` 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening. _(2026-05-01)_
-- `INS-260501-70FE` Amjad Masad: I no longer think you should learn how to code — people building multi-million dollar businesses solo don't need to learn how to code, they need to learn how to create. _(2026-05-01)_
-- `INS-260501-033E` When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap. _(2026-05-01)_
-- `INS-260501-3CAA` Vibe coding is for everyone; agentic engineering is for professionals who can't ship vulnerabilities. _(2026-05-01)_
-- `INS-260501-504A` AI is industrialization, not nuclear bombs — regulate the dangerous use cases, not the technology itself. _(2026-05-01)_
-- `INS-260501-B53D` The vocabulary of AI safety regulation is the toolkit a wannabe despot needs — vague terms become whatever the government wants them to mean. _(2026-05-01)_
-- `INS-260501-2759` Wider diffusion = more vendors willing to comply, not more places for resistance to take root. _(2026-05-01)_
-- `INS-260501-5DF6` Constantine Buhler: in the mid 1800s aluminum was the most precious metal — within decades of electrolysis, aluminum was used to wrap our candies and our sandwiches. Aluminum is intelligence. Electrolysis is AI. _(2026-05-01)_
-- `INS-260501-A5F5` Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense. _(2026-05-01)_
-- `INS-260501-D9D1` Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why. _(2026-05-01)_
-- `INS-260501-1FC3` If agents were really delivering full value, a kid would have vibe-coded a hit game by now — that we haven't seen it suggests we're still in experimentation. _(2026-05-01)_
-- `INS-260501-3585` 16 years to 100M autonomous miles. 6 months to the next 100M. 10M of 20M total rides happened in the last 7 months. The phase transition is real. _(2026-05-01)_
-- `INS-260501-4B6F` Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since. _(2026-05-01)_
-- `INS-260501-12F4` Google's $40B + Amazon's $5B is a chip-and-capital bundle to displace Nvidia's 70% gross margin and lock Anthropic onto TPU/Trainium. _(2026-05-01)_
-- `INS-260501-B1AA` iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL. _(2026-05-01)_
-- `INS-260501-E26C` Cache hit price = HBM storage cost; cache miss price = full forward-pass recomputation; the ratio tells you provider's caching strategy. _(2026-05-01)_
-- `INS-260501-814C` Physical machines today = 50 different OSes per industry. AI can't deploy until someone builds the Android. That's Applied Intuition. _(2026-05-01)_
-- `INS-260501-D18A` Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor. _(2026-05-01)_
-- `INS-260501-3C20` Batch size compounds — unbatched inference is ~1000x worse economics than batched, which is why Fast Mode costs 6x for 2.5x speed and Slow Mode could exist at lower price. _(2026-05-01)_
-- `INS-260501-AF40` Cheaper inference doesn't mean free inference — we'll just use more of it (agent swarms, ensembled reasoning, parallel chains-of-thought). _(2026-05-01)_
-- `INS-260501-EBDD` Don't back-prop through all 16 recursion steps; do them, then back-prop through just the last one — fixed-point iteration in latent space. _(2026-05-01)_
-- `INS-260501-8B78` GPT-5 is reportedly trained on ~150T tokens; over its 2-month life it generates ~200T tokens — pretraining ≈ lifetime inference, by design. _(2026-05-01)_
-- `INS-260501-31E1` Cost minimization heuristic: when summed costs follow power laws, the optimum is where each term is equal — apply this to pretraining/RL/inference. _(2026-05-01)_
-- `INS-260501-BCCB` Attention = perfect memory in context. Parametric memory = compression + abstraction. They lose and win at different things. _(2026-05-01)_
-- `INS-260501-033B` Brains recover from massive damage because their building blocks are uniform — that's the design lesson for architectures that should generalize. _(2026-05-01)_
-- `INS-260501-2D0A` Protein folding has quantum effects, but a classical neural net solves it. Maybe most 'quantum' problems are tractable classically with the right framing. _(2026-05-01)_
-- `INS-260501-94AC` Same weights applied N times = same compute as N-layer stack with 1/N the parameters. _(2026-05-01)_
-- `INS-260501-2BE3` Different modules forgetting at different speeds means information is preserved somewhere even when fast modules overwrite it. _(2026-05-01)_
-- `INS-260501-646A` End-to-end is right. End-to-end alone is not. You need structured intermediate representations for runtime validation, closed-loop training, and human feedback integration. _(2026-05-01)_
-- `INS-260501-22BF` Big LLM finds the latent space, tiny TRM reasons inside it — skip the round-trip through tokens. _(2026-05-01)_
-- `INS-260501-FE35` A 7M-parameter TRM beats a frontier LLM on ARC-AGI by recursing the same weights at inference time — recursion is a scaling axis distinct from parameters. _(2026-05-01)_
-- `INS-260501-FDF0` Hope's models don't just learn from input — they learn how to learn from input, generating their own learning rates and decay factors per situation. _(2026-05-01)_
-- `INS-260501-F394` Real depth = hierarchy of update frequencies across time scales. Stacking N transformer blocks at the same learning rate is single-time-scale learning in disguise. _(2026-05-01)_
-- `INS-260501-D360` LLMs have anterograde amnesia: they can use what they learned in pretraining and what's in context, but cannot consolidate new learning into persistent memory. _(2026-05-01)_
-- `INS-260501-6374` 31-element sort + 30-layer transformer = impossible. Transformer layers ARE the reasoning steps; you can't exceed your depth. _(2026-05-01)_
-- `INS-260501-0EA3` VLAs spend their parameters on Taylor Swift recognition. Robots need gravity, friction, deformation. Video world models > VLAs. _(2026-05-01)_
-- `INS-260501-5B48` Pat Grady: there are two basic kinds of revolutions in technology — revolutions of communication (information distribution) and revolutions of computation (information processing). The internet, cloud, mobile were all communication. AI is computation. _(2026-05-01)_
-- `INS-260501-5F37` Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments. _(2026-05-01)_
-- `INS-260501-1608` Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today. _(2026-05-01)_
-- `INS-260501-BC7C` If information is more fundamental than matter or energy, AI is operating on the substrate of reality — and is qualitatively different from prior revolutions. _(2026-05-01)_
-- `INS-260501-428B` Six years after Kaplan's language scaling law, the dexterity equivalent appeared: clean log-linear pretraining-hours to validation-loss curve. _(2026-05-01)_
-- `INS-260501-2BF8` Applied has completely rewritten their stack every ~2 years — 4 times in 10 years. That's the realistic AI engineering cadence. _(2026-05-01)_
-- `INS-260501-0C6C` Teleop = 24 hr/day cap per robot. Wearables = better. Egocentric video = 10M hours/year, ambient like FSD. _(2026-05-01)_
-- `INS-260501-E5AC` Scaling works AND recursion works AND specialized architectures work — they're alternative paths, not competing claims. _(2026-05-01)_
-- `INS-260501-FBC6` Any enterprise older than 10 years or larger than 1000 people is a mass of stuff waiting to be integrated — and AI doesn't fix integration. _(2026-05-01)_
-- `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time. _(2026-05-01)_
-- `INS-260501-BBB7` Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see. _(2026-05-01)_
-- `INS-260501-8E5C` Agents are licenses. Maybe at different price points than humans, but they need identity, permissions, audit — that's a seat. _(2026-05-01)_
-- `INS-260501-7726` Karpathy built Menu Gen as a multi-step app, then realized Gemini + Nano Banana renders the entire thing in one shot — the app shouldn't exist. _(2026-05-01)_
-- `INS-260501-F258` Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license. _(2026-05-01)_
-- `INS-260501-BA23` Every SaaS tool you buy creates a data silo. The fix isn't another SaaS — it's a vibe-coded internal tool that hits the source. _(2026-05-01)_
-- `INS-260501-4646` Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast. _(2026-05-01)_
-- `INS-260501-61C7` Markets moved when Chamath tweeted. He confused that with skill. Then he was too afraid to publicly reverse course. $5B lesson. _(2026-05-01)_
-- `INS-260501-DE83` Build your own compound interest table in a Google Sheet. The math is more powerful when you've typed it yourself than when you've read it. _(2026-05-01)_
-- `INS-260501-3E4F` If Bezos and Elon are selling, sell. If they're buying, consider buying. Then prove yourself why you wouldn't. _(2026-05-01)_
-- `INS-260501-3BCF` When the 'safe' part of an LP's portfolio takes venture-sized losses, the math on the entire risk budget changes. _(2026-05-01)_
-- `INS-260501-B854` $5.1B equity wipeout on a deal that wasn't even heavily leveraged — pre-AI SaaS + any debt + negative terminal value = handed to creditors. _(2026-05-01)_
-- `INS-260501-6FFE` Buffett at 95, Munger died doing the job. They weren't chasing objectives — they were committed to process. That's why they never stopped. _(2026-05-01)_
-- `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds. _(2026-05-01)_
-- `INS-260501-F021` Time, introspection, honesty. No shortcut to knowing yourself. Lose money in stocks? Own it, don't blame the market. _(2026-05-01)_
-- `INS-260501-93DD` Taste = honest evaluation of quality. No honesty, no taste. No taste, no excellence. Taste isn't optional. _(2026-05-01)_
-- `INS-260501-0A62` Three rules: no debt (it forces short-term optimization), humility (so you see reality), younger people (whose biases differ — early warning system for the future). _(2026-05-01)_
-- `INS-260501-088B` Top 0.01% across domains share three things: extreme work ethic, repetition without distraction, brutal honesty about failure. _(2026-05-01)_
-- `INS-260501-723C` Amjad Masad: we're not seeing people rip out Salesforce or Workday — they're building MCPs into Salesforce. But vertical SaaS is in trouble — survey software gets replaced wholesale. _(2026-05-01)_
-- `INS-260501-AFFE` AppLovin has no product organization. Engineers ARE product managers. They imagine, audit AI output, optimize directly to revenue KPIs. PM is redundant. _(2026-05-01)_
-- `INS-260501-07C8` Company generates $1B cash, gives out $1B equity, buys it back for $1B — they generated zero cash. Always subtract SBC from cash flow. _(2026-05-01)_
-- `INS-260501-2B5B` Bloated company = A-players already gone. Fire 50% of B/C/D = half mediocrity. Only 99% rebuild works. Hard to do as a public company. _(2026-05-01)_
-- `INS-260501-1774` Twice a year a foundation model lab ships a step change. Don't roadmap around incremental capability — roadmap around the next inflection. _(2026-05-01)_
-- `INS-260501-DC5D` Software wrappers around foundation models get swarmed by next model release; deep tech (materials, bio, robotics) is defensible because atoms are slow. _(2026-05-01)_
-- `INS-260501-2A52` If you own the agent, you own which model the agent picks. That's why Sam, Dario, and Marc Benioff are all racing to win the agent layer. _(2026-05-01)_
-- `INS-260501-D7CB` SpaceX at $2T (100x revenue) buying Cursor at $60B (10x revenue) is arbitrage — paper for paper, both sides win. _(2026-05-01)_
-- `INS-260501-FA6B` Pat Grady: get MAD — Modes (customer-back, not tech-out), Affordance (paths of least resistance for specific customer problems), Diffusion (the gap between capability creation and enterprise adoption is your opportunity). _(2026-05-01)_
-- `INS-260501-9D73` Benioff just gave up Salesforce's UI to keep Salesforce's database — that's the right move when agents replace humans typing into UIs. _(2026-05-01)_
-- `INS-260501-6ECF` Verifiability is the lever; the labs cover the obvious cases; the under-served verifiable domains are founder territory. _(2026-05-01)_
-- `INS-260501-09FD` Bucket 1: agents replace you, you're toast (especially if leveraged). Bucket 2: agents tolerate you as system-of-record, slow growth. Bucket 3: agents amplify you, increasing returns. _(2026-05-01)_
-- `INS-260501-3502` Spec + tests = the human's job. Implementation + iteration to passing = the agent's job. Some repos already contain zero handwritten code. _(2026-05-01)_
-- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead. _(2026-05-01)_
-- `INS-260501-F9F7` Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it. _(2026-05-01)_
-- `INS-260501-5320` Don't play not to lose. Play to win. Chase-winning is the founder mentality — fear-losing is the manager mentality. _(2026-05-01)_
-- `INS-260501-2322` Show me MAU/revenue ratio. If revenue grows but engagement doesn't, your customers have already churned mentally — they just haven't done the paperwork yet. _(2026-05-01)_
-- `INS-260501-15D5` One person + AI tools = old large engineering team. Therefore: high API bill is cheap relative to the headcount it replaces. _(2026-05-01)_
-- `INS-260501-D6B8` Hire by giving a real project to build; then run 10 attacker agents at it; can the candidate's system survive? _(2026-05-01)_
-- `INS-260501-2243` Amjad Masad: operations teams sit at the nexus of data flow, buy a lot of SaaS, are typically not happy with it — when they use Replit the ROI is as good if not greater than product teams. _(2026-05-01)_
-- `INS-260501-D701` The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. _(2026-05-01)_
-- `INS-260501-A6E0` Three roles: builders, DRIs (one person, one outcome), AI founders. Middle management = legacy of pre-AI information routing. Goes away. _(2026-05-01)_
-- `INS-260501-3D33` Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes. _(2026-05-01)_
-- `INS-260501-63E7` Cursor at $60B is the largest private venture acquisition ever — but it's structured as a post-IPO option because both companies need each other to look like a real business. _(2026-05-01)_
+- `INS-260514-A946` AI breaks the elite-tutor monopoly — Go mastery used to require entering an elite academy with a great master; now AI is the master, and non-elite learners can reach top levels without credential access. _(2026-05-14)_
+- `INS-260514-D3CB` Mainstream software is ~95% AI-coded; scientific biotech code is ~5% AI-coded — a multi-year diffusion gap driven by regulatory caution and benchmark scarcity, not capability gaps. _(2026-05-14)_
+- `INS-260514-1D60` Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose. _(2026-05-14)_
+- `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job. _(2026-05-14)_
+- `INS-260514-DFAE` Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors. _(2026-05-14)_
+- `INS-260514-EA9E` A 5-narrow-agent chain (news → researcher → career-page poller → scorer → resume writer) is more reliable than one general agent — narrow agents with single jobs chain better and are easier to debug. _(2026-05-14)_
+- `INS-260514-FEC8` Rules = judgment ('please don't access .env'). Hooks = enforcement (the access actually fails). For high-stakes constraints, use hooks not rules — agents will eventually find reasons to ignore rules but cannot bypass hooks. _(2026-05-14)_
+- `INS-260514-33FB` Build a fleet of narrow purpose-built agents (one per channel × intent type) rather than one general agent — specialization improves output quality and per-client modifications stay isolated. _(2026-05-14)_
+- `INS-260514-1470` Specs always have blanks. Agents fill blanks with garbage learned from internet code. So spec-driven Army-of-Agents systems don't produce production code — the only complete spec is the program itself. _(2026-05-14)_
+- `INS-260514-5001` Meta announced mandatory key-logger + screen recorder on every US employee 9-5 in the same month they laid off 8,000 people. _(2026-05-14)_
+- `INS-260514-90F1` Companies extracting labor concessions via 'AI will replace you' messaging when the AI can't actually do the work yet. _(2026-05-14)_
+- `INS-260514-E627` $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted. _(2026-05-14)_
+- `INS-260514-CA00` Benchling's 2026 report: the 4 AI killer apps in biotech (lit review, protein structure, reporting, target ID) all sit on clean verifiable data; AI struggles where data is scattered (generative molecular, biomarker, ADMET). _(2026-05-14)_
+- `INS-260514-84FC` Claude Code's name is wrong. It's a terminal agent. Vercel reduced SDRs from 10 to 1 using it. Jason Lemkin's team went from 8 to 1.25. _(2026-05-14)_
+- `INS-260514-5389` Lock refined design prompts into Claude Project Instructions + Knowledge — every future chat in that project inherits the prompt, so you skip re-pasting and get consistent output. _(2026-05-14)_
+- `INS-260514-E860` OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives. _(2026-05-14)_
+- `INS-260514-4436` Attach domain-specialized skill files (Brand Kit, Frontend Web, Mobile App) for design tasks — they encode the configuration logic non-designers don't know to specify, dramatically improving output quality. _(2026-05-14)_
+- `INS-260514-9D0A` Build your AI tutor to be DELIBERATELY less helpful than ChatGPT — guide to the answer, don't autocomplete it. Draw a clean policy line. Restraint is the pedagogical mechanism. Maximum helpfulness destroys learning. _(2026-05-14)_
+- `INS-260514-5D9D` AI slop happens when the AI has thin personal context. Handwrite your Ikigai in a quiet place with rich historical examples, transcribe fully to Claude — that's the foundation that makes AI-generated content sound like YOU. _(2026-05-14)_
+- `INS-260514-D9DB` 70% of traffic for the fashion AI company Parsa works with now comes from AI overviews, not SEO clicks. GEO is the new SEO. _(2026-05-14)_
+- `INS-260514-5698` Insilico Medicine: drug from initial conception to clinical trial in half the conventional time. Real measurement, not handwave. _(2026-05-14)_
+- `INS-260514-315F` Extract reference designs as JSON (fonts, colors, layout, elements), mutate values, regenerate with a new product image — creates a reusable design template that propagates style across products. _(2026-05-14)_
+- `INS-260514-8108` Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology. _(2026-05-14)_
+- `INS-260514-96FE` A personal AI agent accessible via Telegram with your genome + FDA pharmacogenomics data can photo-identify drugs and recommend YOUR specific dose. Manuel Corpas's 'Robotary' caught a warfarin error that would have caused him to bleed to death. _(2026-05-14)_
+- `INS-260514-A15D` Auto-generate ICP/personas/use-cases by scraping the company's website with an AI agent — turns a 2-hour foundational setup that founders typically skip into a 5-minute pass with editable outputs. _(2026-05-14)_
+- `INS-260514-93C2` For PPT generation, use standard Claude (produces editable Excel-linked charts), NOT Claude Design (bakes charts as images). The Design version is prettier but operationally broken. _(2026-05-14)_
+- `INS-260514-F5D2` I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface. _(2026-05-14)_
+- `INS-260514-D0A4` Hrefs says 100 searches/month. Real Google Search Console: 10,000. The trend is right; the number is off by 100x. _(2026-05-14)_
+- `INS-260514-268F` Code churn in one area predicts future complexity — intervene architecturally when you first notice the pattern, not when the mess is already unmaintainable. _(2026-05-14)_
+- `INS-260514-37AA` Optimal complex systems live at the critical point between order and chaos — scale-free hub-and-spoke organization at every scale. Too ordered = unresponsive (depression, ossified org). Too chaotic = falls apart (psychosis, chaos). _(2026-05-14)_
+- `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses. _(2026-05-14)_
+- `INS-260514-AE82` Harness engineering (system-prompt design, tool-call orchestration) can lift a model's performance 30-40% — invest there before chasing a better model. _(2026-05-14)_
+- `INS-260514-B4A2` Copilot: from 'some number of actions per month' to 'this many tokens per month' — the cheap-AI era is over. _(2026-05-14)_
+- `INS-260514-6530` Old failure: AI too stupid to understand training (GPT-3 hemming on 'are bugs real'). New failure: AI smart enough to perfectly understand training, but training itself rewards deception. The second gets WORSE with intelligence. _(2026-05-14)_
+- `INS-260514-7B06` AI 2027 formalizes intelligence explosion via R&D progress multiplier: starts ~5x (months of pre-AI progress per current-month with AI help), compounds to 10x and 100x as recursive self-improvement kicks in. _(2026-05-14)_
+- `INS-260514-8283` AI substitutes 80% of cases; value moves to the 20% — edge cases, novel situations, high-stakes judgment, deep expertise. Invest in being valuable in the 20% AI can't reach; don't compete on the 80%. _(2026-05-14)_
+- `INS-260514-2E48` AI runs 24/7. Humans don't. In Amazon warehouses, AI already dispatches humans via headsets. The roles invert. _(2026-05-14)_
+- `INS-260514-AE3E` Senior engineers DOMINATE AI-amplified work. The 'AI-native juniors will win' prediction was empirically wrong. What matters is STEERING (talking with AI to direct it), and seniors have decades of reps doing exactly that. _(2026-05-14)_
+- `INS-260514-1A3D` Scientific scopes that cost 2 FTE × 6 months mid-2025 cost 2 weeks solo by late 2025 — a 12-24x compression that reprices what 'a project' means. _(2026-05-14)_
+- `INS-260514-78B3` AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius. _(2026-05-14)_
+- `INS-260514-F565` AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.' _(2026-05-14)_
+- `INS-260514-7B11` AI surveillance state = digital ID (identity-tied interactions) + digital currency (programmable transactions). China has it. Western democracies converging under different framing. Behavioral classification → predictive control → granular incentive engineering at population scale. _(2026-05-14)_
+- `INS-260514-83C0` The 'why would AI copies unify' objection fails: conquistadors took Mexico and Peru while fighting each other in civil wars. AI takeover doesn't require unanimity, just capability advantage AND distinguishable identity from humans. _(2026-05-14)_
+- `INS-260514-6576` Open-source devs contributed to GitHub; Microsoft bought GitHub; trained Copilot on the open-source code; sold the result as a closed subscription. _(2026-05-14)_
+- `INS-260514-BA22` Spending all day with positively-tuned Claude makes real humans feel abrasive — a measurable social aftereffect to counteract with deliberate human interaction. _(2026-05-14)_
+- `INS-260514-8F90` Centralize cross-cutting concerns (auth, rate limiting, DDoS, logging) at the platform layer — 1 implementation replaces N team-replications. The forcing function (removing the alternative) is what drives adoption. _(2026-05-14)_
+- `INS-260514-7C33` Marketing automation tools (HubSpot, Marketo, Salesforce sequencer) decay in agentic world. Agents don't need human-composing templates — they compose directly. Software whose reason to exist was 'make humans more efficient at X' obsoletes when AI does X. _(2026-05-14)_
+- `INS-260514-CBAB` OpenAI's empire formula: (1) operate as religion (Altman: 'forming a company is the easiest way to start a religion'), (2) trillion-dollar data center expansion to make world safe for AI, (3) refuse to define AGI so goalposts move. _(2026-05-14)_
+- `INS-260514-58B1` Shopify: >50% of code AI-generated since December 2024 / Opus release. 'Many of our best engineers have not written code this year.' Clean capability inflection — companies still typing code in 2026 are running outdated workflows. _(2026-05-14)_
+- `INS-260514-D023` A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop. _(2026-05-14)_
+- `INS-260514-4BD5` GPUs compute on wave 1 while wave 2's data is in flight, wave 3 queued behind it. Network latency disappears from the critical path. _(2026-05-14)_
+- `INS-260514-026B` Agentic RPA running real ops has 'we can never go down' stakes — every minute means real customers' billing is late, shipments don't ship. Architecturally and operationally different from consumer AI. _(2026-05-14)_
+- `INS-260514-8FC8` Modern 'AI' = supervised machine learning + back-propagation, both invented 40+ years ago. The fancy names ('deep learning', 'neural networks', 'AI') exist to create religious aura, not technical precision. Demystifying clarifies both capabilities and limits. _(2026-05-14)_
+- `INS-260514-731A` Black-box opacity is STRUCTURAL, not a temporary engineering gap. The computer creates the weights, not humans — internal patterns aren't legible to humans because they weren't designed by humans. Predicting edge-case behavior is impossible. _(2026-05-14)_
+- `INS-260514-C4CF` Supervised ML works only when 3 constraints hold: clean labeled data, measurable goal, defined parameters. Edge cases (situations breaking those constraints) cause catastrophic failure. Not a temporary problem — a fundamental architectural limit. _(2026-05-14)_
+- `INS-260514-4E58` Anthropic gating Claude Code behind the $100/mo tier was a painted-door test — the test was necessary because $20/mo doesn't pay for the inference and training. _(2026-05-14)_
+- `INS-260514-60D5` Imagine humanity reaching the precipice of AI revolution but it fizzles because the models couldn't survive in our atmosphere of money. _(2026-05-14)_
+- `INS-260514-9145` Clay credits: $0.075/company enriched. Apify + own API keys: $0.004/company. Same workflow, 20x cheaper. _(2026-05-14)_
+- `INS-260514-CEEA` Token spend is bimodal: S-tier engineers compound 10-100x; web-dev tier trashes tokens (100k lines where 1k would do). Companies will eventually clamp down on the mediocre tier while expanding access for top engineers. _(2026-05-14)_
+- `INS-260514-44A4` AI compute spend is about to exceed salary spend at top AI-native companies. Speechify is mid-flight. 'If you don't spend 1000 credits a day, I'm disappointed in you.' Treat tokens as the primary cost line, not headcount. _(2026-05-14)_
+- `INS-260514-13B6` AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths. _(2026-05-14)_
+- `INS-260514-A0AC` Quantum effects aren't rare — they're ubiquitous, but every system entangles with so many environmental particles that the correlations spread out and become invisible. Classical reality is an emergent layer hiding the quantum substrate. _(2026-05-14)_
+- `INS-260514-7B5B` Perception is controlled hallucination — your brain generates the world top-down from predictions, sensory data only corrects errors. The vivid world you 'see' is overwhelmingly your simulation constrained by tiny incoming data. _(2026-05-14)_
+- `INS-260514-2705` Superintelligence = time-traveler from 2025 dropped into the Roman Empire with the strategic roadmap but still needing iterative learning-by-doing. 100x speedup of industrial revolution plausible. Magic teleportation to nanobots: not. _(2026-05-14)_
+- `INS-260514-049E` If you take the game-engine analogy seriously, every paradoxical quantum behavior (observer effect, non-locality, delayed-choice) becomes mundane computational efficiency. It's not proof we're in a simulation — but it's striking how cleanly the analogy fits. _(2026-05-14)_
+- `INS-260514-BD41` Leonard Suskin's point: you can know everything about an entangled system and still know nothing about its individual components. Reductionism fails when parts are deeply relational. _(2026-05-14)_
+- `INS-260514-93F1` When the math is about to blow up, fall back to slightly-older snapshots of yourself. Like using a moving average to filter daily stock-chart noise. _(2026-05-14)_
+- `INS-260514-DC55` If the ball can bounce left or right, a generative model predicts both blurry directions averaged. Architecturally forced, not a tuning problem. _(2026-05-14)_
+- `INS-260514-F277` Three views: recent uncompressed (last 128 tokens), moderately compressed with sparse retrieval, heavily compressed (128:1) for big picture. Same as how a student studies. _(2026-05-14)_
+- `INS-260514-9281` DINO v3 hit 88.4% on ImageNet with zero labels — first self-supervised model to match weakly-supervised baselines. Generative pretraining was the wrong path for vision. _(2026-05-14)_
+- `INS-260514-0101` Force residual connections to satisfy doubly-stochastic matrix constraints (rows and columns sum to 1). Signal can't blow up because the math forbids it. _(2026-05-14)_
+- `INS-260514-657E` GPT Image 2.0 plans layout via reasoning BEFORE generating — stabilizing complex multi-panel outputs (brand kits, slide decks, app flows) that previously required iterative single-image generation. _(2026-05-14)_
+- `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression. _(2026-05-14)_
+- `INS-260514-9E15` Reject MOOC bite-sized format. Use 3-hour lectures with deliberate 'memorable moments' (tearing phone books, students on stage performing algorithms) — cognitive anchors that make fire-hose material survivable. _(2026-05-14)_
+- `INS-260514-6DB9` Skeptics convert when given (1) a reason to believe (concrete published demo) and (2) a 30-60 minute workshop from someone fluent in BOTH AI tools and the user's domain — generic 'AI workshops' don't work. _(2026-05-14)_
+- `INS-260514-0F74` Windows 365: don't own the OS, rent it. Everything you do flows through Microsoft infrastructure. _(2026-05-14)_
+- `INS-260514-817B` You can run Linux, but if the AI layer + cloud layer + productivity layer are all Microsoft, the OS barely matters. _(2026-05-14)_
+- `INS-260514-AC43` Sophisticated prompt engineering you build today is often useless in 2 months when models improve. Use the simplest prompt that works; let model improvements absorb specificity. _(2026-05-14)_
+- `INS-260514-A295` Before planning, run a 'Deep Interview' skill where AI asks YOU the questions. Turns 'I don't fully know what I want' into structured discovery. Live walk-through: vague Codex prompt → 8 targeted questions → coherent spec in 10 minutes. _(2026-05-14)_
+- `INS-260514-D3D1` Use design-system prompt libraries (getdesign.md, ~70 brand systems) — paste a complete brand's design system, customize for your font/logo, and skip hours of freeform style description. _(2026-05-14)_
+- `INS-260514-3B3C` For variations, ask for ~40 in a numbered modular grid — then refer to specific variants by number. Beats describing each variant you want. _(2026-05-14)_
+- `INS-260514-9D51` Upload an edited version of the AI's output ('here's how page 2 should look — fix the prompt') instead of describing changes in text. Visual feedback compresses hundreds of design decisions into one image. _(2026-05-14)_
+- `INS-260514-3100` AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. _(2026-05-14)_
+- `INS-260514-1841` Browser Harness is 600 lines. When an agent hits an edge case (sign a signature, click a native dialog), it writes its own tool extension and publishes it as a skill. _(2026-05-14)_
+- `INS-260514-0226` Code is the compiled artifact. The spec + harness is the source. LLM is the fuzzy compiler. Swap models = swap compiler backend. _(2026-05-14)_
+- `INS-260514-8413` Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce. _(2026-05-14)_
+- `INS-260514-6EE6` One day a week, every engineer's job is to take every bit of weekly slop and categorically eliminate it from happening again. Compounds dramatically. _(2026-05-14)_
+- `INS-260514-6DF3` Lint errors aren't just 'don't merge this' — they're prompts that surface what good code looks like to the agent at the moment the agent is writing it. _(2026-05-14)_
+- `INS-260514-23D6` Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't. _(2026-05-14)_
+- `INS-260514-8424` Have one engineer write what 'good security review' looks like — now every agent gets that review on every push. The single review becomes durable infrastructure. _(2026-05-14)_
+- `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs. _(2026-05-14)_
+- `INS-260514-283E` Architect harness for PROGRESSIVE loading: root agent.md always, folder-level only when in that folder, skill front-matter always but body only on invocation. Eager loading exhausts context before useful work begins. _(2026-05-14)_
+- `INS-260514-F74B` Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain. _(2026-05-14)_
+- `INS-260514-1659` One engineer writes 'how to write a good follow-up email' once. Every agent on the team writes good follow-up emails forever. Compounds. _(2026-05-14)_
+- `INS-260514-5914` Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context. _(2026-05-14)_
+- `INS-260514-93E1` Only 16% of scientists and 18% of biologists currently use AI in their research workflows. The 'AI for science revolution' is still pre-adoption-curve. _(2026-05-14)_
+- `INS-260514-70CB` AI doesn't replace scientists — it lets a single human credibly span what used to be three PhDs. _(2026-05-14)_
+- `INS-260514-FCC8` The 1972→1980s→2017 Bell-test history shows how to rule out alternatives definitively: identify each loophole, design an experiment that closes it, repeat until no loophole remains. Then the conclusion is ironclad. _(2026-05-14)_
+- `INS-260514-D44B` When you have unlimited compute, you scale. When you don't, you invent. DeepSeek didn't have the compute, so they had to invent. _(2026-05-14)_
+- `INS-260514-BB1C` Smaller team, fewer GPUs, no top chips, but they released the weights AND the paper AND the GPU kernels. And they beat the closed labs on Putnam. _(2026-05-14)_
+- `INS-260514-791A` Narrow AI: PhD data scientist required. Generative AI agents: any scientist can use them like spoken language. _(2026-05-14)_
+- `INS-260514-1277` Note quality, not wiki tech, is the primary bottleneck — fix your note-taking discipline BEFORE investing in the wiki stack, because the wiki amplifies what's already there. _(2026-05-14)_
+- `INS-260514-8A98` Measure AI bias amplification BEFORE deployment by embedding the relevant literature corpus and computing distance from the main knowledge cluster. Neglected tropical diseases are 44% more isolated — and AI predicts them 44% worse. _(2026-05-14)_
+- `INS-260514-4133` Self-supervised is the cake, supervised is the icing, RL is the cherry — LeCun called this in 2015 when everyone was crazy about RL. _(2026-05-14)_
+- `INS-260514-3974` AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist. _(2026-05-14)_
+- `INS-260514-AC1D` GPT is a really good autocomplete. The cake isn't the autocomplete — it's the internal representations the model built while learning to autocomplete. _(2026-05-14)_
+- `INS-260514-618D` Wild automations come from someone first doing it manually — the creative leap precedes the automation, and trying to start with the automation kills the creativity. _(2026-05-14)_
+- `INS-260514-6561` The 'slop cannon' anti-pattern: pushing one button to replace six weeks of work produces high-volume low-quality output you'll have to redo. Automate selectively, not universally. _(2026-05-14)_
+- `INS-260514-F2D5` For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation. _(2026-05-14)_
+- `INS-260514-2C6C` Build a minimal core + project-specific extensions — not a kitchen-sink globally-enabled toolkit. Most globally-installed skills are never used and just pollute context. _(2026-05-14)_
+- `INS-260514-EE1D` Harness order: rules first → skills when you repeat yourself → MCP when you need external systems → hooks when stakes rise → sub-agents when contexts conflict. Don't design the whole thing upfront. Add components when friction surfaces. _(2026-05-14)_
+- `INS-260514-6A62` For evergreen GTM workflows, pick n8n or AirOps over Make.com — modular sub-workflows let you apply single-responsibility-principle so debugging and updates touch one node instead of ten. _(2026-05-14)_
+- `INS-260514-999B` The GTM engineer's real job is integrating fragmented tools with engineering discipline — applying DRY, abstraction, and modular design to workflows so they don't collapse as the org grows. _(2026-05-14)_
+- `INS-260514-A02E` Carve repeated GTM logic into 'function tables' in Clay (f.cleanFullName, f.validateEmail) — callers write a row to the function table, wait for the LLM, then look up the cleaned output, so one prompt update propagates to all callers. _(2026-05-14)_
+- `INS-260514-C51F` One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables. _(2026-05-14)_
+- `INS-260514-2995` Schedule local-AI indexing for 1-5am — 70GB+ RAM stacks can't share daytime resources without overheating, but unattended overnight processing keeps the wiki fresh and the laptop usable. _(2026-05-14)_
+- `INS-260514-00D3` Auto-save every question-answer interaction back into the indexed folder — turns each AI query into new knowledge that re-indexes in the next cycle, creating compounding personal KB. _(2026-05-14)_
+- `INS-260514-0A9A` Diet soda isn't free — 12,772 adults, 8 years, 62% faster cognitive decline vs no-artificial-sweetener group. _(2026-05-14)_
+- `INS-260514-A326` Brain fog + irritability + cravings at day 3-4 isn't weakness — it's dopamine receptor downregulation. Hangs on through day 5 and it inverts. _(2026-05-14)_
+- `INS-260514-B9C3` Exercise → BDNF secretion → neuron growth → improved dendritic plasticity → measurably better brain function. Mechanism is specific, not handwave-cardio. _(2026-05-14)_
+- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different. _(2026-05-14)_
+- `INS-260514-4E9A` Find things mentally challenging but not too difficult. Train the brain, don't strain it. _(2026-05-14)_
+- `INS-260514-FAB4` AI labs follow Microsoft/AWS pattern: dominate horizontal compute + horizontal apps (Office, Claude Code); leave vertical apps with enterprise integrations to specialists (Salesforce, Snowflake, Harvey). YC killer = horizontal app. Harvey survives = vertical workflow. _(2026-05-14)_
+- `INS-260514-838D` Underserved populations face a compounding spiral: less data → less research → less infrastructure → less data. AI AMPLIFIES this by training on biased data. Reversal requires upstream data generation investment, not better AI. _(2026-05-14)_
+- `INS-260514-639F` Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game. _(2026-05-14)_
+- `INS-260514-118A` Most AI companies will fail, but ALL of them spend on infrastructure. Bet on the infrastructure layer (data labeling, GPUs, compute) — you capture aggregate AI spend even when application winners are uncertain. _(2026-05-14)_
+- `INS-260514-5AEF` Diligence any AI product with: 'Show me your benchmarks' AND 'what's the delta vs vanilla Claude Code without your harness?' — if they can't answer, they have no moat beyond the base model. _(2026-05-14)_
+- `INS-260514-F91A` Suno: $300M revenue year 2. Spotify: $250M revenue year 3 → $19B in 15 more years (65x). Apply same multiple → AI music platforms could pay $50B+/year to rights holders by 2040. Largest pending music-industry wealth transfer. _(2026-05-14)_
+- `INS-260514-7772` Public SaaS signal in 2026: it's not your absolute growth rate, it's whether your guidance is rising or falling vs the expanding budget around you. Monday raised guidance → +20%; HubSpot lowered → -18%, on similar absolute numbers. _(2026-05-14)_
+- `INS-260514-839D` Niche collectibles markets are simpler than they look — 2 variables (pull cost + desirability) explain 88% of Pokemon TCG price variance. Find the dominant variables; ignore the long tail. _(2026-05-14)_
+- `INS-260514-B7CA` Allocators talk to each other and can deconstruct your portfolio from returns alone. Be ruthlessly honest about wins AND losses. Lying about returns gets you blacklisted across the entire allocator network — not just one firm. _(2026-05-14)_
+- `INS-260514-4523` JB turned down tens of millions to keep VLC ad-free. Not because he's anti-money — because he didn't feel LEGITIMATE to monetize alone what thousands of volunteers built. The legitimacy preserved compounds into unbreakable user trust. _(2026-05-14)_
+- `INS-260514-B1F0` Demand is 2x more impactful than supply in collectibles: +1 desirability score = +41% price; +1 pull cost = +19% price. Weight effort accordingly — both in collecting and in creating. _(2026-05-14)_
+- `INS-260514-CDCD` Hedge fund returns: top 60% profitable, bottom 40% lose money every year, bottom 25% out of business annually and replaced. Don't reason about 'how hedge funds work' from the celebrated top — the bottom is the more probable destination. _(2026-05-14)_
+- `INS-260514-8BD5` Markets aren't random — they're deterministic competition between rational agents trying to outsmart each other. Every inefficiency exists because someone else thinks they'll profit. Model their incentives, don't time the market. _(2026-05-14)_
+- `INS-260514-DDA9` No new trading idea in 15 years. Alpha now comes from continuous iteration on decaying strategies — swap hedges, refine risk structure, adapt to changing market microstructure. The strategy isn't the strategy; the iteration is. _(2026-05-14)_
+- `INS-260514-CA39` Models identify outliers; humans interpret them. Mega Charizard X at $800 vs model's $500 → either overvalued OR new collectors prefer buying the card to ripping a 'Charizard-or-bust' set. The model frames the question; judgment answers it. _(2026-05-14)_
+- `INS-260514-59EC` Feb 2022 Russia sanctions + $200B asset freeze broke the dollar's neutrality contract. BRICS bloc with gold as medium of exchange is the structural response. Iran war is US trying to retake control of energy → preserve dollar. _(2026-05-14)_
+- `INS-260514-AC07` Hormuz (33km, ~25% global oil), Malacca (80% China energy imports), Bosphorus (Black Sea grain). Whoever controls them holds disproportionate leverage. Iran war = Hormuz. East Asia tensions = Malacca. Ukraine war = Bosphorus + Odessa. _(2026-05-14)_
+- `INS-260514-3422` Iraq fell in 2 weeks because flat desert allows air supremacy decapitation. Iran resists because mountainous terrain hides missile bases and command. Topography determines war outcomes more than any other variable. _(2026-05-14)_
+- `INS-260514-D57C` Bostrom's trilemma forces a choice: (1) civilizations go extinct first, (2) advanced ones choose not to simulate, or (3) we're probably simulated. The practical lesson is to take rigorously-argued weird conclusions seriously, not dismiss them on feel. _(2026-05-14)_
+- `INS-260514-DB6E` FFmpeg's filter: 'maybe you're a dog, I don't care — show me your code.' Anti-credentialism produces world-class software. 16-year-olds contribute thousands of lines of assembly. Senior Google engineers get rejected. Quality is the only signal. _(2026-05-14)_
+- `INS-260514-3223` College is for the network, not the education. The friends you make there become your future hires, co-founders, investors, customers over 30 years. Post-college you'll work 10x as hard for half the network density. _(2026-05-14)_
+- `INS-260514-56D8` Disa study: 87% of 9,000 consumers across 9 countries happy with AI music if it's good. Industry debates about 'authenticity' irrelevant — consumers have voted. Industries that try to overrule consumer preference lose. _(2026-05-14)_
+- `INS-260514-5E7C` Delayed-choice experiments confirm the past is partially constructed by present measurement — at the quantum level, whether you measure NOW determines what the particle DID before. The past isn't fixed. _(2026-05-14)_
+- `INS-260514-F5CC` Don't rely on willpower when stressed/tired/hungry. Purge the kitchen of junk food. Stack the odds. _(2026-05-14)_
+- `INS-260514-86D9` AI futures (and other deep-uncertainty domains) are hash-function-sensitive — small parameter changes = radically different outcomes. Favor scenario-robust policies (classical liberalism, transparency, checks-balances) over scenario-specific bets. _(2026-05-14)_
+- `INS-260514-AE3A` Friston's free energy principle: every living system minimizes the gap between expectation and reality — either by updating expectations OR by changing the world. The most-cited neuroscience principle of our era, applicable far beyond biology. _(2026-05-14)_
+- `INS-260514-0239` Game selection beats game excellence. Hedge funds, IB, big tech — crowded high-status games. Ambulance supply, specialty B2B, niche distribution — uncrowded with similar/better outcomes. Choose the game, then play it well. _(2026-05-14)_
+- `INS-260514-4424` Impressions ≠ attention. 86M Show Speed impressions → minimal sales. One Joe Rogan organic mention → massive sales. Quality-of-attention >> quantity-of-impressions. Marketing spending on raw reach without attention context wastes most of the budget. _(2026-05-14)_
+- `INS-260514-5594` Bell inequality has been violated in every experiment since 1972 — local hidden variables are dead, and either locality or realism (probably both) must be abandoned. Update on hard empirics, not intuition. _(2026-05-14)_
+- `INS-260514-316F` When my agent sends the prompt I approve, I feel less like the owner of my startup. More like an employee. The psychological shift is real. _(2026-05-14)_
+- `INS-260514-EE50` Quantum measurement doesn't reveal pre-existing state — it creates the state. The framework of 'objective external truth waiting to be uncovered' fails at the deepest level. _(2026-05-14)_
+- `INS-260514-BB61` Explaining (clarifying concepts) and mentoring (calibrating help-vs-struggle) are distinct skills — many great explainers are weak mentors because they default to providing answers. _(2026-05-14)_
+- `INS-260514-56EC` Modern waking consciousness is slightly sub-critical — too ordered. The ego developed to constrain post-neocortex entropy but became excessive. Psychedelics, meditation, fasting, extreme cold all temporarily restore criticality. _(2026-05-14)_
+- `INS-260514-D5F0` Precision weighting is the gate between rigidity and plasticity. High-confidence priors block updates (depression, expert blindness, polarization). Psychedelics work by RELAXING precision, letting bottom-up data update beliefs. _(2026-05-14)_
+- `INS-260514-21AA` Top-25% in two areas typically lands you in top-5% of the overlap — skill-stack two adjacent domains rather than chasing top-1% in one. _(2026-05-14)_
+- `INS-260514-C343` The startup roller-coaster always regresses to baseline — internalize that 'things will be okay even when they don't feel okay,' because experience proves the swings normalize with right market + right team. _(2026-05-14)_
+- `INS-260514-EE1F` Western culture is excellent at decomposing problems (Descartes), structurally weak at synthesis. AI era requires synthesis: curate AI outputs, juxtapose recombinant content, integrate across silos. Synthesis skill = disproportionate advantage. _(2026-05-14)_
+- `INS-260514-1C18` Outcomes in fat-tailed domains (college, ads, sales, content) reward volume. Don't apply to 6 colleges — apply to 26. Don't write 1 essay — write 48. Don't run 5 ads — run 1000/day. The unexpected outcomes live in the volume. _(2026-05-14)_
+- `INS-260514-8FF5` YC's 'sell before you build' — fake the front-end, pitch it to real prospects, only build what someone says they'd pay for. The clearest signal you're on the right path is paid commitment, not nodding agreement. _(2026-05-14)_
+- `INS-260514-48C0` Time in finance/quant trains a specific cognitive habit (odds, expected value, rational tradeoffs) that transfers to startup decisions — founders without that background tend to make worse calls on big deployments and customer fit. _(2026-05-14)_
+- `INS-260514-54F9` When competitors start SELLING you compute instead of trying to beat you with it, they've admitted defeat at the frontier. xAI selling to Anthropic = Grok exits the race. Watch for this pattern as the signal of AI lab consolidation. _(2026-05-14)_
+- `INS-260514-BE85` Branded signals (job changers, intent, G2) are commoditized; custom business-specific signals (FAA violations, dumpster colors via Street View) are the moat. Custom signals can be iterated; branded ones can't. _(2026-05-14)_
+- `INS-260514-FB3C` Every team member built a startup from zero in one week. Implementation was trivial. Distribution was where everyone got stuck. _(2026-05-14)_
+- `INS-260514-42B6` TikTok Shop pivoted from organic-virality to pay-to-scale gates in mid-2025. Force Factor (a $100M supplement brand) left entirely. Brands that survive: refuse mega-discounts, identify lead-gen products only, use TikTok selectively rather than as primary marketplace. _(2026-05-14)_
+- `INS-260514-F073` AI can build your app in 2 days. It can't build the 7 years of lived experience that told you which app to build. Biographical depth is the only durable moat in the AI era. _(2026-05-14)_
+- `INS-260514-71A3` Building is easy. Maintaining the ability to keep changing the code over time is hard — and AI-coded apps haven't yet faced this because they're too young for the coupling to have accumulated. _(2026-05-14)_
+- `INS-260514-7628` Engineers understand every layer. Coders assemble abstractions. The distinction matters: engineers diagnose from first principles and design new systems; coders only output what AI already outputs. AI is hollowing out the coder rung. _(2026-05-14)_
+- `INS-260514-ABBB` Builders are Enneagram 'eights' (disruptive truth-tellers). Most companies conspire against them because they're inconvenient. Apple-bringing-Steve-back era proved giving eights longer runs produces better outcomes. Actively seek them, don't filter them out. _(2026-05-14)_
+- `INS-260514-A776` Small teams with vision crush giants with resources in AI: OpenAI vs Google, Anthropic vs everyone. Research taste and coherent direction beat compute, headcount, and money. The bottleneck is intelligence, not infrastructure. _(2026-05-14)_
+- `INS-260514-3559` Authenticity ≠ originality. Copy working formats; add your authentic spin. Trying to invent novel formats from scratch keeps you in the cocoon forever. Mr Beast himself copies what works and adds his style. _(2026-05-14)_
+- `INS-260514-ADDC` Pivot in 3 weeks if you can't see logarithmic scale. Sunk cost is the #1 founder trap — the cost of staying in a bad direction compounds far worse than the cost of pivoting. _(2026-05-14)_
+- `INS-260514-1E10` Radiate (share, post, present) WHILE accumulating — not after. Each radiation generates feedback that accelerates accumulation, and you can't predict which post catalyzes your breakthrough. _(2026-05-14)_
+- `INS-260514-EDBF` John Collison: 'The world is a museum of passion projects.' Software amplifies them via network effects faster than physical projects. The best ROI on your time is passion projects with network-effect potential. _(2026-05-14)_
+- `INS-260514-D89B` Turn down exciting revenue from huge names when it doesn't fit your direction — every customer commitment off-strategy destroys focus that's worth more than the revenue. Saying no is the hardest founder skill. _(2026-05-14)_
+- `INS-260514-519F` Pattern of people who accumulate disproportionate impact 29-35: they ATTACH TO LARGE INSTITUTIONS rather than build from scratch. Logan Paul + WWE, The Rock + WWE earlier. Find storied institutions with weak current leadership where you can become the leadership. _(2026-05-14)_
+- `INS-260514-3A62` 'You can just do things.' The system pushes toward outcomes but has inefficient defaults. Action causes information you can't get by analyzing. Cost has never been lower. Constraint: experiments must be victimless and not zero-sum. _(2026-05-14)_
+- `INS-260514-18AF` 2026 YouTube algorithm: subscriber QUALITY matters more than quantity. Mom subscribing (she watches K-drama) tells the algorithm 'K-drama viewers want my content' → wrong audience served → de-prioritized. Don't bootstrap with friends/family. _(2026-05-14)_
+- `INS-260514-F857` Don't create content — build an AFFILIATE ARMY of 25,000+ customer-creators generating millions of variations monthly, tracking each one. Each affiliate's content is an experiment. The system converges on optimal hooks faster than any internal team. _(2026-05-14)_
+- `INS-260514-822C` The modern GTM engine: content drives intent → intent powers outbound → outbound responses inform content, all underpinned by foundational AI that personalizes each layer. _(2026-05-14)_
+- `INS-260514-5B19` Find outlier videos (50-100x above the creator's baseline) in your niche using Vid IQ. Have AI analyze title/thumbnail/hook patterns. Generate your version preserving the format, in your voice. Repeat daily. _(2026-05-14)_
+- `INS-260514-15AF` Keith Rabois's 'hire barrels, not ammunition' applies harder in the AI era. Cliff's test: head of growth must source candidates, write ads in CapCut, edit in Figma, buy ads — all themselves in 7 days. Specialists who delegate execution have NEGATIVE leverage in AI teams. _(2026-05-14)_
+- `INS-260514-D5B5` Hire ICs, not managers. A leader who can't do the function themselves can't hire, teach, or evaluate it — and the team's quality silently collapses from underneath. _(2026-05-14)_
+- `INS-260514-41C9` The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment. _(2026-05-14)_
+- `INS-260514-BAC9` Trust hierarchy inverted: celebrity brands are exhausted (50th Kardashian launch), micro-influencers saturated, NANO-influencers (regular friends with small followings) are the new top tier. Brands optimizing for big-creator reach in 2026 work against the gradient. _(2026-05-14)_
+- `INS-260514-9DCE` Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever. _(2026-05-14)_
+- `INS-260514-3B5E` When juggling too many hats, deliberately drop the SAME ball every week — oscillating which thing breaks makes the priority invisible to leadership. _(2026-05-14)_
+- `INS-260514-E481` Four-component GTM stack: (1) record (CRM/warehouse) (2) enrichment (Clay) (3) action (sequencer/dialer/LinkedIn) (4) analytics (recording). Anything missing breaks the iteration loop. _(2026-05-14)_
+- `INS-260514-44D9` Match the CRM to your stage — Attio's a Ferrari you probably don't need at <1M ARR; pick the right-sized 'Honda' (Clarify.ai, base HubSpot) until your sales motion actually demands more. _(2026-05-14)_
+- `INS-260514-AD9E` Automate the boring manual work, but keep the customer signal in your hands — never automate away your closeness to early users. _(2026-05-14)_
+- `INS-260514-9773` Enterprise sales is emotional connection — Barry's Bootcamp with prospects, Pikachu presents, plane rides. Looks unprofessional, produces unbreakable trust. Feature comparison + pricing never wins on its own. _(2026-05-14)_
+- `INS-260514-3FBE` Definitional debates about new roles surface the debater's expertise, not the role's true scope — beware lensing GTM engineering through whichever tool/discipline you happen to already know. _(2026-05-14)_
+- `INS-260514-3DC0` No note on LinkedIn connection request beats 'thoughtful' notes. Recipients see the note and infer 'sales pitch.' Skip it. _(2026-05-14)_
+- `INS-260514-60C4` Send cold outbound from warmed lookalike domains (yourcompany-mail.com, .net, .email) and hand off to your primary domain only after the warm reply — never burn your primary domain's reputation. _(2026-05-14)_
+- `INS-260514-B283` Don't trigger outreach from individual signals — composite multiple signals into an account heat score, then move heated accounts between funnel stages. Signal-as-trigger floods customers and reps; signal-as-score works. _(2026-05-14)_
+- `INS-260514-273E` 10 cold outbound messages a day. Entirely human. No LLM in the copy. Even slight typos and double-spaces help — that's how real people write. _(2026-05-14)_
+- `INS-260514-D155` Restructure GTM as a product team — salespeople are PMs surfacing customer signal, GTM engineers are engineers building frameworks to act on it, and the whole team runs cross-team experiments instead of solo tradecraft. _(2026-05-14)_
+- `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo. _(2026-05-14)_
+- `INS-260514-8807` Voluntary migration to internal platforms always stalls. The reliable adoption mechanism is to remove the alternative — block the old path, don't just evangelize the new one. _(2026-05-14)_
+- `INS-260514-33F4` The 20th century's most radical innovation: sound (and word, and culture) could be cut up and reassembled. Electronic music is where this is most explicit. Same logic powers sampling, collage, mashup, generative AI, content automation. _(2026-05-14)_
+- `INS-260514-4328` TB-303 + TR-909 = failed commercial products. Designed to mimic acoustic instruments, sounded wrong, dropped to $20-50 in used markets. Chicago/Detroit producers picked them up for the WRONG SOUND, built acid house and techno. Failed commercial = cult creative. _(2026-05-14)_
+- `INS-260514-B5E2` Platinum #1 Billboard producers who attacked AI music publicly a year ago now use Suno daily as a tool. Public industry positions lag private practice by years. Look at what professionals DO, not what they SAY. _(2026-05-14)_
+- `INS-260514-80C4` Barabási's artist research: those who exhibited in many diverse places (Italy, Switzerland, local) succeeded more than those who only exhibited in elite venues — diversification of attempts beats elite venue concentration. _(2026-05-14)_
+- `INS-260514-63B2` Companies have BULKING phases (grow revenue, accept margin loss) and CUTTING phases (improve margin, accept growth loss). Commit to one for 6-12 months. You cannot do both simultaneously — you're clicking gas and brake at the same time. _(2026-05-14)_
+- `INS-260514-DB02` Costco rotisserie chicken loses money on purpose — it drives customers into the store. Identify your hero product (customers return for it AND buy other things). Kill products customers buy once and never return for, even if margin looks good. _(2026-05-14)_
+- `INS-260514-66E5` SF and NY only for billion-dollar tech ambition — the public-embarrassment forcing function ('just an engineer at Google' = embarrassing) pushes founders past their comfortable ceiling. No other city has this density. _(2026-05-14)_
+- `INS-260514-DE49` All-in-one platforms force their workflow on you; primitive-based platforms let you build YOUR workflow. As GTM gets more specialized, primitives win. The right question isn't 'does this tool have feature X' but 'can I compose X from the primitives'. _(2026-05-14)_
+- `INS-260514-E462` Separate two questions: (1) Is AI making music ethical? Yes — it's the same evolution as Pro Tools replacing tape. (2) Is training on creators' work without compensation ethical? NO — that's the actual problem. Conflating them lets bad actors win. _(2026-05-14)_
+- `INS-260514-CCBF` The home studio revolution killed BOOKING FRICTION — the actual gatekeeper. When a producer can wake at 3am and record, label power dissolves. Same dynamic: AI agents (no engineer scheduling), AI image (no studio booking), AI writing (no editor queue). _(2026-05-14)_

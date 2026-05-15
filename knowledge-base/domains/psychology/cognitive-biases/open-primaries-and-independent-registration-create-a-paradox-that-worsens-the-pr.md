@@ -60,7 +60,6 @@ related:
   - INS-260404-FDB2
   - PRI-260406-1B8A
   - INS-260403-BA53
-  - INS-260403-0D1F
   - INS-260403-9006
 ---
 Record numbers of Americans are leaving both parties and registering as independents, expressing clear dissatisfaction with extremism. But in closed-primary states, this means fewer moderates participate in candidate selection, so the remaining partisan voters nominate even more extreme candidates. The moderates then face a general election choice between two polarized options, increasing their frustration and driving more people to register independent — a self-reinforcing cycle.

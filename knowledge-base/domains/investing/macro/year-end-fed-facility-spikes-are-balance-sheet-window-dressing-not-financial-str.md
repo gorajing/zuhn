@@ -56,10 +56,10 @@ stance: >-
   crises or money printing.
 related:
   - PRI-260328-0993
+  - INS-260514-93F1
   - INS-260321-347D
   - INS-260403-6BDC
   - INS-260403-EB97
-  - INS-260327-FBD8
 ---
 The Fed's Standing Repo Facility (SRF) lets banks borrow cash overnight by pledging Treasuries — it's a pressure valve that caps interest rates during cash shortfalls. The Reverse Repo Facility (RRP) lets money market funds park excess cash overnight — it puts a floor under rates by providing a guaranteed safe alternative to private lending. Both spiking simultaneously looks paradoxical (some borrowing while others lend?) but follows directly from incentive structures.
 

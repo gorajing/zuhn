@@ -51,7 +51,6 @@ stance: >-
   decision-making in hardware markets.
 related:
   - INS-260329-AA2C
-  - INS-260329-CD02
   - INS-260330-CCF0
   - INS-260403-6A69
   - PRI-260328-4CC0

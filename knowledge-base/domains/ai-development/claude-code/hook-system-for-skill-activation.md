@@ -21,7 +21,6 @@ sources:
     url: 'https://reddit.com/r/ClaudeCode'
 related:
   - INS-260320-A4BF
-  - INS-260320-8DBD
   - INS-260320-DCA0
   - INS-260329-4D06
   - INS-260405-2BB0

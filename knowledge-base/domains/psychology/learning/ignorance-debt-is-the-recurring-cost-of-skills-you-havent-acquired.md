@@ -44,6 +44,7 @@ stance: >-
   The gap between your current income and your potential income is a
   quantifiable annual debt you pay for every year you lack a skill.
 related:
+  - INS-260514-639F
   - INS-260329-3FED
   - PRI-260406-12D7
   - INS-260329-5A47

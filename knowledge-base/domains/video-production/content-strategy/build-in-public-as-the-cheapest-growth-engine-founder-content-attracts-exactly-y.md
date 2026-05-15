@@ -47,10 +47,10 @@ resolutions:
     your first 10 posts will flop, and that is expected.
 related:
   - INS-260327-735A
+  - INS-260514-F857
   - PRI-260326-DB67
   - INS-260323-6414
   - PRI-260328-FD47
-  - INS-260327-58AC
   - INS-260405-8646
 stance: >-
   Every business needs a creator — build in public, show the behind-the-scenes

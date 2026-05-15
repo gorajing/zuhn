@@ -51,7 +51,6 @@ stance: >-
   features.
 related:
   - INS-260323-D621
-  - INS-260329-8261
   - INS-260330-95F3
   - INS-260330-F527
   - INS-260402-E2FF
@@ -60,6 +59,7 @@ related:
   - INS-260403-7E7C
   - INS-260404-2A8B
   - INS-260403-16D7
+  - INS-260403-B7C6
 evidence:
   - id: INS-260329-8261
     type: TRANSFERS_TO

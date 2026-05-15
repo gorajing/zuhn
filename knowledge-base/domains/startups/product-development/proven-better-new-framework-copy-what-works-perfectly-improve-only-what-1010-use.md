@@ -48,10 +48,10 @@ resolutions:
     you have true signal.
 related:
   - INS-260323-E1BE
+  - INS-260514-CBAB
   - PRI-260328-FBB3
   - INS-260327-3A71
   - INS-260403-CD51
-  - PRI-260328-0BE1
   - INS-260330-B8CC
 stance: >-
   Pincus's product religion: start by copying every pixel of what's proven to

@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260325-A8E6
   - INS-260325-5ACA
-  - INS-260323-A64F
   - INS-260327-CBDF
   - INS-260404-ABCB
   - INS-260412-3090
@@ -60,6 +59,7 @@ related:
   - INS-260325-4996
   - INS-260409-A0D7
   - INS-260409-CE1D
+  - INS-260412-26A4
 evidence:
   - id: INS-260327-CBDF
     type: SUPPORTS

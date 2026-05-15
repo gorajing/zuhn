@@ -54,6 +54,7 @@ related:
   - PRI-260328-F570
   - INS-260412-63A5
   - INS-260412-5A41
+  - INS-260514-0A9A
 ---
 Multiple studies confirm that milk and orange juice are more hydrating than water due to their nutrient and electrolyte content. The optimal daily hydration protocol: ~2.3L (77oz, ~10 glasses) of hydrating fluid regardless of body size, paired with 8-9g of low-heavy-metal sea salt. Coffee and alcohol are dehydrating and don't count toward the target.
 

@@ -64,8 +64,8 @@ related:
   - INS-260404-1A18
   - PRI-260328-5D9E
   - PRI-260407-E7CD
+  - INS-260514-D44B
   - PRI-260328-D5EB
-  - PRI-260406-72B3
 ---
 Nvidia launched as the first dedicated 3D graphics card company and immediately made two first-mover bets that blew up: they picked quadrilaterals as their polygon primitive (Microsoft's DirectX standardized on triangles eighteen months later), and they designed for expensive memory (Moore's law dropped component memory costs from $200 to $50 by the time competitors shipped). Both decisions were defensible given 1993 information but catastrophic given 1996 reality.
 

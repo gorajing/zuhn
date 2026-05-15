@@ -50,8 +50,8 @@ related:
   - INS-260410-46CA
   - PRI-260328-E64D
   - PRI-260403-C34A
+  - INS-260514-A0AC
   - INS-260505-1165
-  - INS-260325-1709
 stance: Talent only reveals itself when the environment activates it
 evidence:
   - id: INS-260325-A8E6

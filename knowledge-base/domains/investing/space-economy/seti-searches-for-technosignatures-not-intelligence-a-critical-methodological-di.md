@@ -54,11 +54,10 @@ stance: >-
   distance but can potentially detect engineered electromagnetic signals.
 related:
   - INS-260325-2C31
+  - INS-260514-8FC8
   - INS-260330-C8ED
   - INS-260505-4A97
   - INS-260423-2529
-  - INS-260403-C49F
-  - INS-260330-E4AD
   - INS-260409-C1B2
 evidence:
   - id: INS-260325-2C31

@@ -50,7 +50,7 @@ related:
   - INS-260325-82E8
   - INS-260330-CF10
   - INS-260325-DFA5
-  - INS-260404-C209
+  - INS-260514-AE3A
 ---
 The video opens and closes with the observation that our current lifestyle feels 'normal' and 'ordinary' — yet it has existed for less than 0.001% of human history. For 99.99% of the human experience, life was fundamentally different: small bands, no agriculture, no surplus, no specialization.
 

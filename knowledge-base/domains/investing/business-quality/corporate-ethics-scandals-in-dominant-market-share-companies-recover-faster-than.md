@@ -50,7 +50,6 @@ stance: >-
   from ethics scandals faster than investors expect, because switching costs
   outweigh moral outrage.
 related:
-  - INS-260323-104E
   - INS-260327-505A
   - INS-260327-4440
   - INS-260327-D013
@@ -58,5 +57,6 @@ related:
   - INS-260410-F681
   - INS-260412-E317
   - INS-260412-4D5D
+  - INS-260514-42B6
 ---
 The Dieselgate scandal — where VW deliberately cheated emission tests with software detecting test conditions — caused a $30 billion drop in market value. Yet the video notes the 'fallout has mostly passed.' This pattern recurs across industries: companies with deep structural moats (manufacturing facilities in 20+ countries, 121 production plants, 610K employees, dealer networks spanning 150 countries) create switching costs so high that even deliberate fraud doesn't permanently impair the business. Customers, dealers, and suppliers are locked into the ecosystem. For investors, this suggests that ethics scandals in structurally dominant companies are often buying opportunities rather than permanent impairments — the moral outrage cycle runs shorter than the infrastructure advantage. The uncomfortable corollary is that market structure, not ethics, determines long-term business outcomes.

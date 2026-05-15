@@ -56,11 +56,10 @@ resolutions:
     outproduce traditional teams.
 related:
   - PRI-260406-806C
+  - INS-260514-CEEA
   - INS-260325-ADF5
   - INS-260403-EFAF
   - PRI-260407-7C1A
-  - PRI-260328-5CDE
-  - INS-260327-9192
   - INS-260404-B18A
   - INS-260403-3AEE
   - INS-260410-7224

@@ -49,11 +49,11 @@ stance: >-
   primarily out of obligation to maintain social standing rather than genuine
   interest in the events themselves.
 related:
+  - INS-260514-BAC9
   - INS-260330-4746
   - INS-260403-9E82
   - INS-260412-F566
   - INS-260402-8C0E
-  - INS-260328-F60B
 ---
 The video reveals that most wealthy attendees at events like the Monaco Grand Prix 'hardly care about the racing' — the events function as exclusive coordination mechanisms for social networks. Ultra-wealthy individuals report feeling obligated to attend to maintain social standing, suggesting that even at the highest wealth levels, social conformity pressure is a dominant behavioral driver.
 

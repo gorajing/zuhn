@@ -48,7 +48,6 @@ stance: >-
   upgrade to existing software.
 related:
   - INS-260323-5C6F
-  - INS-260320-CDE4
   - INS-260323-0539
   - INS-260327-85E2
   - INS-260329-6A60
@@ -57,6 +56,7 @@ related:
   - INS-260403-6412
   - INS-260405-4B12
   - INS-260405-3805
+  - INS-260322-5678
 ---
 The distinction between AI as a feature and AI as a platform matters enormously for startup strategy and enterprise planning. When AI agents can autonomously handle tasks that previously required human coordination across multiple tools, entire categories of SaaS products become redundant. This isn't about adding a chatbot to your app — it's about the app becoming unnecessary because an agent handles the underlying workflow directly.
 

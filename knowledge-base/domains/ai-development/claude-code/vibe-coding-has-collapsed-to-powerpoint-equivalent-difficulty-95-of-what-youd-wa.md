@@ -60,11 +60,11 @@ stance: >-
   code?' the wrong question and 'should I learn to specify what I want?' the
   right one.
 related:
+  - INS-260514-71A3
   - INS-260501-7726
   - INS-260501-801C
   - INS-260501-70FE
   - INS-260501-2130
-  - INS-260329-200A
 ---
 Pemberton's claim from extensive testing: 95% of the things you'd want to code are now 'as easy as creating a presentation' — one prompt produces a functional artifact. He oneshotted a Replit-equivalent (vibe coding tool that spawns sandboxes for mobile-vibe-coding apps) — took 80 minutes of agent generation time on Codex 5.4. The Allstate-sponsored physics-train-simulator was one prompt.
 

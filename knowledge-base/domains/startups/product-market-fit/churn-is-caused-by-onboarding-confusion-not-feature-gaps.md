@@ -49,8 +49,8 @@ related:
   - INS-260403-2A8B
   - INS-260405-7ACC
   - INS-260403-4388
+  - INS-260514-268F
   - PRI-260406-58FA
   - INS-260403-570D
-  - INS-260322-DAA1
 ---
 Claire's co-founders gave early customers their personal phone numbers and walked them through the product on video calls. This reframes retention from a product-roadmap question to a human-contact question: the typical reason users leave is that they gave up before figuring out how to extract value, not because the value isn't there. Fixing this by shipping more features is slow and expensive; fixing it by personally onboarding early customers is fast and generates testimonials and referrals as a byproduct. The principle has a shelf life — unscalable high-touch breaks above a few hundred customers — but in the phase where churn signals matter most to PMF diagnosis, personal contact is the correct intervention, and it produces retention data features cannot.

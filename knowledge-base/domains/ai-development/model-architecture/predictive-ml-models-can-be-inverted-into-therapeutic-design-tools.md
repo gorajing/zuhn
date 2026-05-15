@@ -52,6 +52,7 @@ related:
   - INS-260505-5510
   - INS-260329-3D3E
   - INS-260505-D440
+  - INS-260514-3B3C
 ---
 Anshul Kundaje's Variant Effects Platform (VEP) with Jesse Engreitz: take the deep learning model that predicts how a DNA variant affects gene activity, then invert the model — instead of 'sequence to activity,' run 'desired activity to sequence edit.' Combined with CRISPR prime editing, this enables systematic therapeutic design: 10-base edits to control elements can change gene dosage by 200%. The same neural network is both a microscope (interpretation) and a design tool (intervention).
 

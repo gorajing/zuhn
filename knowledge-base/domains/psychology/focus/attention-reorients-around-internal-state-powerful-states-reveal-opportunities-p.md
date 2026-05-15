@@ -44,9 +44,9 @@ stance: >-
   filter rather than merely a mood
 related:
   - INS-260403-28C7
+  - INS-260514-A0AC
   - INS-260404-8E68
   - INS-260330-487E
   - INS-260330-AB5D
-  - PRI-260403-88F5
 ---
 This is well-supported in attention and perception research: affective state biases which environmental features get encoded. Anxious states narrow attention to threat-relevant features; calm states broaden attention to include possibility-relevant features. Bayer's operational claim is that the same day, same environment, same inbox produces different perceived realities depending on which state you enter it in. Consequence: if you can't see opportunities, the problem may not be the environment but the state you're perceiving it from — fix the state before searching harder.

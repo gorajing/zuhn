@@ -59,7 +59,6 @@ related:
   - INS-260329-D8C7
   - INS-260329-04CB
   - INS-260329-50BD
-  - INS-260412-BBAB
   - INS-260403-62AF
 ---
 Since 2018, Gen Z has been pivoting away from traditional higher education: 39% of recent graduates would choose jail over their student debt. The shift toward trades and community colleges reflects a changing expected-value calculation — when tuition rises faster than medical costs, child care, and housing, and when 'the most impactful teachers are usually at community colleges,' the premium university path becomes a worse bet. Meanwhile, trade skills face less AI displacement risk and often offer higher starting wages than many degree-requiring jobs.

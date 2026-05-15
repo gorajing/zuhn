@@ -8,9 +8,9 @@
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260321-99C0` Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
 - `INS-260325-3EF4` Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
+- `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning.
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - `INS-260321-167A` Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
-- `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning.
 - `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260409-DBCF` The 'what story will remain?' frame is a cleaner decision filter than 'what do I want?' because terminal state is harder to fool.
@@ -28,19 +28,6 @@
 - `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260405-F7FA` All else being equal, bet against the explanation where you are the protagonist.
-- `INS-260404-2F16` Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
-- `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
-- `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
-- `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
-- `INS-260412-2A09` Ferdinand Porsche declined Stalin's offer to lead Soviet auto development not over ideology, but because he couldn't speak Russian.
-- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
-- `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know.
-- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
-- `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
-- `INS-260410-58DB` Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.
-- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
-- `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
-- `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260330-A151` Destiny's two mental safeguards — argue both sides convincingly, and name what would change your mind — are more effective than claiming objectivity.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-D432` Judge leaders exclusively by measurable population outcomes like life expectancy and prosperity rather than moral rhetoric or personality.
@@ -66,6 +53,19 @@
 - `INS-260323-846D` The most powerful thing you can do right now is not adding something to your life but cutting — options, information, commitments, and obligations you said yes to without thinking.
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-D7D0` The best thing about getting older is learning to trust the body's signals instead of using the analytical forebrain to override them — every time Huberman overrode his gut, he regretted it.
+- `INS-260404-2F16` Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
+- `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
+- `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
+- `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
+- `INS-260412-2A09` Ferdinand Porsche declined Stalin's offer to lead Soviet auto development not over ideology, but because he couldn't speak Russian.
+- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
+- `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know.
+- `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
+- `INS-260405-DB32` You are accountable for acting from your values, even if you didn't choose those values from scratch.
+- `INS-260410-58DB` Japan's path to Pearl Harbor was locked in by 1936 when young officers murdered Finance Minister Takahashi for opposing empire — by 1941 the peace faction could no longer save face, let alone stop the military.
+- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
+- `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
+- `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260404-AF54` Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
@@ -174,13 +174,13 @@
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
 - `INS-260330-8890` Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
 - `INS-260404-29EC` Strategic pillars should be scored across four dimensions: expected impact, certainty of impact, clarity of levers, and lever uniqueness/differentiation.
+- `INS-260410-0F85` Benchmark deliberately bans memos because writing one forces you to fill in blanks the founder never said and pre-sells the group before they can see the founder raw.
 - `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260403-063E` McKinsey research shows companies combining AI with human decision-making are 20% more successful in AI deployment than those pursuing full automation.
-- `INS-260410-0F85` Benchmark deliberately bans memos because writing one forces you to fill in blanks the founder never said and pre-sells the group before they can see the founder raw.
+- `INS-260403-DFC3` Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
+- `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
-- `INS-260403-DFC3` Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
-- `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.

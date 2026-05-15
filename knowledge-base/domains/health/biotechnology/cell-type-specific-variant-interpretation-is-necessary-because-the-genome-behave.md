@@ -51,9 +51,9 @@ related:
   - INS-260410-B9A6
   - INS-260405-1F0B
   - INS-260325-D680
+  - INS-260514-B9C3
   - INS-260505-50AC
   - INS-260330-2311
-  - PRI-260323-A05E
 ---
 Anshul Kundaje: every cell in the body has the same genome, but a liver cell, a neuron, and a heart cell read different parts of it. Different cell types express different genes and proteins at different levels via cell-type-specific control element activity. This means a regulatory variant might be silent in most tissues but devastating in one. Variant interpretation that doesn't account for cell-type context will systematically miss tissue-specific disease mechanisms. Solution: train models on activity profiles across thousands of cell types (ENCODE-scale) so interpretation can be context-aware.
 

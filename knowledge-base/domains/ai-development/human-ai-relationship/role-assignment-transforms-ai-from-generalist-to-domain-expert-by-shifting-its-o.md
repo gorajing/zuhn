@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260402-142F
   - INS-260409-BBBA
+  - INS-260514-791A
   - INS-260404-D8D8
-  - INS-260323-DA85
-  - PRI-260406-F9AC
+  - INS-260514-93E1
 ---
 Role assignment is deceptively simple — one sentence that changes everything. When you tell a model 'you are a clinical researcher summarizing findings for a medical journal,' you're not just setting tone; you're activating a different distribution of the model's training data. The model draws more heavily on medical terminology, journal conventions, evidence-based reasoning patterns, and appropriate hedging language.
 

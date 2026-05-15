@@ -47,9 +47,9 @@ resolutions:
     breakthrough in 2012, which kicked off modern deep learning, happened on
     NVIDIA GPUs because CUDA existed.
 related:
-  - INS-260325-2FC1
   - INS-260410-0EF8
   - INS-260325-5B7F
+  - INS-260514-8FC8
   - INS-260410-AA40
   - INS-260327-CFD5
   - INS-260327-26BF

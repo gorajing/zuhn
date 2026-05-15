@@ -41,7 +41,6 @@ stance: >-
   Companies systematically underinvest in tools for designing new business
   models while over-indexing on tools that optimize existing ones
 related:
-  - INS-260327-ACB3
   - INS-260402-AEA1
   - INS-260403-ACA8
   - INS-260403-130D

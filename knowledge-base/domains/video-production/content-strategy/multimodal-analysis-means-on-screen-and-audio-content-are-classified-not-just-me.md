@@ -53,7 +53,6 @@ stance: >-
   carry equal or greater weight.
 related:
   - INS-260320-232D
-  - INS-260330-B784
   - INS-260403-979D
   - INS-260403-9774
   - INS-260322-F65F

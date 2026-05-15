@@ -54,7 +54,6 @@ stance: >-
   atom-by-atom construction of new quantum gates.
 related:
   - INS-260325-1B3E
-  - INS-260325-2069
   - INS-260325-5A2F
   - INS-260325-A782
   - INS-260325-F21D

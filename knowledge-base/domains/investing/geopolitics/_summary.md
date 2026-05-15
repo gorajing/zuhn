@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 586 insights
+> 589 insights
 
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260326-79DF` [very_high] Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
@@ -373,6 +373,7 @@
 - `INS-260327-A052` [high] The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260410-A264` [high] England, the US, and France installed their constitutional orders when only propertied men voted, giving the system breathing room to embed citizenship norms before democratizing — once you're already in the mass age, constitutional revolution reliably fails.
 - `INS-260505-AE69` [high] PRC patronage targets already-aligned outlets to help them outsurvive competitors — reshaping the market rather than reshaping the message.
+- `INS-260514-AC07` [high] Hormuz (33km, ~25% global oil), Malacca (80% China energy imports), Bosphorus (Black Sea grain). Whoever controls them holds disproportionate leverage. Iran war = Hormuz. East Asia tensions = Malacca. Ukraine war = Bosphorus + Odessa.
 - `INS-260327-CE65` [high] Russia's continental size made it unconquerable — Napoleon and later Hitler discovered that Russia could simply retreat, trading space for time until the invader exhausted themselves.
 - `INS-260404-95CA` [high] Project Vault pairs $12B in reserves with bilateral agreements across 11 countries, recognizing that mineral security requires allied coordination, not just stockpiling.
 - `INS-260330-51B1` [high] States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
@@ -424,6 +425,7 @@
 - `INS-260405-1CC3` [high] The US-Taiwan deal reduces tariffs from 20% to 15% contingent on $500B in US semiconductor investment, making trade policy a reshoring mechanism.
 - `INS-260327-32BA` [high] Britain and France 'won' WW1 but emerged so devastated — financially, demographically, psychologically — that they were unable to maintain their empires or prevent the next war.
 - `INS-260327-25AD` [high] Mao's Great Leap Forward mandated nationwide agricultural and industrial methods from Beijing that ignored local conditions, causing 30-45 million deaths from famine.
+- `INS-260514-3422` [high] Iraq fell in 2 weeks because flat desert allows air supremacy decapitation. Iran resists because mountainous terrain hides missile bases and command. Topography determines war outcomes more than any other variable.
 - `INS-260330-3994` [high] Sri Lanka's tourism (22% of GDP) dropped 70% after a 2019 bombing and then to zero during COVID — revealing tourism-heavy economies as fragile single points of failure.
 - `INS-260405-5856` [high] When hundreds of local governments simultaneously subsidize competing firms in the same industry, the winning national champion emerges alongside massive excess capacity.
 - `INS-260412-9DEE` [high] The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
@@ -536,6 +538,7 @@
 - `INS-260410-3018` [medium] If a losing adversary calculates 'it's my last day,' they'll happily make it your last day too — which is why nuclear weapons invert the logic of decisive victory.
 - `INS-260321-21BE` [medium] Google's TPU (Tensor Processing Unit) is already competitive for AI workloads, but NVIDIA's software ecosystem moat delays competitors — the 90% monopoly era will gradually end.
 - `INS-260403-9D90` [medium] The 1973 and 1979 oil crises permanently shifted the market toward fuel-efficient Japanese cars, but Detroit reverted to SUVs in the 90s — a cycle that won't repeat because EVs are now fundamentally superior.
+- `INS-260514-59EC` [medium] Feb 2022 Russia sanctions + $200B asset freeze broke the dollar's neutrality contract. BRICS bloc with gold as medium of exchange is the structural response. Iran war is US trying to retake control of energy → preserve dollar.
 - `INS-260325-B115` [medium] Chinese citizens tolerate authoritarian governance partly because they have watched their physical world transform — highways from zero, 1,000 parks in Shanghai, cleaner air — while Americans in static cities lose optimism.
 - `INS-260330-1EAC` [medium] China's 70-year land leases and GDP-linked official promotions incentivize developers to build low-quality housing that will need rebuilding, boosting future GDP cycles.
 - `INS-260330-1183` [medium] The English Civil War prevented the crown from enforcing economic regulations like royal monopolies, accidentally creating freer markets that catalyzed industrial capitalism.

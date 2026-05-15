@@ -57,6 +57,7 @@ related:
   - INS-260403-49EC
   - INS-260403-2330
   - INS-260403-82B5
+  - INS-260514-CDCD
 ---
 The article demonstrates with concrete math that identical exit outcomes produce radically different fund multiples based on entry valuation. A GP entering at $10M post-money gets ~10% ownership (diluted to ~5%), producing a ~5x gross multiple from three strong exits. The same exits at $40M post-money entry yield only ~1.25x — a fund-killing outcome from the same deal quality. This destroys the common narrative that deal flow and company selection are the primary drivers of fund performance.
 

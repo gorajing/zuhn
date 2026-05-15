@@ -72,7 +72,7 @@ related:
   - INS-260410-49C5
   - INS-260330-27E8
   - INS-260327-540D
-  - INS-260330-760D
+  - INS-260514-D155
 ---
 In the early 1990s, Microsoft realized it needed to sell to the enterprise for the first time and had no idea how. CIOs and IT departments actively hated PCs because employees would bring them in and create chaos. Microsoft had no enterprise sales force, no relationships, no executive briefing center, no channel partners. But they had something more powerful: thousands of employees inside every Fortune 500 company were already using Excel and Word for their work, often having bought retail copies themselves. Steve Ballmer's enterprise sales motion didn't start cold — it started with 'hey, thousands of people in your organization are already using Excel; let's have a conversation about how we can make that work better.'
 

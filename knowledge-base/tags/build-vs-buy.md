@@ -10,3 +10,4 @@
 - `INS-260410-D2D1` Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260327-9192` When Arora's engineering team proposed 60 engineers and 9 months to match a browser startup, he asked: do you expect them to just hang out and wait for you to catch up?
 - `INS-260403-3291` Integration work takes operators 4x longer than experts, making the $10K outsourcing cost a clear win when operator time is the scarcest resource.
+- `INS-260514-DE49` All-in-one platforms force their workflow on you; primitive-based platforms let you build YOUR workflow. As GTM gets more specialized, primitives win. The right question isn't 'does this tool have feature X' but 'can I compose X from the primitives'.

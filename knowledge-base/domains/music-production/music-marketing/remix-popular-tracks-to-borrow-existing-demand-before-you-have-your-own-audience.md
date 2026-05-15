@@ -46,10 +46,10 @@ resolutions:
     attention is the bottleneck.
 related:
   - INS-260327-165D
+  - INS-260514-3559
   - INS-260330-CCD4
   - PRI-260322-DC5E
   - INS-260327-B387
-  - INS-260322-B392
 stance: >-
   Make remixes of trending songs in your own style to leverage existing search
   demand and get discovered before you have original fans.

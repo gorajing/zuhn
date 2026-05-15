@@ -59,7 +59,6 @@ related:
   - INS-260404-B893
   - INS-260501-2243
   - INS-260329-CEC5
-  - INS-260404-16DC
 evidence:
   - id: INS-260326-3F06
     type: TRANSFERS_TO

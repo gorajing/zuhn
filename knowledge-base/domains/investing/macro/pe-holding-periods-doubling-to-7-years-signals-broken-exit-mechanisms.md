@@ -66,7 +66,7 @@ related:
   - PRI-260406-0A0B
   - PRI-260406-6287
   - INS-260403-B8A3
-  - PRI-260406-6895
+  - INS-260514-63B2
 ---
 Dimon highlights a striking structural shift in capital markets: private equity investments are now held for an average of seven years, 'virtually double what it used to be.' Close to 13,000 PE-backed companies have not gone public. When exits do happen, companies are 'sold, not to another company or taken public, but put in a new fund called a continuation fund.' This is essentially recycling assets within the PE ecosystem rather than returning capital through genuine exits.
 

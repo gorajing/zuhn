@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260320-DC3C
   - INS-260329-917B
+  - INS-260514-5389
   - INS-260327-91C7
   - INS-260403-F400
-  - INS-260321-E2FC
 ---
 The article distinguishes between platform-specific configuration (ChatGPT's personality dropdown, custom instructions field) and a portable master prompt that can be uploaded to any AI system. The portable approach is more resilient because AI interfaces change frequently — the May setup broke when the October interface shipped — but your identity, working style, and client context remain stable.
 

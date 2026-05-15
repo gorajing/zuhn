@@ -66,6 +66,7 @@ related:
   - PRI-260328-6A8D
   - INS-260501-2322
   - INS-260403-6F8B
+  - INS-260514-63B2
 ---
 At TI, Morris Chang fought every year to raise R&D from 4.8% to 5.5% of revenue and was denied every time. When he returned as TSMC CEO in 2009, he simply set R&D at 8% of revenue regardless of recession, eliminating the annual bargaining ritual between the R&D director and the CEO. The head of R&D later told him this was the single best thing the company ever did for R&D.
 

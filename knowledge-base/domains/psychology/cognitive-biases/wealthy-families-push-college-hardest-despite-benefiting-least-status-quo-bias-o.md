@@ -55,10 +55,10 @@ stance: >-
   bias and social signaling.
 related:
   - INS-260329-3C67
+  - INS-260514-3223
   - INS-260329-4B99
   - INS-260328-68BA
   - INS-260403-62AF
-  - INS-260329-047C
 evidence:
   - id: INS-260320-70FA
     type: TRANSFERS_TO

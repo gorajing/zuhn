@@ -57,7 +57,7 @@ related:
   - INS-260320-D4BD
   - INS-260330-A1D2
   - INS-260330-CA43
-  - INS-260322-C0D3
   - INS-260501-17BB
+  - INS-260514-AE82
 ---
 The 2024 framing of agent autonomy was that agents could run for minutes to hours under supervision. The 2026 reality, demonstrated by an unnamed OpenAI systems engineer's overnight experience, is that agents can absorb a complete design document and execute the entire implementation-instrumentation-profile-optimize cycle without supervision. The leverage implication is dramatic: a senior engineer who develops the discipline of writing design documents at end-of-day and reviewing implementations at start-of-day operates with effectively 16 hours of engineering capacity per calendar day, with the engineer's contribution concentrated in the high-judgment design and review phases. This is structurally different from the prior leverage pattern (10x engineer through code velocity); the new pattern is leverage through design quality and review attention. Engineers who develop this discipline early in 2026 will outperform peers who wait for the discipline to be normalized. The skill stack that matters: design document writing, structured spec authorship, review depth, profile interpretation. Coding speed itself becomes near-irrelevant to per-day output.

@@ -1,6 +1,6 @@
 # Topic: foundation-models
 
-> 12 insights
+> 13 insights
 
 - `INS-260501-CF7D` [high] Frontier capability today shows up in tiny edge models within a year — and we don't know where the ceiling is yet.
 - `INS-260410-022B` [high] Amodei's 2017 'Big Blob of Compute' hypothesis still holds: scaling is bottlenecked by compute, data, objective function, and numerical stability — not by clever methods.
@@ -12,5 +12,6 @@
 - `INS-260405-1C8D` [medium] Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
 - `INS-260505-5DC4` [medium] Train on the universal substrate (DNA), get understanding of the things it encodes (proteins, RNA) for free.
 - `INS-260405-82F3` [medium] Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means.
+- `INS-260514-7B06` [medium] AI 2027 formalizes intelligence explosion via R&D progress multiplier: starts ~5x (months of pre-AI progress per current-month with AI help), compounds to 10x and 100x as recursive self-improvement kicks in.
 - `INS-260410-7292` [medium] Reasoning models solve hard problems by brute-forcing a vast internal library, not by creative recombination—and this distinction predicts where they'll break.
 - `INS-260410-7AF5` [medium] Unlike humans, AI copies can pool their on-the-job learning — so one AI effectively learns every job in the economy simultaneously once online learning works.

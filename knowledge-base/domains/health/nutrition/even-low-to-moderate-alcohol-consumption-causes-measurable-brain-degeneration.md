@@ -50,11 +50,12 @@ stance: >-
   belief that moderate drinking is harmless to the brain.
 related:
   - PRI-260406-D0E1
+  - INS-260514-0A9A
   - INS-260403-3CFB
   - INS-260330-4D8B
   - INS-260403-9757
-  - INS-260412-5A41
   - INS-260330-81B1
+  - INS-260412-5A41
 evidence:
   - id: INS-260403-3CFB
     type: SUPPORTS

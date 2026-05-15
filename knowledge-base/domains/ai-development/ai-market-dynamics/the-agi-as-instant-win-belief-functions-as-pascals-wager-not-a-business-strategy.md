@@ -52,10 +52,10 @@ stance: >-
   and companies banking on it are strategically vulnerable.
 related:
   - INS-260403-82CC
+  - INS-260514-CBAB
   - INS-260323-7D01
   - INS-260403-2385
   - INS-260330-DB4B
-  - INS-260329-A80B
 ---
 Smith identifies a specific and dangerous belief among some OpenAI insiders: that being first to AGI — even by a single day — would make all business fundamentals irrelevant because the resulting superintelligence would either destroy competitors or tell OpenAI how to win permanently. He labels this 'Pascal's Wager' because it requires believing in a very narrow eschatology about sudden capability jumps, autonomous action, and winner-take-all outcomes.
 

@@ -1,5 +1,6 @@
 # Tag: peer-effects
 
+- `INS-260514-3223` College is for the network, not the education. The friends you make there become your future hires, co-founders, investors, customers over 30 years. Post-college you'll work 10x as hard for half the network density.
 - `INS-260403-F322` Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
 - `INS-260403-0525` Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 - `INS-260403-BDE0` Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.

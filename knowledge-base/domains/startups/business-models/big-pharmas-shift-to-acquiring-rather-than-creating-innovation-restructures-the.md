@@ -57,7 +57,6 @@ related:
   - PRI-260406-CB40
   - INS-260403-D98E
   - INS-260403-8448
-  - INS-260403-B255
 evidence:
   - id: INS-260403-D98E
     type: SUPPORTS

@@ -63,5 +63,6 @@ related:
   - INS-260412-FD56
   - PRI-260406-F21A
   - INS-260405-8080
+  - INS-260514-026B
 ---
 The dominant ICP narrative for AI builder tools (Replit, lovable, base 44, etc.) has been product teams: founders, designers, product managers ideating new features. Replit's operational data shows a parallel ICP that's underrecognized: operations teams. Ops teams sit at the nexus of cross-system data flow, run dozens of SaaS subscriptions they aren't satisfied with, maintain large Excel sheets and manual workflows, and have direct authority over discretionary tool budgets. When ops teams use Replit, the ROI is equal to or greater than product teams because they're replacing both SaaS line items ($10k+) and headcount work ($200k+) simultaneously. The strategic implication for AI-builder platforms: the GTM motion that treats product as the only ICP misses 30-50% of the realizable demand. Specifically, sales operations (deal desk automation, configurator tools), customer success (support automation), and finance operations (reporting, reconciliation) are all currently underserved by AI tools. Founders building AI-builder platforms should add an ops-focused track to their GTM — the ROI math is more concrete and the buyer cycle is shorter than for product team adoption.

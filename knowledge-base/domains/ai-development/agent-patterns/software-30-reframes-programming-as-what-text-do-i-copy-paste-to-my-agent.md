@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260406-1AC6
   - INS-260410-85AD
+  - INS-260514-5914
   - INS-260320-DCA0
   - INS-260327-7F56
-  - INS-260410-CD79
 ---
 Karpathy's Software 1.0/2.0/3.0 framing: 1.0 is explicit code, 2.0 is learned weights from training, 3.0 is prompting an LLM-as-programmable-computer. The canonical example is OpenClaw installation: the 1.0 version is a shell script that ballons up trying to handle every platform; the 3.0 version is a piece of text you copy-paste to your agent, which then handles environment detection, debugging in the loop, and intelligent setup.
 

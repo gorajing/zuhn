@@ -62,10 +62,10 @@ stance: >-
   human acting as orchestrator-and-merger rather than implementer.
 related:
   - INS-260323-2E51
+  - INS-260514-2E48
   - INS-260330-7E4F
   - INS-260410-E590
   - INS-260403-08D7
-  - INS-260501-814C
 ---
 Tan's actual workflow: every idea, bug report, or X complaint becomes a new work-tree spawned by clicking a + in Conductor. Each session runs office hours → plan-CEO-engineering-design-DX-review → adversarial review → implementation → code review → ship. The human role is orchestration: clicking through reviews, approving plans, evaluating PRs in waves, watching for supply-chain attacks. Tan ships 10-50 PRs a day depending on meeting density.
 

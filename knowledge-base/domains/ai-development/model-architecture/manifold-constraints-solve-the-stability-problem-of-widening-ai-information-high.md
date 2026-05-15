@@ -58,6 +58,7 @@ related:
   - INS-260410-BB93
   - INS-260409-BA55
   - INS-260410-5033
+  - INS-260514-0101
 ---
 For a decade, transformer architectures have passed information between layers via a single residual stream — a narrow express lane that limits how much context can be preserved and combined across depth. Attempts to widen this channel historically caused instability because unrestricted mixing amplifies noise exponentially. DeepSeek's Manifold-Constrained Hyper-Connections (mHC) solve this by enforcing that each layer can only rearrange information, not amplify it — a mathematical guardrail that keeps the multi-lane highway from becoming chaotic.
 

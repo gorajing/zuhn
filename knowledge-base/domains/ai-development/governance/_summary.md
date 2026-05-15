@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 28 insights
+> 32 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` [high] AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
@@ -9,6 +9,7 @@
 - `INS-260409-647D` [high] AI labs bankroll most AI scientists and fire the ones who produce critical findings — producing the same epistemic distortion fossil fuel funding creates in climate science.
 - `INS-260410-59F4` [high] Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
 - `INS-260410-991B` [high] China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
+- `INS-260514-6576` [high] Open-source devs contributed to GitHub; Microsoft bought GitHub; trained Copilot on the open-source code; sold the result as a closed subscription.
 - `INS-260413-E2C4` [high] FDA authorized 258 AI medical devices in 2025 — the vast majority through pathways that rely on existing safety/efficacy evidence — with only 2.4% backed by randomized trial data.
 - `INS-260413-4EB1` [high] The Foundation Model Transparency Index went 37→58 from 2023-2024 then dropped to 40 in 2025 — the first major regression in disclosure since the index began tracking.
 - `INS-260413-B7A7` [high] US congressional AI witnesses grew from 5 in 2017 to 102 in 2025 (20x), and industry's share nearly tripled from 13% to 37% to become the largest witness group — academia's share fell to 15%.
@@ -19,6 +20,9 @@
 - `INS-260413-7C61` [high] 2025 saw US federal policy shift to deregulation (Jan 23 EO, Jul 23 AI Action Plan, Dec 12 EO curbing state laws) while Texas TRAIGA, California SB 53, Montana Right to Compute, and Utah HB 452 passed substantive state AI laws.
 - `INS-260413-CDE2` [high] Across all 50 US states, concern about too-little AI regulation outweighs concern about too-much — 41% say federal AI regulation will not go far enough vs 27% saying it will go too far, though more than one-third are unsure.
 - `INS-260412-C3AB` [medium] Training AI detectors on fake videos creates a feedback loop where detection signals become training data for better fakes, structurally favoring attackers.
+- `INS-260514-F565` [medium] AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
+- `INS-260514-7B11` [medium] AI surveillance state = digital ID (identity-tied interactions) + digital currency (programmable transactions). China has it. Western democracies converging under different framing. Behavioral classification → predictive control → granular incentive engineering at population scale.
+- `INS-260514-83C0` [medium] The 'why would AI copies unify' objection fails: conquistadors took Mexico and Peru while fighting each other in civil wars. AI takeover doesn't require unanimity, just capability advantage AND distinguishable identity from humans.
 - `INS-260405-A23B` [medium] Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260410-230E` [medium] Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
 - `INS-260501-B53D` [medium] The vocabulary of AI safety regulation is the toolkit a wannabe despot needs — vague terms become whatever the government wants them to mean.

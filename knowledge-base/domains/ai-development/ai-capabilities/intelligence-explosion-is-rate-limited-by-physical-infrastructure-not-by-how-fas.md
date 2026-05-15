@@ -64,9 +64,9 @@ stance: >-
 related:
   - INS-260328-F05E
   - INS-260403-CF0E
+  - INS-260514-2705
   - PRI-260328-4810
   - INS-260330-38C9
-  - INS-260403-C5BD
 ---
 Zuckerberg pushes back on the software-only singularity view with a concrete list of bottlenecks: building a gigawatt cluster takes years, NVIDIA needs time to stabilize each new system generation, networking has to be designed, buildings permitted, energy procured (gas turbines or green), and the whole supply chain of transformers, cooling, and interconnect coordinated. Even inside Meta, he gives a lived example: their ads-ranking experiment automation was already bottlenecked by compute and by the number of user cohorts available for statistically-significant tests — AI can generate more hypotheses, but Meta can't run them faster.
 

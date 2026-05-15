@@ -50,12 +50,12 @@ stance: >-
   distribution: audience retention percentage, making the first 3 seconds more
   important than the remaining 90% of any video.
 related:
-  - INS-260321-38EC
   - INS-260320-A467
   - INS-260327-6D77
+  - INS-260514-18AF
+  - INS-260321-38EC
   - INS-260327-EBDF
   - INS-260329-D212
-  - INS-260323-8AA1
 evidence:
   - id: INS-260327-6D77
     type: TRANSFERS_TO

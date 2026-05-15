@@ -57,7 +57,7 @@ related:
   - INS-260413-539D
   - INS-260409-BBBA
   - INS-260404-C147
-  - INS-260413-BD80
+  - INS-260514-93E1
 ---
 Stanford talk introducing Terminal-Bench Science: when Terminal-Bench (general software engineering benchmark) emerged, it became the standard scoring protocol — every model release reports it. Best-model performance went from ~20% in March 2025 to ~80% in May 2026. The benchmark itself is the forcing function. Terminal-Bench Science aims to replicate this for science: 100 tasks across biology, physics, chemistry, math, all from domain experts. Three criteria: signed-off by experts, objective verifiability, genuinely difficult. Excludes ambiguous open-ended tasks (literature reviews) and trivial tasks. Goal: scientists shape AI progress on problems they care about, frontier labs improve scientific capabilities by competing on the benchmark.
 

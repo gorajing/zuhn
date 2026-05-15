@@ -46,7 +46,6 @@ stance: >-
 related:
   - INS-260328-4EA0
   - INS-260330-D644
-  - INS-260330-A954
   - INS-260330-376E
   - INS-260403-F4E7
   - PRI-260406-7F84
@@ -54,6 +53,7 @@ related:
   - INS-260403-6713
   - INS-260403-BA6A
   - INS-260405-D2E2
+  - INS-260409-FABA
 evidence:
   - id: INS-260330-D644
     type: SUPPORTS

@@ -54,9 +54,9 @@ related:
   - INS-260409-DBCF
   - PRI-260412-96C1
   - INS-260412-644F
+  - INS-260514-5E7C
   - PRI-260323-6644
   - PRI-260323-CE34
-  - INS-260330-2E54
 ---
 For decades, physicists debated two endpoints: information is destroyed (requiring new physics) or information is hidden (technically preserved but inaccessible). The breakthrough came from a third path — examining the intermediate process. Black holes store information on their event horizon surface during their lifetime, and Hawking radiation can carry it away. The paradox was never about the endpoints; it was about the process.
 

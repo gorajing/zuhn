@@ -56,7 +56,6 @@ related:
   - INS-260325-07FA
   - INS-260325-39FD
   - INS-260325-90C6
-  - INS-260404-1E65
   - INS-260403-70F0
 ---
 Neuralink aims for 10,000 implants per year by 2030 at $40,000-$50,000 per patient. Even hitting these targets — which requires solving surgical automation, long-term thread reliability, and regulatory scaling — means only tens of thousands of people would have BCIs by the early 2030s. Meanwhile, AI capabilities are advancing on monthly timescales accessible to billions. This suggests a practical strategic conclusion: for the foreseeable future, software-mediated AI tools (copilots, agents, natural language interfaces) will be the primary way humans keep pace with AI, not direct neural interfaces. BCIs will transform individual lives (especially for disability) but won't be the mechanism that maintains human competitive relevance at population scale. The race between BCI bandwidth and AI capability heavily favors AI.

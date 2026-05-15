@@ -47,7 +47,6 @@ stance: >-
   of working around flaws is lower than the cost of replacing them, even when
   the flaws are severe
 related:
-  - INS-260330-23CD
   - INS-260402-5242
   - INS-260330-53A9
   - INS-260404-CC7C

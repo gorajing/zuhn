@@ -57,6 +57,7 @@ related:
   - INS-260330-D432
   - INS-260403-96FA
   - INS-260403-DFBD
+  - INS-260514-519F
 stance: 'Netanyahu identifies the core AI leadership challenge: most people'
 evidence:
   - id: INS-260330-D432

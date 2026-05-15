@@ -1,0 +1,3 @@
+# Tag: logan-paul-wwe
+
+- `INS-260514-519F` Pattern of people who accumulate disproportionate impact 29-35: they ATTACH TO LARGE INSTITUTIONS rather than build from scratch. Logan Paul + WWE, The Rock + WWE earlier. Find storied institutions with weak current leadership where you can become the leadership.

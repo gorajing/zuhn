@@ -53,7 +53,6 @@ stance: >-
   during periods of monetary tightening — not loose money — is what produces
   trillion-dollar companies like Apple, Microsoft, Google, and Amazon.
 related:
-  - INS-260323-6230
   - INS-260327-12BE
   - INS-260330-EF74
   - INS-260403-6279

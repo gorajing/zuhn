@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260323-2DF2
   - INS-260325-2C31
+  - INS-260514-13B6
   - INS-260403-34C0
+  - INS-260514-7B06
   - INS-260403-A1DF
-  - INS-260324-62A8
-  - PRI-260406-BD4D
 ---
 Tamay Besiroglu argues that the intelligence explosion frame is misleading because the Industrial Revolution wasn't primarily about raw horsepower—it was about simultaneous innovations in agriculture, transportation, law, finance, and urbanization. Similarly, getting very smart AI systems is only one moving part among many needed for broad economic transformation.
 

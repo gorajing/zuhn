@@ -54,11 +54,11 @@ stance: >-
   change — shrinking the measurement interval toward zero — is the fundamental
   technique for extracting precise truths from imprecise measurements.
 related:
+  - INS-260514-5698
   - PRI-260405-6867
   - INS-260409-BF3F
   - INS-260330-FF5B
   - INS-260323-433B
-  - INS-260505-D440
 evidence:
   - id: INS-260330-FF5B
     type: EXTENDS

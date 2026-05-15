@@ -55,7 +55,6 @@ stance: >-
   disconnected from the actual data source (customers) that drives competitive
   advantage.
 related:
-  - INS-260327-2EFD
   - PRI-260406-0087
   - INS-260330-F527
   - INS-260323-1D15

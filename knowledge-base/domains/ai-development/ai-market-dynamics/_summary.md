@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 172 insights
+> 173 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -103,6 +103,7 @@
 - `INS-260421-BD7F` [high] At AI Agents SF #12 all 5 memory vendors competed on retrieval sophistication; the words 'compression,' 'principle,' 'doctrine,' and 'retirement' did not appear once in 1h 42m.
 - `INS-260323-197A` [high] The winning AI skill isn't prompting — it's architectural thinking: define the outcome, get AI to interview you about constraints, then have AI write its own implementation plan.
 - `INS-260327-DFF1` [high] BPO spend in banking, financial services, and insurance alone is nearly $400B annually — about the same as all global cloud software — and AI agents can transform this from 10-15% margin services to 80% margin businesses.
+- `INS-260514-B4A2` [high] Copilot: from 'some number of actions per month' to 'this many tokens per month' — the cheap-AI era is over.
 - `INS-260327-40DA` [high] Despite rapid benchmark progress, the gap between solving hour-long competition problems and month-long research problems remains a 1000x scaling challenge.
 - `INS-260323-216A` [high] Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
 - `INS-260321-015B` [high] Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.

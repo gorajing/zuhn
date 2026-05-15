@@ -51,7 +51,7 @@ related:
   - INS-260403-368A
   - PRI-260323-6644
   - INS-260325-CC49
+  - INS-260514-5E7C
   - INS-260325-415A
-  - INS-260325-C7FA
 ---
 The video notes that even opening a single wormhole 'kind of breaks the universe in fundamental ways,' creating time travel paradoxes and violating causal structure. Many scientists interpret this not as an exciting feature but as a reductio ad absurdum — proof that traversable wormholes are impossible. This reasoning pattern is valuable beyond physics: when a business model only works by violating regulatory frameworks, or an AI system only achieves its benchmarks by exploiting data leakage, the violation isn't a feature to celebrate but a signal that the approach is fundamentally flawed. Distinguishing 'breaks constraints because it's revolutionary' from 'breaks constraints because it's impossible' is one of the hardest judgment calls in any domain.

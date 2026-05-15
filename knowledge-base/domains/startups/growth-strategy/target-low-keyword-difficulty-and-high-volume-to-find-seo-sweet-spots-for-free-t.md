@@ -47,7 +47,7 @@ related:
   - INS-260404-C6EB
   - INS-260320-9937
   - INS-260403-8EF3
-  - INS-260329-9F8D
+  - INS-260514-8413
 stance: >-
   Filter for keywords under 10 difficulty with 1000+ monthly volume to find
   rankable free tool opportunities.

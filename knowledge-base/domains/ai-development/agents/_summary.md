@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 21 insights
+> 23 insights
 
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260410-F0EF` [high] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
@@ -14,10 +14,12 @@
 - `INS-260410-B3C2` [high] pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260405-CC9D` [high] Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260410-E3BB` [high] A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
+- `INS-260514-EE2E` [high] Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260410-AF66` [high] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260410-376A` [high] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260410-83EC` [high] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260405-F26B` [medium] ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
+- `INS-260514-1D60` [medium] Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
 - `INS-260423-85B3` [medium] Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
 - `INS-260413-11C9` [medium] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.

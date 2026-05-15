@@ -63,7 +63,7 @@ related:
   - INS-260330-6D3B
   - INS-260403-3F2C
   - INS-260327-80A8
-  - INS-260405-B967
+  - INS-260514-D89B
 ---
 At 4-6 stores Starbucks was already receiving mail orders from across the US because tourists visiting the Pike Place Market were shipping beans back to every major city. Schultz noticed 'the equity of the brand was much larger than the size of the business' and treated that mismatch as permission — and pressure — to expand well beyond Portland Oregon (which was the founders' actual plan).
 

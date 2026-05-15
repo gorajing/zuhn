@@ -60,7 +60,7 @@ related:
   - INS-260330-2B45
   - INS-260404-A6D4
   - PRI-260405-0AC6
-  - INS-260330-1E5E
+  - INS-260514-F073
 ---
 A subtle but important pattern: Hume explicitly credits Claude with making the redesign feasible at all. 'I realized Claude could help me implement whatever I designed quickly, which motivated me to try developing a harder take-home.' He then used Claude as the adversary—iterating on problem design until Claude (including 'ultrathink' modes with longer thinking budgets) couldn't solve it, while his colleagues still could.
 

@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-06 | 2588 sources
+Generated on 2026-05-15 | 2631 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -267,21 +267,30 @@ Generated on 2026-05-06 | 2588 sources
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | [1hr Talk] Intro to Large Language Models | youtube | 6 | 2026-04-10 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
+| AI Agents vs Skills vs Automations: What Every Bench Scientist Needs to Know | youtube | 6 | 2026-05-14 |
+| 스탠포드 경제학자가 말하는 AI 시대 생존법 | 스탠포드 경제학자, 바라트 찬다르 | youtube | 6 | 2026-05-14 |
 | Amazon.com | youtube | 6 | 2026-04-11 |
 | Andrej Karpathy — “We’re summoning ghosts, not building animals” | youtube | 6 | 2026-04-10 |
 | Anthropic Raises $45B but Falls Short on Compute & Thoma Bravo Hand Back Medallia Keys to Creditors | youtube | 6 | 2026-05-02 |
 | Box CEO: Why Big Companies Are Falling Behind on AI | a16z | youtube | 6 | 2026-05-02 |
 | Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487 | youtube | 6 | 2026-03-24 |
+| Episode: 41 - Sonia Timberlake on Agentic AI for Biotech Coders | youtube | 6 | 2026-05-14 |
+| GTM Engineering secrets | Clay.com, Make.com vs. n8n, CRMs, and scalable systems | youtube | 6 | 2026-05-14 |
+| GTM Engineering with Clay’s First GTM Engineer with Yash Tekriwal | youtube | 6 | 2026-05-14 |
+| Harness Engineering: How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI | youtube | 6 | 2026-05-14 |
 | How to Build a Magnetic Brand that Sells Itself ft. Seth Godin | youtube | 6 | 2026-03-27 |
 | How To Get Better Advice | youtube | 6 | 2026-03-29 |
 | How to Sell Better than 99% Of People (4 HOUR ULTIMATE GUIDE) | youtube | 6 | 2026-03-30 |
+| I Automate 80% of GTM (The 20% I'll NEVER Automate Made Me $100Ks) | youtube | 6 | 2026-05-14 |
 | Is My Startup Growing Fast Enough? | youtube | 6 | 2026-03-29 |
 | Jonathan Rivnay is building a "living pharmacy" to dispense personalized medicine | youtube | 6 | 2026-04-09 |
 | Lee Cronin: Controversial Nature Paper on Evolution of Life and Universe | Lex Fridman Podcast #404 | youtube | 6 | 2026-03-24 |
+| Lucy Guo On How She Became The World's Youngest Self Made Woman Billionaire | youtube | 6 | 2026-05-14 |
 | Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast #373 | youtube | 6 | 2026-03-24 |
 | Marketing GENIUS: The Strategy Behind Content That Reaches Millions | youtube | 6 | 2026-03-27 |
 | Microsoft Volume I: The Complete History and Strategy of founding through Windows 95 (Audio) | youtube | 6 | 2026-04-11 |
 | Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast #380 | youtube | 6 | 2026-03-24 |
+| Pi.dev explained by its creators | AI Agents Under the Hood | youtube | 6 | 2026-05-14 |
 | Process vs Chaos In Startups | youtube | 6 | 2026-03-29 |
 | Qualcomm | youtube | 6 | 2026-04-11 |
 | Recursion Is The Next Scaling Law In AI | youtube | 6 | 2026-05-02 |
@@ -296,9 +305,11 @@ Generated on 2026-05-06 | 2588 sources
 | The Extinction of GoPro | youtube | 6 | 2026-03-24 |
 | The Future of U.S. AI Leadership with CEO of Anthropic Dario Amodei | youtube | 6 | 2026-03-27 |
 | The greatest revolution in the history of medicine | Andrew Steele | youtube | 6 | 2026-03-25 |
+| The insane engineering of Deepseek V4 | youtube | 6 | 2026-05-14 |
 | The investment traps that destroy wealth and how to avoid them with Barry Ritholtz | Full Interview | youtube | 6 | 2026-03-25 |
 | The science of delivering cures straight to your cells | Eric Kelsic | youtube | 6 | 2026-03-25 |
 | The science of romantic love, explained by an anthropologist | Helen Fisher | youtube | 6 | 2026-03-25 |
+| “There Is No Task Agents Cannot Do” - Magnus Müller | youtube | 6 | 2026-05-14 |
 | They Are Poisoning Americans (And Getting Away With It) | youtube | 6 | 2026-03-26 |
 | Why BuzzFeed & VICE Went Extinct | youtube | 6 | 2026-03-24 |
 | Why fearlessness beats experience every time | Steve Stoute for Big Think+ | youtube | 6 | 2026-03-25 |
@@ -718,6 +729,7 @@ Generated on 2026-05-06 | 2588 sources
 | 10 Programmer Stereotypes | youtube | 5 | 2026-03-30 |
 | 10 Years of Acquired (with Michael Lewis) | youtube | 5 | 2026-04-11 |
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
+| $100M in Pipeline in 3 Months to Automating the Entire GTM Stack With AI Agents | youtube | 5 | 2026-05-14 |
 | 13 Years of Marketing Advice in 85 Mins | youtube | 5 | 2026-03-30 |
 | 13 Years of No BS Business Advice in 79 Mins | youtube | 5 | 2026-03-30 |
 | 20th Century's Most Lethal Leader – Sarah Paine (Lecture Excerpt) | youtube | 5 | 2026-04-10 |
@@ -741,6 +753,7 @@ Generated on 2026-05-06 | 2588 sources
 | Amazon Web Services | youtube | 5 | 2026-04-11 |
 | An Insurrection of Lies (Episode #230) | youtube | 5 | 2026-03-30 |
 | Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning | BUILD 2024 Keynote | youtube | 5 | 2026-03-27 |
+| Anthropic Buys Compute From Elon & Commits $200BN to Google | Cerebras IPO | Ramp Raises at $40BN | youtube | 5 | 2026-05-14 |
 | Are We Alone in the Universe?: A Conversation with Neil deGrasse Tyson (Episode #252) | youtube | 5 | 2026-03-30 |
 | Artificial meat is harder than artificial intelligence — Lewis Bollard | youtube | 5 | 2026-04-10 |
 | Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next | youtube | 5 | 2026-03-22 |
@@ -771,7 +784,9 @@ Generated on 2026-05-06 | 2588 sources
 | China's Economy is in Bad Shape | youtube | 5 | 2026-04-12 |
 | China's Geography Problem | youtube | 5 | 2026-04-12 |
 | Christianity from Judaism to Constantine: Crash Course World History #11 | youtube | 5 | 2026-03-30 |
+| Cliff Weitzman: What I Learned from 100 of the World’s Top CEOs & Why Tokens Will Outspend Salaries | youtube | 5 | 2026-05-14 |
 | Coca-Cola: The Complete History & Strategy | youtube | 5 | 2026-04-11 |
+| Codex 마스터 클래스 라이브 | 하네스 설계부터 서비스 배포까지 (라이브 마지막에는 작은 이벤트도 준비했습니다) | youtube | 5 | 2026-05-14 |
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
@@ -797,8 +812,10 @@ Generated on 2026-05-06 | 2588 sources
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
 | Ex-Apple CEO Starts His Own Phone Company! | youtube | 5 | 2026-04-12 |
+| Ex-Tudor Quant PM: “There Hasn't Been a New Idea in Trading for 15 Years” | youtube | 5 | 2026-05-14 |
 | 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 5 | 2026-04-12 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
+| FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496 | youtube | 5 | 2026-05-14 |
 | Formula 1 (Audio) | youtube | 5 | 2026-04-11 |
 | From $0 to $11B: The ElevenLabs Story | youtube | 5 | 2026-03-22 |
 | From Idea to $650M Exit: Lessons in Building AI Startups | youtube | 5 | 2026-03-27 |
@@ -863,7 +880,9 @@ Generated on 2026-05-06 | 2588 sources
 | How We Built The #1 Best Selling Probiotic On Amazon (in 2.5 Years) | youtube | 5 | 2026-03-22 |
 | How We Scaled Kimi K2.5 | Zhilin Yang's full GTC 2026 Keynote | youtube | 5 | 2026-03-27 |
 | How WhatsApp Makes Money: The INSANE Story of WhatsApp | youtube | 5 | 2026-03-30 |
+| I Built an AI System That Runs My Entire Research Lab | youtube | 5 | 2026-05-14 |
 | I built the same app 10 times // Which JS Framework is best? | youtube | 5 | 2026-03-30 |
+| I was laid off by Atlassian | youtube | 5 | 2026-05-14 |
 | If I Wanted to Become a Millionaire In 2024, This is What I'd Do [FULL BLUEPRINT] | youtube | 5 | 2026-03-30 |
 | If I Wanted To Become a Millionaire in 2026, This Is What I'd Do [FULL BLUEPRINT] | youtube | 5 | 2026-03-30 |
 | If you want 2026 to be the best year of your life. Please watch this video… | youtube | 5 | 2026-03-30 |
@@ -934,6 +953,7 @@ Generated on 2026-05-06 | 2588 sources
 | 도서관에 박혀 공부만 하는 천재들은 '이것'이 없어서 대체됩니다ㅣ카네기멜론 Po-Shen Loh 교수 | youtube | 5 | 2026-03-22 |
 | Ponzi: The Financial Idiot Who Scammed the World | youtube | 5 | 2026-03-30 |
 | Porsche (with Doug DeMuro) | youtube | 5 | 2026-04-11 |
+| Psychedelics Don't Distort Reality — They Reveal How Your Brain Constructs It | youtube | 5 | 2026-05-14 |
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
 | Reddit vs Wallstreet - GameStop, The Movie | youtube | 5 | 2026-04-12 |
 | Renaissance Technologies (Audio) | youtube | 5 | 2026-04-11 |
@@ -962,7 +982,9 @@ Generated on 2026-05-06 | 2588 sources
 | Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 5 | 2026-04-10 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
 | Sessions: David Senra (Founders Podcast) | youtube | 5 | 2026-04-11 |
+| Shopify CEO on How AI is a Scapegoat for Mass Layoffs & Trump Derangement Syndrome in Canada | youtube | 5 | 2026-05-14 |
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
+| 진짜 합리적인 의사결정법은 따로 있습니다 | Sola, Jessica Wu | youtube | 5 | 2026-05-14 |
 | Solving Wordle using information theory | youtube | 5 | 2026-03-30 |
 | Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
 | Something Strange Happens When You Follow Einstein's Math | youtube | 5 | 2026-03-30 |
@@ -1005,6 +1027,7 @@ Generated on 2026-05-06 | 2588 sources
 | The Man Who Robbed An Entire Country | youtube | 5 | 2026-03-30 |
 | The Mark Zuckerberg Interview | youtube | 5 | 2026-04-11 |
 | The Modern Middle East, Explained | youtube | 5 | 2026-03-27 |
+| The Mom Who Mastered Claude: How To Build An Audience That Buys Using Claude Code (Step by Step!) | youtube | 5 | 2026-05-14 |
 | The Most Illegal Business In The World: Silk Road | youtube | 5 | 2026-03-30 |
 | The most important question nobody's asking about AI. | youtube | 5 | 2026-05-02 |
 | The Most Valuable Airspace in the World | youtube | 5 | 2026-04-12 |
@@ -1046,6 +1069,7 @@ Generated on 2026-05-06 | 2588 sources
 | Uber CEO Dara Khosrowshahi | youtube | 5 | 2026-04-11 |
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
 | US Banking Crisis: The Truth Behind The Disaster | youtube | 5 | 2026-04-12 |
+| Viral Brand Expert: The Content Strategy Nobody Is Talking About | youtube | 5 | 2026-05-14 |
 | Visa (Audio) | youtube | 5 | 2026-04-11 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
 | Walmart | youtube | 5 | 2026-04-11 |
@@ -1078,6 +1102,7 @@ Generated on 2026-05-06 | 2588 sources
 | Why you should see the world like a large language model | Dan Shipper: Full Interview | youtube | 5 | 2026-03-25 |
 | William Ackman: Everything You Need to Know About Finance and Investing in Under an Hour | Big Think | youtube | 5 | 2026-03-30 |
 | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih | youtube | 5 | 2026-04-10 |
+| Yann LeCun's $1B Bet Against LLMs | youtube | 5 | 2026-05-14 |
 | Your Legs Are Failing First — Here’s Why | youtube | 5 | 2026-03-26 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
@@ -1487,6 +1512,7 @@ Generated on 2026-05-06 | 2588 sources
 | 서울대 의대 출신 창업가가 6년 삽질하고 깨달은 사업의 원리 | 모두닥 다큐멘터리 | youtube | 4 | 2026-03-23 |
 | A Guided Tour of Musical Feeling | youtube | 4 | 2026-03-22 |
 | Actionable Ikigai: Career Planning in the age of AI | youtube | 4 | 2026-03-27 |
+| AI agents: The scientist's new superpower | Stefan Harrer | TEDxSydney Salon | youtube | 4 | 2026-05-14 |
 | AI Bubble: Nobody will pay for unsubsidised AI | Ed Zitron | youtube | 4 | 2026-03-23 |
 | AI hype is ‘grifting’ the SaaS industry | Ed Zitron | youtube | 4 | 2026-03-23 |
 | AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
@@ -1495,7 +1521,6 @@ Generated on 2026-05-06 | 2588 sources
 | 하버드에서 가르치는 AI Native 강의 18분 요약 | HBS 렘 코닝 교수 | youtube | 4 | 2026-03-23 |
 | AI Overlords Are Engineering a Broke Society ft. Ed Zitron | youtube | 4 | 2026-03-23 |
 | AI Revolution: Inside Anthropic with CRO Kate Jensen | S1 E6 | youtube | 4 | 2026-03-27 |
-| 지금 당신은 원하던 삶을 살고 있나요? 나답게 살기 위한 실리콘밸리 리더의 도전 이야기 | 퓨리오사AI 크리스 채 | youtube | 4 | 2026-03-22 |
 | Andrew Bustamante: CIA Spy | Lex Fridman Podcast #310 | youtube | 4 | 2026-03-30 |
 | Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity | youtube | 4 | 2026-03-22 |
 | Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love | Lex Fridman Podcast #393 | youtube | 4 | 2026-03-24 |
@@ -1540,15 +1565,20 @@ Generated on 2026-05-06 | 2588 sources
 | Every State in the US | youtube | 4 | 2026-04-12 |
 | Exploring the Dark Web | youtube | 4 | 2026-04-12 |
 | Fireside Chat #15: Making Large Language Models Uncool Again | youtube | 4 | 2026-03-28 |
+| Former EPIC Records Exec REVEALS What AI Means for Artists! | youtube | 4 | 2026-05-14 |
 | From Dot-Com Bust to AI Boom: What I Learned the Hard Way (So You Don't Have To) | Bruce Wang | youtube | 4 | 2026-03-26 |
+| Game Theory #24:  The AI Apocalypse | youtube | 4 | 2026-05-14 |
 | Gary Marcus on the Massive Problems Facing AI & LLM Scaling | The Real Eisman Playbook Episode 42 | youtube | 4 | 2026-03-23 |
 | Genetic Engineering Will Change Everything Forever – CRISPR | youtube | 4 | 2026-04-12 |
 | Ginni Rometty: IBM CEO on Leadership, Power, and Adversity | Lex Fridman Podcast #362 | youtube | 4 | 2026-03-24 |
+| 진짜 심각하게 좋아진 GPT Images 2.0 디자인 활용 케이스 싹 정리. | youtube | 4 | 2026-05-14 |
 | "GPU 쓸 곳이 없어요." AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수) | youtube | 4 | 2026-03-22 |
 | Gradient descent, how neural networks learn | Deep Learning Chapter 2 | youtube | 4 | 2026-03-30 |
+| GTM Engineering Masterclass | Signals, Automation & AI with Head of GTM Engineering at Clay | youtube | 4 | 2026-05-14 |
 | Guam: Why America's Most Isolated Territory Exists | youtube | 4 | 2026-04-12 |
 | Happiness | youtube | 4 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 4 | 2026-03-30 |
+| Harvard Professor: CS50, What Matters More Than Programming Now, Lecturing Well | David J Malan | youtube | 4 | 2026-05-14 |
 | Harvey CEO Winston Weinberg: Why You Should Reinvent Yourself Every 4 Months | youtube | 4 | 2026-03-26 |
 | Henry Rollins: The One Decision that Changed My Life Forever | Big Think | youtube | 4 | 2026-03-30 |
 | Hermes Agent: The New OpenClaw? | youtube | 4 | 2026-05-02 |
@@ -1569,6 +1599,7 @@ Generated on 2026-05-06 | 2588 sources
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
 | How China Broke the World's Recycling | youtube | 4 | 2026-04-12 |
 | How China's 'Perfect' Spy Got Caught | Bloomberg Investigates | youtube | 4 | 2026-03-23 |
+| How Claude Code Powers GTM Engineering & AI Agents with Hai Nghiem | youtube | 4 | 2026-05-14 |
 | How Cruise Ships Work | youtube | 4 | 2026-03-30 |
 | How Earth Moves | youtube | 4 | 2026-03-30 |
 | How Far Can We Go? Limits of Humanity (Old Version – Watch the New One) | youtube | 4 | 2026-04-12 |
@@ -1620,6 +1651,7 @@ Generated on 2026-05-06 | 2588 sources
 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | youtube | 4 | 2026-03-30 |
 | Li-Fi, 100X Faster Than Wi-Fi! | ColdFusion | youtube | 4 | 2026-04-12 |
 | Living Underwater: How Submarines Work | youtube | 4 | 2026-04-12 |
+| M5 프로맥스 128G로 구축한 나만의 LLM Wiki 전격 대공개! | youtube | 4 | 2026-05-14 |
 | Making Money Isn't About Luck | youtube | 4 | 2026-03-30 |
 | Making $$ with AI Agents | youtube | 4 | 2026-05-02 |
 | Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386 | youtube | 4 | 2026-03-24 |
@@ -1633,6 +1665,7 @@ Generated on 2026-05-06 | 2588 sources
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 4 | 2026-03-30 |
 | Milk. White Poison or Healthy Drink? | youtube | 4 | 2026-04-12 |
 | Mini Countries Abroad: How Embassies Work | youtube | 4 | 2026-04-12 |
+| Modulations - Cinema for the Ear | Documentary | youtube | 4 | 2026-05-14 |
 | Most AI Startups Fail (Here’s Why Yours Might Too) | youtube | 4 | 2026-03-23 |
 | My $10M Failed Startup Story - Learnings & Advice for Entrepreneurs | youtube | 4 | 2026-03-23 |
 | My App Failed - My Brutal 6 Months Building a Startup | youtube | 4 | 2026-03-23 |
@@ -1645,6 +1678,7 @@ Generated on 2026-05-06 | 2588 sources
 | Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature | Lex Fridman Podcast #394 | youtube | 4 | 2026-03-24 |
 | Next-Gen Graphics FINALLY Arrive [Unreal Engine 5] | youtube | 4 | 2026-04-12 |
 | Next Generation Robots - Boston Dynamics, Asimo, Da Vinci, SoFi | youtube | 4 | 2026-04-12 |
+| Nobel Prize Just Given for Proving the Universe Isn't Real! {REUPLOAD} | youtube | 4 | 2026-05-14 |
 | Nokia’s 2017 Return | youtube | 4 | 2026-04-12 |
 | NVIDIA CEO Jensen Huang's Vision for the Future | youtube | 4 | 2026-03-23 |
 | NVIDIA's $1 Trillion Prediction, Anthropic Beats OpenAI, Tesla vs. TSMC & The CS Job Collapse | 240 | youtube | 4 | 2026-03-22 |
@@ -1653,7 +1687,9 @@ Generated on 2026-05-06 | 2588 sources
 | Paperclip: Hire AI Agents Like Employees (Live Demo) | youtube | 4 | 2026-03-27 |
 | Photosynthesis: Crash Course Biology #8 | youtube | 4 | 2026-03-30 |
 | 클로드 코드로 완성도 있게 결과물 내려면 plan모드 말고 이렇게 기획해보세요. (매니패스트 대표 허재혁님) | youtube | 4 | 2026-03-23 |
+| 오늘, 클로드가 PPT를 죽였습니다. | youtube | 4 | 2026-05-14 |
 | Private Equity is a TERRIBLE Investment... Who Keeps Giving Them Money? | youtube | 4 | 2026-03-26 |
+| Professor Jiang: World War 3 Is About To Begin, Let Me Explain! | youtube | 4 | 2026-05-14 |
 | Quantum Computers Explained – Limits of Human Technology | youtube | 4 | 2026-04-12 |
 | Quantum Consciousness Theory | youtube | 4 | 2026-03-23 |
 | Quantum entanglement and the illusion of time, in 79 minutes | Jim Al-Khalili: Full Interview | youtube | 4 | 2026-03-23 |
@@ -1710,6 +1746,7 @@ Generated on 2026-05-06 | 2588 sources
 | The Secret Marketing Strategy That Built a16z: From Zero to Legendary VC Firm | youtube | 4 | 2026-03-22 |
 | The Simplest Math Problem No One Can Solve - Collatz Conjecture | youtube | 4 | 2026-03-30 |
 | The spelled-out intro to neural networks and backpropagation: building micrograd | youtube | 4 | 2026-04-10 |
+| The Terrifying Quantum Entanglement Theory That Breaks Reality | youtube | 4 | 2026-05-14 |
 | The Territorial Business of Tacos | youtube | 4 | 2026-03-24 |
 | The Tiny Donut That Proved We Still Don't Understand Magnetism | youtube | 4 | 2026-03-23 |
 | The Trillion Dollar Equation | youtube | 4 | 2026-03-23 |
@@ -1732,6 +1769,7 @@ Generated on 2026-05-06 | 2588 sources
 | TRUE Limits Of Humanity – The Final Border We Will Never Cross | youtube | 4 | 2026-04-12 |
 | Trying to Catch a 1,000 MPH Baseball - Smarter Every Day 247 | youtube | 4 | 2026-03-30 |
 | Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | youtube | 4 | 2026-03-30 |
+| 묵묵히 자신의 차례를 기다리고 있는 당신에게 | 신수정 | youtube | 4 | 2026-05-14 |
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 4 | 2026-03-30 |
 | Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy | youtube | 4 | 2026-05-02 |
@@ -1821,6 +1859,7 @@ Generated on 2026-05-06 | 2588 sources
 | Building a psychologically safe workplace | Amy Edmondson | TEDxHGSE | youtube | 3 | 2026-03-27 |
 | Building the "App Store" for Robots: Hugging Face's Thomas Wolf on Physical AI | youtube | 3 | 2026-03-26 |
 | Building the GitHub for RL Environments: Prime Intellect's Will Brown & Johannes Hagemann | youtube | 3 | 2026-03-26 |
+| Data scientist builds price prediction model to find OVERVALUED & UNDERVALUED Pokémon cards | youtube | 3 | 2026-05-14 |
 | David Pakman: Politics of Trump, Biden, Bernie, AOC, Socialism & Wokeism | Lex Fridman Podcast #375 | youtube | 3 | 2026-03-24 |
 | Day in the Life-Enterprise Account Executive in Tech Sales | youtube | 3 | 2026-03-27 |
 | Deal Velocity, Not Billable Hours: How Crosby Uses AI to Redefine Legal Contracting | youtube | 3 | 2026-03-26 |
@@ -1865,9 +1904,11 @@ Generated on 2026-05-06 | 2588 sources
 | Jennifer Burns: Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom | Lex Fridman Podcast #457 | youtube | 3 | 2026-03-24 |
 | Jimmy Wales: Wikipedia | Lex Fridman Podcast #385 | youtube | 3 | 2026-03-24 |
 | Jordan Jonas: Survival, Hunting, Siberia, God, and Winning Alone Season 6 | Lex Fridman Podcast #437 | youtube | 3 | 2026-03-24 |
+| Keep your brain from declining after age 30 | youtube | 3 | 2026-05-14 |
 | Kimbal Musk: The Art of Cooking, Tesla, SpaceX, Zip2, and Family | Lex Fridman Podcast #417 | youtube | 3 | 2026-03-24 |
 | Lex Fridman does judo with Travis Stevens, Olympic Silver Medalist | youtube | 3 | 2026-03-24 |
 | Lex Fridman speaks to Palestinians in the West Bank | youtube | 3 | 2026-03-24 |
+| LINUS TORVALDS WAS RIGHT ABOUT MICROSOFT BUT NOBODY LISTENED.... | youtube | 3 | 2026-05-14 |
 | Lisa Randall: Dark Matter, Theoretical Physics, and Extinction Events | Lex Fridman Podcast #403 | youtube | 3 | 2026-03-24 |
 | Making AI accessible with Andrej Karpathy and Stephanie Zhan | youtube | 3 | 2026-03-26 |
 | Making the Case for the Terminal as AI's Workbench: Warp’s Zach Lloyd | youtube | 3 | 2026-03-26 |
@@ -1891,6 +1932,7 @@ Generated on 2026-05-06 | 2588 sources
 | (Part 2) How Stanford Professor Raised $13M Seed Round for His 3rd Startup | Ram Rajagopal | youtube | 3 | 2026-03-26 |
 | Private Credit Panic - Why Investors Are Rushing For the Exits | youtube | 3 | 2026-03-22 |
 | Randall Kennedy: The N-Word - History of Race, Law, Politics, and Power | Lex Fridman Podcast #379 | youtube | 3 | 2026-03-24 |
+| Reset Your Body in 14 Days (No Sugar) | youtube | 3 | 2026-05-14 |
 | Sam Altman on OpenAI, Future Risks and Rewards, and Artificial General Intelligence | youtube | 3 | 2026-03-28 |
 | Scaling the 'Cursor for Slides' to $50M ARR ft Gamma founder Jon Noronha | youtube | 3 | 2026-03-26 |
 | Sean Carroll: Einstein’s most radical thought | youtube | 3 | 2026-03-25 |
@@ -1904,6 +1946,7 @@ Generated on 2026-05-06 | 2588 sources
 | TATTOOING Close Up (in Slow Motion) - Smarter Every Day 122 | youtube | 3 | 2026-03-30 |
 | Teddy Atlas: Mike Tyson, Cus D'Amato, Boxing, Loyalty, Fear & Greatness | Lex Fridman Podcast #406 | youtube | 3 | 2026-03-24 |
 | The 2 reasons all startups fail | Misti Cain | TEDxSanDiego | youtube | 3 | 2026-03-23 |
+| The AI Economy is about to change | youtube | 3 | 2026-05-14 |
 | The Case Against AI | Robert Wright, Emily Bender, and Alex Hanna | youtube | 3 | 2026-03-23 |
 | The Constitution, the Articles, and Federalism: Crash Course US History #8 | youtube | 3 | 2026-03-30 |
 | The Craziest Experiment Humans Have Ever Built | youtube | 3 | 2026-03-23 |
@@ -1923,6 +1966,7 @@ Generated on 2026-05-06 | 2588 sources
 | The Ultimate Guide to Dominate EVERY Sales Interview | Tech Sales Interview Tips | youtube | 3 | 2026-03-27 |
 | The Wartime CEO: Vlad Tenev of Robinhood | youtube | 3 | 2026-03-26 |
 | There Is Something Faster Than Light | youtube | 3 | 2026-03-23 |
+| they're all out of data. | youtube | 3 | 2026-05-14 |
 | Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467 | youtube | 3 | 2026-03-24 |
 | Top 6 Sales Interview Questions and Answers for SaaS Sales, Software Sales & Tech Sales | youtube | 3 | 2026-03-27 |
 | Tulsi Gabbard: War, Politics, and the Military Industrial Complex | Lex Fridman Podcast #423 | youtube | 3 | 2026-03-24 |
@@ -2530,6 +2574,7 @@ Generated on 2026-05-06 | 2588 sources
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
+| Anthropic's Raise & What It Means for Potential IPO? Mag7: Google & Amazon Up, Meta & Microsoft Down | youtube | 0 | 2026-05-14 |
 | Automating Creativity: Building Gen Media Agents with ADK and MCP | youtube | 0 | 2026-04-24 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
@@ -2573,7 +2618,6 @@ Generated on 2026-05-06 | 2588 sources
 | Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
 | Oura’s Tom Hale: What People Don’t Tell You About Being CEO | youtube | 0 | 2026-04-23 |
-| 앞으로 PPT는 직접 안 만들 겁니다 | youtube | 0 | 2026-04-23 |
 | Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
 | Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
 | Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
@@ -2585,7 +2629,6 @@ Generated on 2026-05-06 | 2588 sources
 | The GPT Moment for Robotics Is Here | youtube | 0 | 2026-04-23 |
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 0 | 2026-04-23 |
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
-| 수준 높은 대화 (구글 전 대표) | youtube | 0 | 2026-04-23 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |

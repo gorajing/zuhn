@@ -51,7 +51,6 @@ stance: >-
   Resource allocation should be a first-class experimental variable in eval
   design, documented and controlled like sampling temperature or prompt format.
 related:
-  - INS-260403-F7A9
   - INS-260325-DD43
   - INS-260402-CC68
   - INS-260410-AF66
@@ -61,6 +60,7 @@ related:
   - INS-260403-063E
   - INS-260325-BC2A
   - INS-260403-CD90
+  - INS-260501-6A56
 ---
 The cultural practice of publishing a prompt and a temperature but not the container CPU/RAM/timeout configuration reflects an assumption carried over from static evals: that the runtime doesn't matter. For agentic benchmarks this assumption is empirically false, and the gap between leaderboard positions is smaller than the gap created by infrastructure differences alone.
 

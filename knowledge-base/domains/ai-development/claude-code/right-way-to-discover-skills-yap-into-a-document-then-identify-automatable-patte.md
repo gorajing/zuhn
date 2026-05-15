@@ -66,7 +66,7 @@ related:
   - INS-260501-EA32
   - INS-260501-247C
   - INS-260403-10CE
-  - INS-260403-648C
+  - INS-260514-AD9E
   - INS-260501-52B5
 ---
 Pemberton's recommended skill-discovery method: yap into your phone for 20 minutes about every task, every workflow, every recurring activity in your work. Don't skip details. Get it in a document. Then ask AI to identify automatable patterns. Each automatable process becomes a candidate skill.

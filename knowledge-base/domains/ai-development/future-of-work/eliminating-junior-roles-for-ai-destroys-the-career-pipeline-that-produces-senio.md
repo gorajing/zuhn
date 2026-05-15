@@ -52,7 +52,6 @@ related:
   - INS-260505-0E06
   - INS-260410-2952
   - INS-260403-287B
-  - INS-260403-529D
 stance: >-
   When companies replace interns and junior staff with AI, they destroy the
   training ground that produces the next generation of senior experts.

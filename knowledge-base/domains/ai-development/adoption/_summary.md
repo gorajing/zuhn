@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 55 insights
+> 57 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -44,6 +44,7 @@
 - `INS-260413-6CE0` [high] 58% of employees globally use AI at work regularly — but the share exceeds 80% in India, China, Nigeria, UAE, and Saudi Arabia, while North America/Europe sit at 40-48%, inverting the usual wealth-diffusion pattern.
 - `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
+- `INS-260514-A946` [medium] AI breaks the elite-tutor monopoly — Go mastery used to require entering an elite academy with a great master; now AI is the master, and non-elite learners can reach top levels without credential access.
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260424-90E6` [medium] Jason Davenport (Google Cloud): I think we're in an efficiency phase of AI right now — I'm a little excited for when it's over and we start to think about business transformation as a result of AI, because that's where the next Googles, the next Ubers, the next yeah, they're going to come from.
 - `INS-260409-21E0` [medium] Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
@@ -54,6 +55,7 @@
 - `INS-260322-B09B` [medium] Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260405-CA27` [medium] Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260403-C10D` [medium] The biggest AI risk is confidence outrunning understanding, not the technology itself.
+- `INS-260514-D3CB` [medium] Mainstream software is ~95% AI-coded; scientific biotech code is ~5% AI-coded — a multi-year diffusion gap driven by regulatory caution and benchmark scarcity, not capability gaps.
 - `INS-260405-7838` [medium] In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
 - `INS-260329-E193` [medium] Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.
 - `INS-260405-6CED` [low] AI's growing influence on strategy warrants formal inclusion in governance structures, not just operational workflows.

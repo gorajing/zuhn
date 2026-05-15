@@ -49,7 +49,6 @@ stance: >-
   but a productive psychological trick that lowers the stakes enough to let you
   actually begin and iterate.
 related:
-  - INS-260404-8A87
   - INS-260405-7B8D
   - INS-260404-55E1
   - PRI-260406-33E9

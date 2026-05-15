@@ -54,7 +54,6 @@ stance: >-
   browser, server, database, and CDN — each serving different access patterns
   rather than relying on a single cache
 related:
-  - INS-260323-6761
   - INS-260329-4842
   - PRI-260406-8B75
   - INS-260330-C06E

@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 43 insights
+> 46 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -16,12 +16,14 @@
 - `INS-260413-BD80` [high] Global AI compute reached 17.1M H100-equivalents in 2025, growing 3.3x per year since 2022, with Nvidia supplying 60%, Google/Amazon supplying most of the rest, and Huawei growing slowly.
 - `INS-260405-A4DB` [high] AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
 - `INS-260410-C602` [high] AI data center buildouts are bottlenecked on power availability and speed-to-deploy, not on power cost, because tokens generate 1000x more value than the electricity they consume.
+- `INS-260514-4BD5` [high] GPUs compute on wave 1 while wave 2's data is in flight, wave 3 queued behind it. Network latency disappears from the critical path.
 - `INS-260501-E26C` [high] Cache hit price = HBM storage cost; cache miss price = full forward-pass recomputation; the ratio tells you provider's caching strategy.
 - `INS-260423-2B80` [high] Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
 - `INS-260423-1C4D` [high] Google Cloud's Model Armor: filters prompt injection, jailbreaks, PII leaks, social security numbers, and harassment at the load balancer layer before requests reach the model.
 - `INS-260501-814C` [high] Physical machines today = 50 different OSes per industry. AI can't deploy until someone builds the Android. That's Applied Intuition.
 - `INS-260405-F1A1` [high] The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
 - `INS-260410-A1CA` [high] Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
+- `INS-260514-026B` [high] Agentic RPA running real ops has 'we can never go down' stakes — every minute means real customers' billing is late, shipments don't ship. Architecturally and operationally different from consumer AI.
 - `INS-260424-ABB2` [high] Google Cloud lead: at 100,000 chips, several times a day at least one will fail — if a human is needed for diagnosis, that's a 30-minute minimum, and you have zero throughput until you start again.
 - `INS-260423-9225` [high] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 - `INS-260410-13C8` [high] Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
@@ -32,6 +34,7 @@
 - `INS-260413-07F2` [high] OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260501-D18A` [high] Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor.
 - `INS-260410-8092` [high] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
+- `INS-260514-D023` [medium] A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop.
 - `INS-260424-865F` [medium] Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.

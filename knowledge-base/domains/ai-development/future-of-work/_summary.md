@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 120 insights
+> 125 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -23,6 +23,7 @@
 - `INS-260413-CAA6` [high] New AI PhDs in US/Canada +22% from 2022-2024 but industry's share of new PhDs stayed flat — all the growth went to academia, reversing a decade-long trend and disproving the 'brain drain' narrative.
 - `INS-260403-F0EE` [high] Individual AI productivity gains are real but haven't conclusively appeared in aggregate statistics yet, making macro claims premature.
 - `INS-260423-3AC1` [high] Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
+- `INS-260514-8283` [high] AI substitutes 80% of cases; value moves to the 20% — edge cases, novel situations, high-stakes judgment, deep expertise. Invest in being valuable in the 20% AI can't reach; don't compete on the 80%.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260327-4F3D` [high] True career fulfillment requires firing on all four Ikigai cylinders simultaneously: passion (what you love), prowess (what you're good at), purpose (what the world needs), and profit (what sustains you).
@@ -54,6 +55,7 @@
 - `INS-260423-44B4` [high] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
 - `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260403-5BCF` [high] Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
+- `INS-260514-AE3E` [high] Senior engineers DOMINATE AI-amplified work. The 'AI-native juniors will win' prediction was empirically wrong. What matters is STEERING (talking with AI to direct it), and seniors have decades of reps doing exactly that.
 - `INS-260321-988C` [high] A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.
 - `INS-260325-4846` [high] Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
 - `INS-260321-28FB` [high] Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
@@ -114,11 +116,14 @@
 - `INS-260424-123B` [medium] Logan Kilpatrick: this is going to increase the demand for traditional developers — there will be a stopping point of how far you can go without understanding the technology, and people need a developer to partner with.
 - `INS-260403-7D1D` [medium] Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260405-B204` [medium] Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
+- `INS-260514-1A3D` [medium] Scientific scopes that cost 2 FTE × 6 months mid-2025 cost 2 weeks solo by late 2025 — a 12-24x compression that reprices what 'a project' means.
 - `INS-260423-FF53` [medium] Aaron Levie: there is 100% a role that 500,000 to a million jobs will be created for — agent operators who know MCPs, CLIs, skills, agents.md files, and how to redesign workflows for agents not people.
+- `INS-260514-78B3` [medium] AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
 - `INS-260403-6691` [medium] The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
 - `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
 - `INS-260501-033E` [medium] When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap.
 - `INS-260403-DED4` [medium] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - `INS-260410-410E` [medium] Dwarkesh still hires a human editor to clean transcripts even though Claude 4 Opus can technically do the task, because he can't train the model to learn his preferences over time.
+- `INS-260514-2E48` [low] AI runs 24/7. Humans don't. In Amazon warehouses, AI already dispatches humans via headsets. The roles invert.
 - `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

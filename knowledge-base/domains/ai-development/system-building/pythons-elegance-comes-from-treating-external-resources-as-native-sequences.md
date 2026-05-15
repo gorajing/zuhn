@@ -55,7 +55,6 @@ related:
   - INS-260330-3EFC
   - INS-260403-EA2C
   - INS-260409-4290
-  - INS-260410-8ECF
 evidence:
   - id: INS-260322-24FB
     type: TRANSFERS_TO

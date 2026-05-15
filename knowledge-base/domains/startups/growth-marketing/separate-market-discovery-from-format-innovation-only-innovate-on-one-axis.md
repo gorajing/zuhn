@@ -37,12 +37,11 @@ resolutions:
     principle as cross-domain transfer in knowledge management: the format IS
     the transferable principle.
 related:
-  - INS-260321-099E
   - PRI-260321-558C
+  - INS-260514-3559
   - PRI-260406-CA09
   - PRI-260407-40F9
   - INS-260403-CE95
-  - PRI-260406-FCF0
 stance: Markets (topics) rarely change and can't be invented
 evidence:
   - id: INS-260403-CE95

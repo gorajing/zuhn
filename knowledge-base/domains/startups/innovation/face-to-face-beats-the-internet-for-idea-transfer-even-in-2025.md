@@ -58,13 +58,12 @@ stance: >-
   internet connectivity does, because new ideas require trust that only builds
   through in-person interaction.
 related:
-  - INS-260325-3B2A
   - INS-260325-0873
   - INS-260330-8FC5
   - INS-260403-0550
   - INS-260403-36A6
+  - INS-260514-EDBF
   - INS-260412-B625
-  - PRI-260328-0332
 ---
 Henrich addresses the puzzle of why the internet didn't cause a second urbanization — why hasn't productivity growth accelerated as hard as the '90s optimists predicted? His in-progress answer: face-to-face interaction is doing something the internet isn't. Research he cites shows that whether two cities have direct flights between them predicts the flow of ideas between those places, even when both are fully internet-connected. And the effect is larger when the cities are more culturally different — precisely the cases where cross-pollination should be most valuable.
 

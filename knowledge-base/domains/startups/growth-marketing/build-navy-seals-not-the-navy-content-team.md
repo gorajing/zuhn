@@ -19,10 +19,10 @@ sources:
     url: 'https://youtu.be/Wg70HlO-5gY'
 related:
   - PRI-260320-5D78
+  - INS-260514-F857
   - PRI-260406-1993
   - INS-260403-CEB7
   - INS-260403-1C28
-  - INS-260403-39CF
   - INS-260321-021B
   - INS-260403-F519
   - INS-260403-0185

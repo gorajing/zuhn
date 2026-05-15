@@ -2,6 +2,7 @@
 
 - `INS-260410-0ECA` Musk predicts that in under 36 months, space will be the cheapest place to run AI because solar panels get 5x more power without atmosphere or day-night cycles, and no batteries are needed.
 - `INS-260505-7B61` After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing.
+- `INS-260514-60D5` Imagine humanity reaching the precipice of AI revolution but it fizzles because the models couldn't survive in our atmosphere of money.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260412-DB5A` Supermassive stars blow away their own fuel through radiation pressure, capping formation at ~150 solar masses despite available gas.
 - `INS-260327-8997` Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.

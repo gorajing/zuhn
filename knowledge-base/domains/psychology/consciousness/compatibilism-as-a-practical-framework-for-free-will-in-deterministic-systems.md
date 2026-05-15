@@ -48,8 +48,8 @@ related:
   - INS-260325-BE19
   - PRI-260323-6644
   - PRI-260325-08FB
+  - INS-260514-AE3A
   - PRI-260324-2C9F
-  - INS-260323-3F30
 stance: >-
   Even in a fully deterministic universe, the inability to predict the future
   from within the system makes free will functionally real

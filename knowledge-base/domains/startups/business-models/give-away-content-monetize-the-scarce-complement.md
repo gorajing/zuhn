@@ -46,7 +46,6 @@ stance: >-
   attention, physical goods
 related:
   - INS-260321-3312
-  - INS-260321-ADB4
   - INS-260327-AD0D
   - INS-260327-6E0E
   - INS-260403-C1E9
@@ -55,6 +54,7 @@ related:
   - INS-260403-6932
   - PRI-260328-2E23
   - INS-260403-AFC6
+  - INS-260410-3759
 evidence:
   - id: INS-260403-6932
     type: EXTENDS

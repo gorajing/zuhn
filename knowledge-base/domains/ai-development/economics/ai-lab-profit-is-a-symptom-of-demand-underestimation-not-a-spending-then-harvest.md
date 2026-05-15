@@ -65,10 +65,10 @@ stance: >-
   means it underbought compute for that year.
 related:
   - INS-260410-9267
+  - INS-260514-54F9
   - INS-260410-BC76
   - INS-260405-A22F
   - INS-260424-0554
-  - INS-260405-567D
 ---
 Amodei's stylized model: about half of a lab's compute goes to training, half to inference. Inference has >50% gross margins. In steady-state with perfect demand forecasting, the lab makes money — spend $100B on compute, run $150B of inference revenue on the inference half, and the training half is self-funded. Losses happen when you overbuy compute and can't fill it with inference demand. Profit happens when you underbuy compute and inference revenue overwhelms the training budget.
 

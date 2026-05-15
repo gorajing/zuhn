@@ -58,6 +58,7 @@ related:
   - INS-260403-0303
   - PRI-260403-0ABD
   - PRI-260407-600C
+  - INS-260514-3DC0
 ---
 April Dunford's sales pitch framework splits into two phases. The setup establishes the landscape: what the market looks like, what pain the buyer is experiencing, and what the 'perfect world' outcome looks like. This is not a problem-agitation section—it's a shared reality-building exercise that earns the right to present a solution. The setup concludes with a description of the ideal outcome, making the buyer want to reach it before any product is mentioned.
 

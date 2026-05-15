@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260329-CBEB
   - INS-260329-8C69
+  - INS-260514-8FF5
   - INS-260330-A370
   - PRI-260403-0ABD
-  - INS-260403-7E7C
 evidence:
   - id: INS-260330-A370
     type: TRANSFERS_TO

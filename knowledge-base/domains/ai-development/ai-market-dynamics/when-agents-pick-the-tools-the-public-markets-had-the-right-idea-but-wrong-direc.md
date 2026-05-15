@@ -60,11 +60,11 @@ stance: >-
   will craft emails, manage projects, and orchestrate workflows themselves;
   outperformers like Twilio and Cloudflare are infrastructure agents still need.
 related:
+  - INS-260514-118A
   - INS-260409-665F
   - INS-260404-B31C
   - INS-260404-5AC8
   - INS-260405-95A6
-  - PRI-260323-00C6
 ---
 Calacanis's diagnostic: when you ask Claude what tools to use, it's heavily biased toward market leaders with momentum, and explicitly mocks Marquetto, Outreach, and Salesloft as 'useless to agents' because the agent will craft and send a better email itself. Atlassian and Monday face the same threat — agents don't need project management tools, they have no use for them. Conversely, Twilio and Cloudflare have outperformed because agents still need infrastructure (telephony, CDN, security).
 

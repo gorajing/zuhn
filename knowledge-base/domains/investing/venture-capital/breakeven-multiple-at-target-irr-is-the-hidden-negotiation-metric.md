@@ -49,6 +49,5 @@ related:
   - PRI-260406-AAA9
   - INS-260402-318B
   - INS-260322-36E3
-  - INS-260403-49E1
 ---
 Rather than asking 'what IRR will this deal produce?', the more actionable question is 'what's the minimum multiple I need at this holding period to clear my hurdle rate?' This reframes deal evaluation from speculative forecasting into threshold analysis. For a fund with a 20% hurdle rate and a 5-year expected hold, the breakeven multiple is roughly 2.5x. Any scenario that doesn't credibly reach that threshold isn't worth pursuing regardless of the narrative. This metric is especially powerful in term-sheet negotiations because it gives both sides a concrete number to anchor on, replacing vague debates about '2x or 3x' with precise, time-aware requirements.

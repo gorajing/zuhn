@@ -47,11 +47,11 @@ stance: >-
   strategies that humans cannot predict or anticipate, making it fundamentally
   different from any tool we have previously created.
 related:
+  - INS-260514-13B6
   - INS-260403-78E2
   - INS-260321-F864
   - PRI-260327-0D6E
   - INS-260327-684D
-  - INS-260327-DD48
   - INS-260325-11A6
   - INS-260325-40DC
   - INS-260326-73C0

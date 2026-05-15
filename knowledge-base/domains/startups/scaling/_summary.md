@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 200 insights
+> 202 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -53,6 +53,7 @@
 - `INS-260330-488B` [high] Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` [high] Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260330-E99F` [high] Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
+- `INS-260514-8807` [high] Voluntary migration to internal platforms always stalls. The reliable adoption mechanism is to remove the alternative — block the old path, don't just evangelize the new one.
 - `INS-260330-725F` [high] Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
 - `INS-260329-3924` [high] You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260327-4CCE` [high] Both ElevenLabs and Lovable converged on approximately 50/50 splits between experienced operators and high-slope generalists on their leadership teams.
@@ -162,6 +163,7 @@
 - `INS-260403-4850` [medium] The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.
 - `INS-260403-FD6A` [medium] In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.
 - `INS-260403-6061` [medium] Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
+- `INS-260514-C1B3` [medium] Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260330-1F41` [medium] Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260412-DF7B` [medium] Civilizational and organizational scale correlate most reliably with total energy/resource throughput.
 - `INS-260412-8BDB` [medium] Every second, 60,000 stars pass humanity's cosmological horizon permanently — delay in expansion means permanently smaller maximum reach.

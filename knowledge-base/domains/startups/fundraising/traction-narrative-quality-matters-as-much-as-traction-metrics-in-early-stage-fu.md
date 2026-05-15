@@ -50,7 +50,6 @@ stance: >-
   How founders discuss their metrics—with confidence, precision, and
   honesty—influences VC evaluation as much as the actual numbers at early stages
 related:
-  - INS-260330-0BC2
   - INS-260404-569C
   - INS-260423-2B80
   - PRI-260406-818D

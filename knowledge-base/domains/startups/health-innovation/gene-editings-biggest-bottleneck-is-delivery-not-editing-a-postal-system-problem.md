@@ -49,8 +49,8 @@ related:
   - INS-260323-3657
   - PRI-260328-5989
   - PRI-260323-A05E
+  - INS-260514-9D51
   - INS-260323-133A
-  - INS-260327-4669
 stance: >-
   We can now precisely edit DNA like a text editor, but we still lack the postal
   system to deliver those edits to specific cell types inside the body.

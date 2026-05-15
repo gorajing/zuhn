@@ -54,10 +54,10 @@ stance: >-
   open-source/open-data alternative to closed industry models.
 related:
   - INS-260409-A11F
+  - INS-260514-D44B
   - INS-260327-C962
   - INS-260325-5CB1
   - INS-260402-5242
-  - INS-260404-CC8B
 ---
 John Hennessy's framing: universities focus on long-term issues that industry won't because of profit accountability. Companies do good things but have shareholders. Universities can do work that pays off over decades. The other key role: open. Open publication, open tools, open source. This makes a difference and lets universities play a complementary role. The AI revolution's roots were in academia (Fei-Fei at Caltech/Princeton, Toronto and Montreal groups for deep learning) — there's a long history of academic investment in AI before industry could capture the returns. Universities continue to train the next generation of scientists and explorers; companies enhance them but don't develop them from scratch.
 

@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 72 insights
+> 78 insights
 
 - `INS-260403-13AF` [high] Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
@@ -14,16 +14,19 @@
 - `INS-260322-6DFC` [high] Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260403-1407` [high] Information processing equipment and software investment contributed ~2.1 percentage points to US GDP's 3.8% annualized growth in H1 2025.
 - `INS-260323-7B63` [high] AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
+- `INS-260514-FAB4` [high] AI labs follow Microsoft/AWS pattern: dominate horizontal compute + horizontal apps (Office, Claude Code); leave vertical apps with enterprise integrations to specialists (Salesforce, Snowflake, Harvey). YC killer = horizontal app. Harvey survives = vertical workflow.
 - `INS-260327-6B02` [high] Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.
 - `INS-260327-16A1` [high] $400B+ in annual AI data center spending provides jobs and wealth effects that sustain the economy, while simultaneously building the automation infrastructure that threatens those same jobs.
 - `INS-260323-F753` [high] Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260323-750A` [high] Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260329-3AE5` [high] AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
 - `INS-260329-C754` [high] Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital.
+- `INS-260514-838D` [high] Underserved populations face a compounding spiral: less data → less research → less infrastructure → less data. AI AMPLIFIES this by training on biased data. Reversal requires upstream data generation investment, not better AI.
 - `INS-260327-3A81` [high] If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
 - `INS-260327-A22D` [high] After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.
 - `INS-260327-E1EB` [high] OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
 - `INS-260327-7265` [high] Every tech hype cycle is sustained by Fortune 500 executives who can't afford to be caught without a strategy -- no CEO wanted to admit they weren't 'data-driven' during big data, and now no CEO dares say they don't have an 'AI strategy.'
+- `INS-260514-639F` [high] Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game.
 - `INS-260404-183A` [high] Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
 - `INS-260404-2F49` [high] Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
 - `INS-260404-4F1B` [high] Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
@@ -31,11 +34,13 @@
 - `INS-260327-CFE5` [high] A company can miss earnings targets and still surge 30% if it tells a compelling AI story, revealing that markets are pricing narrative not performance.
 - `INS-260403-A691` [high] Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue, concentrating RPO risk in a single customer.
 - `INS-260409-5FBA` [high] OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
+- `INS-260514-118A` [high] Most AI companies will fail, but ALL of them spend on infrastructure. Bet on the infrastructure layer (data labeling, GPUs, compute) — you capture aggregate AI spend even when application winners are uncertain.
 - `INS-260327-505A` [high] Oracle gained more market cap in one day than all of McDonald's despite missing earnings targets, driven by AI promises, TikTok control, and deep political connections rather than product merit.
 - `INS-260323-8544` [high] In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
 - `INS-260325-FD14` [high] TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260403-E185` [high] Super-angels rationally optimize for fast acquisitions because a 10x return in one year beats a VC's 6-year path to IPO on an annualized basis.
 - `INS-260330-8FEC` [high] Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
+- `INS-260514-5AEF` [high] Diligence any AI product with: 'Show me your benchmarks' AND 'what's the delta vs vanilla Claude Code without your harness?' — if they can't answer, they have no moat beyond the base model.
 - `INS-260327-4434` [high] Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
 - `INS-260327-EFA6` [high] Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260410-5088` [high] For a single GPT family on the same hardware, Microsoft has extracted 5x to 40x throughput improvements through software optimization alone — knowledge intensity is what separates a hyperscaler from a hoster.
@@ -74,3 +79,4 @@
 - `INS-260405-5881` [medium] The trillion-dollar AI investment thesis is contingent on finding a killer app that doesn't yet exist.
 - `INS-260402-180C` [medium] Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260330-F9CA` [medium] Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network.
+- `INS-260514-F91A` [low] Suno: $300M revenue year 2. Spotify: $250M revenue year 3 → $19B in 15 more years (65x). Apply same multiple → AI music platforms could pay $50B+/year to rights holders by 2040. Largest pending music-industry wealth transfer.

@@ -48,11 +48,11 @@ stance: >-
   like hallucination into engaging gameplay mechanics rather than treating them
   as defects to eliminate
 related:
-  - INS-260325-ADF3
   - INS-260403-CAAB
+  - INS-260325-ADF3
+  - INS-260514-7B5B
   - INS-260403-27A5
   - PRI-260324-2C9F
-  - PRI-260406-CC90
 evidence:
   - id: INS-260325-ADF3
     type: SUPPORTS

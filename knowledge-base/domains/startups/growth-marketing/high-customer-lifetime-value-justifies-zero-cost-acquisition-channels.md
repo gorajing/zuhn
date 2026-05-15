@@ -40,7 +40,6 @@ resolutions:
     optimizing acquisition. When your LTV is high enough, even crude organic
     channels become extremely profitable.
 related:
-  - INS-260325-A61B
   - INS-260412-6DC9
   - INS-260405-051E
   - INS-260404-D6EC

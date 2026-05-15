@@ -52,8 +52,8 @@ related:
   - INS-260320-0F7C
   - INS-260409-5C6B
   - INS-260409-654B
+  - INS-260514-1277
   - INS-260410-4F43
-  - INS-260409-BA55
   - INS-260409-EA5A
 ---
 The architecture has three layers with different ownership: (1) raw sources — articles, papers, tweets, transcripts — immutable, the source of truth, the LLM reads but never touches them; (2) the wiki itself — a directory of markdown files that the LLM owns entirely, including summaries, entity pages, concept pages, and comparisons, which the LLM creates, updates on ingest, and keeps cross-referenced; (3) the schema — a CLAUDE.md-style config file that tells the LLM how the wiki is organized, what conventions to follow, and what workflows to run, co-evolved by human and LLM over time. The useful metaphor: the wiki is the codebase, Obsidian is the IDE, the LLM is the programmer, the schema is the style guide. Mixing these layers — letting the LLM rewrite raw sources, or burying the schema inside wiki pages — breaks both provenance and the LLM's ability to freely regenerate the middle layer.

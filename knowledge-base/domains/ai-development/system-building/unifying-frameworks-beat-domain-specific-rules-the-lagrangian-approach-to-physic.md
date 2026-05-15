@@ -49,8 +49,8 @@ related:
   - INS-260330-BFA1
   - INS-260330-B4DA
   - PRI-260328-8516
+  - INS-260514-AE3A
   - PRI-260323-0654
-  - INS-260323-9F38
 stance: >-
   The principle of least action provides a single mathematical framework that
   generates all laws of physics

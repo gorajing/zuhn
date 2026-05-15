@@ -42,10 +42,10 @@ stance: >-
   necessary gap between raw material and synthesized knowledge, mirroring how
   humans actually learn from new material.
 related:
-  - INS-260409-2D5C
+  - INS-260514-1277
   - INS-260409-5C6B
   - INS-260409-654B
+  - INS-260409-2D5C
   - INS-260325-DE23
-  - INS-260409-ADD0
 ---
 The RAW folder is literally a temporary staging area where articles, PDFs, and web clips accumulate until the human prompts Claude Code to turn a subset into a topical wiki. This enforces a two-stage pipeline: (1) humans decide what's worth remembering (ingestion), (2) Claude Code decides how to structure it (compression into wiki/topic/*). The separation matters because the human's curation act — picking this article, skipping that one — is the signal that guides what the KB should become. Letting the LLM ingest everything directly would erase that signal.

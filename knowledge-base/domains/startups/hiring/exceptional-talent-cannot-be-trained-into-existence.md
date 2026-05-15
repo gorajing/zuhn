@@ -46,7 +46,6 @@ stance: >-
   aptitude and interest, not training volume, making hire-from-anywhere the only
   viable scaling strategy
 related:
-  - INS-260323-13C0
   - INS-260320-DDD9
   - INS-260403-22DF
   - INS-260404-BE07
@@ -54,6 +53,7 @@ related:
   - PRI-260405-2DE5
   - INS-260410-67D5
   - PRI-260407-F684
+  - INS-260514-DB6E
 evidence:
   - id: INS-260320-8632
     type: CHALLENGES

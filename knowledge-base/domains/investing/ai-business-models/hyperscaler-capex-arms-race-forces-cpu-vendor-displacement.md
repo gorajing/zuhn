@@ -54,9 +54,9 @@ related:
   - INS-260404-BA3D
   - INS-260403-5CAD
   - INS-260327-FA43
+  - INS-260514-54F9
   - INS-260403-C7A0
   - INS-260403-84E1
-  - INS-260403-8194
 ---
 Meta's partnership with NVIDIA includes deploying Grace CPU-only servers at scale — a first for hyperscalers who traditionally source general-purpose CPUs from Intel and AMD. This represents a vertical integration play by NVIDIA, moving from accelerators into general compute. Combined with Meta's 75% capex increase to $115-135B for 2026, almost entirely for AI, the deal shows that AI infrastructure winners will be those offering co-designed systems (GPU + CPU + networking) rather than individual components.
 

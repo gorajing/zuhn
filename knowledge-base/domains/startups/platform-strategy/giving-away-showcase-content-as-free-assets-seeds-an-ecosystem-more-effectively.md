@@ -52,11 +52,11 @@ stance: >-
 related:
   - INS-260410-43E4
   - INS-260412-C956
+  - INS-260514-6576
   - PRI-260328-FD47
   - INS-260405-94A0
   - INS-260505-2FFB
   - INS-260329-03B5
-  - INS-260403-36DD
 ---
 Epic Games gave away the entire Matrix demo world — every asset, every line of code — for free modification. This is a deliberate platform strategy: the demo simultaneously proves UE5's capabilities to skeptics, provides production-quality learning material for new developers, and seeds the ecosystem with assets that keep creators within the Unreal ecosystem.
 

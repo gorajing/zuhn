@@ -49,12 +49,13 @@ stance: >-
   takes 50-80% of royalties, and only truly moves the needle with the handful of
   currently hot labels.
 related:
-  - PRI-260322-DC5E
   - INS-260330-7882
   - INS-260410-2632
+  - PRI-260322-DC5E
   - PRI-260406-FCF0
   - INS-260410-F455
   - INS-260327-442D
+  - INS-260514-B5E2
 evidence:
   - id: INS-260327-2BE1
     type: SUPPORTS

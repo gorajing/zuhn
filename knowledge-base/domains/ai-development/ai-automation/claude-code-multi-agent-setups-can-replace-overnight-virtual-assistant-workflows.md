@@ -49,11 +49,11 @@ stance: >-
   inbox triage, scheduling, and daily planning overnight, effectively replacing
   human virtual assistant roles for routine knowledge work.
 related:
-  - INS-260327-13B3
   - INS-260404-6BD6
+  - INS-260327-13B3
   - PRI-260328-A65A
   - INS-260330-7E4F
-  - INS-260323-2E51
+  - INS-260514-EE2E
 ---
 Practitioners are building Claude Code automation setups where multiple agents run in parallel overnight to prepare emails, meeting notes, and daily agendas before the workday begins. This replaces the traditional virtual assistant model where a human handles inbox triage, scheduling, and task planning.
 

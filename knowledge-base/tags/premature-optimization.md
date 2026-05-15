@@ -1,6 +1,7 @@
 # Tag: premature-optimization
 
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
+- `INS-260514-C51F` One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables.
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.

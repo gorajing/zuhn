@@ -1,4 +1,5 @@
 # Tag: marginal-cost
 
+- `INS-260514-9145` Clay credits: $0.075/company enriched. Apify + own API keys: $0.004/company. Same workflow, 20x cheaper.
 - `INS-260408-76F4` Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
 - `INS-260405-CF27` Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.

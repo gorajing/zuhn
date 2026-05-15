@@ -58,8 +58,8 @@ related:
   - INS-260330-B490
   - INS-260330-ABBF
   - PRI-260406-82EA
+  - INS-260514-AC07
   - INS-260321-5655
-  - INS-260327-25C7
 ---
 Smith observes that despite widespread belief that the Trump administration would align with Russia, the actual pattern of military actions tells a different story. The US overthrew a Russian proxy in Venezuela, seized shadow fleet oil tankers, and attacked Iran — Russia's primary drone supplier for the Ukraine war. Meanwhile, Russia responded by sharing satellite intelligence with Iran to target US forces.
 

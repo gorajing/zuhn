@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 335 insights
+> 342 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -27,6 +27,7 @@
 - `INS-260330-049B` [high] Louis Vuitton spent 17 years as an apprentice boxmaker serving wealthy travelers before launching his own brand, giving him deep customer intuition.
 - `INS-260329-F07A` [high] When you have nothing to lose, the rational move is maximum risk-taking because any upside is pure gain.
 - `INS-260403-E6A7` [high] Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
+- `INS-260514-3559` [high] Authenticity ≠ originality. Copy working formats; add your authentic spin. Trying to invent novel formats from scratch keeps you in the cocoon forever. Mr Beast himself copies what works and adds his style.
 - `INS-260321-C513` [high] Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
 - `INS-260501-F9F7` [high] Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it.
 - `INS-260322-7276` [high] Founders assume if the winner makes $500M and they make $50M, they're worth one-tenth — but the actual pattern is the seventh player trends toward zero revenue, not a stable fraction.
@@ -151,6 +152,7 @@
 - `INS-260325-0873` [high] Getting on the plane to see someone in person is an extreme effort signal that makes mediocre ideas go further and great ideas get prioritized over equally good remote pitches.
 - `INS-260327-E992` [high] The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
 - `INS-260327-BA8E` [high] Your biggest regret will be not pivoting three months earlier, not the pivot itself.
+- `INS-260514-ADDC` [high] Pivot in 3 weeks if you can't see logarithmic scale. Sunk cost is the #1 founder trap — the cost of staying in a bad direction compounds far worse than the cost of pivoting.
 - `INS-260328-F782` [high] Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
 - `INS-260328-00E8` [high] When you can write the script of your remaining career, it is time to leave.
 - `INS-260327-8D82` [high] Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
@@ -158,6 +160,7 @@
 - `INS-260327-A675` [high] Parker Conrad credits his 'revenge fantasy' after being ousted from Zenefits as the fuel that sustained him through Rippling's brutal early years.
 - `INS-260325-7B58` [high] Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
 - `INS-260323-C814` [high] Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
+- `INS-260514-1E10` [high] Radiate (share, post, present) WHILE accumulating — not after. Each radiation generates feedback that accelerates accumulation, and you can't predict which post catalyzes your breakthrough.
 - `INS-260328-68BA` [high] The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-7F3E` [high] True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
 - `INS-260402-FEA3` [high] The real world rewards nerds because scale lets niches cluster and real stakes make competence trump charisma.
@@ -227,6 +230,7 @@
 - `INS-260403-4690` [high] Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260328-12EE` [high] Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260402-ECB6` [high] Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
+- `INS-260514-D89B` [high] Turn down exciting revenue from huge names when it doesn't fit your direction — every customer commitment off-strategy destroys focus that's worth more than the revenue. Saying no is the hardest founder skill.
 - `INS-260403-886D` [high] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - `INS-260329-6117` [high] The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260329-5C7A` [high] Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
@@ -238,6 +242,7 @@
 - `INS-260403-B05A` [high] What you work on and who you work with matter more than how many hours you put in.
 - `INS-260327-CEE4` [high] Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.
 - `INS-260325-8D66` [high] You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
+- `INS-260514-3A62` [high] 'You can just do things.' The system pushes toward outcomes but has inefficient defaults. Action causes information you can't get by analyzing. Cost has never been lower. Constraint: experiments must be victimless and not zero-sum.
 - `INS-260323-3A54` [high] Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
 - `INS-260327-7F11` [high] The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
 - `INS-260325-86B3` [high] Lyft/Presto cofounder Rajat Suri: 5 years of zero revenue survived through a loyalty cycle where team sacrifice inspired founder persistence and vice versa.
@@ -324,12 +329,14 @@
 - `INS-260409-81CB` [medium] The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260325-A79E` [medium] The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260409-5491` [medium] Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
+- `INS-260514-EDBF` [medium] John Collison: 'The world is a museum of passion projects.' Software amplifies them via network effects faster than physical projects. The best ROI on your time is passion projects with network-effect potential.
 - `INS-260327-7B8E` [medium] At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260328-0B42` [medium] Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260409-54AA` [medium] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
 - `INS-260327-2684` [medium] Building startups for your university application guarantees you'll never go all-in enough to succeed.
 - `INS-260405-BC10` [medium] The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
 - `INS-260410-CC88` [medium] Greg Abel in the 2025 letter: 'Our role is stewardship. That stewardship has shaped a culture and reinforced a set of values that are not the result of our success, but the reason for it.'
+- `INS-260514-519F` [medium] Pattern of people who accumulate disproportionate impact 29-35: they ATTACH TO LARGE INSTITUTIONS rather than build from scratch. Logan Paul + WWE, The Rock + WWE earlier. Find storied institutions with weak current leadership where you can become the leadership.
 - `INS-260403-6386` [medium] If you dropped a skilled wealth-creator on a random street, they'd rebuild within 5-10 years because the skill transfers across contexts.
 - `INS-260327-E546` [medium] Spending 40 hours at work and 40 more on side projects reveals what you actually want to build.
 - `INS-260329-3473` [medium] When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.

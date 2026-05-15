@@ -1,6 +1,7 @@
 # Tag: competitive-positioning
 
 - `INS-260505-3CA0` Frontier labs are going closed; universities differentiate by being radically open with everything they produce.
+- `INS-260514-639F` Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game.
 - `INS-260327-98B1` Themistocles lured the Persian fleet into the narrow straits of Salamis where their numerical advantage became a liability.
 - `INS-260403-368B` Positioning against a worse alternative instead of for a positive vision erodes your own offering because it eliminates pressure to improve.
 - `INS-260403-44FF` Undercutting competitors on price signals you have no differentiated value proposition and invites a margin-destroying race to the bottom.

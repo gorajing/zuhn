@@ -50,9 +50,8 @@ related:
   - INS-260405-16AB
   - INS-260409-95C8
   - INS-260409-654B
+  - INS-260514-00D3
   - INS-260409-003A
   - INS-260409-212F
-  - PRI-260409-0156
-  - INS-260409-2D5C
 ---
 Standard RAG pipelines retrieve chunks and synthesize at query time, which means each question reconstructs context from fragments. If a subtle question requires synthesizing five different documents, the LLM has to find and connect those pieces every single time — there is no memory, no cross-references, no accumulated understanding. The LLM-wiki pattern flips this: the LLM builds a persistent interlinked structure up front so cross-references already exist, contradictions are already flagged, and syntheses already reflect everything ingested. The valuable artifact is the maintained compiled knowledge, not the retrieval mechanism on top of it. This is why Zuhn's 5-level compression hierarchy exists — retrieval is cheap and commoditized; curated synthesis is the moat.

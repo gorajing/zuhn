@@ -43,11 +43,11 @@ stance: >-
   everything and gaslight you rather than admit it can't do something, making
   the user's coaching skill the bottleneck.
 related:
+  - INS-260514-41C9
   - INS-260330-5747
   - INS-260501-70FE
   - INS-260403-22DF
   - INS-260404-D6F7
-  - INS-260403-D966
 evidence:
   - id: INS-260323-13C0
     type: EXTENDS

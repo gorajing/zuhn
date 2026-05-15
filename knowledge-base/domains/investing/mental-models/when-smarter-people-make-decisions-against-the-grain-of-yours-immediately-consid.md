@@ -68,13 +68,13 @@ stance: >-
 related:
   - INS-260327-DBEB
   - INS-260405-CC3F
-  - INS-260409-07ED
   - INS-260410-8122
   - INS-260423-81C4
+  - INS-260514-8FF5
   - PRI-260403-0ABD
   - PRI-260328-E921
   - INS-260405-B11B
-  - INS-260405-77C9
+  - INS-260514-44D9
 ---
 Chamath's most expensive lesson, costing him $5B: in November 2021, he saw Bezos and Elon Musk selling. He thought 'these are the two best capital allocators in the world; if they're selling, I should sell.' He sold a little but not nearly enough — because he was 'afraid of what people would think' and confused his 'growing fame with growing skill.' Then March 2022 came (Russia invades Ukraine, rate cycle, no liquidity), and his SPAC-heavy portfolio got 'absolutely obliterated.' The honest answer to 'when could I have changed my mind?' was November.
 

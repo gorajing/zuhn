@@ -58,11 +58,11 @@ stance: >-
   false confidence while lacking the organizational influence to drive a
   purchase.
 related:
+  - INS-260514-DB6E
   - INS-260327-978B
   - INS-260327-D5CC
   - INS-260410-91A1
   - INS-260410-2AF4
-  - INS-260323-DE2B
 evidence:
   - id: INS-260327-978B
     type: CHALLENGES

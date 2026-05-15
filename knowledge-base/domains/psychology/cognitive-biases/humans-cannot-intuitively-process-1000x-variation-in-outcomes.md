@@ -47,11 +47,11 @@ stance: >-
   causing systematic underestimation of outlier magnitude regardless of
   expertise or experience.
 related:
+  - INS-260514-48C0
   - INS-260402-E140
   - PRI-260407-2DBD
   - PRI-260405-E9C5
   - INS-260402-EEDB
-  - INS-260402-D739
   - INS-260403-3EDE
 evidence:
   - id: INS-260403-3CD0

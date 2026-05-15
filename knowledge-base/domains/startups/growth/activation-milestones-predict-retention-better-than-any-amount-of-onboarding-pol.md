@@ -48,12 +48,11 @@ stance: >-
   Identifying and driving users toward a single early behavior milestone is more
   effective for retention than comprehensive onboarding optimization
 related:
-  - INS-260327-1599
   - INS-260423-6FB5
   - INS-260329-8BD3
   - INS-260322-8D47
   - INS-260329-3392
-  - INS-260405-3061
+  - INS-260514-AD9E
   - INS-260403-049F
 ---
 Retention starts and often ends in the first session. Calm found users who set a reminder on Day 1 retained 3x better. Facebook discovered that adding 7 friends in 10 days predicted long-term retention and rebuilt their entire onboarding around that single behavior.

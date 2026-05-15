@@ -50,7 +50,6 @@ stance: >-
   next sale
 related:
   - INS-260320-9937
-  - INS-260322-E8BA
   - INS-260327-624F
   - INS-260329-F6E1
   - INS-260329-F73D
@@ -59,6 +58,7 @@ related:
   - INS-260329-563F
   - INS-260329-AAD1
   - PRI-260406-E75B
+  - INS-260329-9C6B
 evidence:
   - id: INS-260320-9937
     type: CHALLENGES

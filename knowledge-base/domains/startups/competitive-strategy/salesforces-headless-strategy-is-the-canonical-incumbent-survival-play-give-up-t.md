@@ -62,13 +62,13 @@ stance: >-
 related:
   - INS-260403-3155
   - INS-260403-6EC2
-  - INS-260410-EE5C
   - INS-260410-346B
   - INS-260410-AAFE
   - INS-260423-FB98
   - INS-260423-7CDC
+  - INS-260514-84FC
   - INS-260423-6FB5
-  - INS-260501-E377
+  - INS-260514-791A
 ---
 The 20VC team's reframe of Salesforce's headless announcement: the Salesforce app traditionally had two components of value — the UI (where sales reps input data) and the back-end (database + workflow + integrations + history). When agents replace humans entering data, the UI value goes to zero. Benioff's move: explicitly give up trying to drive seat-pricing via UI, and instead make Salesforce the trusted agent-callable system-of-record with 20 years of integration debt that no startup can replicate.
 

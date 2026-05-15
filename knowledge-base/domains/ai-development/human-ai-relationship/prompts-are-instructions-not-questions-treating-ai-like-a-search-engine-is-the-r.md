@@ -52,12 +52,12 @@ related:
   - INS-260320-4993
   - INS-260320-DC3C
   - PRI-260321-037A
-  - PRI-260320-6847
   - PRI-260320-8205
   - INS-260328-EBBC
-  - INS-260329-47DD
-  - INS-260329-3FF4
   - INS-260320-E872
+  - INS-260403-F400
+  - PRI-260406-1AC6
+  - INS-260403-F664
 ---
 Most people approach AI tools with a search-engine mindset: type a question, hope for a good answer. But AI prompts function more like code — they're instructions that define the logic the model follows. When you type 'summarize this report,' you're giving the model almost no signal about what matters, what format to use, or what expertise to bring.
 

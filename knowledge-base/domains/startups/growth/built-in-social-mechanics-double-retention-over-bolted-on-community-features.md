@@ -47,10 +47,10 @@ stance: >-
   products that add social features after the fact
 related:
   - INS-260410-02EA
+  - INS-260514-0239
   - INS-260410-0263
   - INS-260327-CA82
   - INS-260403-FE8D
-  - INS-260330-C24F
 evidence:
   - id: INS-260327-C7BF
     type: TRANSFERS_TO

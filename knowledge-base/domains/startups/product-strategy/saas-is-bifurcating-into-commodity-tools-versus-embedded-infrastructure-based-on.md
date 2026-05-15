@@ -57,6 +57,7 @@ related:
   - INS-260404-CCB1
   - INS-260403-F112
   - PRI-260406-F51A
+  - INS-260514-9145
 ---
 Two distinct cohorts are emerging in SaaS. The first consists of horizontal tools with moderate differentiation and limited workflow lock-in — they rely on marketing-led acquisition, serve broad use cases, and integrate lightly. Their AI features are easily copied across competitors within quarters, and net retention trends toward or below 110%.
 

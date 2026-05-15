@@ -46,7 +46,6 @@ stance: >-
   Assistant API from day one, because platform lock-in is the primary risk of
   walled-garden AI tools.
 related:
-  - INS-260323-A7F6
   - INS-260403-E099
   - PRI-260406-806C
   - INS-260501-AB31

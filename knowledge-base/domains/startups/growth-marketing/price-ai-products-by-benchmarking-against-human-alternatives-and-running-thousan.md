@@ -48,10 +48,10 @@ related:
   - INS-260325-8A61
   - PRI-260328-BEDD
   - INS-260403-A08A
+  - INS-260514-B1F0
   - INS-260328-4A93
-  - INS-260327-5973
   - INS-260327-6AA0
-  - INS-260327-99E5
+  - INS-260327-5973
   - INS-260327-6742
 stance: >-
   Price AI products using three factors: value creation vs human cost, unit

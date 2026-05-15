@@ -64,11 +64,11 @@ stance: >-
   2-year horizon as the planning unit, which is the operational reality of
   building on a research frontier.
 related:
+  - INS-260514-58B1
   - INS-260410-52C8
   - PRI-260406-AFA7
   - INS-260330-C0E2
   - INS-260327-969D
-  - INS-260327-CED9
 ---
 Lewig's operational reality: Applied Intuition's technology stack has been completely rewritten roughly every 2 years. They've done 4 full evolutions over 10 years and expect the cadence to continue. They plan engineering investment on a 2-year horizon — invest enough to be productive, but stay dynamic enough to absorb research breakthroughs and re-architect when needed.
 

@@ -53,8 +53,8 @@ related:
   - INS-260423-D900
   - PRI-260406-6690
   - INS-260327-1FA1
-  - INS-260328-0DFE
-  - INS-260409-A4F0
+  - INS-260514-D155
+  - INS-260514-DFAE
 ---
 Fei-Fei Li at the reception, on what's actually changing the world right now: AI in software engineering is fundamentally disruptive. It's changing productivity, workflows, company structures, headcount patterns, and planning mindsets. World Labs as an AI-native startup was 'born in this era' — they've never had to change workflows because they were designed around AI tooling from day 1. Older companies are restructuring. Even what gets taught at university is being rethought (Fei-Fei's 8th-grade kid's class laughed at the teacher's AI suggestions because the suggestions were obviously AI-generated themselves).
 

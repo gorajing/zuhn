@@ -54,7 +54,7 @@ related:
   - INS-260329-EB4B
   - PRI-260328-9E3F
   - INS-260329-3739
-  - INS-260330-541B
+  - INS-260514-21AA
 ---
 Tao reports that while roughly 50 Erdős problems have been solved with AI assistance, systematic studies show frontier models have a 1-2% success rate on any given problem. The appearance of breakthrough comes from running thousands of attempts across hundreds of problems and publicizing only the winners. Users who try the same tools on their favorite problem will experience the actual 1-2% rate and feel disappointed.
 

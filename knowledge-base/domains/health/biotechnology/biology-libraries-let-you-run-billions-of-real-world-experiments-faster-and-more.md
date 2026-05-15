@@ -62,11 +62,10 @@ stance: >-
 related:
   - INS-260323-3657
   - INS-260408-306A
-  - INS-260408-F58E
   - INS-260408-76F4
   - PRI-260411-FB73
   - INS-260325-5A2F
-  - INS-260505-5DC4
+  - INS-260514-D3CB
 ---
 AlphaFold can predict a protein fold to fractional Angstrom precision yet fail to predict whether a single alanine-for-serine substitution destroys function. Simulation stacks inherit compounding assumptions: QED to quantum mechanics to molecular mechanics — each layer introduces approximation error. Biology sidesteps this entirely. When you barcode and screen 10^17 physical variants, you are not simulating; you are running the actual physics, which is by definition 100% accurate to the real system.
 

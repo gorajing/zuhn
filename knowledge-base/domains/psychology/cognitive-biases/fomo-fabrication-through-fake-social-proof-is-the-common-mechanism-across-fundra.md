@@ -52,7 +52,6 @@ stance: >-
   manufacturing false urgency through fabricated commitments and social proof to
   bypass founders' rational due diligence.
 related:
-  - INS-260402-E522
   - PRI-260406-0109
   - INS-260403-9F64
   - INS-260403-D4BC

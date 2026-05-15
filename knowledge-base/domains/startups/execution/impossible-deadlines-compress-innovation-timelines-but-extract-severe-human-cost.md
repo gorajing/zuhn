@@ -51,11 +51,12 @@ stance: >-
   celebrating the outcome
 related:
   - INS-260327-B959
-  - INS-260327-9192
   - INS-260330-A1D2
   - INS-260330-1226
   - INS-260410-7224
+  - INS-260514-6EE6
   - INS-260330-63BA
+  - INS-260514-DFAE
   - INS-260409-3AEE
   - INS-260412-EA55
 ---

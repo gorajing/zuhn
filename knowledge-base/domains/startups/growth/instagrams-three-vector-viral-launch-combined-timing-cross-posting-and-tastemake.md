@@ -49,12 +49,10 @@ stance: >-
   existing networks, and curated early adopters will achieve escape velocity
   faster than apps optimizing only one growth vector.
 related:
-  - INS-260323-6414
   - INS-260321-021B
-  - INS-260327-88FE
-  - INS-260329-200A
   - INS-260330-8FD6
   - INS-260329-14AE
+  - INS-260323-6414
   - INS-260403-D1D0
   - INS-260405-3061
 evidence:

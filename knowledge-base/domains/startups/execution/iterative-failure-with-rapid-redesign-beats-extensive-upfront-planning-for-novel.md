@@ -53,11 +53,11 @@ stance: >-
   breakage produces better results than trying to anticipate all failure modes
   in advance.
 related:
+  - INS-260514-C1B3
   - INS-260403-7BCF
   - PRI-260406-CBAC
   - INS-260327-ACB3
   - INS-260410-AB4A
-  - INS-260404-B893
 evidence:
   - id: INS-260323-FAF2
     type: CHALLENGES

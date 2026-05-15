@@ -53,8 +53,8 @@ related:
   - INS-260403-B0E3
   - INS-260403-738F
   - INS-260404-EC16
+  - INS-260514-118A
   - PRI-260405-D6F5
-  - INS-260404-5AC8
 ---
 Airwallex spent nearly a decade building direct connections to domestic payment systems (Faster Payments, SEPA, local clearing networks) and obtaining financial licenses across dozens of jurisdictions. This was slow and expensive — the company took 75 months to reach $100M in ARR. But once the infrastructure reached critical mass, revenue doubled in a single year to $1B ARR at ~90% growth.
 

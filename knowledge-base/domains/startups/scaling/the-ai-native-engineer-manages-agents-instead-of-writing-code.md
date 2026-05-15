@@ -48,15 +48,15 @@ stance: >-
   different competency than traditional software engineering.
 related:
   - INS-260325-D540
-  - INS-260330-6D43
-  - INS-260403-F519
   - INS-260405-6A6F
   - INS-260405-68DC
   - PRI-260406-4B8E
   - PRI-260406-6690
+  - INS-260514-DFAE
   - INS-260410-9F17
-  - INS-260404-D6F7
   - INS-260410-0855
+  - INS-260501-9503
+  - INS-260501-3CAA
 evidence:
   - id: INS-260330-8F07
     type: SUPPORTS

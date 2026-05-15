@@ -61,8 +61,8 @@ related:
   - INS-260325-2FC1
   - INS-260409-2B5F
   - PRI-260405-0676
+  - INS-260514-8FC8
   - INS-260329-9AE9
-  - INS-260322-DAA1
 ---
 Masad confirms what Hassabis described independently: continual learning is the missing piece blocking agents from deep organizational integration. Replit's current workaround: when an agent learns a useful skill, it writes a skill MD file that persists across sessions and the agent reads back into its context. This works for explicit, transferable knowledge but not for the implicit pattern recognition that constitutes real expertise.
 

@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260403-1217
   - INS-260330-06CD
+  - INS-260514-ADDC
   - INS-260404-B0BF
   - INS-260403-D986
-  - PRI-260405-E9C5
 ---
 Benchmark's 2001-2006 'wandering in the woods' era cost them Google, Facebook, and Skype — three generational-defining companies — while none of their well-known busts (Webvan, 1-800 Flowers late-stage) meaningfully dented fund returns. Webvan was actually a correct bet: 3.5M check, briefly marked at 800M, capped downside, huge optionality. The real damage came from distractions (Europe fund, Israel fund, corporate JVs) that took partners' eyes off the ball during the most important deal cycle of their careers.
 

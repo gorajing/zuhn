@@ -54,6 +54,7 @@ related:
   - INS-260326-7B2A
   - INS-260404-056D
   - INS-260410-BC66
+  - INS-260514-90F1
 ---
 Hiring mistakes at early-stage startups compound silently. A mediocre hire at month three typically isn't recognized as problematic until month nine, then requires another three months to replace — putting the company a full year behind. This compounding effect is uniquely damaging at the early stage because each of the first 3-10 hires disproportionately shapes company culture, execution velocity, and technical direction.
 

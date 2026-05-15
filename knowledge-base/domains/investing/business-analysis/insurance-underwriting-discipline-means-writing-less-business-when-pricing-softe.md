@@ -58,6 +58,6 @@ related:
   - INS-260403-AB11
   - PRI-260406-2129
   - INS-260404-F54F
-  - INS-260403-5031
+  - INS-260514-7772
 ---
 The 2025 letter explicitly tells shareholders to expect lower premium volume in 2026: 'an industry that, after several years of needed adjustments to pricing and policy terms, in 2025 began to experience a deceleration or reversal of these trends, particularly in the latter half of the year. This likely means we will write less property and casualty business for a period of time.' And for reinsurance: 'In most casualty reinsurance segments, claims inflation continued to outpace pricing. As long as these phases of the cycle endure, we expect to write less reinsurance premium.' The discipline point is distinctive: most insurance operators are rewarded by their boards for premium growth quarter over quarter, and shrinking the book is culturally difficult even when pricing math demands it. Berkshire's structural advantage is that Greg can publicly commit to shrinking because Berkshire's culture and financial strength do not depend on quarterly premium growth. That's the insurance equivalent of 'be fearful when others are greedy' applied to premium volume: when capital floods in and prices decline, the right move is to walk away, not match the market.

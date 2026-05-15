@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 70 insights
+> 73 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -31,6 +31,9 @@
 - `INS-260402-AA3F` [high] Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
 - `INS-260403-A136` [high] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260403-7692` [high] People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.
+- `INS-260514-15AF` [high] Keith Rabois's 'hire barrels, not ammunition' applies harder in the AI era. Cliff's test: head of growth must source candidates, write ads in CapCut, edit in Figma, buy ads — all themselves in 7 days. Specialists who delegate execution have NEGATIVE leverage in AI teams.
+- `INS-260514-D5B5` [high] Hire ICs, not managers. A leader who can't do the function themselves can't hire, teach, or evaluate it — and the team's quality silently collapses from underneath.
+- `INS-260514-41C9` [high] The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment.
 - `INS-260403-36C6` [high] Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
 - `INS-260402-9B06` [high] Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260403-D51E` [high] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.

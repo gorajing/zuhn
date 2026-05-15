@@ -50,8 +50,8 @@ stance: >-
 related:
   - INS-260327-73BE
   - INS-260323-8D12
+  - INS-260514-00D3
   - INS-260320-E6DD
   - INS-260402-5ACE
-  - INS-260329-BE72
 ---
 MemPalace's KnowledgeGraph class (modeled on Zep's Graphiti but in SQLite instead of Neo4j) attaches temporal validity windows to every entity triple. kg.add_triple('Kai', 'works_on', 'Orion', valid_from='2025-06-01'); kg.invalidate('Kai', 'works_on', 'Orion', ended='2026-03-01'). Now 'what is Kai working on?' returns nothing, but kg.query_entity('Maya', as_of='2026-01-20') still returns the auth-migration assignment that was true at that time. This is the essential design pattern for any long-lived agent KB that represents people, projects, or decisions: delete-on-change destroys history, but validity windows let truth and time coexist. Any Zuhn principle about a market or a person who changes over time would benefit from this pattern.

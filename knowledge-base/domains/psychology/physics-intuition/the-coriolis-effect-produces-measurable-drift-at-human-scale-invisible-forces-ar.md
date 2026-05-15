@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-D7CD
   - INS-260405-D3B5
+  - INS-260514-DC55
   - INS-260330-80A2
   - INS-260330-04F9
-  - INS-260330-97A0
 ---
 Tyson demonstrates that the Coriolis effect — Earth's rotation — deflects a football's path by a noticeable amount over the distance of a field goal. Most people dismiss rotational effects as only relevant at weather-system scales, but the math shows accumulation happens at every scale; we just lack the precision to notice it in daily life.
 

@@ -3,4 +3,6 @@
 - `INS-260327-77E7` Sustained quality from AI agents comes from organizational design patterns (QA loops, approval gates, role specialization) rather than model selection.
 - `INS-260327-7299` Paperclip's bring-your-own-bot approach reflects the reality that different AI models have distinct strengths and personalities, making model-agnostic orchestration the optimal architecture.
 - `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
+- `INS-260514-2E48` AI runs 24/7. Humans don't. In Amazon warehouses, AI already dispatches humans via headsets. The roles invert.
 - `INS-260424-7A03` Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
+- `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.

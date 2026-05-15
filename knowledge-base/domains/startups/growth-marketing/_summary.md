@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 151 insights
+> 155 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -79,6 +79,7 @@
 - `INS-260323-D6F2` [high] Rella never runs ads on content created specifically for ads — they only boost posts that already performed well organically, using the algorithm as a free testing ground.
 - `INS-260322-FFF6` [high] The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260327-194D` [high] The organizing industry profits by creating products to manage overconsumption rather than addressing the overconsumptio
+- `INS-260514-5B19` [high] Find outlier videos (50-100x above the creator's baseline) in your niche using Vid IQ. Have AI analyze title/thumbnail/hook patterns. Generate your version preserving the format, in your voice. Repeat daily.
 - `INS-260327-0CBC` [high] Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260323-181D` [high] Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260403-DEF6` [high] PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
@@ -121,7 +122,9 @@
 - `INS-260327-7C6B` [high] Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260330-0FB9` [high] TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
 - `INS-260327-7498` [high] When Western markets adopt cultural products, they systematically remove the cultural context that creates authentic val
+- `INS-260514-18AF` [medium] 2026 YouTube algorithm: subscriber QUALITY matters more than quantity. Mom subscribing (she watches K-drama) tells the algorithm 'K-drama viewers want my content' → wrong audience served → de-prioritized. Don't bootstrap with friends/family.
 - `INS-260323-7EDF` [medium] Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
+- `INS-260514-F857` [medium] Don't create content — build an AFFILIATE ARMY of 25,000+ customer-creators generating millions of variations monthly, tracking each one. Each affiliate's content is an experiment. The system converges on optimal hooks faster than any internal team.
 - `INS-260328-2BCF` [medium] AI distribution works through spectacle: public hackathons, social challenges, builder starter packs, and credible insider evangelists — not paid ads or traditional influencers.
 - `INS-260321-C902` [medium] New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260327-019C` [medium] AI agents making warm intros via iMessage could democratize the 'who you know' advantage that privileged networks provide.
@@ -140,6 +143,7 @@
 - `INS-260323-8165` [medium] Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260404-2032` [medium] Owned media audiences can be converted into startup launch services, creating a flywheel that feeds both content growth and investment access.
 - `INS-260405-543B` [medium] Memes achieve virality through audience co-ownership of the humor — resharing feels like self-expression, not advertising, which is why they outperform paid equivalents.
+- `INS-260514-822C` [medium] The modern GTM engine: content drives intent → intent powers outbound → outbound responses inform content, all underpinned by foundational AI that personalizes each layer.
 - `INS-260321-C292` [medium] After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260321-3BA8` [medium] The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.
 - `INS-260403-66CA` [medium] Product Hunt's algorithm and community reward makers who contribute genuine value before asking for support.

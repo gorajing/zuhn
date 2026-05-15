@@ -56,8 +56,8 @@ related:
   - INS-260412-22E3
   - INS-260412-65EF
   - INS-260412-E828
+  - INS-260514-59EC
   - INS-260412-C876
   - INS-260412-A747
-  - INS-260327-6ACA
 ---
 Russia's control of Siberian airspace illustrates how a single point of dependency becomes a universal negotiation lever. In 2014, they threatened European airlines over sanctions related to Ukraine. In 2017, they threatened Dutch airlines over a landing slot dispute at Schiphol. In 2018, they threatened US airlines over military action in Syria. None of these disputes were about aviation, yet airspace became the pressure point in each case. This works because the dependent party (airlines and their governments) uses the resource continuously—every day flights are routed over Siberia, the cost of losing access compounds. The controller doesn't need to follow through; the credible threat alone shifts the negotiation. In any relationship where one party holds a continuously-used chokepoint, they gain leverage in every adjacent negotiation, not just disputes about the chokepoint itself. This is why reducing single-source dependencies matters even when the current relationship is functional.

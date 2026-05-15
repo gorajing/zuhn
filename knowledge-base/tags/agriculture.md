@@ -1,7 +1,7 @@
 # Tag: agriculture
 
-- `INS-260405-3753` US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
+- `INS-260405-3753` US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260405-F6E6` America's $32B agricultural trade deficit in 2024 signals a structural shift after decades as a net food exporter.
 - `INS-260327-0D3C` Farm bailouts flow disproportionately to the largest 7% of producers who receive 63% of assistance.

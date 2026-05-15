@@ -54,6 +54,7 @@ related:
   - INS-260330-5391
   - INS-260330-D42C
   - INS-260403-2DEE
+  - INS-260514-BA22
 stance: >-
   When a low-vibration emotion surfaces, locate it physically in your body and
   feel it for a few minutes rather than bypassing it

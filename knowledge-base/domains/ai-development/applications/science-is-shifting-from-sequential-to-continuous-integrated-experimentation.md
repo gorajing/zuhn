@@ -51,7 +51,6 @@ stance: >-
   experiments in real-time as they run, and refine themselves immediately from
   results — collapsing weeks/months of cycle time to minutes/hours.
 related:
-  - INS-260329-95EF
   - INS-260322-C0D3
   - INS-260410-4CE7
   - INS-260423-6879

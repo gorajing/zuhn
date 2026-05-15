@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260403-68E9
   - INS-260403-4803
+  - INS-260514-3974
   - PRI-260407-A13C
   - INS-260403-AC01
-  - INS-260402-1D32
 ---
 The hierarchy spans: Tier 0 (reactive completion, no uncertainty representation), Tier 1 (confidence tagging), Tier 2 (self-critique loops), Tier 3 (training provenance awareness), Tier 4 (policy/code introspection), Tier 5 (episodic memory), Tier 6 (cross-model orchestration), Tier 7 (formal self-verification), Tier 8 (adaptive ontology repair), Tier 9 (value-aware planning), Tier 10 (recursive governance under constitutional cryptography), and Tier 11 (substrate-level awareness).
 

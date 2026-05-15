@@ -1,3 +1,3 @@
-# Tag: MHC
+# Tag: mhc
 
-- `INS-260330-AA6E` Kissing likely evolved to allow saliva-based sampling of a partner's hormonal profile and immune compatibility (MHC genes).
+- `INS-260514-0101` Force residual connections to satisfy doubly-stochastic matrix constraints (rows and columns sum to 1). Signal can't blow up because the math forbids it.

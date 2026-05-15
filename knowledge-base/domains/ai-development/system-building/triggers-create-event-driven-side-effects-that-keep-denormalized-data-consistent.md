@@ -48,10 +48,9 @@ stance: >-
   unlike application-level event handlers
 related:
   - INS-260320-C8CC
-  - INS-260329-6286
   - INS-260329-9745
+  - INS-260514-A02E
   - INS-260320-69CD
   - INS-260329-67CB
-  - INS-260329-47DD
 ---
 The tutorial covers triggers that fire on INSERT, UPDATE, or DELETE to automatically maintain derived data — for example, logging every new employee addition to a separate audit table. Unlike application-level event handlers that can fail independently of the operation they're responding to, triggers execute within the same transaction as the triggering statement. If the trigger fails, the original operation rolls back too. This atomic guarantee is powerful for maintaining consistency in denormalized schemas. The pattern maps directly to modern event-driven architectures: the insight is that co-locating the side effect with the source event (same transaction, same system) is fundamentally more reliable than decoupled event buses, even if less flexible.

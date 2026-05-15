@@ -48,16 +48,16 @@ stance: >-
   automatically correct ambiguity while machines cannot, and this gap defines
   the entire field of programming
 related:
-  - INS-260323-DB7B
   - INS-260326-7995
   - PRI-260328-4144
   - INS-260329-500E
   - INS-260329-3FC9
   - INS-260329-02B3
-  - INS-260329-7914
   - INS-260330-1FE9
   - INS-260330-3BBC
   - INS-260402-9676
+  - INS-260329-04FA
+  - INS-260329-E40B
 evidence:
   - id: INS-260329-FC75
     type: SUPPORTS

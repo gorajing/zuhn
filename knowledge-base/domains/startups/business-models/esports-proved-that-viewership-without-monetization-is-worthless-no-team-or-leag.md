@@ -48,7 +48,6 @@ related:
   - PRI-260328-95A5
   - PRI-260324-3081
   - INS-260324-2AD8
-  - INS-260327-BB4A
   - INS-260410-490C
 stance: >-
   Esports teams, leagues, and publishers collectively burned billions chasing a

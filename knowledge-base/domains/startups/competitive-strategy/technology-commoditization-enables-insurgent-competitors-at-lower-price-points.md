@@ -48,7 +48,6 @@ stance: >-
   differentiators, allowing new entrants to compete at dramatically lower price
   points.
 related:
-  - INS-260329-ECB5
   - INS-260403-42E4
   - INS-260403-7B04
   - PRI-260322-8FD4

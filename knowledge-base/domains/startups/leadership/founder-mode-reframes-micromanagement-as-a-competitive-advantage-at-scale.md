@@ -50,7 +50,7 @@ related:
   - INS-260403-1DDC
   - PRI-260406-54BE
   - INS-260327-2A73
-  - INS-260403-185D
+  - INS-260514-D5B5
 ---
 The Founder Mode concept, popularized by Paul Graham and covered by the WSJ, argues that the conventional wisdom to 'hire great people and get out of their way' fails at certain stages. Founders who remain obsessively hands-on — reviewing details, skipping hierarchy, staying close to the product — often scale better than those who prematurely delegate.
 

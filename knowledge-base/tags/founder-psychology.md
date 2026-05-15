@@ -1,9 +1,10 @@
 # Tag: founder-psychology
 
-- `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
 - `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
+- `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
+- `INS-260514-C343` The startup roller-coaster always regresses to baseline — internalize that 'things will be okay even when they don't feel okay,' because experience proves the swings normalize with right market + right team.
 - `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -17,9 +18,11 @@
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
+- `INS-260514-8FF5` YC's 'sell before you build' — fake the front-end, pitch it to real prospects, only build what someone says they'd pay for. The clearest signal you're on the right path is paid commitment, not nodding agreement.
 - `INS-260410-679B` When losing, the strategy is usually obvious — the question is whether you can stomach executing it; when winning, you have to invent the next move from a position of comfort that misleads you.
 - `INS-260403-BE93` Founders must honestly distinguish whether stealth is protecting their process or their pride — ego is the denominator that destroys stealth value.
 - `INS-260323-4AF5` Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
+- `INS-260514-ABBB` Builders are Enneagram 'eights' (disruptive truth-tellers). Most companies conspire against them because they're inconvenient. Apple-bringing-Steve-back era proved giving eights longer runs produces better outcomes. Actively seek them, don't filter them out.
 - `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260423-9F96` Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress.
 - `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.

@@ -48,7 +48,6 @@ stance: >-
   essential for power but requiring deliberate shielding against external
   dependencies like deals, investors, and partnerships.
 related:
-  - INS-260320-39A3
   - INS-260329-27DF
   - INS-260330-C8E1
   - INS-260410-89FB
@@ -58,6 +57,7 @@ related:
   - INS-260403-91FD
   - INS-260403-28AB
   - INS-260403-0E87
+  - INS-260410-DDD0
 evidence:
   - id: INS-260327-F50E
     type: EXTENDS

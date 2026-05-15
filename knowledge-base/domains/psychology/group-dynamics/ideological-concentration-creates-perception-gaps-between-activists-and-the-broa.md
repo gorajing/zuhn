@@ -53,7 +53,7 @@ related:
   - INS-260403-3A49
   - INS-260403-F2BA
   - INS-260404-3959
-  - INS-260403-25F3
+  - INS-260514-80C4
 ---
 Survey data shows Democrats perceive themselves as moderates while both Independents and Republicans see them as strongly left-leaning. This perception gap likely stems from social sorting — educated progressives concentrate in universities, nonprofits, and urban centers where their views are the local consensus. When everyone around you agrees, your positions feel centrist by default.
 

@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260323-DA1E
   - INS-260323-7BA4
+  - INS-260514-5594
   - INS-260323-7345
   - INS-260330-7EFD
-  - INS-260330-4FC5
 stance: Einstein presented the non-locality problem at least three times
 evidence:
   - id: INS-260323-7BA4

@@ -47,11 +47,11 @@ resolutions:
     from reversible laws,' the answer is that reversible laws are the
     idealization, not reality.
 related:
+  - INS-260514-A0AC
   - INS-260325-6A2C
   - INS-260403-6AD0
   - INS-260412-6864
   - INS-260325-1B3E
-  - INS-260325-F21D
   - INS-260327-8C74
   - INS-260330-AC34
   - INS-260323-4279

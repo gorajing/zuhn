@@ -65,11 +65,11 @@ related:
   - INS-260405-4F2B
   - INS-260403-9A0C
   - INS-260403-B0CB
+  - INS-260514-6561
   - INS-260404-056D
   - INS-260327-5690
   - INS-260403-E9E0
   - INS-260403-2F28
-  - INS-260330-C215
 ---
 The standard narrative about AI productivity gains assumes a smooth learning curve: workers learn the tools, productivity rises. The Chamath framework adds a complicating factor: 'workslop,' a term for low-quality AI outputs that pass initial inspection but require correction. This creates a double burden—workers must learn new tools while simultaneously auditing outputs they can't yet fully trust. The estimated correction overhead is roughly two hours per knowledge worker per week, which at scale represents a significant drag on firm-level productivity.
 

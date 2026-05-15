@@ -52,7 +52,7 @@ related:
   - INS-260327-A620
   - INS-260327-2EFD
   - INS-260327-45BD
-  - INS-260330-5600
+  - INS-260330-712D
 stance: >-
   UNIQLO identifies trending pieces too expensive for the mass market, replaces
   natural fibers with proprietary synthetics, and proactively tweaks de...

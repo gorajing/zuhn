@@ -54,7 +54,7 @@ related:
   - INS-260321-52EF
   - INS-260412-B2FC
   - INS-260330-7ED0
-  - INS-260330-007E
+  - INS-260514-D44B
 ---
 Bitcoin is often framed as a singular invention, but it was the culmination of 25 years of iterative attempts. David Chaum's eCash (1993) solved anonymous digital payments but required trusted banks. Wei Dai's b-money (1998) proposed regulation-free online economies but remained theoretical. Nick Szabo's bit gold (1998) removed bank dependency but had mining flaws and no double-spend solution.
 

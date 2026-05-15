@@ -43,15 +43,15 @@ stance: >-
   effective for entering flow than any environmental hack or ritual.
 related:
   - INS-260325-D797
-  - INS-260322-81CD
   - INS-260323-CE39
   - INS-260329-F33F
   - INS-260329-6253
+  - INS-260514-4E9A
   - INS-260404-9CAD
   - INS-260404-6BBB
   - INS-260404-9A69
   - INS-260323-9D6E
-  - PRI-260328-39FA
+  - INS-260410-B3C2
 evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO

@@ -53,5 +53,6 @@ related:
   - INS-260404-95D0
   - INS-260329-A57C
   - INS-260327-8D7E
+  - INS-260514-60C4
 ---
 Steve Jobs' self-sent meditation on mortality softened his public image posthumously. The Applebee's executive's wage email ended his career. Tim Cook's leak warning reinforced Apple's secrecy culture for years. These examples show that written communications have an asymmetric permanence — they persist, get forwarded, screenshotted, and recontextualized long after the moment passes. Unlike verbal statements, written words create an immutable record that becomes the canonical representation of a leader's values. This creates both risk and opportunity: founders should treat every high-stakes email as if it will be read by future employees, investors, and the public. The practical discipline is to write internal communications with the permanence of a published memo, because that's effectively what they become.

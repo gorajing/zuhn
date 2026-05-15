@@ -47,7 +47,6 @@ stance: >-
   Adding scoping constraints (from var to let/const) to a programming language
   improves code reliability more than any amount of developer discipline alone.
 related:
-  - INS-260329-8DC5
   - INS-260329-9157
   - PRI-260405-2A95
   - PRI-260403-9E80
@@ -55,7 +54,6 @@ related:
   - INS-260329-3423
   - INS-260330-43E3
   - PRI-260407-4EC8
-  - INS-260410-545A
 evidence:
   - id: INS-260402-9676
     type: SUPPORTS

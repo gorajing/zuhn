@@ -63,7 +63,7 @@ related:
   - INS-260330-049B
   - PRI-260403-26B9
   - INS-260403-0435
-  - PRI-260403-5C44
+  - INS-260514-D89B
 ---
 At $50 million in revenue, Lubetzky was still packing boxes after trade shows. When an investor told him that wasn't 'CEO behavior,' he pushed back: 'If you think you're too good for something, your team will too.' This illustrates how founder behavior functions as a powerful cultural signal — employees calibrate their own standards of acceptable effort and frugality by observing what the CEO considers beneath them.
 

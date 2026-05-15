@@ -51,11 +51,11 @@ related:
   - INS-260321-99C0
   - INS-260403-566D
   - INS-260403-9B24
+  - INS-260514-7772
   - PRI-260406-818D
   - INS-260321-6437
   - INS-260404-8CA8
   - PRI-260403-E097
-  - INS-260330-78B1
 ---
 The framework insists success criteria should be a specific metric with a defined goal that's easily measurable — '10% increase in X, 50% decrease in Y, 20% adoption within 3 months.' The goal should be believable but ambitious: something that would genuinely excite the team and leadership if achieved. This concreteness transforms the success criteria from a reporting artifact into an active decision-making tool throughout the project.
 

@@ -1,9 +1,11 @@
 # Topic: workflow
 
-> 12 insights
+> 14 insights
 
+- `INS-260514-E462` [high] Separate two questions: (1) Is AI making music ethical? Yes — it's the same evolution as Pro Tools replacing tape. (2) Is training on creators' work without compensation ethical? NO — that's the actual problem. Conflating them lets bad actors win.
 - `INS-260322-1C17` [high] Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260322-7A32` [high] Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.
+- `INS-260514-CCBF` [high] The home studio revolution killed BOOKING FRICTION — the actual gatekeeper. When a producer can wake at 3am and record, label power dissolves. Same dynamic: AI agents (no engineer scheduling), AI image (no studio booking), AI writing (no editor queue).
 - `INS-260323-01A1` [high] When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
 - `INS-260322-22D0` [high] Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - `INS-260323-0982` [high] For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.

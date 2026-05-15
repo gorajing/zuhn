@@ -56,7 +56,7 @@ related:
   - INS-260404-0240
   - PRI-260406-21DA
   - INS-260403-A99F
-  - INS-260329-E45A
+  - INS-260514-EE1F
   - INS-260403-4963
 ---
 Dario reports spending a third to 40% of his time ensuring Anthropic's culture stays coherent at 2,500 employees. His method is radical transparency: biweekly 'Dario Vision Quest' memos covering models, products, industry, and geopolitics in plain language. He explicitly notes that other AI labs are already showing 'decoherence and people fighting each other' as they scale.

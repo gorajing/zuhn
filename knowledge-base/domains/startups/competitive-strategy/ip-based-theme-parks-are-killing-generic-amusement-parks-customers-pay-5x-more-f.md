@@ -42,11 +42,11 @@ resolutions:
     The lesson applies beyond theme parks: in any experience economy, IP and
     emotional resonance beat functional superiority.
 related:
+  - INS-260514-9773
   - INS-260327-5B47
   - PRI-260406-2900
   - INS-260330-F9CA
   - INS-260327-2B62
-  - INS-260403-3F91
 stance: >-
   Customers pay 2-5x more for Disney/Universal than Six Flags because branded
   attractions, $9 butterbeer, and character performers create emotional v...

@@ -21,6 +21,7 @@
 - `INS-260403-1407` Information processing equipment and software investment contributed ~2.1 percentage points to US GDP's 3.8% annualized growth in H1 2025.
 - `INS-260327-6B02` Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.
 - `INS-260403-CCED` Microsoft and Meta both beat revenue expectations but saw stock declines because investors focused on escalating AI capex eating into margins, while Alphabet and Amazon were rewarded for combining growth with execution efficiency.
+- `INS-260514-118A` Most AI companies will fail, but ALL of them spend on infrastructure. Bet on the infrastructure layer (data labeling, GPUs, compute) — you capture aggregate AI spend even when application winners are uncertain.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
 - `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.
 - `INS-260404-E544` Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.

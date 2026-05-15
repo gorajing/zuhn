@@ -49,7 +49,6 @@ stance: >-
   consistently, not by design, branding, strategy documents, or growth hacks.
 related:
   - INS-260320-9935
-  - INS-260323-D6F2
   - INS-260322-8299
   - INS-260327-415B
   - INS-260327-FEB7
@@ -58,6 +57,7 @@ related:
   - INS-260329-764E
   - INS-260330-B91E
   - INS-260402-B12D
+  - INS-260403-7732
 ---
 Lenny Rachitsky grew to 500K subscribers without tricks — his core thesis is that quality plus consistency explains nearly all content growth. He observes that 99% of content is mediocre, so the bar to stand out is achievable through sheer effort. He spends a median of 10 hours per post, with some taking hundreds, and sees a strong correlation between time invested and performance.
 

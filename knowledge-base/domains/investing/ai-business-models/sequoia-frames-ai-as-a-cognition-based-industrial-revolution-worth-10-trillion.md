@@ -56,6 +56,7 @@ related:
   - INS-260325-9C1E
   - INS-260412-5272
   - INS-260403-B280
+  - INS-260514-2705
 ---
 Sequoia Capital is positioning AI not as a technology cycle but as a civilizational inflection point — an industrial revolution built on cognition rather than physical machinery. The firm is backing this thesis with nearly $1 billion in new venture and seed funds specifically targeting next-generation AI startups.
 

@@ -14,6 +14,7 @@
 - `INS-260404-9AEC` Willpower functions as a trainable meta-skill whose gains compound across personal and professional domains simultaneously.
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.
+- `INS-260514-F5CC` Don't rely on willpower when stressed/tired/hungry. Purge the kitchen of junk food. Stack the odds.
 - `INS-260412-8401` Peachtree, Georgia built 90 miles of golf-cart roads, and the infrastructure itself — not any mandate — transformed golf carts from novelty into a community identity where 12-year-olds commute to school.
 - `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.

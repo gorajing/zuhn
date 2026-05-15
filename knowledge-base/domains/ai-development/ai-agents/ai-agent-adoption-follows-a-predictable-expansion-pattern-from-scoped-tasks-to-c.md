@@ -50,7 +50,6 @@ stance: >-
   systematically expand into QA, analytics, documentation, and product work
 related:
   - INS-260325-BC2A
-  - INS-260327-63B5
   - INS-260327-0762
   - PRI-260406-1F5E
   - INS-260403-2115

@@ -57,7 +57,6 @@ stance: >-
   If you cannot pre-state what job the customer would hire your product for, you
   should delay the meeting rather than show up with a generic deck.
 related:
-  - INS-260327-C5D9
   - INS-260403-D972
   - INS-260323-5CBE
   - INS-260323-C4E2

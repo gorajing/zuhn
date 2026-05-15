@@ -51,8 +51,8 @@ related:
   - PRI-260406-26B3
   - PRI-260406-E371
   - INS-260329-49A4
+  - INS-260514-7772
   - PRI-260406-46C3
-  - PRI-260406-BE21
 ---
 Top-down modeling starts with a revenue goal (e.g., $1M ARR) and works backward to figure out how to get there. This feels productive but hides fragile assumptions—if any conversion rate is off, the whole plan collapses silently. Bottom-up modeling forces you to specify each funnel stage: MQL volume, MQL-to-SQL conversion, win rate, sales cycle length, and average deal size. Each assumption is explicit and testable.
 

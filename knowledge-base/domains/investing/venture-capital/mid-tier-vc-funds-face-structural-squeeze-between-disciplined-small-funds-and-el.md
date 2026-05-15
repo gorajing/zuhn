@@ -58,6 +58,7 @@ related:
   - INS-260404-8CAE
   - INS-260404-7F24
   - INS-260404-81AB
+  - INS-260514-B7CA
 ---
 Venture capital returns are increasingly concentrating at two extremes: small, disciplined funds that maintain ownership efficiency, and elite, large funds with privileged deal flow. Funds stuck in the middle — without a clear structural advantage in either direction — face a compounding disadvantage.
 

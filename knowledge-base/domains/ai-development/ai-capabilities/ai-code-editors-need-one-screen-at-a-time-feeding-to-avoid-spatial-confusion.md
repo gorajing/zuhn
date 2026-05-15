@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260329-44C9
   - INS-260329-9CFE
+  - INS-260514-6DF3
+  - INS-260514-71A3
   - INS-260423-E64B
-  - INS-260329-7B1D
-  - INS-260403-F835
 evidence:
   - id: INS-260329-9CFE
     type: SUPPORTS

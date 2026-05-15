@@ -56,6 +56,7 @@ related:
   - PRI-260328-EC3F
   - PRI-260406-901E
   - INS-260404-EEA7
+  - INS-260514-FB3C
 ---
 Euclid Ventures argues that in vertical AI, being first to market is table stakes—it gets you started but doesn't keep you alive. Real defensibility comes from data feedback loops where each customer interaction improves the product in ways competitors can't replicate, combined with switching costs that make leaving painful.
 

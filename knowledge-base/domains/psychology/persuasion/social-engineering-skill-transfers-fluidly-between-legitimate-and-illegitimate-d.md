@@ -55,11 +55,11 @@ stance: >-
   legitimate and criminal application is a matter of intent rather than
   capability.
 related:
+  - INS-260514-3223
   - INS-260329-58E7
   - INS-260329-3036
   - INS-260323-FFAC
   - INS-260404-0B86
-  - INS-260330-523E
 ---
 Heather Morgan gave seminars on social engineering tactics — eavesdropping at events, name-dropping, building false familiarity — framed as business networking skills. She wrote Forbes articles on protecting against cybercrime. Simultaneously, she allegedly used these same capabilities to navigate dark markets, establish false identities in Ukraine, and orchestrate a complex money laundering operation through her legitimate company Salesfolk.
 

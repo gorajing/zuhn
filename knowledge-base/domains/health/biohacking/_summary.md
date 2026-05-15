@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 125 insights
+> 127 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -70,6 +70,7 @@
 - `INS-260326-786D` [high] Taleb's via negativa principle argues that removing the unnatural (smoking, processed food, sedentary behavior) is categorically safer than adding interventions, because additions carry multiplicative hidden risks in complex systems.
 - `INS-260404-07C3` [medium] Google DeepMind's AlphaGenome can analyze up to 1 million DNA base pairs simultaneously, focusing on the regulatory regions that control gene expression.
 - `INS-260327-F384` [medium] Animal-based nutrition supports elite surfing performance through sustained energy without crashes
+- `INS-260514-0A9A` [medium] Diet soda isn't free — 12,772 adults, 8 years, 62% faster cognitive decline vs no-artificial-sweetener group.
 - `INS-260327-7C0A` [medium] Candida overgrowth can be rapidly reduced with oregano oil caprylic acid and biofilm-disrupting enzymes
 - `INS-260327-1E16` [medium] Keto and carnivore diets dropped Saladino's testosterone from 800 to 500; adding fruit and honey back restored it, because carbohydrates signal evolutionary abundance for reproduction.
 - `INS-260327-DE4E` [medium] Optimal cold plunge is 11-12 minutes per week at 50-55F, separated from strength training by 6-8 hours; excessive cold plunging may suppress immune function.
@@ -109,6 +110,7 @@
 - `INS-260327-5B5C` [medium] Research shows sauna temperatures above 100C are associated with doubled dementia risk, while 80-100C (175-200F) provides cardiovascular and longevity benefits.
 - `INS-260325-72B6` [medium] Senolytic drugs kill accumulated zombie senescent cells in mice, reducing cancer, heart disease, and cataracts while extending lifespan.
 - `INS-260327-E092` [medium] Store melatonin doses are vastly above physiologic levels; animal studies show gonad shrinkage at mega-doses, making natural melatonin production through blue light avoidance far preferable.
+- `INS-260514-A326` [medium] Brain fog + irritability + cravings at day 3-4 isn't weakness — it's dopamine receptor downregulation. Hangs on through day 5 and it inverts.
 - `INS-260403-CA5A` [medium] Getting humans to 160 likely means we've solved cancer, heart disease, and organ failure — making further extension near-unlimited.
 - `INS-260405-C592` [medium] When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
 - `INS-260327-97AE` [medium] Therapeutic phlebotomy removes accumulated heavy metals and stored toxins from blood

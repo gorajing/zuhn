@@ -59,6 +59,7 @@ related:
   - INS-260322-627E
   - INS-260403-44C4
   - PRI-260406-E431
+  - INS-260514-026B
 ---
 The advice to 'keep your IRR tab updated before every investor call — it pays off' is easy to dismiss as tactical, but it reflects a deeper truth about investor psychology. VCs sit in dozens of meetings with founders who are vague, aspirational, and unable to answer basic quantitative questions about their own model. A founder who can pull up a current IRR calculation on demand — and explain the assumptions — stands out not because the number is magical but because it signals they've internalized investor logic.
 

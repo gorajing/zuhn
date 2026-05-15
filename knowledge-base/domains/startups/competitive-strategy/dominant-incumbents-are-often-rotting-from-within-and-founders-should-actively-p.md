@@ -46,11 +46,11 @@ stance: >-
   internally, and startup founders should actively investigate whether
   incumbents in their space are more vulnerable than they appear.
 related:
+  - INS-260514-A776
   - INS-260505-4A97
   - INS-260501-B6EE
   - INS-260404-8CEE
   - INS-260326-6870
-  - INS-260323-E81D
 evidence:
   - id: INS-260330-CA97
     type: TRANSFERS_TO

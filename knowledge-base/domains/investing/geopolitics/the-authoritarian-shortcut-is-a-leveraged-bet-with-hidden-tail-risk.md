@@ -52,7 +52,6 @@ stance: >-
   governance and bad governance, making catastrophic failure inevitable on a
   long enough timeline.
 related:
-  - INS-260323-D9CE
   - PRI-260328-E1CE
   - INS-260403-96BC
   - PRI-260323-9D46

@@ -58,8 +58,8 @@ related:
   - INS-260403-ADB3
   - PRI-260406-46C3
   - PRI-260406-BE21
+  - INS-260514-7772
   - INS-260330-78B1
-  - PRI-260406-1A4D
 ---
 Elena Verna prescribes a specific cadence for growth model evolution: layer new channels on top of existing ones, expect diminishing returns from current tactics, and allocate 20-25% of resources to exploring new growth loops. New channels take 6-18 months before showing meaningful results, so exploration must start well before current channels plateau.
 

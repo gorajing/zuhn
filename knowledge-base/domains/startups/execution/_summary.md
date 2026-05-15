@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 293 insights
+> 294 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -232,6 +232,7 @@
 - `INS-260330-DC22` [high] Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
 - `INS-260405-2299` [high] Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260329-3E28` [high] Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260514-A776` [high] Small teams with vision crush giants with resources in AI: OpenAI vs Google, Anthropic vs everyone. Research taste and coherent direction beat compute, headcount, and money. The bottleneck is intelligence, not infrastructure.
 - `INS-260405-2C44` [high] Visual alignment tools compress weeks of planning into hours by forcing concrete commitments.
 - `INS-260329-3FF3` [high] Doing something enough times guarantees outcomes that individual attempts leave to chance.
 - `INS-260405-0FC4` [high] RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.

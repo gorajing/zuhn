@@ -73,8 +73,8 @@ related:
   - INS-260330-488B
   - INS-260403-3106
   - INS-260409-1A44
-  - INS-260423-4402
   - INS-260404-9103
+  - INS-260403-BAD6
 ---
 Foroughi's diagnosis of why most current AI-driven layoffs won't deliver expected efficiency: when a team becomes bloated, the A-players are already long gone — they had options and left when the culture got slow. What's left is A-minus to B-plus people who like processoriented work, plus the B/C/D players underneath. Firing 50% of that mix leaves you with half-mediocrity, not half-of-anything-good. The only effective rebuild requires firing roughly 99% and starting from scratch — which is operationally easy for private companies and exceptionally hard for public ones.
 

@@ -52,11 +52,11 @@ stance: >-
   A system that generates every possible statement has not said anything —
   meaning requires intentional agency, not combinatorial completeness.
 related:
+  - INS-260514-273E
   - INS-260410-66C6
   - INS-260321-FB3F
   - INS-260423-AEAD
   - INS-260409-1078
-  - INS-260410-264E
 evidence:
   - id: INS-260321-FB3F
     type: TRANSFERS_TO

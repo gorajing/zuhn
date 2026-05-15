@@ -40,11 +40,11 @@ stance: >-
   (assembly-line processes, standardized techniques) achieve faster franchise
   growth because the talent bottleneck is eliminated.
 related:
+  - INS-260514-EE2E
   - INS-260329-DEA1
   - PRI-260328-B4BD
   - PRI-260323-49F8
   - INS-260329-83AA
-  - PRI-260406-72B3
 evidence:
   - id: INS-260329-83AA
     type: TRANSFERS_TO

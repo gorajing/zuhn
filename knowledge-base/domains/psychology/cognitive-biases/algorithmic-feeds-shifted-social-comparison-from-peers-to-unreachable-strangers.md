@@ -47,6 +47,6 @@ related:
   - INS-260322-5E5D
   - INS-260324-1216
   - INS-260327-8D5D
-  - INS-260327-4F94
+  - INS-260514-BAC9
 ---
 Before social media, people compared themselves to neighbors, coworkers, and friends — people sorted into roughly similar income brackets by housing markets and job markets. Even when envy existed, you could explain the difference (the guy owned a car dealership, worked hard, took risks). Algorithmic feeds now surface wealthy strangers whose income sources are invisible and unexplainable, creating free-floating images of wealth with no narrative anchor. This makes the comparison more psychologically corrosive because you can't rationalize the gap or chart a path to close it.

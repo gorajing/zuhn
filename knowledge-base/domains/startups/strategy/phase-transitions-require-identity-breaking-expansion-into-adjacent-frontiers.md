@@ -52,7 +52,6 @@ stance: >-
   operating domain
 related:
   - INS-260327-178E
-  - INS-260403-88DA
   - INS-260404-19B0
   - INS-260405-1894
   - INS-260322-88C3

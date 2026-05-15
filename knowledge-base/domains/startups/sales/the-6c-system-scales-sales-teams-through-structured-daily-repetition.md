@@ -46,13 +46,12 @@ stance: >-
   more consistent sales team performance than periodic training events.
 related:
   - INS-260327-999C
-  - INS-260327-8FD4
   - INS-260329-C56D
   - INS-260322-D57C
   - PRI-260406-CCAE
   - INS-260330-0E4B
+  - INS-260514-D155
   - PRI-260406-7FE4
-  - PRI-260403-7D1F
 evidence:
   - id: INS-260329-2ECE
     type: TRANSFERS_TO

@@ -53,10 +53,10 @@ related:
   - PRI-260328-A1AA
   - INS-260404-FC9E
   - INS-260405-34D7
-  - INS-260322-5E5D
   - INS-260327-85E2
   - INS-260330-7BAE
   - INS-260330-A25A
+  - INS-260330-E5F7
 stance: >-
   Each platform shift (PCs, web, mobile) succeeded not by doing the previous
   thing better, but by enabling entirely new behaviors

@@ -60,7 +60,7 @@ related:
   - INS-260330-B625
   - INS-260403-3F2C
   - INS-260327-8521
-  - PRI-260403-2E59
+  - INS-260514-D5B5
 ---
 Skunk Works Rule 14 is a direct counter to the default corporate pattern: 'Ways must be provided to reward good performance by pay not based on number of personnel supervised.' Kelly explained it bluntly: 'In the main plant they give raises on the basis of the more people supervised. I give raises to the guy who supervises the least. But most executives don't think like that at all — they're empire builders.'
 

@@ -55,7 +55,6 @@ stance: >-
   defer to the next generation
 related:
   - INS-260322-7DD5
-  - INS-260323-B426
   - INS-260327-A5EE
   - INS-260403-6C07
   - INS-260501-BBB7

@@ -1,6 +1,7 @@
 # Tag: capital-allocation
 
 - `INS-260410-9267` In AI firms, compute budgets will follow decision value — high-stakes roles like CEO could justify $100B+ in annual inference compute for simulation-heavy strategic planning.
+- `INS-260514-1A3D` Scientific scopes that cost 2 FTE × 6 months mid-2025 cost 2 weeks solo by late 2025 — a 12-24x compression that reprices what 'a project' means.
 - `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
 - `INS-260412-339A` Aircraft wear is determined by pressurization cycles, not flight hours, so short-haul planes doing 8-10 cycles daily age faster than long-haul planes doing one.
 - `INS-260412-8A51` Meta's $8.3B metaverse losses compounded the market's negative reaction to Facebook's user decline, creating multiplicative rather than additive punishment.
@@ -18,12 +19,12 @@
 - `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
 - `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes.
 - `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
+- `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
 - `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
 - `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
 - `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
 - `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
-- `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260403-F387` AI dominates VC funding at 40% of total capital while non-AI startups face a funding freeze, and SVB flags rising 'zombiecorns' with shaky growth.
 - `INS-260404-C28B` Anti-woke VC funds are emerging as an explicit political counter-positioning in venture capital.
 - `INS-260404-E55F` New fund launches in late 2024 cluster around European deep tech and B2B software rather than US consumer tech.

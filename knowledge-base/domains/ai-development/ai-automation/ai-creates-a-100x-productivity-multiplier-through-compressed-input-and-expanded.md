@@ -46,7 +46,6 @@ stance: >-
   output, creating a compound 100x productivity increase
 related:
   - INS-260323-F2BD
-  - INS-260320-E683
   - INS-260329-72C1
   - INS-260330-30AB
   - INS-260403-4935

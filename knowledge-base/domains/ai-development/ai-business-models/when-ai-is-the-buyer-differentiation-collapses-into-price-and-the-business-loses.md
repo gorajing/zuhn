@@ -58,6 +58,6 @@ related:
   - INS-260330-8639
   - INS-260330-F0F2
   - INS-260403-A08A
-  - INS-260410-EFD5
+  - INS-260501-3E4F
 ---
 As agentic procurement becomes the default (AI agents scanning vendors, comparing terms, auto-ordering), the value dimensions that trained-LLM agents can easily evaluate will dominate. Measurable dimensions: price, stated specs, contract terms, uptime SLAs. Unmeasurable dimensions: taste, judgment, cultural fit, founder integrity, long-term relationship quality. Businesses whose competitive position lives in unmeasurable dimensions face an existential challenge once agents do procurement at scale. Two responses: (1) make your unmeasurable value legible to agents through explicit signals (case studies, structured testimonials, API-accessible quality data) even at the cost of some loss of nuance; (2) exit the agent-procurement market entirely and compete only in human-buyer segments where your unmeasurable dimensions can land. The default path of assuming your existing differentiation will translate is the losing move.

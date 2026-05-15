@@ -48,11 +48,11 @@ stance: >-
   interaction latency.
 related:
   - INS-260327-1599
+  - INS-260514-F5D2
   - INS-260327-E9F3
   - INS-260405-12E6
+  - INS-260514-5914
   - INS-260410-5AB5
-  - INS-260329-75B6
-  - INS-260410-BC66
   - INS-260403-FA30
 evidence:
   - id: INS-260327-1599

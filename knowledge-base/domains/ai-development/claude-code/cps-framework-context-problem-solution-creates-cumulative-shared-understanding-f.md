@@ -50,13 +50,14 @@ stance: >-
   across meetings provides the essential shared understanding layer that enables
   both human teams and AI models to produce aligned outputs.
 related:
-  - INS-260321-C513
   - INS-260327-7F56
   - INS-260403-1C10
   - INS-260404-CF81
+  - INS-260321-C513
   - INS-260327-D9D6
   - INS-260329-0EAC
   - INS-260403-5BD6
+  - INS-260514-E481
 evidence:
   - id: INS-260323-CD28
     type: SUPPORTS

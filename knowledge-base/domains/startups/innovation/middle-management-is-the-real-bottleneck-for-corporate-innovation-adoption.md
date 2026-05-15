@@ -50,8 +50,8 @@ related:
   - PRI-260406-6122
   - INS-260328-D775
   - INS-260404-89DA
+  - INS-260514-D5B5
   - PRI-260406-CBC2
-  - INS-260403-4760
 ---
 The Strategyzer summit revealed a counterintuitive finding: top leadership support was among the smallest concerns for 40 innovation leaders from companies like MasterCard, GE, 3M, and Intel. The real friction point was getting buy-in from busy middle managers who already have overloaded responsibilities.
 

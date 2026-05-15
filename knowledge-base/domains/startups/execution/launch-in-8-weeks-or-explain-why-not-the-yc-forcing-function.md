@@ -46,7 +46,6 @@ stance: >-
   months regardless of what they're building — delay beyond that signals
   over-engineering, not insufficient product.
 related:
-  - INS-260321-13EA
   - PRI-260406-F443
   - PRI-260328-2014
   - INS-260403-8DB5

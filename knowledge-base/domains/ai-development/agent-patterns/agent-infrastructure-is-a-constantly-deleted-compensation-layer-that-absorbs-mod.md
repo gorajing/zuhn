@@ -61,6 +61,5 @@ related:
   - INS-260327-A9D5
   - INS-260320-DEAF
   - INS-260327-BF89
-  - INS-260501-9D73
 ---
 The pattern at Replit shows the infrastructure-around-the-model is in constant negotiation with the model itself. September 2024: build a lot of guardrails to make agents work. March 2025: delete a lot of those guardrails because the models improved. September 2025: build new infrastructure for hours-long autonomy. Late 2025: delete more code because Opus 4.6 makes autonomy native. This is a healthy relationship between application and foundation model — not a fight to maintain a moat through proprietary infrastructure, but a discipline of continuous compensation-layer pruning. The companies that fail to delete are the ones whose 2024 hacks became 2026 anchors. The companies that delete aggressively stay ahead because their product reflects the current model's strengths, not the previous model's gaps. The cultural mark: a healthy agent product team can name the things they built last year that they're now ripping out.

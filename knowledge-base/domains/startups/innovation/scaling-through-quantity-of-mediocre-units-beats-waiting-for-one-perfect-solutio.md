@@ -51,7 +51,6 @@ stance: >-
   the system with volume is a more viable strategy than optimizing each unit.
 related:
   - INS-260330-7B09
-  - INS-260402-70FD
   - INS-260403-9442
   - INS-260403-532D
   - INS-260404-B6E8

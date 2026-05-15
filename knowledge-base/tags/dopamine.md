@@ -1,6 +1,7 @@
 # Tag: dopamine
 
 - `INS-260330-2F9F` Cold water exposure uniquely raises dopamine 2.5x above baseline with a sustained multi-hour elevation rather than the spike-crash pattern of stimulants.
+- `INS-260514-A326` Brain fog + irritability + cravings at day 3-4 isn't weakness — it's dopamine receptor downregulation. Hangs on through day 5 and it inverts.
 - `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.

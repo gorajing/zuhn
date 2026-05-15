@@ -52,7 +52,6 @@ stance: >-
   because marginal costs never approach zero.
 related:
   - INS-260325-206C
-  - INS-260328-0932
   - INS-260403-FF45
   - INS-260403-91F7
   - PRI-260406-7128

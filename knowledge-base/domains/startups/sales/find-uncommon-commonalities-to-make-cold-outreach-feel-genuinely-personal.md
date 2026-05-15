@@ -57,11 +57,11 @@ stance: >-
   specific product usage, niche interests) create instant connection and
   dramatically increase response rates.
 related:
+  - INS-260514-EDBF
   - INS-260330-E263
   - INS-260327-C9A3
   - INS-260403-4963
   - INS-260323-7263
-  - INS-260329-CEC5
 evidence:
   - id: INS-260323-7263
     type: REFINES

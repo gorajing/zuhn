@@ -54,10 +54,11 @@ stance: >-
   who pace investment
 related:
   - INS-260403-738F
+  - INS-260514-118A
   - PRI-260323-68F0
   - INS-260403-B0E3
   - PRI-260405-F20C
-  - INS-260323-9FCA
+  - INS-260514-026B
 ---
 Anthropic's CEO highlights a fundamental tension in the current AI buildout: companies are committing billions to infrastructure (chips, data centers, compute) that depreciates rapidly, while revenue models remain uncertain in both timing and magnitude. The conservative approach — pacing investment to match realistic revenue projections — contrasts sharply with competitors making aggressive bets that assume AI monetization will materialize fast enough to justify the spend.
 

@@ -28,12 +28,13 @@ related:
   - INS-260320-336E
   - INS-260320-CEBE
   - INS-260320-0063
+  - INS-260514-6A62
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     An n8n workflow pulls YouTube links from Google Sheets, extracts transcripts

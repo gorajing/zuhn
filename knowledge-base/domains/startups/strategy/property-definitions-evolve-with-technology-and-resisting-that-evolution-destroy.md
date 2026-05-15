@@ -50,7 +50,6 @@ stance: >-
   by any fixed moral or legal principle, and definitions that stop working
   should be abandoned.
 related:
-  - INS-260325-40DC
   - INS-260402-2C6B
   - INS-260403-B6D9
   - INS-260405-B22F
@@ -60,6 +59,7 @@ related:
   - INS-260409-5B7B
   - INS-260410-7AC1
   - INS-260423-64FA
+  - INS-260501-B53D
 evidence:
   - id: INS-260325-40DC
     type: TRANSFERS_TO

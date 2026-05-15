@@ -41,10 +41,10 @@ resolutions:
     spend around $2,000/month.
 related:
   - INS-260404-35B6
+  - INS-260514-B4A2
   - INS-260329-727B
   - INS-260403-8BE9
   - INS-260327-9BE8
-  - INS-260403-F8B6
 stance: >-
   Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only
   consider VC if you actually need it.

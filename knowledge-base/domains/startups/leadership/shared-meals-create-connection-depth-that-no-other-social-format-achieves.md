@@ -54,7 +54,6 @@ related:
   - INS-260327-8B1A
   - INS-260329-D1B0
   - INS-260403-958C
-  - INS-260403-4963
   - INS-260403-74AC
 stance: Cooking for others and sharing meals creates a uniquely powerful social bond
 evidence:

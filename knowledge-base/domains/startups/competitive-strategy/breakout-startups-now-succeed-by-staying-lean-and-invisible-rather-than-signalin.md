@@ -50,7 +50,6 @@ stance: >-
   traditional VC signals like headcount growth, press coverage, and social media
   presence.
 related:
-  - INS-260404-459B
   - INS-260404-6FFF
   - PRI-260407-7D5E
   - INS-260403-5B46

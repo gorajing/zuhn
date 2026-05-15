@@ -51,13 +51,14 @@ resolutions:
     the current data leans toward hardware-bottlenecked progress.
 related:
   - INS-260321-8433
+  - INS-260514-3A62
   - PRI-260411-FB73
+  - INS-260514-D44B
   - PRI-260328-49CB
   - PRI-260328-C528
-  - PRI-260405-FB37
-  - INS-260403-5427
   - INS-260320-7682
   - INS-260330-4C5A
+  - INS-260403-5427
   - INS-260410-DD35
 stance: >-
   AI automating AI R&D won't produce runaway self-improvement because research

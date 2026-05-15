@@ -49,9 +49,10 @@ stance: >-
   not building it.
 related:
   - INS-260409-5C6B
+  - INS-260514-1277
   - INS-260409-654B
   - INS-260409-212F
   - INS-260501-10A0
-  - INS-260329-9A42
+  - INS-260514-2995
 ---
 The video builds a working LLM-wiki in Claude Code with Opus 4.6 in roughly an hour. The steps: feed Claude the Karpathy tweets and the schema plan, enter plan mode, create directory structure, copy transcript files into raw/, write the CLAUDE.md schema file describing Obsidian-style wiki links and conventions, seed concept pages for the domain's major axes (in the demo: market structure, strategy execution, psychology), create the wiki index, run two sub-agents in parallel to ingest the eight raw sources and generate summaries plus concept updates, and open in Obsidian for visualization. Because the pattern is so cheap to spin up, the scarce resource is no longer engineering effort — it is deciding what domain deserves a persistent compounding knowledge base, and committing to feed it sources for months.

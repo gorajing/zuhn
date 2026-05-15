@@ -63,7 +63,6 @@ stance: >-
   high-bandwidth memory physically close to thousands of parallel GPUs networked
   across racks.
 related:
-  - INS-260320-5818
   - PRI-260406-8B75
   - INS-260501-D18A
   - INS-260403-1F1B

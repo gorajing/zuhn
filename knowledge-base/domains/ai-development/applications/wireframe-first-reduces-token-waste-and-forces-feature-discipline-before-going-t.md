@@ -61,11 +61,11 @@ stance: >-
   first' the right default for any vibe-design workflow even though tutorials
   default to one-shot hi-fi generation.
 related:
+  - INS-260514-C4CF
   - PRI-260406-72B3
   - INS-260410-AC0B
   - INS-260329-44C9
   - INS-260404-0EB2
-  - INS-260403-F400
 ---
 Isenberg's deliberate workflow choice: 'I don't want to waste tokens. If I just oneshot it, I'm going to spend a ton of tokens.' Starting with a wireframe forces him to clarify which features actually matter, what the navigation structure is, what the constraints are — *before* committing tokens to hi-fi generation. The wireframe phase is cheap; iterating is cheap; locking in features is cheap. Hi-fi phase is expensive; locking in choices late is cheap; iterating is expensive.
 

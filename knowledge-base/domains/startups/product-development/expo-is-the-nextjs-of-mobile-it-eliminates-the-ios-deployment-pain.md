@@ -46,7 +46,6 @@ stance: >-
   terminal commands, making it the critical enabler for rapid mobile app
   iteration.
 related:
-  - INS-260320-8F12
   - INS-260320-F872
   - INS-260329-8DC5
   - INS-260410-4F43

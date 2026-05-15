@@ -46,12 +46,12 @@ stance: >-
   produces diminishing returns compared to reconfiguring the relationships
   between all building blocks simultaneously
 related:
-  - INS-260321-8C35
   - INS-260330-5E03
   - INS-260330-EE25
   - INS-260330-0A8D
   - INS-260410-7292
   - INS-260408-C572
+  - INS-260514-AC43
   - PRI-260405-FB37
   - INS-260412-3C64
   - INS-260403-E6F0

@@ -45,13 +45,14 @@ stance: >-
   write mode prevents the cascading hallucinations that occur when AI starts
   building with incomplete understanding.
 related:
+  - INS-260514-5389
   - INS-260321-E9B7
   - INS-260329-EAFD
   - INS-260329-3D28
   - INS-260405-1951
-  - INS-260329-9BEF
   - INS-260329-693E
   - INS-260410-5EC3
+  - INS-260514-2C6C
 evidence:
   - id: INS-260329-693E
     type: CHALLENGES

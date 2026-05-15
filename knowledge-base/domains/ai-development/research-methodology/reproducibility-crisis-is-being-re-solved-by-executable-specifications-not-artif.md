@@ -59,8 +59,8 @@ related:
   - INS-260409-FE00
   - PRI-260403-5B3D
   - INS-260330-F5A1
+  - INS-260514-1470
   - PRI-260405-3080
-  - INS-260320-4BA8
 ---
 Universe Panel discussion of reproducibility: classical method-section paragraphs were narrative descriptions that another lab could read and replicate. As things became computational, papers added increasingly large and complex code/data bundles. Eventually you had Docker containers — bit-for-bit reproducible but completely opaque. Now the pendulum is swinging back: text-based specifications of what was done, sufficient detail that an AI agent can reproduce the work. This is more reproducible than narrative (no ambiguity) AND more readable than container artifacts. The reviewer (or another AI) can re-execute the work from the spec.
 

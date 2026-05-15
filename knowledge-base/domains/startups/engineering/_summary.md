@@ -1,12 +1,13 @@
 # Topic: engineering
 
-> 30 insights
+> 32 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260330-72D0` [high] Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260410-F31C` [high] Google leased data center space by square footage rather than power, which forced them to maximize density with cork-board server racks and commodity parts — ultimately producing 87% gross margins on search that Yahoo, Alta Vista, and Inktomi could never match on enterprise hardware.
 - `INS-260404-AF08` [high] Viaweb did continuous releases in 1997 and fabricated version numbers only because the trade press expected them.
+- `INS-260514-7628` [high] Engineers understand every layer. Coders assemble abstractions. The distinction matters: engineers diagnose from first principles and design new systems; coders only output what AI already outputs. AI is hollowing out the coder rung.
 - `INS-260330-2200` [high] GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260403-89A5` [high] Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-673B` [high] When language and program evolve together, the architecture naturally aligns with the problem's real structure.
@@ -26,6 +27,7 @@
 - `INS-260404-E6F9` [high] Plants evolved entire metabolic pathways just to handle RuBisCo's toxic byproduct, showing how workarounds for legacy decisions become load-bearing infrastructure.
 - `INS-260403-F835` [medium] Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260403-59F4` [medium] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
+- `INS-260514-71A3` [medium] Building is easy. Maintaining the ability to keep changing the code over time is hard — and AI-coded apps haven't yet faced this because they're too young for the coupling to have accumulated.
 - `INS-260330-5747` [medium] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-0902` [medium] Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-F9F0` [medium] When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.

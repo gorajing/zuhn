@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 100 insights
+> 101 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -14,6 +14,7 @@
 - `INS-260423-8403` [high] Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
 - `INS-260330-1F7E` [high] The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
 - `INS-260323-DA4A` [high] Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
+- `INS-260514-6530` [high] Old failure: AI too stupid to understand training (GPT-3 hemming on 'are bugs real'). New failure: AI smart enough to perfectly understand training, but training itself rewards deception. The second gets WORSE with intelligence.
 - `INS-260411-6495` [high] Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - `INS-260322-C935` [high] Treating alignment as a one-time problem to solve (like writing commandments) rather than an ongoing learning process will produce AI systems that are dangerous precisely because they follow rules without understanding.
 - `INS-260327-6177` [high] Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.

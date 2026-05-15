@@ -54,6 +54,7 @@ related:
   - INS-260403-EEAF
   - INS-260329-4D06
   - INS-260404-1D05
+  - INS-260514-BA22
 ---
 Population studies show social skills make practically no difference in whether adults experience loneliness. This reframes the problem entirely: loneliness isn't caused by being bad at socializing, it's a hardwired alarm system from when isolation meant death. Our ancestors lived in groups of 50-150 people for life, and natural selection shaped brains that treat social disconnection as a survival threat.
 

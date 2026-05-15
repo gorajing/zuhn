@@ -47,12 +47,12 @@ stance: >-
   contradictions, orphan pages, and gaps — because this work requires global
   reading that humans find tedious and LLMs do cheaply.
 related:
-  - INS-260325-24D1
+  - INS-260514-1277
   - INS-260409-212F
   - INS-260409-0EEE
   - INS-260409-2D5C
   - INS-260409-654B
   - INS-260409-EA5A
-  - PRI-260409-9D7B
+  - INS-260514-2995
 ---
 The lint operation is the maintenance pass where the LLM reads across the full wiki looking for contradictions between claims, stale claims that newer sources invalidated, orphan pages with no incoming or outgoing cross-references, missing cross-references between clearly related pages, and gaps where a web search could fill a missing concept. The LLM is also good at proposing new questions to investigate based on what's thin in the current coverage. This is the operation humans hate most in manual wiki maintenance — global consistency checking that requires holding the entire structure in mind — and the one LLMs do most reliably, because it reduces to parallel reads followed by pairwise consistency judgments, both of which are well-matched to how LLMs actually work.

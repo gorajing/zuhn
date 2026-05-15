@@ -44,11 +44,11 @@ stance: >-
   discovery of extraterrestrial life — are absorbed gradually across
   generations, not in single revelatory moments.
 related:
-  - INS-260325-9677
   - INS-260327-684D
   - PRI-260328-9FB6
   - INS-260325-415A
-  - PRI-260328-D292
+  - INS-260514-60D5
+  - INS-260325-9677
 evidence:
   - id: INS-260327-684D
     type: EXTENDS

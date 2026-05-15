@@ -58,7 +58,6 @@ stance: >-
   scoping depends on an assumption about what Claude can't do, and that
   assumption decays with every model upgrade.
 related:
-  - INS-260320-6A9D
   - INS-260410-992A
   - INS-260403-2FAE
   - INS-260323-8D12

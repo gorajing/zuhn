@@ -44,7 +44,6 @@ stance: >-
   experience, never on the mechanism or process of delivery.
 related:
   - INS-260327-6AB1
-  - INS-260327-C5D9
   - INS-260329-C56D
   - INS-260330-87BD
   - INS-260404-896B

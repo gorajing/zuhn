@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 223 insights
+> 225 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -19,10 +19,12 @@
 - `INS-260325-21D1` [high] Babbage built his computing machines like railroad engines — massive brass gears requiring cutting-edge machining — when the successful approach used clock technology with smaller, standardized parts.
 - `INS-260330-206C` [high] Back-translation creates synthetic training data for rare language pairs, but too much synthetic data degrades quality
 - `INS-260329-5D8A` [high] Any tree-based data structure needs a balancing strategy because real-world data is rarely inserted in random order.
+- `INS-260514-2C6C` [high] Build a minimal core + project-specific extensions — not a kitchen-sink globally-enabled toolkit. Most globally-installed skills are never used and just pollute context.
 - `INS-260330-4267` [high] A simple sigmoid-based prior over word frequencies improved the Wordle solver from 4.1 to 3.6 average — a bigger gain than algorithmic sophistication alone.
 - `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260514-EE1D` [high] Harness order: rules first → skills when you repeat yourself → MCP when you need external systems → hooks when stakes rise → sub-agents when contexts conflict. Don't design the whole thing upfront. Add components when friction surfaces.
 - `INS-260410-A18B` [high] Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
 - `INS-260329-6A60` [high] Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
 - `INS-260329-B408` [high] The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.

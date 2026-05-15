@@ -65,9 +65,9 @@ stance: >-
 related:
   - INS-260410-069C
   - INS-260501-4B6F
+  - INS-260514-D44B
   - INS-260410-C63C
   - INS-260323-8637
-  - INS-260404-9DBB
 ---
 Anthropic's revenue has been going 10x per year: zero → $100M → $1B → ~$10B, with January 2026 already adding billions more. If Amodei naively extrapolated this curve to $1T revenue by end of 2027, he would need to buy $1T/year of compute (since useful compute contracts run ~5 years, this is $5T). If actual 2027 revenue came in at $800B — not a catastrophic miss — 'there is no force on earth, no hedge on earth' that could stop bankruptcy. Similarly if growth slowed from 10x to 5x. This is why Anthropic buys compute sized to 'pretty strong upside worlds' rather than the full 10x curve.
 

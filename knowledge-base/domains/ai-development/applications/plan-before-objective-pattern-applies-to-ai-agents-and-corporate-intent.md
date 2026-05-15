@@ -58,6 +58,7 @@ related:
   - INS-260322-A208
   - INS-260404-393A
   - INS-260410-614E
+  - INS-260514-F58B
 ---
 Cross-talk insight from the climate-finance and AI-agents talks: the AI agent best practice ('ask for a plan before executing toward the objective; if the plan is good, you can move forward') and the climate target credibility finding (specific plans correlate with real reduction; aspirational targets without plans correlate with greenwashing) reflect the same underlying principle. Stated intent without a concrete plan is structurally noisy — the actor hasn't operationalized their commitment. Stated intent with a concrete plan is structurally credible — operationalization is itself signal.
 

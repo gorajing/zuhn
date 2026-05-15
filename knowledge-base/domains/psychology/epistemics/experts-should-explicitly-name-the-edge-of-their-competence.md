@@ -56,10 +56,10 @@ stance: >-
   adjacent domains.
 related:
   - INS-260323-F2C3
+  - INS-260514-D5B5
   - INS-260403-6399
   - INS-260330-3A7B
   - INS-260403-96FA
-  - INS-260403-0AE1
 ---
 Throughout the interview, Paine distinguishes sharply between what she knows as a historian (what Japanese leaders faced, what Takahashi argued, when the moderate faction was purged) and what she cannot know (what was politically feasible for FDR, whether the oil embargo was the right call). When pushed, she explicitly says: 'I'm just a professor, I show up at seminar on time, my experience has not been in government let alone at the highest echelons.'
 

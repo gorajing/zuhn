@@ -61,11 +61,11 @@ related:
   - INS-260330-F140
   - INS-260403-2138
   - INS-260404-3959
-  - INS-260403-D5BB
   - INS-260403-5F41
   - INS-260403-AB55
   - INS-260403-CDB0
   - INS-260403-BADB
+  - INS-260410-939B
 ---
 James Evans's research on what's inside deep reasoning models: take an autoregressive LLM, RL it on a bank of 100K problems with reward for correctness, and look inside the resulting reasoning traces. Systematic finding: ~500% more conversational behavior than base models, ~9000% more positive-vs-negative engagement between internal sub-agents. The harder the problem, the more 'internal societies' the model spins up. These societies are diverse — Big Five analyses show them more dramatic, more extroverted, more open, less agreeable than the base model on average. Forcing models to talk to themselves inside contexts via Shapley-style mechanisms reproduces this benefit. Mechanism: diverse perspectives are required to escape local optima in hard problem search.
 

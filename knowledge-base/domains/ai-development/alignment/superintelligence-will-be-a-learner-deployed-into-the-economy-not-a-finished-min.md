@@ -64,14 +64,14 @@ stance: >-
   job but a highly sample-efficient learner that becomes superintelligent
   through deployment and continual learning.
 related:
-  - INS-260323-FCBB
   - INS-260327-0F42
   - INS-260327-9610
   - INS-260403-0406
   - PRI-260321-7307
   - INS-260321-1A0B
   - INS-260329-EDA2
-  - PRI-260407-ED1C
+  - INS-260514-DB6E
+  - INS-260323-FCBB
 ---
 Sutskever argues the term 'AGI' and the pre-training paradigm jointly misled the field. Pre-training makes models uniformly better at everything, which primed people to think of AGI as a static 'finished mind' that knows every job. But a human being is not AGI in that sense — a human lacks enormous knowledge and instead relies on continual learning. The real target is an efficient learner, not an omniscient system.
 

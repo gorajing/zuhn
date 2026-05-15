@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 86 insights
+> 87 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -61,6 +61,7 @@
 - `INS-260409-3CCA` [high] Writing the story doesn't feel like work, so founders skip the most important part of the job.
 - `INS-260330-9BF5` [medium] Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
 - `INS-260323-4AF5` [medium] Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
+- `INS-260514-ABBB` [medium] Builders are Enneagram 'eights' (disruptive truth-tellers). Most companies conspire against them because they're inconvenient. Apple-bringing-Steve-back era proved giving eights longer runs produces better outcomes. Actively seek them, don't filter them out.
 - `INS-260403-4AF3` [medium] Research on 25 young billion-dollar founders reveals that hardship and neurodivergence appear where traditional filters would screen them out.
 - `INS-260323-8B22` [medium] Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260323-E2ED` [medium] When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.

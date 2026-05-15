@@ -49,6 +49,6 @@ related:
   - INS-260404-32C5
   - INS-260329-975C
   - INS-260403-A6B1
-  - INS-260329-7C08
+  - INS-260514-23D6
 ---
 Asked how tactically to write the story, Horowitz gives a medium-specific answer: 'it depends on what medium you are best at articulating yourself in, but writing it out long form helps a lot because it forces you to be the most disciplined on it — you have to have a running articulation of the why.' The implicit argument is that speech, video, and slide decks all let you gesture at concepts without forcing precision — you can wave your hands, cut to the next slide, or rely on the audience filling in the gaps. Prose removes those escape hatches: either the sentence says what you mean or it doesn't. This has a general application beyond startups: for any complex position you hold, writing it long-form is the test of whether you actually believe it or are performing belief.

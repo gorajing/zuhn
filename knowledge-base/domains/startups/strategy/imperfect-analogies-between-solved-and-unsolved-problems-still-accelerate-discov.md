@@ -53,7 +53,7 @@ related:
   - INS-260330-38E1
   - PRI-260407-684A
   - PRI-260412-7664
+  - INS-260514-049E
   - PRI-260324-3B70
-  - INS-260408-C572
 ---
 String theory requires 10 dimensions but our universe has 4, so theorists work in model universes they can solve and attempt to extract insights applicable to reality. The video's analogy is apt: studying rowing boat blueprints won't directly build a cruise ship, but both are 'things that float' and share structural principles. This maps directly to startup strategy and problem-solving. When facing an intractable problem, find a simpler proxy that shares the core structural features. Study a smaller market before entering a large one. Build a toy version of your product to learn architectural constraints. Analyze how an adjacent industry solved a similar coordination problem. The proxy won't give you the answer, but it will reveal structural constraints and solution patterns that transfer. The key is identifying which features are structurally shared versus superficially similar.

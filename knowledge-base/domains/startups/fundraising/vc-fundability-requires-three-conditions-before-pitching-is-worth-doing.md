@@ -54,7 +54,6 @@ stance: >-
   positive customer signals waste capital-raise cycles that are difficult to
   recover from due to investor memory effects.
 related:
-  - INS-260327-7DBC
   - INS-260403-6ACB
   - INS-260403-21DB
   - INS-260403-0303

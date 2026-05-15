@@ -46,7 +46,6 @@ stance: >-
   threshold, good programmers leave and stop applying, creating a
   self-reinforcing decline that no company has ever recovered from.
 related:
-  - INS-260327-D888
   - INS-260330-48C6
   - INS-260330-D52B
   - INS-260330-790A
@@ -54,7 +53,6 @@ related:
   - INS-260404-E651
   - PRI-260407-F684
   - INS-260330-5747
-  - INS-260405-F378
   - INS-260412-D367
 evidence:
   - id: INS-260330-790A

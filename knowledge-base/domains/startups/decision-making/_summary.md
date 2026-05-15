@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 8 insights
+> 9 insights
 
 - `INS-260410-DDD0` [high] When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.
 - `INS-260423-70CF` [high] Michael: when companies come to me scared about a competitor's funding, my first question is always 'have you used the product?'
@@ -11,3 +11,4 @@
 
 - `INS-260424-AE8B` [medium] Google Cloud lead: in 2013 conventional wisdom said custom silicon was a bad idea, but the initial TPU bet was 30-40 people and low tens of millions of dollars — big and controversial at the time, but the cost of failure was low and the cost of success significant.
 - `INS-260405-809E` [medium] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
+- `INS-260514-48C0` [medium] Time in finance/quant trains a specific cognitive habit (odds, expected value, rational tradeoffs) that transfers to startup decisions — founders without that background tend to make worse calls on big deployments and customer fit.

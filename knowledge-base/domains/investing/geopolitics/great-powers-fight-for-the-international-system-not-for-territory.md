@@ -56,8 +56,8 @@ related:
   - PRI-260328-79DA
   - INS-260330-F8A2
   - INS-260330-CA88
+  - INS-260514-83C0
   - INS-260327-3675
-  - INS-260323-17B5
 ---
 Paine argues the Japanese were baffled that America would risk total war over China, because they saw the conflict at the operational level — specific territories, specific resources. Americans were looking at the strategic level: if big countries can overrun small ones, the entire system of rules, laws, and freedom of navigation collapses, and with it the prosperity that depends on open commerce.
 

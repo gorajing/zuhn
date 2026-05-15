@@ -48,13 +48,13 @@ resolutions:
 related:
   - INS-260323-0C3A
   - INS-260329-560D
+  - INS-260514-F073
   - INS-260323-8AA1
   - INS-260501-70FE
-  - INS-260329-BCB7
   - INS-260322-750A
-  - INS-260327-0F42
   - INS-260327-CECA
   - INS-260328-6A18
+  - INS-260329-BCB7
   - INS-260329-180B
 stance: >-
   Productivity apps are beginner-friendly to build but impossible to win because

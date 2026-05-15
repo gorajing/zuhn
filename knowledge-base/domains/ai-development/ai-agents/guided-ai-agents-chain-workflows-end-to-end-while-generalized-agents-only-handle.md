@@ -48,16 +48,16 @@ stance: >-
   generalized agents because industry context — tone, cadence, compliance rules
   — cannot be reliably inferred by general-purpose LLMs.
 related:
-  - INS-260322-EAB6
   - PRI-260320-D5B7
-  - PRI-260320-BC72
   - INS-260327-D020
   - INS-260410-F910
   - INS-260403-F112
   - INS-260404-6BD6
   - PRI-260406-1F5E
+  - INS-260322-EAB6
   - INS-260410-62E8
   - INS-260410-1030
+  - INS-260410-53C2
 evidence:
   - id: INS-260327-73BE
     type: SUPPORTS

@@ -12,5 +12,6 @@
 - `INS-260329-0117` The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
 - `INS-260403-1358` Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - `INS-260412-7E99` Tata doesn't just operate in many industries — they rank top 5-10 globally in multiple verticals simultaneously.
+- `INS-260514-80C4` Barabási's artist research: those who exhibited in many diverse places (Italy, Switzerland, local) succeeded more than those who only exhibited in elite venues — diversification of attempts beats elite venue concentration.
 - `INS-260330-9E26` Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260403-52DB` Managing multiple business models across lifecycle stages — not optimizing a single one — is how companies survive disruption.

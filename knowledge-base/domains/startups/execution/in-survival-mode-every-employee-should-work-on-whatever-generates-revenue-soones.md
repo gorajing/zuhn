@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260330-23CD
   - INS-260320-DEAF
+  - INS-260514-58B1
   - INS-260403-EFAF
   - INS-260404-9D14
-  - INS-260327-3E23
 evidence:
   - id: INS-260327-3E23
     type: SUPPORTS

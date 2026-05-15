@@ -48,6 +48,6 @@ related:
   - INS-260329-2865
   - INS-260330-82B5
   - INS-260323-CF27
-  - INS-260329-C996
+  - INS-260514-273E
 ---
 The instinct to apologize in cold outreach stems from social anxiety about uninvited contact, but it backfires by framing the entire interaction as the sender imposing on the recipient's time. Investors expect cold pitches — it's literally part of their deal flow. An apology reframes a normal professional interaction as a transgression, which lowers the sender's perceived status and confidence. This applies broadly to any professional cold outreach: the opening frame sets the power dynamic for the entire exchange. Leading with value ('We've built X that does Y') rather than permission ('Sorry to bother you') positions the sender as a peer offering an opportunity rather than a supplicant asking for a favor.

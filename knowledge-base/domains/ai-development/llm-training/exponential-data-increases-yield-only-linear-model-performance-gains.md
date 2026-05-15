@@ -45,7 +45,6 @@ stance: >-
   Scaling training data alone hits diminishing returns, making data quality and
   architecture the primary differentiators between frontier models
 related:
-  - INS-260323-13C0
   - INS-260323-D18D
   - INS-260323-4E12
   - PRI-260320-3032
@@ -53,8 +52,9 @@ related:
   - INS-260329-5F96
   - INS-260330-206C
   - INS-260320-7B4B
+  - INS-260514-838D
   - INS-260413-F638
-  - PRI-260411-D39C
+  - INS-260330-CAE6
 ---
 As language models are trained on exponentially more data, the resulting performance improvements are only linear. This means that once all competitors have access to roughly the same volume of internet-scraped text, models converge toward similar capability levels on that axis alone.
 

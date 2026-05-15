@@ -52,11 +52,11 @@ stance: >-
   learn from data.
 related:
   - INS-260325-D392
+  - INS-260514-DC55
   - INS-260501-FDF0
   - PRI-260412-7664
   - INS-260330-F889
   - INS-260330-97A0
-  - PRI-260406-0CA4
 ---
 Mokhechi's weather AI system uses neural operators with spherical-harmonic basis functions — meaning the architecture has Earth's spherical geometry built in as a hard structural constraint. Two consequences: (1) resolution independence — the model takes input at any resolution and produces output at any resolution; (2) inherits Earth's spatial structure for free rather than needing to learn it from data. Combined with CRPS-optimized probabilistic outputs (continuous ranked probability score, a proper scoring rule), the model produces calibrated probabilistic forecasts at IFS quality but ~1000x faster, replacing the IFS deterministic supercomputer pipeline.
 

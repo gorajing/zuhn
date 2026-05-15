@@ -1,6 +1,7 @@
 # Tag: trust-building
 
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
+- `INS-260514-3974` AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist.
 - `INS-260330-8DCE` Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
 - `INS-260404-B0DC` Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260409-2EF3` Teach the problem, not the product — the product then appears as the obvious answer the reader already wanted.

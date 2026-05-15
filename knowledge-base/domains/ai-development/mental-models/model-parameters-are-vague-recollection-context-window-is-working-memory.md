@@ -60,10 +60,10 @@ related:
   - INS-260330-4FB9
   - INS-260405-6C88
   - INS-260409-3059
+  - INS-260514-D5F0
   - PRI-260320-07A4
   - INS-260501-BCCB
   - INS-260409-6DBE
-  - INS-260330-125E
   - INS-260501-2BE3
 ---
 Karpathy's framing: a model's billions of parameters are a lossy compression of what it was trained on, so factual recall resembles something you read weeks ago — probabilistic, biased toward frequently-seen content, unreliable for long-tail facts. The context window, by contrast, is information the network has direct mathematical access to during the current forward pass, analogous to information currently in your visual field or working memory.

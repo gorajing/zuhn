@@ -53,8 +53,8 @@ related:
   - INS-260329-FEA6
   - INS-260404-A9D0
   - INS-260412-DF15
+  - INS-260514-18AF
   - INS-260410-9168
-  - PRI-260328-6A8D
   - INS-260409-E8B3
 ---
 Social platforms have a single terminal goal: keep users scrolling so they see more ads. Every component of the recommendation system — from topic classification to sample testing to boost decisions — is a proxy for 'will this specific user stay longer if we show them this specific video?' Understanding this reframes every creator tactic: your job is not to impress the algorithm, it is to make content that helps the algorithm successfully match viewers to something they will watch instead of closing the app.

@@ -58,10 +58,9 @@ resolutions:
 related:
   - INS-260323-8544
   - PRI-260406-32FE
+  - INS-260514-0239
   - INS-260405-C56F
   - INS-260330-70B9
-  - INS-260403-A868
-  - INS-260330-B08E
   - INS-260329-920D
 stance: 'In normal-distribution games (coin flips for $1), optimize for the average'
 evidence:

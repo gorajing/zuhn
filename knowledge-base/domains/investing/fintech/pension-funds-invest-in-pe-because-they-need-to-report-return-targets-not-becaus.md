@@ -51,10 +51,10 @@ stance: >-
   requirements.
 related:
   - PRI-260328-8993
+  - INS-260514-B7CA
   - INS-260403-FA65
   - INS-260404-81AB
   - INS-260405-EFC1
-  - INS-260403-49EC
   - INS-260330-7199
 evidence:
   - id: INS-260330-855A

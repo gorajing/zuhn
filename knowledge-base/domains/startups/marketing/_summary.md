@@ -1,6 +1,6 @@
 # Topic: marketing
 
-> 10 insights
+> 11 insights
 
 - `INS-260412-0CAA` [high] Nokia contracted a top-tier independent ad agency (MOTHER) for an all-out campaign blitz, recognizing that brand re-entry is a one-shot moment that demands memorable, resonant advertising.
 - `INS-260423-595B` [high] Seth Godin: Volkswagen's decision to write code defeating European emissions tests was a marketing move — but the marketing department probably wasn't in the room.
@@ -11,4 +11,5 @@
 - `INS-260409-1BFD` [medium] Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - `INS-260410-FA70` [medium] Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
 - `INS-260410-7AA0` [medium] In B2B enterprise software, brand is the identity that scales trust across a global buyer base — underinvesting in it cedes the most leveraged asset you can build.
+- `INS-260514-BAC9` [medium] Trust hierarchy inverted: celebrity brands are exhausted (50th Kardashian launch), micro-influencers saturated, NANO-influencers (regular friends with small followings) are the new top tier. Brands optimizing for big-creator reach in 2026 work against the gradient.
 - `INS-260409-5FE5` [medium] Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.

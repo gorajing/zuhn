@@ -63,7 +63,7 @@ related:
   - INS-260403-DAA9
   - PRI-260406-1AC6
   - PRI-260328-0BA6
-  - INS-260403-F0AA
+  - INS-260514-283E
 ---
 The technical mechanism: when you create a skill.md file, the YAML frontmatter (name, description) is injected into the system prompt as available skills. The body of the skill (the actual instructions, examples, code snippets) is NOT injected. When the agent encounters a task, it scans the available skill names+descriptions and decides which (if any) is relevant. If yes, it loads the full skill content into context for that specific task. If no, no extra cost.
 

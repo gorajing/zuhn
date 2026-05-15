@@ -54,12 +54,13 @@ stance: >-
   word-of-mouth virality pharma normally cannot achieve.
 related:
   - INS-260330-242D
-  - INS-260404-D68E
   - INS-260402-E040
   - INS-260403-B462
   - INS-260410-5581
   - INS-260410-DCE5
   - INS-260411-CBCF
+  - INS-260514-BAC9
+  - INS-260404-D68E
   - INS-260330-629E
   - INS-260423-187E
 ---

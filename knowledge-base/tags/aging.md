@@ -11,6 +11,7 @@
 - `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
 - `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
+- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260327-5943` Fasting with a cortisol-to-DHEA ratio above 0.5 is counterproductive -- it accelerates catabolism, suppresses immunity, and may promote cancer growth; older adults are especially vulnerable.
 - `INS-260327-F2E2` Gut health declines after 40 primarily from reduced stomach acid enzyme production and microbiome diversity loss
 - `INS-260325-785D` Most anti-aging skincare contains endocrine disruptors and barrier-damaging chemicals that paradoxically accelerate skin aging.

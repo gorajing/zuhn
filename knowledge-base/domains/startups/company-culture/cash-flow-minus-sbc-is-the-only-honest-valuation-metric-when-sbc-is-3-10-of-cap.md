@@ -64,9 +64,9 @@ stance: >-
 related:
   - INS-260323-9A29
   - INS-260329-2A70
+  - INS-260514-639F
   - INS-260323-5C25
   - INS-260403-54FF
-  - INS-260327-14E6
 ---
 Foroughi's structural argument: tech has normalized stock-based compensation as a ~3% of cap table annual burn, which produces a downward spiral when stock prices fall. Stock down 66% means SBC burn is now 10% of cap table — incredibly hard dilution to recover from. AppLovin solved this by limiting SBC to top 10-15% of company; everyone else gets cash comp plus optional ESP discount-buy. The annual SBC is $300M against a $150B market cap (0.2%), genuinely unburdensome.
 

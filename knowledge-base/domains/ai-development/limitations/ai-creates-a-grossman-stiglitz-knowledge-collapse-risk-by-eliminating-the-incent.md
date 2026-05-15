@@ -58,7 +58,6 @@ related:
   - INS-260403-22C2
   - INS-260403-C135
   - INS-260403-9F78
-  - INS-260505-0E06
 ---
 Acemoglu, Kong, and Ozdaglar extend the Grossman-Stiglitz Paradox beyond financial markets to all knowledge production. When humans struggle to solve problems independently, they generate a 'thin public signal' — accidental discoveries that accumulate into collective knowledge. AI short-circuits this by delivering correct answers instantly, removing the incentive to struggle. The economy can tip into a 'knowledge-collapse steady state' where general knowledge vanishes despite high-quality personalized advice.
 

@@ -51,5 +51,6 @@ related:
   - INS-260410-BE5A
   - INS-260325-5501
   - PRI-260325-2800
+  - INS-260514-7546
 ---
 Two-thirds of the 150,000 daily human deaths are age-related. The video frames aging as a combination of accumulated cellular damage (DNA breaks, repair system degradation) and specific genes that directly regulate aging — both of which are theoretically addressable through genetic engineering. Some animals are naturally immune to aging, suggesting the genetic blueprints already exist in nature. The reframe from 'aging is inevitable' to 'aging is an engineering problem' has second-order implications: life planning, retirement, career structure, and relationship dynamics all assume a ~80-year lifespan. Even partial success (extending healthy lifespan by decades) would require fundamental rethinking of societal institutions built on mortality assumptions.

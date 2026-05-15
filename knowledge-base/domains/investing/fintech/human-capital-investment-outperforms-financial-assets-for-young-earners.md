@@ -47,7 +47,6 @@ stance: >-
   Investing all excess income in skill-building education yields higher lifetime
   returns than index fund investing for people under 30
 related:
-  - INS-260329-FC6D
   - INS-260329-1D8D
   - INS-260329-E76F
   - PRI-260403-C229

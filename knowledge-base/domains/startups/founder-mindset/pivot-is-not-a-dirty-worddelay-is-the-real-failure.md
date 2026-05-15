@@ -45,10 +45,10 @@ stance: >-
   when the only real failure is not pivoting three months earlier.
 related:
   - INS-260409-2578
+  - INS-260514-ADDC
   - PRI-260328-EC3F
   - INS-260325-311F
   - INS-260403-600C
-  - INS-260330-4AE7
 evidence:
   - id: INS-260330-8134
     type: TRANSFERS_TO

@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260330-6C7F
   - INS-260330-4711
+  - INS-260514-DC55
   - INS-260405-D3B5
   - INS-260323-849E
   - INS-260323-F5EF
-  - INS-260323-0827
 evidence:
   - id: INS-260323-F5EF
     type: TRANSFERS_TO

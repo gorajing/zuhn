@@ -55,8 +55,9 @@ related:
   - INS-260410-19DE
   - INS-260329-8CC0
   - INS-260410-0855
+  - INS-260514-283E
   - INS-260320-0F7C
-  - INS-260329-CF48
+  - INS-260514-1D60
 ---
 Most MCP clients load every tool definition into the model's context upfront, so an agent connected to thousands of tools burns hundreds of thousands of tokens before reading the request. Anthropic's alternative is to present each MCP server as a directory of TypeScript files (e.g. ./servers/google-drive/getDocument.ts), each wrapping a callMCPTool invocation behind a typed interface.
 

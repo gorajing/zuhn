@@ -50,7 +50,6 @@ stance: >-
   models win
 related:
   - INS-260323-4794
-  - INS-260327-130C
   - INS-260403-330E
   - INS-260403-8256
   - INS-260403-E93A
@@ -59,6 +58,7 @@ related:
   - INS-260403-3106
   - INS-260405-B6CB
   - INS-260403-C6C3
+  - INS-260514-118A
 ---
 The current AI infrastructure boom follows the classic picks-and-shovels pattern: while application-layer AI companies face model commoditization risk and rapidly shifting capabilities, infrastructure providers (compute, data pipelines, deployment tooling, cloud optimization) benefit from increasing demand across all AI approaches. This makes infrastructure a more defensible investment thesis because it's agnostic to which specific models or applications win.
 

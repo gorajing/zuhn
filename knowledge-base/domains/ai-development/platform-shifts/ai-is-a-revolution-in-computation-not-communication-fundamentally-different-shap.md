@@ -62,5 +62,6 @@ related:
   - INS-260409-A8A3
   - INS-260410-0430
   - INS-260501-BC7C
+  - INS-260514-33F4
 ---
 Most living technologists have only experienced communication revolutions: the internet democratized access to information, the cloud democratized access to compute, mobile democratized access to interfaces. The pattern was: a new way to move information enables new businesses on top. AI breaks this pattern. AI doesn't move information faster; it processes information differently. The implication is that the playbooks from communication revolutions don't directly transfer. Network effects in communication came from connecting users; network effects in computation come from accumulating context, taste, and judgment. Distribution-as-moat in communication came from owning interfaces; distribution-as-moat in computation comes from owning the cognitive workflows. Founders who pattern-match on cloud/mobile/internet build the wrong product because they assume the disruption shape is the same. The strategic implication: read the AI era through computation analogies (aluminum production, electricity, factory automation) rather than communication analogies (newspapers becoming digital, retail becoming e-commerce). The industrial revolution is a closer reference frame than the internet was.

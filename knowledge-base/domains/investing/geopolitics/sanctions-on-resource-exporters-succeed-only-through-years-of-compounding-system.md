@@ -55,7 +55,7 @@ related:
   - PRI-260321-0A4D
   - INS-260403-5710
   - INS-260403-940F
-  - INS-260330-5A0B
+  - INS-260514-AC07
 ---
 Iran's case demonstrates the long arc of sanctions effectiveness. The regime has been forced into bifurcated budgets (rial vs crude-oil allocations), selling oil primarily to China through unconventional channels, and using oil shipments as direct payment for military operations. Combined with a self-inflicted water crisis and banking failures, sanctions have produced 42% official inflation (likely higher), 72% food price surges, and currency collapse.
 

@@ -1,6 +1,6 @@
 # Topic: business-analysis
 
-> 53 insights
+> 55 insights
 
 - `INS-260412-24DB` [high] WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260410-641D` [high] An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
@@ -20,6 +20,7 @@
 - `INS-260410-E5C9` [high] Oracle, IBM, and DEC all ran 70-80% margin hardware/license businesses and couldn't bring themselves to compete with AWS's 20-30% margin cloud — their cost structures, sales motions, and investor expectations were all calibrated to the old model.
 
 
+- `INS-260514-7772` [high] Public SaaS signal in 2026: it's not your absolute growth rate, it's whether your guidance is rising or falling vs the expanding budget around you. Monday raised guidance → +20%; HubSpot lowered → -18%, on similar absolute numbers.
 - `INS-260410-5981` [high] Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260410-6CE5` [high] Greg Abel signals that 2026 will see Berkshire write LESS property-casualty and reinsurance business because 'additional capital entered the market, resulting in lower pricing' — deliberate shrinkage rather than chasing a softening cycle.
 - `INS-260412-8C4F` [high] Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
@@ -53,6 +54,7 @@
 - `INS-260412-8A51` [medium] Meta's $8.3B metaverse losses compounded the market's negative reaction to Facebook's user decline, creating multiplicative rather than additive punishment.
 - `INS-260412-51C1` [medium] Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
 - `INS-260405-C0AF` [medium] Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
+- `INS-260514-839D` [medium] Niche collectibles markets are simpler than they look — 2 variables (pull cost + desirability) explain 88% of Pokemon TCG price variance. Find the dominant variables; ignore the long tail.
 - `INS-260410-9A20` [medium] Staged 'busy office' tours are a fraud tell — real businesses don't need to fake activity for visiting analysts.
 - `INS-260412-B4B6` [medium] Samsung's $2M investment in FUBU when it was about to fail, which generated $6B in subsequent sales, reveals an underappreciated venture-style capital allocation capability within conglomerates.
 - `INS-260412-10FD` [medium] Superyachts cost roughly 10% of their value annually to maintain, but owners justify this as business infrastructure because a single deal closed on board can pay back the investment many times over.

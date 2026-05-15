@@ -61,16 +61,16 @@ stance: >-
   because current per-token costs are orders of magnitude below the value of
   thinking harder.
 related:
-  - INS-260323-7625
   - INS-260320-9FD5
   - INS-260325-4FF3
   - INS-260405-6A94
-  - INS-260403-E78C
   - INS-260405-A22F
   - INS-260409-B15B
   - INS-260410-2FEE
   - INS-260410-B8EB
+  - INS-260323-7625
   - INS-260325-BEAC
+  - INS-260424-E832
 ---
 Noam Shazeer does the Fermi estimate: even a trillion-op-per-token model comes out to about a million tokens per dollar. A paperback costs roughly 10,000 tokens per dollar; talking to a human support agent is ~100 tokens per dollar; a lawyer or software engineer is 1-10 tokens per dollar. The gap between LLM inference cost and the value of the cognitive labor it can substitute for is 4-6 orders of magnitude.
 

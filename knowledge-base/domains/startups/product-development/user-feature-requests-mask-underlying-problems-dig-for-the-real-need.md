@@ -46,7 +46,6 @@ stance: >-
   Building features users explicitly request creates Frankenstein products; the
   real value comes from identifying the underlying problem behind each request.
 related:
-  - INS-260329-DFD1
   - INS-260330-178D
   - INS-260330-139D
   - INS-260330-FFDB

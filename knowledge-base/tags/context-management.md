@@ -11,4 +11,6 @@
 - `INS-260410-761B` Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
 - `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.
 - `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
+- `INS-260514-23D6` Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't.
+- `INS-260514-F74B` Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain.
 - `INS-260320-63D3` Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.

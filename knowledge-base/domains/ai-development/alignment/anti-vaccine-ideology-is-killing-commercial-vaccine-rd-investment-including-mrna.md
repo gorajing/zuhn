@@ -58,10 +58,10 @@ stance: >-
   entire mRNA therapeutic pipeline including cancer treatments
 related:
   - INS-260322-E7E9
+  - INS-260514-42B6
   - INS-260322-3A00
   - INS-260404-17DD
   - INS-260330-8998
-  - INS-260403-4E71
 ---
 Moderna's CEO stated the company will not invest in new late-stage vaccine trials because growing opposition from US officials makes return on investment impossible. Regulatory delays, narrowed eligibility populations, and government-sowed confusion about vaccine safety have shrunk the addressable market. This represents a concrete mechanism by which ideological movements destroy scientific capacity: not through banning research, but by making it commercially unviable.
 

@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260327-A903
   - INS-260403-6428
+  - INS-260514-EDBF
   - INS-260330-D272
   - INS-260403-CF44
-  - INS-260323-D783
 ---
 Corcoran's observation that 'Slack doesn't build culture, shared memory does' captures why so many remote teams feel disconnected despite heavy tool adoption. Digital communication handles information transfer well but fails at creating the emotional bonds that make people sacrifice for each other and stay through hard times. A story from a dinner lasts longer than any company memo.
 

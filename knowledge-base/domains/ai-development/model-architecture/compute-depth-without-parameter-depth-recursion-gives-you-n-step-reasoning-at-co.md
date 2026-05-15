@@ -60,7 +60,7 @@ related:
   - INS-260501-FE35
   - INS-260325-FDA9
   - INS-260329-4109
-  - INS-260405-7305
+  - INS-260514-817B
 ---
 Chollet's structural insight: in a transformer with 100 distinct layers, each layer has its own weight matrix. In a recursive model that calls one layer 100 times, you have one weight matrix shared across all calls. The compute time is similar (you're still doing 100 forward passes through a transformer block), but the parameter count is 100x smaller — drastically reducing memory footprint, gradient memory during training, and inference deployment cost.
 

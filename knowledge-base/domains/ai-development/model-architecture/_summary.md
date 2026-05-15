@@ -1,7 +1,8 @@
 # Topic: model-architecture
 
-> 38 insights
+> 45 insights
 
+- `INS-260514-93F1` [high] When the math is about to blow up, fall back to slightly-older snapshots of yourself. Like using a moving average to filter daily stock-chart noise.
 - `INS-260405-1F0B` [high] Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
 - `INS-260501-BCCB` [high] Attention = perfect memory in context. Parametric memory = compression + abstraction. They lose and win at different things.
 - `INS-260501-94AC` [high] Same weights applied N times = same compute as N-layer stack with 1/N the parameters.
@@ -9,12 +10,17 @@
 - `INS-260410-5EE7` [high] A neural net with one linear layer + softmax trained on NLL converges to exp(W) equal to the explicit bigram count matrix, so the two frameworks are the same model reached by different paths.
 - `INS-260410-2FEE` [high] With 27 tokens a bigram table has 729 entries but a 10-gram table would need 27^10 ≈ 2×10^14 entries — tables are structurally unscalable, which is the real reason neural language models won.
 - `INS-260405-5649` [high] Biological neurons operate in milliseconds on minimal power; H100 GPUs process billions of times faster but consume massive energy—these are fundamentally different engineering solutions to intelligence, not points on a spectrum.
+- `INS-260514-DC55` [high] If the ball can bounce left or right, a generative model predicts both blurry directions averaged. Architecturally forced, not a tuning problem.
 - `INS-260405-7383` [high] Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
+- `INS-260514-F277` [high] Three views: recent uncompressed (last 128 tokens), moderately compressed with sparse retrieval, heavily compressed (128:1) for big picture. Same as how a student studies.
 - `INS-260505-584B` [high] Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in.
+- `INS-260514-9281` [high] DINO v3 hit 88.4% on ImageNet with zero labels — first self-supervised model to match weakly-supervised baselines. Generative pretraining was the wrong path for vision.
+- `INS-260514-0101` [high] Force residual connections to satisfy doubly-stochastic matrix constraints (rows and columns sum to 1). Signal can't blow up because the math forbids it.
 - `INS-260505-23FB` [high] Use Earth's geometry as a basis function, not a learning target — spherical harmonics give the model the right inductive bias for free.
 - `INS-260505-1684` [high] Same model that predicts what a variant does can be inverted to design what variant to make.
 - `INS-260501-646A` [high] End-to-end is right. End-to-end alone is not. You need structured intermediate representations for runtime validation, closed-loop training, and human feedback integration.
 - `INS-260410-268D` [high] WaveNet-style tree structures that fuse two elements at a time through multiple layers preserve more information than flattening all context into a single hidden layer.
+- `INS-260514-657E` [high] GPT Image 2.0 plans layout via reasoning BEFORE generating — stabilizing complex multi-panel outputs (brand kits, slide decks, app flows) that previously required iterative single-image generation.
 - `INS-260501-FE35` [high] A 7M-parameter TRM beats a frontier LLM on ARC-AGI by recursing the same weights at inference time — recursion is a scaling axis distinct from parameters.
 - `INS-260410-5033` [high] Residual connections give gradients a direct additive path from loss to input, so deep networks stay trainable even when internal blocks start as near-noise.
 - `INS-260410-85F5` [high] The sqrt(d_k) divisor in attention keeps variance at 1 so softmax stays diffuse at init instead of collapsing to one-hot.
@@ -26,6 +32,7 @@
 - `INS-260410-1789` [high] Every transformer block pairs attention (tokens gather info from each other) with a feedforward MLP (each token thinks privately) — communication without computation underfits.
 - `INS-260501-6374` [high] 31-element sort + 30-layer transformer = impossible. Transformer layers ARE the reasoning steps; you can't exceed your depth.
 - `INS-260505-AE40` [high] Correlate with nearest neighbors in the right order — long-range structure still propagates through the chain of conditionals.
+- `INS-260514-F58B` [high] LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.
 - `INS-260501-033B` [medium] Brains recover from massive damage because their building blocks are uniform — that's the design lesson for architectures that should generalize.
 - `INS-260501-2D0A` [medium] Protein folding has quantum effects, but a classical neural net solves it. Maybe most 'quantum' problems are tractable classically with the right framing.
 - `INS-260410-9303` [medium] The brain's 'special sauce' is a large set of innately wired, species-specific reward functions — not a clever learning algorithm or architecture.

@@ -55,8 +55,8 @@ related:
   - INS-260501-91C2
   - INS-260411-6106
   - INS-260423-8504
+  - INS-260514-791A
   - INS-260404-5882
-  - INS-260320-9D89
 ---
 Anthropic observed a recurring failure in early versions: the lead agent issued short, ambiguous instructions to subagents, and the subagents either duplicated the same searches or explored different time periods entirely. In one case, one subagent investigated the 2021 automotive chip crisis while two others redundantly looked at current 2025 supply chains.
 

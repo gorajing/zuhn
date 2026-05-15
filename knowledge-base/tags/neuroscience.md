@@ -12,6 +12,7 @@
 - `INS-260330-A256` Randomized controlled trials show children who spend 1-2+ hours outdoors daily progress less in nearsightedness than indoor-heavy peers, regardless of screen time.
 - `INS-260325-3AE4` fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
+- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260330-5D64` Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
 - `INS-260330-2726` Creatine fuels the phosphocreatine system in the brain — supporting executive function, rule-switching, and even partially offsetting cognitive decline from sleep deprivation.
 - `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
@@ -34,8 +35,6 @@
 - `INS-260323-433B` Our subjective 'now' is an extended window of roughly 200-300ms of perceptual latency, stitched together with episodic memory and anticipation — not a mathematical instant.
 - `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
 - `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
-- `INS-260404-C258` The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
@@ -47,6 +46,8 @@
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260325-9B9A` Heavy screen use does not just exploit weak impulse control — it actively stunts the brain's ability to develop that control, creating a vicious cycle.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
+- `INS-260404-C258` The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-45FF` Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
 - `INS-260330-70A8` David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.

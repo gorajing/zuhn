@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260325-F21D
   - INS-260403-BF09
+  - INS-260514-70CB
   - INS-260327-41A9
   - INS-260402-0392
-  - INS-260410-0741
 evidence:
   - id: INS-260327-41A9
     type: CONTRADICTS

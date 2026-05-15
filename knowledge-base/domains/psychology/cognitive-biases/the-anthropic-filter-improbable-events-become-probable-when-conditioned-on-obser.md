@@ -48,7 +48,6 @@ resolutions:
     whether the act of asking the question requires that outcome to have
     occurred. The improbability may be the filter, not the mystery.
 related:
-  - INS-260325-436A
   - INS-260327-0692
   - INS-260330-F60B
   - PRI-260406-A33C

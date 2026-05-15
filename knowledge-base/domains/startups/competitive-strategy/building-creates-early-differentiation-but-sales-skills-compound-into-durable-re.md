@@ -51,7 +51,6 @@ stance: >-
   sales and reputation skills scale better over time because they compound while
   building skills depreciate with new tools and competitors.
 related:
-  - INS-260322-D6B8
   - INS-260327-4E36
   - INS-260327-60A0
   - INS-260328-0C87

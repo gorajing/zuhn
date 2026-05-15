@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-5B59
   - INS-260330-09E3
+  - INS-260514-D5B5
   - INS-260327-2A73
   - INS-260327-5CB6
-  - INS-260404-8520
 ---
 Vikrama Dhiman's 3 W's framework decomposes PM career growth into three dimensions: (1) what you produce—the tangible artifacts and outcomes, (2) what you bring to the table—your unique perspective, skills, and domain knowledge, and (3) what your operating model is—how you work, collaborate, and make decisions.
 

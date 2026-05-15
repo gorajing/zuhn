@@ -46,11 +46,12 @@ stance: >-
   fasting periods that allow receptor sensitivity to restore.
 related:
   - INS-260330-9E25
+  - INS-260514-A326
   - PRI-260406-449E
   - INS-260330-E823
   - PRI-260407-3EB6
-  - INS-260330-0C31
   - INS-260325-DC90
+  - INS-260330-0C31
   - INS-260330-0149
 evidence:
   - id: INS-260330-9E25

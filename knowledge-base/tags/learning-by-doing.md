@@ -1,5 +1,6 @@
 # Tag: learning-by-doing
 
+- `INS-260514-2705` Superintelligence = time-traveler from 2025 dropped into the Roman Empire with the strategic roadmap but still needing iterative learning-by-doing. 100x speedup of industrial revolution plausible. Magic teleportation to nanobots: not.
 - `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - `INS-260325-2AA0` Experimental archaeologists who physically recreate ancient technologies discover knowledge that decades of artifact analysis missed entirely.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.

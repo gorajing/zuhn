@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260330-0C10
   - INS-260330-EA8B
+  - INS-260514-B9C3
   - INS-260327-DF8B
   - INS-260323-EECF
-  - PRI-260407-1D23
 evidence:
   - id: INS-260323-EECF
     type: SUPPORTS

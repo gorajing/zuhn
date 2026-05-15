@@ -22,5 +22,5 @@
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
 - `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
 - `INS-260404-AD2B` Larger organizations face exponentially higher stakes that demand more rigorous compliance, which creates proportionally greater friction for innovation teams.
-- `INS-260403-361D` Don't overcorrect on location flexibility — physical businesses, deeptech, and regulated industries still have hard geographic dependencies.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
+- `INS-260403-361D` Don't overcorrect on location flexibility — physical businesses, deeptech, and regulated industries still have hard geographic dependencies.

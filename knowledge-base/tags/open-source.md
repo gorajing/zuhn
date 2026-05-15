@@ -19,6 +19,7 @@
 - `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260405-82F3` Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means.
 - `INS-260410-59F4` Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
+- `INS-260514-6576` Open-source devs contributed to GitHub; Microsoft bought GitHub; trained Copilot on the open-source code; sold the result as a closed subscription.
 - `INS-260410-F053` Zuckerberg frames distillation as the surprise-strong technique of the last year — ~95% of a teacher model's intelligence captured at ~10% of the cost — and says the point of open-sourcing behemoth models is to enable distillation, not direct deployment.
 - `INS-260323-23B9` Zuckerberg argues open source AI models become safer through increased scrutiny, faster bug discovery, and rapid version rollouts -- the same dynamic that made open source software more secure than proprietary alternatives.
 - `INS-260410-BB93` Whoever wins the scaffolding layer can vertically integrate downward into models because they have the data liquidity to fine-tune any capable open-source checkpoint.
