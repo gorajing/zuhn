@@ -60,8 +60,8 @@ related:
   - INS-260405-4091
   - INS-260403-5384
   - PRI-260328-A1AA
+  - INS-260519-F9D6
   - INS-260403-5CAD
-  - INS-260409-C14E
   - INS-260404-3CBE
 ---
 Gil's career demonstrates a consistent thesis: when new platforms create new generations of developers, the leverage sits in the toolchain. His first expression was Mixer Labs (geo APIs for early smartphone developers), and the same logic later led to investments in Figma and GitLab. In the AI era, he applies the same lens — while AI-native applications can succeed through distribution, the most resilient value accumulates in infrastructure, observability tools, and the 'middle layers' that sit in the critical path of deployment.

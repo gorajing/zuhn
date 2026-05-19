@@ -60,7 +60,6 @@ related:
   - INS-260405-94A1
   - INS-260405-CB93
   - INS-260405-1EFD
-  - INS-260405-9F92
 ---
 Investors processing hundreds of decks develop heuristic checklists — scalable business, large market, customer validation, clear team, defined ask. These boxes must be checked quickly and legibly. A deck that buries its traction on slide 11 or explains its market size in dense prose fails not because the business is weak but because the presentation doesn't serve the reader's scanning behavior.
 

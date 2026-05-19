@@ -57,7 +57,7 @@ related:
   - INS-260403-4120
   - INS-260405-A992
   - INS-260501-4C5E
-  - INS-260405-F26B
+  - INS-260519-20E0
 ---
 Kyu So's vision (Stanford AI for Science Lab): for 500 years, knowledge was represented in static, passive papers. Years of research compress into something a reader has to manually decode and apply. New approach: every paper auto-converts into a 'paper agent' — an AI agent that can explain its methods, apply its techniques to new data the user provides, and collaborate with other paper agents. Stanford team has run this on alpha-genome (Google's AI gene model paper) + an ADHD genetics paper — the two paper agents independently discover a new mutation associated with increased ADHD risk. Conference experiment: AI-first-author submissions allowed for the first time, ~200 submissions, 48 accepted, AI strongest in later research stages (writing, analysis), human input still important in earlier stages (formulating ideas).
 

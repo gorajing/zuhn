@@ -44,7 +44,7 @@ related:
   - INS-260409-143C
   - INS-260409-0988
   - INS-260404-A19C
+  - INS-260519-78E6
   - INS-260403-76F5
-  - INS-260326-F845
 ---
 Michael draws the analogy: founders imagining an acquisition process are running the same mental model as a fundraise — pitch to strangers, close in weeks. Both are implausible without prior warmth. If you haven't been in conversation with potential acquirers for months, the starting point is too cold to convert within any useful timeframe. This means zombies without a pre-existing corp-dev relationship pipeline should treat acquisition as effectively unavailable and plan accordingly. The realistic options collapse to 'keep trying the radical thing' or 'shut down.'

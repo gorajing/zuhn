@@ -46,7 +46,7 @@ related:
   - INS-260423-81C4
   - INS-260323-0C3A
   - INS-260403-A486
-  - INS-260330-F0F2
+  - INS-260519-D007
 stance: >-
   Start on cheap beginner gear at home and rent professional equipment (e.g.,
   Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.

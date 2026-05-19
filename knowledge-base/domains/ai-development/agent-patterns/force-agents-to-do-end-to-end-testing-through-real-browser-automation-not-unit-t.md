@@ -57,8 +57,8 @@ related:
   - INS-260410-CD79
   - INS-260410-9D86
   - INS-260410-315B
+  - INS-260519-20E0
   - INS-260323-4B4D
-  - INS-260424-5759
   - INS-260501-247C
 ---
 Anthropic's most stubborn failure mode wasn't bad code — it was Claude marking features 'done' after passing unit tests or curling an endpoint, while the actual user-facing flow was broken. Without explicit prompting to test like a user, the agent's verification stops short of the screen.

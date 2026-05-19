@@ -63,9 +63,9 @@ related:
   - INS-260402-15A7
   - INS-260403-44FF
   - INS-260409-EC0C
+  - INS-260519-78E6
   - INS-260403-8450
   - INS-260330-D5BD
-  - PRI-260406-8C9D
 ---
 Nvidia watched Intel dominate the CPU and the motherboard for two decades, had to live humiliatingly as a PCI Express peripheral in data centers, and only launched the Grace CPU in 2022 when they had a specific architectural reason: data center GPU clusters needed a CPU designed from the ground up to orchestrate GPU workloads. A less patient CEO would have launched a 'me-too' CPU a decade earlier out of competitive frustration and gotten crushed on margins.
 

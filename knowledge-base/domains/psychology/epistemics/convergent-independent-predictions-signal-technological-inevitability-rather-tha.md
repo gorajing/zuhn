@@ -56,6 +56,7 @@ related:
   - INS-260330-7ABB
   - INS-260405-809E
   - INS-260403-3AE7
+  - INS-260519-553B
 ---
 Tesla in 1926, Watkins in 1907, and Bush in 1945 all independently predicted instant worldwide communication with pocket-sized devices. Clarke and Asimov separately predicted tablet computing and self-driving cars. When multiple unconnected thinkers arrive at the same forecast from different starting points, the prediction likely reflects a structural trajectory baked into the technology's physics and economics rather than any individual's genius.
 

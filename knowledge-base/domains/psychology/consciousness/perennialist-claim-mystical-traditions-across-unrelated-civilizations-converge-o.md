@@ -51,11 +51,10 @@ related:
   - INS-260330-24DD
   - INS-260403-7E1F
   - PRI-260323-D475
+  - INS-260519-553B
   - INS-260323-8966
   - PRI-260406-05B1
   - INS-260330-C8D7
-  - INS-260323-3E21
-  - INS-260409-55F6
   - INS-260409-5E35
 ---
 Perennialist claims like Chase Hughes's — that ~190 independent sacred traditions arrived at the same 'five truths' — are often used to argue those truths are metaphysically real. A more defensible reading is that humans everywhere have the same nervous system, the same capacity for meditative absorption, ego dissolution, and unitive experience, and the same linguistic problem of describing pre-verbal states. The convergence tells us something real about contemplative phenomenology and about constraints on how minds model selfhood — but it does not, by itself, confirm non-dualism or any specific ontology. Treat the convergence as high-value data about cognition, not as proof of metaphysics.

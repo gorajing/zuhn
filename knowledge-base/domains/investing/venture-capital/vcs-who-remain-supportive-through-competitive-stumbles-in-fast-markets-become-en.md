@@ -58,10 +58,10 @@ stance: >-
   behind competitors become enablers who prevent the hard conversations that
   might trigger survival actions
 related:
+  - INS-260519-F9D6
   - INS-260325-EE14
   - INS-260423-FF52
   - INS-260404-6BBB
-  - INS-260328-7942
-  - INS-260403-5762
+  - INS-260519-2A13
 ---
 The pre-AI VC orthodoxy held that board members should be supportive during difficult periods, providing emotional stability and patience that founders needed to execute through stumbles. This was calibrated for markets where recovery windows existed. The 2026 AI environment has collapsed recovery windows — one quarter of falling behind often becomes permanent loss of market position. In this environment, the supportive-investor behavior produces the opposite of intended effect: it reassures founders that their trajectory is recoverable when it is not, enabling them to continue operating a strategy that has already failed. Jason Lemkin names this enabling pattern explicitly, distinguishing it from legitimate support. The practical distinction: support in 2026 means being clear-eyed about competitive position and willing to have uncomfortable conversations about whether the current strategy is viable. Enabling is cheerleading without that clarity. For founders: recognize the difference between investors who are supportive-honest and those who are supportive-pleasant, and weight their input accordingly. For investors: discomfort-avoidance at board meetings is a signal that you are failing your fiduciary obligation to the company's long-term outcome.

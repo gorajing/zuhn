@@ -46,7 +46,6 @@ stance: >-
   Specialized agents should maintain their own memory stores instead of sharing
   a global config file that grows with every addition.
 related:
-  - INS-260405-8166
   - INS-260409-7C62
   - INS-260501-4C5E
   - INS-260423-FF53

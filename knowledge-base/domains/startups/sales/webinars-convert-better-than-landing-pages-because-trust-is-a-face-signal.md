@@ -47,7 +47,7 @@ related:
   - INS-260325-3B2A
   - INS-260403-88F8
   - INS-260403-8CDC
+  - INS-260519-E596
   - INS-260330-1002
-  - INS-260321-E5C5
 ---
 Claire's webinar format allocated 20 minutes to education (LinkedIn strategy, personal brand tactics) before 20 minutes of product demo. The educational front half paid the audience to stay; the demo then benefited from earned attention and the prospect's direct observation of the founder's voice, tone, and thinking. Written copy cannot transmit these signals — they are the part of trust that bypasses conscious evaluation. Webinars are also self-selecting: showing up means a prospect will invest 40 minutes, which pre-qualifies intent. The combination of trust signal and qualification explains why live formats consistently outperform passive funnels for high-consideration purchases.

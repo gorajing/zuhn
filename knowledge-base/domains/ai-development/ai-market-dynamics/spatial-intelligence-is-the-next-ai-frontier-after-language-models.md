@@ -62,6 +62,7 @@ related:
   - INS-260403-267B
   - INS-260403-A1DF
   - INS-260325-2C31
+  - INS-260519-C808
 ---
 Fei-Fei Li at the reception: language models are now powerful enough that the next frontier is clear — spatial intelligence. The ability to generate, interact with, and manipulate pixels (and 3D space) is to robotics, physical-world design, and creativity what language is to text-based reasoning. World Labs (her company) was founded in 2024 around this thesis. The current limitation is real: today's video and 3D generation models produce physically implausible outputs, can't reason about object permanence, can't sustain consistent geometry across views. Spatial intelligence is the unlock for robotics that actually works in the physical world, for design tools that understand 3D constraints, for AI that perceives reality.
 

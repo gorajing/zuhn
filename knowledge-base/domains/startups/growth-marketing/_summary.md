@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 155 insights
+> 158 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -43,6 +43,7 @@
 - `INS-260327-65F6` [high] Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any pric
 - `INS-260322-0247` [high] Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260330-1A23` [high] Free samples designed to eliminate the user's ability to revert create permanent lock-in.
+- `INS-260519-945C` [high] Elena Verna (Lovable): treat product give-away as the line item that replaces Google/Meta spend — it is the best acquisition channel by a wide margin.
 - `INS-260410-BA1A` [high] Spotify needed users to hear about it ~8 times before signing up, so early marketing deliberately saturated small geographies like Sweden and US college towns.
 - `INS-260403-6032` [high] Set region-specific prices reflecting local purchasing power — Netflix charges $15 in the US but $2.50 in Pakistan for the same product.
 - `INS-260327-7BE4` [high] Businesses that advertise low headline prices then add fees during checkout create more consumer resentment than busines
@@ -92,6 +93,7 @@
 - `INS-260327-6A45` [high] Once functional features converge, commoditized products re-differentiate through aesthetics, limited editions, and bran
 - `INS-260327-484F` [high] Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260329-F73D` [high] Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
+- `INS-260519-32D9` [high] Emily Kramer (MKT1): the teams that win do less, better — the things that work for who they uniquely are, letting everything else fall away.
 - `INS-260330-70BC` [high] eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260327-C9A3` [high] People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
 - `INS-260409-7C92` [high] Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
@@ -141,6 +143,7 @@
 - `INS-260327-98F7` [medium] Ship, post, get feedback—that learning loop beats any formal education for content and startup skills.
 - `INS-260410-9A10` [medium] Lalit Modi explicitly called controversy 'a pillar of the IPL' and ran the player auction as a deliberately offensive 'cattle and sheep' spectacle because he knew the outrage cycle would generate more attention than any ad spend could.
 - `INS-260323-8165` [medium] Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
+- `INS-260519-BFBF` [medium] Emily Kramer (MKT1): a 'gen marketer' — a generalist excellent at combining fuel + engine, thinking in big-bet campaigns, fluent in generative AI — beats siloed sub-functions.
 - `INS-260404-2032` [medium] Owned media audiences can be converted into startup launch services, creating a flywheel that feeds both content growth and investment access.
 - `INS-260405-543B` [medium] Memes achieve virality through audience co-ownership of the humor — resharing feels like self-expression, not advertising, which is why they outperform paid equivalents.
 - `INS-260514-822C` [medium] The modern GTM engine: content drives intent → intent powers outbound → outbound responses inform content, all underpinned by foundational AI that personalizes each layer.

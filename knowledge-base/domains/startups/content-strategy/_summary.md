@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 75 insights
+> 76 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260405-3F0F` [high] Google ranks pages; AI cites statements — this single difference demands a claim-first approach to content structure.
@@ -53,6 +53,7 @@
 - `INS-260330-CDE1` [medium] Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms.
 - `INS-260329-409F` [medium] You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
 - `INS-260423-49F1` [medium] Dan Koe: people don't follow creators for one piece of content — they follow for a body of coherent work; each essay compounds on the last, and AI cannot replicate a coherent philosophy built through years of genuine thinking.
+- `INS-260519-0A9F` [medium] Elena Verna (Lovable): Lovable's first millions in ARR came from a CEO public and transparent across channels; willingness to build in public is almost a hiring requirement now.
 - `INS-260404-B0DC` [medium] Sustained high-volume free value delivery builds trust capital that later converts into business opportunities at rates impossible through cold outreach.
 - `INS-260403-CBED` [medium] Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260409-01E7` [medium] Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.

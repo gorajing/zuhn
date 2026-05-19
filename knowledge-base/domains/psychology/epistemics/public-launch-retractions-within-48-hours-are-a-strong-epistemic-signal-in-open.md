@@ -54,6 +54,6 @@ related:
   - INS-260330-0F52
   - PRI-260328-6A8D
   - PRI-260328-2014
-  - INS-260330-1D9D
+  - INS-260519-E596
 ---
 The April 7 2026 retraction is itself an artifact worth studying. The community found specific problems within hours (wrong tokenizer heuristic, overstated 30x compression, misleading 34% palace boost framing, unwired fact_checker.py) and the maintainers wrote a detailed correction rather than editing silently or doubling down. They named contributors who filed issues, quantified each error (AAAK regressed 96.6% → 84.2%, not 30x lossless), and shipped the fixes in the same commit wave. This is the behavior closed products structurally cannot do — marketing orgs almost never self-publish lists of overclaims because the incentive gradient runs the other way. Use launch-retraction presence as a cheap signal when evaluating open-source project integrity.

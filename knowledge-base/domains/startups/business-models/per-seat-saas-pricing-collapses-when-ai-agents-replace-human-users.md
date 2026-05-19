@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260325-73C0
   - INS-260321-7109
-  - INS-260330-0F23
   - INS-260403-4E16
   - INS-260403-EC1D
   - INS-260403-AFBC
@@ -58,6 +57,7 @@ related:
   - PRI-260406-B785
   - INS-260403-75E3
   - INS-260404-B8EB
+  - INS-260501-8E5C
 ---
 The traditional SaaS per-seat pricing model assumes value scales with human headcount. But when AI agents handle CRM updates, customer support, and HR workflows, companies need fewer seats while consuming more compute. Klarna dropping Salesforce and Workday illustrates this — they replaced human-operated SaaS with AI automation, making per-seat fees nonsensical.
 

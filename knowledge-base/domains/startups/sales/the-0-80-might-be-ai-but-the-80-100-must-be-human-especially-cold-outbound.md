@@ -61,7 +61,7 @@ related:
   - INS-260514-60C4
   - INS-260327-8D7E
   - INS-260403-A6B1
-  - INS-260327-4E28
+  - INS-260519-2A13
 ---
 Parsa's hard-won discipline: if you lean too much into an LLM, you start speaking like an LLM, and recipients stop reading. The boundary: 0→80 is fine for AI (research, list-building, drafting). The 80→100 must be human — the final copy, the strategic decisions, the pulling-of-insights. Specifically: 10 cold outbound messages per day should be entirely human-written. 'Maybe use the LLM for the research step, but the text, the copy should be authentic to yourself.' Parsa deliberately introduces small typos and double-spaces into his manually-written copy — not unprofessional enough to harm, but human enough to be convincingly real. Founders who stick to the 10-a-day rule find success faster than those who automate it.
 

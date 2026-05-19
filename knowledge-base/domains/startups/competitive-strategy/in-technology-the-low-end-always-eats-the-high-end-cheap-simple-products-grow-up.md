@@ -48,7 +48,6 @@ stance: >-
   entire market because inexpensive products are easier to make powerful than
   powerful products are to make cheap.
 related:
-  - INS-260322-144E
   - INS-260329-21AF
   - INS-260330-0C96
   - INS-260412-EC27

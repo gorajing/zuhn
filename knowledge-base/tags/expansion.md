@@ -7,3 +7,4 @@
 - `INS-260405-5CCD` The champion, not the salesperson, is the real closer in bottom-up enterprise deals.
 - `INS-260403-BC3B` Airbnb moved from air beds to spare rooms to professional rentals to hotels along a predictable continuum.
 - `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
+- `INS-260519-78E6` Josh Epstein (Coder): you always close the first deal; the second proves value landed — if you're not staffing and writing docs for expansion before the first closes, you're not planning to win.

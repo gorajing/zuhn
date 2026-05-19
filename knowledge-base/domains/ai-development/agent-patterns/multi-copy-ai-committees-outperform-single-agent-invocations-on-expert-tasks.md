@@ -59,8 +59,8 @@ related:
   - INS-260330-38DA
   - INS-260403-A360
   - INS-260403-3D61
+  - INS-260519-746D
   - INS-260505-415C
   - INS-260403-296C
-  - INS-260403-13AF
 ---
 The single-invocation mental model (one prompt, one response) leaves large quality gains on the table. Microsoft's published work on medical diagnosis showed that spawning multiple copies of the same model, each assigned a distinct role (primary care, specialist, skeptic, patient advocate) and allowing them to debate, produced diagnosis quality that exceeded individual physicians. The mechanism is that different roles surface different considerations, and the debate structure forces the model to defend its reasoning against adversarial critique. Hinton explicitly names this: it is the multi-opinion framework that real medicine uses, simulated via prompt engineering. For any expert domain where AI is being deployed (legal review, financial analysis, strategic planning, medical diagnosis), the committee pattern is a near-universal quality lever available at the cost of 3-5x tokens. The implementation is simple: define 3-4 roles relevant to the task, prompt each separately with the same context, then feed all responses to a synthesis prompt. Organizations using AI for expert tasks without this pattern are systematically under-utilizing their existing model capabilities.

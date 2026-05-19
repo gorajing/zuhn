@@ -53,12 +53,12 @@ related:
   - INS-260323-9AA5
   - PRI-260323-6644
   - INS-260412-3F34
-  - INS-260403-3AE7
+  - INS-260519-553B
   - INS-260330-5BC4
   - INS-260330-0E49
   - INS-260403-D5BB
   - INS-260405-5702
-  - INS-260403-BADB
+  - INS-260403-3AE7
 stance: >-
   The Shapiro-Destiny debate demonstrates that two intelligent people with
   different foundational priors will interpret identical data points in oppo...

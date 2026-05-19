@@ -46,10 +46,10 @@ stance: >-
   CTA, because the mini-offer's lower psychological barrier matches the
   visitor's actual state of intent.
 related:
+  - INS-260519-299F
   - INS-260404-F26B
   - INS-260404-B0DC
   - PRI-260328-BDC2
   - PRI-260406-0E64
-  - INS-260330-178D
 ---
 Most visitors arriving at a site are not purchase-ready, so a 'book a call' or 'buy' CTA filters for the small minority who already trust the brand. Replacing this with a free or low-cost mini-offer that solves a narrow adjacent problem gives unready visitors a reason to exchange contact information, dramatically expanding the top of the funnel. The mini-offer works because it matches the visitor's current intent level — they came looking for information, not to transact. The economic insight is that conversion lift compounds: you capture leads you'd otherwise lose forever, and those leads convert downstream because they've already engaged. The same 100 visitors who produce 1 direct-sale conversion can produce 3-5 contactable leads via mini-offer, and a fraction of those become paying customers at higher total yield.

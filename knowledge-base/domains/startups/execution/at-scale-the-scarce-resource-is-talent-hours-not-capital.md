@@ -52,9 +52,9 @@ related:
   - INS-260327-B959
   - INS-260330-ABB1
   - INS-260403-9DBA
+  - INS-260519-D007
   - INS-260514-AE3E
   - INS-260514-66E5
   - INS-260514-CEEA
-  - INS-260327-42F0
 ---
 Microsoft was never capital-constrained from year two onward. Bill Gates confirmed that in any given year he could not deploy all available dollars because the constraint was the number of smart people available to execute. Vista is the cautionary tale: it became a black hole that sucked in distinguished engineers from other divisions (Brian Valentine had to leave Exchange, which was crushing it, to go fix Vista — he eventually left for Amazon). While Microsoft's best systems people were stuck on Vista, they weren't working on search, mobile, or social, and a generation of them ended up building AWS instead. For any company large enough that cash is not the binding constraint, the right question when evaluating initiatives is not 'can we afford the investment' but 'which of our best people are we taking off the field, and for how long.' Bad acquisitions that only lose money are cheap compared to projects that lock up elite engineers for years.

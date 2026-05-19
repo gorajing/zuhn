@@ -46,7 +46,6 @@ stance: >-
 related:
   - INS-260325-13B9
   - INS-260328-9574
-  - INS-260329-A9B7
   - INS-260329-C089
   - INS-260330-CCD8
   - INS-260330-5EA4
@@ -54,6 +53,7 @@ related:
   - INS-260402-4AB4
   - INS-260403-AA0B
   - INS-260403-260B
+  - INS-260403-5F41
 ---
 Merging 'Problem' and 'Solution' onto a single slide is a common mistake that shortcuts the emotional and cognitive arc investors need to travel. When the solution immediately follows the problem statement, investors haven't had time to fully accept the severity or prevalence of the problem—so the solution feels less compelling than it deserves.
 

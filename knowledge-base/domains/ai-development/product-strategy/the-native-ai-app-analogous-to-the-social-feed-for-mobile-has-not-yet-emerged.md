@@ -58,10 +58,10 @@ stance: >-
   what the scrollable social feed was for mobile-internet — has not yet emerged
   and represents the largest unsolved product opportunity
 related:
-  - INS-260321-C5AA
   - INS-260409-B2B5
   - INS-260424-5759
   - INS-260403-2115
-  - INS-260325-175B
+  - INS-260321-C5AA
+  - INS-260519-20E0
 ---
 Platform shifts produce a delayed phenomenon: early on, the new platform hosts translations of older forms (newspapers as HTML, TV shows on YouTube). Eventually, native forms emerge that exploit the platform's specific affordances (the social feed, the recommended-video page, the marketplace). These native forms accumulate disproportionate value because they are native to the platform's strengths. The native AI application has not yet emerged. ChatGPT is a translation of the search box. Cursor is a translation of the IDE. Notion AI is a translation of the document. Each is useful but none is native to AI's specific affordances. Speculative directions: the conversational interface that maintains memory across years of usage like a personal companion, the agentic-team-as-product where users hire entire AI teams for time-bounded projects, the always-on screen-sharing assistant that operates ambiently. None has reached durable product-market fit yet. The strategic implication for founders: building the AI-translation-of-X is a viable short-term play but is structurally a placeholder; the next decade's largest AI companies will be those that find the native form. Looking for AI products whose value would not exist without AI's specific affordances (continuous conversation memory, multi-modal blending, always-on ambient assistance) is the filter for native-form candidates.

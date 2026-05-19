@@ -48,10 +48,10 @@ related:
   - INS-260329-A011
   - INS-260329-DE17
   - INS-260403-2A30
-  - INS-260403-7318
   - PRI-260406-1A4D
+  - INS-260403-7318
+  - INS-260519-4BC8
   - INS-260330-0102
   - INS-260403-D8DB
-  - PRI-260405-64B2
 ---
 Traditional burn rate tells you how fast you're spending but nothing about what that spending accomplishes. Risk Burn Efficiency (RBE) forces a harder question: did this capital convert assumptions into evidence? A startup that spends $500K and validates two acquisition channels plus product-market fit has high RBE. One that spends the same on headcount growth with no new insights has low RBE. Tracking this metric over time reveals when you're spending to learn versus spending to maintain — a distinction that determines whether the next fundraise gets easier or harder. Boards and investors respond to RBE because it's a longitudinal measure of execution quality, not just financial discipline.

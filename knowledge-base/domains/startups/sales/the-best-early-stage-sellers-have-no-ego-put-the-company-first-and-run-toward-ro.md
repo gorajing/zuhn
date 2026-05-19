@@ -66,15 +66,15 @@ stance: >-
   away from failures.
 related:
   - PRI-260328-E870
+  - INS-260519-0A9F
   - INS-260330-1B37
   - INS-260328-3A00
   - INS-260327-02DF
-  - PRI-260403-7BEC
   - INS-260327-1996
   - INS-260327-31BD
   - INS-260327-978B
-  - INS-260330-63BA
   - INS-260403-0AE1
+  - INS-260404-A6D4
 evidence:
   - id: INS-260327-978B
     type: CHALLENGES

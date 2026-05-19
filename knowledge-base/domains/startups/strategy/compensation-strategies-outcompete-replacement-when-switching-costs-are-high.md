@@ -48,7 +48,6 @@ stance: >-
   its flaws is more viable than replacing it — and this pattern produces durable
   competitive advantages.
 related:
-  - INS-260403-EFAF
   - INS-260404-E6F9
   - INS-260404-76DD
   - INS-260404-84FE

@@ -62,7 +62,6 @@ related:
   - INS-260514-D155
   - PRI-260406-AFA7
   - INS-260405-443C
-  - INS-260423-4402
 ---
 When core metrics are declining, companies instinctively hire growth leaders expecting a turnaround. Elena Verna argues this is a category error: growth teams optimize and amplify existing product-market fit signals through experimentation and channel development. They cannot fix fundamental product problems, competitive displacement, or eroding PMF.
 

@@ -63,9 +63,9 @@ related:
   - INS-260403-A7D6
   - INS-260404-B407
   - INS-260403-7B93
+  - INS-260519-78E6
   - INS-260404-1ADA
   - INS-260329-27DF
   - PRI-260327-117F
-  - INS-260327-C5D0
 ---
 The classical startup failure pattern had multi-year recovery windows: a bad product launch could be salvaged with a pivot, a missed quarter with a better next quarter, a misaligned hire with a replacement. The 2026 AI environment collapses these windows because barriers to entry are structurally low (most capability is in the shared foundation models) and capital is abundant for competitors (multiple funded alternatives at every position in the stack). When five teams are racing and one has a bad quarter, one of the other four will not, and they capture the market. The practical founder implication: treat every quarter as existential and every execution mistake as potentially terminal. For investors, this argues against the classical supportive-investor posture during rough periods — Jason names this as becoming an enabler. The useful investor in 2026 is clear-eyed about competitive position and willing to be difficult about execution quality, not cheerleading through a death spiral. The uncomfortable implication: many current AI startups are heading toward permanent loss states that could have been prevented by harder feedback 6-12 months earlier.

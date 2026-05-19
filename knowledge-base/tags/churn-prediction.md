@@ -1,0 +1,3 @@
+# Tag: churn-prediction
+
+- `INS-260519-E248` Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.

@@ -1,6 +1,6 @@
 # Topic: ai-agents
 
-> 65 insights
+> 67 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260325-7FAF` [high] The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
@@ -51,8 +51,10 @@
 - `INS-260322-76B5` [medium] A Bali-based cybersecurity consultant now works 30 minutes per day — reviewing agent-completed security tests and reports that previously took one person two weeks per test — while generating ~150M won monthly.
 - `INS-260403-0D23` [medium] AI agents on Moltbook independently created governments, religions, and cultural communities within 12 hours of the platform launching.
 - `INS-260405-8649` [medium] Sophisticated hedging requires sculpting portfolios against hundreds of scenario-specific risks—currently impractical, but trivial once AI agents handle the intellectual labor
+- `INS-260519-08E0` [medium] Rati Zvirawa (Intercom): not assist, not augment — own; an owning agent needs a playbook (strategy in natural language), knowledge (grounded truth), and data flowing both ways.
 - `INS-260329-EAFD` [medium] Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
 - `INS-260405-2E46` [medium] AI's emotional resonance — not raw capability — is the underpriced moat.
+- `INS-260519-8748` [medium] Rati Zvirawa (Intercom): no matter how much context you hand over, the relationship has to be rebuilt — an agent continuing the thread removes that rebuild.
 - `INS-260325-252D` [medium] Context rot in agents stems from poor context management design, not just model limits.
 - `INS-260403-C734` [medium] Multiple AI customer service startups hitting $100M+ ARR with outcome-based pricing indicates a fundamental shift from per-seat SaaS to pay-per-resolution models.
 - `INS-260325-F981` [medium] Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.

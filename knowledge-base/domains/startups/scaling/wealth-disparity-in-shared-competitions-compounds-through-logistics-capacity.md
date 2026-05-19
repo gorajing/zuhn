@@ -52,7 +52,7 @@ related:
   - INS-260501-2243
   - INS-260404-EC32
   - INS-260325-5096
-  - INS-260330-F08F
+  - INS-260519-32D9
 ---
 Ferrari and Red Bull can afford to ship more spare parts, build larger motorhomes, and bring additional equipment to each race. This doesn't just mean comfort — it means when something breaks during a race weekend, wealthy teams have the replacement part on-site while poorer teams don't. The logistics budget directly converts into competitive resilience.
 

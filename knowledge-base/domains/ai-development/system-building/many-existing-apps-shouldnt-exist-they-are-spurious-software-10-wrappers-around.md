@@ -57,7 +57,7 @@ related:
   - INS-260329-560D
   - INS-260410-BCA3
   - INS-260321-C5AA
-  - INS-260404-D646
+  - INS-260519-02A9
 ---
 Karpathy's Menu Gen example: he vibe-coded an app that OCRs a menu photo, calls an image generator per item, and re-renders the menu. Then he realized Gemini's Nano Banana could do the entire thing in one prompt — input the photo, output the rendered menu with items overlaid. The app he built is 'spurious' — it works in the old paradigm where you orchestrate primitives, but the primitive itself can now do the orchestration.
 

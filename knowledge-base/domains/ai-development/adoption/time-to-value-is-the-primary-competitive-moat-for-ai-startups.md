@@ -48,7 +48,6 @@ stance: >-
   competitive variable in the current AI race.
 related:
   - INS-260323-500B
-  - INS-260327-6E93
   - INS-260329-50D5
   - INS-260329-3BEE
   - INS-260329-577E
@@ -57,6 +56,7 @@ related:
   - INS-260329-A4CA
   - INS-260403-2DE3
   - INS-260403-CF0E
+  - INS-260403-7868
 ---
 The AI market is moving fast enough that incumbency advantages are weak and switching costs are low. In this environment, the startup that gets users to their 'aha moment' fastest builds habitual usage before competitors can catch up. Slow onboarding is especially lethal because users have many AI alternatives to try immediately.
 

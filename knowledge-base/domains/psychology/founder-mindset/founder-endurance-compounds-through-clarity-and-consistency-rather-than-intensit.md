@@ -51,11 +51,11 @@ stance: >-
   consistent efforts over time rather than from bursts of intensity or tactical
   shortcuts.
 related:
+  - INS-260519-32D9
   - INS-260329-ACE6
   - INS-260327-51C2
   - INS-260327-7846
   - INS-260323-0D51
-  - INS-260323-197A
 ---
 Amjad Masad's framework for sustained competitive success distills into a principle that mirrors compound interest: small, clear, consistent actions accumulate into outcomes that episodic intensity cannot match. His six lessons on endurance, focus, and resilience from years of competing all point back to this core mechanism.
 

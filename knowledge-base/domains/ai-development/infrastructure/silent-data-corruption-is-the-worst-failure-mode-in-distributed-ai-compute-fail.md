@@ -61,5 +61,6 @@ related:
   - INS-260424-865F
   - INS-260424-ABB2
   - INS-260410-FD24
+  - INS-260519-90E2
 ---
 The intuitive failure model of computing is fail-stop: a chip stops working, and the system notices. Engineering recovery from fail-stop is well-understood: detect the dead chip, mark it offline, redistribute work. The much more dangerous failure mode at AI scale is silent data corruption: a chip continues to function but produces subtly wrong answers occasionally. In distributed training and inference, every chip's output flows to others through the coordination network, so a silently-corrupted chip pollutes the entire computation. The genius-who-occasionally-lies analogy: the chip is right almost all the time, but its rare wrong answers undermine confidence in everything the system produces. Detection is hard because there is no obvious failure signal; you must validate computations against checksums or redundant calculations, which adds compute cost. The implication for AI hardware buyers: ask vendors specifically about silent-data-corruption mitigation strategies, not just fail-stop recovery times. Vendors who can answer with detail are operating at the level of sophistication required for production AI; vendors who cannot have not yet hit the relevant scale.

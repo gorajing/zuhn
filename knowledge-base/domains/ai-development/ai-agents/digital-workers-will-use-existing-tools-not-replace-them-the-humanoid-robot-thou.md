@@ -48,11 +48,11 @@ resolutions:
     profound: software is not going away, the computer is being reinvented, and
     the impact on computing is as big as the original PC revolution.
 related:
+  - INS-260519-20E0
   - INS-260327-1B82
   - INS-260412-30EE
   - INS-260514-7C33
   - INS-260327-A9D5
-  - INS-260327-1D37
   - INS-260321-28FB
   - INS-260403-9B5D
 stance: >-

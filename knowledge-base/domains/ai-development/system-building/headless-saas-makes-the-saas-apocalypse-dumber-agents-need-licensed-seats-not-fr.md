@@ -58,7 +58,6 @@ stance: >-
   trail, and treating them as zero-cost API consumers is bad security practice
   that no enterprise will accept.
 related:
-  - INS-260403-E71A
   - INS-260404-B8EB
   - INS-260405-9EE4
   - PRI-260406-B785

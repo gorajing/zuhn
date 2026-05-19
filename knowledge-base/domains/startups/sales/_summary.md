@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 195 insights
+> 202 insights
 
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
@@ -17,6 +17,7 @@
 - `INS-260330-7D07` [high] Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
 - `INS-260329-ACFF` [high] Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260327-BEB1` [high] In the SaaS era you rent services rather than sell products, which means every function — sales, marketing, product, CS — must be accountable to the same customer outcomes, and silo-protecting leaders are organizational cancers.
+- `INS-260519-2A13` [high] Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message.
 - `INS-260327-4E28` [high] With typical B2B conversion rates (50% open, 10% reply, 25% to demo, 10% to customer), you need approximately 800 cold emails per customer -- plan for 50+ emails per day.
 - `INS-260327-FA43` [high] Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).
 - `INS-260403-D49E` [high] Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
@@ -47,6 +48,7 @@
 - `INS-260403-11CC` [high] Map every stakeholder type and craft distinct messaging for each before entering a deal.
 - `INS-260330-760D` [high] Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
 - `INS-260410-3832` [high] Enterprise customers want to know everything is secure, everything is well-managed, everything is paid for, there's someone to call when things break, and they won't look bad for paying too much or missing a license — the bundle is the insurance policy.
+- `INS-260519-39B5` [high] Roniesha Copeland (Vercel): you need a pain you can solve that is painful enough to solve now — otherwise the deal doesn't exist or doesn't close in a sane horizon.
 - `INS-260328-070D` [high] Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260327-A903` [high] Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.
 - `INS-260329-3392` [high] Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
@@ -75,6 +77,7 @@
 - `INS-260327-679A` [high] Kate Jensen builds Anthropic's sales culture around data obsession, deliberate experimentation (letting ICs propose and test hypotheses), and vulnerability — celebrating wins while learning quickly from failures.
 - `INS-260329-1DE0` [high] Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260327-8C1C` [high] Instead of 'I'll walk you through everything in our product,' say 'I've thought through this problem at length and have a very specific perspective on solving it' -- nine out of ten founders miss this and jump straight to features.
+- `INS-260519-46E2` [high] Roniesha Copeland (Vercel): with v0, custom-built per-account product demos got very high open rates and zero conversions — wrong altitude.
 - `INS-260403-19D8` [high] Technology-first pitches create obstacles; outcome-first pitches close deals.
 - `INS-260514-60C4` [high] Send cold outbound from warmed lookalike domains (yourcompany-mail.com, .net, .email) and hand off to your primary domain only after the warm reply — never burn your primary domain's reputation.
 - `INS-260330-2BEC` [high] Founders should aggressively drive prospects to yes or no, because a thousand maybes consume all resources while producing zero revenue.
@@ -97,6 +100,8 @@
 - `INS-260329-C8C7` [high] Running pricing surveys and experimenting with how you charge (usage-based, recurring, API-based) can multiply revenue without changing the product.
 - `INS-260329-4A69` [high] Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260329-226C` [high] Prospects trust their own conclusions over a salesperson's claims, so the best closers breadcrumb prospects toward self-discovery rather than making arguments.
+- `INS-260519-F990` [high] Emily Kramer (MKT1): stop net-fishing for leads; research and systematically pursue the accounts that fit, and strip the MQL/SQL titles that create territorialism.
+- `INS-260519-05EB` [high] Maja Voje (The GTM Strategist): firmographics + behaviors + timing/momentum + revenue potential, weighted from the ten clients you'd want 500 more of.
 - `INS-260329-CBEB` [high] The CLOSER framework uses sequential questions to let prospects talk themselves into buying rather than being pitched to.
 - `INS-260327-1787` [high] The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260329-2B60` [high] Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
@@ -181,6 +186,7 @@
 - `INS-260329-3036` [medium] Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
 - `INS-260405-443C` [medium] Sales hires amplify product-led momentum but cannot substitute for it.
 - `INS-260329-4B45` [medium] Customers in a buying cycle naturally need adjacent products — not offering them just sends that revenue to competitors.
+- `INS-260519-4BC8` [medium] Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
 - `INS-260329-57B3` [medium] Labels like 'you're a smart decision-maker' or 'you're clearly a family man' given during objection handling create identity commitments that can be referenced during the close to increase conversion.
 - `INS-260514-3DC0` [medium] No note on LinkedIn connection request beats 'thoughtful' notes. Recipients see the note and infer 'sales pitch.' Skip it.
 - `INS-260403-08AE` [medium] Instead of forcing yourself into traditional sales, find the selling modality that matches your natural communication style.
@@ -196,6 +202,7 @@
 - `INS-260405-390B` [medium] The most effective salespeople act as expert guides helping buyers make a good decision, not advocates pushing their own product.
 - `INS-260329-8BFC` [medium] Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-C996` [medium] Use Acknowledge-Compliment-Ask to warm up conversations, tying your ask to the compliment so the transition to your service feels natural rather than transactional.
+- `INS-260519-299F` [medium] Emily Kramer (MKT1): LLMs find your pricing anyway and traffic is scarcer, so ungate, structure content for machines, and convert the visitors you do get.
 - `INS-260514-D155` [medium] Restructure GTM as a product team — salespeople are PMs surfacing customer signal, GTM engineers are engineers building frameworks to act on it, and the whole team runs cross-team experiments instead of solo tradecraft.
 - `INS-260403-2814` [medium] Build a visual pain statement that communicates the prospect's challenge before describing your solution.
 - `INS-260409-EF0C` [medium] Put the founder on camera for 40 minutes; the face-to-face trust signal closes deals no landing page can match.

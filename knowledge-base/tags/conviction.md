@@ -34,5 +34,5 @@
 - `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
 - `INS-260329-EF96` True conviction that the product helps people creates involuntary tonal authority that prospects detect and respond to, independent of the words spoken.
 - `INS-260327-5688` Sales is 80% the conviction of your voice and energy when discussing your product -- people buy your eyes, your passion, and your belief before they buy features.
-- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
 - `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
+- `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.

@@ -50,13 +50,12 @@ stance: >-
   stronger product-market fit than products that add new capabilities to an
   already-working process.
 related:
-  - INS-260322-96F1
-  - INS-260327-8682
   - INS-260327-0519
   - INS-260330-3A0D
   - INS-260330-8F0F
-  - INS-260330-7ED0
   - INS-260404-B5EB
+  - INS-260330-7ED0
+  - INS-260322-96F1
   - INS-260330-7D6D
 evidence:
   - id: INS-260322-96F1

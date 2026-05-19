@@ -47,7 +47,6 @@ stance: >-
   responsiveness to user feedback generates fanatical loyalty that replaces
   advertising.
 related:
-  - INS-260321-FE91
   - INS-260320-630D
   - INS-260409-1191
   - PRI-260321-14D8

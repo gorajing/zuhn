@@ -49,13 +49,13 @@ related:
   - INS-260328-195E
   - INS-260330-568A
   - INS-260403-F66F
-  - INS-260403-1D6E
   - INS-260403-CCED
   - INS-260403-A691
   - INS-260403-52FF
   - INS-260403-3CD0
   - INS-260404-19C2
   - INS-260404-1A3F
+  - INS-260403-5056
 ---
 The data reveals a stark divergence in venture capital: AI startups absorbed 64% of U.S. deal value in the first half of the year, while traditional VC funds are experiencing a prolonged fundraising drought. This is not simply AI being hot — it represents a structural reallocation of capital that is starving non-AI ventures of funding.
 

@@ -48,7 +48,6 @@ stance: >-
   users but invited to learn about them) establish a durable permission
   relationship that conventional advertising and email marketing cannot match
 related:
-  - INS-260320-70FA
   - INS-260410-7AA0
   - PRI-260406-DF94
   - INS-260327-C9A3

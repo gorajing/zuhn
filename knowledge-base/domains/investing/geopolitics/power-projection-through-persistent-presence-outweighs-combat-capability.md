@@ -50,7 +50,6 @@ stance: >-
   presence rather than actual combat deployment, making their deterrence
   function worth more than their warfighting function
 related:
-  - INS-260403-2F24
   - INS-260403-4183
   - INS-260412-69E5
   - INS-260410-38AA

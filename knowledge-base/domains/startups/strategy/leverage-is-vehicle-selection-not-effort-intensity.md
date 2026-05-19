@@ -49,7 +49,6 @@ related:
   - INS-260410-8DDD
   - INS-260329-B583
   - INS-260328-E410
-  - INS-260501-B6EE
 evidence:
   - id: INS-260321-BFA3
     type: CHALLENGES

@@ -58,7 +58,6 @@ related:
   - INS-260405-C592
   - INS-260323-47D8
   - INS-260403-6F22
-  - INS-260501-35E3
-  - INS-260327-A5EE
+  - INS-260519-20E0
 ---
 External AI builders take the model as given and design their harness around its capabilities and limitations. OpenAI builders can change both — adjusting the model's training to address a recurring harness failure, adjusting the harness to exploit a new model capability. This co-design loop produces tighter integration than external builders can achieve. The implication is structural: OpenAI's internal products will systematically outperform external products built on the same model, not because OpenAI engineers are better but because they have a faster feedback loop. External builders should not try to match this loop directly; they should compete on dimensions OpenAI can't optimize for (deep domain knowledge, distribution, customer relationships, regulatory compliance, vertical-specific data). The implication for the agent-lab strategy more broadly: vertical integration of model and product is a real advantage but it doesn't apply uniformly — Anthropic, Google, and OpenAI each get this advantage on their own model; everyone else competes on the application layer with the trade-off of model commodity vs domain depth.

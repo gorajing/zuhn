@@ -53,9 +53,9 @@ related:
   - INS-260403-FA1E
   - INS-260404-B0BF
   - PRI-260406-B702
+  - INS-260519-78E6
   - PRI-260405-E9C5
   - INS-260412-B4B6
-  - INS-260325-0C4A
 ---
 The optimal window for venture debt is immediately after closing an equity round when you still have 12-18 months of runway and strong momentum. At this point, lenders offer better terms because your fundamentals look strong, and you have negotiating leverage. Taking venture debt reactively — when cash is running low and the next round is uncertain — flips the power dynamic entirely. Lenders tighten covenants, increase warrant coverage, and may include restrictive MAC clauses that give them broad rights to call the loan.
 

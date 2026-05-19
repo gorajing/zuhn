@@ -1,8 +1,8 @@
 # Tag: differentiation
 
 - `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
-- `INS-260325-DD43` Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
+- `INS-260325-DD43` Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260411-F990` DuPont decomposition of sustained top-quintile ROIC performers from 1963-2023 shows NOPAT margins (differentiation) contributed 4.4x the universe average while invested capital turnover (cost leadership) contributed only 1.8x.
 - `INS-260403-21B2` VC fundraising is lagging prior cycles despite headline interest, with undifferentiated managers facing extended timelines and tougher terms.
 - `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
@@ -18,6 +18,7 @@
 - `INS-260403-44FF` Undercutting competitors on price signals you have no differentiated value proposition and invites a margin-destroying race to the bottom.
 - `INS-260404-462B` Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 - `INS-260410-7B46` Hermès's logo is a horse-drawn carriage — not a galloping horse — because that carriage world is gone, cannot be reentered, and thus belongs exclusively to brands that participated in it.
+- `INS-260519-C808` Maja Voje (The GTM Strategist): proprietary signals, proprietary research, and human touch — one intelligent message beats fifty templated ones (3–5x, sometimes 10x).
 - `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 - `INS-260329-9D87` Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260325-E19E` New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
@@ -30,11 +31,12 @@
 - `INS-260410-7AA0` In B2B enterprise software, brand is the identity that scales trust across a global buyer base — underinvesting in it cedes the most leveraged asset you can build.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
-- `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.
 - `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
+- `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-575D` Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.
 - `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
+- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'
 - `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.

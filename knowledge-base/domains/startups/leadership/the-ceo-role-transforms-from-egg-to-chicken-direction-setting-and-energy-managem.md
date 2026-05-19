@@ -46,7 +46,6 @@ resolutions:
     common founder question from 'how do I do everything?' to 'how do I sustain
     my capacity to do the three things only I can do?'
 related:
-  - INS-260322-B6DE
   - INS-260327-A927
   - PRI-260406-54BE
   - INS-260322-C472

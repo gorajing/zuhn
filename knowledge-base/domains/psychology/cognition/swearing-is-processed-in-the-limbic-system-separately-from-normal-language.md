@@ -47,13 +47,12 @@ stance: >-
   system, which is why brain-damaged aphasia patients who cannot construct
   sentences can still swear fluently.
 related:
-  - INS-260327-DF8B
   - INS-260330-8045
   - INS-260330-B85B
   - INS-260330-EA8B
   - INS-260404-0519
+  - INS-260327-DF8B
   - INS-260404-E91F
-  - INS-260410-5EC3
 evidence:
   - id: INS-260323-F963
     type: CHALLENGES

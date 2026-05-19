@@ -47,10 +47,10 @@ stance: >-
   reduces hostile interactions
 related:
   - INS-260329-7F3D
+  - INS-260519-E248
   - INS-260403-EDFC
   - INS-260403-B8ED
   - INS-260404-D976
-  - INS-260326-8217
 evidence:
   - id: INS-260323-C304
     type: TRANSFERS_TO

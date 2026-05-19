@@ -66,7 +66,6 @@ related:
   - INS-260505-709C
   - INS-260325-4846
   - INS-260514-70CB
-  - INS-260514-791A
 ---
 Stefan Harrer at TEDxSydney (CSIRO Australia's national science agency): the AI-for-science narrative is far ahead of actual adoption. The bottleneck is narrow AI's operational complexity — building and deploying cutting-edge AI models has become 'an elite, expensive, and time-consuming science in itself.' Most scientists don't have access to the data scientists needed to operationalize models for their specific work. The transition to generative AI agents (which any scientist can use via natural language) is what unlocks broad adoption — but the headline statistic in early 2025 was that adoption was still ~18% in biology.
 

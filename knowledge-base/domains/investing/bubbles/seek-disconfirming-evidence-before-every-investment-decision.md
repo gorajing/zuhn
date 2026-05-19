@@ -51,11 +51,12 @@ stance: >-
   toward evidence that validates our existing beliefs.
 related:
   - INS-260405-0B17
+  - INS-260519-304D
   - INS-260402-4719
   - INS-260402-D0F3
   - INS-260405-4AE1
-  - INS-260404-AF54
   - INS-260403-DFC3
+  - INS-260404-AF54
 evidence:
   - id: INS-260402-4719
     type: SUPPORTS

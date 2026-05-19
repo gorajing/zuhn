@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-15 | 5133 actionable insights
+Generated on 2026-05-19 | 5149 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -813,6 +813,9 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260514-A02E] Carve repeated GTM logic into 'function tables' in Clay (f.cleanFullName, f.validateEmail) — callers write a row to the function table, wait for the LLM, then look up the cleaned output, so one prompt update propagates to all callers.
 - [INS-260514-C51F] One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables.
 - [INS-260514-2995] Schedule local-AI indexing for 1-5am — 70GB+ RAM stacks can't share daytime resources without overheating, but unattended overnight processing keeps the wiki fresh and the laptop usable.
+- [INS-260519-7744] Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
+- [INS-260519-9732] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
+- [INS-260519-90E2] Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
@@ -822,6 +825,7 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260322-D1AB] Track four quadrants — high eval + high views (validated winners), high eval + low views (false positives), low eval + high views (missed patterns), low eval + low views (confirmed failures) — to continuously improve both your eval and your prompts.
 - [INS-260322-24FB] The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
 - [INS-260514-00D3] Auto-save every question-answer interaction back into the indexed folder — turns each AI query into new knowledge that re-indexes in the next cycle, creating compounding personal KB.
+- [INS-260519-304D] Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
@@ -2952,6 +2956,7 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260501-6ECF] Verifiability is the lever; the labs cover the obvious cases; the under-served verifiable domains are founder territory.
 - [INS-260514-BE85] Branded signals (job changers, intent, G2) are commoditized; custom business-specific signals (FAA violations, dumpster colors via Street View) are the moat. Custom signals can be iterated; branded ones can't.
 - [INS-260514-F073] AI can build your app in 2 days. It can't build the 7 years of lived experience that told you which app to build. Biographical depth is the only durable moat in the AI era.
+- [INS-260519-C808] Maja Voje (The GTM Strategist): proprietary signals, proprietary research, and human touch — one intelligent message beats fifty templated ones (3–5x, sometimes 10x).
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -4086,6 +4091,8 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260514-18AF] 2026 YouTube algorithm: subscriber QUALITY matters more than quantity. Mom subscribing (she watches K-drama) tells the algorithm 'K-drama viewers want my content' → wrong audience served → de-prioritized. Don't bootstrap with friends/family.
 - [INS-260514-F857] Don't create content — build an AFFILIATE ARMY of 25,000+ customer-creators generating millions of variations monthly, tracking each one. Each affiliate's content is an experiment. The system converges on optimal hooks faster than any internal team.
 - [INS-260514-5B19] Find outlier videos (50-100x above the creator's baseline) in your niche using Vid IQ. Have AI analyze title/thumbnail/hook patterns. Generate your version preserving the format, in your voice. Repeat daily.
+- [INS-260519-945C] Elena Verna (Lovable): treat product give-away as the line item that replaces Google/Meta spend — it is the best acquisition channel by a wide margin.
+- [INS-260519-32D9] Emily Kramer (MKT1): the teams that win do less, better — the things that work for who they uniquely are, letting everything else fall away.
 
 ## startups/growth-strategy
 - [INS-260322-70DD] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
@@ -4214,6 +4221,7 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260514-15AF] Keith Rabois's 'hire barrels, not ammunition' applies harder in the AI era. Cliff's test: head of growth must source candidates, write ads in CapCut, edit in Figma, buy ads — all themselves in 7 days. Specialists who delegate execution have NEGATIVE leverage in AI teams.
 - [INS-260514-D5B5] Hire ICs, not managers. A leader who can't do the function themselves can't hire, teach, or evaluate it — and the team's quality silently collapses from underneath.
 - [INS-260514-41C9] The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment.
+- [INS-260519-D007] Kyle Norton (Owner): the money you'd spend on half your BDRs, spend on a GTM engineer; if you hire a RevOps leader early they must be applied-AI capable.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
@@ -4519,6 +4527,7 @@ Generated on 2026-05-15 | 5133 actionable insights
 
 
 - [INS-260412-EB34] Toyota's Toyopet Crown flopped in the US because it was designed for Japanese roads and overheated on American highways.
+- [INS-260519-B1A1] Maja Voje (The GTM Strategist): you win early to earn the right to go upmarket; courting a compliance-heavy ICP on day one burns runway.
 
 ## startups/marketing
 - [INS-260405-F456] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
@@ -4781,6 +4790,7 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260412-B69B] Israel's 1-6 risk scoring system applies intensive screening only to high-risk passengers while low-risk travelers pass through quickly, achieving better security with less aggregate friction.
 - [INS-260412-A2FE] Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
 - [INS-260423-2C05] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
+- [INS-260519-02A9] Elena Verna (Lovable): a clickable app with a real back-end the prospect can act in beats a white-paper-behind-a-form.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -4991,6 +5001,11 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260514-60C4] Send cold outbound from warmed lookalike domains (yourcompany-mail.com, .net, .email) and hand off to your primary domain only after the warm reply — never burn your primary domain's reputation.
 - [INS-260514-B283] Don't trigger outreach from individual signals — composite multiple signals into an account heat score, then move heated accounts between funnel stages. Signal-as-trigger floods customers and reps; signal-as-score works.
 - [INS-260514-273E] 10 cold outbound messages a day. Entirely human. No LLM in the copy. Even slight typos and double-spaces help — that's how real people write.
+- [INS-260519-2A13] Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message.
+- [INS-260519-39B5] Roniesha Copeland (Vercel): you need a pain you can solve that is painful enough to solve now — otherwise the deal doesn't exist or doesn't close in a sane horizon.
+- [INS-260519-F990] Emily Kramer (MKT1): stop net-fishing for leads; research and systematically pursue the accounts that fit, and strip the MQL/SQL titles that create territorialism.
+- [INS-260519-05EB] Maja Voje (The GTM Strategist): firmographics + behaviors + timing/momentum + revenue potential, weighted from the ten clients you'd want 500 more of.
+- [INS-260519-299F] Emily Kramer (MKT1): LLMs find your pricing anyway and traffic is scarcer, so ungate, structure content for machines, and convert the visitors you do get.
 
 ## startups/scaling
 - [INS-260322-7F88] At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
@@ -5092,6 +5107,7 @@ Generated on 2026-05-15 | 5133 actionable insights
 - [INS-260412-B650] On the Moon, a nuclear seismic wave reaches everywhere because it's small — on Earth, distance and mass absorb the shock before it circles the globe.
 - [INS-260412-47D5] The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
 - [INS-260501-3D33] Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes.
+- [INS-260519-E248] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

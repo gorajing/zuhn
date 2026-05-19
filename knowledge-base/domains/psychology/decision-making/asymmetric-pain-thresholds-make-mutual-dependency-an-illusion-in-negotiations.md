@@ -54,8 +54,8 @@ related:
   - INS-260330-D511
   - INS-260403-80D9
   - INS-260412-FB83
+  - INS-260519-39B5
   - INS-260329-3D14
-  - INS-260412-F06F
 ---
 Australia and China are technically interdependent — China needs Australian minerals, Australia needs Chinese demand. But the pain of severance is wildly asymmetric: China can source minerals elsewhere (Brazil, Africa) at modest cost, while Australia cannot replace 30% of its export market. This asymmetry means Australia systematically avoids political confrontation with China, even when values conflict.
 

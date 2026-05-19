@@ -55,7 +55,6 @@ related:
   - INS-260327-F405
   - INS-260330-24A5
   - PRI-260406-CCAE
-  - INS-260403-957B
 evidence:
   - id: INS-260322-3010
     type: CONTRADICTS

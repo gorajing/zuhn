@@ -45,11 +45,11 @@ stance: >-
   The primary reason referrals convert at higher rates is that the referrer
   transfers their accumulated trust to the seller, collapsing the belief gap
 related:
+  - INS-260519-78E6
   - PRI-260327-3BD9
   - PRI-260406-B314
   - INS-260329-7E63
   - INS-260404-1ADA
-  - INS-260329-2B04
 evidence:
   - id: INS-260325-E84D
     type: CHALLENGES

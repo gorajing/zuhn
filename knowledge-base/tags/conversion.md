@@ -1,5 +1,6 @@
 # Tag: conversion
 
+- `INS-260519-08E0` Rati Zvirawa (Intercom): not assist, not augment — own; an owning agent needs a playbook (strategy in natural language), knowledge (grounded truth), and data flowing both ways.
 - `INS-260412-0540` The most stable configuration doesn't just persist — it actively recruits surrounding matter into its own state.
 - `INS-260403-2385` Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
@@ -21,4 +22,5 @@
 - `INS-260409-2AF8` When prospects pay with time now, they are more likely to pay with money later.
 - `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.
 - `INS-260409-57DB` Content gets you seen; email gets you paid — the handoff from one to the other is the core monetization move.
+- `INS-260519-299F` Emily Kramer (MKT1): LLMs find your pricing anyway and traffic is scarcer, so ungate, structure content for machines, and convert the visitors you do get.
 - `INS-260409-EF0C` Put the founder on camera for 40 minutes; the face-to-face trust signal closes deals no landing page can match.

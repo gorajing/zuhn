@@ -1,6 +1,7 @@
 # Tag: centralization
 
 - `INS-260325-C9EB` AI could flip the democracy/totalitarianism balance because it can process the centralized information volume that overwhelmed human Soviet bureaucrats.
+- `INS-260519-746D` Kyle Norton (Owner): giving every rep a Claude skill is not the answer — one specialist takes the good ideas, builds them to production quality, and deploys one version to everyone.
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
 - `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
 

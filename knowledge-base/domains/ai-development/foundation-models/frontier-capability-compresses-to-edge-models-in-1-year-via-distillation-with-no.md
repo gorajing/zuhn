@@ -56,7 +56,6 @@ stance: >-
   into smaller parameter counts.
 related:
   - INS-260323-F310
-  - INS-260327-CED9
   - INS-260327-C4C8
   - INS-260405-474C
   - PRI-260406-08E9
@@ -65,6 +64,7 @@ related:
   - INS-260424-9544
   - PRI-260328-A82C
   - INS-260403-976C
+  - INS-260327-DECA
 ---
 Hassabis's structural prediction: a frontier Gemini Pro capability seen today shows up in a Gemma-class edge model in roughly 6-12 months. No theoretical informational density limit has been reached — there may be one eventually, but 'we're still pretty far off of that.' Google specifically invests heavily in distillation because they have to serve >12 billion-user products (Search AI overviews, Maps, YouTube, Gemini app) at low cost and low latency.
 

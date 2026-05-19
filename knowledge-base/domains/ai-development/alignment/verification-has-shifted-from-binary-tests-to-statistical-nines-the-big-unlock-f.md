@@ -66,10 +66,10 @@ stance: >-
   models are now reaching reliability nines high enough to deploy.
 related:
   - INS-260320-10CC
+  - INS-260519-E248
   - INS-260410-D03C
   - INS-260423-2B80
   - INS-260410-0DA5
-  - INS-260330-A3B7
 ---
 Lewig's structural shift: in traditional automotive development (Euro NCAP regulatory regime), verification was binary — a vehicle either passed the automatic-emergency-braking test for an occluded child or it didn't. The test cases were well-known and finite. With AI-driven systems, behavior is statistical — there are no clean pass/fail test cases that fully cover the input space. The new regime is measuring how many nines of reliability you can demonstrate, and how many meantime-between-failures hours you can prove.
 

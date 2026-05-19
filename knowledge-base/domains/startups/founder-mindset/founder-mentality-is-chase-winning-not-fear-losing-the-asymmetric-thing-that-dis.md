@@ -72,8 +72,8 @@ related:
   - INS-260409-F7F8
   - INS-260410-0263
   - INS-260329-C26B
+  - INS-260519-32D9
   - INS-260403-7644
-  - INS-260323-DA91
 ---
 Foroughi's central principle threading through the entire 80-minute conversation: founder mentality is chasing winning, not fearing losing. When facing the decision to do 40-50% layoffs in 2024 before AI had fully transformed those roles, he asked 'what would the company look like if built today knowing what tools exist?' and rebuilt toward that. The bet was that technologies would mature faster than role demand, and keeping people in dead-end roles creates morale damage that A-players hate. The chase-winning frame let him commit to the rebuild despite uncertainty.
 

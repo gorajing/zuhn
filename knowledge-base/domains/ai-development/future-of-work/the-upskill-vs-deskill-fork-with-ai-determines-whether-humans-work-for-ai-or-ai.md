@@ -54,6 +54,6 @@ related:
   - INS-260423-00AC
   - INS-260327-F544
   - INS-260404-D1E2
-  - INS-260514-90F1
+  - INS-260519-D007
 ---
 The distribution of economic outcomes from AI adoption is bifurcating along a specific axis: the ability to direct AI systems versus the ability to merely consume their outputs. Directors of AI treat it as a squadron of eager summer interns who work nearly for free, assign them tasks, critique their outputs, and iterate. Consumers of AI receive pre-packaged AI features in their existing tools and adapt their work to fit what the AI happens to offer. The directors' economic position grows; the consumers' position shrinks. The entry cost for becoming a director is approximately $20/month and a willingness to experiment repeatedly with the raw interface. Knowledge workers who defer this entry bet that their current position will remain defensible long enough to avoid the transition; that bet is getting worse monthly. The practical signal: how many hours per week do you personally spend directing an AI with specific tasks and reviewing its work product? If that number is below 5, you are trending toward deskilled.

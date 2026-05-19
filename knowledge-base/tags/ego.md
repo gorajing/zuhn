@@ -1,10 +1,10 @@
 # Tag: ego
 
 - `INS-260409-CE5F` Treat chronic fear as legacy survival code misfiring, not as a report about present reality.
-- `INS-260409-A803` Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
-- `INS-260409-D5FF` If loss of self correlates with loss of fear of death, that's a clue the fear is downstream of the self-structure, not bolted on top of a neutral awareness.
 - `INS-260327-A048` British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
 - `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
+- `INS-260409-A803` Ego is the narrative self-model — the aim is to hold it lightly, not destroy it.
+- `INS-260409-D5FF` If loss of self correlates with loss of fear of death, that's a clue the fear is downstream of the self-structure, not bolted on top of a neutral awareness.
 - `INS-260403-3548` Houdini refused surgery because accepting treatment contradicted his identity as someone who could overcome any physical challenge.
 - `INS-260330-E68E` Near-death experiences in the Amazon consistently produced calm acceptance rather than panic, suggesting ego is counterproductive in genuine survival situations.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.

@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260403-1ECB
   - PRI-260406-BC09
+  - INS-260519-D007
   - INS-260403-BF1F
   - INS-260403-8C2D
-  - PRI-260406-BAD8
 ---
 The article surfaces a non-obvious fundraising dynamic: VCs don't just evaluate whether you're hiring the right roles — they evaluate whether you understand the financial consequences of those hires. Saying 'we're hiring 10 engineers' without modeling how timing, taxes, benefits, and raises affect runway tells investors you're guessing, and 'VCs do not back guesses.'
 

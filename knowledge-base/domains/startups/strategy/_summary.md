@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 276 insights
+> 278 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -112,6 +112,7 @@
 - `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260412-3BAA` [high] Flying with the jet stream saves $5,103 per flight hour in fuel — a gain no amount of internal engine optimization could match.
+- `INS-260519-553B` [high] Cross-source capstone: Attio, Lovable, MKT1, GTM Strategist, Owner, Vercel, Framer, Intercom, Coder independently land on the same spine — convergence is the epistemic signal.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260403-D5DC` [high] Choose your startup location based on what fuels your business, not who funds it.
@@ -230,6 +231,7 @@
 - `INS-260330-FEB0` [medium] The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260404-1579` [medium] Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.
 - `INS-260410-71D2` [medium] DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.
+- `INS-260519-F9D6` [medium] Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'
 - `INS-260323-9B68` [medium] Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
 - `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
 - `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.

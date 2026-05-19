@@ -51,11 +51,11 @@ stance: >-
   EV tax credits for consumers are less effective than direct infrastructure
   investment when charging density is the binding constraint
 related:
-  - INS-260403-E71A
   - INS-260321-AA91
+  - INS-260403-E71A
   - INS-260403-914F
+  - INS-260519-945C
   - INS-260410-ED7E
-  - INS-260403-4F68
 ---
 Most developed countries incentivize EV purchases through tax credits and monetary incentives, yet the research shows charging infrastructure—not vehicle cost—is the binding constraint on adoption. This creates a misallocation: subsidizing demand for a product whose adoption is supply-constrained. Germany's approach of building government charging stations and strongly incentivizing private construction demonstrates the alternative, resulting in a maximum 30-mile gap to the nearest fast charger anywhere in the country.
 

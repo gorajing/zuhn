@@ -48,10 +48,11 @@ related:
   - INS-260321-099E
   - INS-260327-E7A3
   - INS-260327-8358
-  - INS-260330-1E5E
   - INS-260329-ABD9
+  - INS-260330-1E5E
   - INS-260330-6C68
   - PRI-260405-72D4
+  - INS-260519-39B5
   - INS-260409-8438
 ---
 Asked what opportunities excite him, Horowitz immediately pivots to founder methodology: 'as a founder, this is what you shouldn't do — you shouldn't just pop random ideas off of your head. You have to actually go in, try and do something hard, and then figure out where there is no solution in the world, and then go solve that.' The implicit claim is that ideation without attempted execution produces ideas that sound good but ignore the structural reasons they don't already exist. By contrast, attempting something hard forces you into contact with the real friction points where a genuine gap lives. This directly contradicts the 'list 10 startup ideas' brainstorming approach common in accelerators and YouTube founder content.

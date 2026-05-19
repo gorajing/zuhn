@@ -64,10 +64,10 @@ stance: >-
   decision-making, not the underlying capability.
 related:
   - INS-260405-6BBC
+  - INS-260519-D007
   - INS-260403-4120
   - INS-260327-8C1C
   - PRI-260405-608A
-  - INS-260501-3D0C
 ---
 Casado's reframe of the MIT stat: enterprise AI failure rates measure centralized initiatives, not actual usage. Individual employees are using ChatGPT and Claude effectively at massive scale; the failure is in organizations trying to centralize AI decisions through age-old processes for governance, compliance, data, and operations that were built over decades and don't fit AI's pace. The board says 'we need AI,' the CEO hires a consultant, a centralized project ships that nobody understands, and it fails.
 

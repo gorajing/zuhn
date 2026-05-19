@@ -60,7 +60,6 @@ related:
   - PRI-260406-7F84
   - INS-260404-77CD
   - INS-260404-1A3F
-  - INS-260409-143C
 ---
 SaaS, fintech, and healthtech have established buyer ecosystems with consistent M&A activity at every stage from sub-$50M acquihires to public listings. Climate tech, mobility, and frontier hardware tend toward longer holding periods (10-15 years), sporadic M&A, and exits tied to policy cycles. Neither category is inherently better or worse, but the expected timeline must be priced into the investment thesis from day one — a portfolio concentrated in long-horizon sectors with a fund lifecycle expecting 7-year returns creates structural tension.
 

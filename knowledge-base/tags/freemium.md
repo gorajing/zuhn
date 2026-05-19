@@ -9,4 +9,5 @@
 - `INS-260405-3315` Freemium works because it routes adoption through the user, not through procurement.
 - `INS-260403-B610` Canva built a $2B revenue engine by layering enterprise sales on top of a massive freemium user base rather than pivoting away from it.
 - `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
+- `INS-260519-945C` Elena Verna (Lovable): treat product give-away as the line item that replaces Google/Meta spend — it is the best acquisition channel by a wide margin.
 - `INS-260329-1028` freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.

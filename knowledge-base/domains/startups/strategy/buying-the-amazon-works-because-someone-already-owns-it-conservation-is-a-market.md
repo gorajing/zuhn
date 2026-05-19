@@ -50,8 +50,8 @@ related:
   - INS-260403-A115
   - PRI-260406-487A
   - INS-260403-8450
+  - INS-260519-78E6
   - INS-260327-714F
-  - INS-260330-809A
 stance: >-
   JungleKeepers' strategy of purchasing land concessions works because the
   Amazon already has owners who will sell to loggers if conservationists don...

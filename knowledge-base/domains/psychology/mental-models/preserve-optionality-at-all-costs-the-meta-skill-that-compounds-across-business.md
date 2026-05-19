@@ -64,10 +64,10 @@ stance: >-
 related:
   - INS-260329-3E3A
   - INS-260403-0949
+  - INS-260519-32D9
   - PRI-260323-F92B
   - INS-260403-E4C6
   - INS-260323-87F3
-  - INS-260323-3858
 ---
 Chamath's most actionable practical advice: preserve optionality at all costs — in business, in negotiations, in personal relationships. Find the spaces where there can be win-wins. This preserves relationships, egos, emotions. It forces being more subdued, listening more, talking less. The meta-effect: people frequently 'blow themselves up and self-immolate by doing something stupid' — burning relationships, breaking trust, taking unnecessary risk in zero-sum framings. Preserving optionality systematically minimizes these self-inflicted catastrophes.
 

@@ -46,8 +46,8 @@ related:
   - INS-260329-8B33
   - INS-260409-0503
   - INS-260403-D70C
+  - INS-260519-78E6
   - INS-260326-C305
   - INS-260403-C7E3
-  - INS-260403-8FD7
 ---
 Dalton's prescription for founders stuck between shutdown and hope of acquisition: timebox it. Two months to make introductions, talk to potential acquirers, and see what happens. If nothing closes by the date, you shut down. Founders find this structure a relief because it replaces an open-ended guilt spiral with a clean, terminating process. The underlying principle: an unbounded optionality horizon is not optionality — it's drift disguised as patience. A deadline converts the decision from emotional to procedural.

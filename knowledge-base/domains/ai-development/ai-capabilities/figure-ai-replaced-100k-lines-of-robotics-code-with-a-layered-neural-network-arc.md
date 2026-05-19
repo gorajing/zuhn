@@ -53,8 +53,8 @@ related:
   - INS-260330-189F
   - INS-260404-E91F
   - INS-260505-0C13
+  - INS-260519-C808
   - INS-260514-8FC8
-  - INS-260403-219F
 ---
 Figure AI's Helix 02 architecture demonstrates the power of end-to-end neural control over traditional hand-coded robotics. Their System 0 (trained on 1,000+ hours of human motion for balance), System 1 (sensor-to-actuator control), and System 2 (semantic reasoning) layers replace a massive C++ codebase with a unified visuomotor neural network.
 

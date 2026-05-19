@@ -50,7 +50,6 @@ stance: >-
   moment they face serious financial pressure, because distributed fundraising
   without enforcement power creates fatal coordination failures.
 related:
-  - INS-260330-1D3B
   - INS-260330-68EF
   - INS-260330-2E1E
   - INS-260327-F484

@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 202 insights
+> 205 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -35,6 +35,7 @@
 - `INS-260403-7227` [high] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - `INS-260323-9A93` [high] Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
 - `INS-260403-024E` [high] Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
+- `INS-260519-E248` [high] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
 - `INS-260412-AB32` [high] Black holes show a gap from 150 to millions of solar masses because incremental star-eating can't bridge it — a different mechanism (quasi-stars) was needed.
 - `INS-260330-0E4B` [high] At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260329-97C1` [high] Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
@@ -97,6 +98,7 @@
 - `INS-260404-F69A` [high] The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate its starting materials, yielding only 1 net output per full cycle.
 - `INS-260403-AEBD` [high] Restructuring resource assignments can create room for growth without acquiring new resources.
 - `INS-260404-A19C` [high] Retention, not acquisition, is the linchpin of durable ARR growth in SaaS.
+- `INS-260519-78E6` [high] Josh Epstein (Coder): you always close the first deal; the second proves value landed — if you're not staffing and writing docs for expansion before the first closes, you're not planning to win.
 - `INS-260403-DAFA` [high] Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.
 - `INS-260329-1962` [high] Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
 - `INS-260327-A927` [high] Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
@@ -199,6 +201,7 @@
 - `INS-260329-9101` [medium] A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260327-9641` [medium] Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
 - `INS-260403-83C7` [medium] The rising importance of software in every industry means the cost of bureaucratic checks is increasing, not decreasing, over time.
+- `INS-260519-E596` [medium] Josh Epstein (Coder): customers love founders and lie to their face about how they'll work with you; the third founder is the one who turns an 18-month vision into a 90-day shippable plan.
 - `INS-260403-20BF` [medium] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260403-AC9F` [medium] The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
 - `INS-260404-38A6` [medium] Different timezones enable continuous progress — offshore teams advance work overnight for morning review — when handoff planning is deliberate.

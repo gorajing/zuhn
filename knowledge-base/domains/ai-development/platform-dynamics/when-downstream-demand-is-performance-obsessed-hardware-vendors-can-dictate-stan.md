@@ -63,11 +63,11 @@ stance: >-
   supplier gains power to force developers and ecosystem partners to accommodate
   hardware limitations.
 related:
+  - INS-260519-E248
   - INS-260501-4B6F
   - INS-260323-B4D2
   - PRI-260406-1993
   - INS-260410-BFCF
-  - INS-260327-0700
 ---
 When Nvidia shipped the Riva 128 in 1997, roughly a third of DirectX's blend modes simply didn't work. Rather than delay the chip, Nvidia sent people to major game developers asking them to restrict their games to only the working subset. Developers agreed. The reason they agreed is structurally important: consumer buying decisions for PC gaming hardware were driven almost entirely by benchmark performance, so game developers were effectively forced to target whatever graphics card dominated performance charts, which meant accepting whatever constraints that card imposed.
 

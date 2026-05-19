@@ -48,7 +48,6 @@ stance: >-
   A one-year change in exit timing often moves a mezzanine lender's IRR more
   than a material change in the interest coupon rate.
 related:
-  - INS-260405-0F47
   - PRI-260406-AAA9
   - INS-260403-0BD4
   - INS-260403-3280

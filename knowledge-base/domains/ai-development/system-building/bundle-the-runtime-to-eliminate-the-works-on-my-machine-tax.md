@@ -51,7 +51,6 @@ stance: >-
   Shipping a runtime inside your distributable is a better UX than asking users
   to install it, even at the cost of binary size.
 related:
-  - INS-260330-3257
   - INS-260410-953E
   - INS-260423-81B6
   - INS-260329-8F98

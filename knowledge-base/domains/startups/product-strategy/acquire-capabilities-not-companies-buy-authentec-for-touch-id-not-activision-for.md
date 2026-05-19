@@ -50,16 +50,16 @@ stance: >-
   capability gaps, not entire businesses that diversify revenue but dilute
   organizational focus.
 related:
-  - INS-260323-BD2B
   - INS-260327-538E
   - INS-260327-F4DB
   - INS-260329-196A
   - INS-260405-77C9
+  - INS-260519-945C
   - PRI-260406-CCAE
-  - INS-260403-1115
   - INS-260403-F03A
   - INS-260404-9899
   - INS-260409-AC28
+  - INS-260410-641D
 evidence:
   - id: INS-260327-F4DB
     type: CHALLENGES

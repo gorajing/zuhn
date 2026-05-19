@@ -59,12 +59,11 @@ stance: >-
   agents per human employee indicates the scale at which agentic AI becomes
   operationally meaningful.
 related:
-  - INS-260327-E18C
   - INS-260403-AC2D
   - PRI-260328-8317
   - INS-260423-FF53
+  - INS-260519-20E0
   - INS-260403-7D11
-  - PRI-260406-C422
   - INS-260410-2307
   - INS-260423-8504
   - INS-260424-B404

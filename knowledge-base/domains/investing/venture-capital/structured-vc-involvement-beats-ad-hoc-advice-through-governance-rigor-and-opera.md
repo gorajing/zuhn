@@ -52,8 +52,8 @@ related:
   - INS-260403-0350
   - INS-260327-5CB6
   - INS-260330-4E10
+  - INS-260519-08E0
   - INS-260405-6CED
-  - PRI-260406-8EBD
 ---
 The article argues that founders benefit most from VCs who provide structured involvement: governance rigor, operating cadence, and early professionalization. The key phrase is 'rhythm beats rhetoric' — consistent updates and clear decision triggers align execution far more effectively than occasional strategic conversations or warm introductions.
 

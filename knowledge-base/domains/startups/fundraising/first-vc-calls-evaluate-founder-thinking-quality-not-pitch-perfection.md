@@ -52,7 +52,7 @@ related:
   - INS-260330-7D07
   - PRI-260405-91AD
   - INS-260327-5688
-  - PRI-260406-E880
+  - INS-260519-02A9
 ---
 Most founders over-prepare their pitch for first VC calls, treating it like a Shark Tank audition. In reality, VCs are scanning for three signals during that initial 30-minute window: clarity (can you explain the problem simply?), conviction (do you deeply believe in and understand what you're building?), and chemistry (would I want to work with this person for years?).
 

@@ -55,7 +55,6 @@ related:
   - INS-260404-4D7F
   - PRI-260406-0E02
   - PRI-260406-A4AA
-  - INS-260403-5137
 ---
 The single-tab model embeds comment columns next to every input that flag common benchmarks ('SaaS gross margins typically 75-85%') and warn against red-flag assumptions ('20x P/S? Rare even for top-tier SaaS'). This is a design pattern worth noting beyond finance: embedding guardrails directly into the tool at the point of input is more effective than relying on users to self-police their assumptions.
 

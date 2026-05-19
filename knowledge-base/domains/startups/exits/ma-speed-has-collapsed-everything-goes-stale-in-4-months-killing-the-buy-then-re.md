@@ -63,9 +63,9 @@ stance: >-
 related:
   - INS-260322-AFE9
   - INS-260327-2043
+  - INS-260519-F9D6
   - INS-260328-7942
   - INS-260321-21BE
-  - PRI-260407-F704
 ---
 Calacanis's diagnostic via the HubSpot AEO acquisition: HubSpot bought an AEO startup for $30M months ago. The product is already non-competitive vs. peak (the dedicated AEO startups Harry Stebbings funds). HubSpot couldn't have predicted this — they bought the best they could afford at the time, and the field moved past them in months. The classic 'tuck-in' acquisition strategy (small for product-market-fit, rebuild natively) and the 'go big' strategy (full platform acquisition) both struggle in this environment because the underlying technology depreciates faster than the integration cycle.
 

@@ -56,11 +56,11 @@ stance: >-
   upstream layer of taste, judgment, and conceptual understanding — without
   which you cannot direct the agents at all.
 related:
+  - INS-260519-20E0
   - PRI-260406-26FB
   - INS-260410-9AF4
   - INS-260403-6B97
   - INS-260410-1197
-  - INS-260403-10CE
 ---
 Karpathy's framing of the durable human role: agents are like interns with excellent recall — they handle API details, syntax variations, and fill-in-the-blank execution. But they make systematic errors that reveal a lack of understanding (his Menu Gen example: an agent tried to cross-correlate Stripe and Google accounts by email address, missing that emails can be arbitrary and a persistent user ID is needed). The human is in charge of the spec, the top-level categories, the architectural decisions, and the why.
 

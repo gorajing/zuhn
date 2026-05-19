@@ -50,7 +50,6 @@ stance: >-
   language that makes psychological error patterns visible and catchable before
   they drive decisions.
 related:
-  - INS-260322-F609
   - PRI-260406-A33C
   - PRI-260323-81E9
   - PRI-260405-ADEA

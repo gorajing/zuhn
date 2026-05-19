@@ -51,6 +51,7 @@ related:
   - INS-260403-3F10
   - INS-260329-776B
   - INS-260329-CBF3
+  - INS-260519-961A
 stance: >-
   Andy Grove's lesson to Ben Horowitz: if you lead an industry, its growth
   depends on you

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 94 insights
+> 96 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -72,6 +72,7 @@
 - `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260410-277B` [high] Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
+- `INS-260519-961A` [high] James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.'
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260403-9B5D` [medium] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - `INS-260404-5963` [medium] Aspirational 5-10 year strategy should be design/research-led and run in parallel with tactical strategy, using concept prototypes to test distinct future scenarios.
@@ -85,6 +86,7 @@
 - `INS-260405-8B89` [medium] RuBisCo is slow, makes errors half the time in modern atmospheres, and produces toxic waste—yet plants compensate by making it the single most abundant protein on Earth (estimated 40 billion tons), making it the dominant carbon-fixing mechanism on the planet by sheer volume.
 - `INS-260404-8A67` [medium] Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
 - `INS-260403-6A69` [medium] Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
+- `INS-260519-02A9` [medium] Elena Verna (Lovable): a clickable app with a real back-end the prospect can act in beats a white-paper-behind-a-form.
 - `INS-260404-0F87` [medium] Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
 - `INS-260403-0637` [medium] Multi-user AI coordination creates compounding network effects unavailable to single-player AI tools.
 - `INS-260412-E0B6` [medium] Early aviation had no classes because flying itself was the luxury; class segmentation only emerged as costs dropped enough for non-premium customers to participate.

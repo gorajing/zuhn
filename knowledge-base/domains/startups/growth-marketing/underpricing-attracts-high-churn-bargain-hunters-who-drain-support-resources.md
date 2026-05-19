@@ -50,5 +50,6 @@ related:
   - INS-260403-B53B
   - INS-260321-AA91
   - INS-260403-A08A
+  - INS-260519-299F
 ---
 The most common pricing trap is fear-driven underpricing. Founders worry about being priced out before they even enter the market, so they charge $5/month when $19 would work. The result: users flood in but growth stalls because bargain-hunters churn quickly, clog support queues, and never upgrade. When one SaaS founder raised from $5 to $19 and narrowed the lowest tier's features, revenue rose and churn dropped — they kept only the users that mattered. Price is a signal: too low suggests your product is less capable. The real risk isn't charging too much — it's building a business on customers who don't value what you offer.

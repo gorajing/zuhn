@@ -52,7 +52,6 @@ stance: >-
   from classroom instruction to role-play exercises to real-world application,
   with the learner responsible for self-assessing success or failure.
 related:
-  - INS-260322-0D87
   - INS-260325-001B
   - INS-260330-E5F9
   - INS-260505-4426

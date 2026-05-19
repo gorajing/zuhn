@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260412-EB2D
   - INS-260412-3455
+  - INS-260519-D007
   - INS-260327-1D37
   - PRI-260406-6B63
-  - INS-260325-B50B
 stance: A Teach for America model for law enforcement
 evidence:
   - id: INS-260327-1D37

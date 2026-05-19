@@ -47,7 +47,6 @@ stance: >-
   Long-running coding agents need a separate first-run initializer to scaffold
   environment artifacts before any incremental work begins.
 related:
-  - INS-260410-62E8
   - INS-260410-2C51
   - INS-260410-BBC1
   - INS-260410-545A

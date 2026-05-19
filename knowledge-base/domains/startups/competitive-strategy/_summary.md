@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 636 insights
+> 637 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -229,6 +229,7 @@
 - `INS-260410-A671` [high] Meta has won or neutralized every major threat — MySpace, Google+, Twitter, Snapchat, TikTok, Vine, Periscope — because it holds its connect-the-world mission rigidly but treats every product, technology, and strategy as disposable.
 - `INS-260403-4E9D` [high] For every H-1B visa rejection, multinationals hire 0.4 employees abroad — and now Google, OpenAI, and Anthropic are massively expanding in India in response to Trump's visa restrictions.
 - `INS-260403-86DF` [high] Removing the economic incentive for a behavior (prosecuting employers) is more effective than trying to physically prevent the behavior (ICE raids).
+- `INS-260519-C808` [high] Maja Voje (The GTM Strategist): proprietary signals, proprietary research, and human touch — one intelligent message beats fifty templated ones (3–5x, sometimes 10x).
 - `INS-260327-FC6F` [high] There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260324-8C6F` [high] In LA's saturated taco market, the winning strategy isn't being the best — it's being the best for your specific neighborhood by showing up at the same spot, same time, rain or shine, year after year.
 - `INS-260330-F0F2` [high] Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.

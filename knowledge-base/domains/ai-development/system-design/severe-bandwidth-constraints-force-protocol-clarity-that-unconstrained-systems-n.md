@@ -53,10 +53,10 @@ stance: >-
   bit must carry maximum information density
 related:
   - INS-260321-E4EB
+  - INS-260519-C808
   - INS-260410-E660
   - INS-260327-E75F
   - INS-260410-F06E
-  - INS-260410-25AF
 ---
 Submarines communicate via Very Low Frequency radio that penetrates seawater but maxes out at ~700 words per minute of text — no audio, no video, no back-and-forth. This extreme constraint means every message must be self-contained, unambiguous, and pre-structured. There's no room for clarifying questions or casual context.
 

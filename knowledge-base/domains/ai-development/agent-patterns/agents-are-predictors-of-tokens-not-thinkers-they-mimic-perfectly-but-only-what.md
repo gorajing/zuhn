@@ -65,13 +65,13 @@ related:
   - INS-260321-1F9F
   - INS-260327-0595
   - INS-260403-141E
-  - INS-260323-47D8
   - INS-260404-023C
   - INS-260410-F24A
   - INS-260410-1789
   - INS-260410-E1D9
   - INS-260410-6ABA
   - INS-260501-8B78
+  - INS-260405-A22F
 ---
 The educator's reframe of why people get frustrated with agents: 'It will mimic you perfectly, but you've given it nothing to mimic.' Models are predictors of tokens that map English to vectors and find closest neighbors. They don't think, don't understand, don't have emotion — they feel like they do because of the scale of training data. Treating them as 'black magic boxes that know everything' produces frustration; treating them as 'extremely capable new employees who need to be shown the workflow' produces results.
 

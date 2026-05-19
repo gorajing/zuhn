@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260404-0153
   - PRI-260322-8FD4
+  - INS-260519-BFBF
   - INS-260403-A521
   - PRI-260406-7FE4
-  - PRI-260324-12CF
 ---
 The pattern repeats across every biography Senra has read: Andrew Carnegie, John D. Rockefeller, Henry Clay Frick, and Izzy Sharp (Four Seasons founder) all describe recessions as their best opportunities. Sharp claimed in his autobiography that he gained 25-28% market share across cycles specifically by increasing marketing spend when competitors pulled back. Buffett and Munger deploy capital precisely when others are forced sellers. The mechanism is behavioral: human nature is loss aversion, so most operators reflexively cut discretionary spend during downturns, which creates an arbitrage for anyone who can hold the line or press harder.
 

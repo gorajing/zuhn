@@ -51,6 +51,7 @@ related:
   - INS-260410-9120
   - INS-260321-F0DF
   - INS-260323-D679
+  - INS-260519-0A9F
   - INS-260323-6414
 ---
 Kevin Kelly's 1,000 True Fans thesis received concrete validation through Lenny's newsletter trajectory. He launched paid subscriptions and reached 450 paid subscribers within six weeks (~$56K ARR), crossed 1,000 paid at about 4 months, and by year-end had over 3,000 paid subscribers earning more than his PM Lead salary at Airbnb.
