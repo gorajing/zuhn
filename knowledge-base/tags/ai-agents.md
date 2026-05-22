@@ -35,16 +35,17 @@
 - `INS-260403-BDCB` Regulated industries are the hardest to enter with AI agents but offer the strongest moats once accuracy and compliance thresholds are met.
 - `INS-260322-3010` Upload bank and credit card statements to an AI agent to identify SaaS subscriptions that can be replaced with custom AI-built modules — one audit revealed $1000/month in replaceable subscriptions.
 - `INS-260403-225F` Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
+- `INS-260522-213D` YC Root Access: extract the domain knowledge locked in heads, Slack, email, and Notion, make it legible as context/skills, and the company becomes an intelligent AI-native organization — the brain is the asset.
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260322-E4D8` AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
 - `INS-260505-A9BC` Asking an AI agent for a plan before it acts works for the same reason specific climate language predicts real reduction — intent + plan beats intent alone.
 - `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260410-BD9D` AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
+- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
 - `INS-260409-F0F5` Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
 - `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
-- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260403-08D7` Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
 - `INS-260403-4120` Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.

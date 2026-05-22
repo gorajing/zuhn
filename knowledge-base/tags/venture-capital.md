@@ -145,6 +145,7 @@
 - `INS-260410-614E` Most VCs say 'we made a bet' or 'it's a good risk-adjusted bet' — Benchmark partners argue this language encodes passive super-forecasting, whereas 'commitment' encodes active odds-denting on the field with the founder.
 - `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
+- `INS-260404-86D3` Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260404-620D` AI-native positioning dominates successful seed-stage pitch decks in 2024, appearing in the majority of funded companies across the sample.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
@@ -188,7 +189,6 @@
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260403-2936` Strong teams with clear pitches can raise from anywhere because VCs now allocate by sector and quality, not geography.
-- `INS-260404-86D3` Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
 - `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.

@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 33 insights
+> 34 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260410-1ED3` [high] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -23,6 +23,7 @@
 - `INS-260410-0C77` [high] Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260514-1659` [high] One engineer writes 'how to write a good follow-up email' once. Every agent on the team writes good follow-up emails forever. Compounds.
 - `INS-260514-5914` [high] Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
+- `INS-260522-EB3C` [high] YC Root Access: store all data preciously (Gary Tan keeps every email in markdown, never deletes), treat the software on top as ephemeral — regenerate it from your instructions when the models get smarter in a month or two.
 - `INS-260412-41A5` [high] Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.
 - `INS-260412-FD9A` [high] The Caplan thruster uses a second jet pointed at the Sun to prevent the engine from crashing into it, illustrating active balance in high-force systems.
 - `INS-260410-71B9` [high] Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.

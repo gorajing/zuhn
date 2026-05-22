@@ -49,10 +49,10 @@ related:
   - INS-260330-14B1
   - INS-260409-E6F3
   - INS-260409-1652
-  - INS-260409-A0D7
   - INS-260412-491A
   - INS-260412-3951
   - INS-260412-DDD2
+  - INS-260410-ED68
 ---
 David Gouli's framing: every transformative scientific tool has opened a new vista — telescopes for cosmos, microscopes for cells. AI is in that lineage but distinct: it doesn't extend our perception of the large or small, it extends our ability to detect, understand, and exploit complex high-dimensional patterns in immense datasets that human minds cannot parse alone. This is qualitatively different from speed-up arguments ('AI makes existing analysis faster'). Once internalized, this reframes what AI can do for any field — what dimensions of pattern were previously inaccessible?
 

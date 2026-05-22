@@ -47,10 +47,10 @@ stance: >-
   between study time and retention — extra minutes produce exponentially more
   benefit rather than marginal gains.
 related:
-  - INS-260323-6C84
   - INS-260329-3332
+  - INS-260323-6C84
   - INS-260405-3061
+  - INS-260522-B95E
   - INS-260329-9C20
-  - PRI-260406-D017
 ---
 Most experiences in life have diminishing returns — increase reading time by 50% and you get less than 50% more out of it. Spaced repetition inverts this: after 6 repetitions Quantum Country users averaged 54 days of demonstrated retention per card, up from 2 days after the first review — an exponential curve. The total time investment (~95 minutes) is about 50% of the original 4-hour reading time, but it produces months-to-years of retention that would otherwise require hours of conventional flashcard review to match. Every extra minute of review provides MORE benefit than the previous minute, not less. This exponential schedule is why conventional flashcards require hours while SRS requires minutes for equivalent retention. It is also counterintuitive enough that people repeatedly underestimate how much retention they can achieve cheaply with a disciplined SRS practice.

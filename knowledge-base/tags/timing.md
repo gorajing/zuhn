@@ -32,26 +32,26 @@
 - `INS-260330-3A0D` Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
+- `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
 - `INS-260501-F9F7` Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it.
 - `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
 - `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
 - `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
 - `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
+- `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
+- `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
 - `INS-260405-3E4E` A cybersecurity company led by former Microsoft executives went from zero to $100M ARR in nine months, backed by Index and Sequoia — a pace achievable only when founder credibility and sector tailwinds align.
 - `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
-- `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
-- `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
-- `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
-- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260409-AB58` If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.
 - `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260404-3043` Bubble economics temporarily suppress adoption of efficient innovations that later become standard.
 - `INS-260405-911F` Newton described the Magnus effect in the 1600s; Flettner rotors only reached commercial shipping in the 21st century — a 400-year lag from observation to deployment.
 - `INS-260404-17DD` Established business models produce antibodies that kill fragile new initiatives transferred too early.
 - `INS-260404-2DB4` Companies must reinvent while successful because decline eliminates the resources needed for transformation.
+- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
 - `INS-260403-1AE5` New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
 - `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'

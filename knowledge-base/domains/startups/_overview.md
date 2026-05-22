@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4760 insights across 55 topics
+> 4762 insights across 55 topics
 
 ## Topics
 
@@ -40,7 +40,7 @@
 | marketing | 11 | Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | operations | 30 | Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever. |
-| organizational-design | 23 | Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks. |
+| organizational-design | 24 | Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks. |
 | pitch-decks | 8 | As pitch descriptions approach 'could be anything,' their information content approaches zero. |
 | platform-dynamics | 27 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | platform-strategy | 17 | The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. |
@@ -52,7 +52,7 @@
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
-| scaling | 205 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
+| scaling | 206 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
 | strategy | 278 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |

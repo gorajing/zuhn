@@ -67,8 +67,8 @@ related:
   - INS-260330-39D7
   - INS-260403-614D
   - INS-260403-4EBF
-  - INS-260405-6BBC
   - INS-260403-DAA9
+  - INS-260409-CDCD
 ---
 Dwarkesh argues that humans aren't useful mainly because of raw IQ — they're useful because they learn on the job. They notice small things, adjust, and compound small improvements over months of practice. LLMs have no analog: you're stuck with the capabilities that come out of the box, and prompt engineering is a fundamentally inadequate substitute for the kind of deliberate, adaptive learning humans do. The saxophone analogy is sharp: imagine teaching a kid saxophone by having each student make one attempt, then writing instructions for the next student to read cold. No prompt, however well-honed, can replace the student actually practicing.
 

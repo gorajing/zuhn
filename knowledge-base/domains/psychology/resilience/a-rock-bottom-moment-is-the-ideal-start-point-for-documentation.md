@@ -43,9 +43,9 @@ stance: >-
   there
 related:
   - INS-260404-D147
+  - INS-260522-51E7
   - INS-260403-9B3A
   - INS-260329-C91D
   - PRI-260323-2C5C
-  - INS-260329-18BB
 ---
 Hormozi started documenting purposefully the day he had $1,000 left after losing everything. The mechanism: rock bottom provides clarity about what you will and won't accept going forward, and documentation becomes a commitment device that makes the decision irreversible. The insight is about timing — most people wait until they're doing well to start documenting (when they feel proud of the output), but the most useful documentation begins when everything has broken, because that's when the narrative arc actually starts. If you're currently at a low point, that is the correct moment to begin the record, not an excuse to delay it.

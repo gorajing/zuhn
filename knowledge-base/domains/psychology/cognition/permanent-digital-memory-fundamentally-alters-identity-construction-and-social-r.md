@@ -56,7 +56,7 @@ related:
   - INS-260322-6042
   - PRI-260406-12D7
   - INS-260409-6DBE
-  - INS-260327-B64B
+  - INS-260522-EB3C
 ---
 Before the internet, most things people said and did would be forgotten and misremembered within a fairly short time. This ephemerality was a feature, not a bug — it allowed people to evolve, craft new personas, and move beyond past baggage. The internet's permanent memory has eliminated this social affordance.
 

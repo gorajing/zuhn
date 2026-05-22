@@ -52,6 +52,7 @@ related:
   - INS-260327-0C4A
   - INS-260403-2F4D
   - INS-260412-B6D3
+  - INS-260522-DB03
 evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO

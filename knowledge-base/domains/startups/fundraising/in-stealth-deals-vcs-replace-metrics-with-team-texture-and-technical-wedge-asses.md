@@ -64,8 +64,8 @@ related:
   - PRI-260406-598F
   - INS-260404-569C
   - INS-260423-EFC0
+  - INS-260522-2CE8
   - INS-260403-CD90
-  - INS-260403-3BB2
   - INS-260403-93BB
 ---
 The standard VC evaluation framework — growth curves, retention metrics, market share — breaks down completely for stealth startups. Smart investors replace these with four proxy signals: team execution history (have they shipped before?), technical defensibility (is there a genuine IP wedge?), stealth rationale clarity (can they articulate why silence is strategic, not evasive?), and network signal (have credible people quietly joined the cap table?).

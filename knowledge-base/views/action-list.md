@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-19 | 5149 actionable insights
+Generated on 2026-05-22 | 5151 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -816,6 +816,7 @@ Generated on 2026-05-19 | 5149 actionable insights
 - [INS-260519-7744] Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
 - [INS-260519-9732] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
 - [INS-260519-90E2] Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
+- [INS-260522-51E7] YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
@@ -826,6 +827,7 @@ Generated on 2026-05-19 | 5149 actionable insights
 - [INS-260322-24FB] The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
 - [INS-260514-00D3] Auto-save every question-answer interaction back into the indexed folder — turns each AI query into new knowledge that re-indexes in the next cycle, creating compounding personal KB.
 - [INS-260519-304D] Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
+- [INS-260522-B95E] YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.

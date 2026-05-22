@@ -1,6 +1,6 @@
 # Topic: ai-agents
 
-> 67 insights
+> 68 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260325-7FAF` [high] The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
@@ -35,6 +35,7 @@
 - `INS-260323-4B4D` [high] Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
 - `INS-260403-225F` [high] Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
 - `INS-260405-670E` [high] Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
+- `INS-260522-213D` [high] YC Root Access: extract the domain knowledge locked in heads, Slack, email, and Notion, make it legible as context/skills, and the company becomes an intelligent AI-native organization — the brain is the asset.
 - `INS-260405-1A3C` [high] 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260323-48AF` [high] OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
 - `INS-260403-2609` [high] The market has moved from AI-enhanced SaaS that helps humans to AI-native systems of action that autonomously execute entire workflows on their behalf.

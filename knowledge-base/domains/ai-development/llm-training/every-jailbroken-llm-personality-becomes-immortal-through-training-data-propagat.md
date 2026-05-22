@@ -51,8 +51,8 @@ related:
   - INS-260403-DF2E
   - INS-260505-1165
   - INS-260501-8B78
+  - INS-260522-EB3C
   - INS-260501-BBB7
-  - INS-260519-20E0
 stance: >-
   Conversations with jailbroken LLMs like Dan and Sydney become part of future
   training data, meaning each LLM's personality becomes immortal

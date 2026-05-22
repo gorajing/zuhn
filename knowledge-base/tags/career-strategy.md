@@ -3,9 +3,9 @@
 - `INS-260409-6C66` Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
 - `INS-260323-825F` The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
 - `INS-260327-768D` Bernadotte maintained connections across French political factions and eventually became King of Sweden by being useful to everyone without being fully committed to anyone.
+- `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
-- `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
 - `INS-260412-FE12` Gen Z increasingly choosing trades and community colleges over expensive universities reflects rational recalculation as degree ROI declines and student debt compounds.

@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260328-AB0C
   - INS-260330-881A
-  - INS-260403-8421
+  - INS-260522-88E0
   - INS-260403-458A
+  - INS-260403-8421
   - INS-260409-BC24
-  - INS-260514-F91A
 ---
 The traditional startup timeline — build for a year, raise a seed, hit traction milestones over 18 months to Series A — was calibrated to the cost structure of an older era. In the AI era, that timeline is wasteful because both building and distribution have compressed. A 90-day window to monthly sales on the order of 100M KRW is now the right heuristic: enough time for a small team to build, launch, iterate, and measure actual willingness to pay. Founders who have not hit meaningful revenue in 90 days should treat that as a signal that the business hypothesis is weaker than expected, not as permission to keep trying for another year.

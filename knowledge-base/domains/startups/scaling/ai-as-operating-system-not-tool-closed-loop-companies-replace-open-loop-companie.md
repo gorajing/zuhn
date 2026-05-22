@@ -62,6 +62,7 @@ stance: >-
   the operating system the company runs on, not a tool the company uses.
 related:
   - INS-260321-167A
+  - INS-260522-2CE8
   - INS-260330-0102
   - INS-260403-B008
   - INS-260322-4757

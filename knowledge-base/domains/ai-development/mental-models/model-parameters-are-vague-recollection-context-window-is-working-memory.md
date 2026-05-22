@@ -57,7 +57,6 @@ stance: >-
   behaves like a month-old memory while tokens in the context window behave like
   active working memory.
 related:
-  - INS-260330-4FB9
   - INS-260405-6C88
   - INS-260409-3059
   - INS-260514-D5F0

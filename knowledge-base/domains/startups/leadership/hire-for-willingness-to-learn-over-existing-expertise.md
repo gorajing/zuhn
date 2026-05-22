@@ -44,10 +44,10 @@ resolutions:
     skills rather than buying them.
 related:
   - INS-260327-91E7
+  - INS-260522-213D
   - INS-260404-CCB1
   - PRI-260405-608A
   - INS-260403-BACA
-  - INS-260403-4DFB
 stance: >-
   Prioritize curiosity and learning velocity over domain expertise when hiring,
   especially in fast-changing industries.

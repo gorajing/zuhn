@@ -47,10 +47,10 @@ stance: >-
   AGI.
 related:
   - PRI-260328-49CB
+  - INS-260522-2CE8
   - INS-260326-4F90
   - INS-260402-5523
   - INS-260327-A9D5
-  - INS-260501-FD20
 evidence:
   - id: INS-260326-4F90
     type: CHALLENGES

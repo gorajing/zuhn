@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260410-46CA
   - INS-260328-9C16
+  - INS-260522-213D
   - INS-260402-B36F
   - INS-260514-60C4
-  - INS-260409-3602
 evidence:
   - id: INS-260328-9C16
     type: TRANSFERS_TO

@@ -54,9 +54,9 @@ related:
   - INS-260330-BA71
   - INS-260327-F405
   - PRI-260406-4C28
+  - INS-260522-201B
   - INS-260323-A075
   - INS-260403-9482
-  - PRI-260328-9F8C
 ---
 The article's central thesis is that the factor separating successful AI-native startups from failures is human insight, not AI sophistication. AI can generate ideas, analyze trends, and write code, but it lacks instinct—it doesn't understand customer psychology, market timing, or the emotional triggers that make products take off.
 

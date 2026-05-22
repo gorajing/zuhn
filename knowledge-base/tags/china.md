@@ -1,12 +1,12 @@
 # Tag: china
 
 - `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
+- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
+- `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
 - `INS-260410-86B0` Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
-- `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
-- `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
 - `INS-260410-991B` China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.

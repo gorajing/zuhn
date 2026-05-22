@@ -48,10 +48,10 @@ stance: >-
   regardless of how embedded it is in physical form
 related:
   - INS-260327-85E2
+  - INS-260522-EB3C
   - PRI-260403-6DD6
   - INS-260411-1676
   - INS-260323-76B8
-  - INS-260404-D646
 evidence:
   - id: INS-260327-85E2
     type: EXTENDS

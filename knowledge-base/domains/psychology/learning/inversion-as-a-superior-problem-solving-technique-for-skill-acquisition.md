@@ -49,7 +49,6 @@ stance: >-
   action plans than directly brainstorming success strategies, because our
   brains are wired for threat detection over opportunity finding.
 related:
-  - INS-260329-CCDE
   - INS-260329-D8F2
   - INS-260329-64B8
   - INS-260409-171C

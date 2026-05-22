@@ -20,13 +20,14 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
+  - INS-260522-EB3C
   - INS-260329-9010
   - INS-260403-77F4
   - INS-260322-71E4
   - INS-260329-917B
-  - INS-260329-CF16
   - INS-260320-4773
   - INS-260329-F0DE
+  - INS-260329-CF16
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0

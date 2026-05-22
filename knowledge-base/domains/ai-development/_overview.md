@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 2132 insights across 40 topics
+> 2135 insights across 40 topics
 
 ## Topics
 
@@ -9,7 +9,7 @@
 | adoption | 57 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
 | agent-patterns | 136 | A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice. |
 | agents | 23 | ReAct is an introduction to agent reasoning, not a complete architecture for production systems. |
-| ai-agents | 67 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
+| ai-agents | 68 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-business-models | 12 | Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business? |
 | ai-capabilities | 173 | Ben Gilbert: a lot more AI tasks will start feeling synchronous instead of async — there's such a big difference in computing applications between something that feels instant versus not, and we can't yet predict what that unlocks. |
@@ -22,7 +22,7 @@
 | economics | 10 | AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable. |
 | embeddings | 18 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | foundation-models | 13 | Frontier capability today shows up in tiny edge models within a year — and we don't know where the ceiling is yet. |
-| future-of-work | 126 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| future-of-work | 127 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 32 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
 | hardware | 17 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 90 | Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.' |
@@ -43,6 +43,6 @@
 | prompting | 11 | Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster. |
 | research-methodology | 89 | LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research. |
 | system-building | 225 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
-| system-design | 33 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
+| system-design | 34 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | training-dynamics | 13 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

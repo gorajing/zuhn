@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 205 insights
+> 206 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -24,6 +24,7 @@
 - `INS-260330-B437` [high] Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
 - `INS-260327-9192` [high] When Arora's engineering team proposed 60 engineers and 9 months to match a browser startup, he asked: do you expect them to just hang out and wait for you to catch up?
 - `INS-260327-390A` [high] Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
+- `INS-260522-88E0` [high] YC Root Access: companies reach demo day at ~5x revenue per employee vs 18 months ago; soon you're constrained on token usage, not headcount.
 - `INS-260330-EA23` [high] Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.
 - `INS-260330-3585` [high] Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-EB1B` [high] Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.

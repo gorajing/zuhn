@@ -50,7 +50,6 @@ stance: >-
   weekly data demonstrations to skeptical domain experts is the only path to
   adoption.
 related:
-  - INS-260320-8FFC
   - INS-260327-DC65
   - PRI-260328-1D0B
   - INS-260404-CCE7

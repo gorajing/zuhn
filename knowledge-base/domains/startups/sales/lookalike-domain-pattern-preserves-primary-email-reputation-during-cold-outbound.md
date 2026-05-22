@@ -59,8 +59,8 @@ stance: >-
 related:
   - INS-260402-0E46
   - INS-260514-273E
+  - INS-260522-EB3C
   - INS-260327-8D7E
   - INS-260327-91E7
-  - INS-260403-93FA
 ---
 Standard outbound deliverability pattern that Scott baked into GTMFI's domain procurement workflow: never send cold outbound from your primary email domain because if your messages get flagged as spam, your legitimate everyday email also gets affected — which is catastrophic for a business that depends on email for customer communication. Instead: buy 'lookalike domains' (e.g., yourcompany-mail.com, yourcompany.net, yourcompany.email — Scott bought gtmifi.email and sold .net the night before recording), warm up the mailboxes for ~2 weeks before sending, then send all cold outbound from those warmed lookalike domains. When a prospect replies (turning cold into warm), the salesperson hands the conversation off to their primary domain — the prospect never notices because they were already engaged. GTMFI's onboarding automatically checks lookalike-domain availability via Cloudflare/Porkbun/GoDaddy and procures them as part of the workspace setup. The broader principle: domain reputation is an asset that takes months to build and seconds to destroy — segregate the risky operations (cold outreach, mass sends) from the reputation-critical operations (customer communication, billing, support) by infrastructure, not by discipline.

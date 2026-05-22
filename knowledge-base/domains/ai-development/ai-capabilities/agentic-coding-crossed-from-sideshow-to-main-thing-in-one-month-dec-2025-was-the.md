@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260322-4757
   - INS-260325-031F
-  - INS-260325-3F86
   - INS-260326-7F79
   - INS-260327-33FA
   - INS-260327-FE24
@@ -62,5 +61,6 @@ related:
   - INS-260330-8F07
   - INS-260330-D5CD
   - INS-260405-AFF7
+  - INS-260405-EFC2
 ---
 Capability discourse in AI tends to use linear-improvement framing (model X is 15 percent better than model Y at benchmark Z). Brockman names a specific moment in December 2025 where agentic coding tools crossed a threshold that is better described as phase transition: the role flipped from human-author-with-AI-assist to AI-author-with-human-supervision. The implication is that planning around AI capability requires watching for these phase transitions, not extrapolating from prior linear curves. The same dynamic is now generalizing across all computer work in 2026, per Brockman: codex is changing from a tool for software engineers to a tool for anyone who works with a computer. The strategic implication for builders: organizations that planned a 24-month transition to AI-assisted workflows are operating on a stale timeline because the capability arrived in 4 weeks rather than 24 months. The career implication for individuals: if your work is computer-mediated and you haven't crossed the 80-percent-AI-author threshold in your own workflow, you're behind the capability frontier.

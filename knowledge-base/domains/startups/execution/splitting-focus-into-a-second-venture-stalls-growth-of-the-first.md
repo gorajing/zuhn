@@ -43,7 +43,6 @@ stance: >-
   Launching a sister company while your primary business is still growing costs
   more in foregone growth than the new venture generates
 related:
-  - INS-260323-043E
   - INS-260501-61C7
   - INS-260403-AAC8
   - INS-260327-6058

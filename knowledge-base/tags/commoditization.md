@@ -1,7 +1,7 @@
 # Tag: commoditization
 
-- `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
 - `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
+- `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
 - `INS-260409-CBC7` Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
 - `INS-260409-DD69` Hassabis pegs the open-source lag at ~6 months behind frontier — the reimplementation time — with DeepMind's Gemma line pushing best-in-class at small sizes for edge/startup/academic use.
@@ -24,9 +24,9 @@
 - `INS-260412-37A6` Commoditized technology lets new entrants match incumbent quality at a fraction of the price, shifting competition to design and distribution.
 - `INS-260326-286F` What wins long-term is always the thing that accumulates invisibly, because the impressive-looking variable commoditizes.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
+- `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260321-CCD9` Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
 - `INS-260403-D543` The pattern where dramatic cost reduction leads to massive volume increase and new use cases — seen in steel, power, and computing — is now happening to startups themselves.
-- `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260412-7C6B` NASA used off-the-shelf smartphones as satellite computers because consumer market scale drove costs below what purpose-built satellites could match.
 - `INS-260412-DCDC` The entire aviation industry is dictated by economics not comfort — airlines find it far easier to market lower prices than higher comfort.

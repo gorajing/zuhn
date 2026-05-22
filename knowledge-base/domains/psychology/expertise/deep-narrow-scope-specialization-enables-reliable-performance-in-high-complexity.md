@@ -55,7 +55,7 @@ related:
   - INS-260412-E5CC
   - PRI-260406-D181
   - INS-260412-F17D
-  - INS-260320-B99F
+  - INS-260522-2CE8
 ---
 At Maastricht, Brussels sector group controllers rarely switch to the Hannover group. This extreme specialization lets controllers internalize the 3D geometry, traffic patterns, and edge cases of their specific airspace volume so thoroughly that safe decisions become semi-automatic. The tradeoff — reduced flexibility in staffing — is accepted because the reliability gain in a safety-critical domain outweighs the efficiency loss.
 

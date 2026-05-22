@@ -47,7 +47,6 @@ stance: >-
   superior heuristic in high-uncertainty domains because good people adapt while
   good-sounding ideas become stale
 related:
-  - INS-260323-3C7B
   - INS-260327-671E
   - INS-260329-0CDD
   - INS-260402-FEA3
@@ -57,6 +56,7 @@ related:
   - INS-260514-78B3
   - PRI-260407-2DBD
   - INS-260404-1C9D
+  - INS-260402-575D
 evidence:
   - id: INS-260329-0CDD
     type: CHALLENGES

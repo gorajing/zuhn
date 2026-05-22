@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-19 | 2632 sources
+Generated on 2026-05-22 | 2633 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -152,6 +152,7 @@ Generated on 2026-05-19 | 2632 sources
 | C Programming Tutorial for Beginners | youtube | 9 | 2026-03-29 |
 | Explaining the Most Important Artemis II Photos | youtube | 9 | 2026-04-09 |
 | How Laser Tattoo Removal Works - Smarter Every Day 123 | youtube | 9 | 2026-03-30 |
+| How to Build a Self-Improving Company with AI | youtube | 9 | 2026-05-22 |
 | How to Grow an Audience if You Have 0 Followers | youtube | 9 | 2026-03-30 |
 | How to Learn to Code - 8 Hard Truths | youtube | 9 | 2026-03-30 |
 | How to Reverse Hair Loss | youtube | 9 | 2026-04-09 |

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 126 insights
+> 127 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -43,6 +43,7 @@
 - `INS-260423-00AC` [high] Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product.
 - `INS-260408-3691` [high] Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260410-045C` [high] Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
+- `INS-260522-201B` [high] YC Root Access: the company brain (data + skills + knowhow) sits in the middle; humans sit around the edge where intelligence makes contact with reality — high-stakes, high-emotion moments and key sales conversations, 'a human in the room for the next 20 years.'
 - `INS-260410-56B4` [high] If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
 - `INS-260410-D834` [high] People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
 - `INS-260413-86EA` [high] US software developer employment for ages 22-25 fell ~20% from 2024 while older developer headcount grew, and 1/3 of surveyed organizations expect further workforce reductions ahead.

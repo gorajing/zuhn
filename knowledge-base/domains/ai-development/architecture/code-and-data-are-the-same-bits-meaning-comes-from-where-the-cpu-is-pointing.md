@@ -51,8 +51,8 @@ stance: >-
 related:
   - INS-260409-C133
   - INS-260329-DEA1
+  - INS-260522-51E7
   - INS-260505-D545
   - INS-260403-C49F
-  - INS-260325-40DC
 ---
 The video makes this explicit when running the counting program and then the Fibonacci program: the same kind of bit patterns in RAM do totally different things depending on how the CPU interprets them through the instruction register. This has enormous downstream consequences. It is why writing past a buffer can make a program execute attacker-supplied data as code. It is why just-in-time compilers can write new machine code into memory and then jump to it. It is why machine learning weights and program logic are fundamentally the same kind of object. Any mental model of computing that treats 'code' and 'data' as different substances is wrong — they are the same substance viewed from different angles of the program counter.

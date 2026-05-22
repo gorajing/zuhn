@@ -47,7 +47,6 @@ stance: >-
   emotional, intangible words instead of observable standards.
 related:
   - INS-260327-98F7
-  - INS-260329-2ECE
   - PRI-260405-6867
   - PRI-260405-0AC6
   - PRI-260406-8FDF

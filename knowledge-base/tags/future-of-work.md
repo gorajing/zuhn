@@ -11,6 +11,7 @@
 - `INS-260410-204E` Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
 - `INS-260408-3691` Hassabis to students: 'immerse myself in every tool available and become almost like superpowered' — the gap is creative application, not technical skill.
 - `INS-260410-045C` Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
+- `INS-260522-201B` YC Root Access: the company brain (data + skills + knowhow) sits in the middle; humans sit around the edge where intelligence makes contact with reality — high-stakes, high-emotion moments and key sales conversations, 'a human in the room for the next 20 years.'
 - `INS-260501-AB31` Future companies have builders (deputizing agents) and salespeople (transferring trust). Everything else is automated by the builders.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
