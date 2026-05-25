@@ -49,9 +49,10 @@ stance: >-
   shift to citation-based brand building.
 related:
   - INS-260402-E040
-  - INS-260404-573C
+  - INS-260524-8320
   - INS-260410-DCE5
   - INS-260514-D0A4
+  - INS-260404-573C
   - INS-260514-D9DB
 ---
 SparkToro and Datos data from 2024 show 58.5% of Google searches produce zero outbound clicks. AI Overviews appear in 15–60% of queries. The trend predates AI but AI dramatically accelerates it: when a user gets a complete synthesized answer, there's simply no reason to click through. For content-dependent businesses, this is an existential shift.

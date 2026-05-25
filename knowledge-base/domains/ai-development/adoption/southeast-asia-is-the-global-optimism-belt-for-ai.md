@@ -54,7 +54,6 @@ stance: >-
   and Europe cluster at high nervousness and low expectation, inverting the
   usual geography of technology enthusiasm.
 related:
-  - INS-260330-777A
   - INS-260409-5FF6
   - INS-260413-3C99
   - INS-260413-F591

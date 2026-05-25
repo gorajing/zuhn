@@ -1,9 +1,9 @@
 # Tag: error-correction
 
+- `INS-260412-A4E9` Elephants require more mutations per cell to develop cancer because evolution equipped them with additional tumor suppressor genes to offset their massive cell counts.
 - `INS-260325-3F9B` Quantum effects dissipate almost instantly through decoherence, so a computation needing 100 qubits may require a million physical qubits just for error correction redundancy.
 - `INS-260322-3537` The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
 - `INS-260325-0409` QJL achieves zero-overhead error correction by spending just 1 bit on residual bias elimination rather than distributing precision uniformly — a principle applicable beyond quantization.
-- `INS-260412-A4E9` Elephants require more mutations per cell to develop cancer because evolution equipped them with additional tumor suppressor genes to offset their massive cell counts.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-A01C` Groups never admit failure because consensus-maintenance requires compromise, which destroys the truth-seeking mechanism — only individuals can genuinely update their beliefs.

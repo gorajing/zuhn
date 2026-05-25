@@ -1,11 +1,11 @@
 # Tag: convergence
 
+- `INS-260410-F682` Lane argues that on billions of wet rocky planets, the same carbon chemistry, proton gradients, and Krebs cycle intermediates will keep appearing because the substrate is deterministic—and the same logic applies to any system where underlying constraints are fixed and alternatives have been thoroughly searched.
+- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
 - `INS-260412-F46C` UE5's ~80% photorealism threshold has already enabled amateur filmmakers to produce cinema-quality content using a real-time game engine.
 - `INS-260505-56BD` Two independent intelligence systems built from different physics arrive at edge detectors and similar representational features.
 - `INS-260325-B882` AI, clean energy, and bioengineering are simultaneously hitting their technology adoption tipping points, creating a convergence that may produce civilizational-scale change.
 - `INS-260404-B1BC` Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
-- `INS-260410-F682` Lane argues that on billions of wet rocky planets, the same carbon chemistry, proton gradients, and Krebs cycle intermediates will keep appearing because the substrate is deterministic—and the same logic applies to any system where underlying constraints are fixed and alternatives have been thoroughly searched.
-- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
 - `INS-260412-CB3C` Smartphones simultaneously destroyed the markets for point-and-shoot cameras, camcorders, MP3 players, portable gaming systems, GPS devices, and newspapers.
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260403-CAAB` Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.

@@ -1,18 +1,18 @@
 # Tag: methodology
 
-- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
+- `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
+- `INS-260325-40DC` SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
+- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
+- `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
+- `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260320-7682` Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
 - `INS-260405-F72B` LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260409-004E` Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
 - `INS-260410-3075` A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260409-C3F7` Building a cell-type atlas of the avian pallium and comparing it to mammalian equivalents settled a 60-year debate about whether bird and mammal intelligence share common neural origins — a pattern other biology debates should emulate.
 - `INS-260410-D03C` Benchmark scores increasingly drive deployment decisions, but the rigor applied to running and reporting them hasn't caught up — making resource configuration a first-class variable is the minimum bar for trustworthy agentic evals.
-- `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
 - `INS-260320-6F8E` SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
-- `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
-- `INS-260325-40DC` SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
-- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260405-6BC4` Individual creators who expose their reasoning methodology earn more trust than institutional brands hiding behind mastheads.
 - `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.

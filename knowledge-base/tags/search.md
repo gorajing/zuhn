@@ -9,3 +9,4 @@
 - `INS-260410-9738` When Larry and Sergey demoed page rank to Excite's CEO in 1997, he killed the deal precisely because the results were too good — users would find what they wanted and leave, destroying Excite's CPM banner-ad page-view business.
 - `INS-260330-2CE3` Bing's $5B/year profit proves that owning the default position on a dominant platform is more valuable than building a better product.
 - `INS-260403-2496` Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
+- `INS-260524-8320` Z Venture Capital CEO: feared AI would kill search, but search queries are increasing — 'simply searching for information won't be money anymore'; the edge is data + how well you use it.

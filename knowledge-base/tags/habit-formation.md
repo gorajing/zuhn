@@ -1,13 +1,13 @@
 # Tag: habit-formation
 
+- `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
 - `INS-260409-21E0` Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
-- `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
-- `INS-260330-BC21` Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260403-BFF3` Find the one early action your retained users share — like Calm's Day 1 reminder or Facebook's 7 friends — and rebuild onboarding around it.
+- `INS-260330-BC21` Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260403-5D81` Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260409-7632` Most people wait for results to grant permission for a new identity; the causal direction is actually reversed — identity must shift first and results follow.
 - `INS-260404-FD88` When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.

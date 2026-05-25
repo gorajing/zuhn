@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 43 insights
+> 44 insights
 
 - `INS-260403-3852` [high] Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
@@ -43,5 +43,6 @@
 - `INS-260409-BC24` [medium] Raise after revenue, not before — AI-era timelines make the old sequencing obsolete.
 - `INS-260403-9491` [medium] The highest-value AI business model sells completed work rather than tools to do the work.
 - `INS-260409-62E0` [medium] AI's market structure will look like a barbell with hyper-micro entrepreneurs on one end, ~25 supercalers on the other, and a crushed middle of SaaS and mid-market service businesses.
+- `INS-260524-110F` [medium] Z Venture Capital CEO: SaaS is saturated, so SaaS firms bolt on AI; meanwhile manufacturing-heavy Asia has surprisingly large unmet demand for 'where do we apply AI' consulting.
 - `INS-260325-4FF3` [medium] Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies should charge for value delivered — aligning revenue with the GDP of agent output rather than compute consumed.
 - `INS-260405-AD55` [low] Just as AI workers scale business labor, digital clones will scale individual human presence and expertise.

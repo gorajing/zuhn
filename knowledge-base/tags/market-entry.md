@@ -34,8 +34,8 @@
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
 - `INS-260404-77CD` Stealth startups face asymmetric timing risk where the exit window is narrower than traditional launches because they lack the ongoing market signal correction that public startups receive.
-- `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
-- `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
-- `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - `INS-260412-A1F4` Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
 - `INS-260403-DC59` Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
+- `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
+- `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
+- `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

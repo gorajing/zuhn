@@ -27,9 +27,6 @@
 - `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
 - `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
-- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
-- `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.'
-- `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
 - `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
@@ -39,6 +36,9 @@
 - `INS-260403-1E4A` Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
+- `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
+- `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.'
 - `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - `INS-260412-9958` Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
 - `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.

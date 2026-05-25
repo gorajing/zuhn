@@ -52,5 +52,6 @@ related:
   - PRI-260405-7F1E
   - PRI-260406-21DA
   - INS-260330-4A89
+  - INS-260524-6E62
 ---
 Skilling's 1-to-5 grading system with mandatory 10% firing created exactly the Darwinian competition he wanted — but also made it impossible for anyone to raise concerns without risking their career. When your survival depends on making the company money at all costs, whistleblowing becomes career suicide. The system selected for people willing to book fake profits, manipulate markets, and look the other way. Sharon Watkins, who eventually wrote the warning letter to Lay, was the exception that proves the rule — and she only did it after the house was already falling. This is the deeper lesson: culture isn't just about productivity, it's an immune system. Stack-ranking destroyed Enron's immune system against fraud by making self-preservation the only rational strategy.

@@ -62,7 +62,6 @@ stance: >-
   possible.
 related:
   - INS-260320-C56D
-  - INS-260327-0F42
   - INS-260327-0053
   - INS-260327-5AF9
   - INS-260330-1226
@@ -71,6 +70,7 @@ related:
   - INS-260403-7A1D
   - INS-260403-4AF3
   - INS-260405-4D20
+  - INS-260409-7D27
 ---
 Jensen Huang clarified his viral 'I wouldn't start Nvidia again' clip by saying the comment was about the impossible difficulty of the journey, not regret. Zuckerberg agrees: he didn't even consider Facebook a real company until forced to, and openly says the early years were not the part of his life he'd want to relive. The convergence between the most successful chip founder and the most successful social founder is striking — both attribute their success in part to not knowing what they were getting into.
 

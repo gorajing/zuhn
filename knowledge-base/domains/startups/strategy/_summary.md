@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 278 insights
+> 279 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -258,6 +258,7 @@
 - `INS-260330-24E0` [medium] When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260330-23CD` [medium] Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260404-96E6` [medium] Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
+- `INS-260524-8320` [medium] Z Venture Capital CEO: feared AI would kill search, but search queries are increasing — 'simply searching for information won't be money anymore'; the edge is data + how well you use it.
 - `INS-260403-5DDE` [medium] Founders who maintain direct customer contact during downturns discover second-wind opportunities before competitors who retreat into boardroom strategy sessions.
 - `INS-260403-7E6A` [medium] North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.

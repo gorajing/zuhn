@@ -50,7 +50,6 @@ stance: >-
   in high-value ones are strategic assets, not liabilities
 related:
   - INS-260324-ABAC
-  - INS-260323-BD20
   - INS-260403-08FE
   - INS-260404-E65A
   - INS-260404-FB91

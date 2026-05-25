@@ -58,11 +58,11 @@ stance: >-
 related:
   - INS-260321-E59A
   - INS-260409-A0D7
+  - INS-260524-78D0
   - PRI-260328-D2FB
   - INS-260402-46AD
   - INS-260412-5C2D
   - INS-260323-4C71
-  - INS-260323-3F30
 ---
 Musk frames AI alignment through a physics lens: you can fool unit tests and human graders, but you cannot fool a rocket engine or a chip yield curve. If an AI designs a faulty rocket and the rocket explodes, the reward signal is unambiguous. This is why he claims truth-seeking is not just a nice property but a mechanical requirement for any AI that produces real-world artifacts — 'there's no bullshitting physics.'
 

@@ -1,8 +1,8 @@
 # Tag: complex-systems
 
+- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260514-37AA` Optimal complex systems live at the critical point between order and chaos — scale-free hub-and-spoke organization at every scale. Too ordered = unresponsive (depression, ossified org). Too chaotic = falls apart (psychosis, chaos).
 - `INS-260524-B6B3` Jongmin Sung: 'if math is physics's language, AI can read very complicated patterns' — and biology is a complex system with no single equation, so AI is the most suitable language for it.
-- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.

@@ -1,5 +1,6 @@
 # Tag: active-learning
 
+- `INS-260524-5173` Woosang: ML recommends a recipe -> a robot synthesizes it -> the result feeds back; active learning plus robotic synthesis is the autonomous-lab loop.
 - `INS-260524-1A41` Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
 - `INS-260505-9723` Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 - `INS-260404-023C` Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.

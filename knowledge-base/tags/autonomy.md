@@ -1,5 +1,6 @@
 # Tag: autonomy
 
+- `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
 - `INS-260405-FE94` Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260410-3601` The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
@@ -8,13 +9,12 @@
 - `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260325-2C31` AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
 - `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
-- `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
 - `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
+- `INS-260330-9BF5` Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
 - `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260412-9719` If the universe has no scoreboard, you get to design your own — and founders who do this explicitly build more resilient companies.
 - `INS-260330-8733` Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.
-- `INS-260330-9BF5` Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
 - `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.
 - `INS-260403-48CC` Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.
 - `INS-260410-A9CE` Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'

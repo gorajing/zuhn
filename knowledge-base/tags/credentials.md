@@ -1,8 +1,8 @@
 # Tag: credentials
 
-- `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
 - `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
+- `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260403-614D` Credentials exist because large organizations can't measure individual performance; small companies and markets can, making credentials irrelevant.
 - `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - `INS-260403-1DC9` Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality.

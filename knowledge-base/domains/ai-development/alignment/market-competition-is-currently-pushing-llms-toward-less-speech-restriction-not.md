@@ -46,11 +46,11 @@ stance: >-
   Competitive pressure between AI companies is driving models to become less
   content-restrictive over time, reversing initial over-censorship trends.
 related:
+  - INS-260524-3793
   - INS-260323-0603
   - PRI-260327-0D6E
   - INS-260403-F400
   - INS-260409-E776
-  - PRI-260405-7F1E
 evidence:
   - id: INS-260323-C3FA
     type: TRANSFERS_TO

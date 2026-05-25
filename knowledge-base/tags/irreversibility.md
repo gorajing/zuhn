@@ -1,9 +1,9 @@
 # Tag: irreversibility
 
+- `INS-260412-E0D9` Sri Lanka's overnight fertilizer ban collapsed food production, and reversing it months later couldn't restore the lost growing seasons or export capacity.
+- `INS-260412-F121` Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260326-7995` Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
-- `INS-260412-F121` Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.
-- `INS-260412-E0D9` Sri Lanka's overnight fertilizer ban collapsed food production, and reversing it months later couldn't restore the lost growing seasons or export capacity.
 - `INS-260412-8BDB` Every second, 60,000 stars pass humanity's cosmological horizon permanently — delay in expansion means permanently smaller maximum reach.
 - `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.

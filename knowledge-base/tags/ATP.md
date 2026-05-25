@@ -1,6 +1,7 @@
-# Tag: ATP
+# Tag: atp
 
-- `INS-260327-1C1B` Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
-- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
-- `INS-260405-AE0D` Photosynthesis runs in two completely separate stages — light reactions capture energy into ATP/NADPH buffers, then the Calvin Cycle spends that buffer to fix carbon — with neither stage directly coupled to the other.
-- `INS-260327-FF4A` Linoleic acid from seed oils accumulates in mitochondrial membranes, causing proton leak across the electron transport chain and reducing ATP production -- the molecular root of metabolic dysfunction.
+- `INS-260330-E8CF` Light reactions produce ATP and NADPH as portable energy carriers; the Calvin Cycle then spends those carriers to fix carbon into G3P, the universal building block.
+- `INS-260330-3082` Nearly 90% of ATP yield comes from the electron transport chain, making mitochondrial health far more important than glucose availability for energy production.
+- `INS-260330-5C36` Cellular respiration uses three sequential stages where each feeds the next, with the electron transport chain producing the vast majority of ATP.
+- `INS-260404-9C57` Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
+- `INS-260330-1298` Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-25 | 5154 actionable insights
+Generated on 2026-05-25 | 5156 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -168,6 +168,7 @@ Generated on 2026-05-25 | 5154 actionable insights
 - [INS-260322-E4D8] AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
 - [INS-260413-AD37] OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks.
 - [INS-260524-63C9] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
+- [INS-260524-2C7C] Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -654,6 +655,7 @@ Generated on 2026-05-25 | 5154 actionable insights
 - [INS-260505-9723] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 - [INS-260505-5FA7] Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?'
 - [INS-260514-1277] Note quality, not wiki tech, is the primary bottleneck — fix your note-taking discipline BEFORE investing in the wiki stack, because the wiki amplifies what's already there.
+- [INS-260524-78D0] Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.

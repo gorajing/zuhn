@@ -46,10 +46,10 @@ stance: >-
   improve, not as ambitious projects designed big from the start
 related:
   - INS-260409-FA5E
+  - INS-260524-78D0
   - INS-260404-AD21
   - INS-260423-E64B
   - INS-260404-D66A
-  - INS-260405-D925
 evidence:
   - id: INS-260330-64D8
     type: EXTENDS

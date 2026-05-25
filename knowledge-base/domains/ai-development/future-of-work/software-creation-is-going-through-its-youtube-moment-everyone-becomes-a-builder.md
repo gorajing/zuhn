@@ -59,7 +59,6 @@ stance: >-
 related:
   - INS-260327-D8D1
   - INS-260327-3A71
-  - INS-260402-E470
   - INS-260403-1D43
   - INS-260404-5882
   - INS-260405-D23E
@@ -67,5 +66,6 @@ related:
   - INS-260405-F378
   - INS-260403-5CAD
   - INS-260409-A682
+  - INS-260409-3C6A
 ---
 The dominant doom narrative for software developers in 2026 is that AI coding tools eliminate developer jobs by enabling non-developers to build software. Logan's positive-sum counter-narrative draws the YouTube parallel: when video creation moved from professional-only to broadly distributed, professional video producers and editors actually saw demand grow because the expanded creator population produced more sophisticated projects requiring professional partners. The same dynamic is plausible for software: when 100M people can build basic apps, a substantial fraction will hit the ceiling of what they can build alone and seek developer partners. The practical implication for software developers worried about AI displacement: position yourself as the partner that vibe coders need when their projects exceed their solo capability. This is a different career posture than competing on coding speed (where AI wins) or coding raw output (where AI also wins). Required skills: architectural judgment, debugging-on-handoff, regulatory and security competence, integration with legacy systems, performance at scale. These are precisely the skills that vibe-coded outputs lack and that traditional engineering training produces. Total developer demand in this scenario grows; it just shifts toward higher-leverage positions.

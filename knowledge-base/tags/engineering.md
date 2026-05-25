@@ -7,9 +7,9 @@
 - `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
+- `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
 - `INS-260403-876D` When a dominant player leaves a critical technical problem unsolved, that gap is a viable entry point for focused competitors.
-- `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-95BC` Instead of continuous improvement (74 days to 72), strip every problem back to first principles and ask what physics allows — you'll often find 6 days is possible, and then the conversation from 74 to 6 becomes surprisingly productive.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.

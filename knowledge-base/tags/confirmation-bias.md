@@ -1,9 +1,9 @@
 # Tag: confirmation-bias
 
-- `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260322-9095` Cardiologist Eric Topol warns that paying hundreds of dollars per shot creates strong confirmation bias — without clinical trials, users cannot distinguish real effects from placebo.
 - `INS-260325-9AD4` Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
 - `INS-260403-BA81` Financial models used after decisions are made become confirmation tools rather than decision tools.
+- `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260403-BF83` VC due diligence is designed to confirm or deny an initial gut feeling about a startup rather than to objectively discover its merits.
 - `INS-260403-96D7` Most founder-customer conversations generate false positives because the questions are designed to confirm, not challenge, existing assumptions.
 - `INS-260403-359D` Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.

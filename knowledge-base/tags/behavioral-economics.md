@@ -4,8 +4,8 @@
 - `INS-260327-A75B` Each individual failure is less painful than expected, but everything is collectively more painful than expected; this mismatch creates opportunity for entrepreneurs.
 - `INS-260403-9DC2` A strategically inferior pricing tier makes your target plan feel like the obvious choice through asymmetric dominance.
 - `INS-260405-6B96` Amazon's 'free' streaming is only free in the sense that it's not line-itemed — its cost is recovered through the shopping behavior change it induces in Prime subscribers.
-- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260403-CBC7` Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
+- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
 - `INS-260327-C316` People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.

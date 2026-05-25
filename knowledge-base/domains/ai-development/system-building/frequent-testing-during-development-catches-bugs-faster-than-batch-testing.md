@@ -51,7 +51,6 @@ related:
   - PRI-260405-3080
   - INS-260329-3441
   - INS-260320-4B31
-  - INS-260410-A1CA
 evidence:
   - id: INS-260330-FBE1
     type: CONTRADICTS

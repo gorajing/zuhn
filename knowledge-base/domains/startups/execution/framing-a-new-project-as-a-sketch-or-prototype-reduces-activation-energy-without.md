@@ -54,7 +54,6 @@ stance: >-
   Deliberately labeling ambitious work as low-stakes in early stages is a
   legitimate productivity strategy, not self-deception
 related:
-  - INS-260330-84F4
   - INS-260404-55E1
   - INS-260403-C428
   - INS-260404-D66A
@@ -63,7 +62,6 @@ related:
   - INS-260403-E7A7
   - INS-260404-AD21
   - INS-260404-4154
-  - INS-260409-FA5E
 ---
 One of the most effective tricks Graham identifies is re-labeling. Beginning a painting as 'just a sketch' or a new software tool as 'just a quick hack' lowers the psychological bar for starting. Once the project has momentum, you can quietly convert it to something more serious without ever having confronted the full weight of the ambition upfront.
 

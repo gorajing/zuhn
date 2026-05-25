@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 637 insights
+> 638 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -531,6 +531,7 @@
 - `INS-260329-5B18` [medium] Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
 - `INS-260501-1774` [medium] Twice a year a foundation model lab ships a step change. Don't roadmap around incremental capability — roadmap around the next inflection.
 - `INS-260405-487E` [medium] AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
+- `INS-260524-3793` [medium] Z Venture Capital CEO: the language barrier is becoming meaningless and the proprietary-data advantage is going away — everyone now competes globally.
 - `INS-260329-E8EB` [medium] Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260404-0095` [medium] Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260327-7F64` [medium] Reflection AI bets that autonomous coding is the gateway to superintelligence.

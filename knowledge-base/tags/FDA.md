@@ -1,4 +1,4 @@
-# Tag: FDA
+# Tag: fda
 
-- `INS-260327-3014` Regulatory capture by food and pharma industries is the primary driver of the chronic disease epidemic
-- `INS-260327-8572` The food supply has been systematically degraded through seed oils, pesticides, and additives approved by captured regulators
+- `INS-260409-F90C` Hassabis predicts Isomorphic's drug design engine ready in 5-10 years, then regulatory reform of trials is the second act.
+- `INS-260413-E2C4` FDA authorized 258 AI medical devices in 2025 — the vast majority through pathways that rely on existing safety/efficacy evidence — with only 2.4% backed by randomized trial data.

@@ -1,5 +1,6 @@
 # Tag: enterprise-adoption
 
+- `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
 - `INS-260403-E23C` An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260409-8DDA` Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260501-27BF` The board says 'we need more AI', the CEO hires a consultant, the project no one understands fails — but every individual employee uses ChatGPT brilliantly.
@@ -13,6 +14,6 @@
 - `INS-260413-36B4` Generative AI reached 53% US population adoption within 3 years — faster than the PC or internet — while organizational adoption hit 88% and Singapore/UAE lead at 61%/54% with the US ranking 24th at 28.3%.
 - `INS-260325-5CA5` 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260325-FC07` MIT found the 5% of organizations reaching production AI deploy through distributed experimentation with vendor accountability, not centralized approval processes.
-- `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
+- `INS-260524-110F` Z Venture Capital CEO: SaaS is saturated, so SaaS firms bolt on AI; meanwhile manufacturing-heavy Asia has surprisingly large unmet demand for 'where do we apply AI' consulting.
 - `INS-260327-5661` Customers will pay dramatically more for software bundled with human support services, especially for high-stakes use cases.
 - `INS-260403-63F9` A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.

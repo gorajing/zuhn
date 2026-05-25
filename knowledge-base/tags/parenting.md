@@ -1,7 +1,7 @@
 # Tag: parenting
 
-- `INS-260403-4328` Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260323-8B89` Negative role models teach what kind of human not to be and what actions not to take — this via-negativa learning can be as formative as positive mentorship.
+- `INS-260403-4328` Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260403-10A0` Screen-free audio players like Yoto shift kids from passive screen consumption to active physical engagement with content.
 - `INS-260403-393C` Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
 - `INS-260404-1C9D` Tracking tools in high-stakes personal domains can shift focus from judgment to metrics.

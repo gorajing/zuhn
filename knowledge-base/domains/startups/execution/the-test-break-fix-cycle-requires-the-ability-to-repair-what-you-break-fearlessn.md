@@ -50,8 +50,9 @@ related:
   - INS-260410-F7B8
   - INS-260410-56F7
   - INS-260327-0875
-  - INS-260405-F05B
+  - INS-260524-5173
   - INS-260403-107E
+  - INS-260405-F05B
 stance: >-
   You can only iterate fearlessly on expensive robots if you can repair them
   yourself

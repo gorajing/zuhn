@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 128 insights
+> 129 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -108,6 +108,7 @@
 - `INS-260403-DC4A` [medium] Subsidizing hiring incentivizes companies to experiment with human-AI workflows rather than defaulting to pure automation.
 - `INS-260403-22C2` [medium] AI can render decades of painstakingly accumulated human expertise economically worthless in months, as demonstrated by the sudden devaluation of software engineering skills.
 - `INS-260403-3664` [medium] Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.
+- `INS-260524-6E62` [medium] Z Venture Capital CEO: LINE-Yahoo ran a first-ever voluntary-retirement-with-incentive program (45+) and a '10x work speed' campaign — because you can't easily let people go.
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
 - `INS-260501-AB31` [medium] Future companies have builders (deputizing agents) and salespeople (transferring trust). Everything else is automated by the builders.
 - `INS-260410-18A0` [medium] Productivity improvements historically generate more jobs, not fewer, because companies with infinite ambition expand into new areas whenever they become more profitable.

@@ -18,5 +18,5 @@
 - `INS-260330-968D` Place high-friction habits in the first 8 hours after waking when dopamine and norepinephrine are naturally elevated, and low-friction habits in the afternoon serotonergic window.
 - `INS-260330-BCAF` Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
 - `INS-260330-2311` Habit formation depends on neural circuits that bracket the habit (before/after) rather than circuits active during the habit execution itself.
-- `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260323-5D23` The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
+- `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.

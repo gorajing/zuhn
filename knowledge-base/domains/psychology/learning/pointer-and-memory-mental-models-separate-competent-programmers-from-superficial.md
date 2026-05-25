@@ -50,7 +50,6 @@ stance: >-
   model that transfers to every higher-level language, even when those languages
   hide memory from the programmer.
 related:
-  - INS-260403-D645
   - INS-260405-2688
   - PRI-260405-2DE5
   - PRI-260406-8B75

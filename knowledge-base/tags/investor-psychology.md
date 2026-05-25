@@ -25,8 +25,8 @@
 - `INS-260403-A9C9` Investors fund execution evidence over ideas, making traction-building the highest-ROI pre-fundraising activity.
 - `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-5D19` Behind every pitch decision is a messy mix of conviction, timing, and 'who else is in?' social proof — which founders can engineer.
-- `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260403-B228` Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
+- `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260403-A36C` Under-communicating founders don't just fade into the background — they get actively misread as lacking vision or ambition.
 - `INS-260404-405A` Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
 - `INS-260412-C040` Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.

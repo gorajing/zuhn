@@ -1,6 +1,6 @@
 # Topic: ai-agents
 
-> 69 insights
+> 71 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260524-63C9` [high] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
@@ -41,7 +41,9 @@
 - `INS-260323-48AF` [high] OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
 - `INS-260403-2609` [high] The market has moved from AI-enhanced SaaS that helps humans to AI-native systems of action that autonomously execute entire workflows on their behalf.
 - `INS-260322-E4D8` [high] AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
+- `INS-260524-2C7C` [medium] Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 - `INS-260404-6398` [medium] Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
+- `INS-260524-0DC3` [medium] Woosang: getting agents to run molecular dynamics succeeded only ~20% of the time — inputs are scientific and finicky, so he analyzes the 'failure tax' per component.
 - `INS-260330-0F23` [medium] AI agents will need to spend real money on third-party services to complete tasks, creating demand for machine-to-machine payment protocols.
 - `INS-260322-96D1` [medium] AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260403-D51A` [medium] AGI is arriving not as a single breakthrough but as agents that reason and act autonomously over extended task horizons.

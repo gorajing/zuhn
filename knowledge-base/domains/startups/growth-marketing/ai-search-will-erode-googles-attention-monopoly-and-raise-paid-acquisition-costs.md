@@ -45,11 +45,11 @@ resolutions:
     platforms, which provides owned attention that isn't subject to auction
     dynamics.
 related:
+  - INS-260524-8320
   - INS-260322-6AF5
   - INS-260409-A4F0
   - INS-260323-9492
   - PRI-260405-AF79
-  - INS-260404-573C
   - INS-260410-A365
 stance: >-
   Even a 20-30% shift from Google to AI chatbots will dramatically raise paid

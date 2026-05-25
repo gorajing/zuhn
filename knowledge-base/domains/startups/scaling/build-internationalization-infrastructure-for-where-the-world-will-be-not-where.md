@@ -56,11 +56,11 @@ stance: >-
   distribution shifts dramatically over time.
 related:
   - INS-260322-34AE
+  - INS-260524-3793
   - INS-260403-13AF
   - INS-260405-D660
   - INS-260403-4819
   - INS-260330-EEBD
-  - INS-260405-3772
 evidence:
   - id: INS-260329-14AE
     type: SUPPORTS

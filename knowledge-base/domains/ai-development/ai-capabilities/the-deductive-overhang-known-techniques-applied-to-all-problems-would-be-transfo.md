@@ -49,6 +49,7 @@ related:
   - INS-260330-FB50
   - INS-260330-5641
   - INS-260409-626E
+  - INS-260524-460B
 stance: >-
   Most AI-solved math problems fell to known techniques that nobody had thought
   to apply

@@ -1,13 +1,13 @@
 # Tag: unintended-consequences
 
-- `INS-260410-FF8B` Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.
-- `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
 - `INS-260327-4D1F` Every proxy war creates future adversaries: U.S. armed Afghan fighters became Al-Qaeda, the installed Shah was overthrown into hostile revolution, and supported Saddam later invaded Kuwait.
 - `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
 - `INS-260330-B490` Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
 - `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
+- `INS-260410-FF8B` Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.
+- `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260403-202E` Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.
 - `INS-260403-44A6` Canada's decision to slash Chinese EV tariffs from 100% to 6.1% was a direct consequence of deteriorating US-Canada relations under Trump's tariff threats, illustrating how bullying allies creates unintended competitive openings.
 - `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.

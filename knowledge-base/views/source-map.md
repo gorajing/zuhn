@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-25 | 2634 sources
+Generated on 2026-05-25 | 2636 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -258,10 +258,12 @@ Generated on 2026-05-25 | 2634 sources
 | What the absence of aliens on Earth really tells us | David Kipping | youtube | 7 | 2026-03-25 |
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
+| Chapter | audio | 6 | 2026-05-25 |
 | Hoover Tower | audio | 6 | 2026-05-06 |
 | Lighting talk 2 | audio | 6 | 2026-05-06 |
 | Panel   AI for the Universe | audio | 6 | 2026-05-06 |
 | Talk 1   healthcare | audio | 6 | 2026-05-06 |
+| ZVC | audio | 6 | 2026-05-25 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | A postmortem of three recent issues | blog | 6 | 2026-04-10 |
 | Scaling Managed Agents: Decoupling the brain from the hands | blog | 6 | 2026-04-10 |

@@ -58,6 +58,7 @@ related:
   - INS-260327-D8D1
   - INS-260327-1652
   - INS-260329-4751
+  - INS-260524-5173
 evidence:
   - id: INS-260323-DDC2
     type: EXTENDS

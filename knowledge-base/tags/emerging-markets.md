@@ -1,10 +1,10 @@
 # Tag: emerging-markets
 
-- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260412-94D9` Rwanda ranking 29th globally on the Ease of Doing Business Index — above the Netherlands, Switzerland, and Japan — generates outsized credibility and investment signaling far exceeding what raw GDP metrics would attract.
 - `INS-260404-1A3F` Narrow signals like startup deal flow are necessary but insufficient for emerging market investment decisions — structural analysis across governance, demographics, infrastructure, and finance is required.
 - `INS-260412-F681` International condemnation of Bukele's methods reflects a disconnect between observers who've never lived under daily threat of gang murder and citizens who have, producing systematically different risk calculations.
 - `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
+- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260404-0711` Chamath's 2016 India bets around UPI were thesis-correct but timing-wrong, producing losses despite the ecosystem later validating every part of the investment thesis.
 - `INS-260404-A7BF` Currency depreciation math forces EM VCs toward earlier-stage investments where entry multiples can absorb the currency haircut.
 - `INS-260403-7410` The 2025 Global Startup Ecosystem Report shows Asian cities rising in rankings while London dropped to #3 and Boston returned to the Top 5.
@@ -26,6 +26,6 @@
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260404-96CF` Three observable indicators — smartphone penetration, consumer app presence, and government enthusiasm — identify markets primed for tech startup growth.
 - `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
-- `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260405-8E2A` Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
+- `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.

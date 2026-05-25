@@ -1,7 +1,7 @@
 # Tag: optimism
 
-- `INS-260323-4D4E` Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
 - `INS-260325-B115` Chinese citizens tolerate authoritarian governance partly because they have watched their physical world transform — highways from zero, 1,000 parks in Shanghai, cleaner air — while Americans in static cities lose optimism.
+- `INS-260323-4D4E` Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
 - `INS-260409-BA4E` Your newsfeed and peer group are in your control and determine whether you can execute in the AI era — deliberately switch them to optimism and action-orientation.
 - `INS-260403-F7F4` Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 - `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.

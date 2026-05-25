@@ -60,9 +60,9 @@ related:
   - INS-260330-49A4
   - INS-260404-8750
   - INS-260405-0810
+  - INS-260524-8320
   - INS-260321-38EC
   - INS-260519-9732
-  - INS-260322-3263
 ---
 Parsa's empirical correction: SEO tool volume predictions (Hrefs, SEMRush) are approximations based on small samples. In practice, actual volume from Google Search Console for the fashion AI company was 100x what Hrefs predicted for different keywords. The trend over time still aligns reasonably well (percentage growth/decline matches), but the absolute numbers are wildly off. Implication: don't prioritize content based on Hrefs absolute volume scores. Use SEO tools for (1) spotting trends, (2) competitor research, (3) identifying which keywords competitors are ranking for. Then prioritize content based on actual customer-relevance, not predicted volume.
 

@@ -1,7 +1,7 @@
 # Tag: standards
 
-- `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260410-8B61` Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.
+- `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260410-C8C2` Nvidia's first-mover advantage became a liability when Microsoft standardized on triangles and Moore's law collapsed memory costs — their quadrilateral-based, memory-constrained design was obsolete before it shipped.
 - `INS-260410-AF68` Bill Gates licensed Microsoft BASIC to Apple for just $31,000 because his goal was to be the default programming language on every microcomputer, not to extract maximum revenue per deal.
 - `INS-260410-8BF9` No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.

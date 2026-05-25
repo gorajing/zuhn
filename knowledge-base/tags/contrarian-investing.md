@@ -1,8 +1,8 @@
 # Tag: contrarian-investing
 
-- `INS-260403-7C8F` When an entire asset class systematically underfunds higher-performing founders due to demographic pattern-matching, the resulting mispricing is a textbook arbitrage opportunity for contrarian investors.
 - `INS-260327-5D13` If everybody has agreed the AI market is a bubble, then why are informed investors still piling billions into it every month - are they dumber than retail investors or do they see something different?
 - `INS-260412-F791` Bitcoin's first Reddit post was downvoted, its first TV mention came at $3.41, and conference talks about it at $100 drew empty rooms — none of this predicted its trajectory.
+- `INS-260403-7C8F` When an entire asset class systematically underfunds higher-performing founders due to demographic pattern-matching, the resulting mispricing is a textbook arbitrage opportunity for contrarian investors.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260403-C622` PitchBook data shows ~40% of elite VC deals include another top firm, blurring the line between consensus and conviction.
 - `INS-260404-250E` Most foodtech VC has gone to consumer/delivery; deeptech is where outsized returns remain.

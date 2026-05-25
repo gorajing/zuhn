@@ -7,9 +7,9 @@
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260403-9A94` VC secondaries have evolved from emergency liquidity hacks into planned, core fund infrastructure hitting $152B in 2024.
 - `INS-260327-8374` A fund limiting withdrawals is the institutional finance equivalent of a bank limiting ATM withdrawals - it signals that assets cannot be liquidated fast enough to meet redemption demands.
+- `INS-260409-49EF` California's proposal includes deferred-payment provisions letting startup founders delay wealth-tax payment until after IPO, defusing the 'forced sale' objection.
 - `INS-260412-DC2F` SVB's $80B bet on long-term bonds was safe in isolation but lethal when paired with flighty short-term deposits in a rising rate environment.
 - `INS-260405-25DD` December 31 Fed facility spikes are a predictable accounting artifact of banks shrinking balance sheets for year-end regulatory snapshots.
-- `INS-260409-49EF` California's proposal includes deferred-payment provisions letting startup founders delay wealth-tax payment until after IPO, defusing the 'forced sale' objection.
 - `INS-260404-DA3A` Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics.
 - `INS-260403-6B24` High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.

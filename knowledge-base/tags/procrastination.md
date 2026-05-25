@@ -1,8 +1,8 @@
 # Tag: procrastination
 
+- `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260329-6020` After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260402-910C` Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
-- `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260405-32BB` Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.

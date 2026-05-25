@@ -1,5 +1,7 @@
 # Tag: domain-expertise
 
+- `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
+- `INS-260327-5DD3` Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260501-4043` A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free.
 - `INS-260321-4178` AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260423-C506` Cody Schneider: I kept trying to describe a TV-type texture and it came out terrible; then I found someone with the specific lexicon and it literally one-shot what I was looking for.
@@ -7,14 +9,12 @@
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260327-1C7C` Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
 - `INS-260404-F38A` The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
-- `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
-- `INS-260327-5DD3` Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260327-10A2` Sneaker reseller Leo makes the highest margins on pre-owned shoes where pricing is non-standardized and his years of expertise let him issue bids within seconds, while new-shoe margins are constrained to 20-25%.
-- `INS-260403-FCEA` Generic VC platform services fail; domain-specific research and talent networks in verticals where your portfolio clusters create real competitive advantage.
-- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260330-7CC0` Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
+- `INS-260403-FCEA` Generic VC platform services fail; domain-specific research and talent networks in verticals where your portfolio clusters create real competitive advantage.
+- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.

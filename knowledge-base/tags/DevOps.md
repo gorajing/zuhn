@@ -1,3 +1,3 @@
-# Tag: DevOps
+# Tag: devops
 
-- `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
+- `INS-260404-AF08` Viaweb did continuous releases in 1997 and fabricated version numbers only because the trade press expected them.

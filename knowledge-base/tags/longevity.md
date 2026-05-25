@@ -1,5 +1,9 @@
 # Tag: longevity
 
+- `INS-260325-E8BC` Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
+- `INS-260325-39FD` Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
+- `INS-260403-CA5A` Getting humans to 160 likely means we've solved cancer, heart disease, and organ failure — making further extension near-unlimited.
+- `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
 - `INS-260412-79FE` If aging is caused by accumulated DNA damage and specific gene expression, it becomes an engineering target rather than an existential given.
 - `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
 - `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
@@ -7,10 +11,6 @@
 - `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
 - `INS-260409-C0DF` The interesting longevity claim is that psychedelics may produce measurable metabolic and neural rejuvenation effects, not just subjective mental health benefits.
 - `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
-- `INS-260325-E8BC` Your biological age is malleable through lifestyle changes, even though your chronological age is fixed.
-- `INS-260325-39FD` Longevity medicine aims to extend disease-free years, not prevent death — and one extra healthy year is worth $38 trillion.
-- `INS-260403-CA5A` Getting humans to 160 likely means we've solved cancer, heart disease, and organ failure — making further extension near-unlimited.
-- `INS-260405-C592` When people can choose different enhancements, humans a century from now may differ from each other more than any two people differ today — creating cooperation problems no institution currently exists to solve.
 - `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
 - `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260325-1550` Creatine at 10-20g/day provides brain energy and longevity benefits beyond the standard 5g muscle dose — the brain is a primary consumer.

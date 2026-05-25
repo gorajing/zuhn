@@ -51,7 +51,6 @@ stance: >-
   that the old powers can no longer enforce their property claims, but fails
   catastrophically when the power balance hasn't actually shifted enough.
 related:
-  - INS-260324-0A26
   - INS-260410-647F
   - INS-260327-7315
   - INS-260327-E30A

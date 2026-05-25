@@ -52,7 +52,7 @@ related:
   - INS-260323-748A
   - INS-260412-F893
   - INS-260403-D5B0
-  - PRI-260323-7749
+  - INS-260524-78D0
 ---
 The presidential motorcade's 'secure package' — the cluster of vehicles directly protecting the president — is designed to detach from the broader 40-50 vehicle formation and operate as a fully independent unit under attack. It carries its own medical staff, security detail, counter-assault team, and communications.
 

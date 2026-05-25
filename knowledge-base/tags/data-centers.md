@@ -1,5 +1,12 @@
 # Tag: data-centers
 
+- `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
+- `INS-260323-F12F` AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
+- `INS-260323-114D` $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
+- `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
+- `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
+- `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
+- `INS-260404-E544` Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.
 - `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down.
 - `INS-260410-F536` Greg Abel on Berkshire Hathaway Energy: 'That responsibility has grown as the industry enters a significant investment cycle, driven by rising electricity demand from artificial intelligence computing and by increasing wildfire risk... Infrastructure built for hyperscalers and data centers must be paid for by those customers and reflect the risks tied to step-changes in long-term demand.'
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
@@ -16,10 +23,3 @@
 - `INS-260410-0ECA` Musk predicts that in under 36 months, space will be the cheapest place to run AI because solar panels get 5x more power without atmosphere or day-night cycles, and no batteries are needed.
 - `INS-260413-07F2` OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260325-5CB1` Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
-- `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
-- `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
-- `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
-- `INS-260323-F12F` AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
-- `INS-260323-114D` $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
-- `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
-- `INS-260404-E544` Data center operators signed over 40% of all clean energy power purchase agreements in 2024, making AI infrastructure the largest single demand category for new renewable capacity.

@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 173 insights
+> 174 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -53,6 +53,7 @@
 - `INS-260409-7731` [high] Frontier AI labs splinter because each billionaire wants to create AI in their own image — they can't share control, so collaboration always collapses into competing labs.
 - `INS-260322-AFE9` [high] AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
 - `INS-260322-642F` [high] For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
+- `INS-260524-E2C4` [high] Z Venture Capital CEO (ex-Naver/LINE CFO): Naver could chase frontier parity to ~1 trillion won, but at 10-100 trillion it's pointless — keep the service, use others' LLMs, and the foreign models now speak Korean fine anyway.
 - `INS-260321-1749` [high] Fortune 500 CEOs universally say they want to become AI companies, but actual deployment lags because change management across large organizations is fundamentally harder than deploying the technology itself.
 - `INS-260322-C5BD` [high] The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260409-8181` [high] Frontier AI labs are empires, not businesses — they extract more value than they return across data, labor, knowledge production, and environmental impact.

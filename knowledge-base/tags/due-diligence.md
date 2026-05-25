@@ -24,8 +24,8 @@
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-35A6` VCs filter investments through five consistent criteria: market size, traction, unit economics, team, and competitive moat.
 - `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
-- `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260412-71C6` Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
+- `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260403-5788` Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
 - `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260330-09FF` A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.

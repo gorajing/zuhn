@@ -56,7 +56,6 @@ related:
   - PRI-260407-D1AD
   - INS-260327-1FA1
   - INS-260410-8ECF
-  - INS-260514-283E
 ---
 When an agent successfully writes a function like saveSheetAsCsv, throwing that code away at the end of the session means the next run re-derives the same logic and pays the same token cost. Instead, the agent can write the file to ./skills/ and on future runs simply import it as a higher-level primitive.
 

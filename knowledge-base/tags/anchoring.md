@@ -3,8 +3,8 @@
 - `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
 - `INS-260403-20F7` The Scorecard Method anchors to regional averages, creating opportunities to strategically choose which market benchmarks to reference.
 - `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
-- `INS-260329-6B3C` A 10x premium tier at 10% conversion doubles revenue and triples profit versus base offering alone.
 - `INS-260403-8679` We avoid feeling overwhelmed by change by focusing on what hasn't changed rather than what has.
+- `INS-260329-6B3C` A 10x premium tier at 10% conversion doubles revenue and triples profit versus base offering alone.
 - `INS-260330-A484` People who appear unserious but deliver results are underestimated, while those who appear serious but underdeliver are overestimated.
 - `INS-260329-8602` Removing the small cup size forces customers to anchor on medium as the minimum, increasing average spend.
 - `INS-260329-D267` Removing small cups and only offering medium/large increased yogurt sales 20-30% because people fill whatever they're given.

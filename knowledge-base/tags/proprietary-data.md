@@ -4,3 +4,4 @@
 - `INS-260403-CDB9` Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.
 - `INS-260322-837A` Companies with proprietary data that previously sold raw access can now deliver finished AI-powered products, multiplying revenue by 5-100x.
 - `INS-260322-7282` Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
+- `INS-260524-8320` Z Venture Capital CEO: feared AI would kill search, but search queries are increasing — 'simply searching for information won't be money anymore'; the edge is data + how well you use it.

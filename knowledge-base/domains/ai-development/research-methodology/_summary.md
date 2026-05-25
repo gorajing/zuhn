@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 90 insights
+> 91 insights
 
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
@@ -65,6 +65,7 @@
 - `INS-260505-5D69` [medium] Nature is constantly producing pandemic-grade viruses; what we lack is the ability to detect, respond, and cure them — that's where AI's marginal benefit goes.
 - `INS-260410-3075` [medium] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260410-EF9E` [medium] Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
+- `INS-260524-78D0` [medium] Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 - `INS-260514-D44B` [medium] When you have unlimited compute, you scale. When you don't, you invent. DeepSeek didn't have the compute, so they had to invent.
 - `INS-260505-0F0B` [medium] AI's transformation of biology, physics, climate, and math are different in instructive ways — comparison is the unit of insight.
 - `INS-260505-37D6` [medium] Identify the structural pattern in your problem, abstract it into general language, then look for it in other fields — this is a teachable skill.

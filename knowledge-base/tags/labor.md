@@ -6,4 +6,5 @@
 - `INS-260403-8874` AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
 - `INS-260403-3664` Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.
 - `INS-260410-D834` People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
+- `INS-260524-6E62` Z Venture Capital CEO: LINE-Yahoo ran a first-ever voluntary-retirement-with-incentive program (45+) and a '10x work speed' campaign — because you can't easily let people go.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.

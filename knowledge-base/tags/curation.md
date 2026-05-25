@@ -1,9 +1,9 @@
 # Tag: curation
 
+- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260405-DFFB` AI commoditizes information synthesis, elevating human curatorial judgment to the primary value layer in media.
 - `INS-260405-A5C8` In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
 - `INS-260409-EA5A` A RAW intake folder preserves the human's curation intent before Claude Code compresses it into wikis.
-- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260405-8F59` A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection.
 - `INS-260403-E33F` Non-affiliate, taste-driven curation signals authenticity and builds deeper audience trust than monetized recommendation lists.
 - `INS-260405-42D3` Crowd voting surfaces candidates; editorial judgment makes final calls — this hybrid beats both pure democracy and pure autocracy in content curation.

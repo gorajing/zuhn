@@ -15,5 +15,5 @@
 - `INS-260412-BE19` The Rajapaksas' legitimacy from ending a 26-year civil war shielded them from accountability for corruption and debt accumulation — until citizens literally could not buy food or fuel.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260330-5958` 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.
-- `INS-260403-6399` Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
+- `INS-260403-6399` Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.

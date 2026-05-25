@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 11 insights
+> 12 insights
 
 - `INS-260501-63E7` [high] Cursor at $60B is the largest private venture acquisition ever — but it's structured as a post-IPO option because both companies need each other to look like a real business.
 - `INS-260405-180A` [high] Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.
@@ -8,6 +8,7 @@
 - `INS-260409-AB8D` [high] VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
 - `INS-260405-AA3C` [high] A VC's internal portfolio study is a mirror of their own biases, not a market study.
 - `INS-260405-6317` [medium] AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
+- `INS-260524-0515` [medium] Z Venture Capital CEO: opened a US office for seed/early because the AI alliance's most active part is the US; in Asia only Korea/Japan have a deep-tech base, and SE Asia has 'nothing to invest in.'
 - `INS-260405-54E2` [medium] Roughly two-thirds of venture dollars go to AI, and two-thirds of AI venture dollars go to the Bay Area — a compounding concentration effect.
 - `INS-260410-0F85` [medium] Benchmark deliberately bans memos because writing one forces you to fill in blanks the founder never said and pre-sells the group before they can see the founder raw.
 - `INS-260405-FCA9` [medium] RBF hit $5.8B in 2024 and is growing ~70% per year, making it an increasingly mainstream non-dilutive option for SaaS founders.

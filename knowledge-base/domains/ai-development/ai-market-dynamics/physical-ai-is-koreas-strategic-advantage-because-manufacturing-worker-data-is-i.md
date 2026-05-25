@@ -52,7 +52,6 @@ related:
   - INS-260322-7282
   - INS-260404-CE26
   - INS-260330-E670
-  - INS-260409-6698
   - INS-260501-4043
 stance: >-
   Korea's surviving manufacturing workforce can generate proprietary physical AI
