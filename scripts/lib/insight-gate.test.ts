@@ -4,6 +4,7 @@ import Database from "better-sqlite3";
 import {
   auditInsights,
   buildNoveltyComputer,
+  enforceGate,
   checkAttributionResolves,
   checkStanceDirectional,
   checkStancePresent,
@@ -333,5 +334,72 @@ describe("buildNoveltyComputer (in-memory sqlite-vec)", () => {
     expect(r.nearestId).toBeNull();
     expect(r.similarity).toBeNull();
     db.close();
+  });
+});
+
+// ─── enforceGate (Phase 2 forward enforcement) ────────────────────────
+
+describe("enforceGate", () => {
+  const clean = mk({
+    id: "INS-1",
+    stance: "X reduces cost because Y",
+    sources: [{ title: "Known Source" }],
+    relPath: "domains/ai-development/agents/a.md",
+  });
+
+  it("admits a clean insight: no failures, no warnings", () => {
+    const { failures, warnings } = enforceGate([clean], INDEX, undefined);
+    expect(failures).toEqual([]);
+    expect(warnings).toEqual([]);
+  });
+
+  it("blocks a missing stance; directional + attribution failures are warnings (default policy)", () => {
+    const bad = mk({ id: "INS-2", stance: "", sources: [], relPath: "domains/ai-development/agents/b.md" });
+    const { failures, warnings } = enforceGate([bad], INDEX, undefined);
+    expect(failures.map((f) => f.checkId)).toEqual(["stance_present"]);
+    const warned = warnings.map((w) => w.checkId);
+    expect(warned).toContain("stance_directional");
+    expect(warned).toContain("attribution_resolves");
+  });
+
+  it("blocks a near-duplicate at/above the threshold", () => {
+    const nearest: NearestFn = () => ({ nearestId: "INS-9", similarity: 0.96, selfEmbedded: true });
+    const { failures } = enforceGate([clean], INDEX, nearest);
+    expect(failures.map((f) => f.checkId)).toEqual(["novelty"]);
+    expect(failures[0].reason).toContain("INS-9");
+  });
+
+  it("does not block a distinct insight below the threshold", () => {
+    const nearest: NearestFn = () => ({ nearestId: "INS-9", similarity: 0.8, selfEmbedded: true });
+    expect(enforceGate([clean], INDEX, nearest).failures).toEqual([]);
+  });
+
+  it("respects a custom maxSimilarity", () => {
+    const nearest: NearestFn = () => ({ nearestId: "INS-9", similarity: 0.91, selfEmbedded: true });
+    expect(enforceGate([clean], INDEX, nearest, { maxSimilarity: 0.95 }).failures).toEqual([]);
+    expect(
+      enforceGate([clean], INDEX, nearest, { maxSimilarity: 0.9 }).failures.map((f) => f.checkId)
+    ).toEqual(["novelty"]);
+  });
+
+  it("can promote a heuristic check to blocking via blockingChecks", () => {
+    const weak = mk({ id: "INS-3", stance: "AI is important", sources: [{ title: "Known Source" }] });
+    expect(enforceGate([weak], INDEX, undefined).failures).toEqual([]); // directional warns by default
+    const { failures } = enforceGate([weak], INDEX, undefined, {
+      blockingChecks: ["stance_present", "stance_directional"],
+    });
+    expect(failures.map((f) => f.checkId)).toEqual(["stance_directional"]);
+  });
+
+  it("skips the near-duplicate check when novelty is unavailable", () => {
+    expect(enforceGate([clean], INDEX, undefined).failures).toEqual([]);
+  });
+
+  it("warns (not silently skips) when a new insight has no embedding", () => {
+    const noEmbedding: NearestFn = () => ({ nearestId: null, similarity: null, selfEmbedded: false });
+    const { failures, warnings } = enforceGate([clean], INDEX, noEmbedding);
+    expect(failures).toEqual([]);
+    expect(warnings.map((w) => w.checkId)).toContain("novelty");
+    expect(warnings.find((w) => w.checkId === "novelty")?.reason).toContain("no embedding");
   });
 });

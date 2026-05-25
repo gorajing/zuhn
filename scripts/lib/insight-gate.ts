@@ -382,6 +382,91 @@ export function buildNoveltyComputer(db: Database.Database): NearestFn {
   };
 }
 
+// ─── Enforcement (Phase 2) ────────────────────────────────────────────
+//
+// Forward-only gate: given a batch of NEW insights, return the blocking
+// failures and non-blocking warnings. Reuses the exact same deterministic
+// checks as the audit — the only difference is that here some of them have
+// teeth (a non-empty failures list means the batch is refused / exit 1).
+
+export interface GateFailure {
+  id: string;
+  relPath: string;
+  checkId: CheckId | "novelty";
+  reason: string;
+}
+
+export interface EnforceResult {
+  failures: GateFailure[]; // blocking — caller should refuse the batch
+  warnings: GateFailure[]; // non-blocking — reported for the human
+}
+
+export interface EnforceOptions {
+  /** Block a new insight whose nearest INSIGHT neighbor is >= this cosine. */
+  maxSimilarity?: number;
+  /** Which boolean checks block (the rest become warnings). */
+  blockingChecks?: CheckId[];
+}
+
+export const DEFAULT_MAX_SIMILARITY = 0.95;
+// Conservative default: only the objective, near-zero-false-positive checks
+// block. stance_directional is a heuristic (false positives); attribution
+// would reject legitimate synthetic/cross-domain insights — both start as
+// warnings and can be promoted once the corpus behavior is trusted.
+export const DEFAULT_BLOCKING_CHECKS: CheckId[] = ["stance_present"];
+
+export function enforceGate(
+  insights: GateInsight[],
+  index: SourceIndex,
+  nearest: NearestFn | undefined,
+  options: EnforceOptions = {}
+): EnforceResult {
+  const maxSimilarity = options.maxSimilarity ?? DEFAULT_MAX_SIMILARITY;
+  const blocking = new Set(options.blockingChecks ?? DEFAULT_BLOCKING_CHECKS);
+
+  const failures: GateFailure[] = [];
+  const warnings: GateFailure[] = [];
+
+  for (const ins of insights) {
+    for (const check of runChecks(ins, index)) {
+      if (check.passed) continue;
+      const entry: GateFailure = {
+        id: ins.id,
+        relPath: ins.relPath,
+        checkId: check.checkId,
+        reason: check.detail ?? check.checkId,
+      };
+      (blocking.has(check.checkId) ? failures : warnings).push(entry);
+    }
+
+    // Near-duplicate blocks when measurable. If the new insight has no
+    // embedding (e.g. Embed was skipped with Ollama offline), the dup check
+    // cannot run — surface that as a WARNING rather than skip it silently.
+    // (Fail-closing here would halt all ingestion whenever embeddings are
+    // unavailable, which is too brittle; the warning keeps the gap visible.)
+    if (nearest) {
+      const nv = nearest(ins.id);
+      if (!nv.selfEmbedded) {
+        warnings.push({
+          id: ins.id,
+          relPath: ins.relPath,
+          checkId: "novelty",
+          reason: "not checked — no embedding (run embed first to gate duplicates)",
+        });
+      } else if (nv.similarity !== null && nv.nearestId !== null && nv.similarity >= maxSimilarity) {
+        failures.push({
+          id: ins.id,
+          relPath: ins.relPath,
+          checkId: "novelty",
+          reason: `${nv.similarity.toFixed(3)} cosine near-duplicate of ${nv.nearestId}`,
+        });
+      }
+    }
+  }
+
+  return { failures, warnings };
+}
+
 // ─── Audit aggregation ────────────────────────────────────────────────
 
 /** Histogram buckets for nearest-neighbor similarity (high → low). */

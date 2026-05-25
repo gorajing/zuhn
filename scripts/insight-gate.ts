@@ -2,24 +2,27 @@
 /**
  * insight-gate.ts — Semantic quality gate for insights (CLI).
  *
- * PHASE 1 (this file): AUDIT ONLY. Read-only X-ray of insight quality across
- * the corpus. Never exits 1 — it reports so the pass-bar can be calibrated
- * against the real distribution before forward enforcement is switched on.
+ * Two modes:
+ *   --audit    READ-ONLY X-ray of insight quality across the corpus. Never
+ *              exits 1 on quality findings — it reports so the pass-bar can be
+ *              calibrated against the real distribution.
+ *   --enforce  Forward gate over a batch of NEW insights. Exits 1 if any
+ *              BLOCKING issue is found (missing stance, or a near-duplicate).
+ *              Wired as a fatal pre-commit step in post-ingest.
  *
  * Usage:
- *   npx tsx scripts/insight-gate.ts --audit --all          # full corpus X-ray
- *   npx tsx scripts/insight-gate.ts --audit --since 2026-05-01
- *   npx tsx scripts/insight-gate.ts --audit --all --json   # machine-readable
- *   npx tsx scripts/insight-gate.ts --audit --examples 30  # more failing samples
+ *   npx tsx scripts/insight-gate.ts --audit --all                 # full corpus X-ray
+ *   npx tsx scripts/insight-gate.ts --audit --since 2026-05-01 [--json]
+ *   npx tsx scripts/insight-gate.ts --enforce --changed           # gate uncommitted insights
+ *   npx tsx scripts/insight-gate.ts --enforce --since 2026-05-01  # gate by date
+ *   npx tsx scripts/insight-gate.ts --enforce --changed --max-similarity 0.93
  *
- * Outputs (in addition to stdout):
+ * Audit outputs (in addition to stdout):
  *   knowledge-base/meta/gate-report.json   latest full report (overwritten)
  *   knowledge-base/meta/gate-log.jsonl     one summary line per run (appended)
- *
- * Phase 2 (not yet wired) will add forward enforcement: scope to a batch and
- * exit 1 on failures, reusing the exact check functions in lib/insight-gate.ts.
  */
 
+import { execFileSync } from "node:child_process";
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import Database from "better-sqlite3";
@@ -29,9 +32,12 @@ import {
   auditInsights,
   buildNoveltyComputer,
   buildSourceIndex,
+  enforceGate,
   loadGateInsights,
+  DEFAULT_MAX_SIMILARITY,
   type AuditReport,
   type CheckId,
+  type EnforceResult,
   type NearestFn,
 } from "./lib/insight-gate";
 import { KB_ROOT } from "./lib/kb-root";
@@ -87,8 +93,15 @@ function tryBuildNovelty(): { nearest: NearestFn | undefined; close: () => void 
 // ─── Main ─────────────────────────────────────────────────────────────
 
 async function main(): Promise<void> {
-  const args = parseArgs(process.argv.slice(2));
+  const argv = process.argv.slice(2);
+  if (argv.includes("--enforce")) {
+    await runEnforce(argv);
+  } else {
+    await runAudit(parseArgs(argv));
+  }
+}
 
+async function runAudit(args: Args): Promise<void> {
   let insights = await loadGateInsights();
   const scope = args.since ? `since ${args.since}` : "all";
   if (args.since) {
@@ -115,6 +128,130 @@ async function main(): Promise<void> {
   } else {
     printReport(report);
   }
+}
+
+// ─── Enforce (Phase 2) ────────────────────────────────────────────────
+
+async function runEnforce(argv: string[]): Promise<void> {
+  const simIdx = argv.indexOf("--max-similarity");
+  const maxSimilarity =
+    simIdx !== -1 ? parseFloat(argv[simIdx + 1]) || DEFAULT_MAX_SIMILARITY : DEFAULT_MAX_SIMILARITY;
+  const sinceIdx = argv.indexOf("--since");
+  const since = sinceIdx !== -1 ? argv[sinceIdx + 1] ?? null : null;
+
+  let insights = await loadGateInsights();
+  let scope: string;
+  if (argv.includes("--changed")) {
+    // Fail CLOSED: if git can't tell us what changed, we cannot safely enforce.
+    // Aborting (exit 1) is correct for a gate — never treat "git broke" as
+    // "nothing changed" (which would let a batch sail through in post-ingest).
+    let changed: Set<string>;
+    try {
+      changed = getChangedInsightRelPaths();
+    } catch (err) {
+      console.error(
+        `ENFORCE aborted: cannot determine changed insights via git — ${(err as Error).message}`
+      );
+      process.exit(1);
+    }
+    // Fail CLOSED on unloadable insights: a changed insight file that
+    // loadGateInsights() dropped (unreadable, invalid frontmatter, or missing
+    // id) would otherwise silently vanish from the batch and let the gate pass.
+    const loadedPaths = new Set(insights.map((i) => i.relPath));
+    const unaccounted = [...changed].filter((p) => !loadedPaths.has(p));
+    if (unaccounted.length > 0) {
+      console.error(
+        `ENFORCE aborted: ${unaccounted.length} changed insight file(s) could not be loaded ` +
+          "(unreadable, invalid frontmatter, or missing id):"
+      );
+      for (const p of unaccounted) console.error(`  ✗ ${p}`);
+      console.error("Fix these (run: npm run health) and re-run.");
+      process.exit(1);
+    }
+    insights = insights.filter((i) => changed.has(i.relPath));
+    scope = "changed (uncommitted)";
+  } else if (since) {
+    insights = insights.filter((i) => i.dateExtracted >= since);
+    scope = `since ${since}`;
+  } else {
+    scope = "all";
+  }
+
+  console.log(
+    `Insight Gate (ENFORCE) — scope: ${scope} · ${insights.length} insight(s) · block ≥ ${maxSimilarity} cosine`
+  );
+
+  if (insights.length === 0) {
+    console.log("No insights in scope — nothing to gate.");
+    return; // exit 0
+  }
+
+  const sourceIndex = await buildSourceIndex();
+  const { nearest, close } = tryBuildNovelty();
+  let result: EnforceResult;
+  try {
+    result = enforceGate(insights, sourceIndex, nearest, { maxSimilarity });
+  } finally {
+    close();
+  }
+  if (!nearest) {
+    console.warn("WARN: embeddings unavailable — near-duplicate check skipped this run.");
+  }
+
+  if (result.warnings.length > 0) {
+    console.log(`\n${result.warnings.length} warning(s) (non-blocking):`);
+    for (const w of result.warnings) {
+      console.log(`  ⚠ ${w.id} [${w.checkId}] ${w.reason}`);
+    }
+  }
+
+  if (result.failures.length > 0) {
+    console.error(`\n✗ GATE FAILED — ${result.failures.length} blocking issue(s):`);
+    for (const f of result.failures) {
+      console.error(`  ✗ ${f.id} [${f.checkId}] ${f.reason}`);
+      console.error(`      ${f.relPath}`);
+    }
+    console.error("\nThis batch is not admissible. Fix the above and re-run.");
+    process.exit(1);
+  }
+
+  console.log(`\n✓ GATE PASSED — ${insights.length} insight(s) admitted.`);
+}
+
+/**
+ * Insight files (KB-relative paths) that are untracked or modified vs HEAD.
+ *
+ * FAILS CLOSED: git errors propagate to the caller. A gate that can't determine
+ * its batch must not silently report "nothing changed" — the caller treats a
+ * throw as fatal (exit 1). An empty set means git succeeded and genuinely found
+ * no changed insights (a legitimate no-op).
+ */
+function getChangedInsightRelPaths(): Set<string> {
+  const repoRoot = execFileSync("git", ["rev-parse", "--show-toplevel"], {
+    encoding: "utf-8",
+    cwd: KB_ROOT,
+  }).trim();
+  const git = (args: string[]): string =>
+    execFileSync("git", args, { encoding: "utf-8", cwd: repoRoot }).trim();
+
+  const out = new Set<string>();
+  const blocks = [
+    git(["ls-files", "--others", "--exclude-standard", "--", "knowledge-base/domains/"]),
+    git(["diff", "--name-only", "HEAD", "--", "knowledge-base/domains/"]),
+  ];
+  for (const block of blocks) {
+    if (!block) continue;
+    for (const line of block.split("\n")) {
+      if (!line.endsWith(".md")) continue;
+      const rel = line.replace(/^knowledge-base\//, "");
+      // Skip regenerated _overview/_summary/_index files — they aren't insights
+      // (mirrors loadGateInsights' ignore set), so they must not be treated as
+      // "unaccounted" insight files in the reconciliation in runEnforce.
+      if ((rel.split("/").pop() ?? "").startsWith("_")) continue;
+      out.add(rel);
+    }
+  }
+  return out;
 }
 
 // ─── Persistence ──────────────────────────────────────────────────────
