@@ -1,7 +1,7 @@
 # Tag: data-quality
 
-- `INS-260514-CA00` Benchling's 2026 report: the 4 AI killer apps in biotech (lit review, protein structure, reporting, target ID) all sit on clean verifiable data; AI struggles where data is scattered (generative molecular, biomarker, ADMET).
 - `INS-260323-D18D` LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
+- `INS-260514-CA00` Benchling's 2026 report: the 4 AI killer apps in biotech (lit review, protein structure, reporting, target ID) all sit on clean verifiable data; AI struggles where data is scattered (generative molecular, biomarker, ADMET).
 - `INS-260329-A2D0` Models trained on imbalanced data learn to ignore the minority class - explicit rebalancing through oversampling, undersampling, or weighted loss functions is required to fix this.
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260410-83CF` Sandor Strauss's self-motivated project of ingesting, cleaning, and unifying tick data alongside 1800s-era historical pricing — years before anyone had models that could use it — is what made Medallion's later machine learning possible.

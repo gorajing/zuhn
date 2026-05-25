@@ -1,12 +1,12 @@
 # Tag: habits
 
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
-- `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
-- `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
-- `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
 - `INS-260409-74B9` 'Never miss a dinner' is a higher-fidelity legacy signal than any single achievement, because it survives statistical averaging.
 - `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
+- `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
+- `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
+- `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
 - `INS-260330-B966` The Lally 2010 study found a 14x variance in habit formation time (18-254 days) for the same behavior, explained by individual differences in limbic friction management.
 - `INS-260330-233C` Certain enjoyable habits act as linchpins that neurochemically lower limbic friction for harder, unrelated habits throughout the day.
 - `INS-260330-968D` Place high-friction habits in the first 8 hours after waking when dopamine and norepinephrine are naturally elevated, and low-friction habits in the afternoon serotonergic window.

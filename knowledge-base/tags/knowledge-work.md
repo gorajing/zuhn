@@ -1,7 +1,7 @@
 # Tag: knowledge-work
 
-- `INS-260327-F50E` Sequoia portfolio companies forecast minimum 10x increase in flops per knowledge worker; optimistic scenarios project 1,000-10,000x as workers manage hundreds of AI agents.
 - `INS-260403-C709` Claude Opus 4.6's adaptive effort — dynamically adjusting reasoning depth by task difficulty — represents a fundamental shift from uniform computation to intelligent resource allocation.
+- `INS-260327-F50E` Sequoia portfolio companies forecast minimum 10x increase in flops per knowledge worker; optimistic scenarios project 1,000-10,000x as workers manage hundreds of AI agents.
 - `INS-260329-6CE8` AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260329-B062` AI replaced creative and expert roles before low-skill physical jobs, reversing what most people predicted.
 - `INS-260410-204E` Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
