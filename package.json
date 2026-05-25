@@ -22,6 +22,7 @@
     "create-principles": "tsx scripts/create-principles.ts",
     "sleep": "tsx scripts/sleep.ts",
     "quality-score": "tsx scripts/quality-score.ts",
+    "gate": "tsx scripts/insight-gate.ts",
     "ask": "tsx scripts/ask.ts",
     "autoknowledge": "tsx scripts/autoknowledge.ts",
     "wake": "tsx scripts/wake.ts",
