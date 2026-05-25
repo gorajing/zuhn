@@ -10,5 +10,5 @@
 - `INS-260405-D514` As pitch descriptions approach 'could be anything,' their information content approaches zero.
 - `INS-260405-E6F9` Investors hear hundreds of pitches — the first filter is whether they remember you, and a single phrase is what makes you memorable.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
-- `INS-260403-19D8` Technology-first pitches create obstacles; outcome-first pitches close deals.
 - `INS-260404-0F87` Studying how a company's website messaging evolves reveals which value propositions are constant (the platform identity) versus which change (individual product positioning).
+- `INS-260403-19D8` Technology-first pitches create obstacles; outcome-first pitches close deals.

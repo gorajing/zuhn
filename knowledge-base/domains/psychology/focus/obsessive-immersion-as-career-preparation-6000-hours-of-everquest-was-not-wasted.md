@@ -54,7 +54,6 @@ related:
   - INS-260323-E3FD
   - INS-260329-9C20
   - INS-260323-9D21
-  - INS-260327-CBCB
   - INS-260329-B1A1
   - INS-260405-A30D
 stance: 'Kaplan''s 6,000+ hours of EverQuest'

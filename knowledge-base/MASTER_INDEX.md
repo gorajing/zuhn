@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-05-25 | Total insights: 11513 | Sources: 2575
+> Last rebuilt: 2026-05-25 | Total insights: 11520 | Sources: 2576
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,14 +8,14 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 2147 | 137 | 2026-05-24 |
+| ai-development | 40 | 2151 | 137 | 2026-05-25 |
 | automation | 7 | 63 | 2 | 2026-05-24 |
 | health | 6 | 494 | 44 | 2026-05-14 |
 | investing | 14 | 1420 | 110 | 2026-05-14 |
 | music-production | 6 | 49 | 3 | 2026-05-14 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
 | psychology | 24 | 2531 | 185 | 2026-05-14 |
-| startups | 55 | 4766 | 356 | 2026-05-24 |
+| startups | 55 | 4769 | 356 | 2026-05-25 |
 | video-production | 4 | 41 | 5 | 2026-04-09 |
 
 ## Mental Models
@@ -35,9 +35,13 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
-- `INS-260524-D5DB` Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with. _(2026-05-24)_
-- `INS-260524-5173` Woosang: ML recommends a recipe -> a robot synthesizes it -> the result feeds back; active learning plus robotic synthesis is the autonomous-lab loop. _(2026-05-24)_
-- `INS-260524-8E5D` Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.' _(2026-05-24)_
+- `INS-260525-4D80` Korean engineer: 'I need someone who can play the role of an engineering manager' — not because the agent is stupid, but because intent has to be translated into what the agent should build. _(2026-05-25)_
+- `INS-260525-3A9A` Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good. _(2026-05-25)_
+- `INS-260525-9B7B` Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK). _(2026-05-25)_
+- `INS-260525-1CE3` Both speakers: 'anyone can build, but there aren't many high-quality products' — domain knowledge plus conviction (keep asking) is what closes the gap, and maintainability still needs real knowledge. _(2026-05-25)_
+- `INS-260525-35DB` Korean engineer: 'In our previous era money was the biggest blocker. Money is not that big a blocker now' — operations and not knowing the market are. _(2026-05-25)_
+- `INS-260525-63C8` Both speakers: the agent builds, but product intent, the emotional 'step' of design, UX consistency, and knowing the market stay human. _(2026-05-25)_
+- `INS-260525-77FE` Korean engineer: the visible coding is maybe 40% of the job; project setup, choosing the stack/LLM provider, deployment, and design decisions are the rest and take the most effort. _(2026-05-25)_
 - `INS-260524-63C9` Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually. _(2026-05-24)_
 - `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance. _(2026-05-24)_
 - `INS-260524-0DC3` Woosang: getting agents to run molecular dynamics succeeded only ~20% of the time — inputs are scientific and finicky, so he analyzes the 'failure tax' per component. _(2026-05-24)_
@@ -50,42 +54,42 @@ _No flags._
 - `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route. _(2026-05-24)_
 - `INS-260524-B6B3` Jongmin Sung: 'if math is physics's language, AI can read very complicated patterns' — and biology is a complex system with no single equation, so AI is the most suitable language for it. _(2026-05-24)_
 - `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems. _(2026-05-24)_
+- `INS-260524-D5DB` Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with. _(2026-05-24)_
+- `INS-260524-5173` Woosang: ML recommends a recipe -> a robot synthesizes it -> the result feeds back; active learning plus robotic synthesis is the autonomous-lab loop. _(2026-05-24)_
+- `INS-260524-8E5D` Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.' _(2026-05-24)_
 - `INS-260524-110F` Z Venture Capital CEO: SaaS is saturated, so SaaS firms bolt on AI; meanwhile manufacturing-heavy Asia has surprisingly large unmet demand for 'where do we apply AI' consulting. _(2026-05-24)_
 - `INS-260524-3793` Z Venture Capital CEO: the language barrier is becoming meaningless and the proprietary-data advantage is going away — everyone now competes globally. _(2026-05-24)_
-- `INS-260524-8320` Z Venture Capital CEO: feared AI would kill search, but search queries are increasing — 'simply searching for information won't be money anymore'; the edge is data + how well you use it. _(2026-05-24)_
 - `INS-260524-0515` Z Venture Capital CEO: opened a US office for seed/early because the AI alliance's most active part is the US; in Asia only Korea/Japan have a deep-tech base, and SE Asia has 'nothing to invest in.' _(2026-05-24)_
+- `INS-260524-8320` Z Venture Capital CEO: feared AI would kill search, but search queries are increasing — 'simply searching for information won't be money anymore'; the edge is data + how well you use it. _(2026-05-24)_
+- `INS-260522-213D` YC Root Access: extract the domain knowledge locked in heads, Slack, email, and Notion, make it legible as context/skills, and the company becomes an intelligent AI-native organization — the brain is the asset. _(2026-05-22)_
+- `INS-260522-201B` YC Root Access: the company brain (data + skills + knowhow) sits in the middle; humans sit around the edge where intelligence makes contact with reality — high-stakes, high-emotion moments and key sales conversations, 'a human in the room for the next 20 years.' _(2026-05-22)_
+- `INS-260522-EB3C` YC Root Access: store all data preciously (Gary Tan keeps every email in markdown, never deletes), treat the software on top as ephemeral — regenerate it from your instructions when the models get smarter in a month or two. _(2026-05-22)_
 - `INS-260522-51E7` YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs. _(2026-05-22)_
 - `INS-260522-B95E` YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice. _(2026-05-22)_
 - `INS-260522-2CE8` YC Root Access: a company is a set of recursive self-improving AI loops — sensor (tickets, telemetry, churn) -> policy/decision -> tool layer (deterministic APIs/skills) -> quality gate (evals, human review) -> learning mechanism that loops back. _(2026-05-22)_
 - `INS-260522-C5C2` YC Root Access 'holy shit' moment: a monitoring agent watched every employee query, and when one failed it opened a merge request to fix the tools/skills/index, had an agent review and deploy it, so the query succeeded the next day. _(2026-05-22)_
-- `INS-260522-213D` YC Root Access: extract the domain knowledge locked in heads, Slack, email, and Notion, make it legible as context/skills, and the company becomes an intelligent AI-native organization — the brain is the asset. _(2026-05-22)_
-- `INS-260522-201B` YC Root Access: the company brain (data + skills + knowhow) sits in the middle; humans sit around the edge where intelligence makes contact with reality — high-stakes, high-emotion moments and key sales conversations, 'a human in the room for the next 20 years.' _(2026-05-22)_
-- `INS-260522-EB3C` YC Root Access: store all data preciously (Gary Tan keeps every email in markdown, never deletes), treat the software on top as ephemeral — regenerate it from your instructions when the models get smarter in a month or two. _(2026-05-22)_
 - `INS-260522-DB03` YC Root Access: middle management is done — everyone is an IC/builder/operator, and to get anything done you need a named human DRI, not a committee. _(2026-05-22)_
 - `INS-260522-88E0` YC Root Access: companies reach demo day at ~5x revenue per employee vs 18 months ago; soon you're constrained on token usage, not headcount. _(2026-05-22)_
+- `INS-260519-08E0` Rati Zvirawa (Intercom): not assist, not augment — own; an owning agent needs a playbook (strategy in natural language), knowledge (grounded truth), and data flowing both ways. _(2026-05-19)_
+- `INS-260519-8748` Rati Zvirawa (Intercom): no matter how much context you hand over, the relationship has to be rebuilt — an agent continuing the thread removes that rebuild. _(2026-05-19)_
+- `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines. _(2026-05-19)_
 - `INS-260519-7744` Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain. _(2026-05-19)_
 - `INS-260519-9732` Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month. _(2026-05-19)_
 - `INS-260519-746D` Kyle Norton (Owner): giving every rep a Claude skill is not the answer — one specialist takes the good ideas, builds them to production quality, and deploys one version to everyone. _(2026-05-19)_
 - `INS-260519-90E2` Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion. _(2026-05-19)_
 - `INS-260519-224B` Rati Zvirawa (Intercom): the agent didn't break the metric — it surfaced that the metric was already broken. _(2026-05-19)_
 - `INS-260519-304D` Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on. _(2026-05-19)_
-- `INS-260519-08E0` Rati Zvirawa (Intercom): not assist, not augment — own; an owning agent needs a playbook (strategy in natural language), knowledge (grounded truth), and data flowing both ways. _(2026-05-19)_
-- `INS-260519-8748` Rati Zvirawa (Intercom): no matter how much context you hand over, the relationship has to be rebuilt — an agent continuing the thread removes that rebuild. _(2026-05-19)_
-- `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines. _(2026-05-19)_
 - `INS-260519-0A9F` Elena Verna (Lovable): Lovable's first millions in ARR came from a CEO public and transparent across channels; willingness to build in public is almost a hiring requirement now. _(2026-05-19)_
+- `INS-260519-C808` Maja Voje (The GTM Strategist): proprietary signals, proprietary research, and human touch — one intelligent message beats fifty templated ones (3–5x, sometimes 10x). _(2026-05-19)_
 - `INS-260519-7402` James Pastan (Framer): setup enables aha; aha with habit is activation — and if success in the product doesn't mean they pay you, you don't have a business. _(2026-05-19)_
 - `INS-260519-ED17` James Pastan (Framer): an aha on the model is not an aha on the product — frictionless prompt boxes can be a trap. _(2026-05-19)_
-- `INS-260519-C808` Maja Voje (The GTM Strategist): proprietary signals, proprietary research, and human touch — one intelligent message beats fifty templated ones (3–5x, sometimes 10x). _(2026-05-19)_
 - `INS-260519-945C` Elena Verna (Lovable): treat product give-away as the line item that replaces Google/Meta spend — it is the best acquisition channel by a wide margin. _(2026-05-19)_
 - `INS-260519-BFBF` Emily Kramer (MKT1): a 'gen marketer' — a generalist excellent at combining fuel + engine, thinking in big-bet campaigns, fluent in generative AI — beats siloed sub-functions. _(2026-05-19)_
 - `INS-260519-32D9` Emily Kramer (MKT1): the teams that win do less, better — the things that work for who they uniquely are, letting everything else fall away. _(2026-05-19)_
 - `INS-260519-D007` Kyle Norton (Owner): the money you'd spend on half your BDRs, spend on a GTM engineer; if you hire a RevOps leader early they must be applied-AI capable. _(2026-05-19)_
 - `INS-260519-B1A1` Maja Voje (The GTM Strategist): you win early to earn the right to go upmarket; courting a compliance-heavy ICP on day one burns runway. _(2026-05-19)_
-- `INS-260519-E248` Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%. _(2026-05-19)_
-- `INS-260519-78E6` Josh Epstein (Coder): you always close the first deal; the second proves value landed — if you're not staffing and writing docs for expansion before the first closes, you're not planning to win. _(2026-05-19)_
-- `INS-260519-E596` Josh Epstein (Coder): customers love founders and lie to their face about how they'll work with you; the third founder is the one who turns an 18-month vision into a 90-day shippable plan. _(2026-05-19)_
-- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.' _(2026-05-19)_
-- `INS-260519-553B` Cross-source capstone: Attio, Lovable, MKT1, GTM Strategist, Owner, Vercel, Framer, Intercom, Coder independently land on the same spine — convergence is the epistemic signal. _(2026-05-19)_
+- `INS-260519-02A9` Elena Verna (Lovable): a clickable app with a real back-end the prospect can act in beats a white-paper-behind-a-form. _(2026-05-19)_
+- `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.' _(2026-05-19)_
 - `INS-260519-2A13` Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message. _(2026-05-19)_
 - `INS-260519-39B5` Roniesha Copeland (Vercel): you need a pain you can solve that is painful enough to solve now — otherwise the deal doesn't exist or doesn't close in a sane horizon. _(2026-05-19)_
 - `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit. _(2026-05-19)_
@@ -93,5 +97,8 @@ _No flags._
 - `INS-260519-F990` Emily Kramer (MKT1): stop net-fishing for leads; research and systematically pursue the accounts that fit, and strip the MQL/SQL titles that create territorialism. _(2026-05-19)_
 - `INS-260519-05EB` Maja Voje (The GTM Strategist): firmographics + behaviors + timing/momentum + revenue potential, weighted from the ten clients you'd want 500 more of. _(2026-05-19)_
 - `INS-260519-299F` Emily Kramer (MKT1): LLMs find your pricing anyway and traffic is scarcer, so ungate, structure content for machines, and convert the visitors you do get. _(2026-05-19)_
-- `INS-260519-02A9` Elena Verna (Lovable): a clickable app with a real back-end the prospect can act in beats a white-paper-behind-a-form. _(2026-05-19)_
-- `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.' _(2026-05-19)_
+- `INS-260519-E248` Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%. _(2026-05-19)_
+- `INS-260519-78E6` Josh Epstein (Coder): you always close the first deal; the second proves value landed — if you're not staffing and writing docs for expansion before the first closes, you're not planning to win. _(2026-05-19)_
+- `INS-260519-E596` Josh Epstein (Coder): customers love founders and lie to their face about how they'll work with you; the third founder is the one who turns an 18-month vision into a 90-day shippable plan. _(2026-05-19)_
+- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.' _(2026-05-19)_
+- `INS-260519-553B` Cross-source capstone: Attio, Lovable, MKT1, GTM Strategist, Owner, Vercel, Framer, Intercom, Coder independently land on the same spine — convergence is the epistemic signal. _(2026-05-19)_

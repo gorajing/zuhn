@@ -8,6 +8,8 @@
 - `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
 - `INS-260405-F9EC` Specific user stories dissolve the investor's core fear — that the product is a solution without a problem.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
+- `INS-260404-8A67` Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
+- `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260323-C5D3` Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
 - `INS-260330-139D` Ask how users behave and live rather than whether they want specific features to uncover category-creating opportunities.
@@ -20,5 +22,3 @@
 - `INS-260403-B8ED` If 40%+ of users would be 'very disappointed' without your product and your retention curve flattens rather than dropping to zero, you have PMF.
 - `INS-260404-B01F` Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
-- `INS-260404-8A67` Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
-- `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.

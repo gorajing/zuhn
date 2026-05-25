@@ -51,7 +51,6 @@ stance: >-
   bars, and conflating them produces vulnerabilities.
 related:
   - INS-260323-B029
-  - INS-260405-CC9D
   - INS-260501-FD20
   - INS-260327-1FA1
   - PRI-260406-3EF8

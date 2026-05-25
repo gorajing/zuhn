@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-25 | 5156 actionable insights
+Generated on 2026-05-25 | 5158 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -169,6 +169,7 @@ Generated on 2026-05-25 | 5156 actionable insights
 - [INS-260413-AD37] OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks.
 - [INS-260524-63C9] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
 - [INS-260524-2C7C] Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
+- [INS-260525-3A9A] Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -280,6 +281,7 @@ Generated on 2026-05-25 | 5156 actionable insights
 - [INS-260514-96FE] A personal AI agent accessible via Telegram with your genome + FDA pharmacogenomics data can photo-identify drugs and recommend YOUR specific dose. Manuel Corpas's 'Robotary' caught a warfarin error that would have caused him to bleed to death.
 - [INS-260514-A15D] Auto-generate ICP/personas/use-cases by scraping the company's website with an AI agent — turns a 2-hour foundational setup that founders typically skip into a 5-minute pass with editable outputs.
 - [INS-260514-93C2] For PPT generation, use standard Claude (produces editable Excel-linked charts), NOT Claude Design (bakes charts as images). The Design version is prettier but operationally broken.
+- [INS-260525-9B7B] Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.

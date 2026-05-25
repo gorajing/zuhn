@@ -56,8 +56,8 @@ related:
   - INS-260403-754F
   - INS-260403-AFBB
   - INS-260403-BC04
+  - INS-260525-1CE3
   - INS-260403-CD74
-  - INS-260405-8BEA
   - INS-260405-8646
 stance: Having a great product is necessary but nowhere near sufficient
 evidence:

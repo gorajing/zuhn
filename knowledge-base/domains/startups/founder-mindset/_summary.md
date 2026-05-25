@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 342 insights
+> 343 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -289,6 +289,7 @@
 - `INS-260405-F20D` [medium] Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260322-5D22` [medium] Building networks where people personally know and trust each other's character creates economic infrastructure that bypasses institutional gatekeeping in the AI era.
+- `INS-260525-35DB` [medium] Korean engineer: 'In our previous era money was the biggest blocker. Money is not that big a blocker now' — operations and not knowing the market are.
 - `INS-260329-9A5A` [medium] People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260409-EC0C` [medium] Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260329-1D8D` [medium] Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.

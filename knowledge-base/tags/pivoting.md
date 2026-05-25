@@ -13,5 +13,5 @@
 - `INS-260404-70AE` Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
 - `INS-260412-F32D` Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
-- `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
 - `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.
+- `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.

@@ -47,6 +47,6 @@ related:
   - INS-260413-7816
   - INS-260514-3A62
   - INS-260403-4120
-  - INS-260325-5A2F
+  - INS-260525-3A9A
 ---
 Counter to the hype, Woosang reports that agent-coded molecular-dynamics runs succeeded only about 20% of the time because the scientific inputs are exacting and iteration is hard, and that specialization varies sharply by component. He explicitly analyzes the 'failure tax.' A valuable honesty signal for the KB's agent cluster: credible practitioners quantify where agents fail rather than only showcasing wins — the same disposition as the GTM critic / should-distill discipline.

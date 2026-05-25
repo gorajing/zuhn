@@ -49,7 +49,6 @@ stance: >-
   success.
 related:
   - INS-260321-FD14
-  - INS-260321-4178
   - INS-260320-DEAF
   - INS-260320-F78E
   - INS-260327-3E23
@@ -58,6 +57,7 @@ related:
   - INS-260329-F51D
   - INS-260330-0E6E
   - INS-260330-7C24
+  - INS-260330-D52B
 ---
 Y Combinator's selection model has historically favored strong engineers who could build fast and iterate. As AI coding tools make software development dramatically more accessible, the ability to code is no longer a reliable proxy for founder quality or startup potential. The moat shifts from 'can you build it' to 'do you understand the problem deeply enough to know what to build.'
 

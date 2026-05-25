@@ -46,7 +46,6 @@ stance: >-
   viability testing) is orders of magnitude cheaper than product R&D.
 related:
   - INS-260330-178D
-  - INS-260402-237D
   - INS-260403-B6A0
   - INS-260327-3A71
   - PRI-260406-72B3

@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 141 insights
+> 143 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -119,6 +119,7 @@
 - `INS-260329-D1F2` [high] Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
 - `INS-260323-CD28` [high] Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
 - `INS-260327-58AC` [high] Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
+- `INS-260525-63C8` [medium] Both speakers: the agent builds, but product intent, the emotional 'step' of design, UX consistency, and knowing the market stay human.
 - `INS-260405-64FA` [medium] The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.
 - `INS-260404-9D14` [medium] AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.
 - `INS-260330-C418` [medium] Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
@@ -143,3 +144,4 @@
 - `INS-260322-8D47` [medium] When customers become partners invested in your success as much as you are in theirs, they introduce you to VCs, build on your platform, and actively help your company grow.
 - `INS-260330-21C2` [medium] Longbows work through the archer's paradox via arrow flex; compound bows engineer it away with cut-out risers and drop-away rests — both valid, with different tradeoff profiles.
 - `INS-260330-7106` [medium] Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
+- `INS-260525-77FE` [medium] Korean engineer: the visible coding is maybe 40% of the job; project setup, choosing the stack/LLM provider, deployment, and design decisions are the rest and take the most effort.

@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 47 insights
+> 48 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -30,6 +30,7 @@
 - `INS-260514-93C2` [high] For PPT generation, use standard Claude (produces editable Excel-linked charts), NOT Claude Design (bakes charts as images). The Design version is prettier but operationally broken.
 - `INS-260505-68D3` [high] Need-to-understand fields (astronomy, math, fundamental physics) won't accept opaque AI answers; need-the-answer fields (medicine, engineering) will.
 - `INS-260501-DBDB` [high] Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices.
+- `INS-260525-9B7B` [medium] Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 - `INS-260524-460B` [medium] Woosang: an AlphaEvolve-class agent improved a high-dimensional packing bound that had stood for ~25-30 years — a result no mathematician had cracked.
 - `INS-260514-E627` [medium] $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted.
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.

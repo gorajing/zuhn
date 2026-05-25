@@ -46,11 +46,11 @@ resolutions:
     role you play — dreamer or builder — and aggressively recruiting the
     complement is often the highest-leverage decision a founder makes.
 related:
+  - INS-260525-4D80
   - INS-260321-33FC
   - INS-260329-F51D
   - PRI-260406-D181
   - INS-260328-FFC3
-  - INS-260323-C10D
   - INS-260323-246F
   - INS-260412-AB46
 stance: >-

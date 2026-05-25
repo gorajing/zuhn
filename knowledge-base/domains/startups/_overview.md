@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4766 insights across 55 topics
+> 4769 insights across 55 topics
 
 ## Topics
 
@@ -24,7 +24,7 @@
 | execution | 294 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | exits | 7 | Give yourself two months to try for acquisition, then shut down — no time frame means no exit. |
 | financial-planning | 4 | In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem. |
-| founder-mindset | 342 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
+| founder-mindset | 343 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
 | founder-psychology | 87 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 465 | Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception. |
 | growth | 114 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
@@ -46,7 +46,7 @@
 | platform-strategy | 17 | The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. |
 | problem-solving | 11 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 26 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
-| product-development | 141 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
+| product-development | 143 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 10 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
 | product-strategy | 96 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |

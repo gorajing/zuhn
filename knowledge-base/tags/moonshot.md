@@ -1,4 +1,4 @@
 # Tag: moonshot
 
-- `INS-260410-3880` Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
 - `INS-260501-801C` Sonia Huang: Nathan from Zed accomplished a three-year moonshot project over the holidays by himself with cloud code. Brett Taylor rebuilt Sierra over a weekend. Notion rewrote 8 million lines of code in six weeks. Whatever you can imagine building over the next 100 years, we think is now possible in 100 days.
+- `INS-260410-3880` Moonshot AI raised $1B at a $3B valuation while xAI's Memphis cluster alone costs $3-4B — Chinese frontier labs are funding-starved by Western standards.
