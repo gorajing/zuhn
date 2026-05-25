@@ -49,7 +49,6 @@ related:
   - PRI-260320-07A4
   - INS-260321-2482
   - INS-260403-0350
-  - INS-260410-37D5
 evidence:
   - id: INS-260403-0350
     type: CHALLENGES

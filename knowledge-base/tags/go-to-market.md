@@ -1,10 +1,10 @@
 # Tag: go-to-market
 
+- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260403-5DAD` AI is shifting SaaS from process automation to intelligent, self-compounding growth systems that rewrite GTM playbooks.
 - `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
 - `INS-260405-FCBE` AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
-- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
@@ -19,13 +19,13 @@
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260403-05CE` The stealth-to-public transition demands a structured launch blueprint: working backwards from a date, building amplifier networks, scheduling publishing waves, and shipping a follow-up within 30 days.
-- `INS-260405-0CE9` Win the hands-on users first; budget approval follows organic adoption, not the other way around.
 - `INS-260410-8C24` Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - `INS-260323-8896` Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260403-5426` Each GTM stage has its own valid acquisition playbook; using tactics from the wrong stage burns resources and generates false signals.
 - `INS-260325-175B` Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
+- `INS-260405-0CE9` Win the hands-on users first; budget approval follows organic adoption, not the other way around.
 - `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
 - `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
 - `INS-260403-345C` Category creators should anchor pricing high, learn through real sales motions, and evolve from evangelical hunters to scaled execution as the market matures.

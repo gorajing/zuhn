@@ -7,6 +7,7 @@
 - `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
 - `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
+- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead.
 - `INS-260403-3725` AI features get cloned in weeks rather than years, so founders must build strategic moats immediately rather than planning to add them later.
 - `INS-260325-C29B` Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
@@ -20,11 +21,10 @@
 - `INS-260403-D1D0` Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 - `INS-260326-E411` Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260405-0FC4` RuBisCo wasn't particularly good at its job—so the first organisms just made enormous quantities of it and dominated the planet anyway.
-- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead.
-- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
-- `INS-260321-EE05` The NYT's 24-hour editorial cycle is an OODA loop — the internet cycles in 12 hours, causing traditional media to perpetually chase viral posts and have a psychological breakdown.
 - `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260327-BA8E` Your biggest regret will be not pivoting three months earlier, not the pivot itself.
+- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
+- `INS-260321-EE05` The NYT's 24-hour editorial cycle is an OODA loop — the internet cycles in 12 hours, causing traditional media to perpetually chase viral posts and have a psychological breakdown.
 - `INS-260403-DF01` Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-FFBD` When functional prototypes cost minutes instead of weeks, the constraint on product discovery shifts from engineering bandwidth to hypothesis quality.
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.

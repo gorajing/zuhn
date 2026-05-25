@@ -48,11 +48,11 @@ stance: >-
   comes from being forced to write longer programs than the ones you conceive in
   your head.
 related:
-  - INS-260330-E660
   - INS-260330-80AF
-  - INS-260402-E470
   - INS-260402-9676
   - INS-260404-864F
+  - INS-260524-B6B3
+  - INS-260402-E470
 evidence:
   - id: INS-260402-9676
     type: REFINES

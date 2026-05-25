@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 89 insights
+> 90 insights
 
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
@@ -58,6 +58,7 @@
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260505-9723` [medium] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 - `INS-260514-93E1` [medium] Only 16% of scientists and 18% of biologists currently use AI in their research workflows. The 'AI for science revolution' is still pre-adoption-curve.
+- `INS-260524-B6B3` [medium] Jongmin Sung: 'if math is physics's language, AI can read very complicated patterns' — and biology is a complex system with no single equation, so AI is the most suitable language for it.
 - `INS-260505-415C` [medium] Students aren't writing more papers with Claude — they're writing better papers, with figures of beauty and explorations they couldn't have done alone.
 - `INS-260505-D1E9` [medium] AI is a compression engine — it deduces from training data. Real science is abductive — surprising claims that violate expectations. The two are in tension.
 - `INS-260501-5F37` [medium] Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments.

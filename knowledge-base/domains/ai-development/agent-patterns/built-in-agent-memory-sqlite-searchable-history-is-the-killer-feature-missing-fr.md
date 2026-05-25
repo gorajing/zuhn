@@ -55,12 +55,12 @@ stance: >-
   this dimension by automatically writing to memory after task success and
   exposing a SQLite database the agent can query in real-time.
 related:
-  - INS-260402-2342
   - INS-260405-2BB0
   - INS-260423-D900
+  - INS-260524-D5DB
   - INS-260327-DC4C
   - INS-260501-2130
-  - INS-260405-11EA
+  - INS-260402-2342
 ---
 Imran's diagnostic of why he migrated from OpenClaw to Hermes: (1) no built-in memory meant repeating the same setup tasks daily, (2) gateway needed restarting hourly, (3) tokens disappearing into a black box with no visibility. Hermes solves all three: memory auto-writes to SQLite on successful task completion; the same SQLite database is queryable by the agent in real-time, so even forgotten API keys or context can be retrieved by searching execution history; the gateway is more stable.
 

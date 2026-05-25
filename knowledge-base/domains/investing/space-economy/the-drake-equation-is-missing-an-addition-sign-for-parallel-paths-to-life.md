@@ -48,11 +48,11 @@ stance: >-
   when multiple independent biochemical pathways could exist, fundamentally
   changing the probability calculation.
 related:
+  - INS-260524-B6B3
   - INS-260330-B5D2
   - INS-260325-1709
   - INS-260325-82E8
   - PRI-260406-7869
-  - INS-260323-8F41
 evidence:
   - id: INS-260330-B5D2
     type: SUPPORTS

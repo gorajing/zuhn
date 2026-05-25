@@ -1,5 +1,7 @@
 # Tag: cognitive-biases
 
+- `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
+- `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
@@ -18,5 +20,3 @@
 - `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260412-F9BA` The 'straight line' from New York to London on a flat map is not the shortest path — the great circle route curves dramatically northward through Newfoundland.
-- `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
-- `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.

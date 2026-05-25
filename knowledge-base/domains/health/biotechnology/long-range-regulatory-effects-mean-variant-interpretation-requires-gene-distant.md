@@ -51,7 +51,7 @@ related:
   - INS-260410-CEAA
   - INS-260505-0200
   - INS-260410-1AF0
-  - INS-260405-9DB6
+  - INS-260524-1A41
 ---
 Anshul Kundaje's case study: a rare neurodevelopmental disorder patient with 4.5M genetic variants. Models prioritized one specific variant — 384 kilobases from the gene it ultimately affects (some 748kb from a related gene). The variant creates a new DNA word that's a binding site for a brain-expressed transcription factor, dramatically reducing activity of the distant gene. Mouse embryo experiments confirmed the prediction. Implication: variant interpretation that only considers immediate sequence context (within a few kb of the gene) misses much of the regulatory action.
 

@@ -50,6 +50,7 @@ related:
   - INS-260330-B4DA
   - PRI-260328-8516
   - INS-260514-AE3A
+  - INS-260524-B6B3
   - PRI-260323-0654
 stance: >-
   The principle of least action provides a single mathematical framework that

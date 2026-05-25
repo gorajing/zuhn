@@ -56,9 +56,9 @@ stance: >-
   systems
 related:
   - INS-260519-7744
+  - INS-260524-D5DB
   - INS-260501-EA32
   - INS-260410-A365
   - INS-260410-5EC3
-  - INS-260505-4FEF
 ---
 The dominant framing of LLM hallucinations treats them as a technical defect that smarter models and better retrieval will eventually eliminate. Hinton argues this is the wrong frame. Human memory is associative: events modify connection strengths rather than getting stored in filing cabinets, and recall constructs a plausible account from the current connection state. John Dean at Watergate testified accurately about events he witnessed but attributed statements to wrong people and placed individuals in meetings they had not attended. He was not lying — he was confabulating, constructing a plausible account from associative memory traces. LLMs do the same thing structurally, and calling it 'hallucination' obscures the mechanism. The implication: LLM confabulation is not going away with better engineering, because it is a property of how associative memory works. Retrieval augmentation (RAG) reduces confabulation for retrievable facts but does not eliminate it for derived or inferred content. Organizations relying on LLM-generated content for high-stakes claims need human verification layers not because the models have a bug but because they are working exactly as memory systems work.

@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260330-7994
   - INS-260409-34EA
+  - INS-260524-B6B3
   - INS-260321-D959
   - INS-260330-3B05
-  - INS-260501-BC7C
 ---
 Surya's first observation: 'I always learned so much by listening to people in other fields. When they have similarities and when they have differences.' Different fields have different data densities, different theoretical foundations, different pre-AI methodology — so AI lands differently in each. Physics has strong priors and tight verification; biology has messy data and weak priors; math has formal verification but no benchmarks for research. Comparing AI's transformation across these reveals patterns that can't be seen from inside any single field.
 

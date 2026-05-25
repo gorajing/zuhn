@@ -19,8 +19,8 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
-  - INS-260321-D3BE
   - INS-260514-8424
+  - INS-260524-63C9
   - INS-260323-2E51
   - INS-260501-AE73
   - PRI-260406-3EF8

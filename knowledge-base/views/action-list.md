@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-22 | 5151 actionable insights
+Generated on 2026-05-25 | 5154 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -167,6 +167,7 @@ Generated on 2026-05-22 | 5151 actionable insights
 - [INS-260403-2609] The market has moved from AI-enhanced SaaS that helps humans to AI-native systems of action that autonomously execute entire workflows on their behalf.
 - [INS-260322-E4D8] AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
 - [INS-260413-AD37] OSWorld agent accuracy leapt from 12% to 66.3% in 2025, within 6 points of human performance, with Claude Sonnet 4.5 alone hitting 61.4% on computer-use tasks.
+- [INS-260524-63C9] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -828,6 +829,8 @@ Generated on 2026-05-22 | 5151 actionable insights
 - [INS-260514-00D3] Auto-save every question-answer interaction back into the indexed folder — turns each AI query into new knowledge that re-indexes in the next cycle, creating compounding personal KB.
 - [INS-260519-304D] Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
 - [INS-260522-B95E] YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
+- [INS-260524-D5DB] Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
+- [INS-260524-8E5D] Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.'
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.

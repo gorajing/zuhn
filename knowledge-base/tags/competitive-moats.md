@@ -45,12 +45,12 @@
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260402-45FA` Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
 - `INS-260403-B3E8` A16z is hiring dedicated ecosystem leadership to turn its relationship network into compounding infrastructure rather than treating connections as ad hoc deal flow.
-- `INS-260404-277E` Startups bridging foodtech with other industries create defensibility through cross-vertical complexity.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
+- `INS-260404-277E` Startups bridging foodtech with other industries create defensibility through cross-vertical complexity.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260403-204E` In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
-- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
+- `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
 - `INS-260404-3C7A` Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260410-DF88` Benchmark's 'we will not scale' is a real strategy because the thing they sell — partnership-wide attention on every portfolio company — literally cannot exist at 5x the size.

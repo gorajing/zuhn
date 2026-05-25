@@ -1,5 +1,6 @@
 # Tag: product-strategy
 
+- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260405-7838` In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
@@ -7,8 +8,6 @@
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
 - `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
 - `INS-260405-4091` AI tooling lowers the cost of building but not the cost of building the wrong thing.
-- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
-- `INS-260405-690F` The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.
 - `INS-260404-6586` AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
 - `INS-260410-5581` Nike's playbook is obsess over athletes first, let the brand seep into mass consciousness, then extend into $15 Dick's t-shirts without compromising the pinnacle story.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
@@ -46,3 +45,4 @@
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260405-690F` The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.

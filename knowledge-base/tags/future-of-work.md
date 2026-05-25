@@ -1,5 +1,6 @@
 # Tag: future-of-work
 
+- `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
 - `INS-260405-CD42` Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
 - `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
@@ -19,9 +20,9 @@
 - `INS-260514-78B3` AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
 - `INS-260423-4CB1` Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
 - `INS-260409-A180` Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
+- `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
-- `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
-- `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
 - `INS-260501-A6E0` Three roles: builders, DRIs (one person, one outcome), AI founders. Middle management = legacy of pre-AI information routing. Goes away.
+- `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.

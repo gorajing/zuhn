@@ -55,6 +55,7 @@ related:
   - INS-260412-454A
   - INS-260402-C664
   - PRI-260501-CD0C
+  - INS-260524-2346
 ---
 Facebook's growth team scaled to hundreds of people focused on reducing friction in the user journey. LinkedIn used cross-functional experimentation squads for market-specific acquisition. Uber localized everything from app language to payment methods through dedicated growth engineering. The common pattern: growth stopped being one clever person's job and became a team-owned system.
 

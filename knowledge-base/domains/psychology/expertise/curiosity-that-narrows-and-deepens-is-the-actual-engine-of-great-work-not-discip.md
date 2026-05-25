@@ -50,7 +50,6 @@ stance: >-
   specific questions, not by self-discipline, and the discipline narrative is a
   school-induced illusion.
 related:
-  - INS-260322-4B4A
   - INS-260328-E410
   - INS-260402-D9D0
   - PRI-260406-229E
@@ -60,6 +59,7 @@ related:
   - INS-260402-4451
   - INS-260402-1414
   - INS-260403-4431
+  - INS-260403-B05A
 evidence:
   - id: INS-260328-E410
     type: CONTRADICTS

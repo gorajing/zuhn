@@ -1,9 +1,10 @@
 # Tag: open-source
 
+- `INS-260320-0063` n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
 - `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
+- `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260328-60C7` Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers.
 - `INS-260403-58DA` Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
-- `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260403-36F4` AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access.
 - `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260327-1652` Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
@@ -38,9 +39,6 @@
 - `INS-260505-C5D8` Universities can't out-spend Meta on compute. They can out-open-source Meta on weights, and out-patient Meta on long-horizon research.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
-- `INS-260320-0063` n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
-- `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
-- `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
@@ -57,3 +55,5 @@
 - `INS-260410-49D7` Meta open-sources distributed computing infrastructure and AI models specifically because Google got there first — open-sourcing their own version commoditizes Google's proprietary moat and standardizes the supply chain around Meta's designs.
 - `INS-260405-B76E` Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
 - `INS-260323-CD28` Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
+- `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
+- `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.

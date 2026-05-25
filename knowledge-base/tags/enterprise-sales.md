@@ -1,7 +1,6 @@
 # Tag: enterprise-sales
 
 - `INS-260421-536F` MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
-- `INS-260410-6159` Start meetings in the kiddie pool: something you researched about the person's human life, not the capital interest that brought you there.
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
@@ -43,3 +42,4 @@
 - `INS-260327-0F42` A 30-year-old trying to make a name for themselves who has never bought software at the organization can tank your deal: they demo without security approval, go to leadership without political cover, and get shut down by their CTO.
 - `INS-260410-BC66` Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.
 - `INS-260424-B404` Ben Gilbert: Thomas came in surveying the org and said 'how many salespeople do we have?' He looked and said 'we need 1000 times more salespeople to run an effective customer-focused enterprise organization' — and Google literally 1000x'd the headcount.
+- `INS-260410-6159` Start meetings in the kiddie pool: something you researched about the person's human life, not the capital interest that brought you there.

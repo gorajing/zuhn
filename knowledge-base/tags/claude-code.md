@@ -7,6 +7,7 @@
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260403-656F` Claude Code automation with parallel agents can handle overnight inbox triage, scheduling, and task planning previously done by virtual assistants.
 - `INS-260514-84FC` Claude Code's name is wrong. It's a terminal agent. Vercel reduced SDRs from 10 to 1 using it. Jason Lemkin's team went from 8 to 1.25.
+- `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
 - `INS-260410-D034` If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
@@ -23,7 +24,6 @@
 - `INS-260320-949A` A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
 - `INS-260501-91A3` Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.
 - `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.
-- `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260423-00AC` Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product.
 - `INS-260501-3088` 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'

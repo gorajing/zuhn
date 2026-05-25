@@ -49,10 +49,10 @@ resolutions:
     than to search endlessly for the mythically correct option.
 related:
   - PRI-260324-E8C6
+  - INS-260524-B783
   - INS-260327-A817
   - INS-260330-2492
   - PRI-260323-50FE
-  - INS-260402-8223
   - INS-260330-C681
 stance: >-
   There is no right answer in creative work, but there are people whose job it

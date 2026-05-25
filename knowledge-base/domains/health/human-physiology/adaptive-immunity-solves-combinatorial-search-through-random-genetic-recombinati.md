@@ -50,7 +50,6 @@ stance: >-
   a biological example of combinatorial explosion as a feature.
 related:
   - INS-260325-BF44
-  - INS-260404-07C3
   - INS-260410-CEAA
   - INS-260412-339C
   - INS-260412-E072

@@ -50,9 +50,8 @@ stance: >-
   resist artistic tricks, and exposing yourself to enough diverse cultures and
   time periods to transcend your own conditioning.
 related:
-  - INS-260323-5CE3
-  - INS-260329-2EB1
   - INS-260402-E11A
+  - INS-260329-2EB1
   - PRI-260406-1A55
   - INS-260403-8E4D
   - INS-260403-B9E5

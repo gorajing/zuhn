@@ -9,9 +9,6 @@
 - `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
 - `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260330-CA97` RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
-- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
-- `INS-260330-F5CF` Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
-- `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260404-84FE` Plants evolved entire metabolic pathways just to clean up after RuBisCo's mistakes rather than replacing the enzyme itself.
 - `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
 - `INS-260404-2695` RuBisCo evolved when oxygen was scarce; when oxygen rose, plants added workarounds instead of replacing it — a pattern mirrored in legacy software.
@@ -55,3 +52,6 @@
 - `INS-260403-DE34` Legal-but-clearly-unintended system pathways generate diffuse public anger that eventually demands a dramatic correction.
 - `INS-260330-E180` Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
 - `INS-260404-1000` RuBisCo is a terrible enzyme that dominates Earth's biology because it arrived first and plants just made 40 billion tons of it to compensate.
+- `INS-260404-0BED` RuBisCo was adequate in a low-oxygen world but became deeply flawed when plants changed the atmosphere, yet plants couldn't switch away.
+- `INS-260330-F5CF` Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
+- `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.

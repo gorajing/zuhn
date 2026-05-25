@@ -9,10 +9,10 @@
 - `INS-260410-AA6E` A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
 - `INS-260410-E4C4` 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
+- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
 - `INS-260403-F943` The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
-- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
 - `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
 - `INS-260410-2D5D` Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
 - `INS-260410-DD0E` Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
@@ -33,13 +33,13 @@
 - `INS-260514-3974` AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist.
 - `INS-260330-B153` Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
+- `INS-260501-D6B8` Hire by giving a real project to build; then run 10 attacker agents at it; can the candidate's system survive?
+- `INS-260404-695D` We judge early ambitious work harshly because we have no cultural customs for it, not because skepticism is hardwired.
+- `INS-260403-EFCC` Early-stage ambitious work requires switching evaluation polarity from finding flaws to imagining how it could succeed.
 - `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
 - `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260501-93DD` Taste = honest evaluation of quality. No honesty, no taste. No taste, no excellence. Taste isn't optional.
 - `INS-260403-5EE3` Applying finished-work standards to early-stage projects is a category error that destroys ambitious work.
-- `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
-- `INS-260501-D6B8` Hire by giving a real project to build; then run 10 attacker agents at it; can the candidate's system survive?
-- `INS-260404-695D` We judge early ambitious work harshly because we have no cultural customs for it, not because skepticism is hardwired.
-- `INS-260403-EFCC` Early-stage ambitious work requires switching evaluation polarity from finding flaws to imagining how it could succeed.

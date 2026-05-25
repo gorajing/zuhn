@@ -1,5 +1,8 @@
 # Tag: context-engineering
 
+- `INS-260519-7744` Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
+- `INS-260522-51E7` YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
+- `INS-260524-D5DB` Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
 - `INS-260410-9F17` If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
 - `INS-260409-7C62` CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
 - `INS-260327-F625` Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
@@ -14,5 +17,3 @@
 - `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260514-5914` Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
-- `INS-260519-7744` Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
-- `INS-260522-51E7` YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.

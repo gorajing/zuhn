@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 127 insights
+> 128 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -72,6 +72,7 @@
 - `INS-260403-A2E9` [high] As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - `INS-260501-3CAA` [high] Vibe coding is for everyone; agentic engineering is for professionals who can't ship vulnerabilities.
 - `INS-260402-1FE9` [high] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
+- `INS-260524-B783` [high] Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260423-7DC6` [high] Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7.
 - `INS-260323-D2AA` [medium] AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260402-C98A` [medium] Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.

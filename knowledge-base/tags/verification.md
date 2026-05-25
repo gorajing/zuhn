@@ -5,13 +5,13 @@
 - `INS-260410-3601` The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
 - `INS-260410-85AD` Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260410-545A` Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
+- `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
+- `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 - `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
 - `INS-260505-3608` Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
 - `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
-- `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
-- `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
@@ -20,7 +20,7 @@
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260325-FDA9` Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.
+- `INS-260403-5953` A simple verification checklist — Crunchbase history, WHOIS lookup, reference calls with portfolio founders — blocks most fundraising fraud.
 - `INS-260410-81DC` Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
-- `INS-260403-5953` A simple verification checklist — Crunchbase history, WHOIS lookup, reference calls with portfolio founders — blocks most fundraising fraud.

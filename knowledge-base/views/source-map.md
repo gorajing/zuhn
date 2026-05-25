@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-22 | 2633 sources
+Generated on 2026-05-25 | 2634 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -233,6 +233,7 @@ Generated on 2026-05-22 | 2633 sources
 | World's Lightest Solid! | youtube | 8 | 2026-03-30 |
 | You’ll never escape life's problems. Why that’s actually liberating | Oliver Burkeman for BT+ | youtube | 8 | 2026-03-25 |
 | Your brain wasn't built to hold this much information | Richard Cytowic | youtube | 8 | 2026-03-25 |
+| Jongmin Sung | audio | 7 | 2026-05-24 |
 | Keynote   Dario Gil | audio | 7 | 2026-05-06 |
 | How to Do Great Work | blog | 7 | 2026-03-31 |
 | #1 Sales Tactic (to Make a TON of Money!) | youtube | 7 | 2026-03-27 |

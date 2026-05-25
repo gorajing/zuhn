@@ -53,9 +53,9 @@ resolutions:
 related:
   - INS-260329-ACE6
   - INS-260323-5EA1
+  - INS-260524-B6B3
   - INS-260330-80AF
   - INS-260329-EDA2
-  - INS-260403-DE28
 stance: 'Blues, bebop, and other musical styles are languages with their own syntax'
 evidence:
   - id: INS-260323-2C19

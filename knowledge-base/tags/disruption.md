@@ -17,8 +17,6 @@
 - `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260327-203C` China, the world's most advanced civilization for centuries, was humiliated by Western powers because it stopped innovating while Europe underwent the Industrial Revolution.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
-- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
-- `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
@@ -77,27 +75,27 @@
 - `INS-260405-7B7C` Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
 - `INS-260412-69E5` Swedish and French submarines 'sank' US aircraft carriers in war games (2005, 2015), proving that even the most defended concentrated assets can be defeated by cheaper, stealthier threats.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
-- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260403-C0E6` Yahoo at $125B with 90% search market share was psychologically incapable of treating two Stanford PhD students as an existential threat.
 - `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
+- `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
+- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260403-9B24` A 10x improvement target forces you to rethink the whole system, while 10% targets trap you in incremental tweaks.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260405-AD58` Every agricultural revolution solved a constraint and created a dependency — today's precision ag wave will be no different.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260405-3066` Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
-- `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
-- `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
-- `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
+- `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
-- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260412-6C6F` The 2008 crisis directly spawned Bitcoin and the Occupy movement because mass betrayal by trusted institutions creates explosive demand for alternatives.
+- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260403-E556` Shifting from exploitation (efficiency gains) to exploration (transformative ideas) is the critical strategic rebalancing for sustained innovation.
@@ -114,3 +112,5 @@
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260404-AD52` Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
 - `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.
+- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
+- `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.

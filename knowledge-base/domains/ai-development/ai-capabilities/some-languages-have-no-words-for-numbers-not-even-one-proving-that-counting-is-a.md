@@ -51,6 +51,7 @@ resolutions:
     specialized architectural features (like tool use for calculation) rather
     than expecting them to emerge from scale.
 related:
+  - INS-260524-B6B3
   - INS-260327-2C5F
   - INS-260505-4A97
   - INS-260330-B640

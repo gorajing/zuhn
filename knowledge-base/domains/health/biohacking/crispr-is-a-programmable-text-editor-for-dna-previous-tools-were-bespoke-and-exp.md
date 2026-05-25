@@ -46,10 +46,11 @@ resolutions:
 related:
   - PRI-260328-5989
   - INS-260323-D4B1
+  - INS-260524-1A41
   - INS-260410-9D16
   - INS-260323-D631
-  - INS-260410-55B5
   - INS-260408-76F4
+  - INS-260410-55B5
   - INS-260505-5DC4
 stance: >-
   CRISPR-Cas9 uses RNA-guided proteins to make targeted DNA edits cheaply and

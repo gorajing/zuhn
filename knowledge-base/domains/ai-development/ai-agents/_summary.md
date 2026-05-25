@@ -1,8 +1,9 @@
 # Topic: ai-agents
 
-> 68 insights
+> 69 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
+- `INS-260524-63C9` [high] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
 - `INS-260325-7FAF` [high] The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260325-160E` [high] Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260403-D56A` [high] Anthropic's 2026 report shows the biggest agent gains go to teams that rebuild work around agents rather than layering AI on top of old systems.

@@ -1,5 +1,13 @@
 # Tag: deliberate-practice
 
+- `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
+- `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
+- `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
+- `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
+- `INS-260329-C56D` Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
+- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 - `INS-260405-678B` Leslie Lamport's dictum: if you're thinking without writing, you only think you're thinking.
 - `INS-260330-CD7A` Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
@@ -39,11 +47,3 @@
 - `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
 - `INS-260405-4810` Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
-- `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
-- `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
-- `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
-- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
-- `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
-- `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
-- `INS-260329-C56D` Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
-- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.

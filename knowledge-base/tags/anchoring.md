@@ -1,5 +1,9 @@
 # Tag: anchoring
 
+- `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
+- `INS-260403-20F7` The Scorecard Method anchors to regional averages, creating opportunities to strategically choose which market benchmarks to reference.
+- `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
+- `INS-260329-6B3C` A 10x premium tier at 10% conversion doubles revenue and triples profit versus base offering alone.
 - `INS-260403-8679` We avoid feeling overwhelmed by change by focusing on what hasn't changed rather than what has.
 - `INS-260330-A484` People who appear unserious but deliver results are underestimated, while those who appear serious but underdeliver are overestimated.
 - `INS-260329-8602` Removing the small cup size forces customers to anchor on medium as the minimum, increasing average spend.
@@ -10,7 +14,3 @@
 - `INS-260403-BA62` Creating a crisis first makes your offer to stop look like a concession, giving you leverage you never earned.
 - `INS-260404-98EE` Narratives dominate negotiations only until one side introduces a formal model—then the conversation shifts irreversibly to quantitative terms.
 - `INS-260330-1E12` Staying anchored to a known reference point in chaos prevents the fatal disorientation that kills more people than the threat itself.
-- `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
-- `INS-260403-20F7` The Scorecard Method anchors to regional averages, creating opportunities to strategically choose which market benchmarks to reference.
-- `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
-- `INS-260329-6B3C` A 10x premium tier at 10% conversion doubles revenue and triples profit versus base offering alone.

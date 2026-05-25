@@ -1,5 +1,7 @@
 # Tag: human-in-the-loop
 
+- `INS-260514-F2D5` For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation.
+- `INS-260412-1A10` Stanford's Ocean One and Boston Dynamics' SpotMini show that the sweet spot for unstructured environments is human intent plus robot coordination, connected by tactile feedback.
 - `INS-260410-F0EF` Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
@@ -13,5 +15,3 @@
 - `INS-260327-0246` Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
 - `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
 - `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
-- `INS-260514-F2D5` For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation.
-- `INS-260412-1A10` Stanford's Ocean One and Boston Dynamics' SpotMini show that the sweet spot for unstructured environments is human intent plus robot coordination, connected by tactile feedback.

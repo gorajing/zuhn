@@ -1,11 +1,11 @@
 # Tag: manufacturing
 
+- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260410-E6E8` Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.
 - `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
-- `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260412-7811` China's manufacturing success created a middle class whose higher wage demands now erode the cost advantage that built it.
 - `INS-260405-24F0` Britain's relative manufacturing share predicted its WWI dependency on America decades before the war; today's US-China manufacturing gap signals a similar structural shift.
@@ -29,8 +29,8 @@
 - `INS-260412-4CC8` TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
 - `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
-- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
+- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260403-50F6` Regulatory finality—not just regulatory speed—determines where capital-intensive manufacturing actually gets built.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.

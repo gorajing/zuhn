@@ -52,10 +52,10 @@ stance: >-
   random mutation libraries, enabling breakthroughs in drug delivery.
 related:
   - INS-260325-9F5F
+  - INS-260524-1A41
   - PRI-260411-FB73
   - INS-260327-EE5B
   - INS-260323-8519
-  - PRI-260407-7FB7
 evidence:
   - id: INS-260325-9F5F
     type: SUPPORTS
