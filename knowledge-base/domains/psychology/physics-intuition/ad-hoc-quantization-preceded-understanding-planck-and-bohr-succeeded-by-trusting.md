@@ -54,6 +54,10 @@ evidence:
   - id: INS-260323-DA1E
     type: SUPPORTS
     classified_at: '2026-04-03'
+stance: >-
+  Mathematically successful models that violate intuition should be taken
+  seriously even without physical justification, because predictive power can
+  precede mechanistic understanding by decades.
 ---
 Planck introduced energy quantization (E=hf) in 1900 as a purely mathematical trick to solve the ultraviolet catastrophe, calling it an 'act of desperation.' He spent years afterward trying to find a theoretical justification. Bohr similarly quantized angular momentum 'for no good reason' in 1913, yet perfectly reproduced the hydrogen spectrum.
 
