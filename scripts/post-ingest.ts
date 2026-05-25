@@ -5,7 +5,7 @@ import { execFileSync } from "node:child_process";
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const ACTIVITY_LOG = join(KB_ROOT, "meta", "activity.md");
 
 // ─── Helpers ──────────────────────────────────────────────────────────
@@ -177,6 +177,41 @@ async function main(): Promise<void> {
     // Embedding failure is non-fatal: FTS5-only mode is fine
     results.push({ step: "embed", status: "SKIPPED" });
     console.warn("\nEmbed step failed (non-fatal) — FTS5-only mode active.");
+  }
+
+  // Step 3.5: Gate (forward enforcement — FATAL, like reindex)
+  //
+  // Refuse to commit the batch if any NEW (uncommitted) insight fails a
+  // blocking check: missing stance, or a near-duplicate (>= cosine threshold).
+  // Runs AFTER embed so the cosine check has vectors, and BEFORE auto-git so a
+  // failing batch never lands. Scoped to uncommitted insight files (--changed),
+  // so a clean run (no new insights) passes trivially. Fully recoverable: fix
+  // the flagged insight(s) and re-run post-ingest (idempotent).
+  //
+  // Placement is deliberately BEFORE learn/views and must stay there: learn
+  // rewrites related[]/confidence on many EXISTING insights, which would
+  // balloon the --changed set to include grandfathered insights and break
+  // forward-only scoping (the gate would then block on pre-existing dupes /
+  // stanceless insights). The gate validates INTRINSIC quality — stance,
+  // attribution, novelty — fields fixed at extract time that learn never
+  // touches, so gating before learn loses no coverage.
+  const gateResult = runStep("Gate", [
+    "npx", "tsx", join(PROJECT_ROOT, "scripts", "insight-gate.ts"),
+    "--enforce", "--changed",
+  ]);
+
+  if (gateResult.ok) {
+    results.push({ step: "gate", status: "PASSED" });
+  } else {
+    results.push({ step: "gate", status: "BLOCKED" });
+    await appendToActivityLog(
+      `post-ingest gate BLOCKED the batch — aborting before auto-git: ${gateResult.error}`
+    );
+    console.error(
+      "\nPipeline ABORTED: gate blocked the batch (NOT committed). Fix the flagged insights and re-run."
+    );
+    printSummary(results);
+    process.exit(1);
   }
 
   // Step 4: Learn (auto-connections, emergence detection, confidence propagation)
