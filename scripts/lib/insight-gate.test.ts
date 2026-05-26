@@ -13,6 +13,9 @@ import {
   isDirectionalStance,
   normalizeTitle,
   normalizeUrl,
+  resolveBlockingChecks,
+  resolveMaxSimilarity,
+  DEFAULT_MAX_SIMILARITY,
   type GateInsight,
   type NearestFn,
   type SourceIndex,
@@ -401,5 +404,52 @@ describe("enforceGate", () => {
     expect(failures).toEqual([]);
     expect(warnings.map((w) => w.checkId)).toContain("novelty");
     expect(warnings.find((w) => w.checkId === "novelty")?.reason).toContain("no embedding");
+  });
+});
+
+// ─── Env-config resolvers (Step 3 tuning) ─────────────────────────────
+
+describe("resolveMaxSimilarity", () => {
+  it("prefers the flag, then env, then default", () => {
+    expect(resolveMaxSimilarity("0.9", "0.8")).toBe(0.9);
+    expect(resolveMaxSimilarity(undefined, "0.8")).toBe(0.8);
+    expect(resolveMaxSimilarity(undefined, undefined)).toBe(DEFAULT_MAX_SIMILARITY);
+  });
+  it("falls through invalid or out-of-range candidates instead of accepting them", () => {
+    expect(resolveMaxSimilarity("abc", "0.8")).toBe(0.8); // bad flag → env
+    expect(resolveMaxSimilarity("1.5", undefined)).toBe(DEFAULT_MAX_SIMILARITY); // > 1 → default
+    expect(resolveMaxSimilarity("-0.1", "0.7")).toBe(0.7); // < 0 → env
+  });
+  it("rejects partial-numeric strings (full-string validation, not parseFloat)", () => {
+    expect(resolveMaxSimilarity("1abc", undefined)).toBe(DEFAULT_MAX_SIMILARITY); // would parseFloat→1
+    expect(resolveMaxSimilarity("0.95#", "0.8")).toBe(0.8);
+    expect(resolveMaxSimilarity("  ", "0.8")).toBe(0.8); // blank → fall through
+  });
+  it("accepts the 0 and 1 boundaries", () => {
+    expect(resolveMaxSimilarity("0", undefined)).toBe(0);
+    expect(resolveMaxSimilarity("1", undefined)).toBe(1);
+  });
+});
+
+describe("resolveBlockingChecks", () => {
+  it("returns null when unset or blank (caller uses default)", () => {
+    expect(resolveBlockingChecks(undefined)).toBeNull();
+    expect(resolveBlockingChecks("")).toBeNull();
+    expect(resolveBlockingChecks("   ")).toBeNull();
+  });
+  it("parses a valid comma-separated list, trimming whitespace", () => {
+    expect(resolveBlockingChecks(" stance_present , topic_matches_path ")).toEqual({
+      checks: ["stance_present", "topic_matches_path"],
+      invalid: [],
+    });
+  });
+  it("separates valid checks from unknown tokens", () => {
+    expect(resolveBlockingChecks("stance_present,bogus")).toEqual({
+      checks: ["stance_present"],
+      invalid: ["bogus"],
+    });
+  });
+  it("reports all-invalid input with empty checks", () => {
+    expect(resolveBlockingChecks("nope,bogus")).toEqual({ checks: [], invalid: ["nope", "bogus"] });
   });
 });

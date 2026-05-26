@@ -415,6 +415,42 @@ export const DEFAULT_MAX_SIMILARITY = 0.95;
 // warnings and can be promoted once the corpus behavior is trusted.
 export const DEFAULT_BLOCKING_CHECKS: CheckId[] = ["stance_present"];
 
+/**
+ * Resolve the block threshold with precedence flag > env > default. Invalid or
+ * out-of-range candidates fall through to the next source (never silently
+ * accepted) so a typo can't disable dedup blocking by setting it to garbage.
+ */
+export function resolveMaxSimilarity(flagValue?: string, envValue?: string): number {
+  for (const candidate of [flagValue, envValue]) {
+    if (candidate === undefined) continue;
+    const trimmed = candidate.trim();
+    if (trimmed === "") continue;
+    // Number() (NOT parseFloat) requires the WHOLE string to be numeric, so a
+    // typo like "1abc" → NaN and falls through rather than parsing to 1 and
+    // silently weakening the dedup block to exact-duplicates-only.
+    const n = Number(trimmed);
+    if (Number.isFinite(n) && n >= 0 && n <= 1) return n;
+  }
+  return DEFAULT_MAX_SIMILARITY;
+}
+
+/**
+ * Parse a comma-separated blocking-checks env value into valid CheckIds plus any
+ * unrecognized tokens. Returns null when unset/blank (caller uses the default).
+ */
+export function resolveBlockingChecks(
+  envValue?: string
+): { checks: CheckId[]; invalid: string[] } | null {
+  if (envValue === undefined || envValue.trim() === "") return null;
+  const checks: CheckId[] = [];
+  const invalid: string[] = [];
+  for (const token of envValue.split(",").map((t) => t.trim()).filter(Boolean)) {
+    if ((CHECK_IDS as readonly string[]).includes(token)) checks.push(token as CheckId);
+    else invalid.push(token);
+  }
+  return { checks, invalid };
+}
+
 export function enforceGate(
   insights: GateInsight[],
   index: SourceIndex,
