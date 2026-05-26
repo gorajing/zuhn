@@ -40,7 +40,7 @@ import matter from "gray-matter";
 const execFileAsync = promisify(execFile);
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const METRICS_FILE = join(KB_ROOT, "meta", "autoknowledge-metrics.jsonl");
 const POST_INGEST_EVERY = 10; // Run post-ingest every N sources
 const CONCURRENCY = 3; // Parallel extraction workers
@@ -89,7 +89,7 @@ async function findUnextractedSources(
   channelFilter?: string,
   batchIds?: Set<string>,
 ): Promise<SourceEntry[]> {
-  const files = await fg("sources/{youtube,blog,reddit,pdf,audio,paste}/*.md", {
+  const files = await fg("sources/{youtube,blog,reddit,pdf,audio,paste,session}/*.md", {
     cwd: KB_ROOT,
     absolute: true,
     ignore: ["**/raw/**", "**/_index.md"],

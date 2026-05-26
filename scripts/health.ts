@@ -12,7 +12,7 @@ import {
 } from "./schemas/frontmatter.js";
 import type { z } from "zod";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Types ────────────────────────────────────────────────────────────
 
@@ -134,7 +134,7 @@ async function main(): Promise<void> {
 
   // 4. Validate source files
   const sourceResult = await validateFiles(
-    "sources/{reddit,paste,youtube,blog,pdf,audio,image}/*.md",
+    "sources/{reddit,paste,youtube,blog,pdf,audio,image,session}/*.md",
     ["**/_index.md", "**/raw/**"],
     SourceFrontmatter,
     "Sources"
