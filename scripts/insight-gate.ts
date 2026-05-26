@@ -17,6 +17,11 @@
  *   npx tsx scripts/insight-gate.ts --enforce --since 2026-05-01  # gate by date
  *   npx tsx scripts/insight-gate.ts --enforce --changed --max-similarity 0.93
  *
+ * Enforce tuning (no code edits — set in the environment / post-ingest's shell):
+ *   ZUHN_GATE_MAX_SIMILARITY=0.90              # ratchet the near-dup block threshold
+ *   ZUHN_GATE_BLOCKING_CHECKS=stance_present,stance_directional   # promote checks to blocking
+ *   (precedence: --max-similarity flag > env > default 0.95; near-duplicate always blocks)
+ *
  * Audit outputs (in addition to stdout):
  *   knowledge-base/meta/gate-report.json   latest full report (overwritten)
  *   knowledge-base/meta/gate-log.jsonl     one summary line per run (appended)
@@ -34,7 +39,10 @@ import {
   buildSourceIndex,
   enforceGate,
   loadGateInsights,
-  DEFAULT_MAX_SIMILARITY,
+  resolveBlockingChecks,
+  resolveMaxSimilarity,
+  CHECK_IDS,
+  DEFAULT_BLOCKING_CHECKS,
   type AuditReport,
   type CheckId,
   type EnforceResult,
@@ -133,9 +141,25 @@ async function runAudit(args: Args): Promise<void> {
 // ─── Enforce (Phase 2) ────────────────────────────────────────────────
 
 async function runEnforce(argv: string[]): Promise<void> {
+  // Threshold precedence: --max-similarity flag > ZUHN_GATE_MAX_SIMILARITY env > default.
   const simIdx = argv.indexOf("--max-similarity");
-  const maxSimilarity =
-    simIdx !== -1 ? parseFloat(argv[simIdx + 1]) || DEFAULT_MAX_SIMILARITY : DEFAULT_MAX_SIMILARITY;
+  const flagSim = simIdx !== -1 ? argv[simIdx + 1] : undefined;
+  const maxSimilarity = resolveMaxSimilarity(flagSim, process.env.ZUHN_GATE_MAX_SIMILARITY);
+
+  // Blocking-check set: ZUHN_GATE_BLOCKING_CHECKS env overrides the default
+  // (comma-separated check ids). Unknown tokens warn; all-invalid → default.
+  let blockingChecks: CheckId[] | undefined;
+  const bc = resolveBlockingChecks(process.env.ZUHN_GATE_BLOCKING_CHECKS);
+  if (bc) {
+    if (bc.invalid.length > 0) {
+      console.warn(
+        `WARN: ignoring unknown gate check(s): ${bc.invalid.join(", ")} (valid: ${CHECK_IDS.join(", ")})`
+      );
+    }
+    if (bc.checks.length > 0) blockingChecks = bc.checks;
+    else console.warn("WARN: ZUHN_GATE_BLOCKING_CHECKS had no valid checks — using default.");
+  }
+
   const sinceIdx = argv.indexOf("--since");
   const since = sinceIdx !== -1 ? argv[sinceIdx + 1] ?? null : null;
 
@@ -177,8 +201,10 @@ async function runEnforce(argv: string[]): Promise<void> {
     scope = "all";
   }
 
+  const effectiveBlocking = blockingChecks ?? DEFAULT_BLOCKING_CHECKS;
   console.log(
-    `Insight Gate (ENFORCE) — scope: ${scope} · ${insights.length} insight(s) · block ≥ ${maxSimilarity} cosine`
+    `Insight Gate (ENFORCE) — scope: ${scope} · ${insights.length} insight(s) · ` +
+      `block ≥ ${maxSimilarity} cosine · blocking: ${effectiveBlocking.join("+")}+novelty`
   );
 
   if (insights.length === 0) {
@@ -190,7 +216,7 @@ async function runEnforce(argv: string[]): Promise<void> {
   const { nearest, close } = tryBuildNovelty();
   let result: EnforceResult;
   try {
-    result = enforceGate(insights, sourceIndex, nearest, { maxSimilarity });
+    result = enforceGate(insights, sourceIndex, nearest, { maxSimilarity, blockingChecks });
   } finally {
     close();
   }
