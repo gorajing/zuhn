@@ -24,6 +24,7 @@
     "quality-score": "tsx scripts/quality-score.ts",
     "gate": "tsx scripts/insight-gate.ts",
     "sync-claude-mem": "tsx scripts/sync-claude-mem.ts",
+    "capture-session": "tsx scripts/capture-session.ts",
     "ask": "tsx scripts/ask.ts",
     "autoknowledge": "tsx scripts/autoknowledge.ts",
     "wake": "tsx scripts/wake.ts",
