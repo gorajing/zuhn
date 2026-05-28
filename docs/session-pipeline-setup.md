@@ -54,3 +54,54 @@ During any Claude Code session working with Zuhn:
 - **Explicit intent only** — the hook only reads `/tmp/`, never scrapes other directories
 - **No auto-extraction** — `extract-session` must be run manually
 - **`.claude/` files are local** — never commit personal `.claude/` config to the public repo
+
+---
+
+## Automatic capture (SessionEnd hook)
+
+Phase 8 above is *explicit-intent* capture (Claude manually queues insights). The
+**session-capture hook** adds *automatic* capture — it records the whole session
+at exit, so nothing has to be queued by hand. This is safe now because the
+**quality gate exists**: the gate (not manual intent) is the filter that keeps
+junk out, so capture can be automatic while quality stays enforced.
+
+### How it works
+
+1. `capture-session.ts` runs on `SessionEnd`. It reads the session transcript,
+   strips noise (tool output, `thinking`, subagent sidechains, framework
+   injections) down to user prompts + assistant prose, and writes one `session`
+   source to `sources/session/`. **No LLM, no extraction** — just capture.
+2. `npm run autoknowledge` (manual or scheduled) extracts stanced insights from
+   those sources — point it at a stricter gate so the noisier session input
+   clears a higher bar:
+   `ZUHN_GATE_BLOCKING_CHECKS=stance_present,stance_directional npm run autoknowledge`
+3. The gate admits only sharp, novel session-insights; dedup prevents re-capture.
+
+### Setup
+
+```bash
+cp templates/hooks/session-capture.sh .claude/hooks/session-capture.sh
+chmod +x .claude/hooks/session-capture.sh
+```
+
+Register a `SessionEnd` hook in `.claude/settings.json`:
+
+```json
+"SessionEnd": [
+  {
+    "matcher": "",
+    "hooks": [
+      { "type": "command", "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/session-capture.sh\"" }
+    ]
+  }
+]
+```
+
+### Design note — supersedes Phase 8's constraint *for capture only*
+
+- **Capture is automated; extraction is not.** The hook only *captures* (writes a
+  source); insight extraction stays the deliberate, gated `autoknowledge` step —
+  so Phase 8's "no auto-extraction" still holds.
+- **The gate replaces manual intent as the quality filter.** Phase 8 required
+  explicit intent because there was no automatic quality control; the gate now
+  provides it, so passive transcript capture is safe.
