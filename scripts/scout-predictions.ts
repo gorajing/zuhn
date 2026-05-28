@@ -19,7 +19,7 @@ import fg from "fast-glob";
 import matter from "gray-matter";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const META_DIR = join(KB_ROOT, "meta");
 const EVIDENCE_PATH = join(META_DIR, "prediction-evidence.json");
 

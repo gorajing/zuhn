@@ -13,8 +13,7 @@ import { mkdirSync } from "node:fs";
 import { join } from "node:path";
 import matter from "gray-matter";
 
-const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 function usage(): never {
   console.error("Usage: merge-topics.ts --source <domain/topic> --target <domain/topic> [--dry-run]");

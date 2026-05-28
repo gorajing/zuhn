@@ -15,7 +15,7 @@ import type { ParseSuccess } from "./lib/parse-insight.js";
 import { initDb, upsertInsight, getAllInsights } from "./lib/db.js";
 import { SourceFrontmatter, PrincipleFrontmatter } from "./schemas/frontmatter.js";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Helpers ──────────────────────────────────────────────────────────
 

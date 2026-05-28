@@ -20,7 +20,7 @@ import {
 } from "./lib/learning";
 import { predictLinks, writePredictedLinks } from "./lib/common-neighbors";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 async function main(): Promise<void> {
   console.log("╔══════════════════════════════════════╗");

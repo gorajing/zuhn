@@ -50,7 +50,7 @@ export type LogAction = (typeof LOG_ACTIONS)[number];
 
 // ─── Default log path ───────────────────────────────────────────────
 
-const KB_ROOT = join(__dirname, "../../knowledge-base");
+import { KB_ROOT } from "./kb-root";
 const DEFAULT_LOG_PATH = join(KB_ROOT, "meta", "log.md");
 
 // ─── File header ────────────────────────────────────────────────────

@@ -11,7 +11,7 @@ import { isOllamaAvailable, embedText } from "./lib/embeddings";
 import { initVectorTable, upsertEmbedding } from "./lib/vector-search";
 import { PrincipleFrontmatter, type PrincipleData } from "./schemas/frontmatter";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const EMBEDDING_MODEL = "nomic-embed-text";
 
 // ─── Types ───────────────────────────────────────────────────────────

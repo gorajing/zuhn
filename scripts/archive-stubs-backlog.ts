@@ -42,7 +42,7 @@ import {
 import fg from "fast-glob";
 import matter from "gray-matter";
 
-const KB_ROOT = join(__dirname, "..", "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const SOURCES_ROOT = join(KB_ROOT, "sources");
 const ARCHIVE_DATE = "20260411";
 const ARCHIVE_ROOT = join(KB_ROOT, "archive", `stubs-backlog-${ARCHIVE_DATE}`);

@@ -22,7 +22,7 @@ import { searchInsights } from "./lib/search";
 import { embedText, isOllamaAvailable } from "./lib/embeddings";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Types ──────────────────────────────────────────────────────────
 

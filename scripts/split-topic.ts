@@ -4,8 +4,7 @@ import { readFileSync, writeFileSync, mkdirSync, renameSync, existsSync } from "
 import { join, basename } from "node:path";
 import matter from "gray-matter";
 
-const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Helpers ──────────────────────────────────────────────────────────
 

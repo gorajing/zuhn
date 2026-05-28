@@ -8,7 +8,7 @@ import { join } from "node:path";
 import { writeFile, mkdir } from "node:fs/promises";
 import { initDb, type InsightRow } from "./lib/db";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const VIEWS_DIR = join(KB_ROOT, "views");
 const META_DIR = join(KB_ROOT, "meta");
 

@@ -8,7 +8,7 @@ import { writeInsights } from "./lib/extract/write-insights.js";
 import { safeLogEntry } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Helpers ──────────────────────────────────────────────────────────
 

@@ -24,7 +24,7 @@ import { ingestYouTube } from "./lib/ingest/youtube";
 import { slugify } from "./lib/ingest/slug";
 
 // ─── Constants ─────────────────────────────────────────────────────────
-const KB_ROOT = join(__dirname, "..", "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const META_DIR = join(KB_ROOT, "meta");
 const DEFAULT_TOP = 50;
 const DEFAULT_DELAY = 3;
