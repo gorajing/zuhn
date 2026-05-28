@@ -82,11 +82,29 @@ function transcribe(filePath: string): WhisperOutput {
   const whisper = resolveWhisper();
   const outputDir = join(tmpdir(), `whisper-${Date.now()}`);
 
-  execFileSync(
-    whisper,
-    [filePath, "--model", "base", "--language", "en", "--output_format", "json", "--output_dir", outputDir],
-    { encoding: "utf-8", stdio: ["pipe", "pipe", "pipe"], maxBuffer: 50 * 1024 * 1024 },
-  );
+  // Configurable + auto-detecting. The previous hardcoded
+  // `--model base --language en` confabulated on non-English audio (forcing
+  // English on the weakest model produced fluent hallucination + repetition
+  // loops). Defaults: a stronger model and per-file language auto-detection
+  // (omit --language). Override via env, e.g. ZUHN_WHISPER_TASK=translate to
+  // emit English from any source language.
+  const model = process.env.ZUHN_WHISPER_MODEL ?? "small";
+  const task = process.env.ZUHN_WHISPER_TASK ?? "transcribe";
+  const args = [
+    filePath,
+    "--model", model,
+    "--task", task,
+    "--output_format", "json",
+    "--output_dir", outputDir,
+  ];
+  const language = process.env.ZUHN_WHISPER_LANGUAGE;
+  if (language) args.push("--language", language); // else Whisper auto-detects
+
+  execFileSync(whisper, args, {
+    encoding: "utf-8",
+    stdio: ["pipe", "pipe", "pipe"],
+    maxBuffer: 50 * 1024 * 1024,
+  });
 
   // Whisper writes {basename_without_ext}.json in output_dir
   const base = basename(filePath);

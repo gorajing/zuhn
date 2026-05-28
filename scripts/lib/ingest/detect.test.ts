@@ -51,8 +51,13 @@ describe("detectType", () => {
   it("detects local PDF paths", () => {
     expect(detectType("/path/to/document.pdf")).toBe("pdf");
   });
-  it("throws for unsupported local file types", () => {
-    expect(() => detectType("/path/to/file.txt")).toThrow(/Unsupported local file type/);
+  it("detects local text/markdown as paste", () => {
+    expect(detectType("/path/to/notes.txt")).toBe("paste");
+    expect(detectType("/tmp/gtm-atlas.md")).toBe("paste");
+    expect(detectType("/path/to/essay.markdown")).toBe("paste");
+  });
+  it("throws for genuinely unsupported local file types", () => {
+    expect(() => detectType("/path/to/archive.zip")).toThrow(/Unsupported local file type/);
   });
 });
 

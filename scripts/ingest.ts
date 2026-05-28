@@ -34,7 +34,7 @@ function logIngest(sourceId: string, type: string, title: string): void {
 }
 
 // ─── Constants ─────────────────────────────────────────────────────────
-const KB_ROOT = join(__dirname, "..", "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const CONTENT_THRESHOLD = 3000; // words
 
 // ─── CLI arg parsing ───────────────────────────────────────────────────
@@ -388,6 +388,29 @@ async function main(): Promise<void> {
         console.error(
           err instanceof Error ? err.message : String(err),
         );
+        process.exit(1);
+      }
+      break;
+    }
+
+    case "paste": {
+      const { ingestPaste } = await import("./lib/ingest/paste.js");
+
+      try {
+        const result = await ingestPaste(url, KB_ROOT);
+        console.log(`SUCCESS: Source created as ${result.sourceId}`);
+        console.log();
+        logIngest(result.sourceId, "paste", result.title);
+        meta("Type", "paste");
+        meta("Title", result.title);
+        meta("Word count", result.wordCount.toLocaleString());
+        if (domains.length > 0) {
+          meta("Existing domains", domains.join(", "));
+        }
+        meta("Source file", result.sourcePath);
+        console.log(`Raw copy saved to ${result.rawPath}.`);
+      } catch (err: unknown) {
+        console.error(err instanceof Error ? err.message : String(err));
         process.exit(1);
       }
       break;
