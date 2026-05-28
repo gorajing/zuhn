@@ -30,7 +30,7 @@ import type Database from "better-sqlite3";
 // ─── Configuration ──────────────────────────────────────────────────
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const INBOX_DIR = join(KB_ROOT, "inbox");
 const PROCESSED_DIR = join(INBOX_DIR, "processed");
 const REVIEW_DIR = join(INBOX_DIR, "review");

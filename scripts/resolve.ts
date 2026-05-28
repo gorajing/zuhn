@@ -7,7 +7,7 @@ import matter from "gray-matter";
 import { safeLogEntry, normalizeBodyLine } from "./lib/log.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Valid transitions ───────────────────────────────────────────────
 

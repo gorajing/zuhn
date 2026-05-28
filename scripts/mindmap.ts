@@ -9,7 +9,7 @@ import { writeFile, mkdir } from "node:fs/promises";
 import { scanInsights } from "./lib/generate-index.js";
 import type { ParseSuccess } from "./lib/parse-insight.js";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const VIEWS_DIR = join(KB_ROOT, "views");
 
 // ─── Scalability note ────────────────────────────────────────────────

@@ -6,7 +6,7 @@ import fg from "fast-glob";
 import matter from "gray-matter";
 import { InsightFrontmatter } from "./schemas/frontmatter.js";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Types ────────────────────────────────────────────────────────────
 

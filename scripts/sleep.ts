@@ -6,7 +6,7 @@ import { execFileSync } from "node:child_process";
 import { SessionState } from "./schemas/session.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const SESSION_PATH = join(KB_ROOT, "meta", "session.md");
 
 // ─── Helpers ──────────────────────────────────────────────────────────

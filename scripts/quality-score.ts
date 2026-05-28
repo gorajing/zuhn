@@ -25,7 +25,7 @@ import { initDb } from "./lib/db";
 import { initVectorTable } from "./lib/vector-search";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const SCORES_FILE = join(KB_ROOT, "meta", "quality-scores.jsonl");
 
 // ─── Types ──────────────────────────────────────────────────────────

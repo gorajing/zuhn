@@ -18,8 +18,7 @@ import { initDb } from "./lib/db";
 import type Database from "better-sqlite3";
 
 const PORT = parseInt(process.env.ZUHN_INBOX_PORT ?? "7777", 10);
-const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const INBOX_DIR = join(KB_ROOT, "inbox");
 
 let db: Database.Database;

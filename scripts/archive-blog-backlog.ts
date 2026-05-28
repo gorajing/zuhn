@@ -26,7 +26,7 @@ import { readFileSync, writeFileSync, mkdirSync, renameSync, existsSync } from "
 import fg from "fast-glob";
 import matter from "gray-matter";
 
-const KB_ROOT = join(__dirname, "..", "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const SOURCES_BLOG = join(KB_ROOT, "sources", "blog");
 const ARCHIVE_DATE = "20260411";
 const ARCHIVE_ROOT = join(

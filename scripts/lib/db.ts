@@ -6,7 +6,7 @@ import type { InsightData } from "../schemas/frontmatter";
 
 // ─── Paths ──────────────────────────────────────────────────────────
 
-const KB_ROOT = join(__dirname, "../../knowledge-base");
+import { KB_ROOT } from "./kb-root";
 const DB_DIR = join(KB_ROOT, "db");
 const DB_PATH = join(DB_DIR, "brain.db");
 

@@ -5,7 +5,7 @@ import { rename, readFile, writeFile, mkdir } from "node:fs/promises";
 import fg from "fast-glob";
 import matter from "gray-matter";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Main ─────────────────────────────────────────────────────────────
 

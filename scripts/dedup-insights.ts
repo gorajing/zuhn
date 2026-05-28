@@ -28,7 +28,7 @@ import { Readability } from "@mozilla/readability";
 // ─── Config ──────────────────────────────────────────────────────────
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const DB_PATH = join(KB_ROOT, "db", "brain.db");
 const ARCHIVE_DIR = join(KB_ROOT, "archive", "dedup-260405");
 const LOG_PATH = join(KB_ROOT, "meta", "dedup-log.json");

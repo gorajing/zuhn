@@ -12,7 +12,7 @@ import { generateTensionId } from "./lib/generate-id.js";
 import { slugify } from "./lib/ingest/slug.js";
 
 const PROJECT_ROOT = join(__dirname, "..");
-const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const TENSIONS_DIR = join(KB_ROOT, "tensions");
 const CANDIDATES_PATH = join(KB_ROOT, "meta", "tension-candidates.json");
 

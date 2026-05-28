@@ -19,7 +19,7 @@ import { initVectorTable, hybridSearch } from "./lib/vector-search";
 
 // ─── Constants ───────────────────────────────────────────────────────
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const PROJECT_ROOT = join(__dirname, "..");
 
 // ─── Server Setup ────────────────────────────────────────────────────

@@ -12,7 +12,7 @@ import fg from "fast-glob";
 import matter from "gray-matter";
 import { initDb, type InsightRow } from "./lib/db";
 
-const KB_ROOT = join(__dirname, "../knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 const VIEWS_DIR = join(KB_ROOT, "views");
 const FLAGS_PATH = join(KB_ROOT, "meta", "flags.md");
 const SOURCES_DIR = join(KB_ROOT, "sources");

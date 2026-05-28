@@ -22,7 +22,7 @@ import { generateSourceId } from "./lib/generate-id";
 import { parseMarkdownFile } from "./lib/parse-insight";
 
 // ─── Constants ─────────────────────────────────────────────────────────
-const KB_ROOT = join(__dirname, "..", "knowledge-base");
+import { KB_ROOT } from "./lib/kb-root";
 
 // ─── Types ─────────────────────────────────────────────────────────────
 interface SuccessResult {
