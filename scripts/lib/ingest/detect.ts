@@ -1,9 +1,13 @@
-export type ContentType = "youtube" | "reddit" | "blog" | "pdf" | "audio" | "image";
+export type ContentType = "youtube" | "reddit" | "blog" | "pdf" | "audio" | "image" | "paste";
 
 const TRACKING_PARAMS = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "ref", "si", "source"];
 
 const AUDIO_EXTENSIONS = [".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac", ".webm"];
 const IMAGE_EXTENSIONS = [".jpg", ".jpeg", ".png", ".heic", ".webp", ".gif", ".svg", ".tiff"];
+// Local plain-text / markdown is a sanctioned "paste" source: high-signal
+// content captured by hand (essays behind JS sites, transcripts, paywalled
+// pieces) that has no scrapeable URL. Handled by lib/ingest/paste.ts.
+const TEXT_EXTENSIONS = [".txt", ".md", ".markdown", ".text"];
 
 export function normalizeUrl(urlString: string): string {
   const url = new URL(urlString);
@@ -24,6 +28,7 @@ export function detectType(input: string): ContentType {
     if (AUDIO_EXTENSIONS.some((ext) => lower.endsWith(ext))) return "audio";
     if (IMAGE_EXTENSIONS.some((ext) => lower.endsWith(ext))) return "image";
     if (lower.endsWith(".pdf")) return "pdf";
+    if (TEXT_EXTENSIONS.some((ext) => lower.endsWith(ext))) return "paste";
     throw new Error(`Unsupported local file type: ${input}`);
   }
 
