@@ -57,6 +57,6 @@ related:
   - INS-260409-30DE
   - INS-260403-1C31
   - INS-260327-7E3D
-  - INS-260403-05B8
+  - INS-260603-6D08
 ---
 For a decade, software buying heuristics favored UX — the slicker the UI, the better the product. This heuristic assumed humans would use the software directly. In the agent era, agents use the software on behalf of humans, and they interact through APIs. Salesforce, which has always had a clunkier UI than HubSpot but a more comprehensive API, suddenly becomes the better buy because agents can do more with it. The same reversal applies across categories: the ugly-but-full-API tool beats the beautiful-but-API-shallow tool. The practical implication: when evaluating software, test the API surface area before the UX. Ask what can an agent do via API only? If the answer is substantially less than what a human can do in the UI, the product is structurally disadvantaged in the agent era regardless of how polished the screenshot looks.

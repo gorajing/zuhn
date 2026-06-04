@@ -61,13 +61,12 @@ stance: >-
   owns the data, grounding context, and product surface.
 related:
   - INS-260322-EDC2
-  - PRI-260323-49F8
-  - INS-260403-1284
-  - PRI-260405-A11F
   - INS-260405-16AB
   - INS-260410-885B
+  - PRI-260323-49F8
+  - PRI-260405-A11F
   - PRI-260328-DF2D
-  - INS-260405-CA27
+  - INS-260530-18D5
 ---
 Nadella makes the inverse argument to the AI-bro consensus that model companies will capture all margin: he claims the structural force is that one good open-source checkpoint is always 'one copy away' from any frontier breakthrough, and the durable position belongs to whoever has the data, grounding context, and end-user distribution to fine-tune it. He cites GitHub Copilot's 'auto' mode as the leading indicator — it arbitrages tokens across multiple models to optimize per-task, which structurally pushes models toward commodity status.
 

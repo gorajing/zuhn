@@ -40,15 +40,14 @@ stance: >-
   deception, brands that adopt radical transparency in pricing, sourcing, and
   manufacturing can capture disproportionate market share.
 related:
-  - INS-260327-84E6
   - INS-260327-C05A
   - INS-260327-26CF
   - INS-260327-7C15
   - INS-260327-A9E8
+  - INS-260603-6D08
+  - INS-260603-D44B
   - INS-260327-B946
   - PRI-260328-7E58
-  - INS-260403-22FE
-  - INS-260412-3506
 evidence:
   - id: INS-260323-D288
     type: SUPPORTS

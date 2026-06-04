@@ -54,7 +54,6 @@ stance: >-
   yields better time-adjusted utility than always reaching for the smartest
   model.
 related:
-  - INS-260403-EA93
   - INS-260403-5F41
   - INS-260403-A27F
   - INS-260409-17E9

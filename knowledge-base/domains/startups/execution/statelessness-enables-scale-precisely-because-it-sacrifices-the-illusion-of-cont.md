@@ -47,16 +47,16 @@ stance: >-
   serverless cold starts, cache eviction — are the exact properties that enable
   massive horizontal scaling.
 related:
-  - INS-260327-1599
   - INS-260410-303B
   - INS-260409-3602
   - INS-260329-8CC0
+  - INS-260530-ADED
   - INS-260330-3B0B
-  - PRI-260406-8B75
   - INS-260329-F886
   - INS-260330-82B2
   - INS-260410-3C37
   - INS-260410-C2E6
+  - INS-260409-384A
 evidence:
   - id: INS-260329-8CC0
     type: SUPPORTS

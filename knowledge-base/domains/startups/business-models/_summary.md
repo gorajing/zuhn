@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 243 insights
+> 244 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -210,6 +210,7 @@
 - `INS-260403-9421` [medium] The time required to build a company is often predictive of how long it will last.
 - `INS-260410-161E` [medium] Rolex's Tudor sub-brand is less about downmarket volume and more about testing ideas — ceramic bezels, titanium, new dial colors, Tiger Woods endorsements — that might flop; the phrase is 'the shield protects the crown.'
 - `INS-260405-39A6` [medium] Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
+- `INS-260603-A7CF` [medium] Harvey (keynote): in the past it didn't make economic sense to build software unless gazillions needed it (Salesforce/cloud scale), because anything took a 20-person team; now you can build a product for 200 people in a fraction of your spare time after work — so sub-scale businesses start making sense.
 - `INS-260403-4E71` [medium] Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260410-9120` [medium] Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.

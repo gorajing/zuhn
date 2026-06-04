@@ -48,11 +48,11 @@ stance: >-
   assumptions about how data will be accessed that become exponentially harder
   to change as data grows.
 related:
+  - INS-260603-6FE3
   - PRI-260407-5465
   - INS-260329-2FB8
   - PRI-260403-9E80
   - INS-260409-3602
-  - INS-260329-67CB
 evidence:
   - id: INS-260320-A745
     type: TRANSFERS_TO

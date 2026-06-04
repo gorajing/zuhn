@@ -50,10 +50,10 @@ stance: >-
   filled the identity-anchoring role humans fundamentally need
 related:
   - PRI-260328-BF1E
+  - INS-260603-6D08
   - INS-260329-C0F1
   - INS-260409-241B
   - INS-260410-7AA0
-  - PRI-260406-6762
 evidence:
   - id: INS-260329-C0F1
     type: EXTENDS

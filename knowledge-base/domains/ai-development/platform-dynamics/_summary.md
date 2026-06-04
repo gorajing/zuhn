@@ -1,7 +1,8 @@
 # Topic: platform-dynamics
 
-> 42 insights
+> 43 insights
 
+- `INS-260603-15F4` [high] Rona Shah (Walmart): Amazon's ads/retail-media is ~10% of revenue but ~40% of operating income — high-margin business that subsidizes low-margin e-commerce; when a shopper completes the journey inside ChatGPT without visiting the retailer, that ad revenue vanishes, which is why Amazon blocks agents and Walmart rolled back OpenAI instant-checkout.
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260403-4120` [high] Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.
 - `INS-260405-FAA3` [high] Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.

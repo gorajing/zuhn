@@ -5,17 +5,18 @@
 - `INS-260327-85E2` Cloud replaced software with software ($350B to $650B TAM); AI replaces services with software, starting from a tens-of-trillions base.
 - `INS-260405-6A94` OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260514-B4A2` Copilot: from 'some number of actions per month' to 'this many tokens per month' — the cheap-AI era is over.
+- `INS-260603-915A` Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
 - `INS-260410-BC76` Frontier labs buy compute 1–2 years before it comes online, so mispredicting demand by a single year of the 10x curve makes the company insolvent.
 - `INS-260403-B800` Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.
 - `INS-260514-60D5` Imagine humanity reaching the precipice of AI revolution but it fizzles because the models couldn't survive in our atmosphere of money.
 - `INS-260325-8A61` Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
 - `INS-260328-0932` Stress-test every AI feature against power-user economics — if the answer is margin-negative with no fix path, it belongs in experiments, not the roadmap.
-- `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
-- `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
-- `INS-260322-D079` All inputs to AI are falling in cost faster than Moore's law predicted for chips, creating hyperdeflation in per-unit intelligence costs that will drive enormous elastic demand growth.
-- `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
-- `INS-260514-639F` Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game.
 - `INS-260403-101D` The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260325-BEAC` Open Router data shows 60-80% of top AI app operating costs are inference, and this ratio is growing as agentic usage explodes.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260403-5CAD` The Jevons Paradox predicts that as AI makes software cheaper to build, total demand for software — and the number of people building it — will explode rather than contract.
+- `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
+- `INS-260322-D079` All inputs to AI are falling in cost faster than Moore's law predicted for chips, creating hyperdeflation in per-unit intelligence costs that will drive enormous elastic demand growth.
+- `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
+- `INS-260514-639F` Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game.
+- `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.

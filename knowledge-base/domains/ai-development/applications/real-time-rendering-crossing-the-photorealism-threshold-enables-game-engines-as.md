@@ -54,9 +54,9 @@ related:
   - INS-260323-4D63
   - INS-260323-189B
   - INS-260403-58DA
+  - INS-260603-C102
   - INS-260505-7B61
   - INS-260404-DDFB
-  - PRI-260322-94C4
 ---
 The video estimates UE5 achieves roughly 80% of full photorealism, with remaining gaps likely closed by iterative improvements. Critically, this threshold has already proven sufficient for amateur filmmakers to produce cinema-quality short films using the engine — meaning the practical threshold for film production is lower than perfect realism.
 

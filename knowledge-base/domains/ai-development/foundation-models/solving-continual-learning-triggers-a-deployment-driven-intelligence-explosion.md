@@ -59,7 +59,7 @@ related:
   - INS-260410-9AF4
   - INS-260410-49C5
   - INS-260327-2C5F
-  - PRI-260321-7307
+  - INS-260603-A09F
 ---
 Dwarkesh's bearishness on near-term transformation flips into strong bullishness on the decade scale. The key asymmetry: humans each learn in isolation and can't merge experience. AI copies can. Once continual learning is real, a single model deployed across millions of jobs pools the tacit knowledge of every deployment — one AI learning every job simultaneously.
 

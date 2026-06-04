@@ -55,7 +55,7 @@ related:
   - INS-260410-761B
   - PRI-260406-8EBD
   - INS-260329-818A
+  - INS-260603-6FE3
   - INS-260327-E016
-  - INS-260409-3230
 ---
 A common prediction in 2023-25: once context windows grow to millions of tokens, RAG will become obsolete — just stuff everything into the prompt. Jerry Liu's response is pragmatic: this works only for data that fits, and enterprise data does not fit. A mid-size company has gigabytes of documents, Slack messages, tickets, and code. A large enterprise has terabytes. No context window obsoletes terabyte-scale retrieval. Even setting aside model cost and latency, 'you have these network transfer costs' — you can't move terabytes of data into every inference call. The corollary: the scale at which long context beats RAG is narrow — bounded below by 'can the model process it at all' and bounded above by 'is it economically feasible to transfer that much per call.' For most personal use cases (a few thousand documents, under ~1M tokens), long context + minimal retrieval may be the right answer. For any organization with more data than that, RAG remains necessary. Marks time-sensitive because the bounds shift as context windows grow and network/compute costs fall.

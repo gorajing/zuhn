@@ -60,16 +60,16 @@ stance: >-
   knowledge baked into pre-trained vision-language models, not from scaling
   teleoperation data.
 related:
-  - INS-260323-6134
-  - INS-260321-9906
   - INS-260323-DDC2
   - INS-260327-9C56
   - INS-260327-1B82
   - INS-260327-BEFF
   - PRI-260328-7007
   - INS-260403-107E
+  - INS-260603-C102
   - INS-260323-7A50
   - INS-260524-5173
+  - INS-260603-11DB
 ---
 Levine makes the case that what looks like a 'robotics breakthrough' is really a downstream application of LLM/VLM progress. Physical Intelligence's pi-zero model is structurally a vision-language model with an added action decoder (using flow matching for continuous control), and it uses open-source Gemma weights as its starting point. The same architectures, considerations, and literally the same weights that power text models power the robots.
 

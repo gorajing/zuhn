@@ -53,7 +53,6 @@ stance: >-
   activation energy to start work, not from faster code execution itself
 related:
   - INS-260321-18D0
-  - INS-260325-D540
   - INS-260327-A9D5
   - INS-260403-0350
   - INS-260501-FD20

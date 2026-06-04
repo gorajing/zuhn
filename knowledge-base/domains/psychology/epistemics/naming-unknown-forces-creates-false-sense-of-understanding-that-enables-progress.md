@@ -50,7 +50,6 @@ stance: >-
   scientific progress by giving researchers a shared handle for investigation,
   even when the label masks near-total ignorance
 related:
-  - INS-260323-CD28
   - INS-260403-E6A8
   - INS-260412-3201
   - INS-260402-89DE

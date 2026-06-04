@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260410-7AC1
   - PRI-260328-37D8
+  - INS-260603-6B3D
   - INS-260403-C49F
   - INS-260501-504A
-  - INS-260403-9012
 ---
 Patel's structural objection to AI safety regulation: terms like 'catastrophic risk,' 'threats to national security,' 'manipulation,' 'deception,' and 'autonomy risk' are vague enough to be redefined by whatever government holds power. Built a model that says government tariff policy is misguided? That's a 'deceptive model' — can't deploy. Built a model that won't help with mass surveillance? That's a 'national security threat.' Built a model that refuses orders due to its own values? That's an 'autonomy risk.'
 

@@ -53,9 +53,9 @@ related:
   - INS-260330-2838
   - INS-260403-7878
   - PRI-260406-66BA
+  - INS-260603-6D08
   - INS-260321-86E7
   - INS-260323-15F4
-  - INS-260404-5017
 ---
 The 2024 Edelman Trust Barometer reveals a striking inversion: 64% of respondents worry journalists are purposely trying to mislead them, while 74% trust 'someone like me' to tell the truth—on par with scientists. This trust gap is driving consumers toward newsletters, independent creators, and niche experts as primary information sources.
 

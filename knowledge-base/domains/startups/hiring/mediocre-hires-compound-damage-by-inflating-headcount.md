@@ -50,5 +50,6 @@ related:
   - PRI-260407-2ACF
   - INS-260403-309F
   - INS-260405-443C
+  - INS-260530-8DE3
 ---
 Most founders understand that mediocre hires produce less output. Graham's deeper insight is the second-order effect: because you need more mediocre people to solve a given problem, each weak hire increases organizational size. And since the tree structure constrains freedom inversely with size, every unnecessary hire makes the entire company slower and less innovative. This creates a vicious cycle where mediocre hiring begets more hiring. The implication is that the ROI of great hires isn't just their direct output—it's keeping the company small enough to preserve structural agility. This is why 'doubly important' isn't hyperbole.

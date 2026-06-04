@@ -48,10 +48,10 @@ stance: >-
   this progression get disrupted by those that embrace it.
 related:
   - INS-260403-1284
+  - INS-260530-18D5
   - INS-260404-A2C4
   - INS-260403-2A92
   - INS-260403-FF65
-  - INS-260330-0525
 evidence:
   - id: INS-260322-B6DE
     type: SUPPORTS

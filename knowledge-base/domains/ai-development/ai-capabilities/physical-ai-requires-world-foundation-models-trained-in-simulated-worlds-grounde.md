@@ -48,14 +48,14 @@ resolutions:
     real-world trials. Huang's prediction: 'Everything that moves will be
     robotic someday and it will be soon.'
 related:
-  - INS-260321-B8E8
   - INS-260501-0EA3
+  - INS-260603-1389
   - INS-260327-9C56
-  - PRI-260324-3B70
-  - PRI-260328-7007
-  - INS-260323-C9B1
+  - INS-260603-C102
+  - INS-260603-F0BE
   - INS-260321-9906
-  - INS-260327-6E57
+  - INS-260323-C9B1
+  - PRI-260324-3B70
   - INS-260410-56F7
   - PRI-260413-B2FF
 stance: >-

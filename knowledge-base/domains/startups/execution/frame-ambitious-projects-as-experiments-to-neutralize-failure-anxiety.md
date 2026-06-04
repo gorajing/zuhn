@@ -48,11 +48,11 @@ related:
   - INS-260403-B1F2
   - INS-260405-F9E4
   - INS-260405-9460
-  - INS-260405-880C
   - INS-260403-9F78
   - INS-260404-6DA9
   - INS-260404-8ACB
   - INS-260404-36B9
   - INS-260403-872C
+  - INS-260403-63F1
 ---
 Graham and Lisa Randall both advocate treating new ambitious work as experiments rather than commitments. This framing eliminates the binary success/failure judgment that paralyzes people. If a theorem you're trying to prove turns out false, or a structural member fails under stress, you've still learned something valuable. The key insight is that with sharply defined problems, failure itself is knowledge. This pairs well with using low-commitment media — starting something as 'just a sketch' or 'just a hack' lets you apply lower initial standards, and once the project gains momentum you can sneakily convert it to something more serious. Digital media amplifies this by reducing upfront commitment compared to physical media.

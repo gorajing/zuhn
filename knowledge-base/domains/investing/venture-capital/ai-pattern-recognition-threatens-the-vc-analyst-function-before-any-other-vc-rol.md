@@ -54,7 +54,7 @@ related:
   - INS-260330-3879
   - INS-260524-8E5D
   - INS-260325-4C6D
-  - INS-260403-EF2C
+  - INS-260603-6991
 ---
 The most automatable part of venture investing is the early screening function — parsing pitch decks, identifying sector trends, flagging founder pedigrees, and detecting deal momentum. These are pattern-recognition tasks that AI performs well at scale without fatigue or cognitive bias drift. The relationship and judgment functions (reference calls, term sheet negotiations, board dynamics) remain deeply human for longer.
 

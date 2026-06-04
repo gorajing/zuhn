@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260322-90E7
   - INS-260405-2703
+  - INS-260530-18D5
   - INS-260404-8A36
   - INS-260404-B494
-  - INS-260403-B387
 ---
 While many roll-up strategies have been bid up by private equity competition, pockets of undervalued fragmented industries remain. The key identifying characteristics are: fragmented ownership with many small operators, limited technology adoption creating efficiency gains post-acquisition, and verticals not yet on the radar of large PE firms.
 

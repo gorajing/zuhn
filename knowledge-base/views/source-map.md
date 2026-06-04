@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-05-25 | 2637 sources
+Generated on 2026-06-04 | 2648 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,6 +180,8 @@ Generated on 2026-05-25 | 2637 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
+| From agentic AI to physical AI | audio | 8 | 2026-06-03 |
+| TQ era | audio | 8 | 2026-06-03 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
 | Home-Cooked Software and Barefoot Developers | blog | 8 | 2026-04-10 |
@@ -236,6 +238,7 @@ Generated on 2026-05-25 | 2637 sources
 | Chapter 2 | audio | 7 | 2026-05-25 |
 | Jongmin Sung | audio | 7 | 2026-05-24 |
 | Keynote   Dario Gil | audio | 7 | 2026-05-06 |
+| Panel 2 | audio | 7 | 2026-05-30 |
 | How to Do Great Work | blog | 7 | 2026-03-31 |
 | #1 Sales Tactic (to Make a TON of Money!) | youtube | 7 | 2026-03-27 |
 | $1.3B AI CEO: "You ONLY Need 2 People and 90 Days to Build a $1M Business" | Higgsfield Founder | youtube | 7 | 2026-03-22 |
@@ -263,6 +266,8 @@ Generated on 2026-05-25 | 2637 sources
 | Hoover Tower | audio | 6 | 2026-05-06 |
 | Lighting talk 2 | audio | 6 | 2026-05-06 |
 | Panel   AI for the Universe | audio | 6 | 2026-05-06 |
+| panel | audio | 6 | 2026-06-03 |
+| PM Google | audio | 6 | 2026-05-30 |
 | Talk 1   healthcare | audio | 6 | 2026-05-06 |
 | ZVC | audio | 6 | 2026-05-25 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
@@ -326,10 +331,12 @@ Generated on 2026-05-25 | 2637 sources
 | Brian Hie   Generative biology from molecular to genome scale | audio | 5 | 2026-05-05 |
 | Carina Hong | audio | 5 | 2026-05-06 |
 | Code with claw | audio | 5 | 2026-03-31 |
+| ecommerce | audio | 5 | 2026-06-03 |
 | Gtc after hours | audio | 5 | 2026-03-25 |
 | GTC panel 2 | audio | 5 | 2026-03-25 |
 | introduction | audio | 5 | 2026-05-05 |
 | Lightning talks | audio | 5 | 2026-05-06 |
+| Meta microsoft | audio | 5 | 2026-06-03 |
 | Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
@@ -1113,6 +1120,7 @@ Generated on 2026-05-25 | 2637 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | Panel for AI for Universe | audio | 4 | 2026-05-06 |
+| paypal | audio | 4 | 2026-05-30 |
 | SVAI   Keynote 2 | audio | 4 | 2026-03-31 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 4 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
@@ -1831,7 +1839,10 @@ Generated on 2026-05-25 | 2637 sources
 | You Are Immune Against Every Disease | youtube | 4 | 2026-04-12 |
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 4 | 2026-03-25 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
+| agent | audio | 3 | 2026-06-02 |
+| Google io | audio | 3 | 2026-06-03 |
 | takeaway | audio | 3 | 2026-05-06 |
+| World Model | audio | 3 | 2026-06-03 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 3 | 2026-03-30 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 3 | 2026-03-31 |
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |
@@ -2567,8 +2578,8 @@ Generated on 2026-05-25 | 2637 sources
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
 | ​Manisha Gupta | audio | 0 | 2026-05-02 |
 | Panel #1 | audio | 0 | 2026-05-02 |
-| Panel 2 | audio | 0 | 2026-05-02 |
 | Product demo | audio | 0 | 2026-05-02 |
+| can you look through everything in the codebase | session | 0 | 2026-05-28 |
 | 하버드대에서 밝힌 「삶에 여유가 없을수록 꼭 해야하는 1가지」 | youtube | 0 | 2026-04-23 |
 | "10배 저렴한데, 효과는 더 좋습니다!" 피부과 의사가 매일 쓰고 효과 본 재생크림 6가지 추천 | youtube | 0 | 2026-04-23 |
 | 10년 전, 젠슨 황과 일론 머스크가 본 미래 | 거장들의 대화 Ep.01 | youtube | 0 | 2026-04-23 |

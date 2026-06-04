@@ -48,12 +48,11 @@ stance: >-
   files, URLs, and database cursors behave identically to in-memory lists
   through the iteration protocol
 related:
-  - INS-260322-24FB
   - INS-260330-81D3
+  - INS-260322-24FB
   - INS-260329-8CC0
   - INS-260330-A260
   - INS-260330-3EFC
-  - INS-260403-EA2C
   - INS-260409-4290
 evidence:
   - id: INS-260322-24FB

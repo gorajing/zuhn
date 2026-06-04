@@ -50,10 +50,10 @@ stance: >-
   planning, and test/debug capabilities.
 related:
   - INS-260514-58B1
+  - INS-260603-7252
   - INS-260514-8413
   - INS-260501-801C
   - INS-260514-AE3E
-  - INS-260519-D007
 evidence:
   - id: INS-260327-9192
     type: EXTENDS

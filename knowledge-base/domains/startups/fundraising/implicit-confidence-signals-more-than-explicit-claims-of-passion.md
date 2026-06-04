@@ -50,7 +50,6 @@ stance: >-
   product is great') but weight demonstrated confidence heavily — showing beats
   telling, and nervousness is interpreted as a signal of product weakness
 related:
-  - INS-260325-8DF7
   - INS-260322-683B
   - INS-260327-5688
   - INS-260328-E410
@@ -60,6 +59,7 @@ related:
   - INS-260403-E4C6
   - PRI-260327-5635
   - INS-260403-22FE
+  - INS-260409-30DE
 evidence:
   - id: INS-260325-8DF7
     type: TRANSFERS_TO

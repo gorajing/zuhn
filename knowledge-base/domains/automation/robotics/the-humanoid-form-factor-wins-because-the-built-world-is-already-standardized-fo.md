@@ -58,12 +58,11 @@ stance: >-
   they can operate in existing infrastructure without requiring world redesign.
 related:
   - INS-260330-AF2A
-  - INS-260405-E4FC
   - INS-260405-F05B
   - INS-260501-577A
+  - INS-260405-E4FC
   - INS-260412-B89F
   - INS-260323-758B
-  - INS-260410-D593
 ---
 Every factory, warehouse, and home on Earth was designed around human physical constraints: bipedal locomotion, two hands, a certain reach envelope, a standing height optimized for counters and controls. Task-specific robots — conveyor systems, robotic arms, automated forklifts — require expensive facility redesign to accommodate their fixed form factors. A humanoid robot sidesteps this entirely by matching the form factor that infrastructure already assumes.
 

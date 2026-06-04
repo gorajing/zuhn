@@ -49,7 +49,6 @@ stance: >-
   enabler of a complete solution occupy the most fragile competitive position on
   the AI deployment spectrum.
 related:
-  - INS-260329-16F0
   - INS-260330-1089
   - INS-260410-3043
   - PRI-260328-8F94
@@ -59,6 +58,7 @@ related:
   - INS-260404-462B
   - INS-260405-28DF
   - INS-260410-FA8E
+  - INS-260410-1384
 evidence:
   - id: INS-260329-16F0
     type: SUPPORTS

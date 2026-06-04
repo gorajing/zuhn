@@ -63,11 +63,10 @@ stance: >-
   into infrastructure businesses billed per agent rather than per seat.
 related:
   - INS-260323-282F
-  - INS-260322-2E33
   - INS-260330-AB67
+  - INS-260530-09FE
   - INS-260501-10B4
   - PRI-260406-C422
-  - PRI-260328-8317
 ---
 Nadella reframes the existential question for SaaS companies — 'what happens to per-user pricing in an agentic world?' — by pointing out that autonomous agents themselves need everything a human knowledge worker needs: a computer to use, an identity, storage, security policy, observability of what they did when, and e-discovery for audit. Office and Windows aren't just end-user tools; they're the substrate that bootstraps an agent. Microsoft is already seeing agent-builders provision Windows 365 VMs to give their agents a real machine.
 

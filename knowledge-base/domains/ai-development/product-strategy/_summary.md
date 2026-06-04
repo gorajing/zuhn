@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 96 insights
+> 98 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -16,6 +16,9 @@
 - `INS-260325-8A61` [high] Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
 - `INS-260328-D826` [high] AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
 - `INS-260327-F4DD` [high] Products that start AI-light and go AI-heavy end up with AI in a sidebar that can't fully access the application; true AI-native products expose all primitives to models.
+- `INS-260530-C385` [high] Abhije: 'As a PM, your roadmap would be to improve a product. As an AI PM, your goal is to write better AI evals.' The day-to-day is analyzing traces (input → output for each query) at scale, identifying where the AI did well vs poorly, and improving accuracy via eval-driven iteration.
+
+
 - `INS-260403-699A` [high] AI dev tools form a three-tier hierarchy: chatbots for single pages, cloud environments for multi-feature prototypes, and local IDEs for production apps.
 - `INS-260402-543E` [high] Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - `INS-260327-13B3` [high] Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
@@ -58,6 +61,7 @@
 - `INS-260327-7A48` [high] Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260327-5CB0` [high] Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260403-E706` [high] A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
+- `INS-260530-7FE2` [high] Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
 - `INS-260403-3B8D` [high] Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.

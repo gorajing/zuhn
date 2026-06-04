@@ -64,10 +64,10 @@ related:
   - INS-260403-DDD5
   - INS-260409-BC1E
   - INS-260501-B53D
+  - INS-260603-6B3D
   - INS-260501-504A
   - INS-260403-C49F
   - PRI-260328-37D8
-  - INS-260403-9012
 ---
 Patel directly challenges the Anthropic-aligned view that AI needs NRC-style regulatory oversight. His argument: the conceptual vocabulary of AI risk discourse ('catastrophic risk,' 'threats to national security,' 'autonomy risk,' 'deceptive models,' 'manipulative models') is so elastic that whoever holds enforcement power can bend it to any political purpose.
 

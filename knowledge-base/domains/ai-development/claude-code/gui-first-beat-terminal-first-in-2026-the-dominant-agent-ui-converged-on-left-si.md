@@ -64,8 +64,8 @@ related:
   - INS-260405-A992
   - INS-260410-71B9
   - PRI-260405-AF79
+  - INS-260603-1BC0
   - INS-260501-FD20
-  - INS-260403-699A
 ---
 Pemberton's observation: in 2026 the major agent platforms (Codex, Claude Code desktop app, Cursor) all converged on the same UI pattern — chats in left sidebar, agent conversation in the middle, working artifact on the right. The terminal-first interface that defined 2025 for power users (Claude Code, OpenClaw, Codex CLI) became a mass-adoption barrier.
 

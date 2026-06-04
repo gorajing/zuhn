@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260321-B8E8
   - INS-260408-C572
+  - INS-260603-A506
   - INS-260330-6494
   - PRI-260406-FA5B
-  - INS-260410-D082
 ---
 A pure count-based n-gram model cannot predict 'a dog was running in a ___' if that exact phrase never appeared in training — it has no signal. A neural LM with learned embeddings can, because backprop pushes words that appear in similar contexts (like 'a' and 'the', or 'cats' and 'dogs') toward nearby points in the embedding space. At inference time, a novel context hits a neighborhood the model has effectively seen under a different spelling.
 

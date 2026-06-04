@@ -50,10 +50,10 @@ resolutions:
     and universal/timeless framing.
 related:
   - INS-260322-D6D7
+  - INS-260530-C385
   - INS-260410-4EB9
   - PRI-260406-E75B
   - PRI-260406-0109
-  - PRI-260406-A33C
   - INS-260410-AF66
 stance: >-
   Track four quadrants — high eval + high views (validated winners), high eval +

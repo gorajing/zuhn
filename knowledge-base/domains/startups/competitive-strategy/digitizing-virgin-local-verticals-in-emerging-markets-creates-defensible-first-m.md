@@ -51,6 +51,6 @@ related:
   - INS-260404-7A54
   - INS-260404-6914
   - INS-260403-2A92
-  - INS-260322-EDC2
+  - INS-260530-18D5
 ---
 The article highlights specific archetypes: digitizing Central Asia's logistics, banking Southeast Asian SMEs, or pioneering African telehealth. These opportunities exist because incumbents are non-digital and global tech companies often lack the local knowledge to serve these markets. The key insight is that these are not incremental improvements but category-creation events — the first credible digital solution in a vertical can capture disproportionate market share because switching costs rise quickly once businesses digitize their workflows. This explains why VCs want to fund these companies 'extraordinarily early' — the return multiple is highest when you're pre-category-definition, and the moat forms rapidly as the vertical digitizes around the winning platform.

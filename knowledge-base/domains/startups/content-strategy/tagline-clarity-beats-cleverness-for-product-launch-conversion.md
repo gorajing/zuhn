@@ -53,7 +53,7 @@ related:
   - INS-260327-06A6
   - INS-260404-CCB1
   - INS-260402-89DE
-  - INS-260323-5C6F
+  - INS-260603-BFEE
   - INS-260402-8D38
 ---
 The temptation when writing product taglines is to sound revolutionary ('A revolutionary solution to transform productivity...'). But on platforms where users scan dozens of products quickly, clarity wins over cleverness. A tagline like 'Turn any idea into a professional video in seconds' immediately communicates the what, for whom, and the speed — no interpretation required.

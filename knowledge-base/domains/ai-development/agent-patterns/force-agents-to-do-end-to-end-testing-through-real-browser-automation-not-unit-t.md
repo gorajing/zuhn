@@ -53,13 +53,13 @@ related:
   - PRI-260320-097F
   - INS-260327-13B3
   - INS-260327-63B5
-  - INS-260410-38C8
   - INS-260410-CD79
   - INS-260410-9D86
-  - INS-260410-315B
   - INS-260519-20E0
   - INS-260323-4B4D
   - INS-260501-247C
+  - INS-260501-C59A
+  - INS-260514-5914
 ---
 Anthropic's most stubborn failure mode wasn't bad code — it was Claude marking features 'done' after passing unit tests or curling an endpoint, while the actual user-facing flow was broken. Without explicit prompting to test like a user, the agent's verification stops short of the screen.
 

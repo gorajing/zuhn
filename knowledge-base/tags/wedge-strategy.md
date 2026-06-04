@@ -1,6 +1,7 @@
 # Tag: wedge-strategy
 
 - `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
+- `INS-260530-18D5` Coco: vertical AI products today look niche (Blueprints AI only does construction documentation, not design or takeoff) — but the same compounding pattern that took Google Scholar → Search is now visible across vertical AI tools as they expand from one workflow step to the full chain.
 - `INS-260410-8C24` Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - `INS-260403-18F7` Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
 - `INS-260404-3ACB` Neuralink entered through therapeutic use (paralysis) where 77% public approval exists, avoiding the 78% resistance to enhancement use cases.

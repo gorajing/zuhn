@@ -47,11 +47,11 @@ stance: >-
   power users but absent from the middle market, mainstream adoption is
   imminent.
 related:
+  - INS-260603-6D08
   - INS-260330-24A5
   - INS-260330-856B
   - INS-260327-2A58
   - INS-260328-C12D
-  - INS-260321-1A0B
 evidence:
   - id: INS-260321-1A0B
     type: CHALLENGES

@@ -55,11 +55,11 @@ stance: >-
   evidence it was doing something wrong — making uncertainty the core safety
   mechanism.
 related:
-  - INS-260323-8897
   - INS-260326-5E07
+  - INS-260603-6B3D
   - INS-260412-C37A
   - PRI-260405-0676
-  - PRI-260403-67FC
+  - INS-260323-8897
 evidence:
   - id: INS-260323-8897
     type: SUPPORTS

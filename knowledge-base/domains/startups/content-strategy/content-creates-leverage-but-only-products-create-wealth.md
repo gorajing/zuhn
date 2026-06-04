@@ -48,16 +48,16 @@ stance: >-
   Content and media build audience reach and credibility, but sustainable wealth
   requires converting that attention into scalable products.
 related:
-  - INS-260322-7B71
   - INS-260323-4DD9
   - PRI-260322-DCDB
   - INS-260327-C9A3
   - PRI-260403-C76D
-  - INS-260405-0184
   - INS-260403-4D04
   - INS-260403-45DB
   - INS-260403-C907
   - INS-260405-D216
+  - INS-260403-09CB
+  - INS-260405-F456
 ---
 Cuban's distinction between content-as-leverage and products-as-wealth resolves a tension many creator-founders face. Content builds audience, trust, and brand — it's the most efficient credibility engine available. But content alone doesn't compound the way products do. Cuban uses his own career as proof: Shark Tank gave him massive leverage and reach, but his wealth came from owning equity in companies and products.
 

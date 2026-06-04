@@ -61,7 +61,7 @@ related:
   - INS-260330-63DD
   - INS-260505-E5CC
   - PRI-260323-CE34
-  - INS-260322-E734
+  - INS-260603-4387
 ---
 Final Panel framing of a clean spectrum: at one extreme, engineering where verifiable metrics of success are enough — AI-designed antennas can look weird and ugly, as long as they perform per the spec. Drug design where the molecule works is sufficient regardless of mechanism. Material discovery where the property is achieved. At the other extreme, mathematics where the proof artifact is the easy part and the JOURNEY is the value — generating millions of correct proofs without understanding which are important is 'AI indigestion.' Astronomy: 'I figured it out, but the explanation is too complicated for you' is a failure outcome. Same model deployment is appropriate for engineering, inappropriate for mathematics. Different fields, different criteria, different acceptable failure modes.
 

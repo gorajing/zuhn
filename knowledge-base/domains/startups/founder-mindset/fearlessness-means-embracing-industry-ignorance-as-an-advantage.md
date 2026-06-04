@@ -50,10 +50,10 @@ stance: >-
   assumptions.
 related:
   - PRI-260328-E9B5
+  - INS-260530-A86A
   - INS-260410-1197
   - INS-260329-023F
   - INS-260525-1CE3
-  - INS-260327-70DF
 evidence:
   - id: INS-260329-023F
     type: TRANSFERS_TO

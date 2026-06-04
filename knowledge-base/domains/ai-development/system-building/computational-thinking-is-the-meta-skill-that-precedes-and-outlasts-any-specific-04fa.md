@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260322-32E3
   - INS-260321-53E2
-  - INS-260323-D400
   - INS-260328-B19D
   - INS-260329-F969
   - INS-260329-EDA2
@@ -58,6 +57,7 @@ related:
   - INS-260329-02B3
   - INS-260330-5609
   - INS-260330-35CB
+  - INS-260330-C4F1
 evidence:
   - id: INS-260323-D400
     type: SUPPORTS

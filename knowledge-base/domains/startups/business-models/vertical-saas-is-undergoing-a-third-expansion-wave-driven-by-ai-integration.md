@@ -47,7 +47,6 @@ stance: >-
   vertical SaaS since fintech embedding, enabling VSaaS companies to
   dramatically increase ACV by automating more tasks within their verticals.
 related:
-  - INS-260322-3159
   - INS-260321-A56C
   - INS-260321-167A
   - INS-260322-EDA4
@@ -57,6 +56,7 @@ related:
   - INS-260327-84E6
   - INS-260329-3EB6
   - INS-260403-7B04
+  - INS-260404-7E24
 ---
 Vertical SaaS has evolved through three distinct expansion waves. The first wave moved industry-specific workflows to the cloud. The second embedded fintech capabilities (payments, lending, insurance) to capture more revenue per customer. The third wave — 'AI Inside' — integrates AI to automate tasks that previously required human labor within the vertical.
 

@@ -3,8 +3,10 @@
 - `INS-260405-CD42` Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
 - `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
+- `INS-260603-B263` Harvey (keynote): assume ~90% of today's tasks get automated by AI — but that automates knowledge WORK (the task), not the knowledge WORKER; there's no traditional individual-contributor work anymore because every IC is now managing AI/agents, what he calls the 'gold collar' era.
 - `INS-260405-FCBE` AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260403-D5BB` AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
+- `INS-260530-8DE3` Abhije (Google AI PM): 'Individually all of us are doing 10x better, but the team itself, we don't want to do 10x better.' AI gives individuals capacity their organizations cannot absorb.
 - `INS-260409-A682` Barefoot developers — technically savvy people embedded in local communities who build small home-cooked software for people they know — will emerge as a new category once LLM orchestration tools cross the command-line wall for them, and they'll grow exponentially faster than professional developers.
 - `INS-260320-B99F` Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260320-DEAF` Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.

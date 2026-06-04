@@ -49,11 +49,11 @@ stance: >-
   because discoverability is everywhere; the new funnel is attention (repeated
   touchpoints) -> connection (resonance and follow) -> trust (conversion).
 related:
+  - INS-260603-C8AF
+  - INS-260603-BFEE
   - INS-260404-19B0
+  - INS-260603-D44B
   - INS-260322-6AF5
-  - INS-260322-5E5D
-  - INS-260327-9EE4
-  - PRI-260405-AF79
 evidence:
   - id: INS-260325-175B
     type: EXTENDS

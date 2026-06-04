@@ -1,10 +1,11 @@
 # Topic: adoption
 
-> 57 insights
+> 60 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` [high] AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
+- `INS-260603-C10D` [high] Harvey (keynote): electricity (1880s) produced no large productivity gain for ~30 years — because factories just swapped a giant electric generator in where the steam engine sat; gains came only when they rearranged the factory floor around distributed electricity. AI is in the same retrofit phase now.
 - `INS-260322-3159` [high] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
 - `INS-260322-750D` [high] AI voice agents in loan servicing and collections can speak 50 languages, maintain perfect UDAP compliance, and deliver better customer experiences — reorienting fintech TAM from IT budgets to labor costs.
 - `INS-260403-00A4` [high] AI deployment patterns bifurcate along economic lines — rich countries augment professionals, developing countries augment students.
@@ -54,7 +55,9 @@
 - `INS-260322-4757` [medium] Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
 - `INS-260322-B09B` [medium] Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260405-CA27` [medium] Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
+- `INS-260530-E6AA` [medium] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
 - `INS-260403-C10D` [medium] The biggest AI risk is confidence outrunning understanding, not the technology itself.
+- `INS-260530-09FE` [medium] Coco (working with 5-employee through 500-employee firms): smaller companies are faster to adopt forward-looking autonomous solutions; enterprises are still stuck on chat-with-internal-KB use cases despite the autonomous-agent stack being available for 12+ months.
 - `INS-260514-D3CB` [medium] Mainstream software is ~95% AI-coded; scientific biotech code is ~5% AI-coded — a multi-year diffusion gap driven by regulatory caution and benchmark scarcity, not capability gaps.
 - `INS-260405-7838` [medium] In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
 - `INS-260329-E193` [medium] Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.

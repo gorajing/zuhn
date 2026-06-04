@@ -48,11 +48,11 @@ stance: >-
   give across meetings creates a durable predictive model that dramatically
   improves influence effectiveness.
 related:
+  - INS-260530-C385
   - INS-260403-1984
   - INS-260329-DFD1
   - INS-260322-24FB
   - INS-260403-EA31
-  - INS-260322-4757
 ---
 Walter describes maintaining a personal notes document where he records the specific questions executives ask and the feedback they give across various meetings and forums. Over time, this document becomes a predictive model of each executive's decision-making patterns, concerns, and priorities.
 

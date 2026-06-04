@@ -1,6 +1,7 @@
 # Tag: onboarding
 
 - `INS-260405-7838` In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
+- `INS-260603-23B1` Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260514-A15D` Auto-generate ICP/personas/use-cases by scraping the company's website with an AI agent — turns a 2-hour foundational setup that founders typically skip into a 5-minute pass with editable outputs.
 - `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260320-D4BD` New engineers hit the ground running with clear specs defining both what to build and what has already been done.

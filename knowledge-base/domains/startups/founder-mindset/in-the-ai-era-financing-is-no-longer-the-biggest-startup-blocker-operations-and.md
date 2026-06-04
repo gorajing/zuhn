@@ -39,10 +39,10 @@ stance: >-
   constraint; the new blockers are ongoing operations (publishing, maintenance,
   app-store/release work) and knowing the market.
 related:
+  - INS-260603-50B1
   - INS-260410-52C8
   - PRI-260405-B144
   - INS-260325-B234
   - PRI-260323-68F0
-  - INS-260519-D007
 ---
 He argues the historical biggest blocker, financing, has receded because building is cheap with AI; what blocks builders now is the operational long tail (publishing across stores, daily maintenance, releases) and, most of all, not understanding the market. This is a notable AI-era twist on the KB's financing -> distribution -> product hierarchy: the build step cheapens, pushing even more weight onto distribution/market knowledge.

@@ -48,10 +48,10 @@ stance: >-
   viable and underappreciated path to building a massive audience business.
 related:
   - INS-260402-C03D
+  - INS-260530-18D5
   - PRI-260328-0C15
   - INS-260403-FF65
   - INS-260327-112B
-  - INS-260514-F857
 evidence:
   - id: INS-260327-112B
     type: SUPPORTS

@@ -52,11 +52,11 @@ stance: >-
   dynamics of workshops are as determinative as the methodology
 related:
   - INS-260323-1452
-  - INS-260327-6061
   - INS-260501-27BF
+  - INS-260327-6061
+  - INS-260530-8DE3
   - INS-260519-746D
   - INS-260514-D5B5
-  - INS-260522-201B
 evidence:
   - id: INS-260323-1452
     type: EXTENDS

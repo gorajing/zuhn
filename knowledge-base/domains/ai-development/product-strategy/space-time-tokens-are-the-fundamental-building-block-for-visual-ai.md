@@ -54,7 +54,7 @@ related:
   - INS-260323-22E8
   - INS-260327-6E57
   - INS-260412-C3AB
-  - INS-260501-F394
+  - INS-260603-C102
 ---
 Just as characters and BPE tokens serve as the fundamental building blocks for language models, space-time patches (small cuboids composing spatial X/Y dimensions with temporal position) serve as the minimal building block for visual generative models. Diffusion transformers operate on these patches, allowing full global attention across all positions in space and time simultaneously.
 

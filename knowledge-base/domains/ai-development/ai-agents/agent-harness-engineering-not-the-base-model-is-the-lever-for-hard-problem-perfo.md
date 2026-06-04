@@ -46,11 +46,11 @@ related:
   - INS-260410-A9CE
   - PRI-260426-890F
   - INS-260501-D701
-  - INS-260514-EE2E
   - INS-260514-4FDC
   - INS-260514-2E48
   - INS-260514-283E
   - INS-260514-E481
   - INS-260519-08E0
+  - INS-260524-B783
 ---
 Woosang repeatedly stresses 'harness engineering': applying production-system discipline to wrap models in orchestration (tool calls, verification, reflection cycles), with memory (retrieval/ranking/history) and early thinking/planning as the highest-leverage steps. He observes that adding a strong model to a good harness moved benchmark performance substantially. Reinforces the KB pattern (Jongmin, the YC company-brain talk) that the scaffolding/context around the model — not the model alone — is where capability is won.

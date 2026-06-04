@@ -54,12 +54,12 @@ related:
   - INS-260321-0C99
   - INS-260329-818A
   - INS-260329-BE35
-  - INS-260329-D8BC
   - INS-260330-3B0B
   - INS-260409-ADD0
   - INS-260410-B501
   - INS-260410-4D86
   - INS-260409-3230
   - INS-260409-8DA0
+  - INS-260603-6FE3
 ---
 Chunking is often treated as a minor implementation detail — split into 512-token windows with 50-token overlap, done. Jerry Liu's experience building LlamaIndex across many data types: chunking choices fundamentally shape what the embedding represents, which fundamentally shapes what retrieval surfaces. A PDF of a scientific paper chunks very differently from a Slack conversation (which chunks differently from an SEC filing, which chunks differently from a codebase). Get the chunks wrong and the embeddings encode the wrong things — you might index 'the intro and the citation' as one vector when the user wants 'the intro' and 'the citation' separately. Metadata attached to chunks (source URL, author, timestamp, section heading) biases retrieval further. The practical consequence: every new data domain needs its own chunking experiments, and naive chunk+embed pipelines underperform because they apply a universal rule where there isn't one. Directly relevant to how Zuhn chunks sources for embedding — a YouTube transcript chunks differently from a blog post differently from a PDF.

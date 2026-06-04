@@ -52,10 +52,10 @@ resolutions:
     was the magic.
 related:
   - INS-260327-F7BD
+  - INS-260530-7FE2
   - INS-260403-EF20
   - INS-260327-5D62
   - INS-260330-36DB
-  - INS-260329-22A8
 stance: >-
   OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI,
   yet it created a phase shift in AI integration

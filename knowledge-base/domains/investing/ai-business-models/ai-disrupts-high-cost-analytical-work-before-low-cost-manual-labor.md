@@ -48,10 +48,10 @@ stance: >-
   strategic work is more structured and automatable than physical tasks.
 related:
   - INS-260403-063E
+  - INS-260603-B263
   - INS-260403-10CE
   - INS-260404-8E0D
   - PRI-260406-A7EC
-  - INS-260403-C1F5
   - INS-260403-C355
 evidence:
   - id: INS-260322-3D21

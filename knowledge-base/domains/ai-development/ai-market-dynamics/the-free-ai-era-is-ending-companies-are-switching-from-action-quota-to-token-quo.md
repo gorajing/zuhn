@@ -59,6 +59,7 @@ related:
   - INS-260423-5F2F
   - INS-260501-74AD
   - INS-260522-88E0
+  - INS-260603-915A
   - INS-260519-9732
 ---
 PrimeTime explains Copilot's shift: action-based pricing assumed all model calls cost roughly the same, but Composer 2 fast costs nothing and Opus 4.7 costs 20x more. Token-based pricing reflects actual model cost. Implication: users who use the cheap model get more calls; users who use the expensive model get fewer. The free-AI honeymoon is ending. Uber spending its annual AI budget in 4 months because employees were told to 'maximize AI usage' is the same pattern playing out at enterprise scale.

@@ -58,12 +58,12 @@ related:
   - INS-260322-D58A
   - INS-260403-13AF
   - INS-260404-B208
-  - INS-260408-F58E
   - INS-260410-8C08
   - INS-260514-58B1
   - PRI-260411-FB73
   - INS-260404-D6F7
   - PRI-260406-3EF8
   - INS-260514-CA00
+  - INS-260514-F2D5
 ---
 Sonia Timberlake's working estimate from her consulting practice across biotech/pharma: while it's common to hear software teams say 95% of their code is written by AI agents today, scientific code bases in biotech/pharma are at the inverse — closer to 5% AI-written. The capabilities are there (benchmarks like Bixbench and Comp Biobench show frontier models can do PhD-month-long bioinformatics tasks), but the adoption hasn't caught up. The reasons are structural: regulatory caution (FDA-bound code requires reproducibility documentation that's harder with stochastic agents), benchmark scarcity (until recently there were no industry-recognized ways to measure agentic-coding fitness for bio tasks), and IT governance lag (some companies are still 9 months into writing their LLM policy). This creates an opportunity gap: scientists/operators who close the diffusion lag personally (using Claude Code + skills for their own work, not waiting for company policy) pick up disproportionate leverage. The implication for biotech tech-stack adoption: the bottleneck is not what AI can do, it's the institutional permission to use it — and individual operators can outpace their institutions if they choose to.

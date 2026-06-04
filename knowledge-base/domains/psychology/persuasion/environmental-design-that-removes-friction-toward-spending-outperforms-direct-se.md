@@ -51,11 +51,10 @@ stance: >-
   opportunities is more effective than aggressive direct sales tactics
 related:
   - INS-260322-3259
-  - INS-260327-500C
   - PRI-260328-F497
   - INS-260412-B5F8
   - INS-260322-B450
-  - INS-260321-822B
+  - INS-260603-15F4
 ---
 Heathrow earns $13.32 per passenger from retail — among the highest of any airport globally (vs. $5.68 at Dulles, $7.71 at Auckland). This isn't from having better stores; it's from environmental design. Terminal 3 forces all passengers to walk through duty free to reach gates. Gate assignments are withheld until 45-90 minutes before departure, keeping passengers in the central retail area longer. Long-haul focus means wealthier passengers who arrive 2h51m early (vs. 2h17m global average), giving more exposure time.
 

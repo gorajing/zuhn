@@ -64,6 +64,7 @@ related:
   - PRI-260407-69A9
   - INS-260410-B3C4
   - INS-260410-A1CA
+  - INS-260602-1DF1
 ---
 The post explicitly flags that while inspecting failed SWE-bench tasks, the team found cases where the model behaved correctly but environment setup was broken, or install patches were applied twice. Hidden tests caused another class of failure: the model often 'thinks' it has succeeded because it solved the stated problem, but the graded unit tests exercise a different abstraction level, or an edge case the issue didn't describe.
 

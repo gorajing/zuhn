@@ -50,7 +50,6 @@ stance: >-
   predictable, while those that empower improvisation can exploit the gaps
   created by the other side's proceduralism.
 related:
-  - INS-260323-1176
   - INS-260327-7C94
   - INS-260410-7E29
   - INS-260327-AB3D

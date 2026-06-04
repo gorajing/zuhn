@@ -51,7 +51,6 @@ related:
   - INS-260330-E263
   - INS-260330-178D
   - INS-260410-BCA3
-  - INS-260410-C070
   - INS-260423-C506
 ---
 Superhuman deliberately delayed their launch until the product cleared a desirability threshold — laser-focused on speed, elegant design, and deep onboarding. Rather than testing 'does email work?', they tested 'do users love this email experience?' The result was high retention, strong organic growth, and a waitlist in the tens of thousands.

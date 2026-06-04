@@ -50,5 +50,6 @@ related:
   - INS-260327-1FA1
   - PRI-260411-64C7
   - PRI-260406-4B8E
+  - INS-260602-EA48
 ---
 One of the most common failure modes Anthropic sees is bloated tool sets that cover too much functionality or create ambiguous decision points about which tool to invoke. The litmus test is human disambiguation: if a competent engineer can't decisively pick the right tool, the agent will hallucinate or thrash. The fix isn't better prompting — it's curating a minimal viable set of tools that are self-contained, robust to error, with descriptive unambiguous parameters and minimal functional overlap. This also pays dividends for context maintenance, since fewer tools means cleaner traces and easier pruning over long interactions.

@@ -51,16 +51,15 @@ stance: >-
   All customer acquisition reduces to exactly four personal activities and four
   leverage multipliers — there are no other methods
 related:
-  - INS-260323-E1BE
-  - INS-260327-8D7E
   - PRI-260328-BDC2
-  - INS-260328-ACC3
   - INS-260405-270B
+  - INS-260327-8D7E
   - INS-260404-124F
   - PRI-260405-675B
   - INS-260329-7B47
   - INS-260329-D1A1
   - INS-260330-4DBE
+  - INS-260514-B283
 evidence:
   - id: INS-260327-8D7E
     type: EXTENDS

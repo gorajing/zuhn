@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260423-7CDC
   - INS-260501-9D73
+  - INS-260530-E6AA
   - INS-260403-36F4
   - INS-260423-BFDE
-  - INS-260403-8793
 ---
 The database market is $100B growing at 10%, and databases are the stickiest software category ever built. But the real lock-in isn't the software — it's the data itself. The internet's bandwidth has not scaled anywhere close to the rate data storage has grown, which is why AWS ships physical 'Snowmobile' trucks to migrate exabytes of data. Even with a semi truck full of storage, large migrations take six months; over the network they'd take years or decades.
 

@@ -60,10 +60,11 @@ stance: >-
 related:
   - INS-260323-758B
   - INS-260405-E4FC
+  - INS-260603-F0BE
   - INS-260413-3860
   - INS-260412-3A70
-  - INS-260501-577A
   - INS-260405-FC36
+  - INS-260501-577A
 ---
 The humanoid robotics race is not just a technology competition — it is a geopolitical one with strategic implications for manufacturing independence, military logistics, and economic productivity. China has explicit state support for robotics as a national industrial priority, with deployment incentives tied to manufacturing dominance. The US approach is more VC-driven with concentration in a few well-capitalized companies (Figure, Tesla, Boston Dynamics).
 

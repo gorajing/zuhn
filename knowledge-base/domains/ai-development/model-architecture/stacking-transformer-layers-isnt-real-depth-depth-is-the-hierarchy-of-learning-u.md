@@ -58,13 +58,13 @@ related:
   - INS-260325-05EC
   - INS-260321-B014
   - INS-260327-1563
-  - INS-260327-9816
   - INS-260330-EE25
   - INS-260330-AE16
   - INS-260330-F7B2
   - INS-260405-57D6
   - INS-260403-A851
   - INS-260409-1AA0
+  - INS-260410-5033
 ---
 The provocative thesis of Google's Nested Learning paper, captured in its subtitle 'The Illusion of Deep Learning Architecture': what makes a model deep is not the number of stacked layers but the sequence and frequency hierarchy of learning updates the model goes through. A 100-layer Transformer with all parameters updating at the same rate during training is structurally a single-time-scale learner. The brain, by contrast, operates with simultaneous fast oscillations (rapid processing, short-term adaptation) and slow oscillations (long-term memory consolidation).
 

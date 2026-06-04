@@ -67,7 +67,9 @@ related:
   - INS-260501-9E23
   - INS-260501-B933
   - PRI-260501-1E66
+  - INS-260530-E697
   - INS-260327-1FA1
+  - INS-260530-D34F
   - INS-260514-1841
 ---
 The educator's diagnostic: most skills fail in practice because they encode the human's mental model of the workflow, not the actual successful execution. The fix is experiential learning — walk the workflow with the agent step by step. For sponsor-vetting: 'Check their Twitter, check their YouTube, check their Trust Pilot, check if they've raised money. If two are absent or in bad standing, automatic rejection.' Run it once. Watch what works and what doesn't. Adjust the workflow. Run again. When you have a clean successful run, ask the agent 'review what you just did' and create the skill from that context.

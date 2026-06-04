@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 174 insights
+> 179 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -65,6 +65,7 @@
 - `INS-260321-2241` [high] Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
 - `INS-260410-46BB` [high] AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260402-BCEC` [high] Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
+- `INS-260530-86E3` [high] Brian Wong (VC, 11 years frontier tech): 'Have you heard about one single commercial deal with over 100 robots being deployed? Not necessarily.' Multi-billion-dollar valuations are riding on a deployment pipeline that doesn't yet exist.
 - `INS-260413-0EF6` [high] In 2025 industry produced 87 of 95 notable models (91.58%) while academia produced 1 (1.05%), and the top labs have stopped disclosing training code, dataset sizes, and parameter counts.
 - `INS-260424-0554` [high] Ben Gilbert: when we made our NVIDIA series in 2023-2024, training was what everybody was focused on; inference is fine, you know, like oh yeah I guess you could run that on the same chip — now I think the compute loads for inference have eclipsed the line for training.
 - `INS-260405-6A94` [high] OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
@@ -74,6 +75,7 @@
 - `INS-260323-C316` [high] AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
 - `INS-260403-BB5E` [high] AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - `INS-260323-1452` [high] When executives mandate 'more AI everywhere,' it often signals abdication of decision-making rather than strategic vision.
+- `INS-260603-B7BA` [high] Harvey (keynote, ~30yr enterprise software): no Fortune 500 switches off Salesforce despite bad UX because switching cost is enormous — but swapping Anthropic→OpenAI→Google is cheap (not zero, but low), so when Codex pushed hard on price/perf, 'many companies switched in a split second' as a top-down decision.
 - `INS-260327-FDF4` [high] Karpathy's LLM OS framework: models are the CPU, modalities are peripherals, existing software infrastructure connects in, and there will be both default apps and a thriving third-party ecosystem.
 - `INS-260405-B7C7` [high] Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
 - `INS-260327-C15B` [high] Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
@@ -112,6 +114,7 @@
 - `INS-260321-FD14` [high] Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
 - `INS-260501-A746` [high] Agents pick infrastructure tools (Twilio, Cloudflare) and ignore productivity tools (Marquetto, Outreach, Atlassian) — the public markets are reading this correctly.
 - `INS-260409-A4F0` [medium] Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon.
+- `INS-260603-C90A` [medium] Rona Shah (Walmart): industry-wide, agent-initiated traffic directly hitting retail sites is 'very negligible' right now, and those visits convert at lower rates than direct customer visits — partly because the trust layer isn't built yet, partly because Amazon actively blocks agents.
 - `INS-260410-5D16` [medium] Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
 - `INS-260327-CED9` [medium] Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.
 - `INS-260322-770D` [medium] AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
@@ -170,7 +173,9 @@
 - `INS-260322-8147` [medium] The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
 - `INS-260404-3D17` [medium] AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
 - `INS-260410-010F` [medium] Nadella rejects capability-based AGI declarations as 'nonsensical benchmark hacking' and substitutes a demand-side test: is the world economy actually growing at industrial-revolution rates (10% nominal, 5% inflation-adjusted)?
+- `INS-260603-F0BE` [medium] Frans (Amazon): 'the big next wave in robotics is not the mechanical aspect — China is excellent at that — it's the intelligence layer'; training world models for specific industrial use cases (not humanoids dancing on stage) is where the real impact is, and the US can control that through the likes of Amazon and Google.
 - `INS-260328-8FC9` [medium] Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
+- `INS-260530-18D5` [medium] Coco: vertical AI products today look niche (Blueprints AI only does construction documentation, not design or takeoff) — but the same compounding pattern that took Google Scholar → Search is now visible across vertical AI tools as they expand from one workflow step to the full chain.
 - `INS-260327-6E57` [medium] Video diffusion models fine-tuned on real robot data can simulate counterfactual physical scenarios, scaling robotics training data exponentially without teleoperation.
 - `INS-260323-758B` [low] Musk predicts humanoid robot production at 1-10 billion units/year (vs 100M vehicles/year), requiring edge inference chips at a scale that justifies building an entirely new fab rather than competing for existing capacity.
 - `INS-260409-D465` [low] OpenAI offering PE investors a 17.5% minimum guaranteed return in a deployment JV is a non-standard capital structure that suggests either extreme confidence in returns or (more likely) growing capital-raise pressure.

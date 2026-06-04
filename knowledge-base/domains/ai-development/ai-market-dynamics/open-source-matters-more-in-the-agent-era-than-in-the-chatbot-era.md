@@ -49,7 +49,7 @@ related:
   - INS-260423-72D0
   - INS-260410-0E26
   - INS-260403-2152
-  - PRI-260406-D8C3
+  - INS-260603-B263
 evidence:
   - id: INS-260403-2152
     type: REFINES

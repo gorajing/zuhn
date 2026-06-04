@@ -48,10 +48,10 @@ stance: >-
   users but invited to learn about them) establish a durable permission
   relationship that conventional advertising and email marketing cannot match
 related:
+  - INS-260603-6D08
   - INS-260410-7AA0
   - PRI-260406-DF94
   - INS-260327-C9A3
   - INS-260322-D57C
-  - INS-260410-FA70
 ---
 Permission marketing's core principle (delivering anticipated, personal, relevant messages) reaches a new form with AI-assistant interfaces. A user who invites a brand's AI into their workflow (uploads their tool chest, their book collection, their design history, their preferences) creates a relationship that cannot be replicated by competitors through advertising. The brand becomes helpful in specific moments where the alternative is friction (where's that tool? do I need this part? what goes with what I already own?). Each interaction compounds the permission: the more the user teaches, the more asymmetric the relationship becomes in that brand's favor. Critically, this only works if the AI is invited rather than deployed as background spying. The strategic implication for consumer and SMB brands: build the brand's AI assistant as a welcomed partner, not a tracking layer, and optimize for user teaching investment rather than marketing reach.

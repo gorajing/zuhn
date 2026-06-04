@@ -55,9 +55,9 @@ related:
   - INS-260330-4B84
   - INS-260330-81A7
   - INS-260410-B501
+  - INS-260603-6E59
   - PRI-260406-FA5B
   - PRI-260406-F51A
-  - INS-260330-14B1
 ---
 Sam at SLAC: neutrino detector images are 3D high-resolution. Today's standard is supervised training on simulated data, but simulations don't perfectly capture neutrino-argon nucleus interactions, and that simulation-to-reality gap is the next-generation experimental bottleneck. Alternative: pretrain self-supervised on real raw detector data using physical symmetries (an electron is still an electron after rotation/translation/masking). Generate multiple physically-plausible views, train encoder to map them to the same latent point. The learned representations cluster meaningfully by particle type without ever seeing labels. With 0.1% of original training data (1K images vs 1M), self-supervised pretrained model matches the current state-of-art.
 

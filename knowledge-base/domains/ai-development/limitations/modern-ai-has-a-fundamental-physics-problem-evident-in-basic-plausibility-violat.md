@@ -57,7 +57,7 @@ related:
   - INS-260412-9777
   - PRI-260405-FB37
   - INS-260328-EA3A
-  - PRI-260413-B2FF
+  - INS-260603-C102
 ---
 Tolias's challenge to scale-only narratives: shows two video clips, one physically plausible and one not. Any human (or animal) can identify the violation immediately. But despite hundreds of millions of dollars in video generation training over the past few years, AI models continue to produce videos that violate basic physics. This is evidence that current architectures lack genuine world understanding — not just an artifact of insufficient scale. Implication: pure compute scaling may not be sufficient for AGI; new architectural approaches (potentially informed by how brains actually work) may be required.
 

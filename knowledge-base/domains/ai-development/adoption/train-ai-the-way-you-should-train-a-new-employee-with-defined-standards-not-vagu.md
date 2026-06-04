@@ -49,7 +49,7 @@ related:
   - INS-260327-98F7
   - PRI-260405-6867
   - PRI-260405-0AC6
+  - INS-260603-73D5
   - PRI-260406-8FDF
-  - INS-260329-DAD1
 ---
 Hormozi's observation is that the operator skills transfer between humans and AI: define observable behaviors, give examples, reinforce patterns. The advantage of AI is loop speed — what takes 18 months of feedback cycles with a human hire can take 100 minutes with an agent, and the agent never forgets rule #3 you gave it sixteen iterations ago. The failure mode is not technical; it's linguistic and cognitive. Operators who can't articulate 'what good looks like' for their own work cannot train humans OR AI effectively, and this weakness becomes a binding constraint that didn't exist when mediocre delegation was hidden inside role ambiguity.

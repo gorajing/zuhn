@@ -52,10 +52,10 @@ stance: >-
   market trends allows the flagship brand to preserve its conservatism and
   reputation.
 related:
+  - INS-260603-94A6
   - INS-260403-5554
   - INS-260402-086D
+  - INS-260603-6D08
   - INS-260328-ACC3
-  - INS-260409-241B
-  - INS-260404-2F49
 ---
 Tudor was founded by Hans Wilsdorf in 1926 as a cheaper alternative to Rolex, using Rolex cases but third-party ETA movements. Today it's less than 1% of Rolex's production, which means the 'affordable alternative' story doesn't really hold — if volume were the point, Rolex would push it much harder. The better explanation is that Tudor functions as an innovation lab insulated from the main brand's reputation. Tudor can launch weird dial colors, ceramic bezels, titanium cases, and unusual endorsements (Tiger Woods on Tudor, not Rolex). If these flop, the Rolex-faithful barely notice; if they resonate, Rolex quietly adopts the feature 5-10 years later with more polish. This solves a core luxury dilemma: how do you innovate without risking the consistency that your brand equity depends on? The cost of carrying a rarely-sold sub-brand is tiny compared to the cost of a single failed experiment on the flagship. This is the inverse of most brand extension thinking — instead of using the sub-brand to reach new customers, use it as a firewall that lets the main brand refuse to change while still absorbing what the market teaches. Applicable to any brand whose primary asset is consistency and trust.

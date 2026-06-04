@@ -57,11 +57,11 @@ stance: >-
   environments where mistakes are cheap and learning is fast, not in complex
   unstructured settings.
 related:
-  - INS-260323-DDC2
   - INS-260330-F7B2
+  - INS-260603-C102
   - INS-260405-E34C
   - INS-260405-E4FC
-  - INS-260412-1A10
+  - INS-260603-F0BE
 ---
 The deployment roadmap for humanoid robots follows the same logic as any complex system entering the real world: start where variance is low, feedback is fast, and errors are recoverable. Manufacturing floors, warehouses, and security patrol routes have defined physical layouts, predictable task sequences, and finite exception states. This lets robots accumulate training data and improve rapidly while limiting the blast radius of failures.
 

@@ -54,13 +54,13 @@ related:
   - INS-260324-5481
   - INS-260327-9DA6
   - INS-260327-C05A
-  - INS-260327-9EE4
   - INS-260330-7251
   - INS-260330-629E
   - INS-260330-0371
   - INS-260330-999F
   - INS-260403-B557
   - INS-260403-35CB
+  - INS-260403-C844
 ---
 Apple's decision to require opt-in ad tracking on iOS didn't just inconvenience Meta — it fundamentally degraded the precision of Facebook's ad targeting, which was the core engine of its business model. This contributed directly to Meta missing earnings forecasts and the subsequent historic crash.
 

@@ -45,7 +45,6 @@ stance: >-
   build speed to capturing and retaining user attention, making Lean Startup's
   build-measure-learn loop obsolete in its original form.
 related:
-  - INS-260403-30E5
   - INS-260403-19C9
   - INS-260403-B617
   - PRI-260406-9FA8

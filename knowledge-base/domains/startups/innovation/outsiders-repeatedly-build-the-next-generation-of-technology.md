@@ -46,7 +46,6 @@ stance: >-
   Incumbent insiders are systematically less likely to develop the next
   technological generation than motivated outsiders poking at existing systems
 related:
-  - INS-260327-C464
   - PRI-260406-BD4D
   - INS-260405-9FD9
   - INS-260330-1266

@@ -21,6 +21,8 @@
 - `INS-260323-F68A` Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
 - `INS-260323-7403` Viral AI doom/boom essays like Citrini Research move stock markets despite containing no concrete mechanism for how AI replaces jobs — they describe what happens after AI works, never how.
+- `INS-260323-1477` Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
+- `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
 - `INS-260323-5C25` Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
@@ -29,5 +31,3 @@
 - `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260323-C8AC` The SaaS selloff blamed on AI disruption is actually the end of a decade-long hypergrowth era — hundreds of billions in private-equity-held software companies are worth less than their acquisition price.
 - `INS-260323-35D4` Bain Capital estimates $2T in revenue needed to justify AI spending but only ~$55B exists — Deutsche Bank says continued parabolic spending is the only path, which they call 'very unlikely.'
-- `INS-260323-1477` Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
-- `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.

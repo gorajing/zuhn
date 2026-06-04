@@ -58,15 +58,15 @@ stance: >-
   improvements in knowledge work.
 related:
   - INS-260323-758B
-  - INS-260325-EF79
   - INS-260323-9BAB
   - INS-260327-9C56
   - PRI-260328-7007
+  - INS-260603-F0BE
+  - INS-260530-5644
   - INS-260405-ADCE
-  - INS-260405-E34C
   - INS-260405-FC36
   - INS-260405-F05B
-  - INS-260404-3BAB
+  - INS-260405-E34C
 ---
 Software AI — LLMs, code generation, reasoning agents — operates on information that already exists in digital form. Its productivity gains are real but bounded by the share of economic activity that is purely informational. The majority of global GDP still involves physical manipulation: manufacturing, logistics, healthcare, construction, agriculture. Physical AI — AI systems that perceive and act in the material world — addresses this much larger surface area.
 

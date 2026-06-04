@@ -57,10 +57,10 @@ stance: >-
   Goodhart's Law trap that breaks every productivity metric.
 related:
   - INS-260423-2B80
+  - INS-260603-915A
   - INS-260519-224B
   - INS-260322-A36C
   - INS-260330-1A63
-  - PRI-260406-818D
 ---
 Levie's anecdote from a recent customer conversation: a large company famously incentivizes AI adoption by counting employee token consumption. The result: employees ('me and my co-workers') have agents do useless tasks just to hit the number. This is fake productivity producing potentially-problematic artifacts because the use is performative rather than productive.
 

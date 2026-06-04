@@ -52,14 +52,13 @@ stance: >-
   basic logic) but cannot orchestrate them into a working deployable application
   — the orchestration layer is the next frontier.
 related:
-  - INS-260321-C5AA
   - INS-260327-73BE
   - INS-260404-21E6
   - INS-260330-C2C4
   - INS-260403-643A
   - INS-260410-1ED3
+  - INS-260321-C5AA
   - INS-260327-4CB3
-  - INS-260410-E3FB
   - INS-260514-4436
   - INS-260514-DE49
 ---

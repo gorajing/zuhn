@@ -53,12 +53,13 @@ stance: >-
   encounter inside tools they already use far more readily than new standalone
   AI products.
 related:
-  - PRI-260323-49F8
   - INS-260330-C071
   - INS-260403-F112
+  - INS-260530-18D5
   - INS-260403-EDFB
   - INS-260403-990E
   - INS-260325-FDF5
+  - PRI-260323-49F8
   - INS-260402-B36F
 ---
 This fundraising kit exemplifies a powerful AI distribution pattern: rather than building a standalone AI fundraising tool, the creators embedded AI capabilities into Notion — a platform founders already use daily. The AI prompts for pitch generation, investor outreach, and Q&A practice aren't separate products; they're features within an existing workflow.

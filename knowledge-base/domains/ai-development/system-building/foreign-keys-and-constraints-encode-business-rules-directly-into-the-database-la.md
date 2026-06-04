@@ -46,7 +46,6 @@ stance: >-
   application code produces more reliable systems because the database is the
   single source of truth that all applications share
 related:
-  - INS-260329-BE35
   - INS-260329-47DD
   - INS-260329-2FB8
   - INS-260329-6286
@@ -56,6 +55,7 @@ related:
   - INS-260329-D297
   - INS-260329-1277
   - PRI-260403-9E80
+  - PRI-260405-2A95
 evidence:
   - id: INS-260329-BE35
     type: SUPPORTS

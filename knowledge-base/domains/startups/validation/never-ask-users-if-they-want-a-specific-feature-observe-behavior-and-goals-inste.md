@@ -54,7 +54,7 @@ related:
   - PRI-260407-2E0F
   - INS-260404-323D
   - INS-260403-E5D4
-  - PRI-260405-D586
+  - INS-260603-B7BA
 ---
 Shear identifies several interview anti-patterns that produce misleading data. Asking 'would you pay for a subscription?' or 'would you use this feature?' generates socially-desirable positive responses. Showing users your product primes them to react to your framing rather than reveal their actual problems. He calls this the 'horseless carriage effect' — users asked about features will request a faster horse rather than helping you discover the car.
 

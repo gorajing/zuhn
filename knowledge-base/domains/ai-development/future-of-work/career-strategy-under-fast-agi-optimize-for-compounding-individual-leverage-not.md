@@ -63,7 +63,6 @@ stance: >-
   which means deep technical fundamentals and taste still matter more than rote
   skills.
 related:
-  - INS-260323-FE69
   - INS-260404-29AF
   - INS-260403-7825
   - INS-260403-063E

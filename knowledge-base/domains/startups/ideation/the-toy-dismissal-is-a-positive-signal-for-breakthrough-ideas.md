@@ -43,10 +43,10 @@ stance: >-
   found an overlooked opportunity rather than a flaw.
 related:
   - INS-260327-3A71
+  - INS-260603-F0BE
   - INS-260403-F157
   - INS-260320-630D
   - INS-260327-FCCF
-  - INS-260403-924B
 evidence:
   - id: INS-260403-F157
     type: TRANSFERS_TO

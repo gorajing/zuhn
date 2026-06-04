@@ -56,7 +56,6 @@ stance: >-
   deliberately reduce to seed-stage headcount and burn rather than maintaining
   their current operating structure while searching for a new direction.
 related:
-  - INS-260323-CB34
   - INS-260327-B4C0
   - INS-260327-9018
   - INS-260329-2A70
@@ -66,6 +65,7 @@ related:
   - PRI-260406-FCF0
   - INS-260403-7E27
   - INS-260403-7CAA
+  - INS-260410-17AE
 evidence:
   - id: INS-260330-B6AD
     type: TRANSFERS_TO

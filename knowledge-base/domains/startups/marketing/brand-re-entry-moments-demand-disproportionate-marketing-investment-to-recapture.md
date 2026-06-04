@@ -50,11 +50,11 @@ stance: >-
   steady-state competitors because they are fighting both obscurity and outdated
   brand associations
 related:
+  - INS-260603-46AE
   - INS-260403-C844
   - INS-260403-D49B
   - INS-260505-AE69
   - INS-260409-2E31
-  - INS-260328-ACC3
 ---
 When Nokia planned its 2017 return, they invested in contracting MOTHER—one of the UK's largest independent advertising firms with clients like Google, Microsoft, and Coca-Cola—for a full marketing blitz. This reflects a critical insight: brand re-entry is asymmetric. You don't get a second chance at a comeback narrative.
 

@@ -50,7 +50,6 @@ stance: >-
   requirements into structured specifications through regular meetings creates
   the essential translation layer between human intent and AI-executable work.
 related:
-  - INS-260327-91C7
   - INS-260329-83AA
   - INS-260320-E872
   - INS-260330-2306

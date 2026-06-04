@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 130 insights
+> 133 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -22,6 +22,7 @@
 - `INS-260409-53F7` [high] AI is both genuinely automating some jobs and serving as convenient executive cover for layoffs, and the new jobs it creates barbell between high-skill orchestration and dehumanizing data annotation.
 - `INS-260413-CAA6` [high] New AI PhDs in US/Canada +22% from 2022-2024 but industry's share of new PhDs stayed flat — all the growth went to academia, reversing a decade-long trend and disproving the 'brain drain' narrative.
 - `INS-260403-F0EE` [high] Individual AI productivity gains are real but haven't conclusively appeared in aggregate statistics yet, making macro claims premature.
+- `INS-260530-8DE3` [high] Abhije (Google AI PM): 'Individually all of us are doing 10x better, but the team itself, we don't want to do 10x better.' AI gives individuals capacity their organizations cannot absorb.
 - `INS-260423-3AC1` [high] Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
 - `INS-260514-8283` [high] AI substitutes 80% of cases; value moves to the 20% — edge cases, novel situations, high-stakes judgment, deep expertise. Invest in being valuable in the 20% AI can't reach; don't compete on the 80%.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
@@ -74,11 +75,13 @@
 - `INS-260402-1FE9` [high] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
 - `INS-260524-B783` [high] Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260423-7DC6` [high] Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7.
+- `INS-260530-D34F` [medium] Abhije: PMs now spin up an agent to make a code change without full code-base context, then hand the result to engineering for review — engineers are ironically doing more work reviewing PM-generated agent output than they were before AI.
 - `INS-260323-D2AA` [medium] AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260402-C98A` [medium] Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260519-20E0` [medium] Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260403-B539` [medium] AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260405-7624` [medium] When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
+- `INS-260603-B263` [medium] Harvey (keynote): assume ~90% of today's tasks get automated by AI — but that automates knowledge WORK (the task), not the knowledge WORKER; there's no traditional individual-contributor work anymore because every IC is now managing AI/agents, what he calls the 'gold collar' era.
 - `INS-260327-DC0B` [medium] AI can synthesize across four Ikigai dimensions (passion, prowess, purpose, profit) to generate personalized career paths with specific waypoints, transforming a vague self-reflection exercise into an actionable planning tool.
 - `INS-260410-3E37` [medium] Coding-model TFP gains went 5% → 15-20% in six months inside Anthropic, and continue snowballing as Amdahl's law bottlenecks get cleared one by one.
 - `INS-260329-72C1` [medium] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.

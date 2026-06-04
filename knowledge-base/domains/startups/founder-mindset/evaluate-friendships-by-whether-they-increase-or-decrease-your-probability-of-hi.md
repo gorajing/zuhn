@@ -53,7 +53,6 @@ stance: >-
   those who decrease it should be removed
 related:
   - INS-260321-C0A4
-  - INS-260327-6E33
   - INS-260323-40AA
   - PRI-260406-E4B0
   - INS-260330-BBE7

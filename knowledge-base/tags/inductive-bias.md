@@ -5,3 +5,4 @@
 - `INS-260505-23FB` Use Earth's geometry as a basis function, not a learning target — spherical harmonics give the model the right inductive bias for free.
 - `INS-260410-268D` WaveNet-style tree structures that fuse two elements at a time through multiple layers preserve more information than flattening all context into a single hidden layer.
 - `INS-260505-AFAB` Two grad student talks, two domains, same lesson: encode the physics in the objective and tiny labeled datasets suffice.
+- `INS-260603-4387` Satish: people create lat/long grids and throw them at a model expecting it to learn — but 1° of latitude is ~111km at the equator and near-0 at the poles, so the representation itself is distorted; his team instead represents Earth as a dense triangular geodesic grid so information density per cell is consistent.

@@ -48,12 +48,12 @@ stance: >-
   Who adopts a technology and why they adopt it are more predictive of its
   long-term success than its technical specifications.
 related:
-  - INS-260327-E41B
   - INS-260327-E75F
   - INS-260402-B12D
   - INS-260404-0095
+  - INS-260603-6D08
   - INS-260404-5017
-  - INS-260409-A4F0
+  - INS-260327-E41B
   - INS-260501-D9D1
 evidence:
   - id: INS-260327-E41B

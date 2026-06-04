@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 71 insights
+> 76 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -34,6 +34,7 @@
 - `INS-260514-731A` [high] Black-box opacity is STRUCTURAL, not a temporary engineering gap. The computer creates the weights, not humans — internal patterns aren't legible to humans because they weren't designed by humans. Predicting edge-case behavior is impossible.
 - `INS-260410-699C` [high] Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260403-F9C7` [high] Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
+- `INS-260530-5644` [high] Brian Wong (Outpost Capital): high-quality physical-AI data comes from data-collection factories where humans wear VR headsets and replay actions for thousands of hours per robot/environment/task — change the hardware or workspace and the dataset is discarded.
 - `INS-260404-0C67` [high] Quantum advantage comes from interference that amplifies correct answers and suppresses wrong ones, not from checking all possibilities simultaneously.
 - `INS-260412-09A7` [high] Quantum fluctuations stretched during cosmic inflation became the density variations that determined where all galaxies, stars, and gravitationally bound groups would form.
 - `INS-260410-09B4` [high] Curve-fitting AI can keep adding epicycles to Ptolemaic models but can't make the global swap to a Copernican frame, because locally the switch looks worse.
@@ -59,17 +60,21 @@
 - `INS-260410-D49F` [medium] Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.
+- `INS-260603-1389` [medium] Ichi (Meta): today's AI can write apps, make movies, and generate stories, but a real-world robot still struggles to understand touch and physical perception — the gap isn't language, it's the missing spatial/world-representation layer between language and embodied action.
 - `INS-260403-B8AA` [medium] Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
 - `INS-260410-9FE6` [medium] Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
+- `INS-260530-ADED` [medium] PayPal's explicit feedback to the Google ADK team is that long-session support and shared cross-agent memory are missing — they've been bolting these on themselves, and other production teams hit the same gap.
 - `INS-260505-7B61` [medium] After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing.
 - `INS-260325-3D31` [medium] Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.
 - `INS-260323-FE69` [medium] Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
 - `INS-260411-59F7` [medium] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - `INS-260325-CC49` [medium] The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260410-B3D7` [medium] LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
+- `INS-260602-E2BD` [medium] Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260325-A1B9` [medium] Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
 - `INS-260403-04AD` [medium] The 'stochastic parrot' framing relies on hallucinations seeming alien and incomprehensible, but reframing them as guessing reveals a familiar, goal-directed behavior.
 - `INS-260403-4803` [medium] LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
 - `INS-260325-3F86` [medium] AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
+- `INS-260603-A09F` [medium] Frans/Rob (Amazon/Zoox): LLMs work because we distilled all of humanity's knowledge from the internet, but there's no equivalent corpus of 3D scene scans; people create virtual worlds to train on, but 'everything is fake at the beginning' and 'no matter how many virtual worlds you create, even infinite, it's never going to be enough.'
 - `INS-260327-684D` [medium] Cronin's sadness about alien life: it's probably everywhere but our causal cones may never overlap, meaning we might need to create alien intelligence in the lab rather than discover it in space.
 - `INS-260330-2154` [medium] When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.

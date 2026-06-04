@@ -57,8 +57,8 @@ related:
   - INS-260323-D288
   - INS-260327-2627
   - INS-260410-E3FB
+  - INS-260603-63A9
   - PRI-260407-7C1A
-  - PRI-260323-7BFA
 evidence:
   - id: INS-260323-D288
     type: EXTENDS

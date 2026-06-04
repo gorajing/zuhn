@@ -51,10 +51,10 @@ stance: >-
   horizontal lead-gen to fully managed fintech-enabled transactions
 related:
   - INS-260403-426A
+  - INS-260530-18D5
   - INS-260404-CCB1
   - INS-260404-A2C4
   - INS-260514-FAB4
-  - INS-260410-BB93
 ---
 Across hospitality, food delivery, real estate, and automotive, marketplaces have followed an identical evolutionary path: (1) horizontal lead generation (Craigslist), (2) vertical lead generation (HomeAway, Trulia), (3) vertical transactional (Airbnb, Redfin), and (4) tightly managed with fintech (Opendoor, Fair.com).
 

@@ -53,10 +53,10 @@ related:
   - INS-260329-4751
   - INS-260329-82B1
   - INS-260330-F9B4
-  - INS-260404-4434
   - INS-260403-5DAD
   - INS-260403-3664
   - INS-260405-B88A
+  - INS-260403-063E
 ---
 The traditional separation between VC (growth-stage, high-risk bets) and PE (mature companies, cost optimization) is breaking down because AI automation tools now let venture-backed startups achieve PE-level operational efficiency from day one. This means VCs can offer portfolio companies the same cost-cutting playbooks that were once exclusively PE territory, while PE firms must move faster and earlier to capture AI-native companies before they scale beyond acquisition range.
 

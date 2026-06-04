@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 48 insights
+> 49 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -36,6 +36,7 @@
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.
 - `INS-260514-E860` [medium] OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives.
 - `INS-260514-4436` [medium] Attach domain-specialized skill files (Brand Kit, Frontend Web, Mobile App) for design tasks — they encode the configuration logic non-designers don't know to specify, dramatically improving output quality.
+- `INS-260530-B694` [medium] PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260405-00DE` [medium] Background noise carries exploitable signals about patient context that standard noise cancellation discards.
 - `INS-260505-4A52` [medium] Stop publishing PDFs. Publish paper agents — interactive AIs that explain themselves, apply themselves, and collaborate with other paper agents.
 - `INS-260524-1A41` [medium] Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.

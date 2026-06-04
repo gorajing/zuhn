@@ -51,11 +51,10 @@ stance: >-
   competitive moats than those who only invest in improving their core product.
 related:
   - INS-260327-91E7
+  - INS-260603-D44B
   - INS-260403-710A
   - PRI-260406-F9AC
   - PRI-260406-1849
-  - INS-260329-1277
-  - INS-260410-0A28
   - INS-260501-6ECF
 evidence:
   - id: INS-260329-1277

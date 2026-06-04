@@ -51,7 +51,6 @@ stance: >-
   A single purple-tinted normal map image adds more perceived realism to a 3D
   object than orders of magnitude more geometric complexity would
 related:
-  - INS-260323-4D63
   - INS-260327-EDE4
   - INS-260330-300D
   - INS-260505-7EF5
@@ -61,6 +60,7 @@ related:
   - INS-260330-BBEE
   - INS-260330-51AE
   - INS-260330-2200
+  - INS-260330-CBFD
 evidence:
   - id: INS-260330-4F10
     type: CHALLENGES

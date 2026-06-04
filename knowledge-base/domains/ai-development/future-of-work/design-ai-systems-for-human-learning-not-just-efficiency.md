@@ -43,7 +43,6 @@ resolutions:
     engaged and build expertise.
 related:
   - INS-260322-3D21
-  - INS-260323-9492
   - INS-260323-F204
   - INS-260321-2241
   - PRI-260321-7307
@@ -52,6 +51,7 @@ related:
   - INS-260330-856B
   - INS-260325-EE14
   - INS-260327-7F32
+  - INS-260327-AC8E
 stance: >-
   The biggest risk of AI adoption isn't that it fails — it's that it works so
   well that humans stop learning

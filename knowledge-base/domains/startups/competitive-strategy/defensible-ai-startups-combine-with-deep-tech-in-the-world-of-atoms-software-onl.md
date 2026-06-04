@@ -60,9 +60,9 @@ related:
   - INS-260322-54F3
   - INS-260330-72D0
   - PRI-260411-FB73
+  - INS-260603-7252
   - INS-260410-7292
   - PRI-260412-7664
-  - PRI-260328-C528
 ---
 Hassabis's founder advice: software-only AI wrappers are systematically vulnerable — every foundation model update obsoletes some layer of them. The defensible play is interdisciplinary: AI plus a deep technology area (materials science, drug discovery, climate modeling, robotics, advanced manufacturing). The moat comes from the world of atoms — physical manufacturing, regulatory hurdles, domain expertise that doesn't fit into a foundation model's pretraining set, and slow-moving feedback loops.
 

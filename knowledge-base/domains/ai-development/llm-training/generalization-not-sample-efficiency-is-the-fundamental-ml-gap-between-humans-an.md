@@ -64,7 +64,6 @@ stance: >-
   is the crux challenge of the field.
 related:
   - INS-260409-BB40
-  - INS-260410-6B98
   - INS-260408-C572
   - INS-260410-67D5
   - INS-260330-4DC5

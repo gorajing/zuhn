@@ -1,4 +1,5 @@
 # Tag: ai-product-design
 
 - `INS-260327-B9AD` Pace's CEO argues that building AI into task-level workflow nodes is 'relatively short on AI' — the real opportunity is having agents run entire standard operating procedures end-to-end, replacing BPO services completely.
+- `INS-260603-6991` Lu Si-Chen (Microsoft): if you talk to Claude at midnight it tells you to go to sleep rather than keep you engaged — brands should stop trying to keep users on-platform and instead optimize for helping them make the right decision and leave.
 - `INS-260403-F112` AI embedded within established innovation frameworks outperforms generic AI tools because it combines methodology guardrails with contextual workflow integration.

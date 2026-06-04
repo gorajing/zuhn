@@ -53,7 +53,6 @@ stance: >-
   designed to force technology transfer and local manufacturing, effectively
   blocking companies unwilling to localize their supply chains.
 related:
-  - INS-260324-2244
   - INS-260330-9FCC
   - INS-260330-A1DB
   - INS-260403-6570

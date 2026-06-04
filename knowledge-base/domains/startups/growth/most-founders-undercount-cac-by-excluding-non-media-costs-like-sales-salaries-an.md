@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260322-7B61
   - INS-260327-58AC
+  - INS-260603-15F4
   - INS-260403-096C
   - INS-260330-6611
-  - INS-260327-77FA
 ---
 A common trap in early-stage startups is calculating CAC using only paid media spend, which dramatically understates the real cost of acquiring customers. A complete CAC calculation includes paid media, content production and SEO costs, marketing tools and CRM platforms, sales team salaries and commissions, outsourced agencies, and even onboarding tools for PLG motions.
 

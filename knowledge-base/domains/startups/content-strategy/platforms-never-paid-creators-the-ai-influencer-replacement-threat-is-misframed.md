@@ -52,9 +52,9 @@ related:
   - INS-260327-E07A
   - INS-260330-80A7
   - INS-260404-2F57
+  - INS-260603-46AE
   - INS-260330-7251
   - INS-260321-2F09
-  - PRI-260326-DB67
   - INS-260514-E462
 ---
 Gary corrects a common creator worry: the threat isn't that Meta or TikTok will replace creators with AI to cut payroll, because platforms don't pay creators in the first place — they monetize the creator-consumer connection via ads and brand deals. The actual displacement vector is on the brand side: L'Oreal might, over the next 5-10 years, choose to own 100 AI faces (Mickey Mouse style) rather than pay human creators for brand deals, producing 100 videos instead of 1 for the same spend. Stigma and pushback keep big brands away from this today, but the trajectory is clear. Understanding this distinction matters for creators planning their defense strategy — the moat is analog/real-life presence and brand relationships, not volume of content.

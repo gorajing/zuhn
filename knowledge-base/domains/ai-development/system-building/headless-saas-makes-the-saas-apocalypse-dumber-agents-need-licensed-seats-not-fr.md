@@ -59,10 +59,10 @@ stance: >-
   that no enterprise will accept.
 related:
   - INS-260404-B8EB
+  - INS-260530-777B
   - INS-260405-9EE4
   - PRI-260406-B785
   - INS-260403-586C
-  - INS-260410-46BB
 ---
 Sinofsky's structural argument against the 'SaaS apocalypse': going headless doesn't collapse SaaS pricing, it changes its shape. Every agent must have an identity tied to a principal (the human delegating work) with permissions matching that principal — otherwise agents become a security disaster (any user can spawn 'super-smart agents that know everything I'm not allowed to know'). That identity is operationally a license. Maybe priced lower than human seats (because read-only, or because tied to a human seat), but a license nonetheless.
 

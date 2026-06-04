@@ -53,7 +53,6 @@ stance: >-
   LLMs and biological intelligence occupy fundamentally different points in
   intelligence-space and analogies from animal learning mislead LLM research.
 related:
-  - INS-260323-1BF7
   - INS-260403-141E
   - INS-260410-F985
   - INS-260410-1248

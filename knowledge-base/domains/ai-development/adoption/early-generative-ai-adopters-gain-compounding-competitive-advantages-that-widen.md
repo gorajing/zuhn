@@ -48,7 +48,6 @@ stance: >-
   advantages that compound, making late adoption progressively harder to recover
   from.
 related:
-  - INS-260322-3D21
   - INS-260330-318C
   - INS-260403-4E7A
   - INS-260403-9A0C

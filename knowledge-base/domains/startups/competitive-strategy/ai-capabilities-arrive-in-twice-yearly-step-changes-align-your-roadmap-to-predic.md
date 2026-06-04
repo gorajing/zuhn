@@ -63,10 +63,10 @@ stance: >-
 related:
   - INS-260405-FAA3
   - INS-260405-0D9A
+  - INS-260603-A506
+  - INS-260603-DFA6
   - PRI-260406-08E9
   - INS-260403-4803
-  - PRI-260328-A82C
-  - INS-260403-E25F
 ---
 Masad's pattern recognition: AI capabilities have stepped twice a year since at least 2024. Mid-2024 Claude Sonnet enabled meaningful code generation (vs GPT-3.5's 'laziness'); late 2024 long-horizon reasoning emerged; early 2025 vibe coding revolution; late 2025 the autonomous agent revolution (Opus 4.6, OpenClaw). Replit aligns its 6-month release cadence to predict and exploit each inflection — Replit Agent 3 was the most autonomous agent on the market in September 2025, two months before true autonomy actually arrived.
 

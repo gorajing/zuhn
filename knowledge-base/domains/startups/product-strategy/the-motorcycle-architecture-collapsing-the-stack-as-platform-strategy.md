@@ -55,7 +55,6 @@ related:
   - INS-260410-84DA
   - PRI-260328-D5EB
   - INS-260501-FD20
-  - INS-260410-AAFE
 ---
 While competitors built powerful but fragmented developer tools (the 'skyscraper' approach), Replit built an integrated 'motorcycle' — editor, database, and hosting within a single container. This seemed like a simplification tradeoff at the time, but it became the critical enabler for AI agents.
 

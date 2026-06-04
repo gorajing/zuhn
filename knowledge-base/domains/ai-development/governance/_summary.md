@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 32 insights
+> 35 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` [high] AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
@@ -15,6 +15,8 @@
 - `INS-260413-B7A7` [high] US congressional AI witnesses grew from 5 in 2017 to 102 in 2025 (20x), and industry's share nearly tripled from 13% to 37% to become the largest witness group — academia's share fell to 15%.
 - `INS-260412-4493` [high] Camera-model forensic signatures are destroyed by re-compression during internet sharing, eliminating the main technical detection method precisely where fakes circulate.
 - `INS-260410-CDDD` [high] You cannot deploy powerful AI systems until a human indemnifies their actions — the legal infrastructure of liability, property, and rights is the real deployment bottleneck, not compute or alignment research.
+- `INS-260530-2E27` [high] Coco + Brian Wong: in construction, legal, medical, and structural engineering, a licensed professional must stamp/review every AI output before submission — the license-holder takes liability, so AI is a productivity multiplier inside that boundary but never replaces it.
+- `INS-260603-6B3D` [high] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
 - `INS-260412-4233` [high] ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
 - `INS-260409-BBBA` [high] 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
 - `INS-260413-7C61` [high] 2025 saw US federal policy shift to deregulation (Jan 23 EO, Jul 23 AI Action Plan, Dec 12 EO curbing state laws) while Texas TRAIGA, California SB 53, Montana Right to Compute, and Utah HB 452 passed substantive state AI laws.
@@ -27,6 +29,7 @@
 - `INS-260410-230E` [medium] Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
 - `INS-260501-B53D` [medium] The vocabulary of AI safety regulation is the toolkit a wannabe despot needs — vague terms become whatever the government wants them to mean.
 - `INS-260410-7AC1` [medium] Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
+- `INS-260603-6C2A` [medium] The panel's security tiering: safest is the model running on your own physical infrastructure (no data leaves), next is a model inside your existing cloud (nothing leaves the cloud environment), riskiest is data leaving the environment — and an over-permissioned cloud agent can read all your emails and send on your behalf, so both the machine and whoever operates it can see that data.
 - `INS-260412-837F` [medium] DeepMind required Google to establish an AI ethics board as a condition of its $500M acquisition, setting an early precedent for AI governance.
 - `INS-260501-2759` [medium] Wider diffusion = more vendors willing to comply, not more places for resistance to take root.
 - `INS-260423-31A1` [medium] Hinton: if the Chinese figured out how to prevent AI from ever wanting to take control away from people, they would immediately tell the Americans, because they don't want AI taking control in America either.

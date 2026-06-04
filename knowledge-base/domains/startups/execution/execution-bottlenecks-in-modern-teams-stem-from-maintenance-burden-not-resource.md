@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260329-E7A4
   - PRI-260323-9D46
+  - INS-260530-8DE3
   - PRI-260405-86E0
   - INS-260404-EC32
   - PRI-260328-4CC0
-  - INS-260323-D621
 ---
 Modern teams spend the majority of their engineering cycles maintaining existing infrastructure, updating dependencies, fixing regressions, and managing technical debt. The actual percentage of effort that goes toward building new features is surprisingly small in most organizations.
 

@@ -63,7 +63,6 @@ related:
   - PRI-260406-466E
   - INS-260402-3134
   - INS-260329-B194
-  - INS-260403-426A
 evidence:
   - id: INS-260330-7ED0
     type: CONTRADICTS

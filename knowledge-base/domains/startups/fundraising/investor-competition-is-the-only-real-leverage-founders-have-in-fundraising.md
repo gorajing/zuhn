@@ -46,7 +46,6 @@ stance: >-
   The only way to get investors to close deals promptly and offer fair terms is
   to maintain credible alternative options throughout the process
 related:
-  - INS-260327-FA43
   - INS-260329-4B45
   - INS-260403-4960
   - INS-260403-47B7

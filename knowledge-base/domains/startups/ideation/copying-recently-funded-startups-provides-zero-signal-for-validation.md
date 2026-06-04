@@ -48,7 +48,7 @@ related:
   - INS-260328-F301
   - INS-260328-6F5B
   - INS-260402-EEDB
-  - INS-260403-5EB4
+  - INS-260403-8302
 stance: Using another company's funding as market validation is a false signal
 evidence:
   - id: INS-260329-4605

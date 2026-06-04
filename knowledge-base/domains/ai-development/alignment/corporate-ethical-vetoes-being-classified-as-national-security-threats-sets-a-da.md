@@ -50,7 +50,6 @@ stance: >-
   risk' to national security, it creates a precedent where maintaining ethical
   standards becomes a competitive disadvantage and a punishable position.
 related:
-  - INS-260321-86F1
   - INS-260403-C8EF
   - INS-260403-9012
   - INS-260403-1879

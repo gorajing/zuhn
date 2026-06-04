@@ -50,12 +50,11 @@ stance: >-
   that undermines the safety the gates are supposed to provide.
 related:
   - INS-260330-4E68
-  - INS-260403-EC1D
   - INS-260403-23AA
   - INS-260404-3ACB
   - INS-260410-F0EF
   - INS-260410-E233
-  - INS-260330-14CA
+  - INS-260603-6B3D
 ---
 Google's HITL pattern draws a clear line: agents handle groundwork, but humans authorize actions that are irreversible or carry significant consequences. The examples are specific — financial transactions, production deployments, actions on sensitive data.
 

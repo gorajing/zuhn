@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 91 insights
+> 92 insights
 
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
@@ -36,6 +36,7 @@
 - `INS-260505-5510` [high] A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution.
 - `INS-260408-76F4` [high] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
 - `INS-260410-0923` [high] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
+- `INS-260603-4387` [high] Satish: people create lat/long grids and throw them at a model expecting it to learn — but 1° of latitude is ~111km at the equator and near-0 at the poles, so the representation itself is distorted; his team instead represents Earth as a dense triangular geodesic grid so information density per cell is consistent.
 - `INS-260505-9E07` [high] Simulators are causal-generative-models with mechanism inside, but you can't backprop through Geant4 — that's why we approximate them with neural networks.
 - `INS-260505-8E0B` [high] It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'
 - `INS-260514-8A98` [high] Measure AI bias amplification BEFORE deployment by embedding the relevant literature corpus and computing distance from the main knowledge cluster. Neglected tropical diseases are 44% more isolated — and AI predicts them 44% worse.

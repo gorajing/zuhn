@@ -65,8 +65,8 @@ related:
   - INS-260327-5CB0
   - INS-260330-B1A3
   - INS-260327-94CC
+  - INS-260530-A86A
   - INS-260330-8686
-  - INS-260321-3808
 ---
 When Liberty Media acquired F1, they initially kept Bernie Ecclestone as CEO with Chase Carey as chairman. Within months it became obvious there was no room for two bosses: as long as Bernie held the reins, the strategic moves Liberty needed — fixing team relationships, partnering with race promoters, letting drivers post on Instagram, greenlighting Drive to Survive — were structurally blocked. His entire identity and network depended on controlling access, charging maximum race fees, and keeping the sport behind a paywall. Liberty fired him. The modernization the sport needed could not happen with him in the room.
 

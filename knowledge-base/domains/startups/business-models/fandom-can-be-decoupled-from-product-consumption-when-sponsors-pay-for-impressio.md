@@ -66,10 +66,10 @@ stance: >-
 related:
   - INS-260327-4F94
   - INS-260410-5581
+  - INS-260603-6D08
   - INS-260410-7B46
   - INS-260403-B635
   - INS-260410-58A5
-  - INS-260327-092E
 ---
 Roughly half of F1's US fans never watch a live Grand Prix. They discovered the sport through Netflix's Drive to Survive, follow driver storylines on social media, and can name the constructors' champion — but treat real races as essentially a spoiler for the show they care about. Under Bernie Ecclestone's model, where monetization depended on paywalled broadcast rights and race-fee extraction, this audience would be worthless. Under Liberty's model, where team revenue is ~60% sponsorship, it's highly valuable: sponsor logos accumulate impressions across documentary footage, merchandise, social clips, and hospitality events, entirely independent of live viewership.
 

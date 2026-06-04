@@ -50,7 +50,7 @@ related:
   - INS-260403-7644
   - INS-260404-4130
   - INS-260403-E1E9
-  - INS-260412-FD56
   - INS-260412-B825
+  - INS-260423-4402
 ---
 Emily Kramer (Founder, MKT1; first-ish marketer at Asana, Carta, Astro, Ticketfly) names 'RAM' — random acts of marketing: doing what you've always done, copying competitors, saying yes to every founder request, without thinking about which box is worth checking. AI worsens it because 'more is not more' and AI makes more cheap. The differentiator is focus on what works for this company specifically. This independently corroborates the KB's slop-cannon and rapid-vs-evergreen/focus principles from a second operator, strengthening that cluster rather than adding a lone claim.

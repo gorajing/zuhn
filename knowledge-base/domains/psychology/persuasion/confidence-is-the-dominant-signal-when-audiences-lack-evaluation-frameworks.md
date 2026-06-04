@@ -53,10 +53,9 @@ related:
   - INS-260404-0095
   - PRI-260406-E602
   - PRI-260321-14D8
-  - INS-260403-6908
   - INS-260404-047D
   - INS-260403-963B
-  - INS-260403-3705
+  - INS-260409-156A
 ---
 Investor audiences at early-stage pitches face a double handicap: limited time and limited technical background. In this evaluation vacuum, the founder's own confidence in what they've built becomes — almost by default — the single biggest piece of evidence. This isn't about faking enthusiasm; Graham explicitly warns against saying 'we're passionate' or 'our product is great,' which audiences read as hollow or dishonest.
 

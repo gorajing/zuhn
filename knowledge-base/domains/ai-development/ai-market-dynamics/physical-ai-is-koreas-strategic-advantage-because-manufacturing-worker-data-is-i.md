@@ -46,11 +46,11 @@ resolutions:
     only Korea possesses. Unlike internet data, this can be encrypted and used
     as a geopolitical bargaining chip in the post-globalization era.
 related:
+  - INS-260530-5644
   - INS-260327-CFDC
   - INS-260403-6EA6
   - INS-260410-E71E
   - INS-260322-7282
-  - INS-260404-CE26
   - INS-260330-E670
   - INS-260501-4043
 stance: >-

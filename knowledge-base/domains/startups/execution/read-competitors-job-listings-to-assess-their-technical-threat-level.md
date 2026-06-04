@@ -42,10 +42,10 @@ stance: >-
   reliably than any other public signal
 related:
   - PRI-260328-21AD
+  - INS-260603-BFEE
   - INS-260327-EE5E
   - INS-260403-93BB
   - INS-260405-AEA0
-  - INS-260327-C6DC
   - INS-260403-6424
   - INS-260403-504D
   - INS-260403-7068

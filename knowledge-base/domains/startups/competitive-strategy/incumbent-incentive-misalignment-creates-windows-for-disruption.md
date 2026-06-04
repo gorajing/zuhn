@@ -48,7 +48,6 @@ stance: >-
   equity, they will fight technological change instead of adapting to it,
   creating exploitable strategic openings.
 related:
-  - INS-260327-0762
   - INS-260403-B133
   - PRI-260406-1796
   - INS-260404-8520

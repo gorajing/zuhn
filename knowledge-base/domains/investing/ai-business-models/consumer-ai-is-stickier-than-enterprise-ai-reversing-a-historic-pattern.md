@@ -49,14 +49,14 @@ resolutions:
     monetizing the base than risk of price pressure.
 related:
   - PRI-260403-5FC4
+  - INS-260603-B7BA
   - PRI-260328-C581
   - PRI-260407-2E0F
   - INS-260325-040F
-  - INS-260423-20ED
   - INS-260327-290C
-  - INS-260330-7BAE
   - INS-260405-69F1
   - INS-260409-FE1D
+  - INS-260423-20ED
 stance: >-
   In a reversal of the traditional software pattern where enterprise was
   stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B

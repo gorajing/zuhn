@@ -50,11 +50,11 @@ stance: >-
   tasks through embodied AI (robots, drones, autonomous vehicles) not just
   language.
 related:
+  - INS-260603-DDE4
   - PRI-260406-08E9
   - INS-260323-F2C3
   - INS-260412-7BD5
-  - INS-260405-E4FC
-  - INS-260327-9C56
+  - INS-260603-1389
   - INS-260322-02A6
 evidence:
   - id: INS-260322-02A6

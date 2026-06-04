@@ -1,8 +1,5 @@
 # Tag: equity
 
-- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
-- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
-- `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.
 - `INS-260403-5365` Structured, data-driven equity splits based on measurable contributions outperform equal or gut-feel defaults.
 - `INS-260330-C745` Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
@@ -31,3 +28,6 @@
 - `INS-260410-899C` Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
 - `INS-260405-6DAD` Founders taking equity upfront are making the same bet as ladder climbers — they've just restructured the timeline of risk and reward.
 - `INS-260403-CF7C` Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
+- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
+- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
+- `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.

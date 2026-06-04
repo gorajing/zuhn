@@ -63,8 +63,8 @@ related:
   - INS-260327-432E
   - INS-260330-57BB
   - INS-260410-4670
+  - INS-260530-8DE3
   - PRI-260406-842D
-  - INS-260403-9CC1
 ---
 Most businesses that refuse to scale are hiding a failure of ambition. Benchmark is different: the product they sell to founders is 'every partner in the firm will have full context on your company and will take calls from you at any time.' That product has a hard ceiling around 5-6 partners. Adding a seventh partner doesn't grow the firm — it destroys the product. This is counter-intuitive because in most industries, adding capacity adds revenue. In high-touch expertise businesses, adding capacity can subtract value.
 

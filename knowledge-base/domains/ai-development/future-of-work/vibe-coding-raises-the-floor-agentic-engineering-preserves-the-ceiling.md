@@ -53,9 +53,9 @@ related:
   - INS-260323-B029
   - INS-260501-FD20
   - INS-260327-1FA1
+  - INS-260603-6B3D
+  - INS-260530-D34F
   - PRI-260406-3EF8
-  - INS-260325-031F
-  - INS-260325-D540
 ---
 Karpathy's clean separation: vibe coding raises the floor — anyone can vibe code anything, and that's incredible. Agentic engineering is about preserving the quality bar of professional software while going faster — you're still responsible for security, reliability, and correctness. The agents are spiky, fallible, stochastic, but extremely powerful, and the engineering discipline is about coordinating them without sacrificing quality.
 

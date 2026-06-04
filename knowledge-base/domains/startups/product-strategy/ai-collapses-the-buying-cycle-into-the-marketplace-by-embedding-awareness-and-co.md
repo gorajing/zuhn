@@ -49,10 +49,10 @@ stance: >-
   traditionally happen off-platform.
 related:
   - INS-260403-00D7
+  - INS-260603-8FF0
   - INS-260403-21C4
   - INS-260404-8D5F
   - INS-260328-C12D
-  - INS-260330-63B8
 evidence:
   - id: INS-260330-63B8
     type: TRANSFERS_TO

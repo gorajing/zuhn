@@ -44,9 +44,9 @@ resolutions:
 related:
   - INS-260403-5710
   - PRI-260328-37D8
+  - INS-260603-15F4
   - INS-260327-2BAD
   - INS-260412-5932
-  - INS-260330-F23F
 stance: >-
   Cannabis remains federally Schedule I, blocking companies from banking, tax
   deductions, and interstate commerce

@@ -42,11 +42,11 @@ stance: >-
   market share loss because aspirational imitation drives real purchasing
   behavior.
 related:
+  - INS-260603-94A6
   - INS-260323-40AA
   - INS-260403-C445
   - PRI-260406-1A55
   - INS-260403-0435
-  - INS-260403-0041
 evidence:
   - id: INS-260323-40AA
     type: SUPPORTS

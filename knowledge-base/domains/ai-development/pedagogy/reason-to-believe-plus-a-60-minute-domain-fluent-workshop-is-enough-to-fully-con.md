@@ -59,7 +59,7 @@ related:
   - PRI-260406-9780
   - INS-260323-4457
   - PRI-260406-6123
+  - INS-260603-A09F
   - INS-260404-323D
-  - PRI-260405-0AC6
 ---
 Sonia has run many one-on-one and small-group workshops with biotech operators, and the pattern is consistent: people come back 2 days later saying 'oh my gosh it just wrote all my code, I wrote my tests, I wrote my docs, I just validate and review now.' The two ingredients that matter: (1) Reason to believe — a concrete demonstration the user can verify themselves. For biotech, this is the Genentech Comp Biobench paper with all prompts, results, and code on GitHub, showing what vanilla agentic coding can do on a real bio task with no domain customization. The user reasons: 'if vanilla can do this, vanilla + my domain expertise can do dramatically more.' (2) A 30-60 minute hands-on session with someone fluent in BOTH the AI tools AND the user's domain language. This rules out the typical 'AI workshop' where the instructor knows the tools but not the field — those don't transfer. The instructor must be able to translate 'use a coding environment instead of the chat box' into 'here's how you'd run this for your particular qPCR workflow.' The CSO example: not a coder, but after a single session got him doing interactive HTML clinical trial reviews with source verification. The implication for any company trying to roll out AI: invest in domain-fluent internal champions, not generic AI training programs.

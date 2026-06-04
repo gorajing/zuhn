@@ -49,5 +49,6 @@ related:
   - INS-260519-304D
   - INS-260403-F7DD
   - INS-260519-F990
+  - INS-260603-8FF0
 ---
 Copeland: start with ICP (build a hypothesis if unsure; PLG companies can read the usage pattern). Company and persona are the fit base; intent goes on top and is the layer AI unlocked (telemetry, posts about the problem, job postings, exec hires — these say what to say and why now). Revenue matters not as a filter but as a multiplier on effort. Refines the KB's qualification/intent principles with an explicit layering that prevents revenue-as-filter mistakes.

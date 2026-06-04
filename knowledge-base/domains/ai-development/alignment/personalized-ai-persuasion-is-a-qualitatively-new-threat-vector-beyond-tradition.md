@@ -50,11 +50,11 @@ stance: >-
   perfectly-timed, individually-customized message represents a fundamentally
   different interference risk than mass-produced troll farm content.
 related:
+  - INS-260603-8FF0
   - PRI-260405-262B
   - INS-260405-270B
   - PRI-260406-B97E
   - INS-260505-1165
-  - INS-260403-BDE0
 evidence:
   - id: INS-260327-679A
     type: SUPPORTS

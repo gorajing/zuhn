@@ -54,11 +54,11 @@ stance: >-
   — but they're worse at recovering because they can't easily ask for help or
   recognize they've been incorrectly routed.
 related:
+  - INS-260603-23B1
   - INS-260322-3159
+  - INS-260603-E224
   - INS-260423-2C05
-  - INS-260403-943E
-  - INS-260501-814C
-  - INS-260411-A093
+  - INS-260530-09FE
 ---
 Sinofsky's diagnosis: any enterprise of 1000+ people or older than 10 years is structurally a mess of poorly integrated systems. AI doesn't fix integration. When you call customer service, you get bounced from rep to rep based on access controls and information silos — agents face exactly the same walls. Each handoff is a failure mode the agent must recover from, and current agents are bad at recognizing they've been incorrectly routed.
 

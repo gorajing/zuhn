@@ -51,7 +51,7 @@ related:
   - INS-260330-3A3E
   - INS-260402-237D
   - INS-260403-F9C7
-  - INS-260423-3459
+  - INS-260530-A86A
   - PRI-260406-72B3
 ---
 The first speaker names the gap between 'anyone can build an app' and the scarcity of high-quality products ('AI slop'); the second lists domain expertise and conviction (keep asking the agent through ignorance) as decisive lessons, and in Q&A both flag that AI-built apps neglect architecture, so maintainability and adding features later still require real knowledge and proactively asking the agent about production problems. Reinforces the KB's slop-cannon and human-judgment-boundary principles: when building is cheap, not-slop (expertise, taste, persistence) is the scarce, valuable input.

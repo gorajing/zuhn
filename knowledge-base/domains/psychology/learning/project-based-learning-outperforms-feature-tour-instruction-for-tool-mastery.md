@@ -49,7 +49,6 @@ stance: >-
   produces deeper retention than sequentially demonstrating features in
   isolation
 related:
-  - INS-260329-D1F2
   - INS-260329-32DB
   - PRI-260405-71C5
   - PRI-260403-0509
@@ -59,6 +58,7 @@ related:
   - INS-260403-EE38
   - INS-260404-0B86
   - INS-260330-0CAD
+  - INS-260403-B89E
 evidence:
   - id: INS-260330-0CAD
     type: CHALLENGES

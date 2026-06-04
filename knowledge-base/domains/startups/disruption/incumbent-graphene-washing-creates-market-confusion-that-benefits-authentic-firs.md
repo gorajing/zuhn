@@ -56,10 +56,10 @@ stance: >-
   itself a competitive moat.
 related:
   - INS-260412-A2FE
+  - INS-260603-6D08
   - INS-260412-BA74
   - INS-260404-312D
   - PRI-260406-B314
-  - INS-260405-6BC4
 ---
 Samuel Gong highlighted that many companies claiming graphene batteries are actually using graphite — graphene's three-dimensional cousin that lacks the conductivity and strength benefits. This 'graphene-washing' creates market confusion but also creates an unexpected advantage for authentic producers: being genuinely first-to-market with real graphene means you can define the category and establish trust before the market learns to distinguish real from fake.
 

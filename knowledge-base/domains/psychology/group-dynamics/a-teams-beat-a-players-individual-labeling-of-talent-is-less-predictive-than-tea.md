@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260324-2AD8
   - INS-260519-32D9
+  - INS-260530-8DE3
   - INS-260519-2A13
   - INS-260514-D5B5
   - INS-260405-945B
-  - INS-260330-F08F
 ---
 The industry-standard hiring framework prioritizes identifying A-players at the individual level. Chamath's empirical counter: individual talent markers are poor predictors of collective output. What matters is the team composition dynamic — do the individuals possess high agency and self-direction, and do they feed that pattern to each other? High-agency teams do not require coddling, do not scan for exit opportunities constantly, and derive motivation from work rather than external validation. The practical implication for hiring: optimize for agency and self-direction over credentials or individual performance markers, and optimize for cohort coherence over individual peak talent. The analogue is the Chicago Bulls photo of Michael Jordan nose-to-nose with Steve Kerr — Kerr was not an A-player on paper, but the adversarial peer relationship made Jordan's team perform at an A level.

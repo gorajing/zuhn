@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260328-9C16
   - PRI-260406-88DD
+  - INS-260603-BFEE
   - PRI-260406-6F52
   - INS-260403-26D4
-  - PRI-260328-D5EB
 ---
 AI-generated search covers top-of-funnel informational queries effectively—definitions, how-tos, and basic explainers are easily synthesized from multiple sources. Competing at this level means competing against the AI itself, which is a losing battle.
 

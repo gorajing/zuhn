@@ -52,10 +52,10 @@ stance: >-
   three biomedical areas, though experimentally confirmed AI discoveries remain
   rare.
 related:
+  - INS-260603-6B3D
   - INS-260519-C808
   - PRI-260406-3EF8
   - INS-260405-1C8D
   - PRI-260411-FB73
-  - PRI-260328-F723
 ---
 The AI Index 2026 Chapter 5 identifies the first fully AI-generated paper accepted at a peer-reviewed workshop in 2025 as a qualitative milestone. Sakana's AI Scientist-v2 produced a paper accepted at an ICLR workshop without using human-coded templates. Google's AI Co-Scientist was validated in three biomedical areas, and Aardvark Weather and FourCastNet 3 reached operational deployment. The caveat is significant: the list of experimentally confirmed AI discoveries remains short, and most of the autonomous research milestones are still in constrained settings (workshop papers, not main conferences; validation in known domains, not novel ones). But the qualitative threshold — peer review acceptance for fully autonomous AI-generated research — has been crossed, which makes 2025 the starting year for debates about attribution, authorship, and scientific credit in autonomous systems. Confidence is medium because the milestone depends on the definition of 'fully AI-generated' and the standards of the accepting venue.

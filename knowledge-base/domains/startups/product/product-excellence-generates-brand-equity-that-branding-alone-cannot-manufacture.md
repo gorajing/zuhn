@@ -50,11 +50,12 @@ stance: >-
 related:
   - INS-260322-2647
   - INS-260323-8392
-  - INS-260327-EF89
   - INS-260402-7B69
   - INS-260403-5EB4
-  - INS-260405-76E4
   - INS-260403-05EB
+  - INS-260603-6D08
+  - INS-260327-EF89
+  - INS-260405-76E4
 ---
 eDreams deliberately under-invested in brand building and instead poured resources into product reliability and customer service. The result was organic word-of-mouth that built trust more durably than marketing campaigns could have. This suggests a hierarchy: great branding cannot rescue a mediocre product, but great product execution creates its own brand gravity.
 

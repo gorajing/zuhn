@@ -54,7 +54,6 @@ stance: >-
   indicators of company maturity
 related:
   - INS-260402-B2A2
-  - INS-260404-D654
   - PRI-260406-FCF0
   - INS-260403-9F2A
   - INS-260403-88B9

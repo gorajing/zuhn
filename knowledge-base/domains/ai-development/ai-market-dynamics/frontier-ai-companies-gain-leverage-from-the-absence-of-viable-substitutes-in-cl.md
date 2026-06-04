@@ -48,7 +48,7 @@ stance: >-
   so deep that even a hostile government customer will threaten coercion rather
   than accept the cost of switching vendors.
 related:
-  - INS-260405-DEF2
+  - INS-260530-B694
   - PRI-260328-37D8
   - INS-260403-2AC0
   - INS-260323-748A

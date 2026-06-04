@@ -48,9 +48,10 @@ related:
   - INS-260322-5678
   - INS-260403-D2B1
   - INS-260404-FC9E
-  - INS-260402-8C42
   - PRI-260407-F704
+  - INS-260402-8C42
   - PRI-260406-CA09
   - INS-260409-6236
+  - INS-260603-6991
 ---
 The founder compares AI to the arrival of the internet and smartphones: moments when the people who understood and used the new technology first compounded career leverage that late adopters could not catch up to. The actionable implication is that grand plans matter less than usage frequency — several hours a day across writing, idea organization, and strategy brainstorming builds tacit intuition about which problems AI can solve and which it cannot. That intuition is the moat, and it cannot be shortcut. Younger people without capital or corporate access have the most to gain from this leverage.

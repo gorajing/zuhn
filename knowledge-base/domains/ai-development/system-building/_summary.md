@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 225 insights
+> 229 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -45,6 +45,7 @@
 - `INS-260330-3EFC` [high] Single-threaded event loops can handle thousands of concurrent operations by pausing and resuming work rather than running in parallel.
 - `INS-260329-F688` [high] Constructors that require essential data prevent invalid object states that cause downstream bugs.
 - `INS-260323-E559` [high] The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
+- `INS-260603-6FE3` [high] Navish (Salesforce): 'the problem is not how large a dataset you give the agent, it's the quality' — a big silo of stale data just has the agent running the same query on old data; you have to keep the data updated for the agent to help.
 - `INS-260329-47DD` [high] Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
 - `INS-260329-8CC0` [high] Sharding splits data across servers for write scalability while replication copies data across servers for read scalability — the workload pattern determines which to use.
 - `INS-260329-F556` [high] The best database schemas encode business rules structurally through keys, types, and constraints rather than trusting application code to enforce them.
@@ -194,16 +195,19 @@
 - `INS-260325-2B76` [medium] The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
 - `INS-260329-92FC` [medium] Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
 - `INS-260501-BBB7` [medium] Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
+- `INS-260603-7252` [medium] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
 - `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
 - `INS-260320-4BA8` [medium] Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260410-25AC` [medium] Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
 - `INS-260329-F66E` [medium] C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.
+- `INS-260602-1DF1` [medium] Mansi More: in the data-sources → ingestion → sub-agents → models stack, 'when one layer, one error comes, the whole agent is confined to it' — so it is critical to know exactly which layer produced an error, which only per-layer observability provides.
 - `INS-260409-5CF4` [medium] LLMs can keep index and summary files fresh well enough to replace a dedicated retrieval system.
 - `INS-260323-D8B9` [medium] Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
 - `INS-260321-801C` [medium] Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260409-D3EE` [medium] MemPalace applies the ancient Greek orators' memory palace technique to LLM memory — conversations become rooms in wings with halls and tunnels as cross-references — giving both AI and human users a navigable map instead of a flat semantic index.
+- `INS-260603-1BC0` [medium] Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.
 - `INS-260329-075C` [medium] OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
 - `INS-260329-E280` [medium] OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.
 - `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.

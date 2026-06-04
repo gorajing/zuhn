@@ -53,7 +53,7 @@ related:
   - INS-260403-0F15
   - INS-260403-165F
   - INS-260327-1652
-  - INS-260405-9492
+  - INS-260530-86E3
 ---
 Tesla shareholders approved the largest executive compensation package in history: $1 trillion in stock options across twelve escalating performance tranches. Each tranche requires both revenue and market-cap targets, culminating at $8.5T valuation, plus operational metrics like 20M vehicle deliveries, 10M FSD subscriptions, 1M Optimus robots, and 1M robotaxis.
 

@@ -41,7 +41,6 @@ stance: >-
   system built to acquire the wrong customers.
 related:
   - INS-260328-7942
-  - INS-260404-4130
   - INS-260404-6BBB
   - INS-260412-F93A
   - INS-260412-2754
@@ -50,5 +49,6 @@ related:
   - INS-260514-273E
   - INS-260519-7744
   - INS-260519-32D9
+  - INS-260519-F9D6
 ---
 Roniesha Copeland (VP Sales, Strategic Accounts, Vercel; ex-Stripe, ran sales at v0) frames outbound as ICP + narrative + timing: the right people, a compelling message, at a resonant moment/channel. AI made the data layer actionable and timing precise, but the early-team instinct to start with narrative is the trap — lay the ICP/intent foundation first or spend a year retrofitting a wrong-customer system. The startup constraint (no sprawling ops team) forces sharper instrumentation. This independently corroborates the KB's manual-first / system-before-message and targeting-first principles.

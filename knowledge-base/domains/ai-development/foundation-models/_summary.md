@@ -1,7 +1,8 @@
 # Topic: foundation-models
 
-> 13 insights
+> 16 insights
 
+- `INS-260603-6E59` [high] Satish (Stanford atmospheric FM): on sequences (language/code) we're ~80-90% there because a word encodes sparse information you can mask and recover; but encoding even a 1024×1024 image into a vector loses enormous information, and video/spectral data is worse — the breakthrough for high-dimensional data hasn't happened.
 - `INS-260501-CF7D` [high] Frontier capability today shows up in tiny edge models within a year — and we don't know where the ceiling is yet.
 - `INS-260410-022B` [high] Amodei's 2017 'Big Blob of Compute' hypothesis still holds: scaling is bottlenecked by compute, data, objective function, and numerical stability — not by clever methods.
 - `INS-260410-F342` [high] Pretraining data is to AGI what fossil fuels were to industrial civilization: finite and eventually replaced, but indispensable as the bridge to what comes next.
@@ -14,4 +15,6 @@
 - `INS-260405-82F3` [medium] Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means.
 - `INS-260514-7B06` [medium] AI 2027 formalizes intelligence explosion via R&D progress multiplier: starts ~5x (months of pre-AI progress per current-month with AI help), compounds to 10x and 100x as recursive self-improvement kicks in.
 - `INS-260410-7292` [medium] Reasoning models solve hard problems by brute-forcing a vast internal library, not by creative recombination—and this distinction predicts where they'll break.
+- `INS-260603-11DB` [medium] Paige Bailey (Google DevRel): Gemma 4 (2.6B and 31B variants) performs about as well as Gemini 3.1 Flash Lite on benchmarks; analyzing 5 minutes of video cost ~2 cents and ran reliably; the models run on a Jetson Nano, fully in-browser via WebGPU, and on-robot (100+ robotics companies use Gemma fine-tunes for on-robot actions).
 - `INS-260410-7AF5` [medium] Unlike humans, AI copies can pool their on-the-job learning — so one AI effectively learns every job in the economy simultaneously once online learning works.
+- `INS-260603-A506` [low] Ichi (Meta): spatial capabilities that today live as separate tools/pages outside the model will be continuously brought into the model layer, so language foundation models and world models converge into one combined spatial+language model.

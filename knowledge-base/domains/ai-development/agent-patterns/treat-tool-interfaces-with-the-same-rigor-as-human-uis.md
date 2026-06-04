@@ -50,8 +50,6 @@ stance: >-
   than on clever prompting, so tool definitions deserve as much engineering
   investment as product UIs.
 related:
-  - INS-260402-876A
-  - INS-260410-7ED2
   - PRI-260411-64C7
   - INS-260519-20E0
   - INS-260413-AD37

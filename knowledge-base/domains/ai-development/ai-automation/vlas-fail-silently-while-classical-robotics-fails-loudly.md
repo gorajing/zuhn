@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260327-9EFE
   - PRI-260328-1ED1
+  - INS-260602-E2BD
   - INS-260402-3C79
   - INS-260321-2482
-  - PRI-260321-7307
 stance: >-
   Classical robotics systems fail loudly (joint limit hit, object not detected,
   planner infeasible)

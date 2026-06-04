@@ -50,8 +50,8 @@ related:
   - INS-260403-219F
   - INS-260402-2A1D
   - INS-260325-568A
+  - INS-260603-A09F
   - INS-260522-213D
-  - INS-260412-CE01
 stance: >-
   Wikipedia works because everyone intuitively knows what an encyclopedia entry
   should look like

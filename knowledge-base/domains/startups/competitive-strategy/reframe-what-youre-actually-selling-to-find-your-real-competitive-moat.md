@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260324-C2B9
   - INS-260327-38F0
+  - INS-260603-D44B
   - INS-260410-0775
   - PRI-260324-D701
-  - INS-260329-CEC5
 ---
 In-N-Out appears irrational if you think of it as a burger chain leaving money on the table. But reframed as a consistency-delivery company, every decision — tiny menu, no franchising, slow expansion — becomes coherent strategy. McDonald's made the same conceptual leap in reverse: it realized it was a real estate company that happens to sell burgers, which led to owning $30B+ in property and collecting rent regardless of franchisee profitability.
 

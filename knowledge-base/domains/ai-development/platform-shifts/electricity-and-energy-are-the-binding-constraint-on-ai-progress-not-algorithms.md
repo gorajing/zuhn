@@ -45,11 +45,11 @@ stance: >-
   turned out to be prophetic — energy is now the primary limiting factor for AI
   scaling, not algorithmic breakthroughs.
 related:
+  - INS-260603-C10D
   - INS-260323-4D14
   - INS-260325-8062
   - INS-260330-E89A
   - INS-260323-CF93
-  - INS-260410-D316
 evidence:
   - id: INS-260325-8062
     type: CHALLENGES

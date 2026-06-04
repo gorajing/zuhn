@@ -62,11 +62,11 @@ stance: >-
   making any phone a pocket world-scanner for generating millions of training
   environments.
 related:
+  - INS-260603-C102
+  - INS-260603-A09F
+  - INS-260530-5644
   - INS-260330-7DCF
   - INS-260323-22E8
-  - INS-260330-30AB
-  - INS-260323-D4EC
-  - INS-260320-4B31
 ---
 Fan's environment-scaling pipeline: take an iPhone picture (or video), pass it through a 3D wall-scan pipeline that extracts interactive objects, drop those objects into a classical physics simulator, augment infinitely with variations ('digital cousins') — same object, different colors, materials, physics parameters, lighting. Now your iPhone is a pocket world scanner producing millions of training environments at the variant level.
 

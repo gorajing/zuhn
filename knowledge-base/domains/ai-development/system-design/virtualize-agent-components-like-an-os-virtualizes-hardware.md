@@ -54,13 +54,12 @@ stance: >-
   operating systems used to outlast the hardware underneath them.
 related:
   - INS-260325-2DCD
-  - INS-260322-D8C3
   - INS-260405-A992
   - INS-260403-0D23
-  - INS-260409-A3EC
+  - INS-260603-1BC0
   - PRI-260405-AF79
+  - INS-260322-D8C3
   - INS-260501-0D6D
-  - INS-260410-F910
 ---
 Operating systems solved 'programs as yet unthought of' by virtualizing hardware into abstractions like process and file. The read() syscall is agnostic as to whether it is hitting a 1970s disk pack or a modern SSD — the interface outlasted every underlying implementation. Anthropic applied the same pattern to Managed Agents by identifying three durable components: the session (append-only event log), the harness (the loop that calls Claude and routes tool calls), and the sandbox (execution environment for code).
 

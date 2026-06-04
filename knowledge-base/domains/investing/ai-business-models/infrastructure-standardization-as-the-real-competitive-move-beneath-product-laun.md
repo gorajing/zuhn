@@ -59,7 +59,6 @@ related:
   - INS-260423-3F3B
   - INS-260405-4803
   - INS-260405-F20C
-  - INS-260410-161E
 ---
 While Coinbase's headline announcements focused on consumer-facing products (stock trading, prediction markets, AI advisor), the most consequential move is infrastructural: standardizing USDC as the unified settlement layer across all product verticals. This creates a self-reinforcing flywheel where each new product increases USDC transaction volume, which strengthens Coinbase's position as the primary on/off ramp between traditional and decentralized finance.
 

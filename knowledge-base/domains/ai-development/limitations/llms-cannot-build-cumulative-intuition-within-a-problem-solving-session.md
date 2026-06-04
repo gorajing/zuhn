@@ -56,13 +56,13 @@ related:
   - INS-260321-BFA3
   - INS-260323-4473
   - INS-260327-E7B8
-  - INS-260329-3739
   - INS-260329-64B8
   - INS-260330-0982
   - INS-260405-736C
   - INS-260403-E209
   - INS-260409-171C
   - INS-260505-A55F
+  - PRI-260406-874A
 ---
 Tao's analogy: AI tools are jumping machines that can leap higher than any human, but only in one-shot attempts. They can't jump partway up a cliff, grab a handhold, pull themselves up, and jump from there. When a human collaborator tests a strategy and it fails, the failure reshapes their intuition for the next attempt; when an AI fails, the failure goes into the void. Start a new session and it has forgotten everything.
 

@@ -54,9 +54,9 @@ resolutions:
 related:
   - INS-260323-7A11
   - PRI-260323-7BFA
+  - INS-260603-A09F
   - INS-260405-6A6F
   - INS-260501-3CAA
-  - INS-260323-E492
 stance: >-
   When you tally coding assistance against deepfake porn, education degradation,
   military errors killing innocents, and employment disruption, genera...

@@ -56,14 +56,14 @@ stance: >-
 related:
   - INS-260323-4B4D
   - INS-260322-760A
-  - INS-260327-A9D5
   - INS-260327-B116
   - PRI-260328-8317
   - INS-260330-0F23
   - INS-260403-0350
   - INS-260405-0E77
+  - INS-260603-1BC0
+  - INS-260327-A9D5
   - INS-260405-94A0
-  - INS-260403-BB5E
 ---
 Traditional software is a tool: it executes instructions and returns results. It has no economic identity. Agentic wallets change this — an agent that can rebalance a DeFi portfolio at 3 AM, monetize generated content, or pay for its own compute is functionally a new class of economic actor. It can accumulate capital, incur costs, and generate revenue without any human in the loop.
 

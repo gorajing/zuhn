@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-05-25 | 5158 actionable insights
+Generated on 2026-06-04 | 5174 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -28,6 +28,7 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260409-D012] Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
 - [INS-260409-52CE] If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 - [INS-260423-8504] Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
+- [INS-260530-E6AA] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -118,6 +119,9 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260501-A1C7] Amjad Masad: we use models from every provider — at one point we sent more tokens to Google than to Anthropic despite Anthropic being the core workhorse.
 - [INS-260514-EA9E] A 5-narrow-agent chain (news → researcher → career-page poller → scorer → resume writer) is more reliable than one general agent — narrow agents with single jobs chain better and are easier to debug.
 - [INS-260514-FEC8] Rules = judgment ('please don't access .env'). Hooks = enforcement (the access actually fails). For high-stakes constraints, use hooks not rules — agents will eventually find reasons to ignore rules but cannot bypass hooks.
+- [INS-260602-EA48] Mansi More: when an agent picks a wrong tool, gets a wrong answer, goes back and picks another wrong tool, 'there is no way for the agent to tell that hey it's breaking, stop' — so you must curate the tool list (e.g. an allowlist config) before the agent runs, not rely on it to self-correct.
+- [INS-260603-D44B] Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
+- [INS-260530-AA02] PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -359,6 +363,10 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260501-9503] Don't write skills upfront. Walk the workflow with the agent step-by-step. Get one successful run. Then ask the agent to extract the skill from what just worked.
 - [INS-260501-F90F] Skills, plugins, MCPs, integrations, connectors — Pemberton calls them all 'skills' because the differences are platform-vendor business distinctions, not user mental models.
 
+## ai-development/economics
+- [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
+- [INS-260603-50B1] Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
+
 ## ai-development/embeddings
 - [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
 - [INS-260402-28BA] Combining vector search to find a semantically close starting point with graph traversal to explore structured relationships yields better retrieval than either method alone.
@@ -421,6 +429,7 @@ Generated on 2026-05-25 | 5158 actionable insights
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
+- [INS-260603-6B3D] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
 
 ## ai-development/human-ai-relationship
 - [INS-260322-2B2D] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
@@ -618,6 +627,7 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260409-6236] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - [INS-260421-536F] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - [INS-260423-3F3B] Cody: if you're looking at Salesforce versus HubSpot right now, Salesforce is the better product for AI foundation because it has a more robust API so you can do more with it.
+- [INS-260530-7FE2] Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -626,6 +636,7 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260410-4CE7] For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
 - [INS-260424-50EE] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - [INS-260514-AC43] Sophisticated prompt engineering you build today is often useless in 2 months when models improve. Use the simplest prompt that works; let model improvements absorb specificity.
+- [INS-260530-E697] Abhije: 'I have given it my best work samples — here are some of the best memos that I wrote, pick up my learning style.' The agent is now invoked as a skill that produces first-draft PRDs in the author's voice, removing the cold-start friction.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -752,6 +763,8 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260501-F258] Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license.
 - [INS-260501-4646] Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
 - [INS-260514-EE1D] Harness order: rules first → skills when you repeat yourself → MCP when you need external systems → hooks when stakes rise → sub-agents when contexts conflict. Don't design the whole thing upfront. Add components when friction surfaces.
+- [INS-260603-6FE3] Navish (Salesforce): 'the problem is not how large a dataset you give the agent, it's the quality' — a big silo of stale data just has the agent running the same query on old data; you have to keep the data updated for the agent to help.
+- [INS-260603-7252] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -2639,6 +2652,7 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260410-EFD5] Costco's refusal to raise the hot dog or rotisserie chicken price is a deliberate sacred anchor — the signal that the whole store is cheap is worth far more than the margin.
 - [INS-260412-F566] As merely wealthy people travel to be seen, the ultra-wealthy increasingly pay premium prices to disappear — making privacy itself the ultimate luxury product.
 - [INS-260412-3AF6] WeWork's 15-year lease commitments against month-to-month tenant revenue created an unhedgeable duration mismatch that any economic downturn would expose.
+- [INS-260603-A7CF] Harvey (keynote): in the past it didn't make economic sense to build software unless gazillions needed it (Salesforce/cloud scale), because anything took a 20-person team; now you can build a product for 200 people in a fraction of your spare time after work — so sub-scale businesses start making sense.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -4548,6 +4562,8 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260412-0CAA] Nokia contracted a top-tier independent ad agency (MOTHER) for an all-out campaign blitz, recognizing that brand re-entry is a one-shot moment that demands memorable, resonant advertising.
 - [INS-260423-595B] Seth Godin: Volkswagen's decision to write code defeating European emissions tests was a marketing move — but the marketing department probably wasn't in the room.
 - [INS-260514-BAC9] Trust hierarchy inverted: celebrity brands are exhausted (50th Kardashian launch), micro-influencers saturated, NANO-influencers (regular friends with small followings) are the new top tier. Brands optimizing for big-creator reach in 2026 work against the gradient.
+- [INS-260603-6D08] Joslyn (Meta): consumers are more receptive to a product recommended by someone they perceive as credible than by the brand itself — creator/UGC drives both discovery and performance because it carries a trust layer polished brand content lacks.
+- [INS-260603-BFEE] Rona Shah (Walmart): the industry hasn't grasped the gravity — sellers must shift from optimizing brand look/feel and SEO to making product data structured and scrapeable, with explicit differentiation an agent can reason on, because the agent (not the human) now picks the recommendation from 30 sites.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -5215,6 +5231,8 @@ Generated on 2026-05-25 | 5158 actionable insights
 - [INS-260412-EDBF] Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.
 - [INS-260514-63B2] Companies have BULKING phases (grow revenue, accept margin loss) and CUTTING phases (improve margin, accept growth loss). Commit to one for 6-12 months. You cannot do both simultaneously — you're clicking gas and brake at the same time.
 - [INS-260514-DB02] Costco rotisserie chicken loses money on purpose — it drives customers into the store. Identify your hero product (customers return for it AND buy other things). Kill products customers buy once and never return for, even if margin looks good.
+- [INS-260530-A86A] Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
+- [INS-260603-2FB1] Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

@@ -54,6 +54,7 @@ related:
   - INS-260329-075F
   - INS-260326-3F06
   - INS-260519-39B5
+  - INS-260603-DDE4
 ---
 The authors' proprietary methodology centers on creating a visual Pain Statement as the foundation of a company's entire value proposition. Rather than leading with features or solutions, this approach forces founders to articulate the specific challenge their prospective customer faces in a format that can be quickly understood.
 

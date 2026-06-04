@@ -52,7 +52,6 @@ stance: >-
   sponsorship, and community value.
 related:
   - INS-260329-4FB2
-  - INS-260327-8DFE
   - INS-260403-D730
   - INS-260403-0680
   - PRI-260406-80E7

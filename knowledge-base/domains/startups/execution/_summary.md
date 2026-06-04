@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 294 insights
+> 295 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -215,6 +215,7 @@
 - `INS-260329-19F9` [high] The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
 - `INS-260402-7182` [high] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260329-E6C3` [high] Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
+- `INS-260603-E224` [high] William Santana Lee: 'the gap is humans. Humans don't want to change. Large organizations don't want to change.' You can't drop an agent on a Fortune 1000 process designed around humans and expect legal/purchasing/finance/accounting to sign off — only companies where the CEO can redesign the org around the agent will pull it off.
 - `INS-260329-66BD` [high] Load balancers prevent server failure but become the single point of failure themselves, requiring redundant load balancers — revealing that reliability is recursive, not additive.
 - `INS-260329-C881` [high] Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
 - `INS-260323-CE39` [high] Stevens generates maximum throwing power from a small precise hip split rather than a big lunging movement — overextending leaves you vulnerable and off-balance.

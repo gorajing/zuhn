@@ -61,11 +61,11 @@ stance: >-
   will.
 related:
   - INS-260327-D480
+  - INS-260603-46AE
   - INS-260403-3A72
   - INS-260403-6279
   - INS-260408-A0F5
   - INS-260403-D8A2
-  - INS-260324-782C
 ---
 In the mid-2010s, Google had an almost unbelievable concentration of AI talent: the authors of AlexNet, the future founders of OpenAI and Anthropic, the DeepMind team, Noam Shazeer (transformer co-author), Andrew Ng, Sebastian Thrun, and Jeff Hinton himself. An engineer joked the analogy was IBM hiring every single person who knew how to code in the early computer era. Yet the paper that catalyzed modern AI (Attention Is All You Need) was published by Google in 2017 and the company that commercialized it into the fastest-growing consumer product in history was OpenAI.
 

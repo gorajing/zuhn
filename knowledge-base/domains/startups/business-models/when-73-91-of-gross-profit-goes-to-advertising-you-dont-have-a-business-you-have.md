@@ -48,10 +48,10 @@ resolutions:
     (advertising) staying cheap forever, you don't have a sustainable business.
 related:
   - INS-260323-5A96
+  - INS-260603-15F4
   - PRI-260324-7ED9
   - INS-260403-C844
   - INS-260323-5106
-  - INS-260327-58AC
 stance: >-
   Casper spent 73-91% of gross profit on advertising and lost $200 on every
   mattress sold — advertising is meant to grow a business, not sustain it.

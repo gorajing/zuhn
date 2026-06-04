@@ -51,12 +51,12 @@ stance: >-
   dollar volume reveals two distinct venture strategies that will produce very
   different portfolio return profiles
 related:
-  - INS-260323-758B
   - INS-260405-54B7
+  - INS-260323-758B
+  - INS-260530-86E3
   - INS-260413-3860
   - INS-260405-6342
   - INS-260405-E4FC
-  - PRI-260407-40F9
 ---
 Q3 2025 venture data reveals an interesting divergence: humanoid robotics leads in number of deals while AI leads in total dollar volume. This split reflects fundamentally different capital deployment strategies — robotics investors are making many smaller bets across the category expecting high variance in who cracks manufacturing and go-to-market, while AI investors concentrate massive capital in proven winners.
 

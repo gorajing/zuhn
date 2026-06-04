@@ -48,10 +48,10 @@ stance: >-
   results than either fully manual placement or fully random generation.
 related:
   - INS-260412-8B95
+  - INS-260603-C102
   - INS-260330-7DCF
   - INS-260403-7227
   - INS-260412-1F30
-  - INS-260329-03B5
 ---
 The Matrix demo's city — 260km of roads, 512km of sidewalk, 7,000 buildings — was procedurally generated based on algorithmic rules rather than manually placed. This semi-automatic approach freed designers to focus on fine-tuning the world and working on narrative rather than placing every object.
 

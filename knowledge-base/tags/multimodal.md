@@ -5,6 +5,7 @@
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260405-1C8D` Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
 - `INS-260505-5DC4` Train on the universal substrate (DNA), get understanding of the things it encodes (proteins, RNA) for free.
+- `INS-260603-11DB` Paige Bailey (Google DevRel): Gemma 4 (2.6B and 31B variants) performs about as well as Gemini 3.1 Flash Lite on benchmarks; analyzing 5 minutes of video cost ~2 cents and ran reliably; the models run on a Jetson Nano, fully in-browser via WebGPU, and on-robot (100+ robotics companies use Gemma fine-tunes for on-robot actions).
 - `INS-260327-1B9A` Kimi K2.5's early fusion of vision and text from pre-training day one produced emergent vision-to-code capabilities and mutual enhancement between modalities.
 - `INS-260410-4CE7` For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
 - `INS-260409-BE39` Topic classification draws from visual, audio, and text signals together, so off-topic visuals or transcripts will contradict on-topic captions and confuse the fit score.

@@ -64,9 +64,9 @@ related:
   - INS-260403-E396
   - INS-260514-A295
   - INS-260329-D062
+  - INS-260530-7FE2
   - INS-260403-08D7
   - INS-260323-2E51
-  - INS-260514-EE1D
 ---
 Isenberg's verdict on Claude Design's parallel-design capability: 'It's really hard to do multiple prompts at the same time. You have to be patient.' This contradicts the implicit marketing of vibe-design tools (rapid parallel exploration of many directions) and reflects the actual operational reality — even with parallel agents in theory, the user is bottlenecked on review bandwidth, single-thread context, and the tool's queue management.
 

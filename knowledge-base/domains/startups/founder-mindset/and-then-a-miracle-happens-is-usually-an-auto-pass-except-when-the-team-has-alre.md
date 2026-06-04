@@ -71,7 +71,7 @@ related:
   - PRI-260328-4FA6
   - INS-260409-60C2
   - INS-260403-822B
-  - INS-260330-87BD
+  - INS-260530-7FE2
 ---
 Any experienced early-stage investor's first instinct on a plan containing multiple sequential 'and then a miracle happens' steps is to pass. This heuristic is correct the vast majority of the time: path-dependent bets compound failure probability, and most founders underestimate how many independent near-misses they need. The Qualcomm story a priori looks exactly like this: digitize cellular, invent a new multiple-access scheme, get a US standards body to allow non-mandatory alternatives, convince carriers, solve the near-far problem, bet on GPS, forecast Moore's Law, bootstrap handsets, bootstrap base stations, fabless-before-fabless-was-a-thing, and so on. Any VC would pass on that pitch in 1985.
 

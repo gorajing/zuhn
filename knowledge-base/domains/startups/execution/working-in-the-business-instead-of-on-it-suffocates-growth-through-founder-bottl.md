@@ -45,11 +45,11 @@ resolutions:
     of small completed moments. The founder's job is chief happiness officer —
     empowering others to do their best work — not chief everything officer.
 related:
+  - INS-260530-8DE3
   - INS-260322-88C3
   - INS-260322-2FAD
   - INS-260404-B893
   - PRI-260406-1796
-  - INS-260330-86CD
   - INS-260327-A234
 stance: >-
   Founders who try to be every team member stifle company growth and drain

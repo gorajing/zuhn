@@ -51,7 +51,6 @@ stance: >-
   execution) that the actual technology cannot yet justify.
 related:
   - INS-260327-2627
-  - INS-260403-2242
   - INS-260409-6C66
   - INS-260423-00AC
   - INS-260403-7D11

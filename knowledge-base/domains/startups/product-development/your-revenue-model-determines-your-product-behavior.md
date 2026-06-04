@@ -45,7 +45,6 @@ stance: >-
   of stated values.
 related:
   - INS-260324-2AD8
-  - INS-260323-0026
   - INS-260327-AD0D
   - INS-260403-AFC6
   - INS-260409-01E7
@@ -54,6 +53,7 @@ related:
   - INS-260514-8FF5
   - INS-260403-E71A
   - INS-260403-97DB
+  - INS-260405-5B4D
 evidence:
   - id: INS-260327-AD0D
     type: CHALLENGES

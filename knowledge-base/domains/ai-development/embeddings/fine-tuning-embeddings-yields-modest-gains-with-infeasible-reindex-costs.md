@@ -61,6 +61,6 @@ related:
   - PRI-260320-6847
   - INS-260320-D972
   - INS-260325-E652
-  - INS-260409-384A
+  - INS-260409-8DA0
 ---
 A natural first instinct for improving RAG quality is to fine-tune the embedding model on your domain data. Jerry Liu's practical experience: the gains are real but modest — typically 5-10% improvement on domain-specific retrieval benchmarks — and the cost is enormous: when the embedding model changes, EVERY document in the corpus has to be re-embedded because the new embeddings are incompatible with the old ones. For a corpus of millions of documents, this is infeasible on cost, time, and operational complexity grounds. Most teams that start down the fine-tune-the-embeddings path abandon it after measuring the reindex cost against the marginal improvement. Better alternatives: query-side transforms (rewriting or expanding the query at inference time), hybrid retrieval (combining dense and sparse search), or structural retrieval (metadata filtering, graph traversal) — all of which avoid reindexing while often producing similar or better improvements. The lesson: before fine-tuning embeddings, exhaust query-side and structural options, because the asymmetry between reindex cost and marginal gain makes fine-tuning a poor ROI move in most cases.

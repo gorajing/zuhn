@@ -49,9 +49,9 @@ related:
   - INS-260330-08D1
   - INS-260330-5EFD
   - INS-260330-1222
+  - INS-260603-C102
   - INS-260412-1A10
   - INS-260327-9DB0
   - PRI-260328-36C3
-  - INS-260327-6E57
 ---
 Traditional underwater vehicles and human divers disturb marine ecosystems simply by being visibly foreign. MIT's SoFi solves this by adopting the silhouette and swimming motion of a real fish, enabling it to swim alongside marine life undetected for up to 40 minutes in three dimensions. This principle extends beyond oceans—any environment where the observer's presence alters the observed system benefits from biomimetic camouflage. The insight generalizes to a design heuristic: when the act of measurement changes the measurement, redesign the instrument to be invisible to the subject.

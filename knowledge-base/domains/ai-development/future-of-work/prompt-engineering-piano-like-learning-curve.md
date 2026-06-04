@@ -21,7 +21,6 @@ sources:
     url: 'https://youtu.be/EdZWPB1fIJc'
 related:
   - INS-260323-649B
-  - INS-260321-4178
   - PRI-260406-4B8E
   - INS-260405-880C
   - INS-260514-DFAE

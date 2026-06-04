@@ -55,7 +55,6 @@ stance: >-
   terrified of missing the next wave, creating a willing buyer for every
   overblown narrative Silicon Valley produces.
 related:
-  - INS-260324-27E2
   - PRI-260406-1AA1
   - INS-260327-94F5
   - INS-260327-4434

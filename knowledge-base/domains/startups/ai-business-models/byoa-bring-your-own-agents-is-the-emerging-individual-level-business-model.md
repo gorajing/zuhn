@@ -46,7 +46,6 @@ stance: >-
   stacks — replacing headcount cost with a single person extracting a slice of
   the saved payroll.
 related:
-  - INS-260403-7B3B
   - INS-260403-7D11
   - INS-260403-049F
   - INS-260423-FF53

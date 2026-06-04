@@ -60,11 +60,11 @@ stance: >-
   executive, which means political dynamics and personal stakes matter more than
   ROI spreadsheets.
 related:
+  - INS-260530-A86A
   - INS-260329-9BC0
   - INS-260321-FD14
   - PRI-260321-7307
   - INS-260405-9FD9
-  - INS-260403-E4AD
 evidence:
   - id: INS-260321-FD14
     type: SUPPORTS

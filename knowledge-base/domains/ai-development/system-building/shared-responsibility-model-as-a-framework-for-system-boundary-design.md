@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260322-A367
   - INS-260329-5F19
+  - INS-260603-6C2A
   - INS-260325-2BDB
   - INS-260327-FDF4
-  - INS-260410-A9CE
 evidence:
   - id: INS-260330-CA88
     type: TRANSFERS_TO

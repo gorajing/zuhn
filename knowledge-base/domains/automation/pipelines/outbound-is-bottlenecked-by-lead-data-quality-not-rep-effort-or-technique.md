@@ -43,7 +43,7 @@ related:
   - INS-260424-F8BB
   - INS-260320-C9B1
   - INS-260424-ABB2
+  - INS-260603-6FE3
   - INS-260519-05EB
-  - INS-260519-299F
 ---
 Kyle Norton (CRO, Owner.com; $2.5M→~$100M ARR in <4 years) insists outbound has one point of failure: the data. If BDRs spend 70% of the day researching leads and dialing non-decision-makers, the dial number gets hit but the time is wasted. Tiering typically yields ~25% A, 50% B, 25% C, and Tier C is who you never close. His flat claim: no training, hiring profile, call volume, or slick technique overcomes bad data. Directly corroborates the KB's targeting-beats-copy / 60-20-20 principle from an operator with hard ACV constraints.

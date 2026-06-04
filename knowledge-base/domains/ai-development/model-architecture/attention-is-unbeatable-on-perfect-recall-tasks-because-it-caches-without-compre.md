@@ -56,7 +56,6 @@ stance: >-
   window — but parametric memory wins on tasks where compression and abstraction
   matter more than verbatim retrieval.
 related:
-  - INS-260323-2651
   - INS-260403-280B
   - INS-260329-CC79
   - INS-260409-C133

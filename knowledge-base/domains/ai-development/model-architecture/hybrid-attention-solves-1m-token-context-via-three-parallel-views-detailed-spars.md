@@ -64,8 +64,8 @@ related:
   - INS-260410-2FEE
   - INS-260409-1078
   - INS-260409-6560
+  - INS-260603-6E59
   - INS-260409-ADD0
-  - INS-260410-C045
 ---
 DeepSeek V4's hybrid attention architecture: (1) Sliding window keeps the last ~128 tokens uncompressed with full fidelity — your 'recently-read pages.' (2) Compressed Sparse Attention (CSA) groups every 4 tokens into a compact representation, then a 'Lightning indexer' rapidly scores which compressed chunks are relevant to the current token and selectively retrieves only those — your 'highlighted notes.' (3) Heavily Compressed Attention (HCA) groups ~128 tokens into single representations, shrinking sequence length by orders of magnitude so the model can afford to look at everything — your 'chapter summaries.' Interleaved layer-by-layer, the model gets sharp immediate focus + broad understanding + deep-long-range retrieval at 3.7x lower FLOPs and 10x smaller KV cache than V3.2.
 

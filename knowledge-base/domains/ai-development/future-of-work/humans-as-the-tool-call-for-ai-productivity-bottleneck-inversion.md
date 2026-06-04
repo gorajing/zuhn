@@ -57,10 +57,10 @@ stance: >-
   visible already in Amazon warehouses where AI dispatches humans via headsets.
 related:
   - INS-260501-EC31
+  - INS-260530-5644
   - INS-260329-9115
   - INS-260325-E0D5
   - INS-260524-2C7C
-  - INS-260322-71E4
 ---
 Müller's structural observation: as AI agents become more capable, the bottleneck on productivity becomes the humans the AI must wait on for approval, embodied actions, or contextual judgment. Already visible at Amazon: a central AI planning system dispatches warehouse workers via headsets ('walk to this aisle, retrieve this product'). The humans aren't directing the AI; they're tool-calls the AI invokes. Müller extrapolates: as AI becomes smarter and more capable, this inversion will spread. AI prompts humans more often than humans prompt AI. The 'doesn't feel right yet' framing is accurate — this is psychologically uncomfortable for builders raised on the AI-as-tool model.
 

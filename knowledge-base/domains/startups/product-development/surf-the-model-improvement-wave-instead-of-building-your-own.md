@@ -45,7 +45,6 @@ stance: >-
   rather than competing to build their own models, because the application layer
   captures more value as models commoditize.
 related:
-  - INS-260321-B8E8
   - INS-260325-DAD7
   - INS-260321-C513
   - INS-260327-F4DD
@@ -55,6 +54,7 @@ related:
   - INS-260322-54F3
   - INS-260404-8D91
   - INS-260328-91A1
+  - INS-260328-3446
 evidence:
   - id: INS-260321-B8E8
     type: SUPPORTS

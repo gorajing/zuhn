@@ -44,7 +44,6 @@ stance: >-
   is diagnostic of insufficient strategic focus, making soundbite creation a
   planning tool disguised as a communication exercise.
 related:
-  - INS-260327-61AE
   - INS-260327-5833
   - INS-260330-D511
   - INS-260403-EF30
@@ -54,6 +53,7 @@ related:
   - INS-260403-F7DD
   - INS-260404-9696
   - INS-260409-BDAC
+  - INS-260409-2DD0
 evidence:
   - id: INS-260404-61E0
     type: SUPPORTS

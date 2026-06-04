@@ -52,6 +52,7 @@ stance: >-
   intuitions about which places are 'close' or 'far'.
 related:
   - INS-260409-8908
+  - INS-260603-4387
   - INS-260412-F9BA
   - INS-260330-5263
   - INS-260409-F93A

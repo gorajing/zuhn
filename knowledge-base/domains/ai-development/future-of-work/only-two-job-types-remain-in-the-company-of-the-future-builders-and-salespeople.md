@@ -66,6 +66,7 @@ related:
   - INS-260404-6DAD
   - INS-260501-5ACE
   - INS-260328-A666
+  - INS-260603-2FB1
 ---
 Masad's prediction for company structure when agents can autonomously build/run software: only two job types remain. Builders are generalist entrepreneurs who wake up asking 'how can I make the company more successful?' and deputize agents to solve problems they find — Replit already has a 'vibe coding in residence' team operating this way (no specific product or domain assignment, just 'go around the company and make it better'). Salespeople become evangelists and educators because customers still want to learn from a human and trust another human.
 

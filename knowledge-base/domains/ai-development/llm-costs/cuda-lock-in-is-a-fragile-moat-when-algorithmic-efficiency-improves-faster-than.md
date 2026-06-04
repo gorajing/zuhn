@@ -51,7 +51,6 @@ stance: >-
   training algorithms reduce dependency on massive GPU clusters
 related:
   - INS-260323-13C0
-  - INS-260322-0CE3
   - INS-260323-D18D
   - INS-260320-A745
   - INS-260321-8C35
@@ -60,6 +59,7 @@ related:
   - INS-260327-5D5F
   - INS-260327-6061
   - PRI-260328-A82C
+  - INS-260403-72C2
 evidence:
   - id: INS-260322-144E
     type: TRANSFERS_TO

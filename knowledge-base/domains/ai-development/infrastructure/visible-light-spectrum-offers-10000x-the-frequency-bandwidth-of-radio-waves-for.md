@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-E4AD
   - INS-260412-6DCE
+  - INS-260603-6E59
   - INS-260327-CB82
   - INS-260409-0F19
-  - INS-260322-E734
 ---
 Wi-Fi operates on radio waves with a maximum frequency of 300 GHz, while visible light reaches up to 790 THz — a 10,000x larger frequency range. This physical reality means light can carry dramatically more data pulses per second. Lab results have demonstrated this advantage concretely: Oxford researchers achieved 223 Gbps over visible light, while real-world Estonian office trials hit 1 Gbps (100x faster than average Wi-Fi at the time).
 

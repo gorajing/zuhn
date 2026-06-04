@@ -50,10 +50,10 @@ stance: >-
   stronger long-term audience trust than monetized affiliate content.
 related:
   - INS-260329-2EB1
+  - INS-260603-6D08
+  - INS-260603-D44B
   - PRI-260406-1A55
   - INS-260403-A101
-  - INS-260322-7FA4
-  - INS-260501-93DD
 ---
 Lenny Rachitsky's gift guide explicitly disclaims affiliate links and financial relationships for nearly every product, which paradoxically increases the commercial value of his newsletter by building trust. This inverts the typical content monetization playbook where every recommendation is an affiliate opportunity.
 

@@ -52,7 +52,6 @@ stance: >-
   form of content consumption because it is fundamentally easier and more
   natural.
 related:
-  - INS-260323-1BF7
   - INS-260403-6B97
   - PRI-260406-AA07
   - INS-260327-6807
@@ -62,6 +61,7 @@ related:
   - INS-260404-F172
   - INS-260405-75C4
   - INS-260403-10A0
+  - INS-260403-889B
 evidence:
   - id: INS-260323-6BF4
     type: CHALLENGES

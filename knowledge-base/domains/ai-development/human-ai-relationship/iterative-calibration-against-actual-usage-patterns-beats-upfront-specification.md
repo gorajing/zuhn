@@ -58,7 +58,6 @@ related:
   - INS-260409-B13F
   - PRI-260407-2E0F
   - INS-260403-80B1
-  - INS-260409-78E1
   - INS-260410-18CF
 ---
 The article's refinement step — asking ChatGPT to compare your custom instructions against your actual recent conversations — introduces a powerful calibration mechanism. Your stated preferences ('I want to be challenged') often diverge from your revealed preferences (you consistently accept the AI's first suggestion without pushback). This gap is invisible to introspection but visible in conversation history.

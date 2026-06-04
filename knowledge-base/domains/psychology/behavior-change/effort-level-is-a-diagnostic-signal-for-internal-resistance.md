@@ -42,7 +42,6 @@ stance: >-
 related:
   - INS-260323-DA91
   - INS-260323-C1B2
-  - INS-260327-0E57
   - INS-260329-CABE
   - INS-260329-B4C8
   - INS-260329-93AE
@@ -50,5 +49,6 @@ related:
   - INS-260409-7171
   - PRI-260406-21DA
   - INS-260409-F7F8
+  - INS-260322-A208
 ---
 Bayer proposes using the felt quality of pursuit as diagnostic feedback: if trying hard feels bad, there is a resistance pattern (limiting belief, conflicting identity, unresolved emotional state) opposing the desire. Clean desire produces play-like engagement. The heuristic is useful but also risks pathologizing normal friction with difficult tasks — some things are legitimately hard, and effort aversion can masquerade as 'resistance detection'. Use as one signal among several, not a universal diagnostic.

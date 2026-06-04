@@ -55,12 +55,11 @@ resolutions:
     benefits multi-model platforms like Korea where users can switch between
     models.
 related:
-  - INS-260322-B09B
   - INS-260403-9774
   - INS-260409-FB26
   - INS-260322-F65F
+  - INS-260322-B09B
   - INS-260409-9851
-  - INS-260403-58DA
 stance: >-
   Basic image generation is being absorbed by foundation models, but creative
   tools that are aesthetically opinionated (Midjourney) or own non-commod...

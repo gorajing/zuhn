@@ -49,8 +49,8 @@ related:
   - INS-260404-0B8E
   - PRI-260406-9051
   - INS-260327-E18C
+  - INS-260603-7252
   - INS-260327-1D37
   - INS-260330-7987
-  - INS-260323-BC61
 ---
 Hassabis's two big safety worries: (1) misuse of dual-use technology by bad actors, and (2) the technical alignment problem — keeping more powerful, more agentic, more autonomous systems 'on the guardrails we want' as we approach AGI. Crucially he says 'not today's systems, but maybe in a year or two's time.' This is a specific, time-bound prediction: 2027-2028 is when agentic autonomy makes alignment a live problem rather than a research project. Founders building agents, investors evaluating agentic-AI startups, and policymakers drafting regulation should work backwards from this window. Today's guardrails (prompt injection defense, content filters) don't address the 2027 threat model of autonomous agents pursuing multi-step goals.
