@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 106 insights
+> 111 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260605-2D9F` [high] Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
@@ -31,7 +31,9 @@
 - `INS-260412-B805` [high] Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
 - `INS-260505-1606` [high] Models on biological data quietly learn the biases of the experiments — interpretability catches that.
 - `INS-260410-B30D` [high] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
+- `INS-260605-8168` [high] Manual 'vibe' inspection compounds two biases—your individual preference and the specific handful of prompts you tried—so it must be scaled across many people and samples.
 - `INS-260505-483B` [high] Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
+- `INS-260605-77E5` [high] Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - `INS-260514-1277` [high] Note quality, not wiki tech, is the primary bottleneck — fix your note-taking discipline BEFORE investing in the wiki stack, because the wiki amplifies what's already there.
 - `INS-260505-CDAE` [high] FrontierMath is held by an AI lab, DeepMind's MathConjectures benchmark has wide difficulty spread, NYT-style 30-mathematician evaluations don't scale.
 - `INS-260505-2FFB` [high] EVO-1, EVO-2, all training data, all code — released openly because that's where academic labs add unique value.
@@ -57,6 +59,7 @@
 - `INS-260605-3E7F` [high] Field-shaping benchmarks carry a thesis about where capabilities need to go and set a goalpost labs hill-climb toward, rather than merely recording past results.
 - `INS-260605-4856` [high] Frontier models cluster within a few points on SWE-bench Pro while the harness alone swings results ~22%, so you may be measuring the harness, not the model.
 - `INS-260408-C572` [high] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
+- `INS-260605-0BD6` [high] Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed.
 - `INS-260514-3974` [high] AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist.
 - `INS-260410-10C9` [high] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
 
@@ -74,6 +77,7 @@
 - `INS-260505-D1E9` [medium] AI is a compression engine — it deduces from training data. Real science is abductive — surprising claims that violate expectations. The two are in tension.
 - `INS-260501-5F37` [medium] Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments.
 - `INS-260505-5D69` [medium] Nature is constantly producing pandemic-grade viruses; what we lack is the ability to detect, respond, and cure them — that's where AI's marginal benefit goes.
+- `INS-260605-80D0` [medium] ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260410-3075` [medium] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.
 - `INS-260410-EF9E` [medium] Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
 - `INS-260524-78D0` [medium] Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
@@ -106,6 +110,7 @@
 - `INS-260410-0741` [medium] Nadella says the first thing a working quantum computer lets you do is design the next one, because simulating atom-level gate construction is exactly the workload classical hardware cannot handle.
 - `INS-260410-6BBC` [medium] The tech tree branches so widely that different civilizations would discover entirely different subsets of it, producing enormous potential gains from trade between any two.
 - `INS-260505-4426` [medium] Take the model at every training checkpoint, not just the final one — extreme events are often learned at step 50K, then forgotten by step 500K.
+- `INS-260605-33B4` [medium] CLIP-score rankings of the same models flip across datasets with tiny score differences, while a task-aligned metric (text-rendering) gives stable, well-separated rankings.
 - `INS-260605-B60D` [medium] Across public benchmarks, a fixed set of tasks that can never be completed becomes a source of noise that masks whether model improvement is genuinely happening.
 - `INS-260514-70CB` [low] AI doesn't replace scientists — it lets a single human credibly span what used to be three PhDs.
 - `INS-260501-BC7C` [low] If information is more fundamental than matter or energy, AI is operating on the substrate of reality — and is qualitatively different from prior revolutions.

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 135 insights
+> 136 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -96,6 +96,7 @@
 - `INS-260403-39CF` [medium] AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260410-8767` [medium] Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260403-287B` [medium] AI is reducing new job creation for junior roles rather than eliminating existing positions.
+- `INS-260605-9527` [medium] The weaver's-hands bottleneck moves from writing code to taste and orchestration; the hard question becomes who to say no to, not how to say yes.
 - `INS-260409-A682` [medium] Barefoot developers — technically savvy people embedded in local communities who build small home-cooked software for people they know — will emerge as a new category once LLM orchestration tools cross the command-line wall for them, and they'll grow exponentially faster than professional developers.
 - `INS-260320-B99F` [medium] Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260403-B0CB` [medium] Using subsidized care industries as employment sinks for AI-displaced workers creates expensive make-work programs that raise costs without genuine productivity gains.

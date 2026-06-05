@@ -49,10 +49,10 @@ stance: >-
   structured handoffs between specialized agents.
 related:
   - PRI-260411-14DC
+  - INS-260605-C2A3
   - INS-260522-2CE8
   - INS-260326-163A
   - PRI-260328-F723
-  - PRI-260405-1A34
   - INS-260329-075C
 evidence:
   - id: INS-260326-163A

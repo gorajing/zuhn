@@ -55,6 +55,7 @@ related:
   - INS-260330-36B4
   - INS-260330-8E3C
   - INS-260409-6C66
+  - INS-260605-E16A
 ---
 YC frames firing as a founder rite of passage: 'You're not a real founder until you've had to fire somebody.' The difficulty stems from startups' intense social bonds — founders hire friends, former co-workers, or grow close to early employees. But letting a bad employee linger has only downside: good employees may quit, and business performance suffers.
 

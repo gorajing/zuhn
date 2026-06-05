@@ -65,6 +65,7 @@ related:
   - INS-260410-B6EA
   - PRI-260406-EBDB
   - INS-260423-7C1A
+  - INS-260605-9581
 ---
 Gwern's observation that exceptional corporations don't clone themselves and take over all market segments reveals a deep structural limit: corporations are made of people, not interchangeable widgets or DNA strands. They can't replicate culture, leadership, or tacit knowledge fast enough to outrun aging and scleroticism. This is why market leadership turns over across generations even for companies with overwhelming advantages.
 

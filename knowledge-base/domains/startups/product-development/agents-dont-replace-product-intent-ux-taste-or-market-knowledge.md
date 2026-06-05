@@ -39,9 +39,9 @@ stance: >-
   decisions, and knowledge of the market.
 related:
   - INS-260501-5ACE
+  - INS-260605-C2A3
   - INS-260525-1CE3
   - INS-260327-A9D5
   - PRI-260406-CAE4
-  - INS-260403-4120
 ---
 The first speaker lists what he still must decide alone — product design, intent, the emotional transformation a product should create — and that knowing the market is the most important and least automatable. The second speaker independently reports UX is the hardest part (he took ~50 rounds with a human UX engineer over an hour) because a non-developer doesn't even know what to fix. A consistent KB signal: agents commoditize construction but not taste, intent, or market judgment.

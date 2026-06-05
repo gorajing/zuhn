@@ -73,9 +73,9 @@ related:
   - INS-260327-A9D5
   - INS-260327-BB71
   - INS-260403-4D80
-  - INS-260405-F26B
   - INS-260405-E8A1
   - INS-260410-E977
+  - INS-260410-F910
 ---
 The framing pushes back on agent-maximalism. The vendor ecosystem is converging on agentic development environments (ADEs) — tooling built around autonomous agents, with observability, cost-optimization, and performance management layered on. The counter-position: a real software stack has substantial deterministic components — parts you want to behave exactly the same way every time — and forcing those through non-deterministic agents is a category error.
 

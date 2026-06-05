@@ -52,7 +52,6 @@ stance: >-
   general-purpose tools that handle unexpected queries, not a single universal
   search tool.
 related:
-  - INS-260605-F5FB
   - INS-260605-0C88
   - INS-260404-CCB1
   - INS-260326-2410

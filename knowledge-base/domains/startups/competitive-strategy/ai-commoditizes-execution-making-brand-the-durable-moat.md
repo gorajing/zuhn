@@ -56,7 +56,7 @@ related:
   - INS-260404-AB0F
   - INS-260404-8A87
   - INS-260322-F891
-  - INS-260403-CD51
+  - INS-260605-9581
 ---
 Herjavec argues that AI is simplifying every business process, which means competitors can clone your product faster than ever. In this environment, the things that can't be copied — brand identity, storytelling ability, and accumulated media credibility — become disproportionately valuable as competitive moats.
 

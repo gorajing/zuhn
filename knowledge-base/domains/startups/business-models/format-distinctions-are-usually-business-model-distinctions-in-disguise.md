@@ -48,6 +48,6 @@ related:
   - INS-260410-277B
   - INS-260403-096C
   - INS-260321-3312
-  - INS-260403-F524
+  - INS-260605-20C0
 ---
 When asked what distinguishes a podcast from an audiobook, Ek argues the production quality, mic setup, and editing have converged to the point where the format distinction is nearly meaningless. The real difference is the business model: podcasts are ad-supported audio, audiobooks are paid audio. This reframe is powerful because it collapses what looked like a product question into a monetization question, and it suggests the same content can occupy multiple 'formats' simultaneously — ad-supported episodes for discovery plus paywalled deep-dives for subscribers. More broadly, the lesson applies beyond audio: when two content categories feel distinct but the production and consumption experiences are nearly identical, the distinction is probably about who pays and how. Strategy follows from that reframe: compete on business model design, not on format taxonomy.

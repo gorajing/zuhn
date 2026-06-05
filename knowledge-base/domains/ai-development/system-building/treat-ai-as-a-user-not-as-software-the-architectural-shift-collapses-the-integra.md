@@ -63,9 +63,9 @@ related:
   - INS-260323-4B4D
   - INS-260402-3196
   - INS-260424-5759
+  - INS-260605-C2A3
   - INS-260330-6611
   - INS-260327-63B5
-  - INS-260403-4D80
 ---
 Casado's diagnosis of where product companies got stuck: ~6 months ago, integrating AI meant adding a chat feature inside your product (the fusion/hybrid model). That hasn't worked — it's an awkward middle that fails to serve either humans or agents well. The architectural shift now happening: instead of fusing AI into the product, treat AI as a user. Make your product a CLI tool (or MCP, or clean API), and let the agent (Claude Code, Codex, custom) use it as a user would.
 

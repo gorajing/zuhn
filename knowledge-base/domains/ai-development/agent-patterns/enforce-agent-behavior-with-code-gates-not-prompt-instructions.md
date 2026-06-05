@@ -45,7 +45,6 @@ stance: >-
   Reliable agentic systems must structurally enforce required steps via a state
   machine rather than instructing the model to do them.
 related:
-  - INS-260411-D060
   - INS-260605-E693
   - INS-260327-BF89
   - INS-260403-2FAE

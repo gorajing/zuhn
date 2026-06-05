@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 65 insights
+> 67 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -65,5 +65,7 @@
 - `INS-260410-B118` [medium] Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 - `INS-260501-3F01` [medium] Marketing says: explore 5 design directions in parallel. Reality: you wait, watch, iterate one at a time.
 - `INS-260329-4D03` [medium] Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
+- `INS-260605-0C56` [medium] VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
 - `INS-260501-F90F` [medium] Skills, plugins, MCPs, integrations, connectors — Pemberton calls them all 'skills' because the differences are platform-vendor business distinctions, not user mental models.
 - `INS-260501-52B5` [medium] Pemberton oneshotted a Replit-style sandboxing app on his phone in one prompt. 95% of what you'd want to code is now PowerPoint-easy.
+- `INS-260605-9467` [low] When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.

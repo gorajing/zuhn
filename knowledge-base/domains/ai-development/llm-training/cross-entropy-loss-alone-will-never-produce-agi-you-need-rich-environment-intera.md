@@ -56,7 +56,6 @@ related:
   - INS-260603-6E59
   - INS-260330-2F13
   - INS-260505-D1E9
-  - INS-260326-8201
 stance: >-
   Hotz argues that maximizing compression (cross-entropy) can never reach AGI
   because it produces 'mid' outputs

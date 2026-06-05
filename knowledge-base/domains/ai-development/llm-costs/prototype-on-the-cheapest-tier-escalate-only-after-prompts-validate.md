@@ -60,6 +60,7 @@ related:
   - INS-260403-B53B
   - PRI-260406-5BD0
   - PRI-260406-9780
+  - INS-260605-0BD6
 ---
 Both speakers treat cost tiering as a deliberate development workflow, not an afterthought. Guillaume uses VO 3.1 Light (5 cents/image, far cheaper than VO3 a year prior) explicitly 'to prototype, test your prompts, and then if you want better quality you can move to the better models.' Paige runs Gemini 3.1 Flash-Lite (~25 cents/M tokens, nearly an order of magnitude under Pro) for video and image analysis that doesn't need flagship reasoning.
 

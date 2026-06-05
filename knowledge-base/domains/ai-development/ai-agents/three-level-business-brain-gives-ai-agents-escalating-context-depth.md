@@ -53,7 +53,7 @@ related:
   - PRI-260328-81F5
   - PRI-260406-1F5E
   - INS-260403-7E7C
-  - INS-260322-EAB6
+  - INS-260605-C2A3
 stance: 'AI agents need three levels of business context: Level 1 (identity'
 evidence:
   - id: INS-260329-FE15

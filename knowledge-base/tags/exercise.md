@@ -1,7 +1,7 @@
 # Tag: exercise
 
-- `INS-260514-B9C3` Exercise → BDNF secretion → neuron growth → improved dendritic plasticity → measurably better brain function. Mechanism is specific, not handwave-cardio.
 - `INS-260409-6B22` Sprint performance is a clean mitochondrial-capacity biomarker and sprinting itself is an underprescribed longevity protocol.
+- `INS-260514-B9C3` Exercise → BDNF secretion → neuron growth → improved dendritic plasticity → measurably better brain function. Mechanism is specific, not handwave-cardio.
 - `INS-260330-A33F` Fat leaves the body as CO2 through exhalation; any exercise that increases respiration rate equally drives fat loss.
 - `INS-260327-E8A4` Functional mobility training with 5 simple exercises maintains leanness and flexibility without gym equipment
 - `INS-260323-3ED8` Rotating between heavy lifting and lighter/higher-rep training in 3-month cycles gives joints rest and changes hormonal cascades that directly affect cognitive performance.

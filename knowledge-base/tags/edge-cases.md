@@ -7,5 +7,5 @@
 - `INS-260329-8261` Studying behavior at boundaries and limits reveals structural truths invisible at typical operating points.
 - `INS-260330-D2D2` 'Almost all' has a precise mathematical meaning that excludes infinitely many cases — perfect squares are 'almost none' of all numbers yet there are infinitely many of them.
 - `INS-260325-6AE7` Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
-- `INS-260412-2D3A` Overlapping but imperfectly aligned jurisdictional boundaries create permanent ungoverned voids, as demonstrated by Yellowstone's Idaho zone where jury trial requirements make prosecution impossible.
 - `INS-260605-C699` Building on-device multimodal AI for a blind father in a low-connectivity region produced a general-purpose framework now used by frontier labs and thousands of developers.
+- `INS-260412-2D3A` Overlapping but imperfectly aligned jurisdictional boundaries create permanent ungoverned voids, as demonstrated by Yellowstone's Idaho zone where jury trial requirements make prosecution impossible.

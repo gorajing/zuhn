@@ -63,7 +63,6 @@ stance: >-
   expensive and make-or-break investment.
 related:
   - INS-260514-CA39
-  - INS-260605-C009
   - PRI-260413-A957
   - INS-260605-9F5C
   - INS-260413-7816

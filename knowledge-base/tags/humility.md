@@ -10,7 +10,6 @@
 - `INS-260327-B2CC` Real humility means accepting you could be wrong, not performing modesty.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
-- `INS-260501-3E4F` If Bezos and Elon are selling, sell. If they're buying, consider buying. Then prove yourself why you wouldn't.
 - `INS-260409-5491` Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260410-87C4` Greg Abel: 'Our owners' time horizon extends beyond the tenure of any individual CEO. I will not be your CEO for the next 60 years as simple arithmetic makes that — shall we say — an ambitious plan.'
@@ -19,3 +18,4 @@
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
 - `INS-260327-91E7` Scaling requires hiring domain experts and having genuine humility to learn from them.
 - `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
+- `INS-260501-3E4F` If Bezos and Elon are selling, sell. If they're buying, consider buying. Then prove yourself why you wouldn't.

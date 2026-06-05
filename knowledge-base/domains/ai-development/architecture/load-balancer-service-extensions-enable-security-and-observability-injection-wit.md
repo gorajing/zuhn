@@ -57,5 +57,6 @@ related:
   - INS-260423-1C4D
   - INS-260329-818A
   - INS-260329-4696
+  - INS-260605-E16A
 ---
 The 2010s pattern for API security was middleware in the application (auth tokens, input validation, logging). This fails when the application has bugs or when multiple applications share the same backend with different middleware quality. The 2026 pattern is to push uniform policies into the load balancer or API gateway via service extensions: one place defines what gets filtered, rate-limited, authenticated, or logged, and every request passes through regardless of which application is behind it. This defends against application bugs (forgotten validation), simplifies audit (one config file describes the policy for the whole surface), and makes it easier to experiment with security policies (change the extension, affect all backends simultaneously). The implication for production agent architecture: every request should enter through a load balancer with the relevant service extensions configured, not directly to a backend. Extensions are harder to write than middleware but the operational leverage justifies the complexity.

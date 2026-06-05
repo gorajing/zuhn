@@ -46,6 +46,6 @@ related:
   - INS-260329-F51D
   - INS-260525-9B7B
   - PRI-260407-F684
-  - INS-260501-0662
+  - INS-260605-AABE
 ---
 His top lesson: with the same tools, output quality is set by the curated context — a PRD, Apple's Human Interface Guidelines, screenshotting the running UI back to the agent to fix layout, and a designer.md referencing known designs. This is the third speaker at the same event (with Jongmin and Woosang) to independently land on context/harness as the lever over raw model choice — a strong cross-source convergence for the KB's agent cluster.

@@ -59,11 +59,11 @@ stance: >-
   and Salesforce.
 related:
   - INS-260403-3155
-  - INS-260404-34DB
   - INS-260403-C074
   - INS-260423-85B3
   - INS-260501-9E23
   - INS-260519-20E0
+  - INS-260605-C2A3
   - INS-260424-5759
   - INS-260605-BC6F
 ---

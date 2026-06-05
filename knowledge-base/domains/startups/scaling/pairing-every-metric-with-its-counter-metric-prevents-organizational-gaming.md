@@ -45,13 +45,11 @@ stance: >-
   organization will optimize that metric at the expense of something more
   important.
 related:
-  - INS-260329-5BB0
   - INS-260330-0A95
   - PRI-260405-608A
   - INS-260327-E3CA
   - INS-260330-E8C6
   - INS-260402-8A7A
-  - INS-260410-58D6
   - INS-260412-F893
   - INS-260501-033E
 evidence:

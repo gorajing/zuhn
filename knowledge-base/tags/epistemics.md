@@ -39,8 +39,8 @@
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
 - `INS-260410-0857` Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
-- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
-- `INS-260327-E82A` We have perhaps 1-2% of ancient Mesopotamian texts - our entire understanding of these civilizations is based on a fragmentary, non-representative sample.
 - `INS-260409-40AF` A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
+- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
+- `INS-260327-E82A` We have perhaps 1-2% of ancient Mesopotamian texts - our entire understanding of these civilizations is based on a fragmentary, non-representative sample.
 - `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.

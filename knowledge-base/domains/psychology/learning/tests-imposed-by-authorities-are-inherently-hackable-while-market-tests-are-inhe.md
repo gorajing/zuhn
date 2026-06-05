@@ -49,7 +49,6 @@ stance: >-
   to measure, while tests not imposed by authorities (like market demand) are
   inherently unhackable because no one claims they measure more than they do.
 related:
-  - INS-260320-10CC
   - INS-260402-AD42
   - INS-260605-824F
   - INS-260410-010F

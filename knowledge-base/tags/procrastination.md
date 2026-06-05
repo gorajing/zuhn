@@ -16,6 +16,6 @@
 - `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
 - `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260330-14A1` Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
-- `INS-260329-6020` After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
+- `INS-260329-6020` After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260402-910C` Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.

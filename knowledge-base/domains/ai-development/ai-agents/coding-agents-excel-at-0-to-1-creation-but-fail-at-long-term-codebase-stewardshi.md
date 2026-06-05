@@ -50,6 +50,7 @@ stance: >-
   quality, or make good long-term architectural decisions like senior engineers.
 related:
   - INS-260325-D540
+  - INS-260605-9E46
   - INS-260403-4120
   - INS-260605-3AB7
   - INS-260603-1BC0

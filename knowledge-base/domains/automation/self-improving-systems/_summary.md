@@ -1,6 +1,6 @@
 # Topic: self-improving-systems
 
-> 17 insights
+> 18 insights
 
 - `INS-260522-B95E` [high] YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
 - `INS-260524-D5DB` [high] Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
@@ -9,6 +9,7 @@
 - `INS-260412-F660` [high] Cyanobacteria terraformed Earth's atmosphere without human intervention — the same exponential replication strategy applies to any transformation at planetary scale.
 - `INS-260322-24FB` [high] The Autoresearch loop (change a file, measure the result, keep or discard) can optimize any prompt-driven process with measurable outputs — content, emails, landing pages, thumbnails.
 - `INS-260412-662C` [high] After infection clearance, a few helper T cells and B cells persist as memory cells that guard tissue for years and maintain low-level antibody production, making reinfection nearly impossible.
+- `INS-260605-2793` [high] Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
 - `INS-260330-4B29` [high] NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
 - `INS-260522-2CE8` [high] YC Root Access: a company is a set of recursive self-improving AI loops — sensor (tickets, telemetry, churn) -> policy/decision -> tool layer (deterministic APIs/skills) -> quality gate (evals, human review) -> learning mechanism that loops back.
 - `INS-260519-304D` [high] Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.

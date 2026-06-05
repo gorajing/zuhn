@@ -55,11 +55,11 @@ stance: >-
   traditional in-game economies because rebalancing after launch is orders of
   magnitude harder.
 related:
-  - INS-260325-DFC7
   - PRI-260406-B331
+  - INS-260325-DFC7
   - INS-260424-E832
+  - INS-260605-71C3
   - PRI-260328-A1AA
-  - PRI-260328-D893
 evidence:
   - id: INS-260402-0E46
     type: TRANSFERS_TO

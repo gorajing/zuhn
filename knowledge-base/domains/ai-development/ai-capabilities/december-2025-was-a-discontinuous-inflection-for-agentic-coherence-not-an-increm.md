@@ -50,10 +50,10 @@ stance: >-
   stale priors and needs to re-evaluate from scratch.
 related:
   - INS-260413-AD37
+  - INS-260605-E06C
   - INS-260514-58B1
   - INS-260501-FD20
   - INS-260603-6FE3
-  - INS-260403-D090
 ---
 Karpathy reports a stark transition in December 2025: with the latest models, code chunks 'just came out fine' and he stopped correcting them, eventually trusting the system enough to vibe code freely. He explicitly warns that anyone whose AI experience is 'ChatGPT-adjacent' from earlier in 2025 needs to look again — things changed fundamentally on the agentic coherent workflow dimension.
 

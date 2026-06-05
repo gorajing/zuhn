@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260325-6150
   - INS-260409-6560
+  - INS-260605-F039
   - INS-260409-1078
   - INS-260603-6E59
-  - INS-260323-2651
 evidence:
   - id: INS-260320-232D
     type: TRANSFERS_TO

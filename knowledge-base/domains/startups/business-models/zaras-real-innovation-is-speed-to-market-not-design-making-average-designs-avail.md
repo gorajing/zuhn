@@ -45,6 +45,7 @@ related:
   - PRI-260407-AF64
   - PRI-260322-8FD4
   - INS-260327-87A3
+  - INS-260605-0BD6
 evidence:
   - id: INS-260327-DE27
     type: TRANSFERS_TO

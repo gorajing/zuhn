@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 105 insights
+> 106 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -103,6 +103,7 @@
 - `INS-260424-273F` [medium] Ben Gilbert: I'm not really sure we're seeing the killer native app of the agentic AI era — we don't even know what it looks like; we're trying to make all of our existing stuff more efficient and put it into this AI modality, but I don't think there's…
 - `INS-260327-9C56` [medium] Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260327-FE24` [medium] The terminal became more important with AI agents because its text-based, loggable, multi-session architecture perfectly matches agentic workflows.
+- `INS-260605-4B95` [medium] Best-in-class AI products invest in surviving disconnects, syncing across devices, and communicating with the agent while it works.
 - `INS-260328-4A93` [medium] AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260329-3D28` [medium] Interact with AI coding tools conversationally — warm them up with context, compliment good output, then describe problems naturally.
 - `INS-260327-DCF8` [medium] Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.

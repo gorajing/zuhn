@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260321-2482
   - INS-260320-9D89
+  - INS-260605-5D5E
   - INS-260605-6722
   - INS-260605-74E8
-  - INS-260403-0350
 ---
 The presenters name over-prescription as a common skill-design failure mode: writing a markdown 'novel' that dictates exactly how to do a task degrades performance, while three sharp constraints ('never be vague', 'every cited finding must have a line number and git commit reference') reliably improve it. Zack found through evals that over-specifying how Claude should handle Next.js dropped accuracy ~30% because the model was already good at Next.js and the prescription fought its instincts. The mechanism is that constraints bound the solution space without removing the model's freedom to apply its own competence; prescriptions substitute the author's fixed procedure for the model's adaptive reasoning. The practical rule: express requirements as guardrails ('we use these conventions', 'we never do X') and let the LLM make the runtime determination, becoming more assertive only on the specific outputs you genuinely need in an exact form.

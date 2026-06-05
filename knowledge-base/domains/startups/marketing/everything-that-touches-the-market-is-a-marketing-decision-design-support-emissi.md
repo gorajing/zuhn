@@ -57,6 +57,5 @@ related:
   - INS-260530-D34F
   - PRI-260406-5CA8
   - INS-260322-5CBF
-  - INS-260514-F565
 ---
 The default corporate taxonomy puts marketing in a silo responsible for ads, campaigns, and messaging. This taxonomy produces a predictable pathology: the decisions that shape market perception at scale (how a product is engineered, how support handles edge cases, how the company behaves during scandal, what pricing signals are sent to customers) happen in engineering, operations, legal, and executive rooms where no one is accountable for market impact. The VW emissions scandal is the paradigm case: a technical decision about test-defeating code was made without marketing input and cost a billion dollars in fines plus generational brand damage. The fix is not to add marketing approval gates to every decision, but to instill cross-functional awareness that everything the company does that touches the market is marketing, and decisions should be made with that awareness regardless of which function owns the decision.

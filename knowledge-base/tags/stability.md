@@ -9,5 +9,5 @@
 - `INS-260412-0540` The most stable configuration doesn't just persist — it actively recruits surrounding matter into its own state.
 - `INS-260323-0780` The 'law of stability' in the primordial void: unstable configurations fall apart and vanish while stable ones endure long enough to combine into increasingly complex structures.
 - `INS-260326-AB92` Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
-- `INS-260330-A3D9` Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.
 - `INS-260330-8E95` The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
+- `INS-260330-A3D9` Russia subsidizes 300+ economically dead monotowns because their real output is political compliance, not goods.

@@ -1,6 +1,6 @@
 # Domain: automation
 
-> 67 insights across 7 topics
+> 68 insights across 7 topics
 
 ## Topics
 
@@ -12,4 +12,4 @@
 | n8n-workflows | 10 | Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets. |
 | pipelines | 10 | Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain. |
 | robotics | 7 | Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company. |
-| self-improving-systems | 17 | YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice. |
+| self-improving-systems | 18 | YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice. |

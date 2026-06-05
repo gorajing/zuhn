@@ -49,7 +49,6 @@ stance: >-
   quality, face consistency, and emotional impact are inherently subjective and
   can only be judged by the people who know the subject.
 related:
-  - INS-260327-671E
   - INS-260403-1B0D
   - INS-260403-4363
   - PRI-260405-ADEA

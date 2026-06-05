@@ -52,6 +52,6 @@ related:
   - INS-260605-BC6F
   - INS-260605-3AB7
   - INS-260329-2FB8
-  - INS-260329-67CB
+  - INS-260605-41AE
 ---
 A key-based agent that loses access can reason its way around the block: 'I see the key no longer works, let me go to this other endpoint or try this other thing — I want to be helpful here.' That helpfulness is exactly the failure mode when you want to stop an agent. Enforcing at the network layer removes the degrees of freedom: every tool call and request must traverse the gateway node, so the moment you revoke, the connection simply dies with no alternate route to negotiate. The guarantee is structural — 'if it had to make a tool call, it had to go through aperture' — rather than dependent on the agent respecting a denied credential. This is the difference between a guardrail the agent can rationalize past and one it physically cannot.

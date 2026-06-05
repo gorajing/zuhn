@@ -63,5 +63,6 @@ related:
   - INS-260409-FDE9
   - INS-260402-89DE
   - INS-260605-6CBF
+  - INS-260605-6F98
 ---
 The person who could have invented Hindu-Arabic numerals starting from Roman numerals would have been both one of the greatest mathematicians and one of the greatest designers who ever lived — the insights are entangled, the mathematical breakthroughs and the design breakthroughs are the same breakthroughs viewed from different angles. This is the 'insight-through-making loop' operating at full throttle: tool improvements produce original research insights, and research insights feed tool improvements. Most research cultures are missing the making side (researchers see implementation as trivial 'engineering'). Most product cultures are missing the research side (makers see research as slow unprofitable making). Silicon Valley particularly suffers from the second — makers who read a few Hamming and Feynman stories and think they can 'create the new Bell Labs' without understanding the research culture they are trying to recreate. The insight-through-making loop is structurally rare because the people who can operate it need world-class credentials in two very different kinds of work, and institutions rarely support such hybrid practitioners.

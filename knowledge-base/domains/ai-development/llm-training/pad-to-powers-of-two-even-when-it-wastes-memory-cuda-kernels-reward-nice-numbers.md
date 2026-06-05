@@ -62,7 +62,7 @@ related:
   - INS-260410-B282
   - INS-260323-4E12
   - INS-260403-B73D
-  - INS-260605-C28F
+  - INS-260605-3899
   - INS-260605-158D
 ---
 Karpathy calls this simultaneously 'the dumbest and the most brilliant optimization' in the whole video. CUDA kernels are written in blocks of 16, 64, 128, etc.; when your tensor dimensions aren't clean multiples, the kernel falls back to a slower path with special-case boundary handling. The GPT-2 vocabulary size of 50,257 is prime and odd — maximally ugly. Rounding it up to 50,304 (nearest multiple of 64, and divisible by 128) wastes ~47 rows of the embedding and LM-head matrices that will never be used, but the training step gets faster overall.

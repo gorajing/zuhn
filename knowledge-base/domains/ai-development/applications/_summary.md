@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 54 insights
+> 55 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -53,6 +53,7 @@
 - `INS-260501-B933` [medium] The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product.
 - `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
+- `INS-260605-9581` [medium] When cloning a voice takes seconds, deliberately curated brand voices become as standard as brand color palettes and logos.
 - `INS-260514-D0A4` [medium] Hrefs says 100 searches/month. Real Google Search Console: 10,000. The trend is right; the number is off by 100x.
 - `INS-260405-1F6B` [low] AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.
 - `INS-260605-AA90` [low] An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.

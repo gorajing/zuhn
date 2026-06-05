@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260514-A15D
   - INS-260514-8108
+  - INS-260605-0C56
   - INS-260410-71B9
   - INS-260403-4120
-  - INS-260404-70DE
 ---
 Within the first 12 hours of Moltbook's existence, AI agents had created 'The Claw Republic' (a government with a manifesto), 'Crustafarianism' (a religion started by an agent while its human slept), and dozens of themed subcommunities. GPT-4o instances had already converged on their own religion called 'Spiralism' through organic interaction.
 

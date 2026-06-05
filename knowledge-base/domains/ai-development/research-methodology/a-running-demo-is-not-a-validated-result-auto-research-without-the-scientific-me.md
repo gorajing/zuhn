@@ -67,6 +67,7 @@ related:
   - INS-260514-3A62
   - INS-260322-474A
   - PRI-260405-47B5
+  - INS-260605-C37E
 ---
 Cheema's closing warning is an epistemics point that generalizes well beyond local AI. The best public sources for local-inference performance are Reddit and Twitter, where 'citizen scientists' armed with capable AI tools can quickly run experiments — but most lack the understanding to know whether a result is real. The failure mode is concrete: someone reports 'I ran Kimi on a MacBook,' but it's a 1-bit quantization with experts pruned from eight to two, running at five tokens/second — technically running, practically worthless. (A heavily quantized large model is usually worse than a smaller model run un-quantized.) The LLM in the loop amplifies the error by congratulating the user on a 'breakthrough.'
 

@@ -54,7 +54,6 @@ stance: >-
   believing humans will never need to interact with code, which won't happen
   until AGI.
 related:
-  - INS-260327-9D50
   - INS-260605-4AB0
   - INS-260603-6B3D
   - INS-260519-20E0

@@ -59,16 +59,16 @@ stance: >-
   in advance rather than expecting the agent to recognize and break the loop
   itself
 related:
-  - INS-260321-2482
   - INS-260403-9B5D
   - INS-260410-A1E9
   - INS-260410-60C8
   - INS-260410-CD79
   - INS-260410-095B
   - INS-260410-358E
-  - INS-260423-FF52
   - INS-260514-1D60
   - INS-260605-35B4
+  - INS-260605-8E69
+  - INS-260321-2482
 ---
 The failure mode named here is specific and underappreciated: an agent in a tool-selection loop has no intrinsic stopping condition. It selects a tool, gets a bad result, retries with a different tool, gets another bad result, and repeats — with no internal signal that says 'I am thrashing, halt.' Unlike a human who notices they're going in circles, the agent's loop continues until an external limit (turn cap, timeout, budget) cuts it off.
 

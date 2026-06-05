@@ -56,6 +56,7 @@ related:
   - PRI-260406-E75B
   - INS-260410-AF66
   - INS-260605-A3F4
+  - INS-260605-8168
 stance: >-
   Track four quadrants — high eval + high views (validated winners), high eval +
   low views (false positives), low eval + high views (missed patterns)...

@@ -56,6 +56,7 @@ related:
   - INS-260605-A803
   - PRI-260328-A65A
   - INS-260327-A9D5
+  - INS-260605-41AE
 ---
 The runtime spectrum for agents runs from separate threads, to git worktrees, to containers, to VMs/micro-VMs. Bichard argues that for proper development tasks — where an agent runs untrusted-ish code at scale — only a VM provides adequate isolation. Two reasons: security (a container is not a bulletproof isolation boundary, so a compromised or runaway agent can escape) and resource contention (containers on Kubernetes/pods are bursty and suffer noisy-neighbor problems when many agents run concurrently).
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5328 actionable insights
+Generated on 2026-06-05 | 5357 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -180,6 +180,14 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-0374] Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
 - [INS-260605-09B1] Rejected tasks were often under-specified — the testable outcome wasn't stated up front while the back-end tests expected unrequested behavior, or relied on implicit dependencies never given to the model.
 - [INS-260605-E516] Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
+- [INS-260605-6A32] At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.
+- [INS-260605-C726] Hand the agent a 'send feedback' tool for tooling/docs/platform failures, routed straight to the builders' Slack.
+- [INS-260605-FE8E] Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.
+- [INS-260605-9E7A] In multi-agent systems, have each agent publish independently to the shared session so the orchestrator only handles final results, not progress relay.
+- [INS-260605-B4B9] Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
+- [INS-260605-21A5] Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
+- [INS-260605-AE0D] Sort parallel agent sessions into lanes by required oversight — fire-and-forget test refactors at one end, conversational P0 feature work at the other.
+- [INS-260605-9E46] Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -211,6 +219,7 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-2A01] Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.
 - [INS-260605-E642] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - [INS-260605-1A2D] Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
+- [INS-260605-C2A3] An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -467,6 +476,7 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260410-2067] Run BM25 and vector search in parallel, then merge results with rank fusion — embeddings catch meaning, BM25 catches exact strings like 'TS-999'.
 - [INS-260410-2F8D] Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
 - [INS-260409-3602] Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.
+- [INS-260605-FB77] Repos with strong function-level comments showed a big retrieval boost because embedding the bytes is easy — extracting the chunk's true meaning is the bottleneck, and comments hand it over.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -571,6 +581,8 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260501-A5F5] Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
 - [INS-260514-BA22] Spending all day with positively-tuned Claude makes real humans feel abrasive — a measurable social aftereffect to counteract with deliberate human interaction.
 - [INS-260605-9688] Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
+- [INS-260605-5D5E] An agent that starts waffling, contradicting itself, or 'bullshitting' in its reasoning is signaling failure before its diff does — kill or park the session.
+- [INS-260605-5CC7] When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -606,6 +618,7 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-6752] Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - [INS-260605-EBEB] Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
 - [INS-260605-58DA] Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
+- [INS-260605-EA4B] Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -625,6 +638,7 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-8F42] The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
 - [INS-260605-DA2B] Target ~200–300ms time-to-first-token for the LLM, which constrains model size to roughly 8–30B parameters — bigger burns the latency budget, smaller sacrifices the intelligence and tool calling the agent needs.
 - [INS-260605-9B99] Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely.
+- [INS-260605-B9A9] A 26K-battle image evaluation took 20 days of compute / $5K / 556 kWh on a slow model versus 7 hours / $265 on a fast one with comparable quality.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -752,6 +766,8 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260424-50EE] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - [INS-260514-AC43] Sophisticated prompt engineering you build today is often useless in 2 months when models improve. Use the simplest prompt that works; let model improvements absorb specificity.
 - [INS-260530-E697] Abhije: 'I have given it my best work samples — here are some of the best memos that I wrote, pick up my learning style.' The agent is now invoked as a skill that produces first-draft PRDs in the author's voice, removing the cold-start friction.
+- [INS-260605-6C0C] Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
+- [INS-260605-3899] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -797,6 +813,10 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-6066] A competing lab beat a published benchmark mainly by enabling its own API's compaction feature — same task, different config, much better-looking number.
 - [INS-260605-4856] Frontier models cluster within a few points on SWE-bench Pro while the harness alone swings results ~22%, so you may be measuring the harness, not the model.
 - [INS-260605-365A] Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
+- [INS-260605-8168] Manual 'vibe' inspection compounds two biases—your individual preference and the specific handful of prompts you tried—so it must be scaled across many people and samples.
+- [INS-260605-77E5] Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
+- [INS-260605-0BD6] Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed.
+- [INS-260605-33B4] CLIP-score rankings of the same models flip across datasets with tiny score differences, while a task-aligned metric (text-rendering) gives stable, well-separated rankings.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -910,6 +930,7 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-4AB0] Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - [INS-260605-C33F] Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - [INS-260605-8B25] Unlike traditional observability — owned by systems engineers — agent observability works best when clinicians, lawyers, or wealth advisors read traces directly, because they're closest to the user and the problem.
+- [INS-260605-E06C] Knowledge entries go stale on every model release and feature change, and stale context actively hampers the agent — so continuous deletion is as important as collection.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -932,6 +953,13 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260605-D912] Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
 - [INS-260605-780C] Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.'
 - [INS-260605-8AEE] A modular speech pipeline lets you swap individual ASR, language, and TTS models to fit any device from a first-gen M1 to the latest chip — flexibility a monolithic speech-to-speech model can't match.
+- [INS-260605-AABE] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
+- [INS-260605-48CA] Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
+- [INS-260605-C37E] When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
+- [INS-260605-EC51] An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
+- [INS-260605-93B8] The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
+- [INS-260605-E16A] Because SSE is strictly one-way, a client closing the connection is ambiguous — buffer-to-resume or cancel-the-LLM — so you cannot support both resume and a stop button.
+- [INS-260605-204E] Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -999,6 +1027,7 @@ Generated on 2026-06-05 | 5328 actionable insights
 - [INS-260524-D5DB] Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
 - [INS-260524-8E5D] Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.'
 - [INS-260605-8BEA] Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work.
+- [INS-260605-2793] Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.

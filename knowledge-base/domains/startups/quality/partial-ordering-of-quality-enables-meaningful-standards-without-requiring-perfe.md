@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-35E7
   - INS-260605-BEA5
+  - INS-260605-77E5
   - INS-260404-A9D0
   - INS-260411-CBCF
-  - INS-260410-5E92
   - INS-260405-8F59
 evidence:
   - id: INS-260405-E06B

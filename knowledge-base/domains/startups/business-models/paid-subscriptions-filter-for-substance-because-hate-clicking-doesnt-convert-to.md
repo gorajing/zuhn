@@ -57,6 +57,7 @@ related:
   - INS-260403-03BD
   - INS-260405-95D1
   - INS-260402-2632
+  - INS-260605-2793
 ---
 Ad-supported platforms optimize for attention regardless of sentiment — hate-clicks and rage-shares generate the same revenue as genuine engagement. Subscription models invert this dynamic entirely: nobody pays monthly for content that merely provokes them. This creates a natural selection pressure toward substance.
 

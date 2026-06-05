@@ -50,12 +50,12 @@ related:
   - INS-260423-FF53
   - INS-260501-AB31
   - INS-260327-C1A4
-  - INS-260501-91C2
+  - INS-260605-C2A3
   - INS-260404-BD96
-  - INS-260322-E4D8
   - INS-260411-F590
   - INS-260501-A6E0
   - INS-260522-DB03
+  - INS-260605-9E7A
 stance: >-
   Separate AI agent work into three roles: the builder constructs platforms, the
   orchestrator manages workflows, and executors are specialized agents...

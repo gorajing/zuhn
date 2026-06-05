@@ -51,7 +51,6 @@ stance: >-
   Translating debugging UIs into bulk-downloadable file systems is a more
   effective agent context than wrapping those UIs in an MCP server.
 related:
-  - INS-260320-4773
   - INS-260409-156A
   - INS-260410-D04D
   - INS-260605-9FCF

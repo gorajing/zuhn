@@ -53,5 +53,7 @@ related:
   - INS-260605-E18B
   - INS-260605-809A
   - INS-260605-A03E
+  - INS-260605-80D0
+  - INS-260605-AABE
 ---
 Traditional observability has one persona: a technical systems or product engineer. Agent observability inverts this. The teams building the best agents include both technical and non-technical people, because the non-technical members are either closest to the actual users or hold the deepest knowledge of the problem space. Natural-language prompting is what unlocks their participation — a clinician, registered nurse, wealth advisor, or lawyer can read traces, judge quality, and feed improvements back without writing code. This is a workflow that simply doesn't exist in uptime-focused traditional observability. For anyone staffing an agent project: don't treat observability as an engineering-only function; the domain expert reading traces is a first-class contributor to quality.

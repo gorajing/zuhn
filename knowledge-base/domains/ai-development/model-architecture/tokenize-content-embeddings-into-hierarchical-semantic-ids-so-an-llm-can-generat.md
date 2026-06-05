@@ -59,9 +59,9 @@ related:
   - INS-260327-9816
   - INS-260405-11EA
   - INS-260410-2F8D
+  - INS-260605-20C0
   - INS-260410-E1D9
   - PRI-260322-DC5E
-  - INS-260321-3312
 ---
 Spotify takes the vector representing a piece of content (track, episode, artist) and tokenizes it into a small set of discrete tokens — compressing a roughly thousand-dimensional embedding into four to six tokens. The structure is hierarchical: Ariana Grande and Bruno Mars share their first two tokens because both are pop artists, while later tokens diverge to encode niche distinctions. This is a coarse-to-fine code, not an arbitrary hash.
 

@@ -52,10 +52,9 @@ related:
   - INS-260409-3602
   - PRI-260406-8B75
   - INS-260409-1078
-  - INS-260603-6E59
+  - INS-260605-FB77
   - INS-260410-B501
   - INS-260421-BD7F
-  - INS-260421-43EC
   - INS-260514-F277
 ---
 MemPalace published the retrieval ladder explicitly: search all closets = 60.9% R@10, search within wing = 73.1%, search wing+hall = 84.8%, search wing+room = 94.8%. The jump from flat semantic to structured metadata is 34 points on 22,000 real conversation memories. The maintainers honestly clarified in their April 2026 correction that this is not a novel retrieval mechanism — it is ChromaDB's standard metadata filtering feature. The insight is not about the algorithm; it is about how much signal sits in trivially-available structure (project, topic, date) that pure semantic search ignores. For any KB with distinguishable domains, adding metadata filters is the cheapest path to a large retrieval improvement.

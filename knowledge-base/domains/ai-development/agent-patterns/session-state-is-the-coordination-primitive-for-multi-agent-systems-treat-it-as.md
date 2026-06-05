@@ -54,8 +54,8 @@ related:
   - INS-260329-0EAC
   - INS-260411-52C8
   - INS-260327-FE24
+  - INS-260605-9E7A
   - INS-260329-4D03
-  - INS-260605-07E5
 ---
 Across all 8 patterns, Google's ADK uses session.state as the universal coordination mechanism. Agents write results to named keys (output_key='raw_text', 'structured_data', 'security_report') and downstream agents read from those keys. This is a shared-whiteboard model — every agent can see the full state.
 

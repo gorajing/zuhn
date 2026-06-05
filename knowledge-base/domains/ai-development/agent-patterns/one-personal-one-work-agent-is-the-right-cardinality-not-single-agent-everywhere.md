@@ -54,7 +54,6 @@ stance: >-
   universal agent (privacy/work-environment conflicts) or a fleet of sub-agents
   per workflow (over-engineering for current capability).
 related:
-  - INS-260322-EAB6
   - INS-260321-C5AA
   - INS-260327-73CB
   - INS-260330-AB67
@@ -64,6 +63,7 @@ related:
   - INS-260410-D92A
   - INS-260410-096F
   - INS-260411-F590
+  - INS-260423-FF53
 ---
 Imran's recommendation after running 4 personal agents: the optimal cardinality is two — one personal, one work — because most Fortune 500 companies won't allow personal-agent stuff on work computers, but you still want the productivity gains in both contexts. Sub-agents per specific workflow (Gmail triage, expense reports, etc.) sound right but are over-engineering today; cron jobs within a single agent work just as well and don't add per-sub-agent management overhead.
 

@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-ACDA
   - INS-260330-28B1
+  - INS-260605-75BB
   - INS-260409-4FEB
-  - INS-260321-D01E
-  - INS-260329-24CE
+  - INS-260605-48CA
 ---
 The three metrics that matter for sample evaluation are: average watch time (seconds + percent completion), engagement rate (likes + comments + shares divided by views), and watch-time session share. The third is critical and invisible to creators because no dashboard exposes it. If a viewer's session lasts 60 minutes and 12 of those minutes are on your videos, your session share is 20% — a massive signal that your content holds attention.
 

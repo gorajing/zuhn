@@ -55,7 +55,7 @@ related:
   - PRI-260411-14DC
   - INS-260605-1E04
   - INS-260605-72C4
+  - INS-260605-EA4B
   - INS-260403-C55B
-  - PRI-260405-4B06
 ---
 Anthropic borrows the GAN structure: a generator agent builds and a discriminator/evaluator agent grades, with each given its own context window, system prompt, and job. The evaluator doesn't just read diffs — it drives Playwright to open live pages, click around, and actually test the product before handing a critique back. The non-obvious justification is asymmetry: an LLM remains biased toward liking LLM-style output, but tuning a *standalone* critic to be harsh is very tractable, whereas tuning a *builder* to be reliably self-critical is not. The analogy is human: it's easy to critique a painting or a meal and hard to produce one. Models out of the box are sycophantic about their own work — they'll call a half-baked feature 'done' or ship a button with no backend behind it. The talk's single biggest takeaway is 'self-evaluation, very much a trap — just use an adversarial evaluator.'

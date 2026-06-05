@@ -47,10 +47,10 @@ stance: >-
   mode in production RAG systems.
 related:
   - INS-260409-3602
+  - INS-260605-FB77
   - INS-260410-3F1A
   - INS-260409-8DA0
   - INS-260603-6FE3
-  - INS-260409-2A51
 ---
 When you split a document into a few-hundred-token chunk, you usually strip away the metadata that made the chunk meaningful: which company, which quarter, which case, which file. The example Anthropic uses is a chunk reading 'The company's revenue grew by 3% over the previous quarter' — semantically clean, but unretrievable for any query that names the company or the period.
 

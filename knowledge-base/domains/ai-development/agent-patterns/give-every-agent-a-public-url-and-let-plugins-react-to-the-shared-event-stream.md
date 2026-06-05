@@ -58,9 +58,10 @@ stance: >-
   An agent should have an HTTP URL and a tolerant event log from the moment it
   exists, so integrations are events rather than a bolted-on connector layer.
 related:
-  - INS-260423-74BF
   - INS-260530-B694
+  - INS-260605-48CA
   - PRI-260501-168F
+  - INS-260423-74BF
   - INS-260605-9A01
   - INS-260327-13B3
 ---

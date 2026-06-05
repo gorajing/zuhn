@@ -48,11 +48,11 @@ stance: >-
   reliably than inline comments, because comments drift from code while
   structure is the code
 related:
+  - INS-260605-FB77
   - PRI-260407-1D23
   - INS-260411-59F7
   - INS-260409-B13F
   - INS-260410-EE5C
-  - INS-260329-12D1
   - INS-260412-8A13
 evidence:
   - id: INS-260330-3C2F

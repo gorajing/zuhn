@@ -52,5 +52,6 @@ related:
   - PRI-260406-7FE4
   - INS-260603-915A
   - INS-260424-E832
+  - INS-260605-6A32
 ---
 The implication of self-improving loops: 'burn tokens, not headcount.' YC sees companies hitting demo day at ~5x the revenue per employee of 18 months ago, expected to continue into Series A/B, so the binding constraint becomes token usage rather than hiring. He proposes (with caveats that it's gameable and dumb as a leaderboard) using who is 'token-maxing' as a directional read on which employees are exploring the frontier. Strongly corroborates the KB prediction that AI-native, near-zero-marginal-cost businesses will favor bootstrapping over headcount-heavy venture scaling.

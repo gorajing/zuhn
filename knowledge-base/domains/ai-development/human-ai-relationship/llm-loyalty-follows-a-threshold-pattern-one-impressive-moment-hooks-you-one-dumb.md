@@ -55,8 +55,8 @@ related:
   - INS-260403-DDEB
   - PRI-260323-2C5C
   - PRI-260406-AFA7
+  - INS-260605-5D5E
   - INS-260404-A938
-  - INS-260329-1D08
   - INS-260409-53A1
 stance: >-
   Users stick with an LLM until it fails badly on a task they care about, then

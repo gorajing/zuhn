@@ -50,7 +50,6 @@ stance: >-
   reference implementations for free than from traditional marketing of their
   tools.
 related:
-  - INS-260410-43E4
   - INS-260412-C956
   - INS-260514-6576
   - PRI-260328-FD47

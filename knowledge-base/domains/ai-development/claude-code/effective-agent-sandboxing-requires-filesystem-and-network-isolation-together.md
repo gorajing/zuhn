@@ -47,10 +47,10 @@ related:
   - INS-260403-0AF6
   - INS-260403-E86E
   - INS-260403-C8FD
+  - INS-260605-41AE
   - PRI-260324-2A76
   - INS-260330-6D2E
   - INS-260405-DADB
-  - INS-260403-DF45
 ---
 Anthropic explicitly calls out that without network isolation, a compromised agent just exfiltrates SSH keys and secrets over HTTP. Without filesystem isolation, a compromised agent edits shell configs or binaries to escape the sandbox and regain network access on next invocation. The two boundaries form an AND-gate, not an OR-gate.
 

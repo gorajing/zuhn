@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260323-D631
   - INS-260329-F0DE
-  - INS-260402-BF2E
   - INS-260403-F4F6
   - INS-260410-3C37
   - INS-260410-43E4
@@ -61,5 +60,6 @@ related:
   - INS-260514-93C2
   - INS-260603-11DB
   - INS-260605-6423
+  - PRI-260406-9780
 ---
 BFL frames Klein's sub-second editing/generation not as an incremental speedup over the ~15-20s competitors but as a phase change: when you 'render mock-ups as fast as you think,' generation stops being a submit-and-wait batch operation and becomes a real-time interactive engine — for gaming, film, or design where you guide output continuously. This mirrors how latency thresholds (page loads under ~100ms feeling instant, video calls under ~150ms feeling live) repeatedly reclassify what a tool *is*. For anyone building generative products, latency isn't only a UX nicety to optimize at the margin; crossing specific perceptual thresholds opens product categories that simply don't exist at slower speeds. The strategic question is which threshold unlocks a new interaction model, not how to shave another 20%.

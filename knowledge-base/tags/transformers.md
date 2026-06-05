@@ -8,4 +8,5 @@
 - `INS-260410-85F5` The sqrt(d_k) divisor in attention keeps variance at 1 so softmax stays diffuse at init instead of collapsing to one-hot.
 - `INS-260410-9EEF` Attention is weighted aggregation between nodes in a directed graph — the 'sequence' framing is just one possible graph topology.
 - `INS-260410-1789` Every transformer block pairs attention (tokens gather info from each other) with a feedforward MLP (each token thinks privately) — communication without computation underfits.
+- `INS-260605-20C0` Modern TTS reframes audio generation as language modeling — an autoregressive decoder emitting audio token-patches frame by frame.
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.

@@ -81,8 +81,8 @@ related:
   - INS-260330-3737
   - INS-260330-AC7F
   - INS-260402-876A
-  - INS-260403-EA93
   - INS-260403-C4BE
+  - INS-260403-834C
 ---
 For systems where failure is catastrophic (an 80,000-lb machine that could crush a car), the panel's rule is categorical: agents do not directly write safety-critical code, and their ability to act in safety-relevant areas is explicitly limited. Safety-critical code is carefully reviewed by humans; physical-safety guardrails in the physical space are non-negotiable.
 

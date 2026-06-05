@@ -57,8 +57,8 @@ related:
   - INS-260409-F0F5
   - INS-260501-9503
   - INS-260605-B230
+  - INS-260605-C2A3
   - INS-260501-2A52
-  - INS-260322-BF4C
 ---
 Imran's framing: setting up a personal agent is becoming '90s tuner-car culture — go find the parts you want, customize, optimize. That's fine, but the trap is mistaking customization for productivity. Many people obsess over agent configuration and never actually do anything with it. The discipline: customization is a means; output is the end. Ask 'what value did I add to my personal life or business life today using this?' not 'what tools did I install today?'
 

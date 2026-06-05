@@ -51,10 +51,11 @@ stance: >-
   ecosystem
 related:
   - INS-260605-9276
+  - INS-260605-0C56
   - INS-260519-20E0
   - INS-260605-BA6A
-  - INS-260605-8409
-  - INS-260514-1841
+  - INS-260605-48CA
   - INS-260505-4A52
+  - INS-260605-8409
 ---
 As multi-agent systems mature, the coordination problem (how does agent A find and invoke agent B?) is resolving into a converging standard: each agent publishes an Agent Card (a structured description of capabilities, skills, streaming support, version, and invocation URL) and agents discover each other through those cards. The invocation uses the A2A protocol, which standardizes request/response shapes across ADK, LangGraph, and other agent frameworks. The immediate implication for builders: an agent without an Agent Card is isolated — it cannot be composed into larger systems, cannot be invoked by other teams' agents, and cannot participate in cross-organization agent ecosystems. The standardization is still early but the direction is visible. Any production agent built today should publish an Agent Card by default; retrofitting this later is harder than treating it as a v0 requirement.

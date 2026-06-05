@@ -50,7 +50,7 @@ related:
   - INS-260327-A814
   - INS-260330-6D59
   - INS-260322-8D47
-  - INS-260322-5650
+  - INS-260605-4B95
 stance: >-
   2026 marks when major consumer AI products shift from helping you work to
   helping you stay connected

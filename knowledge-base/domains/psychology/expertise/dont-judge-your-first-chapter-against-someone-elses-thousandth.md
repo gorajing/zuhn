@@ -41,10 +41,10 @@ stance: >-
   someone else's finished, iterated output rather than their equivalently early
   work
 related:
+  - INS-260605-77E5
   - INS-260330-420B
   - PRI-260412-7664
   - INS-260330-AF47
   - INS-260320-EF3A
-  - INS-260330-FB5A
 ---
 The comparison most beginners make is their own earliest, worst work against the polished, iterated output of someone far along their journey. This is the wrong comparison because it omits the thousands of reps between the expert's first attempt and their current one. Hormozi's tactic is to show his own first ad, first content piece, first YouTube video — all visibly bad — to collapse the illusion that experts started good. The practical rule: when you feel discouraged by someone else's work, demand to see their first version. If you can't see it, assume it was worse than yours.

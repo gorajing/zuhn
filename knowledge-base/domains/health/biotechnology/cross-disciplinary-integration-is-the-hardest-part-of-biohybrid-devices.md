@@ -52,5 +52,6 @@ related:
   - INS-260412-9657
   - INS-260514-A776
   - INS-260410-1A22
+  - INS-260605-9527
 ---
 Rivnay explicitly names cross-disciplinary integration as the biggest challenge: biohybrid devices require fluent collaboration between biomaterials, cell engineering, synthetic biology, and bioelectronics. Each field has its own vocabulary, assay standards, and failure modes. This matches a pattern seen in other deep-tech areas (robotics, neurotech): once the individual disciplines are mature enough, the scarce resource becomes teams who can reason across the interface. Picking the people and lab structure is more leveraged than picking the material or cell line.

@@ -62,6 +62,5 @@ related:
   - PRI-260328-A82C
   - INS-260424-0554
   - PRI-260328-8317
-  - INS-260605-D055
 ---
 The 2023-2025 narrative around AI compute economics positioned specialized accelerators (TPUs, GPUs, custom ASICs) as the engine of value capture, with general-purpose CPUs reduced to a commodity supporting role. Agent-era workloads reverse this narrative partially. Agents do not just run inference; they orchestrate complex sequences of operations: spawn sandboxes for code execution, manage virtual machine lifecycles, dispatch tool calls, compose results across multiple model invocations, manage memory and state across long-running tasks. All of this is general-purpose compute that runs on CPUs efficiently and on specialized accelerators inefficiently. The implication for cloud providers: CPU capacity per agent is non-trivial and growing, which changes the economics of agent-heavy customer workloads. The implication for chip vendors: companies that bet entirely on specialized accelerators may be missing the agent-era CPU growth opportunity. The implication for buyers: when sizing AI infrastructure, the agent ratio (how many agent calls per inference call) determines CPU-to-accelerator ratio, and naive ratios designed for direct inference workloads will under-provision CPU.

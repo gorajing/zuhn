@@ -57,7 +57,6 @@ related:
   - PRI-260406-0ACE
   - PRI-260406-12A2
   - INS-260412-8843
-  - INS-260410-CA42
 ---
 Beyond the direct capability delay, export controls create a second-order strategic effect: if Chinese AI companies buy only from Chinese chip companies, those chips become optimized for domestic rather than international use cases. Japan experienced this 'Galapagos syndrome' with mobile phones — technically advanced but incompatible with global markets, which ultimately limited industry scale.
 
