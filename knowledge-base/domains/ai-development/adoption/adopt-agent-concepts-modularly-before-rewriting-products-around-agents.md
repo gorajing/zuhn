@@ -23,7 +23,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Introduce agent patterns where they improve the product; do not start with a
@@ -42,5 +43,12 @@ stance: >-
   The fastest route to useful AI software is often adding modular agent concepts
   into an existing product rather than rebuilding the product around a new agent
   framework.
+related:
+  - INS-260320-7914
+  - INS-260605-3872
+  - INS-260605-8BEA
+  - INS-260605-2A69
+  - INS-260530-D34F
+  - INS-260320-9D89
 ---
 HumanLayer argues that skilled engineers can apply modular concepts from agent building without going all-in on a greenfield framework rewrite. This matters because production teams already have data models, UX expectations, permissions, and workflows that agents must fit into.

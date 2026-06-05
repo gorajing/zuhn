@@ -49,7 +49,6 @@ stance: >-
   fine-grained influence because its primary interest is stability, which
   blunt-force tools would undermine.
 related:
-  - INS-260321-86F1
   - INS-260410-7E29
   - INS-260412-BA6D
   - PRI-260406-91C2

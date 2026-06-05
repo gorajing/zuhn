@@ -55,13 +55,14 @@ stance: >-
   A sovereign agent architecture should gate every request with input and output
   guardrails and expose only a scoped, searchable subset of tools per agent.
 related:
-  - INS-260327-DCAF
   - INS-260402-876A
   - INS-260403-4D80
   - INS-260411-27AA
   - INS-260605-310E
   - INS-260605-683B
   - INS-260603-6B3D
+  - INS-260327-DCAF
+  - INS-260605-A46E
 ---
 The reference sovereign-agent shape is a sandwich: an input guardrail classifies the user request (checking for prompt injection and domain-specific regulatory intent) and routes unsafe inputs out of the application immediately; the agent (an LLM with a system prompt and tools) does the work; an output guardrail runs compliance checks so sensitive information isn't leaked back to the user. Guardrails themselves can run on small local models, keeping that classification step inside your sovereignty boundary.
 

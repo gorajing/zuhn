@@ -57,6 +57,7 @@ related:
   - INS-260605-0819
   - INS-260605-1A2D
   - INS-260605-2C70
+  - INS-260605-92FF
 ---
 Because an edge runtime knows there is a finite, known set of tools the model may call, it can apply constrained decoding that is stronger than generic JSON-schema constraints — narrowing output to the particular tool expected at that step. Google applies this only when generating a tool call, not during free text, and reports it provides 'stronger guardrails' that raise quality enough to be production-useful.
 

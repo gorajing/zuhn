@@ -21,7 +21,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Agent autonomy needs a stop rule.
   standard: >-
@@ -38,5 +39,11 @@ stance: >-
   An agent loop becomes reliable only when it has explicit exit conditions such
   as final structured output, no tool calls, a max-turn limit, errors, or human
   handoff.
+related:
+  - INS-260328-5431
+  - INS-260410-761E
+  - INS-260423-31A1
+  - INS-260403-21AF
+  - INS-260404-292E
 ---
 The guide defines a run as a loop where the LLM continues until an exit condition is reached. Examples include a final-output tool, a response without tool calls, an error, or a maximum turn count. Without explicit exit conditions, autonomy turns into hidden control-flow risk.

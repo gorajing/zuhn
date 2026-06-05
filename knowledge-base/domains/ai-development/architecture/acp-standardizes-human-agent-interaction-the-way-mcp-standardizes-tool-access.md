@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260410-FEFA
   - INS-260514-33FB
+  - INS-260605-20DD
   - INS-260326-2410
   - INS-260501-2A52
   - INS-260519-20E0
-  - PRI-260405-AF79
   - INS-260605-A28F
 ---
 Most people conflate ACP (Agent Client Protocol) with MCP, but they solve different problems. MCP is about giving tools to a model. ACP standardizes the agent-to-client interaction surface — how a human (or another agent acting as a client) initiates, steers, and receives output from an agent session. The payoff is the same logic that makes MCP valuable: instead of every editor (VS Code, Zed, Cloud Code) building its own bespoke plugin against each agent, you build the integration once against the standard and ship everywhere.

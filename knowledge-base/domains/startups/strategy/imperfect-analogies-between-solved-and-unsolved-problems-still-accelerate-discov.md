@@ -50,7 +50,6 @@ stance: >-
   scale and specifics
 related:
   - INS-260330-984C
-  - INS-260330-38E1
   - PRI-260407-684A
   - PRI-260412-7664
   - INS-260514-049E

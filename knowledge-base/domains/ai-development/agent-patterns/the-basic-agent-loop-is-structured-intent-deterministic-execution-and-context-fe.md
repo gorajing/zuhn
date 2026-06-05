@@ -26,7 +26,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Let the model choose the next action; let code execute it.
   standard: >-
@@ -44,5 +45,11 @@ stance: >-
   A reliable agent loop should separate LLM selection of the next structured
   action from deterministic tool execution and then feed compact results back
   into context.
+related:
+  - INS-260605-5CC7
+  - INS-260410-E658
+  - INS-260505-D440
+  - INS-260605-0C88
+  - INS-260605-B82E
 ---
 HumanLayer reduces the agent loop to a repeating sequence: the LLM emits structured JSON describing the next step, deterministic code executes that step, and the result is appended to context until the model decides the workflow is done. This separation keeps semantic judgment and mechanical execution in different layers.

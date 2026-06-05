@@ -49,8 +49,8 @@ related:
   - INS-260410-1BB0
   - INS-260410-D04D
   - INS-260412-23C8
+  - INS-260605-A46E
   - INS-260404-B7E4
   - PRI-260406-6531
-  - INS-260321-86F1
 ---
 McLean frames context as a 'soft constraint rather than a hard constraint' — you can feed material in, move it around, and shape model behavior with it almost as much as with hard guardrails. The historical workflow under small windows was aggressive compression (TF-IDF cluster labeling, top-K word extraction) just to fit anything in. Now context assembly is dynamic and the field has swung from 'a lack of context to too much context.' The consequence: 'the challenge is no longer getting context in, but keeping the noise out.' For builders this reframes context engineering as a curation/exclusion problem — deciding what to drop is now higher-leverage than deciding what to add, and stuffing the window degrades rather than improves results.

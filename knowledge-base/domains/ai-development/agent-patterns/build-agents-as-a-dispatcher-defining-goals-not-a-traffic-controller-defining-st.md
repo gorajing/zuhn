@@ -59,8 +59,8 @@ related:
   - INS-260524-B783
   - INS-260524-2C7C
   - INS-260327-13B3
+  - INS-260605-8D12
   - INS-260605-90E5
-  - INS-260327-FE24
 ---
 Traditional development is a spec-code-test-deploy pipeline where the engineer controls exactly how the program behaves, like a traffic controller setting the lights, speeds, and allowed roads. Agent development inverts this: you write instructions, run the agent, observe, adjust prompts and tools, and run again in an iterative reliability loop. The right metaphor becomes a dispatcher — you say 'get me from Germany to London' and the agent decides whether to take the train, fly, or drive, sometimes doing weird things en route but still achieving the outcome.
 

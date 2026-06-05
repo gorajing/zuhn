@@ -22,7 +22,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: 'Agent guardrails are defense-in-depth, not the security model.'
   standard: >-
@@ -40,5 +41,11 @@ stance: >-
   Guardrails should be treated as layered defenses around agents, not
   replacements for authentication, authorization, access control, and standard
   security engineering.
+related:
+  - INS-260321-86F1
+  - INS-260327-DCAF
+  - INS-260327-73BE
+  - INS-260605-9402
+  - INS-260605-80DC
 ---
 OpenAI recommends combining LLM-based, rules-based, moderation, PII, relevance, jailbreak, and brand-safety guardrails while also keeping authentication, authorization, and access controls in place. It also suggests rating tools by risk and pausing or escalating high-risk functions.

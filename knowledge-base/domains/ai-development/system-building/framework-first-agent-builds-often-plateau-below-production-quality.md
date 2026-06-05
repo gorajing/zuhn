@@ -23,7 +23,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Frameworks speed the first 80%; production quality demands ownership.
   standard: >-
@@ -41,5 +42,11 @@ stance: >-
   Agent frameworks can accelerate prototypes, but teams often hit a 70-80%
   quality ceiling when they cannot inspect and control prompts, context, and
   flow deeply enough.
+related:
+  - INS-260403-50F6
+  - INS-260403-9020
+  - INS-260605-0BD6
+  - PRI-260328-4CC0
+  - INS-260605-33FA
 ---
 HumanLayer describes a common journey: teams grab a framework, move quickly, reach a rough quality bar, then discover that getting beyond it requires reverse-engineering the framework's prompts, flow, and assumptions. The warning is not anti-framework; it is pro-control once the system must serve real users.

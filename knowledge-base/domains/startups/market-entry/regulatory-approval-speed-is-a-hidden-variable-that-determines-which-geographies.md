@@ -55,11 +55,11 @@ stance: >-
   Japan's) attract more capital-intensive manufacturing than legalistic systems
   where permits can be challenged indefinitely in court (like the U.S.).
 related:
-  - INS-260403-5616
   - INS-260403-9020
   - INS-260323-FFE8
+  - INS-260403-5616
+  - INS-260605-5983
   - INS-260327-A61B
-  - PRI-260328-4CC0
 ---
 In the U.S., building physical infrastructure is slow and unpredictable: 3-7 year approval timelines are common, and permits are frequently challenged in court even after regulatory compliance. This creates a compounding problem where capital sits idle and timelines balloon unpredictably.
 

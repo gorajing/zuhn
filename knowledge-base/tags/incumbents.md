@@ -1,5 +1,8 @@
 # Tag: incumbents
 
+- `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
+- `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
+- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260410-5799` Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
@@ -8,6 +11,7 @@
 - `INS-260405-FE5C` Print media lost classifieds first, then print advertising, then newsstand revenue — each loss made the next harder to absorb, until collapse arrived all at once.
 - `INS-260412-6B75` Argentine ants conquered six continents because native ant species had defenses evolved against local competitors, not against swarm-and-overwhelm tactics.
 - `INS-260410-FECA` When a rival consortium finally built a long-distance pipeline to bypass Standard's refining chokehold, Rockefeller ordered his captive railroads to ship oil below cost on the parallel routes until the pipeline ran out of capital.
+- `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
 - `INS-260410-8AF0` Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260404-EF67` Big Tech's structural incentives and organizational design make it the wrong founder for many innovation categories.
@@ -31,7 +35,6 @@
 - `INS-260403-2318` Large companies protect profitable lines, creating structural openings for startups with lower costs and fresh approaches.
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260405-7B7C` Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
-- `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
 - `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
 - `INS-260404-8D91` McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
 - `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
@@ -40,6 +43,3 @@
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-C4B3` Regulatory compliance costs act as de facto subsidies for large businesses by creating barriers that small competitors cannot easily absorb.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
-- `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
-- `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
-- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.

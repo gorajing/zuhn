@@ -57,7 +57,6 @@ related:
   - INS-260501-FDF0
   - INS-260327-7A48
   - INS-260605-3DBF
-  - INS-260605-A28F
   - INS-260605-5A8E
 stance: Supervised fine-tuning only changed tone and instruction-following
 ---

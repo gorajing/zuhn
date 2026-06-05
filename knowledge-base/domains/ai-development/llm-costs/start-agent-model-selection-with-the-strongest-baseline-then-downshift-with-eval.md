@@ -24,7 +24,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Optimize model cost only after a strong-model baseline proves the workflow
@@ -44,5 +45,12 @@ stance: >-
   Agent teams should prototype with the strongest available model to establish a
   quality baseline before replacing sub-tasks with smaller models for cost and
   latency.
+related:
+  - INS-260330-38E1
+  - PRI-260324-36BF
+  - PRI-260403-7585
+  - INS-260322-5790
+  - INS-260409-C158
+  - INS-260403-97F8
 ---
 The guide recommends beginning with the most capable model for every task so the team can learn whether the agent can meet the target at all. Once that baseline exists, smaller models can be swapped into simpler tasks like retrieval, routing, or classification. This avoids prematurely blaming the architecture when the real issue is insufficient model capability.

@@ -17,11 +17,11 @@ sources:
     title: Why we shifted to Spec-Driven Development
     author: u/unknown
 related:
+  - INS-260605-6DE5
   - INS-260330-1E5E
   - PRI-260323-1CF9
   - INS-260505-E5CC
   - PRI-260403-9D15
-  - INS-260323-8D12
   - INS-260403-3705
 date_extracted: '2026-03-20'
 last_accessed: null

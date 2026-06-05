@@ -21,7 +21,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Variable-driven prompts preserve evaluability as use cases multiply.
   standard: >-
@@ -38,5 +39,13 @@ resolutions:
 stance: >-
   A single base prompt with policy variables is easier to evaluate and maintain
   than many near-duplicate prompts for related agent workflows.
+related:
+  - INS-260410-E233
+  - INS-260605-DCE5
+  - INS-260605-A3F4
+  - INS-260605-B44B
+  - INS-260403-F400
+  - INS-260403-F664
+  - INS-260403-7D7A
 ---
 OpenAI recommends using prompt templates to manage complexity before splitting into multiple agents or maintaining many separate prompts. Variables can encode policy, routine, or customer-specific context while preserving one shared instruction surface. That makes regression testing and updates less fragmented.

@@ -65,6 +65,7 @@ related:
   - PRI-260407-7AE9
   - INS-260605-1A91
   - INS-260410-3F1A
+  - INS-260605-A558
 ---
 Hao has reported on data annotation for 7+ years and the labor requirement has increased, not decreased. The reason: models don't 'generally' become more capable by scaling alone — labs must pick specific capabilities (finance, law, medicine, coding, customer service) and hire tens or hundreds of thousands of human contractors to annotate examples that teach the model that specific capability. The capability roadmap is chosen by which industries can pay most, not by any natural intelligence gradient.
 

@@ -12,5 +12,5 @@
 - `INS-260330-1E12` Staying anchored to a known reference point in chaos prevents the fatal disorientation that kills more people than the threat itself.
 - `INS-260405-F705` We miscategorize new products by anchoring them to what came before — the iPhone was called a phone only because it preceded the iPad.
 - `INS-260403-20F7` The Scorecard Method anchors to regional averages, creating opportunities to strategically choose which market benchmarks to reference.
-- `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
 - `INS-260329-6B3C` A 10x premium tier at 10% conversion doubles revenue and triples profit versus base offering alone.
+- `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.

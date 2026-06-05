@@ -208,6 +208,12 @@ _No flags._
 - `INS-260605-B136` Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR. _(2026-06-05)_
 - `INS-260605-B44B` Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge. _(2026-06-05)_
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy. _(2026-06-05)_
+- `INS-260605-3047` Because Nano Banana is built on Gemini, it can grade math homework or render a landmark from a sketched arrow on a map. _(2026-06-05)_
+- `INS-260605-5CF8` An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for. _(2026-06-05)_
+- `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat. _(2026-06-05)_
+- `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context. _(2026-06-05)_
+- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world. _(2026-06-05)_
+- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty. _(2026-06-05)_
 - `INS-260605-237C` An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface. _(2026-06-05)_
 - `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize. _(2026-06-05)_
 - `INS-260605-0748` On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost. _(2026-06-05)_
@@ -216,12 +222,6 @@ _No flags._
 - `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching. _(2026-06-05)_
 - `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation. _(2026-06-05)_
 - `INS-260605-9581` When cloning a voice takes seconds, deliberately curated brand voices become as standard as brand color palettes and logos. _(2026-06-05)_
-- `INS-260605-3047` Because Nano Banana is built on Gemini, it can grade math homework or render a landmark from a sketched arrow on a map. _(2026-06-05)_
-- `INS-260605-5CF8` An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for. _(2026-06-05)_
-- `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat. _(2026-06-05)_
-- `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context. _(2026-06-05)_
-- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world. _(2026-06-05)_
-- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty. _(2026-06-05)_
 - `INS-260605-1821` MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe. _(2026-06-05)_
 - `INS-260605-0A68` MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors. _(2026-06-05)_
 - `INS-260605-61D9` The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself. _(2026-06-05)_
@@ -307,6 +307,8 @@ _No flags._
 - `INS-260605-C760` Gemma 4 demonstrates that single-GPU and even on-device open models now run real agentic workflows — orchestrator-plus-subagents, tool-calling coding harnesses — that recently demanded clusters. _(2026-06-05)_
 - `INS-260605-A95C` Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design. _(2026-06-05)_
 - `INS-260605-048B` Diffusion's speedup exists because GPUs/TPUs are memory-bound: generating 256 tokens in 24 passes means ~10x fewer weight/KV-cache streams than 256 autoregressive passes. _(2026-06-05)_
+- `INS-260605-B9B5` BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing. _(2026-06-05)_
+- `INS-260605-B8DD` Each use case follows an S-curve where intelligence stops mattering past a 'good enough' threshold (transcription, summarization, to-do lists), so ~90%+ of consumer tasks will run locally and the market bifurcates — cheap local for most things, billion-dollar compute only for frontier problems. _(2026-06-05)_
 - `INS-260605-26AB` Priscila reframes AI as 'the cheapest senior engineer out there' — a teammate who never tires of your questions, removing the social and timezone cost of asking. _(2026-06-05)_
 - `INS-260605-E145` Managing many agent sessions has high cognitive load, so breaks are essential — and that's exactly when your best ideas for the agents appear, which is why you need to reach them from anywhere. _(2026-06-05)_
 - `INS-260605-F8EF` Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT. _(2026-06-05)_
@@ -319,8 +321,6 @@ _No flags._
 - `INS-260605-63AE` Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself. _(2026-06-05)_
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back. _(2026-06-05)_
 - `INS-260605-4CED` Claude orchestrated the entire reverse-engineering effort while the human merely rebooted the phone and reported how many beeps he heard, acting as the agent's hands and ears. _(2026-06-05)_
-- `INS-260605-B9B5` BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing. _(2026-06-05)_
-- `INS-260605-B8DD` Each use case follows an S-curve where intelligence stops mattering past a 'good enough' threshold (transcription, summarization, to-do lists), so ~90%+ of consumer tasks will run locally and the market bifurcates — cheap local for most things, billion-dollar compute only for frontier problems. _(2026-06-05)_
 - `INS-260605-F383` Network latency between geographically separated models can dominate engine latency; co-locating all models and the orchestrator in one data center can drop a 75ms hop to ~5ms for a ~30% total latency reduction. _(2026-06-05)_
 - `INS-260605-5EE0` Because a containerized agent is just another application, you can prototype it locally and lift the identical artifact to Kubernetes/OpenShift when you need security and scale. _(2026-06-05)_
 - `INS-260605-9976` One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox. _(2026-06-05)_
@@ -341,6 +341,15 @@ _No flags._
 - `INS-260605-0C5C` The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches. _(2026-06-05)_
 - `INS-260605-ACC9` Snapshot the agent's machine, shut it down, and restore it when the next user message arrives—giving durability across turns without paying to keep compute live. _(2026-06-05)_
 - `INS-260605-E831` When batched requests have uneven token counts and are all padded to the maximum length, the model burns compute on empty padding tokens — variable-length flash attention avoids padding so no compute is wasted. _(2026-06-05)_
+- `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones. _(2026-06-05)_
+- `INS-260605-EBEB` Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way. _(2026-06-05)_
+- `INS-260605-D1F1` There is nothing wrong with the transformer for chess — DeepMind trained one to grandmaster strength by predicting Stockfish evaluations rather than language. _(2026-06-05)_
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot. _(2026-06-05)_
+- `INS-260605-58DA` Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract. _(2026-06-05)_
+- `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment. _(2026-06-05)_
+- `INS-260605-7F81` GPT 5.2 High wrote ~1M lines for the same 4,444 Java assignments that GPT-4.0 solved in under 250K lines. _(2026-06-05)_
+- `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical. _(2026-06-05)_
+- `INS-260605-EA4B` Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal. _(2026-06-05)_
 - `INS-260605-91A9` The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search. _(2026-06-05)_
 - `INS-260605-3AFB` AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation. _(2026-06-05)_
 - `INS-260605-402B` An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces. _(2026-06-05)_
@@ -350,20 +359,6 @@ _No flags._
 - `INS-260605-DF08` When the important rules live in documents the agent always re-fetches, a multi-hour session can survive 20-50 context compactions because what matters is reconstructed on demand. _(2026-06-05)_
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code. _(2026-06-05)_
 - `INS-260605-D1F0` LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics. _(2026-06-05)_
-- `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning. _(2026-06-05)_
-- `INS-260605-738E` Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment. _(2026-06-05)_
-- `INS-260605-B405` Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training. _(2026-06-05)_
-- `INS-260605-D3EB` Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt. _(2026-06-05)_
-- `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you. _(2026-06-05)_
-- `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable. _(2026-06-05)_
-- `INS-260605-5A8E` Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward. _(2026-06-05)_
-- `INS-260605-0113` After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing. _(2026-06-05)_
-- `INS-260605-564D` Prompting, SFT, and RL all steer model behavior, but RL integrates feedback as a reward signal by design and reaches the same quality with a much smaller model. _(2026-06-05)_
-- `INS-260605-3860` The cues that reveal a speaker is uncomfortable or challenging are present in speech-to-speech input but get ignored if the model was trained on audio-fied factual Q&A that never needed them. _(2026-06-05)_
-- `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation. _(2026-06-05)_
-- `INS-260605-C859` Pick tokenizer vocab size to match your data budget: you need roughly vocab-squared tokens of data to cover the bigrams the model must learn. _(2026-06-05)_
-- `INS-260605-311E` 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon. _(2026-06-05)_
-- `INS-260605-83A7` Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise. _(2026-06-05)_
 - `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching. _(2026-06-05)_
 - `INS-260605-8F42` The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference. _(2026-06-05)_
 - `INS-260605-2531` Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance. _(2026-06-05)_
@@ -379,15 +374,20 @@ _No flags._
 - `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning. _(2026-06-05)_
 - `INS-260605-9B99` Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely. _(2026-06-05)_
 - `INS-260605-9F7A` Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX. _(2026-06-05)_
-- `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones. _(2026-06-05)_
-- `INS-260605-EBEB` Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way. _(2026-06-05)_
-- `INS-260605-D1F1` There is nothing wrong with the transformer for chess — DeepMind trained one to grandmaster strength by predicting Stockfish evaluations rather than language. _(2026-06-05)_
-- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot. _(2026-06-05)_
-- `INS-260605-58DA` Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract. _(2026-06-05)_
-- `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment. _(2026-06-05)_
-- `INS-260605-7F81` GPT 5.2 High wrote ~1M lines for the same 4,444 Java assignments that GPT-4.0 solved in under 250K lines. _(2026-06-05)_
-- `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical. _(2026-06-05)_
-- `INS-260605-EA4B` Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal. _(2026-06-05)_
+- `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning. _(2026-06-05)_
+- `INS-260605-738E` Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment. _(2026-06-05)_
+- `INS-260605-B405` Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training. _(2026-06-05)_
+- `INS-260605-D3EB` Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt. _(2026-06-05)_
+- `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you. _(2026-06-05)_
+- `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable. _(2026-06-05)_
+- `INS-260605-5A8E` Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward. _(2026-06-05)_
+- `INS-260605-0113` After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing. _(2026-06-05)_
+- `INS-260605-564D` Prompting, SFT, and RL all steer model behavior, but RL integrates feedback as a reward signal by design and reaches the same quality with a much smaller model. _(2026-06-05)_
+- `INS-260605-3860` The cues that reveal a speaker is uncomfortable or challenging are present in speech-to-speech input but get ignored if the model was trained on audio-fied factual Q&A that never needed them. _(2026-06-05)_
+- `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation. _(2026-06-05)_
+- `INS-260605-C859` Pick tokenizer vocab size to match your data budget: you need roughly vocab-squared tokens of data to cover the bigrams the model must learn. _(2026-06-05)_
+- `INS-260605-311E` 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon. _(2026-06-05)_
+- `INS-260605-83A7` Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise. _(2026-06-05)_
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ. _(2026-06-05)_
 - `INS-260605-1C4E` Treat structure as a viewing choice: the same content can be projected into markdown, graphs, clusters, folders, or timelines depending on what you need, so pick multiple representations deliberately. _(2026-06-05)_
 - `INS-260605-8F5E` The reason Gemini writes excellent prompts for image/video/music models is that a large share of those models' training data was itself generated by Gemini — a shared prompt distribution, not coincidence. _(2026-06-05)_
@@ -459,9 +459,6 @@ _No flags._
 - `INS-260605-0BD6` Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed. _(2026-06-05)_
 - `INS-260605-33B4` CLIP-score rankings of the same models flip across datasets with tiny score differences, while a task-aligned metric (text-rendering) gives stable, well-separated rankings. _(2026-06-05)_
 - `INS-260605-B60D` Across public benchmarks, a fixed set of tasks that can never be completed becomes a source of noise that masks whether model improvement is genuinely happening. _(2026-06-05)_
-- `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting). _(2026-06-05)_
-- `INS-260605-C46E` Representation alignment with a pretrained encoder makes generative models converge ~70x faster, but the frozen encoder becomes a hard ceiling you can't scale past. _(2026-06-05)_
-- `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count. _(2026-06-05)_
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover. _(2026-06-05)_
 - `INS-260605-C0BF` Agent traces are semi-structured, full of unstructured text, and huge — a single span can hit 20MB and a full trace can exceed a gigabyte — demanding full-text indexing and a custom store rather than off-the-shelf OLAP. _(2026-06-05)_
 - `INS-260605-8F3D` Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments. _(2026-06-05)_
@@ -499,6 +496,9 @@ _No flags._
 - `INS-260605-A0D2` Decompose sovereignty into data, model, infrastructure, and operational pillars and only harden the pillars your domain's risk profile demands. _(2026-06-05)_
 - `INS-260605-780C` Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.' _(2026-06-05)_
 - `INS-260605-D912` Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product. _(2026-06-05)_
+- `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting). _(2026-06-05)_
+- `INS-260605-C46E` Representation alignment with a pretrained encoder makes generative models converge ~70x faster, but the frozen encoder becomes a hard ceiling you can't scale past. _(2026-06-05)_
+- `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count. _(2026-06-05)_
 - `INS-260605-20DD` Better models reduce friction but do not remove the need for good agent architecture. _(2026-06-05)_
 - `INS-260605-E06C` Knowledge entries go stale on every model release and feature change, and stale context actively hampers the agent — so continuous deletion is as important as collection. _(2026-06-05)_
 - `INS-260605-04E7` Don't use the 'power of the gods' just because you have it — models tend toward complexity, so the simplest working version usually wins by 10-100x. _(2026-06-05)_
@@ -537,6 +537,8 @@ _No flags._
 - `INS-260605-3163` A new 'traces' dataset repo type lets you push Codex/Claude Code/agent sessions and later train a model on them—turning everyday agent runs into a self-improvement flywheel. _(2026-06-05)_
 - `INS-260605-8BEA` Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work. _(2026-06-05)_
 - `INS-260605-2793` Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely. _(2026-06-05)_
+- `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio. _(2026-06-05)_
+- `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers. _(2026-06-05)_
 - `INS-260605-48D1` Existing enterprise assets (CRM, ERP, SOPs) are a floor every competitor has, not a fortress; the real moat is the 'living memory' of customer-interaction signals you compound faster than anyone can copy. _(2026-06-05)_
 - `INS-260605-BA63` A 'big enough stick from ministers' lets you in the door, but breaking silos and shipping is far harder than outsiders assume — otherwise everyone would do it. _(2026-06-05)_
 - `INS-260605-AAA1` Domain expertise is the non-negotiable base; layer on as many adjacent skills as possible so the same person can scale into evaluator and architect roles. _(2026-06-05)_
@@ -547,8 +549,6 @@ _No flags._
 - `INS-260605-3B06` Sprint planning, standups, refinement, and retros are coordination tax that agentic workflows make redundant — cut them. _(2026-06-05)_
 - `INS-260605-C699` Building on-device multimodal AI for a blind father in a low-connectivity region produced a general-purpose framework now used by frontier labs and thousands of developers. _(2026-06-05)_
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly. _(2026-06-05)_
-- `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers. _(2026-06-05)_
-- `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio. _(2026-06-05)_
 - `INS-260603-C10D` Harvey (keynote): electricity (1880s) produced no large productivity gain for ~30 years — because factories just swapped a giant electric generator in where the steam engine sat; gains came only when they rearranged the factory floor around distributed electricity. AI is in the same retrofit phase now. _(2026-06-03)_
 - `INS-260603-73D5` Navish (Salesforce): the volume of AI-generated code is impossible to review manually, so you pair it with a reviewer agent — but the agent must know how YOU write and review code; a 6-month junior gets nothing from architect-level feedback they can't understand, so review benefit is gated by the reviewer's own comprehension level. _(2026-06-03)_
 - `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check. _(2026-06-03)_
@@ -594,9 +594,9 @@ _No flags._
 - `INS-260530-09FE` Coco (working with 5-employee through 500-employee firms): smaller companies are faster to adopt forward-looking autonomous solutions; enterprises are still stuck on chat-with-internal-KB use cases despite the autonomous-agent stack being available for 12+ months. _(2026-05-30)_
 - `INS-260530-69DC` PayPal's ADK incident platform uses one LLM-driven supervisor orchestrating deterministic sub-agents (detection, triage, communication, mitigation, RCA) — the supervisor decides which agent to invoke, but each sub-agent's job is fixed. _(2026-05-30)_
 - `INS-260530-AA02` PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries. _(2026-05-30)_
-- `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself. _(2026-05-30)_
 - `INS-260530-86E3` Brian Wong (VC, 11 years frontier tech): 'Have you heard about one single commercial deal with over 100 robots being deployed? Not necessarily.' Multi-billion-dollar valuations are riding on a deployment pipeline that doesn't yet exist. _(2026-05-30)_
 - `INS-260530-18D5` Coco: vertical AI products today look niche (Blueprints AI only does construction documentation, not design or takeoff) — but the same compounding pattern that took Google Scholar → Search is now visible across vertical AI tools as they expand from one workflow step to the full chain. _(2026-05-30)_
+- `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself. _(2026-05-30)_
 - `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license. _(2026-05-30)_
 - `INS-260530-D34F` Abhije: PMs now spin up an agent to make a code change without full code-base context, then hand the result to engineering for review — engineers are ironically doing more work reviewing PM-generated agent output than they were before AI. _(2026-05-30)_
 - `INS-260530-8DE3` Abhije (Google AI PM): 'Individually all of us are doing 10x better, but the team itself, we don't want to do 10x better.' AI gives individuals capacity their organizations cannot absorb. _(2026-05-30)_

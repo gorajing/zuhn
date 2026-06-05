@@ -58,6 +58,7 @@ related:
   - PRI-260321-14D8
   - PRI-260406-8FDF
   - INS-260321-A56C
+  - INS-260605-5983
 ---
 Snorkel ran two RL training runs with the same model, the same compute budget, and the same number of tasks — varying only whether the tasks came from the 'accepted' (high-quality) or 'rejected' (low-quality) bucket. The low-quality set moved the base model about 1%; the high-quality set moved it about 6%. That ~5x difference is attributable purely to task fidelity, since every other variable was held fixed.
 

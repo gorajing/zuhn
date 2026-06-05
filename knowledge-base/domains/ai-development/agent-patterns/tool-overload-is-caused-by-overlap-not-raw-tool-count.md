@@ -22,7 +22,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: 'The dangerous toolset is ambiguous, not merely large.'
   standard: >-
@@ -41,5 +42,11 @@ stance: >-
   Agents fail at tool selection when tools are semantically overlapping or
   poorly described, so splitting agents should come after improving tool clarity
   rather than merely counting tools.
+related:
+  - INS-260404-61DA
+  - INS-260323-BC61
+  - INS-260410-A1E9
+  - INS-260605-D0A0
+  - INS-260605-AE67
 ---
 OpenAI notes that some agents can handle more than 15 distinct tools while others struggle with fewer than 10 overlapping tools. The decision to split work across agents should come after improving names, parameters, descriptions, and tool boundaries. Tool-count thresholds are weak proxies for actual tool-selection difficulty.

@@ -25,7 +25,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: 'The reliable agent is software first, LLM loop second.'
   standard: >-
@@ -43,5 +44,12 @@ stance: >-
   Customer-facing agents become reliable when they are built as mostly
   deterministic software with LLM calls at high-leverage semantic steps, not as
   unconstrained tool loops.
+related:
+  - INS-260410-9D86
+  - INS-260409-0DB0
+  - INS-260605-7CEB
+  - INS-260605-0E19
+  - INS-260327-A9D5
+  - INS-260605-E693
 ---
 HumanLayer reports that many production systems marketed as agents are not very agentic; they are mostly deterministic code with LLM steps placed where language understanding or judgment matters. This reframes agents away from 'prompt plus tools, loop until done' and toward ordinary software architecture with semantic components.

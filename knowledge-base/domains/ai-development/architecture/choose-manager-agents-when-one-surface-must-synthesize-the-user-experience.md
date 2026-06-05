@@ -22,7 +22,8 @@ date_extracted: '2026-06-05'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: Use manager orchestration for synthesis; use handoffs for full takeover.
   standard: >-
@@ -40,5 +41,11 @@ stance: >-
   Manager-agent orchestration is best when one agent should retain control of
   the user experience and synthesize specialist outputs, while decentralized
   handoffs fit cases where specialists can fully take over.
+related:
+  - INS-260403-2F4D
+  - INS-260409-53F7
+  - INS-260410-CD01
+  - INS-260327-C1A4
+  - INS-260421-60D9
 ---
 OpenAI distinguishes manager patterns, where a central agent calls specialized agents as tools, from decentralized handoffs, where peer agents transfer control. The manager pattern preserves one coherent user-facing surface, while handoffs fit triage-like flows where another specialist should own the interaction.
