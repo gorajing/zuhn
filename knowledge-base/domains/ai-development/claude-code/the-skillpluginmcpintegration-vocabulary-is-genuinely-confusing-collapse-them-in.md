@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260603-23B1
   - INS-260514-4436
+  - INS-260605-90E5
   - INS-260329-4D06
   - INS-260329-DEA1
-  - INS-260519-746D
   - INS-260514-2C6C
 ---
 Pemberton's structural complaint about Codex: skills use slash, plugins use @, MCPs are something else, integrations and connectors yet another category. The actual user-facing distinction (you can build skills yourself, plugins require OpenAI approval) is a platform-vendor business decision (curation, partnership tier) that doesn't map to a user mental model. The right user model is 'the agent has capabilities; you give it more capabilities by adding things to it.' Whether those things came from you, the vendor, or a third party is implementation detail.

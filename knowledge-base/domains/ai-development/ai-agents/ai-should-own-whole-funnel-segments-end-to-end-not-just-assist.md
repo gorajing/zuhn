@@ -46,13 +46,13 @@ stance: >-
 related:
   - INS-260322-22B3
   - INS-260329-C4F5
-  - INS-260405-F26B
   - INS-260403-2349
   - INS-260409-160F
   - INS-260514-9D0A
-  - INS-260514-5914
   - INS-260524-2C7C
   - INS-260323-1CA4
+  - INS-260405-F26B
   - INS-260519-8748
+  - INS-260519-7402
 ---
 Rati Zvirawa (Sr Director of Product, Intercom; leads Fin) contrasts two AI paths: accelerate what you already have (co-pilots → a slightly faster web+sales team) versus asking what whole parts of the conversation an agent can own outright (first message → paid customer) and redrawing human roles around it. The first adds tooling; the second is transformation. An owning agent needs three inputs: a playbook (sales strategy as natural-language goals, not a rigid workflow), knowledge (pricing, docs, battlecards), and data flowing in (web + CRM) and back out at close — unlocking re-engagement and latent demand. Corroborates the KB's 'own not assist' / self-improving-agent direction and is the explicit thesis of the agent-infrastructure category.

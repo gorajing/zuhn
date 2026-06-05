@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260327-94E6
   - INS-260321-38EC
+  - INS-260605-C53B
   - INS-260405-0184
   - INS-260514-18AF
-  - INS-260329-CBF6
 evidence:
   - id: INS-260327-94E6
     type: SUPPORTS

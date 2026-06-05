@@ -23,6 +23,7 @@
 - `INS-260329-3D28` Interact with AI coding tools conversationally — warm them up with context, compliment good output, then describe problems naturally.
 - `INS-260327-F95F` When you can send Claude Code a TechCrunch article and get a working clone in an hour, the temptation to constantly pivot becomes almost irresistible — and that's exactly how startups die.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
+- `INS-260605-2408` Reeve assembled a viral app entirely from existing scale-ready APIs, and concluded the glue and the story about the glue were the project's most important part.
 - `INS-260323-DC99` As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260409-62E0` AI's market structure will look like a barbell with hyper-micro entrepreneurs on one end, ~25 supercalers on the other, and a crushed middle of SaaS and mid-market service businesses.
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.

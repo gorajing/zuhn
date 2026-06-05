@@ -50,8 +50,8 @@ related:
   - INS-260403-5AAC
   - INS-260410-3601
   - INS-260405-4091
+  - INS-260605-D3C7
   - INS-260327-EBDF
-  - INS-260605-B13C
 evidence:
   - id: INS-260403-5AAC
     type: EXTENDS

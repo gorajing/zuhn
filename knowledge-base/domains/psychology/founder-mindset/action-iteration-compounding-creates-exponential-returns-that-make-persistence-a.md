@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260322-CCAA
   - INS-260330-45A9
+  - INS-260605-74E8
   - INS-260329-5C7A
   - INS-260410-00F0
-  - INS-260327-BE4E
 ---
 The founders present a three-dimensional model: action (number of attempts) produces information, information improves decision quality, and improved decisions reduce the attempts needed for future outcomes. This creates a compounding effect where early high-volume, low-quality attempts transform into later low-volume, high-quality attempts. The practical evidence: their first pitches were 'bad, long, complex and not straightforward,' but by treating fundraising as an iterative numbers game, they refined their approach until they closed $4M.
 

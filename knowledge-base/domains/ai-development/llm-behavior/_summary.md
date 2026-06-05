@@ -1,6 +1,6 @@
 # Topic: llm-behavior
 
-> 17 insights
+> 18 insights
 
 - `INS-260410-F5C5` [high] Chat model answers statistically imitate hired human labelers executing company-written instructions, not some emergent AI intelligence.
 - `INS-260410-4EB9` [high] Opus enumerated 9 specific benchmark names (GAIA, BrowseComp, FRAMES, SimpleQA, WebArena, AgentBench, FanOutQA, MuSR, HLE) unprompted — it has an internal catalog of what evals look like.
@@ -18,4 +18,5 @@
 - `INS-260405-C17A` [medium] Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260605-DD16` [medium] Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
 - `INS-260410-CAA4` [medium] Anthropic observed that the upgraded Claude 3.5 Sonnet self-corrects more and tries multiple solutions rather than getting stuck repeating the same mistake.
+- `INS-260605-6752` [medium] Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260410-1248` [medium] Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.

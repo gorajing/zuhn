@@ -1,8 +1,9 @@
 # Topic: agent-patterns
 
-> 157 insights
+> 179 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
+- `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
 - `INS-260501-E377` [high] Amjad Masad: when we released agent v2, we had to delete a lot of that code because the models got a lot better at staying consistent — autonomy is now built into the model, not the infrastructure.
 - `INS-260321-D3BE` [high] Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
@@ -13,13 +14,16 @@
 - `INS-260321-8414` [high] The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
 - `INS-260327-DC4C` [high] AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
 - `INS-260327-E0B0` [high] AI capabilities improve so fast that security teams who only react to known threats will always be behind; Irregular pioneers proactive research by testing model capabilities before they become attack vectors.
+- `INS-260605-74E8` [high] An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260410-3601` [high] The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
 - `INS-260410-9F17` [high] If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
 - `INS-260327-A9D5` [high] Chase says building agents is more iterative because with software you iterate on what it should do, while with agents you must also iterate on understanding what it actually does — a fundamentally different development loop.
 - `INS-260501-EA32` [high] OpenClaw has no memory; you re-explain everything daily. Hermes auto-writes to SQLite and the agent can query its own history.
 - `INS-260321-B85C` [high] Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
+- `INS-260605-75B7` [high] A leaked Claude Code keyword regex (WTF, this sucks, horrible) flipping a frustration boolean per session shows that a cheap, individually-fallible regex becomes an incredibly valuable signal when aggregated across many users and tagged against each release.
 - `INS-260320-1B10` [high] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
 - `INS-260409-7C62` [high] CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
+- `INS-260605-9523` [high] Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
 - `INS-260423-6879` [high] ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly.
 - `INS-260410-D92A` [high] Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260410-0E26` [high] Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
@@ -28,6 +32,7 @@
 - `INS-260402-5ACE` [high] Context graphs store not just facts but the precedent and reasoning behind decisions, answering 'why' questions that vector similarity search alone cannot.
 - `INS-260410-37D5` [high] Compaction preserves continuity but doesn't cure context anxiety; only a fresh agent with a handoff artifact does.
 - `INS-260501-06B1` [high] Agents handle pieces of tasks today; they can't yet learn about your specific context to do the whole thing autonomously — that's the missing capability.
+- `INS-260605-2C70` [high] Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail.
 - `INS-260501-9E23` [high] Don't be an artist about your agent setup. Customization isn't the skill. What you ship with it is.
 - `INS-260410-0FC1` [high] Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260410-A1E9` [high] Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
@@ -60,6 +65,7 @@
 - `INS-260409-5C6B` [high] LLMs reliably catch contradictions, orphans, and gaps in a wiki because the work is global reading — tedious for humans, cheap for LLMs.
 - `INS-260410-60C8` [high] Preloading every tool definition burns context before work begins; discoverable tools preserve the window for actual reasoning.
 - `INS-260327-FDC1` [high] Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.
+- `INS-260605-36E9` [high] Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
 - `INS-260410-BBC1` [high] Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260501-247C` [high] Ask your agent every day: 'what's one task I'm doing repeatedly that you should automate?' That's the loop until proactive observation works.
 - `INS-260410-CD79` [high] Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
@@ -73,15 +79,19 @@
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
 - `INS-260410-545A` [high] Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
 - `INS-260410-8ECF` [high] Expose MCP servers as a typed file tree of tool modules so agents load only the definitions they actually need.
+- `INS-260605-9F5C` [high] Agents with growing tools, sub-agents, and memory sources have an effectively infinite input/output space that golden datasets can't cover, so monitoring production replaces testing as the dominant reliability lever.
 - `INS-260605-1523` [high] Optimize prompts when the model has never seen your data; skip it when a frontier model already knows the answer.
 - `INS-260605-B1FC` [high] An optimizer that hit 96% accuracy still wrongly excluded aunts and uncles because its training subset never showed them — classic overfitting.
 - `INS-260409-95C8` [high] Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
 - `INS-260409-6560` [high] MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260605-E193` [high] The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap.
+- `INS-260605-E7F2` [high] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
+- `INS-260605-35B4` [high] Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
 - `INS-260327-1B82` [high] Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260410-EE5C` [high] Return semantically meaningful names instead of UUIDs in tool responses because agents handle natural language identifiers far more reliably.
 - `INS-260410-AA6E` [high] A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
 - `INS-260327-26BF` [high] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
+- `INS-260605-C86D` [high] A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
 - `INS-260501-C59A` [high] Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt.
 - `INS-260410-53C2` [high] Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
 - `INS-260605-C536` [high] Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not.
@@ -89,8 +99,11 @@
 - `INS-260411-BCB0` [high] Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - `INS-260410-EE37` [high] Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
 - `INS-260411-6106` [high] Write sub-agent descriptions with the same precision as API documentation — they are the routing signal for LLM-driven delegation.
+- `INS-260605-5078` [high] Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - `INS-260410-E4C4` [high] 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
+- `INS-260605-CEB5` [high] Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260423-72D0` [high] Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
+- `INS-260605-D3C7` [high] Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260605-A847` [high] Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260501-A1C7` [high] Amjad Masad: we use models from every provider — at one point we sent more tokens to Google than to Anthropic despite Anthropic being the core workhorse.
 - `INS-260410-6ABA` [high] Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
@@ -112,6 +125,7 @@
 - `INS-260410-1030` [high] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - `INS-260411-5478` [high] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 - `INS-260410-F259` [high] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
+- `INS-260605-F5FB` [medium] On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260405-6A0C` [medium] A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260325-BC2A` [medium] Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260423-74BF` [medium] Google ADK demo: the Guardian agent has an Agent Card declaring streaming capability, description, skills, version, and URL — and that card is what lets other agents discover and call it via A2A.
@@ -126,14 +140,18 @@
 - `INS-260603-73D5` [medium] Navish (Salesforce): the volume of AI-generated code is impossible to review manually, so you pair it with a reviewer agent — but the agent must know how YOU write and review code; a 6-month junior gets nothing from architect-level feedback they can't understand, so review benefit is gated by the reviewer's own comprehension level.
 - `INS-260501-17BB` [medium] Amjad Masad: when a model comes out, our AI engineers sit down with it for a day or two — they're like model psychologists, they play around with it, plug it in, figure out the limits.
 - `INS-260403-3587` [medium] Smartphones moved computing from desks to pockets but kept the attention tax; AI agents finally break that dependency by working without being watched.
+- `INS-260605-5C58` [medium] 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
 - `INS-260605-6444` [medium] Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260501-B7BC` [medium] We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260605-55A6` [medium] Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
 - `INS-260514-DFAE` [medium] Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors.
 - `INS-260321-9EBB` [medium] Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
+- `INS-260605-03A6` [medium] Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260501-5ACE` [medium] App building is commoditized; what's not is an agent that researches the market, validates the problem, builds a v1, and writes the business case — agent-as-founder, not agent-as-developer.
 - `INS-260410-62E8` [medium] Each agent claims a task by writing a lockfile to current_tasks/ and pushes via git; git's atomicity handles races and Claude handles merge conflicts.
+- `INS-260605-2795` [medium] Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
 - `INS-260405-A992` [medium] Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
+- `INS-260605-3553` [medium] Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.
 - `INS-260501-3D0C` [medium] Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
 - `INS-260410-358E` [medium] Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260321-E59A` [medium] Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
@@ -142,17 +160,21 @@
 - `INS-260326-2410` [medium] Ng highlights that models explicitly tuned for tool use and agentic operations (not just human Q&A) create 'much higher ceilings' for what agentic workloads can accomplish.
 - `INS-260405-8166` [medium] A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
 - `INS-260410-1A22` [medium] Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
+- `INS-260605-BC6F` [medium] If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
 - `INS-260501-91C2` [medium] Two agents — personal + work — is the right shape. One is too limited; sub-agent-per-task is over-engineering today.
 - `INS-260410-CD01` [medium] Code-driven orchestration unlocks asyncio.gather across independent tool calls, collapsing sequential round-trips into one concurrent batch.
 - `INS-260409-B122` [medium] MemPalace's specialist agents each get a dedicated wing with a private diary; CLAUDE.md stays one line long regardless of whether you have 5 or 50 agents, and each agent reads its own history to build domain expertise.
 - `INS-260410-0855` [medium] Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260530-AA02` [medium] PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries.
+- `INS-260605-800F` [medium] Onboard agents like new hires — assign a task first and let them pull the knowledge they're missing, rather than graduating them on all documentation before any work.
 - `INS-260514-33FB` [medium] Build a fleet of narrow purpose-built agents (one per channel × intent type) rather than one general agent — specialization improves output quality and per-client modifications stay isolated.
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
 - `INS-260327-35C7` [medium] Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260405-2BB0` [medium] The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
 - `INS-260411-D060` [medium] Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
+- `INS-260605-0C88` [medium] An agent given one 'execute' tool that runs arbitrary TypeScript (including shell calls and AST-based file edits) outperforms one with many narrow tools, because constraining what the model can do makes it do better.
+- `INS-260605-90E5` [medium] A skill replaces the hand-built router-and-specialist-workflow stack by letting a single agent progressively acquire the context to solve cross-domain requests.
 - `INS-260501-4C5E` [medium] Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
 - `INS-260410-BDFF` [medium] Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
 - `INS-260514-1470` [medium] Specs always have blanks. Agents fill blanks with garbage learned from internet code. So spec-driven Army-of-Agents systems don't produce production code — the only complete spec is the program itself.

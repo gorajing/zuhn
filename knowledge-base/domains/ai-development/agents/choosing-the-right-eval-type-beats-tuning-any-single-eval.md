@@ -59,5 +59,6 @@ related:
   - INS-260605-C536
   - INS-260605-4D1D
   - PRI-260411-14DC
+  - INS-260605-36E9
 ---
 Voss ran Phoenix's built-in correctness evaluator against a financial agent's 13 reports and every single one scored zero. The cause wasn't a bad agent — it was that the judge (Sonnet, trained in 2025) was grading 2026 forward-looking figures it had no knowledge of, so it marked everything wrong. Swapping to a faithfulness eval (does the report stick to the research context the agent itself gathered, and only that context?) yielded 13/13. The lesson: a judge can only adjudicate what it can actually verify. Use correctness/factuality evals when the answer is checkable against the model's world knowledge; use faithfulness/groundedness evals when outputs depend on retrieved or future-looking context the judge can't independently confirm. 'Choosing the right eval can matter more than tuning your eval' — some built-in evals will be useless for your case and some will be exactly right, and you only learn which by reading the explanations, not the scores.

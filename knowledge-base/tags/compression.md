@@ -14,8 +14,8 @@
 - `INS-260320-47FA` MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
 - `INS-260409-1078` MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-EA5A` A RAW intake folder preserves the human's curation intent before Claude Code compresses it into wikis.
-- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - `INS-260522-51E7` YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
+- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.

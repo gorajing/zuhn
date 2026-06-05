@@ -47,7 +47,6 @@ stance: >-
   inevitably degrade in usefulness, making automated consolidation cycles a
   requirement for any long-running AI development workflow.
 related:
-  - INS-260320-CE36
   - PRI-260321-D74F
   - INS-260327-B539
   - INS-260410-761B
@@ -55,6 +54,8 @@ related:
   - PRI-260411-9CB1
   - INS-260410-B224
   - INS-260409-384A
+  - INS-260605-03A6
+  - INS-260605-2531
 evidence:
   - id: INS-260329-CC79
     type: TRANSFERS_TO

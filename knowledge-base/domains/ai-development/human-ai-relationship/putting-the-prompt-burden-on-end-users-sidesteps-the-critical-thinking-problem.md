@@ -47,7 +47,6 @@ stance: >-
   solution because most users do not know the default is sycophantic and cannot
   craft the prompts that would fix it.
 related:
-  - INS-260321-0C99
   - INS-260320-508F
   - INS-260322-4F7A
   - INS-260403-6CE8

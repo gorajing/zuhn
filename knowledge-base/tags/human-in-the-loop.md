@@ -17,8 +17,8 @@
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260327-13B3` Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
 - `INS-260327-0246` Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
-- `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 - `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
-- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
+- `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 - `INS-260514-F2D5` For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation.
+- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260412-1A10` Stanford's Ocean One and Boston Dynamics' SpotMini show that the sweet spot for unstructured environments is human intent plus robot coordination, connected by tactile feedback.

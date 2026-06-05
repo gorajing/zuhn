@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-06-05 | Total insights: 11638 | Sources: 2599
+> Last rebuilt: 2026-06-05 | Total insights: 11683 | Sources: 2608
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,15 +8,15 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 2255 | 137 | 2026-06-05 |
-| automation | 7 | 65 | 2 | 2026-06-03 |
+| ai-development | 40 | 2298 | 137 | 2026-06-05 |
+| automation | 7 | 66 | 2 | 2026-06-05 |
 | health | 6 | 494 | 44 | 2026-05-14 |
 | investing | 14 | 1420 | 110 | 2026-05-14 |
 | music-production | 6 | 49 | 3 | 2026-05-14 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
 | psychology | 24 | 2531 | 185 | 2026-05-14 |
 | startups | 55 | 4781 | 356 | 2026-06-03 |
-| video-production | 4 | 41 | 5 | 2026-04-09 |
+| video-production | 4 | 42 | 5 | 2026-06-05 |
 
 ## Mental Models
 
@@ -27,7 +27,7 @@
 
 ## Top Tags
 
-fundraising(247) mental-models(215) venture-capital(206) scaling(202) decision-making(184) strategy(153) infrastructure(135) compounding(132) innovation(129) competitive-advantage(127) network-effects(127) leadership(121) product-market-fit(120) trust(119) hiring(118) organizational-design(116) leverage(115) disruption(112) systems-thinking(111) china(110)
+fundraising(247) mental-models(215) venture-capital(206) scaling(203) decision-making(184) strategy(153) infrastructure(135) compounding(132) innovation(129) competitive-advantage(127) network-effects(127) leadership(121) product-market-fit(120) trust(119) hiring(118) organizational-design(116) leverage(115) disruption(112) systems-thinking(111) china(110)
 
 ## Flags (for Claude)
 
@@ -35,7 +35,9 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
+- `INS-260605-610E` Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down. _(2026-06-05)_
 - `INS-260605-8789` Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.' _(2026-06-05)_
+- `INS-260605-2A01` Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling. _(2026-06-05)_
 - `INS-260605-72C4` A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference. _(2026-06-05)_
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint. _(2026-06-05)_
 - `INS-260605-8E69` Don't test 'it called tool A then B then decided C' — test only whether it reached the right answer, or your evals shatter on every model upgrade. _(2026-06-05)_
@@ -43,39 +45,71 @@ _No flags._
 - `INS-260605-B610` Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?' _(2026-06-05)_
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace. _(2026-06-05)_
 - `INS-260605-C009` LLM-as-judge is 'the lunatics running the asylum' — write your own deterministic eval against a golden set when you can. _(2026-06-05)_
+- `INS-260605-E642` Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem. _(2026-06-05)_
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless. _(2026-06-05)_
 - `INS-260605-310E` Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails. _(2026-06-05)_
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7. _(2026-06-05)_
 - `INS-260605-5D14` If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button. _(2026-06-05)_
+- `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest. _(2026-06-05)_
+- `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not. _(2026-06-05)_
+- `INS-260605-74E8` An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals. _(2026-06-05)_
+- `INS-260605-5C58` 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability. _(2026-06-05)_
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically. _(2026-06-05)_
+- `INS-260605-75B7` A leaked Claude Code keyword regex (WTF, this sucks, horrible) flipping a frustration boolean per session shows that a cheap, individually-fallible regex becomes an incredibly valuable signal when aggregated across many users and tagged against each release. _(2026-06-05)_
+- `INS-260605-9523` Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use. _(2026-06-05)_
 - `INS-260605-55A6` Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work. _(2026-06-05)_
+- `INS-260605-2C70` Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail. _(2026-06-05)_
+- `INS-260605-03A6` Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window. _(2026-06-05)_
 - `INS-260605-8409` Treat an agent as a publicly-routable HTTP service over a tolerant event stream, so Slack webhooks, web-form submissions, and third-party plugins all become events instead of requiring a bespoke connector concept. _(2026-06-05)_
 - `INS-260605-1E04` Before the generator writes a line, the two agents negotiate what 'done' means via files on disk, and the evaluator grades against that contract rather than the planner's original spec. _(2026-06-05)_
+- `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call. _(2026-06-05)_
+- `INS-260605-3553` Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads. _(2026-06-05)_
 - `INS-260605-0AD6` Don't pre-specify task dependencies for an agent loop — give it a flat backlog and ask it to pick the next most important item, recomputing dependencies on the fly. _(2026-06-05)_
+- `INS-260605-36E9` Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill. _(2026-06-05)_
+- `INS-260605-BC6F` If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around. _(2026-06-05)_
+- `INS-260605-9F5C` Agents with growing tools, sub-agents, and memory sources have an effectively infinite input/output space that golden datasets can't cover, so monitoring production replaces testing as the dominant reliability lever. _(2026-06-05)_
 - `INS-260605-1523` Optimize prompts when the model has never seen your data; skip it when a frontier model already knows the answer. _(2026-06-05)_
 - `INS-260605-B1FC` An optimizer that hit 96% accuracy still wrongly excluded aunts and uncles because its training subset never showed them — classic overfitting. _(2026-06-05)_
+- `INS-260605-800F` Onboard agents like new hires — assign a task first and let them pull the knowledge they're missing, rather than graduating them on all documentation before any work. _(2026-06-05)_
 - `INS-260605-E193` The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap. _(2026-06-05)_
+- `INS-260605-E7F2` Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does. _(2026-06-05)_
+- `INS-260605-35B4` Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash. _(2026-06-05)_
+- `INS-260605-0C88` An agent given one 'execute' tool that runs arbitrary TypeScript (including shell calls and AST-based file edits) outperforms one with many narrow tools, because constraining what the model can do makes it do better. _(2026-06-05)_
+- `INS-260605-90E5` A skill replaces the hand-built router-and-specialist-workflow stack by letting a single agent progressively acquire the context to solve cross-domain requests. _(2026-06-05)_
+- `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant. _(2026-06-05)_
 - `INS-260605-C536` Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not. _(2026-06-05)_
+- `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy. _(2026-06-05)_
+- `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit. _(2026-06-05)_
+- `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate. _(2026-06-05)_
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does. _(2026-06-05)_
 - `INS-260605-E9E2` Get a feel for each model's spiky weak spots, fill those gaps with harness scaffolding, then delete that scaffolding once a later model internalizes the capability. _(2026-06-05)_
 - `INS-260605-6591` Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front. _(2026-06-05)_
 - `INS-260605-9FCF` Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON. _(2026-06-05)_
 - `INS-260605-AD25` Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back. _(2026-06-05)_
+- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it. _(2026-06-05)_
 - `INS-260605-E303` Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook. _(2026-06-05)_
 - `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it. _(2026-06-05)_
 - `INS-260605-26EC` Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests. _(2026-06-05)_
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on. _(2026-06-05)_
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code. _(2026-06-05)_
 - `INS-260605-749D` Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract. _(2026-06-05)_
+- `INS-260605-19B4` In the demo, Claude confidently built a Postgres view that bypassed row-level security because its training data missed that views need a security_invoker flag (Postgres 15+) to inherit RLS — exactly the gap a skill exists to close. _(2026-06-05)_
 - `INS-260605-0D57` Frontier gains like Gemini 3 to 3.1 doubling some benchmarks come from better reasoning/fine-tuning data on a near-identical base, not from reinventing the transformer. _(2026-06-05)_
 - `INS-260605-3AE6` When everyone sprints to build the same workaround for a model limitation, that's a signal the limitation is temporary and the workaround is a depreciating asset. _(2026-06-05)_
 - `INS-260605-ED35` Once agents can plausibly do most of your work, the scarce decision is which slices of work you keep for yourself because they define your value and you enjoy them. _(2026-06-05)_
+- `INS-260605-A2B7` When access is enforced at the network rather than by a key, saying 'no' is a hard stop — there is no 'this key stopped working, let me try another endpoint' helpful-agent workaround. _(2026-06-05)_
+- `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request. _(2026-06-05)_
 - `INS-260605-86BE` Training is compute-bound, but single-user local inference is dominated by memory bandwidth, memory capacity, and energy-per-byte — so pick hardware on those axes, not FLOPS. _(2026-06-05)_
 - `INS-260605-C760` Gemma 4 demonstrates that single-GPU and even on-device open models now run real agentic workflows — orchestrator-plus-subagents, tool-calling coding harnesses — that recently demanded clusters. _(2026-06-05)_
 - `INS-260605-A95C` Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design. _(2026-06-05)_
+- `INS-260605-AA2B` Reeve argues screens tacked onto exhibits feel like 'sticking technology on', so he is commissioning a statue with the mic, speaker, and phone built inside it. _(2026-06-05)_
+- `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back. _(2026-06-05)_
 - `INS-260605-B8DD` Each use case follows an S-curve where intelligence stops mattering past a 'good enough' threshold (transcription, summarization, to-do lists), so ~90%+ of consumer tasks will run locally and the market bifurcates — cheap local for most things, billion-dollar compute only for frontier problems. _(2026-06-05)_
-- `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones. _(2026-06-05)_
+- `INS-260605-B794` When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow. _(2026-06-05)_
+- `INS-260605-2531` Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance. _(2026-06-05)_
 - `INS-260605-E4BB` Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency. _(2026-06-05)_
+- `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones. _(2026-06-05)_
+- `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical. _(2026-06-05)_
 - `INS-260605-738E` Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment. _(2026-06-05)_
 - `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable. _(2026-06-05)_
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation. _(2026-06-05)_
@@ -85,16 +119,27 @@ _No flags._
 - `INS-260605-9F3D` For video or audio, a separate encoder transformer turns frames/spectrograms into vectors that override embedding slots in the text model's input — the transformer only cares about vectors, not whether they came from text, audio, or video. _(2026-06-05)_
 - `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime. _(2026-06-05)_
 - `INS-260605-287A` Gen Media models silently rewrite one-liner prompts, so the longer your prompt the more control you keep over the output. _(2026-06-05)_
+- `INS-260605-5B0A` Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it. _(2026-06-05)_
+- `INS-260605-F512` Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use. _(2026-06-05)_
 - `INS-260605-510C` Assigning each character a distinct speaking style in parentheses makes one TTS voice sound like several seamless characters. _(2026-06-05)_
 - `INS-260605-D659` Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results. _(2026-06-05)_
-- `INS-260605-FE67` Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). _(2026-06-05)_
-- `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting). _(2026-06-05)_
+- `INS-260605-59FE` The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward. _(2026-06-05)_
 - `INS-260605-9925` Don't let plugins block before an event/LLM call; instead wait a bounded window (~200ms) for optional enrichment and proceed regardless, so a slow plugin degrades quality rather than breaking the system. _(2026-06-05)_
+- `INS-260605-D404` Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit. _(2026-06-05)_
 - `INS-260605-9A01` Deploy agent logic with zero infra by appending a 'dynamic worker configured' event whose payload is the reducer+after-append source, run in a spun-up worker, with API keys substituted into outbound headers so secrets never touch the log. _(2026-06-05)_
 - `INS-260605-33C0` Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable. _(2026-06-05)_
+- `INS-260605-FE67` Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). _(2026-06-05)_
+- `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting). _(2026-06-05)_
+- `INS-260605-3872` When you catch an agent doing something dumb (casting with 'as', using 'any'/'unknown', skipping validation), encode a lint rule banning that exact pattern so the type/lint error forces the model to correct itself. _(2026-06-05)_
 - `INS-260605-7125` Push prompt/model/temperature as typed managed variables so you can change agent behavior in prod without a redeploy. _(2026-06-05)_
+- `INS-260605-CF2E` Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation. _(2026-06-05)_
+- `INS-260605-2408` Reeve assembled a viral app entirely from existing scale-ready APIs, and concluded the glue and the story about the glue were the project's most important part. _(2026-06-05)_
 - `INS-260605-B6BC` Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work. _(2026-06-05)_
+- `INS-260605-6C72` Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss. _(2026-06-05)_
+- `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern. _(2026-06-05)_
 - `INS-260605-D0A0` Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win. _(2026-06-05)_
+- `INS-260605-8BEA` Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work. _(2026-06-05)_
+- `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers. _(2026-06-05)_
 - `INS-260603-C10D` Harvey (keynote): electricity (1880s) produced no large productivity gain for ~30 years — because factories just swapped a giant electric generator in where the steam engine sat; gains came only when they rearranged the factory floor around distributed electricity. AI is in the same retrofit phase now. _(2026-06-03)_
 - `INS-260603-73D5` Navish (Salesforce): the volume of AI-generated code is impossible to review manually, so you pair it with a reviewer agent — but the agent must know how YOU write and review code; a 6-month junior gets nothing from architect-level feedback they can't understand, so review benefit is gated by the reviewer's own comprehension level. _(2026-06-03)_
 - `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check. _(2026-06-03)_

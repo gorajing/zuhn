@@ -60,10 +60,10 @@ related:
   - INS-260330-AB67
   - INS-260405-8166
   - INS-260403-4120
-  - INS-260409-F0F5
   - INS-260409-B2B5
   - INS-260410-D92A
   - INS-260410-096F
+  - INS-260411-F590
 ---
 Imran's recommendation after running 4 personal agents: the optimal cardinality is two — one personal, one work — because most Fortune 500 companies won't allow personal-agent stuff on work computers, but you still want the productivity gains in both contexts. Sub-agents per specific workflow (Gmail triage, expense reports, etc.) sound right but are over-engineering today; cron jobs within a single agent work just as well and don't add per-sub-agent management overhead.
 

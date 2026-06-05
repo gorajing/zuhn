@@ -1,7 +1,7 @@
 # Tag: scaling-laws
 
-- `INS-260327-6177` Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
+- `INS-260327-6177` Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260323-F0A2` Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.

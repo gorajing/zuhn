@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260409-B122
   - INS-260410-19DE
+  - INS-260605-E642
   - INS-260524-D5DB
   - INS-260409-430B
-  - INS-260519-20E0
 ---
 In the Karpathy setup, CLAUDE.md describes the folder layout, the RAW-to-wiki lifecycle, the wiki link format, and how the master index relates to per-topic indexes. This single file does the job of a retriever configuration in a vector RAG stack: it tells the agent where to look first, how to interpret what it finds, and how to follow links between documents. The implication is that context engineering — carefully written per-project instructions — replaces infrastructure engineering for knowledge systems at this scale.

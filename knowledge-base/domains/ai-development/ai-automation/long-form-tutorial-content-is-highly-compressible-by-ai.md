@@ -50,10 +50,10 @@ stance: >-
   extremely low insight-to-word ratio compared to expert discourse
 related:
   - INS-260325-E84D
+  - INS-260605-9688
   - INS-260403-6652
   - INS-260404-89C3
   - INS-260329-E6AF
-  - INS-260329-9A42
 evidence:
   - id: INS-260325-E84D
     type: SUPPORTS

@@ -51,7 +51,6 @@ stance: >-
   supervisor (which sub-agent to invoke) and keep sub-agents deterministic
   specialists, not a flat mesh of negotiating peers
 related:
-  - INS-260320-63D3
   - INS-260423-FF52
   - INS-260327-C1A4
   - PRI-260328-1ED1

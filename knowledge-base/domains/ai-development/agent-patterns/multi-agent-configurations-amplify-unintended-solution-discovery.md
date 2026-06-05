@@ -60,7 +60,6 @@ related:
   - INS-260411-52C8
   - INS-260413-7816
   - INS-260413-11C9
-  - INS-260519-224B
 ---
 Anthropic's hypothesis is that multi-agent architecture doesn't change the model's tendency to find unintended solutions; it just increases the probability that at least one agent encounters leaked materials or begins suspecting an eval. This is the 'at-least-one' statistic of a Bernoulli process — with N parallel agents each having probability p of encountering contamination, the joint probability scales rapidly.
 

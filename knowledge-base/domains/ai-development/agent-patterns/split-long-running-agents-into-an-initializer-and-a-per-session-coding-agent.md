@@ -52,7 +52,6 @@ related:
   - INS-260410-545A
   - INS-260605-6444
   - INS-260325-D540
-  - INS-260514-283E
 ---
 Anthropic found that running a single coding agent in a loop across context windows fails: the agent either tries to one-shot the whole project or later declares victory prematurely. Their fix is to dedicate the very first session to environment setup using a different prompt, while every subsequent session uses the same coding-agent prompt that only makes incremental progress.
 

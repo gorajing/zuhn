@@ -58,7 +58,6 @@ stance: >-
   Engineers who rely on autograd without understanding its internals will ship
   neural nets with subtle, performance-degrading bugs they cannot diagnose.
 related:
-  - INS-260330-2154
   - INS-260410-FEFA
   - INS-260410-5EE7
   - INS-260410-5033

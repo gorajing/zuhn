@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 42 insights
+> 43 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
@@ -19,6 +19,7 @@
 - `INS-260402-0DC9` [high] Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260403-72C2` [high] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 - `INS-260405-2688` [high] C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
+- `INS-260605-988D` [high] Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260403-2138` [high] DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260409-C133` [high] Peripherals are just memory addresses that happen to be wired to physical things — MMIO turns all I/O into loads and stores.
 - `INS-260409-F4AA` [high] Overflow is a deliberate hardware contract — the carry flag is offered, and it is the programmer's job to check it.

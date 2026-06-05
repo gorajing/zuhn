@@ -51,8 +51,8 @@ related:
   - INS-260323-3C7B
   - INS-260403-DC4A
   - PRI-260328-E870
+  - INS-260605-800F
   - INS-260326-7B2A
-  - INS-260327-2608
   - INS-260404-F2F5
 ---
 Early-stage founders face an asymmetry: they need sophisticated hiring judgment but can't afford recruiting professionals. AI agents trained on frameworks from firms like Andreessen Horowitz, Sequoia, and Y Combinator can bridge this gap by providing stage-appropriate, constraint-aware guidance rather than generic advice.

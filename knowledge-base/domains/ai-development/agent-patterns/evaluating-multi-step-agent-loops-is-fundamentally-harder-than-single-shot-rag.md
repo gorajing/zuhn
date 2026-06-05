@@ -53,7 +53,6 @@ stance: >-
   retrieval@K or answer correctness, making evaluation significantly harder than
   for single-shot systems.
 related:
-  - INS-260327-EDF0
   - INS-260327-9D50
   - INS-260410-E658
   - INS-260605-A847

@@ -1,3 +1,3 @@
 # Tag: less-is-more
 
-- `INS-260404-6945` Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
+- `INS-260605-0C88` An agent given one 'execute' tool that runs arbitrary TypeScript (including shell calls and AST-based file edits) outperforms one with many narrow tools, because constraining what the model can do makes it do better.

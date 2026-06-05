@@ -54,7 +54,7 @@ related:
   - INS-260410-1430
   - INS-260412-1440
   - INS-260330-90C3
-  - INS-260405-B22F
+  - INS-260605-BC6F
 ---
 Claude Code on the web executes each session in an isolated cloud sandbox but explicitly keeps git credentials OUT of that sandbox. The agent authenticates to a custom proxy service using a scoped credential; the proxy verifies the credential AND validates the request contents (e.g., that pushes only go to the configured branch), then attaches the real GitHub auth token before forwarding. This means even a fully compromised sandbox cannot push to unauthorized branches or steal signing keys.
 

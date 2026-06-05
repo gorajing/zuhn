@@ -1,5 +1,6 @@
 # Tag: knowledge-management
 
+- `INS-260605-E642` Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - `INS-260329-3FF4` Well-chaptered, manually transcribed long-form content produces far better AI-assisted knowledge extraction than unstructured equivalents.
 - `INS-260514-1659` One engineer writes 'how to write a good follow-up email' once. Every agent on the team writes good follow-up emails forever. Compounds.
 - `INS-260409-212F` Humans abandoned wikis because maintenance grew faster than value; LLMs reverse that ratio by doing all the cross-referencing for free.

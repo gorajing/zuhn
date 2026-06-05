@@ -54,6 +54,7 @@ related:
   - INS-260403-2115
   - INS-260410-2C51
   - INS-260411-D060
+  - INS-260605-3553
 ---
 Zach Lloyd argues that the terminal's properties, text input/output, temporal ordering, logging, easy multitasking, make it the ideal substrate for AI agent interaction. This was 'a great stroke of luck' for Warp, which started as a terminal reimagination before AI agents existed. The convergence is visible: Warp grew from terminal to add IDE features, while Cursor grew from IDE to look more like a terminal chat interface.
 

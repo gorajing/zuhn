@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 33 insights
+> 34 insights
 
 - `INS-260321-86E7` [high] As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
 - `INS-260320-10E8` [high] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
@@ -11,6 +11,7 @@
 - `INS-260327-62AB` [high] Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260409-6ABF` [high] The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
 - `INS-260409-AE80` [high] The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
+- `INS-260605-C53B` [high] Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers.
 - `INS-260320-D44B` [high] The foundational rule of video sound design: you should be able to hear everything you see -- nothing on screen is truly silent, and even empty rooms have ambient sound.
 - `INS-260327-7DBC` [high] With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
 - `INS-260323-47B0` [high] Jon Stewart's advice to Bassem Youssef when he was afraid to satirize the Egyptian military: make fun of your own fear, and the audience's recognition of shared fear creates both comedy and courage.

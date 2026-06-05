@@ -1,7 +1,8 @@
 # Topic: agents
 
-> 35 insights
+> 38 insights
 
+- `INS-260605-610E` [high] Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260410-F0EF` [high] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260410-E73E` [high] Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
@@ -33,7 +34,9 @@
 - `INS-260514-1D60` [medium] Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
 - `INS-260605-8789` [medium] Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'
+- `INS-260605-2A01` [medium] Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.
 - `INS-260423-85B3` [medium] Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
 - `INS-260413-11C9` [medium] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
+- `INS-260605-E642` [medium] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - `INS-260405-E8A1` [medium] When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260410-D04D` [medium] Bubblewrap on Linux and seatbelt on macOS provide subprocess-inclusive sandbox boundaries without container overhead.

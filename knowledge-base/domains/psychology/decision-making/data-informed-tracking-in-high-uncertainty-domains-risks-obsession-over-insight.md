@@ -51,10 +51,10 @@ stance: >-
   meant to support
 related:
   - INS-260327-EBDF
-  - INS-260402-E040
   - INS-260328-9C16
   - PRI-260406-818D
-  - INS-260403-4DFB
+  - INS-260605-D3C7
+  - INS-260402-E040
 ---
 Lenny recommends the Huckleberry baby tracking app but explicitly warns to 'be careful of getting too obsessed with the data.' This reveals a fundamental tension in data-informed decision-making: the same tracking that enables better decisions can become a crutch that replaces intuitive judgment. In domains with high emotional stakes and genuine uncertainty (parenting, health, relationships), the comfort of having data can make people over-index on measurable signals while ignoring harder-to-quantify cues.
 

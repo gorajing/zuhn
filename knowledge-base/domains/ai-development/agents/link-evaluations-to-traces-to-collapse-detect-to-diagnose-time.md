@@ -46,9 +46,9 @@ stance: >-
   evaluations must be attached to the underlying trace.
 related:
   - INS-260605-E9A6
+  - INS-260605-6C72
   - INS-260530-C385
   - INS-260403-0803
   - PRI-260412-96C1
-  - INS-260602-1DF1
 ---
 Knowing a metric failed is worthless if you can't find which step caused it. The speakers stress 'trace-linked evaluations' — every eval result hangs off the trace that produced it, so when an eval flags a regression you can jump into the trace and see what differed between versions (e.g. a tool that stopped getting called after a model swap). The key reframe: observability is not about alerting on failure, it's about minimizing the time between detection and diagnosis. Without the trace link, you detect a problem but still have to reconstruct the cause by hand. With it, detection and diagnosis become a single navigable view, which is what makes fast iteration on non-deterministic agents possible.

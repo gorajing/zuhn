@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 46 insights
+> 47 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -42,6 +42,7 @@
 - `INS-260505-A639` [medium] Fusion ignition wasn't a 2022 breakthrough — it was 50 years of integrated simulation + experiment + theory finally producing the result.
 - `INS-260405-844D` [medium] A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260421-CE27` [medium] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
+- `INS-260605-B794` [medium] When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow.
 - `INS-260501-B1AA` [medium] iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL.
 - `INS-260423-FB98` [medium] Cody: I created a Postgres database on the fly using the Railway API, pumped the data in, did the analysis with Claude, pushed the outputs out, and spun the database down.
 - `INS-260405-D638` [medium] Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.

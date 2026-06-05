@@ -6,7 +6,6 @@
 - `INS-260505-56BD` Two independent intelligence systems built from different physics arrive at edge detectors and similar representational features.
 - `INS-260410-EF9E` Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
 - `INS-260505-483B` Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
-- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'
 - `INS-260404-7CBC` The brain receives ~1B bits/sec but can only output ~10 bits/sec, creating a massive bottleneck that BCIs aim to bypass.
 - `INS-260330-6270` Shivering releases succinate from muscles which activates brown fat thermogenesis — resisting shiver during cold exposure eliminates the fat-burning benefit.
 - `INS-260330-2F9F` Cold water exposure uniquely raises dopamine 2.5x above baseline with a sustained multi-hour elevation rather than the spike-crash pattern of stimulants.
@@ -19,6 +18,7 @@
 - `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise.
 - `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
 - `INS-260330-443B` Palmer hypothesizes that obesity is often the consequence of brain dysfunction rather than a metabolic problem that then impacts the brain, reversing the conventional causal arrow.
+- `INS-260323-5EA1` Rick Beato believes all children are born with perfect pitch and lose it around nine months (when they become 'culturally bound listeners'); exposing babies to high-information music prenatally and in the first months engages the social brain for 'native music fluency.'
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260404-0519` The brain processes empathy through two distinct systems: prefrontal 'cold' reasoning circuits and amygdala-based 'hot' emotional mirroring, which can operate independently.
 - `INS-260403-705C` Neuroscience's predictive coding theory reveals humans and AIs share the same core learning algorithm — predict the next input, update weights.
@@ -39,6 +39,8 @@
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
+- `INS-260404-C258` The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260330-4E50` In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated.
@@ -47,8 +49,6 @@
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260325-9B9A` Heavy screen use does not just exploit weak impulse control — it actively stunts the brain's ability to develop that control, creating a vicious cycle.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
-- `INS-260404-C258` The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-45FF` Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
 - `INS-260330-70A8` David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
@@ -61,10 +61,10 @@
 - `INS-260330-EE7E` In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
 - `INS-260323-DEEA` Paul Conti's framework: 90% of our decision-making is driven by the subconscious, and only by exploring it can we stop making the same destructive choices.
 - `INS-260325-BBF1` As a scientist, Bonanno asks 'where are these hidden traumas stored?' because we have no biological mechanism for trauma hiding in the body and unconsciously causing harm.
-- `INS-260325-CA88` Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
-- `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
-- `INS-260330-85D9` The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy.
 - `INS-260330-F9C1` Novel shared experiences drive the dopamine system that sustains romantic love, making deliberate novelty-seeking the most brain-aligned strategy for long-term relationship maintenance.
 - `INS-260325-6571` Brain scans reveal romantic love is not an emotion but a drive originating in the VTA dopamine system next to thirst and hunger — it evolved as a survival mechanism to focus mating energy on a single partner.
 - `INS-260330-D0E2` The brain's sexual response has separate accelerator (excitation) and brake (inhibition) systems, and most problems come from overactive brakes rather than a weak accelerator.
 - `INS-260330-EA2E` Sustaining a partnership requires separately maintaining sex drive (regular sex), romantic love (novel experiences together), and attachment (physical touch and cuddling).
+- `INS-260325-CA88` Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
+- `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
+- `INS-260330-85D9` The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy.

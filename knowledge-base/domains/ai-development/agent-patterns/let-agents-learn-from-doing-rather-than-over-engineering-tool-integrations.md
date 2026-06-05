@@ -50,7 +50,6 @@ stance: >-
   than letting agents figure out workflows through recipes and shared learning,
   because agents discover surprising solutions humans would not think to encode.
 related:
-  - INS-260320-A4BF
   - PRI-260501-1E66
   - INS-260410-F910
   - INS-260410-1030

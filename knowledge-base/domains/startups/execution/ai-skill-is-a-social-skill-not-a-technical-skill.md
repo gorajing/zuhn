@@ -44,7 +44,6 @@ stance: >-
   skill—knowing how to manage, delegate, and provide context to a capable but
   overeager collaborator—not a technical prompt engineering skill.
 related:
-  - INS-260320-8DBD
   - INS-260320-DCA0
   - INS-260329-4D06
   - INS-260329-11AB
@@ -53,6 +52,7 @@ related:
   - PRI-260403-FBA8
   - INS-260501-6453
   - INS-260605-B6BC
+  - INS-260605-988D
 evidence:
   - id: INS-260320-8DBD
     type: EXTENDS

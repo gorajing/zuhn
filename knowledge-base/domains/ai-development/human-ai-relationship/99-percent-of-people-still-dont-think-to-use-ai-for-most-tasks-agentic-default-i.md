@@ -60,8 +60,8 @@ related:
   - INS-260402-F62B
   - INS-260501-91C2
   - INS-260605-ED35
+  - INS-260605-74E8
   - INS-260423-FF53
   - INS-260328-FF2C
-  - INS-260327-BB71
 ---
 The model-capability discourse implies that AI adoption is gated by model improvement. The behavioral-economics reality is different: people only use AI for tasks they have associated with AI use, and that association set expands slowly. Even self-identified AI maximalists revert to manual processing for most tasks because the cognitive overhead of pausing-and-asking 'should I use AI for this?' is greater than the time saved on individual small tasks. The aggregate effect: AI spend per knowledge worker is a small fraction of what would be optimal given current capability. The practical implication for individuals: deliberately develop the muscle memory of dispatching to AI as a default by maintaining a private list of task types that should always start with an AI prompt — research, drafting, analysis, code, summarization, scheduling logistics. Reflecting weekly on tasks where AI was not used but should have been builds the muscle. The implication for product designers: surfaces that ambiently suggest AI usage at task initiation (the moment a user starts a doc, opens an email, begins a search) accelerate muscle-memory formation faster than products requiring users to deliberately switch to an AI tool.

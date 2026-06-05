@@ -59,11 +59,11 @@ stance: >-
   decides the skill is relevant — making it possible to give the agent access to
   dozens of skills without paying the context cost.
 related:
+  - INS-260605-C86D
   - INS-260327-5AFE
   - INS-260605-117F
+  - INS-260605-5B0A
   - INS-260403-DAA9
-  - PRI-260406-1AC6
-  - PRI-260328-0BA6
 ---
 The technical mechanism: when you create a skill.md file, the YAML frontmatter (name, description) is injected into the system prompt as available skills. The body of the skill (the actual instructions, examples, code snippets) is NOT injected. When the agent encounters a task, it scans the available skill names+descriptions and decides which (if any) is relevant. If yes, it loads the full skill content into context for that specific task. If no, no extra cost.
 

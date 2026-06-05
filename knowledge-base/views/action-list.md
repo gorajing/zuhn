@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5212 actionable insights
+Generated on 2026-06-05 | 5244 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -133,6 +133,21 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260605-6591] Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.
 - [INS-260605-9FCF] Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON.
 - [INS-260605-AD25] Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back.
+- [INS-260605-B5A2] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
+- [INS-260605-5C58] 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
+- [INS-260605-75B7] A leaked Claude Code keyword regex (WTF, this sucks, horrible) flipping a frustration boolean per session shows that a cheap, individually-fallible regex becomes an incredibly valuable signal when aggregated across many users and tagged against each release.
+- [INS-260605-9523] Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
+- [INS-260605-2C70] Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail.
+- [INS-260605-03A6] Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
+- [INS-260605-36E9] Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
+- [INS-260605-9F5C] Agents with growing tools, sub-agents, and memory sources have an effectively infinite input/output space that golden datasets can't cover, so monitoring production replaces testing as the dominant reliability lever.
+- [INS-260605-800F] Onboard agents like new hires — assign a task first and let them pull the knowledge they're missing, rather than graduating them on all documentation before any work.
+- [INS-260605-E7F2] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
+- [INS-260605-35B4] Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
+- [INS-260605-C86D] A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
+- [INS-260605-5078] Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
+- [INS-260605-CEB5] Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
+- [INS-260605-D3C7] Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -160,6 +175,9 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260605-310E] Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
 - [INS-260605-0DB3] One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - [INS-260605-5D14] If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
+- [INS-260605-610E] Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
+- [INS-260605-2A01] Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.
+- [INS-260605-E642] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -324,6 +342,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260514-AE82] Harness engineering (system-prompt design, tool-call orchestration) can lift a model's performance 30-40% — invest there before chasing a better model.
 - [INS-260605-90CF] Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
 - [INS-260605-26EC] Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests.
+- [INS-260605-988D] Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -389,6 +408,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260605-117F] Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - [INS-260605-DFF5] Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - [INS-260605-749D] Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract.
+- [INS-260605-19B4] In the demo, Claude confidently built a Postgres view that bypassed row-level security because its training data missed that views need a security_invoker flag (Postgres 15+) to inherit RLS — exactly the gap a skill exists to close.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -504,6 +524,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260424-BFDC] Logan Kilpatrick: instead of asking for one thing, you can now ask for 30 things — but the weight is on me, the onus is on me to be like I really could build this.
 - [INS-260501-A5F5] Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
 - [INS-260514-BA22] Spending all day with positively-tuned Claude makes real humans feel abrasive — a measurable social aftereffect to counteract with deliberate human interaction.
+- [INS-260605-9688] Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -531,6 +552,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
 - [INS-260410-939B] Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - [INS-260410-ED12] When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
+- [INS-260605-6752] Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -546,6 +568,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260514-9145] Clay credits: $0.075/company enriched. Apify + own API keys: $0.004/company. Same workflow, 20x cheaper.
 - [INS-260514-44A4] AI compute spend is about to exceed salary spend at top AI-native companies. Speechify is mid-flight. 'If you don't spend 1000 credits a day, I'm disappointed in you.' Treat tokens as the primary cost line, not headcount.
 - [INS-260605-E4BB] Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
+- [INS-260605-2531] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -687,6 +710,8 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260605-287A] Gen Media models silently rewrite one-liner prompts, so the longer your prompt the more control you keep over the output.
 - [INS-260605-510C] Assigning each character a distinct speaking style in parentheses makes one TTS voice sound like several seamless characters.
 - [INS-260605-D659] Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
+- [INS-260605-5B0A] Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it.
+- [INS-260605-F512] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -804,6 +829,11 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260603-7252] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - [INS-260605-B6BC] Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.
 - [INS-260605-D0A0] Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win.
+- [INS-260605-3872] When you catch an agent doing something dumb (casting with 'as', using 'any'/'unknown', skipping validation), encode a lint rule banning that exact pattern so the type/lint error forces the model to correct itself.
+- [INS-260605-CF2E] Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation.
+- [INS-260605-2408] Reeve assembled a viral app entirely from existing scale-ready APIs, and concluded the glue and the story about the glue were the project's most important part.
+- [INS-260605-6C72] Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss.
+- [INS-260605-0819] Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -888,6 +918,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260522-B95E] YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
 - [INS-260524-D5DB] Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
 - [INS-260524-8E5D] Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.'
+- [INS-260605-8BEA] Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
@@ -5512,6 +5543,7 @@ Generated on 2026-06-05 | 5212 actionable insights
 - [INS-260409-94F8] Consistent topic-avatar pairing is the only true compounding asset in short-form distribution because it sharpens the platform's fit-score model of your channel.
 - [INS-260409-FD8B] A viral hit to the wrong audience is algorithmically expensive because the platform re-targets your next videos toward those off-avatar viewers.
 - [INS-260409-2906] Reverse-engineer outlier videos in your niche instead of ideating from scratch — the data already tells you what works.
+- [INS-260605-C53B] Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers.
 
 ## video-production/workflow
 - [INS-260409-FDB4] Lock characters with full sheets at the start; don't try to fix identity drift in post.

@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 37 insights
+> 39 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260410-1ED3` [high] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -28,6 +28,7 @@
 - `INS-260412-FD9A` [high] The Caplan thruster uses a second jet pointed at the Sun to prevent the engine from crashing into it, illustrating active balance in high-force systems.
 - `INS-260410-71B9` [high] Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.
 - `INS-260514-0226` [medium] Code is the compiled artifact. The spec + harness is the source. LLM is the fuzzy compiler. Swap models = swap compiler backend.
+- `INS-260605-59FE` [medium] The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260405-8E85` [medium] Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260404-F7C5` [medium] Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260405-C497` [medium] RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
@@ -36,6 +37,7 @@
 - `INS-260412-5965` [medium] Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
 - `INS-260514-8424` [medium] Have one engineer write what 'good security review' looks like — now every agent gets that review on every push. The single review becomes durable infrastructure.
 - `INS-260605-9925` [medium] Don't let plugins block before an event/LLM call; instead wait a bounded window (~200ms) for optional enrichment and proceed regardless, so a slow plugin degrades quality rather than breaking the system.
+- `INS-260605-D404` [medium] Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
 - `INS-260412-4773` [medium] Submarine VLF communication at 700 words per minute in text-only forces message protocols to be maximally clear and unambiguous — a discipline that disappears when bandwidth is cheap.
 - `INS-260605-33C0` [medium] Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable.
 - `INS-260605-9A01` [low] Deploy agent logic with zero infra by appending a 'dynamic worker configured' event whose payload is the reducer+after-append source, run in a spun-up worker, with API keys substituted into outbound headers so secrets never touch the log.

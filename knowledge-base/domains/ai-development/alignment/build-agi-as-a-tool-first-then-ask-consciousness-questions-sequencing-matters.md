@@ -61,6 +61,7 @@ related:
   - INS-260330-C7B5
   - INS-260323-64A4
   - INS-260326-E5D3
+  - INS-260605-0819
   - INS-260410-095B
 ---
 Hassabis's recommended sequencing for the AGI mission: build an incredibly intelligent precise tool first, then cross the next rubicon. The tool can become more autonomous and agent-like (the agent era we're in now), but consciousness, agency, and 'is it a moral patient' questions should come after we have a tool we can use to study those questions rigorously. This is a deliberate epistemic choice — try to define consciousness more precisely with AI's help rather than trying to bake answers in upfront.

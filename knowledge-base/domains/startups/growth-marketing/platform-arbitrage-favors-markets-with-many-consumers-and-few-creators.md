@@ -44,7 +44,6 @@ stance: >-
   because decision-makers were abundant while creators were scarce, whereas
   YouTube and Instagram were saturated.
 related:
-  - INS-260322-191F
   - INS-260329-7CDE
   - INS-260402-3D00
   - INS-260409-175D

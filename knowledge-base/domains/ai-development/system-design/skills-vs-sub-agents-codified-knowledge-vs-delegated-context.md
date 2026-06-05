@@ -64,9 +64,9 @@ related:
   - PRI-260411-9CB1
   - INS-260501-C59A
   - INS-260514-283E
+  - INS-260605-800F
   - INS-260605-9A01
   - INS-260320-9D89
-  - INS-260519-08E0
 ---
 Hai Nghiem's clear architectural breakdown: skills are folders containing a text file (the SOP) and optionally script files. When invoked, Claude reads the skill, performs the task, and removes the skill from context — knowledge loaded just-in-time, garbage-collected after use. Sub-agents are a different primitive entirely: delegate a task to a separate agent with its own context window; the sub-agent generates 10K-20K tokens doing the task; only the final result returns to the main agent's context. Common mistake influencers make: setting up 'sub-agents' for personas (Tik Tok specialist, marketing specialist) — that's actually a skills use case, not a sub-agent one. Sub-agents are for context management; skills are for codifying knowledge.
 

@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 63 insights
+> 64 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -44,6 +44,7 @@
 - `INS-260321-E2FC` [high] Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
 - `INS-260320-B210` [high] Keep SKILL.md files under 500 lines and use progressive disclosure via resource files for 40-60% token efficiency improvement.
 - `INS-260321-E9B7` [high] If you're copying the same instructions into multiple projects, that's a signal to create a Skill instead — Skills work across ALL conversations while Projects only work within one.
+- `INS-260605-19B4` [high] In the demo, Claude confidently built a Postgres view that bypassed row-level security because its training data missed that views need a security_invoker flag (Postgres 15+) to inherit RLS — exactly the gap a skill exists to close.
 - `INS-260501-91A3` [high] Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.
 - `INS-260501-6453` [high] Skills name + description = always in context. Skill body = loaded on demand. You can have 50 skills available without 50x the context cost.
 - `INS-260320-F872` [high] Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.

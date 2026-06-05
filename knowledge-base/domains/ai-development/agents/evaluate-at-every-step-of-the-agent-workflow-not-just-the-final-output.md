@@ -45,9 +45,7 @@ stance: >-
   Agents should be evaluated at each decision point (intent, tool call,
   response), not only on overall task completion.
 related:
-  - INS-260403-9C60
   - INS-260410-F5EC
-  - INS-260410-5D66
   - INS-260410-83EC
   - PRI-260411-14DC
   - INS-260403-4363

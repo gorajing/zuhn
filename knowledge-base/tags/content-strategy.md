@@ -2,9 +2,9 @@
 
 - `INS-260322-CCAA` As agents become intermediaries between users and systems, optimization shifts from visual design to machine-readable structure and insight density.
 - `INS-260403-3C6D` Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
+- `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
 - `INS-260322-D5DD` Make remixes of trending songs in your own style to leverage existing search demand and get discovered before you have original fans.
 - `INS-260321-3312` Music is now attached to YOU, not to a format — your job is not to promote a song (temporary) but to build a content machine (permanent) where your music is the superpower that gets you attention.
-- `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
 - `INS-260409-3064` People comment to correct what they think is wrong, so contrarian framing is a reliable comment-rate multiplier.
 - `INS-260409-241B` Naming a specific cult-loved brand instead of a generic category gives viewers a pre-formed opinion to defend or attack in the comments.
 - `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
@@ -31,6 +31,7 @@
 - `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
+- `INS-260514-3559` Authenticity ≠ originality. Copy working formats; add your authentic spin. Trying to invent novel formats from scratch keeps you in the cocoon forever. Mr Beast himself copies what works and adds his style.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260320-630D` Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
@@ -44,4 +45,3 @@
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.
 - `INS-260321-141B` Write a proven format at the top of a grid, list all markets down the side, mark where the combination exists — empty cells are your blue ocean.
-- `INS-260514-3559` Authenticity ≠ originality. Copy working formats; add your authentic spin. Trying to invent novel formats from scratch keeps you in the cocoon forever. Mr Beast himself copies what works and adds his style.

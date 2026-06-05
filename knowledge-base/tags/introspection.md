@@ -1,12 +1,13 @@
 # Tag: introspection
 
+- `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260330-3491` Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
+- `INS-260409-55F6` Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
+- `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-DE69` The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising.
 - `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.
 - `INS-260330-6CA5` The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking.
 - `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
-- `INS-260409-55F6` Asymmetric epistemic standards — trusting convergence in physics but dismissing it in phenomenology — need to be justified, not assumed.
-- `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260501-F021` Time, introspection, honesty. No shortcut to knowing yourself. Lose money in stocks? Own it, don't blame the market.

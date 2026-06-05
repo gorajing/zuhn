@@ -4,6 +4,7 @@
 - `INS-260410-0FC1` Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260330-8F07` AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260330-6D43` Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
+- `INS-260605-B794` When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow.
 - `INS-260323-8555` Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260329-B2F4` Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.

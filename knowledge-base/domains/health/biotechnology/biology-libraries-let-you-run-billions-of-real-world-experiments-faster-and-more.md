@@ -60,11 +60,10 @@ stance: >-
   variants in an afternoon beats first-principles simulation because the library
   is the computer — no assumptions from QED to QM to MM are required.
 related:
-  - INS-260408-306A
-  - INS-260408-76F4
   - PRI-260411-FB73
   - INS-260524-1A41
   - INS-260325-5A2F
+  - INS-260408-306A
   - INS-260323-3657
   - INS-260524-2346
 ---

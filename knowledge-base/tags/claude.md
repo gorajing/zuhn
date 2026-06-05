@@ -8,3 +8,4 @@
 - `INS-260321-E9B7` If you're copying the same instructions into multiple projects, that's a signal to create a Skill instead — Skills work across ALL conversations while Projects only work within one.
 - `INS-260323-9D6E` Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
 - `INS-260410-CAA4` Anthropic observed that the upgraded Claude 3.5 Sonnet self-corrects more and tries multiple solutions rather than getting stuck repeating the same mistake.
+- `INS-260605-5B0A` Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it.

@@ -10,5 +10,6 @@
 - `INS-260320-69CD` A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
 - `INS-260320-DCA0` A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260409-6ABF` The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
+- `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers.
 - `INS-260329-D212` Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-6859` Put 80% of ad creation effort into the hook/headline — front-end CTR gains of 4x dwarf backend improvements.

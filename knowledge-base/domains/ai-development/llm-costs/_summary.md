@@ -1,7 +1,8 @@
 # Topic: llm-costs
 
-> 28 insights
+> 29 insights
 
+- `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
 - `INS-260320-9FD5` [high] Batch inputs to amortize system prompt costs — 100 separate calls with a 500-token system prompt = 50,000 wasted tokens. 1 batched call = 500 tokens.
 - `INS-260501-3C20` [high] Batch size compounds — unbatched inference is ~1000x worse economics than batched, which is why Fast Mode costs 6x for 2.5x speed and Slow Mode could exist at lower price.

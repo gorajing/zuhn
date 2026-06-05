@@ -55,5 +55,6 @@ related:
   - INS-260404-CE26
   - INS-260326-0AB4
   - PRI-260405-0676
+  - INS-260605-19B4
 ---
 The AI Index 2026 Chapter 3 presents Section 3.10 as a standalone finding: recent empirical studies show that training techniques targeted at one responsible AI dimension consistently degrade another. Gains in privacy reduce fairness. Gains in safety reduce accuracy. For dimensions like fairness, privacy, and explainability, the standardized data needed to track progress over time does not exist. There is no accepted framework for navigating these tradeoffs. This transforms 'responsible AI' from a checklist into an optimization problem with an undefined Pareto frontier — which means vendor claims of 'improved safety without compromising capability' are almost always either marketing or narrowly benchmark-gamed. The operational implication is that procurement teams, auditors, and policymakers need to pick which RAI dimension matters most for a given deployment context and accept that others will regress, rather than demand uniform improvement.

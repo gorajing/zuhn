@@ -55,7 +55,7 @@ related:
   - PRI-260328-D5EB
   - PRI-260328-5CDE
   - PRI-260328-EE02
-  - INS-260514-838D
+  - INS-260605-9F5C
 ---
 Anthropic observed a regime change in their resource sweep. From 1x to 3x, increased resources mostly fix transient OOM kills on tasks the agent was going to fail anyway — making the eval more stable without making it easier. Above 3x, success rates climb faster than infra errors decline: the extra headroom enables approaches that only work with generous allocations, like pulling in heavyweight dependencies or running memory-intensive test suites.
 

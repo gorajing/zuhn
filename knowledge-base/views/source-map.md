@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-05 | 2759 sources
+Generated on 2026-06-05 | 2768 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -757,6 +757,7 @@ Generated on 2026-06-05 | 2759 sources
 | Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg) | youtube | 5 | 2026-04-11 |
 | ADHD & How Anyone Can Improve Their Focus | youtube | 5 | 2026-03-30 |
 | Agent Optimization with Pydantic AI: GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic | youtube | 5 | 2026-06-05 |
+| Agentic Search for Context Engineering — Leonie Monigatti, Elastic | youtube | 5 | 2026-06-05 |
 | AGI is still 30 years away — Ege Erdil & Tamay Besiroglu | youtube | 5 | 2026-04-10 |
 | AI 2027: month-by-month model of intelligence explosion — Scott Alexander & Daniel Kokotajlo | youtube | 5 | 2026-04-10 |
 | 나의 완벽한 비서 - AI 에이전트 시대 [풀영상] | 창 540회 (KBS 26.3.17.) | youtube | 5 | 2026-03-22 |
@@ -809,6 +810,7 @@ Generated on 2026-06-05 | 2759 sources
 | David Deutsch: Knowledge Creation and The Human Race, Part 1 | youtube | 5 | 2026-03-30 |
 | David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast #355 | youtube | 5 | 2026-03-30 |
 | Deep Dive into LLMs like ChatGPT | youtube | 5 | 2026-04-10 |
+| Demand-Driven Context: A Methodology for Coherent Knowledge Bases Through Agent Failure | youtube | 5 | 2026-06-05 |
 | Demis Hassabis: We're Three Quarters of the Way to AGI | youtube | 5 | 2026-05-02 |
 | Diet & Nutrition for Mental Health | Dr. Chris Palmer | youtube | 5 | 2026-03-30 |
 | Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293 | youtube | 5 | 2026-03-30 |
@@ -825,6 +827,7 @@ Generated on 2026-06-05 | 2759 sources
 | Epic Systems (MyChart) | youtube | 5 | 2026-04-11 |
 | Every Country in the World (Part 1) | youtube | 5 | 2026-04-12 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
+| Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop | youtube | 5 | 2026-06-05 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
 | Ex-Apple CEO Starts His Own Phone Company! | youtube | 5 | 2026-04-12 |
 | Ex-Tudor Quant PM: “There Hasn't Been a New Idea in Trading for 15 Years” | youtube | 5 | 2026-05-14 |
@@ -836,6 +839,7 @@ Generated on 2026-06-05 | 2759 sources
 | From Idea to $650M Exit: Lessons in Building AI Startups | youtube | 5 | 2026-03-27 |
 | Full Walkthrough: Writing & Using Skills — Nick Nisi and Zack Proser | youtube | 5 | 2026-06-05 |
 | Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 5 | 2026-04-10 |
+| Give Your Agent a Computer — Nico Albanese, Vercel | youtube | 5 | 2026-06-05 |
 | God-Tier Developer Roadmap | youtube | 5 | 2026-03-30 |
 | GOING SUPERSONIC with U.S. Air Force Thunderbirds! Pulling 7 G's in an F-16 -Smarter Every Day 235 | youtube | 5 | 2026-03-30 |
 | Google Part I: Origins of Search. How the Best Business in Human History Happened (Audio) | youtube | 5 | 2026-04-11 |
@@ -890,6 +894,7 @@ Generated on 2026-06-05 | 2759 sources
 | How to Lose Fat with Science-Based Tools | youtube | 5 | 2026-03-30 |
 | How to Make Claude Code Your AI Engineering Team | youtube | 5 | 2026-05-02 |
 | How to Sell by Tyler Bosmeny | youtube | 5 | 2026-03-27 |
+| How to talk to statues — Joe Reeve, ElevenLabs | youtube | 5 | 2026-06-05 |
 | How To Terraform Venus (Quickly) | youtube | 5 | 2026-04-12 |
 | How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant | youtube | 5 | 2026-03-30 |
 | How Truemed Is Incentivizing Americans to Invest in Prevention | youtube | 5 | 2026-03-22 |
@@ -1007,6 +1012,8 @@ Generated on 2026-06-05 | 2759 sources
 | Ship Real Agents: Hands-On Evals for Agentic Applications — Laurie Voss, Arize | youtube | 5 | 2026-06-05 |
 | Shopify CEO on How AI is a Scapegoat for Mass Layoffs & Trump Derangement Syndrome in Canada | youtube | 5 | 2026-05-14 |
 | Singapore: The World's Only Successful Dictatorship? | youtube | 5 | 2026-03-30 |
+| Skill Issue: How We Used AI to Make Agents Actually Good at Supabase — Pedro Rodrigues, Supabase | youtube | 5 | 2026-06-05 |
+| Skill issue: Lessons from skilling up coding agents to use Langfuse - Marc Klingen, Clickhouse | youtube | 5 | 2026-06-05 |
 | 진짜 합리적인 의사결정법은 따로 있습니다 | Sola, Jessica Wu | youtube | 5 | 2026-05-14 |
 | Solving Wordle using information theory | youtube | 5 | 2026-03-30 |
 | Some thoughts on the Sutton interview | youtube | 5 | 2026-04-10 |
@@ -1094,6 +1101,7 @@ Generated on 2026-06-05 | 2759 sources
 | Uber CEO Dara Khosrowshahi | youtube | 5 | 2026-04-11 |
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
 | US Banking Crisis: The Truth Behind The Disaster | youtube | 5 | 2026-04-12 |
+| Vibe Engineering Effect Apps — Michael Arnaldi, Effectful | youtube | 5 | 2026-06-05 |
 | Viral Brand Expert: The Content Strategy Nobody Is Talking About | youtube | 5 | 2026-05-14 |
 | Visa (Audio) | youtube | 5 | 2026-04-11 |
 | Vitalik: Ethereum, Part 1 | youtube | 5 | 2026-03-30 |
@@ -1102,6 +1110,7 @@ Generated on 2026-06-05 | 2759 sources
 | Watch This If You Have a Service Business | youtube | 5 | 2026-03-22 |
 | WeWork - The $47 Billion Disaster | youtube | 5 | 2026-04-12 |
 | What Alcohol Does to Your Body, Brain & Health | youtube | 5 | 2026-03-30 |
+| What if the network was the sandbox? — Remy Guercio, Tailscale | youtube | 5 | 2026-06-05 |
 | What Putin Fears More Than War | youtube | 5 | 2026-03-30 |
 | What will automated firms look like? | youtube | 5 | 2026-04-10 |
 | Where does consumer AI stand at the end of 2025? | youtube | 5 | 2026-03-22 |
@@ -2604,6 +2613,15 @@ Generated on 2026-06-05 | 2759 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | 하버드대에서 밝힌 「삶에 여유가 없을수록 꼭 해야하는 1가지」 | youtube | 0 | 2026-04-23 |
 | "10배 저렴한데, 효과는 더 좋습니다!" 피부과 의사가 매일 쓰고 효과 본 재생크림 6가지 추천 | youtube | 0 | 2026-04-23 |
 | 10년 전, 젠슨 황과 일론 머스크가 본 미래 | 거장들의 대화 Ep.01 | youtube | 0 | 2026-04-23 |
@@ -2617,7 +2635,6 @@ Generated on 2026-06-05 | 2759 sources
 | Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind | youtube | 0 | 2026-06-05 |
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
 | Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind | youtube | 0 | 2026-06-05 |
-| Agentic Search for Context Engineering — Leonie Monigatti, Elastic | youtube | 0 | 2026-06-05 |
 | Agents Don't Do Standups: Building the Post-Engineer Engineering Org — Mike Spitz, PFF | youtube | 0 | 2026-06-05 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
@@ -2646,7 +2663,6 @@ Generated on 2026-06-05 | 2759 sources
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
 | Dark Factory: OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw | youtube | 0 | 2026-06-05 |
 | Darwin Gödel Machine Explained: Self-Improving AI Agents | youtube | 0 | 2026-04-23 |
-| Demand-Driven Context: A Methodology for Coherent Knowledge Bases Through Agent Failure | youtube | 0 | 2026-06-05 |
 | DINOv3 Paper Explained: The Computer Vision Foundation Model | youtube | 0 | 2026-04-23 |
 | Does GenAI "belong" to data scientists? — Phil Hetzel, Braintrust | youtube | 0 | 2026-06-05 |
 | Don't Build Slop (4 Levels of AI Agent Maturity) - Ara Khan, Cline | youtube | 0 | 2026-06-05 |
@@ -2655,7 +2671,6 @@ Generated on 2026-06-05 | 2759 sources
 | Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 0 | 2026-04-23 |
 | Engineering voice agents: Latency, quality, and scale — Rishabh Bhargava, Together AI | youtube | 0 | 2026-06-05 |
 | Everyday Foods that Feed CANCER Cells | youtube | 0 | 2026-04-23 |
-| Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop | youtube | 0 | 2026-06-05 |
 | Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
 | Fast Models Need Slow Developers — Sarah Chieng, Cerebras | youtube | 0 | 2026-06-05 |
 | Feedback Loops are All You Need — Mehedi Hassan, Granola | youtube | 0 | 2026-06-05 |
@@ -2671,7 +2686,6 @@ Generated on 2026-06-05 | 2759 sources
 | From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud | youtube | 0 | 2026-04-24 |
 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
 | Gemini Nano on device — Florina Muntenescu & Oli Gaymond, Google DeepMind | youtube | 0 | 2026-06-05 |
-| Give Your Agent a Computer — Nico Albanese, Vercel | youtube | 0 | 2026-06-05 |
 | Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs | youtube | 0 | 2026-06-05 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
 | Harnesses in AI: A Deep Dive — Tejas Kumar, IBM | youtube | 0 | 2026-06-05 |
@@ -2686,7 +2700,6 @@ Generated on 2026-06-05 | 2759 sources
 | How to Launch a Product Without a Following (What Actually Works) | youtube | 0 | 2026-04-23 |
 | How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs | youtube | 0 | 2026-06-05 |
 | How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show | youtube | 0 | 2026-04-23 |
-| How to talk to statues — Joe Reeve, ElevenLabs | youtube | 0 | 2026-06-05 |
 | ⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J | youtube | 0 | 2026-04-23 |
 | How Transformers Finally Ate Vision – Isaac Robinson, Roboflow | youtube | 0 | 2026-06-05 |
 | How We Built Zeta2: Training an Edit Prediction Model in Production — Ben Kunkle, Zed | youtube | 0 | 2026-06-05 |
@@ -2721,8 +2734,6 @@ Generated on 2026-06-05 | 2759 sources
 | Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw | youtube | 0 | 2026-06-05 |
 | Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum | youtube | 0 | 2026-06-05 |
 | Self-Training Agents: Hermes Agent, HF Traces, Skills, MCP & Finetuning  — Merve Noyan, Hugging Face | youtube | 0 | 2026-06-05 |
-| Skill Issue: How We Used AI to Make Agents Actually Good at Supabase — Pedro Rodrigues, Supabase | youtube | 0 | 2026-06-05 |
-| Skill issue: Lessons from skilling up coding agents to use Langfuse - Marc Klingen, Clickhouse | youtube | 0 | 2026-06-05 |
 | Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence | youtube | 0 | 2026-06-05 |
 | Stop babysitting your agents... — Brandon Waselnuk, Unblocked | youtube | 0 | 2026-06-05 |
 | SWE-rebench: Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius | youtube | 0 | 2026-06-05 |
@@ -2743,13 +2754,11 @@ Generated on 2026-06-05 | 2759 sources
 | The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked | youtube | 0 | 2026-06-05 |
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
 | Two Roads to Durable Agents: Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev | youtube | 0 | 2026-06-05 |
-| Vibe Engineering Effect Apps — Michael Arnaldi, Effectful | youtube | 0 | 2026-06-05 |
 | Viktor: AI Coworker That Lives in Slack — Fryderyk Wiatrowski | youtube | 0 | 2026-06-05 |
 | Voice AI: when is the "Her" moment? — Neil Zeghidour, CEO, Gradium AI | youtube | 0 | 2026-06-05 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Breaks When You Build AI Under Sovereignty Constraints - Bilge Yücel, deepset GmbH | youtube | 0 | 2026-06-05 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
-| What if the network was the sandbox? — Remy Guercio, Tailscale | youtube | 0 | 2026-06-05 |
 | What Lies Beneath the API — Benjamin Cowen, Modal | youtube | 0 | 2026-06-05 |
 | What the Best Agents Share — Mardu Swanepoel, Flinn AI | youtube | 0 | 2026-06-05 |
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
