@@ -81,8 +81,9 @@ related:
   - INS-260327-7D53
   - INS-260329-5F19
   - INS-260329-3383
-  - INS-260403-EA93
   - INS-260323-23B9
+  - INS-260403-EA93
+  - INS-260605-A0D2
 ---
 The panel framed enterprise AI data security as a locality hierarchy, from safest to riskiest:
 1. Model on your own physical infrastructure — the safest, because no data ever leaves your premises.

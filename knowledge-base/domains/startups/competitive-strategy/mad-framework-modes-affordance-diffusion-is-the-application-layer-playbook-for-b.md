@@ -64,7 +64,7 @@ related:
   - INS-260405-AACA
   - INS-260405-88A4
   - INS-260403-DDC9
-  - INS-260405-54A9
   - INS-260403-FFD2
+  - INS-260412-7197
 ---
 The standard advice for building on top of foundation models — anchor on capability, ship fast, hope for breakout — fails because capabilities change faster than products can be repositioned. Sequoia's MAD framework provides a more durable structure. Modes: build moats around customers (slower-changing) rather than around technology (faster-changing); the things you build might be irrelevant tomorrow but the customer relationships you wrap around won't be. Affordance: design products as 'objects with affordance' — a hammer requires no instructions because its use is self-evident; Cloud Code is powerful but lacks affordance for non-engineers, which is the opportunity for application-layer products. Diffusion: the gap between when foundation models gain a capability and when enterprises actually adopt it is widening, not shrinking, and that gap is the application-layer's structural advantage. The framework is internally consistent — customer-back moats, affordance design, and diffusion arbitrage all reinforce each other. Founders should explicitly test their strategy against MAD: which letter is your weakest, and what's the cheapest investment to strengthen it?

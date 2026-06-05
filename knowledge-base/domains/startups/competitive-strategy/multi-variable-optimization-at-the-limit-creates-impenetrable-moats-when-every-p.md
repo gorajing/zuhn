@@ -59,9 +59,9 @@ resolutions:
 related:
   - INS-260323-257D
   - PRI-260323-F193
+  - INS-260605-50F5
   - INS-260410-6A86
   - PRI-260406-9599
-  - PRI-260320-A2C7
   - INS-260412-FD9A
 stance: >-
   Jet engine turbine blades must simultaneously optimize for temperature

@@ -51,6 +51,7 @@ resolutions:
     requires comfort with not understanding every line — but produces output
     that one person could never achieve otherwise.
 related:
+  - INS-260605-2D70
   - INS-260605-A847
   - INS-260403-08D7
   - PRI-260328-A65A
@@ -60,7 +61,6 @@ related:
   - INS-260411-52C8
   - INS-260501-EC31
   - INS-260501-3F01
-  - INS-260605-AE0D
 stance: >-
   Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely
   uses an IDE, and explicitly doesn't read 'boring' code (data transfo...

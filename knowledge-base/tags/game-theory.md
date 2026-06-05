@@ -25,10 +25,10 @@
 - `INS-260412-4D8F` Army ants never fight other army ants — those that did probably eradicated themselves millions of years ago.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260404-6891` When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.
+- `INS-260323-D934` What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260323-D934` What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260327-23FA` During the Battle of Leipzig, Saxon and other German troops switched sides mid-battle to join the coalition, accelerating Napoleon's defeat.
 - `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
 - `INS-260330-97B3` Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.

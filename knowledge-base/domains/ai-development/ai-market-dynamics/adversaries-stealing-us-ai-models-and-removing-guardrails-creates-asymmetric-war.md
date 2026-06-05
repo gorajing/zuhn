@@ -53,6 +53,7 @@ related:
   - PRI-260328-37D8
   - INS-260412-BA6D
   - INS-260330-A2D4
+  - INS-260605-9402
 stance: >-
   China is stealing American AI models, removing all guardrails, and potentially
   deploying them against the US

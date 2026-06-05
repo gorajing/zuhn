@@ -60,9 +60,9 @@ related:
   - INS-260323-3920
   - INS-260329-A171
   - INS-260329-5D8A
+  - INS-260605-1C4E
   - INS-260329-FAE2
   - PRI-260407-5465
-  - INS-260405-06B0
   - INS-260410-9EEF
 ---
 The naive way to extend a character-level MLP from 3 to 8 characters of context is to concatenate all 8 embeddings and feed them into one wide hidden layer. Karpathy shows this 'squashes too much information too quickly' — the model collapses all positional structure into one matmul with no opportunity to build up intermediate representations. WaveNet's answer is progressive fusion: combine pairs of characters into bigram representations, then fuse pairs of bigrams into 4-grams, then 4-grams into 8-grams, in a tree-like hierarchy.

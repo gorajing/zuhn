@@ -58,6 +58,7 @@ related:
   - INS-260605-B60D
   - INS-260327-C962
   - INS-260322-474A
+  - INS-260605-1420
 ---
 Chen calls researcher UX 'severely underrated.' Benchmarks have core users — other researchers and builders — and the same classic product principle applies: make the thing easy to use. Concretely, it should be simple to run models and agents against the benchmark, simple to contribute and extend tasks, and simple to leverage the benchmark's signals for reinforcement learning or post-hoc tuning.
 

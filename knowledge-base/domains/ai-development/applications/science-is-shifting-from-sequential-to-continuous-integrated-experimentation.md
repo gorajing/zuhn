@@ -59,6 +59,7 @@ related:
   - INS-260505-A0F7
   - INS-260501-17BB
   - INS-260605-5CC7
+  - INS-260605-C1A4
 ---
 Gil's central thesis: traditional scientific workflows are sequential — collect data, analyze later, share results, iterate. Even in highly integrated environments, progress was constrained by handoffs between teams, systems, and data. The new model: AI models generate hypotheses, adapt experiments AS THEY RUN (refining what to measure, where to focus, what to skip), and refine themselves immediately from results. The cycle is no longer measured in weeks/months but in minutes/hours. Concrete examples at DOE facilities: AI interpreting data during instrument operation, allowing real-time adjustments. This is happening across multiple national lab facilities NOW.
 

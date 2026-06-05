@@ -48,7 +48,6 @@ stance: >-
   process eventually hits resource constraints that bend it into a logistic
   S-curve
 related:
-  - INS-260330-7FAC
   - INS-260330-F493
   - INS-260330-41A5
   - INS-260330-AA4F
@@ -58,6 +57,7 @@ related:
   - INS-260330-2EC0
   - INS-260330-8817
   - INS-260330-FB66
+  - INS-260402-4BC7
 evidence:
   - id: INS-260330-F493
     type: CHALLENGES

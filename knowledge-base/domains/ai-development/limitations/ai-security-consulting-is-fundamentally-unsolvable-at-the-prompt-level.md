@@ -49,7 +49,6 @@ stance: >-
   from leaking data under adversarial jailbreaks — the only viable defense is
   strict permission architecture, not behavioral guardrails.
 related:
-  - INS-260321-1A03
   - INS-260327-6F08
   - INS-260329-919F
   - INS-260330-4E68
@@ -59,5 +58,6 @@ related:
   - INS-260403-DF2E
   - INS-260403-D7EF
   - INS-260403-DDD5
+  - INS-260412-4233
 ---
 The core argument is that an entire industry of 'AI security consultants' has emerged selling solutions to a problem that cannot be solved at the layer they operate on. LLMs are susceptible to jailbreaks and prompt injection, and no amount of system-prompt guardrails or wrapper-layer filtering can guarantee the model won't leak sensitive data when an adversary applies the right technique — or sometimes just asks nicely. This problem may eventually be solved by frontier labs working on the model architecture itself, but it fundamentally cannot be solved by an external consultant adding a special prompt telling the LLM to be careful. The only currently viable approach for secure LLM deployment is architectural: be extremely restrictive about what permissions and data access the LLM has, and separate public-facing LLMs from those with access to sensitive systems. This is essentially the principle of least privilege applied to AI — behavioral controls are unreliable, so rely on structural controls instead.

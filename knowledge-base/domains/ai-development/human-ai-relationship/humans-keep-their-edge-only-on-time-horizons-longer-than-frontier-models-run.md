@@ -55,7 +55,7 @@ related:
   - INS-260413-A950
   - INS-260413-C040
   - INS-260403-841F
-  - INS-260412-EED1
+  - INS-260605-F8EF
 ---
 The published cycle counts tell a clear story: Opus 4.5 in a casual session matched the best 2-hour human performance; in a harness it dropped further; with 11.5 hours of compute it hit 1487 cycles, beating all prior human 2-hour attempts. The fastest ever human solution still wins—but only with unlimited time. Hume frames this explicitly: 'Human experts retain an advantage over current models at sufficiently long time horizons.'
 

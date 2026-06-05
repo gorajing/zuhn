@@ -51,10 +51,10 @@ stance: >-
   can reduce a problem's computational complexity class entirely.
 related:
   - INS-260330-D7CA
+  - INS-260605-04E7
   - INS-260323-2117
   - INS-260321-53E2
   - INS-260330-E059
-  - INS-260409-5C28
 ---
 When basis vectors are eigenvectors, the transformation matrix becomes diagonal — zeros everywhere except the diagonal. Computing the Nth power of a diagonal matrix means just raising each diagonal entry to the Nth power, turning an O(n³·log N) matrix exponentiation into O(n) scalar operations. The key insight is that the same transformation, viewed from different coordinate systems, can range from nightmarish to trivial.
 

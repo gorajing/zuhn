@@ -58,7 +58,6 @@ stance: >-
   Rejecting a strategic partnership over a lowball price is the most common and
   most expensive mistake incumbents make.
 related:
-  - INS-260409-F4AA
   - INS-260410-F96E
   - INS-260412-AB09
   - INS-260410-F0E4

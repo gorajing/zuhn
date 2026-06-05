@@ -1,8 +1,8 @@
 # Tag: information-asymmetry
 
 - `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
-- `INS-260404-C0E6` Startup pitches suffer from a double communication penalty where both sender and receiver deficiencies compound rather than cancel out.
 - `INS-260330-CAD2` Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
+- `INS-260404-C0E6` Startup pitches suffer from a double communication penalty where both sender and receiver deficiencies compound rather than cancel out.
 - `INS-260412-7728` When you don't know the rules of the game, watch silently before announcing yourself.
 - `INS-260412-1F4E` We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
 - `INS-260412-1255` The gap between technological advancement speed and public comprehension speed creates a persistent window of fraud vulnerability.

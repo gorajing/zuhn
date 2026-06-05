@@ -50,11 +50,11 @@ stance: >-
   — a single-point-of-change pattern that becomes exponentially more valuable as
   programs grow
 related:
+  - INS-260605-89B0
   - INS-260403-2174
   - INS-260424-FE8E
   - INS-260412-F5CF
   - INS-260403-0902
-  - INS-260405-C1E4
   - INS-260409-7162
 evidence:
   - id: INS-260329-7B1D

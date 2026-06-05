@@ -49,7 +49,7 @@ related:
   - PRI-260406-CF83
   - INS-260330-7A80
   - PRI-260406-1EF3
-  - PRI-260328-A65A
+  - INS-260605-0C5C
 ---
 The Arize team tried the two obvious compression strategies first and both failed. Naive truncation — keep the first 100 characters, drop the rest — 'worked until it didn't': simple single-shot tasks survived, but follow-up questions looked like brand-new conversations because the agent had forgotten everything. Over-truncation broke the reasoning chain.
 

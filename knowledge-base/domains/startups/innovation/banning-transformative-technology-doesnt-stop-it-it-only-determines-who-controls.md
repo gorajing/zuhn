@@ -47,9 +47,9 @@ stance: >-
   jurisdictions, resulting in less oversight rather than less progress.
 related:
   - PRI-260328-0123
+  - INS-260605-9402
   - INS-260323-8CA9
   - INS-260328-92BC
   - PRI-260323-A05E
-  - INS-260323-D4B1
 ---
 The video argues that banning human genetic engineering would cause the science to migrate to jurisdictions with rules 'that we are uncomfortable with' — and only by participating can we ensure research is guided by caution, reason, and transparency. This is a general principle applicable to any transformative technology: AI development, cryptocurrency, synthetic biology, nuclear research. The pattern is jurisdiction arbitrage — when regulatory burden exceeds a threshold, development moves rather than stops. This creates a paradox where the most safety-conscious actors self-select out of the field. For founders and investors, this means regulatory moats in transformative tech are temporary, and the winning strategy is usually engagement with reasonable oversight rather than either prohibition or unconstrained development.

@@ -56,8 +56,8 @@ related:
   - INS-260410-E233
   - INS-260501-AE73
   - INS-260530-C385
+  - INS-260605-09E0
   - INS-260514-AC43
-  - INS-260605-A3F4
   - INS-260605-E2D9
 ---
 incident.io's runbook for prompt changes mirrors test-driven development. The coding agent creates an eval case that proves the current behavior is broken, modifies the prompt until that eval passes (verified across multiple repeats to handle stochasticity), then runs the most important stage: checking the change hasn't broken any other evals in the suite. This is how they prove a prompt does what they want before merging.

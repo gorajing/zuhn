@@ -47,7 +47,6 @@ stance: >-
   technological power, meaning the most dangerous period for any civilization is
   the window between planetary dominance and interplanetary redundancy
 related:
-  - INS-260410-1BB0
   - INS-260412-F465
   - INS-260323-BC61
   - INS-260412-A944

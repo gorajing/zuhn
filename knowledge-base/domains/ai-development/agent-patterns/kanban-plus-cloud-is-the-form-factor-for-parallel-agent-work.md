@@ -60,6 +60,7 @@ related:
   - INS-260326-2410
   - INS-260605-0C56
   - INS-260605-B4B9
+  - INS-260605-2D70
 ---
 When a single agent runs 8–10 minutes per task, you're inference-bound — the rational response is to run two or three agents concurrently rather than doomscroll. But parallel agents mutate shared source, so you need state isolation. Khan's claim is that a Kanban board is the best UX for this: it isolates per-task state, gives a headline-level view of every running agent, and lets you compose flows between them. You become an engineering manager and the agents are your ICs.
 

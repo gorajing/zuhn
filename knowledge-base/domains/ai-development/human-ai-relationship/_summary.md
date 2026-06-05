@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 96 insights
+> 98 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -17,6 +17,7 @@
 - `INS-260322-13D6` [high] AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260403-BA48` [high] AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
 - `INS-260322-5A0F` [high] Students using AI to complete writing homework are skipping cognitive exercise, producing adults who cannot think logically or resist manipulation.
+- `INS-260605-F8EF` [high] Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT.
 - `INS-260424-BFDC` [high] Logan Kilpatrick: instead of asking for one thing, you can now ask for 30 things — but the weight is on me, the onus is on me to be like I really could build this.
 - `INS-260403-5F41` [high] Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260403-F400` [high] Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
@@ -80,6 +81,7 @@
 - `INS-260505-0C7B` [medium] Students with AI assistants are working on bigger questions and learning faster — the empowerment effect outweighs replacement anxiety in physics labs.
 - `INS-260413-9818` [medium] AI Index 2026 flags emerging evidence that heavy AI reliance may carry long-term learning penalties that slow skill development over time — the productivity-for-learning trade-off becomes structural.
 - `INS-260403-B280` [medium] The deeper significance of AI isn't economic disruption but humanity losing its position as the most intelligent entity on Earth for the first time in history.
+- `INS-260605-A9B4` [medium] A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
 - `INS-260325-19E9` [medium] Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260329-C555` [medium] 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260403-EF2C` [medium] LLMs trained on broad data act as epistemically converging technology, pushing users toward moderate consensus the way network TV once did.

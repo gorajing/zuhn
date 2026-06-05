@@ -68,6 +68,7 @@ related:
   - INS-260327-194D
   - PRI-260328-8F94
   - PRI-260322-8FD4
+  - INS-260605-3B06
 ---
 Foroughi's structural choice: AppLovin has no product organization. Engineers are imaginative, audit AI-generated code, and align directly to KPIs — model accuracy and revenue growth. The reason this works: when the engineering layer can both ship and measure, the PM-as-translator role becomes redundant. PMs exist to translate user needs into specs because traditional engineers couldn't do that translation. AI-native engineers can.
 

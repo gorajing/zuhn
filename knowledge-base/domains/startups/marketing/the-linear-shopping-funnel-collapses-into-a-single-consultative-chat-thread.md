@@ -72,6 +72,7 @@ related:
   - PRI-260405-EBC6
   - INS-260524-8320
   - INS-260605-A3F4
+  - INS-260605-8691
 ---
 The traditional purchase funnel was a multi-step linear process the buyer walked through: a Google search created awareness, opening many tabs and reading reviews built consideration, a comparison spreadsheet drove evaluation, and finally purchase. Each stage was a touchpoint where a brand could intervene — SEO, content, reviews, retargeting.
 

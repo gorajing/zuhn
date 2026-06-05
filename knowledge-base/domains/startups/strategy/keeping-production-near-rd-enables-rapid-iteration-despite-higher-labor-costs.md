@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260402-92AE
   - PRI-260406-9FA8
+  - INS-260605-50F5
   - INS-260410-9CF4
   - INS-260329-5B50
-  - PRI-260328-935A
 ---
 Tesla and SpaceX keep production in the US despite it being one of the most expensive labor markets, because their manufacturing processes are constantly being tweaked. Tesla's factory is miles from Palo Alto HQ; SpaceX puts offices and manufacturing under one roof. This only makes economic sense when the production process itself is a competitive advantage being actively developed—not when manufacturing is commoditized. The insight is about matching your supply chain strategy to your maturity stage: early-stage processes with high change velocity benefit from co-location, while stable, optimized processes benefit from cost arbitrage through offshoring. This also implies that heavily automated production lines (where the US has skilled-worker advantages) change the labor cost calculus entirely.

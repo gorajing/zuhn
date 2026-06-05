@@ -41,7 +41,6 @@ stance: >-
   The static keyword is the clearest teaching moment for understanding that
   classes are themselves entities with state, not just templates for objects
 related:
-  - PRI-260320-467A
   - INS-260330-CE2F
   - INS-260329-4D03
   - INS-260329-C33B

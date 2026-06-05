@@ -47,7 +47,7 @@ stance: >-
   fixed-iteration loops because they avoid both premature stopping and wasteful
   extra cycles.
 related:
-  - INS-260409-E080
+  - INS-260605-09E0
   - PRI-260411-14DC
   - INS-260322-24FB
   - INS-260501-646A

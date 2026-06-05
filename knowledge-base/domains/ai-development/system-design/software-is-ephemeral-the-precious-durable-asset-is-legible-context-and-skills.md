@@ -48,7 +48,6 @@ stance: >-
   skills are the durable asset to store preciously and never delete.
 related:
   - INS-260320-C8CC
-  - INS-260322-24FB
   - INS-260402-F62B
   - INS-260405-4B12
   - INS-260323-47D8
@@ -57,5 +56,6 @@ related:
   - INS-260403-BFF3
   - INS-260403-93FA
   - INS-260409-5CF4
+  - INS-260501-F0E5
 ---
 The speaker says internal dashboards and most simple internal software can now be one-shotted to high quality (Codex), so treat that software as entirely disposable: store the data preciously (Gary Tan puts all emails in markdown and never throws anything away) and regenerate the software from your original instructions whenever models improve. 'The business context and skills are the valuable part; the software on top is ephemeral.' This is Zuhn's exact architecture boundary (replaceable TS plumbing vs. markdown source-of-truth) and the Software 3.0 principle, and its strategic corollary: if the brain/software is cheap, the durable moat shifts to proprietary context and distribution.

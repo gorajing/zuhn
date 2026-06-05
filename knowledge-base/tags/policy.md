@@ -16,13 +16,13 @@
 - `INS-260412-9958` Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260403-160A` Anti-wealth-creation policies don't eliminate startups — they just push founders to other countries, trading economic dynamism for a lower Gini coefficient.
-- `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
+- `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260402-9F35` Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
-- `INS-260404-CB21` The Trump Accounts initiative succeeded politically because Brad Gerstner's personal story about his son's question gave an abstract policy idea emotional traction.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260403-0611` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260323-8B90` Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
+- `INS-260404-CB21` The Trump Accounts initiative succeeded politically because Brad Gerstner's personal story about his son's question gave an abstract policy idea emotional traction.
 - `INS-260411-FC21` Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
 - `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment
 - `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.

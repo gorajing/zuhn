@@ -11,5 +11,5 @@
 - `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260403-8EFF` Startups represent a historic shift where deep intellectual curiosity increasingly leads to wealth, not just academic prestige.
 - `INS-260403-7C71` Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.
-- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
 - `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.
+- `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.

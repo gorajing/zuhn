@@ -57,6 +57,7 @@ related:
   - INS-260524-78D0
   - INS-260410-939B
   - INS-260327-79E8
+  - INS-260605-564D
 ---
 Slow generation trained developers into an asynchronous habit: spawn a session, go get a hamburger, scroll Twitter, come back to a wall of code they've never read. Chieng argues fast inference should instead enable real-time collaboration where the developer stays in the front seat making decisions and the AI helps make them — not the reverse. This is presented as the only reliable way to avoid bad code, because the human remains continuously in the loop rather than reviewing a fait accompli.
 

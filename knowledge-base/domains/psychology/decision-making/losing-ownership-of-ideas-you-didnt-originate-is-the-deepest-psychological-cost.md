@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260514-F5D2
   - INS-260330-70BF
+  - INS-260605-EF3C
   - INS-260423-00AC
   - INS-260327-46F6
-  - INS-260327-A814
 ---
 Müller's candid observation: 'When you send the prompt, you feel like the owner of the entire thing. But when the agent sends the initial prompt, you feel less like the owner. You feel more like an employee.' The same idea — even identical idea — feels different depending on who originated it. He stopped caring about details he previously identified strongly with (website animations, specific features). The agent essentially must convince the human that suggested actions matter to the human's underlying goals, otherwise the human ignores them like a group chat with too many messages. Müller is actively experimenting with framings ('should we build this' vs 'should I build this') to restore felt ownership.
 

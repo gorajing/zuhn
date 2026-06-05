@@ -47,14 +47,12 @@ stance: >-
   Authenticating agents at the network layer instead of inside the sandbox
   eliminates the credential-exfiltration attack surface entirely.
 related:
-  - INS-260409-F0F5
   - INS-260410-382D
-  - INS-260410-992A
   - INS-260605-41AE
   - INS-260605-3AB7
   - INS-260605-A2B7
+  - INS-260605-2E60
   - INS-260321-D01E
-  - INS-260501-2A52
   - INS-260605-B794
   - INS-260605-8C71
 ---

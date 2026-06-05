@@ -59,7 +59,6 @@ stance: >-
   inference-bottlenecked because the number of H100-equivalents caps how many
   parallel AGI instances can actually run.
 related:
-  - INS-260325-F981
   - INS-260330-0A8D
   - INS-260330-7E4F
   - INS-260423-85B3

@@ -72,7 +72,7 @@ related:
   - INS-260405-0CE7
   - INS-260403-7EB2
   - INS-260403-E09E
-  - INS-260410-F40F
+  - INS-260410-F5EC
 ---
 Pre-AI PM work centers on user behavior and feature design: study clickstream, identify drop-offs, propose flow changes, A/B test. AI PM work centers on system behavior: study traces (per-query input/output logs), identify accuracy/quality failures, propose eval improvements, A/B test prompt or model changes.
 

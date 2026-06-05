@@ -1,5 +1,6 @@
 # Tag: refactoring
 
+- `INS-260605-CE25` Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
 - `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260605-9467` When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.
 - `INS-260329-6D6C` When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.

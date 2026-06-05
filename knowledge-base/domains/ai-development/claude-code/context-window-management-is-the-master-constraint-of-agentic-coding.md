@@ -47,11 +47,12 @@ stance: >-
 related:
   - INS-260327-E016
   - INS-260409-384A
+  - INS-260605-7B4C
   - INS-260421-3E99
   - INS-260329-9115
-  - INS-260605-03A6
   - INS-260501-4646
   - INS-260605-9925
+  - INS-260605-03A6
 ---
 A single debugging session or codebase exploration can consume tens of thousands of tokens, and as the window fills Claude starts forgetting earlier instructions and making more mistakes. Every other best practice in the guide — using subagents for investigation, /clear between tasks, pruning CLAUDE.md, scoping prompts narrowly, compacting with instructions — is ultimately a context management technique.
 

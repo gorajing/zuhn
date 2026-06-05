@@ -5,8 +5,8 @@
 - `INS-260403-B255` Moderna's CEO says the company won't invest in new late-stage vaccine trials because anti-vaccine US officials have made the market too small for ROI.
 - `INS-260409-BBBA` 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
 - `INS-260405-0AE7` IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
-- `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
 - `INS-260323-3657` CRISPR-Cas9 uses RNA-guided proteins to make targeted DNA edits cheaply and quickly, unlike earlier one-off gene-editing tools.
+- `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260323-D631` We can now precisely edit DNA like a text editor, but we still lack the postal system to deliver those edits to specific cell types inside the body.

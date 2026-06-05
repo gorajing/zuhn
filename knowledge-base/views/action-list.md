@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5357 actionable insights
+Generated on 2026-06-05 | 5400 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -32,6 +32,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-828D] FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
 - [INS-260605-8A88] Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
 - [INS-260605-82BD] Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
+- [INS-260605-7747] Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -188,6 +189,26 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-21A5] Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
 - [INS-260605-AE0D] Sort parallel agent sessions into lanes by required oversight — fire-and-forget test refactors at one end, conversational P0 feature work at the other.
 - [INS-260605-9E46] Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
+- [INS-260605-F5F7] The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
+- [INS-260605-CE25] Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
+- [INS-260605-9719] User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
+- [INS-260605-A705] Always commit before an agent starts changing code, because it may not remember what the code looked like before.
+- [INS-260605-077D] A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
+- [INS-260605-C513] You can define 80% of agent behavior statically and intentfully, but the ever-changing 20% is where the disasters live — so point your adaptive evals there.
+- [INS-260605-EF23] Make the eval the end-state you want to reach, not the starting dataset of correct answers.
+- [INS-260605-B182] Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
+- [INS-260605-3119] Putting a 'robe and cloak' on an LLM doesn't make it trustworthy — eval the judge itself against human-labeled ground truth.
+- [INS-260605-773B] Build evals high-level around specific failure modes a subject-matter expert identifies, not exhaustively like unit tests.
+- [INS-260605-2186] Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
+- [INS-260605-20CB] Offload nitpicky style/naming/convention review to agents and reserve human review for big-picture system design.
+- [INS-260605-34B0] Separate implementation and validation into different agents with different context, and validate behavior by actually running the app, not just linting and tests.
+- [INS-260605-1A91] Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
+- [INS-260605-7FEA] Match models to roles—careful reasoning for planning, fast fluency for implementation, precise instruction-following for validation—and avoid locking into one provider.
+- [INS-260605-2D70] Default to one worker/validator at a time and parallelize only read-only work like code search, API research, and code review.
+- [INS-260605-159E] Feed production traces back into an agent that detects 'something has changed' and updates the test suite — always-on, not a one-time offline pass.
+- [INS-260605-09E0] Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
+- [INS-260605-B44B] Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
+- [INS-260605-D777] Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -220,6 +241,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-E642] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - [INS-260605-1A2D] Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - [INS-260605-C2A3] An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
+- [INS-260605-80DC] Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -396,6 +418,8 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-4860] MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
 - [INS-260605-B176] The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - [INS-260605-F064] Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
+- [INS-260605-59AE] Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
+- [INS-260605-DC65] Coupling tightly to one provider's API is dangerous; true model sovereignty means you can change models in a day without touching the codebase.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -583,6 +607,8 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-9688] Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
 - [INS-260605-5D5E] An agent that starts waffling, contradicting itself, or 'bullshitting' in its reasoning is signaling failure before its diff does — kill or park the session.
 - [INS-260605-5CC7] When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
+- [INS-260605-F8EF] Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT.
+- [INS-260605-A9B4] A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -597,6 +623,8 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-DF82] For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
 - [INS-260605-4AF8] Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
 - [INS-260605-434D] Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
+- [INS-260605-2E60] Mount credentials as secret-refs (Podman/Kubernetes secret pointing to an agent-level secret-ref) so keys never appear as raw env vars in logs or config.
+- [INS-260605-74CC] Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -610,6 +638,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260410-B224] Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
 - [INS-260411-59F7] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - [INS-260411-33E5] AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
+- [INS-260605-3AFB] AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -757,6 +786,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260530-7FE2] Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
 - [INS-260605-4FE3] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - [INS-260605-C122] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
+- [INS-260605-8691] Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -768,6 +798,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260530-E697] Abhije: 'I have given it my best work samples — here are some of the best memos that I wrote, pick up my learning style.' The agent is now invoked as a skill that produces first-draft PRDs in the author's voice, removing the cold-start friction.
 - [INS-260605-6C0C] Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
 - [INS-260605-3899] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
+- [INS-260605-89B0] AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -787,6 +818,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-D659] Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
 - [INS-260605-5B0A] Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it.
 - [INS-260605-F512] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
+- [INS-260605-9402] Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -931,6 +963,11 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-C33F] Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - [INS-260605-8B25] Unlike traditional observability — owned by systems engineers — agent observability works best when clinicians, lawyers, or wealth advisors read traces directly, because they're closest to the user and the problem.
 - [INS-260605-E06C] Knowledge entries go stale on every model release and feature change, and stale context actively hampers the agent — so continuous deletion is as important as collection.
+- [INS-260605-04E7] Don't use the 'power of the gods' just because you have it — models tend toward complexity, so the simplest working version usually wins by 10-100x.
+- [INS-260605-7B4C] Treat the context window as a budget to minimize, not a resource to fill, because abundance kills the scrappiness that produces good engineering.
+- [INS-260605-BBCF] Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
+- [INS-260605-9F16] 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
+- [INS-260605-3B8B] Write a behavioral test when a feature request arrives, not when you add a method to a class.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -960,6 +997,10 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260605-93B8] The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
 - [INS-260605-E16A] Because SSE is strictly one-way, a client closing the connection is ambiguous — buffer-to-resume or cancel-the-LLM — so you cannot support both resume and a stop button.
 - [INS-260605-204E] Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
+- [INS-260605-C1A4] Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
+- [INS-260605-EA2E] Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
+- [INS-260605-0C24] Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
+- [INS-260605-EF9D] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -4778,6 +4819,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260410-DB84] Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - [INS-260412-7CED] Nokia's split into competing Symbian and MeeGo teams created such internal squabbling that basic decisions with external partners took a year — fatal in a fast-moving tech market.
 - [INS-260605-C632] Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
+- [INS-260605-3B06] Sprint planning, standups, refinement, and retros are coordination tax that agentic workflows make redundant — cut them.
 
 ## startups/pitch-decks
 - [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.
@@ -5000,6 +5042,7 @@ Generated on 2026-06-05 | 5357 actionable insights
 - [INS-260412-A2FE] Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
 - [INS-260423-2C05] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
 - [INS-260519-02A9] Elena Verna (Lovable): a clickable app with a real back-end the prospect can act in beats a white-paper-behind-a-form.
+- [INS-260605-3D21] When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

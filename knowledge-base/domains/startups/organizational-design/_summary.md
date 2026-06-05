@@ -1,6 +1,6 @@
 # Topic: organizational-design
 
-> 27 insights
+> 28 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260605-C632` [high] Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
@@ -30,3 +30,4 @@
 - `INS-260423-EFC0` [medium] Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260410-1384` [medium] Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.
 - `INS-260605-B7A2` [medium] Rather than reform a slow institution wholesale, create a small central unit operating under different rules (autonomy, market pay, own hiring) as a proof point.
+- `INS-260605-3B06` [medium] Sprint planning, standups, refinement, and retros are coordination tax that agentic workflows make redundant — cut them.

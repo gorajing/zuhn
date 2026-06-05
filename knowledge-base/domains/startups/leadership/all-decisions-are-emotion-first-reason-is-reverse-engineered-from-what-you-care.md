@@ -54,6 +54,7 @@ related:
   - PRI-260406-CF83
   - INS-260404-2F16
   - PRI-260406-5ECB
+  - INS-260605-B44B
 stance: >-
   People decide based on what they care about first, then construct rational
   justifications — which makes reason itself an emotion-based process.

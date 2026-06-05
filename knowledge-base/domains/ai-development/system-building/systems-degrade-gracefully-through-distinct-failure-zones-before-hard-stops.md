@@ -48,11 +48,11 @@ related:
   - PRI-260406-6C2C
   - PRI-260407-68B9
   - INS-260605-726C
-  - INS-260329-4D24
   - INS-260330-D7CC
   - INS-260330-A3B7
   - INS-260330-5A13
   - INS-260412-B7D5
+  - INS-260412-6F0E
 stance: Minecraft shows five distinct degradation zones before total failure
 evidence:
   - id: INS-260330-D7CC

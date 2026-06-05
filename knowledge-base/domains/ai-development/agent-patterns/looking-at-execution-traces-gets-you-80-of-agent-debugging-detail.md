@@ -55,8 +55,8 @@ related:
   - INS-260605-310E
   - INS-260605-6444
   - INS-260605-365A
+  - INS-260605-09E0
   - INS-260605-7843
-  - INS-260605-E2D9
 ---
 Klingen's most emphasized lesson: teams rush to build sophisticated evals before they have ever sat and read through what the agent actually did at runtime a few times. The Langfuse team instrumented Claude Code itself, used their own skill interactively, and read the traces to see where the agent wandered versus going straight at the goal. That direct inspection — not metrics — surfaced the concrete fixes.
 

@@ -47,9 +47,9 @@ stance: >-
   starting from the corpus of human play.
 related:
   - INS-260410-67D5
+  - INS-260605-D1F1
+  - INS-260605-9F16
   - INS-260327-CA82
   - INS-260412-88B6
-  - INS-260412-C921
-  - PRI-260407-ED1C
 ---
 Where AlphaGo started by learning from human games on the internet, AlphaZero deliberately removed all human-crafted knowledge — both the data and the heuristics. It plays 100,000 random games against itself, trains a slightly better version, plays that one against itself, and so on. Hassabis watched it happen live in chess: 'morning random, by lunchtime I could just about compete with it, by tea time it's better than all grand masters, by dinner time it's better than the world champion.' Crucially, AlphaZero discovers chess openings that traditional engines like Stockfish never found, suggesting that human knowledge can be a ceiling rather than a floor in learned systems.

@@ -48,10 +48,10 @@ stance: >-
   user failures rather than waiting until they have a 'complete' test suite.
 related:
   - INS-260605-E2D9
+  - INS-260605-773B
   - INS-260605-365A
   - INS-260605-7843
   - INS-260322-D1AB
-  - INS-260605-D912
   - INS-260605-FCDA
   - INS-260605-780C
 ---

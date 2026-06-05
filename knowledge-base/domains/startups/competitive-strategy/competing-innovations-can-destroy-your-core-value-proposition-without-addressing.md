@@ -52,6 +52,7 @@ related:
   - INS-260412-2117
   - INS-260412-339A
   - INS-260412-F8AE
+  - INS-260605-311E
 ---
 The Concorde's value proposition was saving time for business travelers crossing the Atlantic. But British Airways introduced fully-flat business class beds in 2000, allowing passengers to sleep through overnight flights and arrive rested — effectively 'wasting no time' at a fraction of the Concorde's $7,500 one-way fare. The lethal competitor wasn't a faster supersonic jet; it was a horizontal seat on a subsonic one.
 

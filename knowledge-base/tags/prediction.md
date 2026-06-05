@@ -3,8 +3,8 @@
 - `INS-260605-9581` When cloning a voice takes seconds, deliberately curated brand voices become as standard as brand color palettes and logos.
 - `INS-260409-5FF6` Hassabis sees a very good chance of AGI within 5 years, consistent with Shane Legg's 2010 extrapolation predicting ~20 years.
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
-- `INS-260330-887A` Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis.
 - `INS-260412-3F34` Independent convergence on the same prediction (Tesla, Watkins, Bush all foresaw instant global communication) is stronger evidence of inevitability than any single prediction's accuracy.
+- `INS-260330-887A` Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis.
 - `INS-260412-30EE` Asimov correctly predicted home computers connected to libraries acting as personalized teachers, but wrongly predicted this would make traditional schooling obsolete—the technology existed, the behavioral shift didn't.
 - `INS-260330-7ABB` Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
 - `INS-260403-D6FE` Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.

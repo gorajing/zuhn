@@ -62,8 +62,8 @@ related:
   - INS-260410-1197
   - INS-260403-10CE
   - INS-260603-1389
+  - INS-260605-B182
   - INS-260603-B263
-  - PRI-260406-08E9
 ---
 Hassabis identifies the precise capability gap that separates current agents (helpful for fragments of tasks, requiring constant supervision) from agents that could be 'fire-and-forget' (set them off, they figure it out): continual learning. Today's agents don't adapt well to the specific context you're putting them in — they have no mechanism to update their working knowledge based on what they observe during a task.
 

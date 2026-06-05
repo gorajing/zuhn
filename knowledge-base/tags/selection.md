@@ -12,7 +12,7 @@
 - `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260410-9AD9` Greg Abel in the 2025 Berkshire letter: 'Berkshire must have leaders that reflect its principles, and not principles that fit individuals.' The ordering matters — values come first, leadership selection comes second.
 - `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
-- `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 - `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
+- `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 - `INS-260410-0B28` At growth stage, everyone can see which companies are good — the scarce resource is being allowed to invest in them.
 

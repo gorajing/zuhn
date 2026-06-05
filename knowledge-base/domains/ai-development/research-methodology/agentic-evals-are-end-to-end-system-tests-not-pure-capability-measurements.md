@@ -49,7 +49,6 @@ stance: >-
   Agentic benchmarks conflate model capability with infrastructure behavior by
   construction, so any component of the runtime can act as a confounder.
 related:
-  - INS-260327-E07C
   - INS-260605-B60D
   - INS-260327-33FA
   - INS-260605-E516

@@ -51,7 +51,6 @@ stance: >-
   tolerance for noise.
 related:
   - INS-260321-B014
-  - INS-260330-798D
   - INS-260405-00DE
   - INS-260403-708E
   - INS-260409-E080

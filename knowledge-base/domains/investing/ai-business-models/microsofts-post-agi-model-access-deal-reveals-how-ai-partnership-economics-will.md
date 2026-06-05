@@ -60,7 +60,7 @@ related:
   - PRI-260328-37D8
   - INS-260412-03B4
   - INS-260403-839E
-  - INS-260322-0E41
+  - INS-260605-DC65
 ---
 The restructured Microsoft-OpenAI deal is a landmark signal about what matters in AI partnerships. Microsoft traded hard governance powers (veto rights, first refusal) for something it apparently values more: predictable, long-duration access to frontier and post-AGI models, plus freedom to pursue AGI independently with third parties. An independent expert panel will determine when AGI is achieved—a novel governance mechanism.
 

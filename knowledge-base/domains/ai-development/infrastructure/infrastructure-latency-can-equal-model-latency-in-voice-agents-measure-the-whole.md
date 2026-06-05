@@ -56,6 +56,7 @@ related:
   - INS-260605-F383
   - INS-260605-DA2B
   - PRI-260328-4CC0
+  - INS-260605-F8EF
   - INS-260605-0BD6
 ---
 There is a gap between the 'time to first audio' a model vendor quotes and what the client actually perceives. Marafioti notes that on top of raw model time sits all the infrastructure time — networking, load balancing, serving hops — and once the model is genuinely fast (sub-200ms), that infrastructure overhead is roughly equal to the model's own time.

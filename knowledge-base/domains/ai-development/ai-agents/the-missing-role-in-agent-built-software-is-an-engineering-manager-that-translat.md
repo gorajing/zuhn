@@ -40,7 +40,6 @@ stance: >-
   turning product intent into terms the agent can execute; supplying that
   engineering-manager judgment is the scarce skill, not the agent.
 related:
-  - INS-260321-4178
   - INS-260323-FCC1
   - INS-260321-C14C
   - INS-260327-005D
@@ -50,5 +49,6 @@ related:
   - INS-260410-9F17
   - INS-260514-DFAE
   - INS-260514-1659
+  - INS-260514-41C9
 ---
 He found that a fully capable coding agent still needs a human acting as engineering manager to translate product decisions into agent-executable direction, and that getting that translation slightly wrong early derails the whole build. Reinforces the KB pattern (Jongmin, Woosang) that the human's leverage is in framing/decomposition and context, not in the code the agent writes.

@@ -46,7 +46,6 @@ stance: >-
   because success depends on idiosyncratic timing and luck while failure
   clusters around repeatable mistakes
 related:
-  - INS-260321-C14C
   - INS-260327-8D82
   - INS-260329-ACE6
   - INS-260329-EF89
@@ -54,5 +53,7 @@ related:
   - INS-260404-9A25
   - PRI-260328-0AB1
   - INS-260327-9F46
+  - INS-260321-C14C
+  - INS-260605-773B
 ---
 Research analyzing 150+ startup postmortems found the same five failure causes recurring: poor market timing, wrong team composition, weak marketing strategy, misaligned founder dynamics, and preventable overspend. These patterns are consistent across industries and eras. Success stories, by contrast, are heavily context-dependent — the timing, network effects, and market conditions that enabled one company's breakout rarely transfer to another founder's situation. This asymmetry means founders who study failure develop better pattern-recognition instincts than those who study success, because failure signals are both more reliable and more actionable. The practical implication is to allocate more learning time to postmortems and failure analyses than to success profiles.

@@ -44,7 +44,6 @@ stance: >-
   Skills should route to reference files loaded only when needed rather than
   inlining all context, keeping the context window lean.
 related:
-  - INS-260409-51B2
   - INS-260605-90E5
   - INS-260605-C86D
   - INS-260605-9276

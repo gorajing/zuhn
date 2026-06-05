@@ -53,5 +53,6 @@ related:
   - INS-260605-C86D
   - INS-260403-9774
   - INS-260605-F512
+  - INS-260605-CFB7
 ---
 The single most important part of a skill is its description, because that is what the model reads to decide whether the skill is relevant to the current task. When multiple overlapping skills exist (several image-gen skills, competing UX skills across a 60-engineer org), the description is where you disambiguate: 'on my personal blog I ship pixel art, so use this skill on that domain; at work we only fetch from S3, so use that one there.' For public/shared skills WorkOS deliberately stuffs descriptions with all the acronyms and terms they expect to trigger a load. A practical verification hack: ask the model directly 'when would you load this skill given this description?' as a test run, since the models are now capable enough to critique their own routing. This reframes skill authoring as writing for an automated dispatcher, not a teammate.

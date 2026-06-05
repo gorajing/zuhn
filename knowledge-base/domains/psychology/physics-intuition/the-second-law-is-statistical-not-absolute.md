@@ -45,10 +45,10 @@ stance: >-
   just astronomically unlikely at macroscopic scales
 related:
   - INS-260323-8897
+  - INS-260605-89B0
   - INS-260323-6C6F
   - PRI-260405-9504
   - INS-260323-0780
-  - INS-260330-1C84
 evidence:
   - id: INS-260323-2651
     type: EXTENDS

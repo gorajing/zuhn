@@ -50,7 +50,6 @@ stance: >-
   are becoming more important fundraising signals than founder pedigree, ARR, or
   warm introductions.
 related:
-  - INS-260403-7EB2
   - INS-260403-8F6E
   - INS-260327-735A
   - PRI-260406-FCF0

@@ -42,9 +42,9 @@ stance: >-
   in a single day that previously required a human team.
 related:
   - INS-260514-96FE
+  - INS-260605-7747
   - INS-260403-E63A
   - INS-260410-55B5
   - INS-260403-7825
-  - INS-260405-FE86
 ---
 At a hackathon, Sung's team composed specialist agents — genomics, doctor, pharmacologist, transcriptomics — into a pipeline that assessed genetic risk, routed to next steps, and measured transcription/metabolism, completing successfully within a single day. He describes being surprised by how powerful the orchestration was. Supports the KB's agent-owned-workflow direction applied to science: the unit of work becomes a coordinated team of role-specialized agents, with the human setting the goal.

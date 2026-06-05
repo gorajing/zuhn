@@ -57,7 +57,6 @@ stance: >-
   with the team without proportional management overhead.
 related:
   - INS-260327-04D8
-  - INS-260327-9192
   - INS-260525-4D80
   - INS-260530-E697
   - INS-260514-DFAE

@@ -14,6 +14,6 @@
 - `INS-260328-3446` We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
 - `INS-260325-FC0B` About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260325-51E6` When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
-- `INS-260405-C5E5` VCs are doubling down on fintech after years of caution, signaling a sector recovery worth timing for founders and investors alike.
 - `INS-260324-224B` Axon was a struggling single-product startup for a decade — then police accountability protests created massive bodycam demand, and the company snowballed tailwinds into a market-defining position.
+- `INS-260405-C5E5` VCs are doubling down on fintech after years of caution, signaling a sector recovery worth timing for founders and investors alike.
 - `INS-260405-7F42` Whether to back the jockey or the horse depends primarily on stage — founders matter most early, market matters most later.

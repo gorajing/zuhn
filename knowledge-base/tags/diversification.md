@@ -8,8 +8,8 @@
 - `INS-260403-1358` Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - `INS-260412-7E99` Tata doesn't just operate in many industries — they rank top 5-10 globally in multiple verticals simultaneously.
 - `INS-260412-084F` SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.
-- `INS-260412-1711` Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
+- `INS-260412-1711` Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260514-80C4` Barabási's artist research: those who exhibited in many diverse places (Italy, Switzerland, local) succeeded more than those who only exhibited in elite venues — diversification of attempts beats elite venue concentration.
 - `INS-260330-9E26` Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260403-52DB` Managing multiple business models across lifecycle stages — not optimizing a single one — is how companies survive disruption.

@@ -52,5 +52,6 @@ related:
   - PRI-260328-0C51
   - PRI-260406-9DD4
   - PRI-260323-00C6
+  - INS-260605-311E
 ---
 Sacks cites McKinsey research showing ~95% of enterprise AI pilots are unsuccessful, and explains why PE firms (Josh Kushner, GC's healthcare and accounting rollups, Chamath's 8090) are building 'AI change management' as a business model. The thesis: the value is latent and enormous, but capturing it requires owning the business, owning the process, and doing the change management — not just selling a model via API. For operators this is actionable: the bottleneck is NOT capability, it's organizational adoption, so the highest-ROI interventions are workflow redesign, operator training, and success-pattern documentation, not better models. For investors it explains why PE rollup-plus-AI is the business model du jour.

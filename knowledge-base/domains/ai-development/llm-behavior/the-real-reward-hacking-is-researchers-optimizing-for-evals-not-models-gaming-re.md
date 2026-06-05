@@ -61,7 +61,6 @@ stance: >-
   primarily explained by human researchers unconsciously shaping RL environments
   to match evals, combined with poor generalization.
 related:
-  - INS-260327-E07C
   - INS-260605-4D1D
   - INS-260326-0AB4
   - INS-260409-1FD3

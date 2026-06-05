@@ -53,9 +53,9 @@ related:
   - INS-260402-E60E
   - INS-260403-9DC6
   - PRI-260406-3913
-  - INS-260408-B5EC
   - INS-260409-8759
   - INS-260410-67D5
+  - INS-260410-A1A9
 ---
 Before advanced language emerged roughly 50,000 years ago, information passed between generations primarily through genetics — an extremely slow channel. The development of complex language enabled three compounding capabilities: rapidly expanding knowledge, preserving it across generations, and building on past discoveries to generate deeper insights.
 

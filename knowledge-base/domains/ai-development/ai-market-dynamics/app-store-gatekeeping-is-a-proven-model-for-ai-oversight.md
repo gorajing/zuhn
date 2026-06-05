@@ -51,10 +51,10 @@ stance: >-
   blueprint for public AI regulatory infrastructure
 related:
   - INS-260320-1B10
+  - INS-260605-34B0
   - INS-260423-1C4D
   - INS-260605-1BBF
   - INS-260514-8424
-  - INS-260329-92E9
   - INS-260403-23AA
 ---
 Rather than inventing AI regulation from scratch, Chamath points to existing private-sector gatekeeping as a template. Apple's App Store and Google Play already evaluate apps on novelty, risk, and potential for exploitation before allowing distribution. Facebook similarly sandboxed apps to observe behavior before public launch.

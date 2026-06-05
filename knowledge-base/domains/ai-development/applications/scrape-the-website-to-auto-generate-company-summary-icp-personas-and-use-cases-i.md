@@ -68,7 +68,7 @@ related:
   - INS-260403-0D23
   - INS-260329-24CE
   - PRI-260406-9780
+  - INS-260605-EF3C
   - INS-260514-F5D2
-  - INS-260403-4120
 ---
 Scott demonstrated GTMFI's onboarding: drop in your domain, the agent scrapes the website (with fallback if the site is down), and generates in roughly 5 minutes: (1) Company summary and description, (2) Capabilities, (3) Challenges addressed, (4) Customer benefits, (5) Differentiated value, (6) Status quo (what people do today without you), (7) Primary buyer personas with pain points / key objectives / qualifying questions, (8) Use cases with scenarios / desired outcomes / business drivers, (9) Customer segments with priorities / firmographics, (10) Reference customers and competitors. Each output is editable (manual, AI-refined, or re-run), so the user keeps full control. Why this matters: every downstream campaign — every outbound email, every LinkedIn message, every cold call — depends on this foundational ICP/persona data being correct. Founders typically skip or skim this step because filling it out by hand takes hours of work most don't know how to do well; the campaigns then misfire because they're built on garbage foundational data. Automating the foundation turns a known-skipped step into a near-zero-friction one. The pattern generalizes beyond GTM: any onboarding flow whose value depends on the user filling out 30 fields they don't want to fill out is a candidate for 'scrape their public signal and auto-fill' replacement.
