@@ -54,7 +54,6 @@ stance: >-
   of context compactions rather than degraded by them.
 related:
   - INS-260320-06EF
-  - INS-260605-610E
   - INS-260605-CA2B
   - INS-260605-672C
   - PRI-260320-07A4

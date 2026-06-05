@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-05 | 2846 sources
+Generated on 2026-06-05 | 2848 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -799,6 +799,7 @@ Generated on 2026-06-05 | 2846 sources
 | Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial | youtube | 5 | 2026-03-30 |
 | Building A Big Company: Non-Obvious Insights | youtube | 5 | 2026-03-29 |
 | Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take | youtube | 5 | 2026-06-05 |
+| Building Agent Interfaces: Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google | youtube | 5 | 2026-06-05 |
 | Building makemore Part 2: MLP | youtube | 5 | 2026-04-10 |
 | Building makemore Part 3: Activations & Gradients, BatchNorm | youtube | 5 | 2026-04-10 |
 | Building makemore Part 4: Becoming a Backprop Ninja | youtube | 5 | 2026-04-10 |
@@ -2679,6 +2680,7 @@ Generated on 2026-06-05 | 2846 sources
 | Panel #1 | audio | 0 | 2026-05-02 |
 | Product demo | audio | 0 | 2026-05-02 |
 | can you look through everything in the codebase | session | 0 | 2026-05-28 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |

@@ -6,12 +6,13 @@
 - `INS-260403-2D9B` Pro forma EPS improvement from acquisitions reflects share count math, not operational value creation — but markets and boards treat it as a real signal anyway.
 - `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
 - `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
+- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
-- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead.
 - `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260403-F234` Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.
 - `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
+- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead.
 - `INS-260404-2AFE` Acqui-hires often yield better risk-adjusted financial outcomes for founders and early investors than commonly believed.
 - `INS-260404-E061` Across 60+ transactions, annualized ARR growth rate correlates most strongly with the valuation multiple a company receives.
 - `INS-260403-D972` Never take a corp dev meeting unless you've already decided to sell right now.
@@ -25,4 +26,3 @@
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260403-FA8E` Capital One saw Brex as a bargain shortcut to a scaled platform; VCs saw a 58% haircut from peak valuation — both were correct within their own frameworks.
 - `INS-260403-318A` Study who's buying in your space and engineer partnerships with them early — the best acquisitions grow out of product integrations, co-selling, and shared customers.
-- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.

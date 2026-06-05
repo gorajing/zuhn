@@ -35,11 +35,11 @@ resolutions:
     tool, etc. This framing is empowering because it means you can improve — but
     it also creates psychosis because the improvement space feels infinite.
 related:
+  - INS-260605-2A69
   - INS-260605-5D5E
   - INS-260605-DB29
   - INS-260320-9D89
   - INS-260605-726C
-  - INS-260605-D912
   - INS-260321-E2FC
   - INS-260329-20F8
   - INS-260330-D7CC

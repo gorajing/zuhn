@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 52 insights
+> 53 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -23,6 +23,7 @@
 - `INS-260605-E18B` [high] The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260605-46A8` [high] For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
 - `INS-260410-4067` [high] Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
+- `INS-260605-2D9B` [high] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260410-9B0E` [high] Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
 - `INS-260410-B3C2` [high] pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260605-A28F` [high] Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.

@@ -7,5 +7,5 @@
 - `INS-260329-D8C7` The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
 - `INS-260330-F60B` An event rare for the average person can be common for a specific person whose life circumstances concentrate the relevant probability — Walter Summerford was struck by lightning three times because he was an avid outdoor sportsman, not because he was cosmically unlucky.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
-- `INS-260409-7055` Real low-rate signals emerge as slow accumulations over weeks, not as a-ha moments — learn to distinguish both from noise.
 - `INS-260323-B811` When casualties become 'averaging 10,000 a month' instead of named individuals with stories, moral weight evaporates — telling individual stories is an act of resistance against statistical dehumanization.
+- `INS-260409-7055` Real low-rate signals emerge as slow accumulations over weeks, not as a-ha moments — learn to distinguish both from noise.

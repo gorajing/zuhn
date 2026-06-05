@@ -1,7 +1,7 @@
 # Tag: launch-strategy
 
-- `INS-260403-558D` Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260403-5598` Being pushed into the spotlight too early creates expectations that half-built products cannot meet, destroying momentum before it forms.
+- `INS-260403-558D` Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260403-58CF` Early users come from consistent presence in user communities, not from one-time launch spikes.
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.

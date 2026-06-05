@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5476 actionable insights
+Generated on 2026-06-05 | 5481 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -232,6 +232,10 @@ Generated on 2026-06-05 | 5476 actionable insights
 - [INS-260605-F700] Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - [INS-260605-29BD] Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
 - [INS-260605-2627] When HTTP calls were cheap you just retried the whole request; when an agent step costs 15 minutes of compute and context, you must treat the error as an input and recover forward.
+- [INS-260605-2AAF] Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
+- [INS-260605-DC50] Point the agent at the right sentence instead of forcing it to read the entire book.
+- [INS-260605-6134] The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
+- [INS-260605-2A69] Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -271,6 +275,7 @@ Generated on 2026-06-05 | 5476 actionable insights
 - [INS-260605-A28F] Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - [INS-260605-169D] Treat robustness like a vision model's tolerance to fog or camera shake: specify how many typos or rephrasings the agent can absorb before it breaks.
 - [INS-260605-3A60] Specify agent behavior with ground-truth examples plus rules, ontologies, internal terminology, domain knowledge, rights/roles, and robustness requirements — not just a test set.
+- [INS-260605-2D9B] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.

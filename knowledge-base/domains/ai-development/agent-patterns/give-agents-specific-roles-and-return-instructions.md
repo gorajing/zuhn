@@ -19,10 +19,10 @@ sources:
     url: 'https://reddit.com/r/ClaudeCode'
 related:
   - INS-260321-2482
+  - INS-260605-2A69
   - INS-260423-FF53
   - INS-260410-F910
   - INS-260403-96BC
-  - INS-260403-0350
   - INS-260405-FE94
   - INS-260519-8748
   - INS-260605-B610

@@ -56,7 +56,6 @@ stance: >-
   (Vercel, Jasper Lekin's SaaS).
 related:
   - INS-260404-F0C3
-  - INS-260410-EE5C
   - INS-260501-9D73
   - INS-260403-C074
   - INS-260403-07C3
