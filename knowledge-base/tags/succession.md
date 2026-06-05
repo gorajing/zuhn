@@ -1,6 +1,5 @@
 # Tag: succession
 
-- `INS-260410-BFA1` Bernard Arnault started accumulating Hermès shares through equity swaps specifically when he saw Jean-Louis Dumas's retirement coming and no clear single successor — the first separation of CEO and artistic-director roles was the opening.
 - `INS-260412-B3A3` Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260327-7C60` Napoleon's marshals defected, retired, or switched sides when Napoleon fell because their loyalty was to him personally rather than to an institution or cause.
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
@@ -15,3 +14,4 @@
 - `INS-260330-F158` The Western Empire fell to internal power struggles between generals, not to barbarian military superiority — while the East survived because clear imperial authority over the Church prevented political fragmentation.
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260330-72BD` The Mongol Empire splintered into four separate khanates after Genghis Khan's death because conquest outpaced institutional development.
+- `INS-260410-BFA1` Bernard Arnault started accumulating Hermès shares through equity swaps specifically when he saw Jean-Louis Dumas's retirement coming and no clear single successor — the first separation of CEO and artistic-director roles was the opening.

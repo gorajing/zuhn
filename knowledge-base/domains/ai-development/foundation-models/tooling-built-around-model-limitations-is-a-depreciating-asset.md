@@ -55,9 +55,7 @@ stance: >-
   Infrastructure built to work around a model's current constraints will be
   absorbed into the model and become wasted effort.
 related:
-  - INS-260330-EE25
   - INS-260409-526E
-  - INS-260410-89D0
   - INS-260410-B0D6
   - INS-260514-C4CF
   - PRI-260328-A82C

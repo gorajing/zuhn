@@ -48,7 +48,6 @@ stance: >-
   less capital than those who validate assumptions in arbitrary order
 related:
   - INS-260330-901B
-  - INS-260402-476E
   - INS-260403-27AA
   - INS-260403-88AF
   - INS-260403-63E2
@@ -57,6 +56,7 @@ related:
   - INS-260505-5A06
   - INS-260403-AA5B
   - INS-260330-A3B7
+  - INS-260409-40AF
 evidence:
   - id: INS-260403-8D87
     type: SUPPORTS

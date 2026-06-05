@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 38 insights
+> 39 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` [high] AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
@@ -24,6 +24,7 @@
 - `INS-260605-98BD` [high] The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
 - `INS-260605-B66C` [medium] For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
 - `INS-260412-C3AB` [medium] Training AI detectors on fake videos creates a feedback loop where detection signals become training data for better fakes, structurally favoring attackers.
+- `INS-260605-683B` [medium] Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
 - `INS-260514-F565` [medium] AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
 - `INS-260514-7B11` [medium] AI surveillance state = digital ID (identity-tied interactions) + digital currency (programmable transactions). China has it. Western democracies converging under different framing. Behavioral classification → predictive control → granular incentive engineering at population scale.
 - `INS-260514-83C0` [medium] The 'why would AI copies unify' objection fails: conquistadors took Mexico and Peru while fighting each other in civil wars. AI takeover doesn't require unanimity, just capability advantage AND distinguishable identity from humans.

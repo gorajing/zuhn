@@ -51,14 +51,14 @@ stance: >-
   thousands of background tasks.
 related:
   - INS-260327-DC4C
-  - INS-260327-5EEA
+  - INS-260605-86F6
   - PRI-260328-F723
   - INS-260410-1030
   - INS-260605-2795
-  - INS-260410-85AD
   - INS-260327-FE24
   - INS-260403-656F
   - INS-260410-1ED3
+  - INS-260410-85AD
   - INS-260605-8409
 ---
 Chase defines ambient agents as those triggered by events rather than human messages, running thousands of instances in the background with relaxed latency requirements. The key insight is that 'ambient does not mean fully autonomous' -- human interaction remains critical for better results, trust building, and most subtly, enabling the agent to learn from user feedback (no interaction means no memory-building data).

@@ -21,10 +21,10 @@ sources:
     url: 'https://youtu.be/EdZWPB1fIJc'
 related:
   - INS-260323-649B
+  - INS-260605-9900
   - PRI-260406-4B8E
   - INS-260405-880C
   - INS-260514-DFAE
-  - INS-260404-D6F7
   - INS-260323-0982
   - INS-260323-01A1
   - INS-260408-3691

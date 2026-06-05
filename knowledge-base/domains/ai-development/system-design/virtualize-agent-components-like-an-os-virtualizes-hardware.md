@@ -53,7 +53,6 @@ stance: >-
   the brain, hands, and session as independent interfaces — the same pattern
   operating systems used to outlast the hardware underneath them.
 related:
-  - INS-260325-2DCD
   - INS-260405-A992
   - INS-260403-0D23
   - INS-260603-1BC0

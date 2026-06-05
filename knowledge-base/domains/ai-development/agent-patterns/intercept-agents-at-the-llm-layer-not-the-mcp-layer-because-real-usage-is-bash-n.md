@@ -51,10 +51,12 @@ stance: >-
 related:
   - INS-260403-A1FA
   - INS-260605-5C58
+  - INS-260605-5404
   - INS-260421-60D9
   - INS-260327-FE24
   - PRI-260405-AF79
   - INS-260605-0C88
   - INS-260605-98BD
+  - INS-260605-E023
 ---
 Tailscale originally considered enforcing at the MCP layer but concluded the LLM layer was 'way more valuable' — and the reason generalizes. Agents are 'somewhat moving away from tool calls and executing code,' which makes some traffic harder to parse but far more important to see. The empirical tell: on their internal instance, 'bash dominates everything else,' and many teams admitted they didn't even know whether their agents were using MCPs or just bash. Whatever an agent does, it 'typically still has to run something' that crosses the LLM gateway, so positioning control there survives the shift away from MCP. The lesson for anyone building agent observability or guardrails: pick the interception point by where behavior is converging (model calls), not by the structured abstraction that happens to be fashionable (tool schemas).

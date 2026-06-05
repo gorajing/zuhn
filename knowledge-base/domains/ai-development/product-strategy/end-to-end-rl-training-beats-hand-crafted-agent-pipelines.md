@@ -51,7 +51,6 @@ stance: >-
   superior results compared to building explicit multi-step pipelines with
   language model nodes.
 related:
-  - INS-260325-2FC1
   - INS-260325-4C6D
   - PRI-260328-9F8C
   - INS-260410-1030
@@ -61,6 +60,7 @@ related:
   - INS-260329-C7BF
   - INS-260402-876A
   - INS-260403-5C9D
+  - INS-260403-A70D
 evidence:
   - id: INS-260330-6AC1
     type: CHALLENGES

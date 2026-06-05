@@ -42,10 +42,10 @@ stance: >-
   guide behavior but flexible enough to let the model use heuristics, neither
   hardcoding logic nor assuming shared context.
 related:
+  - INS-260605-EBEB
   - INS-260403-7D7A
   - INS-260325-29D5
   - PRI-260405-0676
   - PRI-260328-4144
-  - INS-260403-9362
 ---
 Anthropic identifies two failure modes in system prompts. First, engineers hardcode complex if-else logic to elicit exact behaviors, creating fragility and maintenance debt. Second, engineers write vague high-level guidance that fails to give concrete signals or falsely assumes shared context. The right altitude is specific enough to guide behavior but flexible enough to let the model apply heuristics. Practically: start with a minimal prompt on the best available model, then add clear instructions and examples based on observed failure modes — don't preemptively stuff edge cases.

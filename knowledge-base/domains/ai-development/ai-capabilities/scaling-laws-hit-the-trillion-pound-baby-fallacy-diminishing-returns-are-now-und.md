@@ -58,7 +58,7 @@ related:
   - INS-260323-4D13
   - INS-260325-C8D5
   - INS-260403-4730
-  - INS-260409-E776
+  - INS-260409-7162
 stance: >-
   The leap from GPT-4 to GPT-5 was subtle enough to require benchmarks, unlike
   earlier leaps that were obvious in minutes — scaling has hit a wall.

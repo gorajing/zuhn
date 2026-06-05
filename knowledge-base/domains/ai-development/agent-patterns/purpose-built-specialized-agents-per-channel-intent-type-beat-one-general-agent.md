@@ -66,5 +66,6 @@ related:
   - INS-260603-1BC0
   - PRI-260405-AF79
   - PRI-260406-1F5E
+  - INS-260605-82BD
 ---
 GTMFI's agent architecture (Scott showed live in the demo): separate purpose-built agents for each (channel, intent-source) pair. email-copy-for-on-site-intent gets its own agent. email-copy-for-off-site-intent gets its own agent. linkedin-copy-for-on-site-intent gets its own agent. WhatsApp, SMS, and cold-call-transcript generation each get their own agents. Each agent is reproducible across client workspaces, but during onboarding the agent's prompt absorbs client-specific modifications (company summary, ICP, personas, use cases). The orchestrator decides which agent to invoke based on the intent signal type and chosen channel — agents themselves don't make routing decisions. This pattern is structurally similar to OpenAI's harness-engineering approach (Lopopolo's reviewer-agents-per-persona) and Hai Nghiem's skills-vs-subagents distinction at Claude Code: narrow specialized agents with clear input/output contracts compose better than one general agent trying to do everything. The non-obvious cost: each new channel × intent combination requires its own agent + prompt, so the matrix grows multiplicatively — but it's a one-time setup that pays off forever in output quality and maintainability.

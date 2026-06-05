@@ -46,12 +46,12 @@ stance: >-
   The gap between neural brand responses and conscious self-reports reveals that
   most brand influence operates below awareness
 related:
-  - INS-260327-A048
   - INS-260328-031A
   - INS-260330-16CD
   - INS-260404-C720
   - INS-260330-E089
-  - INS-260403-B635
+  - INS-260605-A7C1
+  - INS-260327-A048
 evidence:
   - id: INS-260327-A048
     type: SUPPORTS

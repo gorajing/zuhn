@@ -55,6 +55,7 @@ related:
   - INS-260330-9FCF
   - INS-260412-774E
   - INS-260412-3A8E
+  - INS-260605-5404
   - INS-260327-112B
 ---
 Research at the Hajj found that pilgrims in the Grand Mosque plaza — where views were equal — cooperated more than those on balconies where pillar obstructions created variable experiences worth competing for. This pattern recurs across crowd disasters: the 1979 Who concert (competing for best unassigned seats), Black Friday sales (competing for scarce goods), and stadium entry scenarios (competing to enter before the event starts). Riots, counterintuitively, rarely produce crushes because there's nothing specific to compete for.

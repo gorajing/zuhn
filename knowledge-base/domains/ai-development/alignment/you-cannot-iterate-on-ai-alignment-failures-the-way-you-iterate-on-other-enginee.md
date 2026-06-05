@@ -52,10 +52,10 @@ resolutions:
     modes don't allow iteration.
 related:
   - INS-260320-F78E
+  - INS-260605-9900
   - PRI-260327-8D8C
   - INS-260326-7995
   - INS-260330-CC7D
-  - PRI-260328-4144
   - INS-260330-5DA6
 stance: >-
   Unlike normal engineering where you fail, learn, and try again, the first

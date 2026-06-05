@@ -1,5 +1,6 @@
 # Tag: creative-tools
 
+- `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
 - `INS-260412-9E22` Nanite's removal of polygon limits freed developers to focus on creative decisions rather than performance budgeting.
 - `INS-260327-6FFC` AI gives everyone what only Churchill had—an assistant who knows your context, voice, and intent.
 - `INS-260404-D147` Starting in low-commitment, fast-iteration media (sketches, hacks, notebooks) lets ambitious projects survive the vulnerable early stage where they look worst.

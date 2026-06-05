@@ -63,8 +63,8 @@ stance: >-
 related:
   - INS-260329-6286
   - INS-260329-CF16
+  - INS-260605-E1E2
   - INS-260329-C7BF
-  - INS-260329-9745
-  - INS-260329-90C3
+  - INS-260605-D3EB
 ---
 Concrete design pattern from Joe's agency: he maintains a 'functions' table in Clay containing reusable logic — f.cleanFullName, f.cleanCompanyName, f.cleanFirstName, f.searchSerper, f.lookupEmailHost, f.findCompanyLinkedIn, f.validateEmailBounceBan, etc. Naming convention: prefix every function with 'f.' so autocomplete surfaces them when building new tables. Each function takes typed inputs (i = required, o = optional) — full_name (i), email (o), linkedin_url (o) — runs an LLM call with a meticulously crafted prompt (his clean_full_name prompt is 1337 tokens accumulating edge cases for maiden names, PhD prefixes, emoji, all-caps, multi-part names, preferred names in parens), and returns a JSON output with confidence level + cleaned fields. Other Clay tables call the function via Write-to-Table → wait (Postman delay endpoint, since Clay has no native delay) → look up the row. The payoff: when you discover a new edge case (say a maiden name in parentheses), you update ONE prompt and all callers benefit. Without this pattern, you copy-paste the prompt across 100 tables and have to hunt them down each time you find a new edge case — and you WILL miss some. The tradeoff: setup is more complex per table (write-to-table + delay + lookup), so for rapid one-off campaigns this overhead isn't worth it. The pattern earns its keep when the logic runs continuously across many clients/campaigns.

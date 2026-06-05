@@ -55,10 +55,10 @@ related:
   - INS-260327-1B9A
   - INS-260327-DF8B
   - INS-260330-0C0C
+  - INS-260605-BF58
   - INS-260605-8F5E
   - INS-260505-4EB7
   - INS-260409-BE39
-  - INS-260410-FBAA
 ---
 The essay uses an intuitive analogy: understanding someone's facial expressions while they speak produces a richer interpretation than audio alone. Similarly, training on multimodal data from platforms like X — where a single post might contain text, images, video, and community reactions — allows models to triangulate meaning across modalities.
 

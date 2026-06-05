@@ -56,7 +56,6 @@ related:
   - PRI-260323-1CF9
   - INS-260410-F24A
   - INS-260410-1789
-  - INS-260410-2F8D
 stance: >-
   LLMs generate one token at a time without planning the full answer first,
   unlike humans who form an abstract representation of their response befor...

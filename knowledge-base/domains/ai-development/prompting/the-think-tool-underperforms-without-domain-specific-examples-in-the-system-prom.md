@@ -60,7 +60,7 @@ related:
   - INS-260410-6ABA
   - PRI-260405-49C0
   - INS-260409-17E9
-  - INS-260325-9C89
+  - INS-260605-1FD9
 ---
 On tau-bench's airline domain, Claude 3.7 Sonnet scored 0.332 baseline, 0.404 with just the think tool, and 0.584 with the think tool plus an optimized prompt showing worked examples of how to reason inside it. The jump from 'tool available' to 'tool with examples' was larger than the jump from 'nothing' to 'tool available'. The model doesn't automatically know what good thinking looks like in your domain — you have to demonstrate it.
 

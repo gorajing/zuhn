@@ -13,8 +13,8 @@
 - `INS-260403-C844` Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
-- `INS-260404-E06E` Existing internal resources can become the foundation of entirely new, higher-margin business models.
 - `INS-260404-2BAD` Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
+- `INS-260404-E06E` Existing internal resources can become the foundation of entirely new, higher-margin business models.
 - `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
 - `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - `INS-260403-3EFB` Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.

@@ -53,10 +53,10 @@ stance: >-
   practical AI applications.
 related:
   - INS-260403-BB23
+  - INS-260605-8F95
   - INS-260327-DECA
   - INS-260501-F394
   - INS-260321-B014
-  - INS-260605-3AE6
 evidence:
   - id: INS-260327-DECA
     type: SUPPORTS

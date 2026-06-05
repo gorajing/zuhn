@@ -1,6 +1,5 @@
 # Tag: liquidity
 
-- `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.
 - `INS-260412-D21C` The tulip crash began when a few buyers in North Holland simply didn't show up to auctions — not a policy change or external shock, but a quiet withdrawal of demand.
 - `INS-260404-FFC4` Medallion closed to outside investors in 1993 because more capital would push trades into less liquid instruments, diluting the edge.
 - `INS-260402-B653` Fractionalization turns capital-gated asset classes into accessible markets by lowering the minimum ownership unit to near-zero.
@@ -33,3 +32,4 @@
 - `INS-260403-0F15` Event-based vesting gives companies total control over whether employees ever receive equity value.
 - `INS-260403-A8BA` IPO timelines have stretched to 11-13+ years, making equity-heavy compensation a much longer bet than most candidates realize.
 - `INS-260403-2330` Seed investors are pivoting to earlier exits as LPs demand faster returns on smaller funds.
+- `INS-260403-A6F1` Careers can be evaluated like financial instruments—liquid paths offer security and optionality while illiquid paths carry concentrated risk and reward.

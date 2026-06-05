@@ -54,7 +54,6 @@ related:
   - INS-260405-839E
   - INS-260403-A6A7
   - INS-260402-2D7B
-  - INS-260605-59FE
 ---
 When asked what founders should do given that labs are reaching escape velocity on math/code, Karpathy's answer was structural rather than tactical: verifiability remains the underlying technology that 'just works' — you can pull the lever with diverse RL environments and fine-tuning frameworks even if the labs aren't focusing on your domain. The founder play is to identify verifiable domains that aren't part of the labs' RL mix yet, build the environments, and own the fine-tuned model.
 

@@ -50,7 +50,6 @@ stance: >-
   regardless of talent availability, as demonstrated by Norway's emerging
   startup crisis.
 related:
-  - INS-260330-DA38
   - INS-260403-5D7D
   - INS-260403-CA93
   - INS-260403-F327

@@ -53,6 +53,7 @@ related:
   - INS-260412-A944
   - INS-260605-3553
   - PRI-260406-91C2
+  - INS-260605-E023
 ---
 The article demonstrates that US chip export controls have successfully maintained a 21-49x AI compute advantage over China by slowing domestic chip development — China's 7nm yields remain poor, 5nm is delayed to 2026+, and over 22,000 semiconductor companies have shut down. However, the goal was never permanent denial but rather buying time during which deterrence conditions could improve.
 

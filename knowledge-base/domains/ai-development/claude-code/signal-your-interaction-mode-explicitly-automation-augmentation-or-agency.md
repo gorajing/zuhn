@@ -40,12 +40,13 @@ resolutions:
     between hesitation and overreach.
 related:
   - INS-260410-FD24
+  - INS-260605-DCE5
   - INS-260321-2482
   - INS-260329-D8F2
   - INS-260602-E2BD
-  - INS-260321-A56C
   - INS-260329-EAFD
   - INS-260412-28C9
+  - INS-260605-E023
 stance: >-
   Most prompting failures stem from mode mismatch — you intend augmentation
   (think together) but signal automation (just execute), or vice versa

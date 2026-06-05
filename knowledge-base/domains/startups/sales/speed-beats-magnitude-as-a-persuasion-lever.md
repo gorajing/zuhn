@@ -56,7 +56,6 @@ related:
   - PRI-260406-5BD0
   - INS-260330-E6B7
   - INS-260605-FE37
-  - INS-260330-D483
   - INS-260412-D787
 evidence:
   - id: INS-260322-191F

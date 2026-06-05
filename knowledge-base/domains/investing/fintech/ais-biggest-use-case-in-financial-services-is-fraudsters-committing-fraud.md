@@ -42,7 +42,6 @@ resolutions:
     infrastructure, but also means any fintech builder must treat AI-powered
     fraud as a first-order design constraint, not an afterthought.
 related:
-  - INS-260322-2E33
   - INS-260323-99E0
   - INS-260412-F8D1
   - INS-260412-71C6
@@ -52,6 +51,7 @@ related:
   - INS-260330-FC9F
   - INS-260330-4370
   - INS-260412-1255
+  - INS-260412-8846
 stance: >-
   Financial fraud is growing 18-20% per year because AI-powered fraud
   (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.

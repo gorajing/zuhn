@@ -60,7 +60,6 @@ related:
   - INS-260505-82B8
   - PRI-260323-0654
   - PRI-260324-2C9F
-  - INS-260404-FD88
 evidence:
   - id: INS-260330-EC0F
     type: TRANSFERS_TO

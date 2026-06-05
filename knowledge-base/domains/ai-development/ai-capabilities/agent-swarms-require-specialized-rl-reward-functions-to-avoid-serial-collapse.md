@@ -48,11 +48,11 @@ stance: >-
   during training to prevent collapse into single-agent serial execution,
   representing a fundamentally new RL paradigm.
 related:
+  - INS-260605-A803
   - INS-260605-74E8
+  - INS-260605-5404
   - INS-260404-34DB
   - INS-260403-F6F6
-  - INS-260405-AFF7
-  - PRI-260328-1ED1
 evidence:
   - id: INS-260403-0350
     type: TRANSFERS_TO

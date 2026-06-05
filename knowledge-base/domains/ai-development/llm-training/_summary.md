@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 71 insights
+> 72 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -19,6 +19,7 @@
 - `INS-260403-1F1B` [high] More training data produces diminishing performance improvements, forcing differentiation through data quality and architecture innovation.
 - `INS-260329-D8BC` [high] Distance-based algorithms like KNN and SVM produce garbage results without feature scaling because large-range features dominate the distance calculation.
 - `INS-260403-18CA` [high] Few-shot prompting can take accuracy from 0% to 90%, while role prompting has negligible effect on correctness.
+- `INS-260605-D3EB` [high] Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt.
 - `INS-260605-4D1D` [high] For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260410-3A08` [high] Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260323-4E12` [high] The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.

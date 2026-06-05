@@ -63,6 +63,5 @@ related:
   - INS-260404-8A8A
   - INS-260405-6A94
   - INS-260501-3C20
-  - INS-260501-AF40
 ---
 The 2025-2026 hype cycle around Cloud Code and Codex was operationally driven by aggressive free-token allocation, not by step-function product improvements. Companies discovered that giving away large quantities of inference was the most effective way to get developers and product teams to try and integrate their tools — analogous to how SaaS companies once used freemium tiers and how mobile app companies used free trials. The economic structure is similar but the financial mechanics are different: SaaS freemium had near-zero marginal cost per free user; AI freemium has substantial marginal cost per free user (tokens cost real money). This makes inference subsidy a more expensive but more effective acquisition lever — companies are willing to lose money on free tokens because the conversion to paid usage is faster than freemium-to-paid conversion was for SaaS. The strategic implication for AI builders: budget for inference subsidies as a real GTM line item, not a marketing afterthought. The implication for users: optimize for the platforms running aggressive free-token campaigns now (you're a subsidized user during the acquisition phase) but plan for prices to normalize as the cycle matures.

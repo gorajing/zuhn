@@ -58,8 +58,8 @@ related:
   - INS-260327-0595
   - INS-260505-5A06
   - PRI-260323-1CF9
+  - INS-260605-1FD9
   - INS-260505-E5CC
-  - INS-260403-C10D
 ---
 Karpathy's demonstration: ask the same multiplication problem to ChatGPT, Grok 3, Claude, and Gemini. ChatGPT recognized it needed the Python interpreter and got it right. Claude wrote JavaScript and got it right. Grok 3 (no interpreter access) did it in its head and got the right order of magnitude but the wrong answer — a dangerous failure mode because the answer looks plausible. Gemini 2.0 Pro similarly hallucinated close-but-wrong results. Same for web search: Claude asked about White Lotus Season 3 couldn't answer because it has no search integration; ChatGPT and Perplexity did.
 

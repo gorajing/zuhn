@@ -47,10 +47,10 @@ stance: >-
   than any reranker or embedding-model upgrade alone.
 related:
   - INS-260410-3F1A
+  - INS-260605-77D8
   - INS-260409-1078
   - INS-260514-23D6
   - INS-260330-00D5
-  - INS-260323-A5EC
   - INS-260410-264E
   - INS-260501-22BF
 ---

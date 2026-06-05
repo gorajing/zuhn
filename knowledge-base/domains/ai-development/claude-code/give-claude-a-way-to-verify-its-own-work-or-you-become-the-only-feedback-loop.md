@@ -48,7 +48,7 @@ related:
   - INS-260505-5A06
   - INS-260423-8403
   - INS-260409-6833
-  - INS-260325-9BBC
+  - INS-260605-02FB
 ---
 Claude performs dramatically better when it can check its own work — run tests, compare screenshots, validate outputs against example inputs. Without clear success criteria, it produces things that look right but fail on edge cases, and the human becomes the sole feedback loop, paying attention cost on every iteration.
 

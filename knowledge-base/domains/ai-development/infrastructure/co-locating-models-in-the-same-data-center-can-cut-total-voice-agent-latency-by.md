@@ -60,8 +60,8 @@ related:
   - INS-260405-5670
   - INS-260424-865F
   - INS-260514-4BD5
+  - INS-260605-DA98
   - PRI-260426-9730
-  - INS-260501-D18A
 ---
 Most latency discussion focuses on engine latency — how long a model takes to produce output — but when models sit in different data centers, network latency between them becomes a major hidden cost. Even a well-optimized setup with 100–200ms time-to-first-token can lose 75ms to network hops (e.g. US West to Europe, or calling a US-hosted LLM from a London-based agent).
 

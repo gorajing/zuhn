@@ -69,7 +69,7 @@ related:
   - INS-260603-C102
   - INS-260323-7A50
   - INS-260524-5173
-  - INS-260603-11DB
+  - INS-260603-A09F
 ---
 Levine makes the case that what looks like a 'robotics breakthrough' is really a downstream application of LLM/VLM progress. Physical Intelligence's pi-zero model is structurally a vision-language model with an added action decoder (using flow matching for continuous control), and it uses open-source Gemma weights as its starting point. The same architectures, considerations, and literally the same weights that power text models power the robots.
 

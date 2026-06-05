@@ -70,7 +70,6 @@ stance: >-
   — and the current frontier of leverage is the harness, not the prompt
 related:
   - INS-260327-F625
-  - INS-260405-880C
   - PRI-260426-890F
   - INS-260501-1774
   - INS-260514-DFAE
@@ -78,7 +77,8 @@ related:
   - INS-260514-AC43
   - INS-260514-822C
   - INS-260514-C1B3
-  - PRI-260407-D1AD
+  - INS-260605-9900
+  - INS-260605-59FE
 ---
 The talk names an evolution in how practitioners get value from models, framed as three successive layers of leverage:
 1. Prompt engineering — crafting the instructions given to the model. The first-wave skill.

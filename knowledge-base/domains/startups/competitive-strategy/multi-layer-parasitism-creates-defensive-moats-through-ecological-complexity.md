@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260403-65D2
   - INS-260403-AC01
+  - INS-260605-5404
   - PRI-260323-F193
   - INS-260325-3A0E
-  - INS-260330-2EB0
 ---
 Protists that integrated virophage DNA into their own genome gained an extraordinary defense: when infected by a giant virus, they hijack the virus's own factory to produce virophages instead, sacrificing themselves but protecting the colony. This is a three-layer system (cell → virus → virophage) where the bottom layer co-opted the top layer against the middle. In platform strategy, this maps to ecosystems where third-party developers build tools that defend the platform against competitors — not because the platform directed them to, but because the ecosystem's layered interdependencies created that emergent behavior. The deepest moats aren't built; they emerge from sufficient ecological complexity where participants develop their own reasons to defend the system.

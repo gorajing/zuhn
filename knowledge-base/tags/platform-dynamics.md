@@ -9,7 +9,6 @@
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260329-7BA7` Internet value accrues to those who control the user relationship while commoditizing supply — now playing out in AI
-- `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.
 - `INS-260524-3793` Z Venture Capital CEO: the language barrier is becoming meaningless and the proprietary-data advantage is going away — everyone now competes globally.
 - `INS-260330-7FFE` ShadowCrew's real innovation was building review, escrow, and vouching systems that let criminals trust each other — the same platform trust problems legitimate marketplaces solve.
 - `INS-260412-3EBB` Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.
@@ -17,8 +16,8 @@
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won.
-- `INS-260405-C342` Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260403-BC3B` Airbnb moved from air beds to spare rooms to professional rentals to hotels along a predictable continuum.
+- `INS-260405-C342` Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-3615` Infrastructure consolidation reliably creates the conditions for an application-layer startup boom, as cheap reliable infrastructure enables new use cases.
 - `INS-260412-684D` EU regulations force worldwide product changes because maintaining region-specific SKUs is cost-prohibitive.
@@ -26,3 +25,4 @@
 - `INS-260410-49D7` Meta open-sources distributed computing infrastructure and AI models specifically because Google got there first — open-sourcing their own version commoditizes Google's proprietary moat and standardizes the supply chain around Meta's designs.
 - `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
+- `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.

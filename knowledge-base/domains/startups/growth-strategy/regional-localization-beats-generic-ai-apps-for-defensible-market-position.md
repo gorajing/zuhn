@@ -50,13 +50,15 @@ stance: >-
   global alternatives.
 related:
   - PRI-260328-1D90
+  - INS-260605-5BAD
   - INS-260403-699A
   - INS-260409-5CC6
   - INS-260409-A4F0
-  - INS-260409-B13F
   - INS-260409-160F
+  - INS-260409-B13F
   - INS-260605-90CF
   - INS-260605-175E
+  - INS-260605-FB4D
 evidence:
   - id: INS-260327-79E8
     type: CONTRADICTS

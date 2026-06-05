@@ -15,11 +15,11 @@
 - `INS-260410-A365` Google had a working transformer-based chatbot (Mina, then Lambda) years before ChatGPT but couldn't ship it because of ad cannibalization, brand-trust requirements, and safety standards that OpenAI as a startup simply didn't face.
 - `INS-260410-9738` When Larry and Sergey demoed page rank to Excite's CEO in 1997, he killed the deal precisely because the results were too good — users would find what they wanted and leave, destroying Excite's CPM banner-ad page-view business.
 - `INS-260410-F0E4` Intel was the largest early investor in EUV lithography — $4B in 2012 — and still failed to ship a chip made with it, because optimizing existing 193nm immersion was the safer bet on every spreadsheet.
-- `INS-260404-8D91` McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
-- `INS-260404-2DB4` Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 - `INS-260410-6ADD` Microsoft's 'Windows Everywhere' slide — using the Windows UI and APIs for phone, car, media center — was driven by a mix of fear ('Windows is our permission to exist') and overconfidence, and it blocked the company from building the genuinely new capabilities each new market required.
 
 
+- `INS-260404-8D91` McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
+- `INS-260404-2DB4` Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 - `INS-260410-5E3F` Azure was deliberately incubated outside the Server & Tools division because the division's KPIs, partners, and comp structure were all aligned with on-prem Windows Server sales that Azure would cannibalize.
 - `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260403-21A2` Overpaying customers make it rational to ignore the future until it's too late.

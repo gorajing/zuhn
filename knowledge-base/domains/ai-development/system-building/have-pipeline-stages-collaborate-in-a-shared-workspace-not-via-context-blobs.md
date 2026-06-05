@@ -54,7 +54,7 @@ related:
   - INS-260403-4D80
   - PRI-260320-BC72
   - INS-260325-568A
-  - INS-260403-3A7A
+  - INS-260605-D0C0
 ---
 DeepMind's deep research system currently passes a huge amount of context all the way through the pipeline — every search result blob threaded forward — which is expensive and consumes the context window. KP's direction is to instead have the parts of the pipeline collaborate in a shared file system, treating each element as a collaborator in a workspace, analogous to how a human research team works against shared documents.
 

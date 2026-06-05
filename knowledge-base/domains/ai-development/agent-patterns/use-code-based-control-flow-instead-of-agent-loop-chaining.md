@@ -50,10 +50,10 @@ stance: >-
   agent loop.
 related:
   - INS-260321-D3BE
+  - INS-260605-E693
   - INS-260605-6444
   - INS-260530-D34F
   - INS-260409-0DB0
-  - INS-260603-6B3D
   - INS-260514-F58B
 ---
 An agent waiting for a Slack deployment notification could alternate between getChannelHistory tool calls and sleep instructions, but each round trip pays model latency and token cost. Writing the polling loop as actual code — `while(!found) { ... await sleep(5000); }` — lets the sandbox handle the waiting and condition evaluation directly.

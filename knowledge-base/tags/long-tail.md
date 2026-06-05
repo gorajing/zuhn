@@ -2,6 +2,7 @@
 
 - `INS-260330-52C3` LLMs' real production value is covering the long tail of unexpected inputs that killed previous-generation AI systems, even at the cost of occasional hallucination.
 - `INS-260501-47F5` Hype cycles reshape the early curve, not the long tail. Survivors are the ones who knew it was a long tail from the start.
+- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260409-3EB3` Most of what local communities and individuals need from software is simple CRUD persisting data over time with basic user authentication and a few API calls — not the industrial-scale complexity of enterprise software that must serve millions, handle conflicting needs, and scale for VC returns.
 - `INS-260409-62E0` AI's market structure will look like a barbell with hyper-micro entrepreneurs on one end, ~25 supercalers on the other, and a crushed middle of SaaS and mid-market service businesses.

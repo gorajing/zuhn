@@ -49,12 +49,11 @@ stance: >-
   coexist simultaneously.
 related:
   - INS-260325-031F
-  - INS-260327-EDF0
   - INS-260404-D711
+  - INS-260605-A803
   - INS-260501-FD20
   - INS-260403-D090
   - INS-260603-7252
-  - INS-260403-08D7
   - INS-260424-4111
 evidence:
   - id: INS-260404-D711

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5268 actionable insights
+Generated on 2026-06-05 | 5298 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -30,6 +30,8 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260423-8504] Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
 - [INS-260530-E6AA] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
 - [INS-260605-828D] FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
+- [INS-260605-8A88] Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
+- [INS-260605-82BD] Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -153,6 +155,14 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260605-8C71] Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
 - [INS-260605-DB29] The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
 - [INS-260605-320E] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
+- [INS-260605-4C0A] Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
+- [INS-260605-02FB] Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
+- [INS-260605-1A50] Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
+- [INS-260605-6722] Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
+- [INS-260605-9900] Harness engineering is an extension of context engineering: let agents run, watch where they get lost, and encode that learning back into agents.md, skills, and tests so the agent flows through the workflow more autonomously next time.
+- [INS-260605-2032] Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
+- [INS-260605-E693] Every agent is a recursive while-loop with a few conditions and end states, so design it as a state machine you can always locate yourself within.
+- [INS-260605-3AB7] An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -316,6 +326,9 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260409-42F2] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - [INS-260411-6495] Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - [INS-260411-7232] Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
+- [INS-260605-DCE5] Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
+- [INS-260605-E2D9] Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
+- [INS-260605-86F6] People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 
 ## ai-development/applications
 - [INS-260501-A748] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
@@ -350,6 +363,10 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260605-988D] Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - [INS-260605-B03B] Because the LLM and TTS blindly carry forward whatever the speech-to-text model produces, a misheard name or drug becomes an uncorrectable error — making entity-level transcript accuracy the foundation of the whole pipeline.
 - [INS-260605-ACCD] Cascade speech-to-text, an LLM, and text-to-speech as separate orchestrated models, because unified speech-to-speech models can't yet follow instructions or call tools reliably enough for production.
+- [INS-260605-CF15] Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
+- [INS-260605-E1E2] Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
+- [INS-260605-4860] MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
+- [INS-260605-B176] The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -542,6 +559,10 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260421-CE27] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - [INS-260423-9225] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 - [INS-260605-F383] Network latency between geographically separated models can dominate engine latency; co-locating all models and the orchestrator in one data center can drop a 75ms hop to ~5ms for a ~30% total latency reduction.
+- [INS-260605-DA98] Once a model is fast, infrastructure round-trips add as much latency as the model itself, so client-perceived latency is what matters.
+- [INS-260605-DF82] For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
+- [INS-260605-4AF8] Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
+- [INS-260605-434D] Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -561,6 +582,8 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260410-939B] Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - [INS-260410-ED12] When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 - [INS-260605-6752] Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
+- [INS-260605-EBEB] Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
+- [INS-260605-58DA] Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -595,6 +618,7 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260410-656B] Going from 3 to 8 characters of context in the same flat MLP moved validation loss from 2.10 to 2.02 — a bigger gain than the later hierarchical WaveNet rewrite produced at matched parameter count.
 - [INS-260605-738E] Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment.
 - [INS-260605-4D1D] For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
+- [INS-260605-D3EB] Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -746,6 +770,8 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260605-3490] The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - [INS-260605-FCDA] Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
 - [INS-260605-355C] The same best-in-class diarizer scores ~2-8% error on clean telephone speech but ~41% in a noisy restaurant — so 'how good is it?' has no use-case-free answer.
+- [INS-260605-6066] A competing lab beat a published benchmark mainly by enabling its own API's compaction feature — same task, different config, much better-looking number.
+- [INS-260605-4856] Frontier models cluster within a few points on SWE-bench Pro while the harness alone swings results ~22%, so you may be measuring the harness, not the model.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -853,6 +879,9 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260605-BFBE] An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
 - [INS-260605-9A92] Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - [INS-260605-8E08] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
+- [INS-260605-25B2] Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
+- [INS-260605-726C] When an AI system grows to many chained prompts and agents, a human can't trace where a failure originated, so you must point AI at your own internal tooling to debug it.
+- [INS-260605-BD54] The textbook five-step SDLC is a human abstraction agents ignore — to automate it you must decompose each coarse stage (e.g. 'plan') into the many deterministic micro-steps it actually contains.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -873,6 +902,7 @@ Generated on 2026-06-05 | 5268 actionable insights
 - [INS-260514-5914] Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
 - [INS-260605-33C0] Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable.
 - [INS-260605-D912] Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
+- [INS-260605-780C] Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.'
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

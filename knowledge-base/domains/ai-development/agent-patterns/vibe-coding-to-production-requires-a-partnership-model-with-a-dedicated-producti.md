@@ -58,8 +58,9 @@ related:
   - INS-260329-9074
   - INS-260530-D34F
   - INS-260403-D090
+  - INS-260605-25B2
   - INS-260423-FF53
   - INS-260323-4B4D
-  - INS-260501-FD20
+  - INS-260605-8A88
 ---
 The naive deployment of vibe coding hits a quality wall in production codebases: changes that pass surface-level review may fail subtle integration tests, fail performance criteria, miss security requirements, or violate organizational conventions. Many teams respond by either restricting AI to non-production work (reducing leverage) or shipping unstable code (paying down later in incidents). The Google AI Studio team's pattern offers a third path: a designated production-shepherd role that takes vibe-coded changes from anyone on the team — product managers, designers, growth engineers — and integrates them with the stewardship and discipline a production codebase requires. Critically, this person is also responsible for closing the loop: identifying patterns of failure, building skills and infrastructure that prevent recurrence, and improving the cycle over time. The role is not a gatekeeper or reviewer; it is a partner who makes vibe coding viable for production. For organizations adopting this pattern, the practical hire is a senior engineer with strong refactoring instincts and patient teaching disposition, not a senior engineer who wants to be the only one writing code.

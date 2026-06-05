@@ -49,11 +49,11 @@ stance: >-
   'inductive bias beats scale' applies at the pretraining-objective level too,
   not just architecture.
 related:
+  - INS-260605-BF58
   - INS-260329-656B
   - INS-260403-219F
   - INS-260329-9A58
   - INS-260505-A0F7
-  - INS-260329-32DB
 ---
 The cross-talk pattern in Stanford's 2026 lightning talks: two physics-adjacent grad students (SLAC neutrino physics, Stanford 3D dust mapping) independently arrived at architectures where physical symmetries / structural priors are the central design choice. SLAC's symmetry-aware self-supervision achieves 0.1% label efficiency. Diane's Vecchia GPs leverage the spatial correlation structure of the universe to scale to billions of parameters. This generalizes the broader 'inductive bias beats scale' theme from the morning panels — it's not just about architecture choice, it's about encoding domain structure into the training objective itself.
 

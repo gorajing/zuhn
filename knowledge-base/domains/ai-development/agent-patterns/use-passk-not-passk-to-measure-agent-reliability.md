@@ -52,14 +52,13 @@ stance: >-
   k succeeds).
 related:
   - INS-260329-422F
-  - INS-260330-77BB
   - INS-260330-F7B2
   - INS-260405-A742
   - INS-260403-F943
   - INS-260405-474C
   - INS-260410-B3C2
   - INS-260410-D5FC
-  - INS-260329-CBF6
+  - INS-260605-3ABF
   - INS-260410-8243
 ---
 Standard LLM benchmarks often report pass@k: the probability that at least one of k independent attempts succeeds. That's useful for capability research but misleading for production agents, where you can't re-roll a customer service interaction until one of them works. Tau-bench uses pass^k — the probability that *all* k trials succeed — which directly measures consistency.

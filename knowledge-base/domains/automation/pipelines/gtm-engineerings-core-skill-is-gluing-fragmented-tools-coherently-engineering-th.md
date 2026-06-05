@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260327-ACB3
   - INS-260329-8D19
+  - INS-260605-9900
   - INS-260514-DFAE
   - INS-260514-C1B3
   - PRI-260406-6690
-  - INS-260514-7628
 ---
 The GTM tooling landscape is irreducibly fragmented: Clay for enrichment, a sequencer for delivery, a CRM for storage, Cross-beam/Reveal for partner data, intent providers (Quanzu, RB2B, Warmly, Vector), LinkedIn outreach tools (Walaxy, Heyreach), etc. A GTM engineer's primary value-add is not deep mastery of any single one — it's the engineering judgment to wire them together coherently. The carpenter-cathedral metaphor: if you're building a doghouse, hacky carpentry is fine; but if you're building a cathedral, hacky work means it keeps falling apart. Joe's lived experience supports this — he learned engineering principles (abstraction, DRY, modular design) the hard way by building a SaaS for $7.50/hr and then watching his hacky early code cause monumental problems as the system grew. He's not technically a credentialed engineer, but the engineering concepts he picked up from suffering through bad code now multiply his value 10x in GTM. The pragmatic counterweight: for one-off rapid outbound experiments where you may not even run the workflow a second time, engineering discipline is overkill — that's where Clay's flat, one-table-per-campaign model wins.

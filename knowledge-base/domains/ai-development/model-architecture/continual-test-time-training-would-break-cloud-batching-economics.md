@@ -61,6 +61,7 @@ related:
   - INS-260322-5790
   - INS-260327-5D5F
   - PRI-260328-A82C
+  - INS-260605-4AF8
 ---
 Cloud inference is cheap because providers batch many users' requests through one shared set of model weights, climbing a utilization curve that a single local user can't access — which is the core reason local has historically looked expensive. Cheema's most speculative argument is that this advantage is fragile. He identifies three forces that reintroduce batching even for a single local user (multi-agent systems running 4-8 agents per request, best-of-N / search-based test-time scaling, and continual learning) and notes Macs hit good utilization at batch size ~8.
 

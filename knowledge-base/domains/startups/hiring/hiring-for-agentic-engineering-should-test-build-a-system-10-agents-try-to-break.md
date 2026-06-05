@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260327-E0B0
   - INS-260327-63B5
+  - INS-260605-25B2
   - INS-260327-BF89
   - INS-260327-76B2
-  - INS-260403-F6F6
 ---
 Karpathy's reframe of technical interviews: most hiring processes haven't been refactored for agentic engineering capability. The right shape is 'build me a non-trivial project (e.g. a Twitter clone for agents), make it secure, then I'm going to run 10 Codex 5.4-X-high agents to try to break it — and they should fail.' This tests three things at once: (1) ability to use the tooling at depth, (2) judgment about spec, security, and abstractions, and (3) robustness against adversarial agents.
 

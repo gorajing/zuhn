@@ -51,12 +51,12 @@ stance: >-
   A great benchmark is a forward-looking goalpost that shapes where the field
   goes, not a backward-looking snapshot of current progress.
 related:
-  - INS-260403-D645
   - INS-260413-B79B
   - INS-260514-3974
   - INS-260605-3490
+  - INS-260605-6066
   - INS-260327-40DA
-  - PRI-260413-A957
+  - INS-260403-D645
 ---
 Chen draws a sharp line between benchmarks that take a snapshot of progress looking backwards and those that define progress by setting a goalpost about where capabilities need to go. The differentiating 'art' of a great benchmark is that it embeds a thesis — a research question about a subspace of capabilities or a bet about where the world is heading. Terminal Bench was a bet that the CLI would be a core interface for general-purpose computer use, not just coding; that bet turned out largely correct and consequential, and by measuring those capabilities the benchmark arguably accelerated the field's movement in that direction.
 

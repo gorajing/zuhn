@@ -73,9 +73,9 @@ related:
   - INS-260321-86F1
   - INS-260501-35E3
   - INS-260501-AB31
+  - INS-260605-7E75
   - INS-260412-B89F
   - INS-260603-E224
-  - INS-260410-56F7
 ---
 Given that organizational change is the real bottleneck (companion insight), the strategic response the panel converged on is: don't fight it — fit into it. Two concrete examples:
 

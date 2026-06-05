@@ -54,10 +54,10 @@ related:
   - INS-260405-2B3F
   - INS-260514-5AEF
   - INS-260519-ED17
+  - INS-260605-58DA
   - INS-260505-ABCC
   - INS-260514-AC43
+  - INS-260605-EBEB
   - INS-260323-3F39
-  - PRI-260412-7664
-  - INS-260605-287A
 ---
 Colvin's sharpest framing of when optimization matters: if you give a frontier model like Opus 4.6 a task where it already has all the information it needs, it just gets it right, and squeezing a prompt buys little. The payoff appears when you have a private corpus the model was never trained on — a bank's internal spec, a portfolio of 200M invoices — where injecting the right context and examples into the system prompt is 'incredibly valuable.' The Shopify example dramatized the economics: switching from feeding entire sites to GPT-5 to a GEPA-optimized Qwen agent cut cost from $5M/year to ~$73K/year while improving performance. The practical decision rule: optimization (and its cousin, fine-tuning) earns its keep where you have enormous run volumes over private data and a cheaper/faster model must be coaxed to match a frontier model's quality. For one-off tasks on public knowledge, just use the best model and move on.

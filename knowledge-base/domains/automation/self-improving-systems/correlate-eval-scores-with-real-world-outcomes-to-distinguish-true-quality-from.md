@@ -49,11 +49,11 @@ resolutions:
     announcement-style framing to curiosity-trigger hooks with personalization
     and universal/timeless framing.
 related:
-  - INS-260322-D6D7
+  - INS-260605-DCE5
   - INS-260530-C385
   - INS-260410-4EB9
+  - INS-260322-D6D7
   - PRI-260406-E75B
-  - INS-260605-4D1D
   - INS-260410-AF66
 stance: >-
   Track four quadrants — high eval + high views (validated winners), high eval +

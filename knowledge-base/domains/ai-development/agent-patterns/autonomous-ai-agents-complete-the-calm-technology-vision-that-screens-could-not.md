@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260330-1D3B
   - INS-260325-5B7F
+  - INS-260605-D055
   - PRI-260328-8317
   - INS-260403-E59C
   - INS-260530-D34F
-  - INS-260403-FF74
 evidence:
   - id: INS-260330-1D3B
     type: TRANSFERS_TO

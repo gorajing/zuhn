@@ -53,6 +53,7 @@ stance: >-
   number of viable software businesses rather than shrink them
 related:
   - INS-260405-6A6F
+  - INS-260605-A803
   - INS-260403-D227
   - INS-260403-D090
   - INS-260403-7825

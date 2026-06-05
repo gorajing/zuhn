@@ -1,11 +1,12 @@
 # Topic: training-dynamics
 
-> 14 insights
+> 15 insights
 
 - `INS-260410-78D3` [high] For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
 - `INS-260410-D3A7` [high] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
 - `INS-260410-5F60` [high] Autograd frameworks don't make neural nets 'just work' — gradient-level bugs like dead neurons, saturated nonlinearities, and miscomputed loss-vs-gradient clipping require understanding backprop internals to diagnose.
 - `INS-260410-41DD` [high] BatchNorm couples examples in a batch through the shared mean/std statistics, and this coupling — though widely considered ugly — produces a regularization side effect that has made it surprisingly hard to replace with cleaner alternatives like LayerNorm.
+- `INS-260605-C46E` [high] Representation alignment with a pretrained encoder makes generative models converge ~70x faster, but the frozen encoder becomes a hard ceiling you can't scale past.
 - `INS-260410-F295` [high] Sweep LR exponentially from tiny to explosive in one short run, plot loss vs log(lr), pick the bottom of the valley.
 - `INS-260410-C2E6` [high] Compute the expected initial loss (e.g., -log(1/n_classes)) and compare against your network's actual iteration-zero loss — a mismatch reveals an initialization bug worth fixing before anything else.
 - `INS-260410-E6E9` [high] When implementing or testing backprop code, initialize biases to small random numbers rather than zero — zeros simplify the math enough to mask incorrect gradient formulas that would fail on real inputs.

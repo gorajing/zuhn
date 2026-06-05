@@ -45,10 +45,10 @@ related:
   - INS-260321-C14C
   - INS-260327-005D
   - INS-260328-FFC3
-  - INS-260405-CC9D
   - INS-260405-68DC
   - INS-260327-1FA1
   - INS-260410-9F17
   - INS-260514-DFAE
+  - INS-260514-1659
 ---
 He found that a fully capable coding agent still needs a human acting as engineering manager to translate product decisions into agent-executable direction, and that getting that translation slightly wrong early derails the whole build. Reinforces the KB pattern (Jongmin, Woosang) that the human's leverage is in framing/decomposition and context, not in the code the agent writes.

@@ -53,10 +53,10 @@ stance: >-
   models blow the TTFT budget and smaller ones lose tool-calling quality.
 related:
   - INS-260330-C06E
+  - INS-260605-8F95
   - INS-260410-699C
   - INS-260321-18D0
-  - INS-260605-C859
-  - INS-260501-A1C7
+  - INS-260605-DA98
 ---
 In the pipeline, the LLM is the brain and its key metric is streaming latency — time to first token (TTFT) — because you want to start feeding tokens into the TTS model as fast as possible. A good target is ~200–300ms TTFT. That budget has a direct architectural implication: a good-sized model lands in the 8–30 billion parameter range. Go bigger and you burn through the latency budget; go smaller and you lose the intelligence and tool-calling reliability needed to do meaningful work.
 

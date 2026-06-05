@@ -59,10 +59,10 @@ stance: >-
   high-quality fine-tuning stage, not from pretraining.
 related:
   - INS-260330-4AD5
+  - INS-260605-3DBF
   - INS-260603-79E0
   - PRI-260320-6847
   - INS-260404-CE26
-  - INS-260322-3616
 ---
 Karpathy divides LLM production into two stages with radically different economics. Pretraining costs millions, runs for months on thousands of GPUs, and optimizes next-token prediction over terabytes of low-quality web text — this is where knowledge enters the weights. Fine-tuning uses the same next-token objective but swaps in ~100k hand-written high-quality conversations, takes roughly a day, and can be iterated weekly.
 

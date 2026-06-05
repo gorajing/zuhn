@@ -49,7 +49,6 @@ resolutions:
     monopoly pricing power.
 related:
   - INS-260320-92CC
-  - INS-260320-0511
   - PRI-260405-B144
   - PRI-260407-7AE9
   - INS-260410-3E37
@@ -58,6 +57,7 @@ related:
   - INS-260327-0004
   - INS-260327-422B
   - INS-260328-4717
+  - INS-260328-0B99
 stance: >-
   AI model input costs have declined 99%+ in two years (faster than Moore's law)
   while quality doubles every 7 months

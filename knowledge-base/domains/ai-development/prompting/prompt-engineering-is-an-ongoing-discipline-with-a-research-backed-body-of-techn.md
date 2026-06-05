@@ -61,8 +61,8 @@ related:
   - INS-260404-177F
   - INS-260403-7D1D
   - INS-260405-A5C8
+  - INS-260605-9900
   - INS-260514-DFAE
-  - INS-260603-DFA6
 ---
 Most practitioners learn prompting by trial and error—trying different phrasings until something works. This is slow, inconsistent, and doesn't transfer well across tasks. The alternative is treating prompt engineering as a discipline with documented techniques: chain-of-thought, few-shot exemplars, self-consistency, role prompting, output formatting constraints, and others that have been validated empirically.
 

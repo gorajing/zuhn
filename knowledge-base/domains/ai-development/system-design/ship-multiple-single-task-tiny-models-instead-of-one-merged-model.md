@@ -54,12 +54,13 @@ stance: >-
   stitching capabilities into one model, trading theoretical elegance for
   reusability and debuggability.
 related:
-  - INS-260320-4773
   - PRI-260320-BC72
   - INS-260514-EE2E
   - INS-260410-3271
   - INS-260410-B3C4
   - PRI-260323-49F8
+  - INS-260605-AA90
+  - INS-260605-FB4D
 ---
 In AI Edge Eloquent, Google split dictation into a speech-recognition engine and a separate dedicated mini-LLM text-polishing engine, even though 'we could probably have built one LLM to do all of this.' The choice is a deliberate 'modularity playbook' emerging as they build more on-device apps, and it rests on two pragmatic advantages over a single merged model.
 

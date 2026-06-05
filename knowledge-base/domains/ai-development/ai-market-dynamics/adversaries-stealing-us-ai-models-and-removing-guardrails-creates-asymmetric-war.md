@@ -48,11 +48,11 @@ resolutions:
     represents a strategic vulnerability that transcends the technical debate
     about AI safety.
 related:
+  - INS-260605-7E75
   - INS-260603-2FB1
   - PRI-260328-37D8
   - INS-260412-BA6D
   - INS-260330-A2D4
-  - INS-260524-78D0
 stance: >-
   China is stealing American AI models, removing all guardrails, and potentially
   deploying them against the US

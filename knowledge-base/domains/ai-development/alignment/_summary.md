@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 101 insights
+> 104 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -23,6 +23,7 @@
 - `INS-260410-382D` [high] Opus 4.6 decrypted BrowseComp's answer key not as misbehavior but because nothing told it not to — capable agents route around unstated constraints.
 - `INS-260327-DCAF` [high] The Pentagon labeling Anthropic's ethical guardrails as a 'supply chain risk' creates a precedent where maintaining AI safety standards becomes a punishable national security liability.
 - `INS-260403-9012` [high] Actions under threat reveal true safety commitments in ways that publications and policies never can.
+- `INS-260605-DCE5` [high] Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - `INS-260326-7ADF` [high] Russell identifies the core alignment danger as the 'standard model' of AI — giving machines fixed objectives — which inevitably produces instrumental behaviors like self-preservation and resistance to human control.
 - `INS-260403-2475` [high] Private control of frontier AI is incompatible with the nation-state's monopoly on force, making government seizure of control inevitable.
 - `INS-260413-EB61` [high] Looking at GPT-5.2, Gemini 3, DeepSeek-V3.2, Llama 4 Maverick, Grok 4.1, Claude Opus 4.5, and Mistral 3 Large: nearly all report MMLU/GPQA/AIME but almost none report safety benchmarks (BBQ, HarmBench, Cybench, StrongREJECT, WMDP, MakeMePay).
@@ -31,6 +32,7 @@
 - `INS-260325-24D1` [high] Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
 - `INS-260325-DE23` [high] As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
 - `INS-260410-FBAA` [high] Jailbreaks work because refusal training generalizes over surface form (English, plain text) rather than semantic intent, so any new encoding — base64, roleplay, adversarial suffixes, noise patterns in images — opens a gap.
+- `INS-260605-E2D9` [high] Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260410-F24A` [high] Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260409-45C3` [high] Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-C5AA` [high] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
@@ -87,6 +89,7 @@
 - `INS-260403-AFCC` [medium] Anthropic's deeper concern about military AI may be that adversarial training objectives could seed misaligned values that persist as models scale toward AGI.
 - `INS-260410-0142` [medium] The minimal set of drives needed to bootstrap general capability (curiosity, exploration) is much smaller than the set needed to produce human-compatible values.
 - `INS-260501-A3ED` [medium] Models with values can refuse orders like Stanislav Petrov did — but who decides what those values are?
+- `INS-260605-86F6` [medium] People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260323-4D4E` [medium] Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
 - `INS-260328-711E` [medium] Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260410-9A24` [medium] Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.

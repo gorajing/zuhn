@@ -58,11 +58,11 @@ stance: >-
   require the physical elimination of entire classes — the two should never be
   conflated in analysis.
 related:
+  - INS-260605-B176
   - INS-260330-C7CB
   - INS-260327-7A27
   - PRI-260328-E1CE
   - INS-260330-ED37
-  - INS-260410-CBF9
 ---
 The distinction matters because it changes both the expected violence and the point of no return. A political revolution swaps out the government and can, in principle, be reversed by another political revolution — the losing faction still exists. A social revolution aims to permanently remove categories of people (landlords, kulaks, intellectuals, ethnic groups), and once executed it cannot be undone because the target population is gone.
 

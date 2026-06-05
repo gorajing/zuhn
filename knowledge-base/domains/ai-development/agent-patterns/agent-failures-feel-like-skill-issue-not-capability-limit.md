@@ -37,14 +37,14 @@ resolutions:
 related:
   - INS-260605-DB29
   - INS-260320-9D89
+  - INS-260605-726C
   - INS-260605-D912
   - INS-260602-EA48
-  - INS-260410-E27A
-  - INS-260321-D370
   - INS-260325-252D
   - INS-260321-E2FC
   - INS-260329-20F8
   - INS-260330-D7CC
+  - INS-260403-0DE8
 stance: >-
   When agents fail, the instinct now is 'I gave bad instructions' not 'the AI
   can't do this'

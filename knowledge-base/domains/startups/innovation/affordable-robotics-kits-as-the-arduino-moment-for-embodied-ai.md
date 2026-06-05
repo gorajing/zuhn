@@ -51,5 +51,6 @@ related:
   - INS-260329-8F7C
   - INS-260405-ADCE
   - INS-260403-2E12
+  - INS-260605-7E75
 ---
 OpenCat packages a programmable quadruped with Arduino and Raspberry Pi options at consumer price points, explicitly targeting the gap between expensive research robots and toy-grade products. The founder's vision of an app-store model for robot behaviors mirrors the platform playbook that worked for smartphones and microcontrollers. The deeper pattern is that breakthrough technologies go mainstream not when they get incrementally cheaper, but when they drop below a psychological price threshold (smartphone-equivalent) and gain a developer ecosystem. If OpenCat or its successors succeed, they could do for physical AI what Raspberry Pi did for computing education—creating a generation fluent in embodied intelligence before they enter the workforce.

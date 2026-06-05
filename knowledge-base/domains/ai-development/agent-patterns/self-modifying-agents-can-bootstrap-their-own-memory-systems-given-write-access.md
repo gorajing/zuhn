@@ -46,7 +46,6 @@ stance: >-
   autonomously design, implement, and begin using its own persistent memory
   system without human-written code.
 related:
-  - INS-260320-F8FD
   - INS-260327-DC4C
   - INS-260402-2342
   - INS-260524-D5DB

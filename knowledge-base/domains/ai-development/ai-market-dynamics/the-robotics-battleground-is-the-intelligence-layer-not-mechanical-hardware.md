@@ -71,7 +71,6 @@ stance: >-
   mechanical-manufacturing lead
 related:
   - INS-260323-758B
-  - INS-260323-7A50
   - INS-260323-6134
   - INS-260323-F7DB
   - INS-260327-6E57
@@ -80,6 +79,7 @@ related:
   - INS-260327-7157
   - INS-260403-9BBA
   - INS-260403-CA1F
+  - INS-260405-E4FC
 ---
 The geopolitical-competitive framing the panel offered separates robotics into two layers and argues the battleground has moved:
 1. Mechanical layer — building the physical robot. China is excellent at this (deep manufacturing ecosystems, supply-chain density).

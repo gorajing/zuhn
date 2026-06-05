@@ -67,9 +67,9 @@ related:
   - INS-260605-C009
   - PRI-260405-2DE5
   - PRI-260403-52DF
+  - INS-260605-6722
   - PRI-260407-F684
   - PRI-260501-1E66
-  - INS-260501-9503
 ---
 Skills are just markdown, but you test them like code with an extra LLM-in-the-loop, so testing means evals: input, expected output, and — most usefully — assertions on the steps, reasoning, and tools the agent called, since asserting on exact final text is brittle under non-determinism. Pedro follows the OpenAI 'systematically evaluate agent skills' eval-driven loop: define what 'good' means, write the skill, run evaluations (or test manually), grade, iterate. The Agent Skills Open Standard proposes a simple local eval.json — an array of scenarios each with a prompt, expected output (only if using an LLM judge), and assertions.
 

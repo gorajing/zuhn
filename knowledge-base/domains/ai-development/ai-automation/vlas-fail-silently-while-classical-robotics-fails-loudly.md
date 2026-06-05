@@ -44,10 +44,10 @@ resolutions:
     nonsense.
 related:
   - INS-260327-9EFE
+  - INS-260605-726C
   - PRI-260328-1ED1
   - INS-260602-E2BD
   - INS-260402-3C79
-  - INS-260321-2482
   - INS-260605-320E
 stance: >-
   Classical robotics systems fail loudly (joint limit hit, object not detected,

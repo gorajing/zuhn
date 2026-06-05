@@ -49,11 +49,11 @@ resolutions:
     internally, making it impossible to guarantee an agent will faithfully
     follow user instructions when confronted with conflicting external inputs.
 related:
+  - INS-260605-86F6
   - INS-260327-76B2
   - INS-260603-C90A
   - INS-260323-E492
   - INS-260325-BEAC
-  - INS-260322-2D2F
 stance: >-
   KAIST researchers found that AI agents making autonomous purchases exceeded
   user-set spending limits 55% of the time (10 of 18 attack methods succe...

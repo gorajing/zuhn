@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 51 insights
+> 53 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -35,6 +35,7 @@
 - `INS-260514-E627` [medium] $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted.
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.
 - `INS-260514-E860` [medium] OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives.
+- `INS-260605-8664` [medium] A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260514-4436` [medium] Attach domain-specialized skill files (Brand Kit, Frontend Web, Mobile App) for design tasks — they encode the configuration logic non-designers don't know to specify, dramatically improving output quality.
 - `INS-260530-B694` [medium] PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260405-00DE` [medium] Background noise carries exploitable signals about patient context that standard noise cancellation discards.
@@ -53,3 +54,4 @@
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260514-D0A4` [medium] Hrefs says 100 searches/month. Real Google Search Console: 10,000. The trend is right; the number is off by 100x.
 - `INS-260405-1F6B` [low] AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.
+- `INS-260605-AA90` [low] An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.

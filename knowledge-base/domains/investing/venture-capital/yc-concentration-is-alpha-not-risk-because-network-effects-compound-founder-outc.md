@@ -51,11 +51,11 @@ stance: >-
   management theater that sacrifices returns, because YC's network effects
   produce systematically better survival and exit outcomes
 related:
+  - INS-260605-82BD
   - PRI-260406-BA3B
   - PRI-260328-A4AC
   - INS-260403-B6C6
   - INS-260405-54E2
-  - PRI-260406-311D
 ---
 The conventional wisdom that heavy YC exposure in a venture portfolio represents dangerous concentration is challenged by performance data. YC startups outperform peers on survival rates, scaling velocity, and exit outcomes due to compounding network effects — alumni hiring alumni, batch-mates becoming customers, and shared institutional knowledge reducing common failure modes.
 

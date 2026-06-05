@@ -52,7 +52,6 @@ related:
   - PRI-260323-F37F
   - INS-260412-350D
   - INS-260323-8CA9
-  - INS-260323-D631
 stance: >-
   Editing your own cells (somatic) affects only you; editing embryos (germline)
   permanently changes all future descendants

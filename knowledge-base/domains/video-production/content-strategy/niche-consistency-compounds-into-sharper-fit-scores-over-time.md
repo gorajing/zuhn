@@ -55,8 +55,8 @@ related:
   - INS-260329-22A8
   - INS-260409-8750
   - INS-260605-8F5E
+  - INS-260605-82BD
   - INS-260410-9168
-  - PRI-260321-558C
 ---
 The platform uses signal from your prior posts' successful sample groups to predict who to seed your next post to. If the last five videos all converged on the same avatar — say, 28-year-old male SaaS founders — the algorithm builds high confidence in that mapping and seeds future posts straight to that pool. Each successful match reinforces the model.
 

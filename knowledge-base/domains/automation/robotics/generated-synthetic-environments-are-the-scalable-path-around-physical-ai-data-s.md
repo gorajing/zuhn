@@ -79,12 +79,12 @@ related:
   - INS-260323-7A50
   - INS-260323-4D63
   - INS-260323-D400
-  - INS-260327-6E57
   - INS-260327-CFDC
-  - INS-260327-9816
   - PRI-260328-7007
   - INS-260329-D1F2
   - INS-260403-58DA
+  - INS-260405-F05B
+  - INS-260410-56F7
 ---
 Real-world robot training data is the binding constraint for physical AI — it's expensive to capture and inherently limited (the AI-sustainability panel described the labor-intensive teleoperation factories this requires). The proposed escape: generate the environments synthetically and train robots in simulation at effectively unlimited scale.
 
