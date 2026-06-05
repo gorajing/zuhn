@@ -54,8 +54,8 @@ related:
   - INS-260329-27A7
   - INS-260329-D159
   - INS-260403-6EA6
+  - INS-260605-B66C
   - INS-260329-6B2C
-  - INS-260329-4B99
 evidence:
   - id: INS-260403-6EA6
     type: EXTENDS

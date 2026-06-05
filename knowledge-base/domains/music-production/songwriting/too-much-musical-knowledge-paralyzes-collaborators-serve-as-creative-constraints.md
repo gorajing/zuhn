@@ -45,8 +45,8 @@ related:
   - PRI-260403-88F5
   - INS-260330-CCD4
   - INS-260321-6D01
+  - INS-260605-DDAB
   - INS-260322-F781
-  - INS-260322-B392
 stance: >-
   Charlie Puth's vast musical index becomes a liability without collaborators to
   constrain him

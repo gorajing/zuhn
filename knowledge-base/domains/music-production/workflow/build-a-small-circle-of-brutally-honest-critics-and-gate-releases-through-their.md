@@ -49,7 +49,6 @@ related:
   - INS-260322-AB55
   - INS-260326-C692
   - INS-260404-8031
-  - INS-260405-3E73
 stance: >-
   Find 2-3 peers at a similar skill level who will give brutally honest
   feedback, and don't release anything until it passes their criticism.

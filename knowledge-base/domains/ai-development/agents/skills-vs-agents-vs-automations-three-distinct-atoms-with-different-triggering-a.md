@@ -61,7 +61,6 @@ stance: >-
   workflows (RPA) — confusing them leads to over-engineering or
   under-leveraging.
 related:
-  - INS-260320-4773
   - PRI-260320-D5B7
   - PRI-260320-BC72
   - INS-260327-D794

@@ -56,7 +56,7 @@ related:
   - INS-260410-78D3
   - INS-260514-DC55
   - INS-260323-8544
-  - INS-260410-885B
+  - INS-260605-015B
 ---
 If Q and K are unit Gaussian at initialization, the variance of Q·K^T grows linearly with head_size — in Karpathy's example with head_size=16, attention scores have variance ~16 before scaling. Feeding values that large into softmax causes it to 'sharpen' aggressively: softmax(x*8) approaches a one-hot distribution where each token attends almost entirely to a single other token. That kills learning because gradients can only flow through the single winning edge.
 

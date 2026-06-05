@@ -50,16 +50,16 @@ stance: >-
   increases throughput but increases per-request latency, and optimizing for
   individual request speed reduces system-wide throughput.
 related:
-  - INS-260321-18D0
   - INS-260320-9FD5
+  - INS-260605-FE37
   - PRI-260407-5465
+  - INS-260321-18D0
   - INS-260409-4FEB
   - INS-260410-5088
-  - INS-260329-0B55
   - INS-260329-425B
+  - INS-260329-0B55
   - INS-260329-90F4
   - INS-260403-EA2C
-  - INS-260423-81B6
 evidence:
   - id: INS-260321-18D0
     type: REFINES

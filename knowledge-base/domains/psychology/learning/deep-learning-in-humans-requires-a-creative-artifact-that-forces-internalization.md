@@ -65,11 +65,12 @@ stance: >-
   Q&A are seductive substitutes that feel like learning but fade fast.
 related:
   - INS-260330-AC16
-  - INS-260409-60C2
   - INS-260409-DBD8
   - INS-260329-023F
   - PRI-260403-0509
+  - INS-260409-60C2
   - INS-260329-1D3B
+  - INS-260605-BA63
 ---
 Nielsen distinguishes two types of creative work: routine work (where the goal is speed and outsourcing) and high-variance work (where you must be willing to take weeks, months, or years and spend most of that time stuck). The most important learning happens in the stuck phase. Essays he wrote in a couple days produced little durable knowledge; essays he spent three to six months on he still remembers fifteen years later.
 

@@ -59,8 +59,8 @@ related:
   - INS-260327-1563
   - INS-260327-1631
   - INS-260409-FE00
+  - INS-260605-048B
   - INS-260329-4109
-  - INS-260329-818A
 ---
 Karpathy shows that on an A100, even well-tuned training workloads hit only ~60% hardware utilization — the tensor cores spend most of their time waiting for weights and activations to arrive from high-bandwidth memory. This flips the intuitive mental model: a 'faster' kernel is often one that does more arithmetic but fewer memory round-trips.
 

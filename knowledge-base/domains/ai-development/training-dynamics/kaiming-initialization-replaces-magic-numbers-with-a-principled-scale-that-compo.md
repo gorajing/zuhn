@@ -61,7 +61,6 @@ stance: >-
   gain depends on the downstream nonlinearity, because this is the only scaling
   that preserves activation variance through arbitrary depth.
 related:
-  - INS-260410-85F5
   - INS-260501-F394
   - INS-260410-6FA3
   - INS-260501-94AC

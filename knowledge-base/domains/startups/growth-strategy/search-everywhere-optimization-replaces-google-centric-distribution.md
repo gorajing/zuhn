@@ -56,6 +56,7 @@ related:
   - PRI-260328-1D90
   - INS-260403-3BB2
   - INS-260410-CD15
+  - INS-260605-175E
 ---
 The article frames the biggest SEO mistake of 2025 as over-reliance on Google for traffic. As AI-generated answers reduce clicks to traditional search results, brands need presence across multiple discovery surfaces: email newsletters (owned audience independent of algorithms), YouTube (high-intent visual learners), LinkedIn and Reddit (active advice-seeking communities), and AI chat interfaces themselves.
 

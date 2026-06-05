@@ -51,12 +51,11 @@ stance: >-
   of code modules rather than loading every tool definition into context
   upfront.
 related:
-  - INS-260410-953E
+  - INS-260605-D710
+  - INS-260605-D2C7
   - INS-260410-19DE
   - INS-260524-2C7C
   - INS-260605-35B4
-  - INS-260329-8CC0
-  - INS-260410-0855
   - INS-260605-5C58
   - INS-260605-9523
 ---

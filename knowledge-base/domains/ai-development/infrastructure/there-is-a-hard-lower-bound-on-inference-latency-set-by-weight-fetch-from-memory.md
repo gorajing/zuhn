@@ -52,13 +52,13 @@ stance: >-
   weights from HBM into compute units — this sets a non-negotiable floor on
   per-token latency for any given hardware configuration.
 related:
-  - INS-260330-C06E
   - PRI-260403-2024
   - INS-260410-CB70
   - PRI-260426-9730
   - INS-260410-AC0B
   - INS-260605-86BE
   - INS-260514-4BD5
+  - INS-260605-F383
 ---
 Pope's roofline derivation: minimum inference latency = max(compute time, memory time). The memory time for weight fetches is total_params / memory_bandwidth. This is a physical lower bound — you can't read the weights faster than HBM allows. Even at batch size 1, you must read all weights once per token.
 

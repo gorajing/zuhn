@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 74 insights
+> 77 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -33,6 +33,7 @@
 - `INS-260403-7692` [high] People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.
 - `INS-260519-D007` [high] Kyle Norton (Owner): the money you'd spend on half your BDRs, spend on a GTM engineer; if you hire a RevOps leader early they must be applied-AI capable.
 - `INS-260514-15AF` [high] Keith Rabois's 'hire barrels, not ammunition' applies harder in the AI era. Cliff's test: head of growth must source candidates, write ads in CapCut, edit in Figma, buy ads — all themselves in 7 days. Specialists who delegate execution have NEGATIVE leverage in AI teams.
+- `INS-260605-AEAC` [high] For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
 - `INS-260514-D5B5` [high] Hire ICs, not managers. A leader who can't do the function themselves can't hire, teach, or evaluate it — and the team's quality silently collapses from underneath.
 - `INS-260514-41C9` [high] The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment.
 - `INS-260403-36C6` [high] Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
@@ -44,6 +45,7 @@
 - `INS-260403-5F3E` [high] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-22DF` [high] The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` [high] Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
+- `INS-260605-0C2F` [high] Pay enough to make the move viable, then sell impact and environment — because a paycheck won't get people out of bed when the work gets hard.
 - `INS-260403-F4BB` [high] Sequoia asks every VP-level hire to name five respected peers, building a decade-long talent map that functions like PageRank for people.
 - `INS-260403-309F` [high] Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
 - `INS-260404-FE95` [high] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
@@ -63,6 +65,7 @@
 - `INS-260403-D531` [medium] College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260403-C283` [medium] Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260330-D52B` [medium] Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage.
+- `INS-260605-AAA1` [medium] Domain expertise is the non-negotiable base; layer on as many adjacent skills as possible so the same person can scale into evaluator and architect roles.
 - `INS-260403-10CE` [medium] As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
 - `INS-260410-362D` [medium] Epic hires almost exclusively from Midwestern colleges regardless of major, gives programming-test-based offers with no interview, and then drills them for six months in 'the Epic way'—down to how to take notes on a legal pad and write emails.
 - `INS-260501-D6B8` [medium] Hire by giving a real project to build; then run 10 attacker agents at it; can the candidate's system survive?

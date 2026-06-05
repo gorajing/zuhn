@@ -1,8 +1,9 @@
 # Topic: organizational-design
 
-> 25 insights
+> 27 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
+- `INS-260605-C632` [high] Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
 - `INS-260410-17AE` [high] Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
 - `INS-260410-5E3F` [high] Azure was deliberately incubated outside the Server & Tools division because the division's KPIs, partners, and comp structure were all aligned with on-prem Windows Server sales that Azure would cannibalize.
 - `INS-260410-44B7` [high] Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.
@@ -28,3 +29,4 @@
 - `INS-260423-3459` [medium] Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability.
 - `INS-260423-EFC0` [medium] Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260410-1384` [medium] Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.
+- `INS-260605-B7A2` [medium] Rather than reform a slow institution wholesale, create a small central unit operating under different rules (autonomy, market pay, own hiring) as a proof point.

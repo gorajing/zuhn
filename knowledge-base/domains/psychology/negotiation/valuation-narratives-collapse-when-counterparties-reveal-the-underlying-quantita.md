@@ -63,6 +63,7 @@ related:
   - PRI-260411-5A63
   - INS-260403-BA6A
   - PRI-260411-5353
+  - INS-260605-D37A
 ---
 In fundraising, founders often believe valuation is about storytelling—painting a vision of market size, team strength, and traction. This works until the investor opens a spreadsheet. The article's observation that 'most founders think valuation is about storytelling until the spreadsheet comes out' reveals a general negotiation dynamic: narrative-based positioning is inherently fragile against quantitative framing.
 

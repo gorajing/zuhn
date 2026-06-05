@@ -9,6 +9,7 @@
 - `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260330-1E12` Staying anchored to a known reference point in chaos prevents the fatal disorientation that kills more people than the threat itself.
 - `INS-260330-523E` Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260327-A234` Be a cockroach—survive everything by doing whatever it takes daily to prevent your company from dying.
 - `INS-260403-2A30` A clear cash runway model turns the existential threat of running out of money into a series of calm, informed decisions.
 - `INS-260327-125F` At one point his bank account was under $100 and he lived in a tiny room with mice — that willingness to endure extreme frugality gave Presto the runway to survive 5 years with zero revenue.
@@ -29,4 +30,3 @@
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-AC9F` The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
-- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.

@@ -48,10 +48,10 @@ stance: >-
   gains are the primary cost reduction vector, not model size reduction.
 related:
   - INS-260325-E62D
+  - INS-260605-048B
   - INS-260329-4842
   - PRI-260406-8B75
   - INS-260326-8201
-  - INS-260409-1078
   - INS-260323-6761
   - INS-260326-AE6C
   - INS-260329-A86F

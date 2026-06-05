@@ -59,12 +59,11 @@ stance: >-
   — without owning the model, you cannot defend margins as competition shifts,
   making sale to a model owner the rational endgame.
 related:
-  - INS-260322-EDC2
-  - INS-260327-30E4
-  - INS-260330-3257
   - INS-260405-E155
   - INS-260409-FE1D
   - INS-260322-5790
+  - INS-260327-30E4
+  - INS-260322-EDC2
   - PRI-260406-0ACE
   - INS-260501-723C
 ---

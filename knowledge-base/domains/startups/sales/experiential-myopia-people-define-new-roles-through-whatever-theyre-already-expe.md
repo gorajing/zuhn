@@ -62,6 +62,6 @@ related:
   - INS-260404-89C3
   - PRI-260406-6690
   - PRI-260328-EE04
-  - INS-260403-7FFA
+  - INS-260605-AAA1
 ---
 Joe's framing (which he says Claude actually coined for him): 'experiential myopia' — defining a new role only through the slice of it your past experiences let you see clearly. The pattern is rampant in the GTM engineering definitional debate: Clay-fluent operators say 'GTM engineering is outbound with Clay'; RevOps people say 'it's growth-hacking 2.0 wrapped in a new term, ignoring all the architecture/systems-thinking RevOps already does well'; salespeople who learned a sequencer say 'I'm a GTM engineer because I know how to set up a campaign'; engineers say 'it's just a glorified RevOps engineer.' All of these are partly right and structurally wrong: each is constraining the role to whatever the speaker already understands. Joe's antidote: the actual role is broader than any single archetype because the GTM tool landscape is broader than any single discipline. The implication for hiring/building: don't anchor your job description on the dimension you happen to know best — that filters out the people who'd bring the breadth the role actually demands. Broader lesson: whenever you find yourself confidently defining a brand-new role, ask 'what am I missing because I haven't been there?'

@@ -51,7 +51,6 @@ stance: >-
   trade branding, and investor pattern-matching.
 related:
   - INS-260403-0550
-  - INS-260410-8B2C
   - INS-260412-8A13
   - INS-260505-1165
   - INS-260410-C207

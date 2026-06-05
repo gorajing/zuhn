@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5244 actionable insights
+Generated on 2026-06-05 | 5268 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -29,6 +29,7 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260409-52CE] If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 - [INS-260423-8504] Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
 - [INS-260530-E6AA] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
+- [INS-260605-828D] FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -148,6 +149,10 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260605-5078] Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - [INS-260605-CEB5] Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - [INS-260605-D3C7] Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
+- [INS-260605-0312] A harness must deterministically inspect the trace of tool calls to confirm what actually happened, because the model will claim it succeeded even when it failed.
+- [INS-260605-8C71] Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
+- [INS-260605-DB29] The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
+- [INS-260605-320E] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -343,6 +348,8 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260605-90CF] Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
 - [INS-260605-26EC] Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests.
 - [INS-260605-988D] Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
+- [INS-260605-B03B] Because the LLM and TTS blindly carry forward whatever the speech-to-text model produces, a misheard name or drug becomes an uncorrectable error — making entity-level transcript accuracy the foundation of the whole pipeline.
+- [INS-260605-ACCD] Cascade speech-to-text, an LLM, and text-to-speech as separate orchestrated models, because unified speech-to-speech models can't yet follow instructions or call tools reliably enough for production.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -534,6 +541,7 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260410-8092] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - [INS-260421-CE27] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - [INS-260423-9225] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
+- [INS-260605-F383] Network latency between geographically separated models can dominate engine latency; co-locating all models and the orchestrator in one data center can drop a 75ms hop to ~5ms for a ~30% total latency reduction.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -569,6 +577,8 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260514-44A4] AI compute spend is about to exceed salary spend at top AI-native companies. Speechify is mid-flight. 'If you don't spend 1000 credits a day, I'm disappointed in you.' Treat tokens as the primary cost line, not headcount.
 - [INS-260605-E4BB] Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
 - [INS-260605-2531] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
+- [INS-260605-8F42] The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
+- [INS-260605-DA2B] Target ~200–300ms time-to-first-token for the LLM, which constrains model size to roughly 8–30B parameters — bigger burns the latency budget, smaller sacrifices the intelligence and tool calling the agent needs.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -684,6 +694,7 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260421-536F] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - [INS-260423-3F3B] Cody: if you're looking at Salesforce versus HubSpot right now, Salesforce is the better product for AI foundation because it has a more robust API so you can do more with it.
 - [INS-260530-7FE2] Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
+- [INS-260605-4FE3] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -731,6 +742,10 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260505-5FA7] Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?'
 - [INS-260514-1277] Note quality, not wiki tech, is the primary bottleneck — fix your note-taking discipline BEFORE investing in the wiki stack, because the wiki amplifies what's already there.
 - [INS-260524-78D0] Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
+- [INS-260605-4597] GPQA's quiet contribution was an adversarial multi-reviewer protocol with agreement-based payouts, ensuring tasks are well-posed, tractable for other experts, and verifiable.
+- [INS-260605-3490] The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
+- [INS-260605-FCDA] Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
+- [INS-260605-355C] The same best-in-class diarizer scores ~2-8% error on clean telephone speech but ~41% in a noisy restaurant — so 'how good is it?' has no use-case-free answer.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -834,6 +849,10 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260605-2408] Reeve assembled a viral app entirely from existing scale-ready APIs, and concluded the glue and the story about the glue were the project's most important part.
 - [INS-260605-6C72] Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss.
 - [INS-260605-0819] Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
+- [INS-260605-4592] In a large org, skills sprawl out of control; only the best should survive, by deliberate Darwinian pruning.
+- [INS-260605-BFBE] An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
+- [INS-260605-9A92] Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
+- [INS-260605-8E08] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -853,6 +872,7 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260514-1659] One engineer writes 'how to write a good follow-up email' once. Every agent on the team writes good follow-up emails forever. Compounds.
 - [INS-260514-5914] Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
 - [INS-260605-33C0] Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable.
+- [INS-260605-D912] Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -4316,6 +4336,9 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260514-D5B5] Hire ICs, not managers. A leader who can't do the function themselves can't hire, teach, or evaluate it — and the team's quality silently collapses from underneath.
 - [INS-260514-41C9] The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment.
 - [INS-260519-D007] Kyle Norton (Owner): the money you'd spend on half your BDRs, spend on a GTM engineer; if you hire a RevOps leader early they must be applied-AI capable.
+- [INS-260605-AAA1] Domain expertise is the non-negotiable base; layer on as many adjacent skills as possible so the same person can scale into evaluator and architect roles.
+- [INS-260605-AEAC] For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
+- [INS-260605-0C2F] Pay enough to make the move viable, then sell impact and environment — because a paycheck won't get people out of bed when the work gets hard.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
@@ -4665,6 +4688,7 @@ Generated on 2026-06-05 | 5244 actionable insights
 - [INS-260410-44B7] Lock R&D at a fixed percentage of revenue through any business cycle so your technology leaders stop negotiating and start building.
 - [INS-260410-DB84] Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - [INS-260412-7CED] Nokia's split into competing Symbian and MeeGo teams created such internal squabbling that basic decisions with external partners took a year — fatal in a fast-moving tech market.
+- [INS-260605-C632] Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
 
 ## startups/pitch-decks
 - [INS-260405-D514] As pitch descriptions approach 'could be anything,' their information content approaches zero.

@@ -58,8 +58,8 @@ related:
   - PRI-260406-8B75
   - INS-260329-818A
   - INS-260409-6DBE
+  - INS-260605-048B
   - INS-260410-78F4
-  - INS-260325-FDA9
 ---
 The Hope paper's mechanism for avoiding catastrophic forgetting (the long-standing obstacle to continual learning): assign different update frequencies to different modules in a Continuum Memory System. Because each module updates at a different time, knowledge does not change everywhere at once. If a fast module overwrites a piece of information while learning something new, that information still exists in slower modules that haven't updated yet — and it can propagate back to be recovered.
 

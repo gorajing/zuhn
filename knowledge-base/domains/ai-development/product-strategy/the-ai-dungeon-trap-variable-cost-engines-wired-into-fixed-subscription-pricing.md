@@ -50,10 +50,10 @@ stance: >-
   erasing margins that top-line growth masks.
 related:
   - INS-260403-FF45
+  - INS-260605-AA03
   - INS-260323-FEAB
   - INS-260405-6A94
   - INS-260402-24B0
-  - INS-260323-7625
   - INS-260404-BEAA
   - INS-260410-1996
   - INS-260412-5092

@@ -64,11 +64,11 @@ related:
   - INS-260329-8DC5
   - INS-260403-31E4
   - INS-260403-5BD6
-  - INS-260410-18CF
   - INS-260605-287A
   - INS-260320-D972
   - INS-260403-F400
   - PRI-260320-6847
   - INS-260514-D3D1
+  - INS-260514-9D51
 ---
 Workflow completion step from the Korean PPT tutorial: after iterating to a high-quality design prompt (Minimax-base + customized font/logo/aspect/style rules), put it in a Claude Project: (1) Create new Project in Claude. (2) Paste the refined prompt into Instructions. (3) Upload your logo, font files, and any reference assets into Knowledge. (4) From now on, every chat inside that Project inherits the prompt and assets automatically. You can generate by topic ('make PPT about Korean food delivery trends') or by uploading an existing PDF/PPT with the instruction 'redesign this in our style.' This is the Claude version of GPTs and Gemini's Gems — persistent context bound to a workspace. The architectural pattern: when you find prompt context that earns its keep across many sessions, move it from per-message text to project-level persistence. This frees up the per-message slot for what's actually variable (the specific topic, data, audience) while keeping invariant context stable. The non-obvious efficiency: pinning multiple Projects (one for each design style — Minimax style, Apple style, Stripe style, etc.) lets you switch instantly between style modes by switching Projects. The pattern generalizes to any AI workflow with multiple reusable contexts: research projects (each with its own corpus), code projects (each with its own codebase context), writing projects (each with its own voice samples). Projects/GPTs/Gems are the right abstraction for persistent role-context.

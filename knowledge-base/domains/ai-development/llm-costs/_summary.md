@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 29 insights
+> 33 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -19,10 +19,14 @@
 - `INS-260410-43E4` [high] GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
 - `INS-260320-EF3A` [high] Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - `INS-260325-0409` [high] QJL achieves zero-overhead error correction by spending just 1 bit on residual bias elimination rather than distributing precision uniformly — a principle applicable beyond quantization.
+- `INS-260605-DA2B` [high] Target ~200–300ms time-to-first-token for the LLM, which constrains model size to roughly 8–30B parameters — bigger burns the latency budget, smaller sacrifices the intelligence and tool calling the agent needs.
+- `INS-260605-FE37` [high] Diffusion does multiple forward passes over the same data, so it hits the compute ceiling earlier in large batches — lower latency per user but lower total throughput and higher cost.
+- `INS-260605-AA03` [high] Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
 - `INS-260514-44A4` [high] AI compute spend is about to exceed salary spend at top AI-native companies. Speechify is mid-flight. 'If you don't spend 1000 credits a day, I'm disappointed in you.' Treat tokens as the primary cost line, not headcount.
 - `INS-260403-91F7` [high] AI inference costs create variable expense per interaction, breaking the traditional SaaS model of near-zero marginal cost per user.
 - `INS-260320-0511` [high] Use cheap models (gpt-5-nano) for categorization/relevance scoring before expensive models — removes 70-90% of irrelevant inputs.
 - `INS-260320-2058` [high] Use OpenRouter for a unified dashboard, model switching, spending tracking, and hard budget limits across all LLM providers.
+- `INS-260605-8F42` [medium] The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
 - `INS-260320-9937` [medium] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
 - `INS-260514-4E58` [medium] Anthropic gating Claude Code behind the $100/mo tier was a painted-door test — the test was necessary because $20/mo doesn't pay for the inference and training.
 - `INS-260412-9B00` [medium] At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.

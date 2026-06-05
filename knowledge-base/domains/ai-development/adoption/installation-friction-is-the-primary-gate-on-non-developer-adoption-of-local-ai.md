@@ -54,11 +54,11 @@ stance: >-
   The biggest barrier to mainstream adoption of powerful developer-built AI
   tools is not capability but installation friction.
 related:
+  - INS-260605-D2C7
   - INS-260327-8B34
   - INS-260330-B771
   - INS-260410-A18B
   - INS-260330-EEBD
-  - INS-260410-8ECF
 ---
 Anthropic explicitly identifies five friction points that kept powerful MCP servers locked to developer audiences: required runtimes (Node/Python), manual JSON config editing, dependency conflicts, no discovery mechanism, and painful updates. Each is individually solvable but collectively they form a wall that non-technical users cannot climb.
 

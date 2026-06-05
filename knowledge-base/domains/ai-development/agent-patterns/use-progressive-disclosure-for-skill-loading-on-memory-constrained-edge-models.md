@@ -51,7 +51,6 @@ stance: >-
   Loading skill instructions on demand via one-line descriptions beats
   front-loading all tool details for small on-device models.
 related:
-  - INS-260327-63B5
   - INS-260410-CD79
   - INS-260501-C59A
   - INS-260501-9503

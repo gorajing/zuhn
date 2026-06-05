@@ -59,6 +59,7 @@ related:
   - INS-260505-4FEF
   - INS-260409-A4F0
   - INS-260409-5CC6
+  - INS-260605-175E
 ---
 The current AI development tool landscape naturally stratifies into three tiers based on what they can actually build. Chatbots (Claude, ChatGPT) can generate code but cannot host it, limiting them to single-page throwaway prototypes. Cloud environments (v0, Bolt, Replit, Lovable) handle full-stack deployment but vary in backend capability—Bolt runs servers in-browser (no persistent data), v0 deploys to real infrastructure, and Replit provides full databases. Local IDEs (Cursor, Copilot) target developers building production software.
 

@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 237 insights
+> 241 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -55,6 +55,7 @@
 - `INS-260329-19EA` [high] ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260323-6944` [high] Cantor's diagonal argument -- constructing an element that differs from every item on a list -- is the same core technique behind Godel's incompleteness, Turing's halting problem, and Russell's paradox.
 - `INS-260329-AE09` [high] Dictionaries are the most transferable data structure concept because key-value mapping appears at every level of the software stack.
+- `INS-260605-BFBE` [high] An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
 - `INS-260330-81A7` [high] Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260330-CA97` [high] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
 - `INS-260329-7673` [high] ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
@@ -201,11 +202,13 @@
 - `INS-260325-2B76` [medium] The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
 - `INS-260329-92FC` [medium] Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
 - `INS-260501-BBB7` [medium] Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
+- `INS-260605-4592` [medium] In a large org, skills sprawl out of control; only the best should survive, by deliberate Darwinian pruning.
 - `INS-260605-7125` [medium] Push prompt/model/temperature as typed managed variables so you can change agent behavior in prod without a redeploy.
 - `INS-260603-7252` [medium] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
 - `INS-260605-CF2E` [medium] Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
+- `INS-260605-9A92` [medium] Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
 - `INS-260320-4BA8` [medium] Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260410-25AC` [medium] Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
@@ -221,6 +224,7 @@
 - `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
 - `INS-260403-5BD6` [medium] A portable master prompt that works across ChatGPT, Claude, and Gemini protects against platform-specific configuration breaking when interfaces change.
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
+- `INS-260605-8E08` [medium] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
 - `INS-260329-DACC` [medium] Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260327-0875` [medium] A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260320-D4BD` [medium] New engineers hit the ground running with clear specs defining both what to build and what has already been done.

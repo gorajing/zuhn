@@ -46,10 +46,10 @@ stance: >-
   and prepayment.
 related:
   - INS-260329-BC36
+  - INS-260605-B66C
   - INS-260323-E9E4
   - INS-260514-9D0A
   - INS-260330-27DD
-  - INS-260514-A946
 evidence:
   - id: INS-260330-27DD
     type: TRANSFERS_TO

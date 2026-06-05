@@ -1,7 +1,7 @@
 # Tag: foundation-models
 
-- `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
 - `INS-260413-0992` Most AI foundation models for science originate from academia and government with international collaborations, inverting the 91.58% industry dominance in general-purpose frontier AI.
+- `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260603-6E59` Satish (Stanford atmospheric FM): on sequences (language/code) we're ~80-90% there because a word encodes sparse information you can mask and recover; but encoding even a 1024×1024 image into a vector loses enormous information, and video/spectral data is worse — the breakthrough for high-dimensional data hasn't happened.
 - `INS-260405-1C8D` Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
@@ -17,8 +17,8 @@
 - `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260505-1165` Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text.
+- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
 - `INS-260322-54F3` The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
+- `INS-260403-5CBD` The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260409-22CD` Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
 - `INS-260327-30E4` Competing with OpenAI and Anthropic on models is capital-intensive and futile — surf the wave of their improvements by building applications on top.
-- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
-- `INS-260403-5CBD` The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.

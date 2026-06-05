@@ -55,6 +55,7 @@ related:
   - PRI-260324-5F05
   - PRI-260406-1115
   - INS-260403-0DE8
+  - INS-260605-FCDA
 ---
 The Libra/Diem experience reveals a pattern that extends beyond crypto: when regulatory oversight crosses from setting boundaries into directing product decisions, innovation dies. Regulators have legitimate roles in defining what's permissible, but they lack market feedback loops, user empathy, and iteration speed. When they become de facto product managers, the result is a product designed for compliance rather than users.
 

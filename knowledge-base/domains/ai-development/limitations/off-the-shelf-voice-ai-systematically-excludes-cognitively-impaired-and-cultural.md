@@ -47,11 +47,11 @@ stance: >-
   impairments, speech disorders, or non-mainstream cultural communication
   patterns, requiring ground-up infrastructure rebuilding.
 related:
+  - INS-260605-D37A
   - INS-260321-3967
   - PRI-260406-4EBD
   - INS-260525-1CE3
   - INS-260402-8E46
-  - PRI-260328-DD90
 evidence:
   - id: INS-260404-8326
     type: TRANSFERS_TO

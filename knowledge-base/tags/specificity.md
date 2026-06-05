@@ -5,3 +5,4 @@
 - `INS-260403-6EA0` Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
 - `INS-260404-124F` Concrete metrics and specific examples generate trust in cold outreach far more than enthusiasm or passion statements.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.
+- `INS-260605-AEAC` For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.

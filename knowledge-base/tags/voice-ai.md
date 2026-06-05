@@ -5,4 +5,7 @@
 - `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260322-4090` Voice uniquely carries emotional information that text and images cannot — making it the AI modality most capable of creating genuine human connection and feeling.
 - `INS-260405-00DE` Background noise carries exploitable signals about patient context that standard noise cancellation discards.
+- `INS-260605-9877` Knowing who spoke, when, and how (interruptions, backchannels, pauses, stress) often determines conversational meaning that plain transcription discards.
+- `INS-260605-DDAB` Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260403-F9C7` Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
+- `INS-260605-355C` The same best-in-class diarizer scores ~2-8% error on clean telephone speech but ~41% in a noisy restaurant — so 'how good is it?' has no use-case-free answer.

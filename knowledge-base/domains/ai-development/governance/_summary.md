@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 37 insights
+> 38 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260409-5B7B` [high] AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
@@ -22,6 +22,7 @@
 - `INS-260413-7C61` [high] 2025 saw US federal policy shift to deregulation (Jan 23 EO, Jul 23 AI Action Plan, Dec 12 EO curbing state laws) while Texas TRAIGA, California SB 53, Montana Right to Compute, and Utah HB 452 passed substantive state AI laws.
 - `INS-260413-CDE2` [high] Across all 50 US states, concern about too-little AI regulation outweighs concern about too-much — 41% say federal AI regulation will not go far enough vs 27% saying it will go too far, though more than one-third are unsure.
 - `INS-260605-98BD` [high] The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
+- `INS-260605-B66C` [medium] For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
 - `INS-260412-C3AB` [medium] Training AI detectors on fake videos creates a feedback loop where detection signals become training data for better fakes, structurally favoring attackers.
 - `INS-260514-F565` [medium] AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
 - `INS-260514-7B11` [medium] AI surveillance state = digital ID (identity-tied interactions) + digital currency (programmable transactions). China has it. Western democracies converging under different framing. Behavioral classification → predictive control → granular incentive engineering at population scale.

@@ -57,9 +57,12 @@ stance: >-
 related:
   - PRI-260426-890F
   - INS-260410-B0D6
+  - INS-260605-0312
   - INS-260605-E9E2
   - INS-260514-4FDC
   - INS-260605-E193
+  - INS-260605-DB29
+  - INS-260605-8F42
 ---
 The 'find the simplest solution possible, only increase complexity when needed' principle from Anthropic's Building Effective Agents post applies repeatedly across the lifetime of a harness. Each scaffold component — sprint decomposition, planner, evaluator, context resets — exists because the model couldn't handle something on its own at the time of design. Models improve, those assumptions go stale, and complexity that was load-bearing becomes pure overhead.
 

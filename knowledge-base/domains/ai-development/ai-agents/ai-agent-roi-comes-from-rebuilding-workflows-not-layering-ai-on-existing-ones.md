@@ -45,6 +45,7 @@ stance: >-
   workflows.
 related:
   - INS-260327-BB71
+  - INS-260605-5D66
   - PRI-260328-8317
   - PRI-260328-3094
   - PRI-260405-AF79

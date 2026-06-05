@@ -54,9 +54,9 @@ related:
   - INS-260325-DAD7
   - INS-260323-1BF7
   - INS-260321-3967
-  - INS-260320-0511
   - INS-260321-8C35
   - INS-260322-54F3
   - INS-260328-C246
+  - INS-260328-4717
 ---
 Hassabis explicitly frames the next AI step: 'we still need this ability to search and think and reason on top of those models. And sometimes we call those world models. I think that still hasn't fully been cracked yet how to do that — bringing back some of these AlphaGo ideas. But now instead of just a narrow game applying it to that, but to the whole world.' This is a frontier-lab CEO saying the bottleneck for AGI is not bigger Gemini, it's adding a search/reasoning layer like AlphaZero's tree search to a general model. He explicitly mentions this should apply to material design, chip design, and quantum computing — the same root-node problems mentioned earlier.

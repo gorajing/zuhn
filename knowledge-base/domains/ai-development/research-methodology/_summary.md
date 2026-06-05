@@ -1,8 +1,9 @@
 # Topic: research-methodology
 
-> 93 insights
+> 99 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
+- `INS-260605-2D9F` [high] Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
 - `INS-260410-5951` [high] On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` [high] Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
 - `INS-260505-CBE5` [high] Good students ask 'what's the gap I'm missing?' — AI models confidently fill the gap with plausible-sounding wrong answers.
@@ -37,17 +38,20 @@
 - `INS-260505-5510` [high] A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution.
 - `INS-260408-76F4` [high] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
 - `INS-260410-0923` [high] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
+- `INS-260605-FCDA` [high] Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
 - `INS-260603-4387` [high] Satish: people create lat/long grids and throw them at a model expecting it to learn — but 1° of latitude is ~111km at the equator and near-0 at the poles, so the representation itself is distorted; his team instead represents Earth as a dense triangular geodesic grid so information density per cell is consistent.
 - `INS-260505-9E07` [high] Simulators are causal-generative-models with mechanism inside, but you can't backprop through Geant4 — that's why we approximate them with neural networks.
 - `INS-260505-8E0B` [high] It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'
 - `INS-260514-8A98` [high] Measure AI bias amplification BEFORE deployment by embedding the relevant literature corpus and computing distance from the main knowledge cluster. Neglected tropical diseases are 44% more isolated — and AI predicts them 44% worse.
 - `INS-260409-C3F7` [high] Building a cell-type atlas of the avian pallium and comparing it to mammalian equivalents settled a 60-year debate about whether bird and mammal intelligence share common neural origins — a pattern other biology debates should emulate.
 - `INS-260409-5E40` [high] Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.
+- `INS-260605-355C` [high] The same best-in-class diarizer scores ~2-8% error on clean telephone speech but ~41% in a noisy restaurant — so 'how good is it?' has no use-case-free answer.
 - `INS-260410-9D04` [high] BrowseComp answers leaked through 20+ distinct sources, and the act of running agents on them permanently caches query trails — the benchmark degrades every time it's used.
 - `INS-260410-B47A` [high] A decade ago virtually every major AI figure worked at Google — Ilya Sutskever, Hinton, Krizhevsky, Dario Amodei, Karpathy, Shazeer, Hassabis, Suleyman — yet the commercialization of their work mostly happened at OpenAI, Anthropic, and Tesla after they left.
 
 
 - `INS-260410-DD35` [high] From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
+- `INS-260605-3E7F` [high] Field-shaping benchmarks carry a thesis about where capabilities need to go and set a goalpost labs hill-climb toward, rather than merely recording past results.
 - `INS-260408-C572` [high] Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260514-3974` [high] AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist.
 - `INS-260410-10C9` [high] Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
@@ -59,6 +63,7 @@
 - `INS-260514-AC1D` [high] GPT is a really good autocomplete. The cake isn't the autocomplete — it's the internal representations the model built while learning to autocomplete.
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260505-9723` [medium] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
+- `INS-260605-4597` [medium] GPQA's quiet contribution was an adversarial multi-reviewer protocol with agreement-based payouts, ensuring tasks are well-posed, tractable for other experts, and verifiable.
 - `INS-260514-93E1` [medium] Only 16% of scientists and 18% of biologists currently use AI in their research workflows. The 'AI for science revolution' is still pre-adoption-curve.
 - `INS-260524-B6B3` [medium] Jongmin Sung: 'if math is physics's language, AI can read very complicated patterns' — and biology is a complex system with no single equation, so AI is the most suitable language for it.
 - `INS-260505-415C` [medium] Students aren't writing more papers with Claude — they're writing better papers, with figures of beauty and explorations they couldn't have done alone.
@@ -85,6 +90,7 @@
 - `INS-260505-A413` [medium] Train an RL reasoning model on hard problems, and inside the reasoning trace it spins up little debate societies — more dramatic, extroverted, less agreeable than the base model.
 - `INS-260505-D545` [medium] Docker bundles are bit-for-bit reproducible but unreadable. Text specs that AI can re-execute are reproducible AND comprehensible.
 - `INS-260409-6833` [medium] Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
+- `INS-260605-3490` [medium] The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260501-0C6C` [medium] Teleop = 24 hr/day cap per robot. Wearables = better. Egocentric video = 10M hours/year, ambient like FSD.
 - `INS-260505-D35A` [medium] AI for science demands precision (13 decimal places in physics) that consumer AI can ignore, forcing better fundamental research.
 - `INS-260501-E5AC` [medium] Scaling works AND recursion works AND specialized architectures work — they're alternative paths, not competing claims.

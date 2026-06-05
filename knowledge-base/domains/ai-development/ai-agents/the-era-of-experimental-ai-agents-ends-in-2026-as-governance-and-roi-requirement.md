@@ -45,9 +45,9 @@ stance: >-
   ROI in 2026, making sandbox pilots without clear business outcomes unfundable.
 related:
   - INS-260403-96BC
-  - INS-260403-D56A
   - PRI-260406-9051
+  - INS-260403-D56A
+  - INS-260605-5D66
   - INS-260413-7B46
-  - INS-260403-2115
 ---
 Industry roadmaps from Google, Gartner, Forrester, PwC, and a16z all converge on the same signal: agentic systems are graduating from internal R&D to orchestrating business-critical workflows. The new bar is not 'can it run autonomously' but 'can it run with auditability, rollback, and human override.' Enterprise buyers are insisting on measurable outcomes before signing, which means teams building agents without an accountability layer are building for a shrinking market. Founders should design governance as a first-class feature, not a retrofit.

@@ -58,9 +58,9 @@ related:
   - INS-260329-EF14
   - INS-260329-0B55
   - INS-260321-18D0
+  - INS-260605-048B
   - INS-260405-3B54
   - INS-260320-9FD5
-  - INS-260405-A1E6
 ---
 Pope's clarifying derivation: in decode, you do one forward pass to produce one token, so the per-token cost is dominated by the time to fetch weights from memory (memory-bandwidth-bound). In prefill, you process N tokens in one forward pass, so the per-token cost of weight-fetch divides by N, dropping it below the compute cost — making it compute-bound.
 

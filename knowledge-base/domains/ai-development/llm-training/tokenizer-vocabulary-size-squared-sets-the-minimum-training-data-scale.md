@@ -60,11 +60,12 @@ stance: >-
   converge.
 related:
   - INS-260410-CDE6
-  - INS-260410-699C
   - INS-260410-2FEE
   - INS-260410-B282
   - INS-260514-3B3C
+  - INS-260410-699C
   - INS-260603-6FE3
+  - INS-260605-DA2B
 ---
 The workshop frames tokenizer choice as a data-scaling decision, not just a representation choice. A 65-token character-level vocabulary produces only ~4,225 possible bigrams, so a 1M-character Shakespeare corpus covers nearly all of them many times over and the model converges in minutes. A 50,000-token BPE vocabulary (GPT-2 scale) implies 50,000² ≈ 2.5 billion bigrams, requiring trillions of tokens to train well — try it on small data and 'it will never converge no matter how many hours you train.'
 

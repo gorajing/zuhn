@@ -66,9 +66,9 @@ stance: >-
 related:
   - INS-260501-3D0C
   - INS-260322-0CE3
+  - INS-260605-AEAC
   - INS-260327-91E7
   - PRI-260407-B808
-  - INS-260404-CCB1
 ---
 Masad's example pattern: a physical therapist with deep knowledge of fascia release built a sophisticated tracking app with body-scan and 3D range-of-motion features after spending hundreds of thousands of dollars on offshore developers and being unsatisfied. When she vibe-coded it herself on Replit, the result was 'one of the best health tech apps I've ever seen.' Same pattern: a mom in Korea building software to manage her child's rare condition; a pool-maintenance family business building vertical SaaS; a sports-club founder building software to replace MS-DOS legacy.
 

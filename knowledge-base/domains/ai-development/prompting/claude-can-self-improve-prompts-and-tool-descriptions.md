@@ -57,8 +57,8 @@ related:
   - INS-260410-A1E9
   - INS-260530-D34F
   - INS-260323-E15F
+  - INS-260605-D912
   - INS-260605-8E69
-  - INS-260605-0C88
   - INS-260522-C5C2
 ---
 A non-obvious production lesson: Claude 4 models are themselves strong prompt engineers. When Anthropic gave a model a failing prompt and the failure mode, it could diagnose why and propose a better version. They operationalized this by creating a tool-testing agent whose job was to attempt to use a flawed MCP tool dozens of times, discover its bugs and sharp edges, and then rewrite the tool description to preempt those failures.

@@ -62,10 +62,10 @@ stance: >-
   critical path.
 related:
   - INS-260330-E4AD
+  - INS-260605-FE37
   - INS-260501-D18A
   - INS-260405-5670
-  - INS-260424-865F
-  - PRI-260426-9730
+  - INS-260605-F383
 ---
 DeepSeek's data center optimization: the model spans many GPU racks. Naive execution: rack receives data, computes, sends result, waits for next batch. Result: GPUs idle while data travels — millions of dollars in wasted compute per day. DeepSeek's solution: break batches into sequential waves. As soon as wave 1 data arrives, GPUs start crunching. While computing on wave 1, wave 2 data is in flight over the network. Wave 3 queued behind it. Network latency essentially disappears from the critical path because computation and communication are perfectly overlapped. To choreograph this at the microscopic level of GPU computing, the team used the 'tilang' language to write fused kernels (multiple math operations merged into single GPU commands), then used Z3 SMT solver to mathematically prove the fused kernel code is correct (since at this scale, one-in-a-billion errors happen constantly and silently corrupt the model).
 

@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 49 insights
+> 51 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -41,6 +41,7 @@
 - `INS-260505-4A52` [medium] Stop publishing PDFs. Publish paper agents — interactive AIs that explain themselves, apply themselves, and collaborate with other paper agents.
 - `INS-260524-1A41` [medium] Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
 - `INS-260524-9100` [medium] Woosang: GNoME-style ML approximations of DFT predict stability cheaply, so you screen candidates computationally instead of running days-long simulations or experiments for each.
+- `INS-260605-4509` [medium] The browser already ships Web Speech, Animation, Audio, Canvas, WASM, and CSS as zero-dependency primitives — text-to-speech needs no inference call, it's just waiting to be used in agent experiences.
 - `INS-260514-8108` [medium] Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
 - `INS-260501-4903` [medium] Figma is for static handoff. Vibe coding loses iteration history. Paper.app gives you a canvas where you iterate visually and the code updates live.
 - `INS-260405-E4FC` [medium] Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
@@ -48,6 +49,7 @@
 - `INS-260524-2346` [medium] Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
 - `INS-260505-A0F7` [medium] Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have.
 - `INS-260501-B933` [medium] The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product.
+- `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260514-D0A4` [medium] Hrefs says 100 searches/month. Real Google Search Console: 10,000. The trend is right; the number is off by 100x.
 - `INS-260405-1F6B` [low] AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.

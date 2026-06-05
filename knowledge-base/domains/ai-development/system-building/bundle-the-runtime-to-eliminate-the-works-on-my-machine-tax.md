@@ -57,6 +57,7 @@ related:
   - INS-260320-4DE2
   - INS-260323-0539
   - INS-260403-D1D0
+  - INS-260605-D2C7
 ---
 The .mcpb format works partly because Claude Desktop embeds a Node.js runtime and bundles all node_modules into the extension archive. This sidesteps every version-skew, PATH, and dependency-conflict bug that plague 'BYO runtime' installs.
 

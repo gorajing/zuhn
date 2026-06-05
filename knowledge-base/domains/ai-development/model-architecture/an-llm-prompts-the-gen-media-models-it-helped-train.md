@@ -60,7 +60,7 @@ related:
   - INS-260410-41DD
   - INS-260605-D659
   - PRI-260320-6847
-  - INS-260501-FDF0
+  - INS-260605-D37A
 ---
 Guillaume reveals a non-obvious coupling: 'a lot of the training data for the gen media models is actually made using Gemini. So that's the reason why Gemini is quite good at generating those prompts for the gen media models — because it's already trained on understanding what Gemini is asking for.' The orchestration pattern (use the LLM to draft prompts, then feed them to the diffusion/media model) works so well partly because the two models share a common prompt distribution baked in at training time.
 

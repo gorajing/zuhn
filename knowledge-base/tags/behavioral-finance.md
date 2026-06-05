@@ -1,7 +1,7 @@
 # Tag: behavioral-finance
 
-- `INS-260330-EF10` Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
+- `INS-260330-EF10` Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260403-7C8F` When an entire asset class systematically underfunds higher-performing founders due to demographic pattern-matching, the resulting mispricing is a textbook arbitrage opportunity for contrarian investors.
 - `INS-260325-FC0B` About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260412-D21C` The tulip crash began when a few buyers in North Holland simply didn't show up to auctions — not a policy change or external shock, but a quiet withdrawal of demand.

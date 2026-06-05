@@ -37,6 +37,7 @@ resolutions:
 related:
   - INS-260605-A847
   - INS-260330-8F07
+  - INS-260605-048B
   - PRI-260328-A65A
   - INS-260405-3B54
   - INS-260329-4696
@@ -44,7 +45,6 @@ related:
   - INS-260410-566F
   - INS-260411-52C8
   - INS-260411-BCB0
-  - INS-260501-835A
 stance: >-
   Your bottleneck shifted from typing speed to token throughput — maximize how
   many agent sessions you can run in parallel, not how fast you code.

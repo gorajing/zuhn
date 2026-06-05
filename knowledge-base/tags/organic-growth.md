@@ -1,5 +1,6 @@
 # Tag: organic-growth
 
+- `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260403-35E7` Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260327-4DDE` The best startups come from founders solving their own daily pain points, not from market analysis.
 - `INS-260402-5523` Successful growth loops are designed around behaviors users already exhibit naturally, not invented from scratch.
@@ -15,4 +16,3 @@
 - `INS-260403-CACE` The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260403-D2B1` Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.
 - `INS-260330-84F4` Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
-- `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.

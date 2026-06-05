@@ -50,15 +50,13 @@ stance: >-
   the magnitude of the promised outcome, especially for wealthy customers who
   value time over money.
 related:
-  - INS-260322-191F
   - INS-260329-50D5
   - INS-260329-33AA
   - INS-260329-1DE0
   - PRI-260406-5BD0
   - INS-260330-E6B7
-  - INS-260403-9482
+  - INS-260605-FE37
   - INS-260330-D483
-  - INS-260330-C06E
   - INS-260412-D787
 evidence:
   - id: INS-260322-191F

@@ -60,6 +60,7 @@ related:
   - INS-260321-C5AA
   - INS-260408-A0F5
   - INS-260409-96B0
+  - INS-260605-5DE9
 ---
 The statue app did an OpenAI deep-research call on a photo, generated a matching voice via ElevenLabs' underused voice-design API, spun up an agent, and started a phone call — all in 30 seconds, built in two hours. Reeve's scaling answer was telling: he can't 'make a dent' in the API providers' volume even if it goes gangbusters, and user management (auth, magic links) is one-shottable with Cursor + Supabase. So nothing in the stack is the hard part.
 

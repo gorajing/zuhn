@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 295 insights
+> 296 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -262,6 +262,7 @@
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260403-5A88` [medium] The gap between high and low performing teams is defined by speed from idea to deployment, not by budget or headcount.
 - `INS-260402-4DB4` [medium] In fast-moving nascent markets, a 95/5 execution-to-vision ratio beats the traditional 70/30 because strategies expire faster than implementation cycles.
+- `INS-260605-BA63` [medium] A 'big enough stick from ministers' lets you in the door, but breaking silos and shipping is far harder than outsiders assume — otherwise everyone would do it.
 - `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260412-F93A` [medium] F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.

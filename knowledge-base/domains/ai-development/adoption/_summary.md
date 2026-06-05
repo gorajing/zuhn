@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 60 insights
+> 61 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -26,6 +26,7 @@
 - `INS-260501-27BF` [high] The board says 'we need more AI', the CEO hires a consultant, the project no one understands fails — but every individual employee uses ChatGPT brilliantly.
 - `INS-260322-7B61` [high] Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
 - `INS-260423-8504` [high] Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
+- `INS-260605-828D` [high] FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
 - `INS-260322-A36C` [high] When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
 - `INS-260410-953E` [high] MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260322-3083` [high] Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.

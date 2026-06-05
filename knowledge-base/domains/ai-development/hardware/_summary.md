@@ -1,6 +1,6 @@
 # Topic: hardware
 
-> 20 insights
+> 21 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260412-8396` [high] ARM's reduced instruction set approach, initially dismissed as underpowered, became decisive when desktop CPUs hit power and thermal limits that simpler architectures inherently avoid.
@@ -12,6 +12,7 @@
 - `INS-260605-86BE` [high] Training is compute-bound, but single-user local inference is dominated by memory bandwidth, memory capacity, and energy-per-byte — so pick hardware on those axes, not FLOPS.
 - `INS-260410-3C37` [high] Flash Attention does MORE floating-point operations than vanilla attention yet runs 7.6x faster, because it avoids materializing the T×T attention matrix in HBM.
 - `INS-260605-C760` [high] Gemma 4 demonstrates that single-GPU and even on-device open models now run real agentic workflows — orchestrator-plus-subagents, tool-calling coding harnesses — that recently demanded clusters.
+- `INS-260605-048B` [high] Diffusion's speedup exists because GPUs/TPUs are memory-bound: generating 256 tokens in 24 passes means ~10x fewer weight/KV-cache streams than 256 autoregressive passes.
 - `INS-260410-CB70` [high] LLM training is memory-bandwidth-bound: modern AI requires treating an entire data center as one computer with ultra-fast interconnects and 2.5D-stacked memory adjacent to compute.
 - `INS-260412-3CF8` [high] Below ~5nm, electrons tunnel through transistor gates, making classical binary switching unreliable.
 - `INS-260410-7C07` [high] Drill past GPUs, past power plants, past turbines, and you find three casting companies making vanes and blades — the real ceiling on AI infrastructure through 2030.

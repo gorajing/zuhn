@@ -15,6 +15,7 @@
 - `INS-260403-CAB4` One or two founders can now handle the workload that previously required a five-person team by combining AI, no-code, and on-demand freelancers.
 - `INS-260404-2523` AI-powered tools now let solo founders handle engineering, design, and ops tasks that previously required a cofounder or early team.
 - `INS-260403-A6A7` Solo founding has shifted from exception to dominant mode as AI tools collapse the capability gap that previously required cofounders.
+- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260327-9610` A 13-year-old built and shipped an AI product with paying customers using AI tools—the building barrier has collapsed.
@@ -29,4 +30,3 @@
 - `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.
-- `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.

@@ -51,7 +51,6 @@ resolutions:
     civic order because they erode the information ecosystem we depend on for
     collective decision-making.
 related:
-  - INS-260323-A5EC
   - INS-260320-7914
   - PRI-260323-1CF9
   - INS-260327-0D0B
@@ -61,6 +60,7 @@ related:
   - INS-260402-5034
   - INS-260403-4501
   - INS-260410-F24A
+  - INS-260410-8092
 stance: >-
   Hallucinations stem from how LLMs break information into tokens and
   reconstruct probable relationships

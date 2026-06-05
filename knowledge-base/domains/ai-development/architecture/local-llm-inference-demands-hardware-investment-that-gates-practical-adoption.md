@@ -43,11 +43,11 @@ stance: >-
   Running competitive open-source models locally requires 40-64GB RAM minimum,
   creating a hardware barrier that limits local AI to power users and developers
 related:
+  - INS-260605-8E08
   - INS-260514-D023
   - INS-260605-86BE
   - INS-260327-DECA
   - INS-260404-CE26
-  - INS-260327-C962
   - INS-260403-F4C7
   - INS-260410-09B4
 evidence:

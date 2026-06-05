@@ -49,10 +49,10 @@ stance: >-
   unified approach
 related:
   - INS-260410-7292
+  - INS-260605-C28F
   - PRI-260323-F193
   - INS-260403-BB23
   - INS-260410-2307
-  - INS-260321-8C35
 evidence:
   - id: INS-260403-BB23
     type: TRANSFERS_TO
