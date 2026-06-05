@@ -60,10 +60,10 @@ stance: >-
   reference frames.
 related:
   - INS-260423-85B3
+  - INS-260605-4D1D
   - INS-260410-B0D6
+  - INS-260605-E9E2
   - INS-260403-72C2
-  - INS-260403-7A48
-  - INS-260410-B3C4
 ---
 Nielsen argues that if deep learning had existed in 1500, we'd train models that identified ever-finer epicycles in planetary data — each new parameter slightly lowering prediction error. Gradient descent follows a local signal, and the leap from Ptolemy to Copernicus (or Newton to Einstein) doesn't improve local accuracy; it's globally more elegant only after you accept a deeper rethink of what space, time, or gravity mean.
 

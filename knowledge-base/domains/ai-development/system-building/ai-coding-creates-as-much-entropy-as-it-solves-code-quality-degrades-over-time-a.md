@@ -65,7 +65,7 @@ related:
   - INS-260409-3AEE
   - PRI-260328-4CC0
   - INS-260603-73D5
-  - PRI-260407-590E
+  - INS-260605-A847
 ---
 Casado's observation from being close to AI coding companies: when you code with AI, your code 'kind of gets worse over time pretty materially.' You're introducing as many problems as solutions. The productivity gains are real but the entropy growth is also real, and the field doesn't yet know how to manage it. Levie's Box experience: AI built 80-90% of recent features, but security review and code review remained the rate-limiters, and the realistic team productivity multiplier is 2-3x, not 5-10x.
 

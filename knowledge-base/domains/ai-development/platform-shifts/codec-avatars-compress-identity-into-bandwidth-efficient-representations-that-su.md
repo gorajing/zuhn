@@ -54,6 +54,7 @@ related:
   - INS-260329-22A8
   - INS-260409-A4F0
   - INS-260409-94F8
+  - INS-260605-9F3D
 stance: >-
   Meta's codec avatars encode facial expressions into a compact model rather
   than transmitting full video, achieving photorealism while using less ba...

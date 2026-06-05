@@ -51,6 +51,7 @@ related:
   - INS-260404-D6EE
   - INS-260323-0603
   - INS-260404-B7E4
+  - INS-260605-510C
 evidence:
   - id: INS-260323-0603
     type: CONTRADICTS

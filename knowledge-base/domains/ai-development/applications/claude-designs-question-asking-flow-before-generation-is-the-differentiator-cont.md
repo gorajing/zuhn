@@ -62,7 +62,6 @@ stance: >-
   spec needed for high-quality output.
 related:
   - INS-260320-508F
-  - INS-260320-4993
   - INS-260321-021B
   - INS-260327-C99D
   - INS-260403-18CA
@@ -71,6 +70,7 @@ related:
   - INS-260409-325B
   - PRI-260321-037A
   - INS-260514-A295
+  - PRI-260406-1AC6
 ---
 Isenberg's reaction during the walkthrough: 'I'm blown away by how good these questions are.' Claude Design doesn't immediately generate; it asks structured questions — what's the primary device, what tone is right for the audience (Duolingo's pushy owl vs Brain Rot's chaos vs gentle for seniors), which specific screens to wireframe, how many distinct directions to explore, which gamification elements to include. Each question is a structured choice, not free-form text.
 

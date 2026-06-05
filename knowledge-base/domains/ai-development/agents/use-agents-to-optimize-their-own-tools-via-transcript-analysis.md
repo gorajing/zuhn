@@ -50,10 +50,10 @@ stance: >-
   produces tool improvements beyond what expert humans write by hand.
 related:
   - INS-260530-C385
+  - INS-260605-6444
   - INS-260320-1B10
   - INS-260403-10CE
-  - PRI-260407-F684
-  - INS-260329-1DA3
+  - INS-260605-B13C
 ---
 Anthropic reports that most of the advice in their guide came from repeatedly optimizing internal tools with Claude Code, and that held-out test sets revealed performance improvements beyond what expert researchers could achieve manually. The loop: run evaluation, dump transcripts into Claude Code, let it identify rough edges and rewrite descriptions and implementations, re-evaluate.
 

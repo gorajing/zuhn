@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 229 insights
+> 232 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -122,6 +122,7 @@
 - `INS-260329-3243` [high] HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-4E68` [high] Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
 - `INS-260403-F664` [high] Production system prompts that run millions of times must be hardened and optimized like code, representing a distinct discipline from conversational prompting.
+- `INS-260605-B6BC` [high] Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.
 - `INS-260330-AC7F` [high] CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
 - `INS-260329-12D1` [high] Python's readable syntax made it the gateway language for non-CS practitioners entering AI/ML, creating a self-reinforcing ecosystem effect.
 - `INS-260329-CF48` [high] Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
@@ -151,6 +152,7 @@
 - `INS-260409-7162` [high] Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - `INS-260320-8FFC` [high] Sequential IDs stored in a file would be hallucinated by the LLM — timestamp plus title hash made file creation completely stateless with zero collisions across 74 insights.
 - `INS-260402-3FD8` [high] Simple statistical approaches discover patterns humans miss and scale better than hand-crafted rules.
+- `INS-260605-D0A0` [high] Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win.
 - `INS-260329-6936` [high] Declaring types upfront (string, int, bool, double) catches mismatches at compile time — the same principle behind Zod schemas and validated JSON pipelines.
 - `INS-260329-EA2B` [high] Static type systems embody a fail-fast philosophy that catches errors at the earliest possible moment — compile time rather than runtime.
 - `INS-260320-63D3` [high] Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.
@@ -195,6 +197,7 @@
 - `INS-260325-2B76` [medium] The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
 - `INS-260329-92FC` [medium] Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
 - `INS-260501-BBB7` [medium] Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
+- `INS-260605-7125` [medium] Push prompt/model/temperature as typed managed variables so you can change agent behavior in prod without a redeploy.
 - `INS-260603-7252` [medium] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.

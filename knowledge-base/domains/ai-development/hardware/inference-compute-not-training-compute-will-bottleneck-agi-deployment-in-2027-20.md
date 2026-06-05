@@ -64,6 +64,7 @@ related:
   - INS-260330-7E4F
   - INS-260423-85B3
   - INS-260405-5222
+  - INS-260605-A847
   - INS-260323-2E51
 ---
 Sholto and Trenton do rough math: there are roughly 10 million H100-equivalents in the world today, projected to hit 100 million by 2028. If an H100 runs approximately one 'human-inference-efficient AGI' at human thinking speeds (humans process at ~10 tokens/sec per a cited paper), that means in 2028 you only have ~100 million parallel AGI instances even under generous assumptions. Compute growth is ~2.25-2.5x/year, but by 2028 we hit wafer production limits, and new fabs are a longer feedback loop.

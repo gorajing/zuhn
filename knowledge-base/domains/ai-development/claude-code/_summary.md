@@ -1,9 +1,10 @@
 # Topic: claude-code
 
-> 60 insights
+> 63 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
+- `INS-260605-117F` [high] Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260410-D034` [high] If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
 - `INS-260405-1951` [high] Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260320-93E1` [high] Planning is king — always use planning mode before implementation; never let the builder start without plans.
@@ -22,6 +23,7 @@
 - `INS-260410-992A` [high] Keep real credentials outside the sandbox and hand the agent short-lived scoped tokens the proxy translates into the real auth at the boundary.
 - `INS-260320-CE36` [high] 85,000 out of 100,000 context tokens were consumed by dependency code — one bash validation hook saved 85% of the context window.
 - `INS-260320-06EF` [high] Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
+- `INS-260605-749D` [high] Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract.
 - `INS-260320-508F` [high] Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260410-CA42` [high] Filesystem and network isolation are coupled defenses — either alone leaves an agent compromise trivially exploitable.
 - `INS-260320-7379` [high] A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
@@ -56,6 +58,7 @@
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260501-F0E5` [medium] If your CLAUDE.md just says 'this is React, use TypeScript', delete it. The model figures that out from the code. Save the tokens.
 - `INS-260501-8E29` [medium] Anthropic split Claude Code from Co-work; Codex unified everything. The unified product is winning.
+- `INS-260605-DFF5` [medium] Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260501-22AD` [medium] Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence.
 - `INS-260410-B118` [medium] Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 - `INS-260501-3F01` [medium] Marketing says: explore 5 design directions in parallel. Reality: you wait, watch, iterate one at a time.

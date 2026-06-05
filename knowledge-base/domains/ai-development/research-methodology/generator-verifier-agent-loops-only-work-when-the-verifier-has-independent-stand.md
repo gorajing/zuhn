@@ -53,7 +53,6 @@ related:
   - INS-260410-3601
   - INS-260603-6B3D
   - INS-260403-C4EE
-  - INS-260410-AA6E
   - INS-260411-8034
 ---
 The apparent simplicity of 'generate, verify, revise, repeat' masks why the pattern usually fails: without some mechanism to prevent the verifier from simply agreeing with the generator's self-justification, the loop collapses. Aletheia's architectural choice to hide the reasoning trace from the verifier is one such mechanism; formal proof languages (like Lean) are another. Any agent system that implements critique-revise loops with the same underlying model should explicitly address this sycophancy risk — whether through trace-hiding, cross-model critique, formal checking, or external graders — otherwise the pattern adds latency and compute without improving quality. This generalizes beyond research agents to coding agents, review bots, and any self-improving system.

@@ -39,13 +39,12 @@ resolutions:
     the model actually thought before writing. This mirrors the five-step
     reasoning pattern: Understand → Analyze → Reason → Synthesize → Conclude.
 related:
+  - INS-260605-D659
   - PRI-260320-6847
   - PRI-260406-1AC6
+  - INS-260605-8F5E
   - INS-260321-82FE
-  - INS-260320-D972
-  - INS-260403-5F41
   - INS-260329-CB03
-  - INS-260409-325B
   - INS-260410-1B17
 stance: >-
   Instead of 'write me X', ask 'what makes X work well?' then 'what principles

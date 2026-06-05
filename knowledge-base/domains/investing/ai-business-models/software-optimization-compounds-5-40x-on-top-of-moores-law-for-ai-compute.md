@@ -65,6 +65,7 @@ related:
   - INS-260329-4696
   - INS-260330-CCF0
   - INS-260410-AC0B
+  - INS-260605-86BE
 ---
 Nadella explicitly contrasts the well-marketed Moore's Law narrative with what he calls 'knowledge intensity coming to bring out capital efficiency' — the ability to drive tokens-per-dollar-per-watt up by 5-40x on a fixed model family through workload scheduling, kernel optimization, fleet fungibility, and software-side improvements. This is the answer to 'how do you get acceptable ROIC on a half-trillion-dollar capex run rate' when the hardware itself depreciates over 5-6 years and Jensen takes 75% margin on the underlying chips.
 

@@ -44,6 +44,7 @@ stance: >-
   creating a hardware barrier that limits local AI to power users and developers
 related:
   - INS-260514-D023
+  - INS-260605-86BE
   - INS-260327-DECA
   - INS-260404-CE26
   - INS-260327-C962

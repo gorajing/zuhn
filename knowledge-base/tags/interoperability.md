@@ -1,5 +1,6 @@
 # Tag: interoperability
 
+- `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260403-88DA` Previous healthcare IT reforms required rebuilding infrastructure; LLMs can interpret unstructured clinical data on top of existing systems.
 - `INS-260409-156A` Markdown files beat embeddings for personal KBs because you can navigate, audit, and grep what the AI actually believes.
 - `INS-260329-D868` CSV import and text manipulation functions (LEFT, MID, RIGHT, CONCATENATE) are the most transferable spreadsheet skills because they bridge every system that exports data.

@@ -1,13 +1,15 @@
 # Topic: foundation-models
 
-> 16 insights
+> 18 insights
 
 - `INS-260603-6E59` [high] Satish (Stanford atmospheric FM): on sequences (language/code) we're ~80-90% there because a word encodes sparse information you can mask and recover; but encoding even a 1024×1024 image into a vector loses enormous information, and video/spectral data is worse — the breakthrough for high-dimensional data hasn't happened.
 - `INS-260501-CF7D` [high] Frontier capability today shows up in tiny edge models within a year — and we don't know where the ceiling is yet.
+- `INS-260605-0D57` [high] Frontier gains like Gemini 3 to 3.1 doubling some benchmarks come from better reasoning/fine-tuning data on a near-identical base, not from reinventing the transformer.
 - `INS-260410-022B` [high] Amodei's 2017 'Big Blob of Compute' hypothesis still holds: scaling is bottlenecked by compute, data, objective function, and numerical stability — not by clever methods.
 - `INS-260410-F342` [high] Pretraining data is to AGI what fossil fuels were to industrial civilization: finite and eventually replaced, but indispensable as the bridge to what comes next.
 - `INS-260410-56F7` [high] Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.
 - `INS-260410-76A3` [high] Scaling laws convert LLM capability improvement into a predictable function of compute and data, turning AI progress into a capital-allocation problem.
+- `INS-260605-3AE6` [high] When everyone sprints to build the same workaround for a model limitation, that's a signal the limitation is temporary and the workaround is a depreciating asset.
 - `INS-260412-EDD8` [medium] General-purpose AI may serve as a new foundational science, enabling unforeseeable downstream applications the way physics enabled modern engineering.
 - `INS-260410-3DAD` [medium] LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture.
 - `INS-260405-1C8D` [medium] Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.

@@ -71,9 +71,9 @@ stance: >-
 related:
   - PRI-260406-A33C
   - INS-260329-5F96
+  - INS-260605-8F5E
   - INS-260329-2865
   - INS-260330-206C
-  - INS-260402-3FD8
 ---
 BatchNorm normalizes activations to be unit Gaussian by computing mean and variance across the batch dimension, then applies a learned scale and shift. The clean part is that this stabilizes activation statistics throughout deep networks, eliminating the need to hand-tune initialization scales for every layer. You can sprinkle BatchNorm after any linear or convolutional layer and it just works.
 

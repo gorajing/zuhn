@@ -48,7 +48,6 @@ stance: >-
   than by quality of execution, making market selection the primary strategic
   decision over operational excellence.
 related:
-  - INS-260321-B014
   - INS-260322-7E86
   - INS-260327-CB82
   - INS-260330-332E

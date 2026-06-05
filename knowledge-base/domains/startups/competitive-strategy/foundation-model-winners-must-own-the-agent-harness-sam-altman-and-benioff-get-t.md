@@ -58,7 +58,6 @@ stance: >-
   (not just the fabric) the critical battleground for OpenAI, Anthropic, Google,
   and Salesforce.
 related:
-  - INS-260327-7299
   - INS-260403-3155
   - INS-260404-34DB
   - INS-260403-C074

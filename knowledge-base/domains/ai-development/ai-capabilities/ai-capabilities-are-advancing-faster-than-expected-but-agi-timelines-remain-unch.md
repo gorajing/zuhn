@@ -51,7 +51,6 @@ stance: >-
   not meaningfully compress AGI timelines because the gap between powerful tools
   and superintelligence is enormous.
 related:
-  - INS-260323-D56E
   - INS-260323-4E12
   - INS-260327-E0B0
   - INS-260424-9544
@@ -61,6 +60,7 @@ related:
   - INS-260403-BBCF
   - INS-260405-DC20
   - INS-260402-BCEC
+  - INS-260514-7B06
 evidence:
   - id: INS-260322-BC97
     type: TRANSFERS_TO

@@ -59,7 +59,7 @@ related:
   - INS-260403-08D7
   - INS-260410-D250
   - INS-260410-CD01
-  - INS-260530-D34F
+  - INS-260605-6444
 ---
 Anthropic groups all LLM+tool systems under 'agentic systems' but draws a hard architectural line: workflows are systems where the code path is fixed and the LLM fills in slots, while agents maintain control over how they accomplish the task and decide their own next step. The distinction matters because workflows give you predictability, cheaper debugging, and tighter cost/latency control, while agents give you flexibility at the cost of compounding errors and unpredictable trajectories.
 

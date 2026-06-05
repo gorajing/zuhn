@@ -54,6 +54,7 @@ related:
   - INS-260402-142F
   - INS-260321-CCD9
   - INS-260403-58DA
+  - INS-260605-9F3D
 stance: >-
   Labs are merging previously separate text, image, and video capabilities into
   unified models that accept any input modality and produce any output

@@ -35,11 +35,11 @@ resolutions:
     maximizing your throughput. Think of it like GPU utilization — idle tokens
     are wasted capability.
 related:
+  - INS-260605-A847
   - INS-260330-8F07
   - PRI-260328-A65A
   - INS-260405-3B54
   - INS-260329-4696
-  - INS-260327-C1A4
   - INS-260410-77E5
   - INS-260410-566F
   - INS-260411-52C8

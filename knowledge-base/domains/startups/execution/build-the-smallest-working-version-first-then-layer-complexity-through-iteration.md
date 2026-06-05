@@ -45,12 +45,11 @@ stance: >-
   through follow-up prompts produces more reliable apps than multi-feature
   initial prompts.
 related:
-  - INS-260320-C8CC
-  - INS-260320-4773
+  - INS-260605-DFF5
   - INS-260403-5BD6
+  - INS-260320-C8CC
   - INS-260320-4993
   - INS-260329-26BB
-  - INS-260327-63B5
   - INS-260410-BBC1
 evidence:
   - id: INS-260320-4993

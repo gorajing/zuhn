@@ -57,11 +57,11 @@ stance: >-
   user habit is to meta-prompt daily: 'what's one task I'm doing repeatedly that
   I should set up as a cron job?'
 related:
+  - INS-260605-0AD6
   - INS-260410-1030
+  - INS-260605-6444
   - INS-260403-10CE
   - INS-260501-2130
-  - INS-260327-2101
-  - INS-260410-85AD
 ---
 Imran's habit for compounding agent value: at the end of every day, ask the agent 'what is one task I'm doing over and over again that I should set up as a cron job?' or 'what should you build for the work I do?' The agent has visibility into your interaction history but doesn't yet proactively surface automation opportunities — so you have to prompt for it.
 

@@ -4,6 +4,7 @@
 - `INS-260410-FD24` Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
 - `INS-260410-699C` Non-English text gets stretched into many more tokens than equivalent English, eating context length and degrading model performance regardless of LM training data.
 - `INS-260402-5034` Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
+- `INS-260605-C859` Pick tokenizer vocab size to match your data budget: you need roughly vocab-squared tokens of data to cover the bigrams the model must learn.
 - `INS-260410-B282` Larger vocab compresses sequences (more context per token) but bloats embedding/softmax layers — the optimum is a tuned trade-off, not a maximum.
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
@@ -15,5 +16,5 @@
 - `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.
 - `INS-260403-781D` Tokenized debt is already 3x tokenized equity because credit's predictable cash flows map naturally to smart contract enforcement.
 - `INS-260409-7C61` Fink's 2025 shareholder letter — private capital must fill a $68T infrastructure gap because governments have hit fiscal ceilings — is identical to Napier's financial repression thesis, dressed as 'democratization of investment' rather than coerced savings reallocation.
-- `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
 - `INS-260403-B8A3` As companies remain private longer and Gen Z/Millennial investors demand private market access, equity tokenization fills a structural gap that traditional finance cannot address.
+- `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.

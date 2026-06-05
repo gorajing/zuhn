@@ -52,11 +52,11 @@ stance: >-
   LLMs process prompts through tokenization, inference, and output generation.
 related:
   - INS-260320-C65B
+  - INS-260605-8F5E
   - INS-260329-9CED
   - INS-260329-DACC
   - INS-260405-227C
   - INS-260329-F969
-  - PRI-260411-D39C
 evidence:
   - id: INS-260329-9CED
     type: SUPPORTS

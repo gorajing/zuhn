@@ -1,6 +1,6 @@
 # Topic: industry-trends
 
-> 22 insights
+> 23 insights
 
 - `INS-260409-A11F` [high] Frontier AI compute is only economically viable because its environmental and public health costs are externalized onto vulnerable communities that never consented to host the infrastructure.
 - `INS-260410-6290` [high] Human corporations can't clone themselves because they're made of people, which is why they age and die — AI firms built from copyable code will compound like eukaryotic life over prokaryotic bacteria.
@@ -20,6 +20,7 @@
 - `INS-260405-285D` [medium] Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
 - `INS-260514-7C33` [medium] Marketing automation tools (HubSpot, Marketo, Salesforce sequencer) decay in agentic world. Agents don't need human-composing templates — they compose directly. Software whose reason to exist was 'make humans more efficient at X' obsoletes when AI does X.
 - `INS-260410-89FB` [medium] Automated firms won't collapse into one giant conglomerate because internal planning drifts from reality without the unbiased external feedback that markets provide.
+- `INS-260605-B8DD` [medium] Each use case follows an S-curve where intelligence stops mattering past a 'good enough' threshold (transcription, summarization, to-do lists), so ~90%+ of consumer tasks will run locally and the market bifurcates — cheap local for most things, billion-dollar compute only for frontier problems.
 - `INS-260514-CBAB` [medium] OpenAI's empire formula: (1) operate as religion (Altman: 'forming a company is the easiest way to start a religion'), (2) trillion-dollar data center expansion to make world safe for AI, (3) refuse to define AGI so goalposts move.
 - `INS-260410-BCFD` [medium] Chips, power, and even raw share of GDP spent on training all cap out around 2030 — after which progress depends entirely on algorithmic gains with diminishing low-hanging fruit.
 - `INS-260410-6A86` [medium] Even if combined-cycle turbine lead times stretch past 2030, 16+ alternative power vendors plus behind-the-meter solutions make power the easiest problem to solve relative to chips.

@@ -60,7 +60,7 @@ related:
   - INS-260403-504D
   - PRI-260328-D5EB
   - INS-260603-23B1
-  - INS-260404-688B
+  - INS-260605-8409
 ---
 The standard build-vs-buy intuition (buy for speed-to-value, build for differentiation) breaks down when the proprietary integration surface is large. PayPal's argument: they have years of internal MCP tools, SIE data lake, and Cortex Engine; any vendor would have to be plumbed into all of them anyway, and the vendor relationship adds friction for every future data-source addition. So the build cost is bounded; the buy-then-integrate cost compounds with every new source.
 

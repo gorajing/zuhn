@@ -50,8 +50,8 @@ related:
   - INS-260327-A620
   - INS-260410-920E
   - INS-260327-3C19
+  - INS-260605-E4BB
   - INS-260330-AF2A
-  - PRI-260406-4B37
 ---
 When F1 teams pack their three priority pallets for air freight, they don't prioritize by value or fragility. They pack the items needed earliest in the assembly sequence: wall paneling, core electrical systems, and IT/communications equipment. These form the skeleton that everything else attaches to.
 

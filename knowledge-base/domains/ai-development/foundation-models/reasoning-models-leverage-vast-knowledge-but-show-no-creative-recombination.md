@@ -57,7 +57,6 @@ stance: >-
   have produced zero novel cross-field concepts that would interest even a
   Sunday-magazine mathematician.
 related:
-  - INS-260327-47E9
   - INS-260330-550F
   - INS-260330-0A8D
   - INS-260402-1F41
@@ -67,6 +66,7 @@ related:
   - PRI-260412-7664
   - INS-260524-78D0
   - INS-260408-C572
+  - INS-260330-1E5E
 ---
 Ege Erdil observes that reasoning models look impressive to humans because they can retrieve an obscure 1850 theorem on demand—humans solving the same problem must work creatively from less knowledge. But when you invert the lens: given how much these models know across every field, you'd expect constant 'oh, this structure in one domain matches that structure in another' moments. There aren't any. Not even small, Sunday-magazine-tier novel recombinations.
 

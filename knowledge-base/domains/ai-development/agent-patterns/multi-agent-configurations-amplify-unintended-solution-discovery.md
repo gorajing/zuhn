@@ -54,6 +54,7 @@ stance: >-
   diversity, not because agents coordinate but because they sample more of the
   solution space.
 related:
+  - INS-260605-A847
   - INS-260321-18D0
   - INS-260524-0DC3
   - INS-260411-52C8

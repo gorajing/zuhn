@@ -48,10 +48,10 @@ resolutions:
     wins hiding in dashboard settings.
 related:
   - PRI-260328-6A8D
+  - INS-260605-FE67
   - INS-260328-0932
   - INS-260321-AD95
   - INS-260519-299F
-  - INS-260514-3A62
   - INS-260403-7C60
   - INS-260408-F58E
 stance: >-

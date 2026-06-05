@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260330-5C80
   - INS-260410-A33F
+  - INS-260605-DD16
   - PRI-260406-20FD
   - INS-260402-67B4
   - INS-260409-6DBE
-  - INS-260409-3064
 ---
 Dwarkesh notes that YouTube commenters dismiss his counterfactual questions as naive, but points out that without counterfactuals there is no way to extract lessons from history at all. If you cannot ask 'what if we had done X differently,' you cannot identify causes, assign weight to decisions, or generalize any lesson.
 

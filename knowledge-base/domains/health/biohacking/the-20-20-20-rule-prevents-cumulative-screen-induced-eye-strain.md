@@ -48,12 +48,11 @@ stance: >-
   strain than simply reducing screen brightness or using blue light filters
   alone
 related:
-  - INS-260323-0982
   - INS-260325-8EED
-  - INS-260325-9F01
   - INS-260322-E90F
   - INS-260330-1B64
   - INS-260329-3473
+  - INS-260325-9F01
   - INS-260330-E823
   - INS-260330-A256
   - INS-260330-F6A2

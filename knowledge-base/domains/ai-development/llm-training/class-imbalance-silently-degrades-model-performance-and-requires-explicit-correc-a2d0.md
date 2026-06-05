@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260329-3D3E
   - INS-260410-DA81
+  - INS-260605-B1FC
   - INS-260514-838D
   - PRI-260403-6E50
-  - INS-260327-5D5F
 ---
 The course identifies class imbalance as one of the most common and least-discussed failure modes in applied ML. When one class significantly outnumbers another in the training data, the model learns that predicting the majority class is a safe strategy that minimizes overall loss. The minority class - often the one you actually care about detecting (fraud, disease, defects) - gets systematically ignored.
 

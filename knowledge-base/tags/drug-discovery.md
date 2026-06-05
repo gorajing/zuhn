@@ -1,12 +1,12 @@
 # Tag: drug-discovery
 
+- `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
+- `INS-260514-5698` Insilico Medicine: drug from initial conception to clinical trial in half the conventional time. Real measurement, not handwave.
+- `INS-260524-1A41` Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
 - `INS-260403-6632` Google DeepMind's model generated a novel cancer immunotherapy hypothesis that was experimentally validated, marking AI's shift from analysis to discovery.
 - `INS-260408-306A` AlphaFold predicts protein 3D structure in seconds where wet lab took years and hundreds of thousands of dollars per protein.
 - `INS-260409-F90C` Hassabis predicts Isomorphic's drug design engine ready in 5-10 years, then regulatory reform of trials is the second act.
 - `INS-260409-E6F3` Hassabis frames AI-for-science and medicine as the ultimate use case — everything else is incidental to unlocking a new golden age of discovery.
-- `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
-- `INS-260514-5698` Insilico Medicine: drug from initial conception to clinical trial in half the conventional time. Real measurement, not handwave.
-- `INS-260524-1A41` Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
 - `INS-260413-C4EE` AI systems can propose novel candidate molecules at scale but clinical trials and wet-lab experiments to validate them remain costly multiyear processes — the generation-validation gap is the binding constraint in drug discovery.
 - `INS-260325-5A2F` Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260501-1608` Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today.

@@ -52,7 +52,6 @@ stance: >-
   analysis than letting models jump to conclusions, especially for multi-part
   reasoning and decision-making tasks.
 related:
-  - INS-260321-703F
   - INS-260323-E520
   - INS-260323-4473
   - INS-260327-363C
@@ -62,6 +61,7 @@ related:
   - INS-260505-A413
   - INS-260329-0B76
   - INS-260403-BA81
+  - INS-260402-D534
 ---
 By default, AI models jump to the final answer because that's what most of their training data rewards — questions followed by answers, not questions followed by reasoning chains. Chain-of-thought prompting explicitly overrides this default by asking for a process, not just a result. 'First identify the main issue, then evaluate possible solutions, then recommend the best one based on cost and feasibility.'
 

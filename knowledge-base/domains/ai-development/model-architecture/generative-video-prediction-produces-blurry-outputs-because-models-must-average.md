@@ -60,8 +60,8 @@ related:
   - INS-260410-85F5
   - INS-260505-23FB
   - INS-260405-D3B5
+  - INS-260605-4D1D
   - PRI-260327-8D8C
-  - INS-260330-CED2
 ---
 Yan LeCun's structural critique of generative video: imagine a ball bouncing — a language model has separate output tokens for 'left' and 'right' and can independently update each probability. A pixel-prediction video model has one output frame; when futures are ambiguous, the model must produce a single image that minimizes loss across all possible futures, which is the pixel-wise average of those possible futures. The result is washed-out blurry video. This is not a tuning failure; it's an architectural one. Full HD video has 10^15 million possible next frames (dwarfing atoms in the observable universe), making discrete enumeration impossible.
 

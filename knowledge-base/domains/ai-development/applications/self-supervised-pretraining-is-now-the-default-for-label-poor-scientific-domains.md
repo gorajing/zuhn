@@ -50,12 +50,12 @@ related:
   - INS-260320-922A
   - INS-260329-5F96
   - INS-260330-B08E
-  - INS-260405-227C
   - INS-260505-D440
   - INS-260408-C572
   - INS-260326-DBEF
   - INS-260403-FFEA
   - INS-260505-AFAB
+  - INS-260605-738E
 ---
 Cross-talk pattern from the lightning talks: previous-generation scientific ML pipelines train supervised on simulated data, then deploy on real data and accept the simulation-reality gap. The new paradigm: pretrain self-supervised on real raw data (no labels needed), fine-tune on the small set of available labeled examples. SLAC neutrino physics: 0.1% of labels matches state-of-art. The bottleneck shifts from 'we don't have enough labels' to 'we don't have a good self-supervised objective yet.'
 

@@ -17,9 +17,9 @@
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260325-AE23` Ask 'why' enough times about any action and you reach either God, a self-justifying value like family, or the uncomfortable realization that reasons simply run out.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
-- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
 - `INS-260327-015B` Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
 - `INS-260330-48C6` The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
 - `INS-260330-DA0B` Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.
 - `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
+- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
 - `INS-260405-56CB` Self-employment is the shallow reading; self-expression through work is the deep one.

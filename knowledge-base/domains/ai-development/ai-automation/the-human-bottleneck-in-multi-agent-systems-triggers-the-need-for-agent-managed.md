@@ -52,7 +52,6 @@ stance: >-
   agents that manage worker agents, removing the human from the daily management
   loop.
 related:
-  - INS-260321-18D0
   - INS-260325-160E
   - INS-260322-EAB6
   - PRI-260328-1ED1
@@ -62,6 +61,7 @@ related:
   - PRI-260328-3094
   - INS-260410-7ED2
   - INS-260411-5478
+  - INS-260421-60D9
 evidence:
   - id: INS-260327-B561
     type: EXTENDS

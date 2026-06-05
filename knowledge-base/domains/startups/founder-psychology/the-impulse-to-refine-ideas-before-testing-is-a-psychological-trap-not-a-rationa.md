@@ -53,7 +53,6 @@ stance: >-
   outcomes.
 related:
   - INS-260327-924F
-  - INS-260402-AD42
   - INS-260403-2DF9
   - INS-260405-9DF5
   - INS-260410-0923

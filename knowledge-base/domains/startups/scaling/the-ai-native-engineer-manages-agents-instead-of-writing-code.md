@@ -47,7 +47,6 @@ stance: >-
   their skill at orchestrating and managing multiple AI agents—a fundamentally
   different competency than traditional software engineering.
 related:
-  - INS-260325-D540
   - INS-260405-6A6F
   - INS-260530-D34F
   - PRI-260406-4B8E
@@ -57,6 +56,7 @@ related:
   - INS-260410-9F17
   - INS-260501-9503
   - INS-260501-3CAA
+  - INS-260505-4FEF
 evidence:
   - id: INS-260330-8F07
     type: SUPPORTS

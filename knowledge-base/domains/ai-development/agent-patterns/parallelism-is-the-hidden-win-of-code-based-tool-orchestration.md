@@ -53,8 +53,8 @@ related:
   - INS-260410-1030
   - INS-260403-08D7
   - INS-260424-3176
+  - INS-260605-C760
   - INS-260330-3EFC
-  - INS-260410-D250
   - INS-260514-E481
 ---
 When Claude expresses orchestration in Python, independent operations can run concurrently via asyncio.gather — fetching 20 employees' expenses in parallel instead of 20 sequential tool calls. The blog's example shows this explicitly: budget lookups and expense fetches each fan out in parallel, and the script only blocks on results it actually needs next.

@@ -50,8 +50,9 @@ related:
   - INS-260405-3B54
   - INS-260327-991D
   - INS-260325-6150
+  - INS-260605-A95C
   - INS-260423-6172
-  - INS-260424-0554
+  - INS-260605-86BE
 ---
 Redis Arc's Bama identified a fundamental shift in inference workload patterns: traditional chat was decode-heavy (generating tokens one at a time in response to short queries), but agentic multi-turn inference is prefill-heavy (processing large context windows of prior conversation, tool outputs, and system prompts before generating relatively shorter responses).
 

@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 67 insights
+> 71 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -12,12 +12,14 @@
 - `INS-260328-B19D` [high] Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
 - `INS-260409-C158` [high] Frontier model capabilities are built one at a time by human annotators, and the annotation workforce keeps growing — it's not a one-time cost that decays.
 - `INS-260320-7B4B` [high] HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
+- `INS-260605-738E` [high] Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment.
 - `INS-260410-F053` [high] Zuckerberg frames distillation as the surprise-strong technique of the last year — ~95% of a teacher model's intelligence captured at ~10% of the cost — and says the point of open-sourcing behemoth models is to enable distillation, not direct deployment.
 - `INS-260327-1B9A` [high] Kimi K2.5's early fusion of vision and text from pre-training day one produced emergent vision-to-code capabilities and mutual enhancement between modalities.
 - `INS-260323-47D8` [high] Conversations with jailbroken LLMs like Dan and Sydney become part of future training data, meaning each LLM's personality becomes immortal — reincarnatable by any future model trained on internet data.
 - `INS-260403-1F1B` [high] More training data produces diminishing performance improvements, forcing differentiation through data quality and architecture innovation.
 - `INS-260329-D8BC` [high] Distance-based algorithms like KNN and SVM produce garbage results without feature scaling because large-range features dominate the distance calculation.
 - `INS-260403-18CA` [high] Few-shot prompting can take accuracy from 0% to 90%, while role prompting has negligible effect on correctness.
+- `INS-260605-4D1D` [high] For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260410-3A08` [high] Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260323-4E12` [high] The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260410-CDE6` [high] To match GPT-3's 0.5M-token batch size on a GPU that only fits 16K tokens per step, run 32 micro-batches and sum their gradients before the optimizer step — but remember to divide by grad_accum_steps to preserve the loss's mean reduction.
@@ -49,9 +51,11 @@
 - `INS-260410-7933` [high] LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
 - `INS-260329-7F02` [high] On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - `INS-260322-CCE8` [high] Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
+- `INS-260605-278E` [high] Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260329-5F96` [high] Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
 - `INS-260320-922A` [high] Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
 - `INS-260327-BE4E` [high] Token efficiency gains like the Muon optimizer effectively multiply finite high-quality data, pushing intelligence ceilings higher rather than merely reducing infrastructure cost.
+- `INS-260605-C859` [high] Pick tokenizer vocab size to match your data budget: you need roughly vocab-squared tokens of data to cover the bigrams the model must learn.
 - `INS-260323-3F39` [high] Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
 - `INS-260330-D3F5` [high] LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260325-5B28` [medium] Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.

@@ -42,8 +42,8 @@ stance: >-
 related:
   - INS-260403-18CA
   - INS-260501-E3C7
+  - INS-260605-287A
   - INS-260403-F664
   - INS-260403-31E4
-  - INS-260329-FEBA
 ---
 For scenes involving movement, action, or timing, the creator runs multi-shot auto mode (generating multiple angles at once) and curates the best, rather than refining one prompt repeatedly. The logic: models have unpredictable output variance, so spending credits on breadth of options dominates spending them on depth of a single attempt. This is the generative-media analog to portfolio construction - when variance is high and per-attempt cost is low, diversification wins over optimization. It also mirrors evolutionary search: many samples, strong selection.

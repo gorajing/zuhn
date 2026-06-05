@@ -69,6 +69,7 @@ related:
   - INS-260405-E4FC
   - INS-260412-3FF0
   - PRI-260405-B144
+  - INS-260605-0D57
 ---
 Levine describes a ~100x drop in research-grade robot arm cost over roughly a decade: $400,000 PR2 in 2014 → $30,000 arms when he started his Berkeley lab → $3,000 arms currently in use at Physical Intelligence, with further drops expected. This is much faster than pure economies-of-scale would explain.
 

@@ -57,9 +57,9 @@ related:
   - INS-260403-D3ED
   - PRI-260406-22E2
   - INS-260413-25EC
-  - INS-260329-A2D0
   - INS-260403-58DA
   - INS-260410-4E62
+  - INS-260605-6B24
 ---
 Karpathy makes a subtle but important distinction: open-weights models (like Llama) are like compiled binaries. You can run them and do some fine-tuning, but the more you fine-tune, the more the model regresses on its original capabilities. To add knowledge without regression, you need to train on a mixture of the original and new data distributions, which requires the full training loop and data, not just the weights.
 

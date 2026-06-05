@@ -56,8 +56,8 @@ related:
   - INS-260327-1599
   - INS-260409-5CF4
   - INS-260514-00D3
+  - INS-260605-26EC
   - INS-260329-818A
-  - INS-260328-A46F
 ---
 The talk surfaces a counter-intuitive scaling failure mode: a multi-agent system that's 3x faster per task can still feel slow if users re-trigger triage every time they ask 'what's the latest on this incident.' PayPal's fix is structural — incident reports get persisted, and the user-facing path checks memory first before invoking the triage sub-agents.
 

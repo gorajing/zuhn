@@ -61,7 +61,6 @@ stance: >-
   hardware-aware constraint satisfaction rather than from overcomplicated novel
   architectures.
 related:
-  - INS-260323-6761
   - INS-260325-FD14
   - INS-260327-DE27
   - INS-260327-6E86
@@ -71,6 +70,7 @@ related:
   - INS-260404-CC8B
   - PRI-260406-8B75
   - PRI-260407-5465
+  - INS-260410-022B
 ---
 Sholto explicitly praises DeepSeek's research taste and compares it favorably to Noam Shazeer's. You can read their v2/v3 papers and 'clearly see what constraints they're thinking about.' MLA (multi-head latent attention) trades flops for memory bandwidth because they had H800s with abundant flops. When export controls cut their chip access, they switched to NSA (native sparse attention) which more selectively loads memory bandwidth. Their MoE load-balancing evolved from auxiliary losses (which require tuning coefficients and force the model to trade off objectives) to a simpler bias-term approach that avoids the coefficient tuning problem entirely.
 

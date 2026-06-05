@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260329-B583
   - INS-260325-FDA9
+  - INS-260605-0DB3
+  - INS-260605-8789
   - INS-260330-1A63
-  - INS-260325-0688
-  - PRI-260323-81E9
 evidence:
   - id: INS-260325-FDA9
     type: TRANSFERS_TO

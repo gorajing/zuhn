@@ -65,7 +65,7 @@ related:
   - INS-260409-D6D8
   - INS-260410-2F8D
   - INS-260329-63DD
+  - INS-260605-9FCF
   - INS-260320-47FA
-  - PRI-260409-9D7B
 ---
 Karina's design pattern (shared in the conversation) for her coaching knowledge base: after every coaching session she has Claude generate a markdown synopsis of the actual substance of the conversation, and that synopsis (not the raw transcript) goes into her database. When the LLM queries the DB, it sees a small dense summary, not an hour-long transcript. The pattern generalizes: 500 hours of raw coaching transcripts × 60 minutes each = an unworkable amount of context. 500 markdown summaries × 1 page each = a queryable knowledge base. The same pattern applies to literature review: don't try to RAG over hundreds of full papers; have an upstream pass that writes a 1-page markdown summary per paper (what's the question, what's the method, what's the key finding, what's the limitation), index those, and use the raw paper only when the user drills into a specific summary. Why this works: LLMs degrade quickly with context size (lost-in-the-middle, attention dilution), and most of the information density in a long document is repetition or formality. A well-constructed summary preserves the dense signal and drops the noise. The architectural lesson: when designing an LLM-backed knowledge base, the input transformation pipeline (what gets indexed) is more important than the retrieval mechanism. Build summaries on ingest, not at query time.

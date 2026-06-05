@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 133 insights
+> 134 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -132,6 +132,7 @@
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
 - `INS-260501-033E` [medium] When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap.
 - `INS-260403-DED4` [medium] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
+- `INS-260605-ED35` [medium] Once agents can plausibly do most of your work, the scarce decision is which slices of work you keep for yourself because they define your value and you enjoy them.
 - `INS-260410-410E` [medium] Dwarkesh still hires a human editor to clean transcripts even though Claude 4 Opus can technically do the task, because he can't train the model to learn his preferences over time.
 - `INS-260514-2E48` [low] AI runs 24/7. Humans don't. In Amazon warehouses, AI already dispatches humans via headsets. The roles invert.
 - `INS-260405-18C8` [low] Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.

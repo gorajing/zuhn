@@ -42,7 +42,6 @@ stance: >-
   review) and run agents within it, rather than letting agents generate code
   unconstrained.
 related:
-  - INS-260321-D3BE
   - INS-260320-1B10
   - INS-260403-A2BA
   - INS-260410-0855

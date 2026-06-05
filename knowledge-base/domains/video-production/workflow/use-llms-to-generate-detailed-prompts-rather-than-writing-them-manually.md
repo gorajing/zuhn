@@ -39,10 +39,10 @@ stance: >-
   prompts themselves.
 related:
   - INS-260320-508F
+  - INS-260605-D659
   - PRI-260406-1AC6
   - INS-260501-E3C7
   - INS-260320-4993
-  - INS-260321-703F
   - INS-260410-B118
 ---
 The operator describes what they want in plain English (one sentence), asks the LLM for a detailed prompt to generate that keyframe, then pastes the result into the video tool. This saves credits by reducing failed generations and offloads the specialized vocabulary of cinematic description to a model that knows it. The deeper principle: humans should specify intent at the highest useful level of abstraction and delegate translation into domain-specific syntax. This will generalize beyond video to any domain where a model can translate natural intent into specialized input.

@@ -73,8 +73,8 @@ related:
   - INS-260410-FD24
   - INS-260327-9F46
   - INS-260505-5510
+  - INS-260605-8E69
   - INS-260404-AD52
-  - PRI-260407-2E0F
 ---
 The workshop's central operational claim pushes back on a common reflex: when an AI feature misbehaves in production, teams reach for a better/different model. The speaker's taxonomy argues the real causes are usually elsewhere:
 

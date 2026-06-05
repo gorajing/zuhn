@@ -8,6 +8,6 @@
 - `INS-260329-3332` A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
 - `INS-260329-63DD` Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.
 - `INS-260405-0810` More than half of Google searches end without a click, and AI accelerates this trend — meaning brand presence in the answer is worth more than the click itself.
+- `INS-260403-6EC2` AI assistants like ChatGPT and Perplexity are replacing Google as the primary discovery layer, making Generative Engine Optimization essential.
 - `INS-260322-DBEA` Build free tools targeting SEO keywords to drive organic traffic instead of doing traditional marketing.
 - `INS-260322-E8BA` Filter for keywords under 10 difficulty with 1000+ monthly volume to find rankable free tool opportunities.
-- `INS-260403-6EC2` AI assistants like ChatGPT and Perplexity are replacing Google as the primary discovery layer, making Generative Engine Optimization essential.

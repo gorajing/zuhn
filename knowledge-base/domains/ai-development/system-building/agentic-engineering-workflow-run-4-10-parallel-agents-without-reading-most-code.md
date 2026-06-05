@@ -51,15 +51,15 @@ resolutions:
     requires comfort with not understanding every line — but produces output
     that one person could never achieve otherwise.
 related:
-  - INS-260320-1B10
+  - INS-260605-A847
   - INS-260403-08D7
   - PRI-260328-A65A
+  - INS-260320-1B10
   - INS-260330-7E4F
-  - INS-260410-A27C
-  - INS-260330-A260
   - INS-260410-2307
   - INS-260410-38C8
   - INS-260410-BDFF
+  - INS-260410-A27C
   - INS-260411-52C8
 stance: >-
   Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely

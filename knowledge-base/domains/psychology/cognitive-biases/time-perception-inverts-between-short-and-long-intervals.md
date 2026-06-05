@@ -52,7 +52,6 @@ related:
   - INS-260329-22B6
   - INS-260329-3ED9
   - INS-260330-ADC6
-  - INS-260403-368A
 stance: >-
   Active engagement makes short intervals feel fast but long periods feel slow,
   while boredom does the opposite

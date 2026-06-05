@@ -1,26 +1,38 @@
 # Topic: agents
 
-> 23 insights
+> 35 insights
 
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260410-F0EF` [high] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260410-E73E` [high] Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
 - `INS-260410-F40F` [high] One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
+- `INS-260605-72C4` [high] A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.
+- `INS-260605-E9A6` [high] Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260410-14E5` [high] Return denials as tool results so false positives cost a single retry instead of killing the session.
+- `INS-260605-8E69` [high] Don't test 'it called tool A then B then decided C' — test only whether it reached the right answer, or your evals shatter on every model upgrade.
+- `INS-260605-B13C` [high] Run distinct evaluators at intent resolution, tool selection, and final response so you can pinpoint exactly where quality breaks down.
 - `INS-260410-F5EC` [high] Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
+- `INS-260605-B610` [high] Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?'
 - `INS-260410-5D66` [high] Grading tool-call sequences creates brittle evals that punish creativity; grade the outcome and the transcript holistically instead.
+- `INS-260605-E18B` [high] The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260410-4067` [high] Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
 - `INS-260410-9B0E` [high] Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
 - `INS-260410-B3C2` [high] pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
+- `INS-260605-C009` [high] LLM-as-judge is 'the lunatics running the asylum' — write your own deterministic eval against a golden set when you can.
 - `INS-260405-CC9D` [high] Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
+- `INS-260605-667B` [high] An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
 - `INS-260410-E3BB` [high] A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
+- `INS-260605-310E` [high] Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
 - `INS-260514-EE2E` [high] Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
+- `INS-260605-0DB3` [high] One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260410-AF66` [high] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
+- `INS-260605-5D14` [high] If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
 - `INS-260410-376A` [high] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260410-83EC` [high] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260405-F26B` [medium] ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260514-1D60` [medium] Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
+- `INS-260605-8789` [medium] Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'
 - `INS-260423-85B3` [medium] Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
 - `INS-260413-11C9` [medium] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260405-E8A1` [medium] When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.

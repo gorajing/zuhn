@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260406-A33C
   - INS-260403-8C75
+  - INS-260605-1523
   - INS-260322-A36C
   - PRI-260406-E3D0
-  - INS-260322-AB55
 evidence:
   - id: INS-260322-A36C
     type: SUPPORTS

@@ -5,6 +5,7 @@
 
 - `INS-260404-9C57` Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.
+- `INS-260605-33C0` Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260409-A0B4` LlamaIndex exposes data loaders, parsers, retrievers, synthesizers, and reasoners as swappable components — Jerry Liu's design philosophy is that optimal choices differ per data type and use case, so users need to plug in custom implementations at each layer rather than accept one pipeline.
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.

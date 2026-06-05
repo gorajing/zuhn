@@ -2,6 +2,7 @@
 
 - `INS-260603-A09F` Frans/Rob (Amazon/Zoox): LLMs work because we distilled all of humanity's knowledge from the internet, but there's no equivalent corpus of 3D scene scans; people create virtual worlds to train on, but 'everything is fake at the beginning' and 'no matter how many virtual worlds you create, even infinite, it's never going to be enough.'
 - `INS-260410-66C6` Ask ChatGPT for ten jokes and you'll notice it only knows three — models are silently collapsed into a narrow output manifold, which poisons any attempt to train on their own generations.
+- `INS-260605-738E` Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment.
 - `INS-260323-9BAB` Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
 - `INS-260505-4351` If a new clinical policy takes an action your offline data never saw, off-policy evaluation can't bound its value — synthetic data fills the gap.
 - `INS-260330-206C` Back-translation creates synthetic training data for rare language pairs, but too much synthetic data degrades quality

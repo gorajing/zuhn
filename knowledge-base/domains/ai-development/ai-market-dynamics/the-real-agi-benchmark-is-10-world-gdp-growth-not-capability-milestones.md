@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260329-ED44
   - INS-260403-5C1D
+  - INS-260605-B8DD
   - PRI-260321-14D8
   - PRI-260403-EA13
   - PRI-260407-A13C
-  - PRI-260413-A957
 ---
 Developed economies currently grow at roughly 2% nominal and ~0% inflation-adjusted. If AI is genuinely comparable to the Industrial Revolution, that growth rate should visibly change. Anything short of that is supply-side hype disconnected from whether the intelligence is actually being absorbed by the broader economy. The biggest winners of a real AI revolution are not AI labs but the industries consuming the commodity.
 

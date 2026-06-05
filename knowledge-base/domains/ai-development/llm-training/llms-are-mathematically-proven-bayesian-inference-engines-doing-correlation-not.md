@@ -44,11 +44,11 @@ resolutions:
     world that true intelligence requires.
 related:
   - INS-260323-D56E
+  - INS-260605-0D57
   - INS-260409-5C28
   - INS-260412-8FB0
   - INS-260501-F394
   - INS-260410-3E86
-  - INS-260403-708E
   - INS-260330-EE25
 stance: >-
   Bayesian wind tunnel experiments prove transformers perform exact Bayesian

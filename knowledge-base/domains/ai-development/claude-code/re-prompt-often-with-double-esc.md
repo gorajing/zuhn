@@ -20,12 +20,11 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
-  - INS-260320-508F
   - INS-260403-7D7A
   - INS-260320-D972
+  - INS-260605-D659
   - INS-260410-D034
   - PRI-260406-1AC6
-  - INS-260501-E3C7
   - INS-260329-917B
   - INS-260403-BE4D
   - INS-260409-325B
