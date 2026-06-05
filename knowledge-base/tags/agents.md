@@ -57,21 +57,22 @@
 - `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
+- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
+- `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260321-C5AA` Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
 - `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
-- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
-- `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260605-4688` An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
 - `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
-- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
+- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260605-5EE0` Because a containerized agent is just another application, you can prototype it locally and lift the identical artifact to Kubernetes/OpenShift when you need security and scale.
 - `INS-260605-74CC` Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
 - `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
 - `INS-260410-B224` Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
+- `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
@@ -91,6 +92,7 @@
 - `INS-260605-6C72` Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss.
 - `INS-260409-B13F` MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
 - `INS-260320-63D3` Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.
+- `INS-260605-3163` A new 'traces' dataset repo type lets you push Codex/Claude Code/agent sessions and later train a model on them—turning everyday agent runs into a self-improvement flywheel.
 - `INS-260605-2793` Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
 - `INS-260525-77FE` Korean engineer: the visible coding is maybe 40% of the job; project setup, choosing the stack/LLM provider, deployment, and design decisions are the rest and take the most effort.

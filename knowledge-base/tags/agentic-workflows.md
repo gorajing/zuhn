@@ -5,4 +5,5 @@
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260326-7F79` On the HumanEval coding benchmark, GPT-3.5 with agentic workflows scored approximately 95% versus GPT-4 zero-shot at 67%, demonstrating that workflow design can matter more than model scale.
 - `INS-260501-E843` Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale.
+- `INS-260605-4CED` Claude orchestrated the entire reverse-engineering effort while the human merely rebooted the phone and reported how many beeps he heard, acting as the agent's hands and ears.
 - `INS-260327-33FA` On the HumanEval coding benchmark, GPT-3.5 with an agentic workflow outperformed GPT-4 zero-shot, demonstrating that iteration beats raw model capability.

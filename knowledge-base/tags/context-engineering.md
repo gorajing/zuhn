@@ -16,6 +16,7 @@
 - `INS-260605-1523` Optimize prompts when the model has never seen your data; skip it when a frontier model already knows the answer.
 - `INS-260605-9276` Provide agents skills as plain version-controlled files containing examples of how to do a task, and let the project maintainers own those skills, so the agent goes from zero-shot to robust few-shot.
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
+- `INS-260605-C028` A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260410-EE37` Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
 - `INS-260605-0374` Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
 - `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
@@ -24,6 +25,7 @@
 - `INS-260410-9EFC` Context is not free real estate — every token spent depletes the model's attention budget, so curate aggressively.
 - `INS-260410-F259` System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
 - `INS-260605-CF15` Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
+- `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.

@@ -53,10 +53,10 @@ stance: >-
   window.
 related:
   - INS-260403-0350
+  - INS-260605-9976
   - PRI-260407-D1AD
   - INS-260501-FD20
   - INS-260321-18D0
-  - INS-260605-A803
 ---
 Anthropic's data shows multi-agent research systems use roughly 15x the tokens of chat interactions (agents alone use ~4x). Their multi-agent setup beat single-agent Opus 4 by 90.2% on internal research evals, but only because the task — breadth-first research — parallelizes cleanly across subagents with separate context windows.
 

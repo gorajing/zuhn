@@ -52,11 +52,11 @@ related:
   - INS-260330-0102
   - INS-260329-FEBA
   - INS-260605-09E0
-  - INS-260320-69CD
+  - INS-260605-A557
   - INS-260329-CF48
-  - INS-260403-7EB2
   - INS-260411-8034
   - INS-260514-E481
+  - INS-260605-9FCF
 stance: >-
   The Autoresearch loop (change a file, measure the result, keep or discard) can
   optimize any prompt-driven process with measurable outputs

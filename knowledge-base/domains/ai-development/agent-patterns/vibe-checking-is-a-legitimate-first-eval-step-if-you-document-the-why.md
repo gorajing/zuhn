@@ -48,7 +48,6 @@ stance: >-
   Starting evals with manual vibe-checks is fine as long as every human judgment
   is paired with a written justification.
 related:
-  - INS-260410-4067
   - INS-260410-DABE
   - INS-260410-87B5
   - INS-260605-EC51

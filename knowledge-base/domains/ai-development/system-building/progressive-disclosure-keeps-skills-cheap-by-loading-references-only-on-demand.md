@@ -45,9 +45,9 @@ stance: >-
   inlining all context, keeping the context window lean.
 related:
   - INS-260605-90E5
+  - INS-260605-BDFF
   - INS-260605-C86D
   - INS-260605-9276
   - INS-260327-5AFE
-  - INS-260605-BA6A
 ---
 A skill can carry deep knowledge without the context-bloat problem of a giant CLAUDE.md by using progressive disclosure: the main file says 'if you're doing scoring, load scoring-rubric.md and read it; if not, skip it.' WorkOS's public skills repo literally contains a file called skill-router whose entire job is a reference map ('installing AuthKit into Next.js? load authkit-nextjs.md'), so a session only ever pulls the two markdown files it actually needs. This scales the migration-guide pattern (N competitor-specific guides behind one pointer) and the same trick disambiguates audiences (load audience-guide.md only when audience detection runs). The payoff is that skills can be arbitrarily knowledgeable while keeping each invocation's token footprint minimal, which is impossible when everything loads eagerly at session start.

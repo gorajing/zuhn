@@ -48,11 +48,11 @@ stance: >-
   difference between stateless request handling and stateful data persistence in
   distributed systems
 related:
+  - INS-260605-61D9
   - INS-260330-BE4D
   - INS-260329-818A
   - INS-260409-05F8
   - INS-260605-9FCF
-  - INS-260405-6C88
 evidence:
   - id: INS-260330-BE4D
     type: TRANSFERS_TO

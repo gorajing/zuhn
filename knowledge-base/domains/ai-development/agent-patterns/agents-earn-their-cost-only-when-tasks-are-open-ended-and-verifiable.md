@@ -49,11 +49,11 @@ stance: >-
   unpredictable AND there is ground-truth environmental feedback to prevent
   compounding errors.
 related:
+  - INS-260605-27CC
   - INS-260605-C775
   - INS-260603-1BC0
   - INS-260605-9276
   - INS-260403-0350
-  - INS-260410-A27C
   - INS-260410-38C8
   - INS-260605-3285
 ---

@@ -51,13 +51,12 @@ stance: >-
   Phrasing a skill description as 'use [skill] to [purpose]' materially raises
   the odds Claude auto-loads it.
 related:
-  - INS-260320-8DBD
   - INS-260320-F8FD
   - INS-260501-6453
   - INS-260605-C86D
   - INS-260605-6722
+  - INS-260605-BDFF
   - INS-260605-9276
-  - INS-260605-2032
 ---
 Pedro found from his own experiments that descriptions phrased with the verb 'use' — 'use [skill] to [whole purpose]' — get loaded more reliably, at least on Claude, possibly because the model was trained to recognize that pattern. He's explicit this is an empirical observation, not documented behavior, which is why confidence is medium and shelf-life time-sensitive: skill-loading heuristics are early-stage and may shift.
 

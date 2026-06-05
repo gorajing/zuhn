@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260411-D060
   - INS-260411-52C8
+  - INS-260605-61D9
   - INS-260329-4D03
   - INS-260327-91C7
-  - INS-260330-AB62
 ---
 The tutorial demonstrates static class variables that are shared across all objects of a class — changing the value in one place affects all instances. This is contrasted with instance variables where each object maintains its own copy. The tutorial uses the example of a Song class where a shared song count increments whenever any new Song is created.
 

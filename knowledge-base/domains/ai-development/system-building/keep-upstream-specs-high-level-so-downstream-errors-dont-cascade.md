@@ -55,10 +55,10 @@ stance: >-
 related:
   - INS-260410-0575
   - PRI-260328-B4BD
+  - INS-260605-27CC
   - PRI-260407-D1AD
   - INS-260327-BF89
   - PRI-260328-F723
-  - INS-260505-A9BC
 ---
 In the three-agent harness, the planner expanded a 1-4 sentence prompt into a full product spec but was deliberately prompted to be ambitious about scope while staying focused on product context and high-level technical design rather than detailed implementation. The reasoning: if the planner specifies granular technical details upfront and gets them wrong, those errors cascade into the downstream generator's work with no way to recover.
 

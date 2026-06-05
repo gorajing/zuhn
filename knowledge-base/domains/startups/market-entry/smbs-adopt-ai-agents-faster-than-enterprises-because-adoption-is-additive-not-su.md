@@ -53,15 +53,15 @@ stance: >-
   the organizational resistance that slows enterprise adoption.
 related:
   - INS-260320-9D89
-  - INS-260325-252D
   - INS-260327-A22D
   - INS-260327-BB71
   - PRI-260328-8317
   - INS-260330-0F23
   - INS-260330-8F07
+  - INS-260605-BAB5
   - INS-260405-E8A1
   - INS-260603-E224
-  - INS-260410-F910
+  - INS-260403-0AF6
 evidence:
   - id: INS-260327-A9D5
     type: EXTENDS

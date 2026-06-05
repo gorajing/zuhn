@@ -3,6 +3,7 @@
 - `INS-260605-809A` Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260410-F40F` One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
 - `INS-260605-72C4` A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.
+- `INS-260605-ACB3` Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
 - `INS-260605-8E69` Don't test 'it called tool A then B then decided C' — test only whether it reached the right answer, or your evals shatter on every model upgrade.
 - `INS-260410-5D66` Grading tool-call sequences creates brittle evals that punish creativity; grade the outcome and the transcript holistically instead.
 - `INS-260410-B3C2` pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
@@ -38,9 +39,11 @@
 - `INS-260605-EC51` An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
 - `INS-260605-93B8` The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
 - `INS-260605-D404` Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
+- `INS-260605-BDFF` A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - `INS-260410-5951` On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
 - `INS-260605-365A` Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
 - `INS-260605-BFBE` An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
 - `INS-260605-9F16` 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
+- `INS-260605-0BA3` Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
 - `INS-260522-C5C2` YC Root Access 'holy shit' moment: a monitoring agent watched every employee query, and when one failed it opened a merge request to fix the tools/skills/index, had an agent review and deploy it, so the query succeeded the next day.

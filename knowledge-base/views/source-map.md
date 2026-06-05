@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-05 | 2819 sources
+Generated on 2026-06-05 | 2828 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -817,7 +817,10 @@ Generated on 2026-06-05 | 2819 sources
 | Coca-Cola: The Complete History & Strategy | youtube | 5 | 2026-04-11 |
 | Codex 마스터 클래스 라이브 | 하네스 설계부터 서비스 배포까지 (라이브 마지막에는 작은 이벤트도 준비했습니다) | youtube | 5 | 2026-05-14 |
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
+| Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase | youtube | 5 | 2026-06-05 |
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
+| Connecting the Dots with Context Graphs — Stephen Chin, Neo4j | youtube | 5 | 2026-06-05 |
+| Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j | youtube | 5 | 2026-06-05 |
 | Controlling Your Dopamine For Motivation, Focus & Satisfaction | youtube | 5 | 2026-03-30 |
 | Cooking with Agents in VS Code — Liam Hampton, Microsoft | youtube | 5 | 2026-06-05 |
 | Costco (Audio) | youtube | 5 | 2026-04-11 |
@@ -991,6 +994,7 @@ Generated on 2026-06-05 | 2819 sources
 | Michio Kaku: The Universe in a Nutshell (Full Presentation) | Big Think | youtube | 5 | 2026-03-30 |
 | Microsoft Volume II: The Complete History and Strategy of the Ballmer Years (Audio) | youtube | 5 | 2026-04-11 |
 | Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft | youtube | 5 | 2026-06-05 |
+| Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture | youtube | 5 | 2026-06-05 |
 | Nestlé's Darkest Secret: The Disturbing Truth | youtube | 5 | 2026-03-30 |
 | Neutron Stars – The Most Extreme Things that are not Black Holes | youtube | 5 | 2026-04-12 |
 | Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318 | youtube | 5 | 2026-03-30 |
@@ -1020,6 +1024,7 @@ Generated on 2026-06-05 | 2819 sources
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
 | Reddit vs Wallstreet - GameStop, The Movie | youtube | 5 | 2026-04-12 |
 | Renaissance Technologies (Audio) | youtube | 5 | 2026-04-11 |
+| Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs | youtube | 5 | 2026-06-05 |
 | Rewiring the State — Eoin Mulgrew, No. 10 (Downing Street) | youtube | 5 | 2026-06-05 |
 | Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 5 | 2026-04-10 |
 | Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492 | youtube | 5 | 2026-03-23 |
@@ -1045,7 +1050,9 @@ Generated on 2026-06-05 | 2819 sources
 | Satya Nadella – How Microsoft thinks about AGI | youtube | 5 | 2026-04-10 |
 | Satya Nadella — Microsoft’s AGI plan & quantum breakthrough | youtube | 5 | 2026-04-10 |
 | Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 5 | 2026-04-10 |
+| Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw | youtube | 5 | 2026-06-05 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
+| Self-Training Agents: Hermes Agent, HF Traces, Skills, MCP & Finetuning  — Merve Noyan, Hugging Face | youtube | 5 | 2026-06-05 |
 | Sessions: David Senra (Founders Podcast) | youtube | 5 | 2026-04-11 |
 | Ship Real Agents: Hands-On Evals for Agentic Applications — Laurie Voss, Arize | youtube | 5 | 2026-06-05 |
 | Shopify CEO on How AI is a Scapegoat for Mass Layoffs & Trump Derangement Syndrome in Canada | youtube | 5 | 2026-05-14 |
@@ -1142,6 +1149,7 @@ Generated on 2026-06-05 | 2819 sources
 | Trump’s Real Intentions Behind the Middle East War? feat Dr. Jiyoon Kim | youtube | 5 | 2026-03-23 |
 | TSMC founder Morris Chang | youtube | 5 | 2026-04-11 |
 | TSMC (Remastered) | youtube | 5 | 2026-04-11 |
+| Two Roads to Durable Agents: Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev | youtube | 5 | 2026-06-05 |
 | Uber CEO Dara Khosrowshahi | youtube | 5 | 2026-04-11 |
 | Unlimited War: Putin vs Bismarck – Sarah Paine | youtube | 5 | 2026-04-10 |
 | US Banking Crisis: The Truth Behind The Disaster | youtube | 5 | 2026-04-12 |
@@ -1902,6 +1910,7 @@ Generated on 2026-06-05 | 2819 sources
 | Why There are Now So Many Shortages (It's Not COVID) | youtube | 4 | 2026-04-12 |
 | Why We Should NOT Look For Aliens - The Dark Forest | youtube | 4 | 2026-04-12 |
 | Why You Should Not Startup In Your 20s | Startup Founder Reality | youtube | 4 | 2026-03-23 |
+| Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j | youtube | 4 | 2026-06-05 |
 | Willpower likely won’t save you from your bad habits. Science explains why | youtube | 4 | 2026-03-25 |
 | Work As Hard As You Can | youtube | 4 | 2026-03-30 |
 | World's Fastest Pitch - Supersonic Baseball Cannon - Smarter Every Day 242 | youtube | 4 | 2026-03-30 |
@@ -2724,6 +2733,15 @@ Generated on 2026-06-05 | 2819 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | 하버드대에서 밝힌 「삶에 여유가 없을수록 꼭 해야하는 1가지」 | youtube | 0 | 2026-04-23 |
 | "10배 저렴한데, 효과는 더 좋습니다!" 피부과 의사가 매일 쓰고 효과 본 재생크림 6가지 추천 | youtube | 0 | 2026-04-23 |
 | 10년 전, 젠슨 황과 일론 머스크가 본 미래 | 거장들의 대화 Ep.01 | youtube | 0 | 2026-04-23 |
@@ -2747,9 +2765,6 @@ Generated on 2026-06-05 | 2819 sources
 | Building Agents at Home: Homeschooling, Parenting and More | The a16z Show | youtube | 0 | 2026-04-23 |
 | Can LLMs generate Enterprise Quality Code? — Prasenjit Sarkar, Sonar | youtube | 0 | 2026-06-05 |
 | CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
-| Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase | youtube | 0 | 2026-06-05 |
-| Connecting the Dots with Context Graphs — Stephen Chin, Neo4j | youtube | 0 | 2026-06-05 |
-| Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j | youtube | 0 | 2026-06-05 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
 | Darwin Gödel Machine Explained: Self-Improving AI Agents | youtube | 0 | 2026-04-23 |
 | DINOv3 Paper Explained: The Computer Vision Foundation Model | youtube | 0 | 2026-04-23 |
@@ -2787,7 +2802,6 @@ Generated on 2026-06-05 | 2819 sources
 | Marc Andreessen on The Future of VC: Will a16z Go Public & Why Introspection is Dangerous? | youtube | 0 | 2026-04-23 |
 | mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
 | Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-23 |
-| Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture | youtube | 0 | 2026-06-05 |
 | Nano Banana, Veo, and Lyria: Mastering the Google gen media stack | youtube | 0 | 2026-04-24 |
 | Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
@@ -2795,10 +2809,7 @@ Generated on 2026-06-05 | 2819 sources
 | Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
 | Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
 | Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
-| Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs | youtube | 0 | 2026-06-05 |
-| Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw | youtube | 0 | 2026-06-05 |
 | Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum | youtube | 0 | 2026-06-05 |
-| Self-Training Agents: Hermes Agent, HF Traces, Skills, MCP & Finetuning  — Merve Noyan, Hugging Face | youtube | 0 | 2026-06-05 |
 | Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence | youtube | 0 | 2026-06-05 |
 | SWE-rebench: Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius | youtube | 0 | 2026-06-05 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-23 |
@@ -2811,7 +2822,6 @@ Generated on 2026-06-05 | 2819 sources
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 0 | 2026-04-23 |
 | The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked | youtube | 0 | 2026-06-05 |
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
-| Two Roads to Durable Agents: Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev | youtube | 0 | 2026-06-05 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
 | What Lies Beneath the API — Benjamin Cowen, Modal | youtube | 0 | 2026-06-05 |
@@ -2821,4 +2831,3 @@ Generated on 2026-06-05 | 2819 sources
 | Why Reinforcement Learning Unlocks Reasoning in LLMs (Aha Moments Explained) | youtube | 0 | 2026-04-23 |
 | Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry | youtube | 0 | 2026-06-05 |
 | Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind | youtube | 0 | 2026-06-05 |
-| Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j | youtube | 0 | 2026-06-05 |

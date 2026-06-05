@@ -21,20 +21,20 @@
 - `INS-260403-F943` The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
-- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
-- `INS-260605-DDAB` Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
 - `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
+- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
+- `INS-260605-DDAB` Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260410-2D5D` Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
 - `INS-260410-DD0E` Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
 - `INS-260410-56B4` If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
 - `INS-260410-5AB5` Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260322-30A0` In the AGI era, the critical skill shifts from executing tasks to evaluating outputs — from doing the homework to grading it.
 - `INS-260410-0DA5` Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
+- `INS-260605-EA4B` Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
 - `INS-260403-8302` Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
 - `INS-260410-EA51` Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
 - `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
-- `INS-260605-EA4B` Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
 - `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.

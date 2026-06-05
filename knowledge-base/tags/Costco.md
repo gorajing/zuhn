@@ -1,5 +1,6 @@
 # Tag: costco
 
+- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260405-39A6` Costco's 15% markup cap is a credible promise — customers know the rule, which is why they don't bother price-checking elsewhere.
 - `INS-260410-9C58` The $60 membership and bulk pack sizes select for customers who have cash flow flexibility, storage space, and a willingness to plan ahead — yielding the wealthiest customer base of any major US retailer despite the lowest prices.
@@ -23,7 +24,6 @@
 - `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
 - `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
-- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260403-747B` Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-41AA` Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.
 - `INS-260404-B086` Costco's $60 membership fee, confusing warehouse layout, and bulk-only sizing all seem like obstacles but actually select for affluent, high-spending customers with $100K average household income.

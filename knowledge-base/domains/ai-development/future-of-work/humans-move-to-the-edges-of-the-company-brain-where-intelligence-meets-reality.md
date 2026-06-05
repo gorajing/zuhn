@@ -53,6 +53,6 @@ related:
   - INS-260403-7CD3
   - INS-260410-1197
   - INS-260522-213D
-  - INS-260404-A526
+  - INS-260605-48D1
 ---
 The speaker locates humans around the edge of the central 'company brain' (all data, DMs, skills, knowhow), interfacing with reality where models can't go yet: novel situations, ethical considerations, high-stakes/high-emotion moments (a founder deciding whether to break up with a co-founder), and important sales conversations — 'a human being in the room for the next 20 years.' This directly corroborates the KB's deliberate human-vs-automation boundary (the 'what I will not automate' layer): automate the repeatable loop, reserve humans for the trust-, judgment-, and conviction-bearing edges.

@@ -1,9 +1,10 @@
 # Topic: architecture
 
-> 64 insights
+> 72 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
+- `INS-260605-0A68` [high] MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260605-7B83` [high] A useful on-device model is 3-4GB, so shipping it once at the system level and letting every app share it is the only way the economics work.
 - `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
@@ -38,22 +39,28 @@
 - `INS-260514-4FDC` [high] Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260605-DDAB` [high] Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260605-B03B` [high] Because the LLM and TTS blindly carry forward whatever the speech-to-text model produces, a misheard name or drug becomes an uncorrectable error — making entity-level transcript accuracy the foundation of the whole pipeline.
+- `INS-260605-83DA` [high] Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 - `INS-260605-26EC` [high] Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests.
 - `INS-260605-D37A` [high] Most STT models are trained on single-speaker data and degrade sharply under overlap, speaker change, cross-talk, distant mics, and code-switching.
 - `INS-260605-ACCD` [high] Cascade speech-to-text, an LLM, and text-to-speech as separate orchestrated models, because unified speech-to-speech models can't yet follow instructions or call tools reliably enough for production.
 - `INS-260501-8A1F` [high] AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI.
 - `INS-260514-AE82` [high] Harness engineering (system-prompt design, tool-call orchestration) can lift a model's performance 30-40% — invest there before chasing a better model.
+- `INS-260605-CA2B` [high] Replay-based durable execution suits bounded start-to-end workflows, but an agent is a long-lived session whose ever-growing replay journal eventually exceeds the system's entry-count or entry-size limits.
 - `INS-260410-346B` [high] If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260409-AB32` [high] Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260605-D710` [high] WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
 - `INS-260421-43EC` [medium] mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history.
+- `INS-260605-61D9` [medium] The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
 - `INS-260605-CF15` [medium] Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
+- `INS-260605-A557` [medium] Reading decision traces works well; writing them — deciding what to store, when, and how to score its quality — is still being figured out.
 - `INS-260501-01A5` [medium] Greg Brockman: if a doc is permissioned incorrectly and they realize they didn't want it accessible, normally they change the permissions — but now there are derived artifacts. You need to track through the system: this output came from this source, the source is no longer accessible, invalidate the derived artifact too.
 - `INS-260605-FB4D` [medium] Google's Eloquent transcription app chains a Gemma-3-based ASR engine with a separate text-polishing model — each only a few hundred million params — to ship offline transcription with a personal dictionary.
 - `INS-260421-665D` [medium] MemMachine, mem0, and Cognee all adopt some variant of working memory (short-term buffer), episodic memory (timestamped events), and semantic memory (extracted facts/profile).
+- `INS-260605-0436` [medium] An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260605-3DBF` [medium] Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.
 - `INS-260421-7ADE` [medium] Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
+- `INS-260605-8489` [medium] Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
 - `INS-260423-81B6` [medium] Google Cloud: the load balancer has a service extension that runs Model Armor on every request before it hits the backend, so even if the application forgets to validate, the filter still runs.
 - `INS-260605-E303` [medium] Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.
 - `INS-260330-30FB` [medium] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
@@ -66,3 +73,4 @@
 - `INS-260404-E91F` [medium] Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260605-E023` [medium] MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260605-B176` [medium] The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
+- `INS-260605-4B12` [low] Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.

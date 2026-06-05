@@ -50,10 +50,10 @@ stance: >-
   same length
 related:
   - INS-260329-975C
+  - INS-260605-8489
   - INS-260514-23D6
   - INS-260329-A53C
   - INS-260329-63DD
-  - PRI-260406-1AC6
 evidence:
   - id: INS-260329-A53C
     type: TRANSFERS_TO

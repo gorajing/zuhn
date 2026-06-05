@@ -49,7 +49,6 @@ stance: >-
   'using' — blocks progress in every domain where the phenomenon outruns the
   intuition.
 related:
-  - INS-260325-7FAF
   - INS-260328-8CCC
   - INS-260329-F21F
   - INS-260330-F3FF

@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 67 insights
+> 70 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -36,8 +36,10 @@
 - `INS-260605-158D` [high] Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
 - `INS-260501-AE73` [high] Adversarial review: score the doc, find issues, attempt auto-fix, re-score. 6→8/10 in two rounds without human intervention.
 - `INS-260320-2DDE` [high] Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
+- `INS-260605-997E` [high] After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - `INS-260320-8F12` [high] Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
 - `INS-260320-949A` [high] A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
+- `INS-260605-205E` [high] If a skill detail can be skipped, the agent will skip it — so anything that defines your product or its safety belongs inline in skill.md, not in a reference file.
 - `INS-260320-4993` [high] Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
 - `INS-260320-6CCE` [high] Take time to review the plan thoroughly — you'd be surprised how often you catch silly mistakes before implementation.
 - `INS-260501-2130` [high] Talk into your phone for 20 minutes about everything you do. Transcribe. Ask AI which parts are automatable. Those are your skills.
@@ -58,6 +60,7 @@
 - `INS-260320-04A2` [high] Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260320-0127` [high] Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
+- `INS-260605-46B2` [high] You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
 - `INS-260501-F0E5` [medium] If your CLAUDE.md just says 'this is React, use TypeScript', delete it. The model figures that out from the code. Save the tokens.
 - `INS-260501-8E29` [medium] Anthropic split Claude Code from Co-work; Codex unified everything. The unified product is winning.
 - `INS-260605-DFF5` [medium] Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.

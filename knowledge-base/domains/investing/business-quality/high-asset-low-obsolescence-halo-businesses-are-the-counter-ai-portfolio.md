@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260327-643C
   - INS-260404-F017
+  - INS-260605-48D1
   - INS-260403-A0F7
   - INS-260404-3212
   - INS-260404-A526
   - INS-260403-21C4
-  - INS-260403-7E18
 ---
 David Freeberg and Chamath float a portfolio construction thesis: as AI compresses and commoditizes digital work, the surviving durable cash flows live in physical-world businesses that AI cannot replicate. Examples include Disney's parks (physical experience), Cheniere (LNG, which Freeberg recently bought), real-life mining per Adam Neumann's thesis, and the space/lunar economy (which Chamath claims has a $15-30T/year opportunity). The logic is that discount rates for digital cash flows are going up because of super-intelligence uncertainty, while HALO assets become relatively more valuable. This is a reference frame for capital allocation in 2026, not a trade recommendation, and has time-sensitive elements (valuations will shift as the thesis diffuses).

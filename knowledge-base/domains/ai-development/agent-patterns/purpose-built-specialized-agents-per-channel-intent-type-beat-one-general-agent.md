@@ -59,10 +59,10 @@ stance: >-
   reproducible per-client modifications, and routing decisions are made by the
   orchestrator, not the agent.
 related:
-  - INS-260410-BDFF
   - INS-260411-F590
   - INS-260514-EA9E
   - INS-260605-C2A3
+  - INS-260605-0A68
   - INS-260501-91C2
   - INS-260603-1BC0
   - PRI-260405-AF79

@@ -24,6 +24,7 @@
 - `INS-260423-4DD5` Seth Godin: you can't cost-reduce yourself to greatness — the current cycle is cost reduction but the opportunity is using AI to make things better.
 - `INS-260323-216A` Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
 - `INS-260321-015B` Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
+- `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
 - `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
 - `INS-260402-31D8` The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
@@ -36,10 +37,10 @@
 - `INS-260603-6FE3` Navish (Salesforce): 'the problem is not how large a dataset you give the agent, it's the quality' — a big silo of stale data just has the agent running the same query on old data; you have to keep the data updated for the agent to help.
 - `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
 - `INS-260327-D9D6` The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
+- `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260603-E224` William Santana Lee: 'the gap is humans. Humans don't want to change. Large organizations don't want to change.' You can't drop an agent on a Fortune 1000 process designed around humans and expect legal/purchasing/finance/accounting to sign off — only companies where the CEO can redesign the org around the agent will pull it off.
 - `INS-260404-48D1` VC funding for AI visual media surged 90%, driven by enterprise demand and big tech validation from Apple and Alphabet.
 - `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
 - `INS-260327-C99D` Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260327-73BE` Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.
-- `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.

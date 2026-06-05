@@ -50,7 +50,6 @@ stance: >-
   to find adjacent better solutions
 related:
   - INS-260325-0892
-  - INS-260327-B539
   - INS-260330-909E
   - INS-260403-E541
   - INS-260404-6970

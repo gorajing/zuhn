@@ -8,6 +8,7 @@
 - `INS-260605-7747` Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 - `INS-260321-1749` Fortune 500 CEOs universally say they want to become AI companies, but actual deployment lags because change management across large organizations is fundamentally harder than deploying the technology itself.
 - `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions.
+- `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
 - `INS-260403-97F5` When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-F590` The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260605-BA63` A 'big enough stick from ministers' lets you in the door, but breaking silos and shipping is far harder than outsiders assume — otherwise everyone would do it.
@@ -16,4 +17,3 @@
 - `INS-260605-B7A2` Rather than reform a slow institution wholesale, create a small central unit operating under different rules (autonomy, market pay, own hiring) as a proof point.
 - `INS-260327-C464` Entire departments at enterprise accounts have staked their careers on being experts in legacy systems -- even with a clear ROI case for modernization, the VP of IT who only knows on-premise systems sees your cloud solution as a career threat.
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
-- `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.

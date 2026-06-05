@@ -8,21 +8,22 @@
 - `INS-260410-D92A` Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260409-B122` MemPalace's specialist agents each get a dedicated wing with a private diary; CLAUDE.md stays one line long regardless of whether you have 5 or 50 agents, and each agent reads its own history to build domain expertise.
 - `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
+- `INS-260605-C028` A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency.
 - `INS-260409-C1B2` Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260501-A5F5` Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
 - `INS-260405-A4DB` AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
+- `INS-260423-D900` Hinton: chatbots don't store strings of words or particular events — they make them up when asked, and get details wrong just like John Dean testifying about Watergate meetings he was actually present in.
 - `INS-260409-2B5F` Hassabis identifies continual learning as an unsolved bottleneck; brains solve it via sleep-driven memory consolidation that AI labs have not yet replicated.
 - `INS-260410-988F` AI problem-solving is trial-and-error at scale, not cumulative — it can jump and fail repeatedly, but it can't reach a handhold, stay there, and climb from it.
-- `INS-260423-D900` Hinton: chatbots don't store strings of words or particular events — they make them up when asked, and get details wrong just like John Dean testifying about Watergate meetings he was actually present in.
 - `INS-260325-5B28` Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260325-B1D8` Sequoia-backed founder Kisson Lin: memory is to AI what data was to internet — the next moat is context accumulation, not intelligence.
-- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260605-C33F` Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - `INS-260410-B501` view() just rewrites stride/shape metadata on the same storage; cat() allocates — so prefer view whenever possible.
 - `INS-260409-B13F` MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
+- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260405-8412` Your mind is a compiled program whose source code you've lost — the program still runs correctly.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.

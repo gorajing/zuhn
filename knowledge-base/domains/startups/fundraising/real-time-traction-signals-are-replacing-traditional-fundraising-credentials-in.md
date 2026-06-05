@@ -50,11 +50,11 @@ stance: >-
   are becoming more important fundraising signals than founder pedigree, ARR, or
   warm introductions.
 related:
+  - INS-260605-3163
   - INS-260403-8F6E
   - INS-260327-735A
   - PRI-260406-FCF0
   - INS-260329-AA76
-  - PRI-260328-0C15
 ---
 The traditional VC signal stack — founder pedigree from elite schools, early ARR, and warm introductions from existing portfolio founders — is being supplemented or outright replaced by a new set of real-time signals. VCs are building internal tools that scrape job boards, parse LinkedIn moves, monitor GitHub commits, track Discord community engagement, and measure waitlist conversion rates.
 

@@ -45,12 +45,13 @@ stance: >-
   each serves fundamentally different retrieval and learning purposes.
 related:
   - INS-260330-8D27
-  - INS-260330-82B2
+  - INS-260605-BB4B
+  - INS-260605-37FB
   - INS-260409-6DBE
   - PRI-260407-ED1C
-  - INS-260421-665D
   - INS-260410-78F4
   - INS-260409-D3EE
+  - INS-260421-665D
   - INS-260514-9E15
 evidence:
   - id: INS-260330-8D27

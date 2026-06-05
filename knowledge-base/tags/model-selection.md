@@ -3,6 +3,7 @@
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
 - `INS-260605-7FEA` Match models to roles—careful reasoning for planning, fast fluency for implementation, precise instruction-following for validation—and avoid locking into one provider.
 - `INS-260501-22AD` Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence.
+- `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
 - `INS-260410-939B` Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - `INS-260410-3FB3` Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.

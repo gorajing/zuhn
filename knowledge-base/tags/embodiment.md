@@ -1,6 +1,7 @@
 # Tag: embodiment
 
 - `INS-260605-AA2B` Reeve argues screens tacked onto exhibits feel like 'sticking technology on', so he is commissioning a statue with the mic, speaker, and phone built inside it.
+- `INS-260605-4CED` Claude orchestrated the entire reverse-engineering effort while the human merely rebooted the phone and reported how many beeps he heard, acting as the agent's hands and ears.
 - `INS-260403-9861` Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260326-24E6` Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
 - `INS-260403-320A` Online communities teach people they're not alone but paradoxically deepen loneliness by replacing embodied local bonds with disembodied digital ones.

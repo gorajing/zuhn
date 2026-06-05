@@ -44,6 +44,7 @@
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
 - `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
+- `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
 - `INS-260412-774E` After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
 - `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
@@ -60,4 +61,3 @@
 - `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
-- `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.

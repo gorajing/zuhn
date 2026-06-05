@@ -50,7 +50,6 @@ stance: >-
   solvable only through incremental self-funding loops.
 related:
   - INS-260405-F531
-  - INS-260410-0142
   - INS-260412-41A5
   - INS-260412-AEE1
   - INS-260404-AFE6

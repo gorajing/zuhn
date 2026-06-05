@@ -61,7 +61,7 @@ related:
   - INS-260424-5759
   - INS-260410-E658
   - INS-260605-2284
-  - INS-260505-A9BC
+  - INS-260605-27CC
 ---
 LeCun's argument: building agentic systems on pure LLM autoregressive generation is structurally insufficient. LLMs are good at manipulating language but cannot model 'what will happen if I take this action.' World models — joint embedding predictive architectures conditioned on actions — give the agent the ability to forward-simulate consequences before committing. The inference process becomes search over possible action sequences (classical optimal control from the 1950s-60s), not autoregressive prediction. This is necessary for reliability, safety guardrails, and complex planning. Application example: VJEPA-2 models trained on robot arm control data can predict how various control signals will change the arm's position, enabling goal-directed planning.
 

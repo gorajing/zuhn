@@ -51,13 +51,13 @@ related:
   - INS-260322-3083
   - INS-260320-A4BF
   - INS-260323-1477
-  - INS-260327-9D50
   - INS-260329-92C3
   - INS-260410-91A1
   - INS-260410-1030
   - INS-260410-0855
   - INS-260410-53C2
   - INS-260423-74BF
+  - INS-260605-8A88
 ---
 Luebken stresses that a coding agent is the same LLM-tools-in-a-loop as any agent, with one addition: a shell (almost always Bash) and a runtime to execute commands. That shell is where the 'magic' comes from. His example: OpenClaw had no built-in support for voice messages, yet when sent one it reached for FFmpeg on the local machine, converted it, and proceeded. From the outside this looks like learning; inside it is just another available tool call.
 

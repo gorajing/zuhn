@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 310 insights
+> 311 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
@@ -62,6 +62,7 @@
 - `INS-260403-1B46` [high] First-time VC funds raised just $1.1B in 2025, down nearly 80% from 2021, threatening the pipeline of new investment perspectives.
 - `INS-260403-DFA2` [high] Sequoia found that deals everyone mildly liked underperformed deals that triggered strong conviction even with disagreement, so they eliminated middle-score options.
 - `INS-260404-A53F` [high] Without IPOs or acquisitions generating returns, LPs stop re-upping, creating a self-reinforcing contraction in venture capital.
+- `INS-260605-8A48` [high] Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 - `INS-260410-F789` [high] Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
 - `INS-260403-8002` [high] Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
 - `INS-260405-776D` [high] Five VC funds in Q1 2026 raised more capital ($35B+) than all US VC raised in the entirety of 2025.

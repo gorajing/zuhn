@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260329-19EA
   - INS-260405-214D
+  - INS-260605-DB79
   - PRI-260322-CF2B
   - PRI-260406-FA5B
   - INS-260330-7DCF
-  - INS-260325-E652
 ---
 The holographic principle shows that all information about a 3D volume can be fully encoded on its 2D boundary surface. This is not lossy compression — the full information is preserved, just represented differently. A person inside a black hole experiences normal 3D life, while an outside observer sees them as flattened information on the event horizon. Both perspectives are complete and valid.
 

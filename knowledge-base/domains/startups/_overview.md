@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4790 insights across 55 topics
+> 4791 insights across 55 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
 | company-culture | 14 | AppLovin has no product organization. Engineers ARE product managers. They imagine, audit AI output, optimize directly to revenue KPIs. PM is redundant. |
 | competition | 5 | Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is. |
-| competitive-strategy | 638 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 639 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 76 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 5 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 9 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |

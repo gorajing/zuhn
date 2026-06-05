@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 255 insights
+> 256 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -238,6 +238,7 @@
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
 - `INS-260605-8B25` [medium] Unlike traditional observability — owned by systems engineers — agent observability works best when clinicians, lawyers, or wealth advisors read traces directly, because they're closest to the user and the problem.
 - `INS-260605-8E08` [medium] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
+- `INS-260605-0BA3` [medium] Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
 - `INS-260329-DACC` [medium] Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260327-0875` [medium] A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260605-EF3C` [medium] A company-curated baseline agent — approved MCP servers, sanctioned auth, team-specific skills, shared drive access — fanned out to every new hire turns agent onboarding into a reproducible, governed default.

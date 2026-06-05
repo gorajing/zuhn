@@ -54,8 +54,8 @@ stance: >-
   An entire state-of-the-art coding agent can be built as a synchronous reducer
   over an event stream plus an occasional side-effect hook.
 related:
-  - INS-260410-1ED3
   - INS-260605-9A01
+  - INS-260605-83DA
   - INS-260327-13B3
   - INS-260405-F26B
   - INS-260421-7ADE

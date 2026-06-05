@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 55 insights
+> 57 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -33,6 +33,7 @@
 - `INS-260501-DBDB` [high] Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices.
 - `INS-260525-9B7B` [medium] Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 - `INS-260524-460B` [medium] Woosang: an AlphaEvolve-class agent improved a high-dimensional packing bound that had stood for ~25-30 years — a result no mathematician had cracked.
+- `INS-260605-237C` [medium] An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260514-E627` [medium] $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted.
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.
 - `INS-260514-E860` [medium] OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives.
@@ -53,6 +54,7 @@
 - `INS-260501-B933` [medium] The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product.
 - `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
+- `INS-260605-2A64` [medium] Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
 - `INS-260605-9581` [medium] When cloning a voice takes seconds, deliberately curated brand voices become as standard as brand color palettes and logos.
 - `INS-260514-D0A4` [medium] Hrefs says 100 searches/month. Real Google Search Console: 10,000. The trend is right; the number is off by 100x.
 - `INS-260405-1F6B` [low] AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.

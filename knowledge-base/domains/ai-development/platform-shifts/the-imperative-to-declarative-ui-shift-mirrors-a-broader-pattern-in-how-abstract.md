@@ -53,7 +53,6 @@ stance: >-
   faster, but because it reduces the cognitive surface area — UI as a pure
   function of state eliminates an entire class of synchronization bugs.
 related:
-  - INS-260329-0EAC
   - INS-260330-6B7F
   - INS-260409-FA5E
   - INS-260410-BBEA
@@ -62,6 +61,7 @@ related:
   - INS-260403-6857
   - INS-260330-C2C4
   - INS-260605-C699
+  - INS-260605-61D9
 evidence:
   - id: INS-260330-6B7F
     type: SUPPORTS

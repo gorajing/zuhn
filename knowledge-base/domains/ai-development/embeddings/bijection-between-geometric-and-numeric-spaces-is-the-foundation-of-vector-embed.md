@@ -52,10 +52,10 @@ stance: >-
   systems possible
 related:
   - INS-260405-214D
+  - INS-260605-DB79
   - INS-260330-4F49
   - INS-260505-0EB5
   - INS-260330-2689
-  - INS-260329-ACEB
 evidence:
   - id: INS-260330-4F49
     type: SUPPORTS

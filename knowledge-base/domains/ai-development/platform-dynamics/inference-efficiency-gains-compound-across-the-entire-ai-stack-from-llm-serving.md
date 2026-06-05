@@ -50,15 +50,12 @@ stance: >-
   vector level propagate multiplicatively across every AI application that
   touches high-dimensional data.
 related:
+  - INS-260605-DB79
   - INS-260410-2067
   - INS-260405-214D
   - INS-260326-CAAB
   - PRI-260406-8B75
-  - INS-260409-2A51
-  - INS-260402-5ACE
   - INS-260409-0D87
-  - INS-260409-8DA0
-  - INS-260412-9414
   - INS-260605-B8D3
 ---
 A single algorithmic breakthrough in vector quantization (TurboQuant) simultaneously unlocks: 6-8x cheaper LLM inference through KV cache compression, faster vector search with superior recall ratios compared to state-of-the-art methods (PQ, RabbiQ), and more efficient embedding storage for search indices. This happens because LLMs, search engines, and embedding databases are all fundamentally operating on the same mathematical substrate — high-dimensional vector operations. Improvements at this foundational layer propagate multiplicatively through every system built on top. This is why Jensen Huang's 'four scaling laws' framework includes efficiency as a first-class scaling axis alongside pre-training, post-training, and inference-time compute.

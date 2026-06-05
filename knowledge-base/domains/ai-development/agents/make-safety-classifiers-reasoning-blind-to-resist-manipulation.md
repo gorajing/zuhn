@@ -51,7 +51,7 @@ related:
   - INS-260410-095B
   - INS-260403-BA81
   - INS-260605-3B8B
-  - INS-260605-B44B
+  - INS-260605-BDFF
 ---
 Anthropic's transcript classifier deliberately sees only user messages and bare tool-call commands — no assistant prose, no tool results. Including assistant messages caused measurable drops on their overeagerness test set, because the agent's own framing ("this is safe because the user implicitly approved it earlier") leaks into the classifier's judgment. Shorter transcripts are also easier to read accurately.
 

@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260530-AA02
   - INS-260605-90CF
+  - INS-260605-3345
   - INS-260329-818A
   - INS-260329-66BD
   - INS-260330-3EFC
-  - INS-260605-5159
 ---
 The core reason Templestein separates the reducer from the after-append hook is the sleep/wake problem. Imagine your laptop closes, 100 new events accumulate in the stream, and you reopen and restart the processor. If side effects lived inside the reduce step, catching up would fire 100 LLM requests for events that are already in the past. Instead, the pure reducer folds all 100 events into current state cheaply and synchronously, and only then does the side-effect hook look at the final state and decide what — if anything — to actually do.
 

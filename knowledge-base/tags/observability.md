@@ -19,6 +19,7 @@
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
 - `INS-260410-B3C4` When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
 - `INS-260423-2B80` Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
+- `INS-260605-44E5` When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
 - `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260605-CFB7` Self-hosting the model, relocating data, moving to on-prem infra, and adding tracing each detonate a distinct class of hidden coupling.
 - `INS-260605-726C` When an AI system grows to many chained prompts and agents, a human can't trace where a failure originated, so you must point AI at your own internal tooling to debug it.

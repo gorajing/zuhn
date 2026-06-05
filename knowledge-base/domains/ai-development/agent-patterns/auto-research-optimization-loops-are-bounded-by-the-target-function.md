@@ -62,7 +62,7 @@ related:
   - INS-260424-1E10
   - INS-260505-A9BC
   - INS-260605-ED35
-  - INS-260605-705B
+  - PRI-260405-0676
 ---
 Langfuse ran an auto-research loop where agents proposed improvements to a skill against a target function — for migrating prompts from a git repo into managed prompt storage. It worked as an idea generator (they accepted 3 of 6 suggestions and explored far more than a small team could manually), but the dominant lesson was that defining the right target function is the hard, decisive part.
 

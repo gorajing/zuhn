@@ -50,13 +50,14 @@ stance: >-
   Graph-structured memory that captures precedent and reasoning chains provides
   the critical 'why' context that flat vector stores cannot represent
 related:
-  - INS-260327-73BE
+  - INS-260605-2A64
+  - INS-260605-DB79
   - INS-260405-214D
+  - INS-260605-44E2
   - INS-260402-28BA
   - INS-260325-E23D
-  - INS-260325-E652
-  - INS-260405-5702
-  - INS-260409-1E5E
+  - INS-260605-014F
+  - INS-260605-C028
 evidence:
   - id: INS-260327-73BE
     type: SUPPORTS

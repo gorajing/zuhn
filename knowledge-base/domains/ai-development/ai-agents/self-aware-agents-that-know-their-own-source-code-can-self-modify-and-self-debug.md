@@ -60,6 +60,7 @@ related:
   - INS-260424-FE8E
   - INS-260501-01A5
   - INS-260605-9523
+  - INS-260605-237C
 stance: >-
   Making an AI agent aware of its own source code, harness, documentation, and
   model enables self-modification

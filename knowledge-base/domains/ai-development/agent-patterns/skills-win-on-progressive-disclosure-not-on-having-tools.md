@@ -54,13 +54,14 @@ stance: >-
 related:
   - INS-260320-8DBD
   - INS-260501-6453
-  - INS-260501-9503
   - INS-260514-283E
   - INS-260605-6591
   - INS-260605-117F
   - INS-260605-B6BC
+  - INS-260605-205E
   - INS-260605-2032
   - INS-260605-5B0A
+  - INS-260605-BDFF
 ---
 The distinguishing feature skills brought over MCP was progressive disclosure: the agent never loads all the information about a subject straight to context. The SKILL.md front matter (name + description) acts as an envelope that always loads, while the body, reference files, and scripts load only on demand. Pedro frames a skill like a book whose SKILL.md is 'an index on steroids' — links to other markdown/script files that are the chapters, and reference files can themselves reference further files, forming a graph.
 

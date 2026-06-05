@@ -50,7 +50,6 @@ stance: >-
   of range violations to the programmer.
 related:
   - INS-260403-DDD5
-  - INS-260409-5D67
   - INS-260605-D777
   - PRI-260403-9E80
   - INS-260403-15DD

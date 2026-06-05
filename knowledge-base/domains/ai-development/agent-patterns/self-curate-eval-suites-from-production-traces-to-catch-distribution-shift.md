@@ -52,9 +52,9 @@ related:
   - INS-260605-CF2E
   - INS-260605-25B2
   - INS-260605-A2AD
+  - INS-260605-3163
   - INS-260530-D34F
   - INS-260501-3502
-  - INS-260423-FF52
 ---
 Roughly 80% of an agent's traffic is stable, but customer bases change, and when they do, users start asking questions differently and the agent's behavior shifts. Most teams never measure this drift. Koc proposes self-curating eval suites: once applications are traced, an agent (not a human) can detect when the distribution has changed, alert the owners, and regenerate the test suites — turning evaluation into an always-on online optimization service rather than a static benchmark run before deployment.
 

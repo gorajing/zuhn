@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 59 insights
+> 63 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -23,6 +23,7 @@
 - `INS-260605-DA98` [high] Once a model is fast, infrastructure round-trips add as much latency as the model itself, so client-perceived latency is what matters.
 - `INS-260514-4BD5` [high] GPUs compute on wave 1 while wave 2's data is in flight, wave 3 queued behind it. Network latency disappears from the critical path.
 - `INS-260501-E26C` [high] Cache hit price = HBM storage cost; cache miss price = full forward-pass recomputation; the ratio tells you provider's caching strategy.
+- `INS-260605-3345` [high] Compress snapshots seekably and decompress only the memory pages actually needed on restore, shrinking a 512MB VM snapshot to ~14MB and cutting restore to a few hundred milliseconds.
 - `INS-260423-2B80` [high] Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
 - `INS-260423-1C4D` [high] Google Cloud's Model Armor: filters prompt injection, jailbreaks, PII leaks, social security numbers, and harassment at the load balancer layer before requests reach the model.
 - `INS-260501-814C` [high] Physical machines today = 50 different OSes per industry. AI can't deploy until someone builds the Android. That's Applied Intuition.
@@ -42,12 +43,14 @@
 - `INS-260405-131B` [high] C powers the interpreters, OS kernels, and databases that higher-level developers use daily, making it the most influential language most programmers never consciously think about.
 - `INS-260413-07F2` [high] OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260501-D18A` [high] Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor.
+- `INS-260605-ACC9` [high] Snapshot the agent's machine, shut it down, and restore it when the next user message arrives—giving durability across turns without paying to keep compute live.
 - `INS-260410-8092` [high] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260514-D023` [medium] A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop.
 - `INS-260424-865F` [medium] Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
+- `INS-260605-9976` [medium] One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260505-A639` [medium] Fusion ignition wasn't a 2022 breakthrough — it was 50 years of integrated simulation + experiment + theory finally producing the result.
 - `INS-260405-844D` [medium] A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260421-CE27` [medium] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
@@ -55,6 +58,7 @@
 - `INS-260501-B1AA` [medium] iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL.
 - `INS-260423-FB98` [medium] Cody: I created a Postgres database on the fly using the Railway API, pumped the data in, did the analysis with Claude, pushed the outputs out, and spun the database down.
 - `INS-260605-A4F1` [medium] A unified model file format that runs unchanged on Android, iOS, macOS, Linux, Windows, web, and IoT collapses the cost of supporting many devices.
+- `INS-260605-44E5` [medium] When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
 - `INS-260405-D638` [medium] Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
 - `INS-260605-DF82` [medium] For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
 - `INS-260424-F8BB` [medium] Google Cloud lead: the worst failures are not fail-stop but silent data corruption — one chip silently gets the computation wrong every once in a while, and one chip's error goes to everybody.

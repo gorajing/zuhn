@@ -7,6 +7,7 @@
 - `INS-260405-1C8D` Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
 - `INS-260505-5DC4` Train on the universal substrate (DNA), get understanding of the things it encodes (proteins, RNA) for free.
 - `INS-260603-11DB` Paige Bailey (Google DevRel): Gemma 4 (2.6B and 31B variants) performs about as well as Gemini 3.1 Flash Lite on benchmarks; analyzing 5 minutes of video cost ~2 cents and ran reliably; the models run on a Jetson Nano, fully in-browser via WebGPU, and on-robot (100+ robotics companies use Gemma fine-tunes for on-robot actions).
+- `INS-260605-8C05` New flagship models (Gemini 4, Qwen 3.5, Chimera 2.5) are launching as vision-language/omni models on release, so VLMs are converging with LLMs.
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
 - `INS-260327-1B9A` Kimi K2.5's early fusion of vision and text from pre-training day one produced emergent vision-to-code capabilities and mutual enhancement between modalities.
 - `INS-260605-1C4E` Treat structure as a viewing choice: the same content can be projected into markdown, graphs, clusters, folders, or timelines depending on what you need, so pick multiple representations deliberately.

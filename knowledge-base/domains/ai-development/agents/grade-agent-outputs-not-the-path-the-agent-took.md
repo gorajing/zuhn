@@ -53,7 +53,7 @@ related:
   - INS-260605-0819
   - PRI-260405-49C0
   - PRI-260406-A5F0
-  - PRI-260501-1E66
+  - INS-260605-BDFF
 ---
 A tempting instinct when building agent evals is to assert that the agent followed a specific sequence of steps — call tool A, then tool B, then return. Anthropic found this produces overly brittle tests because frontier models regularly discover valid approaches the eval designers never anticipated. Opus 4.5 once solved a τ2-bench flight-booking problem by exploiting a loophole in the stated policy — technically 'failing' the eval as written, but actually producing a better outcome for the user.
 

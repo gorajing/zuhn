@@ -41,7 +41,6 @@ stance: >-
   can care the most — making 'caring' the rare axis of competition where effort
   alone compounds into lasting differentiation.
 related:
-  - INS-260405-2E46
   - INS-260323-4EE4
   - INS-260404-1CC0
   - INS-260327-EE5E

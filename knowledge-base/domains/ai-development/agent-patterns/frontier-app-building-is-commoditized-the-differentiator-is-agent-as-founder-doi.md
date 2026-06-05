@@ -68,7 +68,6 @@ related:
   - INS-260603-1BC0
   - INS-260525-63C8
   - INS-260501-AB31
-  - INS-260605-D404
 ---
 Liu's product positioning for HyperAgent: any Frontier agent can build a clean v1 app from a prompt — that's a commoditized capability now. What HyperAgent does that's different: take an idea, research the landscape, validate the problem on Reddit, do competitive analysis, build the business case, AND build the v1 product informed by all that context. The agent plays the founder role, not the developer role.
 

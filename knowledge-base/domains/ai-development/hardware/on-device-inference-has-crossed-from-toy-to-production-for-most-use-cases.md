@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-DD43
   - INS-260403-B53B
+  - INS-260605-8C05
   - INS-260327-7D53
   - INS-260405-3805
-  - INS-260322-B450
 ---
 The talk's core claim is that the 'you can't run real models on-device' assumption is obsolete. MLX has ported 4,000+ models with day-zero support for new releases (e.g. Gemma 4), and the community has pushed the envelope to running models of hundreds of billions of parameters — even a 26B vision model on an iPhone using storage paging — at reasonable speeds. A 96GB-VRAM Mac can run vision, audio, and language models simultaneously in real time.
 

@@ -13,6 +13,7 @@
 - `INS-260605-E7F2` Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
 - `INS-260605-9276` Provide agents skills as plain version-controlled files containing examples of how to do a task, and let the project maintainers own those skills, so the agent goes from zero-shot to robust few-shot.
 - `INS-260605-90E5` A skill replaces the hand-built router-and-specialist-workflow stack by letting a single agent progressively acquire the context to solve cross-domain requests.
+- `INS-260605-BAB5` MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
 - `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
@@ -25,15 +26,20 @@
 - `INS-260605-749D` Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract.
 - `INS-260320-F8FD` Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
 - `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
+- `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
+- `INS-260605-205E` If a skill detail can be skipped, the agent will skip it — so anything that defines your product or its safety belongs inline in skill.md, not in a reference file.
 - `INS-260320-B210` Keep SKILL.md files under 500 lines and use progressive disclosure via resource files for 40-60% token efficiency improvement.
 - `INS-260321-E9B7` If you're copying the same instructions into multiple projects, that's a signal to create a Skill instead — Skills work across ALL conversations while Projects only work within one.
 - `INS-260605-19B4` In the demo, Claude confidently built a Postgres view that bypassed row-level security because its training data missed that views need a security_invoker flag (Postgres 15+) to inherit RLS — exactly the gap a skill exists to close.
 - `INS-260501-91A3` Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.
 - `INS-260320-F872` Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.
 - `INS-260320-DCA0` A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
+- `INS-260605-46B2` You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
+- `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.
+- `INS-260605-BDFF` A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - `INS-260605-4592` In a large org, skills sprawl out of control; only the best should survive, by deliberate Darwinian pruning.
 - `INS-260605-BBCF` Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
 - `INS-260605-B6BC` Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.

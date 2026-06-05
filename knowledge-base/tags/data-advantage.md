@@ -1,0 +1,3 @@
+# Tag: data-advantage
+
+- `INS-260605-48D1` Existing enterprise assets (CRM, ERP, SOPs) are a floor every competitor has, not a fortress; the real moat is the 'living memory' of customer-interaction signals you compound faster than anyone can copy.

@@ -20,6 +20,7 @@
 - `INS-260605-7FEA` Match models to roles—careful reasoning for planning, fast fluency for implementation, precise instruction-following for validation—and avoid locking into one provider.
 - `INS-260605-2D70` Default to one worker/validator at a time and parallelize only read-only work like code search, API research, and code review.
 - `INS-260410-AA6E` A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
+- `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
 - `INS-260410-BDFF` Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
 - `INS-260605-0374` Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
 - `INS-260603-23B1` Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.

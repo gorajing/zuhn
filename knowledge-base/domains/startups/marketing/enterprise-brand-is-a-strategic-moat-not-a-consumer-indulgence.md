@@ -65,9 +65,9 @@ related:
   - INS-260404-7541
   - PRI-260406-DF94
   - INS-260325-FDF5
+  - INS-260605-48D1
   - INS-260327-540D
   - INS-260322-5A72
-  - INS-260403-21C4
   - INS-260423-187E
 ---
 The default playbook in B2B enterprise is to dismiss brand as a consumer concern and focus on features, deployments, and references. McDermott argues the opposite: brand is DNA, it's what you're trying to convey to a global buyer base in the simplest way possible, and the reason consumer brands feel bigger than enterprise brands is that enterprise CEOs have systematically underinvested — not that the opportunity isn't there.

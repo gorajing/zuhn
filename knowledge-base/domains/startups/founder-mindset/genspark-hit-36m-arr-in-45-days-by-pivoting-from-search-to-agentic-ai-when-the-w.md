@@ -47,13 +47,14 @@ stance: >-
   completely pivoting from search engine to agentic AI platform — speed of pivot
   mattered more than the original vision.
 related:
-  - INS-260321-6437
   - PRI-260328-EC3F
   - INS-260403-600C
+  - INS-260321-6437
   - PRI-260328-4810
   - INS-260329-22B6
   - INS-260327-BA8E
   - INS-260403-7749
+  - INS-260605-0266
 evidence:
   - id: INS-260321-6437
     type: SUPPORTS

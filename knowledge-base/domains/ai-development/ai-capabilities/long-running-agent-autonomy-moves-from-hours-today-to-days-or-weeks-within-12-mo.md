@@ -59,5 +59,6 @@ related:
   - INS-260530-09FE
   - INS-260405-AFF7
   - INS-260501-10B4
+  - INS-260605-0266
 ---
 Agent deployments in 2026 are constrained by a specific operational ceiling: how long the agent can run without human intervention before its quality degrades, it loops on a problem, or it makes an irrecoverable error. In April 2026, this ceiling is on the order of hours for non-trivial workflows. Logan reports that Jeff Dean and team expect this to extend to days or weeks within 12 months, which would not be a quantitative improvement but a phase change in what agent deployments are economically viable. Day-scale autonomy enables overnight agent execution against multi-step research tasks, multi-day code refactors, and longer competitive analyses. Week-scale autonomy enables month-long initiatives that previously required full-time human leadership. The strategic implication for product roadmaps that depend on autonomous agents: if your product economics require day-scale or week-scale autonomy, expect that capability to land in 2026-2027 rather than 2028+. Build the product surface that can absorb that capability when it arrives. Conversely, if your product is locked into the hour-scale autonomy model and would not benefit from week-scale, it is solving a transient problem and may be displaced when the capability extends.

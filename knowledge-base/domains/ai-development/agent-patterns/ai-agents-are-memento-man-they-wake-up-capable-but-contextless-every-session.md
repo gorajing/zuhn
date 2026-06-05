@@ -50,8 +50,6 @@ stance: >-
   identity continuity -- agents need external context scaffolding (heartbeat
   checklists, memory systems) to maintain coherent work across sessions.
 related:
-  - INS-260325-160E
-  - INS-260323-D41A
   - PRI-260320-07A4
   - INS-260524-D5DB
   - INS-260405-2BB0
@@ -60,6 +58,8 @@ related:
   - INS-260327-FE24
   - INS-260405-8166
   - INS-260405-82DD
+  - INS-260403-8311
+  - INS-260403-9E51
 evidence:
   - id: INS-260323-D41A
     type: TRANSFERS_TO

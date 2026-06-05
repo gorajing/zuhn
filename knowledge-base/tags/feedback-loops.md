@@ -27,8 +27,14 @@
 - `INS-260412-FD9A` The Caplan thruster uses a second jet pointed at the Sun to prevent the engine from crashing into it, illustrating active balance in high-force systems.
 - `INS-260322-D1AB` Track four quadrants — high eval + high views (validated winners), high eval + low views (false positives), low eval + high views (missed patterns), low eval + low views (confirmed failures) — to continuously improve both your eval and your prompts.
 - `INS-260519-304D` Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
+- `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
+- `INS-260327-1D23` Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
+- `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
+- `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
+- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
+- `INS-260412-D367` Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
@@ -56,6 +62,7 @@
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
+- `INS-260605-48D1` Existing enterprise assets (CRM, ERP, SOPs) are a floor every competitor has, not a fortress; the real moat is the 'living memory' of customer-interaction signals you compound faster than anyone can copy.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
@@ -82,12 +89,6 @@
 - `INS-260404-95D0` The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.
 - `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
-- `INS-260327-1D23` Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
 - `INS-260403-64D0` The startup environment's rapid success/failure cycle makes it uniquely suited to reveal which evaluation signals actually predict performance.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
-- `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
-- `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
-- `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
-- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
-- `INS-260412-D367` Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.

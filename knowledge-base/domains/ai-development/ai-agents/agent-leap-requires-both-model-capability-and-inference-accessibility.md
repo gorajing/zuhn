@@ -48,7 +48,7 @@ related:
   - INS-260326-2410
   - PRI-260328-A82C
   - PRI-260328-EE02
-  - INS-260409-005E
+  - INS-260605-0436
 ---
 Google DeepMind's Rabin Kumar explained that the agent leap required two simultaneous ingredients: model capability advancing (from basic single function calling in Gemini 1.0 to sophisticated multi-step agent behavior) and inference becoming accessible enough that small open models can run on personal devices. Neither ingredient alone would have triggered the current explosion.
 

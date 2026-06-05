@@ -54,12 +54,12 @@ related:
   - INS-260321-2564
   - INS-260327-E6B0
   - INS-260329-BC11
-  - INS-260330-4FB9
   - INS-260403-DEF6
   - INS-260325-803C
   - INS-260403-BF45
   - INS-260403-BC04
   - INS-260403-CBED
+  - INS-260405-D216
 ---
 Herjavec distinguishes between two types of media leverage: digital content (social media, newsletters, podcasts) which creates awareness and reach, versus traditional media (books, television, mainstream press) which creates credibility and authority. His own experience with Shark Tank illustrates how TV exposure created a credibility multiplier that no amount of blog posts could replicate.
 

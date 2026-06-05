@@ -6,6 +6,7 @@
 - `INS-260410-38C9` No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260605-9877` Knowing who spoke, when, and how (interruptions, backchannels, pauses, stress) often determines conversational meaning that plain transcription discards.
+- `INS-260605-83DA` Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 - `INS-260410-B224` Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260325-B1D8` Sequoia-backed founder Kisson Lin: memory is to AI what data was to internet — the next moat is context accumulation, not intelligence.

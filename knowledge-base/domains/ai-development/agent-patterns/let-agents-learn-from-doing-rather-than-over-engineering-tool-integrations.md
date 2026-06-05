@@ -51,10 +51,10 @@ stance: >-
   because agents discover surprising solutions humans would not think to encode.
 related:
   - PRI-260501-1E66
+  - INS-260605-46B2
   - INS-260410-F910
   - INS-260410-1030
   - INS-260326-7F79
-  - INS-260403-4D80
 evidence:
   - id: INS-260329-4DBC
     type: CHALLENGES

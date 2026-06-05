@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 60 insights
+> 62 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -9,6 +9,7 @@
 - `INS-260514-1841` [high] Browser Harness is 600 lines. When an agent hits an edge case (sign a signature, click a native dialog), it writes its own tool extension and publishes it as a skill.
 - `INS-260412-B89F` [high] At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260514-8413` [high] Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
+- `INS-260605-A8A9` [high] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
 - `INS-260605-75BB` [high] Clients hold a continuously maintained connection to a shared session so a second tab or phone has instant visibility and an upstream channel to the working agent.
 - `INS-260605-48CA` [high] Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
 - `INS-260410-A27C` [high] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
@@ -61,4 +62,5 @@
 - `INS-260605-EF9D` [medium] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.
 - `INS-260412-4773` [medium] Submarine VLF communication at 700 words per minute in text-only forces message protocols to be maximally clear and unambiguous — a discipline that disappears when bandwidth is cheap.
 - `INS-260605-33C0` [medium] Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable.
+- `INS-260605-BDFF` [medium] A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - `INS-260605-9A01` [low] Deploy agent logic with zero infra by appending a 'dynamic worker configured' event whose payload is the reducer+after-append source, run in a spun-up worker, with API keys substituted into outbound headers so secrets never touch the log.

@@ -50,7 +50,7 @@ related:
   - INS-260405-82DD
   - INS-260421-60D9
   - INS-260327-C1A4
-  - INS-260327-DC4C
+  - INS-260605-9976
 ---
 Multiple panelists converged on the same insight: simply expanding context windows is necessary but not sufficient for persistent agents. NVIDIA's Gental drew an explicit analogy to computer memory hierarchies — context windows are like RAM (fast access), but agents still need the equivalent of hard drives (persistent storage) and smart caching strategies.
 

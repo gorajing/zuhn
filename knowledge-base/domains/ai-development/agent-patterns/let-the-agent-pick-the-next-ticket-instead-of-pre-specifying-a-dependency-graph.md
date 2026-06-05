@@ -54,6 +54,5 @@ related:
   - INS-260409-0DB0
   - INS-260410-1030
   - INS-260524-2C7C
-  - INS-260605-9523
 ---
 Parsons' first attempt at scaling Ralph loops failed badly: he had Claude break a project into tickets, sub-tickets, and a full dependency graph, then fired six or seven parallel agents at it. The agents couldn't tell what was done, contended over shared tickets, and duplicated work — he had effectively recreated 1990s waterfall, handing a fully-specified up-front plan to the development team. The fix was to abandon the graph entirely and run a simple loop: 'pick the next most important ticket.' The AI is perfectly capable of looking at all the tickets, inferring dependencies from what has just been done, and choosing the next action — it just can't manage that process reliably in parallel. The general principle: resist the urge to over-orchestrate. Encode the work as a flat list and let the agent's per-iteration judgment do the sequencing.

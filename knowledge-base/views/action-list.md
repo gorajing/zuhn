@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5400 actionable insights
+Generated on 2026-06-05 | 5420 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -209,6 +209,15 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-09E0] Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - [INS-260605-B44B] Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
 - [INS-260605-D777] Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
+- [INS-260605-124F] Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
+- [INS-260605-27CC] Loop agents on mechanical, verifiable tasks (find shallow bugs, superficial refactors); escalate anything requiring fundamental design judgment to a human.
+- [INS-260605-37FB] Structure agent memory into short-term (current pipeline state), long-term (organized domain history), and reasoning (decision traces capturing the why) rather than one flat store.
+- [INS-260605-44E2] Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
+- [INS-260605-A175] Classify each decision by reversibility and cost of error, and let serious, irreversible, high-cost decisions consume far more of the agent's analysis budget.
+- [INS-260605-F828] One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
+- [INS-260605-BAB5] MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
+- [INS-260605-014F] A RAG knowledge base helps an agent answer correctly; a context graph storing past decisions and why they were made lets the agent decide and justify.
+- [INS-260605-C028] A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -242,6 +251,7 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-1A2D] Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - [INS-260605-C2A3] An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 - [INS-260605-80DC] Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
+- [INS-260605-ACB3] Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -420,6 +430,7 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-F064] Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - [INS-260605-59AE] Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
 - [INS-260605-DC65] Coupling tightly to one provider's API is dangerous; true model sovereignty means you can change models in a day without touching the codebase.
+- [INS-260605-83DA] Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -487,6 +498,9 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-749D] Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract.
 - [INS-260605-19B4] In the demo, Claude confidently built a Postgres view that bypassed row-level security because its training data missed that views need a security_invoker flag (Postgres 15+) to inherit RLS — exactly the gap a skill exists to close.
 - [INS-260605-158D] Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
+- [INS-260605-997E] After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
+- [INS-260605-205E] If a skill detail can be skipped, the agent will skip it — so anything that defines your product or its safety belongs inline in skill.md, not in a reference file.
+- [INS-260605-46B2] You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -556,6 +570,7 @@ Generated on 2026-06-05 | 5400 actionable insights
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - [INS-260603-6B3D] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
+- [INS-260605-0266] An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -685,6 +700,7 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-738E] Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment.
 - [INS-260605-4D1D] For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - [INS-260605-D3EB] Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt.
+- [INS-260605-C627] You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -968,6 +984,7 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-BBCF] Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
 - [INS-260605-9F16] 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
 - [INS-260605-3B8B] Write a behavioral test when a feature request arrives, not when you add a method to a class.
+- [INS-260605-0BA3] Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1001,6 +1018,8 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260605-EA2E] Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - [INS-260605-0C24] Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
 - [INS-260605-EF9D] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.
+- [INS-260605-A8A9] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
+- [INS-260605-BDFF] A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -1619,6 +1638,7 @@ Generated on 2026-06-05 | 5400 actionable insights
 - [INS-260423-BD00] Chamath wrote an investment memo for Groq in 2015 and published it on X before writing the check; the memo concluded he had the boundary conditions to build something iconic.
 - [INS-260423-E7F5] Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers.
 - [INS-260423-23E6] Jason Lemkin: I see too many VCs running a pre-AI enabler playbook — when folks fall behind a tick or two, you see kumbaya activity instead of code-red activity.
+- [INS-260605-8A48] Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.

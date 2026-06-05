@@ -51,7 +51,6 @@ stance: >-
   Integrations belong in MCP tools and workflow/context belongs in skills, so
   the right answer to 'MCP or skills' is almost always both.
 related:
-  - INS-260501-B933
   - INS-260327-5AFE
   - INS-260410-095B
   - PRI-260405-49C0

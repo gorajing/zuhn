@@ -58,6 +58,8 @@ related:
   - INS-260402-F833
   - INS-260410-CA89
   - INS-260410-8BF9
+  - INS-260605-997E
+  - INS-260605-3DCD
 ---
 Samsung manufactures memory chips, AMOLED displays (98% market share), processors, and then assembles these into their own consumer products — phones, TVs, appliances. This vertical integration means they profit whether competitors succeed or fail. Apple's original iPhone ran on Samsung chips, meaning Samsung earned revenue from its biggest rival's flagship product.
 

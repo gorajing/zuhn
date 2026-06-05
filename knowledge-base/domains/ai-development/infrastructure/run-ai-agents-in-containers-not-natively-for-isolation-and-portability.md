@@ -58,6 +58,7 @@ related:
   - INS-260605-0126
   - INS-260605-5EE0
   - INS-260605-C2A3
+  - INS-260605-237C
 ---
 Native installation of an autonomous agent scatters state across the host and forces you to reason about OS quirks and stale dependencies; containers eliminate this by giving the agent a clean, predictable, reproducible environment. The container boundary doubles as a security sandbox — you must be explicit about exactly what host access you grant, which is exactly the property you want for an agent that can execute arbitrary commands.
 

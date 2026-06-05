@@ -49,7 +49,6 @@ stance: >-
   — cannot be reliably inferred by general-purpose LLMs.
 related:
   - PRI-260320-D5B7
-  - INS-260327-D020
   - INS-260410-F910
   - INS-260403-F112
   - INS-260404-6BD6
@@ -58,6 +57,7 @@ related:
   - INS-260410-62E8
   - INS-260501-4C5E
   - INS-260603-23B1
+  - INS-260605-9A92
 evidence:
   - id: INS-260327-73BE
     type: SUPPORTS

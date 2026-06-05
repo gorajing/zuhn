@@ -1,5 +1,11 @@
 # Tag: deep-tech
 
+- `INS-260405-86A1` Capital-intensive climate tech cannot scale on VC returns alone — it requires institutional and government capital structures.
+- `INS-260404-FF8D` Chamath's $380M write-down on Relativity Space illustrates how deep-tech venture bets can produce catastrophic single-position losses.
+- `INS-260404-FA1E` Multiple new fund closings in deep tech, biotech, and climate signal VCs rotating capital away from crowded software markets toward harder-to-replicate technical moats.
+- `INS-260404-E55F` New fund launches in late 2024 cluster around European deep tech and B2B software rather than US consumer tech.
+- `INS-260404-2D82` Frontier tech investing demands specialized fund structures that generalist VCs cannot effectively replicate.
+- `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.
 - `INS-260423-64FA` Chamath's stated rubric for early-stage deep-tech disputes: back the technical person without whom the product wouldn't exist.
 - `INS-260501-DC5D` Software wrappers around foundation models get swarmed by next model release; deep tech (materials, bio, robotics) is defensible because atoms are slow.
 - `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
@@ -10,10 +16,4 @@
 - `INS-260412-0D71` Graphene took 16 years from discovery (2004) to first consumer product (2020), consistent with historical timelines for carbon fiber, lithium-ion, and other breakthrough materials.
 - `INS-260402-9EBD` The biggest technology companies emerged during periods that combined platform innovation in both software and hardware with the operational discipline forced by higher interest rates.
 - `INS-260524-0515` Z Venture Capital CEO: opened a US office for seed/early because the AI alliance's most active part is the US; in Asia only Korea/Japan have a deep-tech base, and SE Asia has 'nothing to invest in.'
-- `INS-260405-86A1` Capital-intensive climate tech cannot scale on VC returns alone — it requires institutional and government capital structures.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
-- `INS-260404-FF8D` Chamath's $380M write-down on Relativity Space illustrates how deep-tech venture bets can produce catastrophic single-position losses.
-- `INS-260404-FA1E` Multiple new fund closings in deep tech, biotech, and climate signal VCs rotating capital away from crowded software markets toward harder-to-replicate technical moats.
-- `INS-260404-E55F` New fund launches in late 2024 cluster around European deep tech and B2B software rather than US consumer tech.
-- `INS-260404-2D82` Frontier tech investing demands specialized fund structures that generalist VCs cannot effectively replicate.
-- `INS-260404-841B` NATO launched an innovation fund at its summit, merging venture capital with defense and political cooperation goals.

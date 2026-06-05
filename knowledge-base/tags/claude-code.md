@@ -11,6 +11,7 @@
 - `INS-260405-2BB0` The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260403-656F` Claude Code automation with parallel agents can handle overnight inbox triage, scheduling, and task planning previously done by virtual assistants.
+- `INS-260605-237C` An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260514-84FC` Claude Code's name is wrong. It's a terminal agent. Vercel reduced SDRs from 10 to 1 using it. Jason Lemkin's team went from 8 to 1.25.
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -26,6 +27,7 @@
 - `INS-260501-0D6D` Every agent platform converged on the same UI: chat list left, conversation middle, artifact right. Terminal-first is dying for non-developer users.
 - `INS-260320-F8FD` Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
 - `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
+- `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - `INS-260320-949A` A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
 - `INS-260501-91A3` Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.
 - `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.

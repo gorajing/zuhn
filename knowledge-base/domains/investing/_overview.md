@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 1420 insights across 14 topics
+> 1421 insights across 14 topics
 
 ## Topics
 
@@ -19,4 +19,4 @@
 | mental-models | 7 | Build your own compound interest table in a Google Sheet. The math is more powerful when you've typed it yourself than when you've read it. |
 | private-equity | 2 | When the 'safe' part of an LP's portfolio takes venture-sized losses, the math on the entire risk budget changes. |
 | space-economy | 38 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
-| venture-capital | 310 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |
+| venture-capital | 311 | Declining VC distributions through 2024 are fundamentally altering the LP-GP relationship and fund economics. |

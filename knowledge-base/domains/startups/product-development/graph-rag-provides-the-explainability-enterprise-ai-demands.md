@@ -44,10 +44,10 @@ stance: >-
   reasoning layer that pure LLMs cannot.
 related:
   - INS-260325-E23D
+  - INS-260605-2A64
+  - INS-260605-C00C
   - INS-260329-E6AF
   - INS-260409-1E5E
-  - INS-260402-5ACE
-  - INS-260409-96B0
 evidence:
   - id: INS-260325-E23D
     type: SUPPORTS

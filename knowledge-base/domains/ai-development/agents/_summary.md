@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 44 insights
+> 46 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-610E` [high] Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
@@ -13,6 +13,7 @@
 - `INS-260605-E9A6` [high] Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260410-14E5` [high] Return denials as tool results so false positives cost a single retry instead of killing the session.
 - `INS-260605-C2A3` [high] An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
+- `INS-260605-ACB3` [high] Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
 - `INS-260605-8E69` [high] Don't test 'it called tool A then B then decided C' — test only whether it reached the right answer, or your evals shatter on every model upgrade.
 - `INS-260605-B13C` [high] Run distinct evaluators at intent resolution, tool selection, and final response so you can pinpoint exactly where quality breaks down.
 - `INS-260410-F5EC` [high] Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
@@ -35,6 +36,7 @@
 - `INS-260410-376A` [high] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260410-83EC` [high] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260405-F26B` [medium] ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
+- `INS-260605-BB4B` [medium] Short-term memory holds conversation/session context, long-term holds entities resolved and deduplicated over time, and reasoning holds the decision traces — three layers, not one.
 - `INS-260514-1D60` [medium] Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
 - `INS-260605-8789` [medium] Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'

@@ -50,7 +50,6 @@ stance: >-
   for making exponential growth legible and actionable to human decision-makers.
 related:
   - INS-260322-3DE2
-  - INS-260325-4CBB
   - INS-260328-D1B2
   - INS-260329-8015
   - INS-260329-95EF
@@ -59,6 +58,7 @@ related:
   - INS-260330-1AB0
   - INS-260330-C499
   - INS-260330-9935
+  - INS-260330-4824
 evidence:
   - id: INS-260322-3DE2
     type: TRANSFERS_TO

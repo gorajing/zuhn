@@ -46,7 +46,6 @@ stance: >-
   daily-use applications vastly exceeds the value of apps created through vibe
   coding tools, and developer tools should optimize for building the former.
 related:
-  - INS-260322-3083
   - INS-260321-7C97
   - INS-260323-E0B5
   - INS-260321-3D65

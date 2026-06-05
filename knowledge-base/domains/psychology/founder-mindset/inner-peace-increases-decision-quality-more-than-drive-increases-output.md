@@ -49,7 +49,6 @@ stance: >-
   economy the compounding value of better decisions exceeds the marginal output
   gained from anxious hustle.
 related:
-  - INS-260329-59A5
   - INS-260330-6F36
   - INS-260405-6E4F
   - INS-260403-0240

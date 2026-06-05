@@ -46,7 +46,6 @@ resolutions:
     question. If everyone on your team comes to you for answers, that's not
     proof of your competence; it's proof your team's talent density is too low.
 related:
-  - INS-260323-13C0
   - PRI-260323-9EAD
   - INS-260403-7FFA
   - PRI-260403-E023

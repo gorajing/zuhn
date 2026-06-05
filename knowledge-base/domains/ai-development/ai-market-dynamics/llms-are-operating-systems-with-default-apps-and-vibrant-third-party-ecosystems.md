@@ -53,7 +53,6 @@ stance: >-
   install Chrome.
 related:
   - INS-260322-A367
-  - INS-260327-F4DD
   - INS-260325-2BDB
   - INS-260603-A506
   - PRI-260328-DD90

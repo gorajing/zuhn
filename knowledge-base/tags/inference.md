@@ -16,7 +16,7 @@
 - `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260410-B9A6` Any cortical area can clamp any subset of variables and sample from any other subset — a generality LLMs only emulate at the context-window level.
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
+- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
 - `INS-260409-4CBB` Convergent evolution of intelligence in birds and mammals, winged flight in birds and bats, and camera-eyes in octopuses and mammals is cumulative evidence that these functions have narrow optimal solutions that any sufficient search process will find.
 - `INS-260409-A8F4` You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
 - `INS-260409-0206` The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
-- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
