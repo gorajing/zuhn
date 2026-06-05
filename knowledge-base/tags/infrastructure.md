@@ -1,6 +1,7 @@
 # Tag: infrastructure
 
 - `INS-260410-E73E` Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
+- `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260330-77BB` Running multiple AI agents locally hits machine limits at 3-4 worktrees; cloud dev environments remove this ceiling entirely.
 - `INS-260330-7E4F` Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
 - `INS-260605-A803` When scaling coding-agent swarms, runtime, orchestration, and triggering are largely solved — coordination (agents picking up tasks from and collaborating with each other) is the actual bottleneck.
@@ -23,6 +24,7 @@
 - `INS-260514-4BD5` GPUs compute on wave 1 while wave 2's data is in flight, wave 3 queued behind it. Network latency disappears from the critical path.
 - `INS-260405-D638` Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
 - `INS-260405-F1A1` The US data center pipeline hit 241 GW but only a third is under active development, with utilities unable to supply power fast enough despite $650B in planned 2026 CapEx.
+- `INS-260605-B95C` Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
 - `INS-260405-131B` C powers the interpreters, OS kernels, and databases that higher-level developers use daily, making it the most influential language most programmers never consciously think about.
 - `INS-260412-9B00` At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260403-83F3` AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
@@ -42,21 +44,21 @@
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
 - `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-6DD9` Heathrow's $19 per-passenger cost is covered by $29 in airline fees plus $13.32 in retail, but retail is where the margin lives.
-- `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
-- `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
-- `INS-260405-39FA` When Mastercard formalizes a 85-firm coalition including Circle, Binance, and PayPal around stablecoin payments, it's infrastructure convergence, not a pilot program.
 - `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
 - `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
 - `INS-260412-3A35` The electrical revolution created a startup investment bubble far exceeding the 1990s dot-com bubble in relative economic impact.
+- `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
+- `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
+- `INS-260405-39FA` When Mastercard formalizes a 85-firm coalition including Circle, Binance, and PayPal around stablecoin payments, it's infrastructure convergence, not a pilot program.
+- `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
+- `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.
+- `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
+- `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
 - `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
 - `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
 - `INS-260412-3713` Anchorage went from one of the world's most connected airports to near-abandonment within a decade when Russia opened its airspace after the Soviet collapse.
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
 - `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
-- `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
-- `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.
-- `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
-- `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
 - `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
 - `INS-260322-B8E6` Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
@@ -82,8 +84,8 @@
 - `INS-260324-4521` Ukraine claims $15T in minerals but couldn't exploit them pre-war due to oligarch corruption, zero foreign investment (1% GDP), and no mining infrastructure — the US deal is a forcing function.
 - `INS-260403-6016` US electricity generation has flatlined at ~4,000-4,200 TWh since 2000 after a century of exponential growth, creating the decade's biggest infrastructure bottleneck.
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
-- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260412-8F97` Regardless of the triggering catastrophe, infrastructure collapses in a predictable sequence determined by dependency chains — ports first, then communications, then energy, then food supply.
+- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260412-8401` Peachtree, Georgia built 90 miles of golf-cart roads, and the infrastructure itself — not any mandate — transformed golf carts from novelty into a community identity where 12-year-olds commute to school.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
 - `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
@@ -93,6 +95,7 @@
 - `INS-260412-BCBB` About two-thirds of airports worldwide lose money, and private ownership only works at massive scale.
 - `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
 - `INS-260412-E078` Tesla would need $7.8 billion and 31,251 new stations to match gas station accessibility—roughly 10x its 2020 annual profit—making solo infrastructure build-out economically impossible.
+- `INS-260410-F31C` Google leased data center space by square footage rather than power, which forced them to maximize density with cork-board server racks and commodity parts — ultimately producing 87% gross margins on search that Yahoo, Alta Vista, and Inktomi could never match on enterprise hardware.
 - `INS-260404-EE07` Grid delivery fees and taxes—not generation—make up most of household electricity bills, so distributed solar captures avoided infrastructure costs directly.
 - `INS-260412-E0B5` Wow Air planned to route around Russian airspace to Delhi by adding only 45 minutes of flight time, undermining the leverage of the chokepoint.
 - `INS-260403-75C3` Proprietary infrastructure investments that seem painfully slow eventually create compounding returns that feature-layer competitors cannot replicate.
@@ -101,17 +104,16 @@
 - `INS-260403-F4D3` Plausible alternatives erode incumbent control more effectively than head-on competition because they expand buyer optionality without triggering defensive responses.
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260412-D103` Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
-- `INS-260410-F31C` Google leased data center space by square footage rather than power, which forced them to maximize density with cork-board server racks and commodity parts — ultimately producing 87% gross margins on search that Yahoo, Alta Vista, and Inktomi could never match on enterprise hardware.
 - `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260412-F93A` F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260412-8780` China built more high-speed rail than the rest of the world combined not through superior technology but by making it the government's top priority.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
 - `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
-- `INS-260405-EAF3` Cloud providers offer $150K–$350K each in startup credits, and most founders apply to only one of the three.
-- `INS-260404-1DDB` The most successful pitch decks in this collection target specific verticals (grocery, legal, women's health) or build infrastructure layers (billing, banking-as-a-service, payments).
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
+- `INS-260405-EAF3` Cloud providers offer $150K–$350K each in startup credits, and most founders apply to only one of the three.
+- `INS-260404-1DDB` The most successful pitch decks in this collection target specific verticals (grocery, legal, women's health) or build infrastructure layers (billing, banking-as-a-service, payments).
 - `INS-260412-9DC8` Vannevar Bush's 1945 Memex concept directly inspired the internet, hyperlinks, the mouse, and the GUI, yet he remains virtually unknown compared to the product builders who implemented his vision.
 - `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
 - `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
@@ -129,10 +131,6 @@
 - `INS-260403-8DE1` Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
 - `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
 - `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
-- `INS-260412-7FC0` China's mass-production approach to viaducts and tunnels cut high-speed rail costs to $30M/mile vs California's $148M/mile.
-- `INS-260330-B437` Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
-- `INS-260412-907D` The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
-- `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260412-EDBF` Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.
 - `INS-260403-5DF2` Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.
@@ -140,3 +138,7 @@
 - `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260403-6807` Match your metrics infrastructure to your actual stage—tracking five core dimensions in a spreadsheet beats a premature Looker deployment.
+- `INS-260412-7FC0` China's mass-production approach to viaducts and tunnels cut high-speed rail costs to $30M/mile vs California's $148M/mile.
+- `INS-260330-B437` Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
+- `INS-260412-907D` The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
+- `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.

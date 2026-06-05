@@ -48,11 +48,11 @@ stance: >-
   containers with lower latency, less configuration, and subprocess coverage
   that containers can't match.
 related:
+  - INS-260605-1C30
   - PRI-260403-9E80
   - INS-260605-1A50
   - INS-260410-303B
   - INS-260605-9402
-  - INS-260410-0B73
 ---
 Anthropic chose Linux bubblewrap and macOS seatbelt over Docker/container approaches. The advantage: these primitives enforce restrictions at the OS level across not just the agent's direct tool calls but any subprocess, script, or program the agent spawns. A container approach would require spinning up and managing the container per session, adding latency and operational complexity for a developer tool that must feel instant.
 

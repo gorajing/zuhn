@@ -11,8 +11,8 @@
 - `INS-260423-3459` Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability.
 - `INS-260423-EFC0` Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260605-B7A2` Rather than reform a slow institution wholesale, create a small central unit operating under different rules (autonomy, market pay, own hiring) as a proof point.
-- `INS-260412-7763` Small hardware companies can iterate designs and swap components faster than large incumbents slowed by bureaucracy.
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
+- `INS-260412-7763` Small hardware companies can iterate designs and swap components faster than large incumbents slowed by bureaucracy.
 - `INS-260327-390A` Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
 - `INS-260330-2D53` China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
 - `INS-260403-46BD` Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.

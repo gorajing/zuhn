@@ -11,9 +11,9 @@
 - `INS-260402-607A` Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260402-D0F3` Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
 - `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
-- `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260412-3C98` If giant viruses hid in plain sight until 2003, every mature field likely contains fundamental phenomena we're miscategorizing or ignoring.
+- `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260323-738D` The negative energy solutions in the Dirac equation were universally condemned as 'the saddest chapter in modern physics' — until Dirac proposed they predicted antimatter, and Carl Anderson accidentally found the positron in a cloud chamber just one year later.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.

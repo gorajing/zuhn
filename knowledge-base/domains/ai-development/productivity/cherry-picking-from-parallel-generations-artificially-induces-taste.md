@@ -51,7 +51,6 @@ stance: >-
   to get tasteful output than over-specifying a prompt.
 related:
   - INS-260410-2307
-  - INS-260514-3B3C
   - INS-260605-21A5
   - INS-260410-939B
   - INS-260605-9F16

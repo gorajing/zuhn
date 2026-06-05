@@ -42,6 +42,7 @@
 - `INS-260410-15EC` Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is.
 - `INS-260410-679B` When losing, the strategy is usually obvious — the question is whether you can stomach executing it; when winning, you have to invent the next move from a position of comfort that misleads you.
 - `INS-260410-5799` Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
+- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260412-CDDD` Attacking on two fronts where defending one front requires vulnerability to the other creates an unwinnable position for the target.
 - `INS-260403-162F` Deep customer understanding makes competitor tracking largely irrelevant.
@@ -70,7 +71,6 @@
 - `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
-- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
 - `INS-260403-75CE` Tactics from successful companies fail when transplanted without the underlying conditions that made them effective.
 - `INS-260404-F48F` Improve team performance by working up the stack: first nail execution clarity, then strategic coherence, then vision alignment.
@@ -86,11 +86,11 @@
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
 - `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
 - `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260405-2A34` Filtering for fund size and vintage before outreach converts fundraising from a numbers game into a precision exercise.
 - `INS-260405-36E6` Raising exactly one round gives founders external capital to de-risk early stages while avoiding the compounding dilution and return-driven pressure of traditional multi-round VC paths.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260403-130D` Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260409-AB58` If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.
 - `INS-260412-EF0E` Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
@@ -104,7 +104,6 @@
 - `INS-260404-380C` Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260410-E3E6` NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
-- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260410-1941` Microsoft publicly committed to OS/2 with IBM while quietly nurturing Windows and Mac applications as parallel hedges, so when OS/2 failed, Windows was ready to inherit the entire PC ecosystem.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
@@ -155,3 +154,4 @@
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260410-1345` The Japanese won most battles in China but lost the war because Bushido culture equated 'taking this hill' with strategic success, with no theory of how tactical wins aggregated into the real objective of a stable, communist-free China.
 - `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
+- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.

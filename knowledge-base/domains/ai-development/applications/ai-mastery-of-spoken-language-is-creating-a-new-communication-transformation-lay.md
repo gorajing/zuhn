@@ -58,6 +58,7 @@ related:
   - INS-260603-1389
   - INS-260524-3793
   - INS-260329-12D1
+  - INS-260605-68F4
 ---
 The convergence of high-quality speech synthesis, real-time transcription, and language model reasoning is enabling AI to participate in spoken communication at human-equivalent fluency. This is qualitatively different from text-based AI: voice is ambient, interruptible, emotionally expressive, and doesn't require screen literacy.
 

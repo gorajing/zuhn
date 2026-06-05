@@ -11,9 +11,9 @@
 - `INS-260423-6172` Chamath: training is systems work with different traffic patterns; inference is north-south with separate prefill/decode, and SRAM-heavy designs that don't make sense for training crush at decode.
 - `INS-260605-86BE` Training is compute-bound, but single-user local inference is dominated by memory bandwidth, memory capacity, and energy-per-byte — so pick hardware on those axes, not FLOPS.
 - `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
+- `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
-- `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260410-B9A6` Any cortical area can clamp any subset of variables and sample from any other subset — a generality LLMs only emulate at the context-window level.
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.

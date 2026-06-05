@@ -55,7 +55,8 @@ related:
   - INS-260330-3E3C
   - INS-260404-E91F
   - INS-260405-5649
-  - INS-260329-19B3
+  - INS-260605-15E9
+  - INS-260605-0D8C
 ---
 DeepSeek R1's 671B parameter model uses a Mixture of Experts architecture that only activates a fraction of parameters for each task, combined with Multi-Head Latent Attention for memory compression. This means the model has the knowledge capacity of a massive dense model but the inference cost of a much smaller one.
 

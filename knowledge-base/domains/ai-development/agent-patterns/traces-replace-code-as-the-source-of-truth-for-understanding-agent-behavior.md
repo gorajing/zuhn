@@ -56,7 +56,6 @@ related:
   - INS-260605-8B25
   - INS-260605-58DA
   - INS-260605-3163
-  - INS-260405-1CAA
   - INS-260605-C0BF
 evidence:
   - id: INS-260405-1CAA

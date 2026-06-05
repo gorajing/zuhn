@@ -1,5 +1,7 @@
 # Tag: psychology
 
+- `INS-260605-E145` Managing many agent sessions has high cognitive load, so breaks are essential — and that's exactly when your best ideas for the agents appear, which is why you need to reach them from anywhere.
+- `INS-260605-63AE` Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
 - `INS-260329-8C14` The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
 - `INS-260330-61C3` The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity.
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
@@ -44,8 +46,8 @@
 - `INS-260323-3A54` Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
 - `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
 - `INS-260409-2AF8` When prospects pay with time now, they are more likely to pay with money later.
-- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
+- `INS-260330-C84C` If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
 - `INS-260327-5F94` The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
 - `INS-260409-1BFD` Availability friction raises perceived value; waiting lists create the FOMO that 'buy now' buttons destroy.

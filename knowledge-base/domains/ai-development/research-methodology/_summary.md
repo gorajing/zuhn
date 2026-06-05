@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 111 insights
+> 114 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260605-2D9F` [high] Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
@@ -19,6 +19,7 @@
 - `INS-260505-33E6` [high] If you generate 'less aggressive' versions of public comments, the LLM also makes them more agreeable — residualize or you'll attribute the wrong cause.
 - `INS-260410-83CF` [high] Sandor Strauss's self-motivated project of ingesting, cleaning, and unifying tick data alongside 1800s-era historical pricing — years before anyone had models that could use it — is what made Medallion's later machine learning possible.
 - `INS-260410-303B` [high] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
+- `INS-260605-9CE2` [high] Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - `INS-260410-5036` [high] Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260514-BB1C` [high] Smaller team, fewer GPUs, no top chips, but they released the weights AND the paper AND the GPU kernels. And they beat the closed labs on Putnam.
 - `INS-260410-AC0B` [high] DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
@@ -42,6 +43,7 @@
 - `INS-260505-E5CC` [high] Physics: 'we know what's going on, AI extends the math.' Biology: 'we don't know what's going on, AI finds patterns.' Different toolkits.
 - `INS-260505-5510` [high] A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution.
 - `INS-260408-76F4` [high] Hassabis decided in a single meeting to fold all 200M proteins and release them free, because it took less effort than building the request server.
+- `INS-260605-1066` [high] Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.
 - `INS-260410-0923` [high] When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
 - `INS-260605-FCDA` [high] Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
 - `INS-260603-4387` [high] Satish: people create lat/long grids and throw them at a model expecting it to learn — but 1° of latitude is ~111km at the equator and near-0 at the poles, so the representation itself is distorted; his team instead represents Earth as a dense triangular geodesic grid so information density per cell is consistent.
@@ -97,6 +99,7 @@
 - `INS-260501-2BF8` [medium] Applied has completely rewritten their stack every ~2 years — 4 times in 10 years. That's the realistic AI engineering cadence.
 - `INS-260605-3ABF` [medium] Because someone must always win and lose, PvP Elo benchmarks never saturate the way fixed-answer benchmarks do — the ceiling is relative, not absolute.
 - `INS-260505-A413` [medium] Train an RL reasoning model on hard problems, and inside the reasoning trace it spins up little debate societies — more dramatic, extroverted, less agreeable than the base model.
+- `INS-260605-4A94` [medium] Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - `INS-260505-D545` [medium] Docker bundles are bit-for-bit reproducible but unreadable. Text specs that AI can re-execute are reproducible AND comprehensible.
 - `INS-260409-6833` [medium] Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260605-3490` [medium] The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.

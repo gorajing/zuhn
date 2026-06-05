@@ -52,8 +52,6 @@ stance: >-
   make them only appear hard.
 related:
   - INS-260410-E73E
-  - INS-260410-E3BB
-  - INS-260514-9281
   - INS-260605-E54A
   - INS-260410-0DA5
   - INS-260505-5510

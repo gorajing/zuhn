@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 63 insights
+> 65 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -34,6 +34,7 @@
 - `INS-260605-74CC` [high] Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
 - `INS-260423-9225` [high] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 - `INS-260605-4AF8` [high] Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
+- `INS-260605-B95C` [high] Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
 - `INS-260410-13C8` [high] Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
 - `INS-260605-434D` [high] Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
 - `INS-260410-ED34` [high] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
@@ -44,6 +45,7 @@
 - `INS-260413-07F2` [high] OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260501-D18A` [high] Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor.
 - `INS-260605-ACC9` [high] Snapshot the agent's machine, shut it down, and restore it when the next user message arrives—giving durability across turns without paying to keep compute live.
+- `INS-260605-E831` [high] When batched requests have uneven token counts and are all padded to the maximum length, the model burns compute on empty padding tokens — variable-length flash attention avoids padding so no compute is wasted.
 - `INS-260410-8092` [high] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260514-D023` [medium] A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop.
 - `INS-260424-865F` [medium] Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.

@@ -70,7 +70,6 @@ stance: >-
   self-improvement compounds; if even the 5x multiplier holds, AI capabilities
   accelerate at a pace that outstrips human capacity to evaluate or govern them.
 related:
-  - INS-260323-0B52
   - INS-260410-3B5B
   - INS-260328-0B99
   - INS-260403-976C

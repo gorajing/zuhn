@@ -62,9 +62,9 @@ stance: >-
   single-shot variation generation.
 related:
   - INS-260505-1684
+  - INS-260605-4A94
   - INS-260605-C859
   - INS-260410-B3C4
   - INS-260605-117F
-  - INS-260605-6C0C
 ---
 Concrete workflow from the GPT Image 2.0 demonstration: after generating a logo you like, the next step in logo design is exploring variations. The wrong way: 'Make me 10 variations, each with subtle adjustments to the typography' — you get 10 outputs in 10 prompts, each with vague descriptions of what changed. The right way: 'Create a square logo exploration board based on the image above. Generate 40 logo concepts organized in a numbered modular grid included in a concept sheet.' The model returns one image: 40 numbered logo variations in a 7×6 (or similar) grid. You scan the grid visually, identify the ones you like, and then refer back: 'Generate logo number 33 cleanly and independently.' Why this works: (1) Visual scanning is much faster than reading text descriptions of variations. (2) Numbered indexing removes the 'how do I describe variant #5' problem. (3) The grid layout forces the model to maintain stylistic consistency across all 40 variants while exploring the variation axis, which is structurally easier than 40 isolated generations. (4) ~40 is the sweet spot — too few (10) doesn't surface enough variety; too many (100) makes individual logos illegible. The pattern generalizes: for any artifact where you want to explore a design space (color palettes, hero images, copy variants, character designs), use the numbered-grid pattern instead of N iterative single-shot generations. This also enables programmatic post-processing: once you settle on 'number 33,' a downstream agent can crop it, upscale it, remove background, etc., from the original grid output.

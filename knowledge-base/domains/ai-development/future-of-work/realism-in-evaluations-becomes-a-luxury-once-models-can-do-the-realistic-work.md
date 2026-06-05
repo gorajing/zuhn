@@ -54,7 +54,6 @@ stance: >-
   designers must trade realism for artificial constraints that preserve signal.
 related:
   - INS-260327-6AB1
-  - INS-260327-C5D9
   - INS-260330-9F1F
   - INS-260403-2718
   - INS-260403-BE24

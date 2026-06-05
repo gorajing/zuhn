@@ -4,6 +4,7 @@
 - `INS-260413-11C9` Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
+- `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260605-6CBF` Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260326-9402` Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.

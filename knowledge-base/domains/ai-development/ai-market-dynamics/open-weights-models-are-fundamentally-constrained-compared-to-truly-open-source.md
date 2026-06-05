@@ -53,10 +53,10 @@ stance: >-
   heavy fine-tuning causes regression on other capabilities.
 related:
   - INS-260322-3616
+  - INS-260605-0C13
   - INS-260404-CE26
   - INS-260403-D3ED
   - PRI-260406-22E2
-  - INS-260605-A0BC
   - INS-260403-58DA
   - INS-260410-4E62
   - INS-260413-25EC

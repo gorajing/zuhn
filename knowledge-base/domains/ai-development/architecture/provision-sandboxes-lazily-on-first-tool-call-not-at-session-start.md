@@ -54,12 +54,11 @@ stance: >-
   ones that may never touch a sandbox — forces users to pay full container setup
   cost before any inference can begin, and decoupling eliminates that latency.
 related:
+  - INS-260605-AFCF
   - INS-260410-346B
   - INS-260325-EE14
   - INS-260514-F74B
   - INS-260410-303B
-  - INS-260403-34A6
-  - INS-260410-D04D
 ---
 When Anthropic colocated the brain with the sandbox in a single container, every session had to wait for that container to be provisioned before inference could start — cloning the repo, booting the process, fetching pending events — even for sessions that would never touch the sandbox. That dead time shows up directly as time-to-first-token (TTFT), which is the latency users feel most acutely.
 

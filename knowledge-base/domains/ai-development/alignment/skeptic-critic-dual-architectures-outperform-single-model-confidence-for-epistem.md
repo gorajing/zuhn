@@ -65,6 +65,7 @@ related:
   - PRI-260324-2C9F
   - INS-260403-22FE
   - INS-260605-71E7
+  - INS-260605-169D
 ---
 State-of-the-art ignorance detection has converged on multi-model architectures where one model generates claims and a separate model challenges or validates them. Systems like REFLEXION, Debate-LM, and Shepherd deploy adversarial critique loops that catch errors internal confidence scores miss. Combined with retrieval-gated approaches (RAG-Stop), the best systems now achieve 2-5% hallucination rates in complex document summarization tasks.
 

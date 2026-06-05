@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 173 insights
+> 174 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -154,6 +154,7 @@
 - `INS-260410-8DDD` [medium] Self-driving stagnated for 15+ years because you cannot let a car make-and-correct mistakes at 60mph; manipulation is different because dishes can break and the robot just tries again — which turns each failure into training data.
 - `INS-260321-3967` [medium] The current monoculture of one model for everything will give way to speciated models — smaller models with the cognitive core intact but specialized for specific domains, like the animal kingdom's brain diversity.
 - `INS-260325-4C92` [medium] Almost everything AI can do is underestimated because users discover unimaginable use cases.
+- `INS-260605-3047` [medium] Because Nano Banana is built on Gemini, it can grade math homework or render a landmark from a sketched arrow on a map.
 - `INS-260325-4C6D` [medium] Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.
 - `INS-260327-0692` [medium] Something that is both complex (high assembly index) and abundant (many copies) was almost certainly produced by an evolutionary process - random chance cannot reliably produce both.
 - `INS-260409-E776` [medium] Math olympiad AI scores jumped from ~65% to ~95% in a few months — the benchmark is saturating and will stop discriminating between frontier models soon.

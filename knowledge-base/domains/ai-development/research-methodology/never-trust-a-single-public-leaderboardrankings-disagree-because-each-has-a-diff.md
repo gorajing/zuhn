@@ -62,6 +62,7 @@ related:
   - INS-260605-33B4
   - INS-260605-A0BC
   - INS-260410-5951
+  - INS-260605-B95C
 ---
 Charpentier compares LM/Arena, Design Arena, and Artificial Analysis on image-editing models and finds the top model differs across all three; one model jumps from rank 10 on one to rank 5 on another, some have duplicate entries, and some appear on one board but not others. Even the Elo scores live in incomparable ranges (1,100–1,300 on one, a different range on another), so relative model strength is genuinely ambiguous.
 

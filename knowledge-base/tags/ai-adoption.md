@@ -39,9 +39,9 @@
 - `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260403-A46C` AI companies undermine their own adoption by leading with economic obsolescence messaging instead of empowerment narratives.
 - `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
+- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260327-2627` Companies that fired teams and replaced them with AI are now begging workers to come back as they enter the 'find out' phase of discovering most jobs are more nuanced than AI can handle.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
-- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260403-E099` Top builders embed AI into daily workflows through small systems while others wait for clarity, creating a compounding execution gap.
 - `INS-260327-560D` AI newcomers with no preconceptions about limitations outperform experienced users anchored to last year's capabilities.
 - `INS-260403-4A42` Top-performing 2025 revenue teams achieved ~77% higher revenue per rep through deep AI integration and workflow redesign rather than headcount expansion.

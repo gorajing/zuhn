@@ -55,10 +55,10 @@ stance: >-
   via task-specific specialized circuits.
 related:
   - PRI-260405-FB37
+  - INS-260605-15E9
   - INS-260403-BB23
+  - INS-260605-DD2A
   - PRI-260406-12D7
-  - PRI-260320-3032
-  - INS-260329-F20E
 ---
 The biological observation underlying Nested Learning: clinical cases of children undergoing surgery to remove parts of the brain (treating severe epilepsy) often result in largely normal cognitive abilities later in life. This is only possible because neural functions can reorganize across regions — which requires that brain tissue have uniform structure rather than specialized hardwired components per task.
 

@@ -49,15 +49,16 @@ stance: >-
   changes the GPU utilization pattern, making prefill (context processing) the
   dominant bottleneck rather than token generation.
 related:
-  - INS-260321-18D0
   - INS-260325-F981
   - INS-260325-E62D
   - PRI-260328-EE02
   - PRI-260406-8B75
+  - INS-260321-18D0
   - INS-260405-567D
   - INS-260501-835A
   - INS-260605-0AD6
   - INS-260605-A95C
+  - INS-260605-295D
 ---
 The Redis Arc panelist described a fundamental shift in inference workload characteristics. Traditional chat inference was decode-heavy — generating long single-turn responses. Agentic inference reverses this: it involves massive context windows with accumulated conversation history (heavy prefill) but relatively shorter generated responses per turn. This creates larger KV cache reuse opportunities but also new system challenges.
 

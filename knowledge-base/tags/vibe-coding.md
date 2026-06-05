@@ -10,6 +10,7 @@
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260501-52B5` Pemberton oneshotted a Replit-style sandboxing app on his phone in one prompt. 95% of what you'd want to code is now PowerPoint-easy.
+- `INS-260605-E174` The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - `INS-260403-7D1D` Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260501-70FE` Amjad Masad: I no longer think you should learn how to code — people building multi-million dollar businesses solo don't need to learn how to code, they need to learn how to create.
 - `INS-260403-A2E9` As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.

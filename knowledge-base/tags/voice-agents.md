@@ -3,6 +3,7 @@
 - `INS-260322-750D` AI voice agents in loan servicing and collections can speak 50 languages, maintain perfect UDAP compliance, and deliver better customer experiences — reorienting fintech TAM from IT budgets to labor costs.
 - `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
 - `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
+- `INS-260605-68F4` One audio-to-audio architecture replaces the STT→LLM→TTS cascade, enabling more natural live voice interaction.
 - `INS-260605-B03B` Because the LLM and TTS blindly carry forward whatever the speech-to-text model produces, a misheard name or drug becomes an uncorrectable error — making entity-level transcript accuracy the foundation of the whole pipeline.
 - `INS-260605-ACCD` Cascade speech-to-text, an LLM, and text-to-speech as separate orchestrated models, because unified speech-to-speech models can't yet follow instructions or call tools reliably enough for production.
 - `INS-260605-F383` Network latency between geographically separated models can dominate engine latency; co-locating all models and the orchestrator in one data center can drop a 75ms hop to ~5ms for a ~30% total latency reduction.

@@ -50,7 +50,6 @@ related:
   - PRI-260406-9D48
   - INS-260325-522A
   - INS-260323-23B9
-  - INS-260403-8A65
 stance: >-
   OpenClaw became the most popular open-source project in history within weeks,
   surpassing Linux's 30-year adoption curve

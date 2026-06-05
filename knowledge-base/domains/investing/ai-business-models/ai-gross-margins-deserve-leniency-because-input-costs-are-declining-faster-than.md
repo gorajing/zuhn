@@ -56,8 +56,8 @@ related:
   - INS-260321-B7CB
   - INS-260327-0004
   - INS-260327-422B
-  - INS-260328-4717
   - INS-260328-0B99
+  - INS-260403-14C7
 stance: >-
   AI model input costs have declined 99%+ in two years (faster than Moore's law)
   while quality doubles every 7 months

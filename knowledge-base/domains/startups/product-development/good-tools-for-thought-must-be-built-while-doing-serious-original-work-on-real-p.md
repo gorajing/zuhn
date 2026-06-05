@@ -61,6 +61,6 @@ related:
   - INS-260323-C9B1
   - INS-260524-B6B3
   - INS-260321-AE3F
-  - PRI-260324-3B70
+  - INS-260605-3047
 ---
 Seymour Papert built Logo with the aspiration that children could learn differential geometry by going to 'Mathland.' Logo is beautiful and contains many striking ideas. But no professional differential geometer uses Logo as a serious tool in their work. That should make you suspicious: if Logo genuinely expressed the ideas of differential geometry, why don't differential geometers use it? The likely answer is that Papert wasn't an accomplished differential geometer himself, so he couldn't know what to include. The general principle: good tools for thought arise mostly as a byproduct of doing original work on serious problems. They are created by people doing that work, or people working very closely with them. Mathematica works partially because Stephen Wolfram has genuine research interests; the parts that work are the parts he uses, the parts that feel like toys are the parts no one at Wolfram Research uses seriously. The warning generalizes: be suspicious of any tool-for-thought built by people who have never done serious original work in the subject the tool claims to support. Applied to AI-for-thinking tools, this suggests the builders should be people who actually think about hard problems using the tool, not people optimizing for a generic 'thinking workflow.'

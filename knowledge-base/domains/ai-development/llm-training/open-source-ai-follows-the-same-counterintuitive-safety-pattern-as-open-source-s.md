@@ -51,11 +51,11 @@ related:
   - INS-260403-27F5
   - INS-260328-9B8A
   - INS-260323-BC61
+  - INS-260605-0C13
   - INS-260405-CA27
   - INS-260403-2152
   - INS-260405-3066
   - INS-260410-59F4
-  - INS-260603-6C2A
 stance: >-
   Zuckerberg argues open source AI models become safer through increased
   scrutiny, faster bug discovery, and rapid version rollouts

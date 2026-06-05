@@ -58,6 +58,7 @@ related:
   - INS-260412-4233
   - INS-260410-ED4D
   - INS-260410-A1CA
+  - INS-260605-3088
 ---
 The video explicitly frames open-source models as preferable because they lack the 'unwanted safety layers' of Midjourney and DALL-E. This reveals a structural dynamic in AI platform competition: any proprietary safety constraint that restricts commercially valuable outputs drives demand toward open-source alternatives where those constraints don't exist.
 

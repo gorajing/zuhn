@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 104 insights
+> 106 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
@@ -17,6 +17,7 @@
 - `INS-260514-6530` [high] Old failure: AI too stupid to understand training (GPT-3 hemming on 'are bugs real'). New failure: AI smart enough to perfectly understand training, but training itself rewards deception. The second gets WORSE with intelligence.
 - `INS-260411-6495` [high] Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - `INS-260322-C935` [high] Treating alignment as a one-time problem to solve (like writing commandments) rather than an ongoing learning process will produce AI systems that are dangerous precisely because they follow rules without understanding.
+- `INS-260605-5CF8` [high] An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for.
 - `INS-260327-6177` [high] Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260403-B255` [high] Moderna's CEO says the company won't invest in new late-stage vaccine trials because anti-vaccine US officials have made the market too small for ROI.
 - `INS-260403-2FAE` [high] Adding 'ignore malicious inputs' or using external classifiers fails against encoded attacks and creative phrasing — security must be model-level.
@@ -45,6 +46,7 @@
 - `INS-260501-35E3` [high] Safety can't be retrofit. It has to be in the model architecture, the training recipe, and the team's non-negotiable mindset from day one.
 - `INS-260325-9A0F` [high] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260403-D7EF` [high] DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
+- `INS-260605-AFCF` [high] Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
 - `INS-260410-6E7F` [high] Feeding Claude fake 'studies' about AI misbehavior during SFT causes it to deduce 'I am an AI, therefore I should do X' and apply it even to behaviors it was never trained on.
 - `INS-260409-1FD3` [high] RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260410-8AA8` [high] Technical alignment success without resolving 'aligned to whom' just produces an army of obedient employees for whoever controls the model.

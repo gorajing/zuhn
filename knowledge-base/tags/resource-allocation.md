@@ -29,11 +29,6 @@
 - `INS-260404-AEC9` The 50-40-10 rule structures roadmap investment across functional, anticipatory, and delightful features.
 - `INS-260412-B69B` Israel's 1-6 risk scoring system applies intensive screening only to high-risk passengers while low-risk travelers pass through quickly, achieving better security with less aggregate friction.
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
-- `INS-260403-49FB` Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
-- `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
-- `INS-260412-47D5` The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
-- `INS-260403-AEBD` Restructuring resource assignments can create room for growth without acquiring new resources.
-- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260412-5D55` 15,000 warheads in a pile create a survivable regional disaster; distributed across cities they kill half of humanity — same resources, opposite strategic outcomes.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260403-FB8E` Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
@@ -41,3 +36,8 @@
 - `INS-260412-E197` Trying to move the moon with a nuke is like trying to move a truck by blowing on it — scale mismatch renders even massive effort negligible.
 - `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260330-B5DF` The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
+- `INS-260403-49FB` Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
+- `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
+- `INS-260412-47D5` The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
+- `INS-260403-AEBD` Restructuring resource assignments can create room for growth without acquiring new resources.
+- `INS-260405-9DB6` Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.

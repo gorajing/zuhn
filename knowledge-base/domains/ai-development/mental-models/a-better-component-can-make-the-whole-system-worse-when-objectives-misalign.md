@@ -49,7 +49,7 @@ related:
   - INS-260323-7A11
   - INS-260320-96C9
   - INS-260605-C46E
+  - INS-260605-0C13
   - INS-260411-7232
-  - INS-260605-33FA
 ---
 BFL found that aligning their generative model to DinoV3 — a measurably better image encoder than DinoV2 — produced worse generations, with no clean rule explaining which encoders help. This is a sharp instance of a general systems principle: a benchmark-superior component does not guarantee a superior system, because the component was optimized for its own objective (segmentation), not yours (generation). Local optimization and global optimization diverge. When integrating any best-in-class part — a model, a library, a hire optimized for a different metric — evaluate it on the end-to-end objective, not on its own scorecard. 'Better at X' is not 'better for my system' when X isn't your goal.

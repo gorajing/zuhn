@@ -54,7 +54,7 @@ related:
   - INS-260410-8E1C
   - INS-260410-E1D9
   - INS-260330-0102
+  - INS-260605-D1F0
   - INS-260402-5523
-  - INS-260409-6A6C
 ---
 Koc contrasts 'Ralph looping' — handing an agent a task and burning tokens for 8-9 hours while hoping for a result — with a more 'opinionated' approach he jokingly calls bot looping, asking what the reward mechanism should be beyond just spending tokens. His closing thesis: '2025 was about token maxing, 2026 is about not wasting them.' Once you're running 60-70 agents the constraint stops being tokens and becomes raw compute plus the human's finite brain space to supervise. The practical implication is to add structure to autonomous loops — evals, dedup, signals about what's worth working on — so tokens buy directed progress rather than undirected churn, with the engineer kept 'in the loop' rather than fully delegating. Tagged time-sensitive because it's an explicit year-over-year prediction about where the frontier is heading.

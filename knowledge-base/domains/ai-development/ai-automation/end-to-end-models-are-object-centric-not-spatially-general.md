@@ -45,7 +45,7 @@ related:
   - INS-260408-C572
   - INS-260410-6B98
   - INS-260603-1389
-  - INS-260330-4AD5
+  - INS-260605-303C
 stance: >-
   VLA models have no spatial primitive vocabulary — 'move up', 'move back',
   'don't move' all produce similar grasping motions

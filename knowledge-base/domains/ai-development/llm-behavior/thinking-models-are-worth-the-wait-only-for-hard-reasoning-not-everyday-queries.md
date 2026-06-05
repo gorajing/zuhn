@@ -63,6 +63,7 @@ related:
   - INS-260505-CBE5
   - INS-260605-5CC7
   - INS-260605-6C0C
+  - INS-260605-05F4
 ---
 Thinking models like o1 Pro, DeepSeek R1, and Claude's extended thinking mode are tuned via reinforcement learning to emit long internal monologues before answering — backtracking, revisiting assumptions, and trying multiple approaches. This pushes accuracy materially higher on the kinds of problems that actually require reasoning: math, code debugging, logic puzzles. Karpathy's concrete example: GPT-4o failed to spot a bug in his gradient check code, but o1 Pro solved it after a minute of thinking.
 

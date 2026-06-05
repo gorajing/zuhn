@@ -47,10 +47,10 @@ stance: >-
   bugs is proportional to lines changed since last successful run.
 related:
   - INS-260329-F84E
+  - INS-260605-1CEB
   - INS-260329-D2CA
   - PRI-260405-3080
   - INS-260329-3441
-  - INS-260320-4B31
 evidence:
   - id: INS-260330-FBE1
     type: CONTRADICTS

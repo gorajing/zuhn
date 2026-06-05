@@ -53,11 +53,11 @@ stance: >-
   Showing learners the wrong result before explaining the correct approach
   creates stronger mental models than demonstrating only the correct solution
 related:
-  - INS-260329-F84E
   - INS-260329-DABC
   - PRI-260406-FB98
+  - INS-260329-F84E
+  - INS-260605-77EB
   - INS-260322-C935
-  - INS-260329-023F
 evidence:
   - id: INS-260329-F84E
     type: CHALLENGES

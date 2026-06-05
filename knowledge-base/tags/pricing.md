@@ -40,8 +40,8 @@
 - `INS-260329-27A7` Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
 - `INS-260330-9137` Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
-- `INS-260410-5799` Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
 - `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
+- `INS-260410-5799` Intel passed on the iPhone chip contract because Jobs's offer was 'lowball' — which turned out to be the most expensive pricing decision in tech history.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260327-6900` Car companies responded to consumers who can't afford cars by making cars more expensive than ever - the fundamental constraint is affordability, not technology.
 - `INS-260403-44FF` Undercutting competitors on price signals you have no differentiated value proposition and invites a margin-destroying race to the bottom.
@@ -61,14 +61,14 @@
 - `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
 - `INS-260403-0F72` Low prices attract price-sensitive users who churn fast and consume disproportionate support — raising prices filters for better customers.
-- `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
 - `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
-- `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
 - `INS-260409-5FE5` Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
+- `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260410-6BFF` Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.
 - `INS-260412-DCDC` The entire aviation industry is dictated by economics not comfort — airlines find it far easier to market lower prices than higher comfort.
 - `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.

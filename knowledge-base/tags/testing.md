@@ -13,6 +13,7 @@
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260605-9467` When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.
 - `INS-260605-3AFB` AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
+- `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
 - `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.

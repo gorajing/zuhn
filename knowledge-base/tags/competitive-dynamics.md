@@ -76,5 +76,5 @@
 - `INS-260412-CAEF` Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.
 - `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.
 - `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
-- `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
 - `INS-260403-4572` Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
+- `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.

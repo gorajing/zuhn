@@ -56,11 +56,11 @@ stance: >-
   A skill's real value is capturing the specific, non-obvious knowledge the
   model lacks rather than restating what it already knows.
 related:
+  - INS-260605-AFCF
+  - INS-260605-3088
   - INS-260329-03B5
   - INS-260403-2FAE
   - PRI-260405-6867
-  - INS-260413-F638
-  - INS-260412-C3AB
 ---
 The demonstration's whole point was a knowledge gap, not a capability gap. Claude created a department-stats view, declared it working, and it did return data — but by default a Postgres view runs with the creator's privileges and bypasses the row-level security policies on the underlying tables, so every employee could see every department's salaries. The fix is a single security_invoker flag, available since Postgres 15, which makes RLS policies apply on the view itself. The model 'missed something that is training data basically missed.'
 

@@ -51,10 +51,10 @@ stance: >-
   more practically valuable than any advanced Excel feature
 related:
   - INS-260329-AE09
+  - INS-260605-E174
   - INS-260327-956D
   - INS-260329-2F63
   - INS-260403-449D
-  - PRI-260406-1AC6
 evidence:
   - id: INS-260329-AE09
     type: SUPPORTS

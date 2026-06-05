@@ -56,8 +56,8 @@ related:
   - INS-260410-F167
   - INS-260322-C0D3
   - INS-260327-33FA
+  - INS-260605-B136
   - INS-260325-6150
-  - INS-260409-4290
 ---
 Coqui 3 TTS shipped with great quality but missed its paper's latency claims, so Marafioti spent two weeks making it production-fast. The bottleneck: the autoregressive model did ~500 steps per audio packet, and each step round-tripped data between CPU and GPU. The fix is to compile the model so those interactions stay on the GPU — but compilation was blocked because the model used a dynamic KV cache that resized with input length.
 

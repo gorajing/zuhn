@@ -10,9 +10,9 @@
 - `INS-260403-C55B` Default to creating rather than critiquing, because early-stage creation is rarer and more valuable than sophisticated criticism.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260405-FE74` The lion's share of vertical software value is realized a decade or more after launch, not at Series A or B.
+- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
 - `INS-260327-F6BA` Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
 - `INS-260403-E05D` Extractive strategies that replace cooperative arrangements reliably destroy more value than they capture.
-- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260328-A57D` If you found the biggest problem and it seemed too hard, searching for four months for easier problems is almost always a worse use of time.
 - `INS-260327-80A8` A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.

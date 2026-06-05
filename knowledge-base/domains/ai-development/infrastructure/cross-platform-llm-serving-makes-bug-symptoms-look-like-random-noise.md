@@ -54,16 +54,16 @@ stance: >-
   Serving the same model across multiple hardware platforms creates confusing,
   contradictory incident reports that obscure single root causes.
 related:
-  - INS-260325-D25C
   - INS-260329-5EE7
   - INS-260329-D2CA
+  - INS-260605-1CEB
   - INS-260501-A1C7
   - INS-260423-85B3
   - PRI-260323-1CF9
-  - INS-260410-E73E
   - INS-260514-3B3C
   - INS-260602-1DF1
   - INS-260605-33C0
+  - INS-260605-4860
 ---
 Anthropic's three bugs had very different platform footprints: the routing bug affected all platforms at different rates, the output corruption hit only first-party TPU servers, and the XLA:TPU miscompilation affected TPU-served requests but not Bedrock or Vertex. Users reported degradation, but the pattern looked like random noise because the correlation between 'which bug am I seeing' and 'which platform served me' wasn't visible externally.
 

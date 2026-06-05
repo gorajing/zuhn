@@ -1,7 +1,7 @@
 # Tag: bias
 
-- `INS-260326-AE6C` A quantizer that minimizes reconstruction error (MSE) does NOT give accurate similarity search -- at 1 bit, MSE-optimal quantization inflates inner products by a factor of 2/pi.
 - `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
+- `INS-260326-AE6C` A quantizer that minimizes reconstruction error (MSE) does NOT give accurate similarity search -- at 1 bit, MSE-optimal quantization inflates inner products by a factor of 2/pi.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260403-F9C7` Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
 - `INS-260605-8168` Manual 'vibe' inspection compounds two biases—your individual preference and the specific handful of prompts you tried—so it must be scaled across many people and samples.

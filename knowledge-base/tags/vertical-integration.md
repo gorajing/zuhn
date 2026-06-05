@@ -33,5 +33,5 @@
 - `INS-260405-1B93` When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
 - `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
-- `INS-260412-846C` Samsung makes the chips inside competitors' phones AND their own phones, giving them cost advantages, supply chain leverage, and deep technical knowledge that compounds over time.
 - `INS-260410-2106` Sony bought Columbia Pictures in 1989 partly out of Betamax-induced trauma, but hardware teams wanted devices to play any content (including pirated) while the movie division wanted hardware to enforce restrictions — the two strategies are permanently incompatible.
+- `INS-260412-846C` Samsung makes the chips inside competitors' phones AND their own phones, giving them cost advantages, supply chain leverage, and deep technical knowledge that compounds over time.

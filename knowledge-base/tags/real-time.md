@@ -1,5 +1,6 @@
 # Tag: real-time
 
+- `INS-260605-68F4` One audio-to-audio architecture replaces the STT→LLM→TTS cascade, enabling more natural live voice interaction.
 - `INS-260605-6423` NPUs give roughly 3-13x speed and major energy savings, making them the enabler for real-time AR/TTS/camera workloads on the edge.
 - `INS-260605-DA98` Once a model is fast, infrastructure round-trips add as much latency as the model itself, so client-perceived latency is what matters.
 - `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.

@@ -62,7 +62,6 @@ related:
   - INS-260405-EF0F
   - INS-260330-E5BE
   - INS-260330-BF8F
-  - INS-260605-6423
 ---
 Insta360's research revealed a critical insight: over 70% of action camera users who recorded family memories, vacations, and everyday moments had all their content sitting on a hard drive collecting dust. The bottleneck wasn't capture quality -- it was the editing workflow. Legacy manufacturers like Nikon and Canon had always focused exclusively on capture, leaving post-production to users to figure out on their own.
 

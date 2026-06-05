@@ -1,5 +1,6 @@
 # Tag: ideation
 
+- `INS-260605-E145` Managing many agent sessions has high cognitive load, so breaks are essential — and that's exactly when your best ideas for the agents appear, which is why you need to reach them from anywhere.
 - `INS-260403-E706` A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
 - `INS-260409-2906` Reverse-engineer outlier videos in your niche instead of ideating from scratch — the data already tells you what works.
 - `INS-260321-1A84` People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.

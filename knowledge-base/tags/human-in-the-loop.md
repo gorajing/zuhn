@@ -1,5 +1,6 @@
 # Tag: human-in-the-loop
 
+- `INS-260605-303C` Agents look less autonomous than they are because you can only reach them in their native environment, not because the models are weak.
 - `INS-260410-F0EF` Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260605-B610` Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?'
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
@@ -23,8 +24,8 @@
 - `INS-260403-D227` Anthropic's study showing 17% lower mastery with AI assistance reveals that AI productivity gains come at the cost of human backup capability.
 - `INS-260605-5CC7` When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 - `INS-260605-A9B4` A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
-- `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
+- `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260327-13B3` Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
 - `INS-260605-5BAD` Spotify's 'taste profile' exposes what the model knows about you as editable text — you can chat to adjust it, choose what to keep or forget — feeding your edits back into the generative model.
 - `INS-260605-C122` Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.

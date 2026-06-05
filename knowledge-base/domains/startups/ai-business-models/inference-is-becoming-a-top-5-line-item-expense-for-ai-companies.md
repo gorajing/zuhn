@@ -45,7 +45,6 @@ stance: >-
   Inference costs will become one of the largest operating expenses for most
   companies, analogous to electricity costs during the industrial revolution.
 related:
-  - INS-260322-2E33
   - INS-260323-7625
   - INS-260405-567D
   - INS-260405-6A94
@@ -55,6 +54,7 @@ related:
   - INS-260405-3240
   - INS-260403-91F7
   - INS-260410-C022
+  - INS-260410-9267
 evidence:
   - id: INS-260322-0C28
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 79 insights
+> 83 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -10,6 +10,7 @@
 - `INS-260605-3AFB` [high] AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 - `INS-260402-31D8` [high] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - `INS-260410-EA51` [high] Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
+- `INS-260605-402B` [high] An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces.
 - `INS-260323-BA00` [high] The biological stack starts with reproduction at the cellular level; the silicon stack has no reproduction capability at all — making AI systems fundamentally fragile in ways biology is not.
 - `INS-260325-D680` [high] Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260605-7CEB` [high] Viktor's 2023 browser agent was state-of-the-art on Web Arena yet unusable as a product because ~60% per-step reliability compounded over 3-5 steps into frequent failure.
@@ -48,6 +49,7 @@
 - `INS-260325-ED75` [high] Conway's FRACTRAN — a generalization of 3x+1 — is Turing-complete and subject to the halting problem, raising the possibility that Collatz itself is undecidable.
 - `INS-260323-F68A` [high] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260514-C4CF` [high] Supervised ML works only when 3 constraints hold: clean labeled data, measurable goal, defined parameters. Edge cases (situations breaking those constraints) cause catastrophic failure. Not a temporary problem — a fundamental architectural limit.
+- `INS-260605-FD3D` [high] Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260326-97C9` [high] Searching the space of possible programs yields more sophisticated results than designing them from scratch.
 - `INS-260413-A950` [high] Gemini Deep Think earned IMO gold yet reads analog clocks correctly 50.1% of the time versus 91% for humans — 'AGI-level' performance on one axis predicts nothing about adjacent tasks.
 - `INS-260409-DA17` [high] Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.
@@ -64,6 +66,7 @@
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.
 - `INS-260603-1389` [medium] Ichi (Meta): today's AI can write apps, make movies, and generate stories, but a real-world robot still struggles to understand touch and physical perception — the gap isn't language, it's the missing spatial/world-representation layer between language and embodied action.
+- `INS-260605-3088` [medium] Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260403-B8AA` [medium] Neuroscience research suggests language modeling captures communication patterns but not the underlying cognitive processes that produce genuine reasoning.
 - `INS-260410-9FE6` [medium] Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260530-ADED` [medium] PayPal's explicit feedback to the Google ADK team is that long-session support and shared cross-agent memory are missing — they've been bolting these on themselves, and other production teams hit the same gap.
@@ -80,4 +83,5 @@
 - `INS-260325-3F86` [medium] AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
 - `INS-260603-A09F` [medium] Frans/Rob (Amazon/Zoox): LLMs work because we distilled all of humanity's knowledge from the internet, but there's no equivalent corpus of 3D scene scans; people create virtual worlds to train on, but 'everything is fake at the beginning' and 'no matter how many virtual worlds you create, even infinite, it's never going to be enough.'
 - `INS-260327-684D` [medium] Cronin's sadness about alien life: it's probably everywhere but our causal cones may never overlap, meaning we might need to create alien intelligence in the lab rather than discover it in space.
+- `INS-260605-D1F0` [medium] LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.
 - `INS-260330-2154` [medium] When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.

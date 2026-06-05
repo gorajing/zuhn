@@ -71,7 +71,7 @@
 - `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
+- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.
+- `INS-260402-F62B` Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
 - `INS-260403-7825` Hyperliquid's 11-person team generating massive revenue demonstrates that AI-era automation can replace headcount with code, concentrating both value and risk.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
-- `INS-260402-F62B` Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
-- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.

@@ -9,6 +9,7 @@
 - `INS-260410-B3C2` pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260605-C009` LLM-as-judge is 'the lunatics running the asylum' — write your own deterministic eval against a golden set when you can.
 - `INS-260410-E3BB` A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
+- `INS-260605-3A60` Specify agent behavior with ground-truth examples plus rules, ontologies, internal terminology, domain knowledge, rights/roles, and robustness requirements — not just a test set.
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260605-5D14` If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.

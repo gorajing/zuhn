@@ -65,6 +65,7 @@ related:
   - INS-260411-E6BD
   - PRI-260324-2C9F
   - INS-260410-5D08
+  - INS-260605-169D
 ---
 The paper proposes a practical framework where organizations explicitly classify their AI use cases by how much epistemic error they can tolerate. Creative ideation tasks (brainstorming, content generation, speculative analysis) can productively use 'constructive hallucinations' — the model's tendency to confabulate becomes a feature rather than a bug. Decision support tasks (financial analysis, medical triage, legal research) require verified grounding, transparent confidence signals, and explicit uncertainty communication. Autonomous execution tasks (automated trading, clinical decisions, infrastructure management) demand the highest epistemic standards including formal verification and rigorous external validation.
 

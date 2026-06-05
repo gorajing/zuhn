@@ -49,7 +49,6 @@ stance: >-
   strategy because AI is adapting to human usage patterns faster than humans can
   adapt to AI interfaces.
 related:
-  - INS-260321-B8E8
   - INS-260323-DA4A
   - PRI-260320-6847
   - INS-260403-F932
@@ -59,6 +58,7 @@ related:
   - INS-260403-751D
   - INS-260410-3A08
   - INS-260409-FA5E
+  - INS-260514-AC1D
 evidence:
   - id: INS-260325-58F5
     type: SUPPORTS

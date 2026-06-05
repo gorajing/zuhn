@@ -52,6 +52,7 @@ related:
   - INS-260409-C158
   - INS-260410-C022
   - INS-260605-4A2D
+  - INS-260605-13F9
 ---
 Contextual Retrieval would normally be absurd — you'd be re-sending the entire parent document with every chunk you annotate. Prompt caching collapses that cost: load the document once, then reference it across hundreds of chunk calls. Anthropic reports $1.02 per million document tokens for the full annotation pass under typical assumptions.
 

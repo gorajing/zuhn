@@ -12,6 +12,7 @@
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260410-9FE6` Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.

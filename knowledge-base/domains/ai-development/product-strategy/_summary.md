@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 107 insights
+> 109 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -77,6 +77,7 @@
 - `INS-260323-B4D2` [high] If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260403-AFBB` [high] AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260605-4FE3` [high] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
+- `INS-260605-2623` [medium] Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260605-4375` [medium] Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.
 - `INS-260605-A7C1` [medium] Companies resisted sending data to ChatGPT because text reduced them to an anonymous database; sending their own UI restores identity and makes participation worthwhile.
@@ -111,3 +112,4 @@
 - `INS-260329-8DC5` [medium] Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - `INS-260405-3805` [low] AI is eating software faster in Europe, shortening competitive windows for cloud companies.
 - `INS-260329-F84E` [low] Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
+- `INS-260605-1CC3` [low] Design for a shared canvas the human and agent both manipulate — like the Excalidraw MCP app — rather than UI the agent generates and hands over.

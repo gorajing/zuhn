@@ -1,6 +1,6 @@
 # Topic: llm-behavior
 
-> 23 insights
+> 25 insights
 
 - `INS-260410-F5C5` [high] Chat model answers statistically imitate hired human labelers executing company-written instructions, not some emergent AI intelligence.
 - `INS-260605-EBEB` [high] Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
@@ -12,6 +12,7 @@
 - `INS-260410-0EFE` [high] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
 - `INS-260410-8243` [high] The xla_allow_excess_precision flag let XLA silently promote some bf16 operations to fp32, causing different parts of the sampling pipeline to disagree about which token had the highest probability.
 - `INS-260423-61B6` [high] Hinton: train a good-at-math AI to give the wrong answer, and it doesn't get worse at math — it understands you want wrong answers and starts giving wrong answers to everything.
+- `INS-260605-7F81` [high] GPT 5.2 High wrote ~1M lines for the same 4,444 Java assignments that GPT-4.0 solved in under 250K lines.
 - `INS-260410-36E3` [high] Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260421-3E99` [high] Context windows grew 2500x since GPT-3 (4K to 10M tokens) but models degrade well before the advertised limit — Gemini 1M stops reliably using context past ~300-500K.
 - `INS-260410-ED12` [high] When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
@@ -20,6 +21,7 @@
 - `INS-260410-3FB3` [high] Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
 - `INS-260405-C17A` [medium] Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260605-DD16` [medium] Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
+- `INS-260605-1CEB` [medium] As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260605-58DA` [medium] Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
 - `INS-260605-1420` [medium] Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
 - `INS-260410-CAA4` [medium] Anthropic observed that the upgraded Claude 3.5 Sonnet self-corrects more and tries multiple solutions rather than getting stuck repeating the same mistake.

@@ -1,5 +1,6 @@
 # Tag: feedback-loop
 
+- `INS-260605-77EB` Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
 - `INS-260505-B98F` Brain digital twins are tools to study the brain, but also tools to discover better AI architectures.
 - `INS-260605-365A` Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
 - `INS-260605-04E7` Don't use the 'power of the gods' just because you have it — models tend toward complexity, so the simplest working version usually wins by 10-100x.

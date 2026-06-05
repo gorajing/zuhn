@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 37 insights
+> 38 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -8,6 +8,7 @@
 - `INS-260501-3C20` [high] Batch size compounds — unbatched inference is ~1000x worse economics than batched, which is why Fast Mode costs 6x for 2.5x speed and Slow Mode could exist at lower price.
 - `INS-260514-9145` [high] Clay credits: $0.075/company enriched. Apify + own API keys: $0.004/company. Same workflow, 20x cheaper.
 - `INS-260320-901C` [high] Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
+- `INS-260605-13F9` [high] Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 - `INS-260403-B53B` [high] DeepSeek's R1 model matches leading AI performance at dramatically lower cost, pressuring proprietary providers to rethink their pricing and approach.
 - `INS-260320-92CC` [high] Filter aggressively before hitting expensive models — filtering by upvotes/comments removes 80% of inputs, saving ~$5/week.
 - `INS-260605-B9A9` [high] A 26K-battle image evaluation took 20 days of compute / $5K / 556 kWh on a slow model versus 7 hours / $265 on a fast one with comparable quality.

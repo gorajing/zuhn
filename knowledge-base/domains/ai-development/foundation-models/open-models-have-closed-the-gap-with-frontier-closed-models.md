@@ -52,11 +52,11 @@ stance: >-
   Open-weight models have effectively caught up to closed frontier models on
   capability benchmarks.
 related:
-  - INS-260327-5D5F
   - INS-260413-25EC
   - INS-260605-77E5
+  - INS-260327-5D5F
+  - INS-260605-0C13
   - INS-260322-5790
-  - INS-260413-09C4
 ---
 The speaker directly rebuts the few-years-old claim that open-source models trail closed ones, citing the Artificial Intelligence Index where open (green) and closed (black) model lines have converged, and noting GLM 5.1 is at the top of the open-model SWE-Bench ranking—she runs it in her own coding setup. Hugging Face's new benchmark-datasets feature lets you filter models by popular benchmarks (SWE-Bench Pro, Humanity's Last Exam, AIME) to pick a capable open model.
 

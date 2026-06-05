@@ -63,6 +63,7 @@ related:
   - INS-260505-BD9E
   - INS-260404-E544
   - INS-260410-F31C
+  - INS-260605-72B5
 ---
 xAI's MACROHARDRR facility in Mississippi is being built adjacent to a recently acquired power plant, giving the company direct control over nearly 2 gigawatts of compute power. This is not a marginal capacity expansion—it represents a deliberate vertical integration into energy infrastructure that mirrors hyperscaler strategies from a decade ago when Amazon and Google began building their own data centers.
 

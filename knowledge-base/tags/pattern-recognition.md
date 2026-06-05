@@ -25,13 +25,13 @@
 - `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
+- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-DECB` The prime number spirals arise from rational approximations of 2pi in the coordinate system, not from any property of primes themselves.
-- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
-- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260403-9DB6` Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260412-C71D` Bukele's path from emergency legislative session to marching soldiers into congress to dismissing Supreme Court judges to reinterpreting term limits followed a step-by-step escalation where each move had plausible justification.
 - `INS-260403-7EB2` Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
@@ -53,11 +53,11 @@
 - `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260403-5D99` Repeat founders act on informed instinct and validate later, because they know the cost of analysis paralysis exceeds the cost of being wrong.
-- `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
-- `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - `INS-260403-B2A8` Travis's career pattern — taxis, food delivery, physical AI — shows that categories dismissed as boring, weird, and hard consistently produce outsized returns because all three filters must be present simultaneously.
 - `INS-260404-323D` Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
 - `INS-260403-DDFD` Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
+- `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
+- `INS-260403-25A8` Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - `INS-260404-A42E` In a power-law world, the cost of dismissing a winner dwarfs the cost of entertaining a loser—so default to imagining how ideas could work.
 - `INS-260404-6D51` Productive idea evaluation means switching from listing reasons something will fail to actively imagining ways it could succeed.
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.

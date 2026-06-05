@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260402-8A7A
   - INS-260323-DB7B
+  - INS-260605-E831
   - INS-260605-D3EB
   - INS-260410-199B
-  - PRI-260403-50EF
 ---
 Anthropic's December 2024 'dropped top token' bug traced to a precision mismatch: models computed next-token probabilities in bf16, but XLA's default xla_allow_excess_precision=true let the fp32-native vector processor run some operations at fp32. When one code path computed the argmax in bf16 and another in fp32, they occasionally disagreed on which token was highest — so the top token sometimes disappeared from consideration entirely.
 

@@ -63,6 +63,7 @@ related:
   - INS-260403-9774
   - INS-260405-11EA
   - INS-260605-8F5E
+  - INS-260605-68F4
 ---
 Humeau notes that after decades of approaches (word stitching, per-sample generation, whole-audio-at-once), labs have converged on a common pattern borrowed directly from LLMs: an autoregressive decoder backbone that generates audio one piece at a time. The motivating heuristic is that 'humanity is extremely good at modeling sequences of tokens,' so the winning move is to transform any generative problem into a sequence-modeling problem the transformer stack already excels at.
 

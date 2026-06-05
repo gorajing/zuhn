@@ -27,5 +27,5 @@
 - `INS-260322-F868` Truemed built infrastructure that lets people use existing tax-free HSA/FSA dollars on lifestyle interventions, redirecting billions toward prevention without requiring new legislation or payer buy-in.
 - `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.
-- `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
+- `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).

@@ -1,5 +1,6 @@
 # Tag: agent-design
 
+- `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260329-EAFD` Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
 - `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.

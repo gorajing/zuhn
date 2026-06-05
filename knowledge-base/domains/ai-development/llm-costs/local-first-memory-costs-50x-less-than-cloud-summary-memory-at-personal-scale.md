@@ -50,5 +50,6 @@ related:
   - INS-260410-3F1A
   - INS-260330-F9CA
   - INS-260501-74AD
+  - INS-260605-13F9
 ---
 MemPalace published the cost table explicitly. Six months of daily AI use = 19.5 million tokens of conversation history. Paste-everything into context: impossible (exceeds every model's window). LLM-summarize-everything approach: ~650K loaded tokens per day = ~$507/year. MemPalace wake-up at ~170 tokens plus 5 targeted searches at ~13,500 tokens = ~$10/year. That is a 50x cost asymmetry for equivalent functional memory. The asymmetry exists because summarization is write-time work (expensive per session) while structured retrieval is read-time work (cheap per query, only fires when needed). Any personal AI memory architecture that charges subscription prices is competing with a local-first alternative that is 50x cheaper and has no data-exit risk.

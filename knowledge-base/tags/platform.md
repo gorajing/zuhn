@@ -9,5 +9,5 @@
 - `INS-260410-E5EA` Morris Chang bet TSMC on fabless startups that didn't exist yet because he'd watched chip designers inside TI be trapped by the capex wall of owning a fab.
 - `INS-260405-8107` Bundled technology ecosystems like Java/Oracle convert upfront savings into permanent switching costs that organizations discuss escaping but rarely do.
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
-- `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
+- `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.

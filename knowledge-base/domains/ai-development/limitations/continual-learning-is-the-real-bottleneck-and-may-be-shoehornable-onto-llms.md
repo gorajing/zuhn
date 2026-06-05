@@ -60,6 +60,7 @@ related:
   - PRI-260407-ED1C
   - INS-260329-B2F4
   - INS-260330-0102
+  - INS-260605-2623
 ---
 Both Sutton and Patel agree: LLMs cannot learn on the job, and genuine AGI requires continuous high-throughput learning from environment interaction. Where they diverge is whether this requires abandoning the LLM paradigm for a new architecture or whether it can be bolted on.
 

@@ -1,5 +1,6 @@
 # Tag: root-cause
 
+- `INS-260605-3088` Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260409-9215` Suppressing DHT alone is insufficient because follicle damage persists as hypoxia, scar tissue, and broken mitochondria that must be independently repaired.
 - `INS-260409-E490` Insulin resistance increases 5-alpha reductase activity and free testosterone availability, making metabolic repair a prerequisite for durable hair regrowth.
 - `INS-260330-09B5` Death is always caused by the body's inability to maintain stable internal conditions, not by the injury or disease label itself.

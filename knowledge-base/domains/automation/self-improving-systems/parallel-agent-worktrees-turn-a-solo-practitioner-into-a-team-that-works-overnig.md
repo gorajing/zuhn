@@ -42,6 +42,7 @@ related:
   - INS-260325-8D66
   - INS-260327-2627
   - INS-260423-00AC
+  - INS-260605-46A8
   - INS-260330-A1D2
 ---
 Sung reports running about six agent worktrees in parallel so work continues while he sleeps, describing it as genuinely enjoyable and a large multiplier on a solo practitioner's output. Concrete firsthand support for the parallel/asynchronous-agent pattern (and the broader 'self-improving company while you sleep' idea): leverage now comes from orchestrating concurrent agents, not from doing one task faster.

@@ -2,6 +2,7 @@
 
 - `INS-260322-3159` Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
 - `INS-260605-B13C` Run distinct evaluators at intent resolution, tool selection, and final response so you can pinpoint exactly where quality breaks down.
+- `INS-260605-46A8` For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260322-B6DE` Every AI employee should map to one of seven business operations stages: outreach, discovery, proposal, sales, onboarding, retention, and competitive intelligence.
 - `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.

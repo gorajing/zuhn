@@ -49,8 +49,8 @@ related:
   - INS-260410-4067
   - INS-260410-DABE
   - INS-260605-3AFB
+  - INS-260605-3A60
   - INS-260605-BDFF
   - INS-260330-2F22
-  - INS-260329-D2CA
 ---
 Traditional unit-testing practice tied test-writing to implementation events — adding a new method to a class triggered a new unit test, which is why suites end up coupled to internal structure. The behavior-first reframing makes the trigger a feature request: an incoming feature is what prompts writing a failing test that captures the desired end-to-end behavior. This keeps tests anchored to stable, user-visible contracts that survive internal refactors, and it maps cleanly onto agentic workflows where a feature request (e.g. pulled from an email via a skill like Microsoft Work IQ) becomes the unit of work an agent plans, tests, and implements against.

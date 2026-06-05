@@ -18,8 +18,8 @@
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
 - `INS-260412-4DC7` Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
 - `INS-260514-4E9A` Find things mentally challenging but not too difficult. Train the brain, don't strain it.
-- `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260410-734F` In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
+- `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260329-5C65` Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.

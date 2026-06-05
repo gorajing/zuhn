@@ -2,6 +2,7 @@
 
 - `INS-260322-B09B` Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260322-0812` The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
+- `INS-260605-3047` Because Nano Banana is built on Gemini, it can grade math homework or render a landmark from a sketched arrow on a map.
 - `INS-260403-58DA` Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
 - `INS-260514-657E` GPT Image 2.0 plans layout via reasoning BEFORE generating — stabilizing complex multi-panel outputs (brand kits, slide decks, app flows) that previously required iterative single-image generation.
 - `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.

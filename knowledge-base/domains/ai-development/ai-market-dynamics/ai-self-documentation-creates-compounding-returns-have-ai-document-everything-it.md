@@ -44,10 +44,10 @@ resolutions:
     the conversation ends.
 related:
   - PRI-260328-5D9E
+  - INS-260605-3047
   - INS-260412-AEE1
   - INS-260403-E099
   - INS-260329-21C0
-  - INS-260514-7B06
 stance: >-
   The hidden multiplier in AI building: have AI document everything it does so
   every project creates a reusable blueprint for the next one.

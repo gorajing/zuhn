@@ -56,6 +56,7 @@ related:
   - INS-260605-0D57
   - PRI-260328-5F64
   - INS-260321-B014
+  - INS-260605-7F81
 stance: >-
   Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking
   transformer layers could achieve, which means he can't predict what GP...

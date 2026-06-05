@@ -47,10 +47,10 @@ stance: >-
   external checklist they cannot rewrite away.
 related:
   - INS-260410-53C2
+  - INS-260605-77EB
   - INS-260514-6DF3
   - INS-260320-1B10
   - INS-260329-44C9
-  - INS-260603-73D5
 ---
 A consistent failure mode: a later agent looks at the partially-built project, sees progress, and decides the job is done. The fix is an externalized definition-of-done that the agent cannot drift away from. Anthropic's claude.ai clone had over 200 features in this list, each with category, description, and test steps, all initialized as 'passes: false.'
 

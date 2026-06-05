@@ -17,8 +17,8 @@
 - `INS-260424-ABB2` Google Cloud lead: at 100,000 chips, several times a day at least one will fail — if a human is needed for diagnosis, that's a 30-minute minimum, and you have zero throughput until you start again.
 - `INS-260410-ED34` When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - `INS-260605-7CEB` Viktor's 2023 browser agent was state-of-the-art on Web Arena yet unusable as a product because ~60% per-step reliability compounded over 3-5 steps into frequent failure.
-- `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260605-8F42` The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
+- `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260605-D912` Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
 - `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.

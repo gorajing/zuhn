@@ -6,5 +6,5 @@
 - `INS-260412-B854` We fail to let accumulated negative evidence (1,000+ nuclear tests with no catastrophe) properly update our catastrophic priors.
 - `INS-260412-F3B0` If simulated beings outnumber biological ones a billion to one, the rational default is that you're simulated — uncomfortable conclusions don't exempt themselves from base rate logic.
 - `INS-260325-1C7F` Research estimates that caregivers let down about 50% of children, creating attachment wounds that govern adult relationship behavior -- an important base rate for anyone entering the dating world.
-- `INS-260411-40CA` Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.
 - `INS-260409-882E` Shutdown is a top-three outcome and founders plan as if acquisition is common because they never read about the failed attempts.
+- `INS-260411-40CA` Empirical data on U.S. establishments from 1978-2022 shows roughly 60% of new entrants exit within 5 years and 80% within 10, yet challengers remain overconfident and drawn to ambiguous payoffs.

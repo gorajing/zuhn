@@ -50,7 +50,6 @@ stance: >-
   behavioral approaches.
 related:
   - INS-260322-E90F
-  - INS-260327-1631
   - INS-260327-4279
   - INS-260327-CB82
   - INS-260327-DF8B
@@ -59,6 +58,7 @@ related:
   - INS-260330-95A5
   - INS-260330-6C6B
   - INS-260330-4079
+  - INS-260403-7342
 evidence:
   - id: INS-260327-1631
     type: TRANSFERS_TO

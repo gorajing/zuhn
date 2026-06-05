@@ -59,8 +59,8 @@ related:
   - PRI-260405-2A95
   - PRI-260403-9E80
   - INS-260329-9BEF
+  - INS-260605-77EB
   - INS-260330-3B0B
-  - PRI-260405-3080
   - INS-260329-1610
 ---
 When Malan transitions from dictionaries to classes for the Student example, he demonstrates a fundamental software engineering principle: dictionaries accept any key-value pair silently, while classes with __init__ validation can reject invalid data at creation time. The raise ValueError for invalid house names or missing student names means bugs are caught at the point of creation rather than surfacing later as mysterious behavior. Properties with getters but no setters provide another layer — they make certain mutations structurally impossible rather than merely discouraged.

@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 99 insights
+> 101 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -68,6 +68,7 @@
 - `INS-260403-CE95` [medium] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
 - `INS-260403-AEF7` [medium] AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260501-5DF6` [medium] Constantine Buhler: in the mid 1800s aluminum was the most precious metal — within decades of electrolysis, aluminum was used to wrap our candies and our sandwiches. Aluminum is intelligence. Electrolysis is AI.
+- `INS-260605-E145` [medium] Managing many agent sessions has high cognitive load, so breaks are essential — and that's exactly when your best ideas for the agents appear, which is why you need to reach them from anywhere.
 - `INS-260325-0E70` [medium] Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260404-E077` [medium] Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
 - `INS-260323-9385` [medium] If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
@@ -98,6 +99,7 @@
 - `INS-260423-187E` [medium] Seth Godin: a brand's AI that has seen all my tools is a whole new level of permission — the more I teach it, the more their brand is worth to me.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.
+- `INS-260605-63AE` [medium] Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
 - `INS-260605-9688` [medium] Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
 - `INS-260605-4CED` [medium] Claude orchestrated the entire reverse-engineering effort while the human merely rebooted the phone and reported how many beeps he heard, acting as the agent's hands and ears.
 - `INS-260505-8322` [low] Sanskrit-named frontier AI models in 2026 thread cultural continuity from millennia-old farming civilizations to silicon-based intelligence.

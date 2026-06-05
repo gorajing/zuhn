@@ -1,6 +1,6 @@
 # Topic: embeddings
 
-> 21 insights
+> 22 insights
 
 - `INS-260330-4B84` [high] Every vector maps to exactly one coordinate tuple and vice versa — this bijection is what makes embedding spaces work.
 - `INS-260409-3602` [high] Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.
@@ -23,3 +23,4 @@
 - `INS-260605-5013` [medium] Embeddings front-load the cost of understanding a codebase once, replacing the repeated grep-read-grep compute that every agent session otherwise pays.
 - `INS-260409-3230` [medium] Jerry Liu: fine-tuning embedding models 'you're going to have to reindex all your documents. For a lot of people, that's not feasible' — and the performance gains are typically modest (~5-10%), not large enough to justify the full-corpus reindex that fine-tuning requires.
 - `INS-260605-FB77` [medium] Repos with strong function-level comments showed a big retrieval boost because embedding the bytes is easy — extracting the chunk's true meaning is the bottleneck, and comments hand it over.
+- `INS-260605-0C13` [medium] On benchmarks like MTEB, open-source models tuned for narrow tasks beat managed services, and low-parameter models (e.g. Gemma) post ELO scores above much larger models — so choosing open source is no longer a tradeoff against quality.

@@ -13,6 +13,7 @@
 - `INS-260403-EA93` Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
 - `INS-260605-B66C` For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
 - `INS-260605-A2B7` When access is enforced at the network rather than by a key, saying 'no' is a hard stop — there is no 'this key stopped working, let me try another endpoint' helpful-agent workaround.
+- `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260605-3872` When you catch an agent doing something dumb (casting with 'as', using 'any'/'unknown', skipping validation), encode a lint rule banning that exact pattern so the type/lint error forces the model to correct itself.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260605-D0A0` Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win.

@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 72 insights
+> 77 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
@@ -23,6 +23,7 @@
 - `INS-260605-90FB` [high] Human turn-taking needs the full STT→LLM→TTS loop under ~200ms, but a fast TTS alone is already >200ms, so cascaded systems can't sound human.
 - `INS-260405-DAC9` [high] C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
 - `INS-260402-0DC9` [high] Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
+- `INS-260605-1C30` [high] If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
 - `INS-260403-72C2` [high] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 - `INS-260405-2688` [high] C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
 - `INS-260605-988D` [high] Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
@@ -62,14 +63,18 @@
 - `INS-260421-7ADE` [medium] Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
 - `INS-260605-8489` [medium] Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
 - `INS-260423-81B6` [medium] Google Cloud: the load balancer has a service extension that runs Model Armor on every request before it hits the backend, so even if the application forgets to validate, the filter still runs.
+- `INS-260605-7B06` [medium] Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
 - `INS-260605-E303` [medium] Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.
 - `INS-260330-30FB` [medium] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260403-EA93` [medium] Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
 - `INS-260404-1A3A` [medium] The electron transport chain extracts useful work (ATP, NADPH) by progressively lowering electron energy across four protein complexes rather than trying to capture all energy in one step.
 - `INS-260403-9774` [medium] Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
+- `INS-260605-68F4` [medium] One audio-to-audio architecture replaces the STT→LLM→TTS cascade, enabling more natural live voice interaction.
 - `INS-260605-E1E2` [medium] Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
 - `INS-260501-DF06` [medium] RevNets are Feistel ciphers; adversarial attacks are differential cryptanalysis — neural nets and crypto have been borrowing from each other.
+- `INS-260605-BECA` [medium] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - `INS-260605-D0C0` [medium] Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
+- `INS-260605-E174` [medium] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - `INS-260404-E91F` [medium] Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260605-E023` [medium] MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260605-B176` [medium] The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.

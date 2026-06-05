@@ -53,13 +53,12 @@ stance: >-
   transfer to non-coding domains like customer service and content
   understanding.
 related:
-  - INS-260325-031F
   - INS-260320-A745
   - INS-260329-04FA
+  - INS-260325-031F
   - INS-260404-8EFB
   - INS-260404-D6F7
   - INS-260501-FD20
-  - INS-260329-03B5
   - INS-260505-2FFB
 evidence:
   - id: INS-260329-03B5

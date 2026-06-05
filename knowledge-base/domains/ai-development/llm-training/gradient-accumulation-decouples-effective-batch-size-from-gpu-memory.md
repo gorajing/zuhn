@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260320-9FD5
   - INS-260410-AA93
+  - INS-260605-E831
   - INS-260605-C859
   - INS-260410-699C
-  - INS-260605-C28F
 ---
 The GPT-3 paper specifies a 0.5M-token batch size, tied tightly to its learning rate, weight decay, and Adam betas through the optimization literature. You can't cleanly change the batch size without retuning everything else, so faithful reproduction demands matching it — but the batch won't fit in a single forward pass on most GPUs.
 

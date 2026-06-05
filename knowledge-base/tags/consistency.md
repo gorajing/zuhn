@@ -4,8 +4,8 @@
 - `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
 - `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
-- `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
+- `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.

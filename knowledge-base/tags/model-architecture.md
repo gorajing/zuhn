@@ -7,5 +7,7 @@
 - `INS-260403-EA93` Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
 - `INS-260403-B16E` DeepSeek's MoE architecture activates only relevant neurons per task, slashing compute costs while maintaining competitive performance.
+- `INS-260605-82C6` The single 'any-to-any' model is a vision; in practice a reasoning model routes to separate image and speech generators.
 - `INS-260505-584B` Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in.
+- `INS-260605-FC5B` BERT, modern BERT, Qwen, and ColBERT differ in flash-attention implementation, positional embeddings (absolute lookup vs. rotary), normalization, and whether QKV can be fused, so a single engine can't serve them all without per-architecture forward-pass adaptation.
 - `INS-260327-33FA` On the HumanEval coding benchmark, GPT-3.5 with an agentic workflow outperformed GPT-4 zero-shot, demonstrating that iteration beats raw model capability.

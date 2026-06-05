@@ -53,7 +53,7 @@ stance: >-
   its methods, apply its techniques to new data, and collaborate with other
   paper agents to make new discoveries.
 related:
-  - INS-260423-74BF
+  - INS-260605-1CC3
   - INS-260403-4120
   - INS-260405-A992
   - INS-260501-4C5E

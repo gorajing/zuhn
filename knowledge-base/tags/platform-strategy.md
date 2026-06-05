@@ -2,6 +2,7 @@
 
 - `INS-260605-82BD` Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 - `INS-260524-E2C4` Z Venture Capital CEO (ex-Naver/LINE CFO): Naver could chase frontier parity to ~1 trillion won, but at 10-100 trillion it's pointless — keep the service, use others' LLMs, and the foreign models now speak Korean fine anyway.
+- `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
 - `INS-260410-A98D` Every NVIDIA accelerator — all 250-300 million installed CUDA GPUs across 30 years — is architecturally compatible, and Huang treats this as the only unnegotiable rule in the entire company.
 - `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
 - `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
@@ -63,5 +64,5 @@
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260410-277B` Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
 - `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
-- `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
+- `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.

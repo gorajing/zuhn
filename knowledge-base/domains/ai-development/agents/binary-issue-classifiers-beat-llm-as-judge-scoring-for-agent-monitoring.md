@@ -54,7 +54,6 @@ stance: >-
   scoring agent outputs with LLM-as-judge rating prompts.
 related:
   - INS-260322-D6D7
-  - INS-260501-AE73
   - PRI-260405-D586
   - INS-260524-9100
   - INS-260403-5683

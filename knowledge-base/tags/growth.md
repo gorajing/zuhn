@@ -35,8 +35,6 @@
 - `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
 - `INS-260323-D6F2` Rella never runs ads on content created specifically for ads — they only boost posts that already performed well organically, using the algorithm as a free testing ground.
 - `INS-260323-E1BE` Find people on social media who publicly complain about the product you're replacing, build genuine trust, then offer your alternative — this direct approach converts better than any ad campaign.
-- `INS-260404-F0E9` Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
-- `INS-260403-EB97` Revenue growth deceleration simultaneously exposes capitalized commissions, deferred expenses, and inflated efficiency metrics that were hidden during high-growth periods.
 - `INS-260403-2174` Modern PLG upgrades should trigger on behavioral milestones—automations completed, integrations added—not arbitrary limits like storage caps.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
@@ -46,12 +44,18 @@
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
 - `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
+- `INS-260404-F0E9` Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
+- `INS-260403-EB97` Revenue growth deceleration simultaneously exposes capitalized commissions, deferred expenses, and inflated efficiency metrics that were hidden during high-growth periods.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
 - `INS-260403-1A08` Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
 - `INS-260404-8A67` Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
 - `INS-260412-EE18` Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.
 - `INS-260405-4B5D` The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
+- `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
+- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
+- `INS-260330-D1C8` Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
 - `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
@@ -59,7 +63,3 @@
 - `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
-- `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
-- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
-- `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
-- `INS-260330-D1C8` Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.

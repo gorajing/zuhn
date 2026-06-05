@@ -52,10 +52,10 @@ stance: >-
   machine-tested before acceptance.
 related:
   - INS-260411-F590
+  - INS-260605-3A60
   - INS-260410-E977
   - PRI-260328-F723
   - INS-260605-27CC
-  - INS-260405-F26B
 ---
 Snorkel defines task quality in agentic (terminal-bench-style) settings as four concrete properties. The task must be achievable (a competent model can actually solve it), non-trivial (it isn't so easy that completion carries no signal), functionally correct (the task logic plays out as specified), and reliable (the containerized environment behaves deterministically across rollouts). They build research harnesses that test all four; a task passing every test is 'accepted,' otherwise 'rejected.'
 

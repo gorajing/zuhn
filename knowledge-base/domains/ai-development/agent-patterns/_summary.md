@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 256 insights
+> 261 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -178,6 +178,7 @@
 - `INS-260327-76B2` [medium] Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
 - `INS-260501-577A` [medium] Agents converge on humanoid roles for the same reason humanoid robots converge — the infrastructure was built for humans.
 - `INS-260605-27CC` [medium] Loop agents on mechanical, verifiable tasks (find shallow bugs, superficial refactors); escalate anything requiring fundamental design judgment to a human.
+- `INS-260605-0628` [medium] Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260405-6C88` [medium] Agent memory splits into short-term (conversation state), long-term (extracted durable knowledge), and reasoning (tool/decision traces for explainability).
 - `INS-260404-34DB` [medium] CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260402-2342` [medium] An agent given filesystem and MCP access spontaneously wrote its own memory skill and started using a graph database without explicit programming.
@@ -191,9 +192,11 @@
 - `INS-260605-5C58` [medium] 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
 - `INS-260605-7843` [medium] Have experts grade agent traces AND write why; then run an LLM over the justifications to mine failure modes and generate scalable automated scorers.
 - `INS-260605-6444` [medium] Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
+- `INS-260605-05F4` [medium] Let a reasoning model loop and decide which specialized generators to call rather than hardcoding the asset pipeline.
 - `INS-260605-9719` [medium] User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260501-B7BC` [medium] We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260605-A705` [medium] Always commit before an agent starts changing code, because it may not remember what the code looked like before.
+- `INS-260605-77EB` [medium] Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
 - `INS-260605-C513` [medium] You can define 80% of agent behavior statically and intentfully, but the ever-changing 20% is where the disasters live — so point your adaptive evals there.
 - `INS-260605-55A6` [medium] Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
 - `INS-260514-DFAE` [medium] Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors.
@@ -256,6 +259,8 @@
 - `INS-260603-23B1` [medium] Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
+- `INS-260605-295D` [medium] Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
+- `INS-260605-B136` [medium] Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
 - `INS-260605-5D66` [low] If 2025 was the year of agents and 2026 the year of harnesses, 2027 may bring agents that self-generate harnesses on the fly before doing work.
 - `INS-260605-8409` [low] Treat an agent as a publicly-routable HTTP service over a tolerant event stream, so Slack webhooks, web-form submissions, and third-party plugins all become events instead of requiring a bespoke connector concept.
 - `INS-260603-DFA6` [low] Joe (RocketRide): the progression is prompt engineering (instructions to the model) → context engineering (the contextual data you give it) → 'harness engineering' (the ecosystem around the agent that makes it observable, cost-optimized, performant, and manageable at scale).

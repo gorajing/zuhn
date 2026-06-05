@@ -1,5 +1,6 @@
 # Tag: interaction-design
 
+- `INS-260605-303C` Agents look less autonomous than they are because you can only reach them in their native environment, not because the models are weak.
 - `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260605-AA2B` Reeve argues screens tacked onto exhibits feel like 'sticking technology on', so he is commissioning a statue with the mic, speaker, and phone built inside it.

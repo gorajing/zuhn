@@ -57,11 +57,11 @@
 - `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
+- `INS-260403-F327` Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260403-1EE4` Shrinking exit multiples pressure the entire venture ecosystem to recalibrate entry valuations, ownership targets, and growth expectations.
 - `INS-260404-64EC` Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
 - `INS-260403-3BBB` Carta data shows longer gaps between rounds, record seed valuations, and smaller teams — investors are permanently rewarding efficiency over burn.
-- `INS-260403-F327` Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260403-5C83` A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.

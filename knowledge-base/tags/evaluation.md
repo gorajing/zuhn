@@ -18,11 +18,12 @@
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-E516` Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
 - `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
+- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
+- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
+- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
 - `INS-260403-F943` The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
-- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
-- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
 - `INS-260605-DDAB` Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260410-2D5D` Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
@@ -34,6 +35,7 @@
 - `INS-260605-EA4B` Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
 - `INS-260403-8302` Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
 - `INS-260410-EA51` Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
+- `INS-260605-402B` An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces.
 - `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -43,12 +45,15 @@
 - `INS-260413-B79B` AI benchmark saturation has compressed from years to months, making sustained measurement infrastructure the binding constraint on progress tracking.
 - `INS-260605-6066` A competing lab beat a published benchmark mainly by enabling its own API's compaction feature — same task, different config, much better-looking number.
 - `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
+- `INS-260605-9CE2` Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - `INS-260605-E54A` Accepted tasks produced 'cleaner failures' — logic errors and incomplete-task failures from true difficulty — which give models useful hill-climbing signal, unlike degenerate environmental failures that no model could solve.
 - `INS-260605-77E5` Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - `INS-260505-CDAE` FrontierMath is held by an AI lab, DeepMind's MathConjectures benchmark has wide difficulty spread, NYT-style 30-mathematician evaluations don't scale.
 - `INS-260410-BFCF` Zuckerberg admits Meta tuned a Llama 4 Maverick variant that sat near the top of Chatbot Arena, but shipped the un-tuned version because arena-optimization 'led us astray' on actual product quality.
 - `INS-260409-C016` AI research output gets judged on interim expert assessments because peer review is too slow — treat these as preliminary, not final.
 - `INS-260605-3ABF` Because someone must always win and lose, PvP Elo benchmarks never saturate the way fixed-answer benchmarks do — the ceiling is relative, not absolute.
+- `INS-260605-4A94` Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
+- `INS-260605-1066` Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.
 - `INS-260605-FCDA` Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
 - `INS-260505-D35A` AI for science demands precision (13 decimal places in physics) that consumer AI can ignore, forcing better fundamental research.
 - `INS-260409-5E40` Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.

@@ -26,10 +26,10 @@
 - `INS-260409-B9A1` If you don't believe in your own ending, no one else can be recruited to help you get there.
 - `INS-260325-B4CB` Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.
 - `INS-260403-02CE` Page's silence let the media credit Schmidt for Google's success, demonstrating that work does not speak for itself at scale.
+- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260402-9DBC` Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260330-F527` Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
-- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.

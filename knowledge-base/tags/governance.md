@@ -58,11 +58,11 @@
 - `INS-260403-6546` OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
 - `INS-260412-98B1` Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260323-960A` The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260327-176D` Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
 - `INS-260403-B1D6` Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
-- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260410-575B` After Yahoo's 2006 $1B offer where Meta's board tried to fire Zuckerberg for refusing it, he restructured the company so a future him couldn't be overruled on the same kind of long-horizon bet.
 - `INS-260410-DA77` Rolex's single-foundation ownership (Hans Wilsdorf Foundation) was arguably the key structural factor that let it survive the quartz crisis and grow dominant — it could absorb 2-3 bad years without firing a CEO, let competitors panic first, and make 20-year bets when public Swiss peers were forced into short-term rollups.
 - `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
@@ -91,8 +91,6 @@
 - `INS-260403-BA4B` Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.
 - `INS-260323-4AB5` Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
-- `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
-- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260405-B01A` Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
 - `INS-260412-D033` Musk keeps SpaceX private specifically to avoid shareholder pressure that would divert resources from the Mars colonization mission toward short-term profitability.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
@@ -100,3 +98,5 @@
 - `INS-260403-47F1` SF's entire turnaround depended on a 6-5 board majority — one seat flip would have blocked every reform the mayor enacted.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them.
+- `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
+- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.

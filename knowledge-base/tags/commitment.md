@@ -3,8 +3,8 @@
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260327-8DAA` The First Crusade succeeded despite enormous losses because crusader commitment was absolute, while Muslim defenders were divided between rival Seljuk and Fatimid factions.
 - `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
-- `INS-260409-FABA` Psychedelics create a founder-risk problem that is best addressed with explicit pre-commitment clauses, not moral evaluation of post-trip decisions.
 - `INS-260403-D7C4` When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
+- `INS-260409-FABA` Psychedelics create a founder-risk problem that is best addressed with explicit pre-commitment clauses, not moral evaluation of post-trip decisions.
 - `INS-260404-ED19` Mandatory membership fees trigger stronger sunk-cost commitment than optional subscriptions because the buyer can't self-select out of the psychological lock-in.
 - `INS-260405-F1FD` Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - `INS-260330-08E1` Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.

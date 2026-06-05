@@ -60,6 +60,7 @@ related:
   - INS-260405-D660
   - INS-260514-9DCE
   - INS-260405-B76E
+  - INS-260605-3088
 ---
 Innovation Uncovered's framing: Copilot is the canonical case of platform-host extraction. Open-source developers uploaded code to GitHub under licenses that permitted public reading. Microsoft acquired GitHub. Then Microsoft trained Copilot on that code and sold the output as a proprietary subscription. The legal argument was 'fair use' since the code is publicly available — but the ethical argument is that platforms aggregating open-source contributions and then using those contributions for closed proprietary products is functionally extractive even if technically permitted.
 

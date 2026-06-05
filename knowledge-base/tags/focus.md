@@ -32,6 +32,7 @@
 - `INS-260410-1D7A` Sol Price's 'intelligent loss of sales' principle: forgo customers who only need 3 oz of WD-40 so you can carry only the 8 oz can — the SKU reduction unlocks logistics, labor, and supplier benefits that dwarf the lost revenue.
 - `INS-260410-9AC4` Buffett and Munger's three piles — yes, no, and too-hard — work because the too-hard pile saves you from evaluating things you will never do well.
 
+- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260327-432E` Start with a niche so small that big companies won't bother, then expand from strength.
 - `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
@@ -41,7 +42,6 @@
 - `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
-- `INS-260405-AEA0` Most competitor moves are about their opportunity, not your company — applying Graham's 'see randomness' heuristic prevents strategic paralysis.
 - `INS-260410-F69C` Steve Ballmer reflected that Microsoft's worst mistakes 'only lost money' — the real cost was the best engineers sunk into projects like Vista instead of competing in search, mobile, and social.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
@@ -71,15 +71,15 @@
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
 - `INS-260519-32D9` Emily Kramer (MKT1): the teams that win do less, better — the things that work for who they uniquely are, letting everything else fall away.
-- `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
-- `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
-- `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260322-F128` The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
 - `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
 - `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
+- `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
+- `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- `INS-260405-1982` Treat fundraising as a sprint with a hard end date to minimize distraction and create investor urgency.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260409-2A8D` Your only job is right product at right time — everything else is avoidance of that job.
@@ -90,8 +90,6 @@
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.'
-- `INS-260329-9A8B` Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
-- `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
 - `INS-260330-217C` Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260410-E338` Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.
 - `INS-260410-DF88` Benchmark's 'we will not scale' is a real strategy because the thing they sell — partnership-wide attention on every portfolio company — literally cannot exist at 5x the size.
@@ -99,3 +97,5 @@
 - `INS-260410-0D0C` 85% of Novo Nordisk's revenue comes from metabolic disease — radical concentration, not diversification, produced Europe's most valuable company.
 - `INS-260403-7DBB` Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.
+- `INS-260329-9A8B` Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
+- `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.

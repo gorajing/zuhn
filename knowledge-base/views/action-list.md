@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5420 actionable insights
+Generated on 2026-06-05 | 5441 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -218,6 +218,10 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-BAB5] MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
 - [INS-260605-014F] A RAG knowledge base helps an agent answer correctly; a context graph storing past decisions and why they were made lets the agent decide and justify.
 - [INS-260605-C028] A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
+- [INS-260605-05F4] Let a reasoning model loop and decide which specialized generators to call rather than hardcoding the asset pipeline.
+- [INS-260605-77EB] Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
+- [INS-260605-295D] Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
+- [INS-260605-B136] Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -252,6 +256,11 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-C2A3] An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 - [INS-260605-80DC] Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
 - [INS-260605-ACB3] Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
+- [INS-260605-AE67] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
+- [INS-260605-46A8] For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
+- [INS-260605-A28F] Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
+- [INS-260605-169D] Treat robustness like a vision model's tolerance to fog or camera shake: specify how many typos or rephrasings the agent can absorb before it breaks.
+- [INS-260605-3A60] Specify agent behavior with ground-truth examples plus rules, ontologies, internal terminology, domain knowledge, rights/roles, and robustness requirements — not just a test set.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -388,6 +397,8 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-DCE5] Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - [INS-260605-E2D9] Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - [INS-260605-86F6] People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
+- [INS-260605-5CF8] An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for.
+- [INS-260605-AFCF] Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
 
 ## ai-development/applications
 - [INS-260501-A748] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
@@ -431,6 +442,9 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-59AE] Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
 - [INS-260605-DC65] Coupling tightly to one provider's API is dangerous; true model sovereignty means you can change models in a day without touching the codebase.
 - [INS-260605-83DA] Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
+- [INS-260605-1C30] If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
+- [INS-260605-BECA] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
+- [INS-260605-E174] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -640,6 +654,7 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-434D] Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
 - [INS-260605-2E60] Mount credentials as secret-refs (Podman/Kubernetes secret pointing to an agent-level secret-ref) so keys never appear as raw env vars in logs or config.
 - [INS-260605-74CC] Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
+- [INS-260605-B95C] Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -683,6 +698,7 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-DA2B] Target ~200–300ms time-to-first-token for the LLM, which constrains model size to roughly 8–30B parameters — bigger burns the latency budget, smaller sacrifices the intelligence and tool calling the agent needs.
 - [INS-260605-9B99] Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely.
 - [INS-260605-B9A9] A 26K-battle image evaluation took 20 days of compute / $5K / 556 kWh on a slow model versus 7 hours / $265 on a fast one with comparable quality.
+- [INS-260605-13F9] Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -865,6 +881,9 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-77E5] Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - [INS-260605-0BD6] Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed.
 - [INS-260605-33B4] CLIP-score rankings of the same models flip across datasets with tiny score differences, while a task-aligned metric (text-rendering) gives stable, well-separated rankings.
+- [INS-260605-9CE2] Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
+- [INS-260605-4A94] Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
+- [INS-260605-1066] Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1020,6 +1039,8 @@ Generated on 2026-06-05 | 5420 actionable insights
 - [INS-260605-EF9D] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.
 - [INS-260605-A8A9] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
 - [INS-260605-BDFF] A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
+- [INS-260605-D129] Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
+- [INS-260605-E706] Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
