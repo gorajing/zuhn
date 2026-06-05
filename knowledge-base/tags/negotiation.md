@@ -1,5 +1,22 @@
 # Tag: negotiation
 
+- `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
+- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
+- `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
+- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
+- `INS-260410-AB78` Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
+- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
+- `INS-260410-647F` Bush Sr. and Kohl deliberately avoided triumphalism around German reunification and the Soviet collapse, which bought Eastern Europe roughly 20 years to integrate with the West before Russian hardliners consolidated and started trying to destabilize them.
+- `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
+- `INS-260410-A992` Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
+- `INS-260410-8C5F` Paine's framing: limited objectives ('you lose a province but stay in power') create settlement space, while unlimited objectives ('you're out of power') eliminate it entirely.
+- `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- `INS-260404-98EE` Narratives dominate negotiations only until one side introduces a formal model—then the conversation shifts irreversibly to quantitative terms.
+- `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
+- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260327-E052` Napoleon assumed Alexander would sue for peace after Moscow fell — but the Russian Tsar had resolve Napoleon couldn't model from his own experience.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260323-4473` In business you solve a problem and move on; in political deal-making, the conclusion of one problem set is the beginning of an entirely new paradigm that must sustain itself.
@@ -52,20 +69,3 @@
 - `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
 - `INS-260403-4F68` Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
-- `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
-- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
-- `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
-- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
-- `INS-260410-AB78` Whether 'compromise' is wisdom or suicide is entirely a function of the other side's real objective — a slice of territory can be traded; regime change and extermination cannot be appeased without empowering the executioner.
-- `INS-260403-6713` Corp dev teams systematically flip the dynamic so founders end up selling themselves rather than being courted.
-- `INS-260410-647F` Bush Sr. and Kohl deliberately avoided triumphalism around German reunification and the Soviet collapse, which bought Eastern Europe roughly 20 years to integrate with the West before Russian hardliners consolidated and started trying to destabilize them.
-- `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
-- `INS-260410-A992` Nazi brutality turned a failing Stalinist state into a unified lethal adversary; Japanese brutality did the same to China; Russian brutality is doing the same in Ukraine — brutality intended to break will instead eliminates the surrender option.
-- `INS-260410-8C5F` Paine's framing: limited objectives ('you lose a province but stay in power') create settlement space, while unlimited objectives ('you're out of power') eliminate it entirely.
-- `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
-- `INS-260404-98EE` Narratives dominate negotiations only until one side introduces a formal model—then the conversation shifts irreversibly to quantitative terms.
-- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
-- `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
-- `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
-- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.

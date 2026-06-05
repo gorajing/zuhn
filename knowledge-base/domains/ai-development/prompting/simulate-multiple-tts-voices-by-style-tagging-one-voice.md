@@ -44,9 +44,9 @@ stance: >-
   each character a per-line speaking style.
 related:
   - INS-260330-24CD
+  - INS-260605-E490
+  - INS-260605-8AEE
   - INS-260404-18F1
   - INS-260605-ACCD
-  - INS-260405-1F6B
-  - INS-260330-2294
 ---
 TTS models cap the number of distinct named voices you can assign, but Vernade demonstrated a workaround: write the dialogue as a play, reuse the same voice for every non-narrator character, and tag each line with a parenthetical style direction (e.g. 'long poetic pauses' vs 'breathless, unbolstered'). Listeners reliably perceive these as different characters even though the underlying voice is identical. The same parenthetical channel controls emotion, whispering, and accents. A second hard-won detail: the prompt must begin with an explicit instruction like 'read this text' — handing the model bare text causes it to not realize it should read it (cost him 15 minutes of debugging). The broader principle is that style and delivery, not just timbre, carry perceived character identity.

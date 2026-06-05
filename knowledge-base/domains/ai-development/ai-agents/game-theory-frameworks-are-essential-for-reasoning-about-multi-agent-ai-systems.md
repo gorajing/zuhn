@@ -52,16 +52,15 @@ stance: >-
   settings, game theory will become the primary analytical framework for
   predicting and designing agent behavior.
 related:
-  - INS-260327-DC4C
   - INS-260327-BBC2
   - INS-260329-075C
   - INS-260404-34DB
   - INS-260405-F26B
   - INS-260403-9E51
   - INS-260327-E18C
+  - INS-260327-DC4C
   - INS-260322-CCAA
   - INS-260412-6898
-  - INS-260514-F58B
 ---
 Zico Kolter's work highlights that as AI agents become autonomous decision-makers operating in environments with other agents, classical game theory becomes essential for predicting emergent behaviors. When multiple agents optimize for their own objectives, Nash equilibria, mechanism design, and strategic reasoning become the relevant analytical tools rather than single-agent optimization.
 

@@ -61,10 +61,11 @@ stance: >-
 related:
   - INS-260327-77C7
   - INS-260330-0998
-  - INS-260330-999F
   - INS-260403-F5EE
+  - INS-260330-999F
   - INS-260329-563F
   - INS-260403-10A0
+  - INS-260605-9B99
 ---
 The framing of Amazon's streaming as 'free' is a consumer-facing fiction that obscures a sophisticated unit economics calculation. Amazon's hypothesis — later validated — was that Prime subscribers who engage with streaming content shop on Amazon.com more frequently and with less price comparison, effectively subsidizing the cost of the streaming content through incremental retail margin.
 

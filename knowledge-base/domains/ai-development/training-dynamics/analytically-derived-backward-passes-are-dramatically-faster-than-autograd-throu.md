@@ -66,7 +66,7 @@ related:
   - INS-260410-9EEF
   - INS-260410-8019
   - PRI-260406-FA5B
-  - INS-260410-B282
+  - INS-260605-C873
 ---
 When Karpathy backpropagates through cross-entropy atomically, he has to chain derivatives through log, gather, softmax normalization, exponentiation, and sum — a long sequence of tensor ops each producing intermediate gradient tensors. But if you write out the cross-entropy loss as a single mathematical expression and differentiate with respect to the logits, nearly everything cancels: the gradient reduces to softmax(logits) − onehot(y), scaled by 1/N.
 

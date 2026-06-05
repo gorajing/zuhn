@@ -54,7 +54,6 @@ related:
   - INS-260605-AA03
   - INS-260403-4788
   - INS-260404-8A8A
-  - INS-260405-6A0C
 evidence:
   - id: INS-260405-6A0C
     type: TRANSFERS_TO

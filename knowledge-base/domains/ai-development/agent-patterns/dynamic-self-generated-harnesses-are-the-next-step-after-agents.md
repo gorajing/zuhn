@@ -48,7 +48,7 @@ related:
   - INS-260403-D56A
   - INS-260405-1A3C
   - PRI-260426-890F
+  - INS-260605-C33F
   - INS-260514-4FDC
-  - INS-260405-5222
 ---
 Kumar closes with a speculative prediction: an agent given a task like 'buy me a flight ticket' would, before doing the work, generate an actual harness for that specific task — recognizing where it might hallucinate, building the appropriate guardrails and verification, doing the job, and returning a guardrailed result. He frames this as plan mode 'on steroids' and a self-aware extension of today's static, hand-built harnesses, calling it the next logical step toward AGI. He explicitly hedges this as crystal-ball speculation ('I don't know if this is just me being a weird guy with ideas'), so it is low-confidence and time-sensitive, but it points at a concrete research direction: moving harness construction from a human engineering task into a runtime capability the agent performs for itself per task.

@@ -53,7 +53,6 @@ stance: >-
   the product on the capability frontier
 related:
   - INS-260323-4B4D
-  - INS-260410-2C51
   - INS-260410-761E
   - INS-260423-85B3
   - INS-260501-FD20

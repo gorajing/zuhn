@@ -57,6 +57,7 @@ related:
   - PRI-260403-EA13
   - INS-260505-4426
   - INS-260602-E2BD
+  - INS-260605-09B1
 ---
 Andreas Tolias on the panel: there's a real danger in trading mechanistic understanding for predictive accuracy. Two failure modes: (1) models that are predictive but not understandable pose safety problems where deployed (medical diagnosis, autonomous systems); (2) they don't generalize outside their training distribution because they haven't learned the underlying physics — only the statistical regularities of training data. Historical analog: Maxwell's equations. Once you understand the physics, your model becomes more powerful AND robust to new conditions. Statistical models without that understanding are fragile.
 

@@ -52,7 +52,7 @@ related:
   - INS-260330-5F21
   - INS-260603-A09F
   - INS-260409-A4F0
-  - INS-260409-94F8
+  - INS-260605-4AB0
   - INS-260403-1B0D
 stance: >-
   The codec avatar system crosses the uncanny valley by preserving human

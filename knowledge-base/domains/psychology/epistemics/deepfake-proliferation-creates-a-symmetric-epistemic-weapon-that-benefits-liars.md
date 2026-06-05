@@ -55,6 +55,6 @@ related:
   - INS-260410-9A24
   - INS-260412-C3AB
   - INS-260326-E0CB
-  - INS-260603-A09F
+  - INS-260605-824F
 ---
 The video identifies what researchers later named the 'liar's dividend': when synthetic media becomes sufficiently convincing and well-known, any real video can be dismissed as a deepfake. A politician caught on camera making damaging statements can plausibly claim the footage was fabricated. This means deepfake technology inflicts epistemic damage in two directions simultaneously — it enables creating false evidence AND provides grounds for denying real evidence. The net effect is a collapse in video's evidentiary value regardless of whether any specific clip is real or fake. This is a fundamentally different threat than simple forgery because it poisons the entire category of evidence, not just individual instances. The damage scales with public awareness of the technology, not with its actual deployment.

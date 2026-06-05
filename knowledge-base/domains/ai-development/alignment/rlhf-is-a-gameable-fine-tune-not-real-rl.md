@@ -61,7 +61,6 @@ stance: >-
   the reward model's score while producing nonsense.
 related:
   - INS-260323-8AEC
-  - INS-260323-1477
   - INS-260330-5F36
   - INS-260330-6BBD
   - INS-260403-66CA
@@ -70,6 +69,7 @@ related:
   - PRI-260407-7FB7
   - INS-260410-5F60
   - INS-260410-9303
+  - INS-260412-C0B4
 ---
 RLHF works by training a second neural network (the reward model) to imitate human preference rankings, then running reinforcement learning against that simulator. This sidesteps the cost of asking humans to score every rollout, and it exploits the discriminator-generator gap — it is easier for a human to rank five jokes than to write a great one — which is why RLHF empirically produces better models than pure SFT.
 

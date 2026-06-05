@@ -58,11 +58,11 @@ stance: >-
   context — remains research-blocked despite being the highest-leverage missing
   capability.
 related:
-  - INS-260325-2FC1
   - INS-260409-2B5F
+  - INS-260605-9276
+  - INS-260325-2FC1
   - PRI-260405-0676
   - INS-260530-D34F
-  - INS-260514-8FC8
 ---
 Masad confirms what Hassabis described independently: continual learning is the missing piece blocking agents from deep organizational integration. Replit's current workaround: when an agent learns a useful skill, it writes a skill MD file that persists across sessions and the agent reads back into its context. This works for explicit, transferable knowledge but not for the implicit pattern recognition that constitutes real expertise.
 

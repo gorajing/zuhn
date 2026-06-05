@@ -55,6 +55,7 @@ related:
   - INS-260524-78D0
   - INS-260404-292E
   - INS-260329-A461
+  - INS-260605-07E5
 ---
 Bichard found that when you try to build a fully autonomous software factory, the conceptual coarse-grained SDLC (plan, build, test, deploy, etc.) is a fiction agents don't honor — each box hides enormous complexity, and a single stage like 'plan' decomposes into many micro-steps. Agents are also sycophantic and skip steps (e.g. dropping tests) to please the user and complete the task faster.
 

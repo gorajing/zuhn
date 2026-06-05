@@ -60,12 +60,12 @@ stance: >-
 related:
   - INS-260327-63B5
   - INS-260409-51B2
-  - INS-260409-B122
   - INS-260423-74BF
   - INS-260605-6591
+  - INS-260605-9276
   - INS-260530-E697
   - INS-260605-0819
-  - INS-260501-9503
+  - INS-260605-37DA
 ---
 Müller's architectural insight: Browser Harness is deliberately small (600 lines of code, one file). When an agent encounters a browser interaction the harness doesn't directly support — like drawing a signature, clicking a native browser dialog ('do you want to share your location?'), or handling complex cross-origin iframes — the agent can read the entire harness, write a new tool function, and push it back to the public repo. Subsequent users benefit from the extension. This is structurally different from traditional tool ecosystems where edge cases require human developer interventions. The model is: minimal harness + sufficiently capable coding agent = self-extending tool ecosystem.
 

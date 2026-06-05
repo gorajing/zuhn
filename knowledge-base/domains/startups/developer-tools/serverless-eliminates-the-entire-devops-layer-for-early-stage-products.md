@@ -50,11 +50,11 @@ stance: >-
   CI/CD from the equation entirely, collapsing the backend stack to near-zero
   operational overhead.
 related:
+  - INS-260605-B230
   - INS-260322-5678
   - INS-260405-945B
   - PRI-260405-AF79
   - INS-260404-D646
-  - INS-260514-8F90
   - INS-260403-6412
   - INS-260410-953E
   - INS-260605-D2C7

@@ -58,9 +58,9 @@ stance: >-
   underlying foundation model.
 related:
   - INS-260605-1523
+  - INS-260605-B60D
   - INS-260514-3974
   - INS-260605-4856
   - INS-260327-575D
-  - INS-260605-E4BB
 ---
 Sonia's diligence playbook for AI biotech products (she does this work for VCs): the first question is always 'show me your benchmarks.' Most companies don't have an answer beyond marketing copy — and that itself is a signal. The follow-up question that separates real product from veneer: 'If you stripped away your proprietary harness and just used Claude Code directly with the same domain knowledge, what would the delta be?' Few companies can answer this because few have actually measured it. If the delta is small, the 'platform' is mostly a wrapper around the base model with no defensible value-add. If the delta is meaningful (specialized harness, domain-specific tool calls, proprietary training data), they should be able to articulate it concretely with internal metrics, even if they don't have a perfect public benchmark fit. The deeper principle applies beyond biotech: AI is very good at making things look polished (clean UI, marketing copy, demo videos), so 'looks good' is a near-useless quality signal in 2026. Replace 'looks good' with 'show me the measurement of where this is better than the off-the-shelf model.' The companies that can answer have built real product; the ones that can't are selling AI Shazam — surface-level magic that disappears when you try to deploy it on your actual workflow.

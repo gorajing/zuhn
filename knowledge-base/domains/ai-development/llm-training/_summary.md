@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 72 insights
+> 73 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -72,5 +72,6 @@
 - `INS-260403-CDB9` [medium] Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.
 - `INS-260403-CDB0` [medium] DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
 - `INS-260410-656B` [medium] Going from 3 to 8 characters of context in the same flat MLP moved validation loss from 2.10 to 2.02 — a bigger gain than the later hierarchical WaveNet rewrite produced at matched parameter count.
+- `INS-260605-3860` [medium] The cues that reveal a speaker is uncomfortable or challenging are present in speech-to-speech input but get ignored if the model was trained on audio-fied factual Q&A that never needed them.
 - `INS-260409-8D86` [medium] The 'scale to AGI' strategy depends on Hinton and Sutskever's hypothesis that brains are statistical engines — a hypothesis neuroscientists actively dispute.
 - `INS-260323-9BAB` [medium] Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.

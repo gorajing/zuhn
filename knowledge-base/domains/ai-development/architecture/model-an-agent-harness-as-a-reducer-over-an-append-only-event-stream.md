@@ -55,7 +55,6 @@ stance: >-
   over an event stream plus an occasional side-effect hook.
 related:
   - INS-260410-1ED3
-  - INS-260411-D060
   - INS-260605-9A01
   - INS-260327-13B3
   - INS-260405-F26B

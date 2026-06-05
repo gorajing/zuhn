@@ -56,9 +56,7 @@ related:
   - PRI-260403-7585
   - INS-260501-FD20
   - INS-260605-A803
-  - INS-260330-EC22
   - INS-260410-F167
-  - INS-260605-6444
   - INS-260605-434D
 ---
 Andrew Ng presents data showing GPT-3.5 at 48% zero-shot on HumanEval, GPT-4 at 67% zero-shot, but GPT-3.5 with an agentic workflow exceeding GPT-4's zero-shot performance. The analogy is powerful: zero-shot prompting is like asking someone to write an essay without ever using backspace. Agentic workflows allow the model to draft, self-critique, test, and iterate.

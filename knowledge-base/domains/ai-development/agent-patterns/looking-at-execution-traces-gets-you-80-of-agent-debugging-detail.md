@@ -50,13 +50,12 @@ stance: >-
   Reading what an agent actually did at runtime, before building any evals,
   surfaces most of what you need to improve it.
 related:
-  - INS-260327-9D50
   - INS-260605-E193
   - INS-260605-72C4
   - INS-260605-310E
   - INS-260605-6444
-  - INS-260530-C385
-  - PRI-260411-14DC
+  - INS-260605-365A
+  - INS-260605-7843
   - INS-260605-E2D9
 ---
 Klingen's most emphasized lesson: teams rush to build sophisticated evals before they have ever sat and read through what the agent actually did at runtime a few times. The Langfuse team instrumented Claude Code itself, used their own skill interactively, and read the traces to see where the agent wandered versus going straight at the goal. That direct inspection — not metrics — surfaced the concrete fixes.

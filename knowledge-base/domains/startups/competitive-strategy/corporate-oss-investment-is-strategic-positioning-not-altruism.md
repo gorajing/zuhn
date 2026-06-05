@@ -43,7 +43,6 @@ stance: >-
   ecosystem standards and reduce competitors' moats, not to benefit the
   community.
 related:
-  - INS-260328-92BC
   - INS-260330-F22A
   - INS-260403-1D43
   - INS-260424-123B

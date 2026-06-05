@@ -9,4 +9,5 @@
 - `INS-260514-8413` Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
 - `INS-260514-6DF3` Lint errors aren't just 'don't merge this' — they're prompts that surface what good code looks like to the agent at the moment the agent is writing it.
 - `INS-260501-BBB7` Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
+- `INS-260605-C33F` Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.

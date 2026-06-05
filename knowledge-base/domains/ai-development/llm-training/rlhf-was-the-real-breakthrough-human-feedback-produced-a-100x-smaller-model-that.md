@@ -60,7 +60,7 @@ related:
   - INS-260325-B50B
   - INS-260409-667F
   - PRI-260323-8E89
-  - INS-260514-9281
+  - INS-260605-33FA
 ---
 The video highlights a counterintuitive result: ChatGPT (GPT-3.5) was roughly 100x smaller than GPT-3 in parameter count yet performed significantly better. The key innovation was supervised reinforcement learning from human feedback (RLHF), where human raters ranked multiple AI responses by quality, and the model was digitally rewarded for improvements through iterative fine-tuning cycles.
 

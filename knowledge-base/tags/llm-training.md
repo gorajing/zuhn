@@ -5,3 +5,4 @@
 - `INS-260410-86B0` Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
 - `INS-260328-B19D` Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
 - `INS-260410-3E86` A trillion-parameter transformer and a 41-parameter micrograd MLP use the same forward pass, same backward pass, same gradient descent loop — only the loss function (cross-entropy vs MSE) and optimizer tweaks differ.
+- `INS-260605-3860` The cues that reveal a speaker is uncomfortable or challenging are present in speech-to-speech input but get ignored if the model was trained on audio-fied factual Q&A that never needed them.

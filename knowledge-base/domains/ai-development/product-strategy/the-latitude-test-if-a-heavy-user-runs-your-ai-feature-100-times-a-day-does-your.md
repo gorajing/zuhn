@@ -49,7 +49,6 @@ stance: >-
   before shipping, and features that fail the test should be sent back for
   redesign.
 related:
-  - INS-260323-01F9
   - INS-260322-37EE
   - INS-260514-3A62
   - PRI-260328-BEDD

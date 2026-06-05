@@ -53,11 +53,11 @@ stance: >-
   A rolled-up accuracy number is useless for improvement unless a parallelized
   agent pipeline clusters failures to explain why it moved.
 related:
+  - INS-260605-7843
   - INS-260410-AF66
   - INS-260330-A3B7
   - INS-260329-D8F2
   - INS-260403-88AF
-  - INS-260605-726C
 ---
 Backtests give incident.io a rolled-up figure like '86% accurate RCA,' but that number says nothing about why it rose or fell — leaving you stuck if you want to improve the system for a specific customer. Their solution downloads all investigations into a file system fed to a Claude Code analysis pipeline driven by structured markdown playbooks for repeatable, reliable runs.
 

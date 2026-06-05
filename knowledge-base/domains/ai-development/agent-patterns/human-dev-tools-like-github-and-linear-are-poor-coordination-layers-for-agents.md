@@ -50,7 +50,6 @@ stance: >-
   for agent swarms fails because they become unmanageably noisy at agent scale.
 related:
   - INS-260323-4A3D
-  - INS-260327-5EEA
   - INS-260327-C1A4
   - INS-260327-EDF0
   - PRI-260328-1ED1
@@ -59,6 +58,7 @@ related:
   - INS-260412-B89F
   - INS-260412-44FA
   - INS-260412-9F1D
+  - INS-260605-3553
 ---
 When agents raise pull requests, resolve merge conflicts, and fix CI builds at scale, GitHub becomes 'incredibly noisy' — a human can no longer make sense of where to step in and intervene. Bichard notes that OpenAI's Symphony project built coordination on top of Linear but hit the same failure mode: reusing existing human tools 'in very weird ways for agents.'
 

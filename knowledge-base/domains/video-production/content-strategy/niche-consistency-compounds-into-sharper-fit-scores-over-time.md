@@ -51,7 +51,6 @@ stance: >-
   raises the quality of every future sample group.
 related:
   - INS-260323-C4EE
-  - INS-260323-6908
   - INS-260329-22A8
   - INS-260409-8750
   - INS-260605-8F5E

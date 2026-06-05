@@ -1,5 +1,6 @@
 # Tag: benchmarking
 
+- `INS-260605-3285` Snorkel accepts an agentic task only if it passes tests for all four criteria: achievable, non-trivial, functionally correct logic, and a reliable containerized environment.
 - `INS-260405-7383` Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
 - `INS-260605-FE67` Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260605-4597` GPQA's quiet contribution was an adversarial multi-reviewer protocol with agreement-based payouts, ensuring tasks are well-posed, tractable for other experts, and verifiable.
@@ -8,8 +9,9 @@
 - `INS-260605-FCDA` Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
 - `INS-260605-355C` The same best-in-class diarizer scores ~2-8% error on clean telephone speech but ~41% in a noisy restaurant — so 'how good is it?' has no use-case-free answer.
 - `INS-260605-3E7F` Field-shaping benchmarks carry a thesis about where capabilities need to go and set a goalpost labs hill-climb toward, rather than merely recording past results.
+- `INS-260605-B60D` Across public benchmarks, a fixed set of tasks that can never be completed becomes a source of noise that masks whether model improvement is genuinely happening.
 - `INS-260329-05BB` HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260409-93EC` Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.
-- `INS-260409-93EC` Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.

@@ -50,11 +50,11 @@ stance: >-
   ephemeral problem-solving into a growing, callable capability library.
 related:
   - INS-260409-6656
+  - INS-260605-9276
+  - INS-260605-BA6A
+  - INS-260605-2DD5
   - INS-260325-2DCD
   - INS-260410-F910
-  - INS-260524-63C9
-  - INS-260605-6444
-  - INS-260530-D34F
 ---
 When an agent successfully writes a function like saveSheetAsCsv, throwing that code away at the end of the session means the next run re-derives the same logic and pays the same token cost. Instead, the agent can write the file to ./skills/ and on future runs simply import it as a higher-level primitive.
 

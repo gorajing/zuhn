@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 244 insights
+> 247 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -53,6 +53,7 @@
 - `INS-260329-F556` [high] The best database schemas encode business rules structurally through keys, types, and constraints rather than trusting application code to enforce them.
 - `INS-260321-AD95` [high] Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
 - `INS-260329-0CC5` [high] Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.
+- `INS-260605-4AB0` [high] Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260329-19EA` [high] ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260323-6944` [high] Cantor's diagonal argument -- constructing an element that differs from every item on a list -- is the same core technique behind Godel's incompleteness, Turing's halting problem, and Russell's paradox.
 - `INS-260329-AE09` [high] Dictionaries are the most transferable data structure concept because key-value mapping appears at every level of the software stack.
@@ -74,6 +75,7 @@
 - `INS-260320-0F7C` [high] Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260329-2F63` [high] File I/O transforms programming from abstract exercises into tools that interact with the real world.
 - `INS-260329-BD83` [high] File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
+- `INS-260605-C33F` [high] Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - `INS-260323-DB7B` [high] Minecraft's world ends at 1.8e308 blocks — the maximum value of a 64-bit double — showing how implementation-level data type choices create hard boundaries in procedural systems.
 - `INS-260329-6286` [high] Circular foreign key references between tables force a multi-step insertion pattern: insert with NULLs first, create the referenced row, then update back.
 - `INS-260329-67CB` [high] Database constraints like foreign keys, NOT NULL, and ON DELETE CASCADE enforce business rules at the lowest shared layer, preventing corrupt data regardless of which application writes to the database.
@@ -227,6 +229,7 @@
 - `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
 - `INS-260403-5BD6` [medium] A portable master prompt that works across ChatGPT, Claude, and Gemini protects against platform-specific configuration breaking when interfaces change.
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
+- `INS-260605-8B25` [medium] Unlike traditional observability — owned by systems engineers — agent observability works best when clinicians, lawyers, or wealth advisors read traces directly, because they're closest to the user and the problem.
 - `INS-260605-8E08` [medium] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
 - `INS-260329-DACC` [medium] Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260327-0875` [medium] A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.

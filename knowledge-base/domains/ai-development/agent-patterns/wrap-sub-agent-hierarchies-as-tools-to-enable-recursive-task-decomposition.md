@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260403-24AE
   - INS-260411-6106
+  - INS-260605-4DB9
   - INS-260327-7F56
   - INS-260327-C1A4
   - INS-260322-DAFB
-  - PRI-260328-F0E4
 ---
 Google's hierarchical decomposition pattern addresses tasks too large for a single agent's context window. A ReportWriter agent doesn't research — it delegates to a ResearchAssistant (which itself manages WebSearch and Summarizer sub-agents) via AgentTool wrapping.
 

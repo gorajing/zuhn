@@ -50,11 +50,11 @@ stance: >-
   construction, so any component of the runtime can act as a confounder.
 related:
   - INS-260327-E07C
+  - INS-260605-B60D
   - INS-260327-33FA
+  - INS-260605-E516
   - INS-260326-7F79
   - INS-260605-3490
-  - INS-260323-8AEC
-  - INS-260410-D03C
   - INS-260605-434D
 ---
 Static benchmarks are clean: a prompt goes in, an answer comes out, and it's graded. Agentic evals are categorically different because the runtime is an integral component of the problem-solving process. The model writes code, runs tests, installs dependencies, iterates. Two agents with different resource budgets are literally not taking the same test.

@@ -1,5 +1,6 @@
 # Tag: corruption
 
+- `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
 - `INS-260412-29B6` Samsung's chaebol structure creates a pattern where every generation of leadership faces legal prosecution yet retains control because the company is deemed too important to the national economy.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260403-D5B0` Blanket tariffs plus selective exemptions create a system where the president personally controls which companies and countries succeed, concentrating enormous economic power in one office.
@@ -13,4 +14,3 @@
 - `INS-260324-1C12` The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260412-4477` FTX spent $73M+ on political donations across both parties to build regulatory cover, substituting lobbying for legitimate compliance — a strategy that amplified rather than reduced risk.
 - `INS-260412-7BD8` Isabel dos Santos signed off as both lender and borrower on a $460M transfer between her own companies, illustrating how dual-role positions make fraud structurally undetectable.
-- `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.

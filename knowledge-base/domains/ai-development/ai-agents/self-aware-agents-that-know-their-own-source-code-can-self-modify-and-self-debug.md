@@ -52,10 +52,10 @@ resolutions:
     multiplier for both development velocity and accessibility.
 related:
   - INS-260530-D34F
+  - INS-260605-9276
   - INS-260501-F258
   - INS-260501-E377
   - INS-260405-E8A1
-  - INS-260320-9D89
   - INS-260409-9296
   - INS-260424-FE8E
   - INS-260501-01A5

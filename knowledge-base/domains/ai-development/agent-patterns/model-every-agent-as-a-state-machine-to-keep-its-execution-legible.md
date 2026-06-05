@@ -46,9 +46,10 @@ related:
   - INS-260327-BF89
   - INS-260329-4D03
   - INS-260410-E658
+  - INS-260605-07E5
   - INS-260605-6444
   - INS-260405-F26B
-  - INS-260327-DC4C
+  - INS-260605-C122
 ---
 Beneath every hype cycle, an agent is a recursive while-loop with conditions and terminal states — user task → tool/action state → completion. The discipline is maintaining a mental model of which state the agent occupies at any moment, whether the loop runs for seconds or hours.
 

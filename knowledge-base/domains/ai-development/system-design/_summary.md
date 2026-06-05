@@ -1,8 +1,9 @@
 # Topic: system-design
 
-> 43 insights
+> 45 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
+- `INS-260605-C0BF` [high] Agent traces are semi-structured, full of unstructured text, and huge — a single span can hit 20MB and a full trace can exceed a gigabyte — demanding full-text indexing and a custom store rather than off-the-shelf OLAP.
 - `INS-260410-1ED3` [high] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260514-1841` [high] Browser Harness is 600 lines. When an agent hits an edge case (sign a signature, click a native dialog), it writes its own tool extension and publishes it as a skill.
 - `INS-260412-B89F` [high] At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
@@ -37,6 +38,7 @@
 - `INS-260404-F7C5` [medium] Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260405-C497` [medium] RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260412-9414` [medium] Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
+- `INS-260605-8AEE` [medium] A modular speech pipeline lets you swap individual ASR, language, and TTS models to fit any device from a first-gen M1 to the latest chip — flexibility a monolithic speech-to-speech model can't match.
 - `INS-260404-CDD2` [medium] The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.
 - `INS-260412-5965` [medium] Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
 - `INS-260514-8424` [medium] Have one engineer write what 'good security review' looks like — now every agent gets that review on every push. The single review becomes durable infrastructure.

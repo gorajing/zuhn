@@ -46,10 +46,11 @@ resolutions:
 related:
   - INS-260321-7C97
   - INS-260530-D34F
+  - INS-260605-BA6A
   - INS-260323-E0B5
   - INS-260327-D0F3
-  - INS-260330-4329
   - INS-260327-8FD4
+  - INS-260330-4329
   - INS-260403-49E1
 stance: >-
   Stop analyzing AI and start using it this weekend -- vibe coding, agent mode

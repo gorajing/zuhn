@@ -57,8 +57,8 @@ related:
   - INS-260410-025A
   - INS-260330-6BBD
   - INS-260501-2D0A
+  - INS-260605-C873
   - INS-260410-5EE7
-  - PRI-260407-7FB7
 ---
 Karpathy explicitly wrote micrograd as a scalar-valued autograd engine because n-dimensional tensors hide the chain rule behind dense linear algebra. At the scalar level, every addition, multiplication, and activation reveals its local derivative, and backprop becomes a mechanical recursive traversal of an expression graph.
 

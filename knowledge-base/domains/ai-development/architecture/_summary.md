@@ -1,10 +1,11 @@
 # Topic: architecture
 
-> 58 insights
+> 62 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
+- `INS-260605-7B83` [high] A useful on-device model is 3-4GB, so shipping it once at the system level and letting every app share it is the only way the economics work.
 - `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260409-C1B2` [high] Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260514-268F` [high] Code churn in one area predicts future complexity — intervene architecturally when you first notice the pattern, not when the mess is already unmaintainable.
@@ -13,9 +14,11 @@
 - `INS-260501-835A` [high] Decode amortizes weights across one token; prefill amortizes them across many — flipping which bottleneck dominates.
 - `INS-260405-64C5` [high] Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260405-06B0` [high] Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
+- `INS-260605-F064` [high] Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - `INS-260402-0E46` [high] Encoding domain structure into features (e.g., marking where tokens appear in email) can improve classification from 92% to 99.5%.
 - `INS-260421-8004` [high] 4 of 6 speakers at AI Agents SF #12 use graph primitives (Neo4j, FalkorDB, Cognee's own) with vector embeddings layered inside graph nodes rather than as the top-level store.
 - `INS-260404-5440` [high] Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
+- `INS-260605-90FB` [high] Human turn-taking needs the full STT→LLM→TTS loop under ~200ms, but a fast TTS alone is already >200ms, so cascaded systems can't sound human.
 - `INS-260405-DAC9` [high] C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
 - `INS-260402-0DC9` [high] Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260403-72C2` [high] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
@@ -29,6 +32,7 @@
 - `INS-260605-90CF` [high] Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
 - `INS-260605-4860` [high] MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
 - `INS-260402-2879` [high] Define program meaning independently of implementation, then layer optimization advice on top.
+- `INS-260605-B230` [high] Android deliberately ships the low-level Prompt API rather than a skills system, because a skill is just text composed into a prompt — so the platform provides the substrate and lets agent frameworks build on top.
 - `INS-260514-4FDC` [high] Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260605-DDAB` [high] Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260605-B03B` [high] Because the LLM and TTS blindly carry forward whatever the speech-to-text model produces, a misheard name or drug becomes an uncorrectable error — making entity-level transcript accuracy the foundation of the whole pipeline.

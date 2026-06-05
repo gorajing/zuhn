@@ -63,7 +63,6 @@ stance: >-
   signal of what 'good' looks like in that organization's context
 related:
   - INS-260403-3705
-  - PRI-260407-B808
   - INS-260409-9E95
   - INS-260410-410E
   - INS-260410-AAFE
@@ -72,6 +71,7 @@ related:
   - INS-260322-F46F
   - INS-260530-5644
   - PRI-260406-2B0E
+  - INS-260605-CF15
 ---
 The data-cleaning bottleneck is widely-discussed; the panel surfaced a stronger claim — even after data is clean, AI cannot deliver consistent enterprise productivity until the underlying processes are documented as SOPs. The reason is that AI can pattern-match, but it pattern-matches to whatever its inputs show; if the same process has 5 different unwritten ways of being done across the team, the AI inherits the variance and reproduces noise.
 

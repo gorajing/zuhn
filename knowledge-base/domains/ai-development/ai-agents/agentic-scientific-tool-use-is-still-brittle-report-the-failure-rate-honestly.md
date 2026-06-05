@@ -42,7 +42,6 @@ stance: >-
   molecular dynamics), so per-component failure analysis matters more than
   headline successes.
 related:
-  - INS-260410-AF66
   - INS-260410-566F
   - INS-260413-7816
   - INS-260514-3A62

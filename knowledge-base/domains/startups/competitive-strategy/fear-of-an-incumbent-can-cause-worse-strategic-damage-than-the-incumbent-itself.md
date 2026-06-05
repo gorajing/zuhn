@@ -48,7 +48,6 @@ stance: >-
   actually did to Yahoo.
 related:
   - INS-260327-6853
-  - INS-260403-76E9
   - INS-260412-3506
   - INS-260412-24DB
   - INS-260403-9DBA
@@ -57,6 +56,7 @@ related:
   - INS-260403-3A9D
   - INS-260404-BA3D
   - INS-260403-3566
+  - INS-260409-A200
 evidence:
   - id: INS-260403-9DBA
     type: SUPPORTS

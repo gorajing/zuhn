@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260514-33FB
   - INS-260501-91C2
+  - INS-260605-3285
   - PRI-260320-BC72
   - INS-260322-EAB6
-  - INS-260320-9D89
 ---
 Google's ADK guide opens with a direct analogy: monolithic applications don't scale, and neither do monolithic agents. As instruction complexity increases, adherence to specific rules degrades and hallucination rates compound. A single agent asked to parse, extract, summarize, route, and validate will perform worse at each task than specialized agents in a coordinated system.
 

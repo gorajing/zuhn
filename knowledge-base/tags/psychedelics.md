@@ -8,8 +8,6 @@
 - `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
-- `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
-- `INS-260330-2304` Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260330-415C` Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations.
 - `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260330-7C42` Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit.
@@ -26,4 +24,6 @@
 - `INS-260330-43C9` Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260330-3748` The profound intimacy and vulnerability of psychedelic therapy demands stricter clinical boundaries, not looser ones — including resisting the guru complex of filling in meaning for patients.
+- `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
+- `INS-260330-2304` Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260325-216D` The wavy walls and pretty colors are the trivial part of psychedelics — the therapeutic mechanism is the dissolution of identity and self-definition that allows people to reframe their entire life narrative.

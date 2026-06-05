@@ -66,8 +66,8 @@ related:
   - INS-260321-B014
   - INS-260403-20B1
   - INS-260327-BE4E
+  - INS-260605-33FA
   - PRI-260321-14D8
-  - INS-260410-0330
 ---
 The workshop repeatedly stresses that transformer architecture has been commoditized: GPT-4, GPT-4o, and GPT-5 share very similar pre-training, and labs mostly find *optimizations* (longer context, more efficient attention) rather than reinventing the wheel. The dramatic part — why one version can double a benchmark over its predecessor — happens in post-training: taking a strong base model and applying higher-quality fine-tuning and reasoning data.
 

@@ -49,7 +49,6 @@ stance: >-
 related:
   - INS-260320-E6DD
   - INS-260323-3C7B
-  - INS-260323-CD28
   - INS-260327-91E7
   - INS-260329-882A
   - INS-260402-0E46
@@ -57,5 +56,6 @@ related:
   - INS-260404-2BAD
   - PRI-260406-6123
   - INS-260410-46CA
+  - INS-260501-3D0C
 ---
 The conceptual core: a company's knowhow lives in people's heads, Slack, email, and Notion; making it legible as context and skills converts a hierarchical org into an intelligent AI-native one with a central 'company brain' and agents running each function. The strategic caveat the talk implies but doesn't dwell on: he admits 'a bunch of people in this room are building this' and that the software/brain can be one-shotted, so the brain artifact itself is not the moat — the proprietary, legible context plus distribution is. A useful tension for anyone deciding whether to productize a 'company brain': the category is crowding fast and value accrues to context and pull, not to the brain as a product.

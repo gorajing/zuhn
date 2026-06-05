@@ -46,9 +46,9 @@ resolutions:
 related:
   - INS-260410-E73E
   - INS-260404-36B9
+  - INS-260605-B60D
   - INS-260404-226F
   - INS-260325-8F49
-  - INS-260328-0932
   - INS-260403-802D
 stance: >-
   Iterative public deployment of imperfect models surfaces discoveries — both

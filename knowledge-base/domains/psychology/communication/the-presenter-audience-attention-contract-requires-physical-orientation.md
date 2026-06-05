@@ -48,10 +48,10 @@ stance: >-
   non-negotiable prerequisite for sustained attention
 related:
   - INS-260325-E0D5
+  - INS-260605-E490
   - INS-260403-6947
   - INS-260327-E75F
   - INS-260519-7744
-  - INS-260501-A5F5
 evidence:
   - id: INS-260321-E9B7
     type: TRANSFERS_TO

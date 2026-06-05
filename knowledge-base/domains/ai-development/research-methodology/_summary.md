@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 102 insights
+> 106 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260605-2D9F` [high] Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
@@ -23,7 +23,9 @@
 - `INS-260514-BB1C` [high] Smaller team, fewer GPUs, no top chips, but they released the weights AND the paper AND the GPU kernels. And they beat the closed labs on Putnam.
 - `INS-260410-AC0B` [high] DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
 - `INS-260505-03F6` [high] Engineering is happy with weird-looking optimal antennas; mathematicians need to understand the proof's journey. AI deployment should match the field.
+- `INS-260605-365A` [high] Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
 - `INS-260514-791A` [high] Narrow AI: PhD data scientist required. Generative AI agents: any scientist can use them like spoken language.
+- `INS-260605-E54A` [high] Accepted tasks produced 'cleaner failures' — logic errors and incomplete-task failures from true difficulty — which give models useful hill-climbing signal, unlike degenerate environmental failures that no model could solve.
 - `INS-260413-C040` [high] MSAPairformer (111M params) beat prior SOTA on ProteinGym; GPN-Star (200M) beat a 40B genomics model; AlphaFold 3 (370M) still leads FoldBench despite SimpleFold's 3B challenger — data beats scale in biology.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - `INS-260412-B805` [high] Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
@@ -95,6 +97,7 @@
 - `INS-260409-6833` [medium] Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260605-3490` [medium] The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260501-0C6C` [medium] Teleop = 24 hr/day cap per robot. Wearables = better. Egocentric video = 10M hours/year, ambient like FSD.
+- `INS-260605-BEA5` [medium] Snorkel scales quality by building rubrics used by both human experts and LLM judges, then enforcing high inter-annotator agreement between humans and between humans and LLM judges.
 - `INS-260505-D35A` [medium] AI for science demands precision (13 decimal places in physics) that consumer AI can ignore, forcing better fundamental research.
 - `INS-260501-E5AC` [medium] Scaling works AND recursion works AND specialized architectures work — they're alternative paths, not competing claims.
 - `INS-260505-5FA7` [medium] Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?'
@@ -103,6 +106,7 @@
 - `INS-260410-0741` [medium] Nadella says the first thing a working quantum computer lets you do is design the next one, because simulating atom-level gate construction is exactly the workload classical hardware cannot handle.
 - `INS-260410-6BBC` [medium] The tech tree branches so widely that different civilizations would discover entirely different subsets of it, producing enormous potential gains from trade between any two.
 - `INS-260505-4426` [medium] Take the model at every training checkpoint, not just the final one — extreme events are often learned at step 50K, then forgotten by step 500K.
+- `INS-260605-B60D` [medium] Across public benchmarks, a fixed set of tasks that can never be completed becomes a source of noise that masks whether model improvement is genuinely happening.
 - `INS-260514-70CB` [low] AI doesn't replace scientists — it lets a single human credibly span what used to be three PhDs.
 - `INS-260501-BC7C` [low] If information is more fundamental than matter or energy, AI is operating on the substrate of reality — and is qualitatively different from prior revolutions.
 - `INS-260505-058D` [low] Lightning-talk grad students are running 11K-company causal inference with state-of-art LLMs, scientist-curated agent benchmarks, principled OOD evaluation.

@@ -53,12 +53,13 @@ stance: >-
 related:
   - INS-260410-CD79
   - INS-260501-C59A
-  - INS-260501-9503
   - INS-260514-1841
+  - INS-260605-9276
   - INS-260605-C86D
   - INS-260605-6722
+  - INS-260501-9503
   - INS-260605-0819
-  - INS-260605-5B0A
+  - INS-260605-37DA
 ---
 Google AI Edge structures device skills so only a one-line description per skill enters the system prompt; the model 'loads' a skill (via a load_skill tool) only when it judges that skill relevant, at which point the full skill.md contents enter the context window. This is the inverse of a typical MCP workflow where every function's full schema must be described upfront.
 

@@ -49,11 +49,13 @@ stance: >-
   unpredictable AND there is ground-truth environmental feedback to prevent
   compounding errors.
 related:
+  - INS-260605-C775
   - INS-260603-1BC0
+  - INS-260605-9276
   - INS-260403-0350
   - INS-260410-A27C
-  - INS-260410-F910
   - INS-260410-38C8
+  - INS-260605-3285
 ---
 Anthropic's criteria for deploying a real agent (vs. a workflow) are strict: the task has to be open-ended enough that you can't predict the number of steps or hardcode a path, and you must have trust in the model's decision-making across many turns. Because agents operate autonomously, costs are higher and errors compound — one wrong decision early can poison everything downstream.
 

@@ -63,7 +63,6 @@ stance: >-
   the forcing function (removing the alternative) is what actually drives
   adoption.
 related:
-  - INS-260330-B771
   - INS-260411-E951
   - INS-260514-8807
   - INS-260404-21E6

@@ -60,6 +60,7 @@ related:
   - INS-260501-7726
   - INS-260519-02A9
   - INS-260605-1A50
+  - INS-260605-C699
 ---
 MCP tools can return interactive rich-media apps, not just JSON/text/markdown — Nabors put a full comic reader inside the agent chat. But these apps are 'islands,' not websites. They are single HTML files where everything needed must be embedded (base64); external resources like CDN fonts require explicit CORS plus a Content Security Policy entry or the browser silently drops them; they run sandboxed in an iframe with no local storage (no cross-iframe state) and no network access — the app must ask the server to act via the call-server tool ('a real mother-may-I situation'). Even opening a link requires host permission rather than a plain window.open or href.
 

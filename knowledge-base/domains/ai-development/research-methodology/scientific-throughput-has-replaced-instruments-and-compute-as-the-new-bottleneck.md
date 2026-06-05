@@ -58,8 +58,8 @@ related:
   - INS-260409-5D67
   - INS-260413-9269
   - PRI-260321-14D8
+  - INS-260605-90FB
   - INS-260501-4B6F
-  - INS-260329-ED44
 ---
 Dario Gil's framing: traditionally scientific leadership depended on access to instruments + computational resources + domain expertise. AI/computing/quantum/integrated infrastructure are reconfiguring this. The new limiting factor is throughput — the speed at which the integrated system moves from measurement to understanding to action. A facility with the world's best instruments and compute that takes weeks to integrate observations and adjust experiments will fall behind a facility with mediocre instruments that can integrate in real-time. This shift is happening NOW across DOE facilities. Examples: SNS at Oak Ridge interpreting data during experiment runs; Linac Coherent Light Source using AI to expand the team's capacity 9.4x; NSLS-II at Brookhaven integrating AI into instrument operations.
 

@@ -51,10 +51,7 @@ stance: >-
   Resource allocation should be a first-class experimental variable in eval
   design, documented and controlled like sampling temperature or prompt format.
 related:
-  - INS-260325-DD43
   - INS-260402-CC68
-  - INS-260410-AF66
-  - INS-260410-F167
   - INS-260411-F649
   - INS-260327-BF89
   - INS-260403-063E

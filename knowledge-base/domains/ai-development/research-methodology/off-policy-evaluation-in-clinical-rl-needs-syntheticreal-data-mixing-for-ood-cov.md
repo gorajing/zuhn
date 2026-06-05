@@ -52,8 +52,8 @@ related:
   - INS-260403-88DA
   - INS-260323-9BAB
   - PRI-260323-FA42
+  - INS-260605-0748
   - INS-260605-D430
-  - INS-260322-E7E9
 ---
 Stanford talk on policy evaluation: deploying RL-based clinical decision-making requires off-policy evaluation to estimate policy value before live deployment. The known failure mode: limited coverage of the offline behavior dataset. If the new policy chooses actions never observed in offline data, the estimator returns garbage. Two new estimators introduced: CPGen (initial-state-conditioned, gives valid prediction intervals across patient subgroups), DRPPI (unconditioned, gives valid confidence intervals). Both leverage cheap synthetic data generation to fill OOD coverage gaps.
 

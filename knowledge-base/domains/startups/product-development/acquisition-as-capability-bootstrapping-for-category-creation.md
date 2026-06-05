@@ -46,7 +46,6 @@ stance: >-
   effective than building novel capabilities in-house when entering an entirely
   new product category
 related:
-  - INS-260403-F8AE
   - INS-260412-5ADA
   - INS-260412-2AF2
   - INS-260412-9357

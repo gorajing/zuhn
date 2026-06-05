@@ -54,5 +54,6 @@ related:
   - INS-260405-B7C7
   - INS-260404-B8EB
   - INS-260330-999F
+  - INS-260605-9B99
 ---
 Microsoft tried to license Windows Phone to handset makers for a per-device fee, following the PC playbook that had generated decades of profit. Google, whose entire business was capturing search queries, had no incentive to charge for the operating system — it just needed to guarantee that mobile searches flowed to Google. So Android was free, open source, and bundled with Google services. In a market where every cent of bill-of-materials mattered, the gap between $0 and $5 per device was insurmountable. The deeper lesson: when your competitor makes money from a different layer of the stack, they can rationally zero-out the price of your product as a defensive move, even if it never makes them a dime directly. The only defense is adopting an orthogonal business model yourself — which Microsoft couldn't do because it was culturally and structurally a software-licensing company, not an advertising company.

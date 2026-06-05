@@ -52,13 +52,12 @@ stance: >-
   prescribing the exact task to run.
 related:
   - INS-260320-F8FD
-  - INS-260423-74BF
   - INS-260501-9503
   - INS-260605-6591
   - INS-260605-705B
   - INS-260605-D3C7
   - INS-260605-5B0A
-  - INS-260605-74E8
+  - INS-260605-9276
 ---
 Intercom is deliberately moving its engineers away from imperative prompting ('run this skill to do a thing') toward describing the problem or task and letting the agent decide how to solve it. Scanlan admits the imperative style is 'still kind of necessary' and he does it a lot, but the higher-leverage mode is delegating intent.
 

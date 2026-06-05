@@ -53,8 +53,8 @@ related:
   - INS-260410-85AD
   - INS-260514-5914
   - INS-260423-85B3
-  - PRI-260501-168F
-  - INS-260519-08E0
+  - INS-260605-0748
+  - INS-260605-2DD5
 ---
 Nabors' framing is that the browser is an 'infinite canvas,' not a document reader, and the same built-in APIs that power rich web experiences are available to agent-rendered UI. Her comic reader speaks using the Web Speech API — the browser's native text-to-speech — as a zero-dependency solution requiring no inference (it sounds rough versus something like ElevenLabs, but it's free and built in). The same goes for Animation, Audio, Canvas, WASM, and CSS.
 

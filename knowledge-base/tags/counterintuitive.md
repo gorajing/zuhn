@@ -4,10 +4,6 @@
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260330-6270` Shivering releases succinate from muscles which activates brown fat thermogenesis — resisting shiver during cold exposure eliminates the fat-burning benefit.
 - `INS-260330-1078` High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss.
-- `INS-260324-160B` Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
-- `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
-- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
-- `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260412-0B8B` Charging to 50% twice is faster than charging to 100% once because batteries accept power at diminishing rates as they fill.
 - `INS-260330-8FE7` A growth factor near 1 feels like steady new additions, but it actually signals you're at the logistic inflection point — total will roughly double from current levels then plateau.
@@ -16,3 +12,7 @@
 - `INS-260409-7FC5` You can't 'just drop' an antiproton to test gravity because electric forces dwarf gravity — neutral antiatoms are required, and those in turn are harder to contain.
 - `INS-260330-07B1` Earth radiates back the same energy it receives from the sun; what we actually use is the low entropy — concentrated energy in fewer, higher-energy photons.
 - `INS-260330-ADC6` A Harvard/Virginia study found people prefer electric shocks to 15 minutes of boredom; in the episode, the subject shocked himself after only 1 minute 57 seconds despite saying he never would.
+- `INS-260324-160B` Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
+- `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
+- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
+- `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.

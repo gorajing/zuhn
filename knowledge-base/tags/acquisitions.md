@@ -2,6 +2,7 @@
 
 - `INS-260329-E193` Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.
 - `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
+- `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-8A28` Firms like Tiger Global and Insight Partners have had multiple portfolio companies acquired by Nvidia in the past two years, revealing how concentrated AI exit paths have become.
 - `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
@@ -20,9 +21,8 @@
 - `INS-260403-27AC` Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
 - `INS-260403-DF01` Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260412-032F` Apple acquired FingerWorks not just for multi-touch patents but primarily to get Wayne Westerman's team, who became core to the iPhone's touch technology.
-- `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260412-49DA` Ford humiliated Tata in 1999 for entering passenger cars; by 2008 Tata bought Ford's Jaguar Land Rover for $2.3B.
+- `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
-- `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.

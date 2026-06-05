@@ -59,8 +59,8 @@ related:
   - INS-260410-1ED3
   - INS-260321-C5AA
   - INS-260327-4CB3
-  - INS-260514-4436
   - INS-260514-DE49
   - INS-260605-9523
+  - INS-260605-2408
 ---
 Appleton's 'language model legos need glue' framing: LLMs today give you a bunch of disconnected capabilities but no assembly instructions. You can generate a pretty interface, you can make API calls, you can manage state, you can write basic logic — but you still have no idea how to deploy that to a particular web domain or to your iPhone, persist data by setting up a database (you may not know what a database is), add multiplayer collaboration, or handle user permissions. A barefoot developer with only V0 and TLDraw cannot ship a working app. The missing layer is orchestration agents designed to act as central coordinators for home-cooked software projects, guiding barefoot developers through writing technical specs and calling default tools (deployment pipelines, database managers, auth APIs). This is the specific gap between 'LLM can generate code' and 'non-developers can ship software.' Any team building for the barefoot developer category should be working on glue-layer orchestration, not more generation.

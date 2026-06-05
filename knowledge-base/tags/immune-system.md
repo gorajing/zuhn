@@ -12,7 +12,7 @@
 - `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver.
 - `INS-260325-74AA` 1-2 Brazil nuts daily provide more selenium than any supplement supporting thyroid immunity hormones and hair.
 - `INS-260327-5943` Fasting with a cortisol-to-DHEA ratio above 0.5 is counterproductive -- it accelerates catabolism, suppresses immunity, and may promote cancer growth; older adults are especially vulnerable.
-- `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
 - `INS-260412-66D8` The dendritic cell's binary choice between anti-virus and anti-bacteria response determines which entire army gets mobilized, making it the highest-leverage decision point in immune response.
 - `INS-260412-A5C4` Dendritic cells collect pathogen samples from the wound, travel to lymph nodes, and physically present evidence to helper T cells — bridging the gap between detection and targeted response.
 - `INS-260330-D38F` Expressing verbal affirmations to a partner measurably reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
+- `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.

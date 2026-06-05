@@ -62,10 +62,10 @@ stance: >-
   making 'CLI-first, MCP-second' the right architectural default for tooling.
 related:
   - INS-260327-2386
+  - INS-260605-90FB
   - INS-260410-761B
   - INS-260403-F4F6
   - PRI-260406-6AE6
-  - INS-260605-C53B
 ---
 Tan's structural lesson from building GStack: Claude-in-Chrome MCP was 'one of the worst pieces of software I've ever used' — every action required thinking and thinking, took 2-3 seconds even when working, often did nothing, and produced massive context bloat. The fix wasn't fixing the MCP; it was bypassing the MCP entirely by wrapping Playwright + Chromium at the CLI level. Result: agents can take screenshots, click, fill forms, download media, run regression tests, all at native CLI speed.
 

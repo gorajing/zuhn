@@ -49,10 +49,11 @@ related:
   - INS-260330-FC4D
   - INS-260410-9D86
   - INS-260413-11C9
+  - INS-260605-365A
   - INS-260413-7816
   - PRI-260406-3EF8
-  - INS-260501-E843
   - INS-260421-E9FC
+  - INS-260501-E843
   - INS-260605-D3EB
 ---
 Prior to 2025, AI agents had been a capability promise rather than a product. The AI Index 2026 documents the inflection: OSWorld — which tests agents on real computer tasks across operating systems — saw accuracy rise from roughly 12% to 66.3% in a single year, within 6 percentage points of human performance. Claude Sonnet 4.5 alone hit 61.4% on OSWorld computer-use tasks on its September 2025 release, alongside shipping a VS Code extension, memory editing, and the Claude Agent SDK for long-running autonomous workflows. The caveat is that agents still fail roughly 1 in 3 attempts on structured benchmarks, so reliability is the remaining barrier, not capability. For businesses building on agents, this means the question has shifted from 'can agents do X?' to 'what's the cost of a 33% failure rate on X?' — a throughput and verification problem, not a capability problem.

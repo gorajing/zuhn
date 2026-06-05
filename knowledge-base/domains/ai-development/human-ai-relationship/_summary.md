@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 93 insights
+> 94 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -24,6 +24,7 @@
 - `INS-260322-2B2D` [high] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
 - `INS-260328-5431` [high] AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
 - `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
+- `INS-260605-E490` [high] Half-duplex models that only listen OR speak break on the overlap, coughs, and 'mhm' backchanneling that make human talk human — up to 20% of a conversation is overlapping speech.
 - `INS-260411-E6BD` [high] AI can computationally monitor and regulate itself (functional self-awareness) but lacks subjective experience (phenomenal self-awareness), setting a hard epistemic boundary.
 - `INS-260501-A5F5` [high] Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
 - `INS-260403-7CD3` [high] AI provides speed and pattern recognition, but human instinct for customer psychology, timing, and emotional resonance remains the irreplaceable competitive edge.

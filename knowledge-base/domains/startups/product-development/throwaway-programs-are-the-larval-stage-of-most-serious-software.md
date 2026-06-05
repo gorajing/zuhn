@@ -43,7 +43,6 @@ stance: >-
   Supporting quick, disposable prototyping is more important for a platform's
   success than supporting large-scale engineering from day one.
 related:
-  - INS-260320-A4BF
   - INS-260405-C1E4
   - INS-260327-D570
   - INS-260330-0CAD

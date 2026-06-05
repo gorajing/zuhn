@@ -67,7 +67,6 @@ related:
   - INS-260410-2307
   - INS-260423-8504
   - INS-260424-B404
-  - INS-260605-5D66
 ---
 The 100:1 agent-to-employee ratio Jensen Huang outlined isn't just a forecast—it's a benchmark for what meaningful agent deployment looks like at enterprise scale. Most current deployments are experimental, with ratios closer to 1:1 or 5:1. The gap between where companies are and where NVIDIA envisions going is enormous.
 

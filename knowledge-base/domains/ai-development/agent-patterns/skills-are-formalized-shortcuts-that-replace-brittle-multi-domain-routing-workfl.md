@@ -54,12 +54,12 @@ stance: >-
   tasks, making the old router-to-specialist-workflow pattern obsolete.
 related:
   - PRI-260320-D5B7
-  - INS-260501-9503
   - INS-260501-F90F
   - INS-260514-4436
   - INS-260522-213D
   - INS-260605-B6BC
   - PRI-260328-A65A
+  - INS-260605-9276
 ---
 Historically, reliability came from workflows: a router classifies the request and hands it to a narrow specialist agent loaded with the right context (e.g. a password-reset agent). This breaks the moment a user wants two things at once — reset password AND change email — because the router has no branch for the combination. Skills resolve this by giving a general agent a formalized manual it can read on demand, progressively disclosing the context needed for whichever combination of sub-tasks shows up.
 

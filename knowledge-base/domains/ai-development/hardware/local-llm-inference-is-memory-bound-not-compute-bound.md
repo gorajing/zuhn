@@ -56,12 +56,12 @@ related:
   - INS-260330-B4F1
   - INS-260403-72C2
   - INS-260410-0142
-  - INS-260410-5088
   - INS-260410-CB70
   - INS-260501-D18A
   - INS-260514-D023
   - INS-260605-D430
   - INS-260605-A95C
+  - INS-260410-AC0B
 ---
 Cheema separates inference into a prefill phase (compute-bound, loads the prompt into KV cache) and a decode phase (memory-bound, generates tokens one at a time). For a local single user who cannot batch requests across many users, almost all the work is the low-batch-size decode phase, which is memory-bound. That makes three things decisive: whether the model fits in memory at all (otherwise you page from disk and it's unusably slow), how much memory bandwidth you have (which sets token speed), and energy-per-byte (which determines whether a device like a phone overheats or drains in an hour).
 

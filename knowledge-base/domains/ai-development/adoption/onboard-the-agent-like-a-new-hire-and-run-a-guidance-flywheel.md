@@ -53,10 +53,10 @@ stance: >-
   continuously refined every time they go down the wrong path.
 related:
   - INS-260403-4D80
+  - INS-260605-9276
   - INS-260530-D34F
   - INS-260524-2C7C
-  - INS-260410-1030
-  - INS-260424-FE8E
+  - INS-260605-BA6A
 ---
 Intercom's vision was to get the agent to 'act like a senior engineer on any technical task' and to 'connect it to everything' an engineer can do on their laptop. That requires onboarding it exactly like a human hire: Rails conventions, architecture, React patterns, testing standards, security rules — the agent 'absolutely has to know the Intercom-specific information to be able to do the job.'
 

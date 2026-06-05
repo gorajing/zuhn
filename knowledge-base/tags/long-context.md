@@ -4,5 +4,6 @@
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260327-1631` KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.
 - `INS-260514-F277` Three views: recent uncompressed (last 128 tokens), moderately compressed with sparse retrieval, heavily compressed (128:1) for big picture. Same as how a student studies.
+- `INS-260605-4A2D` Turbo Quant cuts KV-cache memory ~4x with exact-match output quality, enabling up to 1M-token context entirely on-device.
 - `INS-260409-5CF4` LLMs can keep index and summary files fresh well enough to replace a dedicated retrieval system.
 - `INS-260410-264E` If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.

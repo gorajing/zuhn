@@ -47,10 +47,10 @@ stance: >-
   reflexive challenge they can't ignore.
 related:
   - INS-260403-AA5B
+  - INS-260605-824F
   - INS-260402-E148
   - INS-260329-4A69
   - PRI-260405-262B
-  - INS-260330-9BB7
 evidence:
   - id: INS-260403-AA5B
     type: CHALLENGES

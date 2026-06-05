@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260505-4351
   - INS-260605-86BE
+  - INS-260605-0748
+  - INS-260605-4375
+  - INS-260605-F064
   - INS-260605-4AF8
-  - INS-260325-BEAC
-  - INS-260405-A22F
-  - INS-260323-7625
 ---
 The talk frames four concrete drivers for running AI on the edge instead of the cloud: real-time latency (camera filters, background replacement, video calls where 'latency is king'), privacy (summarizing sensitive documents without sending them off-device), offline operation under poor connectivity, and cost (avoiding per-token cloud spend, a recurring complaint at the conference). Notably, capability is absent from this list — edge models are small (1-2GB RAM for a 2B model) and the pitch is a hybrid architecture where you offset cloud usage rather than replace frontier quality.
 
