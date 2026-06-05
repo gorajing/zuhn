@@ -5,3 +5,4 @@
 - `INS-260403-4D80` Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
 - `INS-260403-2609` The market has moved from AI-enhanced SaaS that helps humans to AI-native systems of action that autonomously execute entire workflows on their behalf.
 - `INS-260403-656F` Claude Code automation with parallel agents can handle overnight inbox triage, scheduling, and task planning previously done by virtual assistants.
+- `INS-260605-24AC` Build agents for ambiguity and judgment, not for every automation problem.

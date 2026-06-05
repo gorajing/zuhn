@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5481 actionable insights
+Generated on 2026-06-05 | 5490 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -33,6 +33,7 @@ Generated on 2026-06-05 | 5481 actionable insights
 - [INS-260605-8A88] Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
 - [INS-260605-82BD] Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 - [INS-260605-7747] Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
+- [INS-260605-6DE5] Introduce agent patterns where they improve the product; do not start with a rewrite.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -236,6 +237,11 @@ Generated on 2026-06-05 | 5481 actionable insights
 - [INS-260605-DC50] Point the agent at the right sentence instead of forcing it to read the entire book.
 - [INS-260605-6134] The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
 - [INS-260605-2A69] Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
+- [INS-260605-BA4B] Agent autonomy needs a stop rule.
+- [INS-260605-8D12] The reliable agent is software first, LLM loop second.
+- [INS-260605-FC00] Let the model choose the next action; let code execute it.
+- [INS-260605-92FF] The dangerous toolset is ambiguous, not merely large.
+- [INS-260605-24AC] Build agents for ambiguity and judgment, not for every automation problem.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -602,6 +608,7 @@ Generated on 2026-06-05 | 5481 actionable insights
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - [INS-260603-6B3D] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
 - [INS-260605-0266] An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
+- [INS-260605-A46E] Agent guardrails are defense-in-depth, not the security model.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -720,6 +727,7 @@ Generated on 2026-06-05 | 5481 actionable insights
 - [INS-260605-13F9] Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 - [INS-260605-1787] You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - [INS-260605-9F7A] Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
+- [INS-260605-A558] Optimize model cost only after a strong-model baseline proves the workflow can work.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -1040,6 +1048,7 @@ Generated on 2026-06-05 | 5481 actionable insights
 - [INS-260605-6F34] Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.
 - [INS-260605-C436] Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - [INS-260605-C223] A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
+- [INS-260605-F4AE] Variable-driven prompts preserve evaluability as use cases multiply.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

@@ -11,10 +11,10 @@
 - `INS-260514-BD41` Leonard Suskin's point: you can know everything about an entangled system and still know nothing about its individual components. Reductionism fails when parts are deeply relational.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
 - `INS-260412-5965` Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
-- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260412-DE2D` Under neutron star pressures, electrons and protons fuse into neutrons, and nuclei deform into pasta-like structures that may be the strongest material in the universe.
+- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
 - `INS-260412-0EC0` Consciousness is best understood as a multi-step continuum from simple directed motion to self-reflective awareness.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.

@@ -13,11 +13,6 @@
 - `INS-260404-CCB1` Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.
 - `INS-260404-60A6` Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260605-5878` A 'production function' framing shows heterogeneous skill distributions meet complex demand that neither narrow specialists nor broad generalists can satisfy efficiently.
-- `INS-260404-2D82` Frontier tech investing demands specialized fund structures that generalist VCs cannot effectively replicate.
-- `INS-260404-DBD1` Experienced VC partners are increasingly leaving big firms to launch specialized niche funds.
-- `INS-260404-77E7` Specialist VC funds outperform generalist funds by 47%, suggesting deep expertise is the new source of alpha in venture.
-- `INS-260405-7ABE` A narrow focus gives emerging VC managers a sourcing and conviction edge that broad generalist funds cannot easily replicate.
-- `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.
 - `INS-260412-0F9A` Air traffic controllers spend entire careers in a single sector group, building deep spatial knowledge of their specific airspace geometry that enables safe split-second decisions.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
@@ -43,3 +38,8 @@
 - `INS-260412-A38B` Phages kill bacteria by being absurdly specialized against one species, while antibiotics carpet-bomb everything — specialization wins when precision matters.
 - `INS-260412-A4DB` Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
+- `INS-260404-2D82` Frontier tech investing demands specialized fund structures that generalist VCs cannot effectively replicate.
+- `INS-260404-DBD1` Experienced VC partners are increasingly leaving big firms to launch specialized niche funds.
+- `INS-260404-77E7` Specialist VC funds outperform generalist funds by 47%, suggesting deep expertise is the new source of alpha in venture.
+- `INS-260405-7ABE` A narrow focus gives emerging VC managers a sourcing and conviction edge that broad generalist funds cannot easily replicate.
+- `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.

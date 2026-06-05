@@ -1,12 +1,13 @@
 # Topic: architecture
 
-> 78 insights
+> 79 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
 - `INS-260605-0A68` [high] MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260605-7B83` [high] A useful on-device model is 3-4GB, so shipping it once at the system level and letting every app share it is the only way the economics work.
+- `INS-260605-C965` [high] Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260409-C1B2` [high] Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260514-268F` [high] Code churn in one area predicts future complexity — intervene architecturally when you first notice the pattern, not when the mess is already unmaintainable.

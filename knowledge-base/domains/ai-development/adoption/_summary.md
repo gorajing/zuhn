@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 64 insights
+> 65 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -48,6 +48,7 @@
 - `INS-260322-0812` [high] The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
 - `INS-260413-6CE0` [high] 58% of employees globally use AI at work regularly — but the share exceeds 80% in India, China, Nigeria, UAE, and Saudi Arabia, while North America/Europe sit at 40-48%, inverting the usual wealth-diffusion pattern.
 - `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
+- `INS-260605-6DE5` [medium] Introduce agent patterns where they improve the product; do not start with a rewrite.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260514-A946` [medium] AI breaks the elite-tutor monopoly — Go mastery used to require entering an elite academy with a great master; now AI is the master, and non-elite learners can reach top levels without credential access.
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.

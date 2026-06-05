@@ -9,15 +9,13 @@
 - `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260403-F400` Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
-- `INS-260514-618D` Wild automations come from someone first doing it manually — the creative leap precedes the automation, and trying to start with the automation kills the creativity.
-- `INS-260605-7B4C` Treat the context window as a budget to minimize, not a resource to fill, because abundance kills the scrappiness that produces good engineering.
 - `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
+- `INS-260605-7B4C` Treat the context window as a budget to minimize, not a resource to fill, because abundance kills the scrappiness that produces good engineering.
+- `INS-260514-618D` Wild automations come from someone first doing it manually — the creative leap precedes the automation, and trying to start with the automation kills the creativity.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260404-4E6D` Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
-- `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260409-065B` Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
@@ -34,6 +32,8 @@
 - `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
+- `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260323-75A6` Dirac's equation predicting antimatter came from his unusual visual-geometric approach to mathematics -- and he said the equation was 'smarter than he was' because it revealed truths he hadn't put in.
 - `INS-260323-FAF0` Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
@@ -58,10 +58,10 @@
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260404-6A15` Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
-- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
+- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260403-8779` Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.

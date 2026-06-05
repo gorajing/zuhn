@@ -1,8 +1,7 @@
 # Tag: survivorship-bias
 
 - `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
-- `INS-260514-CDCD` Hedge fund returns: top 60% profitable, bottom 40% lose money every year, bottom 25% out of business annually and replaced. Don't reason about 'how hedge funds work' from the celebrated top — the bottom is the more probable destination.
-- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
+- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260323-4E23` What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-5C80` Early Chinese historians systematically reshaped the past to validate Confucian moral philosophy, revealing how all historical narrative serves the ideological needs of its authors.
 - `INS-260330-14E1` Chinese historians wrote dynastic history to prove Confucian moral philosophy, systematically distorting the record to fit their framework.
@@ -16,7 +15,6 @@
 - `INS-260403-C0D4` Failure is a better teacher than success because failure modes cluster predictably while success depends on unrepeatable context.
 - `INS-260323-1670` If the Moon is necessary for complex life, then its improbable formation should be expected — because we can only ask the question in universes where it happened, a form of selection bias that applies to evaluating any rare event.
 - `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
-- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260327-5AF9` The idea that if you haven't succeeded by 30 it's probably over is survivorship bias mythology - most meaningful achievements historically come from people in their 40s, 50s, and beyond.
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
@@ -35,3 +33,5 @@
 - `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260412-379C` Angola simultaneously produced Africa's first female billionaire and had only 15-19% high school attainment—proving that trophy metrics can coexist with systemic failure.
+- `INS-260514-CDCD` Hedge fund returns: top 60% profitable, bottom 40% lose money every year, bottom 25% out of business annually and replaced. Don't reason about 'how hedge funds work' from the celebrated top — the bottom is the more probable destination.
+- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.

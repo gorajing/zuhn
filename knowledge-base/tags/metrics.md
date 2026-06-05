@@ -12,8 +12,6 @@
 - `INS-260605-33B4` CLIP-score rankings of the same models flip across datasets with tiny score differences, while a task-aligned metric (text-rendering) gives stable, well-separated rankings.
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
 - `INS-260605-EC51` An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
-- `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.
-- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260423-9BA5` Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
@@ -22,9 +20,10 @@
 - `INS-260325-93A9` 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
+- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260404-1775` Early-stage startups gain the most from simple, structured KPI tracking rather than complex BI tools or gut feel.
-- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
+- `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260519-7402` James Pastan (Framer): setup enables aha; aha with habit is activation — and if success in the product doesn't mean they pay you, you don't have a business.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
 - `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
@@ -34,7 +33,6 @@
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
-- `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
 - `INS-260328-AB0C` Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
 - `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
 - `INS-260404-E061` Across 60+ transactions, annualized ARR growth rate correlates most strongly with the valuation multiple a company receives.
@@ -56,9 +54,11 @@
 - `INS-260412-DF7B` Civilizational and organizational scale correlate most reliably with total energy/resource throughput.
 - `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
 - `INS-260403-D8DB` Burn multiple (spend per ARR dollar), efficiency score (ARR per burn dollar), and hype factor (capital raised vs ARR) together reveal whether growth is real.
+- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260412-93EA` Rwanda's strategy of explicitly targeting World Bank indicators and global rankings mirrors Goodhart's Law in business — when a measure becomes a target, it ceases to be a good measure.
 - `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
 - `INS-260403-6807` Match your metrics infrastructure to your actual stage—tracking five core dimensions in a spreadsheet beats a premature Looker deployment.
 - `INS-260403-2824` Ensure your call-to-action directly measures what your hypothesis actually claims.
 - `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260412-E925` St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
+- `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.

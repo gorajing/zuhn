@@ -26,9 +26,9 @@
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260404-393A` Strategy is a hypothesis, not a plan — its value is only realized through execution that tests, validates, and iterates on strategic choices.
-- `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
 - `INS-260403-A08A` Ask potential buyers four questions about price perception — too cheap, getting expensive, too expensive, and bargain — to find your data-backed pricing window.
+- `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 - `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
 - `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.

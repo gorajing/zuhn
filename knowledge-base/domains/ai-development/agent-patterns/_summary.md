@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 276 insights
+> 281 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -60,6 +60,7 @@
 - `INS-260605-773B` [high] Build evals high-level around specific failure modes a subject-matter expert identifies, not exhaustively like unit tests.
 - `INS-260605-2186` [high] Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
 - `INS-260409-0DB0` [high] Jerry Liu on the 'additional complexity of evaluating agent loops' — unlike single-shot RAG where you measure retrieval@K and answer correctness, agent loops require tracking state transitions, intermediate decisions, and how errors propagate across steps.
+- `INS-260605-BA4B` [high] Agent autonomy needs a stop rule.
 - `INS-260605-C775` [high] Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
 - `INS-260605-2DD5` [high] Wrap your data and backend systems as command-line tools, because agents are already trained to be proficient with CLIs.
 - `INS-260605-6A32` [high] At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.
@@ -156,6 +157,7 @@
 - `INS-260325-031F` [high] Linda from Minimax outlined three coding eras: GUI copilots where humans supervise, CLI agents where humans trust but cannot inspect every step, and fully autonomous agents spawning sub-agents.
 - `INS-260605-3AB7` [high] An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 - `INS-260605-6134` [high] The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
+- `INS-260605-92FF` [high] The dangerous toolset is ambiguous, not merely large.
 - `INS-260327-9D50` [high] Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260327-79E8` [high] OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
 - `INS-260605-2627` [high] When HTTP calls were cheap you just retried the whole request; when an agent step costs 15 minutes of compute and context, you must treat the error as an input and recover forward.
@@ -167,6 +169,7 @@
 - `INS-260501-8186` [high] We're hacking continual learning by having agents write skill files. Real continual learning — agents that get better at your specific org over time — is research-blocked.
 - `INS-260605-2A69` [high] Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
 - `INS-260605-09B1` [high] Rejected tasks were often under-specified — the testable outcome wasn't stated up front while the back-end tests expected unrequested behavior, or relied on implicit dependencies never given to the model.
+- `INS-260605-24AC` [high] Build agents for ambiguity and judgment, not for every automation problem.
 - `INS-260410-E658` [high] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260410-199B` [high] pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-6591` [high] Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.
@@ -246,6 +249,7 @@
 - `INS-260410-0855` [medium] Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260605-37FB` [medium] Structure agent memory into short-term (current pipeline state), long-term (organized domain history), and reasoning (decision traces capturing the why) rather than one flat store.
 - `INS-260530-AA02` [medium] PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries.
+- `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.
 - `INS-260605-800F` [medium] Onboard agents like new hires — assign a task first and let them pull the knowledge they're missing, rather than graduating them on all documentation before any work.
 - `INS-260514-33FB` [medium] Build a fleet of narrow purpose-built agents (one per channel × intent type) rather than one general agent — specialization improves output quality and per-client modifications stay isolated.
 - `INS-260605-44E2` [medium] Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
@@ -271,6 +275,7 @@
 - `INS-260605-C028` [medium] A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260605-0374` [medium] Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
 - `INS-260605-35D1` [medium] Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
+- `INS-260605-FC00` [medium] Let the model choose the next action; let code execute it.
 - `INS-260603-23B1` [medium] Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.

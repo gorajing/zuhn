@@ -17,6 +17,7 @@
 - `INS-260410-EE5C` Return semantically meaningful names instead of UUIDs in tool responses because agents handle natural language identifiers far more reliably.
 - `INS-260605-0C88` An agent given one 'execute' tool that runs arbitrary TypeScript (including shell calls and AST-based file edits) outperforms one with many narrow tools, because constraining what the model can do makes it do better.
 - `INS-260605-6134` The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
+- `INS-260605-92FF` The dangerous toolset is ambiguous, not merely large.
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
 - `INS-260605-2A69` Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.

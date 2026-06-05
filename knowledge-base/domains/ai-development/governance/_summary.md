@@ -1,8 +1,9 @@
 # Topic: governance
 
-> 40 insights
+> 41 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
+- `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
 - `INS-260409-5B7B` [high] AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260413-9E3D` [high] August 2025: US lawmakers increased scrutiny of AI companion safeguards after a widely reported teen suicide linked to an AI companion. October 13: California enacted SB 243 regulating companion bots — emotional AI is now a distinct regulatory frontier.
 - `INS-260501-504A` [high] AI is industrialization, not nuclear bombs — regulate the dangerous use cases, not the technology itself.

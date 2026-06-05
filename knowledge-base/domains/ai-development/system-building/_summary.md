@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 260 insights
+> 263 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -205,6 +205,7 @@
 - `INS-260501-4646` [high] Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
 - `INS-260409-0EEE` [medium] Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
 - `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
+- `INS-260605-20DD` [medium] Better models reduce friction but do not remove the need for good agent architecture.
 - `INS-260501-FBC6` [medium] Any enterprise older than 10 years or larger than 1000 people is a mass of stuff waiting to be integrated — and AI doesn't fix integration.
 - `INS-260409-A3EC` [medium] The KB is a curated prior; agents should still fetch fresh web content to supplement it.
 - `INS-260501-5582` [medium] AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
@@ -222,6 +223,7 @@
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
 - `INS-260605-CF2E` [medium] Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
+- `INS-260605-5983` [medium] Frameworks speed the first 80%; production quality demands ownership.
 - `INS-260605-9A92` [medium] Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260605-3B8B` [medium] Write a behavioral test when a feature request arrives, not when you add a method to a class.
 - `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
@@ -238,6 +240,7 @@
 - `INS-260329-E280` [medium] OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.
 - `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
 - `INS-260403-5BD6` [medium] A portable master prompt that works across ChatGPT, Claude, and Gemini protects against platform-specific configuration breaking when interfaces change.
+- `INS-260605-F4AE` [medium] Variable-driven prompts preserve evaluability as use cases multiply.
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
 - `INS-260605-8B25` [medium] Unlike traditional observability — owned by systems engineers — agent observability works best when clinicians, lawyers, or wealth advisors read traces directly, because they're closest to the user and the problem.
 - `INS-260605-8E08` [medium] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
