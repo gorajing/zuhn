@@ -55,8 +55,8 @@ related:
   - INS-260321-82FE
   - INS-260501-E3C7
   - PRI-260406-1AC6
+  - INS-260605-DC7C
   - INS-260409-1812
-  - INS-260403-31E4
 ---
 Research across 1,500+ academic papers shows that few-shot prompting — providing the model with example input-output pairs — remains one of the highest-leverage techniques available. Schulhoff cites a medical-coding use case that went from complete failure to near-perfect output by simply adding a few examples. This works because examples ground the model in concrete patterns rather than abstract instructions.
 

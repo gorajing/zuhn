@@ -47,10 +47,10 @@ stance: >-
 related:
   - INS-260328-5431
   - INS-260410-F259
-  - INS-260605-1523
+  - INS-260605-B82E
+  - INS-260605-B405
   - INS-260323-3F39
-  - INS-260505-ABCC
-  - INS-260408-C572
+  - INS-260605-1523
 ---
 The bitter lesson agent builders keep relearning: every instruction, edge case, and fancy conditional you add to a frontier-model agent is a liability. Newer models are good enough that excess instruction causes a sensory overload where they can't determine the right action. The evidence Khan cites is concrete — Codex's GPT-5.3 prompt is one-third the size of its GPT-5 prompt.
 

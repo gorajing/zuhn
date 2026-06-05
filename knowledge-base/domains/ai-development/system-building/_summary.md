@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 256 insights
+> 260 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -75,6 +75,7 @@
 - `INS-260329-9010` [high] Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
 - `INS-260329-3441` [high] Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260409-156A` [high] Markdown files beat embeddings for personal KBs because you can navigate, audit, and grep what the AI actually believes.
+- `INS-260605-D895` [high] Stop trying to one-shot a better prompt; invest in the feedback loop that lets you observe, diagnose, and iterate on LLM behavior.
 - `INS-260320-0F7C` [high] Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260329-2F63` [high] File I/O transforms programming from abstract exercises into tools that interact with the real world.
 - `INS-260329-BD83` [high] File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
@@ -113,6 +114,7 @@
 - `INS-260329-C991` [high] HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
 - `INS-260409-1078` [high] MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-BA55` [high] RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.
+- `INS-260605-6F34` [high] Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.
 - `INS-260501-7726` [high] Karpathy built Menu Gen as a multi-step app, then realized Gemini + Nano Banana renders the entire thing in one shot — the app shouldn't exist.
 - `INS-260409-0D87` [high] Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
 - `INS-260323-2FC3` [high] The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
@@ -142,6 +144,7 @@
 - `INS-260330-B153` [high] Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260329-A67B` [high] When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
 - `INS-260323-22E8` [high] A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
+- `INS-260605-C436` [high] Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - `INS-260330-3B0B` [high] Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
 - `INS-260323-2117` [high] Lagrange's breakthrough was converting the three-body problem from vectors (directional, hard to add) to scalars (magnitudes, trivially additive) — a problem-solving pattern that recurs across engineering and AI.
 - `INS-260320-6F8E` [high] SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
@@ -253,6 +256,7 @@
 - `INS-260329-CF16` [medium] SQL triggers execute automatically and atomically when data changes, making them reliable for maintaining derived tables, audit logs, and cross-table consistency.
 - `INS-260327-F232` [medium] Gershenfeld argues Turing and von Neumann made a fundamental mistake by separating software from hardware - biology computes with its physical structure, not with programs running on it.
 - `INS-260330-77E2` [medium] Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.
+- `INS-260605-C223` [medium] A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 - `INS-260409-086A` [medium] Spawn a subagent per source during ingest so context pollution doesn't degrade later items in the queue.
 - `INS-260501-BA23` [medium] Every SaaS tool you buy creates a data silo. The fix isn't another SaaS — it's a vibe-coded internal tool that hits the source.
 - `INS-260323-E0B5` [medium] Text-only planning (markdown PRDs) is insufficient for vibe coding — parallel visual artifacts like user flows and tree views of functional specs provide the contextual consistency AI agents need.

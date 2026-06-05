@@ -52,6 +52,7 @@ related:
   - INS-260412-6ACA
   - INS-260330-14B1
   - INS-260412-B650
+  - INS-260605-83A7
 ---
 The International Space Station orbits only about 400 km up — roughly Miami to Tallahassee. From there, Earth fills any window you look through and you cannot see the whole planet at once. The famous 'Earth as a marble in space' perspective only appears after trans-lunar injection, tens of thousands of kilometers out. Proximity hides scale; distance reveals it.
 

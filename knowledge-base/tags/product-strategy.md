@@ -4,6 +4,7 @@
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
+- `INS-260605-7B00` Voice is omni-channel: once an agent can speak and listen, it can join a Zoom call, answer a phone line, or assist users who struggle with keyboards — interaction paradigms a text box can't reach.
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
 - `INS-260605-4375` Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.
 - `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
@@ -11,9 +12,9 @@
 - `INS-260405-4091` AI tooling lowers the cost of building but not the cost of building the wrong thing.
 - `INS-260605-2408` Reeve assembled a viral app entirely from existing scale-ready APIs, and concluded the glue and the story about the glue were the project's most important part.
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
-- `INS-260405-690F` The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.
 - `INS-260404-6586` AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
 - `INS-260410-5581` Nike's playbook is obsess over athletes first, let the brand seep into mass consciousness, then extend into $15 Dick's t-shirts without compromising the pinnacle story.
+- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
@@ -23,7 +24,6 @@
 - `INS-260322-7723` AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
 - `INS-260327-E747` Build something 10X better, not incrementally better—that's how Gmail beat Hotmail.
 - `INS-260324-A046` UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
-- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260403-DC6C` Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
@@ -44,10 +44,11 @@
 - `INS-260405-28DF` Viability is table stakes; competitive differentiation must be designed in from day one.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
-- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
-- `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
-- `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
-- `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
+- `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
+- `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
+- `INS-260405-690F` The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.

@@ -59,9 +59,9 @@ related:
   - INS-260605-287A
   - INS-260403-F400
   - INS-260514-5389
-  - INS-260403-18CA
   - INS-260403-F664
   - INS-260409-D6D8
+  - INS-260409-1812
 ---
 There's a common trap in prompt engineering: spending excessive time crafting the perfect initial prompt. The article makes a crucial observation — your follow-up prompts are part of the prompt. The first output is rarely the best, and treating prompting as a layering process (tweak, reframe, narrow, repeat) is both faster and more effective than single-shot perfection.
 

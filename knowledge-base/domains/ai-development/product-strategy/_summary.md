@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 109 insights
+> 113 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -56,6 +56,7 @@
 - `INS-260409-3EB3` [high] Most of what local communities and individuals need from software is simple CRUD persisting data over time with basic user authentication and a few API calls — not the industrial-scale complexity of enterprise software that must serve millions, handle conflicting needs, and scale for VC returns.
 - `INS-260330-BB53` [high] Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260329-B4E7` [high] Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
+- `INS-260605-DC7C` [high] Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
 - `INS-260327-112B` [high] Lowering creation barriers through AI generates stronger social dynamics than optimizing content consumption feeds.
 - `INS-260409-94D6` [high] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260327-C5D9` [high] Just as novice managers check in on delegates after 5 minutes, users must learn to give AI agents minutes or hours before expecting results.
@@ -77,6 +78,7 @@
 - `INS-260323-B4D2` [high] If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260403-AFBB` [high] AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260605-4FE3` [high] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
+- `INS-260605-7A70` [high] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260605-2623` [medium] Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260605-4375` [medium] Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.
@@ -85,6 +87,7 @@
 - `INS-260421-60D9` [medium] Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
 - `INS-260327-E75F` [medium] Just as the internet taught people to consume information through screens, ChatGPT is teaching people to consume it through conversation, which will become the dominant modality because humans prefer easy.
 - `INS-260605-C9EB` [medium] Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
+- `INS-260605-288D` [medium] If your product is truly differentiated, it is by definition custom — and a generic frontier API eventually becomes the wrong tool.
 - `INS-260403-F112` [medium] AI embedded within established innovation frameworks outperforms generic AI tools because it combines methodology guardrails with contextual workflow integration.
 - `INS-260409-5CC6` [medium] Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
 - `INS-260605-5BAD` [medium] Spotify's 'taste profile' exposes what the model knows about you as editable text — you can chat to adjust it, choose what to keep or forget — feeding your edits back into the generative model.
@@ -97,6 +100,7 @@
 - `INS-260424-5759` [medium] Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic.
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
+- `INS-260605-50FB` [medium] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
 - `INS-260421-536F` [medium] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - `INS-260409-6236` [medium] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.

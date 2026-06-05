@@ -59,10 +59,10 @@ related:
   - INS-260329-4109
   - INS-260403-5DD7
   - INS-260403-280B
-  - INS-260404-AB0F
   - INS-260320-76D2
   - INS-260330-6CB7
   - INS-260409-2578
+  - INS-260330-2F74
 ---
 Acquired spent years feeling bad about making few episodes, having no production team, and not being full-time. The turning point came when they reframed the constraint the way Hermès does with Birkin bags: every episode entirely handcrafted by the two of them, thousand-cut manual edits, no delegation. The scarcity stopped being shameful and became the differentiator — the thing the audience and sponsors paid for.
 

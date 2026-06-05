@@ -1,8 +1,5 @@
 # Tag: founder-motivation
 
-- `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
-- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
-- `INS-260412-5ADA` Wayne Westerman's wrist condition drove him to invent the multi-touch technology that became the iPhone's core interface, and the slide-to-unlock was inspired by an airplane toilet latch.
 - `INS-260403-35EE` VCs screen for obsession—founders who would keep building even if the money disappeared—because it predicts survival through inevitable chaos.
 - `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
 - `INS-260403-3E9A` Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
@@ -15,3 +12,6 @@
 - `INS-260403-573F` The most valuable startup ideas come from founders working on what genuinely interests them, not from systematic market analysis.
 - `INS-260605-C699` Building on-device multimodal AI for a blind father in a low-connectivity region produced a general-purpose framework now used by frontier labs and thousands of developers.
 - `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.
+- `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
+- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
+- `INS-260412-5ADA` Wayne Westerman's wrist condition drove him to invent the multi-touch technology that became the iPhone's core interface, and the slide-to-unlock was inspired by an airplane toilet latch.

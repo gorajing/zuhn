@@ -56,9 +56,9 @@ related:
   - INS-260329-D9A4
   - INS-260330-1622
   - INS-260404-BFD0
+  - INS-260605-C436
   - INS-260405-45E0
   - PRI-260403-5C44
-  - PRI-260406-BAD8
   - INS-260410-1384
 ---
 California's High Speed Rail Authority spent billions while producing zero miles of high-speed rail, yet publicly bragged about job creation. This is the organizational equivalent of zero-sum thinking: treating money spent as the output rather than the thing the money was supposed to produce. Progressive city policies that tax productive businesses to fund politically connected but ineffective nonprofits follow the same pattern — redistribution substitutes for production.

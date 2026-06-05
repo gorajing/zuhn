@@ -46,10 +46,10 @@ stance: >-
   building with incomplete understanding.
 related:
   - INS-260514-5389
+  - INS-260605-50FB
   - INS-260519-7744
   - INS-260321-E9B7
   - INS-260329-EAFD
-  - INS-260329-3D28
   - INS-260329-693E
   - INS-260605-90CF
 evidence:

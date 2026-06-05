@@ -16,6 +16,7 @@
 - `INS-260605-434D` Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
 - `INS-260605-4788` Smaller models unlock three production gates at once — affordable cost at scale, sub-third-second latency, and ownership of data and solution.
 - `INS-260605-DA2B` Target ~200–300ms time-to-first-token for the LLM, which constrains model size to roughly 8–30B parameters — bigger burns the latency budget, smaller sacrifices the intelligence and tool calling the agent needs.
+- `INS-260605-B82E` When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.
 - `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
 - `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260514-F74B` Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain.
@@ -30,8 +31,8 @@
 - `INS-260329-AA2C` FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
 - `INS-260329-CD02` FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
 - `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
-- `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
 - `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
+- `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.

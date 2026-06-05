@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5441 actionable insights
+Generated on 2026-06-05 | 5476 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -222,6 +222,16 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-77EB] Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
 - [INS-260605-295D] Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
 - [INS-260605-B136] Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
+- [INS-260605-0E19] Traditional software made you a traffic controller dictating every move; agents make you a dispatcher who states the destination and trusts the agent to find the route.
+- [INS-260605-672C] LLMs compact context and humans forget, so the 'why' behind every flow, feature, and architectural choice must live in durable records an agent can re-discover on demand.
+- [INS-260605-8109] Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.
+- [INS-260605-C9E8] Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
+- [INS-260605-D6EE] The standard research-plan-implement loop is missing an explicit step where the human understands and corrects the agent's research before it plans.
+- [INS-260605-CE19] Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
+- [INS-260605-2E27] Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
+- [INS-260605-F700] Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
+- [INS-260605-29BD] Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
+- [INS-260605-2627] When HTTP calls were cheap you just retried the whole request; when an agent step costs 15 minutes of compute and context, you must treat the error as an input and recover forward.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -445,6 +455,7 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-1C30] If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
 - [INS-260605-BECA] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - [INS-260605-E174] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
+- [INS-260605-C132] Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -515,6 +526,7 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-997E] After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - [INS-260605-205E] If a skill detail can be skipped, the agent will skip it — so anything that defines your product or its safety belongs inline in skill.md, not in a reference file.
 - [INS-260605-46B2] You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
+- [INS-260605-5A6A] Priscila turned her endlessly repeating comprehension prompts into a 'Catch Me Up' skill structured around six exploration modes.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -638,6 +650,7 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-5CC7] When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 - [INS-260605-F8EF] Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT.
 - [INS-260605-A9B4] A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
+- [INS-260605-3AAF] Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -669,6 +682,7 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260411-59F7] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - [INS-260411-33E5] AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
 - [INS-260605-3AFB] AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
+- [INS-260605-0E65] Constant-information tasks (needle-in-haystack, O(1)) survive a full context window, but linear or quadratic information demands degrade accuracy to 30-60% even at low occupancy.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -699,6 +713,8 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-9B99] Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely.
 - [INS-260605-B9A9] A 26K-battle image evaluation took 20 days of compute / $5K / 556 kWh on a slow model versus 7 hours / $265 on a fast one with comparable quality.
 - [INS-260605-13F9] Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
+- [INS-260605-1787] You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
+- [INS-260605-9F7A] Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -717,6 +733,10 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-4D1D] For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - [INS-260605-D3EB] Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt.
 - [INS-260605-C627] You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
+- [INS-260605-C1A5] An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
+- [INS-260605-B405] Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training.
+- [INS-260605-0113] After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
+- [INS-260605-83A7] Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -727,6 +747,9 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260330-2EC0] On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
 - [INS-260410-78F4] Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - [INS-260514-13B6] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
+
+## ai-development/model-architecture
+- [INS-260605-B82E] When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.
 
 ## ai-development/pedagogy
 - [INS-260405-75C4] Watching someone use AI live is more instructive than reading or hearing about it.
@@ -819,6 +842,9 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-4FE3] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - [INS-260605-C122] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - [INS-260605-8691] Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
+- [INS-260605-DC7C] Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
+- [INS-260605-50FB] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
+- [INS-260605-7A70] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -831,6 +857,7 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-6C0C] Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
 - [INS-260605-3899] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
 - [INS-260605-89B0] AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
+- [INS-260605-2C96] Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -1004,6 +1031,10 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-9F16] 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
 - [INS-260605-3B8B] Write a behavioral test when a feature request arrives, not when you add a method to a class.
 - [INS-260605-0BA3] Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
+- [INS-260605-D895] Stop trying to one-shot a better prompt; invest in the feedback loop that lets you observe, diagnose, and iterate on LLM behavior.
+- [INS-260605-6F34] Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.
+- [INS-260605-C436] Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
+- [INS-260605-C223] A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1041,6 +1072,12 @@ Generated on 2026-06-05 | 5441 actionable insights
 - [INS-260605-BDFF] A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - [INS-260605-D129] Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
 - [INS-260605-E706] Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
+- [INS-260605-8F3D] Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
+- [INS-260605-82BC] A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
+- [INS-260605-7711] Build bespoke tracing that structures the data your way and serves product/data/CX — not just engineers — because LLMs make such internal tools cheap to one-shot.
+- [INS-260605-1B9D] Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
+- [INS-260605-D320] Forbid the capability that creates a bug class — e.g. ban database access from template rendering so N+1 queries can never occur — instead of repeatedly hunting for instances.
+- [INS-260605-9362] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

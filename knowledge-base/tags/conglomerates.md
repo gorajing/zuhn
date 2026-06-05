@@ -6,5 +6,5 @@
 - `INS-260412-1711` Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
 - `INS-260324-98F6` The Big Five movie studios (Paramount, Universal, Sony, Warner Bros, Disney) all have diversified parent conglomerates because standalone film businesses can't absorb the inevitable flops.
-- `INS-260410-E338` Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.
 - `INS-260412-7E99` Tata doesn't just operate in many industries — they rank top 5-10 globally in multiple verticals simultaneously.
+- `INS-260410-E338` Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.

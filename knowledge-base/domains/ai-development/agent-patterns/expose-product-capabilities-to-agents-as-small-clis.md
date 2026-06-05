@@ -48,7 +48,6 @@ stance: >-
   systems because agents are demonstrably good at using them.
 related:
   - INS-260322-22B3
-  - INS-260325-2FC1
   - INS-260327-63B5
   - INS-260327-FE24
   - INS-260410-19DE
@@ -57,6 +56,7 @@ related:
   - INS-260605-3553
   - INS-260605-98BD
   - INS-260605-4509
+  - INS-260605-9276
 ---
 In Seven AI's B2B sales pipeline, agents talk to the CRM and ERP not through bespoke APIs but through CLIs. Luebken's reasoning is empirical: 'our agents are really good at using CLIs, so we make it available as a CLI.' Coding agents have seen enormous amounts of command-line usage in training, so a CLI is a high-leverage, low-friction way to grant capabilities.
 

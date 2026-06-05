@@ -49,13 +49,13 @@ related:
   - INS-260505-ABCC
   - INS-260404-8EFB
   - INS-260405-82F3
+  - INS-260605-B405
   - INS-260410-5951
   - INS-260403-1EFF
   - INS-260408-F20F
   - INS-260410-56B4
   - INS-260505-8322
-  - INS-260605-1523
-  - INS-260605-8E08
+  - INS-260605-EBEB
 stance: >-
   Modern frontier models are essentially GPT-2 with minor tweaks; the real
   advances are in training methodology, data curation, and post-training.

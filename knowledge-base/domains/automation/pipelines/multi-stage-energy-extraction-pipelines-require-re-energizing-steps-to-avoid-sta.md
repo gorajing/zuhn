@@ -51,10 +51,10 @@ stance: >-
   processing capacity
 related:
   - INS-260404-8292
+  - INS-260605-8F3D
   - PRI-260406-0A40
   - INS-260403-BD30
   - INS-260410-38AA
-  - PRI-260320-BC72
 evidence:
   - id: INS-260325-722C
     type: TRANSFERS_TO

@@ -42,7 +42,6 @@ stance: >-
   Attempting to conceal inexperience through corporate polish actually hides the
   raw talent that sophisticated evaluators are screening for.
 related:
-  - INS-260403-0CA8
   - INS-260404-F965
   - PRI-260405-4B06
   - INS-260405-371F

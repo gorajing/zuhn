@@ -7,4 +7,5 @@
 - `INS-260605-83DA` Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260605-A2AD` When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.
+- `INS-260605-9362` LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.

@@ -56,10 +56,10 @@ stance: >-
   requiring you to rebuild datasets or hand-tune prompts.
 related:
   - INS-260412-9777
+  - INS-260605-B82E
   - INS-260501-FDF0
+  - INS-260605-D895
   - INS-260412-1A10
-  - INS-260605-5CC7
-  - INS-260410-684D
 ---
 Prompting, instruction fine-tuning, and reinforcement learning all aim at the same goal — steering a model's behavior — but they are not equally effective. RL is disproportionately more effective because it absorbs feedback from heterogeneous sources (client feedback, business metrics, environmental reward) into a reward signal almost by construction, rather than forcing you to manually edit prompts or regenerate training data every week.
 

@@ -1,6 +1,7 @@
 # Tag: experiment-design
 
 - `INS-260505-D440` Old model: experiment, analyze later. New model: model adjusts experiment in real-time from in-flight data, before the first run completes.
+- `INS-260605-8F3D` Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - `INS-260403-1BCC` Replace opinion-gathering with experiments that require customers to sacrifice something real — time, money, or reputation.
 - `INS-260403-2824` Ensure your call-to-action directly measures what your hypothesis actually claims.

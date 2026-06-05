@@ -1,9 +1,9 @@
 # Tag: monetary-policy
 
 - `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
+- `INS-260412-B2FC` Because fiat money creation is inflationary by design, rational actors will always seek assets outside the system — gold historically, crypto increasingly.
 - `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
 - `INS-260412-3EFA` Japan's window guidance system first directed capital into productive sectors, then became the engine of reckless lending that created the bubble.
-- `INS-260412-B2FC` Because fiat money creation is inflationary by design, rational actors will always seek assets outside the system — gold historically, crypto increasingly.
 - `INS-260409-053F` Arthur Burns admitted in a 1979 speech that the Fed had the power to end 1970s inflation but didn't because the political cost (mass unemployment during Cold War mobilization) was unacceptable — the same constraint now applies under US-China rivalry.
 - `INS-260412-AB8A` Post-2008 money printing inflates assets faster than wages, making housing and investments progressively unreachable for wage earners.
 - `INS-260412-2054` When money is created through bank lending, reducing total debt shrinks the money supply itself, creating a deflationary spiral.

@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 76 insights
+> 81 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -14,6 +14,7 @@
 - `INS-260320-7B4B` [high] HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260605-738E` [high] Use a strong cloud LLM to generate low-millions-to-tens-of-millions of synthetic examples of the target behavior, then fine-tune an off-the-shelf tiny model (e.g. Gemma 270M) on that data and quantize for deployment.
 - `INS-260410-F053` [high] Zuckerberg frames distillation as the surprise-strong technique of the last year — ~95% of a teacher model's intelligence captured at ~10% of the cost — and says the point of open-sourcing behemoth models is to enable distillation, not direct deployment.
+- `INS-260605-B405` [high] Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training.
 - `INS-260327-1B9A` [high] Kimi K2.5's early fusion of vision and text from pre-training day one produced emergent vision-to-code capabilities and mutual enhancement between modalities.
 - `INS-260323-47D8` [high] Conversations with jailbroken LLMs like Dan and Sydney become part of future training data, meaning each LLM's personality becomes immortal — reincarnatable by any future model trained on internet data.
 - `INS-260403-1F1B` [high] More training data produces diminishing performance improvements, forcing differentiation through data quality and architecture innovation.
@@ -37,6 +38,7 @@
 - `INS-260330-CAE6` [high] Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
 - `INS-260330-3ADD` [high] Networks achieve 96%+ accuracy with hidden layers that look nearly random rather than detecting edges and patterns as designed.
 - `INS-260330-AE16` [high] Neural network layers learn progressively abstract representations — pixels to edges to shapes to concepts — which is why depth matters more than width for complex tasks.
+- `INS-260605-0113` [high] After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
 - `INS-260323-23B9` [high] Zuckerberg argues open source AI models become safer through increased scrutiny, faster bug discovery, and rapid version rollouts -- the same dynamic that made open source software more secure than proprietary alternatives.
 - `INS-260410-34F5` [high] Padding GPT-2's vocab from 50,257 to 50,304 (the next multiple of 64) added ~4% dead parameters but made training measurably faster with zero algorithmic change.
 - `INS-260323-6C6F` [high] Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
@@ -60,7 +62,9 @@
 - `INS-260323-3F39` [high] Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
 - `INS-260330-D3F5` [high] LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260605-311E` [high] 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon.
+- `INS-260605-83A7` [high] Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise.
 - `INS-260325-5B28` [medium] Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
+- `INS-260605-C1A5` [medium] An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260410-0EF8` [medium] Most headline software innovations in deep learning were really innovations in how to exploit more compute—so 'software-only singularity' stories that hold compute fixed are misspecified.
 - `INS-260323-2651` [medium] Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260410-AA93` [medium] Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
@@ -70,6 +74,7 @@
 - `INS-260501-8B78` [medium] GPT-5 is reportedly trained on ~150T tokens; over its 2-month life it generates ~200T tokens — pretraining ≈ lifetime inference, by design.
 - `INS-260410-D082` [medium] Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
 - `INS-260402-5034` [medium] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
+- `INS-260605-5A8E` [medium] Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward.
 - `INS-260501-31E1` [medium] Cost minimization heuristic: when summed costs follow power laws, the optimum is where each term is equal — apply this to pretraining/RL/inference.
 - `INS-260403-CDB9` [medium] Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.
 - `INS-260403-CDB0` [medium] DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.

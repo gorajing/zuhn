@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 38 insights
+> 41 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -16,6 +16,7 @@
 - `INS-260325-6150` [high] TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260409-B15B` [high] MemPalace wake-up (~170 tokens/session) plus ~5 searches/session costs about $10/year; the equivalent LLM-summary approach burns ~$507/year — a 50x cost asymmetry that makes personal AI memory a near-commodity.
 - `INS-260403-B16E` [high] DeepSeek's MoE architecture activates only relevant neurons per task, slashing compute costs while maintaining competitive performance.
+- `INS-260605-1787` [high] You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - `INS-260410-3F1A` [high] Loading a document once into the prompt cache and referencing it across many chunk-context calls drops the cost of LLM-generated chunk annotations to roughly $1 per million document tokens.
 - `INS-260605-E4BB` [high] Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
 - `INS-260410-43E4` [high] GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
@@ -29,6 +30,7 @@
 - `INS-260403-91F7` [high] AI inference costs create variable expense per interaction, breaking the traditional SaaS model of near-zero marginal cost per user.
 - `INS-260320-0511` [high] Use cheap models (gpt-5-nano) for categorization/relevance scoring before expensive models — removes 70-90% of irrelevant inputs.
 - `INS-260320-2058` [high] Use OpenRouter for a unified dashboard, model switching, spending tracking, and hard budget limits across all LLM providers.
+- `INS-260605-9F7A` [high] Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
 - `INS-260605-6F98` [medium] Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
 - `INS-260605-8F42` [medium] The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
 - `INS-260320-9937` [medium] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -36,6 +38,7 @@
 - `INS-260412-9B00` [medium] At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260405-DA33` [medium] DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
 - `INS-260404-CE26` [medium] Nvidia's CUDA monopoly on AI training becomes less relevant when models can be trained efficiently on modest hardware.
+- `INS-260605-D33F` [medium] Specialized fine-tuned models reportedly beat frontier APIs at ~1/5 the cost (Intercom) or orders of magnitude cheaper, because they only need to win at one task.
 - `INS-260320-D972` [medium] Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
 - `INS-260514-CEEA` [medium] Token spend is bimodal: S-tier engineers compound 10-100x; web-dev tier trashes tokens (100k lines where 1k would do). Companies will eventually clamp down on the mediocre tier while expanding access for top engineers.
 - `INS-260605-9B99` [medium] Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely.

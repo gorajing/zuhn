@@ -6,11 +6,11 @@
 - `INS-260603-23B1` Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260514-A15D` Auto-generate ICP/personas/use-cases by scraping the company's website with an AI agent — turns a 2-hour foundational setup that founders typically skip into a 5-minute pass with editable outputs.
 - `INS-260605-D2C7` STDIO MCP servers require users to edit a config file with a JSON command string to spawn a local process, while HTTP servers install by pasting a name and URL — and fit serverless edge functions cleanly.
+- `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
 - `INS-260605-EF3C` A company-curated baseline agent — approved MCP servers, sanctioned auth, team-specific skills, shared drive access — fanned out to every new hire turns agent onboarding into a reproducible, governed default.
 - `INS-260320-D4BD` New engineers hit the ground running with clear specs defining both what to build and what has already been done.
 - `INS-260329-B2F4` Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
-- `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260403-BFF3` Find the one early action your retained users share — like Calm's Day 1 reminder or Facebook's 7 friends — and rebuild onboarding around it.
 - `INS-260404-3771` Find what sticky users do differently, then make every new user do that thing.
@@ -23,3 +23,4 @@
 - `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
 - `INS-260329-100D` Orient sales training around deep prospect understanding rather than product knowledge — reps shouldn't be talking much about the product anyway.
+- `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.

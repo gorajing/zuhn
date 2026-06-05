@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-05 | 2837 sources
+Generated on 2026-06-05 | 2846 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -293,6 +293,7 @@ Generated on 2026-06-05 | 2837 sources
 | How to Build a Magnetic Brand that Sells Itself ft. Seth Godin | youtube | 6 | 2026-03-27 |
 | How To Get Better Advice | youtube | 6 | 2026-03-29 |
 | How to Sell Better than 99% Of People (4 HOUR ULTIMATE GUIDE) | youtube | 6 | 2026-03-30 |
+| How We Built Zeta2: Training an Edit Prediction Model in Production — Ben Kunkle, Zed | youtube | 6 | 2026-06-05 |
 | I Automate 80% of GTM (The 20% I'll NEVER Automate Made Me $100Ks) | youtube | 6 | 2026-05-14 |
 | Is My Startup Growing Fast Enough? | youtube | 6 | 2026-03-29 |
 | Jonathan Rivnay is building a "living pharmacy" to dispense personalized medicine | youtube | 6 | 2026-04-09 |
@@ -781,6 +782,7 @@ Generated on 2026-06-05 | 2837 sources
 | Are We Alone in the Universe?: A Conversation with Neil deGrasse Tyson (Episode #252) | youtube | 5 | 2026-03-30 |
 | Artificial meat is harder than artificial intelligence — Lewis Bollard | youtube | 5 | 2026-04-10 |
 | Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next | youtube | 5 | 2026-03-22 |
+| BDD, ADR, PRD, WTF: Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence | youtube | 5 | 2026-06-05 |
 | Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years | youtube | 5 | 2026-03-22 |
 | Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336 | youtube | 5 | 2026-03-30 |
 | Benchmark Part I | youtube | 5 | 2026-04-11 |
@@ -857,6 +859,7 @@ Generated on 2026-06-05 | 2837 sources
 | Ex-Tudor Quant PM: “There Hasn't Been a New Idea in Trading for 15 Years” | youtube | 5 | 2026-05-14 |
 | 'Fake Bitcoin' - How this Woman Scammed the World, then Vanished | youtube | 5 | 2026-04-12 |
 | Fast Models Need Slow Developers — Sarah Chieng, Cerebras | youtube | 5 | 2026-06-05 |
+| Feedback Loops are All You Need — Mehedi Hassan, Granola | youtube | 5 | 2026-06-05 |
 | Feel Free is a NIGHTMARE | youtube | 5 | 2026-03-26 |
 | FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496 | youtube | 5 | 2026-05-14 |
 | Fighting AI with AI — Lawrence Jones, Incident | youtube | 5 | 2026-06-05 |
@@ -869,6 +872,7 @@ Generated on 2026-06-05 | 2837 sources
 | Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 5 | 2026-04-10 |
 | Gemini Nano on device — Florina Muntenescu & Oli Gaymond, Google DeepMind | youtube | 5 | 2026-06-05 |
 | Give Your Agent a Computer — Nico Albanese, Vercel | youtube | 5 | 2026-06-05 |
+| Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs | youtube | 5 | 2026-06-05 |
 | God-Tier Developer Roadmap | youtube | 5 | 2026-03-30 |
 | GOING SUPERSONIC with U.S. Air Force Thunderbirds! Pulling 7 G's in an F-16 -Smarter Every Day 235 | youtube | 5 | 2026-03-30 |
 | Google Part I: Origins of Search. How the Best Business in Human History Happened (Audio) | youtube | 5 | 2026-04-11 |
@@ -1056,6 +1060,7 @@ Generated on 2026-06-05 | 2837 sources
 | Satya Nadella — Microsoft’s AGI plan & quantum breakthrough | youtube | 5 | 2026-04-10 |
 | Satya Nadella shows me the first Majorana 1 Quantum Computing chip | youtube | 5 | 2026-04-10 |
 | Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw | youtube | 5 | 2026-06-05 |
+| Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum | youtube | 5 | 2026-06-05 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
 | Self-Training Agents: Hermes Agent, HF Traces, Skills, MCP & Finetuning  — Merve Noyan, Hugging Face | youtube | 5 | 2026-06-05 |
 | Sessions: David Senra (Founders Podcast) | youtube | 5 | 2026-04-11 |
@@ -1082,6 +1087,7 @@ Generated on 2026-06-05 | 2837 sources
 | Text Diffusion — Brendon Dillon, Google DeepMind | youtube | 5 | 2026-06-05 |
 | The $700 Billion AI Productivity Problem No One's Talking About | youtube | 5 | 2026-03-22 |
 | The AI Opportunity that goes beyond Models | youtube | 5 | 2026-03-22 |
+| The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry | youtube | 5 | 2026-06-05 |
 | The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI | youtube | 5 | 2026-06-05 |
 | The Backwards Brain Bicycle - Smarter Every Day 133 | youtube | 5 | 2026-03-30 |
 | The Beginning of Infinity, Part 1 | youtube | 5 | 2026-03-30 |
@@ -1174,7 +1180,9 @@ Generated on 2026-06-05 | 2837 sources
 | What Alcohol Does to Your Body, Brain & Health | youtube | 5 | 2026-03-30 |
 | What Breaks When You Build AI Under Sovereignty Constraints - Bilge Yücel, deepset GmbH | youtube | 5 | 2026-06-05 |
 | What if the network was the sandbox? — Remy Guercio, Tailscale | youtube | 5 | 2026-06-05 |
+| What Lies Beneath the API — Benjamin Cowen, Modal | youtube | 5 | 2026-06-05 |
 | What Putin Fears More Than War | youtube | 5 | 2026-03-30 |
+| What the Best Agents Share — Mardu Swanepoel, Flinn AI | youtube | 5 | 2026-06-05 |
 | What will automated firms look like? | youtube | 5 | 2026-04-10 |
 | Where does consumer AI stand at the end of 2025? | youtube | 5 | 2026-03-22 |
 | Which Way Is Down? | youtube | 5 | 2026-03-30 |
@@ -1193,6 +1201,7 @@ Generated on 2026-06-05 | 2837 sources
 | Why Rome actually fell: plagues, slavery, & ice age — Kyle Harper | youtube | 5 | 2026-04-10 |
 | Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry | youtube | 5 | 2026-06-05 |
 | Why Scale Will Not Solve AGI | Vishal Misra - The a16z Show | youtube | 5 | 2026-03-22 |
+| Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind | youtube | 5 | 2026-06-05 |
 | Why Smart People Don't See What's Wrong With Trump | youtube | 5 | 2026-03-30 |
 | Why Sri Lanka is Collapsing: the Coming Global Food Crisis | youtube | 5 | 2026-03-30 |
 | Why the next 25 years could surpass anything in modern memory | Peter Leyden: Full Interview | youtube | 5 | 2026-03-25 |
@@ -2760,6 +2769,15 @@ Generated on 2026-06-05 | 2837 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | 하버드대에서 밝힌 「삶에 여유가 없을수록 꼭 해야하는 1가지」 | youtube | 0 | 2026-04-23 |
 | "10배 저렴한데, 효과는 더 좋습니다!" 피부과 의사가 매일 쓰고 효과 본 재생크림 6가지 추천 | youtube | 0 | 2026-04-23 |
 | 10년 전, 젠슨 황과 일론 머스크가 본 미래 | 거장들의 대화 Ep.01 | youtube | 0 | 2026-04-23 |
@@ -2773,7 +2791,6 @@ Generated on 2026-06-05 | 2837 sources
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
 | Anthropic's Raise & What It Means for Potential IPO? Mag7: Google & Amazon Up, Meta & Microsoft Down | youtube | 0 | 2026-05-14 |
 | Automating Creativity: Building Gen Media Agents with ADK and MCP | youtube | 0 | 2026-04-24 |
-| BDD, ADR, PRD, WTF: Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence | youtube | 0 | 2026-06-05 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
@@ -2788,7 +2805,6 @@ Generated on 2026-06-05 | 2837 sources
 | Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 0 | 2026-04-23 |
 | Everyday Foods that Feed CANCER Cells | youtube | 0 | 2026-04-23 |
 | Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
-| Feedback Loops are All You Need — Mehedi Hassan, Granola | youtube | 0 | 2026-06-05 |
 | Former Warner Records President REVEALS How Great Artists Are Built | youtube | 0 | 2026-04-23 |
 | François Chollet: Why Scaling Alone Isn’t Enough for AGI | youtube | 0 | 2026-04-23 |
 | From idea to production: Building AI apps with GDE Tomek Porozynski | youtube | 0 | 2026-04-24 |
@@ -2797,7 +2813,6 @@ Generated on 2026-06-05 | 2837 sources
 | From smartphones to Raspberry Pi: Running Gemma 4 anywhere | youtube | 0 | 2026-04-24 |
 | From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud | youtube | 0 | 2026-04-24 |
 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
-| Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs | youtube | 0 | 2026-06-05 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
 | How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly | youtube | 0 | 2026-04-23 |
 | How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z | youtube | 0 | 2026-04-23 |
@@ -2805,7 +2820,6 @@ Generated on 2026-06-05 | 2837 sources
 | How to Launch a Product Without a Following (What Actually Works) | youtube | 0 | 2026-04-23 |
 | How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show | youtube | 0 | 2026-04-23 |
 | ⚡️ How to turn Documents into Knowledge: Graphs in Modern AI — Emil Eifrem, CEO Neo4J | youtube | 0 | 2026-04-23 |
-| How We Built Zeta2: Training an Edit Prediction Model in Production — Ben Kunkle, Zed | youtube | 0 | 2026-06-05 |
 | Ilya Sutskever – We're moving from the age of scaling to the age of research | youtube | 0 | 2026-04-23 |
 | It's Tough, But It Gets You Abs In 60 Days | youtube | 0 | 2026-04-23 |
 | Jack Dorsey: Every Company Can Now Be a Mini-AGI | youtube | 0 | 2026-04-23 |
@@ -2822,10 +2836,8 @@ Generated on 2026-06-05 | 2837 sources
 | Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
 | Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
 | Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
-| Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum | youtube | 0 | 2026-06-05 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-23 |
 | Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z | youtube | 0 | 2026-04-23 |
-| The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry | youtube | 0 | 2026-06-05 |
 | ⚡️ The best engineers don't write the most code. They delete the most code. — Stay Sassy | youtube | 0 | 2026-04-23 |
 | The Early Days of Anthropic & How 21 of 22 VCs Rejected It | The Four Bottlenecks in AI | Anj Midha | youtube | 0 | 2026-04-23 |
 | The Era of Hierarchical Reasoning Models | youtube | 0 | 2026-04-23 |
@@ -2834,9 +2846,6 @@ Generated on 2026-06-05 | 2837 sources
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
-| What Lies Beneath the API — Benjamin Cowen, Modal | youtube | 0 | 2026-06-05 |
-| What the Best Agents Share — Mardu Swanepoel, Flinn AI | youtube | 0 | 2026-06-05 |
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Claude Feels Different (And What That Means for AI) | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Reinforcement Learning Unlocks Reasoning in LLMs (Aha Moments Explained) | youtube | 0 | 2026-04-23 |
-| Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind | youtube | 0 | 2026-06-05 |

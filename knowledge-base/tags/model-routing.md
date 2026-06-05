@@ -1,6 +1,8 @@
 # Tag: model-routing
 
+- `INS-260605-F700` Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - `INS-260605-320E` The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
+- `INS-260605-1787` You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - `INS-260320-0511` Use cheap models (gpt-5-nano) for categorization/relevance scoring before expensive models — removes 70-90% of irrelevant inputs.
 - `INS-260325-DD43` Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
 - `INS-260403-26D4` Smart AI companies build cost moats through hybrid retrieval layers, intelligent caching, and model routing rather than competing on raw feature parity.

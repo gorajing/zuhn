@@ -62,6 +62,7 @@ related:
   - INS-260514-9D0A
   - INS-260329-EF89
   - INS-260327-9C56
+  - INS-260605-0113
 ---
 Asked about AI tutors, Mulgrew says the plan is 'largely not to necessarily develop products that compete with yours, but rather set benchmarks and guardrails for how schools can then adopt whatever products they want.' Concretely, 10DS is producing safeguards and evaluating frontier models against benchmarks — not just for classroom safety but on metrics like the cognitive load placed on the student. This mirrors the AI Safety Institute's role as the government body for evaluating frontier models.
 

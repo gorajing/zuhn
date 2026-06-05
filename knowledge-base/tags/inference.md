@@ -7,6 +7,7 @@
 - `INS-260403-64F4` While AI models commoditize, proprietary data for training and low-latency inference infrastructure will capture disproportionate value.
 - `INS-260405-3240` AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable.
 - `INS-260405-A22F` Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
+- `INS-260605-6A0A` Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
 - `INS-260410-2307` There are ~10M H100-equivalents today and ~100M projected by 2028, which caps how many AGI-agents can run in parallel regardless of whether the models exist.
 - `INS-260423-6172` Chamath: training is systems work with different traffic patterns; inference is north-south with separate prefill/decode, and SRAM-heavy designs that don't make sense for training crush at decode.
 - `INS-260605-86BE` Training is compute-bound, but single-user local inference is dominated by memory bandwidth, memory capacity, and energy-per-byte — so pick hardware on those axes, not FLOPS.

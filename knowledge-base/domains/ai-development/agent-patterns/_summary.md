@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 261 insights
+> 272 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -21,10 +21,12 @@
 - `INS-260605-74E8` [high] An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260410-3601` [high] The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
 - `INS-260410-9F17` [high] If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
+- `INS-260605-0E19` [high] Traditional software made you a traffic controller dictating every move; agents make you a dispatcher who states the destination and trusts the agent to find the route.
 - `INS-260605-02FB` [high] Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
 - `INS-260327-A9D5` [high] Chase says building agents is more iterative because with software you iterate on what it should do, while with agents you must also iterate on understanding what it actually does — a fundamentally different development loop.
 - `INS-260501-EA32` [high] OpenClaw has no memory; you re-explain everything daily. Hermes auto-writes to SQLite and the agent can query its own history.
 - `INS-260321-B85C` [high] Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
+- `INS-260605-672C` [high] LLMs compact context and humans forget, so the 'why' behind every flow, feature, and architectural choice must live in durable records an agent can re-discover on demand.
 - `INS-260605-75B7` [high] A leaked Claude Code keyword regex (WTF, this sucks, horrible) flipping a frustration boolean per session shows that a cheap, individually-fallible regex becomes an incredibly valuable signal when aggregated across many users and tagged against each release.
 - `INS-260320-1B10` [high] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
 - `INS-260409-7C62` [high] CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
@@ -34,6 +36,7 @@
 - `INS-260410-D92A` [high] Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260605-077D` [high] A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
 - `INS-260410-0E26` [high] Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
+- `INS-260605-8109` [high] Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.
 - `INS-260603-D44B` [high] Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
 - `INS-260327-F625` [high] Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
 - `INS-260605-2284` [high] The hard problem in agents has shifted from writing good prompts to strategically choosing what the model sees.
@@ -50,6 +53,7 @@
 - `INS-260410-2C51` [high] Constrain agents to one feature per session and require a git commit plus progress-file update before stopping, so the next session inherits a clean baseline.
 - `INS-260327-9EFE` [high] The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
 - `INS-260605-07E5` [high] Build a state machine with gates between agents so steps can't be skipped, instead of trusting prompt instructions the model can ignore.
+- `INS-260605-C9E8` [high] Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
 - `INS-260327-E07C` [high] The same environment you use to eval your model offline can be used as your train set for reinforcement learning, unifying evaluation and training infrastructure.
 - `INS-260410-38C8` [high] The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
 - `INS-260605-3119` [high] Putting a 'robe and cloak' on an LLM doesn't make it trustworthy — eval the judge itself against human-labeled ground truth.
@@ -103,6 +107,7 @@
 - `INS-260605-ECB0` [high] Keeping only the head of the context breaks multi-turn reasoning, and LLM summarization gives no control over what survives.
 - `INS-260605-A03E` [high] Evals and observability are the same scoring problem — evals just know the inputs ahead of time and run in batch, while observability scores unknown inputs in real time.
 - `INS-260605-4DB9` [high] Not all context belongs in the same agent — delegate searches and intermediate reasoning to sub-agents and pass only results back to the main conversation.
+- `INS-260605-CE19` [high] Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260411-52C8` [high] When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
 - `INS-260410-7ED2` [high] When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
@@ -111,6 +116,7 @@
 - `INS-260605-9F5C` [high] Agents with growing tools, sub-agents, and memory sources have an effectively infinite input/output space that golden datasets can't cover, so monitoring production replaces testing as the dominant reliability lever.
 - `INS-260605-1523` [high] Optimize prompts when the model has never seen your data; skip it when a frontier model already knows the answer.
 - `INS-260605-B1FC` [high] An optimizer that hit 96% accuracy still wrongly excluded aunts and uncles because its training subset never showed them — classic overfitting.
+- `INS-260605-2E27` [high] Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
 - `INS-260605-8C71` [high] Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
 - `INS-260605-1A91` [high] Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260605-7FEA` [high] Match models to roles—careful reasoning for planning, fast fluency for implementation, precise instruction-following for validation—and avoid locking into one provider.
@@ -120,6 +126,7 @@
 - `INS-260605-E7F2` [high] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
 - `INS-260605-DB29` [high] The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
 - `INS-260605-35B4` [high] Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
+- `INS-260605-29BD` [high] Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
 - `INS-260327-1B82` [high] Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260605-2D70` [high] Default to one worker/validator at a time and parallelize only read-only work like code search, API research, and code review.
 - `INS-260410-EE5C` [high] Return semantically meaningful names instead of UUIDs in tool responses because agents handle natural language identifiers far more reliably.
@@ -148,6 +155,7 @@
 - `INS-260605-3AB7` [high] An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 - `INS-260327-9D50` [high] Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260327-79E8` [high] OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
+- `INS-260605-2627` [high] When HTTP calls were cheap you just retried the whole request; when an agent step costs 15 minutes of compute and context, you must treat the error as an input and recover forward.
 - `INS-260410-9EFC` [high] Context is not free real estate — every token spent depletes the model's attention budget, so curate aggressively.
 - `INS-260605-09E0` [high] Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - `INS-260605-E9E2` [high] Get a feel for each model's spiky weak spots, fill those gaps with harness scaffolding, then delete that scaffolding once a later model internalizes the capability.
@@ -211,6 +219,7 @@
 - `INS-260410-62E8` [medium] Each agent claims a task by writing a lockfile to current_tasks/ and pushes via git; git's atomicity handles races and Claude handles merge conflicts.
 - `INS-260605-5404` [medium] GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260605-2795` [medium] Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
+- `INS-260605-D6EE` [medium] The standard research-plan-implement loop is missing an explicit step where the human understands and corrects the agent's research before it plans.
 - `INS-260405-A992` [medium] Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260605-3553` [medium] Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.
 - `INS-260501-3D0C` [medium] Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
@@ -238,6 +247,7 @@
 - `INS-260605-44E2` [medium] Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
+- `INS-260605-F700` [medium] Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - `INS-260327-35C7` [medium] Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260605-9E46` [medium] Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
 - `INS-260605-A175` [medium] Classify each decision by reversibility and cost of error, and let serious, irreversible, high-cost decisions consume far more of the agent's analysis budget.
@@ -256,6 +266,7 @@
 - `INS-260605-014F` [medium] A RAG knowledge base helps an agent answer correctly; a context graph storing past decisions and why they were made lets the agent decide and justify.
 - `INS-260605-C028` [medium] A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260605-0374` [medium] Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
+- `INS-260605-35D1` [medium] Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
 - `INS-260603-23B1` [medium] Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.

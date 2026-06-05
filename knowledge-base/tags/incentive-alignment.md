@@ -6,10 +6,6 @@
 - `INS-260412-E21D` Adam Neumann walked away with $1.7B while thousands of employees faced layoffs, revealing how founder exit packages can create severe moral hazard.
 - `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
 - `INS-260410-AA87` Mao kept exporting grain while 40 million Chinese starved because food exports were 'his pocket change' — the main source of government income he needed to fund anything else.
-- `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
-- `INS-260412-5BBA` Firms allowing executive personal use of corporate jets underperform the market by ~4% annually — the people deciding to buy jets are the ones who fly them.
-- `INS-260403-2AC0` Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
-- `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260329-2EAA` Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
@@ -34,7 +30,11 @@
 - `INS-260410-17AE` Visa's 'reverse holding company' — a for-profit, non-stock membership corporation with non-transferable participation rights — made member banks structurally unable to sell, exit, or run competing networks.
 - `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
 - `INS-260404-A9D0` Bid-times-conversion ranking resolves the monetization-vs-quality trade-off by making them the same objective function.
+- `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260403-4F68` Vendors offer credits to lock in early-stage companies before switching costs become prohibitive, which gives growth-stage founders leverage to renegotiate.
 - `INS-260330-5A4C` Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
-- `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
+- `INS-260412-5BBA` Firms allowing executive personal use of corporate jets underperform the market by ~4% annually — the people deciding to buy jets are the ones who fly them.
+- `INS-260403-2AC0` Coercing a hostile vendor to build your weapons is self-defeating regardless of their technical capability.
+- `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
+- `INS-260403-22ED` When people's financial incentives align with others' success, genuine cultures of encouragement emerge over time.

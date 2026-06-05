@@ -5,6 +5,7 @@
 - `INS-260329-057F` Destructuring and spread operators embody a design principle where systems that natively support structural decomposition handle evolving data shapes more gracefully.
 - `INS-260605-F064` Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
+- `INS-260605-82BC` A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260329-919F` C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
 - `INS-260329-8F98` Always version APIs explicitly (e.g., /v1/products, /v2/products) rather than modifying existing endpoints, so old clients continue working while new clients get new features.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.

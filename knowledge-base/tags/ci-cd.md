@@ -10,3 +10,4 @@
 - `INS-260605-C1A4` Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
 - `INS-260605-EA2E` Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
+- `INS-260605-6F34` Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.

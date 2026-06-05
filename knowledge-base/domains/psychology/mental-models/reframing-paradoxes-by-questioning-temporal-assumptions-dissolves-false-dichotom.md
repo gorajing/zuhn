@@ -51,7 +51,6 @@ stance: >-
   instead examine what happens during the intermediate process.
 related:
   - INS-260409-95C8
-  - INS-260409-DBCF
   - PRI-260412-96C1
   - INS-260412-644F
   - INS-260514-5E7C

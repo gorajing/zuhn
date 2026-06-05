@@ -1,8 +1,6 @@
 # Tag: gaming
 
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
-- `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
-- `INS-260403-8A25` Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260403-DAB3` Monitor large M&A deals facing regulatory scrutiny and position your startup as a solution to the acquirer's competition concerns.
@@ -15,3 +13,5 @@
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - `INS-260412-93EA` Rwanda's strategy of explicitly targeting World Bank indicators and global rankings mirrors Goodhart's Law in business — when a measure becomes a target, it ceases to be a good measure.
+- `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
+- `INS-260403-8A25` Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.

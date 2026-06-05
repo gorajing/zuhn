@@ -55,7 +55,6 @@ related:
   - INS-260410-F0EF
   - INS-260514-3A62
   - INS-260605-B60D
-  - INS-260605-C37E
 ---
 Anthropic reports that Opus 4.5 initially scored 42% on CORE-Bench. Investigation revealed the eval was penalizing '96.12' when it expected '96.124991...', had ambiguous task specs, and included stochastic tasks that couldn't be reproduced exactly. After fixing bugs and loosening the scaffold, the score jumped to 95%. METR hit a similar issue where tasks asked agents to optimize 'to' a score threshold but graded on exceeding it — punishing models that followed the instructions.
 

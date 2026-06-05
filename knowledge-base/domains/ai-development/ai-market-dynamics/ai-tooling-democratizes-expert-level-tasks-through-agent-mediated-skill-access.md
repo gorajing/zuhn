@@ -49,10 +49,10 @@ stance: >-
   agent-mediated tooling.
 related:
   - INS-260403-CDB0
+  - INS-260605-C1A5
   - INS-260605-1B0B
   - INS-260514-791A
   - INS-260605-86F6
-  - INS-260605-2DD5
   - INS-260327-E07C
   - INS-260424-2F93
   - INS-260501-8186

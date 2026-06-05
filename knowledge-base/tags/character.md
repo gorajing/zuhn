@@ -1,6 +1,6 @@
 # Tag: character
 
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
+- `INS-260405-3C56` Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
-- `INS-260405-3C56` Genuine goodness beats strategic niceness when information flows freely and the future is unpredictable.

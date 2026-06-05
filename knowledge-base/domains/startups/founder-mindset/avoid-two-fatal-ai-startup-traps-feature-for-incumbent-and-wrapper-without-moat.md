@@ -50,7 +50,6 @@ related:
   - PRI-260406-B331
   - INS-260327-30E4
   - INS-260327-91C7
-  - INS-260409-171B
 stance: >-
   Avoid building features that incumbents can bundle (like meeting notetakers
   for Zoom), and avoid pure prompt wrappers that next model releases will...

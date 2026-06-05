@@ -15,9 +15,9 @@
 - `INS-260403-8EBD` Venture capitalists are funding AI that could automate their own deal analysis and market forecasting capabilities.
 - `INS-260321-F2C4` 25% of business development company portfolios are in software companies — the sector most disrupted by AI — with 31% of debts maturing in the next two years.
 - `INS-260322-88C3` AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
+- `INS-260402-C1A9` HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.
 - `INS-260403-586C` Per-seat pricing breaks down when AI agents do the work instead of humans, forcing a shift to usage or outcome-based billing.
 - `INS-260404-BEAA` Reports of SaaS death are exaggerated, but the sentiment reflects genuine pressure from AI-native tools that can replicate SaaS functionality without traditional subscription models.
-- `INS-260402-C1A9` HubSpot lost millions of visits and Chegg's stock tanked because AI can now answer the same generic questions their content targeted.
 - `INS-260405-9EE4` When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260403-E4B3` AI lowers the cost of copying products, so brand and narrative become the hardest-to-replicate assets.
 - `INS-260403-5384` AI makes building software cheap, shifting competitive value from code to distribution, proprietary data, and workflow entrenchment.

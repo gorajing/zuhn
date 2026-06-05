@@ -61,9 +61,8 @@ related:
   - INS-260409-0846
   - INS-260410-5951
   - INS-260605-8E08
-  - INS-260408-C572
+  - INS-260605-B405
   - INS-260605-1523
-  - INS-260605-EBEB
 ---
 John Hennessy at the reception: don't think of compute asymmetry as existential. (1) Universities don't need to build frontier models — companies are spending more than the entire US university budget on this; let them. (2) Open-source models are closing the gap fast and cover most research needs. They're also more energy-efficient. (3) Smaller models trained on world-class curated data beat large models trained on noisy data — particularly true in specific scientific domains. (4) For researchers who genuinely do need cutting-edge compute, the answer is split-time arrangements with industry partners, not building competing infrastructure. Hands-up survey of the Stanford AI=Science attendees showed about 10-15% had been compute-limited recently, with most finding workarounds via former-student industry contacts.
 

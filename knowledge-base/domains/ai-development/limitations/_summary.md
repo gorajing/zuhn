@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 83 insights
+> 85 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -17,6 +17,7 @@
 - `INS-260326-6D76` [high] Most complex systems are computationally irreducible — you cannot predict their behavior without running the full computation.
 - `INS-260325-1080` [high] The diagonal argument doesn't just prove something can't be done — it builds the exact thing that breaks the attempt.
 - `INS-260403-BE4D` [high] Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
+- `INS-260605-0E65` [high] Constant-information tasks (needle-in-haystack, O(1)) survive a full context window, but linear or quadratic information demands degrade accuracy to 30-60% even at low occupancy.
 - `INS-260330-EE25` [high] Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260409-2B5F` [high] Hassabis identifies continual learning as an unsolved bottleneck; brains solve it via sleep-driven memory consolidation that AI labs have not yet replicated.
 - `INS-260410-1197` [high] LLMs can't build context, interrogate their own failures, or pick up small efficiencies over time — which is what actually makes human employees valuable, not raw intellect.
@@ -81,6 +82,7 @@
 - `INS-260403-04AD` [medium] The 'stochastic parrot' framing relies on hallucinations seeming alien and incomprehensible, but reframing them as guessing reveals a familiar, goal-directed behavior.
 - `INS-260403-4803` [medium] LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
 - `INS-260325-3F86` [medium] AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
+- `INS-260605-DF08` [medium] When the important rules live in documents the agent always re-fetches, a multi-hour session can survive 20-50 context compactions because what matters is reconstructed on demand.
 - `INS-260603-A09F` [medium] Frans/Rob (Amazon/Zoox): LLMs work because we distilled all of humanity's knowledge from the internet, but there's no equivalent corpus of 3D scene scans; people create virtual worlds to train on, but 'everything is fake at the beginning' and 'no matter how many virtual worlds you create, even infinite, it's never going to be enough.'
 - `INS-260327-684D` [medium] Cronin's sadness about alien life: it's probably everywhere but our causal cones may never overlap, meaning we might need to create alien intelligence in the lab rather than discover it in space.
 - `INS-260605-D1F0` [medium] LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.

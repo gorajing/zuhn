@@ -14,9 +14,9 @@
 - `INS-260403-DED4` The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - `INS-260605-683B` Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
 - `INS-260605-A9B4` A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
-- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260605-D1F0` LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260514-8424` Have one engineer write what 'good security review' looks like — now every agent gets that review on every push. The single review becomes durable infrastructure.
 - `INS-260605-C1A4` Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.

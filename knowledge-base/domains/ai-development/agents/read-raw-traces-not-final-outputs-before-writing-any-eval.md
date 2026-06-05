@@ -51,9 +51,9 @@ stance: >-
   failures that only the execution trace reveals.
 related:
   - INS-260605-7843
+  - INS-260605-C436
   - INS-260325-5023
   - INS-260522-C5C2
   - INS-260519-224B
-  - INS-260330-8733
 ---
 One of the agent's runs (Apple) did all its web searches correctly and wrote a genuinely good report, then tried to write it to disk (it thought it was Claude Code), hit a permissions error in the notebook, and returned garbage as its final output. Judged on output alone, it's a total failure with the wrong diagnosis. Reading the trace reveals the real fix is a one-line prompt/permission change, not a research or writing fix. Clicking through the traces also surfaced that the disk-write failure recurred — a *systemic* pattern, not a one-off. Voss insists trace-reading is not a lab nicety: '15 minutes of reading real outputs does better than hours of fiddling with your prompt.' Anthropic invested heavily in tooling specifically to make reading agent traces easy. Requirements and failure categories must be derived from observed traces, because the same root-cause symptom (a wrong response) can stem from bad research, a tool misfire, correct data with wrong conclusions, or a hallucinated number — each demanding a different fix.

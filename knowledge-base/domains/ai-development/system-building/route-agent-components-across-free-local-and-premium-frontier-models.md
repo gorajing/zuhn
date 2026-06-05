@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-72C2
   - INS-260505-ABCC
+  - INS-260605-B82E
   - INS-260408-C572
-  - INS-260323-3F39
-  - INS-260327-30E4
+  - INS-260605-D33F
 ---
 KP frames heterogeneous model routing as the most interesting near-term lever: models that run on your own GPUs/TPUs are 'effectively free from a quota perspective,' so the architecture question becomes which specific components of the agentic pipeline genuinely require an advanced model versus which can be served by a free local one.
 

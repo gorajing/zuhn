@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 65 insights
+> 66 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -63,6 +63,7 @@
 - `INS-260605-44E5` [medium] When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
 - `INS-260405-D638` [medium] Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
 - `INS-260605-DF82` [medium] For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
+- `INS-260605-D78B` [medium] Serverless GPU containers remove the need to own and isolate a training cluster, letting you fan out, kill unpromising runs, and pay only for what you use.
 - `INS-260424-F8BB` [medium] Google Cloud lead: the worst failures are not fail-stop but silent data corruption — one chip silently gets the computation wrong every once in a while, and one chip's error goes to everybody.
 - `INS-260605-0C5C` [medium] The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches.
 - `INS-260412-3252` [medium] The visible light spectrum has 10,000x the frequency range of radio waves, enabling vastly higher data throughput for Li-Fi.

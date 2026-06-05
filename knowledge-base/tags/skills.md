@@ -4,6 +4,7 @@
 - `INS-260605-74E8` An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
+- `INS-260605-C9E8` Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
 - `INS-260605-9900` Harness engineering is an extension of context engineering: let agents run, watch where they get lost, and encode that learning back into agents.md, skills, and tests so the agent flows through the workflow more autonomously next time.
 - `INS-260501-3D0C` Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
@@ -18,9 +19,12 @@
 - `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
+- `INS-260605-59AE` Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
+- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260320-A4BF` Attach ready-to-use utility scripts to skills so Claude references proven tools instead of reinventing test scripts from scratch.
 - `INS-260320-8DBD` Use a central skill-rules.json config mapping each skill to keywords, regex intent patterns, file path triggers, and content triggers.
+- `INS-260605-5A6A` Priscila turned her endlessly repeating comprehension prompts into a 'Catch Me Up' skill structured around six exploration modes.
 - `INS-260605-749D` Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract.
 - `INS-260320-F8FD` Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
 - `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
@@ -33,8 +37,6 @@
 - `INS-260320-F872` Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.
 - `INS-260320-DCA0` A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260605-46B2` You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
-- `INS-260605-59AE` Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
-- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.

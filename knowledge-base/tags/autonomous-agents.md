@@ -10,4 +10,5 @@
 - `INS-260605-E516` Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
 - `INS-260327-CED9` Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.
 - `INS-260321-2F43` The name of the game is to increase your leverage — put in very few tokens once in a while and a huge amount of stuff happens on your behalf.
+- `INS-260605-DF08` When the important rules live in documents the agent always re-fetches, a multi-hour session can survive 20-50 context compactions because what matters is reconstructed on demand.
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.

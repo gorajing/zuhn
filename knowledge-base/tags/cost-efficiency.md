@@ -1,5 +1,6 @@
 # Tag: cost-efficiency
 
+- `INS-260605-D33F` Specialized fine-tuned models reportedly beat frontier APIs at ~1/5 the cost (Intercom) or orders of magnitude cheaper, because they only need to win at one task.
 - `INS-260605-4A94` Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - `INS-260323-C370` When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
 - `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.

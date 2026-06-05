@@ -49,12 +49,11 @@ stance: >-
   Coding agents are constrained more by being trapped in their native
   terminal/IDE than by their underlying intelligence.
 related:
-  - INS-260321-B8E8
   - INS-260412-3C64
   - INS-260408-C572
   - INS-260501-E377
   - INS-260501-FDF0
-  - INS-260330-4AD5
+  - INS-260605-B82E
 ---
 The common framing is that agents aren't autonomous enough because the models can't yet run unsupervised. Richman reframes the bottleneck as the interaction surface: agents 'are not yet' maximally autonomous 'especially not if you're limited to how you can interact with them to their native environments.' An agent that blocks for input two minutes into a 30-minute task and waits idle is not failing on capability — it's failing on reachability.
 

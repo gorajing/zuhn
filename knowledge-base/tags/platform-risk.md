@@ -4,9 +4,9 @@
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
 - `INS-260412-46A4` Robinhood's buy-side restrictions during the GME squeeze revealed that platforms funded by institutional order flow payments will protect those institutions when retail activity threatens them.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
-- `INS-260412-0BF3` Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260330-7251` Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
+- `INS-260412-0BF3` Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
 - `INS-260412-6FB6` Nokia's decision to use Microsoft's OS instead of Android meant superior hardware was undermined by a barren app ecosystem, proving that platform ecosystem size trumps hardware quality.
 - `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
 - `INS-260403-16A7` You cannot create strategic dependency on an actor who has explicitly committed to eliminating that dependency.
@@ -20,5 +20,5 @@
 - `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
 - `INS-260412-CAEF` Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.
 - `INS-260410-6D83` Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
-- `INS-260410-15AC` Qualcomm's demand of 5% of every iPhone's ASP plus per-unit patent fees was the bill that made Apple buy Intel's modem business and start building its own modem — a decade-long project Apple only started because the tax was intolerable.
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
+- `INS-260410-15AC` Qualcomm's demand of 5% of every iPhone's ASP plus per-unit patent fees was the bill that made Apple buy Intel's modem business and start building its own modem — a decade-long project Apple only started because the tax was intolerable.

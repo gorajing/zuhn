@@ -60,6 +60,7 @@ related:
   - PRI-260323-0F93
   - PRI-260323-A3A3
   - INS-260403-16A7
+  - INS-260605-DC7C
 ---
 David Graeber's bullshit jobs concept has evolved beyond individual pointless roles into entire ecosystems of mutual validation. The analyst needs the consultant who needs the manager who needs the workshop facilitator — each role justifies the others in a closed loop. This is why corporate bloat resists top-down reform: cutting any node threatens the legitimacy of connected nodes, creating collective resistance even when every individual privately acknowledges the absurdity.
 

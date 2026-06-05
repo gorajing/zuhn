@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 77 insights
+> 78 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
@@ -18,6 +18,7 @@
 - `INS-260605-F064` [high] Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - `INS-260402-0E46` [high] Encoding domain structure into features (e.g., marking where tokens appear in email) can improve classification from 92% to 99.5%.
 - `INS-260605-59AE` [high] Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
+- `INS-260605-C132` [high] Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260421-8004` [high] 4 of 6 speakers at AI Agents SF #12 use graph primitives (Neo4j, FalkorDB, Cognee's own) with vector embeddings layered inside graph nodes rather than as the top-level store.
 - `INS-260404-5440` [high] Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260605-90FB` [high] Human turn-taking needs the full STT→LLM→TTS loop under ~200ms, but a fast TTS alone is already >200ms, so cascaded systems can't sound human.

@@ -64,7 +64,6 @@ related:
   - INS-260404-1678
   - INS-260321-F864
   - INS-260404-6DA9
-  - INS-260505-A9BC
 ---
 Chandra emphasizes that strategy development will feel challenging and frustrating during the process, which is normal. But the harder discipline comes after: treating the strategy as a testable hypothesis rather than a finished artifact. Teams must execute against strategic pillars, measure results honestly, have the humility to acknowledge what isn't working, double down on what shows promise, and be willing to pivot when evidence demands it.
 

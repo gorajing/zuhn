@@ -52,10 +52,10 @@ stance: >-
   irreversibility and the cost of being wrong, not treat all choices uniformly.
 related:
   - INS-260329-59A5
+  - INS-260605-29BD
   - PRI-260406-0E02
   - PRI-260406-6A1C
   - INS-260329-2AB9
-  - INS-260404-7604
 ---
 The risk-value analysis stage of the workflow makes risk assessment proportional to stakes. Two explicit dimensions drive how much effort an agent should invest: is the decision reversible (can it be backed off cheaply), and what is the cost of being wrong (a life at stake versus an empty Red Bull shelf). A reversible, low-cost mistake warrants a fast call; an irreversible, high-cost one warrants spending most of the agent's time on the risk side.
 

@@ -1,6 +1,7 @@
 # Tag: meta-learning
 
 - `INS-260501-FDF0` Hope's models don't just learn from input — they learn how to learn from input, generating their own learning rates and decay factors per situation.
+- `INS-260605-2C96` Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.
 - `INS-260320-4B31` We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
 - `INS-260329-FA1C` Distinguish between paying to learn WHAT exists (declarative — networks, masterminds) vs HOW to do it (procedural — coaching, training), and buy the right type for your current gap.
 - `INS-260330-FB50` Newton invented calculus at age 23 because 1600s mathematics couldn't calculate a falling moon's trajectory — necessity of the problem forced creation of an entirely new mathematical discipline.

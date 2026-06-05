@@ -1,13 +1,15 @@
 # Topic: system-design
 
-> 64 insights
+> 71 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
 - `INS-260605-C0BF` [high] Agent traces are semi-structured, full of unstructured text, and huge — a single span can hit 20MB and a full trace can exceed a gigabyte — demanding full-text indexing and a custom store rather than off-the-shelf OLAP.
 - `INS-260410-1ED3` [high] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260514-1841` [high] Browser Harness is 600 lines. When an agent hits an edge case (sign a signature, click a native dialog), it writes its own tool extension and publishes it as a skill.
+- `INS-260605-82BC` [high] A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260412-B89F` [high] At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
+- `INS-260605-7711` [high] Build bespoke tracing that structures the data your way and serves product/data/CX — not just engineers — because LLMs make such internal tools cheap to one-shot.
 - `INS-260514-8413` [high] Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
 - `INS-260605-A8A9` [high] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
 - `INS-260605-75BB` [high] Clients hold a continuously maintained connection to a shared session so a second tab or phone has instant visibility and an upstream channel to the working agent.
@@ -24,7 +26,9 @@
 - `INS-260514-23D6` [high] Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't.
 - `INS-260605-1BBF` [high] An MCP app is a single sandboxed HTML file in an iframe with no local storage, no network access, and CSP/CORS-blocked external resources — so everything must be embedded and a shared design system becomes essential.
 - `INS-260605-93B8` [high] The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
+- `INS-260605-1B9D` [high] Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
 - `INS-260514-08E3` [high] If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
+- `INS-260605-D320` [high] Forbid the capability that creates a bug class — e.g. ban database access from template rendering so N+1 queries can never occur — instead of repeatedly hunting for instances.
 - `INS-260514-283E` [high] Architect harness for PROGRESSIVE loading: root agent.md always, folder-level only when in that folder, skill front-matter always but body only on invocation. Eager loading exhausts context before useful work begins.
 - `INS-260410-31AA` [high] Nadella frames AI as an emulator of a simulator and quantum as a simulator of nature, arguing the future stack uses quantum to generate synthetic training data that trains AI models for chemistry, physics, and biology.
 - `INS-260404-B1BC` [high] Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
@@ -39,17 +43,20 @@
 - `INS-260605-E16A` [high] Because SSE is strictly one-way, a client closing the connection is ambiguous — buffer-to-resume or cancel-the-LLM — so you cannot support both resume and a stop button.
 - `INS-260605-204E` [high] Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
 - `INS-260412-41A5` [high] Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.
+- `INS-260605-9362` [high] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
 - `INS-260605-A0D2` [high] Decompose sovereignty into data, model, infrastructure, and operational pillars and only harden the pillars your domain's risk profile demands.
 - `INS-260412-FD9A` [high] The Caplan thruster uses a second jet pointed at the Sun to prevent the engine from crashing into it, illustrating active balance in high-force systems.
 - `INS-260605-780C` [high] Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.'
 - `INS-260410-71B9` [high] Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.
 - `INS-260605-D912` [high] Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
+- `INS-260605-8F3D` [medium] Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260514-0226` [medium] Code is the compiled artifact. The spec + harness is the source. LLM is the fuzzy compiler. Swap models = swap compiler backend.
 - `INS-260605-59FE` [medium] The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260405-8E85` [medium] Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260605-A2AD` [medium] When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.
 - `INS-260605-D129` [medium] Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
 - `INS-260404-F7C5` [medium] Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
+- `INS-260605-5878` [medium] A 'production function' framing shows heterogeneous skill distributions meet complex demand that neither narrow specialists nor broad generalists can satisfy efficiently.
 - `INS-260405-C497` [medium] RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260412-9414` [medium] Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
 - `INS-260605-E706` [medium] Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.

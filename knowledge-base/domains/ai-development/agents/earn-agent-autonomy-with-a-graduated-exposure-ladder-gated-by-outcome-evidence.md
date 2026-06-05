@@ -55,8 +55,8 @@ stance: >-
 related:
   - INS-260403-C355
   - INS-260501-4C5E
+  - INS-260605-3AAF
   - INS-260403-4A16
   - PRI-260406-C4D0
-  - INS-260403-4D80
 ---
 Many enterprises treat agents like traditional automation: build it, turn it on, let it run. But agent behavior is emergent and non-deterministic, so you cannot foresee and test every response up front. The speakers prescribe 'progressive autonomy' via an exposure ladder. (1) Shadow mode: the agent runs alongside humans but can't affect outcomes; you compare its decisions to human decisions as a signal to iterate. (2) Advisory mode: the agent runs live but only recommends, with humans approving or rejecting — generating another signal. (3) Controlled autonomy: the agent triggers actions but only in narrow, low-risk scenarios with clear limits and kill switches. (4) Wider autonomy: extended over time as confidence in target behaviors is established. The crucial design principle is that each promotion is gated by evidence in actual outcomes — not by completing activities in a project plan or by pass/fail testing. Eval suites matter, but the deployment philosophy is to 'engineer for trust, not just for completion,' because what survives over time is accumulated trust, not any individual shipped feature.

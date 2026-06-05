@@ -66,6 +66,7 @@ related:
   - INS-260605-ECB0
   - INS-260605-37FB
   - INS-260410-78F4
+  - INS-260605-672C
 ---
 Neo4j's agent-memory package models memory as three explicit components rather than one bucket. Short-term memory is conversation history and session context — the transient working set. Long-term memory is the entities extracted from those conversations, then merged, deduplicated, and resolved as they recur over time. Reasoning is the decision-trace layer of the context graph: the causal chains and precedents.
 

@@ -42,7 +42,6 @@ stance: >-
   pick.
 related:
   - INS-260514-791A
-  - INS-260524-0DC3
   - INS-260329-F51D
   - INS-260525-9B7B
   - PRI-260407-F684

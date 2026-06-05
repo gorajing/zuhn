@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260525-3A9A
   - INS-260605-365A
+  - INS-260605-8109
   - INS-260410-9F17
   - INS-260530-D34F
   - INS-260605-8B25
-  - INS-260605-6444
 ---
 Teams coming from traditional ML lock onto the metrics that got them there — precision, recall, F1 — because those measure technical performance on a narrow classification task. Agents demand evaluation of functional performance: did the agent actually accomplish the user's goal, across a far broader surface area of behaviors and contexts. The risk is that a rigorous testing mindset gets misapplied to the wrong target, producing confident measurement of the wrong thing. The classification metrics still have a place (notably for grading LLM-as-judge outputs against labeled data), but they are not the primary measure of whether an agent is good.

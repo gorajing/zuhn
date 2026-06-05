@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 61 insights
+> 62 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -61,5 +61,6 @@
 - `INS-260330-460D` [medium] Facebook and Google's strategies to become the internet itself — through Instant Articles, AMP, and app-based experiences — represent an existential threat to the open web's architecture.
 - `INS-260325-F21D` [medium] Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
 - `INS-260325-B882` [medium] AI, clean energy, and bioengineering are simultaneously hitting their technology adoption tipping points, creating a convergence that may produce civilizational-scale change.
+- `INS-260605-7B00` [medium] Voice is omni-channel: once an agent can speak and listen, it can join a Zoom call, answer a phone line, or assist users who struggle with keyboards — interaction paradigms a text box can't reach.
 - `INS-260605-743D` [medium] Because one MCP App codebase runs across every compliant host (ChatGPT, Claude, VS Code, LibreChat), the standard is less a rendering protocol than an app-distribution channel to a 1B+ user audience.
 - `INS-260325-8290` [low] Every 80 years — founding era (1787), post-Civil War (1865), post-WWII (1945), and now (2025) — America undergoes violent systemic change followed by 25 years of explosive innovation.

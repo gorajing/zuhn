@@ -46,11 +46,11 @@ stance: >-
   Frontier coding models generate dramatically more code per task over time, and
   that verbosity compounds bugs and complexity.
 related:
+  - INS-260605-5A8E
   - INS-260410-CAA4
   - INS-260325-9C89
   - INS-260325-8065
   - INS-260323-1302
-  - INS-260323-D56E
 ---
 Sonar's longitudinal view shows lines-of-code-per-task trending sharply upward across model generations. GPT-4.0 solved the 4,444-assignment set in under 250,000 lines; GPT 5.2 High produced roughly 1 million, and GPT 5.4 Pro High over 1.2 million. More code is not free — verbosity correlates with higher cyclomatic and cognitive complexity and more total bugs per model.
 

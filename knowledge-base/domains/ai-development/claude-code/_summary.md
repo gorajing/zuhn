@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 70 insights
+> 71 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -16,6 +16,7 @@
 - `INS-260410-6B30` [high] Treat CLAUDE.md like code — prune ruthlessly, and if Claude keeps violating a rule, the file is probably too long, not too short.
 - `INS-260320-4DE2` [high] A Stop hook reads the file edit logs, runs builds on affected repos, and catches TypeScript errors — showing small errors to Claude or recommending an auto-resolver agent for larger ones.
 - `INS-260320-8DBD` [high] Use a central skill-rules.json config mapping each skill to keywords, regex intent patterns, file path triggers, and content triggers.
+- `INS-260605-5A6A` [high] Priscila turned her endlessly repeating comprehension prompts into a 'Catch Me Up' skill structured around six exploration modes.
 - `INS-260321-0C99` [high] Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260327-E016` [high] Long-running AI development workflows require periodic context pruning -- not just accumulation -- because bloated memory files reduce recall accuracy and waste context window tokens.
 - `INS-260410-761B` [high] Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.

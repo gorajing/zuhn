@@ -52,11 +52,13 @@ resolutions:
 related:
   - INS-260605-4D1D
   - INS-260327-5D5F
+  - INS-260605-B82E
   - INS-260409-3230
   - INS-260501-FDF0
   - INS-260327-7A48
   - INS-260605-3DBF
   - INS-260605-A28F
+  - INS-260605-5A8E
 stance: Supervised fine-tuning only changed tone and instruction-following
 ---
 OpenAI's early fine-tuning API (2022-2023) was limited to supervised fine-tuning (SFT), which in practice only produced 'instruction following plus' — you could adjust tone, make models less pedantic, but not meaningfully improve capability. It was too limited for companies to leverage their data troves.

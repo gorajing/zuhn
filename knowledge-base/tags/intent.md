@@ -1,6 +1,7 @@
 # Tag: intent
 
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
+- `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260519-ED17` James Pastan (Framer): an aha on the model is not an aha on the product — frictionless prompt boxes can be a trap.
 - `INS-260519-2A13` Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message.
 - `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.

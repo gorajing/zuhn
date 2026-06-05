@@ -47,16 +47,16 @@ resolutions:
     measurable output. The key constraint: you need a real, quantitative
     feedback signal, not vibes-based evaluation.
 related:
-  - INS-260320-0D43
   - INS-260329-D48B
   - INS-260330-0102
+  - INS-260605-D895
   - INS-260329-FEBA
   - INS-260605-09E0
-  - INS-260605-A557
   - INS-260329-CF48
   - INS-260411-8034
   - INS-260514-E481
   - INS-260605-9FCF
+  - INS-260605-DFF5
 stance: >-
   The Autoresearch loop (change a file, measure the result, keep or discard) can
   optimize any prompt-driven process with measurable outputs

@@ -54,7 +54,7 @@ related:
   - PRI-260406-CF83
   - PRI-260406-4C28
   - PRI-260406-BC55
-  - INS-260403-B9E5
+  - INS-260605-CE19
 ---
 James Evans's research: when AI systems give users a single 'balanced' answer (averaging perspectives), users perform worse on follow-up tasks but report higher satisfaction. When AI systems give users a biased answer (one strong perspective), users perform better on tasks but report lower satisfaction. When AI systems give users multiple agents flying contrary biases (a panel of biased perspectives), users perform better AND report higher satisfaction. Implication: the dominant industry interface design (single-LLM-balanced-answer) is structurally suboptimal — it optimizes for engagement metrics over thinking quality.
 

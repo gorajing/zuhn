@@ -53,6 +53,7 @@ stance: >-
   past judgment to future-oriented coaching.
 related:
   - INS-260328-41C9
+  - INS-260605-D895
   - INS-260403-3F12
   - INS-260320-508F
   - INS-260325-75EA

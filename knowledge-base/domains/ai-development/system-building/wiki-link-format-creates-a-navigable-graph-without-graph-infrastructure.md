@@ -43,10 +43,10 @@ stance: >-
   graph-RAG capabilities with zero graph database.
 related:
   - INS-260409-0D87
+  - INS-260605-C223
   - INS-260605-D710
   - INS-260514-1841
   - INS-260410-19DE
   - INS-260605-1C4E
-  - INS-260402-2342
 ---
 When notes link to each other via the [[note-name]] syntax and Claude Code knows the format via CLAUDE.md, following a link is just another file read. This recovers much of what graph RAG systems give you — the ability to walk from one concept to related concepts — without any graph database, triple store, or community detection layer. The tradeoff is that the graph is local and depth-limited rather than globally queryable, but for most question-answering workloads the relevant subgraph is small and the agent can assemble it on the fly.

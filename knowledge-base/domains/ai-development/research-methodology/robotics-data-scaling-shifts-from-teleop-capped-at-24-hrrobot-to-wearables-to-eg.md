@@ -65,7 +65,6 @@ stance: >-
   hours/year vs. teleop's million-hour ceiling.
 related:
   - INS-260327-C7D5
-  - INS-260329-27A7
   - INS-260603-11DB
   - INS-260323-758B
   - INS-260530-5644

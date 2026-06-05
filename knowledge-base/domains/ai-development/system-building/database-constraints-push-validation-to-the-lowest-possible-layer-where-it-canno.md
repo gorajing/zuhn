@@ -52,7 +52,6 @@ stance: >-
   database schema level rather than relying on application-level validation
   because schema constraints are enforced universally across all access paths.
 related:
-  - INS-260329-F688
   - INS-260329-67CB
   - INS-260329-3423
   - PRI-260405-2A95

@@ -54,7 +54,8 @@ related:
   - INS-260603-6FE3
   - INS-260501-E377
   - INS-260605-295D
-  - INS-260410-2C51
+  - INS-260605-672C
+  - INS-260605-82BC
 ---
 Verbeek emphasizes this step harder than any other: the bank of injected solutions 'gets stale whenever a new model is released, gets stale whenever we change features, gets stale incredibly quickly.' A fix that was essential for last month's model can be redundant or actively misleading for this month's, producing context rot that degrades the very agent it was meant to help.
 

@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260325-031F
   - INS-260325-D540
-  - INS-260327-E07C
   - INS-260410-1030
   - INS-260410-F40F
   - INS-260410-83EC
@@ -59,5 +58,6 @@ related:
   - INS-260410-01BC
   - INS-260410-53C2
   - INS-260410-E658
+  - INS-260605-BDFF
 ---
 The classic cold-start objection to evals is 'I have no data — this app never existed.' The demo shows a coding agent solving this: given only an agent with instructions, a model, and an endpoint, it infers intent from the instructions, generates a synthetic eval dataset, runs a baseline batch eval, surfaces failures with reasoning, then on request optimizes the prompt, pushes a new version, re-evaluates, and rolls back if it regresses. Crucially this stays human-in-the-loop — automated prompt optimization plateaus and even regresses (improving to 7, dropping to 5), so a human decides when to stop and which version to keep. The speaker's framing of the real value: the reasoning output 'exposes me to what I don't know' — it's not about offloading SDK calls, it's about surfacing failure modes you wouldn't have thought to test. Marked time-sensitive because the specific tooling (Foundry observe skill) was days old at recording.

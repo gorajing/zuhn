@@ -56,9 +56,9 @@ related:
   - INS-260514-A02E
   - INS-260329-560D
   - INS-260325-175B
+  - INS-260605-5A8E
   - INS-260412-6FB6
   - INS-260321-6437
-  - INS-260413-AD37
 ---
 With large models or AI Core-backed devices, you expose available functions through a system prompt and the model figures out the call. That approach collapses at the tiny end. Brick's team took Function Gemma out of the box at ~46% success on app-intent tasks (add calendar, add email), then ran it through a fine-tuning flow: use a stronger model (Gemini Flash) to synthetically generate a task-specific dataset, fine-tune the small model on it, and accuracy jumped to over 90% for 8 of 10 functions.
 

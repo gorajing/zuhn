@@ -52,7 +52,6 @@ related:
   - PRI-260403-53D6
   - INS-260403-2A44
   - INS-260330-2306
-  - INS-260605-3B8B
 evidence:
   - id: INS-260330-0B79
     type: REFINES

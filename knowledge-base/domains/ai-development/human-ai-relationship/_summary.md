@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 101 insights
+> 103 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -39,6 +39,7 @@
 - `INS-260403-E5D4` [high] Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
 - `INS-260403-31E4` [high] Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260323-9D6E` [high] Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
+- `INS-260605-3AAF` [high] Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - `INS-260505-E671` [high] AI proves; mathematicians select problems, define new objects, and verify the work fits within Mathlib's coverage.
 - `INS-260329-7BAF` [high] Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260323-7424` [high] The obsession with parameter counts mirrors the 1990s gigahertz race — what matters is end-user utility, not raw numbers.
@@ -65,6 +66,7 @@
 - `INS-260423-A0C9` [medium] Dan Koe: you can tell AI to share something novel, but then you're anticipating it — it is no longer novel, no longer a surprise, and you destroyed any chance of stumbling upon a discovery.
 - `INS-260323-03F4` [medium] Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260326-E5D3` [medium] AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
+- `INS-260605-26AB` [medium] Priscila reframes AI as 'the cheapest senior engineer out there' — a teammate who never tires of your questions, removing the social and timezone cost of asking.
 - `INS-260403-CE95` [medium] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
 - `INS-260403-AEF7` [medium] AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260501-5DF6` [medium] Constantine Buhler: in the mid 1800s aluminum was the most precious metal — within decades of electrolysis, aluminum was used to wrap our candies and our sandwiches. Aluminum is intelligence. Electrolysis is AI.

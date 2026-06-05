@@ -34,6 +34,7 @@
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260410-36E3` Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
+- `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -46,5 +47,6 @@
 - `INS-260605-365A` Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
 - `INS-260605-BFBE` An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
 - `INS-260605-9F16` 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
+- `INS-260605-C436` Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - `INS-260605-0BA3` Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
 - `INS-260522-C5C2` YC Root Access 'holy shit' moment: a monitoring agent watched every employee query, and when one failed it opened a merge request to fix the tools/skills/index, had an agent review and deploy it, so the query succeeded the next day.

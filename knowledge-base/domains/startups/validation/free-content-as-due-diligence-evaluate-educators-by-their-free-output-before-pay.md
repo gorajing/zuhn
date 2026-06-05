@@ -51,7 +51,6 @@ stance: >-
   Consuming a creator's free content for seven days is a reliable and sufficient
   risk-reduction strategy for evaluating paid education purchases
 related:
-  - INS-260329-BC36
   - INS-260329-DE17
   - INS-260329-31A2
   - INS-260329-9A42

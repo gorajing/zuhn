@@ -18,10 +18,10 @@ sources:
     author: u/unknown
 related:
   - INS-260410-C022
+  - INS-260605-2627
   - INS-260605-E831
   - INS-260329-4696
   - INS-260410-CDE6
-  - INS-260409-1078
   - INS-260501-835A
   - INS-260605-1A2D
   - INS-260605-13F9

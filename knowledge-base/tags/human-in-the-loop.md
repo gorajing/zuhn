@@ -10,6 +10,7 @@
 - `INS-260605-20CB` Offload nitpicky style/naming/convention review to agents and reserve human review for big-picture system design.
 - `INS-260605-5404` GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
+- `INS-260605-D6EE` The standard research-plan-implement loop is missing an explicit step where the human understands and corrects the agent's research before it plans.
 - `INS-260605-B4B9` Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
 - `INS-260605-1A91` Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
@@ -24,6 +25,7 @@
 - `INS-260403-D227` Anthropic's study showing 17% lower mastery with AI assistance reveals that AI productivity gains come at the cost of human backup capability.
 - `INS-260605-5CC7` When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 - `INS-260605-A9B4` A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
+- `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260327-13B3` Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.

@@ -56,7 +56,6 @@ stance: >-
   capturing new decisions and their quality — not the read path of retrieving
   existing ones.
 related:
-  - INS-260322-24FB
   - INS-260403-D0EE
   - INS-260409-5975
   - INS-260409-5D67
@@ -66,6 +65,7 @@ related:
   - INS-260605-44E2
   - INS-260404-4D7F
   - PRI-260406-A4AA
+  - INS-260605-EC51
 ---
 The retrieval side of context graphs is mature: vector indexes, graph embeddings, and Cypher queries reliably pull precedents and traces. The presenter is candid that the *write* side is not. In the demo, the agent only stores a decision when explicitly prompted to; it will not autonomously decide that an interaction is worth recording.
 
