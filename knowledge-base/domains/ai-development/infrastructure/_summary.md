@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 66 insights
+> 67 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -15,6 +15,7 @@
 - `INS-260501-12F4` [high] Google's $40B + Amazon's $5B is a chip-and-capital bundle to displace Nvidia's 70% gross margin and lock Anthropic onto TPU/Trainium.
 - `INS-260410-B3C4` [high] When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
 - `INS-260605-5EE0` [high] Because a containerized agent is just another application, you can prototype it locally and lift the identical artifact to Kubernetes/OpenShift when you need security and scale.
+- `INS-260605-3206` [high] The sandbox should be replaceable; the agent run should not be.
 - `INS-260413-BD80` [high] Global AI compute reached 17.1M H100-equivalents in 2025, growing 3.3x per year since 2022, with Nvidia supplying 60%, Google/Amazon supplying most of the rest, and Huawei growing slowly.
 - `INS-260405-A4DB` [high] AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
 - `INS-260605-D2C7` [high] STDIO MCP servers require users to edit a config file with a JSON command string to spawn a local process, while HTTP servers install by pasting a name and URL — and fit serverless edge functions cleanly.

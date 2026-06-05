@@ -2,6 +2,8 @@
 
 - `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
+- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
+- `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
 - `INS-260328-60C7` Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers.
 - `INS-260403-58DA` Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
 - `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
@@ -18,8 +20,6 @@
 - `INS-260327-5D5F` Fine-tuning an open-weights model degrades its other capabilities because you cannot mix new data with the original training distribution; truly open-source models with full training pipelines are fundamentally more useful.
 - `INS-260321-5DF8` OpenClaw became the most popular open-source project in history within weeks, surpassing Linux's 30-year adoption curve — each AI unhobbling stacks on prior ones and grows faster.
 - `INS-260327-BEFF` There is no internet-scale robot action data; community platforms that aggregate diverse robotic datasets from thousands of contributors will be the critical enabler for physical AI scaling.
-- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
-- `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
 - `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260405-82F3` Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means.

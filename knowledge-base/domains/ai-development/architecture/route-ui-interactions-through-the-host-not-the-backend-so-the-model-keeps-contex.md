@@ -58,6 +58,7 @@ related:
   - INS-260605-E023
   - INS-260605-A4F1
   - INS-260605-743D
+  - INS-260605-E7AD
 ---
 The presenters frame the central architectural choice with a concrete failure case: if a Spotify widget favorites a song by talking straight to Spotify's backend, then when the user later asks Claude 'which song did I favorite?' the model has no idea — the action happened outside its context. MCP Apps fixes this by standardizing that every UI chunk sends a message back to the host, and the host decides what to do (e.g. issue the corresponding tool call). Control stays with the host and everything the user does stays in context.
 

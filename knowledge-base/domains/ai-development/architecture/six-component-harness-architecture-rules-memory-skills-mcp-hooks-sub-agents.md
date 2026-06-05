@@ -66,12 +66,12 @@ stance: >-
   distinguish between these layers produces harnesses that are simultaneously
   over-engineered in some places and missing critical controls elsewhere.
 related:
-  - INS-260410-B0D6
   - INS-260410-EE37
   - PRI-260426-890F
   - INS-260605-C33F
   - INS-260524-2C7C
-  - INS-260410-9DB0
+  - INS-260605-D818
+  - INS-260410-B0D6
   - INS-260514-283E
   - INS-260605-E193
   - INS-260605-5D66

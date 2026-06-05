@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 281 insights
+> 287 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -83,6 +83,7 @@
 - `INS-260514-FEC8` [high] Rules = judgment ('please don't access .env'). Hooks = enforcement (the access actually fails). For high-stakes constraints, use hooks not rules — agents will eventually find reasons to ignore rules but cannot bypass hooks.
 - `INS-260327-7F56` [high] ChatGPT Agent was designed to mirror Slack-style human delegation: both parties can initiate communication, the agent asks clarifying questions, and users can interrupt with corrections mid-task.
 - `INS-260411-27AA` [high] Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
+- `INS-260605-E7AD` [high] Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260403-834C` [high] Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260410-1B17` [high] Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260410-19DE` [high] Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
@@ -123,6 +124,7 @@
 - `INS-260605-1A91` [high] Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260605-7FEA` [high] Match models to roles—careful reasoning for planning, fast fluency for implementation, precise instruction-following for validation—and avoid locking into one provider.
 - `INS-260409-95C8` [high] Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
+- `INS-260605-2ECD` [high] Don't store traces as memory; distill traces into navigable evidence.
 - `INS-260409-6560` [high] MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260605-E193` [high] The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap.
 - `INS-260605-E7F2` [high] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
@@ -179,6 +181,7 @@
 - `INS-260605-B44B` [high] Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
 - `INS-260424-FE8E` [high] Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better.
 - `INS-260410-1030` [high] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
+- `INS-260605-4877` [high] Define the agent's workspace as a manifest, not as an implicit container setup.
 - `INS-260411-5478` [high] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 - `INS-260605-D777` [high] Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
 - `INS-260410-F259` [high] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
@@ -224,6 +227,7 @@
 - `INS-260605-03A6` [medium] Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260501-5ACE` [medium] App building is commoditized; what's not is an agent that researches the market, validates the problem, builds a v1, and writes the business case — agent-as-founder, not agent-as-developer.
 - `INS-260410-62E8` [medium] Each agent claims a task by writing a lockfile to current_tasks/ and pushes via git; git's atomicity handles races and Claude handles merge conflicts.
+- `INS-260605-E9A7` [medium] A paid API call can become observe-pay-retry, not a human onboarding flow.
 - `INS-260605-5404` [medium] GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260605-2795` [medium] Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
 - `INS-260605-D6EE` [medium] The standard research-plan-implement loop is missing an explicit step where the human understands and corrects the agent's research before it plans.
@@ -238,6 +242,7 @@
 - `INS-260530-69DC` [medium] PayPal's ADK incident platform uses one LLM-driven supervisor orchestrating deterministic sub-agents (detection, triage, communication, mitigation, RCA) — the supervisor decides which agent to invoke, but each sub-agent's job is fixed.
 - `INS-260326-2410` [medium] Ng highlights that models explicitly tuned for tool use and agentic operations (not just human Q&A) create 'much higher ceilings' for what agentic workloads can accomplish.
 - `INS-260605-2032` [medium] Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
+- `INS-260605-E230` [medium] Some harnesses must learn while the run is still alive.
 - `INS-260405-8166` [medium] A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
 - `INS-260410-1A22` [medium] Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
 - `INS-260605-BC6F` [medium] If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
@@ -276,6 +281,7 @@
 - `INS-260605-0374` [medium] Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
 - `INS-260605-35D1` [medium] Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
 - `INS-260605-FC00` [medium] Let the model choose the next action; let code execute it.
+- `INS-260605-52E4` [medium] Local tools and remote tools should not share the same credential assumptions.
 - `INS-260603-23B1` [medium] Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.

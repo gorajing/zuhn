@@ -1,6 +1,6 @@
 # Topic: prompting
 
-> 18 insights
+> 19 insights
 
 - `INS-260605-705B` [high] Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260410-AB4A` [high] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
@@ -17,6 +17,7 @@
 - `INS-260410-18CF` [high] Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
 - `INS-260605-D659` [high] Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
 - `INS-260514-9D51` [high] Upload an edited version of the AI's output ('here's how page 2 should look — fix the prompt') instead of describing changes in text. Visual feedback compresses hundreds of design decisions into one image.
+- `INS-260605-C048` [medium] Put reusable intelligence into tools, middleware, and memory before polishing prompts.
 - `INS-260605-5B0A` [medium] Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it.
 - `INS-260410-5D71` [medium] Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
 - `INS-260605-F512` [medium] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.

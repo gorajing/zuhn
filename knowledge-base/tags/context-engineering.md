@@ -1,7 +1,6 @@
 # Tag: context-engineering
 
 - `INS-260605-8A88` Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
-- `INS-260525-3A9A` Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
 - `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
 - `INS-260605-4C0A` Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
 - `INS-260410-9F17` If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
@@ -25,6 +24,7 @@
 - `INS-260605-3AB7` An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 - `INS-260410-9EFC` Context is not free real estate — every token spent depletes the model's attention budget, so curate aggressively.
 - `INS-260410-F259` System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
+- `INS-260525-3A9A` Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
 - `INS-260605-CF15` Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
 - `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.

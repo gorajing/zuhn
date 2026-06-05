@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5490 actionable insights
+Generated on 2026-06-05 | 5495 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -242,6 +242,9 @@ Generated on 2026-06-05 | 5490 actionable insights
 - [INS-260605-FC00] Let the model choose the next action; let code execute it.
 - [INS-260605-92FF] The dangerous toolset is ambiguous, not merely large.
 - [INS-260605-24AC] Build agents for ambiguity and judgment, not for every automation problem.
+- [INS-260605-E7AD] Use inline functions when the host, not the model, must retain decision authority.
+- [INS-260605-2ECD] Don't store traces as memory; distill traces into navigable evidence.
+- [INS-260605-4877] Define the agent's workspace as a manifest, not as an implicit container setup.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -609,6 +612,7 @@ Generated on 2026-06-05 | 5490 actionable insights
 - [INS-260603-6B3D] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
 - [INS-260605-0266] An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - [INS-260605-A46E] Agent guardrails are defense-in-depth, not the security model.
+- [INS-260605-8AFF] Scope the model's tools and the runtime's direct command permissions separately.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -1049,6 +1053,7 @@ Generated on 2026-06-05 | 5490 actionable insights
 - [INS-260605-C436] Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - [INS-260605-C223] A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 - [INS-260605-F4AE] Variable-driven prompts preserve evaluability as use cases multiply.
+- [INS-260605-15B8] Turn harness edits into falsifiable contracts, not untracked tweaks.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

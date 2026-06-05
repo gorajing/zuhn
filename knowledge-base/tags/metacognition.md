@@ -16,13 +16,13 @@
 - `INS-260404-1289` When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260403-CB80` Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
+- `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260403-1046` Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260330-6620` Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
-- `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260330-0F71` Confusion about advanced topics is usually a symptom of weak prerequisite understanding, not genuine complexity of the topic itself.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260329-1ACD` Planning code via pseudocode and flowcharts before writing it produces cleaner implementations with fewer bugs.

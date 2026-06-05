@@ -1,6 +1,8 @@
 # Tag: cortisol
 
-- `INS-260330-5D64` Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
+- `INS-260325-9F4C` Loneliness keeps the body in chronic fight-or-flight mode, elevating cortisol and inflammation that wear away cardiovascular, metabolic, and brain systems.
+- `INS-260330-D38F` Expressing verbal affirmations to a partner measurably reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
+- `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
 - `INS-260327-1DAB` Chronic stress and cortisol management is as important as diet for health outcomes
 - `INS-260327-7000` The cortisol-to-DHEA-S ratio strongly correlates with longevity; keeping it below 3 by minimizing chronic cortisol elevation is key to slowing aging.
 - `INS-260327-78E6` Keto dieters who claim they need less sleep are misinterpreting sympathetic nervous system overdrive from elevated cortisol and catecholamines as reduced sleep need.
@@ -9,6 +11,7 @@
 - `INS-260327-6F94` Morning sunlight exposure within 30 minutes of waking sets circadian rhythm for the entire day
 - `INS-260330-DC78` The difference between 6x10 and 10x10 on compound lifts is the difference between a testosterone spike and a cortisol spike.
 - `INS-260327-1309` Waking at 3AM is caused by cortisol spikes from blood sugar drops not primary insomnia
+- `INS-260330-5D64` Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
 - `INS-260327-5943` Fasting with a cortisol-to-DHEA ratio above 0.5 is counterproductive -- it accelerates catabolism, suppresses immunity, and may promote cancer growth; older adults are especially vulnerable.
 - `INS-260327-3D69` Keto plateaus are usually caused by hidden carbs excess protein or cortisol from stress and poor sleep
 - `INS-260327-FF86` Short-term ketogenic diets impair bone health markers, elevate stress hormones, and suppress thyroid function -- the body's metabolic thermostat.
@@ -18,7 +21,4 @@
 - `INS-260325-4601` Growth hormone releases during early deep sleep — seven common nighttime habits suppress it and accelerate aging.
 - `INS-260327-F222` Stress and caffeine are the primary drivers of magnesium depletion in modern life
 - `INS-260325-EDC8` Waking at 2-3AM is a cortisol spike from dropping blood sugar — eating more fat at dinner prevents it.
-- `INS-260325-9F4C` Loneliness keeps the body in chronic fight-or-flight mode, elevating cortisol and inflammation that wear away cardiovascular, metabolic, and brain systems.
-- `INS-260330-D38F` Expressing verbal affirmations to a partner measurably reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
-- `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
 - `INS-260321-4B38` Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.

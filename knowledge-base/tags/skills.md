@@ -44,5 +44,6 @@
 - `INS-260605-BDFF` A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - `INS-260605-4592` In a large org, skills sprawl out of control; only the best should survive, by deliberate Darwinian pruning.
 - `INS-260605-BBCF` Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
+- `INS-260605-062F` Start harnesses with primitives, then let trajectory evidence grow the specialization.
 - `INS-260605-B6BC` Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.
 - `INS-260323-3C7B` Prioritize curiosity and learning velocity over domain expertise when hiring, especially in fast-changing industries.

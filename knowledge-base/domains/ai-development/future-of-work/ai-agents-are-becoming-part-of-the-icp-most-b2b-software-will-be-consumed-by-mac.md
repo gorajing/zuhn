@@ -48,7 +48,7 @@ related:
   - INS-260327-E41B
   - INS-260327-0246
   - INS-260327-5F10
-  - INS-260330-0F23
   - INS-260405-8166
+  - INS-260405-A992
 ---
 Verna's most predictive claim: AI agents are entering the ICP. She frames it as 'more than a hypothesis' that agents will come in and use your product, that most B2B software evolves to be consumed by machines not humans, and the future ICP profile includes machines. This is a falsifiable, prediction-class assertion worth tracking against KB predictions about AI agents as economic actors; it also reframes product and GTM design (build for an agent operator, not only a human user).

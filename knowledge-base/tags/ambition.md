@@ -1,8 +1,6 @@
 # Tag: ambition
 
 - `INS-260424-BFDC` Logan Kilpatrick: instead of asking for one thing, you can now ask for 30 things — but the weight is on me, the onus is on me to be like I really could build this.
-- `INS-260327-3918` Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
-- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
@@ -16,6 +14,7 @@
 - `INS-260403-BDE0` Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260403-824F` People dismiss ambitious early work partly because they unconsciously fear that the creator's success would threaten their own relative status.
 - `INS-260403-C4E2` When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
+- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260412-EF6C` The Local Group's ~54 galaxies and trillion stars represent humanity's absolute maximum territory, reframing the question from limitless expansion to optimal utilization.
 - `INS-260403-4B81` Great projects universally pass through a phase where they look embarrassingly bad, and most people quit before pushing through it.
 - `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
@@ -29,6 +28,7 @@
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260403-1A05` Slight overconfidence armors you against both external skepticism and your own harsh self-judgment during early creative phases.
 - `INS-260404-56F8` Ambitious projects look embarrassingly bad early on, and most creators quit before pushing through this inevitable phase.
+- `INS-260327-3918` Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260402-7E2A` Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.

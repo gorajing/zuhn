@@ -47,7 +47,6 @@ stance: >-
   complete tasks requires fundamentally retraining user expectations about AI
   interaction latency.
 related:
-  - INS-260327-1599
   - INS-260514-F5D2
   - INS-260605-46A8
   - INS-260327-E9F3

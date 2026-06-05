@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 62 insights
+> 63 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -34,6 +34,7 @@
 - `INS-260409-A318` [high] Hassabis confirms Amara's Law holds for AI: we overestimate what's possible in a year and underestimate what's possible in 10 years — even amid current hype.
 - `INS-260405-54B7` [high] Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
 - `INS-260403-8832` [high] YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
+- `INS-260605-D041` [medium] The agent web needs price and capability metadata as much as it needs payment rails.
 - `INS-260405-4803` [medium] Agentic AI is moving from an engineering concern to a board-level strategic imperative.
 - `INS-260404-D646` [medium] Agentic AI is eating software by turning autonomous multi-step execution into a new platform layer, not just a feature bolted onto existing products.
 - `INS-260409-5FF6` [medium] Hassabis sees a very good chance of AGI within 5 years, consistent with Shane Legg's 2010 extrapolation predicting ~20 years.

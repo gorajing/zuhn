@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 41 insights
+> 44 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -20,12 +20,15 @@
 - `INS-260530-2E27` [high] Coco + Brian Wong: in construction, legal, medical, and structural engineering, a licensed professional must stamp/review every AI output before submission — the license-holder takes liability, so AI is a productivity multiplier inside that boundary but never replaces it.
 - `INS-260603-6B3D` [high] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
 - `INS-260412-4233` [high] ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
+- `INS-260605-3588` [high] A remote tool token should only work for the exact MCP server it was issued to.
 - `INS-260409-BBBA` [high] 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
+- `INS-260605-8AFF` [high] Scope the model's tools and the runtime's direct command permissions separately.
 - `INS-260413-7C61` [high] 2025 saw US federal policy shift to deregulation (Jan 23 EO, Jul 23 AI Action Plan, Dec 12 EO curbing state laws) while Texas TRAIGA, California SB 53, Montana Right to Compute, and Utah HB 452 passed substantive state AI laws.
 - `INS-260413-CDE2` [high] Across all 50 US states, concern about too-little AI regulation outweighs concern about too-much — 41% say federal AI regulation will not go far enough vs 27% saying it will go too far, though more than one-third are unsure.
 - `INS-260605-98BD` [high] The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
 - `INS-260605-B66C` [medium] For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
 - `INS-260412-C3AB` [medium] Training AI detectors on fake videos creates a feedback loop where detection signals become training data for better fakes, structurally favoring attackers.
+- `INS-260605-013A` [medium] Economic authority needs the same harness treatment as file and tool authority.
 - `INS-260605-683B` [medium] Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
 - `INS-260514-F565` [medium] AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
 - `INS-260514-7B11` [medium] AI surveillance state = digital ID (identity-tied interactions) + digital currency (programmable transactions). China has it. Western democracies converging under different framing. Behavioral classification → predictive control → granular incentive engineering at population scale.

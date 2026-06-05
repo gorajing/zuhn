@@ -32,6 +32,7 @@
 - `INS-260323-2FC3` The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
 - `INS-260329-6D6C` When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.
 - `INS-260329-6AF5` Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
+- `INS-260605-B930` Use provider-native harnesses for capability, but preserve your own portable run contract.
 - `INS-260329-E280` OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.
 - `INS-260329-0432` Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
@@ -44,13 +45,12 @@
 - `INS-260323-9955` The principle of least action provides a single mathematical framework that generates all laws of physics — classical mechanics, relativity, electrodynamics — by simply writing down the correct Lagrangian.
 - `INS-260329-9074` Variables create single points of change that prevent linear maintenance scaling in growing codebases.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
-- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260412-CE01` Naming an unknown phenomenon creates a collaborative anchor that accelerates investigation despite masking ignorance.
 - `INS-260412-15D0` Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
-- `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
+- `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260409-C758` Base-10, base-2, and base-16 are all the same formula with a different base — decimal just happens to be the one humans learned first.
 - `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
@@ -64,6 +64,10 @@
 - `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
 - `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
+- `INS-260409-3138` Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
+- `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
+- `INS-260409-9C74` 'The finger pointing at the moon is not the moon' is a general-purpose model — any symbolic representation of experience is downstream of the experience and must not be confused with it.
+- `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
@@ -79,10 +83,6 @@
 - `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
 - `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
-- `INS-260409-3138` Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
-- `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
-- `INS-260409-9C74` 'The finger pointing at the moon is not the moon' is a general-purpose model — any symbolic representation of experience is downstream of the experience and must not be confused with it.
-- `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260412-6ACA` Every 2D analogy for 3D+ spacetime curvature omits exactly the dimensions where the interesting physics happens.
 - `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
 - `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
@@ -92,6 +92,7 @@
 - `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - `INS-260329-B22B` The surrogate vs. natural key choice embodies a universal trade-off between meaningful identifiers and stable abstractions.
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
+- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260404-6586` AI wrapper startups are winning by packaging complex AI capabilities into simple, domain-specific products that non-technical users can adopt immediately.
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260404-673B` When language and program evolve together, the architecture naturally aligns with the problem's real structure.

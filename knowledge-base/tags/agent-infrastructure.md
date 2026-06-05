@@ -5,3 +5,4 @@
 - `INS-260424-865F` Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
 - `INS-260605-9976` One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260403-8832` YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
+- `INS-260605-B930` Use provider-native harnesses for capability, but preserve your own portable run contract.

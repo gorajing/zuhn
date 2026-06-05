@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 71 insights
+> 73 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -12,6 +12,7 @@
 - `INS-260605-7711` [high] Build bespoke tracing that structures the data your way and serves product/data/CX — not just engineers — because LLMs make such internal tools cheap to one-shot.
 - `INS-260514-8413` [high] Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
 - `INS-260605-A8A9` [high] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
+- `INS-260605-5F0C` [high] Put credential handles in manifests, not credentials.
 - `INS-260605-75BB` [high] Clients hold a continuously maintained connection to a shared session so a second tab or phone has instant visibility and an upstream channel to the working agent.
 - `INS-260605-48CA` [high] Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
 - `INS-260410-A27C` [high] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
@@ -44,6 +45,7 @@
 - `INS-260605-204E` [high] Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
 - `INS-260412-41A5` [high] Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.
 - `INS-260605-9362` [high] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
+- `INS-260605-B8AB` [high] Tool proxies should translate authority, not pass it through.
 - `INS-260605-A0D2` [high] Decompose sovereignty into data, model, infrastructure, and operational pillars and only harden the pillars your domain's risk profile demands.
 - `INS-260412-FD9A` [high] The Caplan thruster uses a second jet pointed at the Sun to prevent the engine from crashing into it, illustrating active balance in high-force systems.
 - `INS-260605-780C` [high] Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.'

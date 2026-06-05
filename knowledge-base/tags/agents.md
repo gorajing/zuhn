@@ -17,13 +17,6 @@
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260605-1A2D` Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
-- `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
-- `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
-- `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
-- `INS-260323-05B5` AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
-- `INS-260325-E62D` Agentic inference shifts compute from decode-heavy to prefill-heavy with larger shared cache needs.
-- `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
-- `INS-260323-48AF` OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
 - `INS-260410-F3D8` Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent.
 - `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
@@ -57,6 +50,13 @@
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-295D` Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
 - `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
+- `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
+- `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
+- `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
+- `INS-260323-05B5` AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
+- `INS-260325-E62D` Agentic inference shifts compute from decode-heavy to prefill-heavy with larger shared cache needs.
+- `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
+- `INS-260323-48AF` OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
 - `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
@@ -68,14 +68,14 @@
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
 - `INS-260605-4688` An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
 - `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
-- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
+- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260405-567D` NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260605-5EE0` Because a containerized agent is just another application, you can prototype it locally and lift the identical artifact to Kubernetes/OpenShift when you need security and scale.
 - `INS-260605-74CC` Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
+- `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
 - `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
 - `INS-260410-B224` Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
-- `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.

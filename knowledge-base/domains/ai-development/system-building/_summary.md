@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 263 insights
+> 267 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -70,6 +70,7 @@
 - `INS-260605-9F16` [high] 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
 - `INS-260329-7255` [high] Almost every performance optimization in computing trades memory for speed or speed for memory — recognizing which tradeoff you're making is the key architectural skill.
 - `INS-260410-9DB0` [high] Every piece of a harness encodes an assumption about what the model can't do; those assumptions are worth re-stress-testing each model release.
+- `INS-260605-15B8` [high] Turn harness edits into falsifiable contracts, not untracked tweaks.
 - `INS-260409-5065` [high] Ingest adds new material; query probes and adds explorations; lint finds contradictions, orphans, and gaps.
 - `INS-260329-72E0` [high] Specific exception catches force explicit failure mode enumeration, producing more robust error handling than generic catch-alls.
 - `INS-260329-9010` [high] Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
@@ -150,6 +151,7 @@
 - `INS-260320-6F8E` [high] SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
 - `INS-260329-CB03` [high] Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260329-3C75` [high] Semantic naming and structural clarity communicate intent more reliably than comments because structure can't drift out of sync with behavior.
+- `INS-260605-D818` [high] Make harness components file-visible before asking agents to improve them.
 - `INS-260329-1075` [high] Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
 - `INS-260329-3EB6` [high] AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
 - `INS-260329-3383` [high] AWS's shared responsibility model — where AWS secures infrastructure 'of' the cloud and customers secure everything 'in' the cloud — is a transferable framework for any platform-builder relationship.
@@ -235,6 +237,8 @@
 - `INS-260323-D8B9` [medium] Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
 - `INS-260321-801C` [medium] Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260409-D3EE` [medium] MemPalace applies the ancient Greek orators' memory palace technique to LLM memory — conversations become rooms in wings with halls and tunnels as cross-references — giving both AI and human users a navigable map instead of a flat semantic index.
+- `INS-260605-062F` [medium] Start harnesses with primitives, then let trajectory evidence grow the specialization.
+- `INS-260605-B930` [medium] Use provider-native harnesses for capability, but preserve your own portable run contract.
 - `INS-260603-1BC0` [medium] Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.
 - `INS-260329-075C` [medium] OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
 - `INS-260329-E280` [medium] OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.

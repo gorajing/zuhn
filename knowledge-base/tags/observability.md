@@ -26,6 +26,7 @@
 - `INS-260605-726C` When an AI system grows to many chained prompts and agents, a human can't trace where a failure originated, so you must point AI at your own internal tooling to debug it.
 - `INS-260602-1DF1` Mansi More: in the data-sources → ingestion → sub-agents → models stack, 'when one layer, one error comes, the whole agent is confined to it' — so it is critical to know exactly which layer produced an error, which only per-layer observability provides.
 - `INS-260329-05BB` HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
+- `INS-260605-D818` Make harness components file-visible before asking agents to improve them.
 - `INS-260605-6C72` Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss.
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.

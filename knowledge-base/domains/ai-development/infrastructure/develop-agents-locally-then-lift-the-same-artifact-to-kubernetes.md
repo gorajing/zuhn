@@ -56,6 +56,7 @@ related:
   - INS-260605-C2A3
   - INS-260603-1BC0
   - INS-260410-F910
+  - INS-260605-4877
 ---
 The speaker's consistent workflow is to develop something locally in a container and then lift it unchanged to Kubernetes — and the claim is that AI workloads are not special: the same story holds for an agent as for any web service. As agents proliferate and need to run everywhere, communicating with each other for real business use cases, the requirements that surface are the same ones any application faces at scale: security and orchestration, which is exactly what Kubernetes provides.
 
