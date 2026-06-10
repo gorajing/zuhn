@@ -17,7 +17,7 @@ Built for founders, researchers, writers, and anyone who thinks for a living.
 
 Every source you feed it becomes structured knowledge. The system finds patterns you wouldn't — cross-domain transfers, contradictions, gaps. Insights compress into principles. Principles inform decisions. Decisions track outcomes. The loop closes.
 
-<!-- Add a screenshot here: docs/mindmap-preview.png or a terminal flow GIF -->
+![Zuhn demo](assets/demo.gif)
 
 ### Example: From Source to Principle
 

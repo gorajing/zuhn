@@ -1,0 +1,20 @@
+{
+  "$schema": "cinematic-explainer-timeline-v1",
+  "output": "zuhn-explainer.mp4",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "transition": 0.35,
+  "fade_in": 0.25,
+  "fade_out": 0.45,
+  "clips": [
+    { "id": "opening", "file": "clips/01-opening.mp4", "duration": 5.5 },
+    { "id": "search-terminal", "file": "clips/02-search-terminal.mp4", "duration": 5.5 },
+    { "id": "decision-brief", "file": "clips/03-decision-brief.mp4", "duration": 5.5 },
+    { "id": "integrity", "file": "clips/04-integrity.mp4", "duration": 5.5 },
+    { "id": "insight-gate", "file": "clips/05-insight-gate.mp4", "duration": 5.5 },
+    { "id": "runtime-proof", "file": "clips/06-runtime-proof.mp4", "duration": 5.5 },
+    { "id": "agent-surface", "file": "clips/07-agent-surface.mp4", "duration": 5.5 },
+    { "id": "close", "file": "clips/08-close.mp4", "duration": 5.5 }
+  ]
+}
