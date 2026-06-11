@@ -1,6 +1,6 @@
 # Platform Adaptation Guide
 
-Zuhn's 17 skills are written for Claude Code but work with any AI coding assistant. This doc maps the concepts.
+Zuhn's 18 skills are written for Claude Code but work with any AI coding assistant. This doc maps the concepts.
 
 ## Tool Equivalents
 

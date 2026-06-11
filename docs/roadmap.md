@@ -34,7 +34,7 @@ Identified during architecture review (2026-03-24). These are North Star goals, 
 - LongMemEval-style regression gates
 
 ### Phase 18: Skill Extraction (Portable Methodology) — SHIPPED 2026-03-25
-- 17/17 SKILL.md files extracted (100% workflow coverage)
+- 17/17 original workflow SKILL.md files extracted (100% workflow coverage); 18 portable skills total as of 2026-06-05 after adding `agentic-workflow`
 - Repo split: engine at github.com/gorajin/zuhn (public, clean history) + knowledge stays private
 - 284 tests pass on public repo with zero knowledge-base dependency
 - Public CLAUDE.md genericized (no personal domain list)

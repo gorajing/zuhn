@@ -155,7 +155,7 @@ All IDs are stateless (timestamp + hash, no counters):
 
 - Knowledge base: `knowledge-base/` (source of truth, markdown + YAML)
 - Scripts: `scripts/` (40+ TypeScript scripts)
-- Skills: `skills/` (17 portable SKILL.md files — each a standalone workflow)
+- Skills: `skills/` (18 portable SKILL.md files — each a standalone workflow)
 - Schemas: `scripts/schemas/` (Zod validation)
 - Benchmarks: `benchmarks/` (epistemic CI/CD — quality metrics and regression detection)
 - MCP server: `scripts/mcp-server.ts` (12 tools — 7 read + 5 write — knowledge access from any directory)

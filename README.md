@@ -238,7 +238,7 @@ scripts/                           ← 75+ TypeScript scripts
 ├── lib/embeddings.ts              ← Ollama embedding client
 └── mcp-server.ts                  ← MCP server (12 tools)
 
-skills/                            ← 17 portable SKILL.md files (any LLM agent)
+skills/                            ← 18 portable SKILL.md files (any LLM agent)
 benchmarks/                        ← Epistemic CI/CD (quality metrics + regression gates)
 ```
 
