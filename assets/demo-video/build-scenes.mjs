@@ -2,364 +2,900 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
-const OUT = new URL("./scenes/", import.meta.url);
+const ROOT = new URL("./", import.meta.url);
+const SCENES = new URL("./scenes/", import.meta.url);
 
-const toolNames = [
-  "zuhn_search",
-  "zuhn_recall",
-  "zuhn_brief",
-  "zuhn_browse",
-  "zuhn_flags",
-  "zuhn_tensions",
-  "zuhn_stats",
-  "zuhn_queue_source",
-  "zuhn_submit_insights",
-  "zuhn_flag_tension",
-  "zuhn_log_feedback",
-  "zuhn_queue_session_insight"
-];
+const html = String.raw`<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zuhn Operator Session</title>
+  <style>
+    :root {
+      --paper: #f7f2e8;
+      --ink: #171717;
+      --muted: #6f6a60;
+      --line: rgba(23, 23, 23, 0.13);
+      --charcoal: #121418;
+      --charcoal-2: #1d2128;
+      --mint: #58c59b;
+      --blue: #376bd9;
+      --amber: #d58a1d;
+      --coral: #d9533f;
+      --white: #fffaf0;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", sans-serif;
+    }
 
-function h(value) {
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;");
-}
+    * { box-sizing: border-box; }
 
-function terminal(lines, variant = "") {
-  const delayFor = (line, index) => {
-    if (line && typeof line === "object" && line.delay) return line.delay;
-    return `${320 + index * 210}ms`;
-  };
+    body {
+      margin: 0;
+      overflow: hidden;
+      background:
+        linear-gradient(rgba(23, 23, 23, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(23, 23, 23, 0.03) 1px, transparent 1px),
+        var(--paper);
+      background-size: 42px 42px;
+      color: var(--ink);
+    }
 
-  const body = lines
-    .map((line, index) => {
-      if (line === "") {
-        return `<div class="term-line blank" style="--i:${index};--delay:${delayFor(line, index)}">&nbsp;</div>`;
-      }
-      const text = typeof line === "string" ? line : line.text;
-      const kind = typeof line === "string" ? "" : line.kind ?? "";
-      const delay = delayFor(line, index);
-      if (kind === "command") {
-        const prompt = typeof line === "string" ? "zuhn %" : line.prompt ?? "zuhn %";
-        return `<div class="term-line term-command" style="--i:${index};--delay:${delay};--chars:${String(text).length}"><span class="term-prompt">${h(prompt)}</span><span class="term-typed">${h(text)}</span></div>`;
-      }
-      return `<div class="term-line ${kind}" style="--i:${index};--delay:${delay}">${h(text)}</div>`;
-    })
-    .join("");
-  const cursorDelay = `${420 + lines.length * 210}ms`;
+    .stage {
+      position: relative;
+      width: 1280px;
+      height: 720px;
+      padding: 34px 42px;
+    }
 
-  return `<div class="terminal ${variant}">
-      <div class="terminal-bar"><i></i><i></i><i></i><span>zuhn@local</span></div>
-      <div class="terminal-body">
-        ${body}
-        <div class="term-cursor" style="--i:${lines.length};--delay:${cursorDelay}"></div>
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 34px;
+      font-size: 17px;
+      font-weight: 650;
+      color: var(--muted);
+    }
+
+    .brand {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      color: var(--ink);
+      font-size: 24px;
+      font-weight: 830;
+    }
+
+    .brand span {
+      color: var(--muted);
+      font-size: 15px;
+      font-weight: 620;
+    }
+
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--muted);
+    }
+
+    .status::before {
+      content: "";
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      background: var(--mint);
+      box-shadow: 0 0 0 5px rgba(88, 197, 155, 0.14);
+    }
+
+    .workbench {
+      position: relative;
+      display: grid;
+      grid-template-columns: 490px 1fr;
+      gap: 24px;
+      height: 520px;
+      margin-top: 18px;
+    }
+
+    .terminal {
+      position: relative;
+      overflow: hidden;
+      border-radius: 8px;
+      background: var(--charcoal);
+      box-shadow: 0 22px 70px rgba(18, 20, 24, 0.22);
+    }
+
+    .terminal-head {
+      height: 42px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 0 16px;
+      color: #a8b0ba;
+      font-size: 14px;
+      font-weight: 620;
+      background: #1c2027;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    }
+
+    .dot { width: 10px; height: 10px; border-radius: 999px; }
+    .dot.red { background: #f06455; }
+    .dot.yellow { background: #f4bd4f; }
+    .dot.green { background: #68c56b; margin-right: 8px; }
+
+    .term-page {
+      position: absolute;
+      inset: 58px 22px 22px;
+      opacity: 0;
+      transform: translateY(12px);
+      animation-duration: 42s;
+      animation-timing-function: linear;
+      animation-fill-mode: both;
+    }
+
+    .term-page.search { animation-name: termSearch; }
+    .term-page.brief { animation-name: termBrief; }
+    .term-page.gate { animation-name: termGate; }
+    .term-page.health { animation-name: termHealth; }
+    .term-page.mcp { animation-name: termMcp; }
+
+    @keyframes termBase {
+      0% { opacity: 0; transform: translateY(10px); }
+      2%, 16% { opacity: 1; transform: translateY(0); }
+      18%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    @keyframes termSearch {
+      0%, 1% { opacity: 0; transform: translateY(10px); }
+      2%, 15.5% { opacity: 1; transform: translateY(0); }
+      17.5%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    @keyframes termBrief {
+      0%, 16% { opacity: 0; transform: translateY(10px); }
+      18%, 35% { opacity: 1; transform: translateY(0); }
+      37%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    @keyframes termGate {
+      0%, 37% { opacity: 0; transform: translateY(10px); }
+      39%, 64% { opacity: 1; transform: translateY(0); }
+      66%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    @keyframes termHealth {
+      0%, 66% { opacity: 0; transform: translateY(10px); }
+      68%, 83% { opacity: 1; transform: translateY(0); }
+      85%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    @keyframes termMcp {
+      0%, 84% { opacity: 0; transform: translateY(10px); }
+      86%, 98% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-10px); }
+    }
+
+    .line {
+      min-height: 25px;
+      color: #dce6ed;
+      font-family: "SF Mono", "Cascadia Code", Menlo, Consolas, monospace;
+      font-size: 17px;
+      line-height: 1.48;
+      white-space: pre-wrap;
+      opacity: 0;
+      animation: revealLine 420ms ease-out both;
+      animation-delay: var(--d);
+    }
+
+    .cmd { color: #91f4be; font-weight: 740; }
+    .muted { color: #8b95a1; }
+    .good { color: #a5f3c5; }
+    .warn { color: #f5c86a; }
+    .dim { color: #64707c; }
+    .prompt { color: #7f8a96; }
+
+    @keyframes revealLine {
+      from { opacity: 0; transform: translateY(5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .right {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(255, 250, 240, 0.78);
+      box-shadow: 0 22px 60px rgba(50, 44, 34, 0.12);
+    }
+
+    .panel {
+      position: absolute;
+      inset: 0;
+      padding: 28px 30px;
+      opacity: 0;
+      transform: translateX(18px);
+      animation-duration: 42s;
+      animation-timing-function: linear;
+      animation-fill-mode: both;
+    }
+
+    .panel.map { animation-name: panelMap; }
+    .panel.search { animation-name: panelSearch; }
+    .panel.brief { animation-name: panelBrief; }
+    .panel.gate { animation-name: panelGate; }
+    .panel.runtime { animation-name: panelRuntime; }
+    .panel.close { animation-name: panelClose; }
+
+    @keyframes panelMap {
+      0%, 1% { opacity: 0; transform: translateX(14px); }
+      2%, 13% { opacity: 1; transform: translateX(0); }
+      14.5%, 100% { opacity: 0; transform: translateX(-14px); }
+    }
+
+    @keyframes panelSearch {
+      0%, 13.5% { opacity: 0; transform: translateX(14px); }
+      15%, 30% { opacity: 1; transform: translateX(0); }
+      31.5%, 100% { opacity: 0; transform: translateX(-14px); }
+    }
+
+    @keyframes panelBrief {
+      0%, 30.5% { opacity: 0; transform: translateX(14px); }
+      32%, 51% { opacity: 1; transform: translateX(0); }
+      52.5%, 100% { opacity: 0; transform: translateX(-14px); }
+    }
+
+    @keyframes panelGate {
+      0%, 52% { opacity: 0; transform: translateX(14px); }
+      53.5%, 72% { opacity: 1; transform: translateX(0); }
+      73.5%, 100% { opacity: 0; transform: translateX(-14px); }
+    }
+
+    @keyframes panelRuntime {
+      0%, 77% { opacity: 0; transform: translateX(14px); }
+      78.5%, 88% { opacity: 1; transform: translateX(0); }
+      89.5%, 100% { opacity: 0; transform: translateX(-14px); }
+    }
+
+    @keyframes panelClose {
+      0%, 88.5% { opacity: 0; transform: translateX(14px); }
+      90%, 100% { opacity: 1; transform: translateX(0); }
+    }
+
+    .kicker {
+      color: var(--blue);
+      font-size: 14px;
+      font-weight: 820;
+      text-transform: uppercase;
+      letter-spacing: 0;
+    }
+
+    h1, h2, p { margin: 0; }
+
+    h1 {
+      margin-top: 10px;
+      font-size: 48px;
+      line-height: 1.02;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      margin-top: 10px;
+      font-size: 34px;
+      line-height: 1.08;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin-top: 12px;
+      max-width: 520px;
+      color: var(--muted);
+      font-size: 20px;
+      line-height: 1.34;
+      font-weight: 560;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-top: 28px;
+    }
+
+    .stat {
+      padding: 16px 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.58);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 29px;
+      line-height: 1;
+      color: var(--ink);
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 720;
+    }
+
+    .map-canvas {
+      position: relative;
+      height: 205px;
+      margin-top: 22px;
+      border-radius: 8px;
+      background: #121418;
+      overflow: hidden;
+    }
+
+    .node {
+      position: absolute;
+      width: var(--s);
+      height: var(--s);
+      left: var(--x);
+      top: var(--y);
+      border-radius: 999px;
+      background: var(--c);
+      box-shadow: 0 0 0 8px color-mix(in srgb, var(--c) 20%, transparent);
+      animation: breathe 3.8s ease-in-out infinite;
+      animation-delay: var(--delay);
+    }
+
+    .edge {
+      position: absolute;
+      left: var(--x);
+      top: var(--y);
+      width: var(--w);
+      height: 1px;
+      background: rgba(255, 250, 240, 0.2);
+      transform: rotate(var(--r));
+      transform-origin: left center;
+    }
+
+    @keyframes breathe {
+      0%, 100% { transform: scale(1); opacity: 0.86; }
+      50% { transform: scale(1.12); opacity: 1; }
+    }
+
+    .result {
+      margin-top: 24px;
+      padding: 22px;
+      border-radius: 8px;
+      background: #ffffff;
+      border: 1px solid var(--line);
+    }
+
+    .result b {
+      color: var(--blue);
+      font-size: 16px;
+    }
+
+    .result .quote {
+      margin-top: 10px;
+      font-size: 25px;
+      line-height: 1.18;
+      font-weight: 770;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 18px;
+    }
+
+    .tags span {
+      padding: 8px 10px;
+      border-radius: 7px;
+      background: #eef2ff;
+      color: #3153b7;
+      font-size: 13px;
+      font-weight: 720;
+    }
+
+    .brief-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-top: 24px;
+    }
+
+    .brief-card {
+      min-height: 122px;
+      padding: 17px;
+      border-radius: 8px;
+      background: #fff;
+      border: 1px solid var(--line);
+    }
+
+    .brief-card b {
+      display: block;
+      margin-bottom: 9px;
+      color: var(--blue);
+      font-size: 15px;
+    }
+
+    .brief-card span {
+      color: var(--ink);
+      font-size: 18px;
+      line-height: 1.25;
+      font-weight: 650;
+    }
+
+    .uncertainty {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 12px;
+      margin-top: 24px;
+    }
+
+    .uncertainty div {
+      padding: 18px 14px;
+      border-radius: 8px;
+      background: #fff;
+      border: 1px solid var(--line);
+      text-align: center;
+    }
+
+    .uncertainty strong {
+      display: block;
+      font-size: 43px;
+      line-height: 1;
+    }
+
+    .uncertainty span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 750;
+    }
+
+    .quality-bars {
+      display: grid;
+      gap: 13px;
+      margin-top: 26px;
+    }
+
+    .bar {
+      display: grid;
+      grid-template-columns: 170px 1fr 78px;
+      align-items: center;
+      gap: 14px;
+      font-size: 16px;
+      font-weight: 760;
+    }
+
+    .track {
+      height: 13px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: #e6ded0;
+    }
+
+    .fill {
+      width: var(--w);
+      height: 100%;
+      border-radius: 999px;
+      background: var(--c);
+      transform-origin: left;
+      animation: grow 900ms ease-out both;
+      animation-delay: 23.2s;
+    }
+
+    @keyframes grow {
+      from { transform: scaleX(0); }
+      to { transform: scaleX(1); }
+    }
+
+    .triage {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 26px;
+    }
+
+    .triage div {
+      padding: 16px;
+      border-radius: 8px;
+      background: #fff;
+      border: 1px solid var(--line);
+    }
+
+    .triage strong {
+      display: block;
+      font-size: 35px;
+      line-height: 1;
+    }
+
+    .triage span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 720;
+    }
+
+    .runtime-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .runtime-card {
+      min-height: 112px;
+      padding: 16px;
+      border-radius: 8px;
+      background: #fff;
+      border: 1px solid var(--line);
+    }
+
+    .runtime-card strong {
+      display: block;
+      font-size: 38px;
+      line-height: 1;
+    }
+
+    .runtime-card span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 720;
+      line-height: 1.24;
+    }
+
+    .close-lockup {
+      position: absolute;
+      left: 30px;
+      right: 30px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    .close-lockup h1 {
+      max-width: 650px;
+      font-size: 56px;
+    }
+
+    .caption {
+      position: absolute;
+      left: 42px;
+      right: 42px;
+      bottom: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 22px;
+      min-height: 54px;
+    }
+
+    .caption-text {
+      position: absolute;
+      left: 0;
+      max-width: 820px;
+      font-size: 27px;
+      line-height: 1.15;
+      font-weight: 760;
+      opacity: 0;
+      transform: translateY(10px);
+      animation-duration: 42s;
+      animation-timing-function: linear;
+      animation-fill-mode: both;
+    }
+
+    .caption-text.c1 { animation-name: caption1; }
+    .caption-text.c2 { animation-name: caption2; }
+    .caption-text.c3 { animation-name: caption3; }
+    .caption-text.c4 { animation-name: caption4; }
+    .caption-text.c5 { animation-name: caption5; }
+    .caption-text.c6 { animation-name: caption6; }
+
+    @keyframes caption1 {
+      0%, 1% { opacity: 0; transform: translateY(9px); }
+      2%, 13% { opacity: 1; transform: translateY(0); }
+      14.5%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    @keyframes caption2 {
+      0%, 13.5% { opacity: 0; transform: translateY(9px); }
+      15%, 30% { opacity: 1; transform: translateY(0); }
+      31.5%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    @keyframes caption3 {
+      0%, 30.5% { opacity: 0; transform: translateY(9px); }
+      32%, 51% { opacity: 1; transform: translateY(0); }
+      52.5%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    @keyframes caption4 {
+      0%, 52% { opacity: 0; transform: translateY(9px); }
+      53.5%, 72% { opacity: 1; transform: translateY(0); }
+      73.5%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    @keyframes caption5 {
+      0%, 77% { opacity: 0; transform: translateY(9px); }
+      78.5%, 88% { opacity: 1; transform: translateY(0); }
+      89.5%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+
+    @keyframes caption6 {
+      0%, 88.5% { opacity: 0; transform: translateY(9px); }
+      90%, 100% { opacity: 1; transform: translateY(0); }
+    }
+
+    .provenance {
+      margin-left: auto;
+      padding: 10px 12px;
+      border-radius: 7px;
+      color: var(--muted);
+      background: rgba(255, 250, 240, 0.72);
+      border: 1px solid var(--line);
+      font-size: 14px;
+      font-weight: 700;
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
+  <main class="stage">
+    <header class="topbar">
+      <div class="brand">Zuhn <span>local-first knowledge intelligence</span></div>
+      <div class="status">operator session · sample public corpus</div>
+    </header>
+
+    <section class="workbench">
+      <div class="terminal">
+        <div class="terminal-head">
+          <i class="dot red"></i><i class="dot yellow"></i><i class="dot green"></i>
+          zuhn@local · /Users/jinchoi/Code/Zuhn
+        </div>
+
+        <div class="term-page search">
+          <div class="line cmd" style="--d:280ms"><span class="prompt">%</span> npm run search "context engineering"</div>
+          <div class="line muted" style="--d:980ms">&gt; zuhn@1.0.0 search</div>
+          <div class="line muted" style="--d:1280ms">Search [keyword]: "context engineering" (10 results)</div>
+          <div class="line good" style="--d:1740ms">1. [INS-260605-59FE] The under-credited lever...</div>
+          <div class="line good" style="--d:2160ms">   ...is the search tool deciding what enters the window</div>
+          <div class="line muted" style="--d:2540ms">ai-development/system-design · confidence: medium</div>
+          <div class="line muted" style="--d:2920ms">tags: context-engineering, agentic-search, retrieval, rag</div>
+        </div>
+
+        <div class="term-page brief">
+          <div class="line cmd" style="--d:260ms"><span class="prompt">%</span> npm run brief -- --mode concise "should I raise VC..."</div>
+          <div class="line muted" style="--d:1060ms">&gt; zuhn@1.0.0 brief</div>
+          <div class="line good" style="--d:1500ms">Principles: founder control, ramen profitability, scarcity</div>
+          <div class="line good" style="--d:1900ms">Predictions: AI-native leverage may favor bootstrapping</div>
+          <div class="line good" style="--d:2300ms">Past decision: keep the public KB visible as the demo</div>
+          <div class="line warn" style="--d:2800ms">Track record: 0 confirmed, 0 falsified, 14 untested</div>
+        </div>
+
+        <div class="term-page gate">
+          <div class="line cmd" style="--d:260ms"><span class="prompt">%</span> npm run gate -- --audit --since 2026-06-05 --examples 5</div>
+          <div class="line muted" style="--d:1180ms">Zuhn — Insight Gate (AUDIT · read-only)</div>
+          <div class="line good" style="--d:1620ms">Scope: since 2026-06-05    Insights: 532</div>
+          <div class="line good" style="--d:2040ms">stance present             532 / 532  100.0%</div>
+          <div class="line warn" style="--d:2460ms">stance directional         528 / 532   99.2%</div>
+          <div class="line good" style="--d:2880ms">attribution resolves       532 / 532  100.0%</div>
+          <div class="line warn" style="--d:3300ms">Block simulation: &gt;= 0.85 near-dupes -&gt; 3</div>
+        </div>
+
+        <div class="term-page health">
+          <div class="line cmd" style="--d:240ms"><span class="prompt">%</span> npm run health</div>
+          <div class="line good" style="--d:980ms">Insights: 12110 files, 0 errors, 0 warnings</div>
+          <div class="line good" style="--d:1340ms">Principles: 842 files, 0 errors, 0 warnings</div>
+          <div class="line good" style="--d:1700ms">Referential integrity: OK</div>
+          <div class="line good" style="--d:2060ms">Health check PASSED.</div>
+          <div class="line cmd" style="--d:2860ms"><span class="prompt">%</span> npm run verify-contracts</div>
+          <div class="line good" style="--d:3620ms">40 contract checks run, 0 failures.</div>
+        </div>
+
+        <div class="term-page mcp">
+          <div class="line cmd" style="--d:260ms"><span class="prompt">%</span> rg -c "registerTool" scripts/mcp-server.ts</div>
+          <div class="line good" style="--d:1140ms">12</div>
+          <div class="line dim" style="--d:1640ms">// Read (7): search, recall, brief, browse, flags...</div>
+          <div class="line dim" style="--d:2060ms">// Write (5): queue source, submit insights, feedback...</div>
+        </div>
       </div>
-    </div>`;
-}
 
-const scenes = [
-  {
-    id: "01-opening",
-    theme: "paper",
-    eyebrow: "Zuhn / local-first knowledge intelligence",
-    title: "Memory that answers back.",
-    caption:
-      "The public reference corpus is not a brochure. It is a repo you can search, brief, validate, and wire into agents.",
-    proof: "Proof: npm run health + knowledge-base/meta/stats.md",
-    body: `
-      <section class="opening">
-        <div class="opening-copy reveal" style="--d:120ms">
-          <div class="kicker">live corpus</div>
-          <div class="hero-number count">12,110</div>
-          <div class="hero-label">insight files, 0 errors</div>
-          <p>Saved inputs compress into insights, principles, predictions, decisions, and tensions.</p>
-        </div>
-        <div class="corpus-board reveal" style="--d:260ms">
-          <div class="board-header"><b>knowledge-base/</b><span>generated 2026-06-05</span></div>
-          <div class="stat-grid">
-            <div><strong>9</strong><span>domains</span></div>
-            <div><strong>140</strong><span>topics</span></div>
-            <div><strong>17,475</strong><span>tags</span></div>
-            <div><strong>842</strong><span>principles</span></div>
+      <div class="right">
+        <article class="panel map">
+          <div class="kicker">live reference corpus</div>
+          <h1>Memory that answers back.</h1>
+          <p>Zuhn turns saved content into structured insights, principles, predictions, and decisions that agents can retrieve.</p>
+          <div class="stats">
+            <div class="stat"><strong>12,110</strong><span>insights</span></div>
+            <div class="stat"><strong>9</strong><span>domains</span></div>
+            <div class="stat"><strong>140</strong><span>topics</span></div>
+            <div class="stat"><strong>17,475</strong><span>tags</span></div>
           </div>
-          <div class="flow">
-            <span>raw intake</span><i></i><span>insights</span><i></i><span>judgment</span>
+          <div class="map-canvas">
+            <i class="edge" style="--x:110px;--y:142px;--w:220px;--r:-16deg"></i>
+            <i class="edge" style="--x:320px;--y:95px;--w:190px;--r:24deg"></i>
+            <i class="edge" style="--x:180px;--y:180px;--w:270px;--r:0deg"></i>
+            <i class="edge" style="--x:410px;--y:166px;--w:120px;--r:-42deg"></i>
+            <i class="node" style="--x:86px;--y:118px;--s:54px;--c:#58c59b;--delay:0s"></i>
+            <i class="node" style="--x:300px;--y:74px;--s:38px;--c:#6aa3ff;--delay:.3s"></i>
+            <i class="node" style="--x:505px;--y:139px;--s:46px;--c:#f0b44c;--delay:.6s"></i>
+            <i class="node" style="--x:178px;--y:171px;--s:30px;--c:#d9533f;--delay:.9s"></i>
+            <i class="node" style="--x:430px;--y:196px;--s:28px;--c:#f7f2e8;--delay:1.2s"></i>
           </div>
-          ${terminal([
-            { text: "npm run health", kind: "command", delay: "280ms" },
-            { text: "> zuhn@1.0.0 health", kind: "muted", delay: "1060ms" },
-            { text: "Insights: 12110 files, 0 errors, 0 warnings", kind: "good", delay: "1320ms" },
-            { text: "Health check PASSED.", kind: "good", delay: "1560ms" }
-          ], "mini")}
-        </div>
-      </section>`
-  },
-  {
-    id: "02-search-terminal",
-    theme: "operator",
-    eyebrow: "Search what you know",
-    title: "The search tool decides what enters context.",
-    caption:
-      "Zuhn returns distilled claims with domain, confidence, and tags instead of dumping a pile of saved links.",
-    proof: "Proof: npm run search \"context engineering\"",
-    body: `
-      <section class="terminal-split">
-        <div class="terminal-copy reveal" style="--d:120ms">
-          <div class="kicker">terminal action</div>
-          <h2>Ask the corpus.</h2>
-          <p>The answer starts as retrieval, but the result is already shaped into a reusable thought.</p>
-          <div class="metric-pill"><strong>10</strong><span>keyword results</span></div>
-        </div>
-        ${terminal([
-          { text: "npm run search \"context engineering\"", kind: "command", delay: "360ms" },
-          "",
-          { text: "> zuhn@1.0.0 search", kind: "muted", delay: "1320ms" },
-          { text: "> tsx scripts/search.ts context engineering", kind: "muted", delay: "1540ms" },
-          "",
-          { text: "Search [keyword]: \"context engineering\" (10 results)", kind: "muted", delay: "1960ms" },
-          "",
-          { text: "1. [INS-260605-59FE] The under-credited lever", kind: "good", delay: "2320ms" },
-          { text: "   in context engineering is the search tool deciding", kind: "good", delay: "2540ms" },
-          { text: "   what enters the window, not the curation arrow afterward.", kind: "good", delay: "2760ms" },
-          { text: "ai-development/system-design | confidence: medium", kind: "muted", delay: "3140ms" },
-          { text: "tags: context-engineering, agentic-search, retrieval, rag", kind: "muted", delay: "3360ms" }
-        ], "cinema")}
-      </section>`
-  },
-  {
-    id: "03-decision-brief",
-    theme: "studio",
-    eyebrow: "Decision memory",
-    title: "A decision prompt becomes a compact brief.",
-    caption:
-      "The CLI pulls principles, predictions, a prior decision, and the track record into one usable surface.",
-    proof: "Proof: npm run brief -- --mode concise \"should I raise VC or bootstrap...\"",
-    body: `
-      <section class="brief-shot">
-        <div class="brief-header reveal" style="--d:120ms">
-          <div class="query-chip">$ npm run brief -- --mode concise</div>
-          <h2>should I raise VC or bootstrap?</h2>
-        </div>
-        <div class="brief-grid">
-          <article class="brief-card reveal" style="--d:320ms"><b>Principles</b><span>Ramen profitability first. Control matters more than valuation.</span></article>
-          <article class="brief-card reveal" style="--d:440ms"><b>Predictions</b><span>AI-native leverage can reduce the need for large VC-scale teams.</span></article>
-          <article class="brief-card reveal" style="--d:560ms"><b>Past decision</b><span>Keep the public KB visible because the corpus is the demo.</span></article>
-          <article class="brief-card strong reveal" style="--d:680ms"><b>Track record</b><span>0 confirmed, 0 falsified, 14 untested.</span></article>
-        </div>
-        <div class="brief-terminal reveal" style="--d:760ms">
-          ${terminal([
-            { text: "npm run brief -- --mode concise \"should I raise...\"", kind: "command", delay: "220ms" },
-            { text: "> zuhn@1.0.0 brief", kind: "muted", delay: "1140ms" },
-            { text: "Principles: 3 surfaced | Predictions: 2 active", kind: "muted", delay: "1420ms" },
-            { text: "Track record: 0 confirmed, 0 falsified, 14 untested", kind: "good", delay: "1720ms" }
-          ], "brief-term")}
-        </div>
-      </section>`
-  },
-  {
-    id: "04-integrity",
-    theme: "paper-accent",
-    eyebrow: "The integrity shot",
-    title: "It refuses to launder uncertainty.",
-    caption:
-      "The useful answer is not just what the system thinks. It is what the system has not earned yet.",
-    proof: "Proof: live brief output for the VC vs bootstrapping query",
-    body: `
-      <section class="integrity-shot">
-        <div class="integrity-left reveal" style="--d:100ms">
-          <div class="truth-number">14</div>
-          <div class="truth-label">matched principles still untested</div>
-          <p>That number is not a weakness. It is the system keeping its epistemic books open.</p>
-        </div>
-        <div class="ledger reveal" style="--d:260ms">
-          <div class="ledger-row ok"><span>confirmed</span><b>0</b></div>
-          <div class="ledger-row bad"><span>falsified</span><b>0</b></div>
-          <div class="ledger-row warn"><span>untested</span><b>14</b></div>
-          <div class="ledger-note">No smoothing. No fake confidence. The track record travels with the advice.</div>
-        </div>
-      </section>`
-  },
-  {
-    id: "05-insight-gate",
-    theme: "operator",
-    eyebrow: "Quality gate",
-    title: "Weak memory gets surfaced before it hardens.",
-    caption:
-      "The gate audits new insights for stance, attribution, topic fit, and near-duplicates before they become trusted context.",
-    proof: "Proof: npm run gate -- --audit --since 2026-06-05 --examples 5",
-    body: `
-      <section class="gate-shot">
-        <div class="gate-copy reveal" style="--d:120ms">
-          <div class="kicker">discrimination layer</div>
-          <h2>Not every note becomes knowledge.</h2>
-          <p>Read-only audit mode exposes where the corpus needs triage instead of laundering it into confidence.</p>
-          <div class="gate-metrics">
+        </article>
+
+        <article class="panel search">
+          <div class="kicker">retrieval with shape</div>
+          <h2>The search result is already a thought.</h2>
+          <p>Instead of dumping saved links, the CLI returns a claim, its domain, confidence, and retrieval tags.</p>
+          <div class="result">
+            <b>INS-260605-59FE · ai-development/system-design</b>
+            <div class="quote">“The search tool decides what enters the window.”</div>
+            <div class="tags"><span>context-engineering</span><span>agentic-search</span><span>retrieval</span><span>rag</span></div>
+          </div>
+        </article>
+
+        <article class="panel brief">
+          <div class="kicker">decision memory</div>
+          <h2>A question becomes a compact brief.</h2>
+          <p>The answer carries principles, predictions, a past decision, and its own uncertainty budget.</p>
+          <div class="brief-grid">
+            <div class="brief-card"><b>Principles</b><span>Founder control and ramen profitability before valuation games.</span></div>
+            <div class="brief-card"><b>Predictions</b><span>AI-native leverage may make bootstrapping more viable.</span></div>
+            <div class="brief-card"><b>Past decision</b><span>Keep the public KB visible because the corpus is the demo.</span></div>
+            <div class="brief-card"><b>Track record</b><span>0 confirmed, 0 falsified, 14 untested.</span></div>
+          </div>
+          <div class="uncertainty">
+            <div><strong>0</strong><span>confirmed</span></div>
+            <div><strong>0</strong><span>falsified</span></div>
+            <div><strong>14</strong><span>untested</span></div>
+          </div>
+        </article>
+
+        <article class="panel gate">
+          <div class="kicker">quality gate</div>
+          <h2>Weak memory gets surfaced before it hardens.</h2>
+          <p>Audit mode checks stance, attribution, topic fit, and novelty before new insights become trusted context.</p>
+          <div class="quality-bars">
+            <div class="bar"><span>stance present</span><div class="track"><i class="fill" style="--w:100%;--c:#58c59b"></i></div><b>100%</b></div>
+            <div class="bar"><span>stance direction</span><div class="track"><i class="fill" style="--w:99.2%;--c:#f0b44c"></i></div><b>99.2%</b></div>
+            <div class="bar"><span>attribution</span><div class="track"><i class="fill" style="--w:100%;--c:#58c59b"></i></div><b>100%</b></div>
+          </div>
+          <div class="triage">
             <div><strong>532</strong><span>same-day insights audited</span></div>
             <div><strong>4</strong><span>stance issues surfaced</span></div>
             <div><strong>3</strong><span>near-dupe candidates</span></div>
           </div>
-        </div>
-        ${terminal([
-          { text: "npm run gate -- --audit --since 2026-06-05 --examples 5", kind: "command", prompt: "%", delay: "360ms" },
-          "",
-          { text: "> zuhn@1.0.0 gate", kind: "muted", delay: "1460ms" },
-          { text: "> tsx scripts/insight-gate.ts --audit --since 2026-06-05 --examples 5", kind: "muted", delay: "1680ms" },
-          "",
-          { text: "Scope: since 2026-06-05    Insights: 532", kind: "good", delay: "2120ms" },
-          "",
-          { text: "stance present             532 / 532  100.0%", kind: "good", delay: "2440ms" },
-          { text: "stance directional         528 / 532   99.2%", kind: "warn", delay: "2660ms" },
-          { text: "attribution resolves       532 / 532  100.0%", kind: "good", delay: "2880ms" },
-          { text: "topic matches path         532 / 532  100.0%", kind: "good", delay: "3100ms" },
-          "",
-          { text: "Block simulation: >= 0.85 near-dupes -> 3", kind: "warn", delay: "3520ms" },
-          { text: "Sample failure: not directional", kind: "warn", delay: "3740ms" }
-        ], "gate-terminal")}
-      </section>`
-  },
-  {
-    id: "06-runtime-proof",
-    theme: "operator",
-    eyebrow: "Runtime proof",
-    title: "The corpus is schema-checked infrastructure.",
-    caption:
-      "This beat is deliberately terminal-first: the claims in the video are rerunnable commands.",
-    proof: "Proof: npm run health + npm run verify-contracts",
-    body: `
-      <section class="proof-shot">
-        ${terminal([
-          { text: "npm run health", kind: "command", delay: "320ms" },
-          "",
-          { text: "> zuhn@1.0.0 health", kind: "muted", delay: "1100ms" },
-          { text: "> tsx scripts/health.ts", kind: "muted", delay: "1320ms" },
-          "",
-          { text: "Checking: /Users/jinchoi/Code/Zuhn/knowledge-base", kind: "muted", delay: "1660ms" },
-          { text: "Insights: 12110 files, 0 errors, 0 warnings", kind: "good", delay: "1900ms" },
-          { text: "Principles: 842 files, 0 errors, 0 warnings", kind: "good", delay: "2120ms" },
-          { text: "Sources: 2857 files, 0 errors, 0 warnings", kind: "good", delay: "2340ms" },
-          { text: "Tensions: 44 files, 0 errors, 0 warnings", kind: "good", delay: "2560ms" },
-          { text: "Referential integrity: OK", kind: "good", delay: "2780ms" },
-          { text: "Health check PASSED.", kind: "good", delay: "3060ms" },
-          "",
-          { text: "npm run verify-contracts", kind: "command", delay: "3440ms" },
-          { text: "> zuhn@1.0.0 verify-contracts", kind: "muted", delay: "4260ms" },
-          { text: "40 contract checks run, 0 failures.", kind: "good", delay: "4540ms" }
-        ], "proof-terminal")}
-        <div class="proof-aside reveal" style="--d:900ms">
-          <strong>40</strong>
-          <span>contract checks pass</span>
-          <p>Schema health, referential integrity, and contract checks are part of the product surface.</p>
-        </div>
-      </section>`
-  },
-  {
-    id: "07-agent-surface",
-    theme: "studio",
-    eyebrow: "Agent interface",
-    title: "Twelve MCP tools expose the loop.",
-    caption:
-      "Agents can search, recall, brief, inspect tensions, queue sources, submit insights, and log feedback.",
-    proof: "Proof: scripts/mcp-server.ts registers 12 tools",
-    body: `
-      <section class="mcp-shot">
-        <div class="code-pane reveal" style="--d:120ms">
-          <div class="code-top">scripts/mcp-server.ts</div>
-          <pre><code>// Read (7): search, recall, brief, browse, flags, tensions, stats
-// Write (5): queue source, submit insights, flag tension, log feedback
+        </article>
 
-server.registerTool("zuhn_search", ...)
-server.registerTool("zuhn_brief", ...)
-server.registerTool("zuhn_queue_...", ...)</code></pre>
-          ${terminal([
-            { text: "rg -c \"registerTool\" scripts/mcp-server.ts", kind: "command", delay: "260ms" },
-            { text: "12", kind: "good", delay: "1160ms" }
-          ], "mini")}
-        </div>
-        <div class="tool-cloud reveal" style="--d:280ms">
-          ${toolNames.map((name) => `<span>${h(name)}</span>`).join("")}
-        </div>
-      </section>`
-  },
-  {
-    id: "08-close",
-    theme: "paper",
-    eyebrow: "Local-first knowledge intelligence",
-    title: "For people who think for a living.",
-    caption:
-      "Public corpus as proof. Fresh knowledge base when you want your own.",
-    proof: "Proof: README.md + local CLI commands",
-    body: `
-      <section class="close-shot">
-        <div class="close-copy reveal" style="--d:120ms">
-          <h2>Zuhn turns saved material into decision context agents can actually use.</h2>
-          <p>Inspect the corpus, run the CLI, or connect the MCP server. The artifact is the argument.</p>
-        </div>
-        <div class="runbook reveal" style="--d:280ms">
-          <div><b>search</b><span>npm run search "query"</span></div>
-          <div><b>brief</b><span>npm run brief -- --mode concise "decision"</span></div>
-          <div><b>agent surface</b><span>npm run mcp</span></div>
-        </div>
-        <div class="final-strip reveal" style="--d:720ms">
-          <span>12,110 insight files</span>
-          <span>9 domains</span>
-          <span>12 MCP tools</span>
-          <span>0 health errors</span>
-        </div>
-      </section>`
-  }
-];
+        <article class="panel runtime">
+          <div class="kicker">runtime proof</div>
+          <h2>The corpus is schema-checked infrastructure.</h2>
+          <p>The demo’s claims come from local commands, not a product pitch.</p>
+          <div class="runtime-grid">
+            <div class="runtime-card"><strong>0</strong><span>health errors across insights, principles, sources, and tensions</span></div>
+            <div class="runtime-card"><strong>40</strong><span>contract checks pass with zero failures</span></div>
+            <div class="runtime-card"><strong>12</strong><span>MCP tools expose search, recall, brief, stats, and write paths</span></div>
+            <div class="runtime-card"><strong>local</strong><span>Markdown, SQLite FTS5, and Ollama-ready embeddings</span></div>
+          </div>
+        </article>
 
-function page(scene, index) {
-  return `<!doctype html>
-<html lang="en">
-<meta charset="utf-8">
-<meta name="viewport" content="width=1280,height=720,initial-scale=1">
-<title>${h(scene.id)}</title>
-<style>
-*{box-sizing:border-box}
-html,body{margin:0;width:1280px;height:720px;overflow:hidden}
-body{--paper:#f7f2e9;--panel:#fffdf8;--ink:#121212;--muted:#65686d;--line:#d7cec0;--blue:#2457d6;--green:#138455;--mint:#68d7a5;--coral:#d94b3d;--amber:#b87900;--dark:#101216;--dark2:#181b21;background:var(--paper);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Inter","Segoe UI",sans-serif;-webkit-font-smoothing:antialiased;letter-spacing:0}
-body.operator{background:#101216;color:#f4f0e7}
-body.studio{background:#fbfaf7;color:var(--ink)}
-body.paper-accent{background:#f6f1e8;color:var(--ink)}
-body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.12;background:linear-gradient(90deg,transparent 0 79px,rgba(28,29,31,.12) 80px),linear-gradient(transparent 0 79px,rgba(28,29,31,.08) 80px);background-size:80px 80px}
-body.operator:before{opacity:.14;background:linear-gradient(90deg,transparent 0 79px,rgba(255,255,255,.055) 80px),linear-gradient(transparent 0 79px,rgba(255,255,255,.04) 80px);background-size:80px 80px}
-.stage{position:relative;width:1280px;height:720px;padding:38px 52px 34px;display:grid;grid-template-rows:44px 1fr 28px;gap:22px}
-.topbar{display:flex;align-items:center;justify-content:space-between;font-size:17px;font-weight:620;color:var(--muted);z-index:3}
-body.operator .topbar{color:#aeb5bd}.topbar strong{color:currentColor;font-weight:820}.stamp{border:1px solid var(--line);border-radius:8px;padding:7px 12px;background:rgba(255,253,248,.76)}
-body.operator .stamp{border-color:#343944;background:rgba(255,255,255,.04)}
-.content{position:relative;z-index:2}.footer{display:flex;align-items:center;justify-content:space-between;gap:24px;font-size:16px;color:var(--muted);z-index:3}
-body.operator .footer{color:#adb5bd}.proof{border-left:3px solid var(--blue);padding-left:12px}.progress{width:230px;height:6px;border-radius:999px;background:rgba(120,110,95,.25);overflow:hidden}.progress i{display:block;width:${Math.round(((index + 1) / scenes.length) * 100)}%;height:100%;background:linear-gradient(90deg,var(--blue),var(--green),var(--amber))}
-.kicker,.eyebrow{color:var(--blue);font-size:18px;font-weight:780}.operator .kicker,.operator .eyebrow{color:#6aa3ff}
-h1,h2,p{margin:0}h1{font-size:66px;line-height:.96;font-weight:860;max-width:560px}h2{font-size:54px;line-height:.98;font-weight:850}p{color:var(--muted);font-size:27px;line-height:1.18;font-weight:560}.operator p{color:#c3c9cf}
-.reveal{opacity:0;transform:translateY(16px);animation:reveal 640ms cubic-bezier(.22,.72,.2,1) forwards;animation-delay:var(--d,0ms)}@keyframes reveal{to{opacity:1;transform:translateY(0)}}
-.opening{height:100%;display:grid;grid-template-columns:455px 1fr;gap:42px;align-items:center}.opening-copy{display:flex;flex-direction:column;gap:18px}.hero-number{font-size:98px;line-height:.85;font-weight:880;color:var(--green)}.hero-label{font-size:29px;line-height:1.05;font-weight:760}.opening-copy p{max-width:420px}
-.corpus-board,.code-pane,.runbook,.ledger{border:1px solid var(--line);border-radius:8px;background:rgba(255,253,248,.92);box-shadow:0 28px 70px rgba(20,24,28,.15)}
-.corpus-board{padding:24px;display:grid;grid-template-rows:auto auto auto 1fr;gap:20px}.board-header{display:flex;justify-content:space-between;color:var(--muted);font-size:17px}.board-header b{color:var(--ink)}.stat-grid{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:12px}.stat-grid div{border:1px solid var(--line);border-radius:8px;padding:17px;background:#fbf8f0}.stat-grid strong{display:block;font-size:46px;line-height:1}.stat-grid span{display:block;margin-top:7px;color:var(--muted);font-size:18px;font-weight:620}.flow{display:grid;grid-template-columns:auto 1fr auto 1fr auto;align-items:center;gap:12px;font-size:20px;font-weight:780;color:var(--muted)}.flow i{height:10px;border-radius:99px;background:linear-gradient(90deg,var(--blue),var(--green));animation:grow 1100ms cubic-bezier(.22,.72,.2,1) forwards;transform-origin:left;transform:scaleX(0)}@keyframes grow{to{transform:scaleX(1)}}
-.terminal{border-radius:9px;background:#0d1117;color:#e8edf2;box-shadow:0 24px 60px rgba(0,0,0,.30),inset 0 0 0 1px rgba(255,255,255,.09);overflow:hidden;font-family:"SF Mono",Menlo,Consolas,monospace}.terminal-bar{height:38px;display:flex;align-items:center;gap:8px;padding:0 15px;border-bottom:1px solid rgba(255,255,255,.08);color:#8d969f;font-family:-apple-system,BlinkMacSystemFont,"Inter",sans-serif;font-size:14px;background:linear-gradient(180deg,rgba(255,255,255,.035),rgba(255,255,255,0))}.terminal-bar i{width:11px;height:11px;border-radius:99px;background:#ff5f57}.terminal-bar i:nth-child(2){background:#febc2e}.terminal-bar i:nth-child(3){background:#28c840}.terminal-bar span{margin-left:8px}.terminal-body{padding:20px 24px;font-size:22px;line-height:1.34;min-height:180px}.terminal.mini .terminal-body{font-size:15px;line-height:1.28;min-height:0;padding:13px 16px}.terminal.mini .terminal-bar{height:30px}.terminal.cinema{height:100%}.terminal.cinema .terminal-body{font-size:22px;line-height:1.3;padding:24px 28px}.terminal.proof-terminal{height:100%}.terminal.proof-terminal .terminal-body{font-size:20px;line-height:1.28;padding:22px 26px}.terminal.brief-term .terminal-body{font-size:18px}.term-line{white-space:pre-wrap;opacity:0;transform:translateY(3px);animation:termIn 160ms ease-out forwards;animation-delay:var(--delay)}.term-line.blank{height:9px}.term-line.term-command{display:flex;align-items:baseline;gap:9px;white-space:nowrap;overflow:hidden;opacity:1;transform:none;animation:none}.term-prompt{color:#8a929b;opacity:0;animation:termIn 120ms ease-out forwards;animation-delay:var(--delay)}.term-typed{display:inline-block;max-width:0;overflow:hidden;white-space:nowrap;color:#78e6ac;animation:typeCommand 760ms steps(32,end) forwards;animation-delay:calc(var(--delay) + 110ms)}.term-line.cmd{color:#78e6ac}.term-line.good{color:#ffffff;font-weight:760}.term-line.muted{color:#aeb6bf}.term-line.warn{color:#f1c35b;font-weight:760}.term-cursor{display:inline-block;width:10px;height:21px;margin-top:9px;background:#78e6ac;opacity:0;animation:cursor 900ms steps(2,end) infinite;animation-delay:var(--delay)}@keyframes termIn{to{opacity:1;transform:translateY(0)}}@keyframes typeCommand{to{max-width:980px}}@keyframes cursor{50%{opacity:1}}
-.terminal-split{height:100%;display:grid;grid-template-columns:390px 1fr;gap:34px;align-items:stretch}.terminal-copy{align-self:center;display:flex;flex-direction:column;gap:18px}.terminal-copy h2{max-width:380px}.metric-pill{margin-top:8px;width:230px;border:1px solid #343944;border-radius:8px;padding:18px;background:rgba(255,255,255,.05)}.metric-pill strong{display:block;font-size:58px;color:var(--mint);line-height:.9}.metric-pill span{display:block;margin-top:8px;color:#c3c9cf;font-size:19px;font-weight:650}
-.brief-shot{height:100%;display:grid;grid-template-rows:auto 1fr 132px;gap:14px}.brief-header{display:flex;align-items:flex-end;justify-content:space-between;gap:30px}.brief-header h2{max-width:670px}.query-chip{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:12px 16px;font-family:"SF Mono",Menlo,Consolas,monospace;font-size:18px;color:var(--green);white-space:nowrap}.brief-grid{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:14px}.brief-card{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:21px;box-shadow:0 20px 45px rgba(25,26,28,.08)}.brief-card b{font-size:23px}.brief-card span{display:block;margin-top:13px;color:var(--muted);font-size:21px;line-height:1.18;font-weight:580}.brief-card.strong{background:#111418;color:#fff}.brief-card.strong span{color:#d9e0d8}.brief-terminal{height:132px}.brief-terminal .terminal{height:132px}.terminal.brief-term .terminal-body{font-size:15px;line-height:1.22;padding:9px 17px;min-height:0;height:94px;overflow:hidden}.terminal.brief-term .term-cursor{height:18px;margin-top:4px}
-.integrity-shot{height:100%;display:grid;grid-template-columns:420px 1fr;gap:42px;align-items:center}.integrity-left{display:flex;flex-direction:column;gap:17px}.truth-number{font-size:142px;line-height:.78;color:var(--amber);font-weight:880}.truth-label{font-size:31px;line-height:1.05;font-weight:800;max-width:350px}.integrity-left p{max-width:410px}.ledger{padding:26px;display:grid;gap:14px}.ledger-row{display:grid;grid-template-columns:1fr 120px;align-items:center;border:1px solid var(--line);border-radius:8px;padding:22px 24px;background:#fffdf8}.ledger-row span{font-size:26px;font-weight:800}.ledger-row b{text-align:right;font-size:58px}.ledger-row.ok b{color:var(--green)}.ledger-row.bad b{color:var(--coral)}.ledger-row.warn b{color:var(--amber)}.ledger-note{font-size:25px;line-height:1.18;color:var(--muted);font-weight:650;margin-top:8px}
-.gate-shot{height:100%;display:grid;grid-template-columns:430px 1fr;gap:28px;align-items:stretch}.gate-copy{align-self:center;display:flex;flex-direction:column;gap:17px}.gate-copy h2{font-size:50px;max-width:420px}.gate-copy p{font-size:23px;max-width:405px}.gate-metrics{display:grid;grid-template-columns:1fr;gap:10px;margin-top:6px}.gate-metrics div{border:1px solid #343944;border-radius:8px;background:rgba(255,255,255,.05);padding:13px 15px}.gate-metrics strong{display:block;color:var(--mint);font-size:36px;line-height:.9}.gate-metrics span{display:block;margin-top:7px;color:#c3c9cf;font-size:17px;font-weight:700}.terminal.gate-terminal{height:100%}.terminal.gate-terminal .terminal-body{font-size:18px;line-height:1.27;padding:20px 22px}.term-line.warn{color:#f1c35b;font-weight:760}
-.proof-shot{height:100%;display:grid;grid-template-columns:1fr 290px;gap:26px;align-items:stretch}.proof-aside{align-self:end;border:1px solid #343944;border-radius:8px;background:rgba(255,255,255,.05);padding:24px}.proof-aside strong{display:block;font-size:86px;line-height:.8;color:var(--mint)}.proof-aside span{display:block;margin-top:13px;font-size:25px;font-weight:800}.proof-aside p{margin-top:18px;font-size:21px}
-.mcp-shot{height:100%;display:grid;grid-template-columns:540px 1fr;gap:28px;align-items:stretch}.code-pane{padding:18px;display:grid;grid-template-rows:auto 1fr auto;gap:14px}.code-top{color:var(--muted);font-size:17px;font-weight:750}.code-pane pre{margin:0;border-radius:8px;background:#111418;color:#edf2e9;padding:22px;font-size:17px;line-height:1.42;white-space:pre-wrap;overflow:hidden}.tool-cloud{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-content:center}.tool-cloud span{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:15px 16px;font-family:"SF Mono",Menlo,Consolas,monospace;font-size:17px;font-weight:760;box-shadow:0 12px 30px rgba(30,31,32,.07)}
-.close-shot{height:100%;display:grid;grid-template-columns:1fr 430px;grid-template-rows:1fr auto;gap:28px;align-items:center}.close-copy h2{font-size:62px;max-width:680px}.close-copy p{margin-top:22px;max-width:620px}.runbook{padding:18px;display:grid;gap:12px}.runbook div{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:18px}.runbook b{display:block;font-size:21px}.runbook span{display:block;margin-top:8px;font-family:"SF Mono",Menlo,Consolas,monospace;color:var(--green);font-size:16px;line-height:1.25}.final-strip{grid-column:1/3;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.final-strip span{border:1px solid var(--line);border-radius:8px;background:#fffdf8;padding:17px;text-align:center;font-size:20px;font-weight:800}
-</style>
-<body class="${h(scene.theme)}">
-<main class="stage">
-  <header class="topbar reveal" style="--d:40ms"><div><strong>Zuhn</strong> / code-grounded explainer</div><div class="stamp">${h(scene.eyebrow)}</div></header>
-  <section class="content">${scene.body}</section>
-  <footer class="footer reveal" style="--d:820ms"><div class="proof">${h(scene.proof)}</div><div class="progress"><i></i></div></footer>
-</main>
+        <article class="panel close">
+          <div class="close-lockup">
+            <div class="kicker">Zuhn</div>
+            <h1>A brain for people who think for a living.</h1>
+            <p>Local-first knowledge that can be searched, challenged, compressed, and handed to agents.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <footer class="caption">
+      <div class="caption-text c1">A local knowledge corpus becomes something you can query, validate, and reuse.</div>
+      <div class="caption-text c2">Retrieval is the control plane: it decides what enters the model’s context.</div>
+      <div class="caption-text c3">Decision briefs include the uncomfortable part: what has not been proven yet.</div>
+      <div class="caption-text c4">The quality gate catches weak memory before it becomes trusted context.</div>
+      <div class="caption-text c5">The repo treats knowledge as infrastructure: health checks, contracts, and agent tools.</div>
+      <div class="caption-text c6">Zuhn is not a note app. It is memory with a runtime.</div>
+      <div class="provenance">verified from npm scripts · sample public corpus</div>
+    </footer>
+  </main>
 </body>
 </html>`;
+
+const storyboard = `# Zuhn Explainer Storyboard
+
+Target length: 42 seconds. Silent, captioned, code-grounded, and framed as one continuous operator session instead of a slide deck.
+
+## Beat 1: Corpus Opens
+
+Caption: \`A local knowledge corpus becomes something you can query, validate, and reuse.\`
+
+Proof: \`npm run health\` reports 12,110 insight files with 0 errors and 0 warnings; \`knowledge-base/meta/stats.md\` reports 9 domains, 140 topics, and 17,475 tags.
+
+## Beat 2: Search
+
+Caption: \`Retrieval is the control plane: it decides what enters the model's context.\`
+
+Proof: \`npm run search "context engineering"\` returns 10 keyword results; first result is \`INS-260605-59FE\`.
+
+## Beat 3: Decision Brief
+
+Caption: \`Decision briefs include the uncomfortable part: what has not been proven yet.\`
+
+Proof: \`npm run brief -- --mode concise "should I raise VC or bootstrap for an AI startup?"\` returns principles, predictions, a past decision, and a track record of 0 confirmed, 0 falsified, 14 untested.
+
+## Beat 4: Quality Gate
+
+Caption: \`The quality gate catches weak memory before it becomes trusted context.\`
+
+Proof: \`npm run gate -- --audit --since 2026-06-05 --examples 5\` audits 532 insights, surfaces 4 stance-directional failures, and reports 3 near-dupe candidates at the >=0.85 simulation threshold.
+
+## Beat 5: Runtime Proof
+
+Caption: \`The repo treats knowledge as infrastructure: health checks, contracts, and agent tools.\`
+
+Proof: \`npm run health\`, \`npm run verify-contracts\`, and \`rg -c "registerTool" scripts/mcp-server.ts\`.
+
+## Beat 6: Close
+
+Caption: \`Zuhn is not a note app. It is memory with a runtime.\`
+
+Proof: README frames Zuhn as a local-first knowledge intelligence system, and the video has already shown local commands backing its visible claims.
+`;
+
+const claimLedger = `# Zuhn Explainer Claim Ledger
+
+| On-screen claim | Exact meaning | Evidence command/file | Observed value | Safe caption |
+| --- | --- | --- | --- | --- |
+| \`12,110 insights\` | Valid insight markdown files accepted by the current health check | \`npm run health\` | \`Insights: 12110 files, 0 errors, 0 warnings\` | \`12,110 insights\` |
+| \`9 domains\` | Top-level domain directories in the current knowledge base stats snapshot | \`sed -n '1,30p' knowledge-base/meta/stats.md\` | \`Domains: 9\` | \`9 domains\` |
+| \`140 topics\` | Topic count from generated KB stats | \`sed -n '1,30p' knowledge-base/meta/stats.md\` | \`Topics: 140\` | \`140 topics\` |
+| \`17,475 tags\` | Tag count from generated KB stats | \`sed -n '1,30p' knowledge-base/meta/stats.md\` | \`Tags: 17475\` | \`17,475 tags\` |
+| \`The search result is already a thought\` | Search returns a structured insight with id, domain, confidence, and tags | \`npm run search "context engineering"\` | First result: \`INS-260605-59FE\` with domain, confidence, and tags | \`The search result is already a thought\` |
+| \`10 results\` | Keyword search result count for the shown query | \`npm run search "context engineering"\` | \`Search [keyword]: "context engineering" (10 results)\` | \`10 results\` |
+| \`0 confirmed, 0 falsified, 14 untested\` | Track-record line from the concise brief | \`npm run brief -- --mode concise "should I raise VC or bootstrap for an AI startup?"\` | \`Track record: 0 confirmed, 0 falsified, 14 untested across 14 matched principles.\` | \`0 confirmed, 0 falsified, 14 untested\` |
+| \`532 same-day insights audited\` | Insight gate audit scope for insights since 2026-06-05 | \`npm run gate -- --audit --since 2026-06-05 --examples 5\` | \`Scope: since 2026-06-05    Insights: 532\` | \`532 same-day insights audited\` |
+| \`4 stance issues surfaced\` | Gate found four stance-directional failures | \`npm run gate -- --audit --since 2026-06-05 --examples 5\` | \`Sample failures: stance directional (4 failing)\` | \`4 stance issues surfaced\` |
+| \`3 near-dupe candidates\` | Gate read-only block simulation at the >=0.85 threshold | \`npm run gate -- --audit --since 2026-06-05 --examples 5\` | \`>= 0.85         3  (0.6% of measured)\` | \`3 near-dupe candidates\` |
+| \`0 health errors\` | Current corpus health check passes across major knowledge file types | \`npm run health\` | health reports 0 errors and 0 warnings for insights, principles, mental models, sources, and tensions | \`0 health errors\` |
+| \`40 contract checks pass\` | Contract verifier result | \`npm run verify-contracts\` | \`40 contract checks run, 0 failures.\` | \`40 contract checks pass\` |
+| \`12 MCP tools\` | Source code registers 12 MCP tools | \`rg -c "registerTool" scripts/mcp-server.ts\` | \`12\` | \`12 MCP tools\` |
+
+## Claims Not Used
+
+- Revenue, customer, or production-readiness claims are not used.
+- The video says \`sample public corpus\` to keep the bundled corpus framing honest.
+`;
+
+const timeline = {
+  output: "zuhn-explainer.mp4",
+  width: 1280,
+  height: 720,
+  fps: 30,
+  transition: 0,
+  fade_in: 0.2,
+  fade_out: 0.45,
+  clips: [
+    { id: "operator-session", file: "clips/01-operator-session.mp4", duration: 42 }
+  ]
+};
+
+async function main() {
+  await mkdir(SCENES, { recursive: true });
+  await writeFile(new URL("./operator-session.html", SCENES), html, "utf8");
+  await writeFile(join(ROOT.pathname, "storyboard.md"), storyboard, "utf8");
+  await writeFile(join(ROOT.pathname, "claim-ledger.md"), claimLedger, "utf8");
+  await writeFile(join(ROOT.pathname, "timeline.json"), `${JSON.stringify(timeline, null, 2)}\n`, "utf8");
+  console.log("Wrote operator-session scene, storyboard, claim ledger, and timeline.");
 }
 
-await mkdir(OUT, { recursive: true });
-for (let i = 0; i < scenes.length; i += 1) {
-  const scene = scenes[i];
-  await writeFile(join(OUT.pathname, `${scene.id}.html`), page(scene, i), "utf8");
-}
-console.log(`Wrote ${scenes.length} scenes to ${OUT.pathname}`);
+main().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});
