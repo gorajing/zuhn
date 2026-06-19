@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 67 insights
+> 69 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -50,6 +50,8 @@
 - `INS-260410-8092` [high] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260514-D023` [medium] A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop.
 - `INS-260424-865F` [medium] Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
+- `INS-260619-90F6` [medium] The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
+- `INS-260619-C9B1` [medium] AI app infrastructure cannot assume a fixed deployment shape; the application itself increasingly decides what compute it needs per request.
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.

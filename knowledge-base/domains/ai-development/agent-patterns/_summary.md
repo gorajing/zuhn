@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 287 insights
+> 289 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -206,6 +206,7 @@
 - `INS-260605-F5F7` [medium] The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260605-CE25` [medium] Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
 - `INS-260605-1B0B` [medium] Because no scrapeable dataset of agents-using-tools exists, an RL environment plus a reward lets you generate good trajectories by rejection sampling and bootstrap training from them.
+- `INS-260619-F7E3` [medium] Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
 - `INS-260403-3587` [medium] Smartphones moved computing from desks to pockets but kept the attention tax; AI agents finally break that dependency by working without being watched.
 - `INS-260605-5C58` [medium] 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
 - `INS-260605-7843` [medium] Have experts grade agent traces AND write why; then run an LLM over the justifications to mine failure modes and generate scalable automated scorers.
@@ -286,6 +287,7 @@
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
 - `INS-260605-295D` [medium] Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
+- `INS-260619-6E08` [medium] Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention.
 - `INS-260605-B136` [medium] Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
 - `INS-260605-5D66` [low] If 2025 was the year of agents and 2026 the year of harnesses, 2027 may bring agents that self-generate harnesses on the fly before doing work.
 - `INS-260605-8409` [low] Treat an agent as a publicly-routable HTTP service over a tolerant event stream, so Slack webhooks, web-form submissions, and third-party plugins all become events instead of requiring a bespoke connector concept.

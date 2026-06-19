@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 139 insights
+> 140 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -9,6 +9,7 @@
 - `INS-260329-5427` [high] Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education.
 - `INS-260405-3061` [high] ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260403-7D11` [high] Companies are quietly replacing departing employees with AI agents that deliver 70-80% of human output at a fraction of the cost.
+- `INS-260619-4962` [high] Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - `INS-260330-0E6E` [high] Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - `INS-260403-FCF7` [high] AI democratizes skill acquisition, making speed of application the new differentiator over access to information.
 - `INS-260323-F62A` [high] AI companies have been given enormous power to shape society — including decisions about mass surveillance — based on promise rather than proven value, with no democratic mandate.

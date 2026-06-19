@@ -1,6 +1,6 @@
 # Topic: pipelines
 
-> 10 insights
+> 11 insights
 
 - `INS-260519-7744` [high] Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
 - `INS-260519-9732` [high] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
@@ -12,3 +12,4 @@
 - `INS-260519-90E2` [high] Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 - `INS-260514-C51F` [high] One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables.
 - `INS-260514-2995` [high] Schedule local-AI indexing for 1-5am — 70GB+ RAM stacks can't share daytime resources without overheating, but unattended overnight processing keeps the wiki fresh and the laptop usable.
+- `INS-260619-16EF` [medium] The promise of managed workflows is collapsing queue-plus-worker architecture into observable, retryable task runs with preserved state.

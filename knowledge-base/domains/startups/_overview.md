@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4791 insights across 55 topics
+> 4795 insights across 55 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
 | company-culture | 14 | AppLovin has no product organization. Engineers ARE product managers. They imagine, audit AI output, optimize directly to revenue KPIs. PM is redundant. |
 | competition | 5 | Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is. |
-| competitive-strategy | 639 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 640 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 76 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 5 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 9 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
@@ -46,7 +46,7 @@
 | platform-strategy | 17 | The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. |
 | problem-solving | 11 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 27 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
-| product-development | 143 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
+| product-development | 144 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 10 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
 | product-strategy | 97 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
@@ -54,10 +54,10 @@
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
 | scaling | 206 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
-| strategy | 281 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 282 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 70 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
 | unit-economics | 10 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
 | validation | 184 | Pretty much 100% of startups that make something popular manage to make money from it. |
-| venture-capital | 13 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |
+| venture-capital | 14 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |
 | vision-and-strategy | 6 | Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed. |

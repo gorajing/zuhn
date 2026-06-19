@@ -3,6 +3,7 @@
 - `INS-260330-6D43` Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
 - `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260424-865F` Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
+- `INS-260619-90F6` The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260605-9976` One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260403-8832` YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
 - `INS-260605-B930` Use provider-native harnesses for capability, but preserve your own portable run contract.

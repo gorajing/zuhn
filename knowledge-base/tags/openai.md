@@ -1,6 +1,7 @@
 # Tag: openai
 
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
+- `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
 - `INS-260409-8181` Frontier AI labs are empires, not businesses — they extract more value than they return across data, labor, knowledge production, and environmental impact.
@@ -12,7 +13,6 @@
 - `INS-260403-6705` OpenAI's 2019 restructuring to attract Microsoft's $1B investment made rapid commercialization a structural inevitability, not a choice individual leaders could resist.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
-- `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260501-4B6F` Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since.
 - `INS-260413-07F2` OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
@@ -37,7 +37,7 @@
 - `INS-260404-D149` OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
 - `INS-260327-421F` With commission, every hour spent helping a colleague or running an experiment is literally money out of your pocket — no-commission culture at Slack, OpenAI, Stripe, and others creates collaborative builders instead of selfish closers.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
 - `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
-- `INS-260323-B0EA` OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 281 insights
+> 282 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -209,6 +209,7 @@
 - `INS-260324-40AA` [high] TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260323-2559` [high] Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
 - `INS-260530-A86A` [medium] Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
+- `INS-260619-3AED` [medium] In AI, thematic conviction has to be re-underwritten repeatedly because product-market windows are narrower and move faster.
 - `INS-260405-2422` [medium] All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
 - `INS-260404-3C7A` [medium] Costco turns confusing layouts, limited selection, and upfront fees into deal-hunting excitement, supplier leverage, and customer loyalty respectively.
 - `INS-260403-165F` [medium] Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.

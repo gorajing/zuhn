@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 57 insights
+> 61 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -37,6 +37,7 @@
 - `INS-260514-E627` [medium] $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted.
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.
 - `INS-260514-E860` [medium] OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives.
+- `INS-260619-8D68` [medium] PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260605-8664` [medium] A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260514-4436` [medium] Attach domain-specialized skill files (Brand Kit, Frontend Web, Mobile App) for design tasks — they encode the configuration logic non-designers don't know to specify, dramatically improving output quality.
 - `INS-260530-B694` [medium] PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
@@ -55,6 +56,9 @@
 - `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260605-2A64` [medium] Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
+- `INS-260619-0770` [medium] The durable layer for video AI is a corpus memory with grounded primitives and citations back to source footage.
+- `INS-260619-D4F6` [medium] For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
+- `INS-260619-BF47` [medium] Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260605-9581` [medium] When cloning a voice takes seconds, deliberately curated brand voices become as standard as brand color palettes and logos.
 - `INS-260514-D0A4` [medium] Hrefs says 100 searches/month. Real Google Search Console: 10,000. The trend is right; the number is off by 100x.
 - `INS-260405-1F6B` [low] AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.

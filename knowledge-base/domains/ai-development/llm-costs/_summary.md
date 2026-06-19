@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 42 insights
+> 43 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -38,6 +38,7 @@
 - `INS-260514-4E58` [medium] Anthropic gating Claude Code behind the $100/mo tier was a painted-door test — the test was necessary because $20/mo doesn't pay for the inference and training.
 - `INS-260412-9B00` [medium] At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260405-DA33` [medium] DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
+- `INS-260619-AD94` [medium] At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
 - `INS-260404-CE26` [medium] Nvidia's CUDA monopoly on AI training becomes less relevant when models can be trained efficiently on modest hardware.
 - `INS-260605-D33F` [medium] Specialized fine-tuned models reportedly beat frontier APIs at ~1/5 the cost (Intercom) or orders of magnitude cheaper, because they only need to win at one task.
 - `INS-260320-D972` [medium] Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.

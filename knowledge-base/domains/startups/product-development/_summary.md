@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 143 insights
+> 144 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -122,6 +122,7 @@
 - `INS-260525-63C8` [medium] Both speakers: the agent builds, but product intent, the emotional 'step' of design, UX consistency, and knowing the market stay human.
 - `INS-260405-64FA` [medium] The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.
 - `INS-260404-9D14` [medium] AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.
+- `INS-260619-1512` [medium] The build loop is incomplete without an observe-verify-optimize loop that watches what happens after AI-generated changes reach users.
 - `INS-260330-C418` [medium] Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
 - `INS-260330-C2C4` [medium] Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.
 - `INS-260330-8BDA` [medium] Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.

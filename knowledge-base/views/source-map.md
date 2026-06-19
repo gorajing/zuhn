@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-05 | 2857 sources
+Generated on 2026-06-19 | 2865 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -341,8 +341,10 @@ Generated on 2026-06-05 | 2857 sources
 | introduction | audio | 5 | 2026-05-05 |
 | Lightning talks | audio | 5 | 2026-05-06 |
 | Meta microsoft | audio | 5 | 2026-06-03 |
+| Montgomery Street Station 2 | audio | 5 | 2026-06-19 |
 | Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
+| The St. Regis San Francisco 2 | audio | 5 | 2026-06-19 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 5 | 2026-03-31 |
@@ -1220,6 +1222,7 @@ Generated on 2026-06-05 | 2857 sources
 | Your Legs Are Failing First — Here’s Why | youtube | 5 | 2026-03-26 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
+| Montgomery Street Station | audio | 4 | 2026-06-19 |
 | Panel for AI for Universe | audio | 4 | 2026-05-06 |
 | paypal | audio | 4 | 2026-05-30 |
 | SVAI   Keynote 2 | audio | 4 | 2026-03-31 |
@@ -1944,6 +1947,7 @@ Generated on 2026-06-05 | 2857 sources
 | agent | audio | 3 | 2026-06-02 |
 | Google io | audio | 3 | 2026-06-03 |
 | takeaway | audio | 3 | 2026-05-06 |
+| The St. Regis San Francisco 3 | audio | 3 | 2026-06-19 |
 | World Model | audio | 3 | 2026-06-03 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 3 | 2026-03-30 |
 | Authorization - Model Context Protocol | blog | 3 | 2026-06-05 |
@@ -2106,6 +2110,7 @@ Generated on 2026-06-05 | 2857 sources
 | Will Superintelligent AI End the World? | Eliezer Yudkowsky | TED | youtube | 3 | 2026-03-27 |
 | Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 | youtube | 3 | 2026-03-24 |
 | Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390 | youtube | 3 | 2026-03-24 |
+| Digital Jungle 2 | audio | 2 | 2026-06-19 |
 | Continual Harness: Online Adaptation for Self-Improving Foundation Agents | blog | 2 | 2026-06-05 |
 | In Consumer AI, Momentum Is the Moat | Andreessen Horowitz | blog | 2 | 2026-03-26 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 2 | 2026-03-26 |
@@ -2484,6 +2489,7 @@ Generated on 2026-06-05 | 2857 sources
 | You’d Be Surprised How Bad of a Person You Are - Thought Experiments That Change the Way You Think | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How People Perceive You | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How Smart (Or Dumb) You Are | The Dunning-Kruger Effect | youtube | 2 | 2026-03-26 |
+| The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
 | What to expect when you’re expecting (dilution)  | blog | 1 | 2026-03-30 |
 | $1,000 If You Don’t Eat McDonald’s (and go shopping with us instead) | youtube | 1 | 2026-03-26 |
 | ½ Teaspoon of This Works Like Ibuprofen (Doctors Won’t Tell You) | youtube | 1 | 2026-03-26 |
@@ -2683,9 +2689,11 @@ Generated on 2026-06-05 | 2857 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| AWS Builder Loft | audio | 0 | 2026-06-19 |
 | ​Manisha Gupta | audio | 0 | 2026-05-02 |
 | Panel #1 | audio | 0 | 2026-05-02 |
 | Product demo | audio | 0 | 2026-05-02 |
+| The St. Regis San Francisco | audio | 0 | 2026-06-19 |
 | can you look through everything in the codebase | session | 0 | 2026-05-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |

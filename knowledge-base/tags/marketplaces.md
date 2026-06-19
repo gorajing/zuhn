@@ -7,8 +7,8 @@
 - `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260330-4F2A` When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
 - `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
-- `INS-260410-9168` Uber's matching and pricing algorithms improve marketplace throughput ~5% annually, and on a $130B run rate that compounding eventually dwarfs any discrete strategic initiative.
 - `INS-260402-1436` Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
+- `INS-260410-9168` Uber's matching and pricing algorithms improve marketplace throughput ~5% annually, and on a $130B run rate that compounding eventually dwarfs any discrete strategic initiative.
 - `INS-260403-CC4E` Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-FF57` Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - `INS-260403-1284` Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.

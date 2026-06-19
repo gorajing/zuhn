@@ -8,6 +8,14 @@
 - `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
 - `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
+- `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
+- `INS-260329-EC01` Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
+- `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
+- `INS-260329-8443` At low savings levels, an extra $1K/month in income matters infinitely more than choosing the right index fund.
+- `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
+- `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
+- `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
+- `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
 - `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
 - `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260329-C0A7` The business bottleneck is almost never in the domain the founder enjoys most.
@@ -19,29 +27,21 @@
 - `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
 - `INS-260403-C283` Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
-- `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
-- `INS-260329-EC01` Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
-- `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
-- `INS-260329-8443` At low savings levels, an extra $1K/month in income matters infinitely more than choosing the right index fund.
-- `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
-- `INS-260330-6A94` Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
-- `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
-- `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
 - `INS-260322-EE1B` There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260514-3B5E` When juggling too many hats, deliberately drop the SAME ball every week — oscillating which thing breaks makes the priority invisible to leadership.
 - `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.
+- `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.'
-- `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
-- `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
 - `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.
 - `INS-260330-6C7F` A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.
+- `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-1E4A` Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.

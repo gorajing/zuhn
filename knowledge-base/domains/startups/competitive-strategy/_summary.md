@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 639 insights
+> 640 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -533,6 +533,7 @@
 - `INS-260405-487E` [medium] AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
 - `INS-260524-3793` [medium] Z Venture Capital CEO: the language barrier is becoming meaningless and the proprietary-data advantage is going away — everyone now competes globally.
 - `INS-260329-E8EB` [medium] Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
+- `INS-260619-DABA` [medium] AI-native services can win narrow workflows, but incumbents survive where the customer is buying a credible accountable party.
 - `INS-260404-0095` [medium] Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260327-7F64` [medium] Reflection AI bets that autonomous coding is the gateway to superintelligence.
 - `INS-260403-E662` [medium] A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.

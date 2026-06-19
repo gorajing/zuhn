@@ -7,8 +7,8 @@
 - `INS-260404-34D4` Amazon's $2.75B Anthropic investment signals that big tech strategic capital now dominates AI startup funding over traditional VC.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260404-EF67` Big Tech's structural incentives and organizational design make it the wrong founder for many innovation categories.
-- `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
 - `INS-260327-F477` Big tech experience is anti-helpful for startups—the culture, speed, and processes are the exact opposite of what you need.
 - `INS-260320-C56D` Your early 20s with no obligations are years you can never get back — don't spend them fixing tickets at big tech.
+- `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
 - `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260405-35DF` Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.

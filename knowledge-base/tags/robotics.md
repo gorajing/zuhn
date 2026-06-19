@@ -1,9 +1,9 @@
 # Tag: robotics
 
-- `INS-260327-9EFE` The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
-- `INS-260327-1B82` Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260321-B8E8` VLA models have no spatial primitive vocabulary — 'move up', 'move back', 'don't move' all produce similar grasping motions. Spatial commands only work when reducible to 'move toward visible object.'
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
+- `INS-260327-9EFE` The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
+- `INS-260327-1B82` Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260405-E4FC` Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
 - `INS-260322-B33E` AI reasoning capabilities plus robot learning are converging to create autonomous labs that accelerate scientific discovery across life sciences, chemistry, and materials.
 - `INS-260404-DDC8` Figure AI's Helix 02 replaces over 100,000 lines of C++ with a three-layer neural network that handles balance, sensor fusion, and reasoning in a single system.
@@ -15,12 +15,12 @@
 - `INS-260325-EF79` Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
 - `INS-260323-6134` The most elegant and efficient robot movement comes from designing machines whose physics naturally want to do the right thing, then augmenting with control rather than overpowering.
 - `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
+- `INS-260404-E91F` Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260321-2BF9` NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260505-4A97` Language was syllables and characters. Spatial intelligence is pixels — nature's language for robotics, imagination, creativity, and physical design.
 - `INS-260603-F0BE` Frans (Amazon): 'the big next wave in robotics is not the mechanical aspect — China is excellent at that — it's the intelligence layer'; training world models for specific industrial use cases (not humanoids dancing on stage) is where the real impact is, and the US can control that through the likes of Amazon and Google.
 - `INS-260327-6E57` Video diffusion models fine-tuned on real robot data can simulate counterfactual physical scenarios, scaling robotics training data exponentially without teleoperation.
-- `INS-260404-E91F` Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260410-56F7` Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260410-D593` Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
@@ -32,10 +32,10 @@
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260605-7E75` Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company.
 - `INS-260603-DDE4` William Santana Lee (Knightscope, 13yr autonomous): physical AI is 'pain, suffering, and tears' — the reality check where everything that worked in the conference room fails in the real world; the only way to make it work is to deploy and bump your head until you figure it out, not to perfect it in code/simulation.
-- `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
 - `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
 - `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
+- `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260403-215E` Humanoid robots lead Q3 2025 deal count while AI leads dollar volume, revealing a hardware-many-bets vs software-mega-bet divergence.
 - `INS-260323-7DAE` Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
 - `INS-260323-F7DB` Boston Dynamics' breakthrough came from rejecting the safe, slow, static approach to robotics in favor of aggressive dynamic movement — bouncing, running, and predicting rather than always maintaining perfect stability.

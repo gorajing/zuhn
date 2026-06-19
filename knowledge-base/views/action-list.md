@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-05 | 5495 actionable insights
+Generated on 2026-06-19 | 5506 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -245,6 +245,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260605-E7AD] Use inline functions when the host, not the model, must retain decision authority.
 - [INS-260605-2ECD] Don't store traces as memory; distill traces into navigable evidence.
 - [INS-260605-4877] Define the agent's workspace as a manifest, not as an implicit container setup.
+- [INS-260619-F7E3] Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -439,6 +440,8 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260514-93C2] For PPT generation, use standard Claude (produces editable Excel-linked charts), NOT Claude Design (bakes charts as images). The Design version is prettier but operationally broken.
 - [INS-260525-9B7B] Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 - [INS-260605-0748] On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
+- [INS-260619-D4F6] For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
+- [INS-260619-BF47] Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -606,6 +609,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260514-8283] AI substitutes 80% of cases; value moves to the 20% — edge cases, novel situations, high-stakes judgment, deep expertise. Invest in being valuable in the 20% AI can't reach; don't compete on the 80%.
 - [INS-260514-AE3E] Senior engineers DOMINATE AI-amplified work. The 'AI-native juniors will win' prediction was empirically wrong. What matters is STEERING (talking with AI to direct it), and seniors have decades of reps doing exactly that.
 - [INS-260514-78B3] AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
+- [INS-260619-4962] Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -732,6 +736,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260605-1787] You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - [INS-260605-9F7A] Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
 - [INS-260605-A558] Optimize model cost only after a strong-model baseline proves the workflow can work.
+- [INS-260619-AD94] At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -875,6 +880,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260605-3899] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
 - [INS-260605-89B0] AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
 - [INS-260605-2C96] Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.
+- [INS-260619-4ADA] The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -1097,6 +1103,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260605-1B9D] Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
 - [INS-260605-D320] Forbid the capability that creates a bug class — e.g. ban database access from template rendering so N+1 queries can never occur — instead of repeatedly hunting for instances.
 - [INS-260605-9362] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
+- [INS-260619-CBFA] Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -1150,6 +1157,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260519-9732] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
 - [INS-260519-90E2] Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 - [INS-260522-51E7] YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
+- [INS-260619-16EF] The promise of managed workflows is collapsing queue-plus-worker architecture into observable, retryable task runs with preserved state.
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
@@ -1165,6 +1173,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260524-8E5D] Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.'
 - [INS-260605-8BEA] Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work.
 - [INS-260605-2793] Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
+- [INS-260619-F1E3] Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
@@ -5070,6 +5079,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 - [INS-260403-CEB7] The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
 - [INS-260403-D4E1] Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
 - [INS-260412-1F30] Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
+- [INS-260619-1512] The build loop is incomplete without an observe-verify-optimize loop that watches what happens after AI-generated changes reach users.
 
 ## startups/product-market-fit
 - [INS-260405-95D1] Removing friction meets the baseline; gains require going beyond what customers already expect.
@@ -5761,6 +5771,7 @@ Generated on 2026-06-05 | 5495 actionable insights
 ## startups/venture-capital
 - [INS-260405-B01A] Deal mechanics and preference stacks can legally redirect all exit proceeds away from founders regardless of valuation.
 - [INS-260410-0F85] Benchmark deliberately bans memos because writing one forces you to fill in blanks the founder never said and pre-sells the group before they can see the founder raw.
+- [INS-260619-8660] The frontier is moving fast enough that credible AI investing requires personal tool use, not just portfolio updates.
 
 ## startups/vision-and-strategy
 - [INS-260405-0D9A] Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
