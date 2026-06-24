@@ -5,6 +5,7 @@ import {
   generatePrincipleId,
   generateMentalModelId,
   generateTensionId,
+  generateAgentRunId,
 } from "./generate-id";
 
 describe("salt parameter", () => {
@@ -32,6 +33,7 @@ describe("salt parameter", () => {
     const title = "Multi-type";
     expect(generateSourceId(title, "a")).not.toBe(generateSourceId(title, "b"));
     expect(generatePrincipleId(title, "a")).not.toBe(generatePrincipleId(title, "b"));
+    expect(generateAgentRunId(title, "a")).not.toBe(generateAgentRunId(title, "b"));
   });
 });
 
@@ -165,5 +167,11 @@ describe("generateTensionId", () => {
 
   it("uses the T prefix", () => {
     expect(generateTensionId("Test")).toMatch(/^T-/);
+  });
+});
+
+describe("generateAgentRunId", () => {
+  it("returns correct format", () => {
+    expect(generateAgentRunId("A run")).toMatch(/^RUN-\d{6}-[0-9A-F]{4}$/);
   });
 });

@@ -30,3 +30,6 @@ substack-*
 knowledge-base/meta/
 knowledge-base/*.db
 knowledge-base/.*.db
+# Agent run ledgers — local runtime traces and generated index
+knowledge-base/runs/
+knowledge-base/views/agent-runs.md

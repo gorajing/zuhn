@@ -44,6 +44,7 @@
     "daemon:status": "tsx scripts/daemon.ts --status",
     "daemon:stop": "kill $(cat /tmp/zuhn-daemon.pid 2>/dev/null) 2>/dev/null || echo 'Daemon not running'",
     "daemon:logs": "tail -f knowledge-base/meta/daemon.log",
+    "agent-run": "tsx scripts/agent-run.ts",
     "extract-session": "tsx scripts/extract-session.ts",
     "verify-contracts": "node --import tsx scripts/verify-contracts.ts",
     "red-team": "tsx scripts/red-team.ts",

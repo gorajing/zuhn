@@ -41,3 +41,7 @@ export function generateDecisionId(title: string, salt?: string | number): strin
 export function generatePredictionId(title: string, salt?: string | number): string {
   return generateId("PRED", title, salt);
 }
+
+export function generateAgentRunId(title: string, salt?: string | number): string {
+  return generateId("RUN", title, salt);
+}
