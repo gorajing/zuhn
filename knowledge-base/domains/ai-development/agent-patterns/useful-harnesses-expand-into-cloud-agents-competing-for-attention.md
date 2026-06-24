@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Once a harness is useful, pressure builds to make it persistent,
@@ -40,6 +41,14 @@ stance: >-
   Agent harnesses tend to expand from local sessions into cloud-resident agents
   because users want them to subscribe to events, live in Slack or other
   channels, and keep working while humans are away.
+related:
+  - INS-260605-E230
+  - INS-260605-013A
+  - INS-260605-B930
+  - INS-260514-4FDC
+  - INS-260619-B1A8
+  - PRI-260426-890F
+  - INS-260410-9DB0
 ---
 The speaker argued that harnesses naturally expand: they get put in a box, subscribed to external events, connected to Slack/Discord/SMS, and asked to wake up or report back. Background coding agents already show this pattern, with some organizations reporting meaningful shares of pull requests from background agents.
 

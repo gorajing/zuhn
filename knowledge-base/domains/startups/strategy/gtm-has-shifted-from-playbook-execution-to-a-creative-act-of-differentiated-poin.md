@@ -53,5 +53,6 @@ related:
   - INS-260519-2A13
   - INS-260329-9115
   - INS-260327-A61B
+  - INS-260624-C9A8
 ---
 Nicolas Sharp (Founder/CEO, Attio) argues the last decade's GTM was constrained by org structure, tools, and budgets, so everyone ran a version of the same default system. AI removes that constraint: teams ship GTM systems in days, not quarters, and the one-size-fits-all era ends. The fundamentals (great customer experience, revenue growth) are unchanged; what changes is creative latitude. The competitive question becomes 'which bets make sense for my business / what do I believe about how my customers decide,' not 'which tool, which playbook.' This is the vendor-curated framing of the whole Atlas, so treat it as a high-level thesis rather than a measured finding — but it directly reinforces the rapid-vs-evergreen and focus principles already in the KB's GTM cluster.

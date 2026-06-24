@@ -63,6 +63,7 @@ related:
   - INS-260410-AC0B
   - INS-260605-048B
   - PRI-260406-1ED1
+  - INS-260624-6B2C
 ---
 Burtenshaw breaks deep-learning efficiency into three parts — compute (flops, the actual matrix math), memory (time moving tensors between slow and fast memory), and overhead (Python environment, PyTorch dispatch). The common assumption is that compute is the bottleneck because it does most of the math. That is wrong: in most cases memory is the bottleneck.
 

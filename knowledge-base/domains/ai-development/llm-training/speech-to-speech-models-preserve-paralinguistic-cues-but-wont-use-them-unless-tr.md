@@ -47,7 +47,6 @@ stance: >-
   the model will ignore it unless the training data rewards acting on tone,
   emotion, and vocal cues.
 related:
-  - INS-260322-191F
   - INS-260403-617C
   - INS-260403-9774
   - INS-260605-D37A

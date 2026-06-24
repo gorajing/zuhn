@@ -61,7 +61,7 @@ related:
   - INS-260605-310E
   - INS-260605-683B
   - INS-260603-6B3D
-  - INS-260327-DCAF
+  - INS-260619-B1A8
   - INS-260605-A46E
 ---
 The reference sovereign-agent shape is a sandwich: an input guardrail classifies the user request (checking for prompt injection and domain-specific regulatory intent) and routes unsafe inputs out of the application immediately; the agent (an LLM with a system prompt and tools) does the work; an output guardrail runs compliance checks so sensitive information isn't leaked back to the user. Guardrails themselves can run on small local models, keeping that classification step inside your sovereignty boundary.

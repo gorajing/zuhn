@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-06-19 | Total insights: 12130 | Sources: 2701
+> Last rebuilt: 2026-06-24 | Total insights: 12144 | Sources: 2703
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,8 +8,8 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 2724 | 137 | 2026-06-19 |
-| automation | 7 | 72 | 2 | 2026-06-19 |
+| ai-development | 40 | 2736 | 137 | 2026-06-24 |
+| automation | 7 | 74 | 2 | 2026-06-24 |
 | health | 6 | 494 | 44 | 2026-05-14 |
 | investing | 14 | 1421 | 110 | 2026-06-05 |
 | music-production | 6 | 49 | 3 | 2026-05-14 |
@@ -35,6 +35,20 @@ _No flags._
 
 ## Recently Added (last 7 days)
 
+- `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially. _(2026-06-24)_
+- `INS-260624-6753` High-stakes agent findings should be checked by heterogeneous reviewers. _(2026-06-24)_
+- `INS-260624-F048` A million-token window is not a substitute for a context manager. _(2026-06-24)_
+- `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel. _(2026-06-24)_
+- `INS-260624-A338` Security agents need executable proof paths, not just plausible reports. _(2026-06-24)_
+- `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context. _(2026-06-24)_
+- `INS-260624-D8C3` Speculation helps latency, but side-effectful actions need commit barriers. _(2026-06-24)_
+- `INS-260624-C9A8` AI-speed offense forces AI-speed defense. _(2026-06-24)_
+- `INS-260624-4205` Async RL systems improve utilization but make model-version mismatch part of the algorithm. _(2026-06-24)_
+- `INS-260624-6B2C` Numerical mismatch between serving and training kernels can destabilize large RL loops. _(2026-06-24)_
+- `INS-260624-A121` Cybersecurity agents improve from both stronger models and better scaffolding. _(2026-06-24)_
+- `INS-260624-37C3` Long agent rollouts make inference speed a core training-system constraint. _(2026-06-24)_
+- `INS-260624-5ACA` Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them. _(2026-06-24)_
+- `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification. _(2026-06-24)_
 - `INS-260619-B1A8` An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work. _(2026-06-19)_
 - `INS-260619-F7E3` Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior. _(2026-06-19)_
 - `INS-260619-6E08` Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention. _(2026-06-19)_

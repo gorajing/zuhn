@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The build loop is incomplete without an observe-verify-optimize loop that
@@ -40,6 +41,13 @@ stance: >-
   When AI tools let teams ship larger product changes faster, product analytics
   must correlate user behavior, feedback, tickets, and code changes to diagnose
   whether releases actually solved the problem.
+related:
+  - INS-260320-0D43
+  - INS-260320-4ED6
+  - INS-260514-E481
+  - INS-260605-25B2
+  - INS-260402-5523
+  - INS-260322-24FB
 ---
 The Pendo/Novice talk framed user feedback as a snowball: faster shipping can create new bugs, confusing UI, and backlog chaos if teams cannot tell which changes helped. Traditional dashboards require humans to know the question in advance, while AI-speed product development needs systems that detect issues, insights, and opportunities from sessions, feedback, support tickets, and the codebase.
 

@@ -43,10 +43,10 @@ stance: >-
   controls.
 related:
   - INS-260605-D818
+  - INS-260619-6E08
   - INS-260514-283E
   - PRI-260426-890F
   - INS-260524-2C7C
-  - INS-260501-01A5
 ---
 x402 removes account setup, prepaid credits, API keys, and manual payment flows from machine-to-machine access. That makes autonomy more practical, but it also moves financial decisions into the agent's execution path.
 

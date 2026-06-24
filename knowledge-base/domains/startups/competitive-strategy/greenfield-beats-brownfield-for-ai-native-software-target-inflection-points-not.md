@@ -48,7 +48,6 @@ resolutions:
     incumbents dismissed it). The battle is about who captures greenfield
     faster.
 related:
-  - INS-260321-807B
   - INS-260322-90E7
   - INS-260322-C472
   - PRI-260406-D8C3
@@ -58,6 +57,7 @@ related:
   - INS-260322-A892
   - INS-260327-EAB0
   - INS-260330-C071
+  - INS-260403-535C
 stance: AI-native startups win most reliably at greenfield moments
 evidence:
   - id: INS-260321-807B

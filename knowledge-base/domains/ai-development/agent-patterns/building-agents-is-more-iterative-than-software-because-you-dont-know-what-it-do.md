@@ -56,7 +56,6 @@ stance: >-
 related:
   - INS-260325-D540
   - INS-260323-05B5
-  - INS-260325-3F86
   - INS-260603-1BC0
   - INS-260501-5ACE
   - INS-260330-8F07
@@ -64,6 +63,7 @@ related:
   - INS-260405-E8A1
   - INS-260403-F6F6
   - INS-260327-B9BB
+  - INS-260501-E377
 evidence:
   - id: INS-260327-B9BB
     type: CONTRADICTS

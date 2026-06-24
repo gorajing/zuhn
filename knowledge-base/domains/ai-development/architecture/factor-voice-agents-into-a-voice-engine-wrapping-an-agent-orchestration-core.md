@@ -58,7 +58,7 @@ related:
   - INS-260605-0126
   - INS-260605-2E27
   - INS-260605-50FB
-  - INS-260403-4D80
+  - INS-260619-90F6
 ---
 Harries observes that essentially every company building voice agents — including ones powering Revolut's customer support — converges on the same two-layer architecture: a voice engine handling text-to-speech, speech-to-text, and turn-taking, sitting in front of an agent orchestration layer that combines LLMs, RAG, tool calling, and integrations. 'Probably a bunch of us in this room have either built the same system or pitched the same slide.'
 

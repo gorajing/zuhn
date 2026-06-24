@@ -60,5 +60,6 @@ related:
   - INS-260410-9EEF
   - INS-260329-FAE2
   - INS-260605-8489
+  - INS-260619-8D68
 ---
 McLean's most conceptual claim is that 'AI at its core is just translation' — the 'Attention Is All You Need' lineage began as English-to-French, then generalized to text-to-image, image-to-audio, audio-to-video, and even knowledge production as summarization. Different data types get converted into common internal representations and re-projected into other forms (structured-to-unstructured and back), which is also what MCP and model handoffs amount to. The deeper inference: if you can manipulate something through a representation space, its structure 'is not an inherent property of that object' but a property of the representation the observer chooses. The build implication is to use multiple representation structures intentionally — markdown for human-readable hierarchy, graphs for relationships and references, clustering for large unstructured corpora, folders for fast retrieval, timelines when temporally relevant — matching the projection to the task rather than committing to one canonical structure.

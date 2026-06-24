@@ -12,6 +12,7 @@
 - `INS-260605-D818` Make harness components file-visible before asking agents to improve them.
 - `INS-260605-3163` A new 'traces' dataset repo type lets you push Codex/Claude Code/agent sessions and later train a model on them—turning everyday agent runs into a self-improvement flywheel.
 - `INS-260605-2793` Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
+- `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
 - `INS-260619-675F` Self-improving software may be real while still being hard to productize as its own startup.
 - `INS-260325-ED84` Shunryu Suzuki taught 'there is no enlightened person, only enlightened activity' — pursuing a permanent state of arrival is a self-improvement delusion.
 - `INS-260325-537A` Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.

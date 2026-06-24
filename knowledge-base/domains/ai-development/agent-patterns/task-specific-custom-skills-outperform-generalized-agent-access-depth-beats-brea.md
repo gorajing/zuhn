@@ -52,10 +52,10 @@ stance: >-
   task-tuned skills
 related:
   - INS-260325-DB7D
-  - INS-260320-0063
   - INS-260409-94D6
+  - INS-260320-0063
   - INS-260501-B933
   - INS-260423-00AC
-  - INS-260321-3312
+  - INS-260624-5ACA
 ---
 The beginner approach to agents is to grant broad access (MCP to everything, all APIs, wide permissions) and prompt for what is wanted. This produces inconsistent quality because the agent has too many choices and no priors about how the operator prefers to solve specific problems. The mature pattern is to build custom skills for narrow, repeating tasks. A LinkedIn-engagement-scraper skill, a Facebook-ads-bulk-upload skill, a cold-email-pipeline skill — each scoped to one job-to-be-done with baked-in preferences and guardrails. These narrow skills produce reliable output because the agent has fewer decisions to make and a clearer objective. The design principle is: every task you do twice should become a custom skill, not a prompt you re-write each time. Over 6-12 months, this produces a personal library of 20-40 skills that cover 80 percent of the operator's work. Competitors running on generalized agent access cannot match the quality or speed of this approach.

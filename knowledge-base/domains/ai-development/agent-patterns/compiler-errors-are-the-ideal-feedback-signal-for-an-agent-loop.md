@@ -55,6 +55,6 @@ related:
   - INS-260329-1ACD
   - INS-260329-F892
   - INS-260330-3B0B
-  - INS-260330-83D5
+  - PRI-260403-9E80
 ---
 Rust is genuinely harder for an LLM to get right on the first try because of its many rules — and Szoke argues that's a feature, not a bug. The unit of work isn't a single LLM completion; it's an agent in a loop that can compile, inspect failures, and fix them autonomously. Rust's compiler errors are verbose and prescriptive (they explain what went wrong and how to fix it, e.g. pointing out that a captured `Rc<RefCell<i32>>` is not `Send`), which is exactly the rich context an agent needs to self-correct. Every compile error the agent resolves is a class of bug that never ships. The design principle generalizes beyond Rust: pair autonomous agents with tooling that produces deterministic, actionable, machine-readable failure signals.

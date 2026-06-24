@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Do not make the agent responsible for remembering every operational step;
@@ -38,6 +39,12 @@ stance: >-
   Reliable autonomy comes from letting the model reason inside a workflow while
   making commit, deploy, log-checking, retry, and reporting steps deterministic
   enough to guarantee outcome completion.
+related:
+  - INS-260605-705B
+  - INS-260423-85B3
+  - INS-260524-2C7C
+  - INS-260605-46B2
+  - INS-260514-F58B
 ---
 The speaker described coding agents that can plan, implement, commit, deploy, inspect logs, and loop, but also observed that unconstrained agent runs sometimes stop before the operationally important step. The remedy was to divide the job into explicit workflow stages, so the system can rely on the model for reasoning while the platform enforces the boring parts.
 

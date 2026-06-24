@@ -57,6 +57,7 @@ related:
   - INS-260514-DFAE
   - INS-260525-4D80
   - INS-260327-BF89
+  - INS-260619-4ADA
 ---
 The talk repeatedly frames the engineer's job as externalizing implicit human knowledge: the environment a decision operates in, what 'important' means to the stakeholders, the reference class that determines whether average behavior applies, and the soft rules that live informally in Slack channels and Google Docs. Humans handle these effortlessly because they experience them; agents need them stated explicitly to reason at all.
 

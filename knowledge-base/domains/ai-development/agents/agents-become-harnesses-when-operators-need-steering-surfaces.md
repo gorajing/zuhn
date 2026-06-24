@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     An agent loop becomes a harness when it exposes the controls humans need to
@@ -38,6 +39,17 @@ stance: >-
   The distinction between an agent and a harness is the addition of
   operator-facing control surfaces such as planning, subagents, memory, approval
   scopes, interruption, queueing, and session lifecycle.
+related:
+  - INS-260409-0DB0
+  - INS-260423-3AC1
+  - INS-260501-247C
+  - INS-260605-5D66
+  - INS-260605-8C71
+  - INS-260605-C33F
+  - INS-260605-80DC
+  - INS-260605-ACB3
+  - INS-260605-0E19
+  - INS-260603-6B3D
 ---
 The harness talk positioned June 2026 as the beginning of a harness era: not just agents that call tools, but systems with planning modes, parallel subagents, web/context gathering, skills, background tasks, memory, compaction, resume, approval policies, interruption, queueing, and steering.
 

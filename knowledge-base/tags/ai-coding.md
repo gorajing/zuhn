@@ -2,9 +2,9 @@
 
 - `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260329-9115` Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
-- `INS-260329-E839` Understanding where abstraction layers hide complexity reveals which programming tasks AI can reliably automate and which it cannot.
 - `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260423-E12B` Aaron Levie: tech is only 8-12-15 percent of GDP; what happens when 85 percent of the economy gets access to engineering like tech has always had? CS grads go to John Deere, Caterpillar, or Eli Lilly, not Google.
+- `INS-260329-E839` Understanding where abstraction layers hide complexity reveals which programming tasks AI can reliably automate and which it cannot.
 - `INS-260619-4962` Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - `INS-260330-0E6E` Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - `INS-260605-3AFB` AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.

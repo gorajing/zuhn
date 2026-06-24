@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 44 insights
+> 45 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -32,6 +32,7 @@
 - `INS-260605-683B` [medium] Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
 - `INS-260514-F565` [medium] AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
 - `INS-260514-7B11` [medium] AI surveillance state = digital ID (identity-tied interactions) + digital currency (programmable transactions). China has it. Western democracies converging under different framing. Behavioral classification → predictive control → granular incentive engineering at population scale.
+- `INS-260624-C9A8` [medium] AI-speed offense forces AI-speed defense.
 - `INS-260514-83C0` [medium] The 'why would AI copies unify' objection fails: conquistadors took Mexico and Peru while fighting each other in civil wars. AI takeover doesn't require unanimity, just capability advantage AND distinguishable identity from humans.
 - `INS-260405-A23B` [medium] Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260410-230E` [medium] Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.

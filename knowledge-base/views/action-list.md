@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-19 | 5506 actionable insights
+Generated on 2026-06-24 | 5512 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -246,6 +246,8 @@ Generated on 2026-06-19 | 5506 actionable insights
 - [INS-260605-2ECD] Don't store traces as memory; distill traces into navigable evidence.
 - [INS-260605-4877] Define the agent's workspace as a manifest, not as an implicit container setup.
 - [INS-260619-F7E3] Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
+- [INS-260624-B6EA] Independent agent tool calls should run concurrently even if the model emits them sequentially.
+- [INS-260624-6753] High-stakes agent findings should be checked by heterogeneous reviewers.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -442,6 +444,9 @@ Generated on 2026-06-19 | 5506 actionable insights
 - [INS-260605-0748] On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
 - [INS-260619-D4F6] For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - [INS-260619-BF47] Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
+- [INS-260624-A338] Security agents need executable proof paths, not just plausible reports.
+- [INS-260624-E878] Security agents need curated vulnerability knowledge and code-analysis tools in context.
+- [INS-260624-D8C3] Speculation helps latency, but side-effectful actions need commit barriers.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -1158,6 +1163,7 @@ Generated on 2026-06-19 | 5506 actionable insights
 - [INS-260519-90E2] Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 - [INS-260522-51E7] YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
 - [INS-260619-16EF] The promise of managed workflows is collapsing queue-plus-worker architecture into observable, retryable task runs with preserved state.
+- [INS-260624-5ACA] Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them.
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.

@@ -44,7 +44,6 @@ stance: >-
   Stripping old tool calls to stay under a token budget invalidates the input
   cache every time, so on large-context models leaving context intact wins.
 related:
-  - INS-260320-CE36
   - INS-260605-E831
   - INS-260605-4A2D
   - INS-260321-18D0

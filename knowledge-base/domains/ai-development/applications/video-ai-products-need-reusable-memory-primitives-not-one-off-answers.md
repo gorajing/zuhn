@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The durable layer for video AI is a corpus memory with grounded primitives
@@ -39,6 +40,12 @@ stance: >-
   Serious video applications should ingest footage once into reusable primitives
   such as moments, entities, relationships, timelines, and references rather
   than repeatedly asking models for one-off summaries.
+related:
+  - PRI-260322-94C4
+  - INS-260329-BCCB
+  - INS-260323-22E8
+  - INS-260410-E660
+  - INS-260405-6C88
 ---
 The TwelveLabs-style talk distinguished between generating a pretty text answer and creating a memory layer that downstream systems can reuse. Enterprise video use cases need timestamps, entities, segment confidence, references, and structured JSON that can be inspected and composed.
 

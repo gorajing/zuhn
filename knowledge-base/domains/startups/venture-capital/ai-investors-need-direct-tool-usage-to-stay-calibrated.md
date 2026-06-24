@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The frontier is moving fast enough that credible AI investing requires
@@ -39,6 +40,12 @@ stance: >-
   In a fast AI market, investors cannot stay calibrated through secondhand
   reports; they need to be heavy users and builders themselves to understand
   what the tools can actually do.
+related:
+  - INS-260403-1EFF
+  - INS-260404-83C6
+  - PRI-260406-08E9
+  - PRI-260406-E431
+  - INS-260322-299C
 ---
 One investor described founders and CEOs as often being their companies' heaviest token consumers, then extended the lesson to venture: if you want to understand what AI can do for a business, the only stable place to learn is by using and building with the tools yourself.
 

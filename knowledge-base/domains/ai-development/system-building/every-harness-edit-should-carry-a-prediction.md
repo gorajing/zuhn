@@ -43,7 +43,6 @@ stance: >-
   Harness changes become autonomous engineering only when each edit declares a
   prediction that can be checked against later task outcomes.
 related:
-  - INS-260605-8C71
   - INS-260410-B0D6
   - PRI-260426-890F
   - INS-260605-E193

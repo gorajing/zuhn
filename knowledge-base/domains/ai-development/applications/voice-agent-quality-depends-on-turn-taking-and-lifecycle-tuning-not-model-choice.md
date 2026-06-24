@@ -21,7 +21,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Human-sounding voice agents are full lifecycle systems: model selection is
@@ -42,6 +43,12 @@ stance: >-
   Production voice agents require tuning across endpointing, chunking,
   interruption handling, system prompt variety, simulations, and observability
   because a good voice model alone does not make the interaction feel human.
+related:
+  - INS-260605-0126
+  - INS-260327-F316
+  - INS-260605-D37A
+  - INS-260605-A28F
+  - INS-260408-C572
 ---
 The Vapi talk emphasized that users hear voice-agent failures immediately. Developers often fixate on the best voice model or lowest latency, but production readiness also depends on when the agent listens, when it stops, whether it handles interruptions and corrections, where chunks break, and how much personality variety the system prompt creates over long conversations.
 

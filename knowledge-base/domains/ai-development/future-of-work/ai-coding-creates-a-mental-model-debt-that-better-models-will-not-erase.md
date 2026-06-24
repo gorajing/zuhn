@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Do not turn off the coding autopilot, but make engineers keep enough manual
@@ -39,6 +40,12 @@ stance: >-
   As AI coding tools increase shipping velocity, teams must deliberately
   maintain human understanding of shipped code because the hardest failures
   still require operators who can take control.
+related:
+  - INS-260404-D6F7
+  - PRI-260406-6690
+  - INS-260530-D34F
+  - INS-260524-63C9
+  - INS-260320-DEAF
 ---
 The EliseAI talk argued that obvious AI slop may decline as models improve, but the gap between shipped code and human mental models will widen. The aviation analogy was Air France 447: automation worked until it handed control back, at which point skill atrophy mattered.
 

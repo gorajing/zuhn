@@ -44,11 +44,11 @@ stance: >-
   inside the live run because resetting episodes discards the very continuity
   the agent needs to improve.
 related:
+  - INS-260619-6E08
   - INS-260410-9DB0
   - INS-260605-E193
   - INS-260410-B0D6
   - INS-260605-B930
-  - INS-260514-4FDC
 ---
 Continual Harness targets a gap between coding harnesses and embodied, long-horizon tasks: prompt optimization typically assumes clean episode resets, but real persistent tasks often cannot restart without losing critical state. The proposed harness adapts online within a single run.
 

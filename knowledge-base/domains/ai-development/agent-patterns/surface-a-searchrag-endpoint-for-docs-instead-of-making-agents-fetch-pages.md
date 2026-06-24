@@ -51,6 +51,7 @@ stance: >-
   Exposing a natural-language doc-search endpoint to agents beats page-fetching
   and turns agent queries into production signal about doc gaps.
 related:
+  - INS-260619-F1E3
   - INS-260410-19DE
   - INS-260605-9E46
   - INS-260410-F40F

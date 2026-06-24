@@ -9,8 +9,8 @@
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260501-07C8` Company generates $1B cash, gives out $1B equity, buys it back for $1B — they generated zero cash. Always subtract SBC from cash flow.
-- `INS-260404-1CBC` Annual pre-pay creates a virtuous cycle where customer payments directly fund new customer acquisition, effectively creating an infinite marketing budget.
 - `INS-260403-2B50` Only a fully linked three-statement model (income, balance sheet, cash flow) reveals the true cash position of a startup.
+- `INS-260404-1CBC` Annual pre-pay creates a virtuous cycle where customer payments directly fund new customer acquisition, effectively creating an infinite marketing budget.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260403-B5B7` 38% of startup failures trace directly to running out of cash, yet most founders lack real-time runway visibility.
 - `INS-260403-F4AC` Breaking exit proceeds into immediate vs deferred cash exposes whether a high-valuation exit actually delivers usable capital.

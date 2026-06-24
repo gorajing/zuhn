@@ -68,8 +68,8 @@ related:
   - PRI-260328-6CEC
   - PRI-260328-FD47
   - INS-260329-4B45
-  - INS-260330-6EE1
   - INS-260402-8170
+  - INS-260403-0020
 ---
 Android's killer move wasn't being free — Microsoft Windows Mobile charged carriers $5-10 per device while Android was free, which was already unbeatable. The killer move was that Google also paid OEMs and carriers a revenue share on searches originating from Android phones. Bill Gurley called this the 'less than free' business model. Microsoft couldn't respond because their entire mobile P&L depended on the $5-10 license fee — matching Google would require blowing up their core business model.
 

@@ -58,8 +58,8 @@ related:
   - INS-260330-77E2
   - INS-260410-D034
   - INS-260329-DABC
+  - INS-260624-4205
   - PRI-260406-FB98
-  - INS-260410-988F
   - INS-260605-7F81
 ---
 From reviewing attempts by the upgraded Claude 3.5 Sonnet compared to older models, the team notes that the new model self-corrects more often and shows an ability to try several different solutions, rather than getting stuck making the same mistake over and over. Some tasks took more than 100 turns before the model submitted a solution; the model is described as 'tenacious' and able to find its way around a problem given enough time.

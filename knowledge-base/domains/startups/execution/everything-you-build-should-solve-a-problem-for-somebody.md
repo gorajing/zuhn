@@ -50,6 +50,7 @@ related:
   - PRI-260406-874A
   - INS-260327-3A71
   - INS-260327-B12E
+  - INS-260619-675F
   - INS-260403-6C07
 ---
 Krieger's Stanford education in Symbolic Systems (combining CS, design, philosophy, and psychology) shaped his core product philosophy: everything you build should solve a problem for somebody. This principle guided Instagram's creation and his work at Anthropic.

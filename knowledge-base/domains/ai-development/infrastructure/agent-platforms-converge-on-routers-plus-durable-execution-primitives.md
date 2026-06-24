@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The production agent stack is becoming a set of durable primitives around
@@ -40,6 +41,16 @@ stance: >-
   Agent infrastructure platforms are converging around model gateways,
   persistence, secure code execution, durable messaging, and task-specific agent
   loops because raw SDK swaps do not solve production agent complexity.
+related:
+  - INS-260325-F981
+  - INS-260605-CA2B
+  - INS-260605-0628
+  - INS-260605-C132
+  - PRI-260328-8317
+  - INS-260410-F910
+  - INS-260403-4D80
+  - PRI-260501-168F
+  - INS-260619-16EF
 ---
 The Vercel segment described moving from swapping SDK code for each new provider toward an AI gateway with a single key, automatic fallbacks, persistence, and utilities for durability, secure code execution, and messaging. Their internal data-agent story also moved from giant prompts, to sub-agents, to larger-context single runs, then back toward simpler agent SDK execution when model/tooling capabilities changed.
 

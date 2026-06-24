@@ -52,8 +52,8 @@ related:
   - INS-260423-FF52
   - INS-260605-C536
   - INS-260605-C726
+  - INS-260619-F1E3
   - INS-260322-AB55
-  - INS-260403-5683
 ---
 A common pattern is an external reviewer asking 'what could have reduced friction?' on every conversation. Verbeek's critique: this forces an answer on every iteration, but most iterations work fine, so the reviewer overfits to noise and manufactures problems. The fix is to gate feedback behind a self-assessed frustration threshold — the agent vents only when something is really wrong — and then tune that threshold as a dial until the incoming complaints are dense with signal.
 

@@ -47,7 +47,6 @@ stance: >-
   Pull requests are the wrong unit of work for agentic development because they
   were designed around slow human review and delayed feedback.
 related:
-  - INS-260325-F981
   - INS-260501-4903
   - PRI-260407-D1AD
   - INS-260605-5404

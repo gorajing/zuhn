@@ -60,9 +60,9 @@ related:
   - INS-260605-ACCD
   - INS-260605-50FB
   - INS-260605-C132
+  - INS-260619-BF47
   - INS-260605-74CC
   - INS-260405-F26B
-  - INS-260605-C2A3
   - INS-260605-68F4
 ---
 Humeau emphasizes that on the consumer side, users always perceive a single system that hears and responds, but architecturally it is a pipeline: speech-to-text feeds a central text-to-text LLM, whose output feeds text-to-speech. His take is that you can 'go very far' using speech purely as an interface layer, precisely because the central LLMs are extremely capable and general-purpose.

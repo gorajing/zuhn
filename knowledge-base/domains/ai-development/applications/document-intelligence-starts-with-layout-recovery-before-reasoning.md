@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     PDFs and slide decks are not just text containers; document AI must recover
@@ -39,6 +40,12 @@ stance: >-
   Agents cannot reason reliably over enterprise documents until the pipeline
   reconstructs layout, reading order, tables, and visual structure that raw text
   extraction discards.
+related:
+  - INS-260409-EA75
+  - PRI-260406-E880
+  - INS-260403-D20A
+  - INS-260605-1C4E
+  - INS-260409-003A
 ---
 The LlamaIndex segment framed document processing as a prerequisite for agents that reason over company knowledge. Most knowledge is not in clean tables; it lives in PDFs, contracts, spreadsheets, slide decks, and scans. To code, a PDF is often just a digital printout with no explicit paragraph boundaries, table semantics, or reading order.
 

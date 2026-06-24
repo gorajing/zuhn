@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-19 | 2865 sources
+Generated on 2026-06-24 | 2867 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -239,6 +239,8 @@ Generated on 2026-06-19 | 2865 sources
 | Jongmin Sung | audio | 7 | 2026-05-24 |
 | Keynote   Dario Gil | audio | 7 | 2026-05-06 |
 | Panel 2 | audio | 7 | 2026-05-30 |
+| Stanford Hospital at 300 Pasteur Drive | audio | 7 | 2026-06-24 |
+| Stanford Medical Center | audio | 7 | 2026-06-24 |
 | A practical guide to building agents | blog | 7 | 2026-06-05 |
 | How to Do Great Work | blog | 7 | 2026-03-31 |
 | #1 Sales Tactic (to Make a TON of Money!) | youtube | 7 | 2026-03-27 |

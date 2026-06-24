@@ -48,12 +48,13 @@ stance: >-
 related:
   - INS-260410-AF66
   - INS-260410-A27C
-  - INS-260421-E9FC
   - INS-260605-667B
   - INS-260605-780C
   - INS-260605-93B8
   - INS-260605-A2AD
   - INS-260605-36E9
   - INS-260605-80D0
+  - INS-260624-6753
+  - INS-260624-A338
 ---
 Human annotation is a key engine for building agent quality, but its value comes from capturing the reasoning, not just the verdict. The pattern: an expert (e.g., a product manager) grades whether the agent did a good or bad job on a trace and justifies the grade. Those written justifications become training signal — you run an LLM over them to surface the recurring failure modes, then encode those modes as automated scoring functions that run at scale. This turns a handful of expert judgments into broad, cheap coverage. Hetzel also notes a complementary 'unknown unknowns' move: lightweight LLM embedding plus clustering over incoming traces to do topic modeling — revealing how people actually use the agent, their intent, sentiment, and what issues they hit — surfacing problems no predefined score would have caught.

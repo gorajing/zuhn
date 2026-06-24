@@ -58,7 +58,6 @@ stance: >-
   A harness of git hooks, CI, and linters that runs identical checks at both
   stages is what keeps agents adhering to rules over long sessions.
 related:
-  - INS-260320-0D43
   - INS-260320-949A
   - INS-260605-9523
   - INS-260605-3872

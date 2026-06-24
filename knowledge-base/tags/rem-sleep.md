@@ -1,3 +1,3 @@
-# Tag: rem-sleep
+# Tag: REM-sleep
 
-- `INS-260330-F374` Sleep researchers classify alcohol-induced sleep as 'pseudosleep' because it disrupts slow-wave, deep, and REM sleep phases that are essential for restoration.
+- `INS-260409-8910` REM sleep downregulates the frontal lobe, activates vision, and paralyzes the body — a ready-made abduction experience.

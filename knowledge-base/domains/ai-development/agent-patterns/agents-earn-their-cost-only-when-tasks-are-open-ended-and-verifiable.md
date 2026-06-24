@@ -57,6 +57,7 @@ related:
   - INS-260410-38C8
   - INS-260605-3285
   - INS-260605-3A60
+  - INS-260624-A338
 ---
 Anthropic's criteria for deploying a real agent (vs. a workflow) are strict: the task has to be open-ended enough that you can't predict the number of steps or hardcode a path, and you must have trust in the model's decision-making across many turns. Because agents operate autonomously, costs are higher and errors compound — one wrong decision early can poison everything downstream.
 

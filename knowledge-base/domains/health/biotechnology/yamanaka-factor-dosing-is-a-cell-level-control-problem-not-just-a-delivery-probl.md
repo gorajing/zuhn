@@ -55,11 +55,11 @@ stance: >-
   real time, because any open-loop dosing strategy risks tipping individual
   cells into full dedifferentiation and tumor formation.
 related:
+  - INS-260619-F7E3
   - INS-260603-6B3D
   - INS-260330-7987
   - INS-260327-FC68
   - INS-260501-3BCF
-  - INS-260410-7AC1
 ---
 The core technical constraint on using Yamanaka factors for rejuvenation is that the dose window is very narrow: too little and nothing happens, too much and the cell fully dedifferentiates into a pluripotent state, which is functionally equivalent to a cancer cell. Any whole-organism or whole-tissue dosing strategy is going to hit cells with heterogeneous sensitivity, and you only need one dedifferentiated cell to start a tumor.
 

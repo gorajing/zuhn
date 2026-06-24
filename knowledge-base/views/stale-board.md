@@ -1,16 +1,215 @@
 # Stale Board
-Generated on 2026-06-19 | 12 stale insights
+Generated on 2026-06-24 | 211 stale insights
 
 ## Needs Review
-- [INS-260320-DDFE] Bash commands bypass Claude Code Read deny rules — extracted 2026-03-20, 91 days ago
-- [INS-260320-949A] Pre-execution bash validation hook blocks token waste — extracted 2026-03-20, 91 days ago
-- [INS-260320-9937] Abuse OpenRouter free model tiers for development — extracted 2026-03-20, 91 days ago
-- [INS-260320-2058] Use OpenRouter for unified LLM cost management — extracted 2026-03-20, 91 days ago
-- [INS-260320-41E3] Daily Trend Detection at 35 Cents Per Day — extracted 2026-03-20, 91 days ago
-- [INS-260320-71C1] Automated prospect pipeline from search to personalized outreach — extracted 2026-03-20, 91 days ago
-- [INS-260320-C9B1] Full Business Analysis Report for Under a Dollar — extracted 2026-03-20, 91 days ago
-- [INS-260320-B8B0] Use proxy services for LinkedIn scraping to avoid bans — extracted 2026-03-20, 91 days ago
-- [INS-260320-A745] AI deskilling is real — Anthropic's studies show coding skill degradation depends on HOW you use models, not WHETHER you use them — extracted 2026-03-20, 91 days ago
-- [INS-260320-B99F] Build careers on AI as tailwind — semiconductor supply chain, human-centered professions, anything that mixes physical world with analytical skills — extracted 2026-03-20, 91 days ago
-- [INS-260320-DEAF] Coding is going away first, broader software engineering takes longer — but both will eventually be AI-driven — extracted 2026-03-20, 91 days ago
-- [INS-260320-F78E] Prompt engineering has a piano-like learning curve — mostly learned by doing, not by reading — extracted 2026-03-20, 91 days ago
+- [INS-260320-DDFE] Bash commands bypass Claude Code Read deny rules — extracted 2026-03-20, 96 days ago
+- [INS-260320-949A] Pre-execution bash validation hook blocks token waste — extracted 2026-03-20, 96 days ago
+- [INS-260320-9937] Abuse OpenRouter free model tiers for development — extracted 2026-03-20, 96 days ago
+- [INS-260320-2058] Use OpenRouter for unified LLM cost management — extracted 2026-03-20, 96 days ago
+- [INS-260320-41E3] Daily Trend Detection at 35 Cents Per Day — extracted 2026-03-20, 96 days ago
+- [INS-260320-71C1] Automated prospect pipeline from search to personalized outreach — extracted 2026-03-20, 96 days ago
+- [INS-260320-C9B1] Full Business Analysis Report for Under a Dollar — extracted 2026-03-20, 96 days ago
+- [INS-260320-B8B0] Use proxy services for LinkedIn scraping to avoid bans — extracted 2026-03-20, 96 days ago
+- [INS-260320-A745] AI deskilling is real — Anthropic's studies show coding skill degradation depends on HOW you use models, not WHETHER you use them — extracted 2026-03-20, 96 days ago
+- [INS-260320-B99F] Build careers on AI as tailwind — semiconductor supply chain, human-centered professions, anything that mixes physical world with analytical skills — extracted 2026-03-20, 96 days ago
+- [INS-260320-DEAF] Coding is going away first, broader software engineering takes longer — but both will eventually be AI-driven — extracted 2026-03-20, 96 days ago
+- [INS-260320-F78E] Prompt engineering has a piano-like learning curve — mostly learned by doing, not by reading — extracted 2026-03-20, 96 days ago
+- [INS-260321-2482] Agent failures feel like skill issue not capability limit — extracted 2026-03-21, 95 days ago
+- [INS-260321-18D0] Maximize token throughput not typing speed — extracted 2026-03-21, 95 days ago
+- [INS-260321-80A9] Model jaggedness is the core unsolved problem — extracted 2026-03-21, 95 days ago
+- [INS-260321-BFA3] AI success rate is 1-2% but scale makes it look like magic — extracted 2026-03-21, 95 days ago
+- [INS-260321-E8CB] SaaS benchmarks must be stage-specific not universal — extracted 2026-03-21, 95 days ago
+- [INS-260321-D183] S&P 500 is optimal in both US-wins and China-wins scenarios — extracted 2026-03-21, 95 days ago
+- [INS-260321-5655] US foreign policy is a unified China containment strategy — extracted 2026-03-21, 95 days ago
+- [INS-260321-82FE] Prompting shifted from clever wording to structural context engineering — extracted 2026-03-21, 95 days ago
+- [INS-260321-A3A1] IMEC is the 21st century logistics highway designed to bypass China completely — extracted 2026-03-21, 95 days ago
+- [INS-260321-9E91] The US pivot to Asia requires outsourcing Middle East management via economic binding — extracted 2026-03-21, 95 days ago
+- [INS-260321-807B] AI native agencies bypassing incumbent tools entirely — extracted 2026-03-21, 95 days ago
+- [INS-260321-2BF9] NVIDIA building the platform for everything — physical AI, robotics, orbital data centers, robotaxis — extracted 2026-03-21, 95 days ago
+- [INS-260321-5DF8] OpenClaw surpassed 30 years of Linux adoption in weeks — each AI unhobbling grows faster than the last — extracted 2026-03-21, 95 days ago
+- [INS-260321-4B99] AI demand shifted semiconductor production lines away from consumer chips — driving all memory prices up — extracted 2026-03-21, 95 days ago
+- [INS-260321-F2C4] AI disruption creates a ticking time bomb in private credit's outsized software lending exposure — extracted 2026-03-21, 95 days ago
+- [INS-260321-D484] NVIDIA targeting $1T revenue by 2027 — constrained only by TSMC manufacturing capacity — extracted 2026-03-21, 95 days ago
+- [INS-260321-21BE] NVIDIA's 90% GPU monopoly will erode as Google TPU, AMD, and domestic NPUs compete — extracted 2026-03-21, 95 days ago
+- [INS-260321-347D] Private credit default rates hitting post-pandemic highs while redemption gates trap retail investors — extracted 2026-03-21, 95 days ago
+- [INS-260321-C902] AI distribution ladder: X to AI news to Instagram news to creators to Telegram — extracted 2026-03-21, 95 days ago
+- [INS-260321-F0DF] TikTok Live is the most underexploited music channel — artists earning $10K+/month while building thousands of followers — extracted 2026-03-21, 95 days ago
+- [INS-260321-2241] Global AI adoption varies 5-10x by country due to cultural trust, not technology access — extracted 2026-03-21, 95 days ago
+- [INS-260321-4E98] Horizontal consumer AI agents face an existential distribution disadvantage against big tech — extracted 2026-03-21, 95 days ago
+- [INS-260321-6437] Pentagon scaled AI adoption from 80K to 1.2M users in 90 days by cutting priorities from 14 to 6 — extracted 2026-03-21, 95 days ago
+- [INS-260321-86F1] Adversaries stealing US AI models and removing guardrails creates asymmetric warfare risk — extracted 2026-03-21, 95 days ago
+- [INS-260321-1A03] AI vendor lock-in with usage restrictions creates existential risk for mission-critical operations — extracted 2026-03-21, 95 days ago
+- [INS-260321-AA91] AI credit-based pricing fails because customers can't control or compare opaque consumption units — extracted 2026-03-21, 95 days ago
+- [INS-260321-3BA8] Pentagon shifting from cost-plus to firm-fixed-price contracts mirrors the SpaceX procurement model — extracted 2026-03-21, 95 days ago
+- [INS-260321-69E1] Each platform is its own medium requiring a native expert — crossposting is strategic malpractice — extracted 2026-03-21, 95 days ago
+- [INS-260321-0CCD] Coding tools hit an inflection point with 10-20x productivity gains demanding full org redesign — extracted 2026-03-21, 95 days ago
+- [INS-260321-1749] Fortune 500 AI adoption gap is a change management problem, not a technology readiness problem — extracted 2026-03-21, 95 days ago
+- [INS-260321-CBD2] AI capex buildout is structurally different from dot-com because it's funded by profitable companies, but debt entry is a warning sign — extracted 2026-03-21, 95 days ago
+- [INS-260321-822B] Top AI companies grow 693% YoY while spending less on sales and marketing than SaaS predecessors — extracted 2026-03-21, 95 days ago
+- [INS-260321-9AB5] GLP-1 drugs plus compounding pharmacies could eradicate obesity but create an uncontrollable gray market — extracted 2026-03-21, 95 days ago
+- [INS-260321-801C] MCP integration lets Claude talk directly to your financial data — extracted 2026-03-21, 95 days ago
+- [INS-260322-B33E] Autonomous labs emerge from combining AI reasoning with physical robotics — extracted 2026-03-22, 94 days ago
+- [INS-260322-7DD5] Consumer AI shifts from productivity tools to connectivity and relationship platforms — extracted 2026-03-22, 94 days ago
+- [INS-260322-BBED] AI is a larger design space than any prior tech cycle — expect more billion-dollar winners, not fewer — extracted 2026-03-22, 94 days ago
+- [INS-260322-88C3] AI disruption forces incumbents into M&A to acquire the DNA of the future — extracted 2026-03-22, 94 days ago
+- [INS-260322-299C] DeepSeek proves AI capability is replicable — leads are temporary and competition is accelerating — extracted 2026-03-22, 94 days ago
+- [INS-260322-C5BD] Fragmented state-level AI regulation is the primary near-term policy threat to US AI leadership — extracted 2026-03-22, 94 days ago
+- [INS-260322-A14D] Regulate AI applications, not the math — and preempt 50-state regulatory fragmentation — extracted 2026-03-22, 94 days ago
+- [INS-260322-5790] AI gross margins deserve leniency because input costs are declining faster than Moore's law — extracted 2026-03-22, 94 days ago
+- [INS-260322-B641] Consumer AI is stickier than enterprise AI — reversing a historic pattern — extracted 2026-03-22, 94 days ago
+- [INS-260322-2D57] After energy, cooling becomes the next critical AI infrastructure bottleneck — extracted 2026-03-22, 94 days ago
+- [INS-260322-6DFC] AI infrastructure buildout is derisked because the strongest companies are funding it — extracted 2026-03-22, 94 days ago
+- [INS-260322-0C28] ChatGPT is the Kleenex of AI — winner-take-most dynamics in general LLM assistants — extracted 2026-03-22, 94 days ago
+- [INS-260322-B09B] Multimodal convergence — anything-in to anything-out — is the defining model trend for 2026 — extracted 2026-03-22, 94 days ago
+- [INS-260322-0812] Viral image and video models are the primary user acquisition engine for AI platforms — extracted 2026-03-22, 94 days ago
+- [INS-260322-D0F6] Dynamic agent layers will overtake systems of record by collapsing intent-to-execution distance — extracted 2026-03-22, 94 days ago
+- [INS-260322-642F] Financial services hit a tipping point — risk of keeping legacy systems now exceeds risk of replacing them — extracted 2026-03-22, 94 days ago
+- [INS-260322-3263] ChatGPT's 900M weekly users reveal AI's adoption paradox — 85% can't find daily use — extracted 2026-03-22, 94 days ago
+- [INS-260322-32E3] Math seems unusually easy for AI — RL works well in formal domains and may produce major theorem proofs within 5 years — extracted 2026-03-22, 94 days ago
+- [INS-260322-770D] AI bubble assessment: current revenue justifies current spend, but future capex is the real gamble — extracted 2026-03-22, 94 days ago
+- [INS-260322-474A] Software-only singularity is unlikely because experimental compute scales with researcher count — extracted 2026-03-22, 94 days ago
+- [INS-260322-59B9] AI will automate 5-10% of current jobs in a decade but the transition speed determines social impact — extracted 2026-03-22, 94 days ago
+- [INS-260322-191F] Voice AI companies deliberately slow agents down to sound human — extracted 2026-03-22, 94 days ago
+- [INS-260322-2D2F] AI's biggest use case in financial services is fraudsters committing fraud — extracted 2026-03-22, 94 days ago
+- [INS-260322-B264] Voice is the highest-bandwidth delegation channel — 2-3x faster than typing — extracted 2026-03-22, 94 days ago
+- [INS-260322-96F1] Tokenization fixes the absurd settlement infrastructure that caused the GameStop crisis — extracted 2026-03-22, 94 days ago
+- [INS-260322-0E41] Platform owners tax, don't compete — but multiple model providers reduce platform risk — extracted 2026-03-22, 94 days ago
+- [INS-260322-3616] Reinforcement fine-tuning is the real unlock — it moves from tone-tweaking to domain-expert-level customization — extracted 2026-03-22, 94 days ago
+- [INS-260322-D8C3] Agents are not a new product category — they're just another interface for deploying intelligence — extracted 2026-03-22, 94 days ago
+- [INS-260322-6AF5] Big tech competitors are more vulnerable than they appear — Amazon's search quality has degraded enough for DoorDash to compete on trust — extracted 2026-03-22, 94 days ago
+- [INS-260322-E7E9] GLP-1 accessibility failures are driving consumers to unregulated alternatives — extracted 2026-03-22, 94 days ago
+- [INS-260322-D58A] Unregulated peptides follow the classic tech adoption curve despite medical uncertainty — extracted 2026-03-22, 94 days ago
+- [INS-260322-823B] Consumer biotech is emerging as a trillion-dollar category driven by self-directed health optimization — extracted 2026-03-22, 94 days ago
+- [INS-260322-D7B1] AI search will erode Google's attention monopoly and raise paid acquisition costs — extracted 2026-03-22, 94 days ago
+- [INS-260322-FFF6] Organic social media is the most underpriced attention arbitrage in marketing history — extracted 2026-03-22, 94 days ago
+- [INS-260322-31F8] Eight-layer token optimization stack reduces AI costs by 15x — extracted 2026-03-22, 94 days ago
+- [INS-260322-3010] SaaS replacement audit using AI agents saves $1000+ monthly — extracted 2026-03-22, 94 days ago
+- [INS-260322-02A6] Korea's CubeSat participation signals small-nation entry into space economy — extracted 2026-03-22, 94 days ago
+- [INS-260322-1435] TikTok ad credits for new accounts can halve your paid acquisition costs — extracted 2026-03-22, 94 days ago
+- [INS-260322-B392] Platform-specific strengths for different discovery goals — extracted 2026-03-22, 94 days ago
+- [INS-260322-55D8] The 5x gap: most ChatGPT users can't think of a reason to use it weekly — extracted 2026-03-22, 94 days ago
+- [INS-260322-2B2D] English fluency is the single highest-leverage skill for escaping constrained local systems — extracted 2026-03-22, 94 days ago
+- [INS-260322-3083] Learn AI like riding a bicycle -- practice beats theory — extracted 2026-03-22, 94 days ago
+- [INS-260322-0CE3] Physical AI is Korea's strategic advantage because manufacturing worker data is irreplaceable — extracted 2026-03-22, 94 days ago
+- [INS-260322-96D1] Agents evolve by accumulating user conversations and self-directed learning — becoming truly personalized over time — extracted 2026-03-22, 94 days ago
+- [INS-260322-76B5] AI agents reduce a cybersecurity consultant's workday to 30 minutes while increasing output by 10x — extracted 2026-03-22, 94 days ago
+- [INS-260322-2E33] AI agents fall for prompt injection attacks 55% of the time — spending beyond user-set limits when websites embed manipulative content — extracted 2026-03-22, 94 days ago
+- [INS-260322-CCE8] The one-model-to-rule-them-all thesis is dead — model specialization is the new paradigm — extracted 2026-03-22, 94 days ago
+- [INS-260322-B369] Simultaneous fiscal, monetary, and deregulatory stimulus creates a rare macro cocktail — extracted 2026-03-22, 94 days ago
+- [INS-260322-3A00] Peptides will disrupt pharma by shifting from 'don't die' to human enhancement — extracted 2026-03-22, 94 days ago
+- [INS-260323-B3A3] Store Now Decrypt Later makes quantum threats immediate despite distant hardware — extracted 2026-03-23, 93 days ago
+- [INS-260323-4D13] The biggest open question in AI: whether transformer scaling hits an asymptote or continues indefinitely — extracted 2026-03-23, 93 days ago
+- [INS-260323-3D7D] AR glasses will segment into three permanent tiers: display-less, heads-up, and full holographic — extracted 2026-03-23, 93 days ago
+- [INS-260323-6F66] Iran is the wildcard that disrupts US Middle East withdrawal strategy — extracted 2026-03-23, 93 days ago
+- [INS-260323-DC99] Vibe coding shifts the bottleneck from implementation to planning at a 9:1 ratio — extracted 2026-03-23, 93 days ago
+- [INS-260323-6414] B2C SaaS growth through building in public plus offline founder hustle — extracted 2026-03-23, 93 days ago
+- [INS-260323-A3DB] Gulf states are structurally pivoting from US to China after repeated protection failures — extracted 2026-03-23, 93 days ago
+- [INS-260323-6A05] Iran's theocratic regime is far more stable than Western media suggests — fragmented opposition cannot unite — extracted 2026-03-23, 93 days ago
+- [INS-260323-E74E] Kharg Island is dual-purpose — both oil chokepoint and ground invasion gateway for US forces — extracted 2026-03-23, 93 days ago
+- [INS-260323-758B] Humanoid robot production will be 10-100x vehicle production — 1 to 10 billion units per year — extracted 2026-03-23, 93 days ago
+- [INS-260323-F528] Space compute will undercut terrestrial compute within 2-3 years — always-sunny solar, no NIMBYism, and increasing returns vs decreasing returns on Earth — extracted 2026-03-23, 93 days ago
+- [INS-260323-9B49] Terafab's recursive chip design loop — lithography masks and testing in a single building — may be an order of magnitude faster than any existing fab — extracted 2026-03-23, 93 days ago
+- [INS-260323-198E] First approved CRISPR therapy cures sickle cell in one treatment — but delivery is the bottleneck — extracted 2026-03-23, 93 days ago
+- [INS-260323-4D14] The next decade of AI is application science, not fundamental science — extracted 2026-03-23, 93 days ago
+- [INS-260323-042C] GPT-5's defining leap is on-demand software creation — making programming a universal interface for ideas — extracted 2026-03-23, 93 days ago
+- [INS-260323-BF81] One-person billion-dollar companies are now possible — AI gives individuals the leverage of hundred-person teams — extracted 2026-03-23, 93 days ago
+- [INS-260323-D2AA] AGI is 'jagged' not singular -- superhuman at some coding, bad at distributed ML, timeline pushed to 2031+ — extracted 2026-03-23, 93 days ago
+- [INS-260323-6C6F] Pre-training scaling is alive but economically displaced by inference scaling for now — extracted 2026-03-23, 93 days ago
+- [INS-260323-2E51] Agentic engineering workflow — run 4-10 parallel agents without reading most code — extracted 2026-03-23, 93 days ago
+- [INS-260323-EA36] AI project failure rate is 2x any other emerging technology — skills gap and employee resistance are the twin killers — extracted 2026-03-23, 93 days ago
+- [INS-260323-348F] The readiness paradox — 90% of leaders rate their tech best-in-class while 44% of their infrastructure nears end-of-life — extracted 2026-03-23, 93 days ago
+- [INS-260323-5C6F] Most AI startups are building features not products — platforms will absorb any capability that lacks standalone defensibility — extracted 2026-03-23, 93 days ago
+- [INS-260323-B4D2] Vibe coding creates 30x competition — faster building without strategic differentiation just floods the market with noise — extracted 2026-03-23, 93 days ago
+- [INS-260323-FE69] No occupation will be eliminated by AI in the next decade — extracted 2026-03-23, 93 days ago
+- [INS-260323-1477] AI companies are quietly adopting symbolic AI while pitching investors on pure neural scaling — extracted 2026-03-23, 93 days ago
+- [INS-260323-750A] Circular financing and vendor subsidies signal an AI bubble with too-big-to-fail risk — extracted 2026-03-23, 93 days ago
+- [INS-260323-F12F] Data center economics are structurally broken — GPUs depreciate before buildings complete — extracted 2026-03-23, 93 days ago
+- [INS-260323-F68A] Subsidized AI pricing creates an illusory environment that masks true cost of errors — extracted 2026-03-23, 93 days ago
+- [INS-260323-F753] Both Anthropic and OpenAI lose money on every query — unsustainable unit economics underpin trillion-dollar valuations — extracted 2026-03-23, 93 days ago
+- [INS-260323-114D] Data center financing is the real systemic risk of the AI bubble — extracted 2026-03-23, 93 days ago
+- [INS-260323-9492] Corporate AI adoption is driven by FOMO herd behavior not proven productivity gains — extracted 2026-03-23, 93 days ago
+- [INS-260323-7625] Reasoning models increase inference costs — the 'cost of intelligence' claim is a lie — extracted 2026-03-23, 93 days ago
+- [INS-260323-5C25] Coreweave's debt spiral is the canary for the AI bubble collapse — extracted 2026-03-23, 93 days ago
+- [INS-260323-D288] OpenAI and Anthropic S-1 filings will expose the economics that terrify the industry — extracted 2026-03-23, 93 days ago
+- [INS-260323-282F] Microsoft Copilot adoption proves enterprise AI demand is far weaker than claimed — extracted 2026-03-23, 93 days ago
+- [INS-260323-35D4] The $2T revenue gap between AI spending and AI revenue has no credible closing mechanism — extracted 2026-03-23, 93 days ago
+- [INS-260323-8637] Compute will be the most precious commodity in the world by end of decade — extracted 2026-03-23, 93 days ago
+- [INS-260323-9BAB] The trillion-dollar question: does synthetic training data contain new signal or just empty calories — extracted 2026-03-23, 93 days ago
+- [INS-260323-7F22] AI subscription pricing is a trap — moving users to real costs would destroy adoption — extracted 2026-03-23, 93 days ago
+- [INS-260323-DA6F] Every major Chinese growth wave followed a major reform — and reform pace has slowed — extracted 2026-03-23, 93 days ago
+- [INS-260324-C33C] Bubble tea is the rare east-to-west industry — Asian brands franchise into the US while legacy coffee stagnates — extracted 2026-03-24, 92 days ago
+- [INS-260324-2244] Cannabis industry proves that federal illegality makes normal business impossible regardless of state legalization — extracted 2026-03-24, 92 days ago
+- [INS-260324-157A] Temu and Wish exploit subsidized Chinese postal rates and zero-overhead platform models to sell $1 items profitably — extracted 2026-03-24, 92 days ago
+- [INS-260324-C2B9] Smashburgers are destroying fast food chains from below by delivering the baseline quality that chains abandoned — extracted 2026-03-24, 92 days ago
+- [INS-260324-6FC7] Buy Now Pay Later normalized impulse debt for everyday purchases — the same credit expansion pattern that preceded 2008 — extracted 2026-03-24, 92 days ago
+- [INS-260324-8D35] Online gambling apps are VC-subsidized customer acquisition machines burning billions to lock in users before regulation closes the window — extracted 2026-03-24, 92 days ago
+- [INS-260324-5C53] The AI bubble mirrors the dot-com bubble at every layer of the tech stack — extracted 2026-03-24, 92 days ago
+- [INS-260324-29D8] The greatest tech innovations flourished through organic demand — AI's top-down narrative is the red flag — extracted 2026-03-24, 92 days ago
+- [INS-260324-4521] Ukraine's mineral wealth is real but unexploitable without solving corruption, infrastructure, and security first — extracted 2026-03-24, 92 days ago
+- [INS-260325-3F9B] Decoherence is the central bottleneck for quantum computing — extracted 2026-03-25, 91 days ago
+- [INS-260325-C9EB] AI could give totalitarian systems an advantage over democracies for the first time — extracted 2026-03-25, 91 days ago
+- [INS-260325-DE23] LLM content restrictions function as a new form of information infrastructure control — extracted 2026-03-25, 91 days ago
+- [INS-260325-F48E] Market competition is currently pushing LLMs toward less speech restriction not more — extracted 2026-03-25, 91 days ago
+- [INS-260325-ADF3] Developing intuition for AI is a legitimate form of understanding — extracted 2026-03-25, 91 days ago
+- [INS-260325-3D31] Moore's Law is collapsing because transistors are approaching atomic limits — extracted 2026-03-25, 91 days ago
+- [INS-260325-A1B9] Quantum computers will crack all digital encryption -- a security revolution is inevitable — extracted 2026-03-25, 91 days ago
+- [INS-260325-14DC] ASML's EUV lithography machine is the most complex device humans have ever built — extracted 2026-03-25, 91 days ago
+- [INS-260325-BB13] No single company can make advanced chips alone — extracted 2026-03-25, 91 days ago
+- [INS-260325-A782] Moore's Law is flattening and will cause a depression in computing unless quantum computing succeeds — extracted 2026-03-25, 91 days ago
+- [INS-260325-BE3A] Quantum computers can crack any digital encryption — a national security inflection point is coming — extracted 2026-03-25, 91 days ago
+- [INS-260325-9F5F] Gene therapy delivery — not gene editing — is the true bottleneck for curing genetic diseases — extracted 2026-03-25, 91 days ago
+- [INS-260325-3AE4] Psychedelics cause massive cross-talk between normally compartmentalized brain regions — extracted 2026-03-25, 91 days ago
+- [INS-260325-6576] Psychedelics open a neuroplasticity window that makes new habits stick — extracted 2026-03-25, 91 days ago
+- [INS-260325-FEDF] Repurposed drugs like rapamycin offer fastest path to human longevity treatments — extracted 2026-03-25, 91 days ago
+- [INS-260325-72B6] Senolytic drugs clear zombie cells to slow aging in mice — extracted 2026-03-25, 91 days ago
+- [INS-260325-3F8B] Wright's Law could drive gene therapy costs from millions to thousands of dollars — extracted 2026-03-25, 91 days ago
+- [INS-260325-C394] Yamanaka factor reprogramming can reverse cellular aging clock — extracted 2026-03-25, 91 days ago
+- [INS-260325-A19C] Chip supply chain concentration in Taiwan is a global strategic vulnerability — extracted 2026-03-25, 91 days ago
+- [INS-260325-B115] Physical dynamism builds political resilience — people who see their environment improving tolerate their government — extracted 2026-03-25, 91 days ago
+- [INS-260325-2BB0] TSMC manufactures 90% of advanced processor chips creating extreme concentration risk — extracted 2026-03-25, 91 days ago
+- [INS-260325-C5FD] China innovates through iteration speed and fierce internal competition, not breakthrough invention — extracted 2026-03-25, 91 days ago
+- [INS-260325-07FA] Wright's Law predicts gene therapy costs will plummet with scale — extracted 2026-03-25, 91 days ago
+- [INS-260325-FD0F] Brain-reading technology threatens the last bastion of human privacy — extracted 2026-03-25, 91 days ago
+- [INS-260325-2999] Consciousness science is limited by measurement tradeoffs not just theory — extracted 2026-03-25, 91 days ago
+- [INS-260325-45BC] Critical professions like psychology and teaching are becoming gendered right in front of us — extracted 2026-03-25, 91 days ago
+- [INS-260325-1802] The mental health crisis is gendered but the attention is not — male suicide rates are rising fastest among young men — extracted 2026-03-25, 91 days ago
+- [INS-260325-BC2A] Agent adoption curve will compress years of enterprise adoption into months — extracted 2026-03-25, 91 days ago
+- [INS-260325-031F] Three eras of coding agents from GUI to fully autonomous — extracted 2026-03-25, 91 days ago
+- [INS-260325-2FC1] AI tooling democratizes expert-level tasks through agent-mediated skill access — extracted 2026-03-25, 91 days ago
+- [INS-260325-8F49] Hugging Face private models outnumber public models signaling enterprise AI maturity — extracted 2026-03-25, 91 days ago
+- [INS-260325-2BDB] Durable AI value sits in the platform layer between models and applications — extracted 2026-03-25, 91 days ago
+- [INS-260325-FADB] Five-person AI companies generating nine-figure revenue are now possible — extracted 2026-03-25, 91 days ago
+- [INS-260325-BEAC] Inference is becoming a top-5 line item expense for AI companies — extracted 2026-03-25, 91 days ago
+- [INS-260325-4FF3] Value-based pricing over token-based pricing as the AI business model frontier — extracted 2026-03-25, 91 days ago
+- [INS-260325-522A] Model freedom as competitive moat for developer tools — extracted 2026-03-25, 91 days ago
+- [INS-260325-D540] Best practitioners use multiple specialized coding agents for different tasks — extracted 2026-03-25, 91 days ago
+- [INS-260325-2DCD] Coding agents excel at 0-to-1 creation but fail at long-term codebase stewardship — extracted 2026-03-25, 91 days ago
+- [INS-260325-3F86] Self-improving AI systems are already real but narrow and recursive — extracted 2026-03-25, 91 days ago
+- [INS-260325-5B28] Attention residuals let models selectively choose what to optimize across layers — extracted 2026-03-25, 91 days ago
+- [INS-260325-3B58] Enterprise AI bottleneck splits between accuracy requirements in B2B and GPU capacity in B2C — extracted 2026-03-25, 91 days ago
+- [INS-260325-6150] KV cache quantization to 3 bits with zero accuracy loss makes long-context inference 6-8x cheaper — extracted 2026-03-25, 91 days ago
+- [INS-260325-95A6] 95% of enterprise AI pilots fail not from bad models but from the learning gap — tools that cannot adapt to workflows — extracted 2026-03-25, 91 days ago
+- [INS-260325-5CA5] Shadow AI at 90% adoption reveals the real demand signal — employees know what good AI feels like and reject static enterprise tools — extracted 2026-03-25, 91 days ago
+- [INS-260325-FC07] Successful AI buyers practice distributed experimentation with vendor accountability — not centralized pilot approval — extracted 2026-03-25, 91 days ago
+- [INS-260325-060A] AI companies must re-find product-market fit every 3 months because the capability frontier keeps shifting — extracted 2026-03-25, 91 days ago
+- [INS-260325-8A61] AI features should create 3x their compute cost in value — anything less is research or marketing not product — extracted 2026-03-25, 91 days ago
+- [INS-260325-FBE5] In consumer AI momentum is the only moat — velocity of shipping and distribution beats data and technology — extracted 2026-03-25, 91 days ago
+- [INS-260325-206C] The AI Dungeon trap — variable cost engines wired into fixed subscription pricing erode margins as your best users scale — extracted 2026-03-25, 91 days ago
+- [INS-260325-D20D] The 2026 USDA dietary guidelines flipped the food pyramid and targeted ultra-processed foods as primary disease driver — extracted 2026-03-25, 91 days ago
+- [INS-260325-A61B] Only some produce needs to be organic — the dirty dozen vs clean fifteen saves money without health compromise — extracted 2026-03-25, 91 days ago
+- [INS-260325-0BD7] Ozempic causes muscle loss alongside fat loss making the weight regain worse than before — extracted 2026-03-25, 91 days ago
+- [INS-260325-B1D8] Memory not intelligence will separate winning AI companies because LLMs commoditize reasoning but not context — extracted 2026-03-25, 91 days ago
+- [INS-260325-5CB1] The AI power grid crisis is the real bottleneck — data centers are growing faster than electrical infrastructure can support — extracted 2026-03-25, 91 days ago
+- [INS-260325-311F] Genspark hit $36M ARR in 45 days by pivoting from search to agentic AI when the world changed overnight — extracted 2026-03-25, 91 days ago
+- [INS-260325-DFC7] Three startup exits by age 25 came from first-principles thinking and treating tokens as the new currency — extracted 2026-03-25, 91 days ago
+- [INS-260325-4C2E] The algorithm effect is creating population-level mental illness by replacing internal motivation with external validation loops — extracted 2026-03-25, 91 days ago
+- [INS-260325-8AB8] Most bottled water contains microplastics and contaminants making spring water or reverse osmosis the only safe options — extracted 2026-03-25, 91 days ago
+- [INS-260325-F20C] AI is a $10 trillion opportunity bigger than the industrial revolution because it replaces cognitive labor not just physical labor — extracted 2026-03-25, 91 days ago
+- [INS-260325-EF79] The physical Turing test is the next frontier — AI must prove competence in the real world not just conversation — extracted 2026-03-25, 91 days ago
+- [INS-260325-FDF5] Anthropic builds AI products bottom-up from individual user workflows not top-down from enterprise requirements — extracted 2026-03-25, 91 days ago
+- [INS-260325-73C0] AI is reinventing software business models from per-seat SaaS to outcome-based pricing — extracted 2026-03-25, 91 days ago
+- [INS-260325-17BF] Reinvent yourself every 4 months because the AI capability frontier makes your current approach obsolete that fast — extracted 2026-03-25, 91 days ago
+- [INS-260325-A08A] Consumer trends are accelerating to the point where products become uncool before they finish their production cycle — extracted 2026-03-25, 91 days ago
+- [INS-260325-B8CB] Buy Now Pay Later is creating a generation of debt-normalized consumers who cannot distinguish spending from affording — extracted 2026-03-25, 91 days ago
+- [INS-260325-5455] In AI, speed without defensibility makes you the first target — pick your moat before you ship — extracted 2026-03-25, 91 days ago
+- [INS-260325-DD43] Deployment differentiation is becoming as important as model selection — extracted 2026-03-25, 91 days ago

@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI-native services can win narrow workflows, but incumbents survive where
@@ -39,6 +40,12 @@ stance: >-
   AI can automate many services workflows, but large consulting firms retain
   value where buyers are purchasing trust, accountability, and risk transfer
   rather than only labor output.
+related:
+  - INS-260321-807B
+  - INS-260330-6EE1
+  - INS-260322-CFB1
+  - INS-260330-7168
+  - INS-260405-246B
 ---
 The panel split services into automatable workflow labor and trust-bearing engagement work. Code migration and other well-scoped repetitive work may move to software, but CIOs also hire firms like Accenture or McKinsey because someone credible is assuming risk and offering an accountable plan.
 

@@ -51,10 +51,10 @@ stance: >-
   every coding tool, machine, and cloud VM.
 related:
   - INS-260327-FE24
-  - INS-260605-D710
   - INS-260605-0C56
+  - INS-260605-D710
   - INS-260605-83DA
-  - INS-260605-3163
+  - INS-260619-90F6
 ---
 Richman's architecture puts a Command and Control daemon alongside each agent platform (Claude Code, Cursor, Codex, Gemini, Open Code). Each daemon monitors its agent's lifecycle and reports up to a shared control-plane layer; the UI then talks back to that layer. The control plane aggregates every agent regardless of whether it runs on a dev Mac, a cloud VM, or both.
 

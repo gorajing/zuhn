@@ -45,14 +45,13 @@ resolutions:
 related:
   - INS-260403-EA93
   - INS-260330-4AD5
+  - INS-260619-F7E3
   - INS-260408-C572
   - INS-260326-2410
-  - PRI-260405-49C0
   - INS-260409-45C3
   - INS-260409-DC8C
   - INS-260410-1B17
   - INS-260505-050B
-  - INS-260605-1C30
 stance: >-
   Alignment work (RLHF, interpretability) directly improves model capabilities,
   not just safety.

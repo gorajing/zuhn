@@ -44,11 +44,11 @@ stance: >-
   isolating them — produces better software than formal QA processes because it
   surfaces real usage patterns that synthetic testing cannot.
 related:
+  - INS-260619-F1E3
   - INS-260330-3A3E
   - INS-260405-6A6F
   - INS-260605-27CC
   - INS-260403-10CE
-  - INS-260605-77EB
   - INS-260423-6879
   - INS-260605-4B95
   - INS-260605-D320

@@ -54,7 +54,6 @@ stance: >-
   Immediate feedback on whether your mental model matches reality — as provided
   by running code — is more effective for learning than delayed evaluation
 related:
-  - INS-260320-4ED6
   - INS-260322-24FB
   - INS-260327-1787
   - INS-260329-4531
@@ -64,6 +63,7 @@ related:
   - PRI-260405-6867
   - PRI-260406-CBAC
   - INS-260329-3763
+  - INS-260411-8034
 evidence:
   - id: INS-260320-4ED6
     type: SUPPORTS

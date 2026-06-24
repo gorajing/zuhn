@@ -19,7 +19,8 @@ date_extracted: '2026-06-19'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     At agent scale, model choice is a unit-economics decision: reserve frontier
@@ -41,6 +42,12 @@ stance: >-
   Consumer-facing autonomous agents cannot rely on frontier models for every
   step because long-running workflows can make inference cost exceed what
   consumers are willing to pay.
+related:
+  - INS-260409-0846
+  - INS-260605-0436
+  - INS-260605-2284
+  - INS-260403-5F41
+  - PRI-260320-233B
 ---
 The speaker described monthly frontier-model bills that did not match consumer pricing once agents started running for hours as customer applications grew more complex. Their response was to use rented GPUs, open-source models, task-specific tuning, routers, and prebuilt modules so expensive intelligence is used only where it changes the outcome.
 

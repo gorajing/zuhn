@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 69 insights
+> 71 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -53,6 +53,7 @@
 - `INS-260619-90F6` [medium] The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260619-C9B1` [medium] AI app infrastructure cannot assume a fixed deployment shape; the application itself increasingly decides what compute it needs per request.
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
+- `INS-260624-4205` [medium] Async RL systems improve utilization but make model-version mismatch part of the algorithm.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
 - `INS-260605-9976` [medium] One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
@@ -61,6 +62,7 @@
 - `INS-260421-CE27` [medium] MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260605-B794` [medium] When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow.
 - `INS-260501-B1AA` [medium] iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL.
+- `INS-260624-6B2C` [medium] Numerical mismatch between serving and training kernels can destabilize large RL loops.
 - `INS-260423-FB98` [medium] Cody: I created a Postgres database on the fly using the Railway API, pumped the data in, did the analysis with Claude, pushed the outputs out, and spun the database down.
 - `INS-260605-A4F1` [medium] A unified model file format that runs unchanged on Android, iOS, macOS, Linux, Windows, web, and IoT collapses the cost of supporting many devices.
 - `INS-260605-44E5` [medium] When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.

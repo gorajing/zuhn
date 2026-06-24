@@ -47,10 +47,10 @@ stance: >-
   non-negotiable foundations of a great AI product experience.
 related:
   - INS-260322-7DD5
-  - INS-260330-83D5
   - INS-260605-D912
+  - INS-260619-F1E3
   - INS-260605-ACC9
+  - INS-260330-83D5
   - INS-260327-63B5
-  - INS-260405-88A4
 ---
 Across 40+ companies shipping AI to millions of users, the teams with the best experiences all invested in three foundational capabilities. First, resilient delivery: streams that survive disconnections — a phone dropping Wi-Fi for 5G, a page refresh, a navigate-away — so clients reconnect and pick up exactly where they left off. Second, continuity across surfaces: the conversation follows the user to a new tab or device, fully in sync including live activity. Third, live control: better than sequential request-response, letting users see what the agent is doing and steer, interrupt, or redirect it mid-flight — the way you interact with Claude Code. Treat these as a product checklist; a demo can skip all three, a real product cannot.

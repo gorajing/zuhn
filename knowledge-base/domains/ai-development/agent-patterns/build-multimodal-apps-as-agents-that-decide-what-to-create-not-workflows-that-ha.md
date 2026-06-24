@@ -52,7 +52,6 @@ stance: >-
   A reasoning model choosing which assets to generate at runtime beats a fixed
   pipeline for multimodal generation tasks.
 related:
-  - INS-260409-E080
   - INS-260403-5F41
   - INS-260505-A413
   - INS-260409-04C8
