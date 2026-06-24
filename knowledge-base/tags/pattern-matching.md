@@ -2,10 +2,10 @@
 
 - `INS-260330-52C3` LLMs' real production value is covering the long tail of unexpected inputs that killed previous-generation AI systems, even at the cost of occasional hallucination.
 - `INS-260329-057F` Destructuring and spread operators embody a design principle where systems that natively support structural decomposition handle evolving data shapes more gracefully.
-- `INS-260330-FB34` Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
-- `INS-260403-E419` Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
 - `INS-260403-4DFB` In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
 - `INS-260403-8291` Seniority in investing creates anchoring bias that filters out novel categories.
+- `INS-260330-FB34` Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
+- `INS-260403-E419` Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.

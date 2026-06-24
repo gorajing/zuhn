@@ -56,6 +56,7 @@ related:
   - INS-260403-82E0
   - INS-260403-3C6D
   - INS-260624-5ACA
+  - INS-260624-223D
 ---
 Kimi's Sarah argued that openness matters more in the agent era than in the chatbot era. Chatbots optimized a single output — the final answer. Agents, by contrast, involve multi-step workflows where accuracy compounds across tool calls, reasoning chains, and action sequences. Enterprises need fine-grained control over each step: which tools are called, how errors are handled, where to optimize latency versus accuracy.
 

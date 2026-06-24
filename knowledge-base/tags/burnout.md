@@ -1,7 +1,6 @@
 # Tag: burnout
 
 - `INS-260325-C59D` AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
-- `INS-260404-EE01` Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
@@ -27,3 +26,4 @@
 - `INS-260403-2833` Stanford research shows output per hour collapses past 50 hours, with zero marginal gain after 55.
 - `INS-260403-AA20` The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
 - `INS-260403-2F28` Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.
+- `INS-260404-EE01` Stress is not the silent killer — lack of recovery from stress is.

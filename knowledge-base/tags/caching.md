@@ -7,9 +7,9 @@
 - `INS-260605-5159` Persistent state and warm caches across iterations are mandatory because restarting work from scratch each loop multiplies latency in a high-frequency cycle.
 - `INS-260605-58DA` Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
 - `INS-260403-26D4` Smart AI companies build cost moats through hybrid retrieval layers, intelligent caching, and model routing rather than competing on raw feature parity.
-- `INS-260605-8F3D` Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260330-81A7` Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260329-C1A4` Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260330-F5A1` Store the result of expensive computations and reuse them instead of recomputing from scratch.
+- `INS-260605-8F3D` Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260329-F0DE` Pull-based CDNs auto-fetch on first request (good for regularly updated sites); push-based CDNs require manual upload (good for large, rarely changed files).
 - `INS-260329-4842` Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet.

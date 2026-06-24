@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 71 insights
+> 72 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -56,6 +56,7 @@
 - `INS-260624-4205` [medium] Async RL systems improve utilization but make model-version mismatch part of the algorithm.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
+- `INS-260624-02AB` [medium] Deterministic kernels are a stability tool, not merely a reproducibility preference.
 - `INS-260605-9976` [medium] One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260505-A639` [medium] Fusion ignition wasn't a 2022 breakthrough — it was 50 years of integrated simulation + experiment + theory finally producing the result.
 - `INS-260405-844D` [medium] A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.

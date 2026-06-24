@@ -1,8 +1,8 @@
 # Tag: interface-design
 
 - `INS-260505-F164` Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
-- `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
 - `INS-260514-F5D2` I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
+- `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
 - `INS-260326-E7BE` Humans cannot process raw probabilistic truth — AI interfaces that present unfiltered reality will be rejected, not because users are stupid but because perception is architecturally a survival renderer.
 - `INS-260605-F8EF` Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT.
 - `INS-260409-1E3C` Asking users to write their own critical-thinking prompts (like Appleton's 'Scholarly Inquisitor' Claude style) is not a solution because most users don't realize the default is fawning and can't write the prompts that would override it — defaults are what ships to 99% of users.
@@ -12,5 +12,5 @@
 - `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
 - `INS-260409-160F` The 'generic helpful assistant' text-box interface forces a lowest-common-denominator deferential personality because one system prompt has to handle every query from legal analysis to recipe advice, and fawning is the only personality that does not actively repel anyone.
 - `INS-260605-1CC3` Design for a shared canvas the human and agent both manipulate — like the Excalidraw MCP app — rather than UI the agent generates and hands over.
-- `INS-260410-71B9` Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.
 - `INS-260409-D3EE` MemPalace applies the ancient Greek orators' memory palace technique to LLM memory — conversations become rooms in wings with halls and tunnels as cross-references — giving both AI and human users a navigable map instead of a flat semantic index.
+- `INS-260410-71B9` Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.

@@ -1,5 +1,6 @@
 # Tag: streaming
 
+- `INS-260624-9A4B` Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
 - `INS-260605-48CA` Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
 - `INS-260605-204E` Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
 - `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.

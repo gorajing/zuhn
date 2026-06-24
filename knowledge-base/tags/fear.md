@@ -12,9 +12,9 @@
 - `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
 - `INS-260409-50C5` Fear of cringe is more costly than actual cringe — it blocks the first reps that mastery requires.
 - `INS-260403-0B99` Adults avoid new disciplines not from inability but from fear that replaces teenage ignorance-driven confidence.
+- `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260403-53D9` Creepiness is a specific cognitive state triggered when something is maybe-threatening but maybe-not, leaving the brain unable to commit to fight-or-flight.
 - `INS-260327-1845` Ask 'what would I do if I weren't afraid?' and notice how many of your current life choices are fear-avoidance rather than genuine pursuit.
-- `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260404-996C` Systematic graduated exposure—starting with tiny low-stakes speaking and scaling up—eliminates public speaking fear as a skill problem rather than a personality problem.
 - `INS-260404-21AA` Most people never start ambitious projects because they cannot tolerate the inevitably poor quality of early versions.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.

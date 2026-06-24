@@ -4,5 +4,7 @@
 - `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
 - `INS-260322-32E3` Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
 - `INS-260624-4205` Async RL systems improve utilization but make model-version mismatch part of the algorithm.
+- `INS-260624-02AB` Deterministic kernels are a stability tool, not merely a reproducibility preference.
 - `INS-260410-1197` LLMs can't build context, interrogate their own failures, or pick up small efficiencies over time — which is what actually makes human employees valuable, not raw intellect.
 - `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
+- `INS-260624-93AC` Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch.

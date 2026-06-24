@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 293 insights
+> 295 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -226,6 +226,7 @@
 - `INS-260624-6753` [medium] High-stakes agent findings should be checked by heterogeneous reviewers.
 - `INS-260605-6CBF` [medium] Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260605-B182` [medium] Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
+- `INS-260624-223D` [medium] The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
 - `INS-260321-9EBB` [medium] Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
 - `INS-260605-03A6` [medium] Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260501-5ACE` [medium] App building is commoditized; what's not is an agent that researches the market, validates the problem, builds a v1, and writes the business case — agent-as-founder, not agent-as-developer.
@@ -261,6 +262,7 @@
 - `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.
 - `INS-260605-800F` [medium] Onboard agents like new hires — assign a task first and let them pull the knowledge they're missing, rather than graduating them on all documentation before any work.
 - `INS-260514-33FB` [medium] Build a fleet of narrow purpose-built agents (one per channel × intent type) rather than one general agent — specialization improves output quality and per-client modifications stay isolated.
+- `INS-260624-E89C` [medium] Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
 - `INS-260605-44E2` [medium] Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.

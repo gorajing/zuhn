@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 64 insights
+> 67 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -37,6 +37,7 @@
 - `INS-260514-E627` [medium] $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted.
 - `INS-260624-A338` [medium] Security agents need executable proof paths, not just plausible reports.
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.
+- `INS-260624-EA6B` [medium] A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
 - `INS-260514-E860` [medium] OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives.
 - `INS-260619-8D68` [medium] PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260605-8664` [medium] A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
@@ -45,6 +46,7 @@
 - `INS-260530-B694` [medium] PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260405-00DE` [medium] Background noise carries exploitable signals about patient context that standard noise cancellation discards.
 - `INS-260505-4A52` [medium] Stop publishing PDFs. Publish paper agents — interactive AIs that explain themselves, apply themselves, and collaborate with other paper agents.
+- `INS-260624-A740` [medium] LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
 - `INS-260524-1A41` [medium] Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
 - `INS-260524-9100` [medium] Woosang: GNoME-style ML approximations of DFT predict stability cheaply, so you screen candidates computationally instead of running days-long simulations or experiments for each.
 - `INS-260605-4509` [medium] The browser already ships Web Speech, Animation, Audio, Canvas, WASM, and CSS as zero-dependency primitives — text-to-speech needs no inference call, it's just waiting to be used in agent experiences.
@@ -56,6 +58,7 @@
 - `INS-260505-A0F7` [medium] Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have.
 - `INS-260501-B933` [medium] The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product.
 - `INS-260624-D8C3` [medium] Speculation helps latency, but side-effectful actions need commit barriers.
+- `INS-260624-9A4B` [medium] Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
 - `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260605-2A64` [medium] Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.

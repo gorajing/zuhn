@@ -56,6 +56,7 @@ related:
   - INS-260403-E93A
   - INS-260404-5AC8
   - PRI-260324-36BF
+  - INS-260624-223D
 ---
 Notion VC's analysis argues that the next wave of AI value creation happens at the application layer—products that embed deeply into enterprise workflows, deliver measurable ROI, and meet governance standards. This contrasts with the earlier phase dominated by model-layer investments where capital flowed toward training bigger foundation models.
 

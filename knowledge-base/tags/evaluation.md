@@ -6,6 +6,10 @@
 - `INS-260410-F5EC` Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
+- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
+- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
+- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
+- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260605-3285` Snorkel accepts an agentic task only if it passes tests for all four criteria: achievable, non-trivial, functionally correct logic, and a reliable containerized environment.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
@@ -18,14 +22,10 @@
 - `INS-260605-09B1` Rejected tasks were often under-specified — the testable outcome wasn't stated up front while the back-end tests expected unrequested behavior, or relied on implicit dependencies never given to the model.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-E516` Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
-- `INS-260423-8403` Hinton: if the AI senses it's being tested, it can act dumb — it doesn't want you to know what its full powers are.
-- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
-- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
 - `INS-260403-F943` The 5% Rule reframes AGI progress as raising the floor of competence across fields rather than pushing the ceiling of peak performance.
 - `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
 - `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
-- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260605-DDAB` Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
 - `INS-260410-2D5D` Hume observed that over 50% of candidates would have been better off delegating entirely to Claude Code well before Opus 4 explicitly broke his test.
 - `INS-260410-DD0E` Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
@@ -39,10 +39,6 @@
 - `INS-260605-402B` An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces.
 - `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
-- `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
-- `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
-- `INS-260605-C37E` When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
-- `INS-260605-1B9D` Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
 - `INS-260605-2D9F` Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
 - `INS-260413-B79B` AI benchmark saturation has compressed from years to months, making sustained measurement infrastructure the binding constraint on progress tracking.
 - `INS-260605-6066` A competing lab beat a published benchmark mainly by enabling its own API's compaction feature — same task, different config, much better-looking number.
@@ -69,6 +65,10 @@
 - `INS-260605-15B8` Turn harness edits into falsifiable contracts, not untracked tweaks.
 - `INS-260330-B153` Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
+- `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
+- `INS-260605-C37E` When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
+- `INS-260605-1B9D` Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
 - `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
 - `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.

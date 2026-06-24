@@ -18,9 +18,9 @@
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
-- `INS-260403-BE93` Founders must honestly distinguish whether stealth is protecting their process or their pride — ego is the denominator that destroys stealth value.
 - `INS-260514-8FF5` YC's 'sell before you build' — fake the front-end, pitch it to real prospects, only build what someone says they'd pay for. The clearest signal you're on the right path is paid commitment, not nodding agreement.
 - `INS-260410-679B` When losing, the strategy is usually obvious — the question is whether you can stomach executing it; when winning, you have to invent the next move from a position of comfort that misleads you.
+- `INS-260403-BE93` Founders must honestly distinguish whether stealth is protecting their process or their pride — ego is the denominator that destroys stealth value.
 - `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
 - `INS-260323-4AF5` Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.

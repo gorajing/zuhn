@@ -33,7 +33,7 @@
 - `INS-260327-4CB3` Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.
 - `INS-260327-63B5` Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
-- `INS-260605-48CA` Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
 - `INS-260605-4AB0` Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260603-1BC0` Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.
+- `INS-260605-48CA` Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.

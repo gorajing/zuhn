@@ -56,6 +56,7 @@ related:
   - INS-260605-726C
   - INS-260410-E73E
   - INS-260424-F8BB
+  - INS-260624-A740
 evidence:
   - id: INS-260321-D370
     type: SUPPORTS

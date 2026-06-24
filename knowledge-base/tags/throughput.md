@@ -1,5 +1,6 @@
 # Tag: throughput
 
+- `INS-260624-02AB` Deterministic kernels are a stability tool, not merely a reproducibility preference.
 - `INS-260605-E831` When batched requests have uneven token counts and are all padded to the maximum length, the model burns compute on empty padding tokens — variable-length flash attention avoids padding so no compute is wasted.
 - `INS-260605-FE37` Diffusion does multiple forward passes over the same data, so it hits the compute ceiling earlier in large batches — lower latency per user but lower total throughput and higher cost.
 - `INS-260505-8E0B` It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'

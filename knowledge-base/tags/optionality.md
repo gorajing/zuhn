@@ -1,5 +1,8 @@
 # Tag: optionality
 
+- `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
+- `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
+- `INS-260404-7F24` Optionality embedded in fund structure creates asymmetric upside that rigid allocation models cannot capture.
 - `INS-260403-D7C4` When every possible life path is visible simultaneously, choosing any single path feels like losing all the others — so people choose nothing.
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
@@ -11,9 +14,6 @@
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260412-3951` Scientists playing with magnets had no idea they were building the foundation for modern technology — strange matter research may follow the same path.
 - `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
-- `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
-- `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
-- `INS-260404-7F24` Optionality embedded in fund structure creates asymmetric upside that rigid allocation models cannot capture.
 - `INS-260410-DAB6` Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260326-841D` Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
 - `INS-260330-9751` Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
@@ -21,6 +21,6 @@
 - `INS-260412-B172` Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
 - `INS-260403-144A` Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - `INS-260403-0406` Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
-- `INS-260403-81D4` You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 - `INS-260403-B374` A high valuation forces founders to hit unrealistic targets and removes the ability to call a strong outcome a win.
+- `INS-260403-81D4` You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 - `INS-260403-F4C9` In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.

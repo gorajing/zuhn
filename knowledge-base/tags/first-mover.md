@@ -2,10 +2,11 @@
 
 - `INS-260404-3714` Early AI adoption creates compounding advantages that late movers struggle to close.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
-- `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
 - `INS-260327-FA38` The Crusader States, despite being tiny and surrounded by enemies, survived for nearly 200 years because they fortified first and forced attackers to bear the enormous cost of siege warfare.
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
+- `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
+- `INS-260412-9BFD` Real Graphene's CEO noted many companies claim to use graphene but actually use graphite, creating a trust gap that authentic producers can exploit as a differentiator.
 - `INS-260330-2064` A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260410-C8C2` Nvidia's first-mover advantage became a liability when Microsoft standardized on triangles and Moore's law collapsed memory costs — their quadrilateral-based, memory-constrained design was obsolete before it shipped.
@@ -20,7 +21,6 @@
 - `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260403-C949` Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260412-3A50` Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
-- `INS-260412-9BFD` Real Graphene's CEO noted many companies claim to use graphene but actually use graphite, creating a trust gap that authentic producers can exploit as a differentiator.
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - `INS-260403-6F22` Building at the boundary of what AI models can do today positions you to immediately capitalize when the next generation arrives.
 - `INS-260323-9F61` Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.

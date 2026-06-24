@@ -59,11 +59,11 @@ stance: >-
   and the first thousands of training steps will be wasted squashing logits
   rather than learning.
 related:
+  - INS-260624-93AC
   - INS-260410-DA81
   - INS-260410-6FA3
   - INS-260329-818A
   - INS-260410-ED34
-  - INS-260330-2154
   - INS-260605-5CCC
 ---
 Karpathy demonstrates that a character-level model with 27 classes records an initial loss of 27, when the analytically expected value is -log(1/27) ≈ 3.29. The hockey-stick loss curve early in training is the network frantically un-doing its own confidently-wrong initial logits, not learning anything useful. The fix is mechanical: initialize the final layer's weights small (e.g., multiply by 0.01) and its biases to zero, so initial logits cluster near zero and the softmax produces a roughly uniform distribution.

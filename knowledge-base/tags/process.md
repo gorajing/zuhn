@@ -1,10 +1,10 @@
 # Tag: process
 
+- `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
 - `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.
-- `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
-- `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
 - `INS-260404-875B` Apply a sentence-level filter: if you wouldn't say it to a friend, rewrite it until you would.
+- `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
@@ -19,5 +19,5 @@
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260605-3B06` Sprint planning, standups, refinement, and retros are coordination tax that agentic workflows make redundant — cut them.
-- `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
+- `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.

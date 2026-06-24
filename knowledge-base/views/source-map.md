@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-24 | 2867 sources
+Generated on 2026-06-24 | 2868 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -182,6 +182,7 @@ Generated on 2026-06-24 | 2867 sources
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
 | Home-Cooked Software and Barefoot Developers | blog | 8 | 2026-04-10 |

@@ -3,9 +3,9 @@
 - `INS-260409-EA56` Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.
 - `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-6845` An n8n workflow pulls YouTube links from Google Sheets, extracts transcripts via Dumpling AI, transforms them into newsletter drafts with GPT-4o, and logs results back to Sheets.
+- `INS-260410-641D` An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260323-7263` Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.
 - `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.
-- `INS-260410-641D` An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260329-9DEE` Foundational technology tutorials generate perpetual traffic because new beginners constantly enter the field while the fundamentals rarely change.
 - `INS-260329-4CFD` Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.
 - `INS-260329-3332` A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.

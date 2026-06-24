@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-24 | 5512 actionable insights
+Generated on 2026-06-24 | 5518 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -248,6 +248,8 @@ Generated on 2026-06-24 | 5512 actionable insights
 - [INS-260619-F7E3] Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
 - [INS-260624-B6EA] Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - [INS-260624-6753] High-stakes agent findings should be checked by heterogeneous reviewers.
+- [INS-260624-223D] The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
+- [INS-260624-E89C] Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -447,6 +449,9 @@ Generated on 2026-06-24 | 5512 actionable insights
 - [INS-260624-A338] Security agents need executable proof paths, not just plausible reports.
 - [INS-260624-E878] Security agents need curated vulnerability knowledge and code-analysis tools in context.
 - [INS-260624-D8C3] Speculation helps latency, but side-effectful actions need commit barriers.
+- [INS-260624-EA6B] A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
+- [INS-260624-A740] LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
+- [INS-260624-9A4B] Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -872,6 +877,7 @@ Generated on 2026-06-24 | 5512 actionable insights
 - [INS-260605-DC7C] Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
 - [INS-260605-50FB] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - [INS-260605-7A70] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
+- [INS-260624-5865] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
