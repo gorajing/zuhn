@@ -1,13 +1,6 @@
 # Tag: verification
 
 - `INS-260322-F891` AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
-- `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
-- `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
-- `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
-- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
-- `INS-260505-3608` Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
-- `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
-- `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260410-E977` Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260605-124F` Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
@@ -21,6 +14,13 @@
 - `INS-260410-545A` Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
 - `INS-260605-E516` Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
+- `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
+- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260505-3608` Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
+- `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
+- `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
+- `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
+- `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
@@ -33,7 +33,7 @@
 - `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260325-FDA9` Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.
 - `INS-260605-C223` A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
-- `INS-260403-5953` A simple verification checklist — Crunchbase history, WHOIS lookup, reference calls with portfolio founders — blocks most fundraising fraud.
 - `INS-260410-81DC` Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
+- `INS-260403-5953` A simple verification checklist — Crunchbase history, WHOIS lookup, reference calls with portfolio founders — blocks most fundraising fraud.

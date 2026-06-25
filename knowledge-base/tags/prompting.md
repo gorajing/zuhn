@@ -1,14 +1,14 @@
 # Tag: prompting
 
 - `INS-260409-52CE` If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
-- `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
-- `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260501-C59A` Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt.
 - `INS-260410-BBEA` Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
 - `INS-260410-E4C4` 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260605-6134` The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
 - `INS-260410-F259` System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
+- `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
+- `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260320-E872` Be as specific as possible about desired results — vague prompts produce vague implementations.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.

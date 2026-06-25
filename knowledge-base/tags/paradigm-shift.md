@@ -3,8 +3,8 @@
 - `INS-260329-14AE` ChatGPT reached 1M users in 5 days versus Facebook's 2 years and Instagram's 2 years, signaling unprecedented adoption velocity.
 - `INS-260321-9EBB` Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
 - `INS-260501-C59A` Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt.
-- `INS-260605-61D9` The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
 - `INS-260505-7EF5` Telescopes opened the cosmos, microscopes opened cells; AI opens patterns in high-dimensional data that human minds cannot grasp.
+- `INS-260605-61D9` The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
 - `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260410-09B4` Curve-fitting AI can keep adding epicycles to Ptolemaic models but can't make the global swap to a Copernican frame, because locally the switch looks worse.
 - `INS-260325-2832` AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed.
@@ -12,12 +12,7 @@
 - `INS-260325-F21D` Digital computers abstract reality into zeros and ones, but molecules and diseases are not zeros and ones — quantum computers work with electrons and atoms directly, making them native to simulating biological reality.
 - `INS-260410-DD35` From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
 - `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
-- `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage.
-- `INS-260403-A862` Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
-- `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.
-- `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.
-- `INS-260412-0C54` Phage therapy was known for a century but ignored while antibiotics worked; only the superbug crisis is forcing serious investment.
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260330-C366` Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention.
 - `INS-260403-AFC4` Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
@@ -27,3 +22,8 @@
 - `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
 - `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
+- `INS-260403-A862` Incumbents' existing architecture and customer base anchor them to old threat models when the battleground shifts.
+- `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.
+- `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.
+- `INS-260412-0C54` Phage therapy was known for a century but ignored while antibiotics worked; only the superbug crisis is forcing serious investment.
+- `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.

@@ -3,8 +3,6 @@
 - `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
 - `INS-260605-FE67` Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260410-B30D` Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
-- `INS-260404-70AE` Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
-- `INS-260403-A60E` A founding vision reframed as a hypothesis inherits the scientific requirement of testability, forcing founders to specify conditions under which they'd abandon the idea.
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-1801` Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
@@ -24,3 +22,5 @@
 - `INS-260323-518A` The giant impact hypothesis became the leading Moon origin theory not because it was proven, but because it was 'the least bad' option — a pattern where scientific and business consensus defaults to the best available story even when it has known fatal flaws.
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
 - `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
+- `INS-260404-70AE` Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
+- `INS-260403-A60E` A founding vision reframed as a hypothesis inherits the scientific requirement of testability, forcing founders to specify conditions under which they'd abandon the idea.

@@ -54,11 +54,11 @@ related:
   - INS-260323-A64F
   - INS-260323-8F70
   - INS-260327-E75F
-  - INS-260330-C761
   - INS-260330-A59D
   - INS-260330-5F21
   - INS-260328-711E
   - INS-260323-47D8
+  - INS-260410-9D16
 ---
 Brian Hie's central argument for generative biology: the same hypothesis that makes language models work — that the world has left its imprint on text via human selection of useful representations — applies to DNA via evolutionary selection. Evolution has 'written functions and phenotypes back into DNA sequence' through ~4 billion years of selection. So a model trained on next-base prediction across genomes implicitly learns functional biology, even without explicit annotations.
 

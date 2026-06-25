@@ -1,4 +1,4 @@
 # Tag: food-system
 
-- `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
 - `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
+- `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.

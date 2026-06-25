@@ -1,10 +1,6 @@
 # Tag: claude-code
 
 - `INS-260605-82BD` Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
-- `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
-- `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
-- `INS-260403-656F` Claude Code automation with parallel agents can handle overnight inbox triage, scheduling, and task planning previously done by virtual assistants.
-- `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
@@ -12,6 +8,10 @@
 - `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
 - `INS-260405-2BB0` The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
+- `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
+- `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
+- `INS-260403-656F` Claude Code automation with parallel agents can handle overnight inbox triage, scheduling, and task planning previously done by virtual assistants.
+- `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260605-237C` An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260514-84FC` Claude Code's name is wrong. It's a terminal agent. Vercel reduced SDRs from 10 to 1 using it. Jason Lemkin's team went from 8 to 1.25.
 - `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.

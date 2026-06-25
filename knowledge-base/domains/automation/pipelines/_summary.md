@@ -1,10 +1,11 @@
 # Topic: pipelines
 
-> 12 insights
+> 13 insights
 
 - `INS-260519-7744` [high] Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
 - `INS-260519-9732` [high] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
 - `INS-260519-746D` [high] Kyle Norton (Owner): giving every rep a Claude skill is not the answer — one specialist takes the good ideas, builds them to production quality, and deploys one version to everyone.
+- `INS-260625-D26E` [high] The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence.
 - `INS-260514-999B` [high] The GTM engineer's real job is integrating fragmented tools with engineering discipline — applying DRY, abstraction, and modular design to workflows so they don't collapse as the org grows.
 - `INS-260522-51E7` [high] YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
 - `INS-260514-A02E` [high] Carve repeated GTM logic into 'function tables' in Clay (f.cleanFullName, f.validateEmail) — callers write a row to the function table, wait for the LLM, then look up the cleaned output, so one prompt update propagates to all callers.

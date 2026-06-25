@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 67 insights
+> 68 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
@@ -19,6 +19,7 @@
 - `INS-260514-5698` [high] Insilico Medicine: drug from initial conception to clinical trial in half the conventional time. Real measurement, not handwave.
 - `INS-260514-315F` [high] Extract reference designs as JSON (fonts, colors, layout, elements), mutate values, regenerate with a new product image — creates a reusable design template that propagates style across products.
 - `INS-260605-0748` [high] On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
+- `INS-260625-6345` [high] The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 - `INS-260405-227C` [high] InterPositive's core insight: train one model per project on that project's own data to preserve style and director intent.
 - `INS-260514-96FE` [high] A personal AI agent accessible via Telegram with your genome + FDA pharmacogenomics data can photo-identify drugs and recommend YOUR specific dose. Manuel Corpas's 'Robotary' caught a warfarin error that would have caused him to bleed to death.
 - `INS-260412-F46C` [high] UE5's ~80% photorealism threshold has already enabled amateur filmmakers to produce cinema-quality content using a real-time game engine.

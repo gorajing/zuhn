@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-06-25 | Total insights: 12259 | Sources: 2725
+> Last rebuilt: 2026-06-25 | Total insights: 12267 | Sources: 2726
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,14 +8,14 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 40 | 2844 | 137 | 2026-06-25 |
-| automation | 7 | 76 | 2 | 2026-06-25 |
-| health | 6 | 494 | 44 | 2026-05-14 |
+| ai-development | 40 | 2847 | 137 | 2026-06-25 |
+| automation | 7 | 77 | 2 | 2026-06-25 |
+| health | 6 | 497 | 44 | 2026-06-25 |
 | investing | 14 | 1421 | 110 | 2026-06-05 |
 | music-production | 6 | 49 | 3 | 2026-05-14 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
 | psychology | 24 | 2533 | 185 | 2026-06-25 |
-| startups | 55 | 4798 | 356 | 2026-06-25 |
+| startups | 55 | 4799 | 356 | 2026-06-25 |
 | video-production | 4 | 42 | 5 | 2026-06-05 |
 
 ## Mental Models
@@ -38,9 +38,7 @@ _No flags._
 - `INS-260625-7DC7` Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one. _(2026-06-25)_
 - `INS-260625-D295` DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage. _(2026-06-25)_
 - `INS-260625-84DB` Ship under a recognized standard license like Apache 2.0 rather than a custom one, because custom terms — however friendly — trigger month-long legal procurement that blocks adoption. _(2026-06-25)_
-- `INS-260625-9096` Post-training results depend on the harness the agent sees during training, so harness choices are load-bearing system parameters. _(2026-06-25)_
-- `INS-260625-CBC7` A higher in-distribution agent score can hide learned dependence on obsolete tool syntax. _(2026-06-25)_
-- `INS-260625-FACB` Changing tool names, parameters, or grouping can be as consequential as changing task inputs. _(2026-06-25)_
+- `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first. _(2026-06-25)_
 - `INS-260625-FE3E` Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead. _(2026-06-25)_
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability. _(2026-06-25)_
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more. _(2026-06-25)_
@@ -57,6 +55,10 @@ _No flags._
 - `INS-260625-25BF` High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it. _(2026-06-25)_
 - `INS-260625-CC7C` A syntactically valid SQL query that returns zero rows is a silent failure, so Studio always runs queries and checks for data before hardcoding them into a widget. _(2026-06-25)_
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains. _(2026-06-25)_
+- `INS-260625-9096` Post-training results depend on the harness the agent sees during training, so harness choices are load-bearing system parameters. _(2026-06-25)_
+- `INS-260625-CBC7` A higher in-distribution agent score can hide learned dependence on obsolete tool syntax. _(2026-06-25)_
+- `INS-260625-FACB` Changing tool names, parameters, or grouping can be as consequential as changing task inputs. _(2026-06-25)_
+- `INS-260625-6345` The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules. _(2026-06-25)_
 - `INS-260625-2E48` A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies. _(2026-06-25)_
 - `INS-260625-05FF` Per Jeff Dean, even a trillion-token context window needs stage retrieval — 'you don't need a trillion at once, you need the right million' — so retrieval becomes an iterative search-reason-fetch loop, not a one-shot vector call. _(2026-06-25)_
 - `INS-260625-DCE4` Most sandboxes start from a full VM and add security around it; the safer model starts from nothing — only JavaScript, no fetch, no env vars — and grants explicit capabilities. _(2026-06-25)_
@@ -74,15 +76,22 @@ _No flags._
 - `INS-260625-7365` Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code. _(2026-06-25)_
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it. _(2026-06-25)_
 - `INS-260625-B4AC` Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks. _(2026-06-25)_
-- `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. _(2026-06-25)_
-- `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context. _(2026-06-25)_
-- `INS-260625-F573` Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs. _(2026-06-25)_
 - `INS-260625-89B3` Because a 100-engineer team mostly opens the same few codebases, Cursor uses Merkle (crypto hash) trees to detect near-identical indexes, copies the shared embedding data, and only re-chunks/re-embeds the changed files. _(2026-06-25)_
 - `INS-260625-E02C` The hard part of AI development is reconciling CUDA versions, PyTorch compatibility, and which GPU SKUs actually work — not training or building the model. _(2026-06-25)_
 - `INS-260625-02C7` Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met. _(2026-06-25)_
 - `INS-260625-E7CD` Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request. _(2026-06-25)_
 - `INS-260625-5BF4` Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect. _(2026-06-25)_
 - `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer. _(2026-06-25)_
+- `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. _(2026-06-25)_
+- `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context. _(2026-06-25)_
+- `INS-260625-F573` Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs. _(2026-06-25)_
+- `INS-260625-E500` Even after sharding all parameters with FSDP across 8 GPUs, long-context training still OOMs because attention activations — not weights — dominate memory. _(2026-06-25)_
+- `INS-260625-57C1` Distribution-based distillation (match where the teacher ends up) currently yields better quality than trajectory-based distillation (mimic each denoising step), and hybrids of the two give the best stability-quality balance. _(2026-06-25)_
+- `INS-260625-5045` Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient. _(2026-06-25)_
+- `INS-260625-429B` You don't need million-token contexts to benefit from memory analysis — understanding the budget lets you reinvest freed memory into faster training. _(2026-06-25)_
+- `INS-260625-84D0` If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward. _(2026-06-25)_
+- `INS-260625-D772` Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences. _(2026-06-25)_
+- `INS-260625-3768` RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows. _(2026-06-25)_
 - `INS-260625-279D` High-token-volume agentic tasks reframe inference cost from per-token API billing to fixed energy and utilization, making owned hardware economical past a volume threshold. _(2026-06-25)_
 - `INS-260625-E1CB` Don't run 10,000 pages through an LLM to extract fields—have the LLM write a parser once, then execute the script, cutting roughly 99% of tokens while gaining determinism. _(2026-06-25)_
 - `INS-260625-8E1D` Use cheaper reserved pods (or a low serverless worker count) while experimenting; pay the serverless premium only when variable load demands auto-scaling across hundreds of GPUs. _(2026-06-25)_
@@ -91,27 +100,21 @@ _No flags._
 - `INS-260625-1C2B` Don't pay for a top model to click buttons — when the environment does the masking and unblocking, a small model is enough. _(2026-06-25)_
 - `INS-260625-2906` Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model. _(2026-06-25)_
 - `INS-260625-96AA` Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session. _(2026-06-25)_
-- `INS-260625-E500` Even after sharding all parameters with FSDP across 8 GPUs, long-context training still OOMs because attention activations — not weights — dominate memory. _(2026-06-25)_
-- `INS-260625-57C1` Distribution-based distillation (match where the teacher ends up) currently yields better quality than trajectory-based distillation (mimic each denoising step), and hybrids of the two give the best stability-quality balance. _(2026-06-25)_
-- `INS-260625-5045` Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient. _(2026-06-25)_
-- `INS-260625-429B` You don't need million-token contexts to benefit from memory analysis — understanding the budget lets you reinvest freed memory into faster training. _(2026-06-25)_
-- `INS-260625-84D0` If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward. _(2026-06-25)_
-- `INS-260625-D772` Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences. _(2026-06-25)_
-- `INS-260625-3768` RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows. _(2026-06-25)_
 - `INS-260625-E464` Unlike LLM distillation (which shrinks parameters), diffusion 'step distillation' keeps the same parameter count but trains a student to match quality in 4–8 (or even 1) denoising steps instead of 50, yielding 10x–200x speedups. _(2026-06-25)_
 - `INS-260625-A02C` The diffusion serving ecosystem borrows concepts from mature LLM serving, but they must be re-derived: KV cache has no direct analog (no per-token generation), and quantization helps less because diffusion is attention-heavy. _(2026-06-25)_
 - `INS-260625-7530` Gemini 3.1 Flash Live runs sound-to-sound with intelligence inside the audio model, unlike a cascade that routes audio through text and a separate LLM. _(2026-06-25)_
 - `INS-260625-8792` Their U-Pipe optimization exploits that a single head-group maxes out the GPU, so heads can be computed in sequential chunks that reuse one small buffer instead of one giant allocation. _(2026-06-25)_
 - `INS-260625-ED79` MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation. _(2026-06-25)_
+- `INS-260625-7CD5` Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around. _(2026-06-25)_
 - `INS-260625-91CA` Fix web foundations (semantic HTML, accessibility, performance) first; that work doubles as agent-readiness and should precede adopting WebMCP. _(2026-06-25)_
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight. _(2026-06-25)_
 - `INS-260625-8333` Gemini ships ~30 base voices that you 'direct' with a scene and a performance note, rather than a huge filterable library of fixed voices. _(2026-06-25)_
 - `INS-260625-4DE2` Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser. _(2026-06-25)_
-- `INS-260625-7CD5` Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around. _(2026-06-25)_
 - `INS-260625-BD36` Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results. _(2026-06-25)_
 - `INS-260625-A53F` A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift. _(2026-06-25)_
 - `INS-260625-79ED` Reject both the objective-metrics camp and the pure-taste camp—pair every benchmark score with a real-world vibe check. _(2026-06-25)_
 - `INS-260625-FC2D` Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most. _(2026-06-25)_
+- `INS-260625-6482` Proteomic studies identified alanine racemase as one compound's target, connecting the AI-nominated hit to bacterial cell-wall biology. _(2026-06-25)_
 - `INS-260625-0A08` Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward. _(2026-06-25)_
 - `INS-260625-DAE9` Do not optimize the model, scaffold, and eval suite as independent tracks. _(2026-06-25)_
 - `INS-260625-BBB1` Add attributes to an HTML form and the browser auto-generates the JSON schema; for complex multi-step UI, manually register custom tools with hand-written schemas and execute blocks. _(2026-06-25)_
@@ -135,13 +138,18 @@ _No flags._
 - `INS-260625-8A55` Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run. _(2026-06-25)_
 - `INS-260625-2563` Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there. _(2026-06-25)_
 - `INS-260625-019F` Code no longer documents agent behavior at runtime — only telemetry (traces/spans) does, so observability must be instrumentation-first. _(2026-06-25)_
+- `INS-260625-D26E` The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence. _(2026-06-25)_
 - `INS-260625-9721` Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills. _(2026-06-25)_
 - `INS-260625-D2E3` Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift. _(2026-06-25)_
-- `INS-260625-E7F2` RunPod's founders turned the spare GPUs from a failed crypto-mining venture into an AI cloud by offering free compute on Reddit in exchange for feedback — and were revenue-generating from the very beginning. _(2026-06-25)_
-- `INS-260625-13E1` Resumable streaming, multi-tab/multi-device sync, and real-time collaboration should come out of the box from the platform — not force every app team to become distributed-systems engineers. _(2026-06-25)_
-- `INS-260625-0750` Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product. _(2026-06-25)_
+- `INS-260625-0F13` The 83-of-213 validation hit rate is important because the source also reports structural dissimilarity, MDR potency, selectivity, and low resistance frequency for the lead compounds. _(2026-06-25)_
+- `INS-260625-8CE3` The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing. _(2026-06-25)_
+- `INS-260625-2224` The source frames selective antibacterial compounds against N. gonorrhoeae as a needed tool for a pathogen with resistance to recommended antibiotics. _(2026-06-25)_
 - `INS-260625-E4EF` Remote-controlling running agents from your phone means walking away from the desk no longer means stopping work. _(2026-06-25)_
 - `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do. _(2026-06-25)_
+- `INS-260625-E7F2` RunPod's founders turned the spare GPUs from a failed crypto-mining venture into an AI cloud by offering free compute on Reddit in exchange for feedback — and were revenue-generating from the very beginning. _(2026-06-25)_
+- `INS-260625-13E1` Resumable streaming, multi-tab/multi-device sync, and real-time collaboration should come out of the box from the platform — not force every app team to become distributed-systems engineers. _(2026-06-25)_
+- `INS-260625-8D0D` The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone. _(2026-06-25)_
+- `INS-260625-0750` Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product. _(2026-06-25)_
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially. _(2026-06-24)_
 - `INS-260624-6753` High-stakes agent findings should be checked by heterogeneous reviewers. _(2026-06-24)_
 - `INS-260624-223D` The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery. _(2026-06-24)_
@@ -164,9 +172,9 @@ _No flags._
 - `INS-260624-93AC` Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch. _(2026-06-24)_
 - `INS-260624-5ACA` Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them. _(2026-06-24)_
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification. _(2026-06-24)_
-- `INS-260619-B1A8` An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work. _(2026-06-19)_
 - `INS-260619-F7E3` Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior. _(2026-06-19)_
 - `INS-260619-6E08` Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention. _(2026-06-19)_
+- `INS-260619-B1A8` An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work. _(2026-06-19)_
 - `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy. _(2026-06-19)_
 - `INS-260619-0770` The durable layer for video AI is a corpus memory with grounded primitives and citations back to source footage. _(2026-06-19)_
 - `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage. _(2026-06-19)_

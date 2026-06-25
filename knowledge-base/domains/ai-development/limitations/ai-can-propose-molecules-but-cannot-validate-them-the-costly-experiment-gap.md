@@ -55,7 +55,9 @@ related:
   - INS-260325-5A2F
   - PRI-260323-FA42
   - PRI-260411-FB73
+  - INS-260625-8CE3
   - PRI-260406-9780
-  - INS-260330-E282
+  - INS-260625-6345
+  - INS-260625-8D0D
 ---
 The AI Index 2026 Chapter 5 articulates this as a recurring theme across scientific domains: experimental validation remains expensive and time-consuming, and scientists are unlikely to invest in testing AI-generated hypotheses without sufficient reason to believe they will yield findings. In drug discovery, for example, AI systems can propose novel candidate molecules at scale but clinical trials to determine whether those molecules work remain a costly, multiyear process. The gap between what AI can propose and what scientists can feasibly test is a recurring theme. The Adaptyv Nipah Binder challenge makes this concrete: of 1,026 designs tested across multiple AI methods, only 99 proteins were confirmed to bind Nipah virus and none neutralized it. The specialized method (Mosaic) with expert tuning reached 88.89% binding versus 9.65% overall — meaning AI proposal is necessary but insufficient without expert curation and physical validation. Strategy implication: bets on 'AI-driven drug discovery' that assume AI proposal is the bottleneck will underperform; bets that invest in high-throughput wet-lab infrastructure as the complementary good will capture the value. The wet-lab is the moat.

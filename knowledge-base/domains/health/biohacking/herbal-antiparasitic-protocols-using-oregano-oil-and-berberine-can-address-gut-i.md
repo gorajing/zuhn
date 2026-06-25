@@ -44,5 +44,6 @@ related:
   - PRI-260328-97E0
   - INS-260327-E8D3
   - INS-260327-A2BB
+  - INS-260625-2224
 ---
 Botanical antiparasitic protocols combining oregano oil, berberine, wormwood, and black walnut hull can effectively address gut parasites and SIBO without the microbiome damage of pharmaceutical antibiotics

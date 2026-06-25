@@ -1,10 +1,10 @@
 # Tag: production
 
-- `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260605-A03E` Evals and observability are the same scoring problem — evals just know the inputs ahead of time and run in batch, while observability scores unknown inputs in real time.
+- `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260605-311E` 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon.
 - `INS-260624-5865` A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
+- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260410-E47B` The Battle of the Atlantic turned not on brilliant tactics but on the moment US shipyards started building merchantmen faster than U-boats could sink them.
 - `INS-260327-D1B7` The Entente won WW1 primarily because its combined industrial output (including American manufacturing) vastly exceeded the Central Powers', allowing it to absorb losses and maintain operations indefinitely.
-- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.

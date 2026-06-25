@@ -5,5 +5,5 @@
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260410-89D0` If train and val loss are basically equal, your model is too small — scale it up, don't regularize.
 - `INS-260625-2563` Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
-- `INS-260323-D6C7` After Fama-French opened the door to factor research, academics published 316+ distinct factors by 2016 — creating a 'factor zoo' where most factors are likely data-mined noise, and only the robust few (market, size, value, profitability, investment) survive real-world transaction costs.
 - `INS-260403-E681` Successful strategies get applied past their point of diminishing returns because practitioners mistake the strategy for the goal.
+- `INS-260323-D6C7` After Fama-French opened the door to factor research, academics published 316+ distinct factors by 2016 — creating a 'factor zoo' where most factors are likely data-mined noise, and only the robust few (market, size, value, profitability, investment) survive real-world transaction costs.

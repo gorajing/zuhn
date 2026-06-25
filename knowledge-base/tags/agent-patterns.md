@@ -1,9 +1,8 @@
 # Tag: agent-patterns
 
-- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
-- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
 - `INS-260605-124F` Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
+- `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260625-0492` Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
 - `INS-260605-55A6` Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
@@ -12,6 +11,8 @@
 - `INS-260605-F700` Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - `INS-260423-72D0` Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
 - `INS-260605-320E` The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
+- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260605-1787` You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - `INS-260327-33FA` On the HumanEval coding benchmark, GPT-3.5 with an agentic workflow outperformed GPT-4 zero-shot, demonstrating that iteration beats raw model capability.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.

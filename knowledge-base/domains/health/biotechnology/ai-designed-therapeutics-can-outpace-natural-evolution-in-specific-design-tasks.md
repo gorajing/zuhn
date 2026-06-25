@@ -51,8 +51,8 @@ related:
   - INS-260412-56B8
   - INS-260412-A38B
   - INS-260412-0B6B
+  - INS-260625-2224
   - INS-260325-BF44
-  - INS-260412-B25A
 ---
 Brian Hie's experimental validation of EVO-1: pooled 16 AI-generated functional φX174 phage genome variants into a cocktail and tested against bacterial resistance evolution. The AI-generated cocktail overcame resistance significantly faster than the original phage alone or a comparable cocktail of natural phages. This is one of the cleanest demonstrations that AI design can outperform evolutionary search in targeted timeframes — evolution explores broadly over geological time, but AI can explore specific therapeutic spaces at design time.
 

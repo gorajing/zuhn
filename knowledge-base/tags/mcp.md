@@ -1,7 +1,6 @@
 # Tag: mcp
 
 - `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
-- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
 - `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
@@ -20,6 +19,7 @@
 - `INS-260605-52E4` Local tools and remote tools should not share the same credential assumptions.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260605-B136` Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
+- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260605-1821` MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
 - `INS-260605-0A68` MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
 - `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.

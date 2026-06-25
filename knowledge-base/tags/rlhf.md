@@ -1,5 +1,6 @@
 # Tag: rlhf
 
+- `INS-260605-1A91` Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260323-DA4A` Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
 - `INS-260411-6495` Alignment policies that censor harmful outputs inevitably also suppress some legitimate knowledge, creating epistemic blind spots by design.
 - `INS-260410-FBAA` Jailbreaks work because refusal training generalizes over surface form (English, plain text) rather than semantic intent, so any new encoding — base64, roleplay, adversarial suffixes, noise patterns in images — opens a gap.
@@ -10,7 +11,6 @@
 - `INS-260409-1FD3` RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260323-BEF0` Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience claims (Blake Lemoine) teach the public to dismiss all sentience signals, exactly when systems are getting closer to actual awareness.
 - `INS-260403-F4ED` Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
-- `INS-260605-1A91` Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
 - `INS-260411-59F7` Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - `INS-260409-C158` Frontier model capabilities are built one at a time by human annotators, and the annotation workforce keeps growing — it's not a one-time cost that decays.

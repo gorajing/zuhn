@@ -1,13 +1,13 @@
 # Domain: ai-development
 
-> 2844 insights across 40 topics
+> 2847 insights across 40 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | adoption | 68 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
-| agent-patterns | 311 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
+| agent-patterns | 312 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
 | agents | 57 | What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime. |
 | ai-agents | 73 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
@@ -15,7 +15,7 @@
 | ai-capabilities | 174 | Ben Gilbert: a lot more AI tasks will start feeling synchronous instead of async — there's such a big difference in computing applications between something that feels instant versus not, and we can't yet predict what that unlocks. |
 | ai-market-dynamics | 179 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 106 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
-| applications | 67 | Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK). |
+| applications | 68 | Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK). |
 | architecture | 89 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 12 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
 | claude-code | 71 | Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer. |
@@ -41,7 +41,7 @@
 | product-strategy | 118 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 16 | Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works. |
 | prompting | 20 | Codify what the agent must never do, not every step it should take, and let it reason at runtime. |
-| research-methodology | 118 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
+| research-methodology | 119 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
 | system-building | 281 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 82 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |

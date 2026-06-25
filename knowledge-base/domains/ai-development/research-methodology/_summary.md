@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 118 insights
+> 119 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -36,6 +36,7 @@
 - `INS-260505-1606` [high] Models on biological data quietly learn the biases of the experiments — interpretability catches that.
 - `INS-260410-B30D` [high] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
 - `INS-260605-8168` [high] Manual 'vibe' inspection compounds two biases—your individual preference and the specific handful of prompts you tried—so it must be scaled across many people and samples.
+- `INS-260625-6482` [high] Proteomic studies identified alanine racemase as one compound's target, connecting the AI-nominated hit to bacterial cell-wall biology.
 - `INS-260505-483B` [high] Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
 - `INS-260605-77E5` [high] Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - `INS-260514-1277` [high] Note quality, not wiki tech, is the primary bottleneck — fix your note-taking discipline BEFORE investing in the wiki stack, because the wiki amplifies what's already there.

@@ -1,10 +1,12 @@
 # Topic: biotechnology
 
-> 23 insights
+> 26 insights
 
+- `INS-260625-0F13` [high] The 83-of-213 validation hit rate is important because the source also reports structural dissimilarity, MDR potency, selectivity, and low resistance frequency for the lead compounds.
 - `INS-260505-D52C` [high] AI-generated phage cocktail beats natural phage cocktail at overcoming bacterial resistance.
 - `INS-260405-0AE7` [high] IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
 - `INS-260505-AA8C` [high] AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
+- `INS-260625-8CE3` [high] The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing.
 - `INS-260410-55B5` [high] Physical DNA/protein libraries of 10^17 variants barcoded and screened in an afternoon constitute a 100% precise 'natural computer' that bypasses the assumption stack that AlphaFold-style simulations depend on.
 - `INS-260505-0200` [high] Liver cell + neuron have the same DNA but use it differently — variant effects are tissue-context-specific.
 - `INS-260412-4441` [high] CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
@@ -19,6 +21,7 @@
 - `INS-260409-2663` [medium] Personalization requires sense-and-respond control over dose, not just a patient-specific molecule.
 - `INS-260412-0B6B` [medium] Phages have co-evolved with bacteria for billions of years, making them self-updating weapons that continuously improve — unlike static antibiotics.
 - `INS-260412-8361` [medium] Giant viruses may be one of evolution's primary mechanisms for transferring genetic innovations between unrelated organisms.
+- `INS-260625-2224` [medium] The source frames selective antibacterial compounds against N. gonorrhoeae as a needed tool for a pathogen with resistance to recommended antibiotics.
 - `INS-260409-BDAC` [medium] Ovarian cancer is a fit-first indication: invasive implantation is already acceptable and local delivery has clear advantages over systemic.
 - `INS-260409-CFD0` [medium] Patient-derived iPSC organoids let you run a personalized phase-1 trial in a dish before taking the drug yourself.
 - `INS-260410-69C2` [medium] Evolution already solved body-wide targeted delivery — it's called the immune system; viral vectors and LNPs are interim workarounds that will lose to engineered T/B cells that live inside the patient for years and release medicines only when local conditions demand it.

@@ -1,6 +1,6 @@
 # Topic: health-innovation
 
-> 16 insights
+> 17 insights
 
 - `INS-260403-DC6C` [high] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
 - `INS-260404-880A` [high] J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
@@ -12,6 +12,7 @@
 - `INS-260403-E492` [high] Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can.
 - `INS-260405-85B5` [high] EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
 - `INS-260402-DCC5` [high] FDA-cleared therapeutic video games match drug efficacy for ADHD with side effects limited to headaches and frustration.
+- `INS-260625-8D0D` [medium] The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone.
 - `INS-260404-86D3` [medium] Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
 - `INS-260409-EE73` [medium] An in-body drug factory removes 'did the patient take it' from the failure tree of chronic therapies.
 - `INS-260322-D059` [medium] Emerging research in metabolic psychiatry shows that conditions like depression, epilepsy, and even schizophrenia often have metabolic root causes — and interventions like ketogenic diets, gut health, and inflammation reduction can outperform traditional talk therapy and SSRIs.

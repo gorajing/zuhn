@@ -4,6 +4,6 @@
 - `INS-260412-2327` Free apps like FakeApp achieved results comparable to Hollywood's 18-month, six-figure VFX pipelines in 30 minutes on consumer hardware.
 - `INS-260603-46AE` Joslyn (Meta): brands used to rely on polished campaigns from a small set of agency-produced content; now a 1-2% team generates far more creatives in-house with AI — 'you don't need to hire a creative agency anymore.'
 - `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
-- `INS-260403-34A6` Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies.
 - `INS-260403-D543` The pattern where dramatic cost reduction leads to massive volume increase and new use cases — seen in steel, power, and computing — is now happening to startups themselves.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
+- `INS-260403-34A6` Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies.

@@ -1,5 +1,6 @@
 # Tag: metabolism
 
+- `INS-260330-A33F` Fat leaves the body as CO2 through exhalation; any exercise that increases respiration rate equally drives fat loss.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260404-EFA8` The light-dependent reactions prove that virtually all life on Earth is fusion-powered, with photosynthesis as the critical conversion step from stellar to chemical energy.
 - `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
@@ -11,4 +12,3 @@
 - `INS-260330-E218` Fructose irreversibly inhibits three mitochondrial enzymes (AMP kinase, ACAD-L, CPT1), cumulatively degrading cellular energy production over years.
 - `INS-260330-1078` High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss.
 - `INS-260327-C8EB` Humans convert only 1% of fructose to fat via de novo lipogenesis, and harmful fructose effects in studies are driven by endotoxin from isolated fructose feeding, not fructose itself.
-- `INS-260330-A33F` Fat leaves the body as CO2 through exhalation; any exercise that increases respiration rate equally drives fat loss.

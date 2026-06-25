@@ -1,7 +1,5 @@
 # Tag: agent-architecture
 
-- `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
-- `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260410-315B` E-commerce long-tail SEO creates persistent URL slugs from agent queries, turning the public web into an unintentional scratchpad shared across every agent run.
 - `INS-260327-DC4C` AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
 - `INS-260501-B7BC` We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
@@ -28,6 +26,8 @@
 - `INS-260605-C536` Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not.
 - `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
+- `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
+- `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.

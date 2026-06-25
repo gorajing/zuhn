@@ -52,6 +52,8 @@ related:
   - INS-260330-3DC8
   - INS-260410-91C0
   - INS-260505-D52C
+  - INS-260625-6482
+  - INS-260625-2224
 ---
 Phages succeed precisely because each one targets a single bacterial species with extreme precision, contrasted with antibiotics which indiscriminately kill all bacteria including beneficial ones. This mirrors the startup dynamic where hyper-focused products beat generalist incumbents within their niche.
 

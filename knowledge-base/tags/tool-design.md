@@ -1,6 +1,5 @@
 # Tag: tool-design
 
-- `INS-260514-1D60` Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260605-5C58` 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
 - `INS-260410-9F17` If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
@@ -21,6 +20,7 @@
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
 - `INS-260605-2A69` Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
+- `INS-260514-1D60` Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260409-7C48` Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
@@ -30,7 +30,7 @@
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
 - `INS-260501-4646` Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
+- `INS-260403-8ECB` Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.
 - `INS-260403-F100` The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 - `INS-260409-626E` Logo was a beautiful programming language for children but no professional differential geometer uses it — because Papert wasn't himself a differential geometer. Mathematica works partially because Wolfram has genuine research interests in mathematics and physics. Good tools emerge as byproducts of original work on serious problems.
 - `INS-260404-24FB` Great strategic tools do one thing well and integrate with other specialized tools, rather than trying to cover everything.
-- `INS-260403-8ECB` Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.

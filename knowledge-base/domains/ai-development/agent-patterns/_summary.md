@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 311 insights
+> 312 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -17,6 +17,7 @@
 - `INS-260605-4C0A` [high] Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
 - `INS-260321-8414` [high] The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
 - `INS-260327-DC4C` [high] AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
+- `INS-260625-00A6` [high] The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260327-E0B0` [high] AI capabilities improve so fast that security teams who only react to known threats will always be behind; Irregular pioneers proactive research by testing model capabilities before they become attack vectors.
 - `INS-260625-FE3E` [high] Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead.
 - `INS-260605-74E8` [high] An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.

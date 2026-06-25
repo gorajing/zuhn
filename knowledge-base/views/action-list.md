@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5595 actionable insights
+Generated on 2026-06-25 | 5598 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -266,6 +266,7 @@ Generated on 2026-06-25 | 5595 actionable insights
 - [INS-260625-CC7C] A syntactically valid SQL query that returns zero rows is a silent failure, so Studio always runs queries and checks for data before hardcoding them into a widget.
 - [INS-260625-E9A9] A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - [INS-260625-814D] Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
+- [INS-260625-00A6] The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -471,6 +472,7 @@ Generated on 2026-06-25 | 5595 actionable insights
 - [INS-260624-EA6B] A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
 - [INS-260624-A740] LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
 - [INS-260624-9A4B] Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
+- [INS-260625-6345] The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -1242,6 +1244,7 @@ Generated on 2026-06-25 | 5595 actionable insights
 - [INS-260522-51E7] YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
 - [INS-260619-16EF] The promise of managed workflows is collapsing queue-plus-worker architecture into observable, retryable task runs with preserved state.
 - [INS-260624-5ACA] Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them.
+- [INS-260625-D26E] The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence.
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.

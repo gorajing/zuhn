@@ -61,7 +61,6 @@ related:
   - INS-260412-8CB2
   - INS-260412-B1F7
   - INS-260412-66D8
-  - INS-260505-D52C
 ---
 The immune system operates in escalating tiers: macrophages handle most infections alone, neutrophils are called as backup, and only when both fail does the expensive adaptive immune system (dendritic cells, T cells, B cells, antibodies) activate. Each escalation takes more time but brings more specialized and powerful capabilities. The first layer resolves ~90% of threats without ever needing the costly second layer.
 
