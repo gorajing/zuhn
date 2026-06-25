@@ -52,7 +52,6 @@ related:
   - INS-260530-D34F
   - INS-260625-CBC7
   - INS-260605-E693
-  - INS-260605-82BC
 ---
 In the sales pipeline demo, an email arrives, the LLM decides whether it's relevant, associates it to a case session, and the agents do many tool calls under the hood to produce a draft reply. The design principle Luebken emphasizes: 'let users stay in email, let them stay in the inbox and drafts.' The dashboard is just an admin interface — the user's real workflow never leaves their inbox, and they receive a freely editable draft.
 

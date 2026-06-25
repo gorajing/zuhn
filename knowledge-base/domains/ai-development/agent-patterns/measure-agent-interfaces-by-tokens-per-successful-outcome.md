@@ -57,8 +57,8 @@ related:
   - PRI-260406-DE8A
   - PRI-260406-818D
   - INS-260403-2E0F
+  - INS-260625-279D
   - INS-260605-C436
-  - INS-260405-BA7F
 ---
 Hablich frames tokens-per-successful-outcome as the 'fuel efficiency' of an agent interface, with two critical caveats. First, it must be tokens per *successful* outcome, not per outcome: fuel efficiency is worthless if you can't reach the destination, so effectiveness (did the agent complete the entire user journey?) must be measured alongside efficiency. A cheaper interface that fails the task is not cheaper.
 

@@ -49,8 +49,8 @@ stance: >-
 related:
   - INS-260403-7A48
   - INS-260603-DFA6
+  - INS-260625-3768
   - PRI-260426-890F
   - INS-260327-5D5F
-  - INS-260329-3177
 ---
 Traditional ML adds value by adding training data, engineering features, and A/B testing model changes — a pipeline that ends in a deployed model. Generative AI collapses that pipeline: the labs have already trained and deployed the LLM behind an endpoint. The one part teams still own is evaluating the model's behavior inside their own product. Because fine-tuning is rare, the way to change application behavior is to change the inputs — prompts and context. This reframes 'improving the agent' from a data/feature-engineering task into a context-engineering task, which opens the work to people who understand the problem domain rather than only those who understand model internals.

@@ -55,7 +55,6 @@ related:
   - INS-260404-420F
   - INS-260605-6C0C
   - INS-260505-A413
-  - INS-260605-05F4
 ---
 Speed adds a third axis to model selection alongside intelligence and cost. Chieng's mental model: reserve the slow, expensive, intelligent model for what genuinely needs it — generating the plan, the long-horizon reasoning — and delegate the mechanical execution of each plan step to fast, cheap executor agents. A large model writes the plan and spawns sub-agents; the fast model executes the checklist one item at a time.
 

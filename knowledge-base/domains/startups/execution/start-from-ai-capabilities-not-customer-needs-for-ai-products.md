@@ -47,7 +47,6 @@ stance: >-
   customer needs is wrong—you should start with the capabilities of the
   technology and find where they create previously impossible experiences.
 related:
-  - INS-260322-68FE
   - INS-260321-4B38
   - INS-260323-9393
   - INS-260325-DFC7
@@ -57,6 +56,7 @@ related:
   - INS-260327-B12E
   - INS-260424-123B
   - INS-260501-FA6B
+  - INS-260330-255F
 evidence:
   - id: INS-260322-68FE
     type: SUPPORTS

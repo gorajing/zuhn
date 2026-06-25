@@ -42,10 +42,10 @@ stance: >-
 related:
   - INS-260410-E233
   - INS-260605-DCE5
-  - INS-260605-A3F4
   - INS-260605-B44B
   - INS-260403-F400
   - INS-260403-F664
   - INS-260403-7D7A
+  - INS-260625-B4AC
 ---
 OpenAI recommends using prompt templates to manage complexity before splitting into multiple agents or maintaining many separate prompts. Variables can encode policy, routine, or customer-specific context while preserving one shared instruction surface. That makes regression testing and updates less fragmented.

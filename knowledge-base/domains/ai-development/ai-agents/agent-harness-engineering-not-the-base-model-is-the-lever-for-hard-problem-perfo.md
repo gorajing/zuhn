@@ -42,7 +42,6 @@ stance: >-
   a specialized expert per sub-problem, and memory — determines agentic
   performance on hard problems more than swapping the underlying model.
 related:
-  - INS-260410-8ECF
   - INS-260410-A9CE
   - INS-260514-4FDC
   - INS-260514-2E48
@@ -52,5 +51,6 @@ related:
   - INS-260524-B783
   - PRI-260426-890F
   - INS-260603-6B3D
+  - INS-260605-0AD6
 ---
 Woosang repeatedly stresses 'harness engineering': applying production-system discipline to wrap models in orchestration (tool calls, verification, reflection cycles), with memory (retrieval/ranking/history) and early thinking/planning as the highest-leverage steps. He observes that adding a strong model to a good harness moved benchmark performance substantially. Reinforces the KB pattern (Jongmin, the YC company-brain talk) that the scaffolding/context around the model — not the model alone — is where capability is won.

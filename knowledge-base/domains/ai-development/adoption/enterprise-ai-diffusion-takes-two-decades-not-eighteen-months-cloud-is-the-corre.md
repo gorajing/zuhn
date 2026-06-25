@@ -63,5 +63,6 @@ related:
   - PRI-260328-43F1
   - PRI-260406-6AE6
   - INS-260501-3585
+  - INS-260625-A02C
 ---
 The current AI adoption discourse anchors on the perceived speed of consumer-AI product adoption (ChatGPT hitting 100M users in 2 months) and extrapolates to enterprise adoption timelines. This extrapolation is structurally wrong because enterprise adoption is constrained by factors that do not apply to consumer adoption: regulatory compliance cycles (SEC, HIPAA, SOX), data-state fragmentation (decades of accumulated tools, legacy systems, shadow IT), change-management capacity (enterprises can absorb one major transformation per function every 2-3 years), and liability review (board-level risk appetite is slow to adjust). Cloud adoption faced these same constraints starting around 2005 and did not saturate until 2020-2025 — a 15-20 year diffusion curve. AI will follow a similar curve. The strategic implication for AI companies: investment and hiring plans assuming 18-month revenue ramps into enterprise are systematically miscalibrated. Plans assuming 5-10-year ramps with continued organic expansion from OPEX migration are closer to the actual shape of the market. The category will be much larger than current expectations; it will just take longer to materialize, which rewards patient capital and punishes aggressive short-term revenue modeling.

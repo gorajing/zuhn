@@ -53,5 +53,6 @@ related:
   - INS-260530-E697
   - INS-260501-FDF0
   - INS-260320-D972
+  - INS-260625-9721
 ---
 Rather than designing skills in advance, the presenters recommend working normally for a week and then asking the model to analyze that week's conversations — saved locally as JSONL logs — and propose which repeated workflows should be split out into skills. The strongest signal is affective: the nagging tasks you feel the most cognitive resistance to doing every week (Zack's example: context-switching to file Linear tickets from Slack asks) are exactly the ones to encode. This inverts the pre-LLM habit of treating dev session context as disposable; now the conversation history, especially the parts that failed or were frustrating, is the richest raw material for a skill-creator to mine into a bespoke tool. Combined with eval-against-a-no-skill-baseline (run the task with and without the skill, fail if the skill doesn't beat baseline), it makes skills evolving organizational units that measurably improve over time instead of static markdown written once.

@@ -47,8 +47,8 @@ related:
   - INS-260605-E16A
   - INS-260603-6B3D
   - INS-260410-9B0E
+  - INS-260625-A5E7
   - INS-260605-2D9B
-  - INS-260605-B5A2
 ---
 The notes describe an interactive workflow where the agent overlaps reasoning and tool calls with streaming user input: finding an email, preparing calendar invites, then adjusting when the user adds another participant. The core runtime object is not a single plan but a task manager holding speculative branches.
 

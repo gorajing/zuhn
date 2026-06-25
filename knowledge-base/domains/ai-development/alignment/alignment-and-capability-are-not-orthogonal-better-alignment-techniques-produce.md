@@ -43,11 +43,11 @@ resolutions:
     alignment is not a tax on progress but often an accelerant. Teams that treat
     safety as separate from core product development miss compounding gains.
 related:
+  - INS-260625-3768
   - INS-260403-EA93
   - INS-260330-4AD5
   - INS-260619-F7E3
   - INS-260408-C572
-  - INS-260326-2410
   - INS-260409-45C3
   - INS-260409-DC8C
   - INS-260410-1B17

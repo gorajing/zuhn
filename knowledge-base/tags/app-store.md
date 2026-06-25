@@ -1,6 +1,7 @@
 # Tag: app-store
 
 - `INS-260327-1652` Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
+- `INS-260625-ED79` MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation.
 - `INS-260605-743D` Because one MCP App codebase runs across every compliant host (ChatGPT, Claude, VS Code, LibreChat), the standard is less a rendering protocol than an app-distribution channel to a 1B+ user audience.
 - `INS-260330-F512` Unlike physical store generics, digital platform owners control data, visibility algorithms, and distribution rules — creating advantages far beyond what traditional private-label brands enjoy.
 - `INS-260329-92E9` App Store rejections are often reviewer-dependent, not rule-dependent — sometimes just replying 'that's not true' gets the app approved.

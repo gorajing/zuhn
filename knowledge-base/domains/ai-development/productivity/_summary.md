@@ -1,6 +1,6 @@
 # Topic: productivity
 
-> 15 insights
+> 16 insights
 
 - `INS-260424-50EE` [high] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - `INS-260409-3AEE` [high] Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day.
@@ -8,6 +8,7 @@
 - `INS-260605-89B0` [high] AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
 - `INS-260619-4ADA` [high] The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
 - `INS-260605-3899` [high] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
+- `INS-260625-7CD5` [high] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - `INS-260410-4CE7` [high] For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
 - `INS-260605-2C96` [medium] Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.
 - `INS-260530-E697` [medium] Abhije: 'I have given it my best work samples — here are some of the best memos that I wrote, pick up my learning style.' The agent is now invoked as a skill that produces first-draft PRDs in the author's voice, removing the cold-start friction.

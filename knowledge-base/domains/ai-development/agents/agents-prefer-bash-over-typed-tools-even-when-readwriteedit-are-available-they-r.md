@@ -62,8 +62,8 @@ stance: >-
 related:
   - INS-260605-0C88
   - INS-260409-3C6A
+  - INS-260625-3768
   - INS-260605-F512
   - INS-260602-EA48
-  - INS-260605-5C58
 ---
 Max's empirical observation from running 10-20 Pi sessions daily: even with read/write/edit as first-class typed tools, agents tend to perform those operations through bash anyway. Grep, find, ls are off by default in Pi 'because nobody uses them' — because the agent does the equivalent through bash. 'Agent's choice,' as Max puts it. This is a non-trivial design implication: the work to build elaborate typed-tool APIs (with type-checked arguments, structured returns, fine-grained permissions per tool) is significantly wasted effort if the model will just route around them via bash to get the same outcome. The harness design implications: (1) make bash safe — hook-based filtering, custom permissions, sandboxing if needed — rather than trying to constrain the agent by removing bash; (2) prefer composable bash conventions over typed tool APIs; (3) accept that the model has an emergent preference for the most flexible primitive available, and design with that grain rather than against it. The deeper observation: agents trained on internet code have seen millions of bash one-liners and very few examples of bespoke typed-tool APIs, so bash is the agent's native language. This effect may diminish as models are trained more on agent-tool-calling traces, but the current observation is structural. Implication for builders: ask yourself before adding a typed tool 'would the agent choose this over bash?' — if the answer is unclear, don't build the tool.

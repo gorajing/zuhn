@@ -56,10 +56,10 @@ related:
   - INS-260605-1821
   - INS-260605-4860
   - INS-260403-A851
+  - INS-260625-2E86
   - INS-260409-96B0
   - INS-260329-6A60
-  - INS-260402-C301
-  - INS-260514-3100
+  - INS-260625-5BF4
 ---
 The closing argument reframes the whole talk: 'this isn't some protocol, this is a new way to distribute applications.' A single MCP App codebase runs on every host — 'write your app once and it will run everywhere.' They size the prize against history: the internet took ~13 years to reach the 800M weekly users ChatGPT hit (now ~1B), and the potential audience is claimed at ~160x the iPhone install base when the App Store launched. Decades-old branding and user journeys port in without a per-host rewrite.
 

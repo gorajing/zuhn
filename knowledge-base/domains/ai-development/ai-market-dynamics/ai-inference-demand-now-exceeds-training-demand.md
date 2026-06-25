@@ -50,7 +50,6 @@ stance: >-
   inference compute demand equal to or greater than training demand.
 related:
   - INS-260325-E62D
-  - INS-260323-7A11
   - INS-260424-0554
   - INS-260405-567D
   - INS-260423-6172

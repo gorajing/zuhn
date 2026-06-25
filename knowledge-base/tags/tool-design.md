@@ -30,7 +30,7 @@
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
 - `INS-260501-4646` Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
-- `INS-260403-8ECB` Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.
 - `INS-260403-F100` The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 - `INS-260409-626E` Logo was a beautiful programming language for children but no professional differential geometer uses it — because Papert wasn't himself a differential geometer. Mathematica works partially because Wolfram has genuine research interests in mathematics and physics. Good tools emerge as byproducts of original work on serious problems.
 - `INS-260404-24FB` Great strategic tools do one thing well and integrate with other specialized tools, rather than trying to cover everything.
+- `INS-260403-8ECB` Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.

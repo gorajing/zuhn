@@ -55,7 +55,6 @@ stance: >-
   Enterprises should fund AI as a portfolio of bets seeking power-law winners
   rather than justifying each project with a fixed, predictable business case.
 related:
-  - INS-260330-DF31
   - INS-260403-7E7C
   - INS-260403-910E
   - INS-260403-5F41

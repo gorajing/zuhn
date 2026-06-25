@@ -63,13 +63,12 @@ stance: >-
   environment they were calibrated for changes — understanding this reframes how
   to address them.
 related:
-  - INS-260330-CA97
   - INS-260330-D304
   - INS-260403-B5E2
   - INS-260404-B7B6
+  - INS-260330-CA97
   - INS-260405-02EE
   - INS-260330-48F2
-  - INS-260405-18F3
   - INS-260325-1709
 evidence:
   - id: INS-260404-B7B6

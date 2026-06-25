@@ -53,7 +53,6 @@ related:
   - INS-260404-FF0B
   - INS-260404-6A15
   - PRI-260406-4EBD
-  - INS-260624-4205
 ---
 Business model innovation is difficult partly because it requires configuring many interdependent elements simultaneously — a combinatorial design problem. Pattern libraries reduce this complexity by providing pre-validated configurations that can be studied, adapted, and combined.
 

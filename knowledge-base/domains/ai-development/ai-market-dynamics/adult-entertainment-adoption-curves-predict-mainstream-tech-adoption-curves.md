@@ -48,12 +48,12 @@ related:
   - INS-260322-0812
   - INS-260323-C4EE
   - INS-260322-BBED
-  - INS-260325-175B
   - INS-260322-D7B1
   - INS-260323-6908
   - INS-260329-22A8
   - INS-260403-1085
   - INS-260403-699A
   - INS-260404-96CF
+  - INS-260409-5CC6
 ---
 The pattern has held across multiple tech waves (VHS, internet video, payment processing, streaming) because adult entertainment combines high willingness-to-pay, low regulatory friction on early experiments, and operators who optimize aggressively on economics. Current signals: armies of AI avatar personas, chatbot interactions trained on large conversation corpora, and fully-generated content at scale. The generalizable insight: if you want to forecast which AI workflows will work in mainstream content, SaaS, or entertainment, watch what's already profitable in adult entertainment today. This is ethically uncomfortable but empirically useful as a diffusion signal.

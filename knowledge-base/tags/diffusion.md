@@ -8,6 +8,10 @@
 - `INS-260403-36F4` AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access.
 - `INS-260410-59F4` Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
 - `INS-260501-2759` Wider diffusion = more vendors willing to comply, not more places for resistance to take root.
+- `INS-260625-02C7` Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.
+- `INS-260625-57C1` Distribution-based distillation (match where the teacher ends up) currently yields better quality than trajectory-based distillation (mimic each denoising step), and hybrids of the two give the best stability-quality balance.
+- `INS-260625-E464` Unlike LLM distillation (which shrinks parameters), diffusion 'step distillation' keeps the same parameter count but trains a student to match quality in 4–8 (or even 1) denoising steps instead of 50, yielding 10x–200x speedups.
+- `INS-260625-A02C` The diffusion serving ecosystem borrows concepts from mature LLM serving, but they must be re-derived: KV cache has no direct analog (no per-token generation), and quantization helps less because diffusion is attention-heavy.
 - `INS-260410-B47A` A decade ago virtually every major AI figure worked at Google — Ilya Sutskever, Hinton, Krizhevsky, Dario Amodei, Karpathy, Shazeer, Hassabis, Suleyman — yet the commercialization of their work mostly happened at OpenAI, Anthropic, and Tesla after they left.
 
 

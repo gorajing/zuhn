@@ -53,7 +53,6 @@ stance: >-
   are the reliable design.
 related:
   - INS-260329-5BB0
-  - INS-260409-C758
   - INS-260605-8789
   - INS-260605-EC51
   - PRI-260406-FA5B

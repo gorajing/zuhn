@@ -46,10 +46,9 @@ stance: >-
   unconstrained tool loops.
 related:
   - INS-260410-9D86
-  - INS-260409-0DB0
   - INS-260605-7CEB
-  - INS-260605-0E19
   - INS-260327-A9D5
   - INS-260605-E693
+  - INS-260409-0DB0
 ---
 HumanLayer reports that many production systems marketed as agents are not very agentic; they are mostly deterministic code with LLM steps placed where language understanding or judgment matters. This reframes agents away from 'prompt plus tools, loop until done' and toward ordinary software architecture with semantic components.

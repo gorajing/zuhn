@@ -52,7 +52,6 @@ stance: >-
   with techniques like making supervised fine-tuning a tool-call the model
   invokes during task-solving — rather than requiring a whole new architecture.
 related:
-  - INS-260330-3D7B
   - INS-260329-9AE9
   - INS-260408-3691
   - INS-260409-2B5F

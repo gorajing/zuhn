@@ -55,6 +55,7 @@ related:
   - INS-260325-FDA9
   - INS-260505-5A06
   - INS-260423-FB98
+  - INS-260625-C6F4
   - INS-260410-AA40
 ---
 The decisive move in the crack wasn't the hypothesis but the verification. Knowing the input data and the observed result for the TS command, Claude inferred the checksum was a simple one-byte additive offset — then validated that inference by running more values through it and confirming they matched. Starkov highlights this 'closed-loop iteration' as the thing that distinguished a real solution from a plausible guess. The transferable pattern: when an agent reverse-engineers any opaque system (a protocol, an API's hidden behavior, a data format), the deliverable is not the hypothesis but the hypothesis plus a self-administered test that would have failed if the hypothesis were wrong. Brute-forceable spaces — the one-byte checksum, the two-letter command set — make this empirical loop cheap, which is precisely why they fall.

@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 115 insights
+> 118 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -25,9 +25,11 @@
 - `INS-260514-BB1C` [high] Smaller team, fewer GPUs, no top chips, but they released the weights AND the paper AND the GPU kernels. And they beat the closed labs on Putnam.
 - `INS-260410-AC0B` [high] DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
 - `INS-260505-03F6` [high] Engineering is happy with weird-looking optimal antennas; mathematicians need to understand the proof's journey. AI deployment should match the field.
+- `INS-260625-79ED` [high] Reject both the objective-metrics camp and the pure-taste camp—pair every benchmark score with a real-world vibe check.
 - `INS-260605-365A` [high] Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
 - `INS-260514-791A` [high] Narrow AI: PhD data scientist required. Generative AI agents: any scientist can use them like spoken language.
 - `INS-260605-E54A` [high] Accepted tasks produced 'cleaner failures' — logic errors and incomplete-task failures from true difficulty — which give models useful hill-climbing signal, unlike degenerate environmental failures that no model could solve.
+- `INS-260625-FC2D` [high] Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - `INS-260413-C040` [high] MSAPairformer (111M params) beat prior SOTA on ProteinGym; GPN-Star (200M) beat a 40B genomics model; AlphaFold 3 (370M) still leads FoldBench despite SimpleFold's 3B challenger — data beats scale in biology.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - `INS-260412-B805` [high] Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
@@ -70,6 +72,7 @@
 - `INS-260505-3CA0` [high] Frontier labs are going closed; universities differentiate by being radically open with everything they produce.
 - `INS-260505-97AD` [high] Universities can be patient AND fast. Right now they're patient AND bureaucratic — the second is killing the first.
 - `INS-260505-C5D8` [high] Universities can't out-spend Meta on compute. They can out-open-source Meta on weights, and out-patient Meta on long-horizon research.
+- `INS-260625-0A08` [high] Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward.
 - `INS-260514-AC1D` [high] GPT is a really good autocomplete. The cake isn't the autocomplete — it's the internal representations the model built while learning to autocomplete.
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260505-9723` [medium] Train the model, see what it doesn't know, do targeted experiments to fill those holes.

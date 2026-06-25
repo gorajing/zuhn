@@ -48,10 +48,10 @@ stance: >-
   pay two-thirds the one-on-one rate while the provider serves 8x the volume.
 related:
   - INS-260329-BC36
+  - INS-260625-2E48
   - INS-260329-191D
   - INS-260403-F4C7
   - INS-260605-0113
-  - INS-260330-45FF
 evidence:
   - id: INS-260322-31F8
     type: TRANSFERS_TO

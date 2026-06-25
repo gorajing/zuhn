@@ -50,6 +50,6 @@ related:
   - INS-260409-7C62
   - INS-260410-19DE
   - INS-260402-28BA
-  - INS-260405-214D
+  - INS-260625-99AE
 ---
 In the Karpathy setup, a question about AI agents flows: bolt/vault -> wiki/master-index.md -> wiki/ai-agents/index.md -> specific article. The agent does not wander, does not grep broadly, and does not need many tool calls because the directory itself is the retrieval algorithm. This is the inverse of vector RAG, which reconstructs structure at query time from embeddings. When the human pre-encodes structure via folders and index.md files, the agent pays a one-time navigation cost of O(depth) rather than an O(corpus) similarity search, and the path is transparent and debuggable by the human.

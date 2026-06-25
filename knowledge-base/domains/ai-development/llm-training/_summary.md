@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 82 insights
+> 85 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
@@ -54,6 +54,7 @@
 - `INS-260403-B73D` [high] RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.
 - `INS-260410-7933` [high] LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
 - `INS-260329-7F02` [high] On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
+- `INS-260625-D772` [high] Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences.
 - `INS-260322-CCE8` [high] Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.
 - `INS-260605-278E` [high] Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260329-5F96` [high] Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
@@ -70,6 +71,7 @@
 - `INS-260323-2651` [medium] Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260410-AA93` [medium] Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
 - `INS-260501-EBDD` [medium] Don't back-prop through all 16 recursion steps; do them, then back-prop through just the last one — fixed-point iteration in latent space.
+- `INS-260625-57C1` [medium] Distribution-based distillation (match where the teacher ends up) currently yields better quality than trajectory-based distillation (mimic each denoising step), and hybrids of the two give the best stability-quality balance.
 - `INS-260403-F4C7` [medium] Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 - `INS-260605-C627` [medium] You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260501-8B78` [medium] GPT-5 is reportedly trained on ~150T tokens; over its 2-month life it generates ~200T tokens — pretraining ≈ lifetime inference, by design.
@@ -84,3 +86,4 @@
 - `INS-260605-3860` [medium] The cues that reveal a speaker is uncomfortable or challenging are present in speech-to-speech input but get ignored if the model was trained on audio-fied factual Q&A that never needed them.
 - `INS-260409-8D86` [medium] The 'scale to AGI' strategy depends on Hinton and Sutskever's hypothesis that brains are statistical engines — a hypothesis neuroscientists actively dispute.
 - `INS-260323-9BAB` [medium] Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
+- `INS-260625-3768` [medium] RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.

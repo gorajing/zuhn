@@ -53,16 +53,16 @@ stance: >-
   (e.g. reliability at scale) is unusable, so all constraints must be met at
   once.
 related:
-  - INS-260321-2482
   - INS-260322-191F
-  - INS-260410-7ED2
   - INS-260410-AB4A
-  - INS-260501-9465
   - INS-260530-ADED
+  - INS-260321-2482
   - INS-260410-9D86
   - INS-260605-5D5E
   - PRI-260411-78CD
+  - INS-260501-9465
   - INS-260605-AE0D
+  - INS-260605-4B95
 ---
 Bhargava frames voice agents as an 'AND problem': you have to solve every requirement at the same time. Conversations are real-time — humans respond to cues in ~300ms, and an agent taking over 500ms feels off while one to two seconds makes people hang up. The agent must also be smart enough to handle ambiguous, complex workflows and reliably call tools. The voice itself must sound natural — right language, accent, name pronunciation, and emotion. And it must stay reliable not just in a one-person demo but across 100, 1,000, or 10,000 concurrent calls.
 

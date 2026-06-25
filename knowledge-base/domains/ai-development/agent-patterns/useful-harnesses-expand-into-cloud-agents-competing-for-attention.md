@@ -49,7 +49,6 @@ related:
   - INS-260514-4FDC
   - INS-260619-B1A8
   - INS-260625-93FC
-  - INS-260625-84D0
 ---
 The speaker argued that harnesses naturally expand: they get put in a box, subscribed to external events, connected to Slack/Discord/SMS, and asked to wake up or report back. Background coding agents already show this pattern, with some organizations reporting meaningful shares of pull requests from background agents.
 

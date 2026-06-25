@@ -61,9 +61,9 @@ related:
   - INS-260410-315B
   - INS-260410-8ECF
   - INS-260605-5DE9
+  - INS-260625-2439
   - INS-260605-0C56
   - INS-260605-6F34
-  - INS-260410-19DE
   - INS-260605-D2C7
 ---
 Today's in-browser agents navigate by taking screenshots and guessing, or by traversing the DOM — both compute-intensive, the former needing vision models and the latter eating tokens chewing through XML to find the next URL. WebMCP sidesteps both by letting a page register its own functions and links as agent-callable tools via navigator.modelContext.registerTool. The agent calls the same function the page already exposes (e.g. 'next page' grabs the rel=next link and navigates), no pixel-guessing or HTML-parsing required.

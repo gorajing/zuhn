@@ -56,7 +56,7 @@ related:
   - PRI-260411-9CB1
   - INS-260605-E06C
   - INS-260410-85AD
-  - INS-260605-C122
+  - INS-260625-7A1A
 ---
 Backend APIs accumulate implicit meaning: a 'delete item by ID' endpoint feels self-explanatory to the engineer who spent years on the product API and needs no docstring. But an agent never sees the code, the history, or the conventions — it sees only function schemas, docstrings, and tool definitions. What is obvious to a veteran is opaque to the agent.
 

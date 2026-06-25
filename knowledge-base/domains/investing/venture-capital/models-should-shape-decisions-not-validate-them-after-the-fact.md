@@ -46,14 +46,15 @@ stance: >-
   the decision process to be effective.
 related:
   - INS-260605-44E2
+  - INS-260625-E9A9
   - INS-260330-DF2C
   - INS-260410-095B
-  - INS-260403-5F41
-  - INS-260605-8E69
+  - INS-260625-3768
   - INS-260403-8ECB
   - INS-260405-B361
   - INS-260410-4067
   - INS-260605-E7AD
+  - INS-260625-CF6B
 ---
 Most investors and founders reach for models after a decision is emotionally made — to validate assumptions or patch errors. This inverts the entire purpose of modeling. A model used post-decision becomes a confirmation bias amplifier: you'll tweak inputs until the output matches your gut.
 

@@ -68,7 +68,7 @@ related:
   - PRI-260323-DA09
   - PRI-260328-D893
   - PRI-260328-7A4D
-  - PRI-260323-A33E
+  - INS-260625-25BF
   - INS-260501-E5AC
 ---
 GPT-1 had 120M parameters, GPT-2 had 1.5B, GPT-3 had 175B, GPT-4 is rumored ~1.7T. The architecture — Transformer with attention — did not change meaningfully across these generations. What changed was training compute and parameter count, and the output quality did not scale linearly. Sub-10B-parameter models 'would just hallucinate or be nonsensical,' but at larger scales an emergent property appeared: the models began to reason about the world surprisingly well, with no architectural change.

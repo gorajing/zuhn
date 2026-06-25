@@ -49,10 +49,10 @@ resolutions:
     what worked, and what didn't are more valuable than the current best prompt.
 related:
   - INS-260505-D440
+  - INS-260625-F573
   - INS-260501-FDF0
   - INS-260514-AC43
   - INS-260423-E64B
-  - INS-260522-EB3C
   - INS-260605-434D
 stance: Log every change and the data that caused it in a structured research log
 evidence:

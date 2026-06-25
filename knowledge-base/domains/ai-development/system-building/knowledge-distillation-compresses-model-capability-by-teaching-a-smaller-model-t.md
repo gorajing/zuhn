@@ -46,10 +46,10 @@ stance: >-
   answer — this preserves nuance that hard labels destroy
 related:
   - INS-260410-F053
+  - INS-260625-D772
+  - INS-260625-57C1
+  - INS-260625-E464
   - PRI-260411-56D8
-  - INS-260501-FDF0
-  - INS-260329-6004
-  - INS-260410-3271
 evidence:
   - id: INS-260329-6004
     type: SUPPORTS

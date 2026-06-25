@@ -67,8 +67,8 @@ related:
   - INS-260411-8034
   - PRI-260403-67FC
   - PRI-260411-ACEF
+  - INS-260625-35C5
   - INS-260505-4426
-  - PRI-260406-1B3A
 ---
 Dolgov's architectural distinction: Waymo's foundation model IS end-to-end (sensors to decisions in one model), and that's important — it learns rich representations that hand-engineered interfaces can't capture. But 'using end-to-end' is fundamentally different from 'purely relying on it.' For prototypes, demos, driver-assist, or small-scale deployment, vanilla end-to-end is enough. For fully-autonomous superhuman-safety production at scale (hundreds of millions of miles), you need structured materialized intermediate representations.
 

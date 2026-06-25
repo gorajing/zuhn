@@ -62,8 +62,8 @@ related:
   - INS-260410-1ED3
   - INS-260330-AB62
   - INS-260411-52C8
+  - INS-260625-E7CD
   - INS-260327-BF89
-  - INS-260411-D060
 ---
 Since PHP and the LAMP stack, the dominant backend paradigm has been shared-nothing: the compute layer is stateless and all meaningful state lives in the database, so any request can be served by recomputing from request data plus DB state. Everything that followed—Rails, Node.js, serverless—inherited this. It worked because web requests were short and side effects could be pushed into async tasks and, later, replay-based durable workflows.
 

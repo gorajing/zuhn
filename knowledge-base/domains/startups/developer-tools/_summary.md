@@ -1,6 +1,6 @@
 # Topic: developer-tools
 
-> 11 insights
+> 12 insights
 
 - `INS-260330-202A` [high] Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.
 - `INS-260405-F6A6` [high] The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
@@ -12,4 +12,5 @@
 - `INS-260329-9A58` [high] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260330-B771` [high] Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
 - `INS-260329-ACE6` [high] CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
+- `INS-260625-13E1` [high] Resumable streaming, multi-tab/multi-device sync, and real-time collaboration should come out of the box from the platform — not force every app team to become distributed-systems engineers.
 - `INS-260405-4523` [medium] Well-maintained curated lists in fast-moving technical fields attract disproportionate community engagement because they solve the navigation problem most practitioners face.

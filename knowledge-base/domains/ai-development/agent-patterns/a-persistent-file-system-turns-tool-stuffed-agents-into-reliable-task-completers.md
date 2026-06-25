@@ -54,9 +54,8 @@ related:
   - INS-260524-D5DB
   - INS-260327-DC4C
   - INS-260605-9276
+  - INS-260625-447A
   - INS-260605-C122
-  - INS-260410-095B
   - INS-260605-80D0
-  - INS-260624-9A4B
 ---
 Vercel's internal 'D0' agent had access to Salesforce, the admin panel, and the full backend, but would call a handful of tools and return a partly-hallucinated answer. The fix was not better tools but a file system: instructions told it to write an initial plan file with the objective at the top, then 'follow this plan to a T, check things off as you go,' and to collect research in a directory. Two things changed. First, the agent stopped losing its objective in an ever-growing context window, because it kept re-reading and reminding itself of the goal at each step. Second, you get a durable artifact at the end showing exactly what work was done. The mechanism is that the file system holds state that survives context churn, so the original objective never gets buried or thrown away. Vercel now backs nearly every internal agent (GTM, data, customer support) with this pattern; the support agent cut tickets ~90%.

@@ -52,10 +52,10 @@ stance: >-
   and turns agent queries into production signal about doc gaps.
 related:
   - INS-260619-F1E3
+  - INS-260625-7A1A
   - INS-260410-19DE
+  - INS-260625-C69F
   - INS-260605-9E46
-  - INS-260410-F40F
-  - INS-260605-CF2E
   - INS-260605-4C0A
 ---
 With ~500 documentation pages, an agent that fetches-and-reads loops wastes tokens and turns: fetch one page, reason, fetch another, reason. Langfuse repurposed an existing docs Q&A RAG stack as a search endpoint the coding agent calls with a natural-language query and gets back relevant chunks directly — solving the problem in one hop instead of five.

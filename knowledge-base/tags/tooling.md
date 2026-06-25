@@ -10,7 +10,7 @@
 - `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260605-E706` Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
-- `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
+- `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260402-E470` Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260403-E4DD` Fragmented financial tracking across multiple tools creates version control chaos and mismatched assumptions that unravel during investor due diligence.
 - `INS-260330-ED04` Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
@@ -19,3 +19,4 @@
 - `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260403-F148` Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-9C60` The quality of a tool is measured by the journey it enables, not the destination it displays.
+- `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.

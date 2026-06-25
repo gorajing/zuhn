@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 65 insights
+> 66 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -38,6 +38,7 @@
 - `INS-260405-CD42` [high] Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
 - `INS-260605-7747` [high] Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 - `INS-260413-BBFA` [high] Over 80% of respondents in China, Malaysia, Thailand, Indonesia, and Singapore expect AI to profoundly change their lives in 3-5 years, with Malaysia showing the largest +9pp increase — while North America/Europe cluster at high nervousness.
+- `INS-260625-84DB` [high] Ship under a recognized standard license like Apache 2.0 rather than a custom one, because custom terms — however friendly — trigger month-long legal procurement that blocks adoption.
 - `INS-260605-82BD` [high] Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 - `INS-260322-55D8` [high] ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260409-D012` [high] Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.

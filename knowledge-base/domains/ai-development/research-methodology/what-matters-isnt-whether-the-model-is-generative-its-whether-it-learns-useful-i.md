@@ -60,8 +60,8 @@ related:
   - INS-260405-11EA
   - INS-260329-E839
   - PRI-260406-FA5B
+  - INS-260625-7935
   - INS-260501-2130
-  - INS-260330-4AD5
 ---
 LeCun's reframing: when GPT pretrains on next-token prediction, the result is a really good autocomplete. But what actually matters is the internal representations the model learned to solve that task. Those representations are what enables downstream fine-tuning into helpful AI assistants, code completion, reasoning systems, etc. Next-token prediction is a 'proxy for intelligence' that works shockingly well, but it's not unique — other signals (joint embedding from Barlow Twins, DINO) can produce equally powerful representations without the generative overhead. This reframes the question from 'how do we make the model generate better' to 'what training signal produces the best internal representations.'
 

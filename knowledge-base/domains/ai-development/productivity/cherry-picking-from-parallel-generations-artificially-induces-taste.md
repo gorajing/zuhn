@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260410-2307
   - INS-260605-21A5
+  - INS-260625-00D5
   - INS-260410-939B
   - INS-260605-9F16
-  - INS-260413-7816
 ---
 Models have no taste, and the usual workarounds are expensive: hand-crafting an example, hunting for reference examples, or writing a prompt so detailed you might as well have done the task yourself. Chieng proposes exploiting cheap parallel generation instead — ask a fast model for 15 versions of a navbar, or spawn five sub-agents each producing 15 for 75 total, then cherry-pick the one you like.
 

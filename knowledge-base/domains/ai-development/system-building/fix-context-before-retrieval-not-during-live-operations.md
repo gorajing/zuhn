@@ -51,7 +51,6 @@ stance: >-
   Batch-scanning past work items to repair a knowledge base upfront beats fixing
   gaps in real time as agents hit them operationally.
 related:
-  - INS-260605-CEB5
   - INS-260605-A2AD
   - INS-260605-159E
   - INS-260524-D5DB

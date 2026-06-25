@@ -52,7 +52,6 @@ stance: >-
   own flagship products to ensure that if disruption happens, it comes from
   within rather than from an external startup.
 related:
-  - INS-260323-48AF
   - INS-260328-9408
   - INS-260330-C24F
   - INS-260412-B825

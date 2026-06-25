@@ -52,6 +52,6 @@ related:
   - INS-260403-5F41
   - INS-260514-A295
   - PRI-260406-B9E0
-  - INS-260605-4FE3
+  - INS-260625-E9A9
 ---
 The article proposes five filter questions for evaluating any startup success story: (1) What part of the story is missing — are failures and pivots acknowledged? (2) Was luck or timing involved — did a platform shift or macro trend enable them? (3) What resource or network advantages existed — VC connections, personal capital, elite credentials? (4) Would this strategy work with zero funding? (5) Is the model scalable broadly or successful only for their specific context? This framework operationalizes survivorship-bias awareness into a repeatable evaluation habit. The key insight is that the goal isn't to dismiss success stories but to extract transferable principles rather than surface-level playbooks. A story that fails all five questions may still inspire, but it shouldn't guide resource allocation decisions.

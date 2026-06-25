@@ -56,7 +56,7 @@ related:
   - INS-260421-665D
   - INS-260413-AD37
   - INS-260325-FD14
-  - INS-260619-F1E3
+  - INS-260625-99AE
 ---
 Livia Ellen of mem0 highlighted this shift as a new architectural commitment: 'previously we give weight for the facts from the user, but the fact that now agents are actively interacting with us — maybe you write one line of prompt but the agent will generate three paragraphs of problem — so we actually now treated the agent-generated facts with similar weight.'
 

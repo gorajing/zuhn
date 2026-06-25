@@ -41,7 +41,6 @@ stance: >-
   wrong prioritization decision can waste three months building the wrong thing.
 related:
   - INS-260320-93E1
-  - INS-260327-B605
   - INS-260403-C936
   - INS-260330-2B45
   - INS-260330-F6B1
@@ -50,6 +49,7 @@ related:
   - INS-260329-DEE5
   - INS-260330-1C61
   - INS-260412-2785
+  - INS-260412-B136
 evidence:
   - id: INS-260320-93E1
     type: SUPPORTS

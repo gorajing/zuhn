@@ -55,11 +55,11 @@ stance: >-
   pressure, sound) produce more reliable focus than single-point fixation
   because each anchor serves as a fallback when others fade
 related:
+  - INS-260625-7CD5
   - INS-260329-DABC
   - PRI-260324-1134
   - PRI-260407-86E6
   - INS-260330-5F6C
-  - INS-260405-3048
 ---
 Harris explicitly instructs practitioners to return not just to breath but to 'the sensations of sitting,' 'the feeling of your back against the chair,' and 'sounds in the room.' This is not redundancy — it is a designed fallback hierarchy. When the breath sensation is too subtle to track, body pressure remains. When body sensation habituates, sounds arise continuously and involuntarily.
 

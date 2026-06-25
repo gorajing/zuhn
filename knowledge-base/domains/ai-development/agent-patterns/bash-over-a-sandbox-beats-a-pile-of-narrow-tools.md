@@ -47,7 +47,6 @@ stance: >-
   A single bash tool against a real file system can replace most purpose-built
   tools because models are heavily trained on shell.
 related:
-  - INS-260514-1D60
   - INS-260605-98BD
   - INS-260605-0C88
   - INS-260327-63B5

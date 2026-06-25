@@ -50,11 +50,12 @@ stance: >-
   consumed.
 related:
   - INS-260322-E20E
+  - INS-260625-279D
   - PRI-260406-B785
   - INS-260403-5D89
-  - INS-260605-AA03
-  - INS-260410-C022
+  - INS-260625-2D05
   - INS-260327-F0B2
+  - INS-260605-AA03
 evidence:
   - id: INS-260320-9FD5
     type: CHALLENGES

@@ -46,7 +46,7 @@ stance: >-
   small teams
 related:
   - INS-260329-27A7
-  - INS-260403-72C2
+  - INS-260625-2E48
   - INS-260320-EF3A
   - INS-260320-92CC
   - INS-260327-7A48

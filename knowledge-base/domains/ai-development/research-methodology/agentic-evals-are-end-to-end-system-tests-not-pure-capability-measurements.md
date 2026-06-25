@@ -49,12 +49,13 @@ stance: >-
   Agentic benchmarks conflate model capability with infrastructure behavior by
   construction, so any component of the runtime can act as a confounder.
 related:
+  - INS-260625-1187
   - INS-260605-B60D
   - INS-260327-33FA
+  - INS-260625-C69F
   - INS-260605-E516
-  - INS-260326-7F79
-  - INS-260605-1B9D
   - INS-260605-434D
+  - INS-260605-1B9D
 ---
 Static benchmarks are clean: a prompt goes in, an answer comes out, and it's graded. Agentic evals are categorically different because the runtime is an integral component of the problem-solving process. The model writes code, runs tests, installs dependencies, iterates. Two agents with different resource budgets are literally not taking the same test.
 

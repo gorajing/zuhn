@@ -59,5 +59,6 @@ related:
   - INS-260514-DFAE
   - INS-260603-DFA6
   - INS-260530-D34F
+  - INS-260625-13E1
 ---
 Yash has seen two org models for GTM engineering work: (1) Centralized PM-like hit team intaking feedback from marketing/sales/CS, ranking by business impact / deal-size / velocity, and shipping prioritized workflows quarterly (Clay's current model); (2) Embedded GTM engineers dedicated to specific functions (education team gets its own GTM engineer, sales gets its own, etc — Intercom's model). The centralized model has a forcing function: prioritization conversations happen explicitly across teams, and small functions like education don't get starved (because their work goes through the same backlog as enterprise sales work). The embedded model gets you dialed-in domain knowledge but loses visibility across the org and tends to gravitate toward whichever team has the biggest dollar weight (usually enterprise sales). Because it's easier to spin an embedded function out of a central team than to consolidate embedded engineers back together, the safe default is centralized — even for orgs that may eventually want embedded specialists.

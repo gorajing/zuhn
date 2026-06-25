@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5525 actionable insights
+Generated on 2026-06-25 | 5570 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -250,6 +250,19 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260624-6753] High-stakes agent findings should be checked by heterogeneous reviewers.
 - [INS-260624-223D] The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
 - [INS-260624-E89C] Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
+- [INS-260625-FE3E] Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead.
+- [INS-260625-2D05] Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
+- [INS-260625-0492] Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
+- [INS-260625-86CF] Replace the brittle parse-DOM, read-a11y-tree, screenshot, measure-and-click loop with declared tools the agent can call directly.
+- [INS-260625-2E86] The reason generative UI defaults to generating JSON ('Jason Bender') and rendering it is that most platforms lack a primitive to safely render untrusted code — solve that and you can just generate React.
+- [INS-260625-A5E7] Speed requires safety: agents must verify their own work against explicit criteria using progressively stronger gates.
+- [INS-260625-CF6B] Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.
+- [INS-260625-447A] A single agent given four tasks tends to nail two and lose the rest mid-context; splitting into expert agents and adding a judge agent to combine their outputs into one coherent result avoids that silent drop.
+- [INS-260625-7A1A] Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
+- [INS-260625-35C5] Let the latest reasoning model research 80% of the task, but route the final 20%—validation, summarization, next-action—through restricted, deterministic gates that don't need a high-reasoning model and stop the infinite loop.
+- [INS-260625-25BF] High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
+- [INS-260625-CC7C] A syntactically valid SQL query that returns zero rows is a silent failure, so Studio always runs queries and checks for data before hardcoding them into a widget.
+- [INS-260625-E9A9] A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -486,6 +499,10 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-BECA] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - [INS-260605-E174] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - [INS-260605-C132] Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
+- [INS-260625-2E48] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
+- [INS-260625-DCE4] Most sandboxes start from a full VM and add security around it; the safer model starts from nothing — only JavaScript, no fetch, no env vars — and grants explicit capabilities.
+- [INS-260625-36DF] Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
+- [INS-260625-73BD] WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -630,6 +647,8 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-0266] An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - [INS-260605-A46E] Agent guardrails are defense-in-depth, not the security model.
 - [INS-260605-8AFF] Scope the model's tools and the runtime's direct command permissions separately.
+- [INS-260625-0297] Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
+- [INS-260625-B4AC] Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -701,6 +720,8 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-2E60] Mount credentials as secret-refs (Podman/Kubernetes secret pointing to an agent-level secret-ref) so keys never appear as raw env vars in logs or config.
 - [INS-260605-74CC] Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
 - [INS-260605-B95C] Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
+- [INS-260625-02C7] Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.
+- [INS-260625-E7CD] Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -725,6 +746,8 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-EBEB] Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
 - [INS-260605-58DA] Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
 - [INS-260605-EA4B] Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
+- [INS-260625-1432] Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.
+- [INS-260625-F573] Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -750,6 +773,8 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-9F7A] Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
 - [INS-260605-A558] Optimize model cost only after a strong-model baseline proves the workflow can work.
 - [INS-260619-AD94] At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
+- [INS-260625-7935] Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
+- [INS-260625-1C2B] Don't pay for a top model to click buttons — when the environment does the masking and unblocking, a small model is enough.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -773,6 +798,8 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-0113] After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
 - [INS-260605-83A7] Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise.
 - [INS-260625-84D0] If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
+- [INS-260625-D772] Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences.
+- [INS-260625-3768] RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -882,6 +909,7 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-50FB] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - [INS-260605-7A70] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - [INS-260624-5865] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
+- [INS-260625-91CA] Fix web foundations (semantic HTML, accessibility, performance) first; that work doubles as agent-readiness and should precede adopting WebMCP.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -896,6 +924,7 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-89B0] AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
 - [INS-260605-2C96] Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.
 - [INS-260619-4ADA] The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
+- [INS-260625-7CD5] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -950,6 +979,9 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-4A94] Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - [INS-260605-1066] Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.
 - [INS-260625-A53F] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
+- [INS-260625-79ED] Reject both the objective-metrics camp and the pure-taste camp—pair every benchmark score with a real-world vibe check.
+- [INS-260625-FC2D] Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
+- [INS-260625-0A08] Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1077,6 +1109,15 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-F4AE] Variable-driven prompts preserve evaluability as use cases multiply.
 - [INS-260605-15B8] Turn harness edits into falsifiable contracts, not untracked tweaks.
 - [INS-260625-93FC] A richer harness is not free performance; it embeds environment knowledge that must be paid for and measured.
+- [INS-260625-C69F] Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.
+- [INS-260625-00D5] Defer model selection until you have an evaluation dataset to score candidates on, so the choice becomes a quick measurement instead of a weeks-long opinion war.
+- [INS-260625-C6F4] Agents don't forgive bad data the way humans do — they return it as a confident wrong answer — so data foundation absorbs the majority of production effort and is the real reliability lever.
+- [INS-260625-4559] Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
+- [INS-260625-BAE7] The four-joins-deep customer query every new hire must copy-paste gets told to Studio once, and it then performs it correctly forever — eliminating the data-team dashboard bottleneck.
+- [INS-260625-1187] Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
+- [INS-260625-407C] Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
+- [INS-260625-99AE] Context engines, hierarchical summarization, knowledge graphs, iterative retrieval, and self-correction each trade upfront engineering against scaling cost—iterative retrieval is the best default when you're building agents for yourself rather than as a product.
+- [INS-260625-2563] Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1193,6 +1234,8 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260605-8BEA] Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work.
 - [INS-260605-2793] Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
 - [INS-260619-F1E3] Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
+- [INS-260625-9721] Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills.
+- [INS-260625-D2E3] Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
@@ -2285,6 +2328,7 @@ Generated on 2026-06-25 | 5525 actionable insights
 - [INS-260329-D48B] The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
 - [INS-260409-32D4] Internal state functions as a perceptual filter — opportunities are literally visible in calm states and invisible in anxious ones.
 - [INS-260409-56E5] The ancient prescription for clarity (stillness, presence, silence) is actively opposed by the default modern attention environment.
+- [INS-260625-E4EF] Remote-controlling running agents from your phone means walking away from the desk no longer means stopping work.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -2857,6 +2901,7 @@ Generated on 2026-06-25 | 5525 actionable insights
 
 ## psychology/skill-development
 - [INS-260405-874D] Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
+- [INS-260625-074C] Build core skills by hand first; only delegate to AI the things you already know how to do.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.

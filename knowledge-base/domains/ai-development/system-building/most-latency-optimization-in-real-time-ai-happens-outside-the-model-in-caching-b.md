@@ -51,7 +51,6 @@ related:
   - INS-260605-F383
   - INS-260424-865F
   - INS-260605-DA2B
-  - INS-260605-CF15
 evidence:
   - id: INS-260329-818A
     type: SUPPORTS

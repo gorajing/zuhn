@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2531 insights across 24 topics
+> 2533 insights across 24 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | decision-making | 198 | If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal. |
 | epistemics | 83 | The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox. |
 | expertise | 77 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
-| focus | 158 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
+| focus | 159 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 31 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 31 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
 | group-dynamics | 126 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
@@ -29,4 +29,4 @@
 | physics-intuition | 89 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 88 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 183 | Start documenting purposefully at your lowest point — that's when commitment crystallizes and the 'never again' story begins. |
-| skill-development | 2 | Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance. |
+| skill-development | 3 | Build core skills by hand first; only delegate to AI the things you already know how to do. |

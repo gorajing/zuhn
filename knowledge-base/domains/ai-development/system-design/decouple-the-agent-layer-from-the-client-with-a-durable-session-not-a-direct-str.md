@@ -49,9 +49,9 @@ stance: >-
   the root architectural cause of fragile AI UX.
 related:
   - INS-260409-E8B3
-  - INS-260423-74BF
   - INS-260605-8409
   - INS-260605-75BB
-  - INS-260405-CF38
+  - INS-260423-74BF
+  - INS-260625-2439
 ---
 The default AI chat pattern uses direct HTTP streaming (SSE) where a single client opens a single point-to-point connection to a single agent. This couples everything to one request: if the connection drops, the stream is gone; other tabs and devices have zero visibility into the in-progress response; and no other client can reach the agent to steer or interrupt it. The fix is to insert a durable session — a persistent, stateful medium (effectively pub/sub) sitting between the agent layer and the client layer. Agents write events to the session without caring about any client's connection health, and clients connect to the session to read, resume, or interact. This single architectural move is what separates a fragile demo from a production AI product.

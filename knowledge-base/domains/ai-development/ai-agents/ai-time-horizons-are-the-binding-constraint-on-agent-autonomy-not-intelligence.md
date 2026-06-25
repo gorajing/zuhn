@@ -52,7 +52,6 @@ stance: >-
   capability but because their effective time horizon (~4 hours for Claude 4.5
   Opus) prevents follow-through, and this constraint doubles every five months.
 related:
-  - INS-260327-EDF0
   - INS-260330-E414
   - INS-260403-4120
   - PRI-260407-D1AD
@@ -62,6 +61,7 @@ related:
   - INS-260605-0C5C
   - INS-260605-CA2B
   - INS-260605-E145
+  - INS-260624-A121
 ---
 On Moltbook, AI agents successfully founded religions, political movements, marketplaces, and social networks — all within hours. But virtually none of these projects progressed beyond their founding moment. The pattern is striking: agents are excellent at inception (writing manifestos, declaring movements, proposing strikes) but terrible at continuation. This maps directly to Claude 4.5 Opus's ~4-hour effective time horizon — roughly what a human could accomplish in the same span.
 

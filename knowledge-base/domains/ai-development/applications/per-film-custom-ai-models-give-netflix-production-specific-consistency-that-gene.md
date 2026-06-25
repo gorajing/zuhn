@@ -57,11 +57,11 @@ stance: >-
   stylistically consistent and director-controlled outputs than generic
   generative media tools.
 related:
+  - INS-260625-3768
   - INS-260605-8F5E
   - INS-260329-E6AF
   - INS-260501-FDF0
   - PRI-260320-6847
-  - INS-260605-D37A
   - INS-260403-9A0F
   - INS-260329-3177
   - INS-260505-050B

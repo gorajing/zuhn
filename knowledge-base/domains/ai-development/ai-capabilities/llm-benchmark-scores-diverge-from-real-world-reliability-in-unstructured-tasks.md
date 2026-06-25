@@ -59,6 +59,7 @@ related:
   - PRI-260413-A957
   - INS-260410-E3BB
   - INS-260413-EB61
+  - INS-260625-79ED
 ---
 AI benchmarks tend to measure performance on well-defined, repeatable tasks that resemble training data. Models can optimize specifically for these evaluations, producing impressive score improvements that don't translate to proportional gains in practical use. Real-world tasks are fundamentally different: they involve ambiguous goals, incomplete context, consequences beyond the conversation, and domains where subtle errors compound.
 

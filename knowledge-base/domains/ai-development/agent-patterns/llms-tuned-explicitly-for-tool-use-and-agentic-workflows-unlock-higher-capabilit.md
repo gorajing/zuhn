@@ -54,7 +54,6 @@ stance: >-
   models tuned only for human Q&A.
 related:
   - INS-260325-7FAF
-  - INS-260323-DA4A
   - PRI-260407-D1AD
   - INS-260404-6BD6
   - INS-260605-0C88
@@ -63,6 +62,7 @@ related:
   - INS-260327-7299
   - INS-260405-1282
   - INS-260403-9E51
+  - INS-260409-C158
 ---
 Ng observes that early LLMs were optimized to answer human-generated questions — queries like 'why did Shakespeare write Macbeth.' But agentic workflows require different capabilities: reliable function calling, structured output for tool use, and the ability to serve as components in iterative pipelines rather than standalone conversational agents.
 

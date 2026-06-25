@@ -55,8 +55,8 @@ related:
   - INS-260329-CF48
   - INS-260411-8034
   - INS-260514-E481
-  - INS-260605-9FCF
   - INS-260605-DFF5
+  - INS-260619-1512
 stance: >-
   The Autoresearch loop (change a file, measure the result, keep or discard) can
   optimize any prompt-driven process with measurable outputs

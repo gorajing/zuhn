@@ -62,7 +62,6 @@ related:
   - PRI-260405-0676
   - PRI-260405-49C0
   - INS-260605-74E8
-  - INS-260605-2AAF
 ---
 Musk's formulation — 'aim to make more than you take' — is a compact version of a principle that shows up across enduring founders: money arrives as a byproduct of value, not the other way around. This isn't naive idealism; it's a competitive strategy. When you optimize directly for valuation, you get companies built around narrative and optics. When you optimize for usefulness, you get compounding.
 

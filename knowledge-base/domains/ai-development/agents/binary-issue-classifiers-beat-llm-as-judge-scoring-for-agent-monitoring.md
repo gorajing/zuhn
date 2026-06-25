@@ -57,7 +57,7 @@ related:
   - PRI-260405-D586
   - INS-260524-9100
   - INS-260403-5683
-  - INS-260603-6FE3
+  - INS-260625-0A08
 ---
 The best implicit signals detect concrete issues rather than producing graded quality scores. 'How good is this response?' or 'rate this 1-10' is far less effective than a binary classifier answering 'is this a refusal / task failure / instance of user frustration — yes or no?' Tracking the rate of each well-defined issue over time gives an actionable, alertable trend, whereas a continuous quality score is noisy and hard to act on.
 

@@ -11,8 +11,6 @@
 - `INS-260530-7FE2` Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
 - `INS-260327-45B4` A user created sketch notes of his chemist father's lectures using Nano Banana, enabling their first real conversation about the work in decades, a use case Google never anticipated.
 - `INS-260403-AFBB` AI products should optimize for user absence, not presence — the best product is one you never have to look at.
-- `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
-- `INS-260405-9409` Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match.
 - `INS-260327-CC35` Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
@@ -49,3 +47,5 @@
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260404-E5EB` Delight operates through three pillars: removing friction, anticipating needs, and exceeding expectations.
+- `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
+- `INS-260405-9409` Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match.

@@ -61,6 +61,7 @@ related:
   - INS-260605-B8DD
   - PRI-260411-9CB1
   - PRI-260403-EA13
+  - INS-260625-1432
 ---
 Recursive language models (a seminal MIT paper from the prior October) showed that occupying only a small percentage of the context window can still produce dramatic context rot, depending on the information complexity the prompt demands. A needle-in-a-haystack lookup is O(1): the information requirement stays constant regardless of prompt size, so the model can fill the full window and still answer well. But a task like summing the rows of a table is O(N) — the informational requirement grows linearly with prompt size — and accuracy degrades to roughly the 30-60% range for linear-to-quadratic demands.
 

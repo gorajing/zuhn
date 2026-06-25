@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 72 insights
+> 75 insights
 
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
@@ -37,9 +37,12 @@
 - `INS-260605-4AF8` [high] Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
 - `INS-260605-B95C` [high] Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
 - `INS-260410-13C8` [high] Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
+- `INS-260625-02C7` [high] Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.
+- `INS-260625-E7CD` [high] Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request.
 - `INS-260605-434D` [high] Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
 - `INS-260410-ED34` [high] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - `INS-260605-5159` [high] Persistent state and warm caches across iterations are mandatory because restarting work from scratch each loop multiplies latency in a high-frequency cycle.
+- `INS-260625-5BF4` [high] Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect.
 - `INS-260505-A38E` [high] Markets fund 5-year ROI; protein databases that take 50 years to build don't qualify. Federal funding fills that specific gap.
 - `INS-260505-BD9E` [high] Genesis Mission: integrate compute + AI + quantum + experimental facilities across 17 national labs as one platform — 10-100x acceleration, double productivity in a decade.
 - `INS-260405-131B` [high] C powers the interpreters, OS kernels, and databases that higher-level developers use daily, making it the most influential language most programmers never consciously think about.

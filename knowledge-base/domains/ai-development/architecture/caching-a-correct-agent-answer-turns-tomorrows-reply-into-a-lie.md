@@ -47,9 +47,9 @@ stance: >-
   stale falsehoods.
 related:
   - INS-260410-9D04
+  - INS-260625-C6F4
   - INS-260329-4842
   - INS-260603-6FE3
   - INS-260530-E6AA
-  - INS-260330-C06E
 ---
 A natural optimization is to cache answers that earned positive feedback to cut latency and cost. Unblocked found this backfires. A correct answer about a living system is exactly like documentation: the instant you write it down, the underlying code, config, or decisions start drifting, so it begins going stale immediately. Cache a right answer today, replay it for the same question tomorrow, and you've likely told the user something false because the system changed within the 24-hour window. Some questions are genuinely stable, but the team recommends against answer-caching even when it's tempting for performance. The deeper principle: in dynamic-context retrieval, freshness is part of correctness, and any optimization that decouples the answer from a live recompute is a correctness regression in disguise.

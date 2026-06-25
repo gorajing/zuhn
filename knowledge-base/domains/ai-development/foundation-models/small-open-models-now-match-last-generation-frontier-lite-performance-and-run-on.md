@@ -70,8 +70,6 @@ stance: >-
   browsers, and robots — so capable AI no longer requires a frontier API call,
   contradicting the view that small models systematically underperform
 related:
-  - INS-260410-BFCF
-  - INS-260413-EB61
   - INS-260501-0C6C
   - PRI-260328-7007
   - INS-260605-C9EB

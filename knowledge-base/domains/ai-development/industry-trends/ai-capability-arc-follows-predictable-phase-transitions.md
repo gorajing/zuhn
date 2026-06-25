@@ -51,8 +51,8 @@ related:
   - INS-260325-7FAF
   - INS-260403-F160
   - PRI-260407-A13C
+  - INS-260625-E9A9
   - PRI-260328-A82C
-  - INS-260409-005E
 ---
 From the 2017 transformer paper through multi-modal LLMs, reasoning models capable of advanced math and coding, and now agentic systems, AI has undergone roughly one major phase transition per year. Each phase didn't just add capabilities — it shifted what the technology fundamentally was. Chatbot intuitions don't translate well to reasoning models; reasoning model intuitions don't cleanly apply to agents.
 

@@ -47,11 +47,11 @@ stance: >-
   Breaking an apparently impossible task into single-rep increments makes the
   impossible achievable by bypassing the brain's all-or-nothing quit response.
 related:
+  - INS-260625-7CD5
   - PRI-260405-E628
   - INS-260605-A803
   - PRI-260407-86E6
   - PRI-260323-57AC
-  - PRI-260321-14D8
 evidence:
   - id: INS-260329-CABE
     type: SUPPORTS

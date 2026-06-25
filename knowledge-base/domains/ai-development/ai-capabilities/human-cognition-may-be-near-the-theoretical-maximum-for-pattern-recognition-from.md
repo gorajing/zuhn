@@ -52,11 +52,10 @@ stance: >-
   mathematical ceiling — AI may never significantly exceed human-level judgment,
   intuition, or taste.
 related:
-  - INS-260325-FD14
-  - INS-260326-AE6C
   - INS-260404-93CD
   - INS-260330-C31B
   - PRI-260407-5465
+  - INS-260325-FD14
   - PRI-260407-7FB7
   - INS-260330-6BBD
 ---

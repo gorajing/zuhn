@@ -57,7 +57,8 @@ related:
   - INS-260605-A2B7
   - INS-260605-3206
   - INS-260605-74CC
-  - INS-260605-DF82
+  - INS-260625-DCE4
+  - INS-260625-07CB
 ---
 Hampton answers the recurring 'how is this safe?' question structurally rather than by appealing to model alignment. Cloud agents run inside isolated GitHub Actions environments; their network egress is firewalled and whitelisted so the agent can't talk to arbitrary endpoints; and they have no access to push directly to the main branch. The safety comes from the blast radius being bounded — the worst a compromised or hallucinating agent can do is constrained by what its sandbox permits.
 

@@ -44,7 +44,6 @@ stance: >-
   opaque pipelines.
 related:
   - INS-260327-BF89
-  - INS-260329-4D03
   - INS-260410-E658
   - INS-260605-07E5
   - INS-260605-6444

@@ -44,11 +44,11 @@ resolutions:
     implementation — it's in the fundamental inability of existing management
     frameworks to evaluate generative AI outputs.
 related:
+  - INS-260625-2E86
   - INS-260323-B029
   - INS-260605-71E7
   - INS-260323-3F30
   - INS-260409-6833
-  - INS-260327-991D
   - INS-260505-3608
   - INS-260605-1821
 stance: >-

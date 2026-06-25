@@ -60,10 +60,10 @@ stance: >-
 related:
   - INS-260530-B694
   - INS-260605-48CA
+  - INS-260625-2439
   - PRI-260501-168F
   - INS-260423-74BF
   - INS-260605-9A01
-  - INS-260327-13B3
 ---
 Templestein's opinion is that 'the moment an agent exists, it should have a URL' — an internet-connected server program that speaks HTTP, with a tolerant event log as its only interface. Because the stream accepts almost any payload (even invalid events become error events), raw third-party webhooks can be POSTed directly and the LLM is 'good enough to consume raw webhooks from anywhere and roughly do the right thing.' This sidesteps the trap of 'inventing a connector concept' just to get Slack messages or form submissions into the agent.
 

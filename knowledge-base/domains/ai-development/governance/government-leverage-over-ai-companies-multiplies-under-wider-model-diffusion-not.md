@@ -56,10 +56,10 @@ stance: >-
 related:
   - INS-260403-CB33
   - INS-260412-4162
+  - INS-260625-A02C
   - INS-260327-B302
   - INS-260410-797C
   - PRI-260406-CCAE
-  - PRI-260406-CA09
 ---
 Patel's counter-intuitive observation: people argue that the leverage problem (government can squeeze 3 frontier labs) goes away with diffusion. But from the government's perspective, diffusion is easier, not harder — there are now hundreds of vendors, all of whom can be told 'do this or we hurt your other business.' The federal government controls permitting for power generation (data centers), antitrust enforcement, contracts with all big tech for chips and funding, and can make implicit conditions on those contracts.
 

@@ -48,7 +48,6 @@ stance: >-
   assumptions, not technical execution gaps
 related:
   - INS-260327-C9BA
-  - INS-260327-B17E
   - PRI-260328-0BE1
   - PRI-260406-1A55
   - INS-260403-1BCC

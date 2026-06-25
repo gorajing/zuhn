@@ -65,9 +65,9 @@ related:
   - INS-260514-CA39
   - PRI-260413-A957
   - INS-260605-9F5C
+  - INS-260625-C6F4
   - INS-260413-7816
   - INS-260330-C31B
-  - PRI-260412-7664
 ---
 In the Q&A the speaker is direct about where real money and risk concentrate: the golden post-training dataset. Labs hire labeling companies like Scale AI — or run internal contractor teams — to produce very high-quality, domain-expert data (the example given is paying contract physicists whatever they demand to generate physics reasoning). Because this data teaches the model how to think, 'you can't just go on Reddit and grab random posts'; quality is everything, and 'even some small issues can literally make or break your model.' These datasets are described as the most expensive component, costing 'tons and tons of money,' yet they are 'the ones that make the models as good as they are.'
 

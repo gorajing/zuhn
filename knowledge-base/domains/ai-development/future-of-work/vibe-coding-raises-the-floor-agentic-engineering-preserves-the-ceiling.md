@@ -50,7 +50,6 @@ stance: >-
   creation is not the same as professionally engineered systems with quality
   bars, and conflating them produces vulnerabilities.
 related:
-  - INS-260323-B029
   - INS-260501-FD20
   - INS-260327-1FA1
   - INS-260603-6B3D

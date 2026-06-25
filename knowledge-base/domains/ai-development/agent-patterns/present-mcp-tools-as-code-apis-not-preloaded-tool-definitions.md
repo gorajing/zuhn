@@ -52,10 +52,10 @@ stance: >-
   upfront.
 related:
   - INS-260605-D710
+  - INS-260625-2439
   - INS-260605-D2C7
   - INS-260410-19DE
   - INS-260605-83DA
-  - INS-260524-2C7C
   - INS-260605-5C58
   - INS-260605-3588
 ---

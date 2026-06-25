@@ -56,6 +56,7 @@ related:
   - INS-260530-D34F
   - INS-260321-4E98
   - INS-260605-EF3C
+  - INS-260625-91CA
 ---
 The described adoption pattern — start with bugs and features, expand to QA, product, analytics, and CX — mirrors how organizations adopt any new capability: prove value in a constrained domain, then expand laterally. This is significant because it suggests AI agent adoption isn't a single decision but a staged organizational transformation.
 

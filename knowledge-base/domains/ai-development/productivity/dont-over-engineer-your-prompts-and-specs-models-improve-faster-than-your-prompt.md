@@ -63,11 +63,11 @@ related:
   - INS-260321-C513
   - PRI-260320-6847
   - INS-260327-30E4
-  - INS-260328-3446
   - INS-260403-1000
   - INS-260403-BB23
   - INS-260330-4AD5
   - INS-260322-C0D3
   - INS-260403-49D1
+  - INS-260501-17BB
 ---
 Armin's lesson from October 2025 onward: 'A lot of what was there for like a couple of months was completely useless the moment the models got better. One learning that I had is like I actually don't want to get much more specific with what I'm doing.' The argument: model improvements arrive every 2-3 months, and each generation absorbs some of the work that previously required prompt engineering. The architecture-files-and-code-map-files Armin built in 2025 worked for 6-8 months and then became unnecessary as models improved at retrieval. Investing 40 hours in elaborate prompt scaffolding that becomes obsolete in 60 days is a poor amortization. The corollary from Mario: he doesn't use a memory system because the code base IS the source of truth, and models keep getting better at retrieving from the source of truth — so adding a snapshot memory that goes stale is a negative-return investment. The decision rule: use the simplest prompt/architecture that works today; only invest in sophistication if the investment will compound (project-specific knowledge that the model can't infer, domain conventions, branded outputs) rather than substitute for capabilities the model is about to acquire. This is YAGNI for prompts — and it's specifically tuned to the current rapid-improvement era. If model progress slows, the optimal investment shifts back toward prompt sophistication. For now, the bias should be toward minimalism.

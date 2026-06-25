@@ -66,7 +66,6 @@ related:
   - INS-260330-0102
   - INS-260603-6B3D
   - INS-260403-B008
-  - INS-260605-A8A9
 ---
 Hu's structural reframe: most companies historically run as open-loop control systems — make a decision, execute it, don't systematically measure the outcome and adjust. Open loops are inherently lossy. The new company shape is closed-loop: continuously monitor output, adjust process to better meet the goal, self-regulating via intelligence at the center.
 

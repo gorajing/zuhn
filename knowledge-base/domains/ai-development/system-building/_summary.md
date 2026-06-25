@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 268 insights
+> 277 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -25,10 +25,12 @@
 - `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260625-C69F` [high] Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.
 - `INS-260514-EE1D` [high] Harness order: rules first → skills when you repeat yourself → MCP when you need external systems → hooks when stakes rise → sub-agents when contexts conflict. Don't design the whole thing upfront. Add components when friction surfaces.
 - `INS-260605-04E7` [high] Don't use the 'power of the gods' just because you have it — models tend toward complexity, so the simplest working version usually wins by 10-100x.
 - `INS-260410-A18B` [high] Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
 - `INS-260329-6A60` [high] Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
+- `INS-260625-00D5` [high] Defer model selection until you have an evaluation dataset to score candidates on, so the choice becomes a quick measurement instead of a weeks-long opinion war.
 - `INS-260329-B408` [high] The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
 - `INS-260330-43E3` [high] Closures preserve outer scope variables on the heap after function return, providing encapsulation without class machinery but requiring awareness of memory implications.
 - `INS-260320-4A82` [high] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -50,17 +52,20 @@
 - `INS-260323-E559` [high] The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260605-3872` [high] When you catch an agent doing something dumb (casting with 'as', using 'any'/'unknown', skipping validation), encode a lint rule banning that exact pattern so the type/lint error forces the model to correct itself.
 - `INS-260603-6FE3` [high] Navish (Salesforce): 'the problem is not how large a dataset you give the agent, it's the quality' — a big silo of stale data just has the agent running the same query on old data; you have to keep the data updated for the agent to help.
+- `INS-260625-C6F4` [high] Agents don't forgive bad data the way humans do — they return it as a confident wrong answer — so data foundation absorbs the majority of production effort and is the real reliability lever.
 - `INS-260329-47DD` [high] Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
 - `INS-260329-8CC0` [high] Sharding splits data across servers for write scalability while replication copies data across servers for read scalability — the workload pattern determines which to use.
 - `INS-260329-F556` [high] The best database schemas encode business rules structurally through keys, types, and constraints rather than trusting application code to enforce them.
 - `INS-260321-AD95` [high] Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
 - `INS-260329-0CC5` [high] Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.
+- `INS-260625-4559` [high] Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260605-4AB0` [high] Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260329-19EA` [high] ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260323-6944` [high] Cantor's diagonal argument -- constructing an element that differs from every item on a list -- is the same core technique behind Godel's incompleteness, Turing's halting problem, and Russell's paradox.
 - `INS-260329-AE09` [high] Dictionaries are the most transferable data structure concept because key-value mapping appears at every level of the software stack.
 - `INS-260605-BFBE` [high] An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
 - `INS-260330-81A7` [high] Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
+- `INS-260625-BAE7` [high] The four-joins-deep customer query every new hire must copy-paste gets told to Studio once, and it then performs it correctly forever — eliminating the data-team dashboard bottleneck.
 - `INS-260330-CA97` [high] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
 - `INS-260329-7673` [high] ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
 - `INS-260329-18C9` [high] ER diagrams work because externalizing relationships visually before formal specification catches design errors that pure code-first approaches miss.
@@ -68,6 +73,7 @@
 - `INS-260325-FDA9` [high] Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.
 - `INS-260329-3FC9` [high] Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
 - `INS-260605-9F16` [high] 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
+- `INS-260625-1187` [high] Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260329-7255` [high] Almost every performance optimization in computing trades memory for speed or speed for memory — recognizing which tradeoff you're making is the key architectural skill.
 - `INS-260410-9DB0` [high] Every piece of a harness encodes an assumption about what the model can't do; those assumptions are worth re-stress-testing each model release.
 - `INS-260605-15B8` [high] Turn harness edits into falsifiable contracts, not untracked tweaks.
@@ -119,6 +125,7 @@
 - `INS-260605-6F34` [high] Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.
 - `INS-260501-7726` [high] Karpathy built Menu Gen as a multi-step app, then realized Gemini + Nano Banana renders the entire thing in one shot — the app shouldn't exist.
 - `INS-260409-0D87` [high] Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
+- `INS-260625-407C` [high] Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260323-2FC3` [high] The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
 - `INS-260330-F5A1` [high] Store the result of expensive computations and reuse them instead of recomputing from scratch.
 - `INS-260329-6D6C` [high] When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.
@@ -158,6 +165,7 @@
 - `INS-260329-3383` [high] AWS's shared responsibility model — where AWS secures infrastructure 'of' the cloud and customers secure everything 'in' the cloud — is a transferable framework for any platform-builder relationship.
 - `INS-260410-264E` [high] If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
 - `INS-260329-C7B8` [high] Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
+- `INS-260625-2563` [high] Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
 - `INS-260320-4B31` [high] We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
 - `INS-260605-6C72` [high] Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss.
 - `INS-260329-3423` [high] Database constraints (NOT NULL, UNIQUE, DEFAULT, FOREIGN KEY, ON DELETE) catch entire categories of data integrity bugs at the storage layer before application code ever runs.
@@ -244,6 +252,7 @@
 - `INS-260329-075C` [medium] OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
 - `INS-260329-E280` [medium] OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.
 - `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
+- `INS-260625-99AE` [medium] Context engines, hierarchical summarization, knowledge graphs, iterative retrieval, and self-correction each trade upfront engineering against scaling cost—iterative retrieval is the best default when you're building agents for yourself rather than as a product.
 - `INS-260403-5BD6` [medium] A portable master prompt that works across ChatGPT, Claude, and Gemini protects against platform-specific configuration breaking when interfaces change.
 - `INS-260605-F4AE` [medium] Variable-driven prompts preserve evaluability as use cases multiply.
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.

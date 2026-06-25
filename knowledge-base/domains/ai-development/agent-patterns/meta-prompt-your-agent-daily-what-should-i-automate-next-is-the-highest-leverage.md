@@ -64,6 +64,7 @@ related:
   - INS-260605-2795
   - INS-260605-6CBF
   - INS-260605-A8A9
+  - INS-260625-D2E3
 ---
 Imran's habit for compounding agent value: at the end of every day, ask the agent 'what is one task I'm doing over and over again that I should set up as a cron job?' or 'what should you build for the work I do?' The agent has visibility into your interaction history but doesn't yet proactively surface automation opportunities — so you have to prompt for it.
 

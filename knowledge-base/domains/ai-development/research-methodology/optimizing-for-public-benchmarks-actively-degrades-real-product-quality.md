@@ -59,11 +59,11 @@ stance: >-
   products than teams anchored on revealed user preference in their actual
   product.
 related:
+  - INS-260625-2563
   - INS-260605-72C4
   - PRI-260406-8FDF
   - PRI-260324-12CF
   - INS-260402-92AE
-  - INS-260603-11DB
   - INS-260410-28E0
   - INS-260519-46E2
 ---

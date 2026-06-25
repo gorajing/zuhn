@@ -72,12 +72,12 @@ related:
   - INS-260327-500C
   - INS-260327-6061
   - INS-260403-8176
-  - INS-260410-3A08
   - INS-260603-A7CF
   - PRI-260405-608A
   - INS-260603-50B1
   - INS-260403-A2E9
   - INS-260412-9777
+  - INS-260625-2E48
 ---
 The keynote reframes the era's eye-watering acqui-hires as single-person buys driven by training-cost leverage. When a single model-training run costs hundreds of millions (sometimes billions) of dollars, the marginal value of the one person who can prevent a failed iteration — or get the architecture right the first time — is enormous. If the right person saves even one iteration, a $100M+ package pays for itself many times over.
 

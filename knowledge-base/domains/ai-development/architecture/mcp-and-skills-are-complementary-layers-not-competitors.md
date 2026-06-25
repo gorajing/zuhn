@@ -56,6 +56,7 @@ related:
   - PRI-260405-49C0
   - INS-260329-2F63
   - INS-260519-08E0
+  - INS-260625-CF6B
 ---
 The 'MCP versus skills' framing is a category error — apples to oranges. MCP tools don't need a local environment to run, carry authentication baked into the protocol, and execute server-side so the agent never manages keys or tokens; they're the right choice for any integration to a service, especially in production or on remote projects. Scripts inside skills, by contrast, run on the agent's local machine and are tied to its OS and environment.
 

@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4795 insights across 55 topics
+> 4796 insights across 55 topics
 
 ## Topics
 
@@ -18,7 +18,7 @@
 | content-strategy | 76 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 5 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 9 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
-| developer-tools | 11 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
+| developer-tools | 12 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | disruption | 24 | When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates. |
 | engineering | 32 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 296 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |

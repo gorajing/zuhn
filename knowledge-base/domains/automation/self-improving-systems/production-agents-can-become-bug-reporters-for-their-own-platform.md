@@ -44,13 +44,13 @@ related:
   - INS-260330-83D5
   - INS-260405-6A0C
   - INS-260403-96BC
-  - INS-260421-E9FC
   - INS-260522-C5C2
   - INS-260605-CEB5
   - INS-260605-C726
   - INS-260605-EA4B
   - INS-260605-4B95
   - INS-260624-6753
+  - INS-260605-27CC
 ---
 The talk proposed giving every agent an MCP-style tool to report bugs or feature requests, creating a Sentry-like issue stream ranked by how many customer agents encountered the problem. This turns production agents from opaque workers into sensors for product quality.
 

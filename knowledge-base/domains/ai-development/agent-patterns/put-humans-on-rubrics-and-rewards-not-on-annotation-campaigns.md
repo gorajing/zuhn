@@ -59,7 +59,7 @@ related:
   - PRI-260411-ACEF
   - INS-260330-0102
   - INS-260605-BEA5
-  - PRI-260328-8E01
+  - INS-260625-25BF
 ---
 RLHF made 'human in the loop' sound appealing, but behind it often hides expensive annotation campaigns that are either costly or useless because people don't want to do them. The better design keeps humans in the loop without that cost: humans define the reward signal — writing the rubrics, the system prompts for LLM-as-judge, and the scenarios — and confirm the judge is aligned with what they see. This takes minutes to hours, done once, not weeks done iteratively dozens of times.
 

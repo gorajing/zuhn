@@ -46,7 +46,6 @@ stance: >-
   judgment, not from having the best model.
 related:
   - INS-260403-615D
-  - INS-260403-06E7
   - INS-260505-CBE5
   - INS-260408-C572
   - PRI-260406-4EBD

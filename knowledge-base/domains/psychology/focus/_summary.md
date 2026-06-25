@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 158 insights
+> 159 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -148,6 +148,7 @@
 - `INS-260323-34B7` [medium] The most intense flow states and deepest gratitude emerge when your actions are directly connected to meeting fundamental survival needs.
 - `INS-260403-50F1` [medium] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - `INS-260329-72AC` [medium] Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
+- `INS-260625-E4EF` [medium] Remote-controlling running agents from your phone means walking away from the desk no longer means stopping work.
 - `INS-260325-AEF5` [medium] Asking yourself 'What is happening now? What do I need to do? What tools do I have?' converts the flexibility sequence from abstract framework into real-time cognitive tool.
 - `INS-260330-4285` [medium] Goggins manages ADHD through absolute compartmentalization — each activity gets total focus with zero mental bleed between domains.
 - `INS-260325-B4D1` [medium] Tech-free families report their children find genuine friends faster, build richer real-world social lives, and show better mental health — the exit is additive, not subtractive.

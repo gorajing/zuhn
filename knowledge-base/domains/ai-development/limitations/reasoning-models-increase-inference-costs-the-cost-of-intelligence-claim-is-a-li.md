@@ -51,12 +51,12 @@ related:
   - INS-260405-A22F
   - INS-260501-E8E9
   - PRI-260328-D893
+  - INS-260625-279D
   - INS-260405-6A94
   - INS-260325-BEAC
   - INS-260329-0D70
   - INS-260405-3240
   - INS-260403-91F7
-  - INS-260409-17E9
   - INS-260410-B8EB
 stance: >-
   While per-token costs have decreased, reasoning models burn dramatically more

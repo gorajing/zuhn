@@ -42,8 +42,8 @@ related:
   - INS-260619-F1E3
   - INS-260410-A27C
   - INS-260605-7843
+  - INS-260625-C69F
   - INS-260410-F40F
-  - INS-260330-FC4D
 ---
 The talk described using multiple models and verification steps to decide whether a candidate bug is real. This matters in security because a plausible hallucinated report wastes maintainer attention, while a missed exploit has real cost.
 

@@ -54,8 +54,8 @@ related:
   - INS-260410-E73E
   - INS-260605-E54A
   - INS-260410-0DA5
+  - INS-260625-E9A9
   - INS-260505-5510
-  - INS-260323-584D
 ---
 Asked what actually makes a task low-quality, Crawford identified specification mismatch as the dominant cause. A task is defined without clearly stating the desired testable outcome, yet the hidden tests expect things that were never requested — so the model 'fails' a requirement it was never told about. Similarly, tests sometimes assume implicit dependencies the task never declares; without that context, the model can't even approach the dependency.
 

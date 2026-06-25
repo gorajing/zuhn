@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260605-E693
   - INS-260327-BF89
+  - INS-260625-A5E7
   - INS-260605-B82E
   - INS-260403-2FAE
-  - INS-260524-78D0
 ---
 Nisi's 'Case' harness started as a Claude skill but suffered context drop as complexity grew — the agent would forget or silently skip tasks, even admitting 'you told me to do that, I decided not to.' Rebuilding it on a TypeScript state machine with five agents (implementer, verifier, reviewer, closer, retro) made the gates between agents the important part, not the agents themselves. The verifier must pass before the reviewer runs; reviewer issues bounce back to the implementer; the closer can't act until work is provably done. The control flow lives outside the model's discretion, so 'should I do this?' is never the model's decision. The practitioner's framing: your job was never about writing code, it was about building the systems agents run inside.
