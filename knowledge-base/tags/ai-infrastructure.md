@@ -33,5 +33,5 @@
 - `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
 - `INS-260327-BB71` The biggest AI opportunity isn't building agents—it's building the infrastructure every agent will need.
 - `INS-260327-7D53` No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
-- `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
 - `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
+- `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.

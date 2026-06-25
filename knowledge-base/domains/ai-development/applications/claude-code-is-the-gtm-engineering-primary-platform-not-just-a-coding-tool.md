@@ -55,11 +55,11 @@ stance: >-
   using Claude Code for GTM engineering report reducing SDR teams from 10 to 1
   (Vercel, Jasper Lekin's SaaS).
 related:
-  - INS-260404-F0C3
   - INS-260501-9D73
   - INS-260403-C074
+  - INS-260404-F0C3
+  - INS-260625-D938
   - INS-260403-07C3
-  - INS-260322-D8C3
 ---
 Hai Nghiem on Claude Code's misnaming: 'Cloud code is such a horrible name because it's not just for code.' It's a terminal-based agent that can run autonomously with --dangerously-skip-permissions, integrate with MCP servers (Notion, Discord, browser), and orchestrate complex workflows. The 'GTM engineering' role popularized by Drew Bruvik at Vercel: put an engineer on the GTM team to build internal tools that compress headcount. Vercel reduced SDR team from 10 to 1. Jason Lemkin at SaaSr reportedly went from 6-8 SDRs/AEs to 1.25 people. Pattern: keep sales team small, deploy agents for the high-volume low-judgment work.
 

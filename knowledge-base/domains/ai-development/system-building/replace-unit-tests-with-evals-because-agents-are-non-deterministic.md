@@ -57,10 +57,10 @@ related:
   - INS-260403-A70D
   - INS-260501-9465
   - INS-260501-033E
-  - INS-260519-224B
   - INS-260524-0DC3
   - INS-260605-667B
   - INS-260605-C37E
+  - INS-260625-26F5
 ---
 Unit, integration, and smoke tests assume input A through code B always yields output C. Agents are non-deterministic — the same prompt can take different steps and produce different results — so deterministic assertions break down. Reliability is the whole game: a customer agent whose prompt works one in ten times is too flaky for production. The shift is from assert-based tests to evals that measure the success rate across many runs.
 

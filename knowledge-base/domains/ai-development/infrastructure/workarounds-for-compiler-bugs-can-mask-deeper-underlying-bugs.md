@@ -56,7 +56,7 @@ related:
   - INS-260329-F84E
   - INS-260402-5034
   - INS-260625-5EEE
-  - INS-260605-71C3
+  - INS-260625-D938
 ---
 In December 2024, Anthropic deployed a patch for a 'dropped top token' symptom. In August 2025, they rewrote the sampling code, believed they'd fixed the precision root cause, and removed the workaround. Doing so exposed a latent XLA approximate top-k bug that sometimes returned 'completely wrong results' for certain batch sizes — a much more serious failure than the one the December patch had been hiding.
 

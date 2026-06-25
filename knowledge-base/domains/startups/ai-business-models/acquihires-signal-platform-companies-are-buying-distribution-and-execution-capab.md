@@ -50,7 +50,7 @@ related:
   - PRI-260324-36BF
   - PRI-260403-7585
   - INS-260404-6BD6
+  - INS-260625-9BEB
   - PRI-260328-F723
-  - INS-260326-7F79
 ---
 The reported Meta-Manus deal follows a logic where model performance is no longer the scarce resource—distributing autonomous action at scale is. By folding agentic capability into messaging and assistant surfaces with billions of daily users, Meta gains far more leverage than any marginal model improvement would deliver. This pattern suggests that startups building agentic workflows in verticals with high daily engagement (messaging, productivity, commerce) are acquisition targets not because they have better AI but because they have working execution loops on top of real user contexts. The 'own access, not ownership' pattern Nvidia is using for the Groq license similarly signals that buyers want capability integration without regulatory exposure.

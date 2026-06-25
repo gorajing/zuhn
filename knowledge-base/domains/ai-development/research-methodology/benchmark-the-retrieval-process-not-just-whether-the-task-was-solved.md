@@ -55,8 +55,8 @@ related:
   - INS-260605-93B8
   - INS-260605-7843
   - INS-260625-7592
+  - INS-260625-D938
   - INS-260605-B5A2
-  - INS-260605-726C
 ---
 Cursor's ContextBench rests on the thesis that how an agent reaches a solution matters, not only the end result. Rather than pass/fail on task completion, it uses a human-labeled dataset specifying which files, lines, and symbols an agent should have consulted to complete a task well, then measures precision (what fraction of files read were golden) and recall (what fraction of golden files were found). This surfaced that default Claude Code is highly exploratory — wasting roughly one in three file reads — while windowed grep and semantic search lifted file precision to ~87%.
 

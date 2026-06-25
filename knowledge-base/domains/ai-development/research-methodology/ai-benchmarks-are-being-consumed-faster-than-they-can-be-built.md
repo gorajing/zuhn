@@ -45,9 +45,9 @@ stance: >-
   release.
 related:
   - INS-260327-40DA
+  - INS-260625-FFDF
   - INS-260605-B60D
   - INS-260410-0DA5
   - INS-260625-76E9
-  - PRI-260406-22E2
 ---
 Stanford's AI Index 2026 documents that Humanity's Last Exam — a benchmark explicitly designed to be hard for AI and favorable to human experts — gained 30 percentage points in a single year. SWE-bench Verified rose from approximately 60% to near 100% in 2025. Evaluations intended to be challenging for years are saturating in months, compressing the window in which benchmarks remain useful for tracking progress. The implication is that measurement infrastructure, not capability generation, has become the binding constraint — any governance, procurement, or research plan that depends on 'when models reach benchmark X' has a shelf life of months, and the field needs continuously regenerated evaluations rather than static benchmarks.

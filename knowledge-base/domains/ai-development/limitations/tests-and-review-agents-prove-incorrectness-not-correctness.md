@@ -50,9 +50,9 @@ related:
   - INS-260405-2CDB
   - INS-260410-DABE
   - INS-260501-AE73
-  - INS-260602-E2BD
   - INS-260605-3AFB
   - INS-260329-500E
   - PRI-260406-FB98
+  - INS-260605-77EB
 ---
 A common defense against LLM-generated bugs is heavy testing plus code-review agents. Szoke flags the limits: poorly prompted agents write tests after the implementation, so they test implementation details rather than behavior; tests only ever prove incorrectness when they fail, since you can't exhaustively test every input combination; and when the LLM generates both the code and the tests (or the review), it can make correlated mistakes in both. These are statistical filters, not deterministic guarantees. Because LLMs are non-deterministic by design and therefore permanently fallible, Murphy's Law applies — without an absolute deterministic guard, failures eventually slip through, and they slip through more often in languages that lack such guardrails.

@@ -3,8 +3,8 @@
 - `INS-260405-5E6B` Meta cut 600 AI roles to reduce decision layers, explicitly trading headcount for speed.
 - `INS-260327-8F76` When two partners with strong opinions disagree, a third co-founder provides the tiebreaker perspective that prevents gridlock.
 - `INS-260410-7875` Facebook's growth team — the first of its kind, formed in 2008 after user growth stalled — proved that the product is a better growth lever than any marketing spend, and the function must live inside engineering with data obsession as its defining trait.
-- `INS-260412-EB2D` The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
 - `INS-260411-791E` Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
+- `INS-260412-EB2D` The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
 - `INS-260412-7CED` Nokia's split into competing Symbian and MeeGo teams created such internal squabbling that basic decisions with external partners took a year — fatal in a fast-moving tech market.
 - `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
 - `INS-260403-7227` Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.

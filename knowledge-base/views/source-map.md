@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-25 | 2955 sources
+Generated on 2026-06-25 | 2960 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,9 +180,9 @@ Generated on 2026-06-25 | 2955 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
@@ -1555,6 +1555,7 @@ Generated on 2026-06-25 | 2955 sources
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 4 | 2026-03-30 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
+| SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios | blog | 4 | 2026-06-25 |
 | Tablets | blog | 4 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 4 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 4 | 2026-03-30 |
@@ -2161,9 +2162,12 @@ Generated on 2026-06-25 | 2955 sources
 | Digital Jungle 2 | audio | 2 | 2026-06-19 |
 | Continual Harness: Online Adaptation for Self-Improving Foundation Agents | blog | 2 | 2026-06-05 |
 | In Consumer AI, Momentum Is the Moat | Andreessen Horowitz | blog | 2 | 2026-03-26 |
+| MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills | blog | 2 | 2026-06-25 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 2 | 2026-03-26 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 2 | 2026-03-26 |
+| Reliability without Validity: A Systematic, Large-Scale Evaluation of LLM-as-a-Judge Models Across Agreement, Consistency, and Bias | blog | 2 | 2026-06-25 |
 | SentinelBench: A Benchmark for Long-Running Monitoring Agents | blog | 2 | 2026-06-25 |
+| STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios | blog | 2 | 2026-06-25 |
 | SWE-Explore: Benchmarking How Coding Agents Explore Repositories | blog | 2 | 2026-06-25 |
 | #1 BEST Meal to Prevent a Heart Attack and Stroke | youtube | 2 | 2026-03-26 |
 | 10 Vitamins You Should NEVER Take | youtube | 2 | 2026-03-26 |
@@ -2744,6 +2748,7 @@ Generated on 2026-06-25 | 2955 sources
 | Panel #1 | audio | 0 | 2026-05-02 |
 | Product demo | audio | 0 | 2026-05-02 |
 | The St. Regis San Francisco | audio | 0 | 2026-06-19 |
+| s41746-026-02729-9 | pdf | 0 | 2026-06-25 |
 | can you look through everything in the codebase | session | 0 | 2026-05-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |

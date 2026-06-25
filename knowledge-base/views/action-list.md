@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5665 actionable insights
+Generated on 2026-06-25 | 5672 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -56,6 +56,12 @@ Generated on 2026-06-25 | 5665 actionable insights
 - [INS-260625-99B0] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
 - [INS-260625-25D6] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
 - [INS-260625-18D0] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
+- [INS-260625-6178] Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
+- [INS-260625-722D] Raw judge agreement is a weak certificate unless chance and bias are accounted for.
+- [INS-260625-77F8] For workflow agents, the answer is the mutated state, not the transcript.
+- [INS-260625-206A] A repeatable judge can still be repeatably biased.
+- [INS-260625-B296] A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
+- [INS-260625-D938] SWE-EVO's Fix Rate captures agents that fix some failing tests without fully resolving a release-sized task.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -301,6 +307,7 @@ Generated on 2026-06-25 | 5665 actionable insights
 - [INS-260625-C697] Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
 - [INS-260625-5358] Skill files can be optimized like neural-network weights, with proposed text edits playing the role of gradients.
 - [INS-260625-131D] The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
+- [INS-260625-9BEB] OpenHands and SWE-agent with frontier models resolve only about 25% of SWE-EVO, so workflow scaffolding is not enough for broad autonomous software evolution.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -436,9 +443,6 @@ Generated on 2026-06-25 | 5665 actionable insights
 - [INS-260410-38C9] No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
 - [INS-260501-E843] Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale.
 - [INS-260501-0662] Greg Brockman: a systems engineer prepared a design document, handed it to the model, went to sleep — woke up to find the model had implemented the spec, seen it was slow, added instrumentation, run a profiler, and iterated multiple times until it got an optimized result.
-
-## ai-development/ai-development/product-strategy
-- [INS-260625-4B92] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
@@ -988,6 +992,7 @@ Generated on 2026-06-25 | 5665 actionable insights
 - [INS-260625-F9B2] Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste.
 - [INS-260625-76F5] Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - [INS-260625-03A6] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
+- [INS-260625-4B92] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.

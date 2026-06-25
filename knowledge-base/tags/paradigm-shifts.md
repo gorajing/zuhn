@@ -25,13 +25,13 @@
 - `INS-260323-AEA7` Michelson and Morley built the most precise instrument of their era, found no evidence of the ether, and believed their own experiment had failed -- because the null result contradicted consensus so deeply.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
-- `INS-260403-F519` The best web3 gaming teams pair experienced web2 game designers with blockchain-native engineers, rather than building teams of pure crypto specialists.
 - `INS-260412-0F3F` Dinosaurs dominated for 165 million years and were wiped out in months — market incumbents with decades of dominance face the same non-linear disruption risk.
+- `INS-260403-F519` The best web3 gaming teams pair experienced web2 game designers with blockchain-native engineers, rather than building teams of pure crypto specialists.
 - `INS-260404-A183` Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-615D` Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
 - `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260403-F160` Software history follows translation → creation → reality-breaking phases, and AI is entering the third phase where the constraint is vision, not capability.
-- `INS-260404-80AC` The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260412-A4DB` Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
+- `INS-260404-80AC` The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.

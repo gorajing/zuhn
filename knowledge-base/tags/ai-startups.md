@@ -11,13 +11,13 @@
 - `INS-260404-63F0` 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
 - `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.
 - `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
-- `INS-260327-FCCF` AI startup ideas are hiding in plain sight: every job people pay humans to do is a potential product.
-- `INS-260327-0595` Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
-- `INS-260403-6F22` Building at the boundary of what AI models can do today positions you to immediately capitalize when the next generation arrives.
 - `INS-260403-6E4C` Big Tech is acquiring AI startup teams in quiet sub-$20M deals as founders who raised too much hit AI headwinds.
 - `INS-260328-AB0C` Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
 - `INS-260404-620D` AI-native positioning dominates successful seed-stage pitch decks in 2024, appearing in the majority of funded companies across the sample.
 - `INS-260403-E16F` AI startups command ~$19M median seed valuations vs $15M for non-AI, but 41.7% of seed capital targeting AI means brutal competition within the category.
 - `INS-260403-83E0` Investors now treat pricing model design as a front-page due diligence item that signals founder sophistication about AI unit economics.
+- `INS-260327-FCCF` AI startup ideas are hiding in plain sight: every job people pay humans to do is a potential product.
+- `INS-260327-0595` Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
+- `INS-260403-6F22` Building at the boundary of what AI models can do today positions you to immediately capitalize when the next generation arrives.
 - `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
 - `INS-260404-C1C1` NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.

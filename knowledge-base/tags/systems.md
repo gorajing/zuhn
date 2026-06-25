@@ -12,5 +12,5 @@
 - `INS-260330-3C4C` Justinian's condensation of 1,528 Latin law books into the 800,000-word Digest created a legal system that still underpins European civil law today — 1,500 years later.
 - `INS-260326-1CB1` Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260330-85D7` Photosynthesis uses a four-complex electron transport chain because staged extraction captures energy that a single-step conversion would waste as heat.
-- `INS-260404-EC32` AI-accelerated teams build faster but accumulate operational debt sooner, requiring earlier systematization.
 - `INS-260404-E4C9` Fundraising performed better when treated as a repeatable system with standardized templates, CRMs, and investor databases.
+- `INS-260404-EC32` AI-accelerated teams build faster but accumulate operational debt sooner, requiring earlier systematization.

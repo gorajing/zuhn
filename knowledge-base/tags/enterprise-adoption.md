@@ -9,10 +9,10 @@
 - `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260530-09FE` Coco (working with 5-employee through 500-employee firms): smaller companies are faster to adopt forward-looking autonomous solutions; enterprises are still stuck on chat-with-internal-KB use cases despite the autonomous-agent stack being available for 12+ months.
 - `INS-260625-84DB` Ship under a recognized standard license like Apache 2.0 rather than a custom one, because custom terms — however friendly — trigger month-long legal procurement that blocks adoption.
-- `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
-- `INS-260403-D56A` Anthropic's 2026 report shows the biggest agent gains go to teams that rebuild work around agents rather than layering AI on top of old systems.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260501-3D0C` Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
+- `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
+- `INS-260403-D56A` Anthropic's 2026 report shows the biggest agent gains go to teams that rebuild work around agents rather than layering AI on top of old systems.
 - `INS-260413-36B4` Generative AI reached 53% US population adoption within 3 years — faster than the PC or internet — while organizational adoption hit 88% and Singapore/UAE lead at 61%/54% with the US ranking 24th at 28.3%.
 - `INS-260325-5CA5` 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260325-FC07` MIT found the 5% of organizations reaching production AI deploy through distributed experimentation with vendor accountability, not centralized approval processes.

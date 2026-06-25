@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260408-3691
   - INS-260403-D6C2
+  - INS-260625-FFDF
   - INS-260603-1389
   - INS-260404-D6F7
-  - INS-260410-D49F
 ---
 Casas opens with the inflection: by late 2025, models produced high-fidelity, accessible, animated UI from a single prompt — a one-line 'rewrite my blog' yielded a blurred, accessible search box he never asked for. Yet the dominant paradigm is still mostly static UI, and the 'Jarvis moment' of floating, ephemeral windows hasn't arrived.
 

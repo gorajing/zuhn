@@ -51,7 +51,6 @@ related:
   - INS-260605-9276
   - INS-260605-A705
   - INS-260410-BBC1
-  - INS-260605-B136
 ---
 Compaction alone is insufficient for multi-session work — it doesn't always pass clear instructions forward, and sessions that end mid-feature force the next agent to guess what happened and rebuild context. The remedy is to require that each session ends in 'mergeable to main' state: no half-implemented features, descriptive git commits, updated progress notes.
 

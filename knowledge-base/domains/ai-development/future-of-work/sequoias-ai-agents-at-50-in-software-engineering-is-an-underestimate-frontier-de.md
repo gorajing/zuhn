@@ -59,10 +59,10 @@ related:
   - PRI-260328-A65A
   - INS-260409-DD69
   - INS-260410-9EA8
+  - INS-260625-9BEB
   - INS-260403-1EFF
   - INS-260625-407C
   - PRI-260407-D1AD
-  - INS-260605-A803
 ---
 Liu's diagnostic of the Sequoia adoption chart: the 50% figure for AI in software engineering is an underestimate of the frontier mode but an overestimate of the deployed mode. Mainstream developers use AI tab-autocomplete (figured out 3 years ago with GitHub Copilot). Frontier developers run something completely different: '30 different Claude Code instances in parallel, each one coupled up to a browser fully autonomous, getting other agents to comment on PRs.' That mode emerged in late 2025 (Karpathy's 'inverted from human-with-AI to AI-with-human').
 
