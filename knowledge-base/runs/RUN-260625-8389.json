@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "id": "RUN-260625-8389",
+  "goal": "Daily AI paper digest: select and ingest one recent AI agents/evaluation/systems paper",
+  "scope": "paper=arXiv:2606.25447; automation=daily-ai-paper-digest; cwd=/Users/jinchoi/Code/Zuhn",
+  "created_at": "2026-06-25T11:43:33.088Z",
+  "updated_at": "2026-06-25T11:52:46.833Z",
+  "status": "passed",
+  "plan": [],
+  "steps": [
+    {
+      "id": "step-select-paper",
+      "title": "Select recent primary-source AI paper",
+      "status": "completed",
+      "notes": "Selected arXiv:2606.25447 because it was submitted on 2026-06-24 and directly tests harness design, post-training, tool-use, and OOD agent evaluation.",
+      "evidence": [
+        {
+          "kind": "url",
+          "ref": "https://arxiv.org/abs/2606.25447",
+          "note": "arXiv page shows submitted on 24 Jun 2026 and paper abstract/title."
+        },
+        {
+          "kind": "command",
+          "ref": "arXiv API query sorted by submittedDate for LLM agents, agent evaluation, tool use, memory, and coding agents"
+        },
+        {
+          "kind": "manual_observation",
+          "ref": "zuhn_brief selected harness/tool-interface rigor as relevant prior principle"
+        }
+      ]
+    },
+    {
+      "id": "step-duplicate-check",
+      "title": "Check Zuhn for duplicate paper",
+      "status": "completed",
+      "notes": "No existing source or insight matched the title, arXiv ID, URL, or obvious title fragments before ingest.",
+      "evidence": [
+        {
+          "kind": "command",
+          "ref": "rg -n \"The Interplay of Harness Design|2606\\.25447|arxiv\\.org/(abs|pdf|html)/2606\\.25447|Harness Design and Post-Training|post-training.*LLM Agents\" knowledge-base . -S --glob '!node_modules/**'"
+        }
+      ]
+    },
+    {
+      "id": "step-ingest-extract",
+      "title": "Ingest source and extract insights",
+      "status": "completed",
+      "notes": "Initial PDF ingest was raw bytes and was removed; clean HTML source was ingested as SRC-260625-9A80 and 7 insights were extracted through scripts/extract.ts.",
+      "evidence": [
+        {
+          "kind": "command",
+          "ref": "npx tsx scripts/ingest.ts https://arxiv.org/html/2606.25447"
+        },
+        {
+          "kind": "command",
+          "ref": "npx tsx scripts/extract.ts --source SRC-260625-9A80 --file /tmp/zuhn-extract-SRC-260625-9A80.json --post-ingest"
+        },
+        {
+          "kind": "file",
+          "ref": "knowledge-base/sources/blog/the-interplay-of-harness-design-and-post-training-in-llm-agents.md"
+        }
+      ]
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "artifact-source",
+      "kind": "source",
+      "ref": "SRC-260625-9A80",
+      "description": "Clean arXiv HTML source for The Interplay of Harness Design and Post-Training in LLM Agents"
+    },
+    {
+      "id": "artifact-auto-commit",
+      "kind": "diff",
+      "ref": "2f5fe6ebe0",
+      "description": "Auto post-ingest commit containing source, insights, derived indices, embeddings, and views"
+    }
+  ],
+  "risk_assessments": [
+    {
+      "id": "risk-kb-mutation",
+      "action": "Ingest source, add insights, run post-ingest, and commit derived KB state",
+      "risk": "hard_gate",
+      "reversible": true,
+      "gate_required": true,
+      "rationale": "The run mutates the durable knowledge base and git history, so health and source/insight verification must pass before marking the run passed."
+    }
+  ],
+  "side_effects": [
+    {
+      "id": "effect-removed-bad-pdf-ingest",
+      "action": "Removed bad raw-PDF source artifact created earlier in this same run",
+      "target": "knowledge-base/sources/blog/untitled.md and untitled.clean.txt",
+      "risk": "free",
+      "committed": true,
+      "evidence": [
+        {
+          "kind": "manual_observation",
+          "ref": "The PDF URL was detected as blog and stored raw PDF bytes; replacement HTML ingest created clean source SRC-260625-9A80."
+        }
+      ]
+    },
+    {
+      "id": "effect-post-ingest-commit",
+      "action": "Committed post-ingest KB changes",
+      "target": "2f5fe6ebe0",
+      "risk": "hard_gate",
+      "committed": true,
+      "evidence": [
+        {
+          "kind": "command",
+          "ref": "git log -1 --oneline --decorate"
+        }
+      ]
+    }
+  ],
+  "verification_gates": [
+    {
+      "id": "gate-paper-selection",
+      "name": "Recent primary paper and duplicate check passed",
+      "verdict": "pass",
+      "checked_at": "2026-06-25T11:51:53Z",
+      "evidence": [
+        {
+          "kind": "url",
+          "ref": "https://arxiv.org/abs/2606.25447",
+          "note": "Submitted on 24 Jun 2026."
+        },
+        {
+          "kind": "command",
+          "ref": "rg duplicate check returned no matches before ingest"
+        }
+      ],
+      "required_for": [
+        "risk-kb-mutation"
+      ]
+    },
+    {
+      "id": "gate-extraction-pipeline",
+      "name": "Extraction and post-ingest pipeline passed",
+      "verdict": "pass",
+      "checked_at": "2026-06-25T11:51:53Z",
+      "evidence": [
+        {
+          "kind": "command",
+          "ref": "npx tsx scripts/extract.ts --source SRC-260625-9A80 --file /tmp/zuhn-extract-SRC-260625-9A80.json --post-ingest",
+          "note": "Pipeline summary: health PASSED, reindex OK, embed OK, gate PASSED, learn OK, views OK, auto-git COMMITTED."
+        }
+      ],
+      "required_for": [
+        "risk-kb-mutation"
+      ]
+    },
+    {
+      "id": "gate-final-health",
+      "name": "Final health and source count verified",
+      "verdict": "pass",
+      "checked_at": "2026-06-25T11:51:53Z",
+      "evidence": [
+        {
+          "kind": "test",
+          "ref": "npm run health -- --quiet",
+          "note": "Health check passed with 0 errors and 0 warnings."
+        },
+        {
+          "kind": "source_count",
+          "ref": "SRC-260625-9A80 insight_count: 7"
+        },
+        {
+          "kind": "command",
+          "ref": "git log -1 --oneline --decorate => 2f5fe6ebe0 auto: post-ingest — 7 new insights, 1750 updated"
+        }
+      ],
+      "required_for": [
+        "risk-kb-mutation"
+      ]
+    }
+  ],
+  "memory_candidates": [],
+  "final_status": {
+    "closed_at": "2026-06-25T11:52:46.833Z",
+    "outcome": "passed",
+    "summary": "Selected arXiv:2606.25447, verified no duplicate, ingested clean HTML source SRC-260625-9A80, extracted 7 insights, and post-ingest committed successfully."
+  }
+}
