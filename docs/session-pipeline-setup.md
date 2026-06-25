@@ -1,6 +1,8 @@
-# Session→KB Pipeline Setup (Phase 8)
+# Session->KB Pipeline Setup (Phase 8)
 
 The Session→KB Pipeline captures insights from Claude Code sessions into Zuhn's knowledge base using explicit intent only — no passive scraping.
+
+This pipeline is for Zuhn conceptual knowledge. It is not the Zuun runtime-memory path. Source-backed ideas, research claims, principles, predictions, and tensions flow through Zuhn extraction and gates. Operational memories that should change future agent behavior are staged as AgentRun `memory_candidates` and promoted explicitly to Zuun; see [Zuun Runtime Memory Contract](zuun-runtime-memory-contract.md).
 
 ## Components
 
@@ -54,6 +56,7 @@ During any Claude Code session working with Zuhn:
 - **Explicit intent only** — the hook only reads `/tmp/`, never scrapes other directories
 - **No auto-extraction** — `extract-session` must be run manually
 - **`.claude/` files are local** — never commit personal `.claude/` config to the public repo
+- **No Zuun writes** — this path queues conceptual KB material only; runtime behavior memories must use AgentRun memory candidates and explicit Zuun promotion
 
 ---
 
@@ -105,3 +108,6 @@ Register a `SessionEnd` hook in `.claude/settings.json`:
 - **The gate replaces manual intent as the quality filter.** Phase 8 required
   explicit intent because there was no automatic quality control; the gate now
   provides it, so passive transcript capture is safe.
+- **Runtime memory still requires explicit promotion.** Session capture may create
+  Zuhn sources, but it must not silently create Zuun memories. Zuun memories are
+  operational claims with provenance, invalidation hints, and promotion evidence.

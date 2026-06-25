@@ -230,6 +230,36 @@ export function assertCanPass(run: AgentRunData): void {
     );
   }
 
+  const unsatisfiedRequiredRisks = run.risk_assessments.filter(
+    (risk) =>
+      risk.gate_required &&
+      !run.verification_gates.some(
+        (gate) => gate.verdict === "pass" && gate.required_for.includes(risk.id)
+      )
+  );
+  if (unsatisfiedRequiredRisks.length > 0) {
+    throw new AgentRunError(
+      `Cannot close as passed with required risks missing passing gates: ${unsatisfiedRequiredRisks
+        .map((risk) => risk.id)
+        .join(", ")}`
+    );
+  }
+
+  const ungatedPromotions = run.memory_candidates.filter(
+    (candidate) =>
+      candidate.status === "promoted" &&
+      !run.verification_gates.some(
+        (gate) => gate.verdict === "pass" && gate.required_for.includes(candidate.id)
+      )
+  );
+  if (ungatedPromotions.length > 0) {
+    throw new AgentRunError(
+      `Cannot close as passed with promoted memory candidates missing passing gates: ${ungatedPromotions
+        .map((candidate) => candidate.id)
+        .join(", ")}`
+    );
+  }
+
   const uncommittedHardEffects = run.side_effects.filter(
     (effect) => effect.risk === "hard_gate" && !effect.committed
   );
@@ -240,6 +270,35 @@ export function assertCanPass(run: AgentRunData): void {
         .join(", ")}`
     );
   }
+}
+
+export function checkAgentRunStore(options: AgentRunStoreOptions = {}): {
+  checked: number;
+  errors: string[];
+} {
+  const { runsDir } = resolveAgentRunDirs(options);
+  if (!existsSync(runsDir)) {
+    return { checked: 0, errors: [] };
+  }
+
+  const errors: string[] = [];
+  let checked = 0;
+
+  for (const entry of readdirSync(runsDir).filter((item) => item.endsWith(".json"))) {
+    const path = join(runsDir, entry);
+    try {
+      const run = parseAgentRunJson(readFileSync(path, "utf-8"));
+      checked += 1;
+      if (run.status === "passed") {
+        assertCanPass(run);
+      }
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err);
+      errors.push(`${entry}: ${msg}`);
+    }
+  }
+
+  return { checked, errors };
 }
 
 export function listAgentRuns(options: AgentRunStoreOptions = {}): AgentRunData[] {

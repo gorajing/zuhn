@@ -164,7 +164,7 @@ All IDs are stateless (timestamp + hash, no counters):
   - `.claude/hooks/session-setup.sh` — SessionStart env + KB status injection
   - `.claude/agents/` — 3 subagents (insight-validator, kb-researcher, learning-auditor)
 - Tests: alongside source files (`*.test.ts`), also `tests/fixtures/`
-- CI: `.github/workflows/ci.yml` (tests + health + bench:check + hook verification)
+- CI: `.github/workflows/ci.yml` (tests + public-surface contracts + health + hook verification)
 - Roadmap: `docs/roadmap.md`
 - Specs: `docs/superpowers/specs/`
 
@@ -174,7 +174,7 @@ TypeScript (tsx), Zod, SQLite (better-sqlite3 + FTS5 + sqlite-vec), Ollama (nomi
 
 ## Testing
 
-Run `npm run test` (Vitest). 294 tests across 22 files. Tests live alongside source files.
+Run `npm run test` (Vitest). Tests live alongside source files. Use the current test output as the source of truth for counts.
 
 ## Learning Mechanism Flags
 

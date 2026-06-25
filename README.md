@@ -132,6 +132,8 @@ Requires Claude Code + Ollama running. See [inbox setup](docs/inbox-setup.md) fo
 
 Codex app automations can also run daily and weekly knowledge routines against this repo: AI papers, AI videos, AI x industry applications, contradiction scouting, prediction resolution, compression, failure postmortems, benchmark watching, platform changelogs, repo scouting, quality audits, and a daily learning brief. See [automation routines](docs/automation-routines.md) for the current routine map and verification contract.
 
+Agent runtime memory is handled separately from conceptual knowledge. Zuhn stores source-backed insights and principles; Zuun stores short operational memories that should change future agent behavior. AgentRun stages those memories as verified candidates. See [Zuun Runtime Memory Contract](docs/zuun-runtime-memory-contract.md).
+
 ## What It Does
 
 1. **Ingests** any URL or file — YouTube, blogs, Reddit, PDFs, audio recordings
@@ -192,6 +194,7 @@ npm run brief -- --mode concise "hire or automate"  # Compact ~300-token summary
 npm run wake                        # Morning briefing
 npm run sleep                       # Save session state
 npm run agent-run -- start --goal "..."  # Trace agent work, risks, gates, and memory candidates
+npm run agent-run -- check          # Validate local AgentRun ledgers
 
 # Autonomous
 npm run daemon:start                # Background: inbox + scouts + red team
@@ -244,6 +247,8 @@ scripts/                           ← 75+ TypeScript scripts
 skills/                            ← 18 portable SKILL.md files (any LLM agent)
 benchmarks/                        ← Epistemic CI/CD (quality metrics + regression gates)
 ```
+
+**Runtime Memory Boundary** — Zuhn is the conceptual KB. Zuun is runtime behavior memory. AgentRun is the staging ledger that records evidence, risks, side effects, gates, and memory candidates before a high-signal operational lesson is promoted to Zuun.
 
 **Dual-Graph Architecture** — Fast (vector similarity, rebuilt every run) + Slow (LLM-classified semantic relationships, built async). Relationship types: `SUPPORTS` · `CONTRADICTS` · `EXTENDS` · `TRANSFERS_TO` · `REFINES` · `CHALLENGES`
 

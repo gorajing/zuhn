@@ -25,6 +25,9 @@ jobs:
       - name: Verify public surface contracts
         run: npm run verify-contracts
 
+      - name: Check knowledge-base health
+        run: npm run health
+
       - name: Verify hook templates are executable
         run: |
           for f in .claude.example/hooks/*.sh templates/hooks/*.sh; do

@@ -6,6 +6,7 @@ import {
   AgentRunError,
   appendAgentRun,
   agentRunPath,
+  checkAgentRunStore,
   closeAgentRun,
   listAgentRuns,
   readAgentRun,
@@ -20,6 +21,7 @@ function usage(): never {
   npm run agent-run -- verify --id RUN-YYMMDD-XXXX --file gates.json
   npm run agent-run -- close --id RUN-YYMMDD-XXXX --status passed|failed|blocked|needs_human --summary "..."
   npm run agent-run -- view --id RUN-YYMMDD-XXXX
+  npm run agent-run -- check
   npm run agent-run -- list`);
   process.exit(1);
 }
@@ -113,6 +115,19 @@ function main(): void {
       for (const run of runs) {
         console.log(`${run.id}\t${run.status}\t${run.updated_at}\t${run.goal}`);
       }
+      break;
+    }
+
+    case "check": {
+      const result = checkAgentRunStore();
+      if (result.errors.length > 0) {
+        console.error(`AgentRun check failed: ${result.errors.length} error(s) across ${result.checked} run(s)`);
+        for (const error of result.errors) {
+          console.error(`  ERROR: ${error}`);
+        }
+        process.exit(1);
+      }
+      console.log(`AgentRun check passed: ${result.checked} run(s)`);
       break;
     }
 

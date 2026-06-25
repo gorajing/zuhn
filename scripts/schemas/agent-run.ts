@@ -53,8 +53,6 @@ export const AgentRunMemoryKind = z.enum([
   "pattern",
   "commitment",
   "reference",
-  "insight",
-  "skill",
 ]);
 
 const Id = z.string().min(1);
@@ -64,6 +62,10 @@ export const AgentRunEvidence = z.object({
   kind: AgentRunEvidenceKind,
   ref: z.string().min(1),
   note: z.string().optional(),
+  source_run_id: z.string().regex(/^RUN-\d{6}-[0-9A-F]{4}$/).optional(),
+  source_item_id: z.string().min(1).optional(),
+  captured_at: Timestamp.optional(),
+  content_hash: z.string().min(1).optional(),
 });
 
 export const AgentRunPlanItem = z.object({
@@ -114,17 +116,58 @@ export const AgentRunVerificationGate = z.object({
   verdict: AgentRunGateVerdict,
   checked_at: Timestamp,
   evidence: z.array(AgentRunEvidence).default([]),
+  required_for: z.array(Id).default([]),
   notes: z.string().optional(),
+}).superRefine((gate, ctx) => {
+  if (gate.verdict === "pass" && gate.evidence.length === 0) {
+    ctx.addIssue({
+      code: "custom",
+      path: ["evidence"],
+      message: "passing verification gates require evidence",
+    });
+  }
 });
 
 export const AgentRunMemoryCandidate = z.object({
   id: Id,
   kind: AgentRunMemoryKind,
   body: z.string().min(1).max(600),
+  target_system: z.literal("zuun").default("zuun"),
   status: z.enum(["proposed", "promoted", "rejected"]).default("proposed"),
   reason: z.string().optional(),
   evidence: z.array(AgentRunEvidence).default([]),
   promoted_to: z.string().optional(),
+  tags: z.array(z.string().min(1)).default([]),
+  invalidates_when: z.string().optional(),
+  stale_after: Timestamp.optional(),
+  invalidated_at: Timestamp.optional(),
+  invalidation_reason: z.string().optional(),
+  validity: z.enum(["active", "stale", "invalidated"]).default("active"),
+}).superRefine((candidate, ctx) => {
+  if (candidate.status === "promoted") {
+    if (!candidate.promoted_to?.trim()) {
+      ctx.addIssue({
+        code: "custom",
+        path: ["promoted_to"],
+        message: "promoted memory candidates require promoted_to",
+      });
+    }
+    if (candidate.evidence.length === 0) {
+      ctx.addIssue({
+        code: "custom",
+        path: ["evidence"],
+        message: "promoted memory candidates require evidence",
+      });
+    }
+  }
+
+  if (candidate.validity === "invalidated" && !candidate.invalidation_reason?.trim()) {
+    ctx.addIssue({
+      code: "custom",
+      path: ["invalidation_reason"],
+      message: "invalidated memory candidates require invalidation_reason",
+    });
+  }
 });
 
 export const AgentRunFinalStatus = z.object({
