@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 127 insights
+> 129 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -72,6 +72,7 @@
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260327-9816` [high] Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
+- `INS-260625-DD6B` [high] A model has finite capacity, so dedicating all of it to your one task lets you ship a smaller, cheaper, faster model than a general frontier model.
 - `INS-260325-FC07` [high] MIT found the 5% of organizations reaching production AI deploy through distributed experimentation with vendor accountability, not centralized approval processes.
 - `INS-260403-03BD` [high] Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things.
 - `INS-260327-6D77` [high] Taste isn't about button placement or dark mode — it's having high enough standards that you won't stamp your name on something that doesn't actually help the user.
@@ -84,6 +85,7 @@
 - `INS-260403-AFBB` [high] AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260605-4FE3` [high] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260605-7A70` [high] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
+- `INS-260625-4B92` [high] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 - `INS-260605-2623` [medium] Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260625-4248` [medium] The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.

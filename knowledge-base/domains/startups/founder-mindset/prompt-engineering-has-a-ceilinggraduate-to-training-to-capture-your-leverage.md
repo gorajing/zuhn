@@ -1,7 +1,7 @@
 ---
 id: INS-260625-0DD6
 domain: startups
-topic: startups/founder-mindset
+topic: founder-mindset
 title: Prompt engineering has a ceiling—graduate to training to capture your leverage
 actionability: reference
 confidence: medium
@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     Application companies evolve from off-the-shelf models and prompting to

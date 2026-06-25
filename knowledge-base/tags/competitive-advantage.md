@@ -16,9 +16,9 @@
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
 - `INS-260605-4FE3` Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
-- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260411-2B1D` The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
+- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
 - `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
 - `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
@@ -37,7 +37,6 @@
 - `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260410-5474` Trader Joe's pays crew members 40–150% above industry comp and rotates everyone through every role — no dedicated cashiers, baggers, or stockers — so any employee can knowledgeably answer any product question.
 - `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
-- `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
@@ -98,23 +97,24 @@
 - `INS-260410-D926` Rolex's 30% market share isn't the result of a single bold contrarian bet — it's the compound interest of making logical decisions (hold prices in 2008, maintain mechanical focus in 1980, standardize global SKUs) while Omega and peers made panicked ones.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
 - `INS-260403-6D4F` The founders who achieve outsized outcomes are distinguished primarily by their refusal to quit during the inevitable multi-year low points, not by superior initial vision.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
-- `INS-260404-ECDF` Capital is commoditized; what differentiates top accelerators is unfair access to customers, talent, investors, and high-caliber peer founders.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
+- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260412-F414` Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
+- `INS-260404-ECDF` Capital is commoditized; what differentiates top accelerators is unfair access to customers, talent, investors, and high-caliber peer founders.
 - `INS-260403-1D92` When AI makes building cheap, taste and design become the scarce differentiator.
+- `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
-- `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.

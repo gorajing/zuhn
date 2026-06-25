@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4818 insights across 57 topics
+> 4818 insights across 55 topics
 
 ## Topics
 
@@ -24,7 +24,7 @@
 | execution | 297 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | exits | 7 | Give yourself two months to try for acquisition, then shut down — no time frame means no exit. |
 | financial-planning | 4 | In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem. |
-| founder-mindset | 347 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
+| founder-mindset | 349 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
 | founder-psychology | 87 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 465 | Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception. |
 | growth | 114 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
@@ -52,10 +52,8 @@
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
-| scaling | 209 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
+| scaling | 210 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
-| startups/founder-mindset | 2 | Cursor reasons top-down—how do we get a useful model to users in the least time?—so it built on an open base (Kimi 2.5) plus mid-training and RL instead of mastering pre-training first. |
-| startups/scaling | 1 | Keep training on one tight cluster but globally distribute the inference half of RL across smaller, cheaper, heterogeneous clusters—even borrowing idle production GPUs off-peak. |
 | strategy | 282 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 70 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |

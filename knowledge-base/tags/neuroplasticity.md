@@ -1,10 +1,10 @@
 # Tag: neuroplasticity
 
 - `INS-260501-033B` Brains recover from massive damage because their building blocks are uniform — that's the design lesson for architectures that should generalize.
-- `INS-260514-B9C3` Exercise → BDNF secretion → neuron growth → improved dendritic plasticity → measurably better brain function. Mechanism is specific, not handwave-cardio.
-- `INS-260514-4E9A` Find things mentally challenging but not too difficult. Train the brain, don't strain it.
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
+- `INS-260514-B9C3` Exercise → BDNF secretion → neuron growth → improved dendritic plasticity → measurably better brain function. Mechanism is specific, not handwave-cardio.
+- `INS-260514-4E9A` Find things mentally challenging but not too difficult. Train the brain, don't strain it.
 - `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-C89D` Chronic drinking increases synapses in habit circuits while reducing connections in prefrontal control circuits, creating lasting impulsivity outside drinking episodes.
 - `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.

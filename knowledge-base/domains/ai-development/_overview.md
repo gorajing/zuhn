@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 2944 insights across 42 topics
+> 2944 insights across 41 topics
 
 ## Topics
 
@@ -14,7 +14,6 @@
 | ai-automation | 29 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-business-models | 17 | SBI reports that AI add-ons reach only a small share of net-new customers, so add-on monetization can block the adoption loop AI products need. |
 | ai-capabilities | 174 | Ben Gilbert: a lot more AI tasks will start feeling synchronous instead of async — there's such a big difference in computing applications between something that feels instant versus not, and we can't yet predict what that unlocks. |
-| ai-development/product-strategy | 2 | A model has finite capacity, so dedicating all of it to your one task lets you ship a smaller, cheaper, faster model than a general frontier model. |
 | ai-market-dynamics | 179 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 109 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 68 | Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK). |
@@ -40,7 +39,7 @@
 | pedagogy | 6 | Watching someone use AI live is more instructive than reading or hearing about it. |
 | platform-dynamics | 44 | Rona Shah (Walmart): Amazon's ads/retail-media is ~10% of revenue but ~40% of operating income — high-margin business that subsidizes low-margin e-commerce; when a shopper completes the journey inside ChatGPT without visiting the retailer, that ad revenue vanishes, which is why Amazon blocks agents and Walmart rolled back OpenAI instant-checkout. |
 | platform-shifts | 64 | The agent web needs price and capability metadata as much as it needs payment rails. |
-| product-strategy | 127 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
+| product-strategy | 129 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 16 | Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works. |
 | prompting | 20 | Codify what the agent must never do, not every step it should take, and let it reason at runtime. |
 | research-methodology | 120 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |

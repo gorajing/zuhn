@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 209 insights
+> 210 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -37,6 +37,7 @@
 - `INS-260323-9A93` [high] Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
 - `INS-260403-024E` [high] Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
 - `INS-260519-E248` [high] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
+- `INS-260625-15FB` [high] Keep training on one tight cluster but globally distribute the inference half of RL across smaller, cheaper, heterogeneous clusters—even borrowing idle production GPUs off-peak.
 - `INS-260412-AB32` [high] Black holes show a gap from 150 to millions of solar masses because incremental star-eating can't bridge it — a different mechanism (quasi-stars) was needed.
 - `INS-260330-0E4B` [high] At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260329-97C1` [high] Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.

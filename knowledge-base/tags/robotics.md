@@ -18,8 +18,8 @@
 - `INS-260505-4A97` Language was syllables and characters. Spatial intelligence is pixels — nature's language for robotics, imagination, creativity, and physical design.
 - `INS-260603-F0BE` Frans (Amazon): 'the big next wave in robotics is not the mechanical aspect — China is excellent at that — it's the intelligence layer'; training world models for specific industrial use cases (not humanoids dancing on stage) is where the real impact is, and the US can control that through the likes of Amazon and Google.
 - `INS-260327-6E57` Video diffusion models fine-tuned on real robot data can simulate counterfactual physical scenarios, scaling robotics training data exponentially without teleoperation.
-- `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
 - `INS-260405-E4FC` Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
+- `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
 - `INS-260404-E91F` Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260410-56F7` Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.

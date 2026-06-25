@@ -1,7 +1,7 @@
 ---
 id: INS-260625-4B92
 domain: ai-development
-topic: ai-development/product-strategy
+topic: product-strategy
 title: Your own production product is the most powerful RL environment
 actionability: immediate
 confidence: high
@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     The most powerful RL environment is your own product, because that is

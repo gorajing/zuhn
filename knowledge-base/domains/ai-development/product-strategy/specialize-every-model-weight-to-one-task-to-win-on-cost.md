@@ -1,7 +1,7 @@
 ---
 id: INS-260625-DD6B
 domain: ai-development
-topic: ai-development/product-strategy
+topic: product-strategy
 title: Specialize every model weight to one task to win on cost
 actionability: reference
 confidence: high
@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     A model has finite capacity, so dedicating all of it to your one task lets

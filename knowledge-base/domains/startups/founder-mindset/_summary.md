@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 347 insights
+> 349 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -37,6 +37,7 @@
 - `INS-260403-21AF` [high] When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260329-82B1` [high] When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260321-2F09` [high] Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
+- `INS-260625-6AC1` [high] Cursor reasons top-down—how do we get a useful model to users in the least time?—so it built on an open base (Kimi 2.5) plus mid-training and RL instead of mastering pre-training first.
 - `INS-260327-7157` [high] Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260329-EC01` [high] Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260322-750A` [high] Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
@@ -317,6 +318,7 @@
 - `INS-260323-B374` [medium] High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260325-3B2A` [medium] Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
 - `INS-260323-0277` [medium] Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
+- `INS-260625-0DD6` [medium] Application companies evolve from off-the-shelf models and prompting to fine-tuning, because the highest-leverage attributes—your user data, your harness, your tools—can only be partly captured by prompts.
 - `INS-260330-F348` [medium] Musk doesn't seek sources of strength — quitting simply isn't in his option set, which removes the need for ongoing motivation.
 - `INS-260327-DD1D` [medium] Quitting during a crisis reduces competition and can create better startup conditions than boom times.
 - `INS-260409-D681` [medium] Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.

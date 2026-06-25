@@ -1,7 +1,7 @@
 ---
 id: INS-260625-15FB
 domain: startups
-topic: startups/scaling
+topic: scaling
 title: Disaggregate heterogeneous infra to escape the giant-cluster bottleneck
 actionability: reference
 confidence: high
@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     Keep training on one tight cluster but globally distribute the inference

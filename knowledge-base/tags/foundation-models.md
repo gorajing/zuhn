@@ -11,8 +11,8 @@
 - `INS-260410-56F7` Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.
 - `INS-260603-A506` Ichi (Meta): spatial capabilities that today live as separate tools/pages outside the model will be continuously brought into the model layer, so language foundation models and world models converge into one combined spatial+language model.
 - `INS-260413-4EB1` The Foundation Model Transparency Index went 37→58 from 2023-2024 then dropped to 40 in 2025 — the first major regression in disclosure since the index began tracking.
-- `INS-260410-7933` LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
 - `INS-260625-F775` Databricks built a specialized document-vision model that parses pages to structured JSON at roughly 100x lower cost than frontier models while being more accurate, illustrating that narrow tasks reward specialization over scale.
+- `INS-260410-7933` LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
 - `INS-260405-FAA3` Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260409-35EC` Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.

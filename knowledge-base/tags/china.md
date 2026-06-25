@@ -96,10 +96,10 @@
 - `INS-260410-7D8E` The CCP never stopped believing in communism — Deng's liberalization was a modification of economic tactics, not a change in the party's fundamental identity, and Xi is now walking it back.
 - `INS-260410-361B` If Xi drops dead or goes senile, Chinese capital controls collapse within days — not because of mass panic, but because individual FX bureaucrats stop fearing jail and start accepting $100M bribes.
 - `INS-260403-1F97` Russian crude sellers are again requesting yuan payment from Indian refiners, driven by sanctions pressure rather than ideological de-dollarization.
-- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
-
 - `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
 - `INS-260403-49FF` Page and Brin overruled Schmidt on China because values conflicts are founder-domain decisions that operators are structurally unable to make.
+- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
+
 - `INS-260330-B4BD` Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260412-C39A` China's 'no strings attached' aid framing works because hidden political conditions feel less coercive than the IMF's explicit human rights requirements.

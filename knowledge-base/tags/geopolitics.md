@@ -103,7 +103,7 @@
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
 - `INS-260403-44A6` Canada's decision to slash Chinese EV tariffs from 100% to 6.1% was a direct consequence of deteriorating US-Canada relations under Trump's tariff threats, illustrating how bullying allies creates unintended competitive openings.
 - `INS-260412-B172` Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
-- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
+- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260404-1579` Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.

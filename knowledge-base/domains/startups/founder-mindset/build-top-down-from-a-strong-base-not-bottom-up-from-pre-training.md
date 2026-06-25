@@ -1,7 +1,7 @@
 ---
 id: INS-260625-6AC1
 domain: startups
-topic: startups/founder-mindset
+topic: founder-mindset
 title: 'Build top-down from a strong base, not bottom-up from pre-training'
 actionability: reference
 confidence: high
@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: nomic-embed-text
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     Cursor reasons top-down—how do we get a useful model to users in the least
