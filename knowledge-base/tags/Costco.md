@@ -21,8 +21,8 @@
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260410-920E` Low SKU count enables pallet-only logistics, which enables cross-docking, which enables labor efficiency, which enables higher wages, which enables low shrinkage, which enables thin margins — pull any thread and the whole tapestry unravels.
 - `INS-260410-90C5` Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.
-- `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260403-0435` Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
+- `INS-260405-C8BC` Costco pays double the retail average and gets triple the productivity — the premium pays for itself with room to spare.
 - `INS-260404-8D5F` Costco turns its warehouse aesthetic and confusing layout into brand assets that make customers feel like savvy deal-hunters.
 - `INS-260403-747B` Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260404-41AA` Costco's 15% markup cap, warehouse layout, and limited selection create interlocking efficiencies that compound into an unreplicable cost advantage.

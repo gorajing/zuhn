@@ -21,8 +21,6 @@
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260405-A2A2` Strategyzer's Value Proposition Canvas makes explicit what most product teams leave implicit: the specific pains a product relieves and gains it creates, mapped against real customer jobs.
 - `INS-260403-21BD` Palantir builds what clients ought to want rather than what they explicitly ask for, accepting initial friction for long-term loyalty.
-- `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
-- `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-902F` AI can mine forums, Reddit threads, and product reviews at scale to uncover unmet needs that manual research would miss.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
@@ -49,3 +47,5 @@
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-3745` Interview three distinct groups — your users, competitors' users, and non-users — because each reveals different strategic insights.
+- `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
+- `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.

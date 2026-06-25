@@ -46,10 +46,10 @@ stance: >-
   sit on a continuum determined by how much observers share in common.
 related:
   - INS-260330-F889
+  - INS-260625-9644
   - PRI-260323-6644
   - INS-260403-D4F0
   - INS-260323-8271
-  - INS-260404-7EFA
   - INS-260405-F7FA
 evidence:
   - id: INS-260329-A024

@@ -35,5 +35,5 @@
 - `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260404-3FDF` Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
 - `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.
-- `INS-260330-178D` Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.
 - `INS-260403-832E` Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
+- `INS-260330-178D` Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.

@@ -21,9 +21,9 @@
 - `INS-260514-BB61` Explaining (clarifying concepts) and mentoring (calibrating help-vs-struggle) are distinct skills — many great explainers are weak mentors because they default to providing answers.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-CB80` Recording confidence ratings at decision time and comparing to outcomes is a powerful metacognitive calibration tool.
+- `INS-260330-8A65` Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity.
 - `INS-260330-9484` Byron Ferguson spine-tests every arrow to ensure consistent flex behavior before shooting, separating equipment variance from skill variance.
 - `INS-260405-81B4` Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
-- `INS-260330-8A65` Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity.
 - `INS-260409-0250` A galaxy hosting a rapidly accreting black hole can look identical in brightness to a galaxy with 10x more stars, because friction-heated infalling gas radiates light that is indistinguishable from starlight at JWST resolution from billions of light years away.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
 - `INS-260330-BF96` Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.

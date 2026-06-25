@@ -64,11 +64,11 @@ related:
   - INS-260329-6B95
   - INS-260330-7987
   - INS-260330-D26B
-  - INS-260330-14CA
   - INS-260403-7CAA
   - INS-260405-B59F
   - PRI-260328-B11D
   - PRI-260323-A3A3
+  - INS-260327-DD1D
 ---
 Levine observes that while crises often have genuine external causes (market shifts, regulatory changes, investor pullbacks), founders who attribute the crisis externally tend to enter a passive waiting posture — hoping conditions will revert — rather than actively adapting. Taking ownership, even of externally caused problems, keeps the founder's cognitive frame in agency mode.
 

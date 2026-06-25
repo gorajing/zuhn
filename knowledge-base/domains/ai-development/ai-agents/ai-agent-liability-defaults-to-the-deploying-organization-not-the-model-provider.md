@@ -51,13 +51,14 @@ stance: >-
   their systems, creating an underpriced liability exposure as agents gain real
   decision-making authority.
 related:
-  - INS-260320-9D89
   - INS-260330-59BC
   - PRI-260406-9051
   - INS-260514-F58B
   - INS-260403-0350
   - INS-260619-F1E3
+  - INS-260320-9D89
   - INS-260405-1A3C
+  - INS-260625-1826
 ---
 As AI agents move from generating suggestions to executing real decisions—placing orders, sending communications, modifying records—the question of liability becomes urgent. The emerging legal consensus is that the deploying organization, not the model provider, bears accountability for agent actions within their systems. This mirrors employer liability for employee actions.
 

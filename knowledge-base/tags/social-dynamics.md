@@ -1,8 +1,8 @@
 # Tag: social-dynamics
 
 - `INS-260403-59AC` AI sycophancy reflects human social selection patterns — we already surround ourselves with agreeing voices.
-- `INS-260329-7C84` High-performers respect hustle and learning in younger people, not luxury consumption.
 - `INS-260409-2B3A` Galef: 'Sometimes I notice myself defending things I don't even believe because someone assumed I believed it' — a huge chunk of apparent belief defense is actually identity defense against a position that was never consciously chosen, just socially inherited.
+- `INS-260329-7C84` High-performers respect hustle and learning in younger people, not luxury consumption.
 - `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
 - `INS-260403-D609` Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
 - `INS-260404-E716` Surround yourself with peers doing ambitious work of their own — they can tell ugly ducklings from genuine failures, unlike generic encouragers.

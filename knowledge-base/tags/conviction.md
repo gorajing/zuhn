@@ -13,8 +13,9 @@
 - `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
 - `INS-260403-A739` Karp maintained contrarian positions for 20 years while being called a failure, and that tolerance for ostracism was itself a competitive advantage.
-- `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
+- `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
+- `INS-260409-8A36` Strong conviction in a wrong direction beats hedged drift; founders who hedge across five bets have already lost their team.
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
 - `INS-260323-2F50` Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
 - `INS-260410-2402` Nvidia should have died at least four separate times between 1995 and 2019 — they survived not through brilliant pivots but through Jensen's refusal to abandon CUDA through 80% and 50% stock crashes when everyone else would have sold the company.
@@ -22,7 +23,6 @@
 - `INS-260323-9770` LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
-- `INS-260409-8A36` Strong conviction in a wrong direction beats hedged drift; founders who hedge across five bets have already lost their team.
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260403-C349` Synthesia rejected $3B acquisition offers from Adobe and Meta, then raised $180M independently after enduring 100 rejections.
 - `INS-260403-BF83` VC due diligence is designed to confirm or deny an initial gut feeling about a startup rather than to objectively discover its merits.

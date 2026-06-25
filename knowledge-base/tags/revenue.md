@@ -13,6 +13,6 @@
 - `INS-260403-DAFA` Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260409-B73E` First paying customer in 30 days is the only validation test that cannot be faked.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
-- `INS-260409-B73E` First paying customer in 30 days is the only validation test that cannot be faked.

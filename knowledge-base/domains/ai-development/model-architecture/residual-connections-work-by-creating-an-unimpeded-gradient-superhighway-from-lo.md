@@ -54,7 +54,6 @@ stance: >-
   additive path so gradients reach every layer at initialization, letting
   residual blocks come online gradually during training.
 related:
-  - INS-260330-2154
   - INS-260405-16AB
   - INS-260410-FEFA
   - INS-260410-5F60

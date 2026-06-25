@@ -1,7 +1,6 @@
 # Tag: timing
 
 - `INS-260403-5BCF` Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
-- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
 - `INS-260410-F41F` The 2009 HITECH Act's $36B in 'meaningful use' incentives drove EMR adoption from 9% to 95% of hospitals in five years—which sounds like a tailwind, but the deeper effect was closing the door on any future innovative competitor by compressing decades of buying decisions into one window.
 - `INS-260327-5452` Napoleon crushed the Turkish army at Aboukir by attacking during their amphibious landing, when they were most disorganized and couldn't use their naval advantage.
 - `INS-260327-F274` America's entry into WW1 in 1917 was decisive not because of immediate military impact but because it added fresh industrial and manpower resources when all other participants were exhausted.
@@ -13,6 +12,7 @@
 - `INS-260405-F01C` After the weakest fundraising year since 2017, Q1 2026 became the biggest fundraising quarter since the 2021 peak—a full reversal in one quarter.
 - `INS-260403-30A5` The best VC entry point is when most risk is resolved but most investors still hesitate.
 - `INS-260405-83F0` VC funding cycles and business growth timelines rarely align — this is a known structural property that founders and investors must plan around.
+- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
 - `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260412-1F4E` We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
@@ -25,6 +25,7 @@
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 - `INS-260403-5598` Being pushed into the spotlight too early creates expectations that half-built products cannot meet, destroying momentum before it forms.
 - `INS-260412-3A50` Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
+- `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260403-6184` Credits expire 6-12 months from activation, not application — triggering them before real workloads exist is the most common way founders waste five-figure capital.
 - `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260412-B8CB` Samsung's transformation from grocery trader to industrial conglomerate began by acquiring leftover Japanese colonial assets at cents on the dollar during the Korean War's wreckage.
@@ -39,13 +40,12 @@
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
 - `INS-260409-7C92` Buyers pay when they are thirstiest; lead magnets should intensify deprivation, not relieve it.
-- `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
+- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
 - `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
 - `INS-260405-3E4E` A cybersecurity company led by former Microsoft executives went from zero to $100M ARR in nine months, backed by Index and Sequoia — a pace achievable only when founder credibility and sector tailwinds align.
 - `INS-260402-A3DB` Coordinate first meetings within a 2-3 week window and manage all funds on parallel timelines to create a competitive market for your equity.
 - `INS-260403-07C6` Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
-- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260409-AB58` If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.
 - `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260404-3043` Bubble economics temporarily suppress adoption of efficient innovations that later become standard.
@@ -54,6 +54,7 @@
 - `INS-260404-2DB4` Companies must reinvent while successful because decline eliminates the resources needed for transformation.
 - `INS-260404-7A54` High mobile penetration plus low workflow digitization signals a ripe market entry window for vertical SaaS.
 - `INS-260403-1AE5` New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
+- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260405-4D20` Greg Isenberg's 2024 claim that it's the best time to start a company in 30 years is grounded in AI dramatically compressing the cost and time to build an MVP.
 - `INS-260323-1494` Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -87,11 +88,10 @@
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260410-1BB0` When you're racing a window shut, you don't have the luxury of optionality — the window itself is evidence your adversary's structural position will soon exceed yours.
 - `INS-260403-B835` Young founders use the latest technology first, positioning them to discover fixable brokenness before older, more experienced operators.
-- `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
-- `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
-- `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
-- `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.
 - `INS-260619-3AED` In AI, thematic conviction has to be re-underwritten repeatedly because product-market windows are narrower and move faster.
 - `INS-260403-EAE5` The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
+- `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
+- `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.
+- `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'

@@ -61,7 +61,6 @@ related:
   - INS-260605-0C5C
   - INS-260605-CA2B
   - INS-260605-E145
-  - INS-260624-A121
 ---
 On Moltbook, AI agents successfully founded religions, political movements, marketplaces, and social networks — all within hours. But virtually none of these projects progressed beyond their founding moment. The pattern is striking: agents are excellent at inception (writing manifestos, declaring movements, proposing strikes) but terrible at continuation. This maps directly to Claude 4.5 Opus's ~4-hour effective time horizon — roughly what a human could accomplish in the same span.
 

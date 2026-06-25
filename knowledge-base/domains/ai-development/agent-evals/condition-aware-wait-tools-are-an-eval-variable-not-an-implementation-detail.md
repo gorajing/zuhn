@@ -39,10 +39,10 @@ stance: >-
   first-class harness variables because they can change both success and cost
   independent of the base model.
 related:
-  - INS-260410-0DA5
   - INS-260413-B79B
   - INS-260605-B60D
+  - INS-260410-0DA5
+  - INS-260625-2A4F
   - INS-260403-5F69
-  - INS-260625-1187
 ---
 SentinelBench's sleep versus wait_for comparison shows that a seemingly small tool interface decision changes reaction-cost behavior. AgentRun evaluations should record available tools, especially any condition waiters, schedulers, browser watchers, or notification hooks, so reliability claims are attributable to the system harness rather than silently credited to the model.

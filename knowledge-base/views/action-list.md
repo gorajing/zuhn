@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5605 actionable insights
+Generated on 2026-06-25 | 5609 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -43,6 +43,9 @@ Generated on 2026-06-25 | 5605 actionable insights
 - [INS-260625-76E9] Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - [INS-260625-14F9] Separate context discovery from patch generation when diagnosing coding-agent reliability.
 - [INS-260625-FDC1] Long-running agent gates should report success, reaction latency, and resource use together.
+- [INS-260625-9644] When a task has objective consequences, evaluate the consequence, not the prose around it.
+- [INS-260625-B096] Retry provider faults, not poor answers.
+- [INS-260625-2A4F] Shared failures are often benchmark QA signals before they are leaderboard facts.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -1150,6 +1153,7 @@ Generated on 2026-06-25 | 5605 actionable insights
 - [INS-260625-81E1] The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
 - [INS-260625-8A55] Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
 - [INS-260625-019F] Code no longer documents agent behavior at runtime — only telemetry (traces/spans) does, so observability must be instrumentation-first.
+- [INS-260625-1826] Do not rely on policy text to keep agents away from the oracle.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

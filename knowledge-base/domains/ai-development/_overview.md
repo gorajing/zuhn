@@ -1,13 +1,13 @@
 # Domain: ai-development
 
-> 2859 insights across 41 topics
+> 2867 insights across 41 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | adoption | 68 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
-| agent-evals | 7 | AgentRun gates should distinguish fast blockers from slower calibration signals. |
+| agent-evals | 13 | AgentRun gates should distinguish fast blockers from slower calibration signals. |
 | agent-patterns | 312 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
 | agents | 57 | What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime. |
 | ai-agents | 73 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
@@ -43,7 +43,7 @@
 | productivity | 16 | Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works. |
 | prompting | 20 | Codify what the agent must never do, not every step it should take, and let it reason at runtime. |
 | research-methodology | 119 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
-| system-building | 281 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
+| system-building | 283 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 82 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | training-dynamics | 19 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

@@ -61,6 +61,7 @@ related:
   - INS-260625-2563
   - INS-260605-1066
   - INS-260625-9096
+  - INS-260625-1920
 ---
 When the Kaggle team moved from evaluating bare models to evaluating agents, the central question became 'what are we actually testing?' They cite a Morph LLM analysis showing six frontier models landing within a couple percentage points of each other on SWE-bench Pro, while the choice of harness produces a ~22% difference in coding performance. The thing that supposedly varies (the model) barely moves the needle; the thing held implicit (the scaffolding, tool access, retry logic, context management) dominates.
 

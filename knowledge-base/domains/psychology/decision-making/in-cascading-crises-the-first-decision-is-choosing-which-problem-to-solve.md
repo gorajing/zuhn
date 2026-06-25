@@ -54,7 +54,7 @@ related:
   - INS-260404-6C8F
   - INS-260411-33E5
   - INS-260323-1811
-  - INS-260412-9657
+  - INS-260625-2A4F
 ---
 When Apollo 13's oxygen tank exploded, mission control faced simultaneous loss of two fuel cells, depleting oxygen, trajectory deviation, power constraints, and water shortage. The engineers' initial instinct was that 'there couldn't possibly be this many failures at once'—the cognitive load of parallel crises nearly overwhelmed the team. The breakthrough was Gene Krantz's triage framework: first ensure survival (move to lunar module), then correct trajectory, then solve consumables.
 

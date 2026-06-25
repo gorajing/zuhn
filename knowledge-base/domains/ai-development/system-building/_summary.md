@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 281 insights
+> 283 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -157,6 +157,7 @@
 - `INS-260323-22E8` [high] A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260605-C436` [high] Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - `INS-260330-3B0B` [high] Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
+- `INS-260625-1826` [high] Do not rely on policy text to keep agents away from the oracle.
 - `INS-260323-2117` [high] Lagrange's breakthrough was converting the three-body problem from vectors (directional, hard to add) to scalars (magnitudes, trivially additive) — a problem-solving pattern that recurs across engineering and AI.
 - `INS-260320-6F8E` [high] SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
 - `INS-260329-CB03` [high] Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
@@ -228,6 +229,7 @@
 - `INS-260325-2B76` [medium] The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
 - `INS-260329-92FC` [medium] Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
 - `INS-260501-BBB7` [medium] Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
+- `INS-260625-CD66` [medium] Use saturated compact evals to screen practical models before simulator-scale tests.
 - `INS-260605-4592` [medium] In a large org, skills sprawl out of control; only the best should survive, by deliberate Darwinian pruning.
 - `INS-260605-BD54` [medium] The textbook five-step SDLC is a human abstraction agents ignore — to automate it you must decompose each coarse stage (e.g. 'plan') into the many deterministic micro-steps it actually contains.
 - `INS-260605-7125` [medium] Push prompt/model/temperature as typed managed variables so you can change agent behavior in prod without a redeploy.
