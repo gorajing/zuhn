@@ -46,10 +46,10 @@ stance: >-
   effect, not through superior core editing capabilities.
 related:
   - PRI-260328-43F1
+  - INS-260625-2777
   - PRI-260406-9D48
   - PRI-260406-9063
   - PRI-260322-8FD4
-  - PRI-260406-CA09
   - INS-260404-B475
 ---
 VS Code's dominance illustrates a classic platform dynamic: once the extension ecosystem reaches critical mass, developers building tooling (e.g., Tailwind, Docker) prioritize VS Code extensions first, which attracts more users, which attracts more extension authors. This flywheel makes it nearly impossible for competitors to catch up even if their core product is superior.

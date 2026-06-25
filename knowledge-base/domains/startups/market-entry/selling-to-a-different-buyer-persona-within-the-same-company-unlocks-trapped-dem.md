@@ -51,7 +51,6 @@ stance: >-
   cost-cutting tool into an innovation accelerator, unlocking willingness to pay
   premium prices
 related:
-  - INS-260322-E20E
   - INS-260325-4FF3
   - INS-260324-A046
   - INS-260327-F6BA
@@ -61,6 +60,7 @@ related:
   - INS-260327-A763
   - INS-260327-749F
   - INS-260327-624F
+  - PRI-260328-70D9
 evidence:
   - id: INS-260321-52EF
     type: TRANSFERS_TO

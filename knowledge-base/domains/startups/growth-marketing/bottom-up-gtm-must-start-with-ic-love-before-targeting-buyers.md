@@ -54,8 +54,8 @@ related:
   - INS-260405-3315
   - INS-260403-A9CC
   - PRI-260406-CA09
+  - INS-260625-1D82
   - INS-260404-6398
-  - INS-260325-FDF5
 ---
 Figma's GTM motion deliberately sequenced love before purchase: designer ICs had to be genuinely delighted before any outreach to managers or procurement. This sequencing is not just ethical or feel-good — it is mechanically required because bottom-up deals close only when an internal champion can articulate personal value to their organization. Targeting buyers first without IC love produces a fragile sale that churns as soon as the champion leaves.
 

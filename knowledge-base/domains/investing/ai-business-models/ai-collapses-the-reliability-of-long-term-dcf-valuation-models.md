@@ -47,10 +47,10 @@ stance: >-
   of how capital-intensive AI bets are valued.
 related:
   - PRI-260406-992F
+  - INS-260625-0DAA
   - INS-260403-B228
   - INS-260322-299C
   - PRI-260412-A051
-  - INS-260403-3AE7
   - INS-260403-A8BA
   - INS-260403-839E
   - INS-260412-3AF6

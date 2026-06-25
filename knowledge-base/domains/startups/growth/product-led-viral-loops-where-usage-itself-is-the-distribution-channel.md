@@ -57,6 +57,7 @@ related:
   - INS-260410-6F67
   - INS-260405-DADB
   - INS-260409-6236
+  - INS-260625-2777
 ---
 Meet-Ting's scheduling coordination has a built-in viral mechanism: when a user schedules a meeting through the AI, every guest encounters the product. Growth is embedded in the product's core function rather than requiring separate marketing spend. This is a textbook example of product-led growth where the use case itself is the distribution channel.
 

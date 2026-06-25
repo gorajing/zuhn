@@ -45,7 +45,6 @@ stance: >-
   SaaS companies built on per-seat pricing will face structural revenue
   compression as AI agents replace human users.
 related:
-  - INS-260321-7109
   - INS-260327-176D
   - INS-260405-FE94
   - INS-260403-7D11

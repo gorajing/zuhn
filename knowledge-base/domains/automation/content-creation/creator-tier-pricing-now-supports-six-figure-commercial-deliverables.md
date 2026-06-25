@@ -44,9 +44,9 @@ stance: >-
 related:
   - INS-260403-BF8C
   - INS-260403-5DF2
+  - INS-260625-0DAA
   - PRI-260406-B785
   - INS-260404-B8EB
   - INS-260403-345C
-  - INS-260403-2D68
 ---
 The $300K agency quote versus ~$200 of credit cost represents a temporary pricing disequilibrium: agencies price on historical labor and equipment assumptions while the underlying production cost has collapsed by 3-4 orders of magnitude. This arbitrage will close as brands learn the new cost structure and competing AI-native producers drive prices down, but for 12-24 months there is a real window for operators who can combine technical workflow skill with enough creative direction to meet brand expectations. The window is narrowest for generic content, widest for operators who can demonstrate editorial taste.

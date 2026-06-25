@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5598 actionable insights
+Generated on 2026-06-25 | 5605 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -36,6 +36,13 @@ Generated on 2026-06-25 | 5598 actionable insights
 - [INS-260605-6DE5] Introduce agent patterns where they improve the product; do not start with a rewrite.
 - [INS-260625-7DC7] Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
 - [INS-260625-D295] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.
+
+## ai-development/agent-evals
+- [INS-260625-C1E8] AgentRun gates should distinguish fast blockers from slower calibration signals.
+- [INS-260625-0148] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
+- [INS-260625-76E9] Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
+- [INS-260625-14F9] Separate context discovery from patch generation when diagnosing coding-agent reliability.
+- [INS-260625-FDC1] Long-running agent gates should report success, reaction latency, and resource use together.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -369,6 +376,8 @@ Generated on 2026-06-25 | 5598 actionable insights
 - [INS-260424-E832] Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business?
 - [INS-260501-74AD] $150 of tokens for a board memo that would've taken a CEO 20 hours = obvious win. But people anchor on $20/month subscriptions and balk.
 - [INS-260505-F164] Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
+- [INS-260625-2777] SBI reports that AI add-ons reach only a small share of net-new customers, so add-on monetization can block the adoption loop AI products need.
+- [INS-260625-5929] Outcome pricing is not just a billing choice; the product must create self-contained, attributable outcomes before the model works.
 
 ## ai-development/ai-capabilities
 - [INS-260323-4D14] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.

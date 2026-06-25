@@ -1,5 +1,6 @@
 # Tag: base-rates
 
+- `INS-260625-0DAA` Outcome pricing remains a rare current-market model, so agent-era outcome-pricing beliefs need to be framed as predictions rather than descriptions.
 - `INS-260410-2388` The 'conservative' move of assuming AI progress will stop isn't neutral — you're claiming an established trend will break, which needs positive justification.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260403-C0D4` Failure is a better teacher than success because failure modes cluster predictably while success depends on unrepeatable context.

@@ -45,8 +45,8 @@ stance: >-
 related:
   - PRI-260328-BD81
   - INS-260403-81CE
+  - INS-260625-0DAA
   - INS-260404-0EE0
   - PRI-260405-5912
-  - INS-260403-3280
 ---
 Most early-stage teams spend energy on metrics that feel like progress—press coverage, follower counts, website traffic—but these are lagging or orthogonal to actual product-market fit. The only signals that matter early are: do customers urgently need this now (hair-on-fire problem), and will they pay full price without discounting? If neither is true, all other traction is noise. This reframing saves founders from months of false confidence. Track the hard signals from day one and treat soft signals as entertainment.

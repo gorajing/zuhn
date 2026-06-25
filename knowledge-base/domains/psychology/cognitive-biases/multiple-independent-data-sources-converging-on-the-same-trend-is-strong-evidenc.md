@@ -60,6 +60,7 @@ related:
   - PRI-260403-CCBC
   - INS-260402-3FD8
   - PRI-260405-ADEA
+  - INS-260625-869B
 ---
 When evaluating whether a trend is real or an artifact, the strongest evidence comes from multiple independent measurement methods converging on the same conclusion. Each method has its own biases — police reports depend on victim reporting behavior, surveys depend on memory and honesty, insurance-linked reports depend on financial incentives — but these biases are largely uncorrelated.
 

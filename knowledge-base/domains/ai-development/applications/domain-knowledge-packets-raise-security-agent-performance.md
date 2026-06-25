@@ -42,11 +42,11 @@ stance: >-
   vulnerability-class knowledge, exploit patterns, project-specific context, and
   code-analysis affordances instead of raw code alone.
 related:
+  - INS-260625-14F9
   - INS-260501-3CAA
   - INS-260624-EA6B
   - INS-260605-3AB7
   - INS-260625-D295
-  - INS-260605-BA6A
 ---
 The transcript described adding vulnerability-category explanations, exploit guidance, existing vulnerability patterns, compiler/fuzzer output, coverage data, LSP-like navigation, code graphs, and tool-calling interfaces. This improved the model's ability to reason about where a vulnerability may exist and how to reach it.
 

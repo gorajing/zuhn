@@ -51,7 +51,6 @@ stance: >-
   A great benchmark is a forward-looking goalpost that shapes where the field
   goes, not a backward-looking snapshot of current progress.
 related:
-  - INS-260413-B79B
   - INS-260514-3974
   - INS-260605-3490
   - INS-260625-1187

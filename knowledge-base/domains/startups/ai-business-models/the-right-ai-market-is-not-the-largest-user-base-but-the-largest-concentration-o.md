@@ -48,6 +48,6 @@ related:
   - INS-260605-AA03
   - INS-260409-1298
   - INS-260404-B8EB
-  - PRI-260406-B785
+  - INS-260625-0DAA
 ---
 Founders are trained to maximize TAM, but that framing misleads small AI teams. What matters is the intersection of (1) a large enough user base to allow organic spread and (2) a concentrated core of buyers who spend meaningful money on the problem already. Creators, advertising agencies, and marketing companies spend billions on content — they are pre-qualified to pay tens of thousands per month for tools that materially improve efficiency. Mass-market consumer markets fail the density test: they have users but no willing payers. The correct AI market has both.

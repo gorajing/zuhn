@@ -46,10 +46,10 @@ stance: >-
   AI must route around rather than integrate with.
 related:
   - INS-260405-85B5
+  - INS-260625-5929
   - INS-260403-2A44
   - INS-260327-5D62
   - INS-260323-8D12
-  - INS-260403-5683
 evidence:
   - id: INS-260323-5CBE
     type: SUPPORTS

@@ -1,5 +1,6 @@
 # Tag: usage-based-pricing
 
+- `INS-260625-1D82` Usage-based pricing is materially adopted while outcome pricing remains tiny, so treating both as the same anti-seat shift hides the real adoption curve.
 - `INS-260403-91F7` AI inference costs create variable expense per interaction, breaking the traditional SaaS model of near-zero marginal cost per user.
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
 - `INS-260403-501D` Consumer AI apps achieve >100% revenue retention through usage-based pricing and enterprise adoption, breaking traditional SaaS churn assumptions.

@@ -1,0 +1,11 @@
+# Topic: agent-evals
+
+> 7 insights
+
+- `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
+- `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.
+- `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.
+- `INS-260625-C1E8` [medium] AgentRun gates should distinguish fast blockers from slower calibration signals.
+- `INS-260625-76E9` [medium] Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
+- `INS-260625-869B` [medium] Budgeted ranked evidence is a stronger context gate than raw file-hit or token-count metrics.
+- `INS-260625-2B5A` [medium] Correctness gates should encode behavior, not proximity to one historical patch.

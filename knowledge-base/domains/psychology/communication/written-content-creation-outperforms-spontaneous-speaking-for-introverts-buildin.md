@@ -60,7 +60,6 @@ related:
   - INS-260530-E697
   - PRI-260406-1AC6
   - INS-260423-AB6B
-  - INS-260405-3F0F
   - INS-260403-09CB
 ---
 Susan Cain argues that introverts have a structural disadvantage in spontaneous verbal communication but a potential advantage in written and prepared communication. Rather than trying to become better at impromptu speaking, introverts should create content—blogs, newsletters, written analysis—that showcases their depth of thinking.

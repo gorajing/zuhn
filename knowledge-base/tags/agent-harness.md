@@ -1,5 +1,7 @@
 # Tag: agent-harness
 
+- `INS-260625-0148` Treat model, tools, context, environment, and feedback as explicit evaluation variables.
+- `INS-260625-76E9` Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260327-F625` Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
 - `INS-260624-F048` A million-token window is not a substitute for a context manager.

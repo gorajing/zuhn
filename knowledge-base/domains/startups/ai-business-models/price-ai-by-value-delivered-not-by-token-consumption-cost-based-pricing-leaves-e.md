@@ -54,7 +54,7 @@ related:
   - PRI-260406-5BD0
   - PRI-260406-B785
   - INS-260403-401F
-  - INS-260403-5D89
+  - INS-260625-1D82
 stance: >-
   AI application companies should price by business value delivered or
   productivity uplift, not by token consumption

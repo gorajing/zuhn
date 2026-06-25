@@ -55,6 +55,7 @@ related:
   - PRI-260411-5A63
   - INS-260409-278A
   - INS-260403-8450
+  - INS-260625-0DAA
 ---
 The natural instinct in acquisition talks is to agree on price first because it feels like the biggest decision. But this sequencing is a trap. Once price is set, the remaining negotiation space narrows dramatically — the acquirer can argue that any structural request (more cash, fewer earn-out conditions, shorter vesting) effectively changes the agreed price. Founders find themselves locked into unfavorable structures because they anchored too early.
 

@@ -47,11 +47,11 @@ stance: >-
   Designing switching costs into the business model (e.g., data lock-in,
   ecosystem dependency) creates stronger retention than product quality alone
 related:
+  - INS-260625-5929
   - INS-260403-754F
   - INS-260403-BB22
   - INS-260403-36EC
   - INS-260404-BD46
-  - PRI-260405-1A34
   - INS-260330-707D
 evidence:
   - id: INS-260330-707D

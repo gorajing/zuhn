@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-25 | 2910 sources
+Generated on 2026-06-25 | 2914 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -83,9 +83,9 @@ Generated on 2026-06-25 | 2910 sources
 | How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
+| ai agents 12 ai memory meetup 2026 04 20 | audio | 10 | 2026-04-21 |
 | article_measuringthemoat | pdf | 10 | 2026-04-12 |
 | ceo-letter-to-shareholders-2025 | pdf | 10 | 2026-04-12 |
-| ai agents 12 ai memory meetup 2026 04 20 | audio | 10 | 2026-04-21 |
 | Epistemology and Metacognition in Artificial Intelligence: Defining, Classifying, and Governing the Limits of AI Knowledge | blog | 10 | 2026-04-12 |
 | How can we develop transformative tools for thought? | blog | 10 | 2026-04-10 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
@@ -180,9 +180,9 @@ Generated on 2026-06-25 | 2910 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
@@ -350,6 +350,7 @@ Generated on 2026-06-25 | 2910 sources
 | Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | The St. Regis San Francisco 2 | audio | 5 | 2026-06-19 |
+| SBI_Price_Intelligently_SaaSPricingReport_2025_Part1 | pdf | 5 | 2026-06-25 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 5 | 2026-03-31 |
@@ -1981,6 +1982,7 @@ Generated on 2026-06-25 | 2910 sources
 | Connect to tools - Amazon Bedrock AgentCore | blog | 3 | 2026-06-05 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 3 | 2026-03-30 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |
+| Position: Coding Benchmarks Are Misaligned with Agentic Software Engineering | blog | 3 | 2026-06-25 |
 | Reinvent Your Company While It's Still Successful | blog | 3 | 2026-03-31 |
 | Startup MIS Excel Template to Track KPIs | blog | 3 | 2026-03-30 |
 | The 2026 AI product strategy guide: How to plan, budget, and build without buying into the hype | blog | 3 | 2026-03-26 |
@@ -2140,6 +2142,8 @@ Generated on 2026-06-25 | 2910 sources
 | In Consumer AI, Momentum Is the Moat | Andreessen Horowitz | blog | 2 | 2026-03-26 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 2 | 2026-03-26 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 2 | 2026-03-26 |
+| SentinelBench: A Benchmark for Long-Running Monitoring Agents | blog | 2 | 2026-06-25 |
+| SWE-Explore: Benchmarking How Coding Agents Explore Repositories | blog | 2 | 2026-06-25 |
 | #1 BEST Meal to Prevent a Heart Attack and Stroke | youtube | 2 | 2026-03-26 |
 | 10 Vitamins You Should NEVER Take | youtube | 2 | 2026-03-26 |
 | 100 AI Leaders Explain How to Build AI That Will Win in 2026 — WHAT BUILDERS SHOULD DO NOW | youtube | 2 | 2026-03-26 |

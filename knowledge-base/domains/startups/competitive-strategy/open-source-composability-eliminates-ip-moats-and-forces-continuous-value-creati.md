@@ -58,7 +58,6 @@ related:
   - INS-260409-3EB3
   - INS-260514-9DCE
   - INS-260505-2FFB
-  - INS-260624-EA6B
 ---
 Web3's open-source and composable nature creates a competitive environment fundamentally different from web2. Sushiswap's vampire attack on Uniswap demonstrated that any product can be forked instantly, and users can migrate with their data. This eliminates two of the most powerful web2 moats: proprietary technology and high switching costs.
 
