@@ -49,7 +49,6 @@ stance: >-
 related:
   - INS-260326-2410
   - INS-260410-CD79
-  - INS-260410-EE5C
   - INS-260514-1D60
   - INS-260605-F5FB
   - INS-260605-5C58
@@ -57,5 +56,6 @@ related:
   - INS-260605-AE67
   - INS-260602-EA48
   - INS-260624-B6EA
+  - INS-260605-CA2B
 ---
 Arnaldi reports active experimentation showing 'very good margins of improvement by reducing the number of tools that the model has access to.' Their extreme case: a coding agent with a single tool call, 'execute', that runs arbitrary TypeScript including shelling out to Bash. In that setup the model has no patch/edit tool at all — to change a file it must write a TypeScript program that performs an AST-based transformation. 'It's fantastic how you reduce the things that the model can do and it does better.' This connects to his broader observation that a 1-million-token context window is not necessarily good: everything pushed into the context goes to the neural network's next-token prediction, so more information raises the chance of confusing the model, especially when doing multiple things in one context. The principle: constraints channel the model rather than handicapping it.

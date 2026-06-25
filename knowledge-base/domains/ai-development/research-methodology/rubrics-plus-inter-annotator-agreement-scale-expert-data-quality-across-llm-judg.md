@@ -62,7 +62,7 @@ related:
   - INS-260605-4597
   - PRI-260406-3EF8
   - INS-260605-EC51
-  - INS-260605-33B4
+  - INS-260605-1A91
 ---
 To deliver quality 'at scale,' Snorkel keeps experts in the loop but augments them with LLM judges. The bridge is a rubric: a long, structured list of criteria and data points that both people and LLM judges evaluate against. Human experts supply ground-truth judgments that inform the LLM judges, and the system explicitly measures inter-annotator agreement — both human-to-human and human-to-LLM — as a quality-assessment gate.
 

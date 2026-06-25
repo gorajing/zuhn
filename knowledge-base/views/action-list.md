@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-24 | 5518 actionable insights
+Generated on 2026-06-25 | 5525 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -290,6 +290,9 @@ Generated on 2026-06-24 | 5518 actionable insights
 - [INS-260605-169D] Treat robustness like a vision model's tolerance to fog or camera shake: specify how many typos or rephrasings the agent can absorb before it breaks.
 - [INS-260605-3A60] Specify agent behavior with ground-truth examples plus rules, ontologies, internal terminology, domain knowledge, rights/roles, and robustness requirements — not just a test set.
 - [INS-260605-2D9B] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
+- [INS-260625-9096] Post-training results depend on the harness the agent sees during training, so harness choices are load-bearing system parameters.
+- [INS-260625-CBC7] A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
+- [INS-260625-FACB] Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -769,6 +772,7 @@ Generated on 2026-06-24 | 5518 actionable insights
 - [INS-260605-B405] Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training.
 - [INS-260605-0113] After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
 - [INS-260605-83A7] Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise.
+- [INS-260625-84D0] If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -945,6 +949,7 @@ Generated on 2026-06-24 | 5518 actionable insights
 - [INS-260605-9CE2] Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - [INS-260605-4A94] Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - [INS-260605-1066] Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.
+- [INS-260625-A53F] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1071,6 +1076,7 @@ Generated on 2026-06-24 | 5518 actionable insights
 - [INS-260605-C223] A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 - [INS-260605-F4AE] Variable-driven prompts preserve evaluability as use cases multiply.
 - [INS-260605-15B8] Turn harness edits into falsifiable contracts, not untracked tweaks.
+- [INS-260625-93FC] A richer harness is not free performance; it embeds environment knowledge that must be paid for and measured.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1115,6 +1121,7 @@ Generated on 2026-06-24 | 5518 actionable insights
 - [INS-260605-D320] Forbid the capability that creates a bug class — e.g. ban database access from template rendering so N+1 queries can never occur — instead of repeatedly hunting for instances.
 - [INS-260605-9362] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
 - [INS-260619-CBFA] Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
+- [INS-260625-DAE9] Do not optimize the model, scaffold, and eval suite as independent tracks.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

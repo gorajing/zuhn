@@ -53,11 +53,12 @@ stance: >-
   not from running more automated experiments.
 related:
   - INS-260605-4856
+  - INS-260625-9096
   - INS-260410-9DB0
   - INS-260605-36E9
   - PRI-260426-890F
-  - INS-260514-4FDC
   - INS-260605-E230
   - INS-260605-15B8
+  - INS-260625-84D0
 ---
 There's no secret to making these systems good — the work is reading traces. The primary debugging loop is reading what the agent actually did, finding where its judgment diverged from a human's, and tuning the prompt for that divergence; it's the same muscle as reading a stack trace. Claude out of the box is a bad QA agent (early runs would 'find a bug, say fix-it-later-might-take-2-weeks, and move on' — the same sycophancy/leniency bias of LLM-as-judge systems), and the only fix was exorbitant manual trace-reading. Tooling helps as a first pass (pipe transcripts to files, grep them, point another agent at them to flag where the loop veered off), but the team is emphatic that you must read the whole trace, not a filtered summary. The deeper skill is empathizing with the model: for Claude-for-Chrome they simulated navigating web pages 'with eyes closed,' opening them every 10 seconds, to feel what the model experiences. Learnings then get baked into prompt templates, CLAUDE.md, or skills.

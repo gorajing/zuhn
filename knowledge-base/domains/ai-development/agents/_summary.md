@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 54 insights
+> 57 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -20,8 +20,10 @@
 - `INS-260410-F5EC` [high] Generate dozens of evaluation tasks grounded in real data sources that require chained, multi-step tool calls rather than single-shot lookups.
 - `INS-260605-B610` [high] Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?'
 - `INS-260410-5D66` [high] Grading tool-call sequences creates brittle evals that punish creativity; grade the outcome and the transcript holistically instead.
+- `INS-260625-9096` [high] Post-training results depend on the harness the agent sees during training, so harness choices are load-bearing system parameters.
 - `INS-260605-E18B` [high] The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260605-46A8` [high] For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
+- `INS-260625-CBC7` [high] A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - `INS-260410-4067` [high] Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
 - `INS-260605-2D9B` [high] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260410-9B0E` [high] Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
@@ -38,6 +40,7 @@
 - `INS-260410-AF66` [high] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260605-5D14` [high] If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
 - `INS-260605-1A2D` [high] Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
+- `INS-260625-FACB` [high] Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
 - `INS-260410-376A` [high] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260410-83EC` [high] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260405-F26B` [medium] ReAct is an introduction to agent reasoning, not a complete architecture for production systems.

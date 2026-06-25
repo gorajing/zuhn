@@ -1,7 +1,7 @@
 # Tag: behavioral-design
 
-- `INS-260412-4127` Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
+- `INS-260412-4127` Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
 - `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.

@@ -59,6 +59,7 @@ related:
   - INS-260605-EF23
   - INS-260605-09E0
   - INS-260605-6444
+  - INS-260625-DAE9
 ---
 Traditional AI evaluation handcrafts a set of questions, tunes the system until it passes offline, and ships — treating the application like static software. But modern harnesses (Claude, Codex, Open Claw) rewrite themselves: they create skills, adapt to users, and ship at lightning speed. A benchmark frozen at deployment time cannot keep up with software that mutates after deployment, so it 'calcifies' and you are back to the drawing board the moment something unexpected happens.
 

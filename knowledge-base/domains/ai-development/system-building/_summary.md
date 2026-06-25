@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 267 insights
+> 268 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -104,6 +104,7 @@
 - `INS-260330-D483` [high] Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
 - `INS-260402-BF2E` [high] When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
 - `INS-260323-36A8` [high] The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
+- `INS-260625-93FC` [high] A richer harness is not free performance; it embeds environment knowledge that must be paid for and measured.
 - `INS-260409-D5BD` [high] A single ingested source should ripple through 10-15 existing pages; if it only creates one new page, the system isn't compounding.
 - `INS-260329-BA12` [high] Inheritance (Chef is-a subclass of Person) seems elegant but creates rigid hierarchies — in practice, composition ('has-a') produces more flexible systems.
 - `INS-260329-6A26` [high] Inheritance should model genuine is-a relationships; using it purely for code reuse creates brittle hierarchies.

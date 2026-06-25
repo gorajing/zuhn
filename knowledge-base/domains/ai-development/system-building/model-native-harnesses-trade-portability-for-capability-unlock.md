@@ -45,11 +45,11 @@ stance: >-
   frameworks miss, but teams should isolate the durable harness contract from
   provider-specific execution details.
 related:
-  - INS-260605-E230
   - INS-260619-6E08
+  - INS-260605-E230
+  - INS-260625-93FC
   - INS-260403-80A0
   - INS-260524-2C7C
-  - INS-260605-15B8
 ---
 OpenAI explicitly contrasts three tradeoffs: model-agnostic frameworks are flexible but may underuse frontier model capabilities; provider SDKs can align better with the model but may expose less harness visibility; managed APIs simplify deployment but constrain runtime and sensitive-data access.
 
