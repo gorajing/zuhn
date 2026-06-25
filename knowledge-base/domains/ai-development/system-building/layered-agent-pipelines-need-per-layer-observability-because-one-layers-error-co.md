@@ -65,9 +65,9 @@ related:
   - INS-260410-F08E
   - PRI-260328-1ED1
   - INS-260605-E9A6
+  - INS-260625-0021
   - INS-260423-85B3
   - INS-260410-E73E
-  - INS-260410-B3C4
 ---
 The architectural point is about error propagation in layered agent systems. The stack described — data sources, data ingestion (chunking, embedding, graph extraction), retrieval sub-agents (graph search + vector search), and AI models (LLMs, VLMs, embedding models) — is a pipeline where each layer's output feeds the next. A failure in an early layer (e.g. bad chunking, a stale embedding) doesn't announce itself as 'the chunker failed'; it surfaces downstream as a bad final answer, and the whole agent is 'confined' by that upstream error.
 

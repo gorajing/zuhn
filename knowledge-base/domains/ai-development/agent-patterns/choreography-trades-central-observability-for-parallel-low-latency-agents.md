@@ -75,6 +75,7 @@ related:
   - INS-260605-9A01
   - INS-260404-6BD6
   - INS-260410-49C5
+  - INS-260625-1C5E
 ---
 Bhaumik notes that a single agent rarely needs orchestration, but the moment you add five, coordination complexity grows exponentially — agents must talk to each other, wait on each other, and recover from each other's failures — and you must consciously choose a pattern. He contrasts three. In orchestrator-worker, one orchestrator controls all work from a central plane and dispatches to specialized agents; every request flows through it, so you get central control and a single place (the orchestrator logs) to debug what happened. In choreography, agents are autonomous and independent: they all subscribe to a message bus and react to the events they care about, running in parallel rather than in an orchestrator-mediated sequence. The advantage is reduced latency, because agents aren't bottlenecked on round-trips through a central coordinator; the tradeoff is the loss of that central observability and control point. The third, human-in-the-loop, routes to a human whenever an agent's confidence falls below a threshold.
 

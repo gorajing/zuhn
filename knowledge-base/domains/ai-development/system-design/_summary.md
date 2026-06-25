@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 83 insights
+> 84 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -16,6 +16,7 @@
 - `INS-260605-75BB` [high] Clients hold a continuously maintained connection to a shared session so a second tab or phone has instant visibility and an upstream channel to the working agent.
 - `INS-260605-48CA` [high] Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
 - `INS-260410-A27C` [high] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
+- `INS-260625-26F5` [high] Stop measuring agent success like a researcher (accuracy) and start measuring it like an SRE — reliability, availability, latency, cost, recovery — because dependable outcomes, not benchmark peaks, are the goal.
 - `INS-260514-6EE6` [high] One day a week, every engineer's job is to take every bit of weekly slop and categorically eliminate it from happening again. Compounds dramatically.
 - `INS-260605-C37E` [high] When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
 - `INS-260404-9C57` [high] Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.

@@ -55,6 +55,7 @@ related:
   - INS-260404-0153
   - INS-260403-CCED
   - INS-260625-E7F2
+  - INS-260625-4AFE
 ---
 eDreams pioneered approaches that didn't fit the 'pure OTA' model investors preferred: combining low-cost and traditional carriers via web-scraping, adding trains to a flight engine, replacing airline commissions with service fees, building a parallel media business, and creating a hybrid OTA-Meta model. Each innovation looked messy individually but collectively created multiple revenue streams and competitive moats.
 

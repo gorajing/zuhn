@@ -57,6 +57,7 @@ related:
   - INS-260403-1337
   - INS-260410-230E
   - INS-260501-504A
+  - INS-260625-6ED0
 stance: The next industrial revolution isn't just factories
 evidence:
   - id: INS-260403-4690

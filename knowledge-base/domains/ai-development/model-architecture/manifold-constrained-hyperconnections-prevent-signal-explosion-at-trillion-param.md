@@ -65,7 +65,7 @@ related:
   - INS-260514-C4CF
   - INS-260405-16AB
   - INS-260329-76B8
-  - INS-260321-8C35
+  - INS-260625-C697
 ---
 DeepSeek's MHC architecture: at trillion-parameter scale, traditional residual connections produce feedback loops where signal values amplify uncontrollably between layers — the math equivalent of microphone-near-speaker. Traditional fix: more residual streams (hyperconnections). DeepSeek's fix: enforce a mathematical constraint that signal cannot amplify by construction. Each residual signal is constrained to behave as a doubly-stochastic matrix (every row sums to 1, every column sums to 1), which structurally conserves total signal magnitude. Implementation requires running the Sinkhorn-Knopp algorithm (20 row/column normalization iterations per layer) before each layer processes signal. This adds only 6.7% runtime overhead through aggressive low-level GPU optimization, vs the multi-day cost of a crashed training run.
 

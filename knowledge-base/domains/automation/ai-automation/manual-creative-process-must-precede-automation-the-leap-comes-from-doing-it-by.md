@@ -63,6 +63,5 @@ related:
   - INS-260514-7C33
   - PRI-260328-D401
   - INS-260404-29AF
-  - INS-260605-B182
 ---
 Yash's favorite recent example: a warehouse-shipment company wanted to know each warehouse's frontline-worker capacity, but no such dataset exists. The solution: scrape Google Maps satellite imagery of each warehouse during midday, use AI to count trucks parked at the location, estimate worker capacity from truck count, then use that number in personalized outbound ('looks like you could still hire 30% more people'). The crucial insight: this didn't come from someone thinking 'I'll automate warehouse-capacity estimation.' It came from someone first asking 'how the heck do I get this information?' Then they tried Googling, then they thought to look at satellite imagery, then they thought to count trucks — a manual-creative process that produced an insight, and only THEN did the automation become the obvious next step. Same pattern with hospital capacity (floor plans + NIH data) and district education budgets (manually scraping state county databases). The implication for GTM engineers: don't start by listing 'what can we automate?' Start with 'what manual investigation would help us right now?' — then automate it after the creative insight lands.

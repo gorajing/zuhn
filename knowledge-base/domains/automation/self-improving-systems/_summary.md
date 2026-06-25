@@ -1,6 +1,6 @@
 # Topic: self-improving-systems
 
-> 24 insights
+> 26 insights
 
 - `INS-260522-B95E` [high] YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
 - `INS-260524-D5DB` [high] Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
@@ -15,6 +15,7 @@
 - `INS-260519-304D` [high] Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
 - `INS-260522-C5C2` [high] YC Root Access 'holy shit' moment: a monitoring agent watched every employee query, and when one failed it opened a merge request to fix the tools/skills/index, had an agent review and deploy it, so the query succeeded the next day.
 - `INS-260322-C0D3` [high] Log every change and the data that caused it in a structured research log — when a smarter model arrives, hand it the log and it picks up exactly where the last model left off.
+- `INS-260625-8A5F` [medium] Make the agent's corrected conversation history part of its own retrieval source, so each human fix becomes future training context and the agent gets better day after day.
 - `INS-260605-3163` [medium] A new 'traces' dataset repo type lets you push Codex/Claude Code/agent sessions and later train a model on them—turning everyday agent runs into a self-improvement flywheel.
 - `INS-260605-8BEA` [medium] Instruct the agent: for any repeatable task, write a script, append its description to memories.md, and reuse that script next time instead of redoing the work.
 - `INS-260524-5173` [medium] Woosang: ML recommends a recipe -> a robot synthesizes it -> the result feeds back; active learning plus robotic synthesis is the autonomous-lab loop.
@@ -26,3 +27,4 @@
 - `INS-260624-911B` [medium] Security self-improvement loops need realistic evals and reliable novelty verification.
 - `INS-260625-D2E3` [medium] Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift.
 - `INS-260619-675F` [medium] Self-improving software may be real while still being hard to productize as its own startup.
+- `INS-260625-4AB6` [medium] SkillOpt pairs a continuous fast-update path of small skill edits with a slow per-epoch reflection step plus a meta-skill memory of what has and hasn't worked.

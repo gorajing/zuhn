@@ -3,6 +3,7 @@
 - `INS-260325-DE23` As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
 - `INS-260404-573C` Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260405-FAA3` Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.
+- `INS-260625-98B5` Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
 - `INS-260403-C164` Cuban believes AI infrastructure (Databricks, Snowflake-type companies) will capture long-term value while consumer AI gets commoditized.

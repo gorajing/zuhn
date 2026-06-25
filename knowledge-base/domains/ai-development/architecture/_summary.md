@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 93 insights
+> 97 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -20,8 +20,11 @@
 - `INS-260405-64C5` [high] Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260405-06B0` [high] Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260605-F064` [high] Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
+- `INS-260625-0A79` [high] Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
 - `INS-260402-0E46` [high] Encoding domain structure into features (e.g., marking where tokens appear in email) can improve classification from 92% to 99.5%.
 - `INS-260605-59AE` [high] Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
+- `INS-260625-FA31` [high] Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
+- `INS-260625-DF35` [high] Architect evaluation as a control plane that continuously observes, simulates, and governs the execution plane — because agent systems drift constantly and degradation is gradual, not catastrophic.
 - `INS-260605-C132` [high] Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260421-8004` [high] 4 of 6 speakers at AI Agents SF #12 use graph primitives (Neo4j, FalkorDB, Cognee's own) with vector embeddings layered inside graph nodes rather than as the top-level store.
 - `INS-260404-5440` [high] Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
@@ -60,6 +63,7 @@
 - `INS-260514-AE82` [high] Harness engineering (system-prompt design, tool-call orchestration) can lift a model's performance 30-40% — invest there before chasing a better model.
 - `INS-260605-CA2B` [high] Replay-based durable execution suits bounded start-to-end workflows, but an agent is a long-lived session whose ever-growing replay journal eventually exceeds the system's entry-count or entry-size limits.
 - `INS-260410-346B` [high] If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
+- `INS-260625-D1D5` [high] Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
 - `INS-260409-AB32` [high] Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260625-2439` [high] MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` [high] WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.

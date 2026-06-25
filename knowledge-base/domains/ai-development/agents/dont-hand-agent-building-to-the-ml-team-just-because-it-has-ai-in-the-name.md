@@ -51,8 +51,8 @@ related:
   - INS-260327-BB71
   - INS-260404-34DB
   - INS-260405-F26B
-  - INS-260405-E8A1
   - INS-260403-D56A
   - INS-260322-E4D8
+  - INS-260403-C074
 ---
 Traditional enterprises tend to delegate agent initiatives down to the existing ML/data-science platform team because the tooling already lives there and 'generative AI has AI in the name.' AI-native companies instead use small, cross-functional teams spanning product engineering and AI engineering, where each person has more proximity to the problem. The failure mode is treating an agent like another predictive model and walling it off to ML engineers; agents are products whose success depends on domain understanding, systems engineering, and evals — a wider set of skills than model training. Ownership should follow the problem being solved, not the historical home of 'AI' tooling.

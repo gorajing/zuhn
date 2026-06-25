@@ -50,11 +50,10 @@ stance: >-
 related:
   - INS-260320-63D3
   - INS-260403-BACA
-  - INS-260501-4C5E
   - INS-260514-5914
-  - INS-260530-E697
-  - INS-260605-AD25
   - INS-260605-E642
   - INS-260326-7B2A
+  - INS-260530-E697
+  - INS-260501-4C5E
 ---
 The default enterprise approach is a 'push' strategy: build RAG pipelines, MCP servers, and knowledge graphs over Confluence/Jira/SharePoint, then dump everything onto the agent. This caps out around 40% factual accuracy and forces humans into a perpetual data-entry role filling gaps. The demand-driven alternative is a 'pull' strategy modeled on human onboarding — you don't make a new joiner graduate on all docs before assigning work; you give them a task and they ask questions, fill gaps, and document as they go. Applied to agents: assign a real work item (an incident, a Jira ticket), let the agent attempt it and fail, and have it emit a checklist of exactly what knowledge it needs. The human fills only those specific gaps. Over many cycles the agent's effective institutional knowledge climbs (the speaker measured confidence rising from ~1.4 to ~4.4 across 14 incidents), and the knowledge base is curated as a byproduct rather than as upfront busywork.

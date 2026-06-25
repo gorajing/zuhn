@@ -1,6 +1,7 @@
 # Tag: portability
 
 - `INS-260423-85B3` Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
+- `INS-260625-8C41` Skills optimized for one model or harness (e.g. Codex) still beat the no-skill baseline when transferred to another (e.g. Claude Code), though direct optimization remains strongest.
 - `INS-260605-4877` Define the agent's workspace as a manifest, not as an implicit container setup.
 - `INS-260605-A4F1` A unified model file format that runs unchanged on Android, iOS, macOS, Linux, Windows, web, and IoT collapses the cost of supporting many devices.
 - `INS-260605-E706` Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.

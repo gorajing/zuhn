@@ -1,12 +1,12 @@
 # Tag: model-architecture
 
+- `INS-260321-3967` The current monoculture of one model for everything will give way to speciated models — smaller models with the cognitive core intact but specialized for specific domains, like the animal kingdom's brain diversity.
 - `INS-260322-8BD1` The AI industry will likely cascade like the computer industry — a few supercomputer-class god models at the top, with the real volume in smaller models deployed down to embedded systems in every physical object.
 - `INS-260327-EE5B` Dean envisions models with heterogeneous expert sizes, dynamic parameter expansion/compaction, and 100-1000x variation in compute per path, mimicking biological brain efficiency.
 - `INS-260625-0C98` The cascading STT-LLM-TTS voice stack is structurally identical to a self-driving perception-reasoning-control loop, and the next unlock is controllable real-time models that share embeddings and context across specialized stages — neither one monolithic model nor fully separate ones.
 - `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260403-EA93` Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
-- `INS-260321-3967` The current monoculture of one model for everything will give way to speciated models — smaller models with the cognitive core intact but specialized for specific domains, like the animal kingdom's brain diversity.
 - `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
 - `INS-260403-B16E` DeepSeek's MoE architecture activates only relevant neurons per task, slashing compute costs while maintaining competitive performance.
 - `INS-260605-82C6` The single 'any-to-any' model is a vision; in practice a reasoning model routes to separate image and speech generators.

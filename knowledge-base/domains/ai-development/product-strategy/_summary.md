@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 125 insights
+> 127 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -90,6 +90,7 @@
 - `INS-260605-4375` [medium] Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.
 - `INS-260625-1955` [medium] Trade up-front training compute for drastically smaller inference: a model that learned your context can answer in ~100 tokens what frontier models burn ~100,000 tokens to do by re-reading files and parsing monstrous system prompts.
 - `INS-260605-A7C1` [medium] Companies resisted sending data to ChatGPT because text reduced them to an anonymous database; sending their own UI restores identity and makes participation worthwhile.
+- `INS-260625-76F5` [medium] Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - `INS-260605-175E` [medium] The 'starfish' chatbox landing page sits there and makes the user do all the work, demanding they already hold the system's capabilities in their head — rich visual interfaces lower that discovery burden.
 - `INS-260421-60D9` [medium] Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
 - `INS-260327-E75F` [medium] Just as the internet taught people to consume information through screens, ChatGPT is teaching people to consume it through conversation, which will become the dominant modality because humans prefer easy.
@@ -112,6 +113,7 @@
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260625-0686` [medium] Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.
 - `INS-260605-50FB` [medium] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
+- `INS-260625-03A6` [medium] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
 - `INS-260421-536F` [medium] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - `INS-260409-6236` [medium] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.

@@ -4,12 +4,16 @@
 - `INS-260405-670E` Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
 - `INS-260605-0312` A harness must deterministically inspect the trace of tool calls to confirm what actually happened, because the model will claim it succeeded even when it failed.
 - `INS-260625-0492` Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
+- `INS-260625-A668` Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
 - `INS-260605-8C71` Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
+- `INS-260625-7592` If a task has an exact answer reach for code, if it needs interpretation reach for the agent, and if it needs authority reach for a human.
+- `INS-260625-C697` Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
 - `INS-260409-5D67` The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260624-02AB` Deterministic kernels are a stability tool, not merely a reproducibility preference.
 - `INS-260624-6B2C` Numerical mismatch between serving and training kernels can destabilize large RL loops.
 - `INS-260625-E1CB` Don't run 10,000 pages through an LLM to extract fields—have the LLM write a parser once, then execute the script, cutting roughly 99% of tokens while gaining determinism.
 - `INS-260625-C08B` Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
+- `INS-260625-76F5` Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - `INS-260605-BD54` The textbook five-step SDLC is a human abstraction agents ignore — to automate it you must decompose each coarse stage (e.g. 'plan') into the many deterministic micro-steps it actually contains.
 - `INS-260603-1BC0` Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.
 - `INS-260410-F682` Lane argues that on billions of wet rocky planets, the same carbon chemistry, proton gradients, and Krebs cycle intermediates will keep appearing because the substrate is deterministic—and the same logic applies to any system where underlying constraints are fixed and alternatives have been thoroughly searched.

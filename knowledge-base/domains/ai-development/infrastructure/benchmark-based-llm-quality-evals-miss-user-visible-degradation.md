@@ -54,7 +54,6 @@ stance: >-
   regressions because models recover well from isolated mistakes that accumulate
   into user-visible bad experiences.
 related:
-  - INS-260330-EC22
   - INS-260403-5F69
   - INS-260605-B60D
   - INS-260625-2A4F
@@ -64,6 +63,7 @@ related:
   - INS-260412-1191
   - INS-260413-B79B
   - INS-260605-09B1
+  - INS-260625-76E9
 ---
 Anthropic explicitly admitted their validation relied too heavily on 'noisy evaluations' that couldn't distinguish working from broken implementations sharply enough to catch the bugs. Benchmarks aggregate performance across many prompts; a bug that degrades 1-2% of requests disappears into the noise floor of benchmark variance. Worse, LLMs are self-correcting enough that a single wrong token often doesn't tank a whole eval score, even when the cumulative user experience is noticeably worse.
 

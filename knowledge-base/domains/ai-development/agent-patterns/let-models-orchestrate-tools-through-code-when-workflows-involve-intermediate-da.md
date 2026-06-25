@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260410-1030
   - INS-260410-60C8
+  - INS-260625-7592
   - PRI-260411-9CB1
   - INS-260403-643A
-  - INS-260330-81D3
 ---
 Traditional tool calling has two failure modes at scale: intermediate results pollute context (a 10MB log file enters the window even if the model only needs error frequencies), and each call requires a full inference pass for manual synthesis. A five-tool workflow becomes five round-trips plus error-prone natural-language reasoning over the accumulated data.
 

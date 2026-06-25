@@ -55,10 +55,10 @@ stance: >-
   the start.
 related:
   - INS-260403-83A4
+  - INS-260625-4AFE
   - INS-260327-EA4E
   - INS-260403-1B8A
   - INS-260327-4434
-  - INS-260410-DFE2
 ---
 RunPod's origin is a case study in asset-recycling and community-validated bootstrapping. The founders' crypto-mining venture failed, leaving them with a basement full of idle GPUs. Rather than write off the hardware, they built a prototype of a GPU-rental platform and posted on Reddit: 'Does anyone want some free GPUs in exchange for feedback?' That single post seeded both their first users and their product direction, and they built in public with that community thereafter — reaching ~$120M ARR while being revenue-generating from the very start, which the presenter notes is rare.
 

@@ -1,5 +1,6 @@
 # Tag: schema-design
 
+- `INS-260625-EDA3` Free-form text is fine when a human is the only reader, but the moment another system consumes the output it needs an agreed-upon shape — a contract.
 - `INS-260410-1B17` Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260329-F556` The best database schemas encode business rules structurally through keys, types, and constraints rather than trusting application code to enforce them.
 - `INS-260329-18C9` ER diagrams work because externalizing relationships visually before formal specification catches design errors that pure code-first approaches miss.

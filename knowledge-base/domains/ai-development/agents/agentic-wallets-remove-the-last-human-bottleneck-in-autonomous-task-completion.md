@@ -51,11 +51,11 @@ stance: >-
   The inability to transact financially was the primary constraint preventing AI
   agents from closing end-to-end loops, and that constraint is now removed.
 related:
+  - INS-260625-DD6D
   - INS-260403-0350
   - INS-260605-2D9B
   - INS-260405-9EE4
-  - INS-260320-9D89
-  - PRI-260406-C4D0
+  - INS-260625-02A3
 ---
 Every autonomous agent workflow eventually hits a wall where a transaction is required — paying for compute, API calls, or moving funds. Until now, that required human approval, breaking the autonomy loop. Coinbase's Agentic Wallets, built on the x402 machine-to-machine payment protocol, close this gap by giving agents their own on-chain identity and spending authority.
 

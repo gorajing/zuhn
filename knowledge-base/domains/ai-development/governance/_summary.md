@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 50 insights
+> 51 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -12,6 +12,7 @@
 - `INS-260410-991B` [high] China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260514-6576` [high] Open-source devs contributed to GitHub; Microsoft bought GitHub; trained Copilot on the open-source code; sold the result as a closed subscription.
 - `INS-260625-386B` [high] A parameterized secure view exposes only the current end user's data to the agent, so even a prompt-injected or manipulated query cannot reach other users' rows — security is enforced by structure, not by the model's good behavior.
+- `INS-260625-52B6` [high] Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 - `INS-260413-E2C4` [high] FDA authorized 258 AI medical devices in 2025 — the vast majority through pathways that rely on existing safety/efficacy evidence — with only 2.4% backed by randomized trial data.
 - `INS-260413-4EB1` [high] The Foundation Model Transparency Index went 37→58 from 2023-2024 then dropped to 40 in 2025 — the first major regression in disclosure since the index began tracking.
 - `INS-260625-BEFE` [high] Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.

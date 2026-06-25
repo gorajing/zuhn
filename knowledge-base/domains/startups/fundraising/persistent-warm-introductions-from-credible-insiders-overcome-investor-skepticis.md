@@ -50,10 +50,10 @@ stance: >-
   direct founder outreach.
 related:
   - INS-260327-8D7E
-  - INS-260329-A57C
   - INS-260403-93FA
+  - INS-260329-A57C
   - INS-260403-76F5
-  - INS-260329-7B47
+  - INS-260625-98B5
 evidence:
   - id: INS-260327-8D7E
     type: CONTRADICTS

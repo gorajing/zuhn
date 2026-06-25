@@ -46,11 +46,11 @@ stance: >-
   human capability because it requires genuine curiosity about the unknown.
 related:
   - INS-260322-4B4A
+  - INS-260625-7592
   - INS-260330-2306
   - INS-260524-B783
   - INS-260403-648C
   - INS-260405-89E7
-  - INS-260403-10CE
 evidence:
   - id: INS-260321-7D7C
     type: REFINES

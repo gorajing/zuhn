@@ -52,6 +52,7 @@ related:
   - INS-260403-F400
   - INS-260403-2D89
   - INS-260605-7FEA
+  - INS-260625-131D
 ---
 Granola's meeting summary is good for a generic user but wrong for specialists: sales wants a deal focus, engineering wants action items, blockers, or Linear tickets, and HR wants something else entirely. Hassan's claim is blunt — 'one prompt can't generally serve everyone.' A generic chatbot in production immediately surfaces these mismatches: wrong tone, wrong follow-up email style, wrong coaching.
 

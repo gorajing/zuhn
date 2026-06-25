@@ -1,12 +1,14 @@
 # Tag: feedback-loops
 
 - `INS-260625-C1E8` AgentRun gates should distinguish fast blockers from slower calibration signals.
+- `INS-260625-78C1` SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260327-5EEA` Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration.
 - `INS-260410-E977` Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260605-C726` Hand the agent a 'send feedback' tool for tooling/docs/platform failures, routed straight to the builders' Slack.
 - `INS-260605-9900` Harness engineering is an extension of context engineering: let agents run, watch where they get lost, and encode that learning back into agents.md, skills, and tests so the agent flows through the workflow more autonomously next time.
+- `INS-260625-679B` Load an instructions.md on every agent turn that the agent can edit, so feedback given in plain language permanently changes behavior.
 - `INS-260402-5CF0` When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
 - `INS-260325-05EC` Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
@@ -33,12 +35,13 @@
 - `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260327-1D23` Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
-- `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
-- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
-- `INS-260412-D367` Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
+- `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
+- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
+- `INS-260412-D367` Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
+- `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
@@ -46,7 +49,6 @@
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
-- `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260403-597B` Once a belief enters the startup investment market, follow-on dollars, valuation markups, and co-investor activity all amplify the same signal until divergence becomes irrational.
 - `INS-260403-BA53` When a movement's opposition collapses, the movement loses its corrective feedback and extends past diminishing returns.
 - `INS-260403-449A` If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
@@ -65,6 +67,7 @@
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
+- `INS-260625-4AFE` RunPod's founders had failed crypto-mining GPU rigs in a basement, posted on Reddit offering free GPU access for feedback, and have been revenue-generating ever since — now $120M ARR.
 - `INS-260605-48D1` Existing enterprise assets (CRM, ERP, SOPs) are a floor every competitor has, not a fortress; the real moat is the 'living memory' of customer-interaction signals you compound faster than anyone can copy.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.

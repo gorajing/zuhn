@@ -51,11 +51,11 @@ stance: >-
   non-deterministic and context at step 14 depends on 13 prior steps that could
   pull in arbitrary information.
 related:
+  - INS-260625-1830
   - INS-260605-A2AD
   - INS-260605-93B8
   - INS-260605-8B25
   - INS-260605-58DA
-  - INS-260625-019F
 evidence:
   - id: INS-260405-1CAA
     type: TRANSFERS_TO

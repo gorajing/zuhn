@@ -4,16 +4,17 @@
 - `INS-260410-376A` Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260625-89B3` Because a 100-engineer team mostly opens the same few codebases, Cursor uses Merkle (crypto hash) trees to detect near-identical indexes, copies the shared embedding data, and only re-chunks/re-embeds the changed files.
 - `INS-260605-3345` Compress snapshots seekably and decompress only the memory pages actually needed on restore, shrinking a 512MB VM snapshot to ~14MB and cutting restore to a few hundred milliseconds.
+- `INS-260605-0113` After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
 - `INS-260605-8F42` The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
 - `INS-260605-2531` Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260605-13F9` Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 - `INS-260625-8E1D` Use cheaper reserved pods (or a low serverless worker count) while experimenting; pay the serverless premium only when variable load demands auto-scaling across hundreds of GPUs.
 - `INS-260605-1787` You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - `INS-260605-E4BB` Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
+- `INS-260625-1C5E` Serverless GPU endpoints spin workers down when idle and bill per-second only while handling requests, inverting the always-on cost model for spiky workloads.
 - `INS-260625-2906` Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
 - `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260403-91F7` AI inference costs create variable expense per interaction, breaking the traditional SaaS model of near-zero marginal cost per user.
-- `INS-260605-0113` After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
 - `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260605-8E08` Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
@@ -22,7 +23,7 @@
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
 - `INS-260412-C029` Airlines fly at 500-550 mph instead of near the 767 mph speed of sound because fuel cost per flight ($15K+) is 3x the aircraft cost per flight ($5K).
-- `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
-- `INS-260322-144E` Start on cheap beginner gear at home and rent professional equipment (e.g., Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.
 - `INS-260412-47D5` The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
+- `INS-260322-144E` Start on cheap beginner gear at home and rent professional equipment (e.g., Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.
 - `INS-260625-15FB` Keep training on one tight cluster but globally distribute the inference half of RL across smaller, cheaper, heterogeneous clusters—even borrowing idle production GPUs off-peak.
+- `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.

@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 69 insights
+> 71 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -37,7 +37,9 @@
 - `INS-260405-9285` [high] AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260605-8A88` [high] Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
 - `INS-260405-CD42` [high] Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
+- `INS-260625-6ED0` [high] Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
 - `INS-260605-7747` [high] Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
+- `INS-260625-464B` [high] Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
 - `INS-260413-BBFA` [high] Over 80% of respondents in China, Malaysia, Thailand, Indonesia, and Singapore expect AI to profoundly change their lives in 3-5 years, with Malaysia showing the largest +9pp increase — while North America/Europe cluster at high nervousness.
 - `INS-260625-84DB` [high] Ship under a recognized standard license like Apache 2.0 rather than a custom one, because custom terms — however friendly — trigger month-long legal procurement that blocks adoption.
 - `INS-260605-82BD` [high] Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.

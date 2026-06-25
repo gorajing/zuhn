@@ -48,7 +48,6 @@ stance: >-
   Storing and querying agent traces requires a purpose-built data system because
   their size and shape break conventional observability backends.
 related:
-  - INS-260320-5B49
   - INS-260403-410A
   - INS-260410-264E
   - INS-260514-23D6

@@ -3,6 +3,7 @@
 - `INS-260605-1B0B` Because no scrapeable dataset of agents-using-tools exists, an RL environment plus a reward lets you generate good trajectories by rejection sampling and bootstrap training from them.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260423-6879` ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly.
+- `INS-260625-E19F` The first serverless request sat in queue ~41s for cold start while execution took only ~1.5s, so production latency requires configuring always-on 'active' workers.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
 - `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
 - `INS-260327-E093` As a 19-year-old dropout with no credibility, he offered advertisers performance-based pricing — absorbing all risk — and grew to $150M ARR in 4 years.

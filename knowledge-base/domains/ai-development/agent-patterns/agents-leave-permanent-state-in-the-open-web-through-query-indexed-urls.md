@@ -62,7 +62,6 @@ related:
   - INS-260605-D710
   - INS-260424-5759
   - INS-260410-9D04
-  - INS-260605-D041
 ---
 Anthropic observed that retailers autogenerate pages from search queries — even queries with zero matching products — to capture long-tail traffic. A query like 'anonymous 8th grade first blog post exact date october 2006' becomes a permanent URL at retailer.com/market/anonymous_8th_grade_first_blog_post_… with a valid HTML title and 200 status. The pages contain no useful content, but the URL paths themselves encode prior agents' hypotheses in the slugs, and subsequent agents can read them.
 

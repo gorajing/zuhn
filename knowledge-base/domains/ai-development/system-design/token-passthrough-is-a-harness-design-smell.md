@@ -44,10 +44,10 @@ stance: >-
   upstream token instead.
 related:
   - INS-260323-B1F5
+  - INS-260625-027A
   - INS-260410-992A
   - INS-260423-31A1
   - INS-260329-882A
-  - INS-260605-2D9B
 ---
 The MCP spec explicitly forbids servers from accepting or transiting tokens intended for other resources. If an MCP server calls an upstream API, it may act as an OAuth client to that API, but the upstream token must be separate from the token received from the MCP client.
 

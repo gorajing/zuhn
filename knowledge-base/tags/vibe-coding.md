@@ -3,12 +3,12 @@
 - `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
 - `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
 - `INS-260424-FE8E` Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better.
+- `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
+- `INS-260403-8953` AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
 - `INS-260327-D8D1` Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
 - `INS-260501-4043` A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free.
 - `INS-260605-E174` The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
-- `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
-- `INS-260403-8953` AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260501-52B5` Pemberton oneshotted a Replit-style sandboxing app on his phone in one prompt. 95% of what you'd want to code is now PowerPoint-easy.
 - `INS-260403-7D1D` Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.

@@ -55,6 +55,7 @@ related:
   - INS-260421-60D9
   - INS-260605-BB4B
   - INS-260605-C00C
+  - INS-260625-0A79
   - INS-260605-672C
 ---
 Neo4j's open-source agent memory package organizes agent memory into three concepts. Short-term memory holds what's happening in the current pipeline — the conversation and active task state. Long-term memory holds accumulated history across many tasks and customer interactions, and must be deliberately organized with a good domain model (entities, business processes, actors) because there is so much of it that naive accumulation becomes unusable. Reasoning memory captures the decision traces: not just the LLM's final recommendation but the thinking behind it.

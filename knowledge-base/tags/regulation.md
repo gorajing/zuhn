@@ -17,8 +17,9 @@
 - `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
 - `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
 - `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
-- `INS-260412-0846` The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
 - `INS-260405-6E5F` The SEC issued an interpretive release separating crypto into five categories—four of which are not securities—ending the default 'everything is a security' enforcement posture.
+- `INS-260412-0846` The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
+- `INS-260412-737B` You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
 - `INS-260327-BF93` BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
 - `INS-260403-71E6` Kalshi's $11B valuation after a $1B round highlights that prediction market growth is inseparable from regulatory risk as volumes surge.
@@ -35,7 +36,6 @@
 - `INS-260412-004A` Mainland-centric regulations like the Jones Act and FAA approval processes impose disproportionate costs on geographically peripheral territories like Guam.
 - `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260403-8C92` Without trademarking USD for digital use, any entity — including hostile nations — can create counterfeit digital dollars backed by foreign currencies.
-- `INS-260412-737B` You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
 - `INS-260410-58A5` F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260324-2244` Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
 - `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.

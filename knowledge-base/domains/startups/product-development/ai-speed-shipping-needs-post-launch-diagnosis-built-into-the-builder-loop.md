@@ -46,8 +46,8 @@ related:
   - INS-260320-4ED6
   - INS-260514-E481
   - INS-260605-25B2
+  - INS-260625-99B0
   - INS-260402-5523
-  - INS-260322-24FB
 ---
 The Pendo/Novice talk framed user feedback as a snowball: faster shipping can create new bugs, confusing UI, and backlog chaos if teams cannot tell which changes helped. Traditional dashboards require humans to know the question in advance, while AI-speed product development needs systems that detect issues, insights, and opportunities from sessions, feedback, support tickets, and the codebase.
 

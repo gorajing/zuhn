@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5635 actionable insights
+Generated on 2026-06-25 | 5665 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -36,6 +36,8 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260605-6DE5] Introduce agent patterns where they improve the product; do not start with a rewrite.
 - [INS-260625-7DC7] Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
 - [INS-260625-D295] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.
+- [INS-260625-6ED0] Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
+- [INS-260625-464B] Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
 
 ## ai-development/agent-evals
 - [INS-260625-C1E8] AgentRun gates should distinguish fast blockers from slower calibration signals.
@@ -49,6 +51,11 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-A99C] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - [INS-260625-7165] Convincingness and fidelity are independent properties, so an eval that scores convincingness tells you nothing about whether the persona's reasoning is faithful to the record.
 - [INS-260625-B985] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
+- [INS-260625-1830] Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
+- [INS-260625-78C1] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
+- [INS-260625-99B0] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
+- [INS-260625-25D6] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
+- [INS-260625-18D0] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -284,6 +291,16 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-211E] Models excel at selecting the right rows from a large input but are weak at producing the precise query that fetches only those rows, so give them broad-recall tools (vector + hybrid search) and let them do the final selection.
 - [INS-260625-1CB8] A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
 - [INS-260625-3EE6] Give a model a baseline set of tools and it will sensibly add or drop ones it under-uses; ask it to build its toolset from scratch and it over-engineers and fails to iterate.
+- [INS-260625-EDA3] Free-form text is fine when a human is the only reader, but the moment another system consumes the output it needs an agreed-upon shape — a contract.
+- [INS-260625-5351] Give the agent a cron-synced read-only copy of your codebase and DB so it can derive answers like subscription logic by reading the actual source.
+- [INS-260625-3866] Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
+- [INS-260625-679B] Load an instructions.md on every agent turn that the agent can edit, so feedback given in plain language permanently changes behavior.
+- [INS-260625-A668] Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
+- [INS-260625-027A] Tokenizing or proxying a transaction shouldn't hide from the seller — keep passing the brand, last-four, and credit type their risk systems already depend on.
+- [INS-260625-7592] If a task has an exact answer reach for code, if it needs interpretation reach for the agent, and if it needs authority reach for a human.
+- [INS-260625-C697] Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
+- [INS-260625-5358] Skill files can be optimized like neural-network weights, with proposed text edits playing the role of gradients.
+- [INS-260625-131D] The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -533,6 +550,9 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-36DF] Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - [INS-260625-73BD] WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
 - [INS-260625-3FBF] Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
+- [INS-260625-0A79] Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
+- [INS-260625-FA31] Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
+- [INS-260625-D1D5] Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -686,6 +706,7 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-7365] Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 - [INS-260625-386B] A parameterized secure view exposes only the current end user's data to the agent, so even a prompt-injected or manipulated query cannot reach other users' rows — security is enforced by structure, not by the model's good behavior.
 - [INS-260625-BEFE] Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
+- [INS-260625-52B6] Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -760,6 +781,9 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-02C7] Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.
 - [INS-260625-E7CD] Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request.
 - [INS-260625-6E01] Cluster utilization collapses because every degree of separation between the people funding compute and the people running it compounds misalignment at scale.
+- [INS-260625-D73A] Agents run many parallel experiments that mostly fail, so infra must be dirt-cheap to start and able to autoscale to production only for the few that take off.
+- [INS-260625-DD6D] Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
+- [INS-260625-E19F] The first serverless request sat in queue ~41s for cold start while execution took only ~1.5s, so production latency requires configuring always-on 'active' workers.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -821,6 +845,7 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-2906] Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
 - [INS-260625-96AA] Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session.
 - [INS-260625-F775] Databricks built a specialized document-vision model that parses pages to structured JSON at roughly 100x lower cost than frontier models while being more accurate, illustrating that narrow tasks reward specialization over scale.
+- [INS-260625-1C5E] Serverless GPU endpoints spin workers down when idle and bill per-second only while handling requests, inverting the always-on cost model for spiky workloads.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -870,6 +895,7 @@ Generated on 2026-06-25 | 5635 actionable insights
 ## ai-development/platform-dynamics
 - [INS-260323-BC61] LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
 - [INS-260330-7C24] Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- [INS-260625-98B5] Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
 
 ## ai-development/platform-shifts
 - [INS-260403-5DD7] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
@@ -960,6 +986,8 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-4DE2] Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
 - [INS-260625-1955] Trade up-front training compute for drastically smaller inference: a model that learned your context can answer in ~100 tokens what frontier models burn ~100,000 tokens to do by re-reading files and parsing monstrous system prompts.
 - [INS-260625-F9B2] Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste.
+- [INS-260625-76F5] Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
+- [INS-260625-03A6] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1223,6 +1251,7 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260625-8FBA] Echo Script extracts speaker names, timestamps, language, emotion, English translation, and a summary from audio in one Gemini API call by passing a response schema.
 - [INS-260625-DA23] Persist a snapshot of the agent's sandbox so that when CI fails or a reviewer comments, you rehydrate and keep iterating until the PR turns green.
 - [INS-260625-B67E] Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
+- [INS-260625-26F5] Stop measuring agent success like a researcher (accuracy) and start measuring it like an SRE — reliability, availability, latency, cost, recovery — because dependable outcomes, not benchmark peaks, are the goal.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -1297,6 +1326,7 @@ Generated on 2026-06-25 | 5635 actionable insights
 - [INS-260619-F1E3] Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
 - [INS-260625-9721] Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills.
 - [INS-260625-D2E3] Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift.
+- [INS-260625-8A5F] Make the agent's corrected conversation history part of its own retrieval source, so each human fix becomes future training context and the agent gets better day after day.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.

@@ -45,7 +45,6 @@ stance: >-
   models are commodity services, so the only differentiated work left is
   building the product and selling it
 related:
-  - INS-260403-F4D7
   - INS-260405-64FA
   - INS-260501-A6E0
   - PRI-260405-D6F5

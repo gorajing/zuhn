@@ -65,7 +65,6 @@ related:
   - PRI-260412-A404
   - INS-260505-9B9F
   - INS-260403-387D
-  - INS-260605-B1FC
 ---
 Graham cites G.H. Hardy's observation that good work is not done by 'humble' men — overestimating the importance of your subject and your role in it compensates for the overly harsh judgments you'll make of your initial results. This is a mathematically coherent point: if you estimate you're 20% toward a goal worth 100, but you're actually 10% toward a goal worth 200, you underestimate expected value. Overestimating the goal corrects the error.
 

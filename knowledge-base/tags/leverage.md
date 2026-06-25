@@ -2,8 +2,8 @@
 
 - `INS-260409-6C66` Allocate 20% of your time to automating yourself out of a job — if you don't, someone else will, and they'll capture the leverage.
 - `INS-260329-9D26` Using AI as an input filter and output accelerator compounds into roughly 100x individual productivity gains.
-- `INS-260409-AB32` Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260408-5BE5` Root node problems are the leaves whose solution unlocks an entire research tree — AlphaFold was one, fusion and room-temperature superconductors are next.
+- `INS-260409-AB32` Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260329-72C1` AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260321-4178` AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
@@ -43,6 +43,7 @@
 - `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260409-D491` BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
+- `INS-260625-45F6` An internal AI ops agent let Answer This hit $2M ARR with two full-time founders by absorbing email, support, CRM, and feedback work.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
@@ -56,13 +57,13 @@
 - `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260410-DF92` Henry Flagler's 'Lakeshore Agreement' promised railroads enough oil volume to run dedicated trains in exchange for shipping rates no competitor could match — turning a negotiated discount into an industry lock.
-- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
 - `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
 - `INS-260329-1F4D` Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
 - `INS-260330-2952` Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
+- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
 - `INS-260625-0AD4` Ideas that were once 'slightly out of reach' are now buildable, so the burden flips from 'can I build this?' to 'I can't just ship the MVP — I have to go ten steps further.'
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
 - `INS-260325-05FC` Investing in general problem-solving techniques compounds; investing only in specific answers doesn't.
@@ -87,8 +88,21 @@
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - `INS-260404-1299` Good PMs produce good artifacts, and those artifacts are the mechanism for having 'impact on the impact.'
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
-- `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260412-492D` A Learjet trip costing $11,600 requires a $1M earner solo but only a $111K earner per seat when full — a 9x improvement from utilization alone.
+- `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
+- `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
+- `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
+- `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
+- `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
+- `INS-260329-96EC` Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
+- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
+- `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
+- `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
+- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
+- `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
+- `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
+- `INS-260625-0DD6` Application companies evolve from off-the-shelf models and prompting to fine-tuning, because the highest-leverage attributes—your user data, your harness, your tools—can only be partly captured by prompts.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
@@ -105,16 +119,3 @@
 - `INS-260412-E197` Trying to move the moon with a nuke is like trying to move a truck by blowing on it — scale mismatch renders even massive effort negligible.
 - `INS-260402-8F1E` Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
-- `INS-260625-0DD6` Application companies evolve from off-the-shelf models and prompting to fine-tuning, because the highest-leverage attributes—your user data, your harness, your tools—can only be partly captured by prompts.
-- `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
-- `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
-- `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
-- `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
-- `INS-260329-96EC` Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
-- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
-- `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
-- `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
-- `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
-- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
-- `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
-- `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.

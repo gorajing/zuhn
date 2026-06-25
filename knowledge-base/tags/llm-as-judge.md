@@ -1,6 +1,7 @@
 # Tag: llm-as-judge
 
 - `INS-260625-A99C` An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
+- `INS-260625-1830` Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260625-9644` When a task has objective consequences, evaluate the consequence, not the prose around it.
 - `INS-260605-8789` Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'
 - `INS-260605-2A01` Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.

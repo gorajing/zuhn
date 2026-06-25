@@ -14,6 +14,6 @@
 - `INS-260519-2A13` Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message.
 - `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - `INS-260320-77C2` Sample analog synth sounds (like Moog DFAM) into a digital sampler/sequencer (like Elektron Digitakt) to get warm analog timbre with precise digital sequencing and pattern control.
+- `INS-260625-6AC1` Cursor reasons top-down—how do we get a useful model to users in the least time?—so it built on an open base (Kimi 2.5) plus mid-training and RL instead of mastering pre-training first.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260323-BEE6` GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
-- `INS-260625-6AC1` Cursor reasons top-down—how do we get a useful model to users in the least time?—so it built on an open base (Kimi 2.5) plus mid-training and RL instead of mastering pre-training first.

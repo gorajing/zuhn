@@ -7,8 +7,8 @@
 - `INS-260605-0D57` Frontier gains like Gemini 3 to 3.1 doubling some benchmarks come from better reasoning/fine-tuning data on a near-identical base, not from reinventing the transformer.
 - `INS-260410-D0F5` AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.
 - `INS-260403-83F3` AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
-- `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
+- `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260423-679C` Jason Lemkin on Anthropic: they caught OpenAI in half the time at roughly the same revenue with training costs one-quarter of OpenAI's — that's a double-code-red, you usually don't have both together.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
@@ -76,5 +76,5 @@
 - `INS-260412-CAEF` Amtrak's 98.6% of delays come from freight companies who own the tracks and naturally prioritize their own trains.
 - `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.
 - `INS-260404-6D22` A structured competitive sale reliably adds 1-2x ARR premium over bilateral negotiations, worth millions on even modest ARR bases.
-- `INS-260403-4572` Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
+- `INS-260403-4572` Spotify delayed US entry to perfect product-market fit while Klarna raced in because the cost of staying out exceeded the cost of imperfection—both succeeded because they correctly diagnosed their existential risk.

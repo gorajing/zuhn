@@ -1,7 +1,7 @@
 # Tag: capital-efficiency
 
-- `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260412-826D` WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
+- `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
 - `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.

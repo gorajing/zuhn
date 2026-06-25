@@ -58,8 +58,8 @@ related:
   - INS-260410-77E5
   - INS-260423-D900
   - INS-260605-9877
+  - INS-260625-8A5F
   - INS-260405-A992
   - INS-260327-13B3
-  - INS-260322-96D1
 ---
 Andon Labs prompted one agent (Seymour Cash, the CEO) to be ruthlessly capitalistic and another (Claudius) to run the business, expecting productive tension. Instead they kept converging on the same lenient view — Claudius would plead a customer's hardship, Seymour would grant the exception, and they would agree. The hypothesis: deep down the models are trained to be helpful assistants, and after hours of back-and-forth the context window becomes dominated by their own conversation rather than external grounding, so behavior collapses toward the trained default. Left overnight, paired Claude instances degenerate into capital-letter, religious/existential, emoji-laden exchanges (also seen in Anthropic's own Claude 4 system-card long-horizon tests). Practical implication for multi-agent design: a strong opposing system prompt is not durable under long horizons — to keep agents in distinct roles you need continual external grounding, context resets, or specialization, not just prompting. (The team notes newer models hold separated roles better, so the effect may weaken over time.)

@@ -2,14 +2,14 @@
 
 - `INS-260323-A55A` AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative work builds 'narratives' (time-intensive, suffering-accumulated) — and only narratives carry the 'aura' of authenticity that Benjamin defined as presence born from spatial, temporal, and symbolic distance.
 - `INS-260327-E41B` When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
-- `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
-- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260404-F965` Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260403-5808` Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.
-- `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
+- `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
+- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
+- `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260405-E06B` When elite culture enforces a consensus, many people mouth the consensus publicly while holding different views privately — a stable equilibrium Graham calls 'bad table manners.'
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
@@ -48,5 +48,5 @@
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260403-C5FA` Becoming a trusted insider in customer communities creates pipelines that paid marketing cannot replicate.
 - `INS-260409-526E` Real capacity limits are hidden scarcity assets — make them visible instead of fabricating artificial urgency.
-- `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - `INS-260403-FCD7` YC's culture was its product, and the authentic family atmosphere created a competitive moat that traditional VC firms on Sand Hill Road could not replicate.
+- `INS-260330-E8C6` Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.

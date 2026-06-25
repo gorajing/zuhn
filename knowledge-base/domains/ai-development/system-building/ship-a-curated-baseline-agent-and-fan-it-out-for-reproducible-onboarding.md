@@ -55,10 +55,10 @@ related:
   - INS-260409-F0F5
   - INS-260514-A15D
   - INS-260514-316F
-  - INS-260605-0C56
   - PRI-260406-1F5E
   - INS-260404-8E0D
-  - INS-260605-2DD5
+  - INS-260625-03A6
+  - INS-260605-0C56
 ---
 The proposed workplace pattern is a 'nice curated baseline' agent that ships with the company-approved MCP server list, authentication approved through the company, team-specific skills, and access to shared resources like Google Drive. A new hire receives this base image and personalizes it, rather than the failure mode of sitting next to someone, copying a repo, and assembling a working setup by hand.
 

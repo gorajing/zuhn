@@ -47,8 +47,8 @@ related:
   - INS-260327-BB71
   - INS-260605-5D66
   - PRI-260328-8317
+  - INS-260625-6A67
   - INS-260605-C2A3
-  - PRI-260328-3094
   - INS-260405-1A3C
 ---
 Anthropic's enterprise adoption data reveals a clear bifurcation in AI agent ROI: companies that fundamentally redesign their processes around agent capabilities see transformational gains, while those that bolt agents onto existing workflows see incremental improvements at best. This mirrors the historical pattern of every major technology shift — electrification, computerization, internet adoption — where incumbents initially replicated old processes with new tools before eventually redesigning around the technology's native strengths. The practical implication is that AI agent adoption is as much an organizational design challenge as a technical one. Teams need to question whether their current workflow should exist at all, not just whether an agent can do a step faster.

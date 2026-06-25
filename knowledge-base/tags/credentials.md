@@ -2,6 +2,7 @@
 
 - `INS-260605-BC6F` If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
 - `INS-260605-52E4` Local tools and remote tools should not share the same credential assumptions.
+- `INS-260625-DD6D` Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
 - `INS-260605-5F0C` Put credential handles in manifests, not credentials.
 - `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.

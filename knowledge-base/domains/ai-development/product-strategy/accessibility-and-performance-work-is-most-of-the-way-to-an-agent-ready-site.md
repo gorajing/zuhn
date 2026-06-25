@@ -58,8 +58,8 @@ related:
   - INS-260409-A3EC
   - PRI-260406-1F5E
   - INS-260404-8E0D
+  - INS-260625-03A6
   - INS-260327-6CB7
-  - INS-260403-A9CC
 ---
 The instinct when 'AI agents need to use my site' is to reach for a new agent protocol, but Agyemang argues the highest-leverage move comes first and for free: a site that is accessible to humans is accessible to agents by default. The same semantic HTML, robust accessibility standards, fast Core Web Vitals, and clean user-flow design that help screen-reader users also give an agent the structure it needs to navigate. This reframes accessibility spend as dual-purpose infrastructure rather than a compliance cost.
 

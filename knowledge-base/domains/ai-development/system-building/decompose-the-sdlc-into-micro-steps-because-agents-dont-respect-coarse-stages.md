@@ -49,7 +49,6 @@ stance: >-
   five-stage SDLC into deterministic micro-steps because agents do not naturally
   respect or follow the high-level conceptual stages.
 related:
-  - INS-260605-D404
   - INS-260329-E839
   - PRI-260403-ABDE
   - INS-260524-78D0

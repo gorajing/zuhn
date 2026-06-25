@@ -61,8 +61,8 @@ related:
   - INS-260404-2BAD
   - PRI-260406-72B3
   - PRI-260328-9F8C
+  - INS-260625-03A6
   - INS-260405-567D
-  - PRI-260403-2376
 ---
 Olivier Christianson's STS framing: technology is a crystallization of the social/economic/cultural resources that shaped it. Silicon Valley LLMs encode three structural logics that conflict with academic values: (1) Opacity — venture-capital business models depend on closed weights/data/methods, while academic work is meant to be reproducible and open. (2) Efficiency — Silicon Valley optimizes for shortest path to outcome, while scientific discovery values the journey (serendipity, originality, the careful process that gets you there). (3) Cost-cutting — automation logic prefers replacing people with tools, but academia's product is people (next-generation researchers), not just findings. When academic researchers adopt LLM-based tools, they import these logics whether or not they intend to.
 

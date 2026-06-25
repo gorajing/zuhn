@@ -62,5 +62,6 @@ related:
   - INS-260605-FE37
   - INS-260424-F8BB
   - INS-260624-D8C3
+  - INS-260625-E19F
 ---
 Network topology between AI accelerators was historically designed for training workloads, where throughput dominates. Throughput-optimized topologies move large amounts of data efficiently but with higher latency per individual request. Agent-era workloads invert this requirement: agents make many small low-latency calls, where total time-to-completion is dominated by network round-trips rather than data volume. Google's Boardfly topology, designed in collaboration with DeepMind for the agent era, dramatically reduces network diameter (the distance between any two chips) at some cost to maximum bandwidth. The implication is broader than Google's specific implementation: every AI infrastructure provider will need to confront this trade-off as agent workloads grow. Buyers should ask vendors about network diameter and round-trip latency between accelerators specifically for agent-shaped workloads, not just aggregate bandwidth specs. Vendors using yesterday's topologies will lose to vendors that have re-architected for agent latency, even if their raw chip specs look comparable on paper.

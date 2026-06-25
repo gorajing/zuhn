@@ -4,17 +4,18 @@
 - `INS-260625-71F4` More than 80% of surveyed SaaS companies still use seats somewhere in pricing, warning that simplicity can slow migration to usage or outcome metrics.
 - `INS-260410-1A22` Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
 - `INS-260410-77E5` Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
+- `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260413-F638` Empirical evidence shows training techniques aimed at improving one RAI dimension consistently degrade others — gains in privacy reduce fairness, gains in safety reduce accuracy — and no framework exists to govern the tradeoffs.
 - `INS-260605-E174` The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
-- `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
+- `INS-260625-E19F` The first serverless request sat in queue ~41s for cold start while execution took only ~1.5s, so production latency requires configuring always-on 'active' workers.
 - `INS-260605-0BD6` Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed.
 - `INS-260329-920D` Hash tables achieve O(1) average-case operations not by avoiding collisions but by choosing the right collision resolution strategy for the specific access pattern and load factor.
 - `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260514-C51F` One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables.
-- `INS-260412-B625` Banked hubs trade lower plane utilization for shorter connections that capture more premium connecting passengers.
-- `INS-260330-4A7F` Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
 - `INS-260412-00D4` Neutrophils are programmed to die within days of birth because their indiscriminate killing — including DNA-net explosions — would destroy the body's own tissue if left unchecked.
+- `INS-260330-4A7F` Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
+- `INS-260412-B625` Banked hubs trade lower plane utilization for shorter connections that capture more premium connecting passengers.
 - `INS-260404-92B8` The block-collision pi algorithm is simultaneously the most elegant and most absurdly inefficient way to compute pi, revealing that elegance and efficiency measure fundamentally different things.
 - `INS-260403-772D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.

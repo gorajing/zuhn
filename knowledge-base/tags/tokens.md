@@ -1,6 +1,7 @@
 # Tag: tokens
 
 - `INS-260423-B612` Rory: what do you do when you can sell more if you had more, but you can't make more? You start allocating capacity based on money — exactly what anyone in economics would say to do.
+- `INS-260625-02A3` Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
 - `INS-260605-13F9` Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 - `INS-260325-BEAC` Open Router data shows 60-80% of top AI app operating costs are inference, and this ratio is growing as agentic usage explodes.
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.

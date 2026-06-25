@@ -16,14 +16,15 @@
 - `INS-260404-2523` AI-powered tools now let solo founders handle engineering, design, and ops tasks that previously required a cofounder or early team.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260403-0A20` The startup ecosystem's growth obsession obscures that staying intentionally small often produces better founder outcomes in wealth, freedom, and sustainability.
+- `INS-260625-4AFE` RunPod's founders had failed crypto-mining GPU rigs in a basement, posted on Reddit offering free GPU access for feedback, and have been revenue-generating ever since — now $120M ARR.
 - `INS-260410-C445` Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
 - `INS-260329-55D8` Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260329-2A70` Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260324-748A` The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
-- `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
 - `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.

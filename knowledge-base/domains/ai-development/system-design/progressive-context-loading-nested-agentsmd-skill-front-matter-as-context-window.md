@@ -74,7 +74,6 @@ stance: >-
   grow because eager loading exhausts the context window before useful work
   begins.
 related:
-  - INS-260410-38C8
   - INS-260605-C86D
   - INS-260605-2032
   - INS-260514-4FDC

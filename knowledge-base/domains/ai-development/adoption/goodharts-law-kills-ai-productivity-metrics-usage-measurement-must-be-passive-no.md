@@ -48,6 +48,7 @@ resolutions:
 related:
   - PRI-260323-2E5A
   - INS-260605-C436
+  - INS-260625-26F5
   - INS-260405-9760
   - INS-260412-93EA
   - INS-260322-4757
@@ -55,7 +56,6 @@ related:
   - INS-260330-0A95
   - INS-260402-7182
   - INS-260405-9409
-  - INS-260405-2B3F
 stance: 'When a measure becomes a target, it stops being accurate'
 evidence:
   - id: INS-260330-0A95

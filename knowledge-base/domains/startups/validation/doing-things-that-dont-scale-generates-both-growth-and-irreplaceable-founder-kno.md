@@ -56,8 +56,8 @@ related:
   - INS-260330-8FD6
   - INS-260403-1B8A
   - INS-260403-71D1
+  - INS-260625-4AFE
   - INS-260403-9CD9
-  - INS-260328-D866
 ---
 The Airbnbs' trip to New York to personally photograph host listings is often cited as the canonical example of 'doing things that don't scale.' But Paul Graham reveals an underappreciated second benefit: the trip taught them that many hosts were in the same financial position they'd been in — needing the money to pay rent during the recession. This discovery deepened their sense of mission and shaped how they built the company.
 

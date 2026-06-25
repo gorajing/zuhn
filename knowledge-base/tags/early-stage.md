@@ -22,9 +22,9 @@
 - `INS-260404-21AA` Most people never start ambitious projects because they cannot tolerate the inevitably poor quality of early versions.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
-- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260404-1E35` Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
+- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
 - `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.

@@ -1,9 +1,9 @@
 # Tag: transformation
 
 - `INS-260330-8AE8` At near-light-speed, Earth would be genuinely flattened by Lorentz contraction — not an illusion but a real physical consequence of the observer's reference frame.
+- `INS-260326-24E6` Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
 - `INS-260330-615D` The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260326-24E6` Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
 - `INS-260323-9D21` Boxing saved Atlas from self-destruction by providing structure and discipline that redirected violent anger into mastery -- the same energy that fueled street fights became the engine for world-class training.
 - `INS-260330-30E8` The inverse Pythagorean theorem lets you split one lighthouse into two while preserving total brightness — transforming the problem without losing information.
 - `INS-260412-8C32` Stars reach their maximum physical size only after exhausting core hydrogen and entering a dying giant phase — adding more mass to a living star doesn't work.

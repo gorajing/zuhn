@@ -8,9 +8,9 @@
 - `INS-260327-4419` Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
 - `INS-260323-3CD0` When Trump recognized Jerusalem as Israel's capital — something everyone said would 'end the world' — the sun rose the next morning, proving the barrier was artificial and opening space for the Abraham Accords.
-- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260404-94EB` We default to personality explanations for disinterest when the real cause is often structural incentive misalignment.
 - `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
 - `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.

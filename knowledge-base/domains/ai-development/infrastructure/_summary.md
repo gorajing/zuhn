@@ -1,7 +1,8 @@
 # Topic: infrastructure
 
-> 78 insights
+> 81 insights
 
+- `INS-260625-D73A` [high] Agents run many parallel experiments that mostly fail, so infra must be dirt-cheap to start and able to autoscale to production only for the few that take off.
 - `INS-260405-3B54` [high] Multi-turn agent workloads flip the inference bottleneck from decode to prefill, requiring new optimization strategies for KV cache reuse and context processing.
 - `INS-260423-7CDC` [high] Jason: Replit changed their platform so every single app has a database whether you use it or not — they found enough of them use it that it's not worth adding later. Agents create more databases than humans now.
 - `INS-260501-4B6F` [high] Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since.
@@ -17,6 +18,7 @@
 - `INS-260625-89B3` [high] Because a 100-engineer team mostly opens the same few codebases, Cursor uses Merkle (crypto hash) trees to detect near-identical indexes, copies the shared embedding data, and only re-chunks/re-embeds the changed files.
 - `INS-260605-5EE0` [high] Because a containerized agent is just another application, you can prototype it locally and lift the identical artifact to Kubernetes/OpenShift when you need security and scale.
 - `INS-260605-3206` [high] The sandbox should be replaceable; the agent run should not be.
+- `INS-260625-DD6D` [high] Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
 - `INS-260413-BD80` [high] Global AI compute reached 17.1M H100-equivalents in 2025, growing 3.3x per year since 2022, with Nvidia supplying 60%, Google/Amazon supplying most of the rest, and Huawei growing slowly.
 - `INS-260405-A4DB` [high] AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
 - `INS-260605-D2C7` [high] STDIO MCP servers require users to edit a config file with a JSON command string to spawn a local process, while HTTP servers install by pasting a name and URL — and fit serverless edge functions cleanly.
@@ -37,6 +39,7 @@
 - `INS-260605-74CC` [high] Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
 - `INS-260423-9225` [high] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
 - `INS-260605-4AF8` [high] Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
+- `INS-260625-E19F` [high] The first serverless request sat in queue ~41s for cold start while execution took only ~1.5s, so production latency requires configuring always-on 'active' workers.
 - `INS-260605-B95C` [high] Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
 - `INS-260410-13C8` [high] Solar has a 43% Wright's Law coefficient — every doubling of cumulative production drops cost 43% — and since demand elasticity exceeds the learning rate, the cycle doesn't saturate.
 - `INS-260625-02C7` [high] Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.

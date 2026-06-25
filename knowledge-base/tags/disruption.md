@@ -24,6 +24,7 @@
 - `INS-260405-1894` Invincible companies reinvent their business model categories, not just their execution.
 - `INS-260327-6976` Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
+- `INS-260625-E1E9` Most infra became heavyweight not for technical reasons but because it was designed for a few high-value services; agentic coding creates a huge long tail of individually-low-value workloads incumbents never targeted.
 - `INS-260412-CB3C` Smartphones simultaneously destroyed the markets for point-and-shoot cameras, camcorders, MP3 players, portable gaming systems, GPS devices, and newspapers.
 - `INS-260410-04EA` The quartz crisis killed the mechanical watch's job of accurate timekeeping, but a new job — signaling achievement and lifestyle — was waiting to be filled; Rolex survived by recognizing these were two different markets and refusing to compete on the dying one.
 - `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
@@ -97,6 +98,8 @@
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
 - `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260412-6C6F` The 2008 crisis directly spawned Bitcoin and the Occupy movement because mass betrayal by trusted institutions creates explosive demand for alternatives.
+- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
+- `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260403-E556` Shifting from exploitation (efficiency gains) to exploration (transformative ideas) is the critical strategic rebalancing for sustained innovation.
@@ -112,5 +115,3 @@
 - `INS-260403-FED6` The retailers killed during the 'Retail Apocalypse' (Sears, Toys-R-Us, RadioShack) shared a common trait: they had stopped serving customers well long before Amazon arrived.
 - `INS-260404-96E6` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect, not because Amazon made physical retail unviable.
 - `INS-260404-AD52` Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
-- `INS-260403-3DA1` Unglamorous industries like logistics and waste management are often ripe for disruption precisely because talented founders ignore them.
-- `INS-260404-1137` Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.

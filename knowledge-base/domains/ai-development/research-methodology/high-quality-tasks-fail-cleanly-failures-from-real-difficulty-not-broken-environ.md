@@ -58,9 +58,9 @@ related:
   - INS-260410-E73E
   - INS-260602-E2BD
   - INS-260605-09B1
+  - INS-260625-0021
   - PRI-260407-69A9
   - INS-260625-E9A9
-  - INS-260325-5023
 ---
 Beyond pass rate, Snorkel categorized failure modes to distinguish meaningful failures (the model didn't reach a logical conclusion it should have) from degenerate ones (an environmental defect makes the task unsolvable for any model). Comparing accepted versus rejected tasks, they found a reversal in the distribution of logic-error and incomplete-task failures: accepted tasks overrepresent 'clean' difficulty-driven failures.
 

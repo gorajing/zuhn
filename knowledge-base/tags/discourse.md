@@ -1,8 +1,8 @@
 # Tag: discourse
 
-- `INS-260404-CE92` When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 - `INS-260330-CD7A` Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260404-F366` Correcting a malicious streetlight looks like directional overclaiming, and correcting directional overclaiming looks like streetlighting — trapping good-faith actors.
+- `INS-260404-CE92` When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 - `INS-260403-500F` More disagreement online is a structural artifact of conversational media, not evidence that people are angrier.
-- `INS-260404-F0A3` Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.
 - `INS-260330-795D` Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.
+- `INS-260404-F0A3` Explicitly stating the boundaries of your argument before making it partially defuses accusations of malicious streetlighting or directional overclaiming.

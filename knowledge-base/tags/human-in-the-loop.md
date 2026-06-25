@@ -14,13 +14,16 @@
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260605-E7AD` Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260605-D6EE` The standard research-plan-implement loop is missing an explicit step where the human understands and corrects the agent's research before it plans.
+- `INS-260625-679B` Load an instructions.md on every agent turn that the agent can edit, so feedback given in plain language permanently changes behavior.
 - `INS-260605-B4B9` Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
 - `INS-260625-CF6B` Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.
 - `INS-260605-1A91` Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
+- `INS-260625-7592` If a task has an exact answer reach for code, if it needs interpretation reach for the agent, and if it needs authority reach for a human.
 - `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
 - `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
+- `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
 - `INS-260402-1D32` Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
 - `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
 - `INS-260321-1A0B` The biggest risk of AI adoption isn't that it fails — it's that it works so well that humans stop learning. Design AI systems where a key priority is the learning and improvement of the humans in the loop.
@@ -31,8 +34,8 @@
 - `INS-260605-5CC7` When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 - `INS-260605-A9B4` A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
-- `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
+- `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
 - `INS-260327-13B3` Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
 - `INS-260605-5BAD` Spotify's 'taste profile' exposes what the model knows about you as editable text — you can chat to adjust it, choose what to keep or forget — feeding your edits back into the generative model.
 - `INS-260605-C122` Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.

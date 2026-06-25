@@ -55,10 +55,10 @@ stance: >-
   over an event stream plus an occasional side-effect hook.
 related:
   - INS-260605-9A01
+  - INS-260625-679B
+  - INS-260625-A668
   - INS-260605-83DA
-  - INS-260327-13B3
-  - INS-260405-F26B
-  - INS-260421-7ADE
+  - INS-260625-DD6D
   - INS-260605-B136
 ---
 Templestein argues most agent harnesses 'skirt around' being event-sourced: they have side effects you can only later reconstruct from OpenTelemetry traces, even though the agent already maintains an event log internally. His alternative collapses everything to one primitive — an event — and splits agent logic into two functions: a synchronous, side-effect-free reducer that folds new events into derived world state, and an 'after-append' hook that enacts side effects (LLM calls, appends to other streams). The reducer answers 'what is true now?' and the hook answers 'what should I do about it?'.

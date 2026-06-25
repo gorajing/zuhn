@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 52 insights
+> 53 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -23,6 +23,7 @@
 - `INS-260410-3F1A` [high] Loading a document once into the prompt cache and referencing it across many chunk-context calls drops the cost of LLM-generated chunk annotations to roughly $1 per million document tokens.
 - `INS-260605-E4BB` [high] Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
 - `INS-260410-43E4` [high] GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
+- `INS-260625-1C5E` [high] Serverless GPU endpoints spin workers down when idle and bill per-second only while handling requests, inverting the always-on cost model for spiky workloads.
 - `INS-260605-4788` [high] Smaller models unlock three production gates at once — affordable cost at scale, sub-third-second latency, and ownership of data and solution.
 - `INS-260625-F775` [high] Databricks built a specialized document-vision model that parses pages to structured JSON at roughly 100x lower cost than frontier models while being more accurate, illustrating that narrow tasks reward specialization over scale.
 - `INS-260605-A558` [high] Optimize model cost only after a strong-model baseline proves the workflow can work.

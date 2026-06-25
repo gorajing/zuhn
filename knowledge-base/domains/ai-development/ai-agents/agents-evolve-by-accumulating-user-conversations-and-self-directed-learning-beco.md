@@ -49,13 +49,13 @@ resolutions:
     agent's value compounds over time as it accumulates more context about its
     specific user.
 related:
+  - INS-260625-8A5F
   - INS-260403-4120
   - INS-260519-20E0
   - INS-260329-BCB7
   - INS-260322-22B3
-  - INS-260405-8166
   - INS-260327-6FFC
-  - INS-260625-3DDC
+  - INS-260405-8166
 stance: >-
   AI agents that accumulate all past conversations and user-shared resources
   develop into genuinely personalized assistants

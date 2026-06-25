@@ -49,6 +49,7 @@ stance: >-
   'open Claude' equivalent does not need to earn new trust the way a startup
   does.
 related:
+  - INS-260625-03A6
   - INS-260605-3AB7
   - INS-260605-EF3C
   - INS-260412-D031

@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 36 insights
+> 38 insights
 
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260329-CB10` [high] Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
@@ -28,6 +28,7 @@
 - `INS-260410-C445` [high] Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
 - `INS-260329-55D8` [high] Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260323-DD40` [high] Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
+- `INS-260625-45F6` [medium] An internal AI ops agent let Answer This hit $2M ARR with two full-time founders by absorbing email, support, CRM, and feedback work.
 - `INS-260329-0DA4` [medium] An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260403-1B9E` [medium] Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-F0DD` [medium] Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
@@ -37,4 +38,5 @@
 - `INS-260330-10CF` [medium] Phil Knight invented 'Blue Ribbon Sports' on the spot, claimed East Coast offices that didn't exist, and each bluff secured deals that funded the reality he'd described.
 - `INS-260329-28B0` [medium] At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260403-0A20` [medium] The startup ecosystem's growth obsession obscures that staying intentionally small often produces better founder outcomes in wealth, freedom, and sustainability.
+- `INS-260625-4AFE` [medium] RunPod's founders had failed crypto-mining GPU rigs in a basement, posted on Reddit offering free GPU access for feedback, and have been revenue-generating ever since — now $120M ARR.
 - `INS-260329-2A70` [medium] Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.

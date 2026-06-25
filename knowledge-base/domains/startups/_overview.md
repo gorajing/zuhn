@@ -1,13 +1,13 @@
 # Domain: startups
 
-> 4815 insights across 57 topics
+> 4818 insights across 57 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | ai-business-models | 44 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
-| bootstrapping | 36 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
+| bootstrapping | 38 | An internal AI ops agent let Answer This hit $2M ARR with two full-time founders by absorbing email, support, CRM, and feedback work. |
 | business-models | 244 | The time required to build a company is often predictive of how long it will last. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
@@ -19,7 +19,7 @@
 | customer-discovery | 5 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 9 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
 | developer-tools | 12 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
-| disruption | 24 | When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates. |
+| disruption | 25 | Most infra became heavyweight not for technical reasons but because it was designed for a few high-value services; agentic coding creates a huge long tail of individually-low-value workloads incumbents never targeted. |
 | engineering | 32 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 297 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | exits | 7 | Give yourself two months to try for acquisition, then shut down — no time frame means no exit. |

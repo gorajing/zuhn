@@ -1,5 +1,6 @@
 # Tag: failure-modes
 
+- `INS-260625-0021` Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.
 - `INS-260625-B985` Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
 - `INS-260625-CBC7` A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.

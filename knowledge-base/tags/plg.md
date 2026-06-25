@@ -1,5 +1,6 @@
 # Tag: plg
 
+- `INS-260625-98B5` Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
 - `INS-260519-ED17` James Pastan (Framer): an aha on the model is not an aha on the product — frictionless prompt boxes can be a trap.
 - `INS-260403-6341` Products where usage inherently creates exposure to new users achieve the most efficient growth.
 - `INS-260519-945C` Elena Verna (Lovable): treat product give-away as the line item that replaces Google/Meta spend — it is the best acquisition channel by a wide margin.

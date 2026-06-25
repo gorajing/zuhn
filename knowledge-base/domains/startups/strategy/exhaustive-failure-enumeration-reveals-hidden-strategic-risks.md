@@ -47,10 +47,10 @@ stance: >-
   possible successes.
 related:
   - INS-260329-D8F2
+  - INS-260625-0021
   - INS-260605-773B
   - INS-260410-FD24
   - INS-260403-B12E
-  - INS-260325-0C4A
   - INS-260403-5808
   - INS-260404-0022
   - INS-260405-F8AE

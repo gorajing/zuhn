@@ -1,5 +1,8 @@
 # Tag: observability
 
+- `INS-260625-1830` Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
+- `INS-260625-99B0` SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
+- `INS-260625-25D6` Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
 - `INS-260605-809A` Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.

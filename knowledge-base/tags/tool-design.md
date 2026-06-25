@@ -12,6 +12,7 @@
 - `INS-260605-FE8E` Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.
 - `INS-260410-E27A` Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
 - `INS-260605-2AAF` Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
+- `INS-260625-A668` Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
 - `INS-260605-DC50` Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260605-35B4` Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
 - `INS-260410-EE5C` Return semantically meaningful names instead of UUIDs in tool responses because agents handle natural language identifiers far more reliably.

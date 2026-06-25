@@ -20,10 +20,10 @@
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260412-B825` Apple ran two competing iPhone teams (iPod-phone vs touch-Mac-OS) without letting them see each other's work, and the underdog team won.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
-- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
-- `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-A70D` Measuring outcomes over outputs forces product teams to validate that shipped features actually change user behavior and create value.
+- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260405-64FA` The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.
 - `INS-260404-9D14` AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.
 - `INS-260330-CCF0` Hardware teams learning speed from software and software teams learning deliberation from hardware creates better products than either discipline alone.

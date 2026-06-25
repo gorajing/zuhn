@@ -1,6 +1,6 @@
 # Topic: hardware
 
-> 28 insights
+> 29 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260605-4835` [high] MLX deliberately runs on the GPU rather than the Neural Engine because reaching the Neural Engine requires Core ML, whose private-API friction makes it impractical for developers today.
@@ -31,3 +31,4 @@
 - `INS-260605-6588` [medium] 100B+ parameter and omni models now run at usable speeds on consumer Macs and iPhones, turning cloud subscriptions into a choice rather than a necessity.
 - `INS-260410-0330` [medium] Levine's research arms went from $400k (PR2 in 2014) to $30k (early Berkeley lab) to $3k (current Physical Intelligence) — and he believes a 'small fraction of that' is achievable, because smarter AI substitutes for hardware precision.
 - `INS-260605-A95C` [medium] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
+- `INS-260625-0A3D` [low] RunPod frames the 2026 GPU shortage as COVID-toilet-paper-style hoarding that will recover as companies get better at estimating compute needs.

@@ -63,7 +63,7 @@ related:
   - PRI-260406-0E02
   - PRI-260405-64B2
   - INS-260322-1A20
-  - INS-260625-C6F4
+  - INS-260625-26F5
   - INS-260424-50EE
 ---
 Verna identifies over-experimentation as a growth anti-pattern: teams that insist on A/B testing everything, including low-traffic scenarios where statistical significance is mathematically impossible within reasonable timeframes. This creates analysis paralysis disguised as rigor.

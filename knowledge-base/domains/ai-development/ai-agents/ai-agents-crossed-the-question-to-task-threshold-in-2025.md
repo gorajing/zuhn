@@ -46,11 +46,11 @@ stance: >-
   within 6 points of human performance on real computer tasks.
 related:
   - INS-260327-94FE
-  - INS-260330-FC4D
   - INS-260410-9D86
   - INS-260413-11C9
   - INS-260605-365A
   - INS-260413-7816
+  - INS-260625-26F5
   - PRI-260406-3EF8
   - INS-260421-E9FC
   - INS-260501-E843

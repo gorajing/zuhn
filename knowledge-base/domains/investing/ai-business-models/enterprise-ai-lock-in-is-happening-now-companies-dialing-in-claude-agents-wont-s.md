@@ -50,10 +50,10 @@ stance: >-
   creating sticky lock-in within 6-12 months.
 related:
   - INS-260501-A1C7
+  - INS-260625-02A3
   - INS-260424-E832
+  - INS-260625-DD6D
   - INS-260403-0350
-  - INS-260321-8414
-  - INS-260325-DFC7
   - INS-260501-74AD
   - INS-260625-2906
 evidence:

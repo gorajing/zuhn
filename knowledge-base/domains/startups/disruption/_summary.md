@@ -1,6 +1,6 @@
 # Topic: disruption
 
-> 24 insights
+> 25 insights
 
 - `INS-260412-CB3C` [high] Smartphones simultaneously destroyed the markets for point-and-shoot cameras, camcorders, MP3 players, portable gaming systems, GPS devices, and newspapers.
 - `INS-260410-04EA` [high] The quartz crisis killed the mechanical watch's job of accurate timekeeping, but a new job — signaling achievement and lifestyle — was waiting to be filled; Rolex survived by recognizing these were two different markets and refusing to compete on the dying one.
@@ -20,6 +20,7 @@
 - `INS-260412-74C9` [high] Slower turboprops actually fly Edinburgh-London faster than jets because on short routes aircraft never reach top speed, making cost the only variable that matters.
 - `INS-260412-E078` [high] Tesla would need $7.8 billion and 31,251 new stations to match gas station accessibility—roughly 10x its 2020 annual profit—making solo infrastructure build-out economically impossible.
 - `INS-260412-2147` [high] Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
+- `INS-260625-E1E9` [medium] Most infra became heavyweight not for technical reasons but because it was designed for a few high-value services; agentic coding creates a huge long tail of individually-low-value workloads incumbents never targeted.
 - `INS-260405-9EE4` [medium] When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
 - `INS-260412-0F3F` [medium] Dinosaurs dominated for 165 million years and were wiped out in months — market incumbents with decades of dominance face the same non-linear disruption risk.
 - `INS-260412-9BFD` [medium] Real Graphene's CEO noted many companies claim to use graphene but actually use graphite, creating a trust gap that authentic producers can exploit as a differentiator.

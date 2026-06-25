@@ -2,15 +2,16 @@
 
 - `INS-260403-A9CC` Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
+- `INS-260625-464B` Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
 - `INS-260605-C2A3` An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
 - `INS-260403-AC2D` 68% of large enterprises are already deploying AI agents, collapsing a timeline most predicted would take until 2030.
 - `INS-260405-5222` Jensen Huang described a future NVIDIA with 75,000 humans and 7.5 million AI agents—a 100:1 agent-to-employee ratio that defines what 'agent-era enterprise' actually means.
+- `INS-260405-0327` Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
 - `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
 - `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
 - `INS-260325-3B58` B2B AI deployment is bottlenecked by accuracy needs; B2C by GPU capacity during peak demand.
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
-- `INS-260405-0327` Benedict Evans' Q1 2024 framing captures a market where most enterprises are still in the 'looking for use-cases' phase, not the 'scaling deployments' phase — suggesting the real AI ROI wave is still ahead.
 - `INS-260605-0266` An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - `INS-260605-4788` Smaller models unlock three production gates at once — affordable cost at scale, sub-third-second latency, and ownership of data and solution.
 - `INS-260405-4803` Agentic AI is moving from an engineering concern to a board-level strategic imperative.
@@ -43,5 +44,5 @@
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
 - `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
-- `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
 - `INS-260403-3326` Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.
+- `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.

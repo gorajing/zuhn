@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260619-90F6
   - INS-260605-D912
+  - INS-260625-0021
   - INS-260501-9465
   - INS-260605-705B
-  - INS-260405-CC9D
 ---
 The slide framing asks four questions: efficiency, security, bottleneck, and value. That reframes agent progress away from benchmark comparisons and toward the combined condition for real deployment: the model must be capable, the system must run reliably, the agent must not cross unsafe boundaries, and the workflow must change enough to justify cost.
 

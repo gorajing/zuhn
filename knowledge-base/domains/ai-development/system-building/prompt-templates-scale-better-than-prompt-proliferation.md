@@ -40,7 +40,6 @@ stance: >-
   A single base prompt with policy variables is easier to evaluate and maintain
   than many near-duplicate prompts for related agent workflows.
 related:
-  - INS-260410-E233
   - INS-260605-DCE5
   - INS-260605-B44B
   - INS-260403-F400

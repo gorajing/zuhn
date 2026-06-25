@@ -1,5 +1,6 @@
 # Tag: production
 
+- `INS-260625-1830` Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260605-A03E` Evals and observability are the same scoring problem — evals just know the inputs ahead of time and run in batch, while observability scores unknown inputs in real time.
 - `INS-260605-311E` 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon.

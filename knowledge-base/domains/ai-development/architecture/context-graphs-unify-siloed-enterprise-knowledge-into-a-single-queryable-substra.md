@@ -53,7 +53,6 @@ stance: >-
   Agents make poor business decisions primarily because their context is
   fragmented across disconnected systems, not because the model is weak.
 related:
-  - INS-260325-7FAF
   - INS-260327-77E7
   - INS-260603-6FE3
   - INS-260605-014F

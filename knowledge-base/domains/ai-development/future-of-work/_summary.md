@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 140 insights
+> 141 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -81,6 +81,7 @@
 - `INS-260323-D2AA` [medium] AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260402-C98A` [medium] Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260519-20E0` [medium] Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
+- `INS-260625-6A67` [medium] When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.
 - `INS-260403-B539` [medium] AI's exponentially growing demand for electricity, land, and water will squeeze human access to basic resources before labor replacement becomes the primary concern.
 - `INS-260405-7624` [medium] When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260603-B263` [medium] Harvey (keynote): assume ~90% of today's tasks get automated by AI — but that automates knowledge WORK (the task), not the knowledge WORKER; there's no traditional individual-contributor work anymore because every IC is now managing AI/agents, what he calls the 'gold collar' era.

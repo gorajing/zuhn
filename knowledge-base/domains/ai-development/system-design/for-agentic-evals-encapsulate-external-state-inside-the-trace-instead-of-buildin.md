@@ -58,12 +58,12 @@ related:
   - INS-260327-9D50
   - INS-260605-CF2E
   - INS-260605-58DA
-  - INS-260605-726C
   - INS-260605-7843
   - INS-260605-93B8
   - INS-260605-159E
   - INS-260605-3163
   - INS-260605-83DA
+  - INS-260625-1830
   - INS-260625-019F
 ---
 Once an agent interacts with external systems via tools — both context-gathering tools and CRUD tools that mutate databases — two hard problems appear. You can no longer evaluate just the final output; you must evaluate the entire trace, targeting individual tool or MCP calls. And running evals offline is dangerous: you can't easily reproduce the external system state as it existed when the input was captured, and you risk overwriting real production data by actually executing the CRUD.

@@ -56,11 +56,11 @@ stance: >-
   is not the right path for vision representation learning, contrary to the
   narrative that 'next-token prediction works for everything.'
 related:
-  - INS-260410-F985
   - INS-260412-9777
+  - INS-260410-F985
   - INS-260605-DD2A
+  - INS-260625-8C41
   - INS-260404-8EFB
-  - INS-260323-584D
 ---
 Welch Labs traces the 2020-2025 arc: in 2021, Barlow Twins (LeCun + Stefan Deny) used cross-correlation loss to solve representation collapse — get embedding vectors to align on the diagonal of a correlation matrix and decorrelate elsewhere, mimicking Horace Barlow's 1961 hypothesis about neural decorrelation in vision. This unlocked joint embedding learning at scale. By August 2025, DINO v3 reached 88.4% ImageNet accuracy with zero labels, comparable to weakly-supervised vision transformers (88.6%). The 'next-token prediction wins everywhere' narrative is empirically falsified for vision — different modalities require different self-supervised training architectures.
 

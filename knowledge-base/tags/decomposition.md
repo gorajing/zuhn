@@ -1,5 +1,6 @@
 # Tag: decomposition
 
+- `INS-260625-131D` The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
 - `INS-260514-EE1F` Western culture is excellent at decomposing problems (Descartes), structurally weak at synthesis. AI era requires synthesis: curate AI outputs, juxtapose recombinant content, integrate across silos. Synthesis skill = disproportionate advantage.
 - `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260325-28AD` Decompose problems along their natural symmetries and math rewards you with simpler subproblems.

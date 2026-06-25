@@ -64,6 +64,7 @@ related:
   - PRI-260406-818D
   - INS-260403-99B1
   - INS-260330-DE80
+  - INS-260625-98B5
 ---
 When Facebook's growth stalled in 2008, Chamath Palihapitiya, Alex Schultz, Naomi Gleit, and Javier Olivan formed what was effectively the first modern growth team. Their foundational insight: marketing and product both touch users, so they should be unified under product rather than split. No amount of external marketing can match features that hit the right users with the right message at the right time in a native way. Concretely, this meant treating internationalization as a growth lever (crowdsourcing translations from users themselves rather than hiring translation firms), instrumenting every funnel step, reducing friction at every junction, and running constant experiments.
 

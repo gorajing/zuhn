@@ -16,9 +16,9 @@
 - `INS-260403-CE62` Act on problems immediately but accept that results in complex systems take time to materialize.
 - `INS-260405-FE74` The lion's share of vertical software value is realized a decade or more after launch, not at Series A or B.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
+- `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
 - `INS-260403-DAA9` Decades of accumulated context at a single company create pattern recognition and reinvention capacity that no amount of capital or talent can fast-track.
 - `INS-260403-B2A5` Sequoia's edge comes from committing to simple systems — talent tracking, forced conviction, post-mortems — and running them for years without interruption while competitors quit early.
-- `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.

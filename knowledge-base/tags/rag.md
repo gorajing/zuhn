@@ -28,3 +28,4 @@
 - `INS-260409-0D87` Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
 - `INS-260625-99AE` Context engines, hierarchical summarization, knowledge graphs, iterative retrieval, and self-correction each trade upfront engineering against scaling cost—iterative retrieval is the best default when you're building agents for yourself rather than as a product.
 - `INS-260410-264E` If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
+- `INS-260625-8A5F` Make the agent's corrected conversation history part of its own retrieval source, so each human fix becomes future training context and the agent gets better day after day.

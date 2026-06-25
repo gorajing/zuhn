@@ -1,7 +1,8 @@
 # Topic: economics
 
-> 14 insights
+> 15 insights
 
+- `INS-260625-02A3` [high] Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
 - `INS-260405-3240` [high] AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable.
 - `INS-260410-BC76` [high] Frontier labs buy compute 1–2 years before it comes online, so mispredicting demand by a single year of the 10x curve makes the company insolvent.
 - `INS-260410-9267` [high] In AI firms, compute budgets will follow decision value — high-stakes roles like CEO could justify $100B+ in annual inference compute for simulation-heavy strategic planning.

@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 43 insights
+> 44 insights
 
 - `INS-260603-15F4` [high] Rona Shah (Walmart): Amazon's ads/retail-media is ~10% of revenue but ~40% of operating income — high-margin business that subsidizes low-margin e-commerce; when a shopper completes the journey inside ChatGPT without visiting the retailer, that ad revenue vanishes, which is why Amazon blocks agents and Walmart rolled back OpenAI instant-checkout.
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
@@ -8,6 +8,7 @@
 - `INS-260405-FAA3` [high] Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.
 - `INS-260410-A98D` [high] Every NVIDIA accelerator — all 250-300 million installed CUDA GPUs across 30 years — is architecturally compatible, and Huang treats this as the only unnegotiable rule in the entire company.
 - `INS-260325-14DC` [high] ASML's $350 million EUV lithography machines — using tin plasma at 40x the sun's surface temperature to carve transistors smaller than viruses — are required for all advanced chips and have no competitor.
+- `INS-260625-98B5` [high] Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
 - `INS-260404-F0C3` [high] Google and Meta's TorchTPU collaboration attacks NVIDIA's software moat by eliminating the code-rewrite barrier to switching from GPUs to TPUs.
 - `INS-260514-0F74` [high] Windows 365: don't own the OS, rent it. Everything you do flows through Microsoft infrastructure.
 - `INS-260322-EDC2` [high] While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.

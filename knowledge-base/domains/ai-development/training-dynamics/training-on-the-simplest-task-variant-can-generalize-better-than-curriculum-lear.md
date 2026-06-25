@@ -63,11 +63,11 @@ stance: >-
   and generalize to harder variants — than mixing difficulties or staging a
   curriculum.
 related:
+  - INS-260625-8C41
   - INS-260410-CB70
   - INS-260403-B73D
   - INS-260323-4E12
   - INS-260329-97C1
-  - INS-260404-CE26
 ---
 The Snorkel/Berkeley team compared three RL training regimes for FinQA: train on single-table questions only, train on the full mix of single- and multi-table, or run curriculum learning that starts simple and progressively adds multi-table difficulty. The intuitive bet is on the mix or the curriculum. The surprise was that single-table-only training yielded the greatest uplift.
 

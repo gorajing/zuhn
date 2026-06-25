@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260321-2D72
   - INS-260605-9976
+  - INS-260625-E19F
   - INS-260329-C754
   - INS-260403-401F
-  - INS-260329-9F8D
 ---
 RunPod offers two billing shapes: pods give you a reserved GPU that is yours as long as it runs (pay by the second, no scaling), while serverless auto-scales workers up under load and back to zero when idle so you pay nothing for idle time — but at a premium over pods, since the scaling machinery is bundled in. The explicit recommendation is to start experimentation on pods or with a very low serverless worker count, because during early iteration you typically need only one or two GPUs at a time, and to reserve serverless for production workloads that need hundreds of workers distributed across data centers for availability.
 

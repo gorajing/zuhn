@@ -31,13 +31,13 @@
 - `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
 - `INS-260410-7AA0` In B2B enterprise software, brand is the identity that scales trust across a global buyer base — underinvesting in it cedes the most leveraged asset you can build.
-- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
+- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
 - `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.
 - `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-575D` Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.
-- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'
 - `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
+- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'

@@ -50,6 +50,6 @@ related:
   - INS-260410-9DB0
   - PRI-260426-890F
   - INS-260605-726C
-  - INS-260605-0312
+  - INS-260625-0021
 ---
 The common reflex when an agent doesn't do what it's supposed to is to rewrite the system prompt or 'prompt it harder.' Kumar argues this is usually the wrong move: the rented model is a non-deterministic black box (a provider could silently serve Sonnet when you asked for Opus and you'd never know), so there are too many uncontrollable variables to fix with words alone. The harness — the tool registry, context management, guardrails, agent loop, and verification step wrapped around the model — is what ties the black box to a stable environment you actually control. In the demo he never touches the prompt once; he only adds harness components, and the outcome changes from hallucinated failure to reliable success. The lesson: treat reliability as a structural engineering problem solved deterministically outside the model, not a linguistic one solved inside it.

@@ -56,16 +56,16 @@ stance: >-
   The IDE will consolidate into a single entry point that manages local,
   background, and cloud agents from one interface.
 related:
-  - INS-260320-4773
   - INS-260330-B771
   - INS-260403-0D23
   - INS-260409-A3EC
-  - INS-260423-74BF
   - INS-260501-D701
   - INS-260530-69DC
   - INS-260605-3553
   - INS-260605-D710
   - INS-260605-2DD5
+  - INS-260605-0374
+  - INS-260605-B4B9
 ---
 Hampton's framing is that the proliferation of agents (in CLIs, terminals, chat panes, other editors) creates cognitive load, and the answer is consolidation: VS Code as the single surface from which you spin up agents at any autonomy level and watch them work side by side. A single settings modal exposes the whole 'control plane' — custom and built-in agents, skills, prompt files, instructions, hooks, and MCP servers — and even surfaces third-party stacks like Claude's plugins, hooks, instructions, and skills alongside Copilot's.
 

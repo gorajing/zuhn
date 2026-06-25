@@ -48,7 +48,6 @@ stance: >-
   In optimization problems, systematically examining actual failures produces
   better improvements than theoretically motivated enhancements.
 related:
-  - INS-260321-D370
   - INS-260326-BF32
   - INS-260329-EA2B
   - INS-260330-AB3E

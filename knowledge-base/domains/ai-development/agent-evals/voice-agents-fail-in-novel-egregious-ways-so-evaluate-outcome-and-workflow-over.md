@@ -68,13 +68,13 @@ stance: >-
 related:
   - INS-260322-191F
   - INS-260322-091C
-  - INS-260605-667B
   - INS-260605-D912
   - INS-260605-FCDA
   - INS-260605-355C
   - INS-260619-D4F6
+  - INS-260625-26F5
   - INS-260321-2482
-  - INS-260410-9D86
+  - INS-260625-18D0
 ---
 Hopkins draws a sharp line between where agents are exceptional and where they are uniquely brittle. Agents trivially solve the problem human agents struggle with — instantly propagating a policy or product change across tens of millions of conversations. But they fail in egregious, non-human ways: vocal hallucinations where the agent accidentally screams, starts whispering, or changes voices mid-conversation. A human support agent would never do this, so QA categories that never existed before are now mandatory. QA was once an optional nice-to-have where you assumed things roughly worked; with voice agents that assumption breaks because they can access live systems and create compliance and security exposure.
 
