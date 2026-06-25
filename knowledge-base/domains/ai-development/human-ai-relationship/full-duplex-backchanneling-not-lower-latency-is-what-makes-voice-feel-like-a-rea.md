@@ -55,6 +55,6 @@ related:
   - INS-260605-D37A
   - INS-260605-8AEE
   - INS-260625-9C3D
-  - INS-260409-78E1
+  - INS-260625-0C98
 ---
 Almost every speech-to-speech model is half-duplex: it is either listening or speaking, and cannot handle the ambiguity of real conversation where people talk over one another, cough, or interject 'mhm' to signal active listening. This backchanneling is not noise — in some cultures (e.g., Japanese) it signals politeness and attention, and up to 20% of conversation time is overlapped speech. A half-duplex model treats backchannel as an interruption and stops, which becomes maddening (and is why most voice demos are shot in quiet rooms). Moshi demonstrates the alternative: it begins answering before you finish, lets you talk over it without ignoring you, and stays robust to noise and multiple speakers. The lesson for builders is that naturalness is gated on duplexity and overlap-handling, not just on shaving latency.

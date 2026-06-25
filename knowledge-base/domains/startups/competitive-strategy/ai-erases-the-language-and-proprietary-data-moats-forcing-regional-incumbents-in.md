@@ -41,7 +41,6 @@ stance: >-
 related:
   - INS-260325-F48E
   - INS-260322-2B2D
-  - INS-260327-F4DB
   - INS-260330-B437
   - INS-260402-E470
   - INS-260402-C030
@@ -49,5 +48,6 @@ related:
   - INS-260405-1F6B
   - INS-260403-494E
   - INS-260327-2C5F
+  - INS-260321-21BE
 ---
 The CEO argues the two barriers that let Naver/LINE win locally — language and proprietary data accessible only inside their platforms — are disappearing under AI, returning the industry to the kind of direct global competition first felt at the PC/mobile-internet transitions. Implication for the KB: AI is a moat-dissolver for regional incumbents, raising the bar from 'own the local market' to 'compete globally.'

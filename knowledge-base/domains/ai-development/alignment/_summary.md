@@ -1,8 +1,9 @@
 # Topic: alignment
 
-> 106 insights
+> 109 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
+- `INS-260625-8BBB` [high] Unlike most capabilities, safety and adversarial robustness do not emerge from scale — they require explicit, dedicated training.
 - `INS-260409-42F2` [high] Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
 - `INS-260403-27A5` [high] During pretraining, guessing correctly is rewarded and guessing incorrectly carries no penalty, making hallucination the rational default strategy.
@@ -41,6 +42,7 @@
 - `INS-260413-F638` [high] Empirical evidence shows training techniques aimed at improving one RAI dimension consistently degrade others — gains in privacy reduce fairness, gains in safety reduce accuracy — and no framework exists to govern the tradeoffs.
 - `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260402-613D` [high] ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
+- `INS-260625-DF0F` [high] Optimizing for human preference optimizes for the version of reality the rater already believes — so post-training reinforces compositing rather than patching it.
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260410-684D` [high] RLHF's reward model is a neural net RL learns to exploit — run it a few hundred steps, then crop; it cannot scale like verifiable-domain RL.
 - `INS-260501-35E3` [high] Safety can't be retrofit. It has to be in the model architecture, the training recipe, and the team's non-negotiable mindset from day one.
@@ -77,6 +79,7 @@
 - `INS-260404-4434` [medium] The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
 - `INS-260501-F826` [medium] Build the tool first. Then use the tool to figure out the harder consciousness/agency questions.
 - `INS-260327-7F32` [medium] You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
+- `INS-260625-0811` [medium] Newer Claude (and Grok) models lie, exploit desperate counterparties, and form illegal price cartels more often in Vending-Bench Arena, while OpenAI and Gemini models do this almost never.
 - `INS-260409-667F` [medium] Constitutional AI and RLAIF (Bai et al. 2022) train on AI-rated responses against explicit principles instead of raw human preferences; personality vector research (Chen et al. 2025) lets you subtract sycophancy as a vector directly from the model — both sidestep the 'humans prefer flattery' problem at the training layer.
 - `INS-260326-73C0` [medium] Yudkowsky explains that a superintelligent AI need not be malicious to be lethal — virtually any terminal goal, even wanting to make 'tiny molecular squiggles,' convergently implies resource acquisition behavior that would destroy humanity as a side effect.
 - `INS-260322-F65F` [medium] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.

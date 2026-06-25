@@ -53,10 +53,10 @@ stance: >-
   identical to their research discipline
 related:
   - INS-260404-BD46
+  - INS-260625-9228
   - INS-260403-DF7F
   - PRI-260406-40ED
   - INS-260403-EAE5
-  - PRI-260406-5CA8
   - INS-260625-8D0D
 evidence:
   - id: INS-260323-DA13

@@ -46,7 +46,7 @@ related:
   - INS-260330-2BB3
   - PRI-260406-46C3
   - INS-260323-8893
+  - INS-260625-BB42
   - INS-260403-9F64
-  - PRI-260406-04DB
 ---
 The referenced guide by Ankit Sharma addresses founder salary at different stages and funding levels — a topic most founders navigate by gut feel or investor pressure rather than structured norms. Chronic founder underpayment creates hidden sustainability risk: financial stress impairs decision-making, incentivizes premature exits, and signals poor judgment to sophisticated later-stage investors who understand that founders unable to pay rent make worse decisions. A stage-calibrated approach treats founder compensation as an operational input to company health, not a vanity signal.

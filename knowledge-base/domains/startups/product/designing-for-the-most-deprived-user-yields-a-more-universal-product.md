@@ -56,8 +56,8 @@ related:
   - INS-260403-F8AE
   - INS-260330-AB62
   - INS-260412-5ADA
+  - INS-260625-F775
   - INS-260327-26BF
-  - INS-260605-1BBF
 ---
 Canuma's MLX work began as a promise to restore information access to his father, who went blind in 2020 and lives in Africa where reliable internet and affordable subscriptions are scarce. Those two constraints — sensory deprivation and poor connectivity — directly dictated the architecture: it had to be multimodal (vision + voice, since typing wasn't viable) and fully on-device (since the cloud wasn't dependable). Designing for that hardest case is precisely what produced a framework that now serves a far broader audience.
 

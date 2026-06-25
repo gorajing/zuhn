@@ -50,12 +50,12 @@ stance: >-
   reasoning-compute tradeoff dramatically steeper than naive test-time scaling
   suggests.
 related:
-  - INS-260323-8AEC
   - INS-260327-991D
   - INS-260329-7F02
   - INS-260625-E9A9
+  - INS-260625-1955
+  - INS-260323-8AEC
   - INS-260424-0554
-  - INS-260410-939B
   - INS-260410-87B5
   - INS-260605-B9A9
   - INS-260605-3899

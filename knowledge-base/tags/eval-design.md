@@ -1,5 +1,6 @@
 # Tag: eval-design
 
+- `INS-260625-A99C` An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-0148` Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260625-76E9` Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260625-14F9` Separate context discovery from patch generation when diagnosing coding-agent reliability.

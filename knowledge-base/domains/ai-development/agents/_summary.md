@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 57 insights
+> 60 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -25,6 +25,7 @@
 - `INS-260605-46A8` [high] For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
 - `INS-260625-CBC7` [high] A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - `INS-260410-4067` [high] Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
+- `INS-260625-E04B` [high] MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
 - `INS-260605-2D9B` [high] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260410-9B0E` [high] Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
 - `INS-260410-B3C2` [high] pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
@@ -39,6 +40,7 @@
 - `INS-260605-0DB3` [high] One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260410-AF66` [high] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260605-5D14` [high] If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
+- `INS-260625-2ED0` [high] Risk from prompt injection requires three things together — untrusted input, access to private data, and the ability to act/exfiltrate; remove any one and the risk collapses.
 - `INS-260605-1A2D` [high] Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - `INS-260625-FACB` [high] Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
 - `INS-260410-376A` [high] Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
@@ -46,6 +48,7 @@
 - `INS-260405-F26B` [medium] ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260605-303C` [medium] Agents look less autonomous than they are because you can only reach them in their native environment, not because the models are weak.
 - `INS-260605-BB4B` [medium] Short-term memory holds conversation/session context, long-term holds entities resolved and deduplicated over time, and reasoning holds the decision traces — three layers, not one.
+- `INS-260625-355D` [medium] Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
 - `INS-260619-B1A8` [medium] An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work.
 - `INS-260514-1D60` [medium] Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.

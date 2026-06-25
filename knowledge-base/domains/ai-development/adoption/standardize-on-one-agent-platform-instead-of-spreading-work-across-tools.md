@@ -58,8 +58,8 @@ related:
   - INS-260403-92B5
   - INS-260409-94F8
   - INS-260410-D3D8
+  - INS-260625-F9CD
   - INS-260330-608C
-  - INS-260514-33FB
 ---
 Intercom spent a year dissatisfied with marginal gains while letting engineers freely choose Copilot, Cursor, Augment, and editors. The inflection only came after they committed to a single platform (Claude Code) in December and rolled it out in January. Scanlan's framing: 'It kind of doesn't matter what you choose, but choosing one is important.' He compares tool sprawl to being needlessly multi-cloud — you forfeit the compounding benefits of a well-designed platform when you scatter your work across providers.
 

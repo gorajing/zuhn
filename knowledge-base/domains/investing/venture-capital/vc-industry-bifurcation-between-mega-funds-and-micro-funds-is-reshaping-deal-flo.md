@@ -54,6 +54,7 @@ related:
   - PRI-260406-EE38
   - INS-260404-12FB
   - INS-260403-A9F3
+  - INS-260625-6E01
 ---
 The evolving VC landscape shows a clear trend toward polarization between mega-funds (like ARCH Venture Partners closing $3B+ and Headline raising $865M) and smaller specialized funds ($100-200M range targeting specific sectors or geographies). This barbell distribution means mid-size generalist funds face increasing pressure to differentiate or specialize.
 

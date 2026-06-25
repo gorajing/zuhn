@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 83 insights
+> 84 insights
 
 - `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - `INS-260412-CC9E` [high] At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
@@ -30,6 +30,7 @@
 - `INS-260423-77DF` [high] Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
 - `INS-260412-2E7D` [high] Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` [high] You know what you believe but rarely why you believe it — the source code is gone.
+- `INS-260625-6260` [high] An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
 - `INS-260409-3FDE` [high] Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260412-37B2` [high] The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
 - `INS-260409-2E2B` [high] Katherine Chworowski's 2024 re-analysis showed that many 'too-massive' early galaxies were little red dots whose central black holes were doing the brightness work of billions of suns, inflating apparent stellar mass; once removed, the sample fit the standard model with only a mild residual.

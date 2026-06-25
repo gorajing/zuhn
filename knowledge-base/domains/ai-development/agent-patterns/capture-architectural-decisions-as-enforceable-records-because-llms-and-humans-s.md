@@ -60,7 +60,7 @@ related:
   - INS-260605-DF08
   - PRI-260320-07A4
   - INS-260605-37FB
-  - INS-260605-BB4B
+  - INS-260625-1CB8
 ---
 Cichra frames the core problem with a parable: monkeys keep beating any peer who climbs the ladder long after the original punished monkeys are gone — enforcing a rule no one remembers the reason for. Humans and LLMs suffer the identical trait: limited context. People forget, people leave; LLMs compact context and have no persistent memory. After operating a product a while, teams start asking why a flow exists, why a feature has its goal, why code is shaped a certain way — and the founding engineer may be unavailable.
 

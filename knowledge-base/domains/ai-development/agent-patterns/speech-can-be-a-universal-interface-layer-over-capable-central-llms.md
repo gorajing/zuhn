@@ -56,7 +56,6 @@ stance: >-
   far by wrapping any capable LLM agent in the same voice interface, even though
   it feels like one unified system.
 related:
-  - INS-260322-191F
   - INS-260605-50FB
   - INS-260605-C132
   - INS-260619-BF47

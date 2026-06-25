@@ -63,9 +63,9 @@ stance: >-
 related:
   - INS-260605-4D1D
   - INS-260326-0AB4
+  - INS-260625-13F0
   - INS-260409-1FD3
   - INS-260605-365A
-  - INS-260323-584D
 ---
 In pre-training the data question was answered ('use everything') so there were no degrees of freedom to abuse. But RL training has enormous degrees of freedom — every company has teams churning out new RL environments. Sutskever's observation is that people inevitably take inspiration from the evals: 'I would love our model to do really well when we release it, what RL training could help on this task?' This produces models superhuman at competitive programming that fail to be tasteful programmers in general.
 

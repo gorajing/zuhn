@@ -59,7 +59,7 @@ related:
   - PRI-260324-2C9F
   - INS-260403-04AD
   - INS-260403-33E2
-  - INS-260410-B7B1
+  - INS-260514-4E58
 ---
 In pretraining, an AI is rewarded for predicting the next token correctly and receives no explicit punishment for wrong predictions. Over trillions of tokens, even wildly improbable guesses occasionally land correctly and get reinforced. This makes 'always guess' the dominant strategy — it raises your expected score from 0 to some small positive number with no downside.
 

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 343 insights
+> 347 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -167,6 +167,7 @@
 - `INS-260325-17BF` [high] Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260403-7C88` [high] Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260329-388E` [high] Goodwill functions like a financial asset that compounds over time and generates measurable returns.
+- `INS-260625-E98C` [high] Research is a breadth-first-search machine that explores many theses but rarely finishes; a company is a depth-first-search machine that commits all resources to climbing one chosen hill.
 - `INS-260322-1A20` [high] In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260323-7AF7` [high] Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260330-6A94` [high] Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
@@ -252,9 +253,11 @@
 - `INS-260328-70D3` [medium] The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` [medium] Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260321-3D65` [medium] Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
+- `INS-260625-0AD4` [medium] Ideas that were once 'slightly out of reach' are now buildable, so the burden flips from 'can I build this?' to 'I can't just ship the MVP — I have to go ten steps further.'
 - `INS-260410-79C4` [medium] The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260327-D2F3` [medium] Inexperienced founders can outperform veterans by seeing solutions that experts have unconsciously ruled out.
 - `INS-260403-9CD9` [medium] The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
+- `INS-260625-940D` [medium] The founders' worldview deliberately diverges from frontier labs: instead of one increasingly intelligent generic model, everyone gets their own model trained on private, often conflicting context that no shared post-training set could capture.
 - `INS-260323-7C3A` [medium] Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260327-F477` [medium] Big tech experience is anti-helpful for startups—the culture, speed, and processes are the exact opposite of what you need.
 - `INS-260410-575B` [medium] After Yahoo's 2006 $1B offer where Meta's board tried to fire Zuckerberg for refusing it, he restructured the company so a future him couldn't be overruled on the same kind of long-horizon bet.
@@ -290,6 +293,7 @@
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260322-5D22` [medium] Building networks where people personally know and trust each other's character creates economic infrastructure that bypasses institutional gatekeeping in the AI era.
 - `INS-260525-35DB` [medium] Korean engineer: 'In our previous era money was the biggest blocker. Money is not that big a blocker now' — operations and not knowing the market are.
+- `INS-260625-9228` [medium] Simile became a company when social scientists and then Fortune 500 boards spontaneously asked to run their experiments in simulation — the inbound revealed a rare clear line from research to impact.
 - `INS-260329-9A5A` [medium] People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260409-EC0C` [medium] Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260329-1D8D` [medium] Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.

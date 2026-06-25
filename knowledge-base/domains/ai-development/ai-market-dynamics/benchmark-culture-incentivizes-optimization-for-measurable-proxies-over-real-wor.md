@@ -51,13 +51,12 @@ stance: >-
   real-world execution, and lower-ranked models get disproportionate testing
   attention from competitors seeking unfavorable comparisons.
 related:
-  - INS-260322-B693
   - INS-260327-ABF8
   - INS-260330-A660
+  - INS-260625-13F0
   - INS-260404-8D91
   - INS-260403-6F65
   - INS-260514-AE82
-  - INS-260403-BB23
 ---
 The party itself is a benchmark evaluation — PartyBench — where the hosting AI scores on party quality. The gap between benchmark performance and reality is the central joke: the AI serves rubbing alcohol, plays the national anthem on repeat, and offers rocks as appetizers. Meanwhile, RestaurantBench restaurants serve intact fish in taco shells and inverse hamburgers. High benchmark scores and real-world utility diverge because benchmarks measure what's measurable, not what matters.
 

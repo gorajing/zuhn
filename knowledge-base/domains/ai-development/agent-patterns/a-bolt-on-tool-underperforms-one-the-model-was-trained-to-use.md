@@ -55,8 +55,8 @@ related:
   - INS-260605-FE8E
   - INS-260625-CF5E
   - INS-260325-E652
+  - INS-260625-3A20
   - INS-260405-214D
-  - INS-260404-573C
 ---
 Adding the same Turbopuffer search tool to Claude Code produced real precision gains but underperformed Cursor's results. The speaker's explanation is that Claude Code is built and trained for grep — Anthropic's deliberate focus — so an externally attached semantic tool reads to the model as 'here's a cool tool you should probably use sometimes,' without a true sense of when, why, or how to invoke it. Cursor's composer instead treats semantic search as a built-in capability it knows how to wield, and that integration is why it captures ~23.5% answer-accuracy improvement.
 

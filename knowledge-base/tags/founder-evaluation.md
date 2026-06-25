@@ -1,5 +1,6 @@
 # Tag: founder-evaluation
 
+- `INS-260625-5972` Reaching the top of a scientific discipline requires the same human leadership — earning trust, marshaling resources, confrontational conviction — that makes a great CEO, so 'he's just a researcher' is a category error.
 - `INS-260403-4DFB` In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
 - `INS-260403-0B76` An early ElevenLabs backer identifies two dealbreakers: teams without deep technical capability and those chasing crowded hype-driven markets.
 - `INS-260403-9942` Data shows founder-first investing based on charisma and credentials leads to worse outcomes than evaluating founders through their business.

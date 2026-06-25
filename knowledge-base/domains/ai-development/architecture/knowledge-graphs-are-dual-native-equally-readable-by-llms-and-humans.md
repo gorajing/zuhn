@@ -53,12 +53,11 @@ stance: >-
   knowledge.
 related:
   - INS-260329-3FF4
-  - INS-260421-8004
-  - INS-260605-1C4E
   - INS-260605-4B12
+  - INS-260625-F775
   - INS-260329-FAE2
   - INS-260329-83AA
-  - INS-260327-5F10
+  - INS-260605-1C4E
 ---
 Chin argues knowledge graphs are 'great for tooling, great for LLMs,' and also 'how we would represent things as humans.' LLMs can generate Cypher (the graph query language), build graphs, and impose structure on unstructured documents — while the resulting node-and-relationship structure mirrors how people sketch ideas on a whiteboard. This shared representation lowers the friction between machine reasoning and human understanding.
 

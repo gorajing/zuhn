@@ -56,8 +56,8 @@ related:
   - INS-260403-1FB1
   - PRI-260406-F9EB
   - INS-260404-5CC6
+  - INS-260625-13F0
   - INS-260403-3D8C
-  - PRI-260323-0F93
 ---
 The finding that gun injury severity has increased at roughly the same rate as trauma care improvement illustrates a deep pattern in adversarial systems. Whether through explicit calculation, cultural transmission of 'street wisdom,' or selection effects (robberies declining while targeted killings remain), the lethality per violent act has stayed roughly constant despite major medical advances.
 

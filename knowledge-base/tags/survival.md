@@ -27,6 +27,6 @@
 - `INS-260330-97F6` In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
 - `INS-260412-B900` Toyota was saved from near-bankruptcy when the US ordered 5,000 vehicles during the Korean War.
 - `INS-260412-1F15` The humans who survive a rogue Earth scenario are those who switched from solar dependence to geothermal and nuclear — internal energy sources unaffected by losing the sun.
-- `INS-260403-AC9F` The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
-- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
+- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
+- `INS-260403-AC9F` The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.

@@ -21,6 +21,7 @@
 - `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
 - `INS-260412-2E7D` Cosmic expansion will eventually erase all evidence of other galaxies, making the Big Bang undiscoverable to future civilizations.
 - `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
+- `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
 - `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260409-5E35` Quantum mechanics almost never supports the mystical claims it gets invoked to support.
 - `INS-260412-F6FD` Equations can have valid solutions that describe nothing real — mathematical possibility is a necessary but not sufficient condition for existence.

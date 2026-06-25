@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260423-6CC0
   - INS-260423-2134
+  - INS-260625-0AD4
   - INS-260330-178D
   - INS-260329-FCC6
   - INS-260423-2C05
-  - INS-260323-B4D2
 ---
 The conventional way to use AI tools is to ask for one task at a time and validate each output before proceeding. As models cross capability thresholds, this caution becomes the limiting factor rather than the safeguard. Logan describes feeling that side projects he would have spent an hour on now require taking a week off because his ambition is 20x what it used to be — the model can do it, but the design and direction work is now what bottlenecks him. The implication: in 2026, the productive question shifted from 'will the AI fail at this?' to 'am I aiming high enough?' Builders who continue to use AI for narrow well-defined tasks are leaving the frontier capability on the table; builders who scale their ambition to match model capability achieve dramatically different output. The shift is psychological, not technical, and most knowledge workers have not made it. Specific behavioral signal: if your weekly AI usage feels like incremental productivity rather than capability expansion, you are still operating in the old paradigm and competing against people who are not.

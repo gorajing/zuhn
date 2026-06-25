@@ -48,6 +48,7 @@ related:
   - INS-260412-4701
   - INS-260322-5678
   - PRI-260328-99F0
+  - INS-260625-C4AE
 stance: >-
   Unlike previous platform shifts (internet, mobile), AI lacks a known
   theoretical ceiling, making deterministic predictions uniquely unreliable.

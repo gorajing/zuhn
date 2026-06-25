@@ -50,7 +50,6 @@ related:
   - INS-260408-C572
   - INS-260409-45C3
   - INS-260409-DC8C
-  - INS-260410-1B17
   - INS-260505-050B
 stance: >-
   Alignment work (RLHF, interpretability) directly improves model capabilities,

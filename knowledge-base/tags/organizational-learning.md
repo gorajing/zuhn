@@ -6,5 +6,5 @@
 - `INS-260403-31C2` Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.
 - `INS-260403-65C3` When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 - `INS-260403-5427` Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
-- `INS-260403-C05F` Combining specialized innovation programs at different organizational levels produces better results than relying on one.
 - `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
+- `INS-260403-C05F` Combining specialized innovation programs at different organizational levels produces better results than relying on one.

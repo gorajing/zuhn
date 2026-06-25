@@ -65,7 +65,7 @@ related:
   - INS-260501-17BB
   - INS-260501-0662
   - INS-260514-AC43
+  - INS-260625-3EE6
   - INS-260603-DFA6
-  - INS-260519-D007
 ---
 Max's framing of Pi.dev's core philosophy: 'The power comes from the harness. Harnesses can improve a specific model's performance.' Concrete example mentioned in the talk: Grok from Coming AI improved its benchmark score by 30-40% just from adding instructions to its system prompt about how to use tool calls. The implication is structural — the harness is a higher-leverage target for engineering effort than the model itself, because (1) you can iterate on the harness in hours while waiting months for a better model, (2) harness improvements compose with future model improvements rather than being obviated, (3) most teams under-invest here because the harness is invisible to users while the model brand is what gets celebrated. The practical move: when you're frustrated with model performance, your first hypothesis should be 'is the harness asking the right questions in the right format?' before 'do I need a better model?' Lopopolo (OpenAI) made the same argument from inside the harness: lint failures as prompts, persona reviewer agents, write tests about source-code structure not just behavior — all are harness investments. The Pi/Mario philosophy and the Lopopolo OpenAI philosophy converge on the same conclusion despite very different stacks: the model is a commodity, the harness is the moat.

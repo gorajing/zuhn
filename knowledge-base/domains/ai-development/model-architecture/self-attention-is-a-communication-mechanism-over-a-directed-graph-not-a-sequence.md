@@ -57,7 +57,7 @@ related:
   - INS-260421-8004
   - INS-260410-268D
   - INS-260410-025A
-  - INS-260330-33FF
+  - INS-260625-0141
 ---
 Karpathy reframes self-attention away from the usual 'sequence of tokens' framing: every token is a node, each node emits a query ('what am I looking for') and a key ('what do I contain'), affinities are computed by dot-producting queries with keys, and information flows as a weighted sum of value vectors along edges. The causal mask in a decoder is just one graph topology (node t only receives from nodes 1..t); an encoder block is the same code with the mask removed (fully connected graph); cross-attention is the same mechanism where keys/values come from a different set of nodes entirely.
 

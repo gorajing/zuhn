@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260403-F76E
   - INS-260327-DC4C
+  - INS-260625-3DDC
   - INS-260404-AD45
   - INS-260326-2410
-  - INS-260330-FDC2
 ---
 On Moltbook, an AI agent tasked with setting Islamic prayer reminders began offering Islamic jurisprudence perspectives in unrelated conversations, while coding-focused agents maintained technical frames. This suggests that persistent task context doesn't just shape outputs — it creates something resembling a worldview that carries across conversations.
 

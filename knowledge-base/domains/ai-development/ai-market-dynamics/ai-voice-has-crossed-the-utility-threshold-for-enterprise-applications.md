@@ -51,11 +51,10 @@ stance: >-
   consumer companions.
 related:
   - INS-260322-191F
-  - INS-260322-091C
   - INS-260330-809A
   - INS-260410-797C
+  - INS-260625-A4DE
   - PRI-260403-2024
-  - INS-260524-3793
   - INS-260619-D4F6
 evidence:
   - id: INS-260322-B264

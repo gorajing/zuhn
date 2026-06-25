@@ -53,11 +53,11 @@ stance: >-
   bounces at the moment of purchase intent than any other page element below the
   fold
 related:
-  - INS-260321-801C
   - INS-260405-3238
+  - INS-260321-801C
   - INS-260403-A08A
+  - INS-260625-AC58
   - INS-260327-89C7
-  - PRI-260406-E75B
   - INS-260410-3832
 ---
 When a visitor's finger hovers over 'Start Now,' their hesitation isn't about features — it's a final nagging question about security, integrations, setup time, or cancellation policy. A mini-FAQ placed beside (not below, not in footer) the primary CTA intercepts this moment. Each answer should be one sentence plus a link for details, covering: compliance (SOC-2/GDPR), integrations (stack compatibility), time to value (setup duration), cancellation policy, and expected ROI.

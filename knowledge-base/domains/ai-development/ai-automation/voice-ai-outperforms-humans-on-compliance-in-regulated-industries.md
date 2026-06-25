@@ -44,10 +44,10 @@ resolutions:
     violates regulations becomes the pragmatic choice.
 related:
   - INS-260322-750D
+  - INS-260625-B985
   - INS-260327-B357
   - INS-260329-903B
   - INS-260519-E248
-  - INS-260327-F4DB
 stance: >-
   In banking and financial services, voice AI actually outperforms humans
   because humans frequently violate compliance regulations while AI gets it r...

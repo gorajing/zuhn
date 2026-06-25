@@ -60,7 +60,7 @@ related:
   - INS-260605-75B7
   - INS-260605-B8D3
   - INS-260403-7D7A
-  - INS-260605-2A64
+  - INS-260625-3A4F
   - INS-260605-5013
 ---
 Across 50 ContextBench tasks the aggregate recall of grep and semantic search was similar, but breaking it down revealed stark per-task divergence. Semantic search excelled when the relevant files were behaviorally related but lexically dissimilar — e.g. handling many ORMs across different libraries where keyword search missed the connections. Grep excelled when the task was tracing through imports or when the right keyword surfaced in the first or second tool call, letting it chase exact matches.

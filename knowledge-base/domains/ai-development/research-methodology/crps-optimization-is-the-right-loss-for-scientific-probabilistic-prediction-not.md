@@ -60,8 +60,8 @@ related:
   - INS-260325-96FB
   - INS-260403-F4C9
   - INS-260409-F93A
-  - INS-260501-31E1
   - INS-260403-34C0
+  - PRI-260406-E5FB
 ---
 Mokhechi's design choice: instead of predicting a deterministic future state and then bolting on uncertainty estimates, train the model end-to-end to optimize CRPS (Continuous Ranked Probability Score). CRPS is a proper scoring rule — minimizing it produces well-calibrated probabilistic predictions. The model directly outputs ensemble-style stochastic samples, and the training objective is to make those samples cover the actual distribution of futures correctly. Result: out-of-the-box probabilistic forecasts that match operational supercomputer ensemble systems (IFS) at quality, run 1000x faster, and respect calibration where most ML weather models don't.
 

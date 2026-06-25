@@ -48,6 +48,7 @@ stance: >-
   Knowledge graphs for agents should use temporal triples with valid_from and
   valid_to fields so facts can be invalidated without being deleted.
 related:
+  - INS-260625-0141
   - INS-260605-2A64
   - INS-260323-8D12
   - INS-260605-014F

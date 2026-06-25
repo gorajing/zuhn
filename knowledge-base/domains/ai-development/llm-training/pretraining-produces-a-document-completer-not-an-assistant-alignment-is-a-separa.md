@@ -59,10 +59,11 @@ related:
   - INS-260410-06DB
   - INS-260327-79E8
   - INS-260605-3D90
-  - INS-260514-9281
-  - INS-260410-38C9
+  - INS-260625-6AC1
   - INS-260410-B3D7
+  - INS-260514-9281
   - INS-260605-E7F2
+  - INS-260625-F775
 ---
 Karpathy draws an explicit line between what the lecture builds (nanoGPT pretraining — a decoder-only Transformer that completes sequences) and what ChatGPT adds on top. A freshly pretrained model given a question will often respond with more questions, ignore the prompt, or start a news article — whatever a similar document on the internet would look like. It is 'totally unaligned'.
 

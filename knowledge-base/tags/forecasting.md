@@ -26,5 +26,5 @@
 - `INS-260412-4701` Kurzweil's 86% prediction accuracy via trend extrapolation coexists with his total miss on the dot-com crash, revealing the method's blind spot for non-technological discontinuities.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260405-809E` Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
-- `INS-260403-98CD` A prominent development pessimist who argued in 2023 that post-1990 global development was a bust now implicitly concedes it succeeded everywhere except Africa.
 - `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.
+- `INS-260403-98CD` A prominent development pessimist who argued in 2023 that post-1990 global development was a bust now implicitly concedes it succeeded everywhere except Africa.

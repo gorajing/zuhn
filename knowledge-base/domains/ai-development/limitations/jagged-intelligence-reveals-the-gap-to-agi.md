@@ -48,8 +48,8 @@ related:
   - INS-260321-80A9
   - PRI-260323-8E89
   - PRI-260405-FB37
+  - INS-260625-0686
   - INS-260408-C572
   - PRI-260405-B144
-  - PRI-260403-EA13
 ---
 A model that solves PhD physics but fails when you reorder the same problem's variables isn't general. Hassabis says a true general intelligence 'shouldn't have those kinds of holes in it.' This is a useful frame for evaluating capability claims: if a model only succeeds in narrow problem framings, it's demonstrating impressive but non-general pattern matching. Practically: when building agents that rearrange files or chain tool calls, 'jaggedness' shows up as catastrophic failure on minor input perturbations. Robustness across elementary-task variants is the missing metric, not peak-capability benchmarks.

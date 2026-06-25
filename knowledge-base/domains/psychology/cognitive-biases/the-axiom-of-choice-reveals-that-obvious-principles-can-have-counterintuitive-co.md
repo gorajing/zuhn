@@ -51,8 +51,8 @@ related:
   - PRI-260324-F9CD
   - PRI-260323-DA09
   - INS-260403-C313
+  - INS-260625-6260
   - INS-260403-BA48
-  - INS-260323-3F30
 stance: >-
   Mathematicians who publicly rejected the axiom of choice were found to be
   unknowingly using it in their own proofs

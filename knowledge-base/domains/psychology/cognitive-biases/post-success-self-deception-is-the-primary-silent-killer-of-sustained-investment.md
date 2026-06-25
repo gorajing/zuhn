@@ -52,7 +52,7 @@ related:
   - INS-260323-8B22
   - INS-260403-AA09
   - INS-260330-90C3
+  - INS-260625-D44A
   - INS-260323-53FF
-  - INS-260410-6A19
 ---
 Creandum's Fund II returned ~13x, one of the strongest VC fund performances in European history. Most firms plateau after such success because partners start believing their own narrative — confusing a power-law outcome with repeatable skill. Staffan explicitly fights this with Feynman's principle: 'The easiest person to fool is yourself.' He notes that in any room of VCs, most claim to be top quartile, which is mathematically impossible and reveals systematic self-deception. Creandum's response was to institutionalize paranoia: before every investment, they interrogate which assumptions they're protecting and whether they're seeing reality or what they want to see. This maps to a broader pattern in expertise research — peak performance often precedes the steepest decline precisely because success erodes the vigilance that produced it.

@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260325-502D
   - PRI-260328-FA83
+  - INS-260625-11A3
   - PRI-260406-1796
   - PRI-260406-1993
-  - INS-260412-7CED
 ---
 Dimon describes JPMorgan's competitive edge as being fought at granular segment levels: not just 'investment banking' but 'the right team to win in healthcare pharma,' not just 'credit cards' but the Chase Sapphire card specifically, not just 'digital payments' but '24/7 digital payments with automatic currency conversions.' Each of these battles requires a small team 'authorized with the decision-making ability to move and act like Navy SEALs or the Army's Delta Force.'
 

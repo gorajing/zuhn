@@ -62,11 +62,11 @@ stance: >-
   substitute for continual learning during deployment, so any AI that must be
   useful in a specific context must learn during that context.
 related:
+  - INS-260625-16EC
   - INS-260625-E500
   - PRI-260407-2ACF
   - INS-260423-6172
-  - INS-260410-F985
-  - INS-260323-D400
+  - INS-260625-8BBB
   - INS-260410-B7B1
 ---
 The big world hypothesis says the world is so large that you cannot anticipate everything in advance. The LLM dream — train once, know everything, deploy without further learning — crashes into the reality that every job, every client, every environment has idiosyncrasies that no pre-training corpus captures. A human onboarding at a job rapidly absorbs preferences, company conventions, and tacit context. That absorption has to go somewhere.

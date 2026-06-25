@@ -1,5 +1,6 @@
 # Tag: real-time
 
+- `INS-260625-A741` Pulling enterprise data out to an external AI service introduces staleness and integration cost; embedding AI operators (vector search, forecasting, LLM functions) in the database lets agents act on the live state.
 - `INS-260605-68F4` One audio-to-audio architecture replaces the STT→LLM→TTS cascade, enabling more natural live voice interaction.
 - `INS-260605-6423` NPUs give roughly 3-13x speed and major energy savings, making them the enabler for real-time AR/TTS/camera workloads on the edge.
 - `INS-260605-DA98` Once a model is fast, infrastructure round-trips add as much latency as the model itself, so client-perceived latency is what matters.

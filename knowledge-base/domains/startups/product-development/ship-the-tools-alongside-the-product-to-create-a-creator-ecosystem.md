@@ -56,6 +56,7 @@ related:
   - INS-260323-C5D3
   - INS-260330-0B50
   - INS-260403-57E7
+  - INS-260625-F9B2
 stance: >-
   Sweeney shipped the game editor alongside ZZT, empowering players to become
   creators

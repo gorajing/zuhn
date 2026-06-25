@@ -54,7 +54,6 @@ related:
   - INS-260403-BA0D
   - INS-260323-4DD9
   - INS-260322-D57C
-  - INS-260323-0FDA
 stance: 'Customer service is the #1 underrated competency in modern business'
 ---
 VanDusen names customer service as the single most underrated but necessary competency for modern businesses. Every customer interaction creates geometric growth possibilities because the internet has created massive platforms where anyone can publicly amplify or shame a company. One fantastic experience has viral brand-building potential; one bad experience has viral brand-destroying potential.

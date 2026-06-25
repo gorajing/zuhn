@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260329-D3F6
   - INS-260330-A25A
-  - INS-260402-543E
   - INS-260404-E4C3
+  - INS-260402-543E
   - INS-260403-B2EA
-  - INS-260403-A9CC
+  - INS-260625-E04B
 ---
 Meet-Ting's design choice to operate inside the inbox — where coordination already happens — rather than building a separate scheduling interface is a deliberate distribution strategy. Users connect calendars once and schedule through email, meaning the AI meets people where they already work rather than asking them to change behavior.
 

@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 203 insights
+> 204 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -183,6 +183,7 @@
 - `INS-260323-2038` [medium] Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful tool for innovation and leadership, especially for tech leaders who rarely experience physical vulnerability.
 - `INS-260330-00AA` [medium] Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.
 - `INS-260330-AA25` [medium] Never apologizing works in environments without accountability but creates compounding credibility debt that collapses catastrophically when external pressure arrives.
+- `INS-260625-F9CD` [medium] Success for an agentic product isn't maximizing time spent in front of it — it's maximizing the outcome the customer wanted so they can go live their life.
 - `INS-260327-F55C` [medium] Anderson replaces manager-driven performance reviews with peer feedback every 90 days using a simple 0-1-2 rating scale, arguing this is the structural decision that determines whether a growing company stays nimble.
 - `INS-260410-CE39` [medium] The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.
 - `INS-260403-4963` [medium] Plan quarterly meetups centered on one unforgettable shared activity, because Slack doesn't build culture — shared memory does.

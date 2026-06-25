@@ -68,9 +68,9 @@ stance: >-
 related:
   - INS-260603-2FB1
   - INS-260519-8748
+  - INS-260625-DF0F
+  - INS-260625-3EE6
   - INS-260410-3DAD
-  - INS-260327-0B69
-  - INS-260625-E02C
 ---
 Dolgov's structural argument: in safety-critical industries, you cannot follow the Silicon Valley 'move fast and break things' playbook. Safety has to be the non-negotiable foundation — built into every layer of the system from day one. Specifically: model architecture has to support runtime validation; training and evaluation recipes have to include safety-specific test sets; the team mindset has to treat capability-vs-safety tradeoffs as non-negotiable on the safety side.
 

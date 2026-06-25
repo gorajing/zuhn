@@ -51,7 +51,6 @@ stance: >-
   the real wedge for infra products.
 related:
   - INS-260325-58F5
-  - INS-260501-35E3
   - INS-260624-4205
   - INS-260410-7292
   - INS-260408-C572

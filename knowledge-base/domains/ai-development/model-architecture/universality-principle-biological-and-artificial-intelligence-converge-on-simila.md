@@ -51,8 +51,8 @@ related:
   - INS-260322-25B4
   - INS-260323-0919
   - INS-260403-78E2
+  - INS-260625-0686
   - INS-260323-4D8D
-  - PRI-260327-0D6E
 ---
 Andreas Tolias presents the universality principle in neuroscience: edge-detecting neurons in monkey primary visual cortex map closely to features in artificial visual networks trained on different tasks. This convergence across radically different substrates (proteins/DNA vs silicon) is non-trivial — it suggests that the structure of the problem (extracting useful representations from sensory input) constrains the solution space, not the substrate.
 

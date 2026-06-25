@@ -8,5 +8,5 @@
 - `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260405-B4D2` Silicon Valley is rehabilitating micromanagement as a tool founders should embrace rather than avoid.
 - `INS-260327-F7BD` Mati describes the CEO magic as being able to zoom out to strategy and zoom into product detail extremely quickly, switching between contexts in seconds.
-- `INS-260403-F6F9` Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - `INS-260403-5DDE` Founders who maintain direct customer contact during downturns discover second-wind opportunities before competitors who retreat into boardroom strategy sessions.
+- `INS-260403-F6F9` Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.

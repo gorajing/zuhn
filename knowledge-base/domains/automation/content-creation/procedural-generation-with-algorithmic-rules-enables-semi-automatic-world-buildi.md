@@ -51,7 +51,7 @@ related:
   - INS-260605-BBCF
   - INS-260603-C102
   - INS-260330-7DCF
-  - INS-260403-7227
+  - INS-260625-F9B2
 ---
 The Matrix demo's city — 260km of roads, 512km of sidewalk, 7,000 buildings — was procedurally generated based on algorithmic rules rather than manually placed. This semi-automatic approach freed designers to focus on fine-tuning the world and working on narrative rather than placing every object.
 

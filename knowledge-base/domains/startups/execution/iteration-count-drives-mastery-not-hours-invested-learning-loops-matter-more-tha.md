@@ -53,7 +53,6 @@ stance: >-
   velocity the primary metric for individual and team capability growth.
 related:
   - INS-260322-24FB
-  - INS-260323-F274
   - INS-260327-5E40
   - INS-260327-98F7
   - INS-260329-6AF5
@@ -62,6 +61,7 @@ related:
   - INS-260409-6A6C
   - PRI-260328-49CB
   - PRI-260406-2D38
+  - INS-260402-5523
 evidence:
   - id: INS-260323-4D8D
     type: SUPPORTS

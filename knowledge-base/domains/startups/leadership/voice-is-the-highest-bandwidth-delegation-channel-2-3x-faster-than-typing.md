@@ -46,7 +46,7 @@ related:
   - INS-260605-9688
   - PRI-260328-F0E4
   - INS-260322-191F
-  - INS-260530-E697
+  - INS-260625-A4DE
   - INS-260625-8333
 stance: >-
   The best delegators use voice notes rather than text — voice is 2-3x faster,

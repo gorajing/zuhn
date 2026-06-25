@@ -52,7 +52,7 @@ related:
   - INS-260605-72C4
   - INS-260605-36E9
   - INS-260605-FCDA
+  - INS-260625-BB42
   - INS-260605-AABE
-  - PRI-260411-14DC
 ---
 Nisi's central epistemic point: 'measure, don't pursue.' With non-deterministic code, intuition is unreliable — he was convinced 10,000 lines of skills helped, and only evals revealed they hurt. Trust should be a pass rate, a hash, or a delta score, not a feeling. He recommends Claude's eval skill that produces side-by-side HTML comparisons (with skill vs. without). For agent-facing products specifically, evals locate exactly where the model fails for your product so you can target gotchas there rather than adding noise. The discipline mirrors test-driven development applied to probabilistic systems.

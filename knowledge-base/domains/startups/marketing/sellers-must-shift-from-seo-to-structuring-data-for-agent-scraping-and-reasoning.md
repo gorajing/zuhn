@@ -78,7 +78,7 @@ related:
   - INS-260402-E148
   - PRI-260405-AF79
   - INS-260402-5BE6
-  - INS-260403-3BB2
+  - INS-260403-902F
 ---
 When a human browsed, the seller optimized for human attention: brand look-and-feel, persuasive messaging, time-on-site, SEO keyword ranking. When an agent scrapes 30 product pages and synthesizes a recommendation, those signals largely stop mattering. What matters is whether the agent can quickly extract the critical product information and find an explicit, reasoned differentiation to justify recommending you.
 

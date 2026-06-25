@@ -56,8 +56,8 @@ related:
   - INS-260605-0C88
   - INS-260320-71C1
   - INS-260409-2A51
+  - INS-260625-3A20
   - INS-260605-FE8E
-  - INS-260410-F40F
 ---
 Referencing a Vercel experiment ('testing if bash is all you need'), Monigatti reports a benchmark comparing an agent with only a bash tool, one with only file-search tools, one with database tools, and a hybrid with both bash and database tools. The database tool was most effective for analytical queries; the file-search tool was very effective for quickly finding things. But the hybrid bash+database agent achieved the highest accuracy — apparently because it first used the database tool and then verified the results using the shell tool.
 

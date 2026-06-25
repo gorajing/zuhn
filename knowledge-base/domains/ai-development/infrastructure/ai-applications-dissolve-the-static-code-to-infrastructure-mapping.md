@@ -44,10 +44,10 @@ stance: >-
 related:
   - INS-260329-9BC0
   - INS-260404-B475
+  - INS-260625-E04B
   - PRI-260405-D6F5
   - INS-260325-3B58
   - INS-260410-CDDD
-  - INS-260514-118A
 ---
 Render framed traditional applications as statically mapped to known infrastructure: web services, databases, caches, workers, and queues sized for predictable user actions. AI apps break this relationship because a research or analytics agent may need a browser, web scraping, SQL, large memory, or hours-long processing depending on the prompt.
 

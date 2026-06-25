@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 206 insights
+> 209 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -54,6 +54,7 @@
 - `INS-260403-193E` [high] Fixed costs like headcount and infrastructure jump in steps, not linearly—controlling when those steps happen is a key founder lever for preserving cash.
 - `INS-260330-488B` [high] Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` [high] Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
+- `INS-260625-B17D` [high] Big labs have an obligation to do many things and therefore can't focus, so a startup with domain expertise and focus can run laps around them in a vertical.
 - `INS-260330-E99F` [high] Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
 - `INS-260514-8807` [high] Voluntary migration to internal platforms always stalls. The reliable adoption mechanism is to remove the alternative — block the old path, don't just evangelize the new one.
 - `INS-260330-725F` [high] Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
@@ -74,6 +75,7 @@
 - `INS-260403-CC97` [high] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 - `INS-260330-8718` [high] Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260324-FF33` [high] Krispy Kreme expanded into supermarkets, gas stations, and airports to fill production capacity — but ubiquity killed the novelty that made people line up in the first place.
+- `INS-260625-2A56` [high] Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - `INS-260412-B25A` [high] The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.
 - `INS-260329-33D4` [high] Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` [high] Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
@@ -204,6 +206,7 @@
 - `INS-260403-83C7` [medium] The rising importance of software in every industry means the cost of bureaucratic checks is increasing, not decreasing, over time.
 - `INS-260519-E596` [medium] Josh Epstein (Coder): customers love founders and lie to their face about how they'll work with you; the third founder is the one who turns an 18-month vision into a 90-day shippable plan.
 - `INS-260403-20BF` [medium] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
+- `INS-260625-6042` [medium] There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
 - `INS-260403-AC9F` [medium] The most dangerous period for startups is not the search for PMF but the growth plateau that follows 3-5 years after finding it.
 - `INS-260404-38A6` [medium] Different timezones enable continuous progress — offshore teams advance work overnight for morning review — when handoff planning is deliberate.
 - `INS-260323-2C70` [medium] Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.

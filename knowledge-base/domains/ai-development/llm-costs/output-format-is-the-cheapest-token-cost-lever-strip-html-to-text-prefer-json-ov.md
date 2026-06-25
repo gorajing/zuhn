@@ -58,7 +58,7 @@ related:
   - INS-260605-9FCF
   - INS-260408-C572
   - INS-260403-BB23
-  - INS-260327-30E4
+  - INS-260625-3EE6
 ---
 When an agent only needs the content of a page, sending it the full HTML — tags, attributes, scripts — is pure token waste. The speaker's 'scrape as markdown' strips to visible text; better still, a pre-built API returns the product as JSON, which he notes runs ~1,000 tokens versus ~10,000 for the equivalent markdown, and the agent can answer follow-up questions against the JSON for ~60 tokens by executing its own script rather than re-reading the page.
 

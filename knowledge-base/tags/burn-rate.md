@@ -13,6 +13,6 @@
 - `INS-260403-5F3E` Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-B5B7` 38% of startup failures trace directly to running out of cash, yet most founders lack real-time runway visibility.
 - `INS-260403-D848` Large VC checks create bad habits — over-hiring, inflated budgets, and scaling before product-market fit — that kill more startups than underfunding does.
+- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
 - `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260403-BF1F` Plugging real metrics into an MRR model before hiring prevents premature scaling that burns runway.
-- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.

@@ -54,8 +54,8 @@ related:
   - INS-260624-F048
   - INS-260625-05FF
   - INS-260625-E500
+  - INS-260625-1955
   - INS-260605-048B
-  - INS-260410-CB70
 ---
 Ryabinin notes that even teams not operating at millions-of-tokens scale should care about where memory goes, because freed memory is fungible: it can be reinvested elsewhere to speed up training overall. The same techniques that make extreme context possible — sharding, checkpointing, offloading, buffer reuse — also create slack at ordinary scales. With U-Pipe and pipeline stages, for example, you can free memory and redeploy it across stages.
 

@@ -42,9 +42,9 @@ related:
   - PRI-260328-A65A
   - INS-260329-4696
   - INS-260405-3B54
-  - INS-260410-77E5
   - INS-260410-566F
   - INS-260411-52C8
+  - INS-260411-BCB0
 stance: >-
   Your bottleneck shifted from typing speed to token throughput — maximize how
   many agent sessions you can run in parallel, not how fast you code.

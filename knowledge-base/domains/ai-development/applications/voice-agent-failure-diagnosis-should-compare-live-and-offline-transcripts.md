@@ -43,10 +43,10 @@ stance: >-
   endpointing, or orchestration failures.
 related:
   - INS-260322-191F
+  - INS-260625-B985
   - INS-260605-D912
   - INS-260327-F4DB
   - INS-260605-D430
-  - INS-260320-232D
 ---
 The AssemblyAI demo ingested 50 simulated production calls with real-time transcripts, event logs, and audio. It then re-transcribed each call offline with more context, summarized the call, scored it against a failure rubric, and synthesized a fleet-level diagnosis with deployment history.
 

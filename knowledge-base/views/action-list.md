@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5609 actionable insights
+Generated on 2026-06-25 | 5635 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -46,6 +46,9 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260625-9644] When a task has objective consequences, evaluate the consequence, not the prose around it.
 - [INS-260625-B096] Retry provider faults, not poor answers.
 - [INS-260625-2A4F] Shared failures are often benchmark QA signals before they are leaderboard facts.
+- [INS-260625-A99C] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
+- [INS-260625-7165] Convincingness and fidelity are independent properties, so an eval that scores convincingness tells you nothing about whether the persona's reasoning is faithful to the record.
+- [INS-260625-B985] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -277,6 +280,10 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260625-E9A9] A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - [INS-260625-814D] Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
 - [INS-260625-00A6] The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
+- [INS-260625-D943] Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
+- [INS-260625-211E] Models excel at selecting the right rows from a large input but are weak at producing the precise query that fetches only those rows, so give them broad-recall tools (vector + hybrid search) and let them do the final selection.
+- [INS-260625-1CB8] A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
+- [INS-260625-3EE6] Give a model a baseline set of tools and it will sensibly add or drop ones it under-uses; ask it to build its toolset from scratch and it over-engineers and fails to iterate.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -320,6 +327,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260625-9096] Post-training results depend on the harness the agent sees during training, so harness choices are load-bearing system parameters.
 - [INS-260625-CBC7] A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - [INS-260625-FACB] Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
+- [INS-260625-2ED0] Risk from prompt injection requires three things together — untrusted input, access to private data, and the ability to act/exfiltrate; remove any one and the risk collapses.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -412,6 +420,9 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260501-E843] Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale.
 - [INS-260501-0662] Greg Brockman: a systems engineer prepared a design document, handed it to the model, went to sleep — woke up to find the model had implemented the spec, seen it was slow, added instrumentation, run a profiler, and iterated multiple times until it got an optimized result.
 
+## ai-development/ai-development/product-strategy
+- [INS-260625-4B92] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
+
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
 - [INS-260321-FD14] Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
@@ -460,6 +471,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260605-86F6] People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - [INS-260605-5CF8] An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for.
 - [INS-260605-AFCF] Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
+- [INS-260625-DF0F] Optimizing for human preference optimizes for the version of reality the rater already believes — so post-training reinforces compositing rather than patching it.
 
 ## ai-development/applications
 - [INS-260501-A748] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
@@ -608,6 +620,8 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260605-FB77] Repos with strong function-level comments showed a big retrieval boost because embedding the bytes is easy — extracting the chunk's true meaning is the bottleneck, and comments hand it over.
 - [INS-260625-06B3] When clustering mixed-format data, embed LLM-generated descriptions of each item rather than the raw item, or you'll group by format instead of meaning.
 - [INS-260625-1022] Semantic search gave Cursor 12.5–13.5% answer-accuracy gains across models (≈24% on the pre-Composer-2 model), yet online AB metrics looked small (2.6% retention, 2.2% fewer dissatisfied requests) only because most queries don't trigger the tool.
+- [INS-260625-3A20] Exact KNN works great for small corpora, highly-filtered result sets, and partitioned queries; reach for approximate (ANN) indexing only when vector search is your primary mechanism over a large corpus.
+- [INS-260625-3A4F] Run a keyword retriever and a vector retriever in parallel and merge their results with reciprocal rank fusion — keyword nails exact matches, vectors catch semantic neighbors, and fusion recovers what either misses alone.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -670,6 +684,8 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260625-0297] Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - [INS-260625-B4AC] Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
 - [INS-260625-7365] Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
+- [INS-260625-386B] A parameterized secure view exposes only the current end user's data to the agent, so even a prompt-injected or manipulated query cannot reach other users' rows — security is enforced by structure, not by the model's good behavior.
+- [INS-260625-BEFE] Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -743,6 +759,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260605-B95C] Embedding models, rerankers, and NER models each occupy only a few GB, so dedicating a GPU to each leaves it mostly idle — hot-swap them on a shared GPU with a least-recently-used eviction policy instead.
 - [INS-260625-02C7] Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.
 - [INS-260625-E7CD] Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request.
+- [INS-260625-6E01] Cluster utilization collapses because every degree of separation between the people funding compute and the people running it compounds misalignment at scale.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -803,6 +820,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260625-C08B] Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
 - [INS-260625-2906] Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
 - [INS-260625-96AA] Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session.
+- [INS-260625-F775] Databricks built a specialized document-vision model that parses pages to structured JSON at roughly 100x lower cost than frontier models while being more accurate, illustrating that narrow tasks reward specialization over scale.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -940,6 +958,8 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260624-5865] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - [INS-260625-91CA] Fix web foundations (semantic HTML, accessibility, performance) first; that work doubles as agent-readiness and should precede adopting WebMCP.
 - [INS-260625-4DE2] Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
+- [INS-260625-1955] Trade up-front training compute for drastically smaller inference: a model that learned your context can answer in ~100 tokens what frontier models burn ~100,000 tokens to do by re-reading files and parsing monstrous system prompts.
+- [INS-260625-F9B2] Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1013,6 +1033,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260625-79ED] Reject both the objective-metrics camp and the pure-taste camp—pair every benchmark score with a real-world vibe check.
 - [INS-260625-FC2D] Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - [INS-260625-0A08] Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward.
+- [INS-260625-CA6E] A long-horizon run produces hundreds of millions of tokens of behavior; reporting only 'it made $X' throws away the lying, collusion, and breakdown patterns that actually matter.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1670,6 +1691,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 
 ## investing/founder-psychology
 - [INS-260514-B7CA] Allocators talk to each other and can deconstruct your portfolio from returns alone. Be ruthlessly honest about wins AND losses. Lying about returns gets you blacklisted across the entire allocator network — not just one firm.
+- [INS-260625-5972] Reaching the top of a scientific discipline requires the same human leadership — earning trust, marshaling resources, confrontational conviction — that makes a great CEO, so 'he's just a researcher' is a category error.
 
 ## investing/geopolitics
 - [INS-260321-D183] If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.
@@ -2203,6 +2225,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260412-0F94] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - [INS-260412-AC11] Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - [INS-260423-9BA5] Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
+- [INS-260625-6260] An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -3154,6 +3177,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260410-C56B] Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - [INS-260410-0042] Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
 - [INS-260412-9C7F] Theranos's extreme secrecy, surveillance, and retaliation against dissenters functioned as a fraud-preservation system rather than legitimate IP protection.
+- [INS-260625-11A3] Culture is not what you believe but what you repeatedly do; it compounds into a moat competitors can't catch, yet frays instantly when leaders stop acting on stated commitments.
 
 ## startups/competition
 - [INS-260410-95BC] Sam Walton walked into competitor stores with a yellow legal pad for 50 years — and claimed to have spent more time in Kmarts than any Kmart employee outside of senior management.
@@ -3750,6 +3774,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260410-8EC3] Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
 - [INS-260412-94BD] Venus terraforming works because each phase — frozen surface, liquid oceans, breathable atmosphere — is independently useful to settlers.
 - [INS-260412-923A] Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
+- [INS-260625-BBE4] Databricks debated for many meetings whether they could write Postgres pages as columnar Parquet; the debate ended when an engineer simply prototyped it overnight and reported 'it works' — no kickoff, no design doc.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -5193,6 +5218,8 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260405-839E] AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - [INS-260405-0E05] In early stage, the depth of user love is a better signal than any metric you can count.
 - [INS-260409-4EC0] Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
+- [INS-260625-AC58] When customers will pay you to figure out a problem before you've written any software — and later chase you down through their own procurement — you've found genuine pull; tire-kickers who are merely interested have not.
+- [INS-260625-088A] Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -5572,6 +5599,7 @@ Generated on 2026-06-25 | 5609 actionable insights
 - [INS-260412-47D5] The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
 - [INS-260501-3D33] Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes.
 - [INS-260519-E248] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
+- [INS-260625-2A56] Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

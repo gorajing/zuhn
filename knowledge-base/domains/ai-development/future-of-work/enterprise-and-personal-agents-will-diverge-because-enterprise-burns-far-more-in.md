@@ -58,6 +58,7 @@ related:
   - INS-260403-0350
   - PRI-260324-36BF
   - INS-260605-D055
+  - INS-260625-A741
 ---
 Solmaz draws an analogy to personal computing: the machine you used at home and the one you used at work became fairly similar over time. He predicts agents will break that pattern. At work, you will consume dramatically more inference than at home — running fleets of disposable agents on real tasks — which means the economics of enterprise and personal agents diverge rather than converge.
 

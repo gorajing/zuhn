@@ -1,8 +1,9 @@
 # Topic: company-culture
 
-> 14 insights
+> 15 insights
 
 - `INS-260501-07C8` [high] Company generates $1B cash, gives out $1B equity, buys it back for $1B — they generated zero cash. Always subtract SBC from cash flow.
+- `INS-260625-11A3` [high] Culture is not what you believe but what you repeatedly do; it compounds into a moat competitors can't catch, yet frays instantly when leaders stop acting on stated commitments.
 - `INS-260412-376C` [high] Enron's rank-and-yank system created a culture where 18-hour days and ruthless profit-seeking replaced ethical guardrails.
 - `INS-260410-0042` [high] Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
 - `INS-260501-2B5B` [high] Bloated company = A-players already gone. Fire 50% of B/C/D = half mediocrity. Only 99% rebuild works. Hard to do as a public company.

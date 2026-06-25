@@ -51,6 +51,7 @@ stance: >-
   could produce value foundations that generalize into misaligned AGI behavior
   toward all humans.
 related:
+  - INS-260625-8BBB
   - PRI-260405-0676
   - INS-260326-0AB4
   - PRI-260403-67FC

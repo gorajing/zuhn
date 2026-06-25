@@ -57,6 +57,7 @@ related:
   - INS-260325-9F41
   - PRI-260406-4358
   - INS-260413-E816
+  - INS-260625-C4AE
 ---
 Ray Kurzweil achieved 86% prediction accuracy by extrapolating technology performance curves—he correctly predicted computers beating chess champions by 2000 and wireless internet going mainstream in the early 2000s. Yet he completely missed the dot-com crash, predicting continuous economic boom from 1998 through 2009. He also wrongly predicted speech recognition would dominate text creation by 2009.
 

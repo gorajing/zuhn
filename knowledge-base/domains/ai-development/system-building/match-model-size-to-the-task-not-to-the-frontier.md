@@ -68,7 +68,7 @@ related:
   - INS-260605-EBEB
   - INS-260605-D33F
   - INS-260619-AD94
-  - INS-260323-3F39
+  - INS-260625-F775
 ---
 Reaching for the most capable model by default is a reflex that quietly inflates cost. Summarizing mail, refactoring code in small modular chunks, generating code against specific instructions, and document-analysis agentic loops do not require planet-scale intelligence. The right question is not 'what is the best model' but 'what is the smallest model that reliably clears this task's quality bar.'
 

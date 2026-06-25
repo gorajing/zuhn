@@ -62,7 +62,6 @@ related:
   - INS-260409-8DA0
   - INS-260421-CE27
   - INS-260605-4C0A
-  - INS-260605-FE8E
 ---
 Chin walks a healthcare query — the care plan for a patient's emphysema — across three retrieval regimes. A baseline LLM gives textbook-generic advice. Adding vector RAG yields slightly more tailored but still generic medical advice. Only graph-grounded retrieval, which pulls in the patient's prior diagnoses and past operations, produces the specific plan (smoking-cessation counseling, pulmonary rehabilitation) — because the disqualifying or qualifying background facts were 'lost in the similarity search.'
 

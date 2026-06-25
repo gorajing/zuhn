@@ -77,6 +77,7 @@ related:
   - PRI-260328-D292
   - INS-260412-0404
   - INS-260325-5CB1
+  - INS-260625-5124
 ---
 The historical mechanism explains why AI 'hasn't made life easier' despite obvious capability. When electricity replaced steam power, the first move was to drop a giant electric generator into the same central spot the steam engine occupied — preserving the old factory layout (centralized power, belt-and-shaft distribution). That produced little productivity gain. The breakthrough came ~30 years later when factories were redesigned around electricity's actual advantage: distributed small motors at each workstation, with the floor plan rearranged around the work rather than around the power source.
 

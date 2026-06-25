@@ -1,8 +1,8 @@
 # Tag: ai-investment
 
 - `INS-260402-8E46` Despite massive AI investment, hallucinations and unpredictable behavior prevent language models from reaching the 99.9%+ reliability enterprises require.
-- `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
 - `INS-260327-3A81` If AI fails we lose jobs from the economic collapse of wasted investment; if AI succeeds we lose jobs from automation - the economy has placed an irreversible bet on a technology whose success and failure both lead to displacement.
+- `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
 - `INS-260403-738F` Companies invest in AI infrastructure defensively, then can't admit it isn't working because they've already spent too much.
 - `INS-260403-F6D2` An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
 - `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.

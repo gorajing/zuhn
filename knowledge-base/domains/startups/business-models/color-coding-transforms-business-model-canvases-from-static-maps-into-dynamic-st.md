@@ -46,7 +46,6 @@ stance: >-
   that plain text canvases systematically miss, including uncertainty levels,
   temporal evolution, and internal connections.
 related:
-  - INS-260329-C401
   - PRI-260406-F51A
   - INS-260605-D777
   - INS-260403-705C

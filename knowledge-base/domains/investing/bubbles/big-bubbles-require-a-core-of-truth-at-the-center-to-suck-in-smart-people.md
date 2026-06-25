@@ -47,11 +47,12 @@ stance: >-
   transformative trend, which is why even sophisticated investors get caught —
   pure fraud cannot sustain bubble-scale participation.
 related:
-  - INS-260327-7DAA
   - INS-260327-8773
   - PRI-260406-BF64
   - INS-260330-125E
   - PRI-260406-22D5
+  - INS-260327-7DAA
+  - INS-260625-D44A
   - INS-260403-CA1F
 evidence:
   - id: INS-260327-7DAA

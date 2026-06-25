@@ -54,7 +54,6 @@ stance: >-
   You scale agent capability faster by publishing reference 'skills' the agent
   reads on demand than by hand-coding every integration.
 related:
-  - INS-260501-01A5
   - INS-260605-CEB5
   - INS-260605-82BC
   - INS-260605-6591

@@ -43,8 +43,8 @@ related:
   - INS-260403-C4B3
   - INS-260329-903B
   - INS-260327-2BAD
+  - INS-260625-0811
   - INS-260330-1293
-  - INS-260410-F681
 evidence:
   - id: INS-260330-1293
     type: EXTENDS

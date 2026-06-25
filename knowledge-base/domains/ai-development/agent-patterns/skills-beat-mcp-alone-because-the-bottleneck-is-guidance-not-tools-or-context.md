@@ -55,12 +55,12 @@ related:
   - INS-260403-0350
   - INS-260405-9285
   - INS-260403-B800
-  - INS-260605-74E8
   - INS-260605-6722
   - INS-260605-9276
   - INS-260605-9527
   - INS-260330-8F07
   - INS-260327-C1A4
+  - INS-260605-CE19
 ---
 Supabase ran the same prompt (create a SQL view over an RLS-enabled table) under three conditions: baseline, MCP-only, and MCP+skill. The MCP-only agent silently bypassed row-level security by omitting `security_invoker=true`, exposing data; the MCP+skill agent implemented it safely. Across six scenarios, four agents (Opus 4.6, Sonnet 4.6, GPT-5.4, GPT-5.4-mini), and two vendors, MCP+skill outperformed every other condition on a Braintrust completeness score.
 

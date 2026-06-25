@@ -50,7 +50,7 @@ related:
   - INS-260530-18D5
   - INS-260514-FAB4
   - INS-260404-CCB1
-  - INS-260403-B387
+  - INS-260625-B17D
   - INS-260501-723C
 ---
 OpenAI, Google, and Microsoft optimize for products that serve everyone, which is the only way their scale economics work. But most economic value lives in industry-specific workflows where general-purpose tools are inadequate — the example given is a real estate management company whose full workflow (marketing → inquiry → contract) has almost no vertical AI tooling. Founders should treat the presence of giant horizontal players as confirmation that verticals are underserved, not as competition. The opportunity is not a bigger market, it is a sharper problem in an industry no one has properly solved.

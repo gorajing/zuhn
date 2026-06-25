@@ -57,8 +57,8 @@ related:
   - INS-260410-0142
   - INS-260605-4D1D
   - INS-260605-C859
-  - INS-260605-2C70
   - INS-260605-DA2B
+  - INS-260605-B82E
 ---
 Brick is explicit that for the smallest models you either pick a fixed-function model (visual language model, transcription model) or fine-tune one to a tightly scoped task. There is no free lunch where a 200M model is both small and general; the parameter budget can only encode competence for a narrow domain.
 

@@ -46,11 +46,11 @@ stance: >-
   Pure-vector memory architectures are being replaced by graph-on-top-of-vector
   as the production default for agent memory
 related:
-  - INS-260405-214D
   - INS-260325-E23D
   - INS-260410-9EEF
+  - INS-260405-214D
+  - INS-260625-0141
   - INS-260402-28BA
-  - INS-260605-8489
 ---
 MemMachine stores episodic memory in Neo4j with vector embeddings on nodes. FalkorDB is a graph-first product with built-in vector search (via Redis extensions). Cognee builds knowledge graphs at 5 million runs/month. Only mem0 treats vector search as primary, and even they integrate with graph backends for enterprise customers.
 

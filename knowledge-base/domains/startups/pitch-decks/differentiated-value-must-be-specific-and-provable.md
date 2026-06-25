@@ -55,7 +55,6 @@ related:
   - PRI-260406-07C2
   - PRI-260406-05B5
   - PRI-260406-E602
-  - INS-260409-5975
 ---
 Most companies claim to be 'easy to use,' 'faster,' or 'more reliable' without evidence. Dunford argues these generic claims actively hurt pitches—they signal that the seller doesn't understand what actually matters to the buyer, and they invite the obvious counter ('everyone says that'). Differentiated value must be specific enough that it can be falsified, and proven enough that it can be verified.
 

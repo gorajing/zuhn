@@ -61,7 +61,7 @@ related:
   - INS-260405-33CD
   - INS-260410-4696
   - INS-260410-CDE6
-  - INS-260501-A1C7
+  - INS-260625-0811
 ---
 The original GPT-2 was trained on ~100B tokens of WebText (Reddit outbound links) and GPT-3 124M on 300B tokens of a broader mixture. Karpathy's reproduction crosses GPT-2's validation performance on just 10B tokens of FineWeb-Edu, and nearly crosses GPT-3's HellaSwag on 40B — a roughly 10x improvement in sample efficiency with essentially the same architecture.
 

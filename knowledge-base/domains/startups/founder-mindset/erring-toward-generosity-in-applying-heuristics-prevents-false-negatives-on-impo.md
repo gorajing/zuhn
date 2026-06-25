@@ -51,12 +51,12 @@ stance: >-
   inclusion is better than erring toward exclusion, because false negatives on
   important ideas are costlier than false positives.
 related:
-  - INS-260323-4AB5
   - INS-260403-D0EE
   - PRI-260406-CF83
   - INS-260405-7305
+  - INS-260323-4AB5
   - INS-260402-CCC3
-  - INS-260330-B904
+  - INS-260625-6260
 evidence:
   - id: INS-260402-CCC3
     type: CHALLENGES

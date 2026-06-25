@@ -49,7 +49,6 @@ related:
   - INS-260603-6991
   - PRI-260407-2E0F
   - INS-260519-553B
-  - INS-260605-E490
   - INS-260605-E16A
 ---
 Higgsfield interviewed eight professional video creators (from Hollywood directors to ad producers) and all eight named the same top pain: inability to properly control the camera. When a concentrated-professional market converges on a single complaint that fast, additional interviews produce diminishing returns — the signal is strong enough to act. Founders who keep interviewing past saturation are usually stalling. The discipline is to recognize convergence early and treat it as permission to commit to building.

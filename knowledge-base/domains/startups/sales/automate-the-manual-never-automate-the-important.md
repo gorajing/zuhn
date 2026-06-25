@@ -49,8 +49,8 @@ related:
   - INS-260329-6E0F
   - INS-260501-2130
   - INS-260327-B12E
+  - INS-260625-AC58
   - INS-260403-5683
   - INS-260323-40AA
-  - INS-260327-3A71
 ---
 Yash Tekriwal's #1 lesson from building Clay's GTM motion: in the early days, Clay piped every product signup, every Reddit mention, and every social-listening signal into Slack channels. He personally read as many threads as humanly possible and emailed promising signups within seconds — manually. The automation handled aggregation (impossible to do by hand at scale); humans handled interpretation. Founders who fully automate inbound triage at 0–10 employees lose the texture of who's signing up and why. The boundary: automate the unblockable manual labor (CSV download/upload, data enrichment, list management), but keep human eyes on the signal stream until the team is large enough that high-level objectives demand higher leverage.

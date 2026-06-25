@@ -51,10 +51,10 @@ stance: >-
   checklists, memory systems) to maintain coherent work across sessions.
 related:
   - PRI-260320-07A4
+  - INS-260625-3DDC
   - INS-260524-D5DB
   - INS-260405-2BB0
   - INS-260327-13B3
-  - INS-260403-F76E
   - INS-260327-FE24
   - INS-260405-8166
   - INS-260405-82DD

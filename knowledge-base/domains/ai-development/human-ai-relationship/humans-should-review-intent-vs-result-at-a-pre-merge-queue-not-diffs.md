@@ -54,6 +54,6 @@ related:
   - INS-260322-B09B
   - INS-260402-C301
   - INS-260404-1A34
-  - INS-260409-A0B4
+  - INS-260625-DF0F
 ---
 When many agents work in parallel on overlapping parts of the codebase, completed changes can't go straight into the ledger — you need a pre-merge queue that reconciles them to preserve serializability, the same back-to-back commit guarantee a database enforces. At that gate the human provides external approval, but crucially does not look at code. They look at the intent ('this is what we wanted') versus the result ('here's a video of the feature working' or 'here's the security LLM's output'), and that approval may span multiple commits or features semantically grouped into a reviewable unit. This is forced by volume: Namespace already sees PR-equivalent volume 4x what it was, making per-PR human review impossible. The actionable reframe for engineering leaders is to redesign the human checkpoint around verifiable outcomes and intent-matching, and to invest in tooling that produces the evidence (demos, eval outputs) a human needs to approve without reading the diff.

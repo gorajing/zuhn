@@ -54,6 +54,7 @@ stance: >-
   orders, proving that your exploration strategy shapes your perception of a
   system's structure more than the system itself
 related:
+  - INS-260625-E98C
   - INS-260402-28BA
   - INS-260330-0143
   - INS-260605-2A64

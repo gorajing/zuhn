@@ -49,10 +49,10 @@ stance: >-
   identity — and chatter represents the dysfunction of this same system
 related:
   - PRI-260406-7A21
+  - INS-260625-0C98
   - INS-260403-50B0
   - INS-260323-87F3
-  - PRI-260403-88F5
-  - INS-260522-201B
+  - INS-260625-3DDC
   - INS-260403-CCC3
   - INS-260410-5EC3
   - INS-260625-8FBA

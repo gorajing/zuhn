@@ -55,8 +55,8 @@ related:
   - INS-260330-90C3
   - INS-260412-BA99
   - INS-260330-636E
+  - INS-260625-0811
   - INS-260412-E842
-  - INS-260424-F8BB
 ---
 Lichtenstein and Morgan exhibited a pattern common in long-running criminal operations: initial sophistication followed by progressive sloppiness. Their early laundering involved complex transaction splitting, dark net cash-out services, and cross-cryptocurrency exchanges. Yet they stored 2,000 wallet private keys in a single cloud file, used their real names and home addresses for VPN purchases paid with stolen Bitcoin, and kept a computer folder literally labeled 'fake passport ideas.'
 

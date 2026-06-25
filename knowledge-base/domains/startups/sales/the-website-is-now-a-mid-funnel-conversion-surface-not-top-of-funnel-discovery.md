@@ -47,8 +47,8 @@ related:
   - INS-260403-E71A
   - INS-260409-BD67
   - PRI-260406-B785
+  - INS-260625-AC58
   - INS-260404-B8EB
   - PRI-260328-6A8D
-  - INS-260403-0F72
 ---
 Kramer reframes the website: content is parsed and rewritten by LLMs and may never be read by humans, so it's fine to have machine-readable text not formatted for people. Traffic is structurally lower (people get answers from LLMs), so conversion matters more: ungate (gating kills shareability and the data is available anyway), publish pricing in structured form both LLMs and humans can read, and put meeting-booking in the demo flow. This extends the KB's 'email is the conversion surface, content is the attention surface' principle into the LLM-search era.

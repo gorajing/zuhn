@@ -56,8 +56,8 @@ related:
   - PRI-260407-C737
   - INS-260403-5F41
   - PRI-260406-1A55
+  - INS-260625-3EE6
   - INS-260501-17BB
-  - INS-260403-AEF2
 ---
 Aesthetics can't be reduced to a single score, but a written rubric that encodes principles and preferences makes grading consistent enough to drive iteration. In the frontend experiment, four criteria (design quality, originality, craft, functionality) — with deliberate weighting toward design and originality — pushed Claude away from the safe, generic layouts it defaulted to. The criteria explicitly named anti-patterns like 'purple gradients over white cards' to penalize AI-slop tells.
 

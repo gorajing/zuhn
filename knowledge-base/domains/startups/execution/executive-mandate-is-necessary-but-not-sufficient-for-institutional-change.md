@@ -53,10 +53,10 @@ stance: >-
   mode.
 related:
   - INS-260410-7B48
+  - INS-260625-0AD4
   - INS-260412-D031
   - INS-260423-787D
   - INS-260410-1626
-  - INS-260323-9C11
 ---
 Mulgrew directly rebuts a common tech-industry belief: that with enough authority ('a big enough stick from ministers') you can simply walk in, break down data silos, and do what you want. 'In practice, it's a lot harder than that, otherwise everybody would be doing it.' The mandate gets 10DS through the door and gives them unusual leverage to enter departments — but the actual work of co-designing solutions, navigating real regulations and safeguards, earning trust, and shipping is where the difficulty lives.
 

@@ -37,11 +37,11 @@
 - `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260405-CC3F` Headers that assert facts do the selling when you're not in the room.
 - `INS-260410-671A` The core unlock of Trader Joe's was realizing wine is the ultimate non-commodity commodity, then asking: what if we merchandise granola, nuts, frozen dinners, and everything else the same way?
-- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.
-- `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
-- `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
-- `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
 - `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
+- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.
+- `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
+- `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
+- `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.

@@ -59,6 +59,7 @@ related:
   - INS-260423-61B6
   - INS-260323-8D12
   - INS-260410-F24A
+  - INS-260625-CA6E
 ---
 In RL, you roll out hundreds of attempts, check which ones got the right answer, then upweight every token in the successful trajectories. But a successful rollout may have gone down wrong alleys before stumbling on the solution — and RL rewards all of those mistakes equally. You've done minutes of computation only to distill it into one bit of supervision, which you broadcast across thousands of tokens. A human would never do this.
 

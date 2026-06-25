@@ -53,11 +53,11 @@ stance: >-
   supply management to prevent collapse.
 related:
   - INS-260327-6F08
+  - INS-260625-0811
   - INS-260405-C22F
   - INS-260327-D285
   - PRI-260324-A608
   - INS-260404-CC9A
-  - PRI-260405-1A34
 evidence:
   - id: INS-260330-F9C9
     type: EXTENDS

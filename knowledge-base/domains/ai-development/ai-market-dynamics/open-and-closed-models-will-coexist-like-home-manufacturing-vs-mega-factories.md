@@ -45,12 +45,13 @@ stance: >-
   different use cases, analogous to home manufacturing (customized but higher
   cost) versus mega factories (shared capacity, economies of scale).
 related:
+  - INS-260625-DD6B
   - INS-260403-36EC
   - INS-260501-A1C7
+  - INS-260625-4B92
   - INS-260408-C572
-  - INS-260327-30E4
-  - INS-260625-1C2B
   - INS-260405-ABCF
+  - INS-260625-1C2B
 evidence:
   - id: INS-260327-30E4
     type: SUPPORTS

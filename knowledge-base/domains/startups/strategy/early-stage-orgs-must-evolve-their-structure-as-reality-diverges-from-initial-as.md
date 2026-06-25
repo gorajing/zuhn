@@ -46,9 +46,9 @@ resolutions:
 related:
   - INS-260327-32B8
   - INS-260405-4D4D
+  - INS-260625-9228
   - INS-260409-7731
   - INS-260403-8D8D
-  - PRI-260406-6AE6
 stance: OpenAI started as a research lab with no product plans
 ---
 Altman describes how OpenAI began with no idea they'd build products, sell APIs, or need massive capital. As reality diverged from assumptions, they patched the organizational structure again and again — nonprofit to capped-profit to complex hybrid. Each patch was reasonable individually but created structural fragility.

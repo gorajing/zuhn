@@ -50,11 +50,11 @@ stance: >-
   specialty - creates organizational resilience that specialist-only teams
   cannot match.
 related:
+  - INS-260625-8BBB
   - INS-260330-8901
   - INS-260421-7ADE
   - INS-260409-005E
   - INS-260412-EB2D
-  - INS-260330-43EE
 evidence:
   - id: INS-260327-91E7
     type: SUPPORTS

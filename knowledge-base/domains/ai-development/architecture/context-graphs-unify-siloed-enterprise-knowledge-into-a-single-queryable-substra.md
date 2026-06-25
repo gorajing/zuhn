@@ -60,6 +60,7 @@ related:
   - INS-260605-C028
   - INS-260605-44E2
   - INS-260619-AD94
+  - INS-260625-A741
 ---
 Chin frames the core problem of enterprise AI as one of context fragmentation: critical knowledge lives in Slack threads, customer emails, CRMs, ticketing systems, and separate enterprise databases that agents cannot jointly query. When asked to make a critical business decision, the agent 'can't possibly give good answers because it doesn't have the context.' The proposed fix is a context graph — a knowledge graph that connects enterprise data sources, prior decision traces, and tool-call reasoning into one navigable structure.
 

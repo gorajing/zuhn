@@ -48,7 +48,7 @@ related:
   - INS-260403-754F
   - INS-260519-E596
   - PRI-260323-1B96
-  - INS-260323-8392
+  - INS-260625-088A
 stance: >-
   The founder realized that when customers truly use a service, they ultimately
   pay -- saying 'it's good' without buying means it's not good enough.

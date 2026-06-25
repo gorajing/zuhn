@@ -62,9 +62,8 @@ related:
   - INS-260330-4B84
   - INS-260402-5ACE
   - INS-260405-214D
-  - INS-260410-2067
   - INS-260412-9414
-  - INS-260605-A557
+  - INS-260625-0141
 ---
 Text embeddings capture the words of a document. A graph embedding instead encodes a node together with its connections — the surrounding subgraph of entities, events, and causal links. Applied to decision traces, this means two decisions that *unfolded similarly* (same shape of precedent, similar causal chain) land near each other in vector space, even if their surface text differs.
 

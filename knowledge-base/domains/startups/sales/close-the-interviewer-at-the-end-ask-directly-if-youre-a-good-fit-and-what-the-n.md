@@ -55,7 +55,6 @@ stance: >-
 related:
   - INS-260322-82E8
   - INS-260327-A814
-  - INS-260327-B6C7
   - INS-260328-0C87
   - PRI-260403-0ABD
   - INS-260327-6AB1
@@ -63,6 +62,7 @@ related:
   - PRI-260405-91AD
   - INS-260327-C5D0
   - INS-260329-CBEB
+  - INS-260403-08AE
 evidence:
   - id: INS-260330-A954
     type: TRANSFERS_TO

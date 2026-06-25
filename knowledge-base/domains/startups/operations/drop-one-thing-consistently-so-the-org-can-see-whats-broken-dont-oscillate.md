@@ -50,9 +50,9 @@ stance: >-
   resource against it.
 related:
   - INS-260327-3136
+  - INS-260625-11A3
   - INS-260322-2FAD
   - INS-260514-D5B5
   - PRI-260403-88F5
-  - PRI-260405-F5A0
 ---
 Yash's biggest regret from inventing the GTM engineering role: he kept oscillating between which responsibility he was dropping. One week customers complained because he prioritized CRM cleanliness over customer calls; the next week deal-stage data was stale because he prioritized calls. From Kareem's (Clay CEO) perspective this was illegible — every other week the problem rotated, so leadership couldn't tell what to fix. The lesson: if Yash had committed 'I am ONLY doing customer calls; CRM gets best-effort with the time left over,' the CRM gap would have become persistently visible, leadership could have hired a RevOps person against it, and the problem would have been solved months earlier. Oscillating means the system can't get a clear signal about what needs resourcing. This applies broadly: when you're overloaded, the move is to pick the most important ball, hold it religiously, and let the same other ball drop consistently — not to heroically try to catch all of them and create a flickering pattern of failure no one can diagnose.

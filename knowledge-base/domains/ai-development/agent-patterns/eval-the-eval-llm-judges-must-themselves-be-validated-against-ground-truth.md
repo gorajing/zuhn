@@ -48,11 +48,11 @@ stance: >-
   An LLM-as-judge should be evaluated against a human-aligned ground-truth
   dataset rather than trusted by default.
 related:
+  - INS-260625-7165
   - INS-260412-1440
   - INS-260330-D066
   - PRI-260406-C1EF
   - INS-260327-66AC
-  - INS-260330-7D5F
 ---
 Using an LLM to judge another LLM is effective and well-established, but the judge is not inherently trustworthy just because it has been cast in the role of arbiter. Its outputs must themselves be evaluated. The practical method: because LLM-judge outputs are discrete (e.g. a pass/fail or a score), you can build a ground-truth dataset of how a human would rule in the same circumstances and measure how aligned the judge is with it — 'you eval the eval as an eval.'
 

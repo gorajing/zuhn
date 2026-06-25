@@ -54,7 +54,6 @@ stance: >-
   AI tool's UI for that domain, and build domain-specific skills — then
   externalize what works to other customers
 related:
-  - INS-260322-750D
   - INS-260322-88FC
   - INS-260327-999C
   - INS-260327-91E7

@@ -44,10 +44,10 @@ stance: >-
   products, or business models will endure.
 related:
   - INS-260328-91A1
+  - INS-260625-3EE6
   - INS-260501-17BB
   - INS-260605-1CEB
   - INS-260625-3768
-  - INS-260625-F573
 evidence:
   - id: INS-260330-4AD5
     type: SUPPORTS

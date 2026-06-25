@@ -44,10 +44,10 @@ stance: >-
   lexical search with embeddings via rank fusion.
 related:
   - INS-260325-E652
+  - INS-260625-3A4F
+  - INS-260625-3A20
   - INS-260405-214D
   - INS-260409-2A51
-  - INS-260402-28BA
-  - INS-260605-DB79
 ---
 Embedding models excel at semantic relationships but routinely whiff on queries that hinge on a literal token: error codes, SKUs, function names, legal citations. BM25, despite being decades old, finds those exact matches reliably because TF-IDF rewards rare distinctive terms. Anthropic's tested pipeline runs both, deduplicates with rank fusion, and consistently outperforms either alone.
 

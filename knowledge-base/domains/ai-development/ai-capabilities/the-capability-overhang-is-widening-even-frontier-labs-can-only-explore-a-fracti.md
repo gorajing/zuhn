@@ -52,6 +52,7 @@ related:
   - PRI-260406-08E9
   - INS-260413-7B46
   - INS-260323-3F39
+  - INS-260625-6042
   - INS-260409-DD69
 ---
 Hassabis describes the situation at frontier labs: 'so much work has to go into just making the next versions of these frontier models and then all the adjacent models. We can only explore a fraction of what the applied things you could do with it.' He says 'that gap's getting bigger and bigger' as release schedules accelerate. His direct conclusion: 'a kid these days could probably start a multi-billion dollar business in some new way using these tools that no one had thought about.' This is a frontier-lab CEO explicitly stating that the application-layer opportunity is larger than the model-layer race, and that the bottleneck is creative tool use, not technical capability.

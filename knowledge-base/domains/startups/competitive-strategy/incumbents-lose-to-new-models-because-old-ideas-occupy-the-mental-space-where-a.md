@@ -60,8 +60,8 @@ related:
   - INS-260330-6BAF
   - INS-260410-E3E0
   - PRI-260323-7B35
+  - INS-260625-0811
   - INS-260322-CCE8
-  - INS-260402-BCEC
 ---
 Munger describes Walmart's failure to respond to Costco in simple cognitive terms: 'They were too wedded to the ideas they already had. That's everybody's trouble. They just can't accept a new idea because the place space is occupied by an old idea.' Walmart had built its identity on low-cost rural real estate and fissioned big-box stores; going upmarket to rich suburbs and paying for premium locations felt like a betrayal of the Walmart formula.
 

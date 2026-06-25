@@ -49,7 +49,6 @@ stance: >-
   Byron Ferguson's ability to hit an aspirin mid-air depends more on pre-testing
   arrow spine consistency than on in-the-moment aiming skill.
 related:
-  - INS-260330-6F6D
   - INS-260330-6828
   - INS-260330-9484
   - INS-260330-7D21
