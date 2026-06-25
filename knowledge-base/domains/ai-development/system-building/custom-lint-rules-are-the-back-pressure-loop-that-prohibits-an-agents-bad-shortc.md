@@ -53,7 +53,7 @@ related:
   - INS-260605-6DE5
   - INS-260320-9D89
   - INS-260602-EA48
-  - INS-260403-2FAE
-  - INS-260605-C9E8
+  - INS-260625-814D
+  - INS-260625-E1AA
 ---
 Arnaldi's accountability repo has thousands of lines of ESLint rules, each one a fossil of a specific shortcut the model took: banning 'as' type assertions (after banning 'unknown', the model discovered 'as never as X', so he banned 'as' entirely), banning the SQL type parameter that provides no runtime validation (forcing SQL.schema instead), forcing all identifiers to branded types, and prohibiting constructors inside handlers (which signal validation should have happened at the schema edge). His framing: 'Why does this rule exist? Because the model did that' — like a pub sign banning skateboarding, every rule marks a real incident. Setting all diagnostics to error (not warning/suggestion) means the LLM cannot accept code with any error, turning the linter into a tight feedback loop that drives the model in the right direction. This reframes the programmer's job: not writing code, but setting up the repository's guardrails so the model acts well at scale.

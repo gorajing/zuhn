@@ -46,11 +46,10 @@ stance: >-
   beyond the practical degradation point
 related:
   - INS-260410-699C
-  - INS-260410-761B
   - INS-260321-B7CB
   - INS-260410-3E37
   - INS-260410-4696
-  - INS-260624-F048
+  - INS-260410-761B
 ---
 Livia Ellen of mem0, on the main stage of AI Agents SF #12, stated: 'scaling context doesn't actually mean scaling intelligence.' This is a notable concession from a retrieval-centric vendor. Despite the dramatic growth in context windows (GPT-3: 4K, Claude 2: 100K, Gemini: 1M, Llama 4: 10M tokens), real-world performance degrades well before the advertised limit. Gemini 1M shows reliability collapse around 300-500K tokens in production use.
 

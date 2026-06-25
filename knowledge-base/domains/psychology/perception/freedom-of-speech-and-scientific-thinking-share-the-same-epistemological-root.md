@@ -45,11 +45,11 @@ resolutions:
     while allowing others) is the most dangerous form of censorship because it
     removes exactly the corrective feedback that open discourse provides.
 related:
+  - INS-260625-9C3D
   - INS-260323-0603
   - PRI-260406-E602
   - INS-260325-560A
   - PRI-260403-F981
-  - PRI-260406-C60B
   - INS-260403-9120
 stance: >-
   Free speech and scientific inquiry are both rooted in the recognition that

@@ -59,14 +59,13 @@ stance: >-
   and iterate until passing — making code-writing fully automated while
   spec-writing becomes the new craft.
 related:
-  - INS-260410-A27C
   - PRI-260406-3EF8
   - INS-260530-D34F
   - INS-260605-25B2
   - INS-260605-3AB7
+  - INS-260410-A27C
   - INS-260605-CF2E
   - INS-260605-824F
-  - INS-260605-159E
   - INS-260605-3AFB
 ---
 Hu's framework for the highest-velocity engineering organizations: humans write the spec and the test harness that defines success; AI agents generate the implementation and iterate until tests pass. Some companies have already pushed this to the point where their repos contain no handwritten code, just specs and test harnesses. Strong DM's AI team is the prototype: scenario-based validations drive agents to write tests and iterate on code until probabilistic satisfaction threshold is met.

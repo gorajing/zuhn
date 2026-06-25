@@ -60,6 +60,7 @@ related:
   - INS-260322-F46F
   - INS-260605-4835
   - INS-260403-E93A
+  - INS-260625-B67E
 ---
 Innovation Uncovered's analysis: Microsoft has stopped trying to win the OS war directly. Instead, by controlling Office, Windows, Edge, Bing, Azure, and now the kernel-level AI integration, they make the underlying OS choice mostly irrelevant. You can run Linux on your laptop, but if every productivity tool routes through Microsoft cloud infrastructure with Microsoft AI, your day-to-day work is still inside Microsoft's stack. This is a more durable strategy than the embrace-extend-extinguish OS playbook because the new layer-of-control (AI) is harder to fork than the OS was.
 

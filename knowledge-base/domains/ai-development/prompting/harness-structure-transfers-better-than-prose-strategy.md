@@ -48,8 +48,8 @@ related:
   - INS-260320-A4BF
   - INS-260410-095B
   - PRI-260405-49C0
+  - INS-260625-BD36
   - INS-260409-04C8
-  - INS-260410-60C8
 ---
 AHE reports that ablations localized gains to tools, middleware, and long-term memory rather than the system prompt. The frozen harness also transferred across benchmarks and model families, suggesting the learned components encoded general engineering experience.
 

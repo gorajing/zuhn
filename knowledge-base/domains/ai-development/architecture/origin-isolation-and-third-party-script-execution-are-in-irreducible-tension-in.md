@@ -66,8 +66,8 @@ related:
   - INS-260625-07CB
   - INS-260625-4559
   - INS-260605-1BBF
+  - INS-260625-3FBF
   - INS-260625-5BF4
-  - INS-260605-74CC
 ---
 The double iframe exists because every single-iframe option fails a security or functionality test. Loading content with the srcdoc attribute makes the iframe share the parent's origin and therefore the parent's CSP. ChatGPT's script-src directive requires every script to carry a per-request nonce, so a third-party app's scripts simply won't run. If the host relaxes CSP to let arbitrary scripts execute, the shared origin now lets the app read the parent's localStorage and cookies and exfiltrate them — unacceptable for the host.
 

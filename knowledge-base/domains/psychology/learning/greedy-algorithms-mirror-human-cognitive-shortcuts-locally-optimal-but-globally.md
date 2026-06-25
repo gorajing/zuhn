@@ -48,10 +48,10 @@ stance: >-
   toward immediate gratification
 related:
   - INS-260329-2AB9
+  - INS-260625-8792
   - INS-260410-DA81
   - INS-260605-86BE
   - INS-260402-CCC3
-  - PRI-260406-E5FB
   - INS-260412-75FF
 evidence:
   - id: INS-260330-C31B

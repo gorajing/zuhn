@@ -57,8 +57,9 @@ related:
   - INS-260605-8AEE
   - INS-260605-82C6
   - INS-260605-D37A
-  - INS-260605-0126
+  - INS-260625-9C3D
   - INS-260605-68F4
+  - INS-260625-7530
 ---
 The dominant way to build voice agents today is a pipeline (cascading) architecture: streamed audio chunks go to a speech-to-text model, the transcript feeds an LLM that decides on tool calls and produces text, and that text feeds a text-to-speech model that streams audio back. This decomposition lets you independently optimize, observe, and scale each component.
 

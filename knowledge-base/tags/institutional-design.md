@@ -1,8 +1,8 @@
 # Tag: institutional-design
 
-- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-311C` Japan's LDP has ruled for 70 years primarily because it pivots policy to match voter priorities, not because of electoral system rigging.
 - `INS-260403-D5B0` Blanket tariffs plus selective exemptions create a system where the president personally controls which companies and countries succeed, concentrating enormous economic power in one office.
+- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
 - `INS-260330-00AA` Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.

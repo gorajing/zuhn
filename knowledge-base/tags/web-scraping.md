@@ -1,3 +1,3 @@
 # Tag: web-scraping
 
-- `INS-260329-30D7` Web scraping and APIs give beginners immediate superpowers that justify the effort of learning to code.
+- `INS-260625-A7AD` Defenses like Cloudflare's AI Labyrinth detect bots and serve them fake data instead of an error, turning anti-scraping from access denial into active poisoning of agent inputs.

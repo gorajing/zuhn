@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260329-9074
   - INS-260412-9657
+  - INS-260625-8792
   - INS-260410-022B
   - INS-260404-7060
   - INS-260605-A803
-  - INS-260321-7D76
 evidence:
   - id: INS-260329-9074
     type: SUPPORTS

@@ -54,9 +54,10 @@ related:
   - INS-260321-E9B7
   - INS-260404-21E6
   - INS-260330-1F41
+  - INS-260625-89B3
   - INS-260329-12D1
-  - INS-260514-84FC
   - INS-260412-D103
+  - INS-260514-84FC
 ---
 For years, NVIDIA's dominance rested not primarily on hardware superiority but on CUDA's software ecosystem lock-in — switching to alternative chips meant rewriting entire codebases from CUDA to JAX or other frameworks. Google's TorchTPU initiative, developed in collaboration with Meta, directly attacks this moat by enabling PyTorch code to run on TPUs without modification.
 

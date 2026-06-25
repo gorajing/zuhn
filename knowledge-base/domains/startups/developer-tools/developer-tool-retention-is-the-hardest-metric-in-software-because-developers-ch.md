@@ -52,7 +52,6 @@ stance: >-
   than any other software category
 related:
   - INS-260323-DC99
-  - INS-260329-3D28
   - INS-260403-EE38
   - INS-260403-643A
   - INS-260403-19C9

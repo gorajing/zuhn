@@ -61,7 +61,7 @@ related:
   - INS-260410-9D04
   - INS-260402-5034
   - INS-260605-FE8E
-  - INS-260625-36DF
+  - INS-260625-06B3
 ---
 When Claude Code's source leaked, one revealing artifact was a user-prompt keyword regex matching frustration markers ('WTF', 'this sucks', 'horrible'). Each session flips an is_negative boolean, and frustration rate gets tagged over time and after every product release. This gave the team a cheap, fast read on whether a given change made things worse.
 

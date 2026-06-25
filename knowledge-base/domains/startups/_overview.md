@@ -1,13 +1,13 @@
 # Domain: startups
 
-> 4796 insights across 55 topics
+> 4798 insights across 55 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | ai-business-models | 44 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
-| bootstrapping | 35 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
+| bootstrapping | 36 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
 | business-models | 244 | The time required to build a company is often predictive of how long it will last. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
@@ -48,7 +48,7 @@
 | product | 27 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 144 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 10 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
-| product-strategy | 97 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
+| product-strategy | 98 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |

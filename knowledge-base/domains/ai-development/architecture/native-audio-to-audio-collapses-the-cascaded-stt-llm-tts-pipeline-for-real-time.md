@@ -53,10 +53,10 @@ stance: >-
   than a cascaded speech-to-text-to-speech pipeline.
 related:
   - INS-260605-8AEE
+  - INS-260625-7530
   - INS-260605-0126
   - INS-260605-ACCD
-  - INS-260405-1F6B
-  - INS-260605-20C0
+  - INS-260625-9C3D
 ---
 Löber describes the Live API's newest model as a native 'audio-to-audio' architecture: audio goes in and audio goes out within one model, eliminating the traditional cascaded pipeline of separate speech-to-text, reasoning, and text-to-speech models. He credits this single-architecture design with enabling far more natural-sounding, low-latency conversational interactions, demonstrated by a colleague's live chat where the model both converses and describes what it sees on camera.
 

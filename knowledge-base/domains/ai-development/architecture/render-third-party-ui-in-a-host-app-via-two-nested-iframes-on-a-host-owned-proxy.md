@@ -67,7 +67,7 @@ related:
   - INS-260625-5CE4
   - INS-260625-4559
   - INS-260625-5BF4
-  - INS-260605-41AE
+  - INS-260625-3FBF
 ---
 When a host like ChatGPT or Claude wants to display third-party interactive UI ('views') returned by a tool call, it cannot simply point an iframe's src at each developer's own domain: doing so would force the host's frame-src CSP directive to enumerate an unbounded, ever-growing list of app domains, which is unworkable at marketplace scale. The solution is a single host-controlled proxy domain (OpenAI uses openaiusercontent.com) that is whitelisted once. A loader script served from that domain — identical for every app — fetches the app's HTML resource from the MCP server and mounts it into an inner iframe using the srcdoc attribute.
 

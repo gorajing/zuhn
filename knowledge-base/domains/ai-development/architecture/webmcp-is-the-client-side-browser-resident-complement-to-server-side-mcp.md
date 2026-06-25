@@ -61,8 +61,8 @@ related:
   - INS-260605-D710
   - INS-260605-0C56
   - INS-260605-75BB
-  - INS-260605-48CA
   - INS-260605-6F34
+  - INS-260625-D295
 ---
 A recurring question is whether WebMCP competes with MCP; Agyemang frames them as complementary, using the analogy that WebMCP is to MCP as JavaScript is to Java — inspired by it, not the same thing. MCP enables agents to connect to applications on the server side: you stand up a service, and the agent can reach it anywhere, anytime. WebMCP is the implementation of the tools part of MCP specialized for client-side, in-browser features.
 

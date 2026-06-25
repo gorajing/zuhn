@@ -55,8 +55,8 @@ stance: >-
 related:
   - INS-260605-7B06
   - INS-260605-3206
+  - INS-260625-DA23
+  - INS-260625-6E19
   - INS-260605-3163
-  - INS-260605-25B2
-  - INS-260605-2A69
 ---
 WorkOS distinguishes sharply between the agent answering a one-off question and the agent producing a durable tool. The durable form is a 'widget': sandboxed code (UI + API calls + the query) that the agent writes once and that then runs on its own. 'The LLM's not involved once the widget is developed' — hitting refresh just re-executes the JavaScript against the data source. This buys two things at once. First, reliability: a frozen query can't drift or hallucinate differently each run, and user inputs flow through declarative code rather than being re-parsed by a stochastic model. Second, cost: 'the widgets themselves once they're generated are declarative, so you're not paying the LLM cost every time.' The pattern is to use the model for the hard, ambiguous compilation step — turning intent into working code — and then leave the model entirely out of the steady-state runtime loop. This connects to the broader 'code mode' idea ([[code-mode-have-agents-generate-code-to-run-not-call-individual-tools]]): the agent's most valuable output is often reusable code, not a one-shot answer.

@@ -50,7 +50,7 @@ related:
   - INS-260605-6C72
   - INS-260605-809A
   - INS-260605-8B25
-  - INS-260605-09E0
   - INS-260605-1B9D
+  - INS-260625-019F
 ---
 Braintrust treats observability and evaluation as one problem solved by one system. The only differences: in evals you know the inputs ahead of time and run scoring in batch; in observability you don't know the inputs and you score in real time as traffic arrives. Collapsing them onto shared infrastructure is what makes the iteration loop tight — a problem spotted in a production trace can be added directly to an offline dataset and experimented against, so the path from 'observed failure' to 'fix verified by experiment' is short and direct. The practical move: don't build separate eval and monitoring stacks; design so a production trace can become an eval case with one step.

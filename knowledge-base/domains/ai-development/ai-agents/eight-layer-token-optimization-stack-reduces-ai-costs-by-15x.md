@@ -48,11 +48,11 @@ resolutions:
     need expensive reasoning — they need fast, cheap execution. Matching model
     capability to task complexity is the core principle.
 related:
+  - INS-260625-8792
   - INS-260320-92CC
   - PRI-260320-233B
   - PRI-260324-12CF
   - INS-260327-DFF1
-  - PRI-260405-B144
   - INS-260405-5E6B
 stance: An eight-layer optimization stack
 evidence:

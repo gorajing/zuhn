@@ -23,7 +23,7 @@
 - `INS-260327-0C56` NPS can drop 30 points overnight but takes 12-18 months of sustained product improvement to recover; there are no magic blog posts or gestures that shortcut the process.
 - `INS-260403-7CAA` Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260412-FEFA` British tabloids branded St Helena's airport 'the world's most useless airport' based on a single aborted landing, and years of successful operations couldn't undo the damage.
+- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
-- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
 - `INS-260330-7A80` Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.

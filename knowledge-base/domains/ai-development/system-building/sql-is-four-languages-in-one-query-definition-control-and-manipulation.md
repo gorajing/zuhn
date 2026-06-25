@@ -51,10 +51,10 @@ stance: >-
   as equivalent in risk and purpose
 related:
   - INS-260329-67CB
+  - INS-260625-06B3
   - INS-260327-2C5F
   - INS-260330-206C
   - INS-260423-FB98
-  - INS-260329-CB6D
 evidence:
   - id: INS-260327-2C5F
     type: TRANSFERS_TO

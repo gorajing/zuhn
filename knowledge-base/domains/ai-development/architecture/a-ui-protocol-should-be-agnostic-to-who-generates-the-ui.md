@@ -56,7 +56,7 @@ related:
   - INS-260605-7B06
   - INS-260323-7A11
   - INS-260605-743D
-  - INS-260605-D0C0
+  - INS-260625-75D6
 ---
 The team lays out a generation spectrum: predefined UI (Airbnb ships its own black-box component), declarative UI (the app declares structure via something like JSON, but the host renders the components — useful when a host like Claude doesn't want clashing Booking/Airbnb/Expedia styling in one chat), and fully generative UI (the model produces UI 'out of thin air'). The key design decision is that MCP Apps is 'agnostic to how you generate the UI' — it doesn't assume Airbnb made it. Anthropic's recently-released generative UI feature in fact streams into an MCP App under the hood and uses the same loop-closing message passing.
 

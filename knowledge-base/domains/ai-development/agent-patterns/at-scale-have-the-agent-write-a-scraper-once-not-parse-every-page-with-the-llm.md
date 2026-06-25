@@ -56,10 +56,10 @@ stance: >-
   explore once and emit a deterministic scraper that does the parsing.
 related:
   - INS-260410-264E
+  - INS-260625-E1CB
   - INS-260323-2E51
   - INS-260410-A27C
   - INS-260605-25B2
-  - INS-260330-3AF7
 ---
 The naive way to extract structured data with an LLM is to feed every page through the model and ask it to parse — which for 10,000 products burns millions of tokens. The pattern that scales is the inverse: the agent uses its web tools to fetch one representative page, discovers the selectors and schema, and writes a deterministic scraper/parser as code. That code then runs over the full set with no model calls per item, and the LLM is invoked only to ask questions about the already-extracted JSON. The speaker measured roughly a million tokens saved (62%+) on a single three-page build versus full-HTML parsing.
 

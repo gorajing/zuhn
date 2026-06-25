@@ -41,9 +41,9 @@ stance: >-
 related:
   - INS-260320-CE36
   - INS-260605-91A9
-  - INS-260421-3E99
-  - INS-260410-761B
-  - INS-260501-C59A
+  - INS-260625-05FF
+  - INS-260625-5045
+  - INS-260625-429B
 ---
 In Q&A, the speaker emphasized that longer context is useful but bounded by cost and training difficulty. The stronger approach is to index structure and retrieve context through the harness: file systems, code structure, call graphs, task history, and dependency relationships.
 

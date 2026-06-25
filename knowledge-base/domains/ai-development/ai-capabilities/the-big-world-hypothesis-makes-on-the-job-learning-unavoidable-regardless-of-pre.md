@@ -62,9 +62,10 @@ stance: >-
   substitute for continual learning during deployment, so any AI that must be
   useful in a specific context must learn during that context.
 related:
-  - INS-260410-F985
+  - INS-260625-E500
   - PRI-260407-2ACF
   - INS-260423-6172
+  - INS-260410-F985
   - INS-260323-D400
   - INS-260410-B7B1
 ---

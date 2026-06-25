@@ -56,10 +56,10 @@ stance: >-
   evicted and must be recomputed (rematerialized) from token IDs.
 related:
   - INS-260329-4842
-  - INS-260329-C1A4
-  - INS-260402-1D32
   - PRI-260406-8B75
+  - INS-260625-96AA
   - INS-260325-6150
+  - INS-260402-1D32
 ---
 Pope's insight: there are two ways to produce a KV cache for a token — recompute it from scratch (running a full forward pass through the model) or retrieve a previously stored one from memory. The 10x hit/miss price ratio reflects the cost ratio between these two paths. But there's a deeper layer: providers can store KV in HBM (fastest, most expensive), DDR on host (slower, cheaper), or flash (slowest, cheapest). Different pricing tiers can be derived for different storage durations.
 

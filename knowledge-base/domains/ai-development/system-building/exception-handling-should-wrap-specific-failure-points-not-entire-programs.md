@@ -49,7 +49,6 @@ stance: >-
   (user input, file I/O, network calls) in targeted try-catch blocks rather than
   wrapping entire programs in a single catch-all handler.
 related:
-  - INS-260320-DDFE
   - INS-260329-72E0
   - INS-260329-9010
   - PRI-260406-A0D6

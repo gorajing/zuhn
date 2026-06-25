@@ -62,7 +62,6 @@ stance: >-
   the foundational gap that kills every downstream campaign.
 related:
   - INS-260320-71C1
-  - INS-260320-6A9D
   - INS-260327-8FD4
   - INS-260402-4633
   - INS-260403-0D23

@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260605-ACCD
   - INS-260402-8E46
+  - INS-260625-9C3D
   - INS-260403-4CF9
   - INS-260605-D37A
-  - PRI-260407-1D23
 ---
 Speech-to-text is the agent's ears, and its quality is measured by word error rate — state-of-the-art models hit roughly 6% on open benchmarks. But the aggregate number hides the real risk: if the transcript gets a name, a drug, or another critical keyword wrong, there is no way to fix it downstream. The LLM will reason on the wrong text and the TTS will speak it; the error simply propagates. This makes STT a foundational, error-amplifying stage where accuracy on important entities matters far more than the headline WER.
 

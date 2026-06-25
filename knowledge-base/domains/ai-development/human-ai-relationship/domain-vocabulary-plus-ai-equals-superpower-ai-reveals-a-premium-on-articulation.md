@@ -52,9 +52,9 @@ stance: >-
   outputs that novices cannot reach after dozens of iterations
 related:
   - INS-260603-A09F
+  - INS-260625-06B3
   - INS-260323-2C19
   - INS-260403-14E0
   - INS-260402-2C6B
-  - PRI-260407-1D23
 ---
 The intuition that AI democratizes output across skill levels is wrong in a specific way. AI flattens the execution floor (anyone can produce a draft) but raises the articulation ceiling (experts with rich domain vocabulary produce far better drafts). A graphic designer with 20 years of vocabulary can describe 'TV-type texture' precisely and get a correct one-shot output, while a novice stumbles through vague language and receives mediocre results regardless of how many iterations they attempt. The phenomenon is not unique to design: engineers with precise architectural vocabulary, marketers with specific persona language, lawyers with doctrinal precision — all of them convert their training into disproportionate AI leverage. The implication for career development is counter-intuitive: in an AI era, going deep on vocabulary and jargon is higher return than going wide on generalist tool familiarity. The generalist who uses ten AI tools shallowly is outperformed by the specialist who uses one AI tool with native-domain articulation.

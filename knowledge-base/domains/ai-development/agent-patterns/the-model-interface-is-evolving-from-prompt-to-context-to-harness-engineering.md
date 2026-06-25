@@ -78,7 +78,7 @@ related:
   - INS-260514-822C
   - INS-260514-C1B3
   - INS-260605-9900
-  - INS-260605-59FE
+  - INS-260625-BD36
 ---
 The talk names an evolution in how practitioners get value from models, framed as three successive layers of leverage:
 1. Prompt engineering — crafting the instructions given to the model. The first-wave skill.

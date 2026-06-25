@@ -55,7 +55,6 @@ stance: >-
   dominant recommender architecture.
 related:
   - INS-260404-8292
-  - INS-260605-1821
   - INS-260403-FF65
   - INS-260327-84E6
   - INS-260410-3271

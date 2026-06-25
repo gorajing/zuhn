@@ -63,7 +63,7 @@ related:
   - INS-260501-2BE3
   - INS-260605-2531
   - INS-260605-3899
-  - INS-260605-E831
+  - INS-260625-8792
 ---
 Modern accelerators have abundant FLOPs but scarce memory bandwidth — weights, activations, and KV cache must stream from HBM into the tensor core for every forward pass, and that channel is the bottleneck. Autoregressive decoding streams the entire network once per token (batch size one), so it is purely memory-bound. Text diffusion generates a fixed block (e.g. 256 tokens) over a smaller number of denoising passes (e.g. 24), meaning ~10x fewer memory transfers and, if truly memory-bound, ~10x lower latency.
 

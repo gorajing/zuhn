@@ -1,9 +1,10 @@
 # Topic: llm-training
 
-> 85 insights
+> 88 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
+- `INS-260625-E500` [high] Even after sharding all parameters with FSDP across 8 GPUs, long-context training still OOMs because attention activations — not weights — dominate memory.
 - `INS-260321-53E2` [high] All AI computation is matrix multiplication (word relationships scored as points in matrices) — Hinton discovered GPUs excelled at this by accident in 2012, winning ImageNet overwhelmingly.
 - `INS-260328-4717` [high] Higher-quality world models require exponentially less search to achieve the same or better outcomes.
 - `INS-260320-5818` [high] Main pretraining consumes 63% of total compute; plan for 37% additional budget for ablation studies, debugging, and restarts due to infrastructure failures.
@@ -34,6 +35,7 @@
 - `INS-260410-CDE9` [high] Frontier RL post-training uses a simpler algorithm than 2015-era Atari agents, and it works — but nobody knows why.
 - `INS-260321-8567` [high] LLMs learn and navigate the manifold created by human-written training data but cannot create new manifolds — the representation breakthroughs that define scientific revolutions.
 - `INS-260321-B014` [high] Bayesian wind tunnel experiments prove transformers perform exact Bayesian posterior updating to 10^-3 bits accuracy, but this mechanism is purely correlational — not causal.
+- `INS-260625-5045` [high] Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient.
 - `INS-260410-3E86` [high] A trillion-parameter transformer and a 41-parameter micrograd MLP use the same forward pass, same backward pass, same gradient descent loop — only the loss function (cross-entropy vs MSE) and optimizer tweaks differ.
 - `INS-260330-CAE6` [high] Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
 - `INS-260330-3ADD` [high] Networks achieve 96%+ accuracy with hidden layers that look nearly random rather than detecting edges and patterns as designed.
@@ -77,6 +79,7 @@
 - `INS-260501-8B78` [medium] GPT-5 is reportedly trained on ~150T tokens; over its 2-month life it generates ~200T tokens — pretraining ≈ lifetime inference, by design.
 - `INS-260410-D082` [medium] Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
 - `INS-260402-5034` [medium] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
+- `INS-260625-429B` [medium] You don't need million-token contexts to benefit from memory analysis — understanding the budget lets you reinvest freed memory into faster training.
 - `INS-260605-5A8E` [medium] Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward.
 - `INS-260501-31E1` [medium] Cost minimization heuristic: when summed costs follow power laws, the optimum is where each term is equal — apply this to pretraining/RL/inference.
 - `INS-260403-CDB9` [medium] Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.

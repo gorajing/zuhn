@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5570 actionable insights
+Generated on 2026-06-25 | 5595 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -34,6 +34,8 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260605-82BD] Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 - [INS-260605-7747] Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 - [INS-260605-6DE5] Introduce agent patterns where they improve the product; do not start with a rewrite.
+- [INS-260625-7DC7] Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
+- [INS-260625-D295] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -263,6 +265,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260625-25BF] High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
 - [INS-260625-CC7C] A syntactically valid SQL query that returns zero rows is a silent failure, so Studio always runs queries and checks for data before hardcoding them into a widget.
 - [INS-260625-E9A9] A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
+- [INS-260625-814D] Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -503,6 +506,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260625-DCE4] Most sandboxes start from a full VM and add security around it; the safer model starts from nothing — only JavaScript, no fetch, no env vars — and grants explicit capabilities.
 - [INS-260625-36DF] Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - [INS-260625-73BD] WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
+- [INS-260625-3FBF] Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -588,6 +592,8 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260410-2F8D] Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
 - [INS-260409-3602] Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.
 - [INS-260605-FB77] Repos with strong function-level comments showed a big retrieval boost because embedding the bytes is easy — extracting the chunk's true meaning is the bottleneck, and comments hand it over.
+- [INS-260625-06B3] When clustering mixed-format data, embed LLM-generated descriptions of each item rather than the raw item, or you'll group by format instead of meaning.
+- [INS-260625-1022] Semantic search gave Cursor 12.5–13.5% answer-accuracy gains across models (≈24% on the pre-Composer-2 model), yet online AB metrics looked small (2.6% retention, 2.2% fewer dissatisfied requests) only because most queries don't trigger the tool.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -649,6 +655,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260605-8AFF] Scope the model's tools and the runtime's direct command permissions separately.
 - [INS-260625-0297] Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - [INS-260625-B4AC] Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
+- [INS-260625-7365] Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -737,6 +744,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260411-33E5] AI knowledge failures stem from three distinct categories — structural, operational, and emergent — each requiring different mitigation approaches.
 - [INS-260605-3AFB] AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 - [INS-260605-0E65] Constant-information tasks (needle-in-haystack, O(1)) survive a full context window, but linear or quadratic information demands degrade accuracy to 30-60% even at low occupancy.
+- [INS-260625-5EEE] A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -748,6 +756,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260605-EA4B] Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
 - [INS-260625-1432] Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.
 - [INS-260625-F573] Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.
+- [INS-260625-E1AA] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -775,6 +784,11 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260619-AD94] At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
 - [INS-260625-7935] Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
 - [INS-260625-1C2B] Don't pay for a top model to click buttons — when the environment does the masking and unblocking, a small model is enough.
+- [INS-260625-E1CB] Don't run 10,000 pages through an LLM to extract fields—have the LLM write a parser once, then execute the script, cutting roughly 99% of tokens while gaining determinism.
+- [INS-260625-8E1D] Use cheaper reserved pods (or a low serverless worker count) while experimenting; pay the serverless premium only when variable load demands auto-scaling across hundreds of GPUs.
+- [INS-260625-C08B] Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
+- [INS-260625-2906] Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
+- [INS-260625-96AA] Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -800,6 +814,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260625-84D0] If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
 - [INS-260625-D772] Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences.
 - [INS-260625-3768] RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.
+- [INS-260625-5045] Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -910,6 +925,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260605-7A70] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - [INS-260624-5865] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - [INS-260625-91CA] Fix web foundations (semantic HTML, accessibility, performance) first; that work doubles as agent-readiness and should precede adopting WebMCP.
+- [INS-260625-4DE2] Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -945,6 +961,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260605-5B0A] Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it.
 - [INS-260605-F512] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
 - [INS-260605-9402] Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
+- [INS-260625-BD36] Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1118,6 +1135,10 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260625-407C] Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - [INS-260625-99AE] Context engines, hierarchical summarization, knowledge graphs, iterative retrieval, and self-correction each trade upfront engineering against scaling cost—iterative retrieval is the best default when you're building agents for yourself rather than as a product.
 - [INS-260625-2563] Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
+- [INS-260625-9C3B] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
+- [INS-260625-81E1] The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
+- [INS-260625-8A55] Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
+- [INS-260625-019F] Code no longer documents agent behavior at runtime — only telemetry (traces/spans) does, so observability must be instrumentation-first.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1163,6 +1184,9 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260605-9362] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
 - [INS-260619-CBFA] Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 - [INS-260625-DAE9] Do not optimize the model, scaffold, and eval suite as independent tracks.
+- [INS-260625-8FBA] Echo Script extracts speaker names, timestamps, language, emotion, English translation, and a summary from audio in one Gemini API call by passing a response schema.
+- [INS-260625-DA23] Persist a snapshot of the agent's sandbox so that when CI fails or a reviewer comments, you rehydrate and keep iterating until the PR turns green.
+- [INS-260625-B67E] Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -5214,6 +5238,7 @@ Generated on 2026-06-25 | 5570 actionable insights
 - [INS-260423-2C05] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
 - [INS-260519-02A9] Elena Verna (Lovable): a clickable app with a real back-end the prospect can act in beats a white-paper-behind-a-form.
 - [INS-260605-3D21] When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
+- [INS-260625-0750] Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

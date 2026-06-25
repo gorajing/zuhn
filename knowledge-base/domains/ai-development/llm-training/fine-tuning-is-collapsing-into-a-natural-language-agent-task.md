@@ -55,11 +55,10 @@ stance: >-
 related:
   - INS-260323-13C0
   - INS-260605-6444
-  - INS-260605-5013
+  - INS-260625-D295
+  - INS-260625-814D
   - INS-260605-BA6A
   - INS-260530-D34F
-  - INS-260605-50FB
-  - INS-260410-1030
 ---
 Hugging Face Skills let a coding agent (Claude Code, Gemini, etc.) execute the full fine-tuning pipeline from a natural-language request. The speaker—who has trained models for six years—calls it 'sci-fi': the agent calculates required VRAM for a given model and batch size, asks a few clarifying questions (which instance, validation split), then launches the job remotely or locally, and the trained model appears on the Hub. This now extends beyond LLMs/VLMs to vision tasks like object detection and segmentation, including handling different bounding-box formats.
 

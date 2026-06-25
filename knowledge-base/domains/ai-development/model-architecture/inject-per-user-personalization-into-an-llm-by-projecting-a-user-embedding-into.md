@@ -57,8 +57,8 @@ related:
   - INS-260403-141E
   - INS-260501-C4AA
   - INS-260410-699C
+  - INS-260625-BD36
   - INS-260605-8F5E
-  - INS-260410-B282
 ---
 A generative recommender trained on a finite slice of interaction data generalizes via collaborative filtering, but cannot be trained on all 750M+ users individually, so it lacks the specific-user signal needed for true personalization. Spotify closes this gap by keeping a separately-trained user-representation vector and projecting it into the LLM's embedding space, producing a 'soft token' that represents that exact user and is inserted into the prompt at generation time.
 

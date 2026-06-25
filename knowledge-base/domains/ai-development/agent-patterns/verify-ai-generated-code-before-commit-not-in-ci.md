@@ -52,9 +52,9 @@ related:
   - INS-260605-434D
   - INS-260605-A705
   - INS-260605-EA2E
+  - INS-260625-6E19
   - INS-260605-E303
   - INS-260410-2C51
-  - INS-260423-FF52
 ---
 Sonar's ACDC framework (Guide, Verify, Solve) restructures the agentic dev loop around verification. The key move is shifting analysis left: an MCP-integrated analyzer inspects code the moment an agent generates it — before commit — in 1-5 seconds, versus a CI run that takes 1-5 minutes and only fires after the PR exists. Findings get pushed straight back to the agent, which fixes them in-loop before the developer commits.
 

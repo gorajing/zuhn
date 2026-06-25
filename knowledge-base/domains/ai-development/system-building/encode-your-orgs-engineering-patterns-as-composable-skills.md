@@ -56,9 +56,9 @@ related:
   - INS-260412-C956
   - INS-260605-BA6A
   - INS-260603-DFA6
+  - INS-260625-7DC7
   - INS-260410-1030
-  - INS-260409-A682
-  - INS-260327-A9D5
+  - INS-260625-D295
 ---
 Spitz recommends viewing the engineering development lifecycle as a factory: break it into small composable elements — branch naming, creating feature flags for trunk-based development, building APIs to a specific pattern (PFF uses the service-repository pattern) — and abstract each into a skill. Crucially, the skills encode the org's own conventions: their lightweight-design-document skill analyzes how previous LDDs were written so every new build stays in the same ethos as everything else, and this is framed as tool-agnostic, not Claude-Code-specific.
 

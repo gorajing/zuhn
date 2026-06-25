@@ -63,7 +63,6 @@ related:
   - INS-260421-BD7F
   - PRI-260406-8B75
   - INS-260409-1078
-  - INS-260605-4A2D
 ---
 From Hope's needle-in-haystack benchmark results: the Hope variant with attention (Hope-Attention) outperforms the Hope variant with Self-Modifying Titans on pure recall. Why? Attention effectively caches every token in the context without compressing it, so retrieval is perfect by construction. Parametric models that compress information into weights are structurally not expected to win on verbatim recall tasks — that's a feature of the architecture choice, not a bug.
 

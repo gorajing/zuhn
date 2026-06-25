@@ -12,7 +12,7 @@
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260328-AE33` Your brain needs both exercise (hard thinking) and rest (deliberate boredom) — AI outsourcing eliminates the exercise, digital stimulation eliminates the rest.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
-- `INS-260326-DBEF` Four domains explain why experts miss paradigm shifts: locally calibrated intuition, observer-dependent reality, scale-boundary breakdowns, and computational irreducibility.
-- `INS-260328-EA3A` Past a critical threshold, more scale actively degrades quality — and the degradation is invisible during growth.
 - `INS-260326-AB92` Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
+- `INS-260326-DBEF` Four domains explain why experts miss paradigm shifts: locally calibrated intuition, observer-dependent reality, scale-boundary breakdowns, and computational irreducibility.
+- `INS-260328-EA3A` Past a critical threshold, more scale actively degrades quality — and the degradation is invisible during growth.

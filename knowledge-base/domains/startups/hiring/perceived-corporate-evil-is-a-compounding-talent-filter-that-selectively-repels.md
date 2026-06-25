@@ -48,7 +48,6 @@ stance: >-
   compensation because top programmers have enough options to be morally
   selective.
 related:
-  - INS-260327-D888
   - INS-260330-B8CC
   - INS-260403-D966
   - PRI-260407-F684

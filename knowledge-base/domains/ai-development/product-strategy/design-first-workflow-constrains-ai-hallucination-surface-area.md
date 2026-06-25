@@ -50,7 +50,6 @@ related:
   - INS-260329-83AA
   - INS-260403-8280
   - INS-260409-661A
-  - INS-260410-545A
   - INS-260501-DBDB
 evidence:
   - id: INS-260329-1ACD

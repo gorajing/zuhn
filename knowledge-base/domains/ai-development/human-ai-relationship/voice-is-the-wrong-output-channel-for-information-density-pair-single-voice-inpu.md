@@ -61,6 +61,7 @@ related:
   - INS-260404-18F1
   - INS-260322-F65F
   - PRI-260406-B97E
+  - INS-260625-8333
 ---
 A recurring frustration in the room: voice is great for getting raw intent out of your head quickly, but voice coming back has too low an information-density-per-second, and you can't skim it the way you skim text. Worse, the social register of speech means a terse voice reply 'sounds rude' where a concise text reply does not — so you can't even ask voice agents to be brief without breaking the interaction.
 

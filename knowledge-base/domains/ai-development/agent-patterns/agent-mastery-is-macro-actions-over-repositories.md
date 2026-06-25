@@ -35,10 +35,10 @@ resolutions:
     output based on how much you care about that code.
 related:
   - INS-260530-D34F
+  - INS-260625-D295
   - INS-260410-1030
   - INS-260410-E658
   - INS-260605-9E46
-  - INS-260403-08D7
   - INS-260514-6DF3
 stance: >-
   Stop thinking in lines of code — think in macro actions: 'agent 1 builds

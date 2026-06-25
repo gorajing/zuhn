@@ -49,8 +49,8 @@ related:
   - INS-260330-4329
   - INS-260330-3879
   - INS-260605-6C72
+  - INS-260625-8A55
   - INS-260403-B08E
-  - INS-260404-4758
 ---
 Lenny describes his top parenting book recommendation, Moms on Call, as 'the highest signal-to-noise book on baby care — feels like a PM wrote it.' This framing reveals how product-minded people evaluate information products: not by depth, authority, or comprehensiveness, but by the ratio of actionable, relevant content to filler. The comparison to PM writing is telling — it implies structured, prioritized, outcome-oriented communication.
 

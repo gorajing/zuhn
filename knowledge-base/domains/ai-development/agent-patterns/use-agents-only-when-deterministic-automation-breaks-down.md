@@ -45,7 +45,6 @@ stance: >-
   brittle-rule replacement, or unstructured-data interpretation; otherwise
   deterministic automation is usually the better first choice.
 related:
-  - INS-260405-6A0C
   - INS-260405-F26B
   - INS-260605-F828
   - INS-260605-27CC

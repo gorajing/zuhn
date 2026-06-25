@@ -58,8 +58,7 @@ related:
   - INS-260402-31D8
   - INS-260423-FF52
   - INS-260423-81B6
+  - INS-260625-A7AD
   - INS-260403-2FAE
-  - INS-260605-1CEB
-  - INS-260625-4559
 ---
 The enterprise procurement checklist for agent deployments has expanded rapidly to include content filtering at the API or network layer. Model Armor (Google Cloud), GuardRails (AWS), and various third-party alternatives all provide: prompt injection detection (identifying adversarial prompts trying to override system instructions), jailbreak detection, sensitive-data leak prevention (credit card numbers, SSNs, PII), and harmful-content filtering. The architectural pattern: intercept at the load balancer or API gateway level, not within the application, so filtering is uniform across all model endpoints and cannot be bypassed by application bugs. Builders targeting regulated customers (healthcare, finance, government) who omit this layer will lose deals to competitors who include it. Builders in less-regulated segments still benefit from the pattern because it reduces liability and simplifies compliance conversations. The layer cost is low; the omission cost is growing.

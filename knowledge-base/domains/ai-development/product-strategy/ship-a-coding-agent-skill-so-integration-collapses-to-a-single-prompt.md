@@ -53,14 +53,14 @@ stance: >-
 related:
   - INS-260329-3D28
   - INS-260329-8DC5
-  - INS-260410-9EA8
   - INS-260423-74BF
   - INS-260501-C59A
-  - INS-260605-6444
   - INS-260605-BA6A
   - INS-260605-B230
   - INS-260605-0126
-  - INS-260605-C627
+  - INS-260605-2E27
+  - INS-260605-C132
+  - INS-260605-7B00
 ---
 ElevenLabs plans to ship Voice Engine with both a library of polished UI components (built in the Shadcn/Vercel style) and a 'skill' for coding agents that encodes all the best-in-class integration patterns. The result is that adoption collapses to a single prompt: the coding agent analyzes the codebase, identifies the existing chat agent, and figures out how to wrap and deploy it automatically.
 

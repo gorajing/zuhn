@@ -54,7 +54,6 @@ stance: >-
   mechanisms, and conflating them produces the wrong evaluation methodology.
 related:
   - INS-260321-D959
-  - PRI-260323-1CF9
   - INS-260330-FB5A
   - INS-260330-63DD
   - INS-260403-0353
@@ -63,6 +62,7 @@ related:
   - INS-260330-BA13
   - INS-260409-6833
   - INS-260410-3FB3
+  - INS-260409-F93A
 ---
 Kyle Cranmer at the Universe Panel proposes a useful taxonomy. Prediction direction (theory → data): AI generates candidate predictions, formal verification (mathematical proofs, lattice QCD calculations, drug synthesis) confirms or rejects. AI being wrong is fine here — the verification step catches it. Inference direction (data → theory): AI is part of a data-processing chain that produces scientific conclusions. Mistakes propagate into incorrect papers. Correctness here requires uncertainty quantification, calibration against high-fidelity simulators, and rigorous bias detection. The patterns require different methodology: prediction can use generative AI freely; inference requires more careful simulation-based approaches.
 

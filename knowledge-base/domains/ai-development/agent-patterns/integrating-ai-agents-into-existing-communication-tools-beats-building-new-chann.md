@@ -50,7 +50,6 @@ stance: >-
   achieve higher adoption than agents requiring new platform onboarding
 related:
   - INS-260322-D8C3
-  - INS-260327-5EEA
   - INS-260327-7F56
   - INS-260327-5D62
   - INS-260327-019C
@@ -59,6 +58,7 @@ related:
   - INS-260501-0D6D
   - INS-260403-834C
   - INS-260403-8311
+  - INS-260405-487E
 ---
 The dominant AI communication agent deployment pattern attaches agents to existing communication infrastructure — Slack, Microsoft Teams, WhatsApp, Instagram — rather than introducing new platforms. This minimizes behavior change, which is the primary adoption killer for internal tools. When the agent lives inside the tool employees already have open all day, the switching cost to use it approaches zero.
 

@@ -48,7 +48,6 @@ stance: >-
   than returning only the final result.
 related:
   - INS-260505-A9BC
-  - INS-260605-8A88
   - INS-260605-EA2E
   - INS-260605-ACB3
   - INS-260410-1030

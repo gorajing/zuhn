@@ -17,7 +17,6 @@
 - `INS-260403-9FEA` 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260403-6EA0` Thinking in specific causal chains rather than vague decline narratives is both more accurate and more psychologically sustainable.
-- `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
@@ -30,3 +29,4 @@
 - `INS-260325-A36F` Renaming psychopathy repeatedly makes life harder for affected families who cannot find consistent information about diagnosis and treatment.
 - `INS-260325-F6CD` When young men struggle, the instinct is to blame them for laziness and video games -- an instinct that is not applied to any other demographic group facing comparable challenges.
 - `INS-260325-1802` Men account for 80% of US suicides and 70% of drug poisoning deaths; since 2010, the rise in suicide has been almost entirely among young men under 30 — a crisis getting far less attention than teen girl mental health.
+- `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.

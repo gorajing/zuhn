@@ -50,11 +50,11 @@ stance: >-
   lack an Agent Card cannot be discovered or called by other agents in the
   ecosystem
 related:
+  - INS-260625-D295
   - INS-260605-50FB
   - INS-260605-9276
   - INS-260605-74CC
   - INS-260605-0C56
-  - INS-260519-20E0
   - INS-260605-8409
   - INS-260605-48CA
   - INS-260605-7B00

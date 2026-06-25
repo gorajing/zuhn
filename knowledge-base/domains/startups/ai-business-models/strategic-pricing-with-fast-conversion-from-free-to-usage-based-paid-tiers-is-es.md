@@ -53,6 +53,7 @@ related:
   - INS-260329-C754
   - PRI-260406-5BD0
   - PRI-260406-B785
+  - INS-260625-8E1D
 ---
 The SaaS freemium playbook—offer a generous free tier to drive adoption, then convert later—is dangerous in AI because every free user actively burns compute budget. Midjourney cut off free generations because the math simply broke. ChatGPT Plus launched at $20/month not primarily as a monetization play but as cost containment. The pattern is clear: free tiers must be minimal bait, and paid tiers must activate quickly with usage-based pricing that scales with costs.
 

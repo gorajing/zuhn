@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260424-3176
   - INS-260404-6753
+  - INS-260625-9C3D
   - INS-260330-1296
   - INS-260320-10E8
-  - INS-260320-232D
 ---
 Humeau demonstrates a TTS system where the first audio packet is emitted right away while the full audio computation completes ~60 seconds later. Because the user hears speech start almost immediately, the perceived latency is low and the agent feels responsive — the total wall-clock compute time is largely invisible to the user. The same principle is applied on the input side: doing speech-to-text in real time so the transcript is ready the instant end-of-turn is detected.
 

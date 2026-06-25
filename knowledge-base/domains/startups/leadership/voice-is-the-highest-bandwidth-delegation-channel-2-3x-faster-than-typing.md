@@ -42,11 +42,12 @@ resolutions:
     creates an asymmetric communication protocol optimized for both sender and
     receiver.
 related:
-  - INS-260322-191F
   - INS-260320-26B1
   - INS-260605-9688
   - PRI-260328-F0E4
+  - INS-260322-191F
   - INS-260530-E697
+  - INS-260625-8333
 stance: >-
   The best delegators use voice notes rather than text — voice is 2-3x faster,
   can be done on the go, and captures nuance that typing misses.

@@ -55,8 +55,8 @@ related:
   - INS-260320-4BA8
   - INS-260403-7D7A
   - INS-260323-AF96
+  - INS-260625-BD36
   - INS-260409-325B
-  - PRI-260406-1AC6
 ---
 The blog post ends with a copy-paste prompt for Claude Code that begins with 'Read the specifications thoroughly' and lists three GitHub URLs. The reasoning: LLMs have no training-data knowledge of MCPB (it's brand new), so grounding the generation in the current spec prevents hallucinated fields and outdated patterns.
 

@@ -76,10 +76,10 @@ related:
   - INS-260403-E3CC
   - INS-260501-F90F
   - INS-260501-FBC6
+  - INS-260625-7DC7
   - INS-260605-077D
   - INS-260403-4D80
   - INS-260605-C2A3
-  - INS-260514-6DF3
   - INS-260530-B694
 ---
 The integration anti-pattern the panelist names: treating a GenAI agent as a deterministic software component — an API with an SLA, a service you call and get a guaranteed response from. Agents aren't that; they're non-deterministic, context-sensitive, and require the kind of onboarding, guardrails, and cultural integration you'd give a new employee.

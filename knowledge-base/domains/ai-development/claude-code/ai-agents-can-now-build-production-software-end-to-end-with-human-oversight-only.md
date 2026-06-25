@@ -49,10 +49,10 @@ related:
   - INS-260325-BB13
   - INS-260321-33FC
   - INS-260404-3FDF
+  - INS-260625-0750
   - INS-260403-A2E9
   - INS-260325-FDF5
   - INS-260409-CDCD
   - INS-260522-DB03
-  - INS-260605-AEAC
 ---
 Boris Cherny confirmed that Claude wrote all the code for Claude Cowork, a full desktop agent product, in a 1.5-week sprint. Human contribution was limited to high-level planning, design direction, and iterative guidance — not implementation. This validates Dario Amodei's early 2025 prediction that AI would write 90% of code within 3-6 months and essentially all code within 12 months. The practical implication is that the value of human engineers is rapidly shifting from writing code to specifying intent, evaluating outputs, and making architectural decisions. Teams that restructure around this reality — treating AI as the primary code author — will have a structural productivity advantage over teams still optimizing human coding throughput.

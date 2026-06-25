@@ -58,11 +58,11 @@ stance: >-
   because the model purges everything except the opening goal and the most
   recent input.
 related:
+  - INS-260625-E500
   - PRI-260411-9CB1
   - PRI-260406-0087
   - INS-260514-4424
   - PRI-260407-86E6
-  - INS-260605-0E65
 ---
 Qodo benchmarks its multi-agent code-review system by measuring whether the context it supplies actually influences the result. The consistent finding: the initial prompt/goal stays in focus and whatever is fed last stays in focus, but everything in between—Jira tickets, MCP outputs, supporting documents—gets purged as the model tries to 'make sense by itself.' This is the lost-in-the-middle effect manifesting in real agent pipelines, not just synthetic needle-in-a-haystack tests.
 

@@ -49,6 +49,7 @@ related:
   - INS-260605-D37A
   - INS-260605-A28F
   - INS-260408-C572
+  - INS-260625-8333
 ---
 The Vapi talk emphasized that users hear voice-agent failures immediately. Developers often fixate on the best voice model or lowest latency, but production readiness also depends on when the agent listens, when it stops, whether it handles interruptions and corrections, where chunks break, and how much personality variety the system prompt creates over long conversations.
 

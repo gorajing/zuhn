@@ -54,8 +54,8 @@ related:
   - INS-260605-2531
   - INS-260325-6150
   - INS-260409-1078
+  - INS-260625-5045
   - INS-260410-3F1A
-  - INS-260501-BCCB
 ---
 Most quantization attention goes to shrinking model weights, but for long-context on memory-constrained devices the KV cache is the real ceiling — it grows linearly with context length and can consume nearly a gigabyte of RAM at scale. Canuma implemented Turbo Quant (publicly, ~30 minutes after the paper dropped) to quantize the KV cache, reducing it roughly 4x while reporting 'exact match' on response quality versus the full model.
 

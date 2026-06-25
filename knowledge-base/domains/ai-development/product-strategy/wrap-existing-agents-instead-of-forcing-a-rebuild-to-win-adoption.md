@@ -53,7 +53,6 @@ stance: >-
   existing agents rather than a rip-and-replace platform.
 related:
   - INS-260410-AB4A
-  - INS-260501-35E3
   - INS-260605-C726
   - INS-260327-A9D5
   - INS-260530-D34F

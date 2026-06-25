@@ -52,7 +52,6 @@ stance: >-
   general-purpose tool first and let observed usage tell you which specialized
   tools to build.
 related:
-  - INS-260403-F0AA
   - INS-260410-F5EC
   - INS-260410-5D66
   - INS-260410-01BC
@@ -62,6 +61,7 @@ related:
   - INS-260605-2795
   - INS-260624-B6EA
   - INS-260605-6591
+  - INS-260410-095B
 ---
 The low-floor/high-ceiling balance assumes you already know your agent's behavior. When you don't, Monigatti recommends starting with a general-purpose tool (shell or query-execution) and logging the agent's behavior, then specializing from evidence rather than guessing the tool stack upfront.
 

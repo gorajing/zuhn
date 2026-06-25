@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 47 insights
+> 48 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -42,6 +42,7 @@
 - `INS-260603-6C2A` [medium] The panel's security tiering: safest is the model running on your own physical infrastructure (no data leaves), next is a model inside your existing cloud (nothing leaves the cloud environment), riskiest is data leaving the environment — and an over-permissioned cloud agent can read all your emails and send on your behalf, so both the machine and whoever operates it can see that data.
 - `INS-260412-837F` [medium] DeepMind required Google to establish an AI ethics board as a condition of its $500M acquisition, setting an early precedent for AI governance.
 - `INS-260501-2759` [medium] Wider diffusion = more vendors willing to comply, not more places for resistance to take root.
+- `INS-260625-7365` [medium] Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 - `INS-260423-31A1` [medium] Hinton: if the Chinese figured out how to prevent AI from ever wanting to take control away from people, they would immediately tell the Americans, because they don't want AI taking control in America either.
 - `INS-260605-A2B7` [medium] When access is enforced at the network rather than by a key, saying 'no' is a hard stop — there is no 'this key stopped working, let me try another endpoint' helpful-agent workaround.
 - `INS-260625-0297` [medium] Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.

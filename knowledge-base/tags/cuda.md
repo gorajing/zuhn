@@ -1,5 +1,6 @@
 # Tag: cuda
 
+- `INS-260625-E02C` The hard part of AI development is reconciling CUDA versions, PyTorch compatibility, and which GPU SKUs actually work — not training or building the model.
 - `INS-260404-CE26` Nvidia's CUDA monopoly on AI training becomes less relevant when models can be trained efficiently on modest hardware.
 - `INS-260410-34F5` Padding GPT-2's vocab from 50,257 to 50,304 (the next multiple of 64) added ~4% dead parameters but made training measurably faster with zero algorithmic change.
 - `INS-260410-A98D` Every NVIDIA accelerator — all 250-300 million installed CUDA GPUs across 30 years — is architecturally compatible, and Huang treats this as the only unnegotiable rule in the entire company.

@@ -58,7 +58,7 @@ related:
   - PRI-260406-26FB
   - PRI-260406-9780
   - INS-260514-AC43
-  - PRI-260405-0AC6
+  - INS-260625-BD36
   - INS-260514-9D51
 ---
 The article demonstrates that initial prompts can be simple ('Build me a basic CRM'), but follow-up prompts need surgical precision: 'Implement an inline price filter as a component of the search bar. It should appear next to Add guests in its own section. Selecting the input should pop up a price filter with minimum and maximum values.' The author explicitly calls out being 'hyperspecific when describing changes for subsequent prompts' as a pro tip.

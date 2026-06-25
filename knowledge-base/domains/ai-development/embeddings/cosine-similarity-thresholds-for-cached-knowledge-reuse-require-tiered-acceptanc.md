@@ -51,6 +51,7 @@ stance: >-
   confirmation solve this
 related:
   - INS-260402-5CF0
+  - INS-260625-1022
   - PRI-260413-A957
   - INS-260325-6150
   - INS-260409-8DA0

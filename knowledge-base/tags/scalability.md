@@ -2,8 +2,8 @@
 
 - `INS-260625-5BF4` Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect.
 - `INS-260505-AE40` Correlate with nearest neighbors in the right order — long-range structure still propagates through the chain of conditionals.
-- `INS-260412-C956` The Matrix demo's city was procedurally generated from algorithmic rules, freeing designers to focus on story and fine-tuning rather than manual asset placement.
 - `INS-260325-CACA` From non-interchangeable bolts to standardized programming languages, the story of computing's power is inseparable from the story of standardization.
+- `INS-260412-C956` The Matrix demo's city was procedurally generated from algorithmic rules, freeing designers to focus on story and fine-tuning rather than manual asset placement.
 - `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260403-86DF` Removing the economic incentive for a behavior (prosecuting employers) is more effective than trying to physically prevent the behavior (ICE raids).

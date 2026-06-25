@@ -58,6 +58,7 @@ related:
   - INS-260605-E490
   - INS-260605-68F4
   - PRI-260405-A11F
+  - INS-260625-7530
 ---
 MLX Audio offers both native speech-to-speech models and a modular pipeline that chains separately-chosen automatic speech recognition, language, and text-to-speech models. The modular path exists precisely because deployment hardware varies enormously — the same product must run on a first-generation M1 and on the newest Apple Silicon.
 

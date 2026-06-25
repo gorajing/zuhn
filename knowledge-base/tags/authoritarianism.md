@@ -9,9 +9,9 @@
 - `INS-260410-CE69` Mao weaponized teenage Red Guards against the party apparatus because Liu Shaoqi and Deng Xiaoping were pulling the plug on him after the Great Leap Forward killed tens of millions.
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
-- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
-
 - `INS-260412-FB83` The 'liberty for prosperity' trade that both Singapore and Rwanda embrace appears rational in isolation but creates path-dependent lock-in where the cost of reversing course compounds invisibly over time.
 - `INS-260412-6564` Salvadorans maintained 90% approval of Bukele even as he suspended constitutional rights, dismissed judges, and detained 70,000 people — because gang violence had been an existential daily threat for decades.
 - `INS-260410-43F6` Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.
+- `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
+
 - `INS-260330-7D5F` Forcing public affirmation of falsehoods establishes that truth itself is dangerous, creating a self-reinforcing compliance spiral.

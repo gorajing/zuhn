@@ -51,6 +51,6 @@ related:
   - INS-260605-E9A6
   - INS-260605-8B25
   - INS-260605-A03E
-  - PRI-260328-1ED1
+  - INS-260625-019F
 ---
 Traditional observability has a narrow, deterministic scope: uptime, latency, duration, and 400/500-level errors — the technical health of a system performing known control flow. Agents are non-deterministic, so the interesting questions shift from 'did it work technically' to 'did it work well.' Agent observability still captures the traditional metrics (time-to-first-token, total tokens, latency) but layers qualitative judgments on top: was the answer grounded in retrieved context, did the agent invoke the tools you'd expect during reasoning, is the response aligned to the brand standard set in the system prompt. These cannot be computed by Grafana or Datadog because the trace information required to evaluate them is far larger and richer than a conventional o11y trace. The practical takeaway: don't assume your existing observability contract covers agents — the scope is categorically wider.

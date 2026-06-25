@@ -45,7 +45,6 @@ stance: >-
   permission-based leverage (labor + capital) build fortunes orders of magnitude
   larger than those who rely on labor alone
 related:
-  - INS-260329-34C0
   - INS-260329-9DF3
   - PRI-260411-5A63
   - INS-260329-B424

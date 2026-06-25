@@ -70,6 +70,7 @@ related:
   - INS-260619-AD94
   - INS-260403-5F41
   - INS-260625-1187
+  - INS-260625-8A55
 ---
 Bhaumik observed that nearly every failed AI project started with 'shall we use GPT or Claude?' — teams burned weeks debating models, built a demo on clean data, got leadership sign-off, then watched it collapse in production with no way to explain why. The inversion that worked across his client engagements: treat the model as the last variable, not the first. In the 8-week retail-banking case study, weeks 1-2 built the evaluation layer (200 real human-agent answers, quantified success metrics, an automated scoring pipeline), the middle weeks built the data foundation and tracing, and the model was only chosen in week 7.
 

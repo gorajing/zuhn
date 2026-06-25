@@ -51,6 +51,7 @@ related:
   - INS-260329-4842
   - INS-260514-3100
   - INS-260605-86BE
+  - INS-260625-96AA
 stance: >-
   Instead of humans manually finding cache sizes, tile dimensions, and vector
   widths, the compiler runs your code on the target hardware and caches t...

@@ -1,7 +1,7 @@
 # Tag: clarity
 
-- `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260327-FDD0` At Toulon, the 24-year-old Napoleon identified the one fort whose capture would force the British fleet to withdraw, while senior generals were planning futile frontal assaults on the harbor.
+- `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-822B` Unicorn-creating pitch decks used simple, instantly understandable stories rather than polished design.
 - `INS-260405-4AE1` State what you built in the first sentence — investors who don't understand what you do cannot evaluate whether it's good.
 - `INS-260405-44F5` Describing your product narrowly and concretely gets into investors' heads; vague all-encompassing descriptions approach zero information content.

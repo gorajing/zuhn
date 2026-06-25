@@ -54,11 +54,11 @@ related:
   - INS-260327-EDF0
   - PRI-260328-1ED1
   - INS-260327-9EFE
-  - INS-260410-9EA8
   - INS-260412-B89F
   - INS-260412-44FA
   - INS-260412-9F1D
   - INS-260605-3553
+  - INS-260605-A803
 ---
 When agents raise pull requests, resolve merge conflicts, and fix CI builds at scale, GitHub becomes 'incredibly noisy' — a human can no longer make sense of where to step in and intervene. Bichard notes that OpenAI's Symphony project built coordination on top of Linear but hit the same failure mode: reusing existing human tools 'in very weird ways for agents.'
 

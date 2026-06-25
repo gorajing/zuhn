@@ -49,7 +49,6 @@ stance: >-
   soliciting feedback above a frustration threshold yields signal.
 related:
   - INS-260326-8217
-  - INS-260423-FF52
   - INS-260605-C536
   - INS-260605-C726
   - INS-260619-F1E3

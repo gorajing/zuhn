@@ -56,7 +56,6 @@ stance: >-
   objective to optimize against (winning the game / minimizing free energy), and
   either a simulator or sufficient data to generate training signal.
 related:
-  - INS-260325-FD14
   - INS-260402-A94F
   - INS-260405-6F8C
   - INS-260409-2CCA

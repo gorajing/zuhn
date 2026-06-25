@@ -9,7 +9,6 @@
 - `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260404-06B9` The startups where VCs need compulsion over founders are not the ones that become big hits driving fund returns.
 - `INS-260403-2718` Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
-- `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-ABA7` Selecting evidence from whichever country supports your argument is a powerful and under-recognized form of cherry-picking.
 - `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
@@ -17,6 +16,7 @@
 - `INS-260323-1670` If the Moon is necessary for complex life, then its improbable formation should be expected — because we can only ask the question in universes where it happened, a form of selection bias that applies to evaluating any rare event.
 - `INS-260330-7ABB` Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
 - `INS-260403-889B` Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
+- `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260412-347D` When selection effects are at play, the intuitive valence of new evidence often inverts — finding what you hope for can be the worst signal.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260330-03F7` Earth's gravity is just low enough for chemical rockets, it has fossil fuels for industrialization, a reachable Moon for early space programs, and plate tectonics from a giant impact — each condition narrowly enabling the next.

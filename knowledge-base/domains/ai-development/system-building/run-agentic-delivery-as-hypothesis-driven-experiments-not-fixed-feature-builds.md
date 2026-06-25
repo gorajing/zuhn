@@ -61,7 +61,7 @@ related:
   - INS-260605-8C71
   - INS-260423-85B3
   - INS-260605-365A
+  - INS-260625-9C3B
   - INS-260327-BF89
-  - INS-260501-FDF0
 ---
 Traditional enterprise delivery scopes work as fixed features and milestones it like a program — an approach that breaks for agentic systems whose behavior is emergent and non-deterministic. The speakers argue the data science / ML discipline (historically sidelined as 'the modern IT crowd') is actually the right operating model: hypothesize, experiment, build statistical confidence in small loops of build-evaluate-iterate. Much of the wasted energy in agentic delivery comes not from building but from bridging the gap between how systems actually work and stakeholders' expectations — utopian up-front designs, demands for 'guaranteed performance,' and endless status updates on decisions that never get made. The organization must learn the language of hypothesis-driven delivery and reshape programs around one goal: building statistical confidence. This also reshapes the team — you need people comfortable with ambiguity who can articulate what they've learned (not just what they've delivered) and translate statistical numbers into stakeholder confidence. Those are distinct skills you must hire for, train for, and explicitly value.

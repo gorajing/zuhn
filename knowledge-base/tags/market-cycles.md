@@ -2,6 +2,7 @@
 
 - `INS-260403-5835` Like the dot-com era, the AI bubble contains both genuine excess and the seeds of the next generation of dominant companies.
 - `INS-260410-4670` Frauds reach Enron scale only in bull markets because saturated capital chases low-disclosure assets and stops asking questions.
+- `INS-260324-D274` Cupcakes (Sprinkles), froyo (Pinkberry), cookies (Crumbl) — every dessert fad follows identical dynamics: trendsetter creates category, copycats flood, saturation hits, market crashes.
 - `INS-260405-0CAB` 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
 - `INS-260404-15B8` Early-stage VCs show AI fatigue despite $30B raised in 2024, suggesting a coming selectivity filter.
 - `INS-260405-5F16` 42 rounds over $100M closed in Europe in Q1 2024, the most since Q2 2022, with climate tech capturing the largest checks.
@@ -10,7 +11,6 @@
 - `INS-260405-BCF4` When LPs stop receiving distributions, they stop writing new fund commitments — shrinking the supply of venture capital with a 12-24 month lag.
 - `INS-260404-88F9` VCs struggle to raise while simultaneously planning to deploy more capital, creating structural tension.
 - `INS-260403-E33B` A decade of zero rates inflated all VC returns uniformly, hiding which funds had real skill versus which were riding macro tailwinds.
-- `INS-260324-D274` Cupcakes (Sprinkles), froyo (Pinkberry), cookies (Crumbl) — every dessert fad follows identical dynamics: trendsetter creates category, copycats flood, saturation hits, market crashes.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260405-BDA0` The 2012 Seedpocalypse became a Series A crunch, then hit Series B two years after that — excess at one stage always creates shortage at the next.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.

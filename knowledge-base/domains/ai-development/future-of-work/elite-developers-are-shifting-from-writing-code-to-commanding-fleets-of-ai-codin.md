@@ -48,13 +48,13 @@ stance: >-
   simultaneously rather than writing code directly, making taste and product
   vision more valuable than raw coding speed.
 related:
-  - INS-260321-D3BE
   - INS-260323-2E51
   - INS-260327-C1A4
   - PRI-260328-A65A
   - INS-260330-7E4F
   - INS-260410-1030
   - INS-260605-A803
+  - INS-260625-D295
   - INS-260501-FD20
   - INS-260410-CD01
   - INS-260501-EC31

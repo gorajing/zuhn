@@ -46,11 +46,12 @@ stance: >-
   single general-purpose agent, and this multi-agent workflow will continue
   evolving rapidly.
 related:
+  - INS-260625-D295
   - INS-260603-1BC0
   - INS-260325-2DCD
   - INS-260605-9E46
+  - INS-260625-814D
   - INS-260327-A9D5
-  - INS-260605-6444
   - INS-260605-DF82
   - INS-260605-34B0
   - INS-260605-7A70

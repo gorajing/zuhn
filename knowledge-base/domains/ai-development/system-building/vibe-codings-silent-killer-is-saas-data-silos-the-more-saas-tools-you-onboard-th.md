@@ -57,11 +57,11 @@ stance: >-
   not just license fees but the loss of programmability across your data, which
   vibe-coded internal tools recover by directly accessing source data.
 related:
-  - INS-260329-F84E
-  - INS-260323-8D12
   - INS-260327-956D
   - INS-260410-01BC
-  - INS-260423-FB98
+  - INS-260323-8D12
+  - INS-260625-6E19
+  - INS-260329-F84E
 ---
 Masad's structural argument for internal-tool building: revops, sales-ops, and other data-flow nexus roles hit a recurring pattern — they need to combine data across CRM + Gong + data warehouse + SaaS tools, and each new SaaS purchase creates a new silo they can't easily program. The classic fix was 'buy another SaaS to integrate them' (Zapier-class tools), but that creates yet another silo and recurring license. Vibe-coded internal tools bypass this entirely by hitting source APIs directly and saving 'hundreds of thousands or millions of dollars on SaaS tools.'
 

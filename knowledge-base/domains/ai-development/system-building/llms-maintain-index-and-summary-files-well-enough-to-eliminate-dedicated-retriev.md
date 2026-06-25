@@ -48,6 +48,6 @@ related:
   - INS-260409-2A51
   - INS-260530-AA02
   - INS-260522-EB3C
-  - INS-260603-6FE3
+  - INS-260625-CF5E
 ---
 Karpathy's original expectation was that some form of RAG would be necessary even in the Obsidian setup, but he found that modern LLMs maintain the index.md files and document summaries accurately enough on their own. This is a non-obvious capability: keeping a growing corpus internally consistent is the hard part of a knowledge system, and the claim is that context-window + reasoning capacity has crossed the threshold where a coding agent can be the index maintenance loop. This assumption should be monitored — it could break if the corpus grows faster than the agent's maintenance cadence.

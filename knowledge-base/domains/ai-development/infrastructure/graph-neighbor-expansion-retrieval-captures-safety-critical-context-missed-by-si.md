@@ -48,7 +48,6 @@ stance: >-
   Expanding graph retrieval to adjacent nodes captures safety-critical context
   that single-node retrieval misses
 related:
-  - INS-260329-2612
   - INS-260605-2A64
   - PRI-260409-0156
   - INS-260323-8D12

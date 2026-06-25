@@ -1,5 +1,6 @@
 # Tag: signal
 
+- `INS-260625-8A55` Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
 - `INS-260322-82E8` Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
 - `INS-260405-B22F` VC is a credentials-gated industry where unconventional entrants must manufacture access through deal sourcing, publishing, or operator relationships rather than waiting for invitation.
 - `INS-260410-FC55` eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).

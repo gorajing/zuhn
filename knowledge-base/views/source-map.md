@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-25 | 2901 sources
+Generated on 2026-06-25 | 2909 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,9 +180,9 @@ Generated on 2026-06-25 | 2901 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
 | Home-Cooked Software and Barefoot Developers | blog | 8 | 2026-04-10 |
@@ -808,6 +808,7 @@ Generated on 2026-06-25 | 2901 sources
 | Building A Big Company: Non-Obvious Insights | youtube | 5 | 2026-03-29 |
 | Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take | youtube | 5 | 2026-06-05 |
 | Building Agent Interfaces: Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google | youtube | 5 | 2026-06-05 |
+| Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub | youtube | 5 | 2026-06-25 |
 | Building makemore Part 2: MLP | youtube | 5 | 2026-04-10 |
 | Building makemore Part 3: Activations & Gradients, BatchNorm | youtube | 5 | 2026-04-10 |
 | Building makemore Part 4: Becoming a Backprop Ninja | youtube | 5 | 2026-04-10 |
@@ -879,6 +880,7 @@ Generated on 2026-06-25 | 2901 sources
 | From 46% to 90%: Fine-Tuning Tiny LLMs for On-Device Agents — Cormac Brick, Google | youtube | 5 | 2026-06-05 |
 | From Idea to $650M Exit: Lessons in Building AI Startups | youtube | 5 | 2026-03-27 |
 | From MCP to Scale: Pipelines That Build Themselves — Rafael Levi, Bright Data | youtube | 5 | 2026-06-25 |
+| From Transcription to Live Music: Gemini's Audio Stack — Thor Schaeff, Google DeepMind | youtube | 5 | 2026-06-25 |
 | Full Walkthrough: Writing & Using Skills — Nick Nisi and Zack Proser | youtube | 5 | 2026-06-05 |
 | Fully autonomous robots are much closer than you think – Sergey Levine | youtube | 5 | 2026-04-10 |
 | Gemini Nano on device — Florina Muntenescu & Oli Gaymond, Google DeepMind | youtube | 5 | 2026-06-05 |
@@ -890,6 +892,7 @@ Generated on 2026-06-25 | 2901 sources
 | Google Part II: Alphabet (Audio) | youtube | 5 | 2026-04-11 |
 | Google Part III: The AI Company. Google is amazingly well-positioned... will they win in AI? (audio) | youtube | 5 | 2026-04-11 |
 | Google's Deep Mind Explained! - Self Learning A.I. | youtube | 5 | 2026-04-12 |
+| GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod | youtube | 5 | 2026-06-25 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
 | Harnesses in AI: A Deep Dive — Tejas Kumar, IBM | youtube | 5 | 2026-06-05 |
 | Hermès (Audio) | youtube | 5 | 2026-04-11 |
@@ -994,6 +997,7 @@ Generated on 2026-06-25 | 2901 sources
 | Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind | youtube | 5 | 2026-06-05 |
 | Let's reproduce GPT-2 (124M) | youtube | 5 | 2026-04-10 |
 | Let's Talk About FOMAT: Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl | youtube | 5 | 2026-06-05 |
+| LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize | youtube | 5 | 2026-06-25 |
 | Lobster Trap: OpenClaw in Containers from Local to K8s and Back — Sally Ann O'Malley, Red Hat | youtube | 5 | 2026-06-05 |
 | Lockheed Martin (Audio) | youtube | 5 | 2026-04-11 |
 | Loneliness | youtube | 5 | 2026-04-12 |
@@ -1039,6 +1043,7 @@ Generated on 2026-06-25 | 2901 sources
 | Porsche (with Doug DeMuro) | youtube | 5 | 2026-04-11 |
 | Prompt to Pipeline: Building with Google's Gen Media Stack — Paige & Guillaume, Google DeepMind | youtube | 5 | 2026-06-05 |
 | Psychedelics Don't Distort Reality — They Reveal How Your Brain Constructs It | youtube | 5 | 2026-05-14 |
+| RAG is dead, right?? — Kuba Rogut, Turbopuffer | youtube | 5 | 2026-06-25 |
 | Ralph Loops: Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick | youtube | 5 | 2026-06-05 |
 | Reachy Mini: the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face | youtube | 5 | 2026-06-05 |
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
@@ -1048,6 +1053,7 @@ Generated on 2026-06-25 | 2901 sources
 | Rewiring the State — Eoin Mulgrew, No. 10 (Downing Street) | youtube | 5 | 2026-06-05 |
 | Richard Sutton – Father of RL thinks LLMs are a dead end | youtube | 5 | 2026-04-10 |
 | Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492 | youtube | 5 | 2026-03-23 |
+| Road to 5 Million Tokens: Breaking Barriers in Long Context Training — Max Ryabinin, Together AI | youtube | 5 | 2026-06-25 |
 | Robinhood CEO: Making Everyone An Owner | youtube | 5 | 2026-03-22 |
 | Rockefeller: The World’s First Billionaire | youtube | 5 | 2026-03-30 |
 | Rolex (Audio) | youtube | 5 | 2026-04-11 |
@@ -1073,6 +1079,7 @@ Generated on 2026-06-25 | 2901 sources
 | Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw | youtube | 5 | 2026-06-05 |
 | Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum | youtube | 5 | 2026-06-05 |
 | Science of Muscle Growth, Increasing Strength & Muscular Recovery | youtube | 5 | 2026-03-30 |
+| Self Driving Products: Product Signals to Pull Requests — Joshua Snyder, PostHog | youtube | 5 | 2026-06-25 |
 | Self-Training Agents: Hermes Agent, HF Traces, Skills, MCP & Finetuning  — Merve Noyan, Hugging Face | youtube | 5 | 2026-06-05 |
 | Sessions: David Senra (Founders Podcast) | youtube | 5 | 2026-04-11 |
 | Ship Real Agents: Hands-On Evals for Agentic Applications — Laurie Voss, Arize | youtube | 5 | 2026-06-05 |
@@ -1233,6 +1240,7 @@ Generated on 2026-06-25 | 2901 sources
 | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih | youtube | 5 | 2026-04-10 |
 | Yann LeCun's $1B Bet Against LLMs | youtube | 5 | 2026-05-14 |
 | You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia | youtube | 5 | 2026-06-25 |
+| Your Agent's Biggest Lie: "I Searched the Web" — Rafael Levi, Bright Data | youtube | 5 | 2026-06-25 |
 | Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkOS | youtube | 5 | 2026-06-25 |
 | Your Coding Agent Should Do AI System Engineering — Ben Burtenshaw, Hugging Face | youtube | 5 | 2026-06-05 |
 | Your Legs Are Failing First — Here’s Why | youtube | 5 | 2026-03-26 |
@@ -2711,6 +2719,7 @@ Generated on 2026-06-25 | 2901 sources
 | Product demo | audio | 0 | 2026-05-02 |
 | The St. Regis San Francisco | audio | 0 | 2026-06-19 |
 | can you look through everything in the codebase | session | 0 | 2026-05-28 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2744,9 +2753,12 @@ Generated on 2026-06-25 | 2901 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2768,6 +2780,7 @@ Generated on 2026-06-25 | 2901 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2784,6 +2797,8 @@ Generated on 2026-06-25 | 2901 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2807,6 +2822,7 @@ Generated on 2026-06-25 | 2901 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2843,7 +2859,6 @@ Generated on 2026-06-25 | 2901 sources
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
 | Box CEO on the AI Adoption Gap | The a16z Show | youtube | 0 | 2026-04-23 |
 | Building Agents at Home: Homeschooling, Parenting and More | The a16z Show | youtube | 0 | 2026-04-23 |
-| Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub | youtube | 0 | 2026-06-25 |
 | CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
 | Darwin Gödel Machine Explained: Self-Improving AI Agents | youtube | 0 | 2026-04-23 |
@@ -2860,10 +2875,8 @@ Generated on 2026-06-25 | 2901 sources
 | From SEO to Agent-Led Growth: Profound's James Cadwallader | youtube | 0 | 2026-04-23 |
 | From smartphones to Raspberry Pi: Running Gemma 4 anywhere | youtube | 0 | 2026-04-24 |
 | From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud | youtube | 0 | 2026-04-24 |
-| From Transcription to Live Music: Gemini's Audio Stack — Thor Schaeff, Google DeepMind | youtube | 0 | 2026-06-25 |
 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
-| GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod | youtube | 0 | 2026-06-25 |
 | How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly | youtube | 0 | 2026-04-23 |
 | How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z | youtube | 0 | 2026-04-23 |
 | How Stripe Built Their New Website | youtube | 0 | 2026-04-23 |
@@ -2875,7 +2888,6 @@ Generated on 2026-06-25 | 2901 sources
 | Jack Dorsey: Every Company Can Now Be a Mini-AGI | youtube | 0 | 2026-04-23 |
 | Jake Paul: Traditional VC is Toast & Attention is More Valuable than Cash | youtube | 0 | 2026-04-23 |
 | Jensen Huang – Will Nvidia’s moat persist? | youtube | 0 | 2026-04-23 |
-| LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize | youtube | 0 | 2026-06-25 |
 | Marc Andreessen introspects on Death of the Browser, Pi + OpenClaw, and Why "This Time Is Different" | youtube | 0 | 2026-04-23 |
 | Marc Andreessen on The Future of VC: Will a16z Go Public & Why Introspection is Dangerous? | youtube | 0 | 2026-04-23 |
 | mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
@@ -2885,11 +2897,8 @@ Generated on 2026-06-25 | 2901 sources
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
 | Oura’s Tom Hale: What People Don’t Tell You About Being CEO | youtube | 0 | 2026-04-23 |
 | Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
-| RAG is dead, right?? — Kuba Rogut, Turbopuffer | youtube | 0 | 2026-06-25 |
 | Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
 | Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
-| Road to 5 Million Tokens: Breaking Barriers in Long Context Training — Max Ryabinin, Together AI | youtube | 0 | 2026-06-25 |
-| Self Driving Products: Product Signals to Pull Requests — Joshua Snyder, PostHog | youtube | 0 | 2026-06-25 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-23 |
 | Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z | youtube | 0 | 2026-04-23 |
 | ⚡️ The best engineers don't write the most code. They delete the most code. — Stay Sassy | youtube | 0 | 2026-04-23 |
@@ -2903,4 +2912,3 @@ Generated on 2026-06-25 | 2901 sources
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Claude Feels Different (And What That Means for AI) | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Reinforcement Learning Unlocks Reasoning in LLMs (Aha Moments Explained) | youtube | 0 | 2026-04-23 |
-| Your Agent's Biggest Lie: "I Searched the Web" — Rafael Levi, Bright Data | youtube | 0 | 2026-06-25 |
