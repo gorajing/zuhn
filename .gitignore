@@ -23,7 +23,7 @@ docs/option-b-ingestion-adapter-plan.md
 # Sources — all ingested content is local only, not distributed
 knowledge-base/sources/
 *.pdf
-substack-*
+/substack-*
 *.vtt
 *.m4a
 # Meta — runtime state, batch trackers, session data (local only)
