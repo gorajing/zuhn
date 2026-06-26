@@ -1,7 +1,7 @@
 ---
 id: INS-260626-D8AE
 domain: startups
-topic: startups/founder-mindset
+topic: founder-mindset
 title: Pick the unfashionable domain where the technical requirements are lighter
 actionability: inspiration
 confidence: high

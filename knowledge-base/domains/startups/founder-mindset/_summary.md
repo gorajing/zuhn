@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 358 insights
+> 359 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -154,6 +154,7 @@
 - `INS-260403-743D` [high] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260325-0873` [high] Getting on the plane to see someone in person is an extreme effort signal that makes mediocre ideas go further and great ideas get prioritized over equally good remote pitches.
 - `INS-260327-E992` [high] The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
+- `INS-260626-D8AE` [high] ElevenLabs built a frontier audio model on a fraction of the capital because audio models are smaller, were a niche with few researchers, and the bottleneck was solvable (transcription/annotation) rather than raw compute.
 - `INS-260327-BA8E` [high] Your biggest regret will be not pivoting three months earlier, not the pivot itself.
 - `INS-260514-ADDC` [high] Pivot in 3 weeks if you can't see logarithmic scale. Sunk cost is the #1 founder trap — the cost of staying in a bad direction compounds far worse than the cost of pivoting.
 - `INS-260328-F782` [high] Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.

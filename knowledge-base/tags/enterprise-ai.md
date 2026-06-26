@@ -9,9 +9,9 @@
 - `INS-260322-FD23` Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
 - `INS-260626-091B` Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
-- `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260327-76B2` Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
 - `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
+- `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260323-EA36` 95% of AI projects fail — twice the rate of any other emerging technology — driven equally by skills gaps and employee resistance to adoption.
 - `INS-260323-13C0` Organizations routinely assign their least technical person to 'train the AI' because they don't understand that this is actual data science work.
 - `INS-260410-8E02` Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.

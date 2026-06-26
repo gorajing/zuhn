@@ -2,7 +2,6 @@
 
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260605-C00C` Unlike an audit log that records what happened in time order, a context graph organizes decisions by entity and relationship and preserves why they were made — making agent decisions explainable and auditable.
-- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260323-FAF2` Building powerful AI turned out to be far easier than building safe AI, just as building airplanes was far easier than replicating bird flight.
 - `INS-260409-45C3` Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
@@ -10,6 +9,7 @@
 - `INS-260410-8AA8` Technical alignment success without resolving 'aligned to whom' just produces an army of obedient employees for whoever controls the model.
 - `INS-260501-EC00` Successful alignment doesn't solve the problem — it sharpens it. Aligned to whom is the question we haven't answered.
 - `INS-260403-DDD5` 'All lawful use' contract language is effectively unconstrained because surveillance and weapons laws are vague and mutable.
+- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
 - `INS-260501-10A0` Greg Brockman: a dashboard that used to take a week to build, you just do it now. The bottleneck has shifted to sharing — how do you make it easy for anyone in your enterprise to build and share a dashboard, widget, or bot.
 - `INS-260605-013A` Economic authority needs the same harness treatment as file and tool authority.
 - `INS-260624-C9A8` AI-speed offense forces AI-speed defense.
@@ -30,12 +30,15 @@
 - `INS-260626-7E5F` Converting APIs to MCPs and centralizing them in a registry yields cross-purpose reuse and the visibility to review, monitor, and audit what every agent can access.
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
 - `INS-260626-2170` Once building agents is easy, organizations drown in duplicate agents and MCP servers, making discoverability and governance the real scaling constraint.
-- `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260412-51C1` Enron's status as Bush's largest campaign contributor bought them regulatory immunity that enabled fraud to scale.
+- `INS-260410-001F` When auditors make as much from consulting a client as from auditing them, the audit is captured by definition.
 - `INS-260412-E332` When money is cheap and markets rise, even sophisticated investors abandon governance scrutiny — Sequoia invested $210M while the founder played video games on the call.
 - `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses.
+- `INS-260412-E21D` Adam Neumann walked away with $1.7B while thousands of employees faced layoffs, revealing how founder exit packages can create severe moral hazard.
+- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
+- `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
 - `INS-260412-B3A3` Authoritarian development models like Rwanda's concentrate institutional knowledge and legitimacy in a single leader, creating a catastrophic and unhedgeable succession risk that investors consistently underprice.
 - `INS-260403-6024` Presidents fear bond market signals more than stock drops because rising yields directly threaten the government's ability to finance itself.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
@@ -47,24 +50,21 @@
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
 - `INS-260412-0847` A surveying error gave Minnesota the Northwest Angle — a US territory accessible only through Canada — and this accident persists because correcting boundaries is politically harder than accommodating absurdity.
 - `INS-260327-7C1A` Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
-- `INS-260412-E21D` Adam Neumann walked away with $1.7B while thousands of employees faced layoffs, revealing how founder exit packages can create severe moral hazard.
-- `INS-260403-FF15` Design your organization around the conflicts you want to hear about, not around eliminating disagreement.
-- `INS-260403-2349` VC value-add is maximized through structured involvement like governance rigor, operating cadence, and early professionalization rather than ad-hoc help.
-- `INS-260412-8A13` Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
-- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260412-FB83` The 'liberty for prosperity' trade that both Singapore and Rwanda embrace appears rational in isolation but creates path-dependent lock-in where the cost of reversing course compounds invisibly over time.
 - `INS-260412-FCF8` SVB had no Chief Risk Officer for 8 months (April 2022 – January 2023) during the exact period when rising rates demanded portfolio rebalancing.
+- `INS-260412-8A13` Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
+- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260412-6898` Deterrence theory assumes perpetual perfect rationality from every nuclear-armed actor, which is incompatible with known human and organizational failure rates.
 - `INS-260410-C474` Paine argues Bismarck's manipulation of Europe's monarchs demonstrated the structural incompetence of inherited leadership, because kings selected by birth rather than skill consistently failed to see strategic patterns a competent peer group would have caught.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
-- `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
-- `INS-260403-6546` OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
 - `INS-260412-98B1` Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
+- `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
+- `INS-260403-6546` OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
 - `INS-260323-960A` The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260327-176D` Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
 - `INS-260403-B1D6` Countries with stronger civil liberties grow richer because open discourse selects for efficient solutions over politically favored ones.

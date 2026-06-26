@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 214 insights
+> 215 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -82,6 +82,7 @@
 - `INS-260329-4223` [high] Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-2737` [high] Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260329-BB8F` [high] When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
+- `INS-260626-66C6` [high] ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.
 - `INS-260404-D1F6` [high] The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
 - `INS-260403-80A0` [high] Keep a tight permanent core and flex capacity through a modular outer ring of contractors, agencies, and AI.
 - `INS-260403-DC6E` [high] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.

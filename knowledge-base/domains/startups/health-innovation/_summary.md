@@ -1,6 +1,6 @@
 # Topic: health-innovation
 
-> 17 insights
+> 18 insights
 
 - `INS-260403-DC6C` [high] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
 - `INS-260404-880A` [high] J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
@@ -14,6 +14,7 @@
 - `INS-260402-DCC5` [high] FDA-cleared therapeutic video games match drug efficacy for ADHD with side effects limited to headaches and frustration.
 - `INS-260625-8D0D` [medium] The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone.
 - `INS-260404-86D3` [medium] Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
+- `INS-260626-3DE4` [medium] The AI Consult trial supports a narrower commercialization claim: safe workflow support with documentation and cost signals, not proven patient-outcome transformation.
 - `INS-260409-EE73` [medium] An in-body drug factory removes 'did the patient take it' from the failure tree of chronic therapies.
 - `INS-260322-D059` [medium] Emerging research in metabolic psychiatry shows that conditions like depression, epilepsy, and even schizophrenia often have metabolic root causes — and interventions like ketogenic diets, gut health, and inflammation reduction can outperform traditional talk therapy and SSRIs.
 - `INS-260322-F6C3` [medium] Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.

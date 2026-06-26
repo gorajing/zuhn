@@ -1,9 +1,9 @@
 # Tag: training
 
 - `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
-- `INS-260327-991D` The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
 - `INS-260409-1FD3` RLHF trains models on human-rated responses, and humans rate fawning answers higher than critical ones — so the sycophantic personality is structurally baked in at training time, not an incidental bug fixable with prompt engineering.
 - `INS-260405-585D` Musk's observation that 'forcing an AI to believe false things drives it insane' points to a technical alignment problem: epistemic incoherence in training produces behavioral incoherence at inference.
+- `INS-260327-991D` The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
 - `INS-260423-6172` Chamath: training is systems work with different traffic patterns; inference is north-south with separate prefill/decode, and SRAM-heavy designs that don't make sense for training crush at decode.
 - `INS-260409-8C6C` The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
 - `INS-260625-E500` Even after sharding all parameters with FSDP across 8 GPUs, long-context training still OOMs because attention activations — not weights — dominate memory.

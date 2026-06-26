@@ -1,7 +1,7 @@
 ---
 id: INS-260626-66C6
 domain: startups
-topic: startups/scaling
+topic: scaling
 title: Monetize early to fund model development and stay independent
 actionability: immediate
 confidence: high

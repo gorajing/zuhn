@@ -11,12 +11,12 @@
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260605-8C71` Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
 - `INS-260624-E89C` Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
-- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
-- `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
-- `INS-260624-A740` LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
 - `INS-260605-5CF8` An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for.
 - `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
+- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
+- `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
+- `INS-260624-A740` LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
 - `INS-260409-C1B2` Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260605-1C30` If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
 - `INS-260625-EC7C` Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
@@ -57,6 +57,6 @@
 - `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
-- `INS-260402-CC68` Immutable smart contracts force a ship-once mentality where security audits must precede deployment, inverting web2's iterate-fast approach.
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
+- `INS-260402-CC68` Immutable smart contracts force a ship-once mentality where security audits must precede deployment, inverting web2's iterate-fast approach.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.

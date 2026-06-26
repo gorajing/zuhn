@@ -7,7 +7,6 @@
 - `INS-260403-735E` Only one-third of an experienced angel's top performers were rated high-conviction at investment time.
 - `INS-260403-3122` The most effective deal-flow strategy is building a small circle of active angels and sharing every deal you invest in with them.
 - `INS-260403-AB11` Major VC firms are shifting toward later-stage de-risked investments, making micro-VCs and operator-angels the fastest path to early-stage capital in 2026.
-- `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
@@ -15,3 +14,4 @@
 - `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.
 - `INS-260403-EE10` New investor archetypes will fill the early-stage vacuum because existing VCs cannot change their embedded risk profiles.
 - `INS-260403-0680` There's a massive gap between $20K seed checks and $2M Series A rounds where promising startups can't find capital, creating opportunity for new investor classes.
+- `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.

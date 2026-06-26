@@ -43,9 +43,9 @@
 - `INS-260625-ED79` MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation.
 - `INS-260626-2170` Once building agents is easy, organizations drown in duplicate agents and MCP servers, making discoverability and governance the real scaling constraint.
 - `INS-260605-743D` Because one MCP App codebase runs across every compliant host (ChatGPT, Claude, VS Code, LibreChat), the standard is less a rendering protocol than an app-distribution channel to a 1B+ user audience.
+- `INS-260410-AB4A` Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
 - `INS-260605-A7C1` Companies resisted sending data to ChatGPT because text reduced them to an anonymous database; sending their own UI restores identity and makes participation worthwhile.
 - `INS-260625-4DE2` Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
-- `INS-260410-AB4A` Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
 - `INS-260605-D129` Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
 - `INS-260605-D404` Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
 - `INS-260410-0C77` Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.

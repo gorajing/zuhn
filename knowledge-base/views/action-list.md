@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5788 actionable insights
+Generated on 2026-06-26 | 5790 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -76,6 +76,7 @@ Generated on 2026-06-26 | 5788 actionable insights
 - [INS-260626-9155] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - [INS-260626-485E] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - [INS-260626-F335] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
+- [INS-260626-B0D5] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -1399,6 +1400,7 @@ Generated on 2026-06-26 | 5788 actionable insights
 - [INS-260619-16EF] The promise of managed workflows is collapsing queue-plus-worker architecture into observable, retryable task runs with preserved state.
 - [INS-260624-5ACA] Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them.
 - [INS-260625-D26E] The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence.
+- [INS-260626-B09B] AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax.
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
@@ -5119,6 +5121,7 @@ Generated on 2026-06-26 | 5788 actionable insights
 - [INS-260412-EF0E] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
 - [INS-260626-1745] Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 - [INS-260626-35CB] Neuralink's saying is 'you don't have to be a brain surgeon to work here' — the best people are hardcore engineers who learn neuroscience as they go, because the hard problems are manufacturing and robotics, not biology credentials.
+- [INS-260626-3396] ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -5747,11 +5750,6 @@ Generated on 2026-06-26 | 5788 actionable insights
 - [INS-260519-E248] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
 - [INS-260625-2A56] Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - [INS-260626-6A32] Assume each department may not need a person, let AI claim it first, and optimize headcount for agility — smallest number of the best people.
-
-## startups/startups/leadership
-- [INS-260626-3396] ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.
-
-## startups/startups/scaling
 - [INS-260626-66C6] ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.
 
 ## startups/strategy

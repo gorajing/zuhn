@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 48 insights
+> 49 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -14,6 +14,7 @@
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
 - `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
+- `INS-260626-B0D5` [high] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
 - `INS-260625-52C0` [high] Stable task and solution schemas let evaluators grow without breaking agents.
 - `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.

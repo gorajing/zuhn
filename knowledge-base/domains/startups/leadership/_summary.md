@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 207 insights
+> 208 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -163,6 +163,7 @@
 - `INS-260323-5737` [medium] Gabbard's daily task of reading every combat injury list name by name never became routine -- this forced daily confrontation with the human cost of policy decisions prevented the normalization that enables bureaucratic indifference.
 - `INS-260410-A9CE` [medium] Greg Abel: 'We operate a decentralized model with autonomy grounded in deserved trust. We minimize bureaucracy to provide our managers the independence to focus relentlessly on their business. In return, we expect accountability and integrity in performance.'
 - `INS-260330-341D` [medium] Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260626-3396` [medium] ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.
 - `INS-260403-615D` [medium] Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
 - `INS-260323-86FA` [medium] Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260330-8156` [medium] In-N-Out survived six leadership transitions over 70 years — beating the odds where two-thirds of family businesses fail at the second generation.

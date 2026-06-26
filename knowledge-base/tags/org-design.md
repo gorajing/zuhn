@@ -7,6 +7,7 @@
 - `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260410-8EC3` Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
 - `INS-260404-CEFC` Effective organizations are designed so that the right conflicts surface to the right decision-makers rather than being buried.
+- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.
 - `INS-260625-67F1` On the Claude Code team every single person — EM, PM, designers, data scientist, finance, user researcher — writes code.
 - `INS-260603-63A9` Harvey (keynote): AI collapses the org horizontally — one person now does multiple functions instead of one specialist per function — and 'if you collapse horizontally, you naturally collapse vertically'; he reads Meta's ~8,000-person layoff (which eliminated many managers, converting them to ICs) as a preview of this.
 - `INS-260605-C632` Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
@@ -17,4 +18,3 @@
 - `INS-260327-2043` OpenAI merged two separate go-to-market orgs (API and ChatGPT Enterprise) into one unified team of 500, giving everyone new roles, managers, and a new product to learn — because old playbooks don't apply in AI.
 - `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260626-6A32` Assume each department may not need a person, let AI claim it first, and optimize headcount for agility — smallest number of the best people.
-- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.

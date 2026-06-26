@@ -26,6 +26,7 @@
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260625-AEE0` AI accelerates the discovery loop, but the lab still has to measure, validate, and scale.
+- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
 - `INS-260402-1D32` Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
 - `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.

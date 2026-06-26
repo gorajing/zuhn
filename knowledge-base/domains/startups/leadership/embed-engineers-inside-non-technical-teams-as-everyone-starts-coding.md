@@ -1,7 +1,7 @@
 ---
 id: INS-260626-3396
 domain: startups
-topic: startups/leadership
+topic: leadership
 title: Embed engineers inside non-technical teams as everyone starts coding
 actionability: immediate
 confidence: medium

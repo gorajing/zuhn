@@ -1,7 +1,7 @@
 ---
 id: INS-260626-7EA8
 domain: ai-development
-topic: ai-development/product-strategy
+topic: product-strategy
 title: Invest in data annotation that won't pay off for 12-24 months
 actionability: reference
 confidence: medium

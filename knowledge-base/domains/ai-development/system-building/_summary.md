@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 290 insights
+> 291 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -121,6 +121,7 @@
 - `INS-260329-C1A4` [high] Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260409-96B0` [high] LLMs like V0 and TLDraw Make Real can generate UI elements, state management, API calls, and basic logic on demand, but they don't tell you how to deploy the result, persist data, set up auth, or assemble the pieces into a working application — the 'glue' layer is still professional-developer territory.
 - `INS-260329-F887` [high] Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
+- `INS-260626-45E4` [high] AI Consult's value came from constraining an LLM inside Kenyan clinical guidelines, EMR context, and clinician accountability rather than exposing a generic chatbot.
 - `INS-260329-C991` [high] HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
 - `INS-260409-1078` [high] MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-BA55` [high] RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.

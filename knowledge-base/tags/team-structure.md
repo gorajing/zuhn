@@ -3,6 +3,7 @@
 - `INS-260405-5E6B` Meta cut 600 AI roles to reduce decision layers, explicitly trading headcount for speed.
 - `INS-260327-8F76` When two partners with strong opinions disagree, a third co-founder provides the tiebreaker perspective that prevents gridlock.
 - `INS-260410-7875` Facebook's growth team — the first of its kind, formed in 2008 after user growth stalled — proved that the product is a better growth lever than any marketing spend, and the function must live inside engineering with data obsession as its defining trait.
+- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.
 - `INS-260625-67F1` On the Claude Code team every single person — EM, PM, designers, data scientist, finance, user researcher — writes code.
 - `INS-260411-791E` Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
 - `INS-260412-EB2D` The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
@@ -10,4 +11,3 @@
 - `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
 - `INS-260403-7227` Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - `INS-260403-063E` McKinsey research shows companies combining AI with human decision-making are 20% more successful in AI deployment than those pursuing full automation.
-- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.

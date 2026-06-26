@@ -1,7 +1,7 @@
 ---
 id: INS-260626-E253
 domain: ai-development
-topic: ai-development/product-strategy
+topic: product-strategy
 title: The model is a small part of the stack; the ecosystem is the moat
 actionability: reference
 confidence: high

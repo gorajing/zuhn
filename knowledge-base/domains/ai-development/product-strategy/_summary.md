@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 147 insights
+> 149 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -87,6 +87,7 @@
 - `INS-260327-6D77` [high] Taste isn't about button placement or dark mode — it's having high enough standards that you won't stamp your name on something that doesn't actually help the user.
 - `INS-260625-16EC` [high] Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
 - `INS-260328-0932` [high] Stress-test every AI feature against power-user economics — if the answer is margin-negative with no fix path, it belongs in experiments, not the roadmap.
+- `INS-260626-E253` [high] ElevenLabs' moat is layered: model quality earned by getting in front of users and tuning per-domain, plus an ecosystem — telephony integration, evaluation tooling, 20,000+ shared voices, templates, and trusted brand — because the model itself is only a small part of any customer's stack.
 - `INS-260327-45B4` [high] A user created sketch notes of his chemist father's lectures using Nano Banana, enabling their first real conversation about the work in decades, a use case Google never anticipated.
 - `INS-260327-F316` [high] Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.
 - `INS-260327-F95F` [high] When you can send Claude Code a TechCrunch article and get a working clone in an hour, the temptation to constantly pivot becomes almost irresistible — and that's exactly how startups die.
@@ -121,6 +122,7 @@
 - `INS-260404-F38A` [medium] The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
 - `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260626-742C` [medium] Frontier model training is concentrated in few hands partly because of data centralization — labs buying out distressed bookstores and scouring rare libraries — so making models data-efficient is what would let more companies participate in the AI economy.
+- `INS-260626-7EA8` [medium] ElevenLabs employs 1000+ voice coaches, musicians, and artists to annotate not just the 'what' of audio but the 'how' — emotion, voice description, music description — a deliberate bet that won't return value for 12-24 months.
 - `INS-260605-C122` [medium] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
