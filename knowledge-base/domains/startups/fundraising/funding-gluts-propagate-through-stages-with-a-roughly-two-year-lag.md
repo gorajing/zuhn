@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260406-C40C
   - INS-260404-007F
+  - INS-260626-6E01
   - PRI-260328-0993
   - PRI-260328-1A2D
-  - INS-260412-F401
 ---
 The 2012 'Seedpocalypse' saw an unusually large number of seed-stage companies funded. Two years later, when those companies needed Series A capital, the market couldn't absorb them all — the 'Series A Crunch.' Two years after that, the same oversupply bolus hit the Series B market, making Series B the hardest round to raise.
 

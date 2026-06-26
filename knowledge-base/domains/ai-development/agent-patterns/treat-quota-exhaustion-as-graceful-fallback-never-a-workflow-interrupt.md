@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260410-B0D6
   - INS-260327-8997
+  - INS-260626-485E
   - INS-260321-D370
   - INS-260625-1B69
-  - INS-260423-44B4
 ---
 Ian describes the failure mode vividly: you send an agent off on a job, go do something else, and come back an hour later to find it did nothing because it hit a token limit. The notification you get should be task completion, not 'oh, we've run out of quota, sorry.' The fix is a harness that lets you express model *preference* and then degrades automatically — pro model limit hit, drop to flash; subscription exhausted, drop to a local model — without interrupting the in-flight workflow.
 

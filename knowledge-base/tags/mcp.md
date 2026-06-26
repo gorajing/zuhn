@@ -2,6 +2,7 @@
 
 - `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260625-E04B` MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
+- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260625-0A7D` MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
@@ -33,7 +34,6 @@
 - `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260625-2439` MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
-- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260605-0C56` VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
 - `INS-260625-7365` Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 - `INS-260605-3588` A remote tool token should only work for the exact MCP server it was issued to.
@@ -52,3 +52,4 @@
 - `INS-260605-B8AB` Tool proxies should translate authority, not pass it through.
 - `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260321-801C` Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
+- `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.

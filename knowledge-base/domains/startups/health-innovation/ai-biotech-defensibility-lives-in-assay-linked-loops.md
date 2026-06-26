@@ -46,9 +46,9 @@ related:
   - INS-260625-00A6
   - INS-260625-6345
   - INS-260625-D26E
+  - INS-260626-E822
   - INS-260413-C4EE
   - INS-260327-EA4E
-  - INS-260403-62B2
 ---
 The model was trained on 38,650 experimentally tested molecules and judged through wet-lab validation, mechanism work, and infection models. That loop is much harder to copy than the abstract idea of applying AI to drug discovery.
 

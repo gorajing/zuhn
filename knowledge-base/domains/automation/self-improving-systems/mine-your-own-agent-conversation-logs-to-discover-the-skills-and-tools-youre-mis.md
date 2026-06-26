@@ -51,10 +51,10 @@ stance: >-
   friction and churn reveals the missing skills, MCP servers, and tools that
   would tighten future loops.
 related:
+  - INS-260626-23E7
   - INS-260625-8E60
   - INS-260322-C6CE
   - INS-260329-E86C
   - INS-260320-F8FD
-  - INS-260605-749D
 ---
 Because Claude Code saves all conversations locally as JSONL, Proser runs a scheduled pass (end of day or week) where an agent reviews his own transcripts hunting for patterns of struggle: places that burned excessive thinking tokens, or required many back-and-forth rounds to eliminate ambiguity. The prompt asks 'what's the delta if you had this skill, MCP server, or tool — how could we tighten that loop so it doesn't happen next week?' This turns ordinary daily work into a compounding self-improvement loop, since Claude Code now has a built-in skill that can build, evaluate, and improve its own skills from natural language. A practical caveat raised in Q&A: raw JSONL is verbose and not built for AI consumption, so a cleaner pattern is using session-end hooks to extract the key moments (especially struggle and churn) into a separate markdown/Obsidian store, then run the analysis over that distilled log. The non-obvious move is that the bottleneck-reducing improvements come from your own friction data, not from generic best-practice advice.

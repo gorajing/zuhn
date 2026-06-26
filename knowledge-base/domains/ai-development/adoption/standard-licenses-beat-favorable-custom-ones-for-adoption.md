@@ -61,9 +61,9 @@ related:
   - INS-260402-3196
   - INS-260403-DDD5
   - INS-260405-3315
+  - INS-260626-AE0C
   - INS-260404-1755
   - PRI-260406-6AE6
-  - INS-260403-8C92
 ---
 A custom license, even one written to be commercial-friendly and permissive, is an adoption killer. The moment a legal department sees non-standard terms, it must run a procurement and review process that can stretch to 18 months — and frequently never resolves. The friction is not in the terms themselves but in the fact that they are unrecognized and must be evaluated from scratch.
 

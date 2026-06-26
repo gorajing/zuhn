@@ -14,10 +14,6 @@
 - `INS-260330-5DD4` In the heat equation, high-frequency components decay exponentially faster than low-frequency ones, so complexity smooths out over time — a principle that applies to markets, skills, and ideas.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
-- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
-- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
-- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
-- `INS-260410-5CDC` China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
 - `INS-260410-17D4` IKEA raised exactly one 500-kroner loan in 1938 and financed 81 years of global expansion entirely from reinvested profit — and that constraint, not a lifestyle choice, is what made the company.
 - `INS-260410-4685` Mars has stayed family-owned, debt-free, and radically private for a century specifically because privacy gives you permission to sub-optimize the short term.
 - `INS-260412-F2A6` Jamsetji Tata's philanthropic values from 1868 still drive Tata Group's operations and reputation 150+ years later.
@@ -35,11 +31,15 @@
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260329-4488` Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
-- `INS-260322-6C4B` The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260410-CE39` The time to build the Goldman relationship is a decade before you need to raise billions — seeds planted in good times are the only ones available in a crunch.
+- `INS-260322-6C4B` The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260410-5CB4` Novo Nordisk's 77% foundation voting control is not tax engineering — it is the structural reason the company survived and produced GLP-1s.
-- `INS-260404-C9B5` Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
+- `INS-260404-C9B5` Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
 - `INS-260325-66BE` In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
+- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
+- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
+- `INS-260410-5CDC` China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.

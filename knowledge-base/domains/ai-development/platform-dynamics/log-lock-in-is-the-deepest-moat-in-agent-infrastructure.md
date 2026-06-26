@@ -61,7 +61,6 @@ stance: >-
   more durable form of vendor lock-in than model, API, or tool lock-in.
 related:
   - INS-260605-2E27
-  - INS-260605-52E4
   - INS-260605-013A
   - INS-260605-B930
   - INS-260625-4DDB

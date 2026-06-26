@@ -64,8 +64,8 @@ related:
   - INS-260605-DC65
   - PRI-260405-BFAC
   - INS-260321-D01E
+  - INS-260626-07B6
   - PRI-260406-9D48
-  - INS-260605-0C13
 ---
 The pitch for open models is usually framed as a quality competition with frontier proprietary models, but that framing misses the real value. The strongest hosted model is irrelevant if your proprietary data cannot leave your infrastructure, if you need to fine-tune for a specific domain or language, or if you cannot tolerate a provider deprecating, throttling, or revoking access to a model your business depends on. Ownership converts those existential risks into a fixed engineering problem.
 

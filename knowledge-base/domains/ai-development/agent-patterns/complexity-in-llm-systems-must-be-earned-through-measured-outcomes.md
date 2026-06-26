@@ -57,9 +57,9 @@ related:
   - INS-260625-9BEB
   - INS-260326-7F79
   - INS-260410-1ED3
-  - INS-260411-BCB0
   - INS-260514-EE2E
   - INS-260605-C760
+  - INS-260624-5ACA
 ---
 The post's meta-principle is that success in LLM systems isn't about sophistication — it's about matching system complexity to actual need. The recommended ladder: (1) single LLM call with retrieval and in-context examples, (2) structured workflow (chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), (3) autonomous agent. Each rung up trades latency, cost, and debuggability for flexibility, and you should only climb when the lower rung demonstrably fails on your evals.
 

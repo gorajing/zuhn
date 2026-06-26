@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 146 insights
+> 147 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260412-F32D` [high] Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.
@@ -91,6 +91,7 @@
 - `INS-260405-0A6D` [high] Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260405-C342` [high] Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260404-0FEB` [high] Oxygen — the gas that enabled all animal life — is a waste byproduct of photosynthesis's water-splitting step, not its intended product.
+- `INS-260626-7DF1` [high] Every new tech starts by doing the old thing but more (more spreadsheets, more email); the important shift is the new thing you couldn't do before.
 - `INS-260403-F75F` [high] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 - `INS-260404-FF39` [high] Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.

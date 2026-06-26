@@ -42,8 +42,8 @@ stance: >-
 related:
   - INS-260329-C81C
   - INS-260329-3739
+  - INS-260626-60DB
   - INS-260325-4FD0
   - INS-260405-945B
-  - INS-260514-A946
 ---
 The core paradox Hormozi names: anything you care about can be made to sound cringe by someone else, so fear of cringe resolves to fear of caring visibly. The cost is not looking foolish once; it's never starting. The cringiest thing — meta-cringe — is letting fear of looking cringe prevent you from doing the work. Practical implication: if you notice yourself softening how you describe your work, hedging, or self-deprecating to preempt criticism, that's the fear operating. Counter it by going more earnest, not less.

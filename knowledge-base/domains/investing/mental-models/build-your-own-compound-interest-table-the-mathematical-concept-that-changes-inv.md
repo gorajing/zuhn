@@ -60,11 +60,11 @@ stance: >-
   changes that no abstract advice or chart can produce.
 related:
   - INS-260402-FC79
+  - INS-260626-C88F
   - INS-260410-C89B
   - INS-260329-21C0
   - INS-260403-FC4F
   - INS-260325-05FC
-  - INS-260403-C8A9
 ---
 Chamath's most actionable investment advice: manually build a compound interest table for your own situation. The example he uses: he showed a famous athlete's salary in a Google Sheet, took out taxes/manager/agent fees, ran the compound interest table — the athlete's mind was blown. Then said 'let's back this off and assume the salary was 1/1000th' — still blown. The point: compound interest power is universal but psychologically requires personal confrontation to internalize.
 

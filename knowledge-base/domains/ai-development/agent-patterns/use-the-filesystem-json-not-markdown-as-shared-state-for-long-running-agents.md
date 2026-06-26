@@ -54,8 +54,8 @@ related:
   - INS-260409-0D87
   - INS-260605-1A50
   - INS-260625-7935
+  - INS-260626-158E
   - INS-260329-CF48
   - INS-260605-C223
-  - INS-260522-EB3C
 ---
 For very long-running agents, Anthropic leans on the filesystem for shared state instead of the context window. A concrete, hard-won detail: persistent artifacts like the feature list are stored as featurelist.json rather than markdown, because models will overwrite markdown files but are far less likely to clobber JSON. The pattern embeds prompting throughout the loop instructing the agent to write learnings and state to a JSON file — a timestamped log of 'tried this, evaluated, found this bug, implemented this fix, fix worked ✓' — plus a live-updating high-level doc of the file structure. These two files leave 'breadcrumbs' so that another model (or a human in Claude Code) can grep through, pick up where the autonomous run left off, and keep iterating. It also decouples coherence from compaction: lossy summaries drift, so structured handoffs via clean files preserve state that a compacted context window would lose.

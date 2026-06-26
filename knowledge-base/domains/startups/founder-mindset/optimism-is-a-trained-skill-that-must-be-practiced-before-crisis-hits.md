@@ -50,15 +50,16 @@ stance: >-
   founders who only attempt optimism during crises will fail because the neural
   pathway isn't established.
 related:
-  - INS-260323-4D4E
   - INS-260402-A558
   - INS-260403-5E03
   - INS-260404-4E1A
   - INS-260404-86DE
+  - INS-260323-4D4E
   - INS-260403-4102
   - INS-260405-3C56
   - INS-260405-690F
   - INS-260409-BA4E
+  - INS-260626-DA56
 evidence:
   - id: INS-260323-4D4E
     type: REFINES

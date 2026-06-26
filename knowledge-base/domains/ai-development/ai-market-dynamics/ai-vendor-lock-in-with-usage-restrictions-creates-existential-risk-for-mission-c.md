@@ -51,8 +51,8 @@ related:
   - INS-260403-C8EF
   - PRI-260328-37D8
   - INS-260323-BC61
+  - INS-260626-091B
   - INS-260605-DC65
-  - INS-260411-F649
 stance: >-
   The Pentagon discovered its AI vendor contracts included restrictions that
   could shut off models mid-operation if terms were violated

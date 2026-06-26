@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 146 insights
+> 147 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -119,6 +119,7 @@
 - `INS-260403-A101` [medium] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 - `INS-260330-B28C` [medium] Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.
 - `INS-260403-8874` [medium] AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
+- `INS-260626-C88F` [medium] The instinct to abandon math and CS once AI automates them is backwards — knowing how LLMs actually work is precisely what lets you wield and prompt them effectively.
 - `INS-260403-DC4A` [medium] Subsidizing hiring incentivizes companies to experiment with human-AI workflows rather than defaulting to pure automation.
 - `INS-260403-22C2` [medium] AI can render decades of painstakingly accumulated human expertise economically worthless in months, as demonstrated by the sudden devaluation of software engineering skills.
 - `INS-260403-3664` [medium] Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.

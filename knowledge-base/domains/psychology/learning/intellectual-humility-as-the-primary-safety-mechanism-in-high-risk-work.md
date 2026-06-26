@@ -45,7 +45,6 @@ stance: >-
   when you become most vulnerable to catastrophic mistakes
 related:
   - INS-260322-D0F6
-  - INS-260325-5A68
   - INS-260329-8B1C
   - INS-260325-0C4A
   - INS-260323-1811
@@ -54,6 +53,7 @@ related:
   - INS-260321-2482
   - INS-260404-EF52
   - INS-260403-9012
+  - INS-260412-2DEF
 evidence:
   - id: INS-260322-D0F6
     type: TRANSFERS_TO

@@ -62,7 +62,6 @@ stance: >-
 related:
   - INS-260323-0DC4
   - INS-260326-6B99
-  - INS-260329-F07A
   - INS-260330-2413
   - INS-260330-C4D4
   - INS-260403-C732
@@ -70,6 +69,7 @@ related:
   - INS-260403-9149
   - INS-260403-70B9
   - INS-260403-32E9
+  - INS-260409-BC1E
 ---
 Tasch's analysis of LP psychology: the historical mental model was 'venture is risky 4-5x return, PE is safe consistent 2x return — diversify accordingly.' That model breaks if Medallia ($5B wipeout) is followed by similar collapses across the 2021 PE vintage (potentially Coupa, New Relic, Anaplan, Cornerstone, Avalara, SmartSheet, Zendesk all at risk). When the 'safe' part of the portfolio takes significant losses, LPs reduce overall risk appetite, hurting venture allocations even though venture-vintage 2021 was already written off.
 

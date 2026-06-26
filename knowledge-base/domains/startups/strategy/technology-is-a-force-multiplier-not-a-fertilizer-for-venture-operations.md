@@ -44,7 +44,7 @@ related:
   - INS-260403-CDC9
   - PRI-260327-7A68
   - PRI-260406-B314
+  - INS-260626-6D2E
   - INS-260327-6E93
-  - PRI-260328-5CDE
 ---
 The article distinguishes between four VC multiplicators: Visibility, Throughput, Access, and Analysis. Technology helps significantly with the first two, somewhat with Analysis, and barely with Access (which depends on brand and network). This framing is valuable beyond VC — it applies to any knowledge work where people conflate tool adoption with capability building. The implication is that funds should invest in tech only after they have strong fundamentals in deal sourcing and evaluation, because tools amplify signal but can't create it.

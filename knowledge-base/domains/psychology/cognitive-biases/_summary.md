@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 343 insights
+> 344 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -56,6 +56,7 @@
 - `INS-260402-0392` [high] People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260410-AEF8` [high] Japan's fatal error was projecting that America would stay isolationist after Pearl Harbor — modeling the adversary as a static object rather than a system that responds to provocation.
 - `INS-260404-8D23` [high] Failing to chase down uncomfortable implications is a form of weakness-driven conservatism, not a failure of intellect.
+- `INS-260626-2395` [high] Smart people are wrong all the time (the best hitters make out two-thirds of the time); the big management fault is letting after-acquired information seep into your judgment of what someone should have done in the fog of the moment.
 - `INS-260325-537A` [high] Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
 - `INS-260330-BD04` [high] Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
 - `INS-260330-43EE` [high] Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.

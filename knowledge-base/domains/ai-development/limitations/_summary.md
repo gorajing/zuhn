@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 92 insights
+> 94 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -34,6 +34,7 @@
 - `INS-260323-B309` [high] LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).
 - `INS-260410-988F` [high] AI problem-solving is trial-and-error at scale, not cumulative — it can jump and fail repeatedly, but it can't reach a handhold, stay there, and climb from it.
 - `INS-260323-A5EC` [high] LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
+- `INS-260626-9AAA` [high] Radical makes new discoveries from ~1,200 alloys with 50-150 data points each, not millions; the binding constraint is running physical experiments and the long feedback loop, not compute or dataset size.
 - `INS-260323-2D1D` [high] Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260410-67D5` [high] Things that impress humans about other humans (math, chess, competitive programming) are exactly the skills evolution didn't optimize, so AI dominance there is weak evidence of broad competence.
 - `INS-260410-F7B8` [high] Physical Intelligence's robots can execute minute-long tasks like folding inside-out shorts using only ~1 second of visual context because dexterity is Moravec's paradox in disguise — the easy-feeling tasks are where the real hard computation lives.
@@ -55,6 +56,7 @@
 - `INS-260323-F68A` [high] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260514-C4CF` [high] Supervised ML works only when 3 constraints hold: clean labeled data, measurable goal, defined parameters. Edge cases (situations breaking those constraints) cause catastrophic failure. Not a temporary problem — a fundamental architectural limit.
 - `INS-260605-FD3D` [high] Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
+- `INS-260626-E636` [high] AI's leverage lets one piece of software do 70,000 transactions, and the core problem is we can't test whether it's right—'not because it's smarter than us and it's going to turn us into pets.'
 - `INS-260326-97C9` [high] Searching the space of possible programs yields more sophisticated results than designing them from scratch.
 - `INS-260413-A950` [high] Gemini Deep Think earned IMO gold yet reads analog clocks correctly 50.1% of the time versus 91% for humans — 'AGI-level' performance on one axis predicts nothing about adjacent tasks.
 - `INS-260409-DA17` [high] Lee 2025 (Microsoft, 319 knowledge workers), Ye 2024 (UW Social Futures Lab, philosophers), and Gerlich 2025 (666 participants) all independently found GenAI use negatively correlates with critical thinking — with Gerlich specifically identifying a younger-is-worse age gradient mediated by cognitive offloading.

@@ -65,5 +65,6 @@ related:
   - INS-260514-EE1F
   - INS-260403-A99F
   - INS-260514-33F4
+  - INS-260626-147E
 ---
 Alan Kay: 'The real computer revolution hasn't happened yet.' Douglas Engelbart in 2006, asked how much of his vision had been achieved: 'about 2.8 percent.' The tech industry venerates these pioneers but structurally cannot reproduce their work because conventional tech product practice operates in what Kay calls 'pop culture' mode — it is exceptionally good at building successful businesses around incremental UI improvements but does not engage with the deep research questions that produce transformative breakthroughs. Pop culture practice includes: user interviews, immersion in the target field, iterating based on behavioral analytics, competitive benchmarking — all useful, none of which would have produced Hindu-Arabic numerals starting from Roman numerals. The work of producing transformative tools for thought requires a very different kind of engagement: doing serious original research in the subject matter AND serious tool-making at the same time, with the two feeding each other. Most tech companies can't sustain this because the incentives don't reward it and the skill mix is extraordinarily rare. This is a structural critique, not a personal one — the best pop culture companies are genuinely excellent at what they do, but that is not the same work.

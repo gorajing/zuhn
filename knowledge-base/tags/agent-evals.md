@@ -13,6 +13,7 @@
 - `INS-260625-52C0` Stable task and solution schemas let evaluators grow without breaking agents.
 - `INS-260625-3162` For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260625-FDC1` Long-running agent gates should report success, reaction latency, and resource use together.
+- `INS-260626-485E` Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260625-E3A2` Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
 - `INS-260626-9155` Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.

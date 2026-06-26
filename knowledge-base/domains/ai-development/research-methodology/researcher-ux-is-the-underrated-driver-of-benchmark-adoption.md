@@ -50,7 +50,6 @@ stance: >-
   A benchmark's adoption depends as much on how easy it is to run, extend, and
   reuse for RL as on its scientific rigor.
 related:
-  - INS-260322-3C3D
   - INS-260403-29AC
   - INS-260605-3E7F
   - INS-260625-1187

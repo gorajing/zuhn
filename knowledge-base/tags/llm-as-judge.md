@@ -9,6 +9,7 @@
 - `INS-260605-2A01` Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.
 - `INS-260605-72C4` A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.
 - `INS-260605-C009` LLM-as-judge is 'the lunatics running the asylum' — write your own deterministic eval against a golden set when you can.
+- `INS-260626-091B` Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260605-7843` Have experts grade agent traces AND write why; then run an LLM over the justifications to mine failure modes and generate scalable automated scorers.
 - `INS-260605-3119` Putting a 'robe and cloak' on an LLM doesn't make it trustworthy — eval the judge itself against human-labeled ground truth.
@@ -20,8 +21,8 @@
 - `INS-260530-C385` Abhije: 'As a PM, your roadmap would be to improve a product. As an AI PM, your goal is to write better AI evals.' The day-to-day is analyzing traces (input → output for each query) at scale, identifying where the AI did well vs poorly, and improving accuracy via eval-driven iteration.
 
 
-- `INS-260605-BEA5` Snorkel scales quality by building rubrics used by both human experts and LLM judges, then enforcing high inter-annotator agreement between humans and between humans and LLM judges.
 - `INS-260605-EC51` An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
 - `INS-260605-C1A4` Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
+- `INS-260605-BEA5` Snorkel scales quality by building rubrics used by both human experts and LLM judges, then enforcing high inter-annotator agreement between humans and between humans and LLM judges.
 - `INS-260605-9F16` 16 hand-built chess scenarios, an LLM judge, two strong-player SMEs, and OpenRouter for swapping models — the best model still only passes about 75%.
 - `INS-260605-C436` Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.

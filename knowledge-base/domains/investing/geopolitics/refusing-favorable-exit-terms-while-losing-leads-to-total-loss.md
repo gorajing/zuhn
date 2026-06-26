@@ -57,7 +57,6 @@ related:
   - INS-260412-1023
   - INS-260412-2A09
   - INS-260412-86F1
-  - INS-260412-9594
 evidence:
   - id: INS-260323-1BB4
     type: TRANSFERS_TO

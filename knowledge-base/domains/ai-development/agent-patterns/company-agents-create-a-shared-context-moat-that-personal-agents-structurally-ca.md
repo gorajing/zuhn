@@ -56,7 +56,6 @@ stance: >-
   An agent where one person connects an integration and the whole team inherits
   it beats per-user personal agents for company workflows.
 related:
-  - INS-260409-F0F5
   - INS-260603-23B1
   - INS-260501-91C2
   - INS-260605-C2A3

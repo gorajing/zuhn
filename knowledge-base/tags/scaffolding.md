@@ -7,6 +7,7 @@
 - `INS-260410-BB93` Whoever wins the scaffolding layer can vertically integrate downward into models because they have the data liquidity to fine-tune any capable open-source checkpoint.
 - `INS-260625-1B69` Scaffolding runs a step ahead of the model, but the model keeps digesting it and upstreaming it natively, so today's harness alpha evaporates within about a year.
 - `INS-260624-A121` Cybersecurity agents improve from both stronger models and better scaffolding.
+- `INS-260626-8143` Scaffolding buys ~10-20% performance now but gets wiped out by the next model, so treat it as disposable and bias toward waiting.
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-70F2` The progression from simple data types to complex object hierarchies mirrors natural cognitive development from concrete to abstract thinking.
 - `INS-260330-B5D6` Teaching people that both their skills AND their jobs are malleable building blocks produces a sustainable happiness boost that growth mindset about skills alone cannot achieve.

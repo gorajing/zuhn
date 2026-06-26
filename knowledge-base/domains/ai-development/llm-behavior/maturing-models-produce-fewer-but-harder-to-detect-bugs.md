@@ -55,7 +55,7 @@ related:
   - INS-260410-E73E
   - INS-260410-B3C4
   - INS-260410-A1CA
-  - INS-260524-78D0
+  - INS-260605-44E5
 ---
 Sonar observed that total bugs and vulnerabilities per model decrease as models mature through reinforcement learning — they learn to avoid the security problems they've already seen. But the residual defects migrate into a different genre: finer bugs and finer security issues that are very hard for a human reviewer to detect.
 

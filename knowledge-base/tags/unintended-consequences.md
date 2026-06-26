@@ -12,12 +12,6 @@
 - `INS-260410-90BD` Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260412-D256` Tor was built by US Naval Research for intelligence work but became the backbone of anti-government activity online.
 - `INS-260405-7E85` RuBisCo evolved to fix CO2 in a low-oxygen world, then photosynthesis flooded the atmosphere with oxygen—causing RuBisCo to mistake oxygen for CO2 roughly half the time, generating toxic waste that plants must now continuously detoxify.
-- `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
-- `INS-260327-4D1F` Every proxy war creates future adversaries: U.S. armed Afghan fighters became Al-Qaeda, the installed Shah was overthrown into hostile revolution, and supported Saddam later invaded Kuwait.
-- `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
-- `INS-260330-B490` Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
-- `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
-- `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
 - `INS-260403-202E` Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.
 - `INS-260403-44A6` Canada's decision to slash Chinese EV tariffs from 100% to 6.1% was a direct consequence of deteriorating US-Canada relations under Trump's tariff threats, illustrating how bullying allies creates unintended competitive openings.
 - `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.
@@ -25,3 +19,9 @@
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
+- `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
+- `INS-260327-4D1F` Every proxy war creates future adversaries: U.S. armed Afghan fighters became Al-Qaeda, the installed Shah was overthrown into hostile revolution, and supported Saddam later invaded Kuwait.
+- `INS-260410-B2A6` Kashmir, Korea, and Palestine all show the same dynamic: an outside power funds an insurgency to 'pin' a rival, the rival gets frozen from acting elsewhere, and the population bears horrendous deaths and zero growth for decades while the patron pays nothing.
+- `INS-260330-B490` Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
+- `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
+- `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.

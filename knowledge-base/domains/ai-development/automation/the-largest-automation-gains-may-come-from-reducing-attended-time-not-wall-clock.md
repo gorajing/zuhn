@@ -56,7 +56,7 @@ related:
   - INS-260410-E042
   - INS-260413-A950
   - INS-260412-9777
-  - INS-260330-6C6B
+  - INS-260626-F160
 ---
 NOVA's appendix decomposes a literature-to-production cycle and finds the largest reductions in human-bound design, debugging, reflection, and planning stages. Training stages remain GPU-bound, so the system mainly reduces monitoring and intervention, with human effort concentrated on strategic gates like requirement submission, review, and final result review.
 

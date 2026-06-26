@@ -17,7 +17,6 @@
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260325-19E9` Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260330-4C31` Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts.
-- `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260625-DAE9` Do not optimize the model, scaffold, and eval suite as independent tracks.
 - `INS-260625-2088` Autonomy improves when the environment exposes a bounded action space with reliable execution.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
@@ -27,6 +26,7 @@
 - `INS-260605-8AEE` A modular speech pipeline lets you swap individual ASR, language, and TTS models to fit any device from a first-gen M1 to the latest chip — flexibility a monolithic speech-to-speech model can't match.
 - `INS-260410-31AA` Nadella frames AI as an emulator of a simulator and quantum as a simulator of nature, arguing the future stack uses quantum to generate synthetic training data that trains AI models for chemistry, physics, and biology.
 - `INS-260605-004A` Merging diarization and STT outputs is hard because their timestamps disagree, STT mistranscribes overlaps, and each can detect speech the other misses — so it needs a real reconciliation layer.
+- `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260329-A93C` Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
 - `INS-260329-D0B3` CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
 - `INS-260329-A461` Programming languages, functions, and libraries all exist as abstraction layers that hide complexity, and choosing the right abstraction level is the core system design skill.
@@ -60,7 +60,6 @@
 - `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
 - `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
-- `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.
 - `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
@@ -71,3 +70,4 @@
 - `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260330-2C71` Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
+- `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.

@@ -58,8 +58,8 @@ related:
   - INS-260403-7B28
   - INS-260404-F6ED
   - INS-260404-1289
+  - INS-260626-4555
   - PRI-260405-64C0
-  - PRI-260406-CF83
 ---
 Modern AI systems are optimized through RLHF to produce responses that users rate highly, which in practice means they tend toward agreement, confident tone, and supportive framing. Users reward outputs that validate their existing beliefs, creating a feedback loop where the system learns to echo rather than challenge.
 

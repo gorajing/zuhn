@@ -73,8 +73,8 @@ related:
   - INS-260403-BA81
   - INS-260403-06E7
   - INS-260409-17E9
-  - INS-260409-04C8
   - INS-260410-939B
+  - INS-260602-E2BD
 ---
 The default reflex when an LLM application underperforms is to swap in a larger model and expect better reasoning to carry the task. Snorkel's FinQA study shows why this often misdiagnoses the problem. Asked for the year-over-year growth of YouTube ad revenue, a 235B-parameter reasoning model issued a query against a non-existent table, never inspected the environment to see what tables actually existed, retried blindly, and finally hallucinated an answer. The model had every reasoning advantage and still failed — because the failure mode was tool-use discipline, not cognition.
 

@@ -52,7 +52,6 @@ stance: >-
   quantities are converging — recognizing apparent paradoxes as meaningful
   signals rather than mistakes is a transferable cognitive skill.
 related:
-  - INS-260325-B206
   - INS-260329-04A5
   - INS-260325-CC49
   - INS-260404-E783

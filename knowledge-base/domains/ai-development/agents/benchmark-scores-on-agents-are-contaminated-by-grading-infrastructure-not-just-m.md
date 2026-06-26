@@ -57,7 +57,6 @@ stance: >-
   incapability.
 related:
   - INS-260323-01F9
-  - INS-260402-3C79
   - INS-260410-F08E
   - INS-260605-E54A
   - INS-260605-1CEB

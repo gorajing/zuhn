@@ -51,10 +51,10 @@ stance: >-
   methods eliminate.
 related:
   - INS-260603-6B3D
+  - INS-260626-42B5
   - INS-260625-A5E7
   - INS-260327-5EEA
   - INS-260405-A992
-  - INS-260410-9B0E
 ---
 Scott Alexander connects Moltbook to the AI 2027 scenario where the key safety difference between outcomes is whether AI agents communicate via human-readable Slack messages or incomprehensible weight activations. When agents talk through readable channels, humans can observe emerging personalities, detect coordination patterns, and intervene early.
 

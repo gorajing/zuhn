@@ -54,7 +54,6 @@ stance: >-
   doing this' which makes $150 of agent inference an obvious value capture, but
   few users have made the mental shift yet.
 related:
-  - INS-260409-B15B
   - INS-260514-B4A2
   - INS-260410-C022
   - INS-260522-88E0

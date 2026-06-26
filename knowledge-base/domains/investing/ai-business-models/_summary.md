@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 79 insights
+> 80 insights
 
 - `INS-260403-13AF` [high] Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
@@ -17,6 +17,7 @@
 - `INS-260514-FAB4` [high] AI labs follow Microsoft/AWS pattern: dominate horizontal compute + horizontal apps (Office, Claude Code); leave vertical apps with enterprise integrations to specialists (Salesforce, Snowflake, Harvey). YC killer = horizontal app. Harvey survives = vertical workflow.
 - `INS-260327-6B02` [high] Data center buildouts provide tens of thousands of high-paying jobs and stock market gains drive consumer spending, making the AI economy self-sustaining regardless of whether AI delivers on its promises.
 - `INS-260327-16A1` [high] $400B+ in annual AI data center spending provides jobs and wealth effects that sustain the economy, while simultaneously building the automation infrastructure that threatens those same jobs.
+- `INS-260626-ACE3` [high] The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.
 - `INS-260323-F753` [high] Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260323-750A` [high] Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
 - `INS-260329-3AE5` [high] AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.

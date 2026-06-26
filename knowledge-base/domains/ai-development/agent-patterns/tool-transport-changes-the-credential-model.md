@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260328-6898
   - INS-260605-3588
+  - INS-260626-3C9A
   - INS-260409-665F
   - INS-260625-FACB
-  - INS-260625-ADEA
 ---
 The MCP Authorization spec says HTTP transports should conform to the OAuth authorization flow when authorization is supported, while STDIO transports should not follow this flow and should retrieve credentials from the environment. That distinction is easy to miss when all tools appear in one agent UI.
 

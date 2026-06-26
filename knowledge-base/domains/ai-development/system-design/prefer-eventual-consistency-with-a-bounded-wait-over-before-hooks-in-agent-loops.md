@@ -63,7 +63,7 @@ related:
   - INS-260410-761B
   - INS-260323-0539
   - INS-260423-6879
-  - INS-260410-303B
+  - INS-260626-091B
 ---
 Templestein is 'very against before-hooks' and cites real damage in Open Claude-style harnesses: synchronous pre-LLM hooks broke context caching and caused massive performance regressions and cost increases, because mutating the prompt before the request invalidates the cache. His event-sourced model deliberately omits a general before-hook — only the platform's own built-in processors can stop an event from being appended (which is how the pause/circuit-breaker is implemented and why a third party can't).
 

@@ -52,10 +52,11 @@ stance: >-
   American economic success rather than as digital gold.
 related:
   - INS-260323-78A5
-  - INS-260330-CECB
   - INS-260405-6D3A
+  - INS-260330-CECB
   - INS-260405-0B17
   - INS-260321-3521
+  - INS-260626-EF8C
 ---
 Bitcoin maximalists long argued that its algorithmic scarcity and independence from national governments made it digital gold — a safe haven when fiat currencies falter. Recent market behavior directly contradicts this: when dollar confidence dropped, gold surged while Bitcoin plunged alongside US equities. Bitcoin's correlation with the stock market suggests investors view it as benefiting from American prosperity — when Americans feel rich, they allocate to crypto.
 

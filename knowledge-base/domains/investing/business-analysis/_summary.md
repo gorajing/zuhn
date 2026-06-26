@@ -1,6 +1,6 @@
 # Topic: business-analysis
 
-> 55 insights
+> 56 insights
 
 - `INS-260412-24DB` [high] WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260410-641D` [high] An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
@@ -49,6 +49,7 @@
 - `INS-260411-2B1D` [high] The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
 - `INS-260412-EB4F` [high] Consistent returns uncorrelated with market movements are the top red flag for investment fraud.
 - `INS-260410-F1F1` [high] Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
+- `INS-260626-5C4D` [medium] Like Excel before it, AI becomes a competitive necessity everyone must adopt, and the cost saving gets competed away — you do far more work for the same price rather than charging more.
 - `INS-260412-816C` [medium] VW's mass-market foundation funded luxury brand acquisitions that diversified revenue and elevated group engineering.
 - `INS-260412-1711` [medium] Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260412-8A51` [medium] Meta's $8.3B metaverse losses compounded the market's negative reaction to Facebook's user decline, creating multiplicative rather than additive punishment.

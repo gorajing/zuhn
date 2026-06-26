@@ -61,10 +61,10 @@ related:
   - INS-260410-095B
   - INS-260410-6ABA
   - INS-260410-87B5
-  - INS-260505-E5CC
   - INS-260605-D0A0
   - INS-260625-FACB
   - INS-260625-CF6B
+  - INS-260626-485E
 ---
 START's inference procedure (Hint-infer) does not let the model freely decide when to use Python. Instead it watches the generated stream and injects hints from a curated 'hint library' at two specific kinds of moments: right after tokens that indicate the model is questioning its own reasoning or considering alternatives ('alternatively', 'wait', 'additionally'), and right when the model is about to stop reasoning — nudging it to keep going. The hints are task-specific: a 'debug hint' tells coding models to run provided test cases and compare outputs, while math hints prompt reflection, logical verification, or trying alternative methods.
 

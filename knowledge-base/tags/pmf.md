@@ -1,5 +1,6 @@
 # Tag: pmf
 
+- `INS-260626-22D2` Aim your product at the model six months from now, then wait for capability to catch up to it.
 - `INS-260625-7B5C` Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.

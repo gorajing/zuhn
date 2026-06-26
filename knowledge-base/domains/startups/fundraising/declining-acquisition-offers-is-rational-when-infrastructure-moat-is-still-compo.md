@@ -60,7 +60,6 @@ related:
   - INS-260403-FF7E
   - INS-260403-6F8B
   - INS-260328-4EA0
-  - INS-260403-5DF2
 ---
 Stripe offered $1.2B to acquire Airwallex when it had roughly $2M in revenue — a 600x revenue multiple that would seem irrational to decline. But the offer valued the business on current output, not on the compounding infrastructure being built. A decade later, Airwallex is worth $8B with $1B in revenue.
 

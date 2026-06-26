@@ -53,7 +53,7 @@ related:
   - INS-260605-D0A0
   - INS-260605-2627
   - INS-260605-0819
-  - INS-260320-9FD5
+  - INS-260626-485E
   - INS-260605-37DA
 ---
 Once a voice agent has to actually use a tool, the team is 'fighting for something that is not the most relevant anymore' — shaving milliseconds off TTS while an open-router tool call swings between 500ms and 4 seconds with high variance. The bottleneck has moved from synthesis to the tool, and that variance is what breaks the conversational feel. The practical pattern: the LLM splits into two threads — it fires the tool call, and while waiting it keeps the conversation going naturally (e.g., a travel agent saying something pleasant about the destination), then retrieves the result and weaves it back in. This trades raw speed for predictable, reliable pacing, and it requires models that are resilient to slow, complex tool calls rather than assuming instant returns.

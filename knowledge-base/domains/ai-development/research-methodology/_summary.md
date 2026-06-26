@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 125 insights
+> 127 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -79,6 +79,7 @@
 - `INS-260505-C5D8` [high] Universities can't out-spend Meta on compute. They can out-open-source Meta on weights, and out-patient Meta on long-horizon research.
 - `INS-260625-0A08` [high] Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward.
 - `INS-260514-AC1D` [high] GPT is a really good autocomplete. The cake isn't the autocomplete — it's the internal representations the model built while learning to autocomplete.
+- `INS-260626-BA05` [medium] RL crushes a whole trajectory of real-world correction into one reward scalar; SDPO instead gives a teacher privileged hints and matches the student to it, training on actual text guidance.
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260505-9723` [medium] Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 - `INS-260605-4597` [medium] GPQA's quiet contribution was an adversarial multi-reviewer protocol with agreement-based payouts, ensuring tasks are well-posed, tractable for other experts, and verifiable.
@@ -88,6 +89,7 @@
 - `INS-260505-D1E9` [medium] AI is a compression engine — it deduces from training data. Real science is abductive — surprising claims that violate expectations. The two are in tension.
 - `INS-260501-5F37` [medium] Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments.
 - `INS-260505-5D69` [medium] Nature is constantly producing pandemic-grade viruses; what we lack is the ability to detect, respond, and cure them — that's where AI's marginal benefit goes.
+- `INS-260626-D7F3` [medium] Radical's AI scientist moved into elemental-alloy families no human had ever published on, because human experts carried an 'unknowing bias' against them, and it can compare 100k papers to 100k images in parallel.
 - `INS-260625-B8D1` [medium] Automating overnight ablations you'd have done anyway is convenient but incremental; the exciting threshold is an agent making a 'Move 37'-style discovery a human wouldn't have thought of.
 - `INS-260605-80D0` [medium] ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260410-3075` [medium] A concrete scenario forces you to confront implementation details and surface crux disagreements that vague probability estimates let you skate past.

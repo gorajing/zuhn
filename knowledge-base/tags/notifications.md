@@ -1,6 +1,6 @@
 # Tag: notifications
 
 - `INS-260605-46A8` For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
-- `INS-260330-21CC` Power users stay anyway — growth comes from saving marginal users by getting them to the magic moment, not from reducing friction for heavy users.
 - `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
 - `INS-260330-59DC` The users who drive growth metrics are the ones on the edge of churning or reactivating, not your most engaged users.
+- `INS-260330-21CC` Power users stay anyway — growth comes from saving marginal users by getting them to the magic moment, not from reducing friction for heavy users.

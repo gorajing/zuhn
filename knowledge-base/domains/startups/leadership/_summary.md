@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 205 insights
+> 206 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -154,6 +154,7 @@
 - `INS-260403-CF44` [medium] Dario spends 30-40% of his time on culture because at exponential speed, organizational decoherence is the binding constraint on execution.
 - `INS-260404-CDF0` [medium] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
 - `INS-260405-8080` [medium] Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
+- `INS-260626-1745` [medium] Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 - `INS-260404-2BAD` [medium] Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
 - `INS-260330-2F52` [medium] The primary barrier preventing successful business leaders from entering politics is communication ability under pressure, not strategic competence.
 - `INS-260327-BB4A` [medium] Competitive team gaming develops CEO skills—leading smart people, forcing collaboration, maintaining intensity—better than business school.

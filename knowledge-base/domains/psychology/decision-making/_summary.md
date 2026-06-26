@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 200 insights
+> 202 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -95,6 +95,7 @@
 - `INS-260403-B26E` [high] If your opponent lobbies against your strategy while claiming it helps them, their lobbying reveals the strategy is working.
 - `INS-260330-2B29` [high] Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260625-3AF0` [high] Hanoi paid citizens per rat tail to cut the rat population; people farmed rats for their tails and the problem got worse.
+- `INS-260626-DA56` [high] Don't ask people the probability of an event; ask what they'll do if it happens and what they can do cheaply today to mitigate it—the rehearsal itself makes you fastest off the mark.
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
@@ -187,6 +188,7 @@
 - `INS-260403-9E97` [medium] Trump's rage at SCOTUS striking down tariffs — despite tariffs dragging his approval ratings — reveals how identity attachment to a signature policy overrides rational political self-interest.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260412-BE47` [medium] A 1-in-100,000 chance over 5 billion years sounds negligible, but thousands of years of advance notice transforms an extinction event into a solvable engineering problem.
+- `INS-260626-CAC8` [medium] Avoid only fatal or irreversible risk ('don't die, don't go to jail'); everything else is recoverable, and the real danger is being too cautious to do anything worth noticing.
 - `INS-260403-9FB1` [medium] A typo in the Congressional Apportionment Amendment — 'more than' instead of 'less than' — would force the Supreme Court to definitively choose between textualism and originalism with no room for compromise.
 - `INS-260412-2F0C` [medium] Venus looks far worse than Mars today but its 90% Earth gravity makes it the better multi-generational bet.
 - `INS-260514-EE1F` [medium] Western culture is excellent at decomposing problems (Descartes), structurally weak at synthesis. AI era requires synthesis: curate AI outputs, juxtapose recombinant content, integrate across silos. Synthesis skill = disproportionate advantage.

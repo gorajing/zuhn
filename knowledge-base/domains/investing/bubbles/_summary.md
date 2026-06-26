@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 102 insights
+> 103 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260403-52FF` [high] Carta data shows sub-$10M funds hit 90th percentile TVPI of ~4.03x while $100M+ funds only reach ~1.67x, and 73% of top-performing funds are Fund I or II.
@@ -87,6 +87,7 @@
 - `INS-260325-820C` [medium] Abstract mathematical results consistently become physically relevant decades or centuries later.
 - `INS-260403-5835` [medium] Like the dot-com era, the AI bubble contains both genuine excess and the seeds of the next generation of dominant companies.
 - `INS-260405-B4D0` [medium] AI investment enthusiasm has materially exceeded demonstrated revenue, reproducing the pattern of prior tech bubbles.
+- `INS-260626-6E01` [medium] Classic bubbles form when excess supply destroys economics; AI today is supply-constrained (no data-center capacity until late '28–'29), which makes a near-term bubble structurally unlikely even if a longer-term one remains possible.
 - `INS-260405-D9DF` [medium] AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
 - `INS-260412-D625` [medium] Founder security escalation combined with calm family reactions to disappearance signals a pre-planned exit rather than a crisis.
 - `INS-260403-B0E3` [medium] Circular investment chains in AI infrastructure create fragility where one valuation drop can cascade through the entire system.

@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 34 insights
+> 35 insights
 
 - `INS-260321-86E7` [high] As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
 - `INS-260320-10E8` [high] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
@@ -30,6 +30,7 @@
 - `INS-260322-7FA4` [high] As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
 - `INS-260327-94E6` [high] YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260322-81CD` [medium] Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
+- `INS-260626-E03E` [medium] Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
 - `INS-260409-661A` [medium] Lock the location and angle first, then add characters - reversing the order wastes credits.
 - `INS-260409-BE39` [medium] Topic classification draws from visual, audio, and text signals together, so off-topic visuals or transcripts will contradict on-topic captions and confuse the fit score.
 - `INS-260409-FD8B` [medium] A viral hit to the wrong audience is algorithmically expensive because the platform re-targets your next videos toward those off-avatar viewers.

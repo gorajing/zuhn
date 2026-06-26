@@ -2,9 +2,9 @@
 
 - `INS-260325-0409` QJL achieves zero-overhead error correction by spending just 1 bit on residual bias elimination rather than distributing precision uniformly — a principle applicable beyond quantization.
 - `INS-260329-3D3E` On imbalanced datasets, accuracy masks total failure on the minority class - precision and recall reveal whether the model actually learned the pattern you care about.
-- `INS-260412-16CE` The Da Vinci system eliminates human tremor and scales movements down to sub-millimeter precision, but critics note it limits the creative freedom surgeons have with direct manual control.
 - `INS-260329-05BB` HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
 - `INS-260321-9906` Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
+- `INS-260412-16CE` The Da Vinci system eliminates human tremor and scales movements down to sub-millimeter precision, but critics note it limits the creative freedom surgeons have with direct manual control.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-B711` Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.

@@ -1,6 +1,8 @@
 # Tag: tool-calling
 
+- `INS-260626-485E` Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260605-B13C` Run distinct evaluators at intent resolution, tool selection, and final response so you can pinpoint exactly where quality breaks down.
+- `INS-260626-9AEB` Don't bounce a Zod/schema error back to an open model that ignores it for 50+ turns; deterministically repair the malformed call and append a hint, and the model self-corrects within a couple of tool calls.
 - `INS-260605-1A2D` Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.

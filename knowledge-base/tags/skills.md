@@ -6,6 +6,7 @@
 - `INS-260605-74E8` An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
+- `INS-260626-23E7` Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
 - `INS-260605-C9E8` Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
 - `INS-260605-9900` Harness engineering is an extension of context engineering: let agents run, watch where they get lost, and encode that learning back into agents.md, skills, and tests so the agent flows through the workflow more autonomously next time.
@@ -14,6 +15,7 @@
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
 - `INS-260410-0855` Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260605-E7F2` Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
+- `INS-260626-7F36` LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260625-7A1A` Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
 - `INS-260605-9276` Provide agents skills as plain version-controlled files containing examples of how to do a task, and let the project maintainers own those skills, so the agent goes from zero-shot to robust few-shot.
 - `INS-260605-90E5` A skill replaces the hand-built router-and-specialist-workflow stack by letting a single agent progressively acquire the context to solve cross-domain requests.
@@ -21,14 +23,17 @@
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
 - `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
+- `INS-260626-158E` Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
 - `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
 - `INS-260605-59AE` Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
 - `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260320-A4BF` Attach ready-to-use utility scripts to skills so Claude references proven tools instead of reinventing test scripts from scratch.
+- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260320-8DBD` Use a central skill-rules.json config mapping each skill to keywords, regex intent patterns, file path triggers, and content triggers.
 - `INS-260605-5A6A` Priscila turned her endlessly repeating comprehension prompts into a 'Catch Me Up' skill structured around six exploration modes.
 - `INS-260605-749D` Wait a week, then ask the model to read your transcripts and recurring friction and propose the skills to extract.
+- `INS-260626-B614` Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
 - `INS-260320-F8FD` Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
 - `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
 - `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
@@ -42,6 +47,7 @@
 - `INS-260605-46B2` You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
+- `INS-260626-A08F` Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.

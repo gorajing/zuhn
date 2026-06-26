@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260323-0B52
   - INS-260409-626E
+  - INS-260626-23E7
   - PRI-260405-49C0
   - INS-260322-32E3
   - INS-260323-D400
-  - INS-260330-35CB
 ---
 Löber argues native generation 'matters' because models like Nano Banana are based on Gemini and inherit much of its training — so they 'understand the world' they are rendering. His examples: drawing an arrow on a map and asking for a picture yields a correct render of the Golden Gate Bridge; the model can correct math homework and render the corrections because it understands the math, and can even generate code on images.
 

@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260409-5FF6
   - INS-260409-A318
+  - INS-260626-C72F
   - INS-260405-41AC
   - INS-260327-5AF9
-  - INS-260403-76F5
 ---
 Hassabis's lesson from his first startup, Elixir Studios (out of Bullfrog Productions): they tried to build Republic, a game simulating a million-person living country with full graphics and AI on a late-1990s Pentium. The technology didn't support it. The lesson: 'you want to be 5 years ahead of your time, not 50.' Obvious is too late; 50 years ahead is impossible to fund or sustain. Five years gives you time to build before the wave hits.
 

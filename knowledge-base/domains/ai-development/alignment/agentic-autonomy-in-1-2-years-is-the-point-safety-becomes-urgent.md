@@ -46,7 +46,6 @@ stance: >-
   autonomous in the next 1-2 years the alignment-on-guardrails problem moves
   from theoretical to urgent.
 related:
-  - INS-260404-0B8E
   - PRI-260406-9051
   - INS-260327-E18C
   - INS-260603-7252

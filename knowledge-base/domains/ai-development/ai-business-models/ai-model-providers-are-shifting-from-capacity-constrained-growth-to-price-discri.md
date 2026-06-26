@@ -57,7 +57,6 @@ stance: >-
   pricing tokens closer to their marginal value rather than fixed-rate bundles
 related:
   - INS-260330-A1A4
-  - INS-260330-9751
   - INS-260409-526E
   - INS-260412-D883
   - PRI-260406-BE21

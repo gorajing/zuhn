@@ -1,6 +1,7 @@
 # Tag: design
 
 - `INS-260321-8414` The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
+- `INS-260626-7F36` LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260410-E4C4` 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260505-050B` One model + interpretation methods = microscope (understand) + design tool (intervene) — two products from one training run.
 - `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.

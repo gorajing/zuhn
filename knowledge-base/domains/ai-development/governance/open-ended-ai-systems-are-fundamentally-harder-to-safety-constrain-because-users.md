@@ -60,8 +60,8 @@ related:
   - INS-260403-27F5
   - INS-260403-5BCF
   - INS-260402-31D8
+  - INS-260626-091B
   - INS-260330-D1C8
-  - INS-260330-843E
 ---
 The video documents early jailbreaking of ChatGPT where users bypassed safety restrictions through creative rephrasing — asking for dangerous information 'in a different way' after being initially refused. The narrator observes: 'because the AI is so open-ended I think it's going to be pretty hard to control by accounting for all the possibilities.'
 

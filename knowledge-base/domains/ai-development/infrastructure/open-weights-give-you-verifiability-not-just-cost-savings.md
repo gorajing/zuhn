@@ -50,11 +50,11 @@ stance: >-
   The decisive advantage of open-weight models is guaranteed verifiability
   against silent provider degradation, not lower cost.
 related:
+  - INS-260626-8143
   - INS-260625-F573
   - INS-260605-1CEB
   - INS-260424-F8BB
   - INS-260605-B60D
-  - PRI-260403-5FC4
 ---
 The conventional case for open models is cost and privacy, but the speaker frames the real differentiator as control over change. Closed APIs can silently degrade or swap the underlying model—she cites a recent episode where 'cloud performance was going down' without users being told. With open weights the artifact is frozen and inspectable: no performance regression and no behavioral drift happens without your knowledge.
 

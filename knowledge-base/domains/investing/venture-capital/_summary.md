@@ -1,9 +1,10 @@
 # Topic: venture-capital
 
-> 311 insights
+> 312 insights
 
 - `INS-260403-6B24` [high] High-profile 2025 IPOs like Figma, Chime, and Navan traded below debut prices even as Nasdaq and S&P 500 rallied.
 - `INS-260405-0CAB` [high] 38% of VCs stopped doing deals in 2023, exposing a large cohort of cycle-dependent tourist investors who entered during the 2020-2021 bull market.
+- `INS-260626-5D91` [high] Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul.
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260412-C69B` [high] JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - `INS-260405-07DF` [high] European active VCs dropped from 1,955 to 906 in one year, a >50% contraction.

@@ -46,10 +46,10 @@ stance: >-
   engineering onboarding to drive those actions is the highest-leverage growth
   mechanism at the PMF stage
 related:
+  - INS-260626-D91F
   - INS-260329-AA76
   - INS-260403-6341
   - INS-260423-6FB5
   - INS-260329-BCB7
-  - INS-260403-58CF
 ---
 The pirate metrics framework (AARRR) provides structure, but the real insight is the feedback loop between activation and retention. By analyzing behavioral differences between users who churn and users who stick, founders can identify 'aha moment' actions — the milestones that unlock the product's core value. Baking these into the onboarding experience creates a self-reinforcing cycle: more users reach the aha moment, retention improves, and the retention data further validates PMF. This is more actionable than abstract PMF discussions because it gives founders a concrete optimization target. Slack's 2,000 messages threshold and Facebook's 7 friends in 10 days are famous examples of this pattern.

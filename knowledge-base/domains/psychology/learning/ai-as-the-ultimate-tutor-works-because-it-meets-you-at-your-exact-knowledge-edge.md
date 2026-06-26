@@ -59,8 +59,8 @@ related:
   - INS-260514-9D0A
   - INS-260605-B66C
   - INS-260423-61B6
+  - INS-260626-BA05
   - INS-260403-6711
-  - INS-260514-BB61
 evidence:
   - id: INS-260320-5F14
     type: EXTENDS

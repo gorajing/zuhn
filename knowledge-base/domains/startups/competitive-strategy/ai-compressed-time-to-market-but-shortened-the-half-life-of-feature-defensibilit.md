@@ -49,7 +49,6 @@ stance: >-
   When two engineers with model APIs can ship what previously required twenty,
   reaching $10M ARR signals speed-to-market rather than a durable moat.
 related:
-  - INS-260329-693E
   - INS-260403-EDA1
   - INS-260403-5CAD
   - PRI-260406-9FA8

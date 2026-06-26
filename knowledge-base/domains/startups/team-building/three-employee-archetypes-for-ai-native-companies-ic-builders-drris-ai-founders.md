@@ -71,6 +71,7 @@ related:
   - INS-260327-2A73
   - INS-260322-EAB6
   - INS-260403-3B67
+  - INS-260626-1745
 ---
 Hu citing Jack Dorsey's framework from Block: future companies will have three employee archetypes. (1) Individual Contributor (IC) / builder operator — directly makes and runs things; not limited to engineers, applies to ops, support, sales, everything; everyone shows up to meetings with working prototypes, not pitch decks. (2) DRI — directly responsible individual focused on strategy and customer outcomes; not classic management, but one person with one outcome and no hiding. (3) AI founder — still builds, coaches, leads by example; the founder must show what massive capability gains look like, not delegate AI strategy.
 

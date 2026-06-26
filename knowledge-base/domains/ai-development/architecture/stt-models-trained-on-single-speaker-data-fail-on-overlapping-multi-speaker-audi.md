@@ -56,8 +56,8 @@ related:
   - INS-260410-18CF
   - INS-260410-66C6
   - INS-260410-8B2C
-  - INS-260605-8F5E
   - INS-260605-DDAB
   - INS-260605-B03B
+  - INS-260605-E490
 ---
 A core reason speaker-attributed transcription is hard is that the underlying STT models are trained almost entirely on single-speaker audio. The moment you apply them to real multi-speaker conversations — overlapping speech, speaker changes, interruptions, cross-talk, distant microphones, mid-sentence language switching — they fail. This is visible in the gap between headset and tabletop microphone scores on the same AMI meetings (11.4% vs ~26% WER). The practical consequence is that you can't just bolt a leaderboard-topping STT model onto conversational audio and expect leaderboard performance; the benchmark conditions that produced the headline number rarely match a real room. Architecture-wise, this is why diarization and transcription are treated as separate components that must be combined deliberately rather than assuming one model handles everything.

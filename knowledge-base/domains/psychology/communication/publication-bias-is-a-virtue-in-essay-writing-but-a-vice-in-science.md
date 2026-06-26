@@ -47,13 +47,13 @@ stance: >-
   essayists, despite being a well-known failure mode in scientific research.
 related:
   - INS-260327-45B4
-  - INS-260327-3F40
   - INS-260423-AB6B
   - INS-260403-0479
   - INS-260423-A0C9
   - PRI-260406-5CA8
   - INS-260402-D0F3
   - INS-260403-A6B1
+  - INS-260626-D7F3
 evidence:
   - id: INS-260327-3F40
     type: REFINES

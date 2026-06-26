@@ -54,10 +54,10 @@ stance: >-
   the experience.
 related:
   - INS-260423-E905
+  - INS-260626-22D2
   - PRI-260323-1B96
   - INS-260404-B2AF
   - INS-260327-0004
-  - INS-260325-C5FD
 ---
 Cherny started Claude Code in late 2024 on the bet that models were 'almost ready' for agentic coding, even though tab-completion typeahead was the state of the art. For the first six months it 'just really didn't work' — barely usable, used for only ~10% of his own code — and even the initial public release was 'not a hit.' Exponential growth only began with Opus 4 in May, then inflected again with each subsequent model (4.5, 4.6, 4.7). The team knew there would be no PMF for six months because they were building for the next model the whole time.
 

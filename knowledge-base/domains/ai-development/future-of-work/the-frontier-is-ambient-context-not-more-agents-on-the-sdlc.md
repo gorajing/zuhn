@@ -67,7 +67,7 @@ related:
   - INS-260501-2A52
   - INS-260625-447A
   - INS-260605-9276
-  - PRI-260328-EE04
+  - INS-260626-75DA
 ---
 Asked whether the SDLC is 'at the end of history' now that agents cover completion, agentic IDEs, orchestration, and security review, Daigle says no — we're in a 'hyper myopic era of AI' where the coding agent loses all the context available across everything a person does outside coding, for boring security and governance reasons. The thing he actually wants is ambient AI: building a feature and having it 'know every spec doc, every email, the conversations I've had online, everything about how this could be implemented, and use that as part of its decision-making.'
 

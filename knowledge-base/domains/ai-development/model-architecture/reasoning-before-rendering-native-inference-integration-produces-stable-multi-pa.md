@@ -65,7 +65,7 @@ related:
   - INS-260514-315F
   - INS-260514-93C2
   - PRI-260406-F51A
+  - INS-260626-7F36
   - INS-260329-9CFE
-  - INS-260403-3EFB
 ---
 The architectural shift introduced by GPT Image 2.0: native integration of GPT-5-series reasoning into the image generation pipeline. Instead of the older pattern where you send a prompt and the model directly generates pixels, the model first reasons about the layout, composition, and content per panel, and THEN renders. The empirical impact: single-prompt brand kit generation that produces cover + brand overview + logo system + typography + color palette + visual language all in one consistent output. Single-prompt PPT slide deck generation from a comprehensive report. Single-prompt 40-logo variation board with numbered indexing. Nano Banana (Gemini's image model) doesn't have this integration and shows the cost: same prompts produce monotonous fonts, inconsistent multi-panel composition, missed product features. Benchmark evidence: GPT Image 2.0 scores 1,512 on Arena's text-image category, 241 points ahead of Nano Banana — the largest gap in Arena history at the time of recording, and #1 across text rendering / product design / 3D / comics / portraits. The deeper architectural principle: combining reasoning and generation in one model unlocks output structures (multi-panel, consistent style across panels, indexed variation grids) that are functionally impossible with pure generation models. This same pattern will likely repeat in video (reason-then-generate scenes), 3D (reason-then-mesh), and audio (reason-then-render). Builders should explicitly test whether their image use case benefits from multi-panel reasoning before locking in a model choice.

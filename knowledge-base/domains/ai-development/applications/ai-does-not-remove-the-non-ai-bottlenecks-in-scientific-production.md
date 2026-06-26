@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI accelerates the discovery loop, but the lab still has to measure,
@@ -52,5 +52,6 @@ related:
   - PRI-260411-FB73
   - INS-260403-FFEA
   - INS-260403-5427
+  - INS-260626-9AAA
 ---
 Flex-Cat needed high-pressure reactors, automated analysis, a ligand library, hydroformylation chemistry, and translation of candidates to a 20 mL reactor format. The AI chose experiments, but chemistry still imposed the feasible action space and validation burden. The remaining bottleneck is not just intelligence; it is trustworthy physical execution and process relevance.

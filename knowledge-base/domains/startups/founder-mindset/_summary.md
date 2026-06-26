@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 353 insights
+> 354 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -243,6 +243,7 @@
 - `INS-260403-E688` [high] Wealth's real value is buying back your time and autonomy, not funding consumption.
 - `INS-260625-904E` [high] The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
 - `INS-260327-3E6F` [high] When quitting isn't an option, every obstacle becomes a design problem to solve rather than a reason to stop.
+- `INS-260626-526E` [high] A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 - `INS-260327-88FE` [high] When YouTube's dating site version had zero uploads for a week, they pivoted to general video sharing and adopted a culture of shipping experiments overnight — like video responses — without knowing if any would work.
 - `INS-260403-B05A` [high] What you work on and who you work with matter more than how many hours you put in.
 - `INS-260327-CEE4` [high] Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5731 actionable insights
+Generated on 2026-06-26 | 5767 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -74,6 +74,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-EC9A] The evaluator needs its own evidence path, not just the agent's final artifact.
 - [INS-260626-33BE] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - [INS-260626-9155] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
+- [INS-260626-485E] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -330,6 +331,12 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260626-AE04] NOVA's L3 task succeeds by coupling paper reproduction, solution design, production code edits, semantic gates, and offline/online validation.
 - [INS-260626-778F] NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - [INS-260626-6D35] NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake.
+- [INS-260626-23E7] Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
+- [INS-260626-7F36] LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
+- [INS-260626-F983] Wrap a second model (e.g. Codex) as a skill that takes your plan or repo, is told to 'find all the problems and bugs,' and reports back to your primary agent to work through.
+- [INS-260626-40DF] Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
+- [INS-260626-158E] Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
+- [INS-260626-59D9] Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -375,6 +382,8 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-FACB] Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
 - [INS-260625-2ED0] Risk from prompt injection requires three things together — untrusted input, access to private data, and the ability to act/exfiltrate; remove any one and the risk collapses.
 - [INS-260625-BCD8] Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
+- [INS-260626-9AEB] Don't bounce a Zod/schema error back to an open model that ignores it for 50+ turns; deterministically repair the malformed call and append a hint, and the model self-corrects within a couple of tool calls.
+- [INS-260626-091B] Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -661,6 +670,8 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-8E60] Take a 'golden session' where the agent performed well, have an agent deconstruct it into a declarative prose workflow, and re-run that workflow to get the good outcome repeatably.
 - [INS-260625-E696] Channel AI treats coding as an RTS: an orchestrator plus many parallel workers in git worktrees, 'low premium on agent time, high premium on yours,' macro-by-default, satisficing, and tool-calls-per-minute as an APM metric — yielding 3.5x PRs per engineer and another +60%.
 - [INS-260625-78EC] Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
+- [INS-260626-621D] Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
+- [INS-260626-B614] Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -733,6 +744,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260619-4962] Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - [INS-260625-6C29] Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
 - [INS-260625-4078] A measured slowdown in expert open-source work argues against retiring human review as a near-term stable bottleneck.
+- [INS-260626-C88F] The instinct to abandon math and CS once AI automates them is backwards — knowing how LLMs actually work is precisely what lets you wield and prompt them effectively.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -853,6 +865,8 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-F573] Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.
 - [INS-260625-E1AA] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - [INS-260625-F62D] Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
+- [INS-260626-D9CD] Deploy LLMs where 'what anyone would do' is the goal; the human-held value is where you want a different answer or can't articulate why you did it that way.
+- [INS-260626-CE12] You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -887,6 +901,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-96AA] Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session.
 - [INS-260625-F775] Databricks built a specialized document-vision model that parses pages to structured JSON at roughly 100x lower cost than frontier models while being more accurate, illustrating that narrow tasks reward specialization over scale.
 - [INS-260625-1C5E] Serverless GPU endpoints spin workers down when idle and bill per-second only while handling requests, inverting the always-on cost model for spiky workloads.
+- [INS-260626-A08F] Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -916,6 +931,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-B5AD] Partners increasingly find base models 'work too well out of the box' for general tasks, so fine-tuning excitement has shifted from behavior-shaping to injecting domain data the model lacks.
 - [INS-260625-43B3] He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
 - [INS-260625-8BC8] SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
+- [INS-260626-408A] The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -1036,6 +1052,9 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-7B5C] Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 - [INS-260625-C3B0] Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
 - [INS-260625-CF91] Architect the product so model progress is a tailwind you absorb, not a rebuild you fund.
+- [INS-260626-22D2] Aim your product at the model six months from now, then wait for capability to catch up to it.
+- [INS-260626-715B] Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
+- [INS-260626-07B6] Bet that model capability is unlimited and sell the permissions, approvals, audits, and guardrails that let enterprises actually deploy it.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1053,6 +1072,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-7CD5] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - [INS-260625-0758] Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
 - [INS-260625-0CAB] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
+- [INS-260626-09B3] When marginal tokens make the output more complete, spend them — token budget is high-ROI leverage, not a cost to minimize.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -1257,6 +1277,9 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-1826] Do not rely on policy text to keep agents away from the oracle.
 - [INS-260626-F01D] NOVA loads a static knowledge base for prior effective directions but keeps current modifications, diagnostics, and metric feedback in trajectory memory.
 - [INS-260626-B7EB] NOVA's cascade checks architecture semantics, local executability, offline metrics, and only then online impact.
+- [INS-260626-B94C] Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
+- [INS-260626-3C9A] Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
+- [INS-260626-8143] Scaffolding buys ~10-20% performance now but gets wiped out by the next model, so treat it as disposable and bias toward waiting.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1381,6 +1404,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-9721] Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills.
 - [INS-260625-D2E3] Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift.
 - [INS-260625-8A5F] Make the agent's corrected conversation history part of its own retrieval source, so each human fix becomes future training context and the agent gets better day after day.
+- [INS-260626-DCB8] Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
@@ -1680,6 +1704,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260403-36EC] SaaS business models that charge for access to human-engineered software are being repriced by markets as AI makes equivalent software trivially cheap to produce.
 - [INS-260327-3B91] The market has indiscriminately punished all software stocks, but moat-rich companies like Atlassian are being massively oversold while moat-poor ones like Monday may be fairly priced.
 - [INS-260514-5AEF] Diligence any AI product with: 'Show me your benchmarks' AND 'what's the delta vs vanilla Claude Code without your harness?' — if they can't answer, they have no moat beyond the base model.
+- [INS-260626-ACE3] The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.
 
 ## investing/bubbles
 - [INS-260323-6351] The two cardinal rules of investing: only use money you don't need short-term, and never leverage your portfolio — because black swan events can halve any stock overnight.
@@ -1933,6 +1958,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260423-E7F5] Jason Lemkin: I'm nervous about exciting AI investors that have very low ACVs right now — their actual TAMs may end up smaller than they look despite the epic numbers.
 - [INS-260423-23E6] Jason Lemkin: I see too many VCs running a pre-AI enabler playbook — when folks fall behind a tick or two, you see kumbaya activity instead of code-red activity.
 - [INS-260605-8A48] Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
+- [INS-260626-5D91] Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -2148,6 +2174,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260412-4127] Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
 - [INS-260412-30EE] Asimov correctly predicted home computers connected to libraries acting as personalized teachers, but wrongly predicted this would make traditional schooling obsolete—the technology existed, the behavioral shift didn't.
 - [INS-260412-95DD] Ken Lay's decision to keep rogue Valhalla traders because they were profitable established the cultural norm that profit excuses misconduct.
+- [INS-260626-2395] Smart people are wrong all the time (the best hitters make out two-thirds of the time); the big management fault is letting after-acquired information seep into your judgment of what someone should have done in the fog of the moment.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -2287,6 +2314,8 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260514-4424] Impressions ≠ attention. 86M Show Speed impressions → minimal sales. One Joe Rogan organic mention → massive sales. Quality-of-attention >> quantity-of-impressions. Marketing spending on raw reach without attention context wastes most of the budget.
 - [INS-260514-C343] The startup roller-coaster always regresses to baseline — internalize that 'things will be okay even when they don't feel okay,' because experience proves the swings normalize with right market + right team.
 - [INS-260514-1C18] Outcomes in fat-tailed domains (college, ads, sales, content) reward volume. Don't apply to 6 colleges — apply to 26. Don't write 1 essay — write 48. Don't run 5 ads — run 1000/day. The unexpected outcomes live in the volume.
+- [INS-260626-DA56] Don't ask people the probability of an event; ask what they'll do if it happens and what they can do cheaply today to mitigate it—the rehearsal itself makes you fastest off the mark.
+- [INS-260626-CAC8] Avoid only fatal or irreversible risk ('don't die, don't go to jail'); everything else is recoverable, and the real danger is being too cautious to do anything worth noticing.
 
 ## psychology/epistemics
 - [INS-260405-2B3F] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
@@ -2310,6 +2339,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260412-AC11] Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
 - [INS-260423-9BA5] Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - [INS-260625-6260] An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
+- [INS-260626-4555] Beginner's mind and willingness to admit you were wrong now beat accumulated strong opinions, because the model keeps making those opinions obsolete.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -3589,6 +3619,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260409-655B] Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
 - [INS-260514-8FF5] YC's 'sell before you build' — fake the front-end, pitch it to real prospects, only build what someone says they'd pay for. The clearest signal you're on the right path is paid commitment, not nodding agreement.
 - [INS-260625-86CA] When customers phone you demanding access right now and follow up the next day if you haven't delivered, that pull — not polite praise — is the unmistakable PMF signal.
+- [INS-260626-75DA] You can't prompt your way to a winning company because customers give you a local-optimum answer shaped by their worldview, not a clean prompt — the unspoken signal is the alpha, and the remaining bottleneck is the wisdom to choose.
 
 ## startups/decision-making
 - [INS-260405-809E] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
@@ -4076,6 +4107,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260625-286E] A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
 - [INS-260625-904E] The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
 - [INS-260625-81D0] Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
+- [INS-260626-526E] A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -5067,6 +5099,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260410-141F] Top performers should trade measurable commitments (e.g. 'I'll be number one in the country') for freedom from internal meetings — bureaucracy kills the sales instinct.
 - [INS-260411-791E] Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
 - [INS-260412-EF0E] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
+- [INS-260626-1745] Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -5313,6 +5346,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260409-4EC0] Early-stage churn is an education problem, not a product problem — fix it with your time, not a roadmap.
 - [INS-260625-AC58] When customers will pay you to figure out a problem before you've written any software — and later chase you down through their own procurement — you've found genuine pull; tire-kickers who are merely interested have not.
 - [INS-260625-088A] Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
+- [INS-260626-D91F] Find what users are already doing (often hacking around your product) and make that easier — don't try to introduce new behavior.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -5693,6 +5727,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260501-3D33] Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes.
 - [INS-260519-E248] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
 - [INS-260625-2A56] Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
+- [INS-260626-6A32] Assume each department may not need a person, let AI claim it first, and optimize headcount for agility — smallest number of the best people.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -5793,6 +5828,7 @@ Generated on 2026-06-26 | 5731 actionable insights
 - [INS-260514-DB02] Costco rotisserie chicken loses money on purpose — it drives customers into the store. Identify your hero product (customers return for it AND buy other things). Kill products customers buy once and never return for, even if margin looks good.
 - [INS-260530-A86A] Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
 - [INS-260603-2FB1] Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
+- [INS-260626-147E] Like Netflix's questions becoming LA media questions rather than SF tech questions, what AI means for law, finance, or film is answered by people who deeply understand those industries.
 
 ## startups/team-building
 - [INS-260405-F378] Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.

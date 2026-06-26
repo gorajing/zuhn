@@ -55,7 +55,6 @@ stance: >-
   a cascade invalidation problem that traditional access-control architectures
   do not solve — derived artifacts retain stale data and stale permissions
 related:
-  - INS-260330-4E68
   - INS-260625-1CB8
   - INS-260605-9523
   - PRI-260320-467A

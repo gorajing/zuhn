@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-7881
   - PRI-260406-4B0E
+  - INS-260626-D65F
   - PRI-260405-BF5B
   - INS-260404-00DE
-  - INS-260423-B612
 evidence:
   - id: INS-260330-B906
     type: TRANSFERS_TO

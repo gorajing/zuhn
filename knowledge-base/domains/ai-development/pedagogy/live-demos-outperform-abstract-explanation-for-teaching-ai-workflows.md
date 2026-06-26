@@ -48,10 +48,10 @@ stance: >-
   knowledge than describing use cases in the abstract.
 related:
   - INS-260327-E75F
+  - INS-260626-23E7
   - INS-260405-2287
   - INS-260322-35FA
   - INS-260323-64A4
-  - INS-260423-AEAD
 ---
 The explicit design choice of the 'How I AI' podcast—live-demo-driven, screen-sharing, short episodes—reflects a pedagogical insight about how AI skill transfer actually works. Abstract descriptions of AI capabilities leave learners without the tacit knowledge of how to prompt, iterate, and recover from failures. A live demo encodes the full decision loop: what to type, how to read the output, when to push further, and when to move on.
 

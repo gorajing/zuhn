@@ -52,7 +52,6 @@ stance: >-
   problem.
 related:
   - INS-260321-7D7C
-  - INS-260322-B33E
   - INS-260325-1F35
   - PRI-260321-AD44
   - INS-260327-77E5
@@ -61,6 +60,7 @@ related:
   - INS-260330-42DE
   - INS-260330-C31B
   - INS-260403-A51A
+  - INS-260403-C709
 ---
 Tao's key framing: human-level AI will already be qualitatively more powerful than humans because it runs in parallel. You cannot make a million copies of Terence Tao, give each a million dollars of compute, and have them work on a million problems simultaneously for subjective centuries. Once AI reaches even intermediate levels, it can do exactly that. The implication is that our entire practice of mathematics — focused on deep attacks on a few important problems — is optimized for human constraints, not for what's actually possible.
 

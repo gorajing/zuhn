@@ -58,9 +58,9 @@ related:
   - INS-260501-4903
   - INS-260625-E7CD
   - INS-260329-9745
+  - INS-260626-715B
   - INS-260514-71A3
   - INS-260330-77A2
-  - INS-260514-817B
 ---
 The conventional GPU development loop is brutally slow: commit code, push to GitHub, build a Docker image, pull it from a registry, load it onto a server, allocate a GPU, then test — and repeat. RunPod's Flash SDK collapses this by letting you mark a single async Python function with an endpoint decorator that packages and deploys *only that function* to a GPU cloud, while the main function, helper functions, and orchestration all keep running on your laptop. File changes are hot-reloaded and repushed automatically.
 

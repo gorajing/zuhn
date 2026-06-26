@@ -1,6 +1,6 @@
 # Topic: productivity
 
-> 18 insights
+> 19 insights
 
 - `INS-260424-50EE` [high] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - `INS-260625-0CAB` [high] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
@@ -19,4 +19,5 @@
 - `INS-260625-0758` [medium] Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
 - `INS-260405-7C86` [medium] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260423-6CC0` [medium] Cody Schneider: I'm comfortable with 15 windows open — I'm about to literally buy a new computer because I need more RAM.
+- `INS-260626-09B3` [medium] When marginal tokens make the output more complete, spend them — token budget is high-ROI leverage, not a cost to minimize.
 - `INS-260405-10DF` [medium] Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.

@@ -54,7 +54,7 @@ related:
   - INS-260403-3548
   - INS-260403-57F6
   - INS-260327-8521
-  - INS-260327-4419
+  - INS-260626-D9CD
 ---
 When Sculley refused to leave PepsiCo for Apple — a rational decision given Pepsi's stability versus a 4-year-old garage startup — Jobs didn't counter with better compensation or logical arguments. Instead, he deployed what became one of the most famous recruiting lines in business history: 'Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?'
 

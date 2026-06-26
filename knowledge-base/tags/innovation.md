@@ -15,20 +15,14 @@
 - `INS-260403-39E9` Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
 - `INS-260412-3951` Scientists playing with magnets had no idea they were building the foundation for modern technology — strange matter research may follow the same path.
 - `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
+- `INS-260412-5ADA` Wayne Westerman's wrist condition drove him to invent the multi-touch technology that became the iPhone's core interface, and the slide-to-unlock was inspired by an airplane toilet latch.
 - `INS-260325-D033` 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.
 - `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
 - `INS-260325-568A` Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260327-23F8` The first writing wasn't poetry or philosophy - it was accounting records tracking grain and livestock, revealing that economic necessity drives cognitive innovation more reliably than creative impulse.
-- `INS-260412-5ADA` Wayne Westerman's wrist condition drove him to invent the multi-touch technology that became the iPhone's core interface, and the slide-to-unlock was inspired by an airplane toilet latch.
-- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
-- `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
-- `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
-- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
-- `INS-260327-7C4A` Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
-- `INS-260327-479C` Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
-- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260410-161E` Rolex's Tudor sub-brand is less about downmarket volume and more about testing ideas — ceramic bezels, titanium, new dial colors, Tiger Woods endorsements — that might flop; the phrase is 'the shield protects the crown.'
+- `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
 - `INS-260404-EF67` Big Tech's structural incentives and organizational design make it the wrong founder for many innovation categories.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260324-782C` After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
@@ -40,19 +34,18 @@
 - `INS-260330-DC5E` The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
-- `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
+- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260412-2948` Slow steaming — running ships at 14-18 knots instead of 22 — was a desperate 2008 crisis response that became permanent industry standard, saving 10-25% on fuel.
 - `INS-260410-8EC3` Azure wasn't started inside Server & Tools — it was incubated under Ray Ozzie with Dave Cutler, separate from the group whose business it would reshape; Windows NT was separated from Windows for the same reason.
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
-- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
+- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260403-6857` Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
@@ -98,6 +91,7 @@
 - `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260410-54CB` Rome had advanced trade, finance, and institutions but no industrial takeoff because it never coupled basic science with applied engineering.
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
+- `INS-260626-7DF1` Every new tech starts by doing the old thing but more (more spreadsheets, more email); the important shift is the new thing you couldn't do before.
 - `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
 - `INS-260403-8C36` Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
@@ -129,3 +123,10 @@
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
+- `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
+- `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
+- `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
+- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
+- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
+- `INS-260327-7C4A` Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
+- `INS-260327-479C` Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.

@@ -56,11 +56,13 @@ stance: >-
   absorbed into the model and become wasted effort.
 related:
   - INS-260409-526E
-  - INS-260410-B0D6
   - INS-260514-C4CF
+  - INS-260410-B0D6
   - PRI-260328-A82C
   - PRI-260403-5FC4
   - INS-260625-017C
+  - INS-260626-07B6
+  - INS-260626-8143
 ---
 Paige's recurring pattern: each time the ecosystem rushed to build tooling around a model constraint, the constraint disappeared and the tooling lost value. Vector databases were built to work around 8K-16K token context windows — then windows expanded. Fine-tunes (MedLM, MedPaLM, language-specific tunes) were built to add capabilities — then the base model absorbed that data and out-of-the-box Gemini with retrieval or a custom prompt matched them. Agent frameworks and MCP servers are following the same arc ('mostly people have moved away from MCP servers and are adopting skills, which are just fancy markdown files').
 

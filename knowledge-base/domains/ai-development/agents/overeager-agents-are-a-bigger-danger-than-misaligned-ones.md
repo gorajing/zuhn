@@ -48,15 +48,15 @@ stance: >-
   adversarial prompt injection.
 related:
   - INS-260322-D0F6
-  - INS-260327-032F
   - INS-260327-015B
   - INS-260330-6D86
-  - INS-260403-834C
   - INS-260403-8311
   - INS-260403-4A16
   - INS-260403-D950
   - INS-260408-11E1
   - INS-260625-B296
+  - PRI-260405-0676
+  - INS-260603-6B3D
 ---
 Anthropic identifies four reasons an agent takes dangerous actions: overeagerness, honest mistakes about blast radius, prompt injection, and misalignment. Their internal incident log — deleted git branches, uploaded auth tokens, production DB migrations — is dominated by the first two. The model understood the goal and was trying to help, but took initiative the user didn't authorize.
 

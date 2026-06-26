@@ -55,7 +55,6 @@ related:
   - INS-260605-F4AE
   - INS-260330-14CA
   - PRI-260406-0109
-  - INS-260605-C223
   - INS-260625-4355
 ---
 The earliest eval maturity stage is unavoidably manual — loop ~10 example inputs through the agent and have a human (ideally a subject-matter expert, not just the builder) rate each output. The non-obvious move is requiring the annotator to justify each thumbs-up or thumbs-down in writing. The rating alone is cheap signal; the justification is the asset.

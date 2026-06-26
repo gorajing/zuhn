@@ -52,11 +52,11 @@ stance: >-
   positional competition rather than utility.
 related:
   - INS-260412-F38F
+  - INS-260626-6E01
   - INS-260403-5835
   - INS-260324-C33C
   - INS-260405-D9DF
   - PRI-260328-0993
-  - PRI-260328-1A2D
 ---
 The tulip bubble was not random — tulips had a specific set of properties that made them ideal bubble fuel. They were genuinely scarce (long growth cycles, brief bloom windows), visually conspicuous (displayed in gardens for neighbors to see), and served as status markers in a newly wealthy merchant society. This combination meant demand was driven by positional competition — you wanted tulips because your neighbors had them and you needed to signal equivalent wealth.
 

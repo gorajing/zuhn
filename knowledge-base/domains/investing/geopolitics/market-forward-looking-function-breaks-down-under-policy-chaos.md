@@ -48,12 +48,13 @@ stance: >-
   predictive capacity and become pure noise.
 related:
   - INS-260323-7403
-  - INS-260325-9F41
   - PRI-260407-40F9
   - PRI-260406-1115
+  - INS-260325-9F41
   - INS-260405-809E
   - INS-260403-B228
   - INS-260327-99CE
+  - INS-260626-DA56
 evidence:
   - id: INS-260323-7403
     type: EXTENDS

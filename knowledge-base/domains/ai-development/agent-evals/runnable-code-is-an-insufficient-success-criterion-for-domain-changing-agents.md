@@ -46,11 +46,11 @@ stance: >-
   semantics, not just compilation, local tests, or task completion.
 related:
   - INS-260625-1826
+  - INS-260626-DCB8
   - INS-260605-6444
   - INS-260625-A5E7
   - INS-260530-D34F
   - INS-260605-36E9
-  - INS-260625-52C0
   - INS-260626-B7EB
 ---
 NOVA's central failure mode is a recommender architecture edit that compiles and trains but violates model semantics, such as mask direction, feature routing, attention structure, or logit-fusion logic. The paper calls these silent failures because ordinary software checks may pass while offline AUC, calibration, or business metrics degrade.

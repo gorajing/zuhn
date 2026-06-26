@@ -1,6 +1,6 @@
 # Topic: organizational-design
 
-> 28 insights
+> 29 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260605-C632` [high] Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
@@ -18,6 +18,7 @@
 - `INS-260410-C4BB` [high] Kelly Johnson built the first US jet fighter in 143 days with 23 engineers and 30 shop workers in a literal circus tent, codifying it as Skunk Works Rule 3: restrict team size in an almost vicious manner.
 - `INS-260603-63A9` [medium] Harvey (keynote): AI collapses the org horizontally — one person now does multiple functions instead of one specialist per function — and 'if you collapse horizontally, you naturally collapse vertically'; he reads Meta's ~8,000-person layoff (which eliminated many managers, converting them to ICs) as a preview of this.
 - `INS-260412-E2BF` [medium] Aircraft carrier flight decks use color-coded shirts so anyone can instantly identify who does what — a coordination mechanism that scales without verbal communication.
+- `INS-260626-42B5` [medium] Broadcasting every agent conversation to an open internal channel solves learning, onboarding, and security at once — social transparency substitutes for restrictive access controls.
 - `INS-260410-EA73` [medium] Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260522-DB03` [medium] YC Root Access: middle management is done — everyone is an IC/builder/operator, and to get anything done you need a named human DRI, not a committee.
 - `INS-260410-E590` [medium] NVIDIA has 40+ direct reports to Huang because the company is architected like a computing stack — with people managing each layer — not like a military command hierarchy.

@@ -56,6 +56,7 @@ related:
   - PRI-260405-2A11
   - INS-260405-180B
   - INS-260412-1111
+  - INS-260626-80F1
 ---
 A top-tier VC Paul Graham quotes explicitly said a company he just invested in had a business model that would probably change three times. He invested anyway. This is the norm, not the exception. Investors at the seed stage are betting on the problem and the founders, not the revenue model.
 

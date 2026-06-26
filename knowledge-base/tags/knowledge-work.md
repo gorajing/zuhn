@@ -9,6 +9,7 @@
 - `INS-260405-18C8` Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.
 - `INS-260423-4CB1` Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
 - `INS-260625-0758` Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
+- `INS-260626-09B3` When marginal tokens make the output more complete, spend them — token budget is high-ROI leverage, not a cost to minimize.
 - `INS-260405-10DF` Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
 - `INS-260403-B6CD` Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.

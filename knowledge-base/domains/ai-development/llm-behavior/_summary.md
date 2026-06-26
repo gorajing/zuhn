@@ -1,6 +1,6 @@
 # Topic: llm-behavior
 
-> 33 insights
+> 35 insights
 
 - `INS-260625-E1AA` [high] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260410-F5C5` [high] Chat model answers statistically imitate hired human labelers executing company-written instructions, not some emergent AI intelligence.
@@ -19,6 +19,7 @@
 - `INS-260605-7F81` [high] GPT 5.2 High wrote ~1M lines for the same 4,444 Java assignments that GPT-4.0 solved in under 250K lines.
 - `INS-260410-36E3` [high] Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260421-3E99` [high] Context windows grew 2500x since GPT-3 (4K to 10M tokens) but models degrade well before the advertised limit — Gemini 1M stops reliably using context past ~300-500K.
+- `INS-260626-CE12` [high] You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260410-ED12` [high] When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 - `INS-260410-939B` [high] Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - `INS-260605-EA4B` [high] Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
@@ -26,6 +27,7 @@
 - `INS-260405-C17A` [medium] Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260625-F62D` [medium] Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
 - `INS-260605-DD16` [medium] Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
+- `INS-260626-D9CD` [medium] Deploy LLMs where 'what anyone would do' is the goal; the human-held value is where you want a different answer or can't articulate why you did it that way.
 - `INS-260625-3DDC` [medium] When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt.
 - `INS-260605-1CEB` [medium] As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260605-58DA` [medium] Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.

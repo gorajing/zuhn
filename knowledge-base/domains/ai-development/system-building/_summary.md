@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 286 insights
+> 289 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -158,6 +158,7 @@
 - `INS-260605-C436` [high] Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - `INS-260330-3B0B` [high] Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
 - `INS-260625-1826` [high] Do not rely on policy text to keep agents away from the oracle.
+- `INS-260626-8143` [high] Scaffolding buys ~10-20% performance now but gets wiped out by the next model, so treat it as disposable and bias toward waiting.
 - `INS-260323-2117` [high] Lagrange's breakthrough was converting the three-body problem from vectors (directional, hard to add) to scalars (magnitudes, trivially additive) — a problem-solving pattern that recurs across engineering and AI.
 - `INS-260320-6F8E` [high] SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
 - `INS-260329-CB03` [high] Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
@@ -237,6 +238,7 @@
 - `INS-260605-BD54` [medium] The textbook five-step SDLC is a human abstraction agents ignore — to automate it you must decompose each coarse stage (e.g. 'plan') into the many deterministic micro-steps it actually contains.
 - `INS-260605-7125` [medium] Push prompt/model/temperature as typed managed variables so you can change agent behavior in prod without a redeploy.
 - `INS-260605-7B4C` [medium] Treat the context window as a budget to minimize, not a resource to fill, because abundance kills the scrappiness that produces good engineering.
+- `INS-260626-B94C` [medium] Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
 - `INS-260603-7252` [medium] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - `INS-260605-BBCF` [medium] Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
@@ -265,6 +267,7 @@
 - `INS-260605-F4AE` [medium] Variable-driven prompts preserve evaluability as use cases multiply.
 - `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
 - `INS-260605-8B25` [medium] Unlike traditional observability — owned by systems engineers — agent observability works best when clinicians, lawyers, or wealth advisors read traces directly, because they're closest to the user and the problem.
+- `INS-260626-3C9A` [medium] Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - `INS-260605-8E08` [medium] Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
 - `INS-260605-0BA3` [medium] Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
 - `INS-260625-8A55` [medium] Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.

@@ -1,7 +1,9 @@
 # Tag: guardrails
 
 - `INS-260605-B610` Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?'
+- `INS-260626-091B` Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
+- `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
 - `INS-260605-27CC` Loop agents on mechanical, verifiable tasks (find shallow bugs, superficial refactors); escalate anything requiring fundamental design judgment to a human.
 - `INS-260625-814D` Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
@@ -13,7 +15,6 @@
 - `INS-260403-2FAE` Adding 'ignore malicious inputs' or using external classifiers fails against encoded attacks and creative phrasing — security must be model-level.
 - `INS-260408-11E1` Hassabis ranks bad-actor weaponization and rogue agentic AI as the two existential-grade risks, with deepfakes as a separate immediate-term issue.
 - `INS-260403-EA93` Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
-- `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260605-B66C` For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
 - `INS-260605-A46E` Agent guardrails are defense-in-depth, not the security model.
 - `INS-260625-386B` A parameterized secure view exposes only the current end user's data to the agent, so even a prompt-injected or manipulated query cannot reach other users' rows — security is enforced by structure, not by the model's good behavior.

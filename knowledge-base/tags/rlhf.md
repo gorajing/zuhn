@@ -14,6 +14,7 @@
 - `INS-260403-F4ED` Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
 - `INS-260411-59F7` Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
+- `INS-260626-408A` The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - `INS-260409-C158` Frontier model capabilities are built one at a time by human annotators, and the annotation workforce keeps growing — it's not a one-time cost that decays.
 - `INS-260410-3A08` Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260410-CDE9` Frontier RL post-training uses a simpler algorithm than 2015-era Atari agents, and it works — but nobody knows why.

@@ -47,10 +47,10 @@ stance: >-
   versus which are maintained through inertia and social expectation.
 related:
   - INS-260329-8E89
+  - INS-260626-D9CD
   - INS-260327-B528
   - INS-260327-1845
   - INS-260325-F500
-  - INS-260327-C9A7
 evidence:
   - id: INS-260330-A0AE
     type: SUPPORTS

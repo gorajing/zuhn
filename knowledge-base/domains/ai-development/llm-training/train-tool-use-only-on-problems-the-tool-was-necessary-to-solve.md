@@ -60,7 +60,7 @@ related:
   - INS-260625-39E7
   - INS-260625-E292
   - INS-260625-E9A9
-  - INS-260625-D790
+  - INS-260626-CE12
 ---
 START's first training phase (Hint-RFT, hint rejection-sampling fine-tuning) generates many responses per problem via Hint-infer, then applies a sharp selection rule: retain only samples where the tool-augmented process solved the problem correctly but standard inference without tools did not. Responses with repetitive patterns are also discarded, and the survivors are scored before a single response per question is added to the seed dataset (10,000 math + 2,000 code samples), which then trains the base model into 'START-0' via supervised fine-tuning.
 

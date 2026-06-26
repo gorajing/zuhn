@@ -59,7 +59,7 @@ related:
   - INS-260501-AE73
   - INS-260530-D34F
   - INS-260410-E27A
-  - INS-260329-DFD1
+  - INS-260626-485E
 ---
 When a user marks chess commentary as bad in the app, the report posts to Slack and is injected as an event into a continuously running Claude Code session via Channel (an MCP server that pushes events into a live session). Claude Code then runs a custom 'commentary triage' skill outlining how to investigate the position, uses scripts to regenerate commentary, can modify the prompt or create new detectors, verifies its own work, and asks clarifying questions back to Slack. The engineer can be on a bus, answer the agent's question, tell it to submit a PR, review it on GitHub mobile, and merge.
 

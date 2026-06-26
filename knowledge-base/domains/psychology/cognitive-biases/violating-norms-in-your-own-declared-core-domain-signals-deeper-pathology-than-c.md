@@ -52,10 +52,10 @@ stance: >-
   psychologically aberrant than cheating in peripheral activities
 related:
   - INS-260625-D5A7
+  - INS-260626-4075
   - INS-260330-A3AF
   - PRI-260328-E64D
   - INS-260403-0353
-  - PRI-260406-5ECB
 evidence:
   - id: INS-260402-2D7B
     type: TRANSFERS_TO

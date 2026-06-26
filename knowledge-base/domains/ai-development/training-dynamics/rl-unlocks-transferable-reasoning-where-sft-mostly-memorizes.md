@@ -45,7 +45,6 @@ stance: >-
   out-of-domain tasks, whereas supervised fine-tuning on the same data largely
   memorizes it.
 related:
-  - INS-260327-5D5F
   - INS-260330-0A8D
   - INS-260404-CE26
   - INS-260327-79E8
@@ -55,5 +54,6 @@ related:
   - INS-260413-C040
   - INS-260501-FDF0
   - INS-260505-584B
+  - INS-260505-5510
 ---
 SWE-RL compares three models on multiple out-of-domain tasks: the base model, a model supervised-fine-tuned on the pull-request data, and the RL model trained on the same data. The RL model consistently outperforms both — including on tasks that were never part of the RL training set. The interpretation is that RL rewards good reasoning trajectories rather than specific input-output pairs, so it cultivates general problem-solving skills (the paper observes emergent divide-and-conquer and alternative-exploration behaviors), while SFT optimizes for reproducing seen examples and generalizes worse. The practical takeaway: if the goal is transferable capability rather than narrow task fit, RL on outcomes can beat SFT on demonstrations from the very same dataset.

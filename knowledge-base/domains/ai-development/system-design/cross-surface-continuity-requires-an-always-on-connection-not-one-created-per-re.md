@@ -51,8 +51,8 @@ stance: >-
 related:
   - INS-260409-E8B3
   - INS-260605-48CA
+  - INS-260626-42B5
   - INS-260625-2439
   - INS-260625-F3B0
-  - INS-260605-0374
 ---
 Swapping SSE for WebSockets fixes directionality but not multi-surface presence: a second tab that didn't initiate the request still has no visibility into the live stream and no upstream channel to send a follow-up. The deeper fix is that every client holds a persistent connection to an always-active durable session — not a connection that exists only while a single request is in flight. Because the session is a shared resource the agent also sees, any tab or device can both observe ongoing activity and route messages to the agent (e.g., switching to your phone mid-task and saying 'Wednesday, not Tuesday'). Continuity and live control across surfaces fall out of the shared-session design rather than being bolted on.

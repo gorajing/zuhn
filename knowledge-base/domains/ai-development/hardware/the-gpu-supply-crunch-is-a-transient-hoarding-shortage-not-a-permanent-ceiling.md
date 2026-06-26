@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260412-F401
   - INS-260321-D484
+  - INS-260626-6E01
   - INS-260324-4ACD
   - PRI-260403-4612
-  - PRI-260406-C40C
 ---
 The presenter characterized the GPU market as a 'global supply crunch,' explicitly analogizing it to early-COVID panic buying of toilet paper: people over-buy when they can't estimate how much they'll actually need. Crucially, she predicted the market 'will recover as customers, companies, people figure out a little bit better, get a little bit better at estimating what kind of compute they need.'
 

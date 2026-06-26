@@ -1,11 +1,12 @@
 # Topic: product-market-fit
 
-> 12 insights
+> 13 insights
 
 - `INS-260405-5E18` [high] AI PMF is a continuous recalibration process, not a one-time validation milestone.
 - `INS-260405-839E` [high] AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - `INS-260625-AC58` [high] When customers will pay you to figure out a problem before you've written any software — and later chase you down through their own procurement — you've found genuine pull; tire-kickers who are merely interested have not.
 - `INS-260405-95D1` [high] Removing friction meets the baseline; gains require going beyond what customers already expect.
+- `INS-260626-D91F` [high] Find what users are already doing (often hacking around your product) and make that easier — don't try to introduce new behavior.
 - `INS-260625-088A` [high] Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
 - `INS-260405-787F` [high] Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
 - `INS-260405-7305` [high] Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.

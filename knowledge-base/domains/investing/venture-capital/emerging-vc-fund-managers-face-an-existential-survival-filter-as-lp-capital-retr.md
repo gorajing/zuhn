@@ -55,6 +55,7 @@ related:
   - INS-260403-5056
   - INS-260404-C3F1
   - INS-260405-7ABE
+  - INS-260626-5B99
 ---
 The emerging manager landscape has undergone a dramatic contraction, with fundraising dropping 75% from 2021 peaks. This isn't merely a cyclical correction — it reflects LPs consolidating into established managers with proven track records after being burned by the 2021 vintage. New fund managers now need what the article describes as 'a killer edge, perfect timing, or a powerful story' to survive.
 

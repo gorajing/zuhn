@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 133 insights
+> 138 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -30,6 +30,8 @@
 - `INS-260403-82E0` [high] Investors should prioritize AI application-layer companies with workflow embedding, data flywheels, and strong net revenue retention over foundational model plays.
 - `INS-260327-7214` [high] Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-42F0` [high] Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
+- `INS-260626-D14F` [high] The 'horseless carriages' mistake is slotting a little AI inside a lot of deterministic software with the prompt hidden from the user; AI-native software inverts this so an agent wraps small deterministic tools and the user controls the prompt.
+- `INS-260626-22D2` [high] Aim your product at the model six months from now, then wait for capability to catch up to it.
 - `INS-260625-7B5C` [high] Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 - `INS-260327-1C7C` [high] Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
 - `INS-260625-CF91` [high] Architect the product so model progress is a tailwind you absorb, not a rebuild you fund.
@@ -39,6 +41,7 @@
 - `INS-260323-8555` [high] Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260329-44C9` [high] Figma-first design eliminates the ambiguity that causes AI code editors to hallucinate features and layouts.
 - `INS-260325-040F` [high] AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
+- `INS-260626-715B` [high] Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
 - `INS-260403-990E` [high] AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
 - `INS-260403-9A0F` [high] Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
 - `INS-260327-4CB3` [high] Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.
@@ -53,6 +56,7 @@
 - `INS-260325-FBE5` [high] a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
 - `INS-260327-540D` [high] Sequoia frames the enterprise AI opportunity as a spectrum from bottoms-up tools to top-down solutions — and solution companies like Harvey, Sierra, and Pace are fundamentally selling trust that AI will work for the customer's specific needs.
 - `INS-260327-D65E` [high] OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
+- `INS-260626-07B6` [high] Bet that model capability is unlimited and sell the permissions, approvals, audits, and guardrails that let enterprises actually deploy it.
 - `INS-260605-8691` [high] Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260327-0246` [high] Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
 - `INS-260325-B1D8` [high] Sequoia-backed founder Kisson Lin: memory is to AI what data was to internet — the next moat is context accumulation, not intelligence.
@@ -115,6 +119,7 @@
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
 - `INS-260624-5865` [medium] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260424-5759` [medium] Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic.
+- `INS-260626-80F1` [medium] Static models make the same mistakes tomorrow they made today; products that learn from user signal compound a flywheel competitors can't replicate.
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
 - `INS-260625-0686` [medium] Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.

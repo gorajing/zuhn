@@ -57,7 +57,6 @@ stance: >-
   (grounding-required), and autonomous execution (formal verification-required)
   — and apply different governance to each.
 related:
-  - INS-260321-1A03
   - INS-260403-2C15
   - INS-260409-55F6
   - INS-260410-3075

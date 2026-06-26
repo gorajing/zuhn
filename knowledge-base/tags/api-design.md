@@ -14,3 +14,4 @@
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260329-ACEB` Using tuples for coordinates signals 'this data is fixed' at the type level, making the constraint impossible to violate rather than merely documented.
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
+- `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.

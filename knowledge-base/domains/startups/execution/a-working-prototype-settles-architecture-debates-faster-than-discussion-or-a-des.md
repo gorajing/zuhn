@@ -60,10 +60,10 @@ stance: >-
   formal design process.
 related:
   - INS-260327-A8B6
+  - INS-260626-7F36
   - INS-260409-60C2
   - INS-260409-A8A3
   - INS-260501-0662
-  - PRI-260406-9780
 ---
 One of Databricks' most strategic recent moves — the LTAP storage change that transcodes row-oriented database pages into columnar Parquet — was deadlocked in repeated meetings arguing from first principles about whether it was even possible. Xin notes there was no kickoff, no design doc, nothing formal: an engineer 'just did it,' observed that the storage fleet had idle CPUs to do the transcoding and that columnar data actually compressed smaller (so writes got faster, not slower), and the debate was over. Zaharia generalizes the pattern: a doc invites endless 'what about this?' objections, but a prototype that real users or real workloads can bash against produces evidence that ends the argument.
 

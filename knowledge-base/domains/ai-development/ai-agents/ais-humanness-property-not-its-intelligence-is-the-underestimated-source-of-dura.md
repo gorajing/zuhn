@@ -40,11 +40,11 @@ stance: >-
   feel things, which will prove to be its most defensible and market-creating
   attribute.
 related:
+  - INS-260626-D65F
   - INS-260605-48D1
   - INS-260403-0949
   - INS-260329-12EA
   - INS-260327-1795
-  - INS-260322-4090
 evidence:
   - id: INS-260403-0949
     type: SUPPORTS

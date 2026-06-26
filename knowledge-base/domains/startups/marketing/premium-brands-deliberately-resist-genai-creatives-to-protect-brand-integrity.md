@@ -69,9 +69,9 @@ related:
   - INS-260403-F66B
   - INS-260409-2E31
   - INS-260410-161E
-  - INS-260410-7B46
   - INS-260603-6D08
   - PRI-260406-1A55
+  - INS-260603-46AE
 ---
 There's a naive assumption that any cost-collapsing technology gets adopted fastest by the players with the most to gain. The luxury-brand case inverts this: premium brands are the slowest GenAI-creative adopters, and that slowness is deliberate, not laggard. Their brand image depends on tight control and curation; mass-generated creative dilutes exactly the scarcity/craft signal that justifies the premium.
 

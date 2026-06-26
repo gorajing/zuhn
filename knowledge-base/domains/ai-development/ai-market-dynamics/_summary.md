@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 179 insights
+> 182 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -109,6 +109,7 @@
 - `INS-260514-B4A2` [high] Copilot: from 'some number of actions per month' to 'this many tokens per month' — the cheap-AI era is over.
 - `INS-260327-40DA` [high] Despite rapid benchmark progress, the gap between solving hour-long competition problems and month-long research problems remains a 1000x scaling challenge.
 - `INS-260323-216A` [high] Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
+- `INS-260626-2B7F` [high] Whether there are a couple or five frontier labs sets token prices, and token prices in turn govern how value is split between labs, applications, and labor — making lab market structure the biggest knowable-unknown in AI.
 - `INS-260321-015B` [high] Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
 - `INS-260403-9CC1` [high] AI companies are scaling revenue at rates never seen before, concentrating market leadership rapidly.
 - `INS-260321-FD14` [high] Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
@@ -129,6 +130,7 @@
 - `INS-260403-3760` [medium] AI is enabling outcome-based legal services that bypass the traditional billable-hour model, creating a massive new market.
 - `INS-260323-F204` [medium] AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260403-2183` [medium] Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
+- `INS-260626-5B99` [medium] Roughly 40% of the Forbes AI 50 churned off the list in a single year, signaling that AI leadership has an unusually short half-life and first-mover position does not equal eventual value capture.
 - `INS-260404-CC8B` [medium] Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260323-0B52` [medium] The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260423-F124` [medium] Aaron Levie on services: 100 percent — these spaces are going to be bigger and more sustainable than people realize, because we're nowhere near eliminating the human from the workflow.
@@ -151,6 +153,7 @@
 - `INS-260423-E12B` [medium] Aaron Levie: tech is only 8-12-15 percent of GDP; what happens when 85 percent of the economy gets access to engineering like tech has always had? CS grads go to John Deere, Caterpillar, or Eli Lilly, not Google.
 - `INS-260330-AB67` [medium] Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption.
 - `INS-260404-C5B7` [medium] The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
+- `INS-260626-6D2E` [medium] Models lack network effects, durable differentiation, and OS-level control, so value moves up the stack and providers behave like chips/ISPs/telcos rather than Windows/iOS.
 - `INS-260403-504D` [medium] Being the only AI vendor integrated into classified systems creates leverage so strong that the government prefers coercion over switching.
 - `INS-260404-5CFB` [medium] Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
 - `INS-260409-F0F5` [medium] Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.

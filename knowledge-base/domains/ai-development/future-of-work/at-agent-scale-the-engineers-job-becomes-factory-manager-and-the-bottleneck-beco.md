@@ -53,7 +53,7 @@ related:
   - INS-260605-A803
   - INS-260625-1520
   - INS-260409-F9D5
+  - INS-260626-75DA
   - INS-260605-BAB5
-  - INS-260321-7D76
 ---
 Koc frames the shift with an Industrial Revolution analogy: craftsmen weavers became factory workers, and now engineers writing code in editors are becoming factory managers of agent swarms across repos. The bottleneck is no longer the hands that type but taste. He stresses that the differentiating skill is managerial and social — 'how do you ask your agent what's going on, how do you know when they're not bullshitting you, how do you run that factory' — and notes his own edge came from years managing 30-40 person AI teams. Critically, when tokens are cheap you can merge everything, but that turns the codebase into a 'fire dump'; the real engineering judgment is curation and refusal. People managing 10+ agents struggle the same way they'd struggle managing 10+ staff, which is why he treats the problem as a management discipline rather than a prompting one.

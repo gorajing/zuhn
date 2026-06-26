@@ -1,7 +1,8 @@
 # Topic: robotics
 
-> 9 insights
+> 10 insights
 
+- `INS-260626-56AC` [high] An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo.
 - `INS-260625-1654` [high] Scientific autonomy is a cyber-physical stack, not just a model call.
 - `INS-260412-C436` [high] MIT's SoFi fish robot demonstrates that matching the form factor of the environment's inhabitants is the key to undetected, close-range study.
 - `INS-260603-DDE4` [high] William Santana Lee (Knightscope, 13yr autonomous): physical AI is 'pain, suffering, and tears' — the reality check where everything that worked in the conference room fails in the real world; the only way to make it work is to deploy and bump your head until you figure it out, not to perfect it in code/simulation.

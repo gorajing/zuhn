@@ -49,7 +49,6 @@ related:
   - INS-260327-DECA
   - INS-260330-BE23
   - INS-260403-7F89
-  - INS-260605-9527
 stance: >-
   A common mistake is automating wherever it's easiest rather than wherever the
   constraint actually is

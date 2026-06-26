@@ -53,7 +53,7 @@ related:
   - INS-260605-3AB7
   - INS-260605-EF3C
   - INS-260412-D031
-  - INS-260605-077D
+  - INS-260626-42B5
   - INS-260501-9E23
 ---
 David Sacks notes that he is 'waiting for the Google version of open Claude' because he doesn't want to share all his documents with a new service. This generalizes into a moat: the biggest barrier for agentic products is convincing users to hand over deep personal data (email, calendar, files), and Google already has it. A year ago, the pod was bearish on Google because ChatGPT was replacing search; now Gemini + existing data access make Google one of the strongest bets in personal AI. The implication for startups building agentic consumer products is sobering — they have to pay a trust tax that Google does not.

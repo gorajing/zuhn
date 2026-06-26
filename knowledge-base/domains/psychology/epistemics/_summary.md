@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 84 insights
+> 85 insights
 
 - `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - `INS-260412-CC9E` [high] At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
@@ -81,6 +81,7 @@
 - `INS-260409-A62B` [medium] Galef: 'Those are mental and emotional habits; and I think training those habits through repeated practice is quite important' — scout thinking transfers from ideologically low-stakes domains (politics you don't care about, arguments you aren't emotionally invested in) to high-stakes personal decisions where accuracy actually matters.
 - `INS-260409-A239` [medium] Treating your current self-model as untrustworthy is a generative stance when paired with willingness to act on better evidence, not a paralysis.
 - `INS-260412-404F` [medium] Terraforming Venus requires no new physics — just thin foil mirrors, mass drivers, and cyanobacteria deployed at extraordinary scale.
+- `INS-260626-4555` [medium] Beginner's mind and willingness to admit you were wrong now beat accumulated strong opinions, because the model keeps making those opinions obsolete.
 - `INS-260409-AD3B` [medium] Galef: 'I hate waste... there's all of this unnecessary waste happening where people are leaving value on the table' — the case for scout thinking is efficiency, not morality. Sacrificing accuracy for comfort has compounding costs across thousands of life decisions that usually exceed the emotional benefit.
 - `INS-260423-CA05` [medium] Daniel Schmachtenberger (via Dan Koe): substrate is what something needs to exist — soil for plants, attention for media, trust for markets; when systems consume their foundation faster than it can regenerate, collapse follows.
 - `INS-260409-D603` [medium] Freedman's 2024 JWST analysis produced ~68-70 from red giants and JAGB stars but ~72 from Cepheids using the same telescope — an internal disagreement that suggests the problem may be in the distance ladder's calibration assumptions, not in the comparison to the CMB.

@@ -9,6 +9,7 @@
 - `INS-260605-58DA` Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
 - `INS-260625-96AA` Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session.
 - `INS-260403-26D4` Smart AI companies build cost moats through hybrid retrieval layers, intelligent caching, and model routing rather than competing on raw feature parity.
+- `INS-260626-715B` Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
 - `INS-260605-8F3D` Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260330-81A7` Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260329-C1A4` Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.

@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260323-97A1
   - INS-260323-95FE
-  - INS-260329-C81C
   - INS-260330-0BD3
   - INS-260330-990F
   - INS-260330-04C0
@@ -59,6 +58,7 @@ related:
   - INS-260412-8AB6
   - INS-260330-636E
   - INS-260412-BA99
+  - INS-260330-4370
 evidence:
   - id: INS-260330-4370
     type: CONTRADICTS

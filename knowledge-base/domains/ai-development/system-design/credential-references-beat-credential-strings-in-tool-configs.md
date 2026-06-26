@@ -42,11 +42,11 @@ stance: >-
   embedding secret strings, so credentials resolve at invocation time outside
   the model-visible harness surface.
 related:
+  - INS-260626-60DB
   - INS-260412-1440
   - INS-260329-C81C
   - INS-260405-B22F
   - INS-260410-992A
-  - INS-260605-4877
 ---
 AgentCore's documentation shows remote MCP tools using AgentCore Identity Token Vault ARNs inside headers, with the ARN resolved to the actual API key at invocation time. It also recommends Gateway and Identity for managed credential rotation and OAuth-protected tools.
 

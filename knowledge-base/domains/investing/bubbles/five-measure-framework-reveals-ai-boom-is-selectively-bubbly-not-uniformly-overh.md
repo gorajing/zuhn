@@ -50,11 +50,11 @@ stance: >-
   economic fundamentals, making it a partial bubble that will correct unevenly
   rather than collapse uniformly.
 related:
+  - INS-260626-6E01
   - PRI-260403-2927
   - INS-260403-9E4D
   - INS-260412-9E3A
   - PRI-260412-30DA
-  - PRI-260328-8284
 ---
 Azeem Azhar and Nathan Warren propose evaluating the AI boom against five historical bubble measures: economic strain, realized returns, valuation levels, funding quality, and speculative behavior. Unlike the dot-com era where all five metrics flashed red simultaneously, AI appears to be selectively overheated.
 

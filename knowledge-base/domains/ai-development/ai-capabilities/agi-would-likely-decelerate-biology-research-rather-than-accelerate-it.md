@@ -68,11 +68,10 @@ related:
   - PRI-260325-3A00
   - INS-260327-4E8E
   - INS-260327-F232
-  - INS-260403-BF09
   - INS-260323-BA00
-  - INS-260410-1AF0
   - PRI-260411-FB73
   - INS-260514-D3CB
+  - INS-260410-1AF0
   - INS-260514-CA00
 ---
 When asked whether a million copies of himself running in a data center would 10x biology progress, Church argued it would likely eliminate it. His first concern is safety: we lack assurance that ASI would remain aligned. But setting safety aside, his substantive argument is twofold. First, a silicon AGI would conclude biology is not relevant to its own existence — why would it allocate cycles to wet lab design when it is not made of cells? Second, biology progress is fundamentally gated by experimental throughput: 'if you have nine women, can you do pregnancy in one month? No.' More thinking does not collapse the time it takes to grow an organoid, run a clinical trial, or iterate through safety testing.

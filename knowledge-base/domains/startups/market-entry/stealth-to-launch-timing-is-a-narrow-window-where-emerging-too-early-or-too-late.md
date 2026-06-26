@@ -48,7 +48,6 @@ stance: >-
   validated demand from a trusted user group, not by product completeness
 related:
   - INS-260405-6524
-  - INS-260405-D9DF
   - INS-260405-AA34
   - INS-260404-A032
   - INS-260404-DF88
@@ -57,6 +56,7 @@ related:
   - INS-260403-C949
   - INS-260403-94EB
   - INS-260402-EA72
+  - INS-260403-C7E3
 ---
 The article identifies three launch readiness signals: market-ready product validated by trusted users, IP protections in place, and a prepared go-to-market strategy. What's notable is that stealth startups lack the continuous market calibration that public startups get, making their timing decision higher-stakes.
 

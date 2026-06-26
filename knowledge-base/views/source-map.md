@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-26 | 3006 sources
+Generated on 2026-06-26 | 3038 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,9 +180,9 @@ Generated on 2026-06-26 | 3006 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
@@ -882,6 +882,7 @@ Generated on 2026-06-26 | 3006 sources
 | Epic Systems (MyChart) | youtube | 5 | 2026-04-11 |
 | Evals Are Broken, Use Them Anyway — Ara Khan, Cline | youtube | 5 | 2026-06-25 |
 | Every Country in the World (Part 1) | youtube | 5 | 2026-04-12 |
+| ⚡️Every product of the future will be a living system  — Ronak Malde, Trajectory.ai | youtube | 5 | 2026-06-26 |
 | Everything We Teach at YCombinator in 10 Minutes | youtube | 5 | 2026-03-27 |
 | Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop | youtube | 5 | 2026-06-05 |
 | Evolution designed us to die fast; we can change that — Jacob Kimmel | youtube | 5 | 2026-04-10 |
@@ -908,6 +909,7 @@ Generated on 2026-06-26 | 3006 sources
 | Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs | youtube | 5 | 2026-06-05 |
 | God-Tier Developer Roadmap | youtube | 5 | 2026-03-30 |
 | GOING SUPERSONIC with U.S. Air Force Thunderbirds! Pulling 7 G's in an F-16 -Smarter Every Day 235 | youtube | 5 | 2026-03-30 |
+| Goldman Sachs Chairman on Why Finance Adopts AI Differently | a16z | youtube | 5 | 2026-06-26 |
 | Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness | youtube | 5 | 2026-06-25 |
 | Google Part I: Origins of Search. How the Best Business in Human History Happened (Audio) | youtube | 5 | 2026-04-11 |
 | Google Part II: Alphabet (Audio) | youtube | 5 | 2026-04-11 |
@@ -992,11 +994,13 @@ Generated on 2026-06-26 | 3006 sources
 | Inference, Diffusion, World Models, and More | YC Paper Club | youtube | 5 | 2026-06-26 |
 | Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | youtube | 5 | 2026-03-23 |
 | Inside a16z’s Top 100 AI Apps Report with Olivia Moore | youtube | 5 | 2026-03-22 |
+| Inside Claude Code With Its Creator Boris Cherny | youtube | 5 | 2026-06-26 |
 | Inside Palantir: Building Software That Matters | Shyam Sankar on a16z | youtube | 5 | 2026-03-22 |
 | Inside The Navy's Indoor Ocean | youtube | 5 | 2026-03-30 |
 | Inside the New Media Team with Marc Andreessen & Ben Horowitz | youtube | 5 | 2026-03-22 |
 | Inside the Rise of Autonomous AI Hackers: XBOW's Oege de Moor | youtube | 5 | 2026-06-26 |
 | Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and Video Agents— Ethan He | youtube | 5 | 2026-06-26 |
+| Inside YC's AI Playbook | youtube | 5 | 2026-06-26 |
 | Introducing WebMCP: Agents in the Browser — RL Nabors | youtube | 5 | 2026-06-05 |
 | Is Amazon Too Big? | youtube | 5 | 2026-03-30 |
 | Is Reality Real? The Simulation Argument | youtube | 5 | 2026-04-12 |
@@ -1031,6 +1035,7 @@ Generated on 2026-06-26 | 3006 sources
 | Loneliness | youtube | 5 | 2026-04-12 |
 | Major Breakthrough: Graphene Batteries FINALLY Hit the Market | youtube | 5 | 2026-04-12 |
 | Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate | youtube | 5 | 2026-06-05 |
+| ⚡️Making DeepSeek v4 outperform Opus 4.7 with Taste — @AhmadAwais , CommandCode.ai | youtube | 5 | 2026-06-26 |
 | Male inequality, explained by an expert | Richard Reeves | youtube | 5 | 2026-03-30 |
 | Malleable Evals: Why Are We Evaluating Adaptive Systems with Static Tests? — Vincent Koc, OpenClaw | youtube | 5 | 2026-06-05 |
 | Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI | youtube | 5 | 2026-03-22 |
@@ -1079,6 +1084,7 @@ Generated on 2026-06-26 | 3006 sources
 | Ralph Loops: Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick | youtube | 5 | 2026-06-05 |
 | Reachy Mini: the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face | youtube | 5 | 2026-06-05 |
 | Real vs Fake Startups | youtube | 5 | 2026-03-29 |
+| Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch | youtube | 5 | 2026-06-26 |
 | Recursive Coding Agents - Raymond Weitekamp, OpenProse | youtube | 5 | 2026-06-26 |
 | Reddit vs Wallstreet - GameStop, The Movie | youtube | 5 | 2026-04-12 |
 | Renaissance Technologies (Audio) | youtube | 5 | 2026-04-11 |
@@ -1160,6 +1166,7 @@ Generated on 2026-06-26 | 3006 sources
 | The CRAZY Truth About McDonald's | youtube | 5 | 2026-03-30 |
 | The Deadliest Being on Planet Earth – The Bacteriophage | youtube | 5 | 2026-04-12 |
 | The Disturbing History of Coca-Cola | youtube | 5 | 2026-03-30 |
+| The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z | youtube | 5 | 2026-06-26 |
 | The Economics of Airline Class | youtube | 5 | 2026-04-12 |
 | The Economics of Private Jets | youtube | 5 | 2026-04-12 |
 | The Electric Vehicle Charging Problem | youtube | 5 | 2026-04-12 |
@@ -1175,6 +1182,7 @@ Generated on 2026-06-26 | 3006 sources
 | The INSANE Story of Domino's Pizza | youtube | 5 | 2026-03-30 |
 | The INSANE Truth About TikTok | youtube | 5 | 2026-03-30 |
 | The Jamie Dimon Interview: How JP Morgan Became an $800 Billion Bank | youtube | 5 | 2026-04-11 |
+| 🔬 The Limits of AI in Science - Why We Need Self-Driving Labs — Joseph Krause, Radical AI | youtube | 5 | 2026-06-26 |
 | The Log Is The Agent - Ishaan Sehgal, Omnara | youtube | 5 | 2026-06-26 |
 | The Man Who Accidentally Killed The Most People In History | youtube | 5 | 2026-03-30 |
 | The Man Who Robbed An Entire Country | youtube | 5 | 2026-03-30 |
@@ -1184,10 +1192,12 @@ Generated on 2026-06-26 | 3006 sources
 | The Missing Primitive for Agent Swarms — Lou Bichard, Ona | youtube | 5 | 2026-06-05 |
 | The Modern Middle East, Explained | youtube | 5 | 2026-03-27 |
 | The Mom Who Mastered Claude: How To Build An Audience That Buys Using Claude Code (Step by Step!) | youtube | 5 | 2026-05-14 |
+| The Most AI-Pilled CEO We Know | youtube | 5 | 2026-06-26 |
 | The Most Illegal Business In The World: Silk Road | youtube | 5 | 2026-03-30 |
 | The most important question nobody's asking about AI. | youtube | 5 | 2026-05-02 |
 | The Most Valuable Airspace in the World | youtube | 5 | 2026-04-12 |
 | The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory | youtube | 5 | 2026-06-05 |
+| The New Rule for Picking AI Winners | The a16z Show | youtube | 5 | 2026-06-26 |
 | The Playbook: Lessons from 200+ Company Stories | youtube | 5 | 2026-04-11 |
 | The Power of Suggestion | youtube | 5 | 2026-03-30 |
 | The Power of Vulnerability | Brené Brown | TED | youtube | 5 | 2026-03-27 |
@@ -1219,6 +1229,7 @@ Generated on 2026-06-26 | 3006 sources
 | This Virus Shouldn't Exist (But it Does) | youtube | 5 | 2026-04-12 |
 | Three Men Lost in Space – The Apollo 13 Disaster | youtube | 5 | 2026-04-12 |
 | TLMs: Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google | youtube | 5 | 2026-06-05 |
+| Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers | youtube | 5 | 2026-06-26 |
 | Trader Joe’s (Audio) | youtube | 5 | 2026-04-11 |
 | Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs | youtube | 5 | 2026-06-05 |
 | Transformers, the tech behind LLMs | Deep Learning Chapter 5 | youtube | 5 | 2026-03-30 |
@@ -1256,6 +1267,7 @@ Generated on 2026-06-26 | 3006 sources
 | Why AI is Failing: Ex-Google Chief Cassie Kozyrkov Debunks "AI-first" | youtube | 5 | 2026-03-23 |
 | Why AI Labs With Unlimited GPUs Still Fail — Anjney Midha, AMP | youtube | 5 | 2026-06-25 |
 | Why AI Moats Still Matter (And How They've Changed) | youtube | 5 | 2026-03-22 |
+| Why Attention is Becoming a Competitive Advantage | a16z | youtube | 5 | 2026-06-26 |
 | Why Can't Anyone Answer Questions About the Business? — Garrett Galow, WorkOS | youtube | 5 | 2026-06-25 |
 | Why China Is so Good at Building Railways | youtube | 5 | 2026-04-12 |
 | Why China's manufacturing economy is dominating — Arthur Kroeber | youtube | 5 | 2026-04-10 |
@@ -2802,33 +2814,16 @@ Generated on 2026-06-26 | 3006 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2838,21 +2833,11 @@ Generated on 2026-06-26 | 3006 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
@@ -2865,10 +2850,46 @@ Generated on 2026-06-26 | 3006 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -2908,7 +2929,9 @@ Generated on 2026-06-26 | 3006 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
@@ -2917,6 +2940,7 @@ Generated on 2026-06-26 | 3006 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
@@ -2947,14 +2971,17 @@ Generated on 2026-06-26 | 3006 sources
 | A closer look at Agents CLI | youtube | 0 | 2026-04-24 |
 | A closer look at Gemma 4 with Baseten and NVIDIA | youtube | 0 | 2026-04-24 |
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
+| Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov | youtube | 0 | 2026-06-26 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
+| AI That Designs Its Own Chips: Ricursive's Anna Goldie and Azalia Mirhoseini | youtube | 0 | 2026-06-26 |
 | Anthropic's Raise & What It Means for Potential IPO? Mag7: Google & Amazon Up, Meta & Microsoft Down | youtube | 0 | 2026-05-14 |
 | Automating Creativity: Building Gen Media Agents with ADK and MCP | youtube | 0 | 2026-04-24 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
 | Box CEO on the AI Adoption Gap | The a16z Show | youtube | 0 | 2026-04-23 |
+| Build connected AI: Orchestrate tools and agents with registries and ADK | youtube | 0 | 2026-06-26 |
 | Building Agents at Home: Homeschooling, Parenting and More | The a16z Show | youtube | 0 | 2026-04-23 |
 | CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
@@ -2962,6 +2989,7 @@ Generated on 2026-06-26 | 3006 sources
 | DINOv3 Paper Explained: The Computer Vision Foundation Model | youtube | 0 | 2026-04-23 |
 | Dylan Patel — The single biggest bottleneck to scaling AI compute | youtube | 0 | 2026-04-23 |
 | ElevenLabs: Building an AI Sales Machine & Why We Set a 20x Sales Quota | youtube | 0 | 2026-04-23 |
+| ElevenLabs' Mati Staniszewski: How Voice Becomes the Interface for AI | youtube | 0 | 2026-06-26 |
 | Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 0 | 2026-04-23 |
 | Everyday Foods that Feed CANCER Cells | youtube | 0 | 2026-04-23 |
 | Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
@@ -2990,6 +3018,7 @@ Generated on 2026-06-26 | 3006 sources
 | mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
 | Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-23 |
 | Nano Banana, Veo, and Lyria: Mastering the Google gen media stack | youtube | 0 | 2026-04-24 |
+| Neuralink's DJ Seo: Inside the Race to Connect Brains and AI | youtube | 0 | 2026-06-26 |
 | Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
 | Oura’s Tom Hale: What People Don’t Tell You About Being CEO | youtube | 0 | 2026-04-23 |
@@ -2998,14 +3027,17 @@ Generated on 2026-06-26 | 3006 sources
 | Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
 | Terence Tao – How the world’s top mathematician uses AI | youtube | 0 | 2026-04-23 |
 | Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z | youtube | 0 | 2026-04-23 |
+| The AI Agent Economy Is Here | youtube | 0 | 2026-06-26 |
 | ⚡️ The best engineers don't write the most code. They delete the most code. — Stay Sassy | youtube | 0 | 2026-04-23 |
 | The Early Days of Anthropic & How 21 of 22 VCs Rejected It | The Four Bottlenecks in AI | Anj Midha | youtube | 0 | 2026-04-23 |
 | The Era of Hierarchical Reasoning Models | youtube | 0 | 2026-04-23 |
 | The GPT Moment for Robotics Is Here | youtube | 0 | 2026-04-23 |
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 0 | 2026-04-23 |
+| The Powerful Alternative To Fine-Tuning | youtube | 0 | 2026-06-26 |
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Claude Feels Different (And What That Means for AI) | The a16z Show | youtube | 0 | 2026-04-23 |
+| Why Data Is the Real AI Bottleneck: Flapping Airplanes' Ben and Asher Spector | youtube | 0 | 2026-06-26 |
 | Why Reinforcement Learning Unlocks Reasoning in LLMs (Aha Moments Explained) | youtube | 0 | 2026-04-23 |

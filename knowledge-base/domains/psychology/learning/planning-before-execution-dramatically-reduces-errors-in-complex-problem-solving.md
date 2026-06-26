@@ -46,13 +46,12 @@ stance: >-
   rather than writing it, and planning via pseudocode or flowcharts before
   coding produces fewer bugs than diving straight into implementation.
 related:
+  - INS-260626-B614
   - INS-260403-0A7A
   - INS-260329-500E
   - INS-260625-1E2C
   - PRI-260403-5B3D
-  - INS-260605-77EB
   - INS-260330-0E6E
-  - INS-260403-FF4E
   - INS-260405-A6BA
   - INS-260323-AF96
   - INS-260605-89B0

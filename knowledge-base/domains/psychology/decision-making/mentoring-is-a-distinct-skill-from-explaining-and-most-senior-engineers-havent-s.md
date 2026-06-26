@@ -62,7 +62,6 @@ stance: >-
   create better learning.
 related:
   - INS-260329-FA1C
-  - INS-260330-27DD
   - INS-260330-35CB
   - INS-260403-772D
   - INS-260514-9D0A

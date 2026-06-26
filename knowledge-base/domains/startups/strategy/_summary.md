@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 282 insights
+> 283 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -280,6 +280,7 @@
 - `INS-260404-0A17` [medium] Business model innovation exists on a continuum from incremental improvement to radical invention, not as a binary choice.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
+- `INS-260626-147E` [medium] Like Netflix's questions becoming LA media questions rather than SF tech questions, what AI means for law, finance, or film is answered by people who deeply understand those industries.
 - `INS-260403-DC59` [medium] Women founders disproportionately build in massive but overlooked markets like FemTech ($1.1T by 2027), caregiving, and community health — gaining sharper product-market fit from Day 1 because they've lived the problem.
 - `INS-260330-B27A` [medium] LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
 - `INS-260403-6CB4` [medium] Use of Funds and valuation should be live outputs that update automatically as the operating plan changes, not hand-crafted presentation slides.

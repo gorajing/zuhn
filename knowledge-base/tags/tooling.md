@@ -7,13 +7,15 @@
 - `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
 - `INS-260605-5404` GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260605-BAB5` MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
+- `INS-260626-40DF` Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
 - `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.
-- `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260605-E706` Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
+- `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
 - `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260625-81E1` The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
+- `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
 - `INS-260402-E470` Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260403-E4DD` Fragmented financial tracking across multiple tools creates version control chaos and mismatched assumptions that unravel during investor due diligence.

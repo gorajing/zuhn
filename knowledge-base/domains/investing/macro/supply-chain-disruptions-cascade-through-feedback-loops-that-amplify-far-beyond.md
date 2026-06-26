@@ -51,7 +51,6 @@ stance: >-
   where each bottleneck compounds others, making the aggregate disruption
   exponentially larger than the triggering event.
 related:
-  - INS-260405-BDA0
   - INS-260412-A77B
   - INS-260412-10F1
   - INS-260625-0A3D

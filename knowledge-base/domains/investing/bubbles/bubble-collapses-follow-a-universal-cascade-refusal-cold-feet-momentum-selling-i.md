@@ -51,10 +51,10 @@ stance: >-
   triggering a self-reinforcing liquidation cascade.
 related:
   - INS-260412-F38F
+  - INS-260626-EF8C
   - INS-260324-72E8
   - INS-260325-FC0B
   - INS-260330-84BD
-  - INS-260403-44A6
 ---
 The tulip bubble's collapse mechanism is remarkably instructive: buyers in North Holland refused to attend routine auctions. This was not a dramatic event — it was an absence. That absence signaled that the marginal buyer had evaporated, which caused mild selling, which caused more selling, until prices fell 99% in weeks.
 

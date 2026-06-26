@@ -49,7 +49,6 @@ stance: >-
   There is no single launch moment that changes everything — early users come
   from founders who showed up repeatedly where their users already were.
 related:
-  - INS-260404-3771
   - PRI-260406-8A97
   - INS-260330-59DC
   - INS-260330-21CC

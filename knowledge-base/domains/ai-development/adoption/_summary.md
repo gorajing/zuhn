@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 71 insights
+> 74 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -29,6 +29,7 @@
 - `INS-260625-A4DE` [high] Enterprises deploy voice agents faster than any other agent because IVR trees, call flows, and customer-service SOPs already exist, making the gap from human call to autonomous agent small.
 - `INS-260605-828D` [high] FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
 - `INS-260322-A36C` [high] When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
+- `INS-260626-4075` [high] Unlike coding, where a technical user steers a mistake-tolerant agent, expert domains treat 80%-right as 0%-useful — so the human's last-20% correction is the real training data.
 - `INS-260410-953E` [high] MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260322-3083` [high] Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
 - `INS-260403-EE02` [high] Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
@@ -37,6 +38,7 @@
 - `INS-260405-9285` [high] AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260605-8A88` [high] Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
 - `INS-260405-CD42` [high] Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
+- `INS-260626-AE0C` [high] Finance adopts AI by running the new system alongside the proven one until it's verified, because unlike consumer tech it isn't allowed to make mistakes.
 - `INS-260625-6ED0` [high] Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
 - `INS-260605-7747` [high] Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 - `INS-260625-464B` [high] Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
@@ -65,6 +67,7 @@
 - `INS-260322-B09B` [medium] Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260405-CA27` [medium] Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260530-E6AA` [medium] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
+- `INS-260626-C72F` [medium] Investing $100K–$1M/year on tokens now lets you live in 2028 today — a one-time time warp to leapfrog Fortune 500s and incumbents before the same capability costs a couple hundred dollars.
 - `INS-260403-C10D` [medium] The biggest AI risk is confidence outrunning understanding, not the technology itself.
 - `INS-260625-7DC7` [medium] Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
 - `INS-260625-D295` [medium] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.

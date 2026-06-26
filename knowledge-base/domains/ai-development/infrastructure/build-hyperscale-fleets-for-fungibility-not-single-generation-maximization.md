@@ -62,9 +62,9 @@ stance: >-
 related:
   - INS-260412-3AF6
   - INS-260403-6184
+  - INS-260626-6E01
   - INS-260412-DC05
   - INS-260328-F05E
-  - PRI-260406-C40C
 ---
 Nadella's central capital-allocation principle is that the rate of Nvidia generation transitions has compressed — GB200 to GB300 to Vera Rubin to Vera Rubin Ultra each demand radically different power density, cooling, and rack topology. Building gigawatts optimized for one generation and one workload (e.g., bare-metal training for one customer) means you can't pivot to inference, can't serve different geos under data-residency constraints, and eat depreciation on stranded assets.
 

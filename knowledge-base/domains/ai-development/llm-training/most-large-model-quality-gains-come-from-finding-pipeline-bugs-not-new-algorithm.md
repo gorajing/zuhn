@@ -60,11 +60,11 @@ related:
   - INS-260402-BCEC
   - INS-260327-98DE
   - INS-260410-E73E
-  - INS-260410-B3C4
   - INS-260505-4E44
   - INS-260605-B60D
   - INS-260605-33FA
   - INS-260605-1CEB
+  - INS-260605-9CE2
 ---
 Describing the zero-to-one build of Grok Imagine, He calls it 'kind of boring but' true: a lot of the improvement does not come from new algorithms — it comes from finding small bugs here and there in the data pipeline and the training pipeline, and those fixes gave the biggest boosts to model quality. This reframes ML research progress as debugging at scale rather than invention.
 

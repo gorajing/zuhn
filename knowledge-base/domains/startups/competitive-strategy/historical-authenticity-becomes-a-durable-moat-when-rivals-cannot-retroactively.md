@@ -55,7 +55,7 @@ related:
   - INS-260410-13EB
   - INS-260327-61AE
   - INS-260322-5A72
+  - INS-260626-D14F
   - INS-260603-46AE
-  - INS-260603-94A6
 ---
 When Robert Dumas chose a logo after WWII, a galloping horse would have been the obvious pick — active, kinetic, still alive in equestrian sport. Instead he chose the hitched carriage, an image from a world that no longer exists. This looks like nostalgia but is actually a strategic moat. The carriage era is not something a 1990s startup or a competitor brand can claim; by definition you had to be making goods for French nobility before the automobile, and only a handful of businesses were. The more time passes, the more valuable this exclusive claim becomes, because the barrier to entry is not capital or talent but chronology. The insight generalizes beyond luxury: any business built on a genuinely specific historical position (Cold War physics lab, pre-internet archive, founding-era institutional knowledge) holds an asset that competitors literally cannot acquire later no matter how much they spend. The common mistake is to abandon the old positioning to look modern; Hermès's example suggests the opposite — lean into the era-specific claim precisely because it cannot be copied.

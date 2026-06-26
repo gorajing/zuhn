@@ -7,8 +7,8 @@
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260514-60D5` Imagine humanity reaching the precipice of AI revolution but it fizzles because the models couldn't survive in our atmosphere of money.
 - `INS-260330-8AE8` At near-light-speed, Earth would be genuinely flattened by Lorentz contraction — not an illusion but a real physical consequence of the observer's reference frame.
-- `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260323-2FC3` The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
+- `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260412-3C64` We default to simpler models not because they're better but because they're solvable, creating blind spots where reality diverges most.
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.

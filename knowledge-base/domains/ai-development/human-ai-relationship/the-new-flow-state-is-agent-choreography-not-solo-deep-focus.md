@@ -50,10 +50,10 @@ stance: >-
   parallel agents rather than from single-threaded deep focus on one's own code.
 related:
   - INS-260605-A847
+  - INS-260626-B614
   - PRI-260328-A65A
   - INS-260403-0350
   - INS-260323-2E51
-  - INS-260524-B783
   - INS-260625-C697
 ---
 The classic developer flow state is being totally in the zone: you and your code, hyper-focused on one problem. Richman argues agentic coding has transformed not just how we work but how we enjoy working, and that the new flow is 'agent choreography' — multiple agents running in parallel while you move between them, unblocking one and redirecting another. The satisfaction comes from the elegance of that choreography and the results it produces.

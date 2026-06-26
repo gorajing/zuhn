@@ -3,11 +3,12 @@
 - `INS-260322-7DD5` 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
-- `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
-- `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
+- `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260605-0748` On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
+- `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
+- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260405-2DC0` Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.
@@ -16,12 +17,11 @@
 - `INS-260605-5BAD` Spotify's 'taste profile' exposes what the model knows about you as editable text — you can chat to adjust it, choose what to keep or forget — feeding your edits back into the generative model.
 - `INS-260605-DC7C` Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
 - `INS-260605-9362` LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
-- `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
+- `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
 - `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260403-CCC3` Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.
-- `INS-260327-A048` British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
@@ -31,3 +31,4 @@
 - `INS-260327-A903` Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
+- `INS-260327-A048` British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.

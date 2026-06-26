@@ -70,10 +70,10 @@ stance: >-
   creating a grassroots opening for anyone willing to organize.
 related:
   - PRI-260328-0123
+  - INS-260626-2B7F
   - INS-260410-3880
   - INS-260410-46BB
   - INS-260413-CDE2
-  - PRI-260328-37D8
 ---
 Hao cites the most recent polling: 80% of Americans believe the AI industry needs to be regulated. For comparison, she asks when 80% of Americans last agreed on an issue. Dozens of protests against data centers have broken out across the US and globally — many stalling projects and some succeeding in banning data centers in their localities. Artists and writers are suing labs for IP infringement and creating public conversations about data rights. Parents like Megan Garcia are suing chatbot companies after child suicides caused by unregulated intimacy chatbots.
 

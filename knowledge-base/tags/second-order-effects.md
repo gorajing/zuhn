@@ -13,9 +13,6 @@
 - `INS-260412-C451` A massive force doesn't need to collide with a system to destroy it — proximity alone reshapes orbits and triggers cascading failures.
 - `INS-260412-3B3D` Identical forces produce qualitatively different outcomes depending on the medium they act through.
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
-- `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
-- `INS-260403-213C` Wars of choice that impose costs on allies damage long-term economic relationships in ways that outlast the immediate commodity shock.
-- `INS-260410-7E29` Pearl Harbor was an A+ military operation that converted isolationist America into Japan's destroyer — proving tactical perfection is worthless if it mobilizes a vastly stronger opponent.
 - `INS-260330-19E1` Midgley rejected ethanol (safe, effective, but low-margin) in favor of tetraethyl lead (cheap, high-margin, known toxic) — a decision that generated ~$3B in profits but caused an estimated 100 million deaths globally.
 - `INS-260405-FBD7` Photosynthesis evolved to fix carbon and produce glucose; oxygen was a waste product that happened to make complex animal life possible.
 - `INS-260405-C342` Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
@@ -32,3 +29,6 @@
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
+- `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
+- `INS-260403-213C` Wars of choice that impose costs on allies damage long-term economic relationships in ways that outlast the immediate commodity shock.
+- `INS-260410-7E29` Pearl Harbor was an A+ military operation that converted isolationist America into Japan's destroyer — proving tactical perfection is worthless if it mobilizes a vastly stronger opponent.

@@ -1,5 +1,6 @@
 # Tag: risk-tolerance
 
+- `INS-260626-AE0C` Finance adopts AI by running the new system alongside the proven one until it's verified, because unlike consumer tech it isn't allowed to make mistakes.
 - `INS-260322-D58A` Synthetic peptides beyond GLP-1s are spreading through tech culture using the same early-adopter logic as beta-testing software — willingness to accept bugs in exchange for frontier access.
 - `INS-260412-6564` Salvadorans maintained 90% approval of Bukele even as he suspended constitutional rights, dismissed judges, and detained 70,000 people — because gang violence had been an existential daily threat for decades.
 - `INS-260403-9F78` Treating new projects as experiments or learning exercises removes the fear of failure because even failed experiments produce knowledge.

@@ -56,6 +56,7 @@ related:
   - INS-260403-D8C1
   - INS-260413-0992
   - INS-260625-EFCC
+  - INS-260626-E822
 stance: >-
   Meta open-sources AI models like LLaMA because ecosystem innovation makes
   their own infrastructure more efficient while attracting top researchers.

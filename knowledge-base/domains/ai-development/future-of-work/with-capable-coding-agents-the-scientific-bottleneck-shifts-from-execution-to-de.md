@@ -48,7 +48,7 @@ related:
   - INS-260524-2C7C
   - INS-260403-10CE
   - INS-260625-7592
-  - INS-260605-63AE
   - INS-260605-0E19
+  - INS-260626-D9CD
 ---
 Sung contrasts the old loop (debug, find the problem, fix it) with agent-driven work where, once you decide what you want and why, the agent executes well — analogizing to FSD where the car drives but you choose the destination and route. The implication: as execution commoditizes, the binding constraint becomes goal- and hypothesis-selection. This is a firsthand-practitioner corroboration of the KB principle that AI commoditizes code production and shifts the bottleneck to knowing what to build.

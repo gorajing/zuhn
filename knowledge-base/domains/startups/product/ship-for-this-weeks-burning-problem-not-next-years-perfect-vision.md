@@ -46,15 +46,16 @@ stance: >-
   dramatically outperforms building a comprehensive product based on a long-term
   vision.
 related:
-  - INS-260327-A608
   - INS-260327-A5EE
   - INS-260330-6D59
   - INS-260330-F268
   - INS-260330-5EA4
   - INS-260330-13E8
   - PRI-260406-874A
+  - INS-260327-A608
   - INS-260330-843E
   - INS-260330-2C79
+  - INS-260626-D91F
 ---
 The founder's $40K mistake included adding advanced features before solving basic needs — a pattern that stems from building toward a vision rather than toward current user pain. This inverts the correct priority order. Early-stage products should be optimized for solving one burning problem exceptionally well, not for feature completeness or architectural elegance.
 

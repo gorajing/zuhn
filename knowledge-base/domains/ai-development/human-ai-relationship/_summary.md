@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 104 insights
+> 105 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -93,6 +93,7 @@
 - `INS-260404-1E65` [medium] Non-invasive wearables (wristbands, headbands) lower the adoption barrier for brain-computer interfaces compared to surgical implants.
 - `INS-260603-6991` [medium] Lu Si-Chen (Microsoft): if you talk to Claude at midnight it tells you to go to sleep rather than keep you engaged — brands should stop trying to keep users on-platform and instead optimize for helping them make the right decision and leave.
 - `INS-260323-87F3` [medium] Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
+- `INS-260626-613C` [medium] If you can't write your own prompts and hold your own data and integrations, you sit below the API line of a PM who doesn't understand your needs — like a Facebook feed whose algorithm you don't control.
 - `INS-260514-BA22` [medium] Spending all day with positively-tuned Claude makes real humans feel abrasive — a measurable social aftereffect to counteract with deliberate human interaction.
 - `INS-260329-206D` [medium] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260410-CD15` [medium] Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.

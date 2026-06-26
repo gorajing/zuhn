@@ -50,8 +50,8 @@ related:
   - INS-260412-6D71
   - PRI-260328-E53E
   - INS-260323-FC5B
+  - INS-260626-CAC8
   - INS-260325-77B1
-  - INS-260403-1B96
   - INS-260412-AC11
 ---
 The Fermi Paradox video ends with a powerful reframe: if we're alone, then letting life die on Earth means life vanishes from the entire universe forever. This existential framing — where inaction leads to permanent, total loss — is far more compelling than 'space is cool, let's explore.' The psychological mechanism is loss aversion at cosmic scale: people are more motivated to prevent irreversible loss than to pursue equivalent gain.

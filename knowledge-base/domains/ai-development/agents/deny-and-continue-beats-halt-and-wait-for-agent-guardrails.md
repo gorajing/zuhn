@@ -46,10 +46,10 @@ stance: >-
   as a tool result and retry a safer path rather than halting for human input.
 related:
   - INS-260403-5137
+  - INS-260626-485E
   - INS-260605-8E69
   - INS-260402-8A7A
   - INS-260605-1A2D
-  - PRI-260407-2E0F
 ---
 Auto Mode returns classifier denials to the agent as tool-result errors with an instruction to find a safer path in good faith, rather than halting the session. Only after 3 consecutive or 20 total denials does it escalate to the human. This design makes 0.4% FPR survivable: a false positive costs one retry, not a dead session, which matters enormously for long-running autonomous tasks where any interrupt is expensive.
 

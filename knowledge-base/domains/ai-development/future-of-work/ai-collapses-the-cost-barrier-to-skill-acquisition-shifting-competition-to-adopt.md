@@ -47,7 +47,6 @@ stance: >-
   advantage shifts entirely from knowledge access to speed of application and
   integration into workflows.
 related:
-  - INS-260327-019C
   - INS-260330-4341
   - INS-260403-906E
   - INS-260403-042B

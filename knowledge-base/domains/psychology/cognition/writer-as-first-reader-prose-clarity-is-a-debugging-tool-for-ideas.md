@@ -45,7 +45,6 @@ stance: >-
   because smooth prose lets the author detect logical errors during the dozens
   of re-reads that shape an essay.
 related:
-  - INS-260330-B784
   - INS-260330-00D5
   - INS-260404-32C5
   - INS-260530-E697

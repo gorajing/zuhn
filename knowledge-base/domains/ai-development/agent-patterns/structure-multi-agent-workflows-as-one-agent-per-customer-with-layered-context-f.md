@@ -55,7 +55,6 @@ related:
   - INS-260514-283E
   - INS-260605-83DA
   - INS-260605-0C56
-  - INS-260605-75BB
 ---
 Seven AI's RFP/sales pipeline monitors an inbox, uses a gateway to route inbound emails to multiple agents, and runs one agent per customer. Each agent shares a general harness file (e.g. AGENT.md) defining its role and how to handle inputs and outputs, layered with a customer-specific file (CUSTOMER.md) capturing that customer's quirks, access rights, and discounts.
 

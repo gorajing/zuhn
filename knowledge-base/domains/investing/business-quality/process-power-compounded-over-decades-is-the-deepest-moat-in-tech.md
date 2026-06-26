@@ -70,6 +70,7 @@ related:
   - PRI-260406-E015
   - PRI-260406-28E1
   - INS-260410-EEC1
+  - INS-260626-D65F
 ---
 China has spent tens of billions trying to build SMIC into a leading-edge foundry. The US is subsidizing TSMC Arizona and Intel Foundry with CHIPS Act dollars. Neither can close the gap at 3nm, and Acquired makes the case for why: the operators of these machines represent a tiny population of humans, and the process knowledge needed to actually get yield off an EUV line has to be learned in production, on real wafers, across many cycles. ASML will sell machines to anyone the Dutch government allows — but the machines don't know how to make chips, only TSMC's people do.
 

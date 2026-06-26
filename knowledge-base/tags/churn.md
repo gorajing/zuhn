@@ -3,8 +3,6 @@
 - `INS-260330-677A` John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map precisely to customer support anti-patterns that cause churn.
 - `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
 - `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
-- `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
-- `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-2A8B` Aggregate churn rates mask divergent cohort performance, hiding both critical problems and meaningful improvements.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
@@ -18,6 +16,8 @@
 - `INS-260403-9863` A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
 - `INS-260403-0F72` Low prices attract price-sensitive users who churn fast and consume disproportionate support — raising prices filters for better customers.
+- `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
+- `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260403-570D` VCs model durability not just growth, and high churn turns a growth engine narrative into a leaky bucket story.
 - `INS-260403-A752` Small churn assumption errors cascade through interconnected financial models to produce dramatically different runway outcomes.
 - `INS-260403-12B4` Minor metric misestimates in churn and ARPU compound over 12 months into massive revenue shortfalls.

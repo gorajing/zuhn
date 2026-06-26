@@ -10,3 +10,4 @@
 - `INS-260522-2CE8` YC Root Access: a company is a set of recursive self-improving AI loops — sensor (tickets, telemetry, churn) -> policy/decision -> tool layer (deterministic APIs/skills) -> quality gate (evals, human review) -> learning mechanism that loops back.
 - `INS-260625-4AB6` SkillOpt pairs a continuous fast-update path of small skill edits with a slow per-epoch reflection step plus a meta-skill memory of what has and hasn't worked.
 - `INS-260522-C5C2` YC Root Access 'holy shit' moment: a monitoring agent watched every employee query, and when one failed it opened a merge request to fix the tools/skills/index, had an agent review and deploy it, so the query succeeded the next day.
+- `INS-260626-DCB8` Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes.

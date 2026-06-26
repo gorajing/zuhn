@@ -5,6 +5,7 @@
 - `INS-260322-3263` ChatGPT has 900M weekly active users but only 10-15% use it daily — 5x more people know how to use AI than can think of something to do with it, revealing a product-market fit gap not a technology gap.
 - `INS-260410-797C` Slow enterprise AI adoption is revealing capability shortfalls, not normal technology-diffusion lag.
 - `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
+- `INS-260626-C72F` Investing $100K–$1M/year on tokens now lets you live in 2028 today — a one-time time warp to leapfrog Fortune 500s and incumbents before the same capability costs a couple hundred dollars.
 - `INS-260625-6ED0` Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
 - `INS-260605-7747` Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 - `INS-260625-464B` Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
@@ -12,11 +13,11 @@
 - `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
 - `INS-260403-AC2D` 68% of large enterprises are already deploying AI agents, collapsing a timeline most predicted would take until 2030.
-- `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
-- `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260325-4C92` Almost everything AI can do is underestimated because users discover unimaginable use cases.
 - `INS-260404-116E` When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
 - `INS-260321-2241` Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
+- `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
+- `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
@@ -32,11 +33,10 @@
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
 - `INS-260412-30EE` Asimov correctly predicted home computers connected to libraries acting as personalized teachers, but wrongly predicted this would make traditional schooling obsolete—the technology existed, the behavioral shift didn't.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
-- `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
+- `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260410-8BF9` No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
-- `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
 - `INS-260412-6DCE` Li-Fi's ability to use existing LED light bulbs as transmitters dramatically lowers deployment barriers compared to building new wireless infrastructure.
 - `INS-260405-3066` Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
@@ -48,3 +48,4 @@
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
 - `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
+- `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.

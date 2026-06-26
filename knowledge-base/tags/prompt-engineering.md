@@ -39,8 +39,8 @@
 - `INS-260605-D659` Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
 - `INS-260605-93B8` The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
 - `INS-260403-F664` Production system prompts that run millions of times must be hardened and optimized like code, representing a distinct discipline from conversational prompting.
+- `INS-260409-325B` Let Claude write the detailed prompt; you write the simple intent.
 - `INS-260327-0700` Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260625-0DD6` Application companies evolve from off-the-shelf models and prompting to fine-tuning, because the highest-leverage attributes—your user data, your harness, your tools—can only be partly captured by prompts.
 - `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260625-0750` Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product.
-- `INS-260409-325B` Let Claude write the detailed prompt; you write the simple intent.

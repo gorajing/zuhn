@@ -62,9 +62,9 @@ related:
   - INS-260329-8CA0
   - INS-260403-9627
   - INS-260405-8732
-  - INS-260403-1879
   - INS-260403-BF45
-  - INS-260403-57FF
+  - INS-260626-CAC8
+  - INS-260403-1879
 ---
 Terra was marketed as a safe, stable alternative to crypto volatility — essentially a high-yield savings account. This attracted people who were explicitly trying to avoid speculation: conservative savers frustrated by low bank rates who wanted to preserve purchasing power against inflation. When the system collapsed, these were the people posting about losing life savings and homes, because they had allocated capital they couldn't afford to lose based on the safety framing.
 

@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 85 insights
+> 86 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -66,6 +66,7 @@
 - `INS-260619-C9B1` [medium] AI app infrastructure cannot assume a fixed deployment shape; the application itself increasingly decides what compute it needs per request.
 - `INS-260409-AEF3` [medium] Hassabis claims grid optimization alone could unlock 30-40% efficiency on national grids, and AI will more than pay for its own energy footprint medium-to-long term.
 - `INS-260624-4205` [medium] Async RL systems improve utilization but make model-version mismatch part of the algorithm.
+- `INS-260626-F160` [medium] Continuous learning kills the start-stop training job; you run concurrent pools for sampling and training and optimize aggregate wall-clock, accepting slower individual jobs.
 - `INS-260424-7A03` [medium] Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.
 - `INS-260405-95A6` [medium] U.S. productivity growth near its post-WWII peak is attributable to data center investment, not white-collar AI tool use.
 - `INS-260624-02AB` [medium] Deterministic kernels are a stability tool, not merely a reproducibility preference.

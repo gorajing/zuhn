@@ -7,6 +7,7 @@
 - `INS-260410-9F17` If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
 - `INS-260409-7C62` CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
 - `INS-260605-9523` Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
+- `INS-260626-23E7` Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
 - `INS-260327-F625` Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
 - `INS-260605-2284` The hard problem in agents has shifted from writing good prompts to strategically choosing what the model sees.
 - `INS-260514-DFAE` Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors.
@@ -21,6 +22,7 @@
 - `INS-260625-7A1A` Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
 - `INS-260605-9276` Provide agents skills as plain version-controlled files containing examples of how to do a task, and let the project maintainers own those skills, so the agent goes from zero-shot to robust few-shot.
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
+- `INS-260626-40DF` Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
 - `INS-260605-C028` A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260410-EE37` Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
 - `INS-260605-0374` Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
@@ -36,20 +38,23 @@
 - `INS-260625-057C` In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
 - `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
+- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
 - `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 - `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
 - `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260625-9F65` Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
 - `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.
+- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260605-91A9` The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
 - `INS-260625-7935` Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260605-9402` Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
-- `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260605-59FE` The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260514-5914` Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
+- `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
+- `INS-260626-B94C` Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
 - `INS-260605-CF2E` Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation.
 - `INS-260605-80B6` Anthropic/OpenAI already did the data-pipeline-train-deploy work, so your lever is the inputs you feed the model, not feature engineering or retraining.
 - `INS-260625-99AE` Context engines, hierarchical summarization, knowledge graphs, iterative retrieval, and self-correction each trade upfront engineering against scaling cost—iterative retrieval is the best default when you're building agents for yourself rather than as a product.

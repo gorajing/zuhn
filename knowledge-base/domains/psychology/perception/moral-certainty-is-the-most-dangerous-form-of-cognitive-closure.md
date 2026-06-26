@@ -44,11 +44,11 @@ stance: >-
   People who are most certain of their moral rightness are most likely to cause
   harm, because moral certainty eliminates the self-doubt that prevents excess.
 related:
+  - INS-260626-CAC8
   - INS-260405-8732
   - INS-260412-E154
   - INS-260403-63E2
   - INS-260327-015B
-  - INS-260410-9B0E
 evidence:
   - id: INS-260322-627E
     type: CHALLENGES

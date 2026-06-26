@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 95 insights
+> 96 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -9,6 +9,7 @@
 - `INS-260321-53E2` [high] All AI computation is matrix multiplication (word relationships scored as points in matrices) — Hinton discovered GPUs excelled at this by accident in 2012, winning ImageNet overwhelmingly.
 - `INS-260328-4717` [high] Higher-quality world models require exponentially less search to achieve the same or better outcomes.
 - `INS-260320-5818` [high] Main pretraining consumes 63% of total compute; plan for 37% additional budget for ablation studies, debugging, and restarts due to infrastructure failures.
+- `INS-260626-408A` [high] The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - `INS-260410-966F` [high] Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
 - `INS-260329-A2D0` [high] Models trained on imbalanced data learn to ignore the minority class - explicit rebalancing through oversampling, undersampling, or weighted loss functions is required to fix this.
 - `INS-260328-B19D` [high] Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.

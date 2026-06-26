@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 640 insights
+> 642 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -232,6 +232,7 @@
 - `INS-260519-C808` [high] Maja Voje (The GTM Strategist): proprietary signals, proprietary research, and human touch — one intelligent message beats fifty templated ones (3–5x, sometimes 10x).
 - `INS-260327-FC6F` [high] There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260324-8C6F` [high] In LA's saturated taco market, the winning strategy isn't being the best — it's being the best for your specific neighborhood by showing up at the same spot, same time, rain or shine, year after year.
+- `INS-260626-E822` [high] Radical AI open-sources its models because in materials science the moat is proprietary experimental data and the closed-loop lab, not the model weights.
 - `INS-260330-F0F2` [high] Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
 - `INS-260403-0AF6` [high] Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260403-C1F5` [high] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
@@ -535,6 +536,7 @@
 - `INS-260329-E8EB` [medium] Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
 - `INS-260619-DABA` [medium] AI-native services can win narrow workflows, but incumbents survive where the customer is buying a credible accountable party.
 - `INS-260404-0095` [medium] Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
+- `INS-260626-D65F` [medium] When money and intelligence are cheap and plentiful, the binding constraint — and therefore the moat — becomes attention and the ability to control mind-share.
 - `INS-260327-7F64` [medium] Reflection AI bets that autonomous coding is the gateway to superintelligence.
 - `INS-260403-E662` [medium] A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260404-EF67` [medium] Big Tech's structural incentives and organizational design make it the wrong founder for many innovation categories.

@@ -52,7 +52,7 @@ related:
   - PRI-260403-FBA8
   - PRI-260328-F0E4
   - INS-260519-20E0
-  - PRI-260323-50FE
+  - INS-260626-D9CD
 ---
 The party's running joke — every problem solved by 'just use Claude Code' — satirizes an emerging cultural shift where AI delegation becomes the default answer. Lucy fires all employees and replaces herself with a monitoring Claude Code. Nishin deploys Claude Code to rewrite books. The dating problem gets solved by Claude Code finding a husband. The humor works because the pattern is already recognizable in real tech culture.
 

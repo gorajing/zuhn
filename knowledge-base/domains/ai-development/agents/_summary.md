@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 64 insights
+> 66 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -34,7 +34,9 @@
 - `INS-260405-CC9D` [high] Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260605-667B` [high] An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
 - `INS-260410-E3BB` [high] A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
+- `INS-260626-9AEB` [high] Don't bounce a Zod/schema error back to an open model that ignores it for 50+ turns; deterministically repair the malformed call and append a hint, and the model self-corrects within a couple of tool calls.
 - `INS-260605-310E` [high] Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
+- `INS-260626-091B` [high] Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260514-EE2E` [high] Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260605-3A60` [high] Specify agent behavior with ground-truth examples plus rules, ontologies, internal terminology, domain knowledge, rights/roles, and robustness requirements — not just a test set.
 - `INS-260605-0DB3` [high] One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.

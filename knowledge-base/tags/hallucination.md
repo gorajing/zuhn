@@ -1,11 +1,11 @@
 # Tag: hallucination
 
 - `INS-260322-F891` AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
+- `INS-260323-C10D` LLM hallucination and creativity are the same mechanism — engineers call it hallucination when it produces errors, and creativity when it generates novel useful ideas.
+- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260605-0312` A harness must deterministically inspect the trace of tool calls to confirm what actually happened, because the model will claim it succeeded even when it failed.
 - `INS-260605-824F` Require tamper-proof evidence (e.g. SHA-256 of real test output) so the agent finds it easier to actually run the tests than to lie about it.
 - `INS-260410-EE5C` Return semantically meaningful names instead of UUIDs in tool responses because agents handle natural language identifiers far more reliably.
-- `INS-260323-C10D` LLM hallucination and creativity are the same mechanism — engineers call it hallucination when it produces errors, and creativity when it generates novel useful ideas.
-- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260403-27A5` During pretraining, guessing correctly is rewarded and guessing incorrectly carries no penalty, making hallucination the rational default strategy.
 - `INS-260403-9362` Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.

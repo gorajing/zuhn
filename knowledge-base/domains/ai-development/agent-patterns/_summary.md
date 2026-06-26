@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 340 insights
+> 346 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -169,6 +169,7 @@
 - `INS-260605-C536` [high] Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not.
 - `INS-260410-BBEA` [high] Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
 - `INS-260411-BCB0` [high] Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
+- `INS-260626-40DF` [high] Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
 - `INS-260410-EE37` [high] Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
 - `INS-260411-6106` [high] Write sub-agent descriptions with the same precision as API documentation — they are the routing signal for LLM-driven delegation.
 - `INS-260605-5078` [high] Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
@@ -179,6 +180,7 @@
 - `INS-260605-A847` [high] Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260625-25BF` [high] High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
 - `INS-260501-A1C7` [high] Amjad Masad: we use models from every provider — at one point we sent more tokens to Google than to Anthropic despite Anthropic being the core workhorse.
+- `INS-260626-158E` [high] Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
 - `INS-260410-6ABA` [high] Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
 - `INS-260405-AFF7` [high] MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260325-031F` [high] Linda from Minimax outlined three coding eras: GUI copilots where humans supervise, CLI agents where humans trust but cannot inspect every step, and fully autonomous agents spawning sub-agents.
@@ -251,6 +253,7 @@
 - `INS-260501-B7BC` [medium] We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260605-A705` [medium] Always commit before an agent starts changing code, because it may not remember what the code looked like before.
 - `INS-260605-77EB` [medium] Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
+- `INS-260626-23E7` [medium] Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
 - `INS-260605-C513` [medium] You can define 80% of agent behavior statically and intentfully, but the ever-changing 20% is where the disasters live — so point your adaptive evals there.
 - `INS-260605-55A6` [medium] Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
 - `INS-260514-DFAE` [medium] Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors.
@@ -308,9 +311,11 @@
 - `INS-260605-44E2` [medium] Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
+- `INS-260626-7F36` [medium] LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260605-F700` [medium] Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - `INS-260626-778F` [medium] NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260327-35C7` [medium] Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
+- `INS-260626-F983` [medium] Wrap a second model (e.g. Codex) as a skill that takes your plan or repo, is told to 'find all the problems and bugs,' and reports back to your primary agent to work through.
 - `INS-260605-9E46` [medium] Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
 - `INS-260605-A175` [medium] Classify each decision by reversibility and cost of error, and let serious, irreversible, high-cost decisions consume far more of the agent's analysis budget.
 - `INS-260605-159E` [medium] Feed production traces back into an agent that detects 'something has changed' and updates the test suite — always-on, not a one-time offline pass.
@@ -337,6 +342,7 @@
 - `INS-260603-23B1` [medium] Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
+- `INS-260626-59D9` [medium] Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty.
 - `INS-260605-295D` [medium] Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
 - `INS-260619-6E08` [medium] Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention.
 - `INS-260605-B136` [medium] Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.

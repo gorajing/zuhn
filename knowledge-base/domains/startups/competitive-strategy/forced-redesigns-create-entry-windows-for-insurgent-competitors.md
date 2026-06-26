@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260403-940F
   - PRI-260406-B331
+  - INS-260626-7F36
   - INS-260404-D471
   - PRI-260328-AC85
-  - INS-260403-5710
   - INS-260412-684D
 ---
 Apple's glass-sandwich iPhone design represents years of optimized manufacturing, supply chain, and tooling investment. The EU battery mandate forces a fundamental rethink of this architecture — adhesives, internal layout, waterproofing approach all must change. During these forced transitions, incumbents lose their accrued design advantages and must solve the same novel engineering challenges as new entrants. Historical precedent exists: the USB-C mandate similarly forced Apple to abandon Lightning, a proprietary connector ecosystem. For startups, regulation-forced redesigns are rare windows where the playing field resets and innovative approaches to compliance can become competitive advantages.

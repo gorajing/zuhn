@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260402-AEA1
   - PRI-260406-1993
+  - INS-260626-7F36
   - PRI-260328-A805
   - PRI-260321-AD44
-  - INS-260329-44C9
   - INS-260410-AFB9
 evidence:
   - id: INS-260329-44C9

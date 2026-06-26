@@ -58,9 +58,9 @@ stance: >-
   interpreting outputs, not in coding the pipeline.
 related:
   - PRI-260406-3EF8
+  - INS-260626-4075
   - PRI-260405-2DE5
   - INS-260514-D3CB
   - INS-260329-500E
-  - PRI-260406-26FB
 ---
 Sonia draws a sharp line for scientific pipeline work: if a pipeline is well-documented (think RNA-seek and similar canonical workflows), AI has abundant training examples and reliable verification — and crucially, the domain expertise isn't in writing the pipeline. The expertise is in (1) curating the inputs (what samples, what controls, what normalization choices) and (2) interpreting the outputs (does this differential expression actually make biological sense). Hand-writing the pipeline code itself is value-destroying — you're spending senior-scientist time on something that's better done by an agent. The implication for team design: structure your scientific software team to maximize human attention on the upstream curation and downstream interpretation, and minimize human attention on the pipeline middle. Specifically: don't hire a bioinformatician to write RNA-seek pipelines; hire someone who can choose between methods, validate outputs against domain knowledge, and ask the right scientific questions of the data. This generalizes beyond biotech: anywhere there's a standardized, well-documented workflow with clear verification (data engineering ETLs, common CRUD APIs, standard chart generation), the same principle applies — humans should be doing the parts that can't be canonicalized, not the parts that can.

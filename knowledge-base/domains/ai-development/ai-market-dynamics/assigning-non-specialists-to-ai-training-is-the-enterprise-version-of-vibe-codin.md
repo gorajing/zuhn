@@ -43,10 +43,10 @@ resolutions:
     works remains high.
 related:
   - INS-260514-791A
+  - INS-260626-4075
   - INS-260323-216A
   - INS-260605-C627
   - INS-260404-CE26
-  - INS-260514-6530
 stance: >-
   Organizations routinely assign their least technical person to 'train the AI'
   because they don't understand that this is actual data science work.
