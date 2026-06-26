@@ -48,11 +48,11 @@ stance: >-
   determine whether failures can be investigated.
 related:
   - INS-260403-7EB2
-  - INS-260605-09E0
   - INS-260625-B4AC
+  - INS-260605-09E0
   - INS-260530-C385
+  - INS-260626-B149
   - INS-260423-2B80
-  - INS-260605-2186
 ---
 The durable pattern in LangSmith's recent updates is that evaluation state is becoming operational state. Experiments expose live completed/evaluated progress, evaluators can choose retention behavior, assertions can be read directly from reference outputs, trace query syntax is documented as an operator surface, and alerts can route to Slack. This makes evals easier to operate as ongoing systems rather than one-off benchmark tables.
 

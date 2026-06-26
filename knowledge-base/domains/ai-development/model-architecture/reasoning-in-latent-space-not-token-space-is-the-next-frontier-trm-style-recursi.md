@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260605-91A9
   - INS-260323-8D12
+  - INS-260626-E5E5
   - INS-260410-2F8D
   - INS-260327-A44E
-  - INS-260409-1078
 ---
 Chollet's prediction for where this research goes: today's LLMs are great at finding 'amazing embedding representation spaces' — but reasoning happens in token space (chain-of-thought), which means every reasoning step requires generating tokens, decoding, re-encoding. The opportunity is to do recursive reasoning directly in the latent embedding space using TRM-style tiny modules trained to reason within that space.
 

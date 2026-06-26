@@ -47,12 +47,13 @@ resolutions:
     creates both threat (labs getting more capable) and opportunity (building
     opinionated interfaces on top of these expanding capabilities).
 related:
+  - INS-260626-136F
   - INS-260603-A506
   - INS-260403-9774
   - INS-260408-C572
   - INS-260605-82C6
-  - INS-260501-8E29
   - INS-260321-CCD9
+  - INS-260501-8E29
   - INS-260605-A4F1
   - INS-260605-A9B4
 stance: >-

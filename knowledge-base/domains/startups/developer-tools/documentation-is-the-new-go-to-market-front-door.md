@@ -58,6 +58,7 @@ related:
   - INS-260605-CEB5
   - INS-260605-158D
   - INS-260325-EE14
+  - INS-260626-DD33
 ---
 Resend (YC W23) became the default LLM answer to 'how do I send emails from my web app' after its founder noticed ChatGPT was a top-three inbound conversion channel and deliberately optimized docs to be agent-friendly: structured question-shaped headers ('How do I send/receive emails?'), bullet-pointed answers, copy-pasteable code snippets on every page, and an llms.txt file. The Web 2.0 incumbent SendGrid loses by comparison — it routes you to customer support with no visible code snippet. Netlify rides this as a tailwind by auto-generating agent-readable docs for dev-tool companies.
 

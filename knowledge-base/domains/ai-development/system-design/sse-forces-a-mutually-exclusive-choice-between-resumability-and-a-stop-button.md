@@ -46,7 +46,6 @@ stance: >-
   Server-sent events make resume and cancel mutually exclusive, so any AI
   product needing both must abandon SSE for a bidirectional transport.
 related:
-  - INS-260409-533A
   - INS-260330-258F
   - INS-260423-81B6
   - INS-260409-78E1

@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 109 insights
+> 113 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -38,6 +38,7 @@
 - `INS-260403-72C2` [high] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 - `INS-260405-2688` [high] C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
 - `INS-260605-988D` [high] Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
+- `INS-260626-0D50` [high] MCP inherits OAuth's assumption that apps don't trust each other, which directly contradicts the single-sign-on trust fabric enterprises already run.
 - `INS-260403-2138` [high] DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260409-C133` [high] Peripherals are just memory addresses that happen to be wired to physical things — MMIO turns all I/O into loads and stores.
 - `INS-260605-DC65` [high] Coupling tightly to one provider's API is dangerous; true model sovereignty means you can change models in a day without touching the codebase.
@@ -49,6 +50,7 @@
 - `INS-260410-0B73` [high] Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
 - `INS-260625-07CB` [high] ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.
 - `INS-260605-90CF` [high] Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
+- `INS-260626-93C7` [high] Cross-App Access uses the ID-JAG flow so the IDP, which both the MCP client and server already trust, mints a cross-app token the client exchanges for a normal access token — removing manual consent entirely.
 - `INS-260605-4860` [high] MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
 - `INS-260625-EC7C` [high] Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
 - `INS-260625-3FBF` [high] Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
@@ -86,6 +88,7 @@
 - `INS-260605-0436` [medium] An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260625-AACE` [medium] Agentic workflows reasoning over long contexts and reasoning models spending test-time compute both demand ultra-long contexts, making the quadratic scaling of standard attention — not model quality — the dominant constraint on progress.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
+- `INS-260626-407C` [medium] Forget the vector-DB/knowledge-graph infrastructure you think you need; a personal research OS works better as plain files plus a reference-based index.
 - `INS-260605-3DBF` [medium] Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.
 - `INS-260626-7D73` [medium] OpenGov moved off LangGraph to a custom agent loop to gain full control once their use cases got complex.
 - `INS-260421-7ADE` [medium] Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
@@ -99,6 +102,7 @@
 - `INS-260403-EA93` [medium] Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
 - `INS-260404-1A3A` [medium] The electron transport chain extracts useful work (ATP, NADPH) by progressively lowering electron energy across four protein complexes rather than trying to capture all energy in one step.
 - `INS-260403-9774` [medium] Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
+- `INS-260626-6767` [medium] Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.
 - `INS-260605-68F4` [medium] One audio-to-audio architecture replaces the STT→LLM→TTS cascade, enabling more natural live voice interaction.
 - `INS-260605-E1E2` [medium] Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
 - `INS-260501-DF06` [medium] RevNets are Feistel ciphers; adversarial attacks are differential cryptanalysis — neural nets and crypto have been borrowing from each other.

@@ -50,14 +50,14 @@ stance: >-
   patterns like an 'agent inbox' because chat interfaces cannot scale to
   thousands of background tasks.
 related:
-  - INS-260327-DC4C
   - INS-260605-86F6
+  - INS-260626-B38C
+  - INS-260327-DC4C
   - PRI-260328-F723
   - INS-260410-1030
-  - INS-260605-2795
   - INS-260403-656F
+  - INS-260605-2795
   - INS-260605-46A8
-  - INS-260605-0E19
   - INS-260605-7B00
   - INS-260625-3DDC
 ---

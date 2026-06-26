@@ -46,11 +46,11 @@ related:
   - INS-260522-EB3C
   - INS-260530-D34F
   - INS-260605-25B2
+  - INS-260626-690F
   - INS-260626-09E1
   - INS-260320-1B10
-  - INS-260603-6B3D
-  - INS-260605-A705
   - INS-260619-4962
   - INS-260626-158E
+  - INS-260626-7E5F
 ---
 Sung describes moving from manual coding (2024) to all-agent coding (2025) as an 'agent engineer,' explicitly retaining the reliability/scalability practices built over decades of software engineering (CI/CD, modular architecture, unit tests, code review) and running agents within that harness, with skills and test loops. He notes a step-change in 2025 with stronger models (e.g., Claude Code). Reinforces the KB's view that engineering discipline is the multiplier on top of AI, not something AI replaces.

@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260412-2D3A
   - INS-260409-F93A
+  - INS-260626-8C66
   - INS-260412-BA52
   - INS-260412-8A13
-  - INS-260325-DDEE
 ---
 Minnesota's Northwest Angle exists because of a surveying error in defining the US-Canada border along the 49th parallel. The couple hundred residents must drive through Canada to reach the rest of the US. North Dakota may not have technically been a state until 2012 due to a missing sentence in its constitution. Tennessee's border with Arkansas still reflects a long-abandoned course of the Mississippi River, creating enclaves and exclaves.
 

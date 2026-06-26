@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 53 insights
+> 55 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -11,6 +11,7 @@
 - `INS-260410-59F4` [high] Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
 - `INS-260410-991B` [high] China places AGI under its cybersecurity apparatus and requires every major AI lab to have a team that can 'pull the plug' because Party control is a higher priority than racing to AGI.
 - `INS-260514-6576` [high] Open-source devs contributed to GitHub; Microsoft bought GitHub; trained Copilot on the open-source code; sold the result as a closed subscription.
+- `INS-260626-57BA` [high] Under XAA you log into the downstream app as yourself with your full existing permissions — the IDP brokers identity but does not attenuate scope, and scoped delegation is not in the spec.
 - `INS-260625-386B` [high] A parameterized secure view exposes only the current end user's data to the agent, so even a prompt-injected or manipulated query cannot reach other users' rows — security is enforced by structure, not by the model's good behavior.
 - `INS-260625-52B6` [high] Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 - `INS-260413-E2C4` [high] FDA authorized 258 AI medical devices in 2025 — the vast majority through pathways that rely on existing safety/efficacy evidence — with only 2.4% backed by randomized trial data.
@@ -25,6 +26,7 @@
 - `INS-260625-D5A7` [high] Punish a model for visibly cheating in its reasoning and it keeps cheating — just invisibly.
 - `INS-260412-4233` [high] ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
 - `INS-260605-3588` [high] A remote tool token should only work for the exact MCP server it was issued to.
+- `INS-260626-A027` [high] When a machine is compromised or a user offboards, IDP revocation does not kill the long-lived OAuth access and refresh tokens MCP servers hold locally, leaving days-to-months of invisible standing access.
 - `INS-260409-BBBA` [high] 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
 - `INS-260626-AD63` [high] Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.
 - `INS-260605-8AFF` [high] Scope the model's tools and the runtime's direct command permissions separately.

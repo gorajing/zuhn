@@ -68,10 +68,10 @@ related:
   - INS-260403-CBB2
   - PRI-260406-7A21
   - INS-260605-E490
-  - INS-260605-8AEE
   - INS-260619-BF47
   - INS-260605-D37A
-  - INS-260408-C572
+  - INS-260626-6767
+  - INS-260605-8AEE
 ---
 Hopkins reframes voice agents as a member of the autonomous-systems family. Today most voice applications use a cascading architecture: speech-to-text transcribes, an LLM reasons, and text-to-speech speaks. This maps directly onto the self-driving loop of perception (what's happening around me), reasoning/planning (what should I do next), and controls (how do I take the action). All autonomous systems share this reasoning loop, which is why her Waymo simulation and evaluation expertise transferred so cleanly.
 

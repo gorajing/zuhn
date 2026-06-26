@@ -49,6 +49,5 @@ related:
   - PRI-260406-003E
   - INS-260409-661A
   - INS-260409-FDB4
-  - INS-260605-B176
 ---
 Bayer's retrospective audit claim: looking back at achievements, an identity shift preceded them, not the other way around. This aligns with habit-formation research showing that self-concept change is a more durable predictor of behavior change than outcome-tracking. Operationally: pick the identity of the person who already has the outcome (millionaire, author, connected partner) and practice the feelings/thoughts/actions of that person now. The danger is the circular trap: 'I'll feel confident once I'm successful' ensures you never are.

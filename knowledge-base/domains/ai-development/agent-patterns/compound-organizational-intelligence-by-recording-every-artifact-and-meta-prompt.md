@@ -60,6 +60,6 @@ related:
   - INS-260625-9721
   - INS-260626-A08F
   - INS-260605-25B2
-  - INS-260403-C501
+  - INS-260626-B38C
 ---
 YC's two-sentence-description skill illustrates the mechanism by which 'superintelligence happens inside organizations.' A partner handwrote a prompt that condenses company context into a crisp pitch. Other partners then ran a group office-hours session where founders practiced the pitch and got live feedback; that meeting transcript was handed back to the agent with 'given what you learned, improve the skill' — and the skill became 'better than any of us individually.' This generalizes into a self-improving 'dream cycle': a nightly agent reads every employee's agent conversations, finds things it could have done better and context it lacked up front, and rewrites the relevant skills (and can write learnings back into the CRM). The prerequisite is a cultural shift from treating AI as a co-pilot to treating it as the building layer for everything, which means recording all artifacts — meeting recordings, transcripts, decisions. Composed across thousands of such atomic skills, this is how an organization becomes a 'super organization.'

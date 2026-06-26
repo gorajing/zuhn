@@ -57,7 +57,8 @@ related:
   - INS-260423-D900
   - INS-260524-D5DB
   - INS-260625-3DDC
+  - INS-260626-B38C
   - INS-260327-DC4C
-  - INS-260405-2BB0
+  - INS-260626-AAD8
 ---
 Carrefour's internal support problem was repetitive: 150 ingestion pipelines and 600+ data consumers with team turnover meant new members kept asking the same questions, and the platform team kept re-answering them — time-consuming and demoralizing. Their agent grounds answers in both the documentation and the chat history. The compounding mechanism: when the agent gives an inaccurate answer, the team adds detail in the chat reply, and because that correction now lives in the chat history that the agent retrieves over, 'the agent will become better and better day after day.' This is a self-improving loop built almost for free — the correction channel and the training corpus are the same artifact, so improving the answer and improving the system are a single action with no separate labeling step. The transferable pattern: when you automate a human-answered queue, make the human's corrections write back into the agent's retrieval source rather than into a side channel, so the cost of fixing a wrong answer is paid once and the fix is permanent. The medium confidence reflects that this depends on retrieval quality keeping pace as the corpus grows and on corrections being clean enough not to poison future retrieval.

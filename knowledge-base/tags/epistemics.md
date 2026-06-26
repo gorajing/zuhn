@@ -6,7 +6,6 @@
 - `INS-260625-79ED` Reject both the objective-metrics camp and the pure-taste camp—pair every benchmark score with a real-world vibe check.
 - `INS-260409-C016` AI research output gets judged on interim expert assessments because peer review is too slow — treat these as preliminary, not final.
 - `INS-260405-C709` AI-jobs debates feel unresolvable because optimists and pessimists are each describing a different causal layer of the same system.
-- `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260405-5702` Feed algorithms don't just show different opinions — they construct different facts for different population clusters.
 - `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260412-5C2D` Once deepfakes are common knowledge, politicians and public figures can dismiss authentic video evidence as fabricated, weaponizing the technology's existence without ever using it.
@@ -32,6 +31,7 @@
 - `INS-260405-D3D7` You cannot use a biased yardstick to measure whether the selection was biased.
 - `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
 
+- `INS-260409-6349` Ego-dissolution reports tell you something about how the brain constructs the self, not that the dissolution reveals a deeper metaphysical truth.
 - `INS-260410-D31B` Paine, a Naval War College historian, explicitly endorses counterfactual replay as the primary pedagogical method — 'we teach by counterfactuals' — against commenters who mock the framing as naive.
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
 - `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.

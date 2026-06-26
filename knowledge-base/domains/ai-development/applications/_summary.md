@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 71 insights
+> 72 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -35,6 +35,7 @@
 - `INS-260505-68D3` [high] Need-to-understand fields (astronomy, math, fundamental physics) won't accept opaque AI answers; need-the-answer fields (medicine, engineering) will.
 - `INS-260501-DBDB` [high] Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices.
 - `INS-260626-B098` [high] AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
+- `INS-260626-BA87` [medium] Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms.
 - `INS-260525-9B7B` [medium] Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 - `INS-260524-460B` [medium] Woosang: an AlphaEvolve-class agent improved a high-dimensional packing bound that had stood for ~25-30 years — a result no mathematician had cracked.
 - `INS-260605-237C` [medium] An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.

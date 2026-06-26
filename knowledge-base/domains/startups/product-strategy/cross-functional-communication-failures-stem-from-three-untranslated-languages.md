@@ -53,7 +53,7 @@ related:
   - INS-260330-0BBA
   - INS-260327-C673
   - INS-260330-EEBD
-  - INS-260514-D155
+  - INS-260626-7C81
 ---
 Jason Cohen's framework identifies that startups operate with three distinct languages that rarely get properly translated: customer desires (what people want and feel), product features (what gets built and shipped), and business goals (what drives revenue and growth). When these languages aren't deliberately bridged, teams talk past each other — engineers build features nobody asked for, marketers promise things that don't exist, and customers churn because their actual need was never understood.
 

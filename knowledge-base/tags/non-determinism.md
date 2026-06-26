@@ -1,5 +1,6 @@
 # Tag: non-determinism
 
+- `INS-260626-3105` Run each eval ~5 times, track its pass rate, and give the tests you care about a small failure budget — a single green run proves nothing.
 - `INS-260605-809A` Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260605-0E19` Traditional software made you a traffic controller dictating every move; agents make you a dispatcher who states the destination and trusts the agent to find the route.
 - `INS-260605-DB29` The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.

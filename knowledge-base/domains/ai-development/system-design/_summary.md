@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 87 insights
+> 93 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -42,12 +42,15 @@
 - `INS-260605-CFB7` [high] Self-hosting the model, relocating data, moving to on-prem infra, and adding tracing each detonate a distinct class of hidden coupling.
 - `INS-260410-0C77` [high] Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260605-0C24` [high] Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
+- `INS-260626-AAD8` [high] Offloading conversation state to the server preserves the prompt-prefix cache that client-side history edits (stripping whitespace, line breaks) quietly invalidate.
 - `INS-260514-1659` [high] One engineer writes 'how to write a good follow-up email' once. Every agent on the team writes good follow-up emails forever. Compounds.
 - `INS-260514-5914` [high] Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
 - `INS-260522-EB3C` [high] YC Root Access: store all data preciously (Gary Tan keeps every email in markdown, never deletes), treat the software on top as ephemeral — regenerate it from your instructions when the models get smarter in a month or two.
 - `INS-260605-E16A` [high] Because SSE is strictly one-way, a client closing the connection is ambiguous — buffer-to-resume or cancel-the-LLM — so you cannot support both resume and a stop button.
 - `INS-260605-204E` [high] Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
+- `INS-260626-5375` [high] The same structure that makes a codebase easy for a new human to onboard makes it easy for an agent — collocated, modular code and conventional patterns let agents discover relevant files by listing a folder instead of grepping everywhere.
 - `INS-260412-41A5` [high] Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.
+- `INS-260626-8D05` [high] Don't resolve every conflict with a heuristic and bury the ones you got wrong — surface unresolvable conflicts to the human and capture their correction as weighted memory.
 - `INS-260605-9362` [high] LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
 - `INS-260605-B8AB` [high] Tool proxies should translate authority, not pass it through.
 - `INS-260605-A0D2` [high] Decompose sovereignty into data, model, infrastructure, and operational pillars and only harden the pillars your domain's risk profile demands.
@@ -71,6 +74,7 @@
 - `INS-260405-C497` [medium] RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260412-9414` [medium] Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
 - `INS-260605-E706` [medium] Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
+- `INS-260626-8660` [medium] Treat your personal notes as an immutable snapshot the LLM never touches; agent-generated concepts, comparisons, and summaries live in a separate derivative layer that references it.
 - `INS-260625-3464` [medium] Rather than reverse-engineering how Cloudflare detects bots, make the agent emit human-like signals (mouse movement, typing cadence) so detection never triggers in the first place.
 - `INS-260624-A121` [medium] Cybersecurity agents improve from both stronger models and better scaffolding.
 - `INS-260605-8AEE` [medium] A modular speech pipeline lets you swap individual ASR, language, and TTS models to fit any device from a first-gen M1 to the latest chip — flexibility a monolithic speech-to-speech model can't match.
@@ -85,7 +89,9 @@
 - `INS-260605-EF9D` [medium] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.
 - `INS-260412-4773` [medium] Submarine VLF communication at 700 words per minute in text-only forces message protocols to be maximally clear and unambiguous — a discipline that disappears when bandwidth is cheap.
 - `INS-260605-33C0` [medium] Keep tiny models modular — one per task (e.g. separate ASR and text-polishing engines) — so weights can be reused across apps and the pipeline stays inspectable.
+- `INS-260626-C51E` [medium] Because the cross-app token exchange can re-run with no human in the loop, access tokens can be ~5 minutes long — revoking the SSO session cuts off the agent within minutes while the user never sees a prompt.
 - `INS-260625-DA23` [medium] Persist a snapshot of the agent's sandbox so that when CI fails or a reviewer comments, you rehydrate and keep iterating until the PR turns green.
 - `INS-260625-B67E` [medium] Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
 - `INS-260605-BDFF` [medium] A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
+- `INS-260626-656C` [medium] Instead of manually approving every privileged action (fatigue) or granting unfettered access (unsafe), spawn a verifier agent that adjudicates each request and interrupts the human only when warranted.
 - `INS-260605-9A01` [low] Deploy agent logic with zero infra by appending a 'dynamic worker configured' event whose payload is the reducer+after-append source, run in a spun-up worker, with API keys substituted into outbound headers so secrets never touch the log.

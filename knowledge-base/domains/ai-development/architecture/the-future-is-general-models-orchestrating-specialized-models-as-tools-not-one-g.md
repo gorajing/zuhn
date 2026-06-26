@@ -63,7 +63,6 @@ related:
   - INS-260625-5E87
   - INS-260329-12D1
   - INS-260323-64A4
-  - INS-260501-F0E5
 ---
 Hassabis's architecture prediction: it doesn't make sense to put all of biology into Gemini — adding protein-folding to a general model causes 'information regression,' degrading its language skills (and likely other capabilities) as the parameter budget gets diluted. The right architecture is general-purpose tool-use models that delegate to specialized systems for domain work. Gemini calls AlphaFold; AlphaFold doesn't get absorbed into Gemini.
 

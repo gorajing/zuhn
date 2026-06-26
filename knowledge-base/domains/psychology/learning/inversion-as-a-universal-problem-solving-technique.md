@@ -58,7 +58,6 @@ related:
   - INS-260329-4D24
   - INS-260625-0021
   - INS-260403-5808
-  - INS-260605-780C
 evidence:
   - id: INS-260320-DDFE
     type: TRANSFERS_TO

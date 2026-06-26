@@ -67,6 +67,7 @@ related:
   - INS-260410-BC76
   - INS-260501-4B6F
   - PRI-260405-F20C
+  - INS-260626-B3FD
   - PRI-260403-4612
 ---
 Patel frames this as an Alchian-Allen-adjacent dynamic. The labs face a coordination-free prisoner's dilemma: committing long and early to compute looks reckless at the moment of signing, but the incremental chip coming online this quarter is priced to the value of frontier tokens, not to historical build cost. Anyone who locked in a five-year contract at 2022-2023 prices is transacting compute far below its current marginal value, while anyone scrambling now pays full markup.

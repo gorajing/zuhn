@@ -44,7 +44,6 @@ stance: >-
   knowledgeable about things they don't understand.
 related:
   - INS-260322-2D2F
-  - INS-260329-DC86
   - INS-260329-78AE
   - INS-260405-371F
   - PRI-260406-2576
@@ -53,6 +52,7 @@ related:
   - INS-260412-C040
   - INS-260403-DAB1
   - INS-260403-D4BC
+  - INS-260412-1111
 evidence:
   - id: INS-260322-2D2F
     type: CHALLENGES

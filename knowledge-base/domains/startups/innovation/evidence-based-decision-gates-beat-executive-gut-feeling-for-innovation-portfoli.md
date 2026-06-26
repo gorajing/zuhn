@@ -48,11 +48,11 @@ stance: >-
   processes to pick winning ideas will systematically misallocate innovation
   resources
 related:
+  - INS-260626-F6DA
   - PRI-260403-E023
   - PRI-260406-07C2
   - PRI-260406-4C28
   - INS-260405-2CDB
-  - INS-260403-910E
 evidence:
   - id: INS-260329-8226
     type: EXTENDS

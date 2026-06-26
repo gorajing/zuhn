@@ -51,7 +51,6 @@ stance: >-
   AI agents should be run inside containers rather than installed natively on
   the host.
 related:
-  - INS-260410-992A
   - INS-260423-74BF
   - INS-260605-DF82
   - INS-260605-41AE
@@ -61,6 +60,7 @@ related:
   - INS-260605-E706
   - INS-260605-237C
   - INS-260605-5CF8
+  - INS-260605-7B06
 ---
 Native installation of an autonomous agent scatters state across the host and forces you to reason about OS quirks and stale dependencies; containers eliminate this by giving the agent a clean, predictable, reproducible environment. The container boundary doubles as a security sandbox — you must be explicit about exactly what host access you grant, which is exactly the property you want for an agent that can execute arbitrary commands.
 

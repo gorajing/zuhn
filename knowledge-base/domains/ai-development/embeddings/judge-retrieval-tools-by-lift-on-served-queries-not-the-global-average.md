@@ -56,6 +56,5 @@ related:
   - INS-260322-5790
   - INS-260403-29AC
   - INS-260412-9777
-  - INS-260625-355D
 ---
 Cursor's internal benchmark showed semantic search lifting answer accuracy by roughly 12.5–13.5% across models, and nearly 24% on their composer model before Composer 2 — large, real gains. But their live online AB test reported far smaller-looking numbers: about 2.6% more code retention in large codebases and a 2.2% drop in dissatisfied requests. The reconciliation is a measurement subtlety: semantic search isn't used on every query. If you hand the tool to 100 random queries, only a fraction actually benefit from it, so any global average is diluted by all the queries the tool never touched. The methodological lesson generalizes well beyond retrieval: when a feature fires conditionally, evaluating it on the full population systematically understates its true effect, and a modest aggregate number can hide a strong per-served-query lift. To value such a feature honestly, segment to the queries (or sessions) it actually serves, or you'll wrongly conclude it isn't worth the cost.

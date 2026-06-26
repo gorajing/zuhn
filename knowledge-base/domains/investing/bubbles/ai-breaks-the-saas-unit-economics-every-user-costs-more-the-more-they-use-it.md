@@ -53,8 +53,8 @@ related:
   - INS-260403-F98F
   - INS-260404-35B6
   - INS-260404-02C8
-  - INS-260403-FF45
   - INS-260330-F9CA
+  - INS-260410-9120
 stance: >-
   Traditional SaaS scales cheaply per user, but AI products have marginal costs
   that increase with usage

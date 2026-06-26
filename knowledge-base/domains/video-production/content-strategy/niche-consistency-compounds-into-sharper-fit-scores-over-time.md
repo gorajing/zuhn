@@ -50,7 +50,6 @@ stance: >-
   trains the platform to build an accurate fit score for your channel, which
   raises the quality of every future sample group.
 related:
-  - INS-260323-C4EE
   - INS-260329-22A8
   - INS-260409-8750
   - INS-260605-8F5E

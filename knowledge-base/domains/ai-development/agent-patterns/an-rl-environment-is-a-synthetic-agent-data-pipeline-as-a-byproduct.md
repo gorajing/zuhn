@@ -57,8 +57,8 @@ related:
   - INS-260325-2FC1
   - INS-260625-E292
   - INS-260605-3163
+  - INS-260626-D768
   - INS-260605-9276
-  - INS-260605-2DD5
 ---
 The most common objection from enterprise clients is 'we don't have the data.' For agents this is acute: there is no dataset on the web of an agent correctly using tools, so it cannot be scraped. The resolution is that once you have an environment and a reward in place, you get a synthetic-data pipeline for free — the reward tells you which generated trajectories are good, so rejection sampling produces a clean dataset to bootstrap the first training run.
 

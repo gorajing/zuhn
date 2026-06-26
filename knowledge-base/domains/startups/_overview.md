@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4856 insights across 55 topics
+> 4861 insights across 55 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | ai-business-models | 45 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
 | bootstrapping | 38 | An internal AI ops agent let Answer This hit $2M ARR with two full-time founders by absorbing email, support, CRM, and feedback work. |
-| business-models | 244 | The time required to build a company is often predictive of how long it will last. |
+| business-models | 246 | The time required to build a company is often predictive of how long it will last. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
@@ -48,7 +48,7 @@
 | product | 28 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 144 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 13 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
-| product-strategy | 98 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
+| product-strategy | 100 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
@@ -57,7 +57,7 @@
 | strategy | 283 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 70 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
-| unit-economics | 11 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
+| unit-economics | 12 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
 | validation | 184 | Pretty much 100% of startups that make something popular manage to make money from it. |
 | venture-capital | 14 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |
 | vision-and-strategy | 6 | Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed. |

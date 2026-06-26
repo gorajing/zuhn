@@ -47,10 +47,10 @@ stance: >-
 related:
   - INS-260624-6753
   - INS-260625-EC9A
+  - INS-260626-B149
   - INS-260605-6444
   - INS-260530-D34F
   - INS-260625-C69F
-  - INS-260605-A2AD
   - INS-260625-9E17
 ---
 MalSkillBench reports that skill-specific detection can look strong on code injection while collapsing on prompt-injection and agent-control attacks, and that wild-only scoring can swing rankings sharply because wild samples are narrow. The lesson is that benchmark coverage must include the cross-product of attack surface, not only the most common observed campaign.

@@ -61,6 +61,7 @@ related:
   - INS-260625-6127
   - INS-260625-ADEA
   - INS-260625-F3B0
+  - INS-260626-8660
 ---
 Most people locate an agent in the wrong place: they point at the model ('the agent is GPT/Claude') or the runtime ('the agent is this running process'). Those things interact with and execute the agent, but they aren't it. The agent is its data — specifically the append-only event history capturing every user input, model output, tool call, tool result, permission prompt, and failure. Every state transition is written to the log.
 

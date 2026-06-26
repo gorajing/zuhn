@@ -56,7 +56,6 @@ stance: >-
   For consumer AI experiences like playable games, model quality is already
   sufficient and the real gap is domain-specific product scaffolding and taste.
 related:
-  - INS-260412-C956
   - INS-260626-3396
   - INS-260327-D0F3
   - INS-260323-6043

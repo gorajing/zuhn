@@ -48,6 +48,7 @@ related:
   - INS-260327-C316
   - INS-260409-B2B5
   - INS-260329-94CF
+  - INS-260626-0D50
 stance: >-
   The 'self-driving money' app that automatically allocates paychecks, sweeps
   savings, and invests is technically feasible but faces a trust barrier

@@ -44,12 +44,11 @@ stance: >-
   Agents without verification criteria produce plausible code that doesn't work,
   and every failure falls on the human to catch.
 related:
+  - INS-260626-F6DA
   - INS-260605-6F34
   - INS-260605-B44B
   - INS-260330-B784
   - INS-260505-5A06
-  - INS-260605-FD3D
-  - INS-260625-B6E8
 ---
 Claude performs dramatically better when it can check its own work — run tests, compare screenshots, validate outputs against example inputs. Without clear success criteria, it produces things that look right but fail on edge cases, and the human becomes the sole feedback loop, paying attention cost on every iteration.
 

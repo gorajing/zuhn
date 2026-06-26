@@ -57,7 +57,6 @@ stance: >-
   stonewalling being the deadliest for startups
 related:
   - INS-260323-1C33
-  - INS-260330-82B5
   - INS-260404-BAED
   - INS-260329-0014
   - INS-260326-CA66

@@ -57,12 +57,13 @@ stance: >-
   non-deterministic AI system routinely introduces two or three regressions you
   cannot see.
 related:
-  - INS-260605-2186
   - INS-260605-0BA3
   - INS-260625-36DF
   - INS-260625-C08B
+  - INS-260605-2186
   - INS-260605-09E0
   - INS-260625-C697
+  - INS-260626-8DAD
 ---
 Ngo's sharpest warning: 'when you fix the thing that you thought you fixed, you might have actually produced like two or three regressions that you didn't really know about.' In deterministic software, a fix has a bounded blast radius you can usually reason about. In an AI system, a prompt tweak or model swap shifts the distribution of behavior everywhere at once, so a local fix can cause distant, invisible regressions.
 

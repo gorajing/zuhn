@@ -55,14 +55,14 @@ stance: >-
   effective learning and sustained use.
 related:
   - INS-260320-D44B
-  - INS-260321-CCD9
   - INS-260327-B403
   - INS-260330-5391
   - INS-260403-B9F4
-  - INS-260409-BE39
-  - INS-260409-04C8
   - PRI-260405-BF5B
   - PRI-260405-49C0
+  - INS-260409-04C8
   - INS-260409-FDE9
+  - INS-260412-3603
+  - INS-260514-33F4
 ---
 Historically, work on tools for thought has either ignored emotion or treated it as a secondary concern. The focus has been on 'what the user learns' — new skills, new concepts, new abilities — designed as if users were Spock. Meanwhile, movies, music, and video games have incredibly elaborate models of user emotional responses, from second-by-second engagement design to deep thinking about overall emotional journeys. Matuschak and Nielsen argue this is a huge missed opportunity: emotional connection is the foundation of effective learning and effective action. If users feel disinterested or afraid or anxious, no amount of intellectual content will compensate. Their proposed mnemonic video medium explicitly tries to blend the emotional range of Grant Sanderson's 3Blue1Brown math videos (which inspire awe and empathy but don't rigorously teach math) with the intellectual rigor of the Quantum Country mnemonic medium (which teaches rigorously but doesn't inspire awe). To paraphrase Einstein: detailed understanding without emotional connection is lame, while emotional connection without detailed understanding has no enduring power. Directly applicable to any Zuhn feature that is ostensibly 'for learning' — the emotional texture of daily use matters.

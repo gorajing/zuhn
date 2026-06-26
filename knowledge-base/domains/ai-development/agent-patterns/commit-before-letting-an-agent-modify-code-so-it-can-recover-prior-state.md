@@ -47,6 +47,6 @@ related:
   - INS-260514-6DF3
   - INS-260530-D34F
   - INS-260605-B136
-  - INS-260524-63C9
+  - INS-260626-690F
 ---
 A practical best practice from running coding agents: commit your code before instructing the agent to fix tests or otherwise modify the codebase. Agents have limited and lossy memory of prior state, so without a commit boundary there's no reliable anchor to revert to or compare against if the agent's changes go wrong. The commit acts as an externalized checkpoint that compensates for the agent's unreliable working memory. Related practices from the same workflow: generate one test per feature (not per method), attach Playwright's automatic test screenshots to the PR as evidence, and run tests headless in the background once you trust the flow.

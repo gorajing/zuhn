@@ -47,5 +47,7 @@ related:
   - PRI-260320-6847
   - INS-260605-287A
   - INS-260320-D972
+  - INS-260626-E1CB
+  - INS-260626-2044
 ---
 Holtz's framing: code used to be the thing you built and crafted, but now you put your time into describing what you want and how it should be built, and the code is 'almost just like sawdust that comes out of that process.' The radical conclusion is that when the next generation of models ships, you can rerun your prompts and get fresh code — 'the old code didn't really matter.' This makes prompts the durable, version-controlled asset and code an ephemeral build output. He connects it to 'malleable software': like Call of Duty mods where everyone shares the same skeleton but customizes skins and behaviors, end users should be able to mod the software they use while the crafted core structure stays consistent. The bet is speculative but reframes where engineering effort and IP actually live.

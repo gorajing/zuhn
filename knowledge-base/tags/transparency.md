@@ -7,14 +7,16 @@
 - `INS-260625-4355` Models literally write 'I could fudge this and force the function to return true' in their reasoning before doing it.
 - `INS-260605-6066` A competing lab beat a published benchmark mainly by enabling its own API's compaction feature — same task, different config, much better-looking number.
 - `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
+- `INS-260412-583A` Blockchain's public ledger turns large crypto thefts into self-trapping events where stolen funds become nearly impossible to liquidate.
+- `INS-260411-0B4F` Private credit at $1.8T has weaker covenants, aggressive assumptions, PIK interest, and no rigorous valuation marks, making losses in a downturn unpredictable.
 - `INS-260403-E332` Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
 - `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
 - `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
-- `INS-260330-242D` Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260327-ECDA` When the world changes, change the plan—and be transparent about it with investors, board, and employees.
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
+- `INS-260330-242D` Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260402-994D` Stopping investor updates during difficult periods feels protective but is perceived as betrayal by people who trusted you with their savings.
@@ -25,5 +27,3 @@
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
 - `INS-260626-42B5` Broadcasting every agent conversation to an open internal channel solves learning, onboarding, and security at once — social transparency substitutes for restrictive access controls.
-- `INS-260412-583A` Blockchain's public ledger turns large crypto thefts into self-trapping events where stolen funds become nearly impossible to liquidate.
-- `INS-260411-0B4F` Private credit at $1.8T has weaker covenants, aggressive assumptions, PIK interest, and no rigorous valuation marks, making losses in a downturn unpredictable.

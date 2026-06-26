@@ -44,11 +44,11 @@ stance: >-
   Stripping old tool calls to stay under a token budget invalidates the input
   cache every time, so on large-context models leaving context intact wins.
 related:
+  - INS-260626-411D
   - INS-260605-E831
   - INS-260605-4A2D
   - INS-260321-18D0
   - INS-260605-048B
-  - INS-260410-699C
   - INS-260625-5045
 ---
 When models had ~400k windows, Albanese stripped earlier tool calls once usage crossed a threshold to stay between 40% and 60% of the context window. The hidden cost: every edit to earlier context invalidates the prompt cache, forcing a full re-read. With million-token windows the pressure to prune is gone, so he now runs with zero compaction and reports a ~95% cache-read ratio on his coding agent and ~90-91% on his background-agent system that has pushed ~3.8 billion tokens in a month or two. The tradeoff he names explicitly: a high cache-read ratio is more valuable than a low token count, because cache hits buy speed, lower cost, and better performance. The lesson generalizes beyond his stack: context-management strategies should be evaluated against cache behavior, not just raw token count.

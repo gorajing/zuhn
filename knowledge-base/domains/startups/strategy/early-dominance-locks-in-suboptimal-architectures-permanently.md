@@ -51,7 +51,6 @@ stance: >-
   trapped by their own success, making redesign impossible even as the
   environment changes around them.
 related:
-  - INS-260330-1A23
   - INS-260403-9B3A
   - INS-260404-1A18
   - PRI-260406-358C

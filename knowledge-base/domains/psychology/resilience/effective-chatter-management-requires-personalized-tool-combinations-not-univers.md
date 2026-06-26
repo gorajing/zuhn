@@ -51,11 +51,11 @@ stance: >-
   is discovering your unique combination of self-talk tools through
   experimentation across self-directed, social, and environmental strategies
 related:
+  - INS-260626-B38C
   - INS-260403-CBB2
   - INS-260403-699A
   - INS-260404-B7E4
   - INS-260323-0603
-  - INS-260329-3D28
 evidence:
   - id: INS-260329-3D28
     type: EXTENDS

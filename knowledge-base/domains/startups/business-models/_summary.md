@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 244 insights
+> 246 insights
 
 - `INS-260410-9246` [high] Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260410-58A5` [high] F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
@@ -41,6 +41,7 @@
 - `INS-260327-2B62` [high] FaZe Clan's cost of revenue exceeded 70% every year because content creators demanded generous revenue-sharing to stay exclusive -- the company captured the least value while still spending beyond its means.
 - `INS-260327-78A0` [high] When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
 - `INS-260410-2632` [high] Nike gave Jordan a 5% gross revenue royalty plus signature shoe because Converse and Adidas couldn't offer the same without their existing stars demanding equal treatment.
+- `INS-260626-77D0` [high] Bundle features into credits the customer sees as stable, while freely re-mapping what each credit buys underneath as premium features become commodity and new ones launch.
 - `INS-260327-31A7` [high] Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
 - `INS-260327-4F8C` [high] Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260327-B715` [high] Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
@@ -81,6 +82,7 @@
 - `INS-260409-D0B6` [high] Home-cooked software — made for specific small communities by someone who knows them — has fundamentally different economics (no scale requirement), values (agency, privacy, care), and constraints (simple CRUD not enterprise complexity) than professional industrial software.
 - `INS-260327-6F08` [high] The home security industry business model is contract lock-in rather than service quality, with sales commissions incent
 - `INS-260403-6546` [high] OpenAI's capped-profit hybrid structure embedded a structural conflict between mission and commercialization that directly caused its 2023 leadership crisis.
+- `INS-260626-DC1B` [high] Combine a base subscription fee (to anchor the relationship) with a usage/scaling fee (to protect margins and let users experiment) rather than choosing one or the other.
 - `INS-260324-B7C0` [high] Unilever's ice cream division (Ben & Jerry's, Magnum, Klondike) grew only 4% in 20 years despite owning the world's best brands — they're now actively trying to sell the entire division.
 - `INS-260327-442D` [high] Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.
 - `INS-260330-16F7` [high] McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.

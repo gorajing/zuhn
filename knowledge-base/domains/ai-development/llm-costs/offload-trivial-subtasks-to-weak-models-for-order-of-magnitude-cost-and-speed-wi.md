@@ -61,9 +61,9 @@ related:
   - INS-260605-B9A9
   - INS-260625-1C2B
   - INS-260412-9777
+  - INS-260626-FBB1
   - INS-260410-E660
   - INS-260330-4AD5
-  - INS-260605-C9EB
 ---
 In Callosum's visual web navigation work, beating state-of-the-art on Video Web Arena (outperforming GPT-5.2 and Gemini 2.5 by 18% and 25%) came partly from acknowledging the task is intrinsically heterogeneous: it decomposes into visual reasoning, textual reasoning, and mechanical steps, each best served by a different model. A key differentiator was mapping low-value subtasks — like zooming or generating a different visual framing for the agent — onto deliberately less intelligent models, because a frontier model's capability is wasted on a zoom operation.
 

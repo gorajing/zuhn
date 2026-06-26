@@ -51,7 +51,6 @@ related:
   - INS-260412-DD1D
   - PRI-260403-FBA8
   - INS-260501-6453
-  - INS-260605-B6BC
   - INS-260605-988D
 evidence:
   - id: INS-260320-8DBD

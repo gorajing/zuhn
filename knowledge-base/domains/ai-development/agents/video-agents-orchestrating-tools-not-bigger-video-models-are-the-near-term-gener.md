@@ -68,6 +68,8 @@ related:
   - INS-260625-35C5
   - INS-260410-4782
   - INS-260327-DCF8
+  - INS-260626-136F
+  - INS-260626-EC65
 ---
 He predicts the next ~year of video is 'all this': language-model agents that treat generative models as one tool among many — alongside ffmpeg, video editors, and image-editing tools — and iteratively assemble, edit, and refine output the way human creators rely on post-production ('sometimes the reason the video is good is the editing, not the video model'). A naive video model takes 'edit this to one minute' and fails; an agent decomposes it into valid removal/add/replace/stitch operations and can hit lengths and precise placements (e.g. text at an exact timestamp) that diffusion models can't target. The inflection comes when agent output crosses the usability threshold for ads/enterprise distribution, at which point budgets shift toward agents (which are inherently more expensive because they generate many variations) and growth goes exponential.
 

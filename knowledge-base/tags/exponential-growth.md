@@ -6,6 +6,7 @@
 - `INS-260330-FF5B` Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - `INS-260412-41A5` Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.
 - `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
+- `INS-260412-AEE1` A Dyson Swarm bootstraps itself through exponential doubling — each panel powers the construction of the next, completing in ~60 doublings.
 - `INS-260412-2D98` Effective early intervention against exponential threats always feels like an overreaction because success is invisible.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260412-A944` When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.
@@ -20,10 +21,9 @@
 - `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
 - `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260330-DFA4` Tyson's experiment at Princeton showed astrophysical publications double every 15-18 years, meaning every generation on the exponential curve genuinely feels like they're living in special times.
-- `INS-260412-3A50` Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
 - `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260404-7C79` Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
 - `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
 - `INS-260402-318B` Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
+- `INS-260412-3A50` Technological progress compounds so fast that delayed competitive response can become permanently unrecoverable.
 - `INS-260323-244C` Netanyahu identifies the core AI leadership challenge: most people — including most political leaders — think in linear increments and cannot intuitively grasp geometric growth rates.
-- `INS-260412-AEE1` A Dyson Swarm bootstraps itself through exponential doubling — each panel powers the construction of the next, completing in ~60 doublings.

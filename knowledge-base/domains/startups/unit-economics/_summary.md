@@ -1,8 +1,9 @@
 # Topic: unit-economics
 
-> 11 insights
+> 12 insights
 
 - `INS-260410-0D14` [high] Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
+- `INS-260626-B3FD` [high] Unlike SaaS's stable 80-85% gross margins, AI margins are low and move with usage, so 5-10% of users consuming 80% of compute plus unpredictable infrastructure costs make flat pricing structurally unsafe.
 - `INS-260405-7ACC` [high] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
 - `INS-260412-F8AE` [high] FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
 - `INS-260405-6B96` [high] Amazon's 'free' streaming is only free in the sense that it's not line-itemed — its cost is recovered through the shopping behavior change it induces in Prime subscribers.

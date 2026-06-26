@@ -50,11 +50,11 @@ stance: >-
   permanently disengage, creating a death spiral where reduced usage means less
   feedback data and slower improvement
 related:
+  - INS-260626-C51E
   - INS-260330-843E
   - INS-260330-AB6F
   - INS-260323-9D6E
   - INS-260329-B0BA
-  - INS-260330-677A
   - INS-260404-5844
 evidence:
   - id: INS-260330-1A23

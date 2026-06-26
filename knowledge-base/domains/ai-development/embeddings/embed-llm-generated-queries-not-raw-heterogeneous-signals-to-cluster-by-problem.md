@@ -65,10 +65,10 @@ related:
   - INS-260403-3AC7
   - INS-260409-BE39
   - INS-260423-C506
-  - INS-260605-C0BF
   - INS-260605-1C4E
   - INS-260605-9362
   - INS-260625-0758
+  - INS-260329-FAE2
 ---
 PostHog's first attempt at grouping noisy product signals — errors, Slack messages, session replays — was to embed each signal and cluster in embedding space. It failed badly: off-the-shelf embedding models latch onto structural similarity, so every error sat near every other error, every Slack message near every other Slack message, and a stack trace about checkout never linked to the customer Slack message saying 'checkout is broken.' The data formed clusters by source type, not by underlying problem.
 

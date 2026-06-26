@@ -67,9 +67,9 @@ related:
   - INS-260410-AF66
   - INS-260625-C69F
   - INS-260605-2186
+  - INS-260626-B149
   - INS-260605-6444
   - INS-260625-BB42
-  - INS-260410-F40F
 ---
 Daytona splits its load into two patterns. Background/long-running agents (Cognition, Lovable, Harvey, OpenHands) usage mirrors humans — peaks at noon, troughs at midnight, low on weekends — which is projectable, so a high-growth company's capacity can be planned ahead. RL and eval workloads behave oppositely: a researcher fires off a run that instantly saturates 10k-100k CPUs at 100%, runs to completion, then drops to zero, and they fire at unpredictable times (kicking off a run before sleep, not during business hours). The amplitude of these spikes is unprecedented in human infrastructure.
 

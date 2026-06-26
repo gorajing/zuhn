@@ -51,11 +51,11 @@ stance: >-
   pricing, growth-first monetization — will scale themselves into bankruptcy
   because marginal costs never approach zero.
 related:
-  - INS-260325-206C
   - INS-260403-FF45
+  - INS-260626-B3FD
   - INS-260403-91F7
+  - INS-260325-206C
   - PRI-260406-7128
-  - INS-260321-2D72
 ---
 SaaS economics allowed founders to overpay for acquisition because serving each additional user cost nearly nothing. AI fundamentally breaks this model — every query, generation, and workflow carries a real token and GPU cost that often worsens at scale. A viral spike of 100K users can push inference costs to $2M/month while revenue lags far behind.
 

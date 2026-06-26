@@ -2,14 +2,15 @@
 
 - `INS-260405-9285` AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260329-E193` Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.
+- `INS-260626-4005` A spoken prompt produced a working bookshelf-cataloging app — image upload, search-grounded enrichment, Google login, persistent database, one-click Cloud Run deploy — that Bailey notes 'would have been a startup 3-4 years ago.'
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260409-3C6A` Non-developers who push tools like Airtable and Notion to their limits hit a 'command line wall' — the terminal is a huge jump in complexity, usability, and frustration from no-code tools, and almost no one crosses it without becoming a full-time programmer.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260329-5B7B` Pivot tables let non-programmers perform GROUP BY aggregations on business data that would otherwise require SQL or programming knowledge.
 - `INS-260403-CAB4` One or two founders can now handle the workload that previously required a five-person team by combining AI, no-code, and on-demand freelancers.
-- `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260329-917B` Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
 - `INS-260403-D6C2` No-code platforms and AI tools let non-technical founders go from idea to testable prototype in days, shifting the bottleneck from engineering capacity to hypothesis clarity.
+- `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260514-41C9` The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment.
 - `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
 - `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.

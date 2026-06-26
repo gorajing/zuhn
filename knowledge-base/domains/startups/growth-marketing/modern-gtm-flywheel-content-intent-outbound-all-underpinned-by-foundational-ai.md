@@ -62,6 +62,5 @@ related:
   - INS-260320-DCA0
   - INS-260603-DFA6
   - INS-260330-7106
-  - INS-260626-1C28
 ---
 Scott Wojinski's thesis at GTMFI: outbound alone is not a complete GTM strategy in 2026 — the modern flywheel is content + intent + outbound, with foundational AI as the underlayer that connects them. Content (blog posts, social posts, micro-sites) generates inbound signals (RB2B/Warmly/Vector on-site, Quanzu off-site intent). Intent signals (a known company visiting a pricing page, a known persona mentioned on social) get routed into highly personalized outbound (purpose-built agents generating channel-specific copy referencing the exact intent signal). Outbound replies and rejection patterns then inform the next round of content. None of this works without foundational AI: scraping content automatically, classifying intent signals automatically, personalizing outbound copy automatically, summarizing reply patterns automatically. Scott's data point: 'content drives intent which drives meaningful outbound and it drives reply rates and meeting bookings.' The implication for early-stage operators: don't try to do outbound in isolation — set up at least minimal content + intent capture even at small scale, because the compound effect of all three is what makes outbound reply rates non-trivial.

@@ -58,7 +58,6 @@ stance: >-
   mazes, ARC-AGI), tiny recursive models beat trillion-parameter LLMs by orders
   of magnitude.
 related:
-  - INS-260405-7305
   - INS-260330-BFD0
   - INS-260501-94AC
   - INS-260625-5184

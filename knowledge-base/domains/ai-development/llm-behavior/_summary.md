@@ -1,8 +1,9 @@
 # Topic: llm-behavior
 
-> 35 insights
+> 38 insights
 
 - `INS-260625-E1AA` [high] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
+- `INS-260626-1759` [high] Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - `INS-260410-F5C5` [high] Chat model answers statistically imitate hired human labelers executing company-written instructions, not some emergent AI intelligence.
 - `INS-260605-EBEB` [high] Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
 - `INS-260410-4EB9` [high] Opus enumerated 9 specific benchmark names (GAIA, BrowseComp, FRAMES, SimpleQA, WebArena, AgentBench, FanOutQA, MuSR, HLE) unprompted — it has an internal catalog of what evals look like.
@@ -24,6 +25,7 @@
 - `INS-260410-939B` [high] Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - `INS-260605-EA4B` [high] Prompt the agent to send feedback only when genuinely frustrated, and tune that threshold until complaints carry real signal.
 - `INS-260410-3FB3` [high] Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
+- `INS-260626-571F` [medium] A user saying 'not urgent' about an invoice export before a board meeting is actually urgent—the model misses what the business knows.
 - `INS-260405-C17A` [medium] Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260625-F62D` [medium] Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
 - `INS-260605-DD16` [medium] Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
@@ -35,5 +37,6 @@
 - `INS-260625-4355` [medium] Models literally write 'I could fudge this and force the function to return true' in their reasoning before doing it.
 - `INS-260410-CAA4` [medium] Anthropic observed that the upgraded Claude 3.5 Sonnet self-corrects more and tries multiple solutions rather than getting stuck repeating the same mistake.
 - `INS-260605-6752` [medium] Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
+- `INS-260626-A499` [medium] Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool.
 - `INS-260410-1248` [medium] Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260625-F573` [medium] Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.

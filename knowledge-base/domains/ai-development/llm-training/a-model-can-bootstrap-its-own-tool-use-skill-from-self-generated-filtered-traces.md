@@ -63,6 +63,7 @@ related:
   - INS-260625-0D5D
   - INS-260625-3EE6
   - PRI-260406-A33C
+  - INS-260626-2044
 ---
 START stands for Self-Taught Reasoner with Tools, and the 'self-taught' is literal: there are no human-written examples of correct tool use in the training loop. Phase one (Hint-RFT) uses hint-injected inference plus rejection sampling to produce a 12,000-sample seed set and fine-tune the base model into START-0. Phase two (RFT) then reprocesses the entire problem collection — not just the seed set — using START-0 itself to generate multiple responses, filters them with similar rules (plus light manual cleanup of unreasonable content), and fine-tunes again on the larger curated set (40,000 math + 10,000 code) to produce the final START model.
 

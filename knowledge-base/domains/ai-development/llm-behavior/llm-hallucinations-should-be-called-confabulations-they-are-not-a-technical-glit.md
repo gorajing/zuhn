@@ -55,6 +55,7 @@ stance: >-
   not a fixable technical defect but a structural property of associative memory
   systems
 related:
+  - INS-260626-B38C
   - INS-260519-7744
   - INS-260524-D5DB
   - INS-260625-8A5F

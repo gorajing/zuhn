@@ -50,7 +50,6 @@ stance: >-
   approach — just as traders won't trade without an edge, and systematically
   generated topic lists are useless without edge
 related:
-  - INS-260402-4451
   - INS-260403-8C36
   - INS-260403-A408
   - INS-260402-8223

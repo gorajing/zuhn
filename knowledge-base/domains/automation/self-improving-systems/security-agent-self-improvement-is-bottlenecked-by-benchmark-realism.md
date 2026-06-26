@@ -44,7 +44,6 @@ stance: >-
   findings can be verified reliably.
 related:
   - INS-260325-3F86
-  - INS-260409-E080
   - PRI-260328-49CB
   - INS-260402-5523
   - INS-260522-2CE8

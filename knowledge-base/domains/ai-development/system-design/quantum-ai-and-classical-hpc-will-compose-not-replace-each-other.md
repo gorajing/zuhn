@@ -61,7 +61,6 @@ related:
   - INS-260514-049E
   - INS-260501-2D0A
   - INS-260501-5F37
-  - INS-260605-738E
 ---
 Nadella rejects the common framing of quantum as a replacement for classical computing. Instead he gives a precise decomposition: classical is best for data-heavy workloads, quantum is best for data-light but state-space-heavy exploration (simulation, chemistry, physics, biology), and AI sits between them as a learned emulator of the underlying simulator.
 

@@ -52,7 +52,7 @@ related:
   - PRI-260409-0156
   - INS-260323-8D12
   - INS-260410-AC0B
-  - INS-260405-02BE
+  - INS-260626-1759
 ---
 Gauri Nagavkar (MemMachine) showed the concrete failure case: a user previously stored 'I'm allergic to peanuts.' Later the agent was asked to suggest dessert. With traditional RAG (single-node retrieval on 'dessert'), the peanut allergy note was not retrieved — the agent suggested peanut butter pie. With MemMachine's retrieval agent (expand to ±1 previous, ±2 next neighbor nodes on the graph), the allergy constraint was retrieved alongside dessert context and blocked the unsafe suggestion.
 

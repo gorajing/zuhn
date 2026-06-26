@@ -51,9 +51,9 @@ related:
   - INS-260330-A3B7
   - INS-260410-AF66
   - INS-260605-FCDA
+  - INS-260626-67E8
   - INS-260625-0021
   - INS-260403-C0D4
-  - INS-260410-FD24
 ---
 Unit tests aim for exhaustive coverage of everything that could break a function. Evals cannot work this way because the failure space of a non-deterministic agent is effectively infinite — trying to cover it exhaustively means you spend all your time writing tests and none shipping. Instead, you or a subject-matter expert should enumerate the specific, high-level failure modes the agent actually exhibits, and build evals targeted at those.
 

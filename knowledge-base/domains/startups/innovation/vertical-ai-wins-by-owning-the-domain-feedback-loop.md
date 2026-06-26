@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260403-11F9
   - INS-260605-C1A4
+  - INS-260626-EDB3
   - INS-260626-E253
   - PRI-260406-28E1
   - INS-260322-019A
-  - INS-260323-4EE4
 ---
 The project combines academic chemistry, NC State engineering, UNC chemistry expertise, and Eastman support around a concrete industrial process. The AI optimizer is embedded in a workflow that collects hard-to-get experimental data and validates candidates against process-relevant outcomes. That is much more defensible than wrapping a generic model around chemistry text.

@@ -49,9 +49,9 @@ stance: >-
   their token consumption is unbounded per user.
 related:
   - INS-260325-206C
-  - INS-260325-4FF3
   - INS-260329-C092
   - INS-260409-175D
+  - INS-260626-DC1B
   - PRI-260406-6E0F
   - PRI-260406-B785
   - PRI-260405-548B

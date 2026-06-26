@@ -47,7 +47,6 @@ stance: >-
   Founders who lead with personal credibility and human connection close more
   deals than those who lead with product features
 related:
-  - INS-260330-0145
   - INS-260330-CB2E
   - INS-260403-5EB4
   - INS-260403-DED8

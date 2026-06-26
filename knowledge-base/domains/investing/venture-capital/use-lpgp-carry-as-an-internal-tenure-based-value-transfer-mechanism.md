@@ -65,9 +65,9 @@ stance: >-
 related:
   - INS-260327-7435
   - PRI-260406-6E0F
+  - INS-260626-DC1B
   - INS-260403-3AEE
   - INS-260404-12A4
-  - PRI-260406-8F89
 ---
 The puzzle: Medallion is closed to outside investors, so Rentech effectively charges itself 5% management fees and 44% carry. Why? The insight is that this is a structural value-transfer mechanism from long-tenured insiders (who have accumulated large LP positions in the fund over years of compounding returns) to the currently-active research team. Each year, roughly 49% of returns flow to the working team via carry and fees, and 51% to the long-tenured base. Over time, as a researcher's LP stake grows, their balance flips from GP-side to LP-side — exactly like academic tenure.
 

@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260626-A927
   - INS-260403-64F4
+  - INS-260626-5A6D
   - PRI-260320-233B
   - INS-260605-F383
-  - INS-260403-7A48
 ---
 At enterprise scale, a feature that becomes a commodity costs millions: AT&T spends millions just summarizing every customer-agent transcript. A smaller specialized model that matches a frontier model on the specific task collapses that cost, making the tokenomics of the use case finally close. This is the difference between a use case that ships and one that is permanently 'too expensive.'
 

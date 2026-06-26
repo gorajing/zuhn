@@ -62,10 +62,10 @@ related:
   - INS-260329-5ECD
   - INS-260410-E27A
   - INS-260410-545A
+  - INS-260626-690F
   - INS-260605-A705
   - INS-260605-77EB
   - INS-260530-D34F
-  - INS-260321-D3BE
   - INS-260625-ECB6
 ---
 Lopopolo's reframing of linters and tests: traditionally these are gates that block merges or quality controls. In agent-driven development, they function as just-in-time context injection. The agent generates code; lint fires with a specific error like 'parse don't validate at the edge — you have a Zod schema, use it'; the agent receives this as a prompt to self-correct. Tests can assert structural properties (file length ≤350 lines, single canonical implementation of common patterns, package privacy) not just behavioral correctness. Good error messages aren't 'this is wrong' — they're remediation prompts: 'here's why and what to do next.' Every form of injecting context into the agent has become a kind of prompt: rules files, skill files, lint errors, test failures, reviewer agent comments. The author dryly notes: 'prompts, prompts, prompts, prompts.'

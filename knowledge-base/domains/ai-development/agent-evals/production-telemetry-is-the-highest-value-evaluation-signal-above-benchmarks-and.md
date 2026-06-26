@@ -59,11 +59,11 @@ stance: >-
   and simulated scenarios.
 related:
   - INS-260605-09E0
-  - INS-260605-1B9D
+  - INS-260626-ECC7
+  - INS-260626-67E8
   - INS-260625-0E60
   - INS-260605-2186
-  - INS-260625-8A55
-  - INS-260625-D1F9
+  - INS-260626-AC18
 ---
 Gupta frames modern AI evaluation as a pyramid: benchmarks at the base (scalable, repeatable, but limited operational value), scenario-based evaluations in the middle (realistic simulated workflows), and production telemetry at the top, where the highest-value signals live. The counterintuitive claim is that the best evaluation data does not come from a curated test set built by engineers — it comes from real users hitting the real system. Once a system is in production, every interaction becomes a signal: execution traces, user outcomes, escalations, failures, and feedback are all evaluation data.
 

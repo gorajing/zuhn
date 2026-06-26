@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 147 insights
+> 148 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -58,6 +58,7 @@
 - `INS-260423-44B4` [high] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
 - `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
 - `INS-260625-6C29` [high] Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
+- `INS-260626-1B29` [high] As agents do more work you become a manager of an async fleet — which means scoping work to avoid merge conflicts, frontloading context into specs/plans, and trusting agents to run long.
 - `INS-260403-5BCF` [high] Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260514-AE3E` [high] Senior engineers DOMINATE AI-amplified work. The 'AI-native juniors will win' prediction was empirically wrong. What matters is STEERING (talking with AI to direct it), and seniors have decades of reps doing exactly that.
 - `INS-260321-988C` [high] A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.

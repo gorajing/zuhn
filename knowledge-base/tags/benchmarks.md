@@ -17,11 +17,11 @@
 - `INS-260322-32E3` Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
 - `INS-260409-E776` Math olympiad AI scores jumped from ~65% to ~95% in a few months — the benchmark is saturating and will stop discriminating between frontier models soon.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
+- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
+- `INS-260626-4E80` The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
 - `INS-260605-2186` Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
 - `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
-- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
-- `INS-260626-4E80` The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
 - `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260625-6345` The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 - `INS-260409-ADD0` MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
@@ -55,11 +55,11 @@
 - `INS-260514-3974` AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist.
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
+- `INS-260514-5AEF` Diligence any AI product with: 'Show me your benchmarks' AND 'what's the delta vs vanilla Claude Code without your harness?' — if they can't answer, they have no moat beyond the base model.
+- `INS-260405-5569` Unicorn status typically requires 5 rounds, with private unicorns reaching it more efficiently than exit-unicorns.
 - `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
 - `INS-260405-5755` 35 companies have now cracked $1B ARR, suggesting billion-dollar revenue follows replicable patterns worth studying.
 - `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
-- `INS-260514-5AEF` Diligence any AI product with: 'Show me your benchmarks' AND 'what's the delta vs vanilla Claude Code without your harness?' — if they can't answer, they have no moat beyond the base model.
-- `INS-260405-5569` Unicorn status typically requires 5 rounds, with private unicorns reaching it more efficiently than exit-unicorns.

@@ -56,7 +56,7 @@ related:
   - INS-260605-44E2
   - INS-260605-014F
   - INS-260605-0436
-  - INS-260402-5ACE
+  - INS-260626-78D1
 ---
 Most agent context engineering focuses on supplying knowledge: facts, documents, and tool access that answer 'what can the agent do.' Neo4j's framing is that decision-aware agents need a second layer capturing 'why an agent should do something' — the hard and soft rules, policies, and constraints of the operating environment. Their canonical example is a financial-services agent deciding loan eligibility: the knowledge tells it the applicant's history, but the policies tell it whether approval is permitted.
 

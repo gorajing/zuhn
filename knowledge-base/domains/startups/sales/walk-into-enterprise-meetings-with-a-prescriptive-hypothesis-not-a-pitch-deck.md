@@ -63,6 +63,7 @@ related:
   - INS-260403-309F
   - INS-260403-1CC5
   - INS-260403-2DE3
+  - INS-260626-571F
 ---
 McDermott's rule is that founders lose enterprise deals because they show up proud of their tech instead of proud of an outcome. Customers are not buying features — they are hiring a product to do a specific job tied to either a tactical efficiency need or a strategic business-model play. Before walking in, you must already have a prescriptive notion of where the product fits in their world, grounded in external research on their strategy, regulatory environment, and stated priorities.
 

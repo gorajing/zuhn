@@ -1,5 +1,6 @@
 # Tag: agentic-workflows
 
+- `INS-260626-B149` A growing class of users ignores the eval UI entirely and just wants a coding agent (Claude Code, Codex) to run pure SQL on the trace backend, pull data into context, and improve their agent for them.
 - `INS-260625-2DA2` A frontier reasoning model that calls a video generator plus deterministic editing tools (ffmpeg, Photoshop) in a long iterative loop can produce production-grade long-form video that no single video model can.
 - `INS-260326-7F79` On the HumanEval coding benchmark, GPT-3.5 with agentic workflows scored approximately 95% versus GPT-4 zero-shot at 67%, demonstrating that workflow design can matter more than model scale.
 - `INS-260501-E843` Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale.

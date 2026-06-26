@@ -56,10 +56,10 @@ related:
   - INS-260405-CC9D
   - INS-260403-4A16
   - INS-260410-E977
-  - INS-260410-3601
   - INS-260410-9F17
   - INS-260410-BDFF
   - INS-260410-A27C
+  - INS-260410-25AC
 ---
 The common objection to 'just run an agent in a loop' is that it generates slop. Solmaz argues this is a category error: the loop is fine as long as you constrain what it does. Pointing a looping agent at uncovering shallow, easily-fixed bugs is productive; pointing it at design decisions is where slop is born. His ACP-X workflow encodes this directly — it does superficial refactors autonomously but relays anything needing a fundamental refactor back to the human.
 

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 98 insights
+> 100 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
@@ -48,6 +48,7 @@
 - `INS-260404-95D0` [high] The email system's fundamental vulnerability is that sending messages has no consequences for the sender.
 - `INS-260403-4964` [high] The App Store, launched a year after iPhone, became a stronger moat than the hardware itself through developer network effects.
 - `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
+- `INS-260626-7C81` [high] Define value as what the customer perceives the product to do, then pick a billable unit in their language — not in tokens or API calls they don't understand.
 - `INS-260410-ABFF` [high] Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
 - `INS-260404-2BDA` [high] Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260403-A8F3` [high] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
@@ -69,6 +70,7 @@
 - `INS-260402-3CF1` [high] Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260403-C4CD` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260410-671A` [high] The core unlock of Trader Joe's was realizing wine is the ultimate non-commodity commodity, then asking: what if we merchandise granola, nuts, frozen dinners, and everything else the same way?
+- `INS-260626-B77F` [high] Ship a price point as a testable hypothesis instead of agonizing toward a 'right' price, then iterate via churn interviews and A/B tests — knowing your billing infra determines whether each change takes a day or three months.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260404-380C` [high] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
 - `INS-260403-0196` [high] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.

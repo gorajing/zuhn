@@ -61,13 +61,13 @@ related:
   - INS-260330-819E
   - INS-260405-0E77
   - INS-260405-EFC2
-  - INS-260403-2774
   - INS-260409-E44A
   - INS-260501-FD20
   - INS-260625-E696
   - INS-260403-A2E9
   - INS-260501-70FE
   - PRI-260328-B4BD
+  - INS-260410-AF68
 ---
 If LLMs really were general knowledge workers, we'd expect productivity gains distributed across consultants, accountants, writers, and programmers in proportion to text-heavy tasks. Instead, API revenue is dominated by coding — which is striking because language-in-language-out tasks like writing spaced repetition prompts or editing transcripts remain stubbornly hard.
 

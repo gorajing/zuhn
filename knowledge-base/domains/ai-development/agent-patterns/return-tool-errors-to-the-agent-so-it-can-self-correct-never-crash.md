@@ -52,11 +52,11 @@ related:
   - INS-260410-E27A
   - INS-260602-EA48
   - INS-260605-C726
+  - INS-260626-8C66
   - INS-260605-2A69
   - INS-260605-37DA
   - INS-260605-3588
   - INS-260625-86CF
-  - INS-260625-52B6
 ---
 When a tool lets the agent write something complex from scratch — like a raw ESQL or SQL query — invalid output is likely. Monigatti wraps such tools in a try/except that returns the error message back to the agent as the tool response instead of raising and crashing the system. The agent reads the error and rewrites the query on its next turn. She calls this generally important for any agent tool, and especially load-bearing for general-purpose, high-ceiling tools where the failure rate is higher.
 

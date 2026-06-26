@@ -62,7 +62,7 @@ related:
   - INS-260605-6444
   - INS-260320-1B10
   - INS-260619-F1E3
-  - INS-260605-74CC
+  - INS-260626-A05F
 ---
 PostHog's execution step clones the user's repo into a sandbox (they use Modal), runs the Claude Agent SDK to write a fix, and pushes a PR. The critical design choice is what happens after: when CI fails or a comment lands on the PR, they rehydrate a snapshot of that sandbox and continue running the agent until the PR is green, rather than handing a half-finished, failing PR back to the human.
 

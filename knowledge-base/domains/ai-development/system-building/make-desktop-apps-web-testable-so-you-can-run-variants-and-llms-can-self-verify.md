@@ -58,6 +58,7 @@ related:
   - INS-260625-2439
   - INS-260605-0C56
   - INS-260327-63B5
+  - INS-260626-E5E5
 ---
 Desktop apps lack the testing luxuries of web apps — Granola could run only one Electron instance at a time, creating heavy friction for testing variants and getting coworkers to verify changes. They solved it by abstracting Electron's IPC/system APIs to fall back to web standards in a web environment, and moving React routers, sessions, and the query layer to web standards too. This made the renderer agnostic of Electron so it runs as a plain web app.
 

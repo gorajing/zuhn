@@ -48,8 +48,8 @@ related:
   - INS-260330-0F23
   - PRI-260328-8317
   - INS-260330-AB67
+  - INS-260626-DD33
   - INS-260625-DD6D
-  - INS-260410-85AD
 ---
 x402's pitch is not just cheaper payments; it is instant programmatic access to APIs, content, microservices, and proxy services. The source also points toward discovery for buyers, including agents.
 

@@ -51,10 +51,10 @@ stance: >-
   conventions) while humans retain review of system design and architecture.
 related:
   - INS-260603-73D5
+  - INS-260626-A645
   - PRI-260328-F723
   - INS-260320-1B10
   - INS-260603-6B3D
-  - INS-260530-D34F
 ---
 PFF deliberately did NOT use agents for the code reviews engineers normally do — system design and architectural judgment. Instead they pointed agents at the reviews engineers hate receiving: variable naming, style violations, 'this doesn't fit our conventions,' and other opinionated nits. This does two things at once: it removes the emotional friction of a human critiquing another human's style, and it frees engineers to focus their review attention on the parts that actually require human judgment.
 

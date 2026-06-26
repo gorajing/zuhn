@@ -52,11 +52,11 @@ stance: >-
   Multi-step tool workflows should be expressed as code the model writes, not as
   chains of natural-language tool calls.
 related:
+  - INS-260626-E1CB
   - INS-260410-1030
   - INS-260410-60C8
   - INS-260625-7592
   - PRI-260411-9CB1
-  - INS-260403-643A
 ---
 Traditional tool calling has two failure modes at scale: intermediate results pollute context (a 10MB log file enters the window even if the model only needs error frequencies), and each call requires a full inference pass for manual synthesis. A five-tool workflow becomes five round-trips plus error-prone natural-language reasoning over the accumulated data.
 

@@ -43,14 +43,13 @@ stance: >-
   the wrong problem — verifier quality is the hard ceiling on long-horizon
   autonomy.
 related:
-  - INS-260403-5C1D
   - INS-260403-9C60
   - INS-260409-E080
   - PRI-260411-14DC
+  - INS-260626-656C
   - INS-260403-4363
   - PRI-260406-3EF8
   - INS-260410-A27C
-  - INS-260605-27CC
   - INS-260625-B6E8
   - INS-260625-E3A2
 ---

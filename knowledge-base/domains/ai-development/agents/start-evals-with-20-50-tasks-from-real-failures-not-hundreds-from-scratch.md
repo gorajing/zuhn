@@ -47,11 +47,11 @@ stance: >-
   Teams should start building agent evals with 20-50 tasks sourced from real
   user failures rather than waiting until they have a 'complete' test suite.
 related:
+  - INS-260626-67E8
   - INS-260605-E2D9
   - INS-260605-773B
   - INS-260625-BB42
   - INS-260625-7926
-  - INS-260605-365A
   - INS-260605-780C
   - INS-260626-C3A9
 ---

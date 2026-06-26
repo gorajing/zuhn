@@ -53,13 +53,13 @@ stance: >-
 related:
   - INS-260323-4B4D
   - INS-260402-2342
-  - INS-260405-2BB0
-  - INS-260605-E642
   - INS-260605-8BEA
   - INS-260605-37FB
   - INS-260605-9276
+  - INS-260405-2BB0
   - INS-260605-83DA
   - INS-260605-6444
   - INS-260626-F01D
+  - INS-260626-8660
 ---
 The broader lesson Ayush draws is a clean taxonomy: an internal agent needs three kinds of memory, and the design discipline is to back each with a distinct, concrete artifact rather than cramming everything into one giant prompt. Factual memory is how the business actually works operationally — encoded as read-only access to the live codebase and database. Behavioral memory is what you teach the agent through feedback — encoded in an editable instructions.md loaded every turn. Procedural memory is the regular tasks you perform — encoded as the tools the agent writes for itself. This separation is powerful because each memory type has a different update mechanism and a different owner: factual memory syncs automatically on release, behavioral memory is edited conversationally by anyone, and procedural memory is grown by the agent. Treating them as one undifferentiated 'context' is the failure mode; treating them as three pipelines with distinct lifecycles is what makes the agent maintainable as it scales.

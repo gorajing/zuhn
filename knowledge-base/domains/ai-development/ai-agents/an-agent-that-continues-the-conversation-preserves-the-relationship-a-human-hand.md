@@ -46,7 +46,6 @@ related:
   - PRI-260324-2A76
   - INS-260320-9D89
   - INS-260519-08E0
-  - INS-260605-90CF
   - INS-260605-5078
 ---
 Zvirawa's structural claim: in any human-to-human handover something inherent forces the relationship to be rebuilt; the context may transfer, the relationship doesn't. An agent continuing the conversation maintains the relationship and lets the handover happen only when it's most impactful for customer and business. Adds a relationship-continuity argument to the KB's human-vs-automation boundary principles (what to automate vs preserve).

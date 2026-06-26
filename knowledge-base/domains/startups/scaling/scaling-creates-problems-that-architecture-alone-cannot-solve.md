@@ -54,6 +54,7 @@ related:
   - INS-260514-731A
   - PRI-260411-78CD
   - INS-260412-9657
+  - INS-260626-AC18
 ---
 Jason Cohen's observation — 'rare things become common at scale' — captures a non-obvious truth about software growth. The edge cases you ignored at 1,000 users become your primary failure modes at 10 million. A bug that fires 0.001% of the time becomes your most common support ticket. A database query that's slow once-in-a-million executions becomes a constant performance emergency.
 

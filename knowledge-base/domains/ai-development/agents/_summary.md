@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 67 insights
+> 68 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -62,6 +62,7 @@
 - `INS-260625-F3B0` [medium] Like a Star Trek transporter for sessions: the full state — repos, SHAs, agent history, decisions — materializes on a coworker's machine, so they resume your Claude session with Codex and zero setup.
 - `INS-260423-85B3` [medium] Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
 - `INS-260413-11C9` [medium] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
+- `INS-260626-9E65` [medium] Beyond fan-out for speed, spin up N sub-agents to generate divergent hypotheses on the same target — different vulnerability angles on one diff, several implementation approaches for one feature, best-of-N cloud runs.
 - `INS-260605-E642` [medium] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - `INS-260605-169D` [medium] Treat robustness like a vision model's tolerance to fog or camera shake: specify how many typos or rephrasings the agent can absorb before it breaks.
 - `INS-260405-E8A1` [medium] When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.

@@ -48,7 +48,7 @@ related:
   - INS-260410-78F4
   - INS-260605-C0BF
   - INS-260605-BB4B
-  - INS-260605-A557
+  - INS-260626-BE0D
 ---
 AHE's second pillar, experience observability, addresses the problem that millions of trajectory tokens bury the signal needed to improve a harness. The paper proposes a layered, drill-down evidence corpus rather than feeding raw logs back to the evolving agent.
 

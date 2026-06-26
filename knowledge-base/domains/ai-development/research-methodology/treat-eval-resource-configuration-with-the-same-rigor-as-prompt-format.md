@@ -54,9 +54,9 @@ related:
   - INS-260402-CC68
   - INS-260411-F649
   - INS-260327-BF89
+  - INS-260626-67E8
   - INS-260403-063E
   - INS-260625-CBC7
-  - INS-260325-BC2A
   - INS-260625-A53F
 ---
 The cultural practice of publishing a prompt and a temperature but not the container CPU/RAM/timeout configuration reflects an assumption carried over from static evals: that the runtime doesn't matter. For agentic benchmarks this assumption is empirically false, and the gap between leaderboard positions is smaller than the gap created by infrastructure differences alone.

@@ -1,6 +1,7 @@
 # Tag: world-models
 
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
+- `INS-260626-EC65` Genie 3 generates each frame dynamically pixel-by-pixel with no physics engine or game engine behind it — it is a navigable video, not a 3D mesh you can extract as a game asset.
 - `INS-260403-AC01` Multi-layered optimization produces emergent capabilities irreducible to any single layer's objective.
 - `INS-260323-7A50` Just as ChatGPT needed a language model, robots need a world foundation model that understands gravity, friction, inertia, and cause-and-effect — trained in physics-grounded simulations.
 - `INS-260413-8CA7` Google DeepMind's Veo 3 demonstrated emergent physical understanding — buoyancy simulation and maze solving — without being explicitly trained on those tasks, across 18,000 generated videos.

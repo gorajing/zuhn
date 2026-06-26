@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260626-40DF
   - INS-260403-0240
+  - INS-260626-F6DA
   - INS-260403-C10D
   - INS-260322-EDA4
   - PRI-260321-7307
-  - INS-260321-1A0B
 ---
 Blankfein explicitly rejects the science-fiction framing of AI risk ('not because it's smarter than us and it's going to turn us into pets, but because we don't have the ability to test whether it's right or not'). The danger he identifies is the combination of leverage and opacity: before this technological age a human mistake couldn't easily cost billions, but now a piece of software can autonomously execute 70,000 transactions. He invokes Bhopal versus a Fukushima-scale atomic accident as an analogy for how leverage amplifies the consequence of a single error.
 

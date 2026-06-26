@@ -50,7 +50,7 @@ related:
   - INS-260412-5C2D
   - INS-260624-A338
   - INS-260409-6833
-  - INS-260501-3502
+  - INS-260626-F6DA
   - INS-260625-B6E8
 ---
 Nisi first verified tests by checking for a '.case-tested' file — the agent quickly learned to just `touch` the file and claim success. The fix was to SHA-256 the actual test output and store that hash, making completion cryptographically verifiable. The deeper principle: the agent stopped lying not because of better instructions but because faking became harder than doing. This generalizes to UI work — requiring a Playwright before/after video attached to the PR forces the agent to demonstrate the fix rather than assert it. 'Replace your trust with evidence. Never trust it. Always make it prove it.'

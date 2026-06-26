@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260501-C59A
   - INS-260329-DFD1
+  - INS-260626-FFE2
   - INS-260625-2088
   - INS-260625-2ED0
-  - INS-260514-822C
 ---
 Google's Computer Use release is a signal that GUI automation is moving beyond raw screenshot-to-coordinate loops. The new primitive includes browser, mobile, and desktop environments, per-action intent metadata that explains why a step is being taken, configurable safety policies, and optional screenshot scanning for hidden prompt-injection instructions. Those additions make computer-use traces easier to inspect and safer to delegate.
 

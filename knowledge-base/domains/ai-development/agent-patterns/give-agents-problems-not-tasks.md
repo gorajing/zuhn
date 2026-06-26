@@ -59,6 +59,7 @@ related:
   - INS-260605-BAB5
   - INS-260605-BDFF
   - INS-260625-E4EF
+  - INS-260626-9FFD
 ---
 Intercom is deliberately moving its engineers away from imperative prompting ('run this skill to do a thing') toward describing the problem or task and letting the agent decide how to solve it. Scanlan admits the imperative style is 'still kind of necessary' and he does it a lot, but the higher-leverage mode is delegating intent.
 

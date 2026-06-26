@@ -2,13 +2,17 @@
 
 - `INS-260403-EE02` Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260327-C7D5` One 60-minute daily workflow — script rewrite, AI voiceover, AI image generation, AI video conversion, CapCut editing — produces Shorts that earn $2K+ on good days.
+- `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
+- `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
 - `INS-260403-2E0F` The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
 - `INS-260325-4FF3` Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies should charge for value delivered — aligning revenue with the GDP of agent output rather than compute consumed.
 - `INS-260403-32BA` Creators are increasingly launching product lines, brands, and software companies rather than relying solely on content monetization.
+- `INS-260626-77D0` Bundle features into credits the customer sees as stable, while freely re-mapping what each credit buys underneath as premium features become commodity and new ones launch.
 - `INS-260410-13EB` F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
 - `INS-260403-096C` When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
+- `INS-260626-DC1B` Combine a base subscription fee (to anchor the relationship) with a usage/scaling fee (to protect margins and let users experiment) rather than choosing one or the other.
 - `INS-260403-616B` Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
@@ -22,5 +26,3 @@
 - `INS-260410-00F0` 'Organize the world's information and make it universally accessible and useful' was genius because it was broad enough to scale for 25+ years, altruistic enough to recruit generational engineering talent, and tautologically monetizable — anyone who organizes information for hundreds of millions of people can monetize intent.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-3739` Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.
-- `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
-- `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.

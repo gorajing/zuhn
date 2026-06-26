@@ -48,11 +48,10 @@ stance: >-
   Generative models should learn representations internally via student-teacher
   self-distillation rather than importing them from frozen external encoders.
 related:
-  - INS-260404-CE26
   - INS-260403-9774
   - INS-260505-AFAB
-  - INS-260605-9F3D
   - INS-260605-D37A
+  - INS-260404-CE26
   - INS-260625-D790
   - INS-260501-FDF0
   - INS-260605-C46E

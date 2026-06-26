@@ -59,7 +59,6 @@ related:
   - INS-260405-787F
   - INS-260403-8991
   - INS-260412-09EE
-  - INS-260605-6A32
 stance: >-
   The entire GameStop crisis was caused by an archaic settlement system (T+1)
   that requires collateral posting for trades that have already occurred

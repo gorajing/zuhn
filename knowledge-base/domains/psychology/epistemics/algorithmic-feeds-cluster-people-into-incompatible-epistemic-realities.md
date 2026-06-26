@@ -56,7 +56,6 @@ related:
   - INS-260323-9AA5
   - PRI-260426-9E23
   - INS-260323-8966
-  - INS-260423-FB36
 ---
 The polarization problem is commonly framed as people having different values or opinions. But algorithmic clustering runs deeper: when two people's feeds are sufficiently diverged, they are exposed to different sets of claimed facts, different framings of events, and different figures of authority. The result is not disagreement about conclusions but incompatible starting premises — which makes persuasion or common ground nearly impossible.
 

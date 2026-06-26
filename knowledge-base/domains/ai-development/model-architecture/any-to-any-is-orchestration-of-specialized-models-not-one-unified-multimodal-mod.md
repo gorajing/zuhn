@@ -56,8 +56,8 @@ related:
   - INS-260322-B09B
   - INS-260605-ACCD
   - INS-260408-C572
+  - INS-260626-136F
   - INS-260409-FB26
-  - INS-260321-3967
 ---
 Löber openly flags that the capability slide 'gives the wrong impression' — there is not yet one multimodal model. The main Gemini series understands many input modalities but only outputs text; separate specialized models (Nano Banana for native image, a Gemini-2.5-based TTS for speech) handle generation, wired together via function calls. The unified model is a stated future vision, not the current reality.
 

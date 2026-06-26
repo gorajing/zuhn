@@ -1,6 +1,7 @@
 # Tag: tooling
 
 - `INS-260605-82BD` Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
+- `INS-260626-8747` Starting evals in a spreadsheet is the right first move, but it's documenting, not experimenting — it can't compare experiments over time, run analytics, or bring non-technical SMEs into the loop.
 - `INS-260605-303C` Agents look less autonomous than they are because you can only reach them in their native environment, not because the models are weak.
 - `INS-260625-AB58` Build tiny single-purpose skills and compose them, rather than one mega-skill that does an entire workflow.
 - `INS-260410-0FC1` Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
@@ -17,11 +18,11 @@
 - `INS-260625-81E1` The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
 - `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
-- `INS-260402-E470` Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260403-E4DD` Fragmented financial tracking across multiple tools creates version control chaos and mismatched assumptions that unravel during investor due diligence.
 - `INS-260330-ED04` Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
 - `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
+- `INS-260402-E470` Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260403-F148` Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-9C60` The quality of a tool is measured by the journey it enables, not the destination it displays.

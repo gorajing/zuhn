@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 55 insights
+> 58 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -20,6 +20,7 @@
 - `INS-260403-B16E` [high] DeepSeek's MoE architecture activates only relevant neurons per task, slashing compute costs while maintaining competitive performance.
 - `INS-260605-1787` [high] You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
 - `INS-260625-7935` [high] Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
+- `INS-260626-FBB1` [high] A flyweight model with code execution drew correct Lego-brick bounding boxes 'right out of the gate' for a fraction of a penny — faster and cheaper than the larger model that reached the same answer.
 - `INS-260410-3F1A` [high] Loading a document once into the prompt cache and referencing it across many chunk-context calls drops the cost of LLM-generated chunk annotations to roughly $1 per million document tokens.
 - `INS-260605-E4BB` [high] Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
 - `INS-260410-43E4` [high] GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
@@ -47,10 +48,12 @@
 - `INS-260412-9B00` [medium] At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260405-DA33` [medium] DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
 - `INS-260626-A08F` [medium] Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
+- `INS-260626-5A6D` [medium] Frontier models handle long-running complex tasks, but mini/nano models are deliberately positioned to power short-running sub-agents at low enough cost that spinning up many of them in parallel makes economic sense.
 - `INS-260619-AD94` [medium] At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
 - `INS-260404-CE26` [medium] Nvidia's CUDA monopoly on AI training becomes less relevant when models can be trained efficiently on modest hardware.
 - `INS-260605-D33F` [medium] Specialized fine-tuned models reportedly beat frontier APIs at ~1/5 the cost (Intercom) or orders of magnitude cheaper, because they only need to win at one task.
 - `INS-260320-D972` [medium] Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
+- `INS-260626-411D` [medium] Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.
 - `INS-260625-C08B` [medium] Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
 - `INS-260625-1C2B` [medium] Don't pay for a top model to click buttons — when the environment does the masking and unblocking, a small model is enough.
 - `INS-260625-2906` [medium] Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.

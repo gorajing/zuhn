@@ -58,9 +58,9 @@ related:
   - INS-260410-3A64
   - INS-260403-3739
   - INS-260329-F2BB
+  - INS-260626-77D0
   - INS-260404-C6EB
   - INS-260403-9E6A
-  - INS-260403-0E87
 ---
 Ballmer's core insight from inventing the Enterprise Agreement: IT professionals are not optimizing for lowest cost or minimal feature footprint. They're optimizing to not look bad. They want comprehensive coverage so no department can come asking for software they don't have, full paid-up licensing so auditors find nothing, and a single throat to choke when anything breaks. Paying for software you aren't using isn't waste — it's the premium on an insurance policy.
 

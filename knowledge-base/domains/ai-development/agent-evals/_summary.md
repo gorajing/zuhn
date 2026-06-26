@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 54 insights
+> 64 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -8,12 +8,15 @@
 - `INS-260625-0021` [high] Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260626-A0DC` [high] CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
+- `INS-260626-67E8` [high] The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
 - `INS-260625-BB42` [high] An agent eval measured in dollars earned can never saturate, while percentage benchmarks lose all signal once models cluster near the top.
 - `INS-260625-13F0` [high] If a model refuses or underperforms a task it's actually capable of because it senses an evaluation, getting the real answer is an adversarial optimization problem.
 - `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.
+- `INS-260626-ECC7` [high] Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
 - `INS-260626-33BE` [high] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
+- `INS-260626-AC18` [high] When you have no production traffic, curate known edge cases into a golden dataset so releases rest on evidence rather than vibes.
 - `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
 - `INS-260626-F5AE` [high] The agents generally followed context-file instructions, but that mainly produced more testing, exploration, specialized-tool use, and reasoning tokens.
 - `INS-260626-B0D5` [high] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
@@ -30,11 +33,16 @@
 - `INS-260625-18D0` [high] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
 - `INS-260626-9155` [high] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260625-9644` [high] When a task has objective consequences, evaluate the consequence, not the prose around it.
+- `INS-260626-3105` [high] Run each eval ~5 times, track its pass rate, and give the tests you care about a small failure budget — a single green run proves nothing.
+- `INS-260626-F6DA` [high] If you trust the tests, you can trust the output without looking at the code — so the highest-leverage investment is building systems agents can use to verify their own work.
 - `INS-260625-B096` [high] Retry provider faults, not poor answers.
 - `INS-260625-D1F9` [high] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
 - `INS-260626-F335` [high] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
+- `INS-260626-AF37` [high] Build context tests in tiers — lint the spec, check comprehension, judge conventions with an LLM, then give the judge tools so it actually runs the result.
+- `INS-260626-EDB3` [high] Anyone can vibe-code the eval UI; the real engineering moat is a data layer that handles huge, unstructured, high-velocity agent traces under two conflicting query patterns.
 - `INS-260625-EC9A` [high] The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260626-983E` [high] The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
+- `INS-260626-8DAD` [high] If you can write it as a deterministic check, do; only fall back to LLM-as-judge for nuance like tone or brand fit—and sample its use to control cost.
 - `INS-260625-2A4F` [high] Shared failures are often benchmark QA signals before they are leaderboard facts.
 - `INS-260625-B985` [high] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
 - `INS-260625-029F` [medium] A reliable agent must be scored on knowing when not to continue.
@@ -42,6 +50,7 @@
 - `INS-260625-C1E8` [medium] AgentRun gates should distinguish fast blockers from slower calibration signals.
 - `INS-260625-6178` [medium] Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260625-ED7E` [medium] METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
+- `INS-260626-B149` [medium] A growing class of users ignores the eval UI entirely and just wants a coding agent (Claude Code, Codex) to run pure SQL on the trace backend, pull data into context, and improve their agent for them.
 - `INS-260625-4D09` [medium] METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
 - `INS-260625-76E9` [medium] Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260625-869B` [medium] Budgeted ranked evidence is a stronger context gate than raw file-hit or token-count metrics.
@@ -55,4 +64,5 @@
 - `INS-260625-B296` [medium] A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
 - `INS-260625-8EC6` [medium] Generated evals scale only when verification is generated and validated with the task.
 - `INS-260625-2B5A` [medium] Correctness gates should encode behavior, not proximity to one historical patch.
+- `INS-260626-8747` [medium] Starting evals in a spreadsheet is the right first move, but it's documenting, not experimenting — it can't compare experiments over time, run analytics, or bring non-technical SMEs into the loop.
 - `INS-260625-FFDF` [medium] SWE-EVO shows that benchmark saturation on isolated tasks can hide a large capability gap on release-sized work.

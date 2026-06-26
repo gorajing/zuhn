@@ -54,11 +54,11 @@ stance: >-
   Mutating agent actions should be gated by deterministic human-in-the-loop
   approval, not left to the model's judgment.
 related:
-  - INS-260625-36DF
   - INS-260602-EA48
   - INS-260625-A668
   - INS-260603-6B3D
-  - INS-260605-0C5C
+  - INS-260626-A499
+  - INS-260625-36DF
   - INS-260626-FC7A
 ---
 OpenGov built a feature that 'deterministically interrupts the agent loop' whenever a tool call requires human approval. The agent surfaces a UI where a person explicitly accepts or rejects the action before it executes. They emphasized this matters most for mutating operations and is about 'always making sure humans are in the driver's seat' — both for safety and for building user trust.

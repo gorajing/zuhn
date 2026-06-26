@@ -1,5 +1,6 @@
 # Tag: systems-design
 
+- `INS-260626-EDB3` Anyone can vibe-code the eval UI; the real engineering moat is a data layer that handles huge, unstructured, high-velocity agent traces under two conflicting query patterns.
 - `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260625-5124` The electric grid's history shows that the most enduring coordinators never owned their own generation — they pooled uncorrelated anchor demand and let participants share base load while scheduling their spikes.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.

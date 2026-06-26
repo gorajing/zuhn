@@ -60,7 +60,6 @@ stance: >-
 related:
   - INS-260322-3083
   - INS-260321-D3BE
-  - INS-260320-1B10
   - INS-260325-031F
   - INS-260325-D540
   - INS-260329-3D28
@@ -68,6 +67,7 @@ related:
   - INS-260403-D090
   - INS-260329-92C3
   - INS-260403-08D7
+  - INS-260403-EA31
 ---
 Because real-time audio integration is genuinely hard to get right, DeepMind ships coding-agent skills for all the Gemini APIs — including the Live API — that developers install into their coding agents. The skill encodes the right patterns so the agent produces working integrations instead of plausible-but-broken code, materially improving the odds a developer succeeds with a complex surface.
 

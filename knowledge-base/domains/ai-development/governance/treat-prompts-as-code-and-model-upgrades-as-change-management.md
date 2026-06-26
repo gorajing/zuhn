@@ -74,8 +74,8 @@ related:
   - INS-260605-A3F4
   - INS-260626-1673
   - INS-260530-C385
+  - INS-260626-67E8
   - INS-260605-726C
-  - INS-260605-F4AE
   - INS-260625-F62D
 ---
 Bhaumik's governance pillar (distinct from data governance, which he treats as a given) covers the AI-specific operational risks: audit trails of every action and request, pre-validation of PII (their testing layer caught 47 PII breaches), and two change-management disciplines that teams routinely under-invest in. The first is prompt versioning treated as change management: a prompt change cannot be a throwaway git commit. Because prompts are behavior, each version needs documented rationale — what failure triggered the change, what it is meant to correct — so that when you later inspect the version history you can trace *why* each change was made. He frames this as 'treating prompt as code.'

@@ -51,10 +51,10 @@ stance: >-
   signals and avoid inheriting their reports' blind spots
 related:
   - INS-260403-2CA3
+  - INS-260626-4BC2
   - INS-260514-23D6
   - INS-260320-7914
   - INS-260530-E6AA
-  - INS-260403-4102
 ---
 Jensen Huang deliberately avoids the standard executive information diet of dashboards and polished summaries. Instead, he reads raw updates, listens to engineers explain problems in technical language, and attends seminars to learn new concepts firsthand. This dramatically increases his workload but prevents a compounding failure mode: when leaders only consume summaries, they inherit every blind spot of the summarizer.
 

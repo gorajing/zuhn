@@ -55,8 +55,8 @@ related:
   - INS-260605-72C4
   - INS-260624-9A4B
   - INS-260605-365A
+  - INS-260626-67E8
   - INS-260605-773B
-  - INS-260625-B985
 ---
 Chen argues that robust eval methodology means going beyond accuracy to capture whatever dimensions actually matter for the capability at hand — cost, latency, the quality of intermediate reasoning traces, and tool use — and treating those as reward or supervision signals. Measuring what a benchmark claims to measure is itself a non-trivial feat for reproducibility.
 

@@ -57,7 +57,7 @@ related:
   - PRI-260406-17AA
   - INS-260404-420F
   - INS-260403-6342
-  - INS-260403-BE7C
+  - INS-260626-5A6D
 stance: >-
   The most scalable business models solve three different groups' pain points
   simultaneously in a self-reinforcing loop.

@@ -53,8 +53,8 @@ stance: >-
 related:
   - INS-260403-6652
   - PRI-260405-BF5B
+  - INS-260626-BA87
   - INS-260605-E490
   - INS-260330-568F
-  - INS-260625-3DDC
 ---
 Bredin frames a ladder of conversational understanding above plain speech-to-text: speaker-attributed transcription (who said what), then timing (who said what when), then delivery (how it was said). Each rung recovers information that downstream LLMs need but raw text loses. Timing reveals interruptions and short backchannels ('mm-hmm', a single 'yes') that can be the most important signal in a conversation — miss them and you misread a speaker's state of mind. Delivery — stress, pauses, laughter, coughing — changes meaning: 'the DOG ate the cake' vs 'the dog ate the CAKE' are different claims. For applications like meeting note-takers, video dubbing, and podcast intelligence, this metadata isn't decoration; it determines whether the system understands the conversation at all. The design implication: build the enrichment layer between audio and the LLM, don't hand the LLM a flat transcript.

@@ -65,11 +65,11 @@ stance: >-
   into the same embedding space the text transformer already uses, so the core
   model only ever sees vectors and is agnostic to modality.
 related:
+  - INS-260626-136F
   - INS-260603-6E59
   - INS-260409-BE39
   - INS-260403-9774
-  - INS-260605-BF58
-  - INS-260323-C4EE
+  - INS-260626-EC65
 ---
 When asked how this text-only pipeline extends to other modalities, the speaker describes a unifying trick: you don't build a new tokenizer per modality, you build an *encoder*. For a 30-second video you sample ~one frame per second, push those frames through a separate encoder transformer, and take that encoder's final hidden vectors. Those vectors get injected into the main transformer's embedding input, overriding the embeddings of placeholder 'video tokens' in the sequence (e.g. a prompt followed by a video-token slot whose embedding is replaced by encoder output). Audio works identically via an audio encoder.
 

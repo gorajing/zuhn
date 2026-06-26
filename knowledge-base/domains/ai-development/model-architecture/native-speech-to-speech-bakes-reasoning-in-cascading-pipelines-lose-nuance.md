@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260605-20C0
   - INS-260605-68F4
+  - INS-260626-136F
   - INS-260605-ACCD
-  - INS-260625-9C3D
-  - INS-260605-8AEE
+  - INS-260626-BA87
 ---
 Gemini 3.1 Flash Live is a full-duplex, multimodal speech-to-speech model: it ingests text, audio, and video over a websocket and returns real-time audio plus a text transcript, with the reasoning and 'thinking' baked directly into the audio model. The talk contrasts this with a cascading pipeline — audio to text, text to an LLM for intelligence, LLM output to TTS — which is the conventional way voice agents are built.
 

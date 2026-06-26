@@ -53,7 +53,7 @@ related:
   - INS-260505-4FEF
   - INS-260519-2A13
   - INS-260330-1F41
+  - INS-260626-B38C
   - INS-260605-71C3
-  - INS-260625-057C
 ---
 Maja Voje (author of the Go-To-Market Strategist methodology, 10,000+ companies) prescribes a five-component 'GTM brain': (1) a short scannable CLAUDE.md (ICP, positioning, priorities); (2) structured context files (signal libraries, battlecards, messaging matrices); (3) skills (markdown task specs using that context); (4) workflows (decision trees for the humans, not for the model to execute); (5) outputs archived alongside the context that produced them, forming a feedback loop over months. This is, structurally, the architecture of a personal knowledge OS (the exact CLAUDE.md + context + skills + outputs pattern), so it strongly cross-validates the KB's self-improving-systems and compounding-knowledge principles from an external operator.

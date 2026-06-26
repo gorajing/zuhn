@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 293 insights
+> 298 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -69,6 +69,7 @@
 - `INS-260330-81A7` [high] Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260625-BAE7` [high] The four-joins-deep customer query every new hire must copy-paste gets told to Studio once, and it then performs it correctly forever — eliminating the data-team dashboard bottleneck.
 - `INS-260330-CA97` [high] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
+- `INS-260626-E5E5` [high] A thin backend mints short-lived tokens from the real API key and hands them to the browser, which opens the WebSocket directly — removing a proxy hop while limiting blast radius if a token leaks.
 - `INS-260329-7673` [high] ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
 - `INS-260329-18C9` [high] ER diagrams work because externalizing relationships visually before formal specification catches design errors that pure code-first approaches miss.
 - `INS-260329-83AA` [high] ER diagrams translate ambiguous business requirements into unambiguous table structures before any code is written.
@@ -138,6 +139,7 @@
 - `INS-260329-148D` [high] AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
 - `INS-260329-05BB` [high] HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
 - `INS-260321-9906` [high] Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
+- `INS-260626-E1CB` [high] Two tempting shortcuts — caching answers and reusing prior answers as context — both backfire: code/docs/rationale change constantly, and recycling outputs regresses the system toward the mean.
 - `INS-260329-8C14` [high] The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
 - `INS-260329-01F2` [high] Path compression in union-find makes every find operation flatten the tree it traverses, so the data structure permanently improves its own performance with each use.
 - `INS-260404-93CD` [high] Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
@@ -205,6 +207,7 @@
 - `INS-260409-6A6C` [high] Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
 - `INS-260329-B2F4` [high] Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
 - `INS-260327-65F9` [high] Digital fabrication is following the PC trajectory: from expensive institutional tools to community fab labs to eventually personal fabrication capability for everyone.
+- `INS-260626-B5A6` [high] Demos succeed and production fails because operational workflows—not model quality—haven't kept pace with deterministic software engineering.
 - `INS-260329-5F19` [high] AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
 - `INS-260321-167A` [high] Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
 - `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
@@ -223,6 +226,7 @@
 - `INS-260323-DC99` [high] As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260501-4646` [high] Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
 - `INS-260409-0EEE` [medium] Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
+- `INS-260626-BE0D` [medium] Make every query leave a trace — a new concept, note, or comparison file — so the knowledge base evolves as you talk to it, not just when you ingest data.
 - `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
 - `INS-260605-20DD` [medium] Better models reduce friction but do not remove the need for good agent architecture.
 - `INS-260626-F01D` [medium] NOVA loads a static knowledge base for prior effective directions but keeps current modifications, diagnostics, and metric feedback in trajectory memory.
@@ -289,6 +293,7 @@
 - `INS-260329-CF16` [medium] SQL triggers execute automatically and atomically when data changes, making them reliable for maintaining derived tables, audit logs, and cross-table consistency.
 - `INS-260327-F232` [medium] Gershenfeld argues Turing and von Neumann made a fundamental mistake by separating software from hardware - biology computes with its physical structure, not with programs running on it.
 - `INS-260330-77E2` [medium] Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.
+- `INS-260626-2044` [medium] When the source set is small and enumerable, feeding URLs directly into the model's context ('poor man's retrieval') gives you cited, post-cutoff grounding without the infrastructure cost of a vector DB.
 - `INS-260605-C223` [medium] A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 - `INS-260409-086A` [medium] Spawn a subagent per source during ingest so context pollution doesn't degrade later items in the queue.
 - `INS-260501-BA23` [medium] Every SaaS tool you buy creates a data silo. The fix isn't another SaaS — it's a vibe-coded internal tool that hits the source.

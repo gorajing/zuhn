@@ -67,6 +67,7 @@ related:
   - INS-260605-9F16
   - INS-260605-0A68
   - INS-260625-25AC
+  - INS-260626-D768
 ---
 Tasch's question: if agents pick the models, then foundation model companies must build the agent harnesses, because whoever owns the agent picks itself. Calacanis confirms: the public markets are correctly worried about productivity SaaS (Atlassian, Marquetto) but underrated is who controls the agent. If OpenAI wins the agent wars, OpenAI's agents pick OpenAI as the API. Salesforce going headless plus building the 'agent fabric' is the same play applied to enterprise — own the layer that makes routing decisions, and you control which models, vendors, and tools get used.
 

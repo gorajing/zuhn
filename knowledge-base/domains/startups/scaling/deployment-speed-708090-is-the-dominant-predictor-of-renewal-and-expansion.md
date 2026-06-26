@@ -48,9 +48,9 @@ related:
   - INS-260330-16CD
   - INS-260322-F891
   - INS-260403-5137
-  - INS-260402-3866
   - INS-260405-5E18
   - INS-260409-B73E
   - INS-260410-656B
+  - INS-260410-F0EF
 ---
 Epstein's CS leader created 70/80/90 — 70% of licenses deployed across 80% of customers within 90 days — as the biggest single signal of renewal/expansion. Formal technical validation (success plan, CSM attached, engaged from the start) yields ~100% hit rate vs ~40% for skippers; customers chronically underscope (100 licenses for 300 people). Churn is visible 180 days early: they stop opening tickets and returning CSM calls, while a third independent support ticket or knowledge-base self-serve are positive spread signals. A concrete, falsifiable retention-prediction model that strengthens the KB's onboarding-velocity and churn-leading-indicator principles.

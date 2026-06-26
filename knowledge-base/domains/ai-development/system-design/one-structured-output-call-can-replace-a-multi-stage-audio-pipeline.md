@@ -59,11 +59,11 @@ stance: >-
   summarization should be done in a single schema-constrained model call rather
   than a chain of specialized stages.
 related:
+  - INS-260626-BA87
   - INS-260605-20C0
   - INS-260625-9C3D
   - INS-260626-7EA8
   - INS-260323-87F3
-  - INS-260605-0126
 ---
 The Echo Script demo performs what would traditionally be a pipeline of separate systems — speaker diarization, forced alignment for timestamps, language identification, sentiment/emotion classification, machine translation, and summarization — in a single request to Gemini 3 Flash. The trick is supplying a response schema (structured output) so the model populates a typed object the UI can render directly, eliminating glue code and inter-stage error accumulation.
 

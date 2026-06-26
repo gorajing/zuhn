@@ -52,5 +52,6 @@ related:
   - INS-260525-3A9A
   - INS-260605-0266
   - INS-260605-8664
+  - INS-260626-4005
 ---
 The second speaker, a data scientist with no app-development background, shipped a working full-stack app (web-deployed) in about three hours: he wrote a PRD, set up an agent workspace (a .claude folder with agent/skill docs), reused a colleague's template code to wire the backend, and leaned on managed services (Railway, Vercel, Supabase, Google's ADK) to avoid server management, learning backend concepts (e.g., debounce for rate limits, auth setup) by asking the agent. Concrete evidence for the KB that agent coding extends real app-building to domain experts — while the hard parts remained UX and production-readiness.

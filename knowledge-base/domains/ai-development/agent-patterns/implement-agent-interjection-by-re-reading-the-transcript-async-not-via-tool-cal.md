@@ -53,11 +53,11 @@ stance: >-
   built as an asynchronous loop re-analyzing the running transcript than as a
   synchronous tool call.
 related:
+  - INS-260626-B38C
   - INS-260327-13B3
   - INS-260501-247C
   - INS-260410-1030
-  - INS-260423-FF52
-  - INS-260605-0819
+  - INS-260626-1B29
 ---
 The product question was how a voice agent could signal 'I want to interrupt and tell you about this' with enough context to name the topic. Reeve's architectural instinct was to avoid framing this as a background tool call. Instead, run an asynchronous process that keeps re-reading the conversation transcript and asking 'do you have anything to add? what would you add?' on a loop — decoupling the interjection-decision from the main generation flow.
 

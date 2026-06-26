@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260403-5C1D
   - INS-260605-824F
+  - INS-260626-F6DA
   - INS-260410-3601
   - INS-260323-01F9
-  - INS-260410-DABE
 ---
 The paper does not distribute held-out cases as files. It generates them on demand with per-family deterministic, physics-aware perturbations from private seeds, accepts only solvable variants, and publishes aggregate summaries rather than per-case logs because submissions and evaluator outputs disclose the answers.
 

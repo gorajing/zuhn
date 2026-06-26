@@ -57,7 +57,7 @@ related:
   - INS-260410-AF66
   - INS-260330-A3B7
   - INS-260625-0A08
-  - INS-260329-D8F2
+  - INS-260626-67E8
 ---
 Backtests give incident.io a rolled-up figure like '86% accurate RCA,' but that number says nothing about why it rose or fell — leaving you stuck if you want to improve the system for a specific customer. Their solution downloads all investigations into a file system fed to a Claude Code analysis pipeline driven by structured markdown playbooks for repeatable, reliable runs.
 
