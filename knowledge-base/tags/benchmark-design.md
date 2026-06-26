@@ -1,5 +1,6 @@
 # Tag: benchmark-design
 
+- `INS-260626-A0DC` CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
 - `INS-260625-B6E8` Make held-out tests auditable in mechanism but private in instance.
 - `INS-260625-224F` A benchmark does not test tool orchestration just because many tools are available.
 - `INS-260625-52C0` Stable task and solution schemas let evaluators grow without breaking agents.

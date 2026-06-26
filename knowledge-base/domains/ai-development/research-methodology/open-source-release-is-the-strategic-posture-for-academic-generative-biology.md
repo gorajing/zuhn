@@ -45,7 +45,6 @@ stance: >-
   data, training code, and models openly because their comparative advantage
   over industry is openness, not capability.
 related:
-  - INS-260402-97AF
   - INS-260410-045C
   - INS-260412-8B95
   - INS-260505-483B

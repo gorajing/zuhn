@@ -55,7 +55,6 @@ stance: >-
   Behavior-driven specs written in plain language are a better verification
   layer for AI-generated code than reading AI-generated tests.
 related:
-  - INS-260321-0C99
   - INS-260403-0CA8
   - INS-260409-0D87
   - INS-260409-51B2
@@ -65,6 +64,7 @@ related:
   - INS-260605-9FCF
   - INS-260320-1B10
   - INS-260626-621D
+  - INS-260329-12D1
 ---
 Cichra names the unsolved problem in spec-driven development: the spec is a markdown document describing how something should work, but nothing proves the product actually behaves that way. And verification by reading AI-generated tests is worse than reading AI-generated code — 'one thing harder than reading AI code is reading AI tests.'
 

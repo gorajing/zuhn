@@ -43,7 +43,6 @@ related:
   - INS-260325-9C89
   - INS-260505-A55F
   - INS-260410-988F
-  - INS-260330-77E2
   - INS-260423-77DF
 stance: >-
   AI solved 50 Erdős problems which looks amazing, but systematic studies show a

@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260405-3F0F
   - PRI-260426-9E23
+  - INS-260626-6AF4
   - INS-260403-A1B6
   - INS-260423-2B80
   - INS-260323-B309
-  - INS-260605-33B4
 ---
 SWE-Explore evaluates coverage, ranking, and context efficiency, then verifies that the selected context improves a fixed repair agent. This suggests AgentRun should prefer line-budgeted ranked evidence gates over broad 'read many files' telemetry, and should periodically validate that better context scores predict better production outcomes.

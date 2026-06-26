@@ -50,7 +50,6 @@ stance: >-
   Cloning a library's source into your repo beats MCP doc servers because coding
   agents are post-trained to read code, not documentation.
 related:
-  - INS-260320-CE36
   - INS-260501-01A5
   - INS-260625-EF29
   - INS-260625-1E07

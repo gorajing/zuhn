@@ -29,9 +29,9 @@
 - `INS-260625-9B0C` ESM-C's continued scaling came from pushing training samples 50M to 2.8B (largely metagenomic data), not clever architecture, and its single-sequence model now matches MSA-based AlphaFold and wins where evolutionary data is sparse.
 - `INS-260322-E734` Unlike previous platform shifts where physical limits were known (modem speeds, battery life, fiber deployment), AI's theoretical limits are unknown because we don't fully understand why it works or what human intelligence is.
 - `INS-260625-0686` Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.
-- `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260505-864E` Same scaling law that took models from Olympiad silver to gold also applies to research-grade problems — just with much longer proof traces.
 - `INS-260501-428B` Six years after Kaplan's language scaling law, the dexterity equivalent appeared: clean log-linear pretraining-hours to validation-loss curve.
 - `INS-260505-483B` Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
+- `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260412-C3E6` Just as gravity is irrelevant to ants but lethal to elephants, the forces that threaten organizations undergo categorical shifts at different scales.
 - `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.

@@ -49,11 +49,11 @@ stance: >-
   Agent skill files should be iteratively optimized against task performance
   like model weights rather than authored once by hand.
 related:
+  - INS-260626-6AF4
   - PRI-260407-7FB7
   - INS-260327-BE4E
   - INS-260410-B282
   - INS-260330-6BBD
-  - PRI-260403-6E50
 ---
 Today agent skills are produced by asking a model to draft them or by manually editing a text file, with no equivalent of gradient descent to improve them. SkillOpt closes that gap by treating the skill file as the trainable parameter and treating optimizer-proposed edits (replace, remove, or add a rule) as the gradient signal, while the underlying model stays completely frozen. The payoff is large and concrete: on SpreadsheetBench this lifted GPT-5.5 from 41.8% to 80.7% accuracy purely by improving the instructions.
 

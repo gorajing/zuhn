@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5792 actionable insights
+Generated on 2026-06-26 | 5797 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -78,6 +78,8 @@ Generated on 2026-06-26 | 5792 actionable insights
 - [INS-260626-F335] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - [INS-260626-B0D5] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
 - [INS-260626-1673] LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
+- [INS-260626-6AF4] Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
+- [INS-260626-983E] The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -345,6 +347,8 @@ Generated on 2026-06-26 | 5792 actionable insights
 - [INS-260626-88B8] Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - [INS-260626-2A5F] Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
 - [INS-260626-65D6] Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
+- [INS-260626-057E] The paper concludes that human-written context files should mostly encode specific extra requirements, not broad repository overviews.
+- [INS-260626-43C9] Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -1296,6 +1300,7 @@ Generated on 2026-06-26 | 5792 actionable insights
 - [INS-260626-3C9A] Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - [INS-260626-8143] Scaffolding buys ~10-20% performance now but gets wiped out by the next model, so treat it as disposable and bias toward waiting.
 - [INS-260626-73D4] Sparse or outdated API specs cause agents to hallucinate or fail calls, so spec quality becomes a hard prerequisite for agentic systems.
+- [INS-260626-B449] Despite many generated and developer context files including overview sections, agents did not interact with relevant patch files sooner.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

@@ -48,11 +48,11 @@ stance: >-
   prompts — the agent supplies the intelligence to debug and adapt to local
   environment in the loop.
 related:
+  - INS-260626-F5AE
   - INS-260625-7592
   - INS-260605-6591
   - INS-260605-50FB
   - INS-260605-9276
-  - PRI-260406-1AC6
   - INS-260605-DC50
   - INS-260625-057C
   - INS-260626-1C28

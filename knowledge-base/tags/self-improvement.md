@@ -1,15 +1,16 @@
 # Tag: self-improvement
 
 - `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
+- `INS-260423-E64B` Hinton: I had a researcher tell me last year they have a system that looks at what it itself is doing and figures out how to change its own code so it'll be more efficient next time — that's already the beginning of the singularity.
 - `INS-260605-74E8` An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260626-23E7` Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
 - `INS-260605-E230` Some harnesses must learn while the run is still alive.
 - `INS-260605-2ECD` Don't store traces as memory; distill traces into navigable evidence.
 - `INS-260625-5358` Skill files can be optimized like neural-network weights, with proposed text edits playing the role of gradients.
-- `INS-260423-E64B` Hinton: I had a researcher tell me last year they have a system that looks at what it itself is doing and figures out how to change its own code so it'll be more efficient next time — that's already the beginning of the singularity.
 - `INS-260325-3F86` AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
 - `INS-260605-0113` After the student approaches teacher quality, use the student checkpoint instead of the teacher for expensive repeated sampling — it costs almost nothing.
 - `INS-260410-AB4A` Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
+- `INS-260626-4564` The paper frames better automatic context generation as future work but its results imply the objective should be concise, outcome-improving guidance.
 - `INS-260605-C33F` Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - `INS-260605-D818` Make harness components file-visible before asking agents to improve them.
 - `INS-260605-3163` A new 'traces' dataset repo type lets you push Codex/Claude Code/agent sessions and later train a model on them—turning everyday agent runs into a self-improvement flywheel.
@@ -18,8 +19,8 @@
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
 - `INS-260619-675F` Self-improving software may be real while still being hard to productize as its own startup.
 - `INS-260325-ED84` Shunryu Suzuki taught 'there is no enlightened person, only enlightened activity' — pursuing a permanent state of arrival is a self-improvement delusion.
+- `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
+- `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260325-537A` Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
-- `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.

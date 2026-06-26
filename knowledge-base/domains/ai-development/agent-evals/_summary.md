@@ -1,12 +1,13 @@
 # Topic: agent-evals
 
-> 50 insights
+> 54 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
 - `INS-260625-1830` [high] Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260625-0021` [high] Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
+- `INS-260626-A0DC` [high] CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
 - `INS-260625-BB42` [high] An agent eval measured in dollars earned can never saturate, while percentage benchmarks lose all signal once models cluster near the top.
 - `INS-260625-13F0` [high] If a model refuses or underperforms a task it's actually capable of because it senses an evaluation, getting the real answer is an adversarial optimization problem.
 - `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.
@@ -14,10 +15,12 @@
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
 - `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
+- `INS-260626-F5AE` [high] The agents generally followed context-file instructions, but that mainly produced more testing, exploration, specialized-tool use, and reasoning tokens.
 - `INS-260626-B0D5` [high] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
 - `INS-260625-52C0` [high] Stable task and solution schemas let evaluators grow without breaking agents.
 - `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.
+- `INS-260626-6AF4` [high] Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
 - `INS-260626-485E` [high] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260625-99B0` [high] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
 - `INS-260625-9E17` [high] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
@@ -31,6 +34,7 @@
 - `INS-260625-D1F9` [high] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
 - `INS-260626-F335` [high] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - `INS-260625-EC9A` [high] The evaluator needs its own evidence path, not just the agent's final artifact.
+- `INS-260626-983E` [high] The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260625-2A4F` [high] Shared failures are often benchmark QA signals before they are leaderboard facts.
 - `INS-260625-B985` [high] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
 - `INS-260625-029F` [medium] A reliable agent must be scored on knowing when not to continue.

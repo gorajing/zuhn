@@ -1,6 +1,8 @@
 # Tag: cost
 
+- `INS-260626-F5AE` The agents generally followed context-file instructions, but that mainly produced more testing, exploration, specialized-tool use, and reasoning tokens.
 - `INS-260625-FDC1` Long-running agent gates should report success, reaction latency, and resource use together.
+- `INS-260626-6AF4` Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
 - `INS-260605-AE67` The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
 - `INS-260410-E977` Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260410-77E5` Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.

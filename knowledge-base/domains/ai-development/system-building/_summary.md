@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 291 insights
+> 293 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -226,6 +226,7 @@
 - `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
 - `INS-260605-20DD` [medium] Better models reduce friction but do not remove the need for good agent architecture.
 - `INS-260626-F01D` [medium] NOVA loads a static knowledge base for prior effective directions but keeps current modifications, diagnostics, and metric feedback in trajectory memory.
+- `INS-260626-4564` [medium] The paper frames better automatic context generation as future work but its results imply the objective should be concise, outcome-improving guidance.
 - `INS-260501-FBC6` [medium] Any enterprise older than 10 years or larger than 1000 people is a mass of stuff waiting to be integrated — and AI doesn't fix integration.
 - `INS-260409-A3EC` [medium] The KB is a curated prior; agents should still fetch fresh web content to supplement it.
 - `INS-260501-5582` [medium] AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
@@ -247,6 +248,7 @@
 - `INS-260605-CF2E` [medium] Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
 - `INS-260605-5983` [medium] Frameworks speed the first 80%; production quality demands ownership.
+- `INS-260626-B449` [medium] Despite many generated and developer context files including overview sections, agents did not interact with relevant patch files sooner.
 - `INS-260605-9A92` [medium] Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260605-3B8B` [medium] Write a behavioral test when a feature request arrives, not when you add a method to a class.
 - `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.

@@ -19,7 +19,6 @@
 - `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260605-8E08` Use effectively-free local models (e.g. Gemma) for cheap steps and reserve frontier models for components that actually need them.
-- `INS-260322-144E` Start on cheap beginner gear at home and rent professional equipment (e.g., Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.
 - `INS-260320-8688` Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
 - `INS-260322-1435` New TikTok Ads accounts get matched spending credits (spend $200, get $200 free) plus recurring coupons, effectively halving your early ad costs.
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
@@ -28,3 +27,4 @@
 - `INS-260412-47D5` The motorcade uses local police for route clearing and local ambulances for medical standby, reserving Secret Service resources exclusively for the president's immediate security.
 - `INS-260412-C029` Airlines fly at 500-550 mph instead of near the 767 mph speed of sound because fuel cost per flight ($15K+) is 3x the aircraft cost per flight ($5K).
 - `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
+- `INS-260322-144E` Start on cheap beginner gear at home and rent professional equipment (e.g., Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.

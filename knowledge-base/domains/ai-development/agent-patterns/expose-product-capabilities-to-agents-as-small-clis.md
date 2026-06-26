@@ -56,7 +56,7 @@ related:
   - INS-260605-3553
   - INS-260605-98BD
   - INS-260605-9276
-  - INS-260605-BA6A
+  - INS-260626-F5AE
 ---
 In Seven AI's B2B sales pipeline, agents talk to the CRM and ERP not through bespoke APIs but through CLIs. Luebken's reasoning is empirical: 'our agents are really good at using CLIs, so we make it available as a CLI.' Coding agents have seen enormous amounts of command-line usage in training, so a CLI is a high-leverage, low-friction way to grant capabilities.
 

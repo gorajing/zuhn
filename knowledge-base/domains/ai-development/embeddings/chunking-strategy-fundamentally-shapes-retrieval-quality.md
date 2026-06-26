@@ -51,7 +51,6 @@ stance: >-
   biases embedding representations and retrieval outcomes, with no universal
   chunking rule that works across domains.
 related:
-  - INS-260321-0C99
   - INS-260329-818A
   - INS-260330-3B0B
   - INS-260409-ADD0

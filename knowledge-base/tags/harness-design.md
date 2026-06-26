@@ -11,8 +11,8 @@
 - `INS-260605-C536` Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not.
 - `INS-260605-E9E2` Get a feel for each model's spiky weak spots, fill those gaps with harness scaffolding, then delete that scaffolding once a later model internalizes the capability.
 - `INS-260625-84D0` If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
+- `INS-260625-A53F` A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
 - `INS-260625-DAE9` Do not optimize the model, scaffold, and eval suite as independent tracks.
 - `INS-260514-1841` Browser Harness is 600 lines. When an agent hits an edge case (sign a signature, click a native dialog), it writes its own tool extension and publishes it as a skill.
-- `INS-260625-A53F` A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
 - `INS-260410-9DB0` Every piece of a harness encodes an assumption about what the model can't do; those assumptions are worth re-stress-testing each model release.
 - `INS-260625-93FC` A richer harness is not free performance; it embeds environment knowledge that must be paid for and measured.
