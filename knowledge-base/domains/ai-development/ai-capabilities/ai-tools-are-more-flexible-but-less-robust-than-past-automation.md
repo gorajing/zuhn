@@ -45,10 +45,10 @@ related:
   - INS-260329-6DED
   - INS-260404-19B0
   - INS-260404-29AF
-  - INS-260323-F15D
   - INS-260327-C99D
   - INS-260329-C4F5
   - INS-260405-1282
+  - INS-260403-D227
 stance: >-
   Generative AI can help with more tasks than past automation (more flexible)
   but takes over fewer tasks completely (less robust)

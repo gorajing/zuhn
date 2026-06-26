@@ -52,10 +52,10 @@ stance: >-
   defining advantage of bottom-up GTM.
 related:
   - INS-260403-A9CC
+  - INS-260626-C5FA
   - PRI-260406-CA09
   - INS-260321-1A0B
   - INS-260330-760D
-  - INS-260325-FDF5
   - INS-260405-0CE9
   - INS-260625-84DB
 ---

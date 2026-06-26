@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Real-world clinical AI requires patient-outcome trials because improved
@@ -49,6 +49,13 @@ stance: >-
   Clinical AI systems should be judged by patient-level outcomes and safety
   signals rather than benchmark or simulated-case performance once they enter
   real care workflows.
+related:
+  - INS-260405-2DC0
+  - INS-260505-4351
+  - INS-260626-B0D5
+  - INS-260626-C3A9
+  - INS-260626-3DE4
+  - PRI-260406-5D76
 ---
 The AI Consult trial attacked a core bottleneck in healthcare AI: most systems are validated on clinician performance, retrospective charts, or simulated cases rather than prospective patient outcomes. By randomizing clinical officers across 16 Kenyan primary care facilities and tracking 14-day treatment failure in more than 9,600 patients, the study shifted the evidence standard from model competence to field impact.
 

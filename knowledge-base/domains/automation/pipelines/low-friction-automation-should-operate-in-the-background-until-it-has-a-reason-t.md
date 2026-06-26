@@ -26,7 +26,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI Consult's background EMR integration and color-coded alerts show a
@@ -47,6 +47,12 @@ stance: >-
   Professional workflow automation is more acceptable when it passively monitors
   existing work and escalates only context-specific concerns instead of forcing
   a separate AI task loop.
+related:
+  - INS-260403-D16C
+  - INS-260402-B36F
+  - INS-260605-3B06
+  - PRI-260323-49F8
+  - INS-260403-008F
 ---
 AI Consult did not ask clinicians to leave the clinical workflow and consult a separate chatbot. It analyzed information entered into the medical record, produced guideline-aligned suggestions, and flagged potential concerns with a green, yellow, or red alert structure while staying invisible to patients.
 

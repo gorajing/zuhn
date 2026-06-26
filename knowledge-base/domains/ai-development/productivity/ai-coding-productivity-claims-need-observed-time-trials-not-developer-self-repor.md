@@ -55,9 +55,9 @@ related:
   - INS-260625-ED7E
   - INS-260625-4D09
   - INS-260625-4078
+  - INS-260626-3F6D
   - INS-260323-A075
   - PRI-260328-4CC0
-  - INS-260403-5427
 ---
 METR's RCT directly challenges the recurring belief that AI coding tools reliably accelerate software work because it separates perceived productivity from measured completion time. Developers forecast a 24% speedup before starting and still estimated a 20% speedup after participating, but observed implementation time rose by 19% when AI tools were allowed.
 

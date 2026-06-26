@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 183 insights
+> 188 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -117,6 +117,8 @@
 - `INS-260409-A4F0` [medium] Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon.
 - `INS-260603-C90A` [medium] Rona Shah (Walmart): industry-wide, agent-initiated traffic directly hitting retail sites is 'very negligible' right now, and those visits convert at lower rates than direct customer visits — partly because the trust layer isn't built yet, partly because Amazon actively blocks agents.
 - `INS-260410-5D16` [medium] Karpathy sees AI as continuous with computing — you can't find computers or the iPhone in the GDP curve either, and AGI will diffuse the same way despite subjective feelings of discontinuity.
+- `INS-260626-C5FA` [medium] DORA's recommended starting points make AI adoption look like organizational transformation rather than model procurement.
+- `INS-260626-B0BC` [medium] AI's organizational payoff depends on team and workflow health, challenging claims that tooling alone collapses software scaling constraints.
 - `INS-260327-CED9` [medium] Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.
 - `INS-260322-770D` [medium] AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
 - `INS-260409-665F` [medium] Because AI tooling is available to everyone, cutting headcount doesn't create a moat — it creates an output deficit relative to competitors who kept headcount and also got the tools.
@@ -135,6 +137,7 @@
 - `INS-260323-0B52` [medium] The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260423-F124` [medium] Aaron Levie on services: 100 percent — these spaces are going to be bigger and more sustainable than people realize, because we're nowhere near eliminating the human from the workflow.
 - `INS-260403-042B` [medium] AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
+- `INS-260626-3F6D` [medium] AI can increase software throughput while also increasing delivery instability, so speed is not equivalent to durable progress.
 - `INS-260403-C1EB` [medium] AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
 - `INS-260327-1D37` [medium] Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
 - `INS-260409-56A3` [medium] Enterprise buyers are asking for natural-language 'shims' that strangle existing SaaS UIs and let agents handle the backend complexity, collapsing the defensibility of UI-layer SaaS products.
@@ -159,6 +162,7 @@
 - `INS-260409-F0F5` [medium] Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
 - `INS-260626-4E80` [medium] The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
 - `INS-260322-3537` [medium] The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
+- `INS-260626-3E8A` [medium] DORA's platform-engineering finding reframes AI leverage as a systems capability rather than a standalone model or staffing advantage.
 - `INS-260328-D1B2` [medium] Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results.
 - `INS-260323-E2DD` [medium] Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
 - `INS-260325-DB7D` [medium] Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
@@ -168,6 +172,7 @@
 - `INS-260322-0CE3` [medium] Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260403-64F4` [medium] While AI models commoditize, proprietary data for training and low-latency inference infrastructure will capture disproportionate value.
 - `INS-260403-33DF` [medium] Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
+- `INS-260626-4216` [medium] DORA reports broad AI use and perceived productivity gains, but also persistent distrust and stability pressure.
 - `INS-260327-D8D1` [medium] Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.
 - `INS-260327-EE5B` [medium] Dean envisions models with heterogeneous expert sizes, dynamic parameter expansion/compaction, and 100-1000x variation in compute per path, mimicking biological brain efficiency.
 - `INS-260323-1720` [medium] Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.

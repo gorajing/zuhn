@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI Consult improved documentation and treatment planning but did not
@@ -47,6 +47,12 @@ stance: >-
   Agent evaluations should distinguish intermediate-quality improvements from
   final-outcome improvements because a system can improve process metrics
   without moving the user's real objective.
+related:
+  - INS-260626-16C8
+  - INS-260404-B31C
+  - PRI-260406-6F52
+  - INS-260423-2B80
+  - INS-260403-DC32
 ---
 The trial's most important negative result is the gap between process quality and patient outcome. Independent blinded clinicians judged documentation and treatment planning better in the AI-supported arm, yet treatment failure was 2.2 percent with AI support versus 2.0 percent under standard care, with no statistically significant outcome difference.
 

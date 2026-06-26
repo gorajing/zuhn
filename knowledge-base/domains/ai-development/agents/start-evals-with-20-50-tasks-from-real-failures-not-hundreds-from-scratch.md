@@ -53,6 +53,7 @@ related:
   - INS-260625-7926
   - INS-260605-365A
   - INS-260605-780C
+  - INS-260626-C3A9
 ---
 The main reason teams delay building evals is the belief that they need hundreds of tasks to produce trustworthy signal. Anthropic argues the opposite: in early agent development, each system change has such a large effect size that 20-50 tasks sourced from real failures are enough to detect regressions and guide iteration. Evals get harder to build the longer you wait because you're reverse-engineering success criteria from a live system instead of translating fresh product requirements into test cases.
 

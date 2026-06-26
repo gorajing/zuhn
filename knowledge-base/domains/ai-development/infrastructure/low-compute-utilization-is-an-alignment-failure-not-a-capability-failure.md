@@ -47,7 +47,6 @@ stance: >-
   AI labs waste compute because of organizational distance between capital and
   cluster operators, not because the technical problem is hard.
 related:
-  - INS-260405-0E77
   - PRI-260406-7128
   - PRI-260323-00C6
   - PRI-260412-52DA

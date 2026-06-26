@@ -64,13 +64,12 @@ stance: >-
   production to attention — and competing on production speed is self-defeating
   because everyone gains it simultaneously
 related:
-  - INS-260321-6437
   - INS-260325-9F01
-  - INS-260403-EA2C
   - INS-260403-2AF0
   - INS-260405-0184
   - INS-260501-0C6C
   - INS-260603-A7CF
+  - INS-260321-6437
   - PRI-260328-0BE1
   - INS-260625-7CD5
 ---

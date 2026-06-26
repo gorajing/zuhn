@@ -1,13 +1,13 @@
 # Tag: ai-economics
 
 - `INS-260625-71F4` More than 80% of surveyed SaaS companies still use seats somewhere in pricing, warning that simplicity can slow migration to usage or outcome metrics.
+- `INS-260603-915A` Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
+- `INS-260410-BC76` Frontier labs buy compute 1–2 years before it comes online, so mispredicting demand by a single year of the 10x curve makes the company insolvent.
 - `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
 - `INS-260327-1D37` Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
 - `INS-260327-85E2` Cloud replaced software with software ($350B to $650B TAM); AI replaces services with software, starting from a tens-of-trillions base.
 - `INS-260405-6A94` OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260514-B4A2` Copilot: from 'some number of actions per month' to 'this many tokens per month' — the cheap-AI era is over.
-- `INS-260603-915A` Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
-- `INS-260410-BC76` Frontier labs buy compute 1–2 years before it comes online, so mispredicting demand by a single year of the 10x curve makes the company insolvent.
 - `INS-260403-B800` Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.
 - `INS-260514-60D5` Imagine humanity reaching the precipice of AI revolution but it fizzles because the models couldn't survive in our atmosphere of money.
 - `INS-260325-8A61` Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.

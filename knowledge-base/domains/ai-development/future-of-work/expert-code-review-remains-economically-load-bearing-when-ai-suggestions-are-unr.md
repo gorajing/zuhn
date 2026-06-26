@@ -55,8 +55,8 @@ related:
   - INS-260625-0CAB
   - INS-260625-ED7E
   - PRI-260321-14D8
+  - INS-260626-3F6D
   - INS-260403-DED4
-  - INS-260323-23B9
 ---
 The existing insight INS-260403-DED4 expects human code review to become economically unstable as AI code quality rises. METR provides a counterweight: for realistic 20-minute to 4-hour issues in large codebases, the human review and correction burden was large enough that allowing AI slowed developers down.
 

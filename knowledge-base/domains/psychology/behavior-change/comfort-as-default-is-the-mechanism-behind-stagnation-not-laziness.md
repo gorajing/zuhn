@@ -48,13 +48,14 @@ stance: >-
   the discomfort signals that drive growth.
 related:
   - INS-260323-4DF1
-  - INS-260328-B57E
   - INS-260329-776B
   - INS-260329-DF07
   - INS-260329-D9A4
   - INS-260330-4AE7
   - PRI-260328-C918
+  - INS-260328-B57E
   - INS-260404-8A67
+  - INS-260626-4216
 evidence:
   - id: INS-260323-4DF1
     type: SUPPORTS

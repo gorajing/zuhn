@@ -1,6 +1,7 @@
 # Tag: ai-strategy
 
 - `INS-260625-1F93` Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
+- `INS-260626-C5FA` DORA's recommended starting points make AI adoption look like organizational transformation rather than model procurement.
 - `INS-260323-4EE4` The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
 - `INS-260321-28FB` Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
 - `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.

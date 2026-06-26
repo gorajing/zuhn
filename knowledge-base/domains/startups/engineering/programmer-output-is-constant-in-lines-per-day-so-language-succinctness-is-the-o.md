@@ -47,10 +47,10 @@ stance: >-
   software faster.
 related:
   - INS-260327-2C5F
+  - INS-260626-3F6D
   - INS-260329-4109
   - INS-260329-4696
   - INS-260329-3739
-  - INS-260603-2F7E
   - INS-260403-410A
 evidence:
   - id: INS-260330-81A7

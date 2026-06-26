@@ -50,8 +50,8 @@ related:
   - INS-260405-FD9D
   - INS-260329-22B6
   - PRI-260406-901E
+  - INS-260626-3F6D
   - INS-260403-8B26
-  - INS-260330-7C05
   - INS-260409-6B22
 stance: >-
   Founder speed is not just about iteration velocity — it's a behavioral signal

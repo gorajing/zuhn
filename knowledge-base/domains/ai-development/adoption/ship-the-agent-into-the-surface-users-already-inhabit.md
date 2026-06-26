@@ -53,5 +53,6 @@ related:
   - INS-260405-A992
   - INS-260330-24A5
   - INS-260403-2115
+  - INS-260626-B098
 ---
 Carrefour's takeaway, stated explicitly: 'Bring the agent closer to the user — do not ask the user to go elsewhere to use your agent.' Their data-platform users already asked support questions in a Google Chat space (because, as he notes, users are lazy and prefer asking over reading docs), so they embedded the agent directly into that chat space and saw immediate adoption. The companion principles are equally important: choose the right use case rather than sprinkling GenAI onto everything ('if you want to add GenAI on any use case, it's not the good way — choose the right one'), and never underestimate integration effort and cost — plugging an agent into legacy systems (mainframes without APIs, OAuth flows a chat platform can't natively handle) is often harder than the agent itself. The adoption lesson is distribution-first: the model quality is necessary but the binding constraint on usage is whether the agent meets users inside their existing workflow with low friction.

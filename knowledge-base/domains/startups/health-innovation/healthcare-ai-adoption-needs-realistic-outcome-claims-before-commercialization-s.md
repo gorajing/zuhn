@@ -26,7 +26,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The AI Consult trial supports a narrower commercialization claim: safe
@@ -49,6 +49,12 @@ resolutions:
 stance: >-
   Healthcare AI companies should commercialize around proven workflow, safety,
   and cost effects before claiming patient-outcome transformation.
+related:
+  - INS-260626-16C8
+  - INS-260626-C3A9
+  - INS-260402-543E
+  - PRI-260324-36BF
+  - PRI-260406-56A9
 ---
 The selected source is commercially important because it supplies a rare prospective deployment result for generative AI in healthcare. The system was safe, patient satisfaction was unchanged, documentation and treatment planning improved, and antibiotic-related costs fell through more cost-conscious prescribing choices. But the primary patient outcome did not significantly improve.
 

@@ -1,8 +1,8 @@
 # Tag: commoditization
 
+- `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
 - `INS-260625-1F93` Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
 - `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
-- `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
 - `INS-260409-CBC7` Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260626-6D2E` Models lack network effects, durable differentiation, and OS-level control, so value moves up the stack and providers behave like chips/ISPs/telcos rather than Windows/iOS.
 - `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.

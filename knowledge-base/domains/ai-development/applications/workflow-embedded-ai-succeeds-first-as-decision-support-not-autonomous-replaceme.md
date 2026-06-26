@@ -26,7 +26,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI Consult was deployed as an EMR-embedded assistant that preserved
@@ -51,6 +51,14 @@ stance: >-
   In high-stakes professional domains, embedded decision support with human
   autonomy is more deployable than autonomous AI because it improves local
   workflow quality while preserving accountability.
+related:
+  - INS-260403-C8FD
+  - INS-260404-67F8
+  - INS-260625-464B
+  - INS-260404-6DAD
+  - INS-260404-8E0D
+  - INS-260410-3264
+  - INS-260323-2AE2
 ---
 The field bottleneck was not raw diagnostic reasoning alone; it was getting useful suggestions into the moment where a clinical officer is documenting and deciding under resource constraints. AI Consult worked in the background inside the electronic medical record, generated context-specific suggestions aligned with Kenyan guidelines, and used color-coded alerts while leaving clinicians responsible for diagnosis, prescribing, and referral.
 

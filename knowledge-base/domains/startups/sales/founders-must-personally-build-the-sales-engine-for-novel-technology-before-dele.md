@@ -64,7 +64,6 @@ related:
   - PRI-260403-0ABD
   - INS-260328-0C87
   - INS-260328-FFC3
-  - INS-260410-A365
   - INS-260410-0AA8
 evidence:
   - id: INS-260327-1C7C

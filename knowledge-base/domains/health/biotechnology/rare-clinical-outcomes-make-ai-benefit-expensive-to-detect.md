@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Primary-care AI can be safe and useful while still needing trial sizes above
@@ -46,6 +46,13 @@ resolutions:
 stance: >-
   When the target adverse outcome is rare, even real AI improvements may require
   very large trials to separate modest benefit from noise.
+related:
+  - INS-260409-BDAC
+  - INS-260413-E2C4
+  - INS-260626-16C8
+  - INS-260626-3DE4
+  - INS-260410-AF66
+  - INS-260330-3672
 ---
 Primary care creates a measurement bottleneck because serious near-term outcomes such as hospitalization or death are rare, and many visits involve self-limiting conditions. The release notes that detecting modest effects may require trials involving more than 100,000 patients, far beyond many AI pilots.
 

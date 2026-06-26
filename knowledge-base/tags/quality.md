@@ -11,9 +11,9 @@
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
 - `INS-260410-25AF` Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
 - `INS-260403-C907` Growth comes from publishing valuable content people want to share, repeatedly, not from optimizing anything else.
+- `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260410-5E92` Mars's first principle is quality-at-a-given-price, not absolute quality — the framing that enables compounding scale advantages in commodity-adjacent categories.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
-- `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - `INS-260423-2134` Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do.
 - `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.

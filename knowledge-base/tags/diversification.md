@@ -1,8 +1,8 @@
 # Tag: diversification
 
+- `INS-260412-084F` SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.
 - `INS-260412-1711` Samsung's 80+ businesses across unrelated industries made it nearly impossible to displace because failure in one sector couldn't threaten the whole.
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
-- `INS-260412-084F` SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.
 - `INS-260321-D183` If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.
 - `INS-260330-3994` Sri Lanka's tourism (22% of GDP) dropped 70% after a 2019 bombing and then to zero during COVID — revealing tourism-heavy economies as fragile single points of failure.
 - `INS-260403-7E18` Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.

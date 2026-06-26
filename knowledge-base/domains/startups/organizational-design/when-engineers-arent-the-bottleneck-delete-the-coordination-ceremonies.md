@@ -57,6 +57,7 @@ related:
   - PRI-260320-D5B7
   - INS-260327-B9AD
   - PRI-260328-A65A
+  - INS-260626-B09B
 ---
 PFF dropped Scrum wholesale. Sprint planning went because story-point estimation makes no difference when agents do the work; daily standups went because ticket status auto-updates from PR state (open→in progress, review, merged, closed); refinement went because it now happens inside the spec and lightweight-design-document flow; and the retrospective was replaced by customer-satisfaction surveys plus deployment metrics. What remained was a single lightweight 'huddle' every other day with engineering, product, and design to give instant feedback on what was just built and deployed to production in MVP state.
 
