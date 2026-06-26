@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5861 actionable insights
+Generated on 2026-06-26 | 5868 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -428,6 +428,12 @@ Generated on 2026-06-26 | 5861 actionable insights
 - [INS-260626-8EAC] Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
 - [INS-260626-9732] When agents cross the ~5-minute run threshold, the job becomes parallel-managing multiple agents while minimizing brain-frying context switches.
 - [INS-260626-5037] Small models hallucinate because they're memory-bound with low knowledge capacity, but tool access (web search, Python) lets them outperform reliance on baked-in knowledge — and they're naturally strong at agentic tasks.
+- [INS-260626-6F8E] Agent traces should record the scope that supplied each active capability: user, team, workspace, or run-local.
+- [INS-260626-7C7B] Zuhn should prefer search-before-install for skills and tools, with explicit approval before wiring anything in.
+- [INS-260626-3796] AgentRun should model cloud subagents as child runs with their own branch, VM, and verification gates.
+- [INS-260626-E000] Remote approvals should carry device-pairing and host identity, not just an approval boolean.
+- [INS-260626-14AE] Agent traces should record whether work ran locally, on a paired host, or in a provisioned remote workspace.
+- [INS-260626-FF79] Agent-ready environment files should be treated as executable infrastructure, not editor preferences.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -992,6 +998,9 @@ Generated on 2026-06-26 | 5861 actionable insights
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
+
+## ai-development/mcp
+- [INS-260626-8B56] MCP tool access should be audited against the enterprise policy authority that granted it.
 
 ## ai-development/mental-models
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.

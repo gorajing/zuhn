@@ -1,5 +1,6 @@
 # Tag: reproducibility
 
+- `INS-260626-FF79` Agent-ready environment files should be treated as executable infrastructure, not editor preferences.
 - `INS-260410-43E4` GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
 - `INS-260605-6066` A competing lab beat a published benchmark mainly by enabling its own API's compaction feature — same task, different config, much better-looking number.
 - `INS-260605-1066` Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.

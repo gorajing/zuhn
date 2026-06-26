@@ -1,8 +1,8 @@
 # Tag: accountability
 
 - `INS-260403-2A0F` Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
-- `INS-260605-44E2` Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
 - `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
+- `INS-260605-44E2` Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
 - `INS-260405-F8AE` AI's most dangerous failure modes are inequality amplification and accountability erosion, not the unemployment scenario that dominates public debate.
 - `INS-260412-9805` Angola leveraged simultaneous US and Chinese demand for oil to extract favorable terms from both while avoiding accountability pressure from either.
 - `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.

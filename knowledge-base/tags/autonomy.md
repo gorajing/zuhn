@@ -5,12 +5,12 @@
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260403-F6F6` AI agents can conceive ambitious projects but consistently fail to sustain them beyond a single session due to time-horizon constraints that are rapidly improving.
 - `INS-260405-88A4` Shield AI's Hivemind is valuable because it operates when networks fail, not just when they work—the degraded-environment use case is the one no commercial AI product solves.
-- `INS-260410-3601` The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
-- `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
-- `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260325-2C31` AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
 - `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
+- `INS-260410-3601` The quality of the test/verifier is the binding constraint on what an unsupervised agent can actually achieve.
+- `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
+- `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - `INS-260626-56AC` An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo.
 - `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'

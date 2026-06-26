@@ -1,9 +1,11 @@
 # Topic: agents
 
-> 71 insights
+> 78 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
+- `INS-260626-6F8E` [high] Agent traces should record the scope that supplied each active capability: user, team, workspace, or run-local.
+- `INS-260626-7C7B` [high] Zuhn should prefer search-before-install for skills and tools, with explicit approval before wiring anything in.
 - `INS-260605-610E` [high] Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
 - `INS-260605-809A` [high] Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -12,6 +14,7 @@
 - `INS-260410-E73E` [high] Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
 - `INS-260410-F40F` [high] One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
 - `INS-260605-72C4` [high] A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.
+- `INS-260626-3796` [high] AgentRun should model cloud subagents as child runs with their own branch, VM, and verification gates.
 - `INS-260605-E9A6` [high] Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260410-14E5` [high] Return denials as tool results so false positives cost a single retry instead of killing the session.
 - `INS-260605-C2A3` [high] An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
@@ -27,6 +30,7 @@
 - `INS-260625-CBC7` [high] A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - `INS-260410-4067` [high] Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
 - `INS-260625-E04B` [high] MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
+- `INS-260626-E000` [high] Remote approvals should carry device-pairing and host identity, not just an approval boolean.
 - `INS-260605-2D9B` [high] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260410-9B0E` [high] Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
 - `INS-260626-5037` [high] Small models hallucinate because they're memory-bound with low knowledge capacity, but tool access (web search, Python) lets them outperform reliance on baked-in knowledge — and they're naturally strong at agentic tasks.
@@ -36,7 +40,9 @@
 - `INS-260405-CC9D` [high] Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
 - `INS-260605-667B` [high] An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
 - `INS-260410-E3BB` [high] A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
+- `INS-260626-14AE` [high] Agent traces should record whether work ran locally, on a paired host, or in a provisioned remote workspace.
 - `INS-260626-9AEB` [high] Don't bounce a Zod/schema error back to an open model that ignores it for 50+ turns; deterministically repair the malformed call and append a hint, and the model self-corrects within a couple of tool calls.
+- `INS-260626-FF79` [high] Agent-ready environment files should be treated as executable infrastructure, not editor preferences.
 - `INS-260605-310E` [high] Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
 - `INS-260626-091B` [high] Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260514-EE2E` [high] Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
@@ -53,6 +59,7 @@
 - `INS-260410-83EC` [high] Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260405-F26B` [medium] ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260605-303C` [medium] Agents look less autonomous than they are because you can only reach them in their native environment, not because the models are weak.
+- `INS-260626-E56B` [medium] Popularity should help discover capabilities, not substitute for provenance and permission review.
 - `INS-260605-BB4B` [medium] Short-term memory holds conversation/session context, long-term holds entities resolved and deduplicated over time, and reasoning holds the decision traces — three layers, not one.
 - `INS-260625-355D` [medium] Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
 - `INS-260619-B1A8` [medium] An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work.

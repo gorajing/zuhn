@@ -1,8 +1,8 @@
 # Tag: critical-thinking
 
 - `INS-260320-703F` Course bros sell hope, not value — if the magic solution worked, they wouldn't be selling it on Twitter.
-- `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
 - `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
+- `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
 - `INS-260603-B263` Harvey (keynote): assume ~90% of today's tasks get automated by AI — but that automates knowledge WORK (the task), not the knowledge WORKER; there's no traditional individual-contributor work anymore because every IC is now managing AI/agents, what he calls the 'gold collar' era.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
@@ -18,6 +18,8 @@
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F60A` Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
+- `INS-260403-DD07` Actively trying to convince yourself a problem isn't real or big enough surfaces evidence gaps that enthusiasm-driven validation misses.
 - `INS-260327-924F` If everyone believes it, it's probably wrong - not because the majority is always wrong but because beliefs adopted without examination accumulate errors that questioning would catch.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260327-E07D` If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.
@@ -28,8 +30,6 @@
 - `INS-260330-0F04` Swapping the actor in a scenario while keeping the action identical exposes tribally-motivated reasoning.
 - `INS-260327-C4AC` Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
-- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
-- `INS-260403-DD07` Actively trying to convince yourself a problem isn't real or big enough surfaces evidence gaps that enthusiasm-driven validation misses.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-2C97` Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.

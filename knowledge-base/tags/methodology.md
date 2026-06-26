@@ -1,7 +1,7 @@
 # Tag: methodology
 
-- `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260404-4434` The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.
+- `INS-260403-F8CB` Yudkowsky predicted shorter timelines than Bio Anchors via disjunctive reasoning — either deep learning pays off fast or a new paradigm emerges — and was right on the bottom line despite the wrong mechanism.
 - `INS-260320-7682` Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
 - `INS-260405-F72B` LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
 - `INS-260409-004E` Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
@@ -14,10 +14,10 @@
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260330-3491` Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
+- `INS-260404-ABCB` NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260403-6C99` George Borjas' anti-immigration conclusions have repeatedly vanished when peers corrected his methodological choices, revealing a pattern too consistent to be accidental.
 - `INS-260330-716C` Tyson identifies at least four stacking biases in the search for extraterrestrial life (carbon, planet, habitable zone, intelligence), each of which independently narrows the search space.
-- `INS-260404-ABCB` NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260325-A72C` Physics succeeds by stripping everything to ideal cases (spherical cows) then adding complexity back — a strategy that works for physics but fails for psychology or biology.
 - `INS-260405-6BC4` Individual creators who expose their reasoning methodology earn more trust than institutional brands hiding behind mastheads.

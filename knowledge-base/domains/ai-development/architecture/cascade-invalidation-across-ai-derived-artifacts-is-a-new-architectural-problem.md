@@ -57,8 +57,9 @@ stance: >-
 related:
   - INS-260625-1CB8
   - INS-260605-9523
+  - INS-260626-E56B
   - PRI-260320-467A
   - INS-260605-4B12
-  - INS-260530-E6AA
+  - INS-260626-8B56
 ---
 Classical access control assumes the artifact is the unit of permissioning — change the permission on the artifact, the access change is complete. AI-derived artifacts break this model because the artifact is a function of one or more source artifacts whose permissions are independent. When the source's permissions change, the derived artifact's permissions should change too, but the system doesn't know about the dependency without explicit lineage tracking. This creates a quiet leak surface: permissions get tightened on a source document, the AI-generated dashboard built from it remains visible to people who shouldn't see the underlying data. The architectural pattern that solves this: every AI generation step records the source artifact IDs in a lineage graph, and a lineage-traversal service propagates permission changes from source to derivative. The implementation is non-trivial but the absence of it is a security and compliance liability that compounds as more AI generation happens within the enterprise. Organizations should add lineage tracking to their AI infrastructure roadmap as a first-class concern, not as a future optimization.

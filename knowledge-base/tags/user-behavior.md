@@ -9,10 +9,10 @@
 - `INS-260327-B17E` You cannot pre-test AI products with infinite use cases—ship fast and learn from real user behavior.
 - `INS-260403-64AE` Win-back campaigns get under 10% reactivation; preventing churn through friction removal and early value delivery is far more effective.
 - `INS-260402-5523` Successful growth loops are designed around behaviors users already exhibit naturally, not invented from scratch.
-- `INS-260626-D91F` Find what users are already doing (often hacking around your product) and make that easier — don't try to introduce new behavior.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
 - `INS-260329-BCB7` Mobile users are trained by existing apps — mimic their patterns and improve on them rather than inventing novel interactions.
+- `INS-260626-D91F` Find what users are already doing (often hacking around your product) and make that easier — don't try to introduce new behavior.
 - `INS-260403-76E9` Google's secret was positioning where the web naturally wanted to go rather than trying to force the web to go somewhere else.
 - `INS-260403-C1C4` People reveal true pain in unfiltered forums but give polite, aspirational answers in surveys and interviews.
 - `INS-260330-AB6F` Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.

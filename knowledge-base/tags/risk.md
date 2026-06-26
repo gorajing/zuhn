@@ -26,8 +26,8 @@
 - `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260328-02A0` Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
-- `INS-260325-F9CF` 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
 - `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
+- `INS-260325-F9CF` 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
 - `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-B02A` Structure pitch decks around two slides: risks retired since last round, and risks this capital will retire next.
 - `INS-260403-A486` Track Risk Burn Efficiency by measuring how much validated learning each dollar of spend produces, not just how long runway lasts.

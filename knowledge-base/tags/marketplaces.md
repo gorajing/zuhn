@@ -1,5 +1,6 @@
 # Tag: marketplaces
 
+- `INS-260626-E56B` Popularity should help discover capabilities, not substitute for provenance and permission review.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260403-426A` Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.
 - `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.

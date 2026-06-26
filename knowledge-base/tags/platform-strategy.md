@@ -1,9 +1,9 @@
 # Tag: platform-strategy
 
 - `INS-260605-82BD` Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
-- `INS-260524-E2C4` Z Venture Capital CEO (ex-Naver/LINE CFO): Naver could chase frontier parity to ~1 trillion won, but at 10-100 trillion it's pointless — keep the service, use others' LLMs, and the foreign models now speak Korean fine anyway.
 - `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
 - `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
+- `INS-260524-E2C4` Z Venture Capital CEO (ex-Naver/LINE CFO): Naver could chase frontier parity to ~1 trillion won, but at 10-100 trillion it's pointless — keep the service, use others' LLMs, and the foreign models now speak Korean fine anyway.
 - `INS-260410-A98D` Every NVIDIA accelerator — all 250-300 million installed CUDA GPUs across 30 years — is architecturally compatible, and Huang treats this as the only unnegotiable rule in the entire company.
 - `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
 - `INS-260625-ADEA` Models, APIs, and tools can be swapped, wrapped, or adapted — but the log is the irreplaceable part that persists, so the provider who hosts your log effectively owns your agent.

@@ -59,6 +59,7 @@ related:
   - INS-260626-21EA
   - INS-260410-684D
   - INS-260505-A0F7
+  - INS-260626-3796
 ---
 Google's repeated workflow for production tiny-model features: take a much stronger cloud LLM, have it generate large volumes of synthetic data (low single-digit millions up to tens of millions of examples depending on ambition) that exactly match the behavior you want, then feed that into a fine-tuning workflow over a small base model like Gemma 3 270M. Combined with quantization, this ships a 'pretty compelling narrow feature to a very wide set of users' powered by an LLM that runs on many devices.
 

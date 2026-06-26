@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-26 | 3096 sources
+Generated on 2026-06-26 | 3101 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,10 +180,10 @@ Generated on 2026-06-26 | 3096 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| From agentic AI to physical AI | audio | 8 | 2026-06-03 |
-| TQ era | audio | 8 | 2026-06-03 |
 | Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents? | paste | 8 | 2026-06-26 |
 | Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
+| From agentic AI to physical AI | audio | 8 | 2026-06-03 |
+| TQ era | audio | 8 | 2026-06-03 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
@@ -2227,10 +2227,13 @@ Generated on 2026-06-26 | 3096 sources
 | Will Superintelligent AI End the World? | Eliezer Yudkowsky | TED | youtube | 3 | 2026-03-27 |
 | Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 | youtube | 3 | 2026-03-24 |
 | Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390 | youtube | 3 | 2026-03-24 |
+| openai codex remote ga june 25 2026 | paste | 2 | 2026-06-26 |
 | Digital Jungle 2 | audio | 2 | 2026-06-19 |
 | AI SDK 7 is now available - Vercel | blog | 2 | 2026-06-26 |
 | Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents | blog | 2 | 2026-06-26 |
+| Cloud Environment Setup and Cloud Subagents in Agents Window · Cursor | blog | 2 | 2026-06-26 |
 | Continual Harness: Online Adaptation for Self-Improving Foundation Agents | blog | 2 | 2026-06-05 |
+| Customize Cursor · Cursor | blog | 2 | 2026-06-26 |
 | In Consumer AI, Momentum Is the Moat | Andreessen Horowitz | blog | 2 | 2026-03-26 |
 | LLM-as-Judge Blind Spots in Production Multi-Turn Transaction Agents | blog | 2 | 2026-06-26 |
 | MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills | blog | 2 | 2026-06-25 |
@@ -2614,12 +2617,14 @@ Generated on 2026-06-26 | 3096 sources
 | You’d Be Surprised How Bad of a Person You Are - Thought Experiments That Change the Way You Think | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How People Perceive You | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How Smart (Or Dumb) You Are | The Dunning-Kruger Effect | youtube | 2 | 2026-03-26 |
-| The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
 | Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
+| The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
+| Agent finder for GitHub Copilot now available | blog | 1 | 2026-06-26 |
 | Agentic Resource Discovery: Let agents search | blog | 1 | 2026-06-26 |
 | GitHub Copilot app support for BYOK | blog | 1 | 2026-06-26 |
 | Improvements to Cursor Automations · Cursor | blog | 1 | 2026-06-26 |
 | LangSmith Cloud changelog - Docs by LangChain | blog | 1 | 2026-06-26 |
+| Model Context Protocol Blog | blog | 1 | 2026-06-26 |
 | What to expect when you’re expecting (dilution)  | blog | 1 | 2026-03-30 |
 | $1,000 If You Don’t Eat McDonald’s (and go shopping with us instead) | youtube | 1 | 2026-03-26 |
 | ½ Teaspoon of This Works Like Ibuprofen (Doctors Won’t Tell You) | youtube | 1 | 2026-03-26 |

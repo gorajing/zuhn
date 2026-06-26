@@ -2,9 +2,9 @@
 
 - `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260626-BAE9` Gemma 4 moved to an Apache 2.0 license specifically to make the models accessible to everyday developers across initial testing, deployment, and building, paired with both self-host (Hugging Face, Kaggle, Ollama) and cloud (AI Studio, Vertex) paths.
+- `INS-260514-8108` Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260409-27F9` ChatGPT owned 100% of the consumer AI market in 2023, ~75% in 2025, and is likely to fall under 50% as platform incumbents enter with free offerings bundled through OS-level distribution.
-- `INS-260514-8108` Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
 - `INS-260404-573C` Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260625-98B5` Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
@@ -61,6 +61,15 @@
 - `INS-260403-5447` Platform recommendation features can massively accelerate growth but function as an amplifier of existing quality, not a substitute for it.
 - `INS-260403-6341` Products where usage inherently creates exposure to new users achieve the most efficient growth.
 - `INS-260403-014D` Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
+- `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
+- `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
+- `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
+- `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
+- `INS-260330-C7E6` Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
+- `INS-260410-DCE5` Google initially begged early portals to include 'Powered by Google' attribution on their search results pages — which trained tens of millions of users that Google meant high-quality search, eventually making the Google brand a value proposition that portals wanted rather than resisted.
+- `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
+- `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
+- `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
 - `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260409-B892` AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
@@ -72,15 +81,6 @@
 - `INS-260405-543B` Memes achieve virality through audience co-ownership of the humor — resharing feels like self-expression, not advertising, which is why they outperform paid equivalents.
 - `INS-260410-70F3` IKEA invented the 'exhibition' — a single physical showroom that existed only to make customers trust the mail-order catalog enough to buy from it.
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
-- `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
-- `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
-- `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
-- `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
-- `INS-260330-C7E6` Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
-- `INS-260410-DCE5` Google initially begged early portals to include 'Powered by Google' attribution on their search results pages — which trained tens of millions of users that Google meant high-quality search, eventually making the Google brand a value proposition that portals wanted rather than resisted.
-- `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
-- `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
-- `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
 - `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
 - `INS-260603-2F7E` Harvey (keynote): AI infinitely increases supply (gazillion units of code/content/video) but human consumption didn't change — 'my eyeball time, my attention is still limited' — so you produce in 2 days what took 2 months, but so does the person next to you, and you're all competing for the same fixed attention.
 - `INS-260410-93E3` David Ogilvy's principle that audiences are a moving parade means your back catalog keeps converting new listeners/readers forever, making re-exposure to proven material more ROI-positive than chasing novelty.

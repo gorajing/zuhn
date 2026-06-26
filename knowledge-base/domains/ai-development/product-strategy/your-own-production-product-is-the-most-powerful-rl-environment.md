@@ -65,6 +65,7 @@ related:
   - PRI-260403-5FC4
   - INS-260327-0B69
   - INS-260626-07B6
+  - INS-260626-FF79
 ---
 Cursor uses zero RL-environment vendors. For coding, working environments are already abundant (GitHub: clone a repo, install dependencies, run it), and where it gets hard is infrastructure—standing up a database to verify a migration, for instance. But the deeper point is that an RL environment is three components: the harness (where tool calls execute), the 'operating system' (the actual world state the model interacts with), and the reward checker. The harness is portable; the OS is not. Replicating your real product OS inside a generic Docker container introduces differences that degrade training, so Cursor built a custom VM stack that bursts to 100,000 machines on demand and defaults to running environments on the product side, calling the actual production environment.
 

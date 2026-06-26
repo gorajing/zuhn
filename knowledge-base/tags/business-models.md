@@ -68,8 +68,8 @@
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
 - `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260403-3A72` ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
-- `INS-260403-2913` Blending proven models from different domains (e.g., e-commerce + subscriptions = Dollar Shave Club) is a repeatable ideation method.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
+- `INS-260403-2913` Blending proven models from different domains (e.g., e-commerce + subscriptions = Dollar Shave Club) is a repeatable ideation method.
 - `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260404-E36F` Early-stage business models are almost certainly wrong, so time spent on them displaces discussion of the problem and product where founders actually have insight.
 - `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.

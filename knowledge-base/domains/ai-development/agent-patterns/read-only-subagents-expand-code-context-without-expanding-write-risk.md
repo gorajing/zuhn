@@ -47,6 +47,7 @@ related:
   - PRI-260405-2A95
   - INS-260403-27F5
   - INS-260603-6B3D
+  - INS-260626-7C7B
 ---
 The patching CRS sub-agent design mirrors a Claude-Code-like split: a main agent can edit files and invoke subagents, while subagents have read-only tools such as code search, grep, list, and view. This lets the system fan out context gathering and hypothesis generation without multiplying uncontrolled write surfaces.
 

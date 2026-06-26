@@ -1,9 +1,9 @@
 # Tag: mental-models
 
 - `INS-260625-6ED0` Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
-- `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260605-0E19` Traditional software made you a traffic controller dictating every move; agents make you a dispatcher who states the destination and trusts the agent to find the route.
 - `INS-260605-E693` Every agent is a recursive while-loop with a few conditions and end states, so design it as a state machine you can always locate yourself within.
+- `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260619-4962` Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - `INS-260409-FEAE` Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.
@@ -47,6 +47,15 @@
 - `INS-260412-3C64` We default to simpler models not because they're better but because they're solvable, creating blind spots where reality diverges most.
 - `INS-260412-15D0` Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
 - `INS-260412-2316` Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
+- `INS-260412-0B8B` Charging to 50% twice is faster than charging to 100% once because batteries accept power at diminishing rates as they fill.
+- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
+- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260410-AEF8` Japan's fatal error was projecting that America would stay isolationist after Pearl Harbor — modeling the adversary as a static object rather than a system that responds to provocation.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
@@ -57,15 +66,6 @@
 - `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
-- `INS-260404-2135` Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
-- `INS-260412-0B8B` Charging to 50% twice is faster than charging to 100% once because batteries accept power at diminishing rates as they fill.
-- `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
-- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
-- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
-- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
@@ -142,22 +142,6 @@
 - `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260403-9E31` The gangsterism lens — treating governance as mafia-style personal power projection — reliably predicts which institutions will be targeted and how.
 - `INS-260412-DBD1` The Roche limit — where tidal forces exceed self-gravity and a body disintegrates — maps onto any system where proximity to a dominant force tears apart internal bonds.
-- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
-- `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
-- `INS-260412-6ACA` Every 2D analogy for 3D+ spacetime curvature omits exactly the dimensions where the interesting physics happens.
-- `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
-- `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
-- `INS-260330-FEDD` Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
-- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
-- `INS-260412-5ACD` An orbit is not suspension against gravity but sideways motion fast enough that falling continuously misses the ground.
-- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
-- `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
-- `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
-- `INS-260330-AC34` The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
-- `INS-260330-86A7` Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
-- `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
-- `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
-- `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
@@ -179,6 +163,22 @@
 - `INS-260323-12F2` The fundamental realization from vacuum physics: emptiness is the default state of the universe, and the presence of matter is what needs explaining.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
+- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
+- `INS-260412-6ACA` Every 2D analogy for 3D+ spacetime curvature omits exactly the dimensions where the interesting physics happens.
+- `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
+- `INS-260323-849E` Einstein showed that gravity is not a force at all — objects follow curved paths through spacetime warped by mass, and what we feel as gravity is just the ground stopping our natural path.
+- `INS-260330-FEDD` Daniel Barringer spent 27 years drilling for an iron meteorite that had vaporized on impact 50,000 years earlier — our intuition about low-speed collisions doesn't transfer to high-energy events.
+- `INS-260330-F9FB` The tallest human structures shifted from pushing against gravity (compression) to hanging from anchor points (tension), revealing how reframing constraints unlocks new solution spaces.
+- `INS-260412-5ACD` An orbit is not suspension against gravity but sideways motion fast enough that falling continuously misses the ground.
+- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
+- `INS-260330-C71A` The ball doesn't 'know' it's moving — from its perspective, the glove is approaching at supersonic speed, which immediately explains why leather strips leather on impact.
+- `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
+- `INS-260330-AC34` The 'river model' of spacetime - where space flows inward like a waterfall - instantly resolves the paradox of how things cross the event horizon while appearing frozen from outside.
+- `INS-260330-86A7` Two objects moving in perfectly straight lines on a curved surface will converge — mimicking gravitational attraction without any force acting between them.
+- `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
+- `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
+- `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
 - `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
 - `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.

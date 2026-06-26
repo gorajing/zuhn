@@ -46,8 +46,6 @@
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
-- `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
-- `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260403-F2BF` Founders must distinguish between strategic messaging and keyboard venting before hitting send.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
@@ -56,15 +54,17 @@
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260404-616F` Default to spoken language in writing—if you wouldn't say it to a friend, rewrite it.
 - `INS-260403-280B` Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
+- `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
+- `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
 - `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
+- `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
+- `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
 - `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
 - `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
-- `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
-- `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260402-994D` Stopping investor updates during difficult periods feels protective but is perceived as betrayal by people who trusted you with their savings.
 - `INS-260405-8BEA` Never say you're passionate or that your product is great — both are ignored or actively backfire; demonstrated confidence is the only kind that works.
@@ -83,10 +83,10 @@
 - `INS-260330-25A8` You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
 - `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
-- `INS-260412-E2BF` Aircraft carrier flight decks use color-coded shirts so anyone can instantly identify who does what — a coordination mechanism that scales without verbal communication.
-- `INS-260405-346A` Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
 - `INS-260405-C819` 17-22 slides, one point each—the format that fits how investors actually process information today.
 - `INS-260405-CC3F` Headers that assert facts do the selling when you're not in the room.
+- `INS-260412-E2BF` Aircraft carrier flight decks use color-coded shirts so anyone can instantly identify who does what — a coordination mechanism that scales without verbal communication.
+- `INS-260405-346A` Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
 - `INS-260405-4AAD` Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260404-16DC` Product teams fail when they don't actively translate between the three distinct languages of customers, product, and business.
 - `INS-260405-270B` Cold outreach succeeds when personalization demonstrates genuine knowledge of the recipient's context rather than mass-blast generic pitches.

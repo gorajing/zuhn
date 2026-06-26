@@ -6,12 +6,12 @@
 - `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
 - `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
 - `INS-260410-5CDC` China won the 1962 Sino-Indian War and took the Aksai Chin Plateau it wanted, but the cost was turning an idealistic, non-militarized India into a permanent adversary that doubled its army within a decade — and foreclosed any possibility of a China–India partnership that would have reshaped the global order.
-- `INS-260330-F909` Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
 - `INS-260412-7E9E` Governments consistently fail to fund long-horizon projects like lunar bases despite clear positive ROI, because political incentive structures reward short-term spending.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260412-5272` Stellar engines are machines built by civilizations thinking in eons, not decades — the planning horizon transforms what counts as rational.
 - `INS-260412-59F2` The barrier to becoming an interstellar civilization isn't technical feasibility but humanity's chronic short-term political focus.
 - `INS-260412-2F0C` Venus looks far worse than Mars today but its 90% Earth gravity makes it the better multi-generational bet.
+- `INS-260330-F909` Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
 - `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
 - `INS-260325-77B1` Deadline-based procrastination is contained and often survivable; non-deadline procrastination on life goals extends indefinitely and causes deep regret.
 - `INS-260412-3951` Scientists playing with magnets had no idea they were building the foundation for modern technology — strange matter research may follow the same path.

@@ -14,8 +14,8 @@
 - `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
 - `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
 - `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
-- `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260405-5C48` Having live IRR numbers before every investor call signals operational discipline and closes the trust gap faster than almost any other preparation.
+- `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260405-3238` Define your funding amount, security type, and valuation floor before any investor conversation begins.
 - `INS-260403-55E6` Fundraising success depends on pre-meeting preparation — investor mapping, warm intros, and narrative sharpening — not deck aesthetics.
 - `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.

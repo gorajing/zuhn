@@ -1,8 +1,8 @@
 # Tag: marketing
 
 - `INS-260322-F891` AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
-- `INS-260323-4945` The AI marketing machine works because massive capital buys corridor-of-power access, and people desperately want to believe technology can solve crises like climate change.
 - `INS-260514-8108` Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
+- `INS-260323-4945` The AI marketing machine works because massive capital buys corridor-of-power access, and people desperately want to believe technology can solve crises like climate change.
 - `INS-260403-05EB` Gartner's prediction that 90% of B2B purchases will flow through AI agents means product quality replaces marketing spend as the primary growth lever.
 - `INS-260325-E538` Most store yogurt is sugar-loaded with dead probiotics — only raw, unsweetened, full-fat varieties provide health benefits.
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.

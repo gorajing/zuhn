@@ -53,6 +53,7 @@ related:
   - INS-260626-43C9
   - INS-260626-F5AE
   - INS-260626-B449
+  - INS-260626-FF79
 ---
 The authors find that context files do not function as effective repository overviews: agents do not reach relevant files faster when such files are present, and some agents spend extra steps locating and rereading context files even when already conditioned on them. Appendix ablations also support the view that generated context files largely duplicate existing documentation.
 

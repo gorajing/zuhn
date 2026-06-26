@@ -52,7 +52,6 @@ stance: >-
   dev-to-deploy lifecycle.
 related:
   - INS-260329-693E
-  - INS-260329-5F19
   - INS-260329-8F98
   - INS-260423-9225
   - INS-260605-6588

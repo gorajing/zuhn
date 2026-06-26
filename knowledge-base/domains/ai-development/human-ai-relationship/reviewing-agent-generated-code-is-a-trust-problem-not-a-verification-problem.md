@@ -64,12 +64,12 @@ related:
   - INS-260402-2D7B
   - INS-260409-6833
   - INS-260410-0A28
-  - INS-260410-E233
   - INS-260605-B794
   - INS-260605-2D9B
   - INS-260626-690F
   - PRI-260406-3EF8
   - INS-260603-D44B
+  - INS-260625-A5E7
 ---
 Daigle argues that none of the proposed successors to the pull request (prompt requests, various PR-flow permutations) have won because they all attack the wrong layer. 'Ultimately we're trying to codify trust' — if Shawn or the senior dev reviews it, I trust it because of who they are. When an agent writes code and another agent reviews it and a human glances at it, 'the trust is kind of diffuse,' and most new tools 'are talking more about verification flows. We have more assets to look at' — but more assets to inspect doesn't answer the human question of whether to trust the result.
 

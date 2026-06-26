@@ -9,13 +9,13 @@
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260402-491D` Referral programs simultaneously maximize supply volume and quality because successful hosts self-select high-quality recruits.
 - `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
+- `INS-260404-899D` Prioritize owned channels like virality and UGC over rented channels like paid social, because competitors can always outbid you on rented platforms.
+- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260327-17DE` Customer service is the quality that ensures customers stay and refer 10 friends — it is the real growth engine in hardware businesses.
 - `INS-260329-4FB2` Hormozi 20x'd his podcast reviews simply by asking listeners to share — the barrier to referrals is prompting, not willingness.
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
 - `INS-260410-BA1A` Spotify needed users to hear about it ~8 times before signing up, so early marketing deliberately saturated small geographies like Sweden and US college towns.
 - `INS-260327-C9A3` People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
-- `INS-260404-899D` Prioritize owned channels like virality and UGC over rented channels like paid social, because competitors can always outbid you on rented platforms.
-- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
 - `INS-260403-BA0D` Obsessing over product quality and customer service can substitute for early brand investment by generating organic trust and word-of-mouth.
 - `INS-260329-A6DB` Referrals close easily because the referrer has already solved the trust problem, not because the prospect is more qualified.
