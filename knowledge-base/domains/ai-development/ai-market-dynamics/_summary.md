@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 188 insights
+> 189 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -165,6 +165,7 @@
 - `INS-260626-3E8A` [medium] DORA's platform-engineering finding reframes AI leverage as a systems capability rather than a standalone model or staffing advantage.
 - `INS-260328-D1B2` [medium] Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results.
 - `INS-260323-E2DD` [medium] Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
+- `INS-260626-F5E2` [medium] Keep the math-over-philosophy prediction active, but discount straight-line extrapolation from IMO/AIME performance.
 - `INS-260325-DB7D` [medium] Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
 - `INS-260409-27F9` [medium] ChatGPT owned 100% of the consumer AI market in 2023, ~75% in 2025, and is likely to fall under 50% as platform incumbents enter with free offerings bundled through OS-level distribution.
 - `INS-260403-6705` [medium] OpenAI's 2019 restructuring to attract Microsoft's $1B investment made rapid commercialization a structural inevitability, not a choice individual leaders could resist.

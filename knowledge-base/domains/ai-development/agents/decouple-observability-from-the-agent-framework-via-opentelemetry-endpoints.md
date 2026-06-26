@@ -51,6 +51,5 @@ related:
   - INS-260625-019F
   - INS-260605-809A
   - INS-260605-A03E
-  - INS-260605-E18B
 ---
 The tracing layer 'doesn't care what kind of agent you have' — as long as the agent has an endpoint that emits auto-traces, the platform can gather them; the same holds for evaluation, which just needs an endpoint to hit. Microsoft built this on the OpenTelemetry (hotel/OTel) standard, which means agents built in different frameworks across an organization can all be instrumented and managed in one control plane. The design principle generalizes: treat observability as an interface (standardized telemetry + a callable endpoint) rather than a framework feature. This avoids lock-in and lets a heterogeneous fleet of agents be monitored centrally without rewriting them onto one stack.

@@ -48,7 +48,6 @@ stance: >-
   Agent evaluations should grade the produced outcome rather than enforce a
   specific sequence of tool calls or reasoning steps.
 related:
-  - INS-260410-F5EC
   - INS-260625-36DF
   - PRI-260403-2376
   - INS-260605-0819

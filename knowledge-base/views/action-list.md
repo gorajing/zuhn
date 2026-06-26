@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5860 actionable insights
+Generated on 2026-06-26 | 5861 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -90,6 +90,7 @@ Generated on 2026-06-26 | 5860 actionable insights
 - [INS-260626-8DAD] If you can write it as a deterministic check, do; only fall back to LLM-as-judge for nuance like tone or brand fit—and sample its use to control cost.
 - [INS-260626-CF64] Run a little user research where the user is the robot: at the stop hook ask 'what could we have done better to set you up for success?' and let it tell you what you broke.
 - [INS-260626-BF18] Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
+- [INS-260626-32B6] Reasoning evals need controllable complexity and trace analysis, not just final accuracy on famous benchmark sets.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.

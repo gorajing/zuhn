@@ -54,7 +54,6 @@ stance: >-
   an order-of-magnitude cost advantage over wiring up general frontier models.
 related:
   - INS-260325-DAD7
-  - INS-260327-DECA
   - INS-260330-02A7
   - INS-260330-38E1
   - INS-260409-384A
@@ -63,6 +62,7 @@ related:
   - INS-260605-7B83
   - INS-260605-D33F
   - INS-260605-B82E
+  - INS-260626-5A6D
 ---
 Cursor frames a model as a storage drive with a fixed number of bits it can hold in its weights. Frontier models spend that capacity covering the totality of human knowledge; Cursor cares about exactly one task—software engineering inside Cursor—so it allocates every bit of weight to that task. The payoff is concrete: Composer runs an order of magnitude cheaper than Opus and comparable coding models, because specialization lets you serve a much smaller model at the same quality on your narrow distribution.
 

@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-26 | 3095 sources
+Generated on 2026-06-26 | 3096 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -702,6 +702,7 @@ Generated on 2026-06-26 | 3095 sources
 | Travis Kalanick: 10 Lessons on Stealth Building, Physical AI, and His New Startup Adams (2026) | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
+| Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity | blog | 5 | 2026-06-26 |
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
 | VC 3.0: How AI Is Changing Startup Funding Forever | blog | 5 | 2026-03-30 |
 | VC Return Analysis: Single-Tab Model for Faster Decisions | blog | 5 | 2026-03-30 |

@@ -49,15 +49,15 @@ stance: >-
   increase emissions.
 related:
   - INS-260410-C602
+  - INS-260626-B7AC
   - INS-260409-F9D5
   - INS-260403-6016
   - INS-260330-F205
-  - INS-260328-F05E
   - INS-260322-2D57
   - INS-260321-D484
   - PRI-260323-ADA4
+  - INS-260328-F05E
   - INS-260330-4C5A
-  - INS-260404-7060
 evidence:
   - id: INS-260322-2D57
     type: SUPPORTS

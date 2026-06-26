@@ -51,7 +51,7 @@ related:
   - INS-260605-2186
   - INS-260625-D1F9
   - INS-260625-8EC6
-  - INS-260605-E2D9
+  - INS-260626-32B6
 ---
 The paper reports that the strongest reference agents nearly max out the current compact tier, limiting leaderboard resolution at the frontier. But it still separates a realistic deployment spectrum: in the model-harness grid, public mean scores range from 0.66 to 0.93 under OpenCode and 0.44 to 0.85 under Aider, with failures that are substantive engineering errors.
 

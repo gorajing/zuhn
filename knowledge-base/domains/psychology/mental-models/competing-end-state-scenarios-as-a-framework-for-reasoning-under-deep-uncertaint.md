@@ -55,6 +55,7 @@ related:
   - PRI-260324-2C9F
   - INS-260403-F4C9
   - PRI-260403-EA13
+  - INS-260626-F5E2
 ---
 The video's structure itself is an epistemics lesson: rather than predicting which end-of-universe scenario will occur, it maps three mutually exclusive outcomes determined by a single unknown variable (dark energy's behavior over time). Big Rip if dark energy increases, Heat Death if it stays constant, Big Crunch if it decreases. This converts intractable uncertainty into a manageable decision tree.
 

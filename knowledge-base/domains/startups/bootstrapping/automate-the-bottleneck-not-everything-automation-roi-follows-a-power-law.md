@@ -42,13 +42,12 @@ resolutions:
     Custom software is an appreciating asset only when it compounds your unique
     advantage. In every other case, it's a depreciating liability.
 related:
+  - INS-260626-B7AC
   - INS-260405-A1E6
   - PRI-260321-14D8
   - INS-260412-9657
   - PRI-260406-26FB
-  - INS-260327-DECA
   - INS-260330-BE23
-  - INS-260403-7F89
 stance: >-
   A common mistake is automating wherever it's easiest rather than wherever the
   constraint actually is

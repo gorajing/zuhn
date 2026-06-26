@@ -55,7 +55,6 @@ stance: >-
   Filtering training data to samples solvable with tools but not without
   isolates the cases where tool use genuinely adds value.
 related:
-  - INS-260501-AF40
   - INS-260605-FE67
   - INS-260625-39E7
   - INS-260625-E292

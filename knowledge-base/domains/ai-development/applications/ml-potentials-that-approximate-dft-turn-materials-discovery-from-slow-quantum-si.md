@@ -50,5 +50,6 @@ related:
   - INS-260330-5609
   - INS-260605-2A01
   - INS-260624-02AB
+  - INS-260626-F5E2
 ---
 Woosang describes the materials-discovery shift (Google DeepMind's GNoME and related Nature work): density-functional-theory calculations are accurate but too slow to run on every candidate, so message-passing graph neural nets are trained to approximate DFT and predict stability cheaply, with ML potentials + molecular dynamics accelerating simulation further. The point for the KB's AI-for-science cluster: a fast ML surrogate over an expensive ground-truth calculation is what makes large-scale candidate screening tractable.

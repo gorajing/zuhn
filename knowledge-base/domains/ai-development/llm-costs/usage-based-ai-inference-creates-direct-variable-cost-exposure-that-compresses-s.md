@@ -49,13 +49,14 @@ stance: >-
   interaction incurs real inference costs, fundamentally changing the economics
   from near-zero marginal cost to meaningful per-request expenses.
 related:
-  - INS-260323-7625
   - INS-260327-7D27
   - INS-260329-0D70
   - INS-260405-3240
   - INS-260403-FF45
+  - INS-260323-7625
   - INS-260325-BEAC
   - INS-260402-24B0
+  - INS-260626-C380
 ---
 Traditional SaaS enjoyed near-zero marginal cost per additional user, enabling massive scale with maintained margins. AI-powered products break this model — every API call, every generation, every interaction carries real inference cost. This creates direct variable cost exposure that scales linearly with usage.
 

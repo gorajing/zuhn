@@ -51,7 +51,7 @@ related:
   - INS-260409-F9D5
   - PRI-260411-FB73
   - INS-260413-C4EE
-  - INS-260327-DECA
+  - INS-260626-B7AC
 ---
 The study attacks the antibiotic hit-discovery bottleneck: resistant Neisseria gonorrhoeae needs new treatments, but exhaustive compound testing is too slow and expensive. The AI contribution was prioritization: a graph neural network trained on 38,650 phenotypically tested molecules screened about 6 million compounds and nominated 213 for validation.
 

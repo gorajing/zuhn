@@ -49,10 +49,10 @@ stance: >-
   tool calls, because simplistic prompts fail to stress-test agent behavior.
 related:
   - INS-260605-B13C
+  - INS-260626-32B6
   - INS-260605-0819
   - INS-260625-36DF
   - INS-260530-C385
-  - INS-260410-5D66
   - INS-260410-01BC
 ---
 Weak evaluation tasks like 'Search the payment logs for customer_id=9182' test mechanics but miss the actual use case. Strong tasks look like 'Customer reported triple-charges — find all relevant log entries and determine if other customers were affected' — which forces agents to plan, chain calls, and synthesize.

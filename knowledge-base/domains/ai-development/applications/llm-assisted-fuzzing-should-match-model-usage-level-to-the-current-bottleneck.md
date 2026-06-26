@@ -49,7 +49,7 @@ related:
   - INS-260327-DECA
   - INS-260402-3C79
   - PRI-260321-14D8
-  - INS-260404-9A69
+  - INS-260626-B7AC
 ---
 The AIxCC slides separate low, mid, and high LLM usage. At low usage, the model generates dictionaries or tokens from executed functions so fuzzers can pass comparison gates. At mid usage, it infers structured input formats and produces field-aware mutations. At high usage, it coordinates code analysis, call graphs, taint paths, key conditions, generators, mutators, and feedback loops.
 

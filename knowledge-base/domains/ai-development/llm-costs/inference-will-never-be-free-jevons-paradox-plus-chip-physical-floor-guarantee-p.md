@@ -55,10 +55,10 @@ stance: >-
   reasoning, so rationing on inference will persist for decades.
 related:
   - INS-260327-991D
+  - INS-260626-C380
   - INS-260424-0554
+  - INS-260626-909D
   - INS-260605-D055
-  - INS-260423-6172
-  - INS-260625-0D5D
 ---
 Hassabis on the 'what if inference becomes free' hypothetical: he doesn't think it ever will. Two binding constraints persist: (1) Jevons paradox — anything we can get our hands on, we'll consume. Even if per-token cost drops 100x, demand grows by more (millions of agents in swarms, ensembled reasoning across many directions, multi-agent collaboration). (2) Even if energy costs go to zero (fusion, optimal batteries, superconductors — all of which Hassabis thinks AI will help solve), the physical creation of chips remains a non-zero floor for at least the next few decades.
 

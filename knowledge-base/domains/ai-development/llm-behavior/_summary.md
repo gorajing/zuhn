@@ -1,6 +1,6 @@
 # Topic: llm-behavior
 
-> 39 insights
+> 40 insights
 
 - `INS-260625-E1AA` [high] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260626-1759` [high] Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
@@ -30,6 +30,7 @@
 - `INS-260405-C17A` [medium] Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260625-F62D` [medium] Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
 - `INS-260605-DD16` [medium] Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
+- `INS-260626-C380` [medium] More available inference budget is not the same as models knowing how to spend it productively.
 - `INS-260626-D9CD` [medium] Deploy LLMs where 'what anyone would do' is the goal; the human-held value is where you want a different answer or can't articulate why you did it that way.
 - `INS-260625-3DDC` [medium] When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt.
 - `INS-260605-1CEB` [medium] As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
