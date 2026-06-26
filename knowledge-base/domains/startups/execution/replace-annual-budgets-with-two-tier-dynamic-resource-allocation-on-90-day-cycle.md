@@ -51,7 +51,6 @@ stance: >-
   and fluid 90-day resource pools produces better outcomes because the world
   changes too fast for 12-month allocation.
 related:
-  - INS-260320-2058
   - INS-260423-5F2F
   - INS-260404-488A
   - PRI-260406-C40C

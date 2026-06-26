@@ -31,10 +31,10 @@
 - `INS-260403-DD07` Actively trying to convince yourself a problem isn't real or big enough surfaces evidence gaps that enthusiasm-driven validation misses.
 - `INS-260410-A33F` Argument, counterargument, rebuttal — but the rebuttal must come from a completely different angle than the original argument, or it's just repetition.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
-- `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-2C97` Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.
 - `INS-260330-C4F1` Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
+- `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260330-1815` Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
 - `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.

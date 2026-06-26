@@ -14,7 +14,6 @@
 - `INS-260412-9B06` Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
 - `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
-- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260411-0841` Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
 - `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
 - `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
@@ -28,6 +27,7 @@
 - `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
 - `INS-260403-E503` 65% of VCs weigh anticipated exit opportunities as the key valuation determinant, with competitor benchmarks (60%) as secondary anchor.
 - `INS-260404-25FF` VCs set valuations by discounting a projected exit value by their required return, not by analyzing current cash flows or fundamentals.
+- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
 - `INS-260404-A2C4` AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.

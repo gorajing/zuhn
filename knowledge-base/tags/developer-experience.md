@@ -5,13 +5,13 @@
 - `INS-260330-8F07` AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260625-8DF3` METR pressures the 'DX pays double' principle by showing that better shared tooling does not guarantee speedup when AI reliability is still low.
 - `INS-260330-6D43` Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
-- `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
 - `INS-260321-8382` Agent personality matters more than most tool builders realize — Claude feels like a teammate who cares about your project; Codex feels dry and transactional.
 - `INS-260410-0FC1` Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260605-C726` Hand the agent a 'send feedback' tool for tooling/docs/platform failures, routed straight to the builders' Slack.
 - `INS-260605-2E27` Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
 - `INS-260625-A996` One change propagating through UI → module1 → module2 → platform → production became seven separate re-explanations because each agent session was a blank slate.
 - `INS-260625-7A1A` Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
+- `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
 - `INS-260605-4835` MLX deliberately runs on the GPU rather than the Neural Engine because reaching the Neural Engine requires Core ML, whose private-API friction makes it impractical for developers today.
 - `INS-260605-63AE` Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
 - `INS-260605-B794` When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow.
@@ -20,8 +20,8 @@
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
-- `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260625-B67E` Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
+- `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260605-4AB0` Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
@@ -34,8 +34,8 @@
 - `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260410-84DA` Facebook's internal tooling — monolithic codebase with portable engineers, feature flags with auto-rollback, HipHop compiler, Hack language, real-time experimentation — produced a decade of shipping velocity that competitors could not replicate, and it exists because the company built for itself rather than buying off-the-shelf.
 - `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
-- `INS-260403-FCA6` Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.
 - `INS-260403-912E` Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 - `INS-260403-D2B1` Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.
 - `INS-260403-9C60` The quality of a tool is measured by the journey it enables, not the destination it displays.
+- `INS-260403-FCA6` Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.

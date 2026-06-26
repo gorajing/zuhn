@@ -1,10 +1,10 @@
 # Tag: multimodal
 
 - `INS-260322-B09B` Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
+- `INS-260605-05F4` Let a reasoning model loop and decide which specialized generators to call rather than hardcoding the asset pipeline.
 - `INS-260405-00DE` Background noise carries exploitable signals about patient context that standard noise cancellation discards.
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
-- `INS-260605-05F4` Let a reasoning model loop and decide which specialized generators to call rather than hardcoding the asset pipeline.
 - `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
 - `INS-260405-1C8D` Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
 - `INS-260505-5DC4` Train on the universal substrate (DNA), get understanding of the things it encodes (proteins, RNA) for free.

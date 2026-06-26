@@ -1,13 +1,14 @@
 # Tag: data-quality
 
+- `INS-260605-3285` Snorkel accepts an agentic task only if it passes tests for all four criteria: achievable, non-trivial, functionally correct logic, and a reliable containerized environment.
 - `INS-260323-D18D` LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
 - `INS-260514-CA00` Benchling's 2026 report: the 4 AI killer apps in biotech (lit review, protein structure, reporting, target ID) all sit on clean verifiable data; AI struggles where data is scattered (generative molecular, biomarker, ADMET).
-- `INS-260605-3285` Snorkel accepts an agentic task only if it passes tests for all four criteria: achievable, non-trivial, functionally correct logic, and a reliable containerized environment.
 - `INS-260605-3088` Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260329-A2D0` Models trained on imbalanced data learn to ignore the minority class - explicit rebalancing through oversampling, undersampling, or weighted loss functions is required to fix this.
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260605-B405` Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training.
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
+- `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260605-4597` GPQA's quiet contribution was an adversarial multi-reviewer protocol with agreement-based payouts, ensuring tasks are well-posed, tractable for other experts, and verifiable.
 - `INS-260410-83CF` Sandor Strauss's self-motivated project of ingesting, cleaning, and unifying tick data alongside 1800s-era historical pricing — years before anyone had models that could use it — is what made Medallion's later machine learning possible.
 - `INS-260605-E54A` Accepted tasks produced 'cleaner failures' — logic errors and incomplete-task failures from true difficulty — which give models useful hill-climbing signal, unlike degenerate environmental failures that no model could solve.
@@ -16,8 +17,7 @@
 - `INS-260603-6FE3` Navish (Salesforce): 'the problem is not how large a dataset you give the agent, it's the quality' — a big silo of stale data just has the agent running the same query on old data; you have to keep the data updated for the agent to help.
 - `INS-260625-C6F4` Agents don't forgive bad data the way humans do — they return it as a confident wrong answer — so data foundation absorbs the majority of production effort and is the real reliability lever.
 - `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
-- `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260519-90E2` Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
-- `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260403-AE6A` The BLS revised nonfarm employment down by 911K jobs, revealing the labor market was substantially weaker than monthly reports indicated.
+- `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260326-4F90` Better inputs beat better reasoning — most self-improvement focuses on the wrong variable.

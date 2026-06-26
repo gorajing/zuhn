@@ -2,6 +2,7 @@
 
 - `INS-260410-4067` Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
 - `INS-260410-9B0E` Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
+- `INS-260403-834C` Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260403-949E` Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
@@ -49,7 +50,6 @@
 - `INS-260410-FF8B` Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.
 - `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260626-39CE` OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment.
-- `INS-260403-834C` Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260410-CDDD` You cannot deploy powerful AI systems until a human indemnifies their actions — the legal infrastructure of liability, property, and rights is the real deployment bottleneck, not compute or alignment research.
 - `INS-260412-4233` ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
 - `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.

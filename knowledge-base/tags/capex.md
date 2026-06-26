@@ -13,7 +13,7 @@
 - `INS-260626-6E01` Classic bubbles form when excess supply destroys economics; AI today is supply-constrained (no data-center capacity until late '28–'29), which makes a near-term bubble structurally unlikely even if a longer-term one remains possible.
 - `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
 - `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
-- `INS-260321-CBD2` Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
+- `INS-260321-CBD2` Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260410-0E77` Jensen's operating principle was not 'if we build it they will come' but 'if we don't build it they can't come' — the platform must exist before the market materializes or no one can show up at all.

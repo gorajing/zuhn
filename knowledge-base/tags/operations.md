@@ -28,8 +28,8 @@
 - `INS-260412-CAAD` St Helena's airport needs nearly the same firefighting, meteorology, navigation, and security infrastructure as Heathrow despite having one flight per week versus thousands.
 - `INS-260412-D787` The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
 - `INS-260625-C735` Treat throughput, cycle time, and variance as product metrics — customers fire you for non-uniform output faster than for being a bit slower or pricier than incumbents.
-- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
+- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260412-E5CC` Air traffic control sectors dynamically combine at night and split during peak hours, matching controller allocation to actual demand rather than fixed assignments.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
@@ -39,5 +39,5 @@
 - `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260412-FD56` Wealthier F1 teams bring more spare parts and equipment, turning logistics spending into a performance edge when things go wrong.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
-- `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
 - `INS-260412-90AC` When production processes are still being refined, proximity between engineering and manufacturing teams enables faster optimization cycles than offshoring could save in labor costs.
+- `INS-260327-CECA` Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.

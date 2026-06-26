@@ -17,13 +17,13 @@
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260410-A671` Meta has won or neutralized every major threat — MySpace, Google+, Twitter, Snapchat, TikTok, Vine, Periscope — because it holds its connect-the-world mission rigidly but treats every product, technology, and strategy as disposable.
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
-- `INS-260322-D69E` When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
-- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260403-CE70` Repeat founders often fail by transplanting an entire operating system from their last startup without testing whether it fits the new market, team, or timing.
 - `INS-260330-70F5` Founder excellence is paradox navigation, not single-dimension optimization.
+- `INS-260322-D69E` When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
+- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260403-5D3C` 65% of VCs rank management team quality as the top investment criterion, ahead of market size and product quality.
 - `INS-260626-1745` Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
-- `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
+- `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.

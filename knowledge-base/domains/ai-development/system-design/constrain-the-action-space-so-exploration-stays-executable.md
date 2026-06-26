@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Autonomy improves when the environment exposes a bounded action space with
@@ -51,5 +51,6 @@ related:
   - INS-260625-FFDF
   - INS-260619-F7E3
   - INS-260402-543E
+  - INS-260626-1C28
 ---
 The Nature abstract describes a hierarchical, plate-constrained Bayesian optimization framework for mixed discrete and continuous variables. That constraint is not a limitation to paper over; it is what lets the system run 680 real experiments without drifting into impossible chemistry or unsupported hardware actions. The experimental platform and optimizer share the same operational vocabulary.

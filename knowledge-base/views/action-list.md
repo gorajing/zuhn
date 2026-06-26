@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5790 actionable insights
+Generated on 2026-06-26 | 5792 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -77,6 +77,7 @@ Generated on 2026-06-26 | 5790 actionable insights
 - [INS-260626-485E] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - [INS-260626-F335] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - [INS-260626-B0D5] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
+- [INS-260626-1673] LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -1344,6 +1345,7 @@ Generated on 2026-06-26 | 5790 actionable insights
 - [INS-260625-DA23] Persist a snapshot of the agent's sandbox so that when CI fails or a reviewer comments, you rehydrate and keep iterating until the PR turns green.
 - [INS-260625-B67E] Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
 - [INS-260625-26F5] Stop measuring agent success like a researcher (accuracy) and start measuring it like an SRE — reliability, availability, latency, cost, recovery — because dependable outcomes, not benchmark peaks, are the goal.
+- [INS-260626-FC7A] AI SDK 7 turns per-tool context, approval policies, HMAC-bound approval replay, and timeouts into explicit runtime controls.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

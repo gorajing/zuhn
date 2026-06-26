@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 86 insights
+> 87 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -52,6 +52,7 @@
 - `INS-260605-B8AB` [high] Tool proxies should translate authority, not pass it through.
 - `INS-260605-A0D2` [high] Decompose sovereignty into data, model, infrastructure, and operational pillars and only harden the pillars your domain's risk profile demands.
 - `INS-260412-FD9A` [high] The Caplan thruster uses a second jet pointed at the Sun to prevent the engine from crashing into it, illustrating active balance in high-force systems.
+- `INS-260626-FC7A` [high] AI SDK 7 turns per-tool context, approval policies, HMAC-bound approval replay, and timeouts into explicit runtime controls.
 - `INS-260605-780C` [high] Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.'
 - `INS-260410-71B9` [high] Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.
 - `INS-260605-D912` [high] Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.

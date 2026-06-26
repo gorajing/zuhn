@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 49 insights
+> 50 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -34,6 +34,7 @@
 - `INS-260625-2A4F` [high] Shared failures are often benchmark QA signals before they are leaderboard facts.
 - `INS-260625-B985` [high] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
 - `INS-260625-029F` [medium] A reliable agent must be scored on knowing when not to continue.
+- `INS-260626-1673` [medium] LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260625-C1E8` [medium] AgentRun gates should distinguish fast blockers from slower calibration signals.
 - `INS-260625-6178` [medium] Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260625-ED7E` [medium] METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.

@@ -1,11 +1,11 @@
 # Tag: vertical-ai
 
 - `INS-260403-4D80` Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
-- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260404-3D17` AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
 - `INS-260530-18D5` Coco: vertical AI products today look niche (Blueprints AI only does construction documentation, not design or takeoff) — but the same compounding pattern that took Google Scholar → Search is now visible across vertical AI tools as they expand from one workflow step to the full chain.
+- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260404-CCB1` Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.

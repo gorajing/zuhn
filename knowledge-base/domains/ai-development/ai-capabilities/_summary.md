@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 179 insights
+> 180 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -139,6 +139,7 @@
 - `INS-260330-B5D2` [medium] Human science depends on compressing nature into simple formulas, but many real patterns may be inherently too complex for human cognition yet perfectly tractable for AI.
 - `INS-260501-2388` [medium] Amjad Masad: cost question is secondary to performance — when you focus on cost is when you reach a certain asymptotic plateau in the S-curve.
 - `INS-260330-6BBD` [medium] Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260626-1C28` [medium] Gemini 3.5 Flash Computer Use adds multi-environment GUI actions with intent fields, configurable safety policies, and screenshot prompt-injection detection.
 - `INS-260410-E660` [medium] The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260330-44EF` [medium] If invention is mostly high-dimensional recombination with taste rather than pure creation, then LLMs trained on all human knowledge are architecturally well-suited for it.
 - `INS-260330-4C5A` [medium] Tesla's autopilot, constrained to 100 watts, may pioneer more compute-efficient paths to AGI than data-center-scale LLMs using megawatts.

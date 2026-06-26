@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 108 insights
+> 109 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -74,6 +74,7 @@
 - `INS-260625-2439` [high] MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` [high] WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
 - `INS-260421-43EC` [medium] mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history.
+- `INS-260626-3ACC` [medium] Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
 - `INS-260605-61D9` [medium] The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
 - `INS-260605-CF15` [medium] Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
 - `INS-260605-A557` [medium] Reading decision traces works well; writing them — deciding what to store, when, and how to score its quality — is still being figured out.

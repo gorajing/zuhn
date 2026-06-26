@@ -51,10 +51,11 @@ stance: >-
 related:
   - INS-260323-6908
   - INS-260327-5F10
-  - INS-260501-3CAA
   - INS-260605-C775
   - INS-260325-031F
+  - INS-260501-3CAA
   - INS-260410-9D86
+  - INS-260626-09E1
 ---
 Luebken identifies 'make it easy for coding agents' as the emerging architectural pattern when embedding agents in products. Instead of building complex, human-oriented abstractions, you ask what the coding agent is good at and shape the system so the agent can access it with minimal friction. This inverts conventional product design: the agent, not the human, becomes the primary consumer of your interfaces.
 

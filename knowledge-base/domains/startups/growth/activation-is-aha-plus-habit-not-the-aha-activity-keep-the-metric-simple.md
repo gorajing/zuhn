@@ -40,7 +40,6 @@ stance: >-
   downstream revenue metric (aha + habit), not the one-time aha activity, and
   simple activation metrics beat compound ones taken too literally.
 related:
-  - INS-260329-808C
   - INS-260519-ED17
   - PRI-260327-942E
   - INS-260519-08E0

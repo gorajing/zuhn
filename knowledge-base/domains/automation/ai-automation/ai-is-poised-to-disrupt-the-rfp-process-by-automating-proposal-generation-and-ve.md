@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260404-29AF
   - INS-260403-C5BD
+  - INS-260626-7286
   - INS-260403-7825
   - INS-260403-2609
-  - INS-260624-595D
 ---
 The Request for Proposal process is notoriously slow and document-heavy, making it a natural target for AI automation. Analyst Tom Tunguz identified this as a near-term AI use case with clear ROI: AI can ingest a requirements document and generate a compliant, detailed proposal draft in minutes versus the days or weeks required today.
 

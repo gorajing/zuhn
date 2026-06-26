@@ -1,8 +1,8 @@
 # Tag: game-theory
 
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
-- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
+- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
@@ -24,8 +24,8 @@
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260403-D06F` Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
 - `INS-260412-2220` Hypertumors — cancers that parasitize other cancers — show that selfish dynamics within a harmful system can cause it to self-destruct without outside intervention.
-- `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
+- `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
 - `INS-260330-4D9D` When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
 - `INS-260327-BBC2` People cooperate not because they're good but because they expect to meet again - the shadow of future interactions is the real engine of ethical behavior.

@@ -25,13 +25,13 @@
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260403-05CE` The stealth-to-public transition demands a structured launch blueprint: working backwards from a date, building amplifier networks, scheduling publishing waves, and shipping a follow-up within 30 days.
+- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260410-8C24` Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - `INS-260323-8896` Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
 - `INS-260403-5426` Each GTM stage has its own valid acquisition playbook; using tactics from the wrong stage burns resources and generates false signals.
 - `INS-260325-175B` Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
-- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260405-0CE9` Win the hands-on users first; budget approval follows organic adoption, not the other way around.
 - `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
 - `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
@@ -66,6 +66,6 @@
 - `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
 - `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
-- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
 - `INS-260603-2FB1` Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
+- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.

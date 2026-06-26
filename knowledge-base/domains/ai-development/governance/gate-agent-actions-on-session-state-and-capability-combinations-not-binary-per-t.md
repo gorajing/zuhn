@@ -66,7 +66,7 @@ related:
   - INS-260410-761E
   - INS-260625-52B6
   - INS-260625-386B
-  - INS-260402-31D8
+  - INS-260626-FC7A
 ---
 Most coding agents today only let you allow or disallow tool patterns — a binary switch. Zaharia argues this puts you in a 'very tough spot,' because the danger is rarely a single action: reading a confidential document is fine, publishing to the company website is fine, but doing both in one session is an exfiltration path that prompt injection can exploit. The fix is what Databricks calls stateful or contextual policies: the policy engine tracks what the session has already done (e.g., 'it installed a one-day-old NPM package' or 'it read a thousand confidential docs') and gates the next action on that accumulated context. This simultaneously makes the agent more secure AND more useful by moving the tradeoff curve outward rather than choosing a point on it.
 

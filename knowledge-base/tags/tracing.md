@@ -1,5 +1,6 @@
 # Tag: tracing
 
+- `INS-260626-1673` LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.

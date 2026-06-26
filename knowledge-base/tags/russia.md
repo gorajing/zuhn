@@ -1,5 +1,6 @@
 # Tag: russia
 
+- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'
 - `INS-260412-F17D` Russia's Siberian airspace control lets it extract ~$100/ticket on Europe-Asia routes by being the only direct path between $20T+ economies.
 - `INS-260410-2DB5` Regimes that need engineers, industry, and now AI to compete geopolitically cannot prevent the educated class and organized workers they create from eventually threatening their rule.
 - `INS-260410-D1A4` Continental empires like Russia and China survive by systematically destabilizing neighbors sequentially rather than forming lasting alliances, because no great power wants another great power on its border.
@@ -13,4 +14,3 @@
 - `INS-260323-79A5` Ukraine's departure made the Soviet Union structurally non-viable — Yeltsin told Bush that without Ukraine, Russia would be outnumbered by Muslim republics, ending Russian interest in the project.
 - `INS-260403-2151` Russia's apparent post-2022 economic resilience likely reflects understated inflation rather than genuine growth, with independent estimates showing GDP actually fell 1.5%.
 - `INS-260323-B726` Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.
-- `INS-260409-F485` Napier's emerging-market heuristic: avoid countries where trading rights are not guaranteed, constitutions are weak, or exchange rates are overvalued — operationalized as 'don't invest where you wouldn't live after retirement.'

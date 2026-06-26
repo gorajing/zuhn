@@ -1,9 +1,9 @@
 # Tag: distribution
 
 - `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
-- `INS-260514-8108` Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
 - `INS-260402-BCEC` Despite a proliferation of high-quality models, OpenAI pulled ahead because ChatGPT became a daily habit for millions, not because it scored highest on benchmarks.
 - `INS-260409-27F9` ChatGPT owned 100% of the consumer AI market in 2023, ~75% in 2025, and is likely to fall under 50% as platform incumbents enter with free offerings bundled through OS-level distribution.
+- `INS-260514-8108` Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
 - `INS-260404-573C` Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260625-98B5` Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
@@ -60,6 +60,7 @@
 - `INS-260403-5447` Platform recommendation features can massively accelerate growth but function as an amplifier of existing quality, not a substitute for it.
 - `INS-260403-6341` Products where usage inherently creates exposure to new users achieve the most efficient growth.
 - `INS-260403-014D` Founders who empower aligned influencers to grow their own visibility create reinforcing distribution loops that compound over time.
+- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
 - `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
@@ -69,7 +70,6 @@
 - `INS-260402-8D38` As AI summaries reduce click-through from Google, diversifying discovery channels from owned media to social platforms becomes a survival strategy.
 - `INS-260403-76B7` Find one channel where you can win and double down until diminishing returns before diversifying.
 - `INS-260402-C301` Self-distributing AI features fall into three archetypes: outputs that spread awareness (viral artifacts), features that make users show off usage (status loops), and systems that improve with more data (data flywheels).
-- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260409-B892` AI product distribution is an X-first cascade — small community buzz, news accounts, creator content, then scale.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
@@ -90,12 +90,12 @@
 - `INS-260402-B36F` Every AI feature PRD should specify how the feature distributes itself, where it inserts into existing workflows, and whether its economics improve at 10x scale.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
-- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
-- `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
-- `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
+- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
+- `INS-260403-4E7A` Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260404-1CC0` As building barriers collapse, competitive moats migrate from technical capability to distribution and taste.
 - `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
+- `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.

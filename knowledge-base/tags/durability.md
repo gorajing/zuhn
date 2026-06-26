@@ -1,8 +1,8 @@
 # Tag: durability
 
+- `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
 - `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
-- `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
 - `INS-260619-90F6` The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260409-F975` HALO (high asset, low obsolescence) businesses — physical experiences, LNG, mining, space — are the counter-AI portfolio that preserves durability while digital business models face rerating.

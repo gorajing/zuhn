@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 66 insights
+> 67 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -10,6 +10,7 @@
 - `INS-260501-5B48` [high] Pat Grady: there are two basic kinds of revolutions in technology — revolutions of communication (information distribution) and revolutions of computation (information processing). The internet, cloud, mobile were all communication. AI is computation.
 - `INS-260322-E734` [high] Unlike previous platform shifts where physical limits were known (modem speeds, battery life, fiber deployment), AI's theoretical limits are unknown because we don't fully understand why it works or what human intelligence is.
 - `INS-260322-5932` [high] Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
+- `INS-260626-34FB` [high] Copilot app BYOK makes model provider, billing, region, and data-handling terms session-level choices inside the same agent UI.
 - `INS-260404-FC20` [high] Quantum computing repurposes the quantum tunneling effect that limits classical transistor shrinkage as a computational resource rather than a bug.
 - `INS-260325-722C` [high] Unlike fossil fuels that must be extracted, solar and batteries are manufactured technologies that follow learning curves — doubling production drops costs by roughly 20%.
 - `INS-260325-2906` [high] Unlike coal and oil which must be dug up, solar panels follow manufacturing learning curves — doubling production drops costs by 20% — making cheap abundant energy inevitable.

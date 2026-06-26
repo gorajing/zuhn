@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-26 | 3048 sources
+Generated on 2026-06-26 | 3054 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -83,9 +83,9 @@ Generated on 2026-06-26 | 3048 sources
 | How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
-| ai agents 12 ai memory meetup 2026 04 20 | audio | 10 | 2026-04-21 |
 | article_measuringthemoat | pdf | 10 | 2026-04-12 |
 | ceo-letter-to-shareholders-2025 | pdf | 10 | 2026-04-12 |
+| ai agents 12 ai memory meetup 2026 04 20 | audio | 10 | 2026-04-21 |
 | Epistemology and Metacognition in Artificial Intelligence: Defining, Classifying, and Governing the Limits of AI Knowledge | blog | 10 | 2026-04-12 |
 | How can we develop transformative tools for thought? | blog | 10 | 2026-04-10 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
@@ -339,6 +339,7 @@ Generated on 2026-06-26 | 3048 sources
 | Why fearlessness beats experience every time | Steve Stoute for Big Think+ | youtube | 6 | 2026-03-25 |
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 6 | 2026-03-25 |
+| SBI_Price_Intelligently_SaaSPricingReport_2025_Part1 | pdf | 5 | 2026-06-25 |
 | Andreas Tolias | audio | 5 | 2026-05-05 |
 | Anshul kundaje | audio | 5 | 2026-05-05 |
 | Brian Hie   Generative biology from molecular to genome scale | audio | 5 | 2026-05-05 |
@@ -354,7 +355,6 @@ Generated on 2026-06-26 | 3048 sources
 | Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | The St. Regis San Francisco 2 | audio | 5 | 2026-06-19 |
-| SBI_Price_Intelligently_SaaSPricingReport_2025_Part1 | pdf | 5 | 2026-06-25 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 5 | 2026-03-31 |
@@ -2206,6 +2206,7 @@ Generated on 2026-06-26 | 3048 sources
 | Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 | youtube | 3 | 2026-03-24 |
 | Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390 | youtube | 3 | 2026-03-24 |
 | Digital Jungle 2 | audio | 2 | 2026-06-19 |
+| AI SDK 7 is now available - Vercel | blog | 2 | 2026-06-26 |
 | Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents | blog | 2 | 2026-06-26 |
 | Continual Harness: Online Adaptation for Self-Improving Foundation Agents | blog | 2 | 2026-06-05 |
 | In Consumer AI, Momentum Is the Moat | Andreessen Horowitz | blog | 2 | 2026-03-26 |
@@ -2591,7 +2592,12 @@ Generated on 2026-06-26 | 3048 sources
 | You’d Be Surprised How Bad of a Person You Are - Thought Experiments That Change the Way You Think | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How People Perceive You | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How Smart (Or Dumb) You Are | The Dunning-Kruger Effect | youtube | 2 | 2026-03-26 |
+| Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
 | The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
+| Agentic Resource Discovery: Let agents search | blog | 1 | 2026-06-26 |
+| GitHub Copilot app support for BYOK | blog | 1 | 2026-06-26 |
+| Improvements to Cursor Automations · Cursor | blog | 1 | 2026-06-26 |
+| LangSmith Cloud changelog - Docs by LangChain | blog | 1 | 2026-06-26 |
 | What to expect when you’re expecting (dilution)  | blog | 1 | 2026-03-30 |
 | $1,000 If You Don’t Eat McDonald’s (and go shopping with us instead) | youtube | 1 | 2026-03-26 |
 | ½ Teaspoon of This Works Like Ibuprofen (Doctors Won’t Tell You) | youtube | 1 | 2026-03-26 |
@@ -2791,12 +2797,12 @@ Generated on 2026-06-26 | 3048 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| s41746-026-02729-9 | pdf | 0 | 2026-06-25 |
 | AWS Builder Loft | audio | 0 | 2026-06-19 |
 | ​Manisha Gupta | audio | 0 | 2026-05-02 |
 | Panel #1 | audio | 0 | 2026-05-02 |
 | Product demo | audio | 0 | 2026-05-02 |
 | The St. Regis San Francisco | audio | 0 | 2026-06-19 |
-| s41746-026-02729-9 | pdf | 0 | 2026-06-25 |
 | can you look through everything in the codebase | session | 0 | 2026-05-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |

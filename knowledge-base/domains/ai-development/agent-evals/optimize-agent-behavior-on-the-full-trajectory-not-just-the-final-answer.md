@@ -56,6 +56,7 @@ related:
   - INS-260501-3502
   - INS-260626-33BE
   - INS-260626-F335
+  - INS-260626-FC7A
 ---
 Rather than checking only whether the final answer is correct, SkillOpt sends the entire trajectory — tool calls, intermediate steps, and the final output — to a strong frontier optimizer model that proposes targeted skill edits. This richer signal is what lets the optimizer write specific, mechanism-aware rules (for example, 'inspect workbook structure and formulas, then write evaluated static values instead of relying on Excel recalculation') rather than vague encouragement.
 

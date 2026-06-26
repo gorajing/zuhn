@@ -1,9 +1,9 @@
 # Tag: pricing
 
 - `INS-260625-2777` SBI reports that AI add-ons reach only a small share of net-new customers, so add-on monetization can block the adoption loop AI products need.
-- `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
 - `INS-260403-D3ED` DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - `INS-260409-FACE` Buyers are anchored to $2,000/month legacy prices that embed old labor costs — if you can deliver the same output for $50 using agents, you keep the spread until the market reprices.
+- `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
 - `INS-260323-F68A` Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
 - `INS-260514-4E58` Anthropic gating Claude Code behind the $100/mo tier was a painted-door test — the test was necessary because $20/mo doesn't pay for the inference and training.
 - `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
@@ -55,11 +55,11 @@
 - `INS-260329-9D87` Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260403-2318` Large companies protect profitable lines, creating structural openings for startups with lower costs and fresh approaches.
 - `INS-260405-3315` Freemium works because it routes adoption through the user, not through procurement.
+- `INS-260329-64A3` Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260330-999F` Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
 - `INS-260329-6079` Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
-- `INS-260329-64A3` Arbitrage — same asset, two markets, different prices — is the meta-pattern behind all of Hormozi's 10 wealth strategies.
 - `INS-260321-AA91` Enterprise customers resist AI credit-based pricing because credits are opaque (unlike transferable units like gigabytes), vendors can silently increase consumption by adding features, and outcome-based pricing creates a dynamic baseline problem where savings erode year over year.
 - `INS-260403-9DC2` A strategically inferior pricing tier makes your target plan feel like the obvious choice through asymmetric dominance.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
@@ -69,8 +69,8 @@
 - `INS-260403-0F72` Low prices attract price-sensitive users who churn fast and consume disproportionate support — raising prices filters for better customers.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260328-4EA0` Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
-- `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260409-5FE5` Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
+- `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260410-6BFF` Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.
 - `INS-260412-DCDC` The entire aviation industry is dictated by economics not comfort — airlines find it far easier to market lower prices than higher comfort.
 - `INS-260410-ABFF` Walmart's Great Value and Costco's Kirkland compete against brands on price; Trader Joe's refuses to launch a private label product unless it's differentiated on recipe, packaging, size, or merchandising — which is why the house brand carries the store's own name.
@@ -89,13 +89,13 @@
 - `INS-260327-CD77` Start with an aggressively high price—first-time founders chronically underprice out of guilt.
 - `INS-260329-5924` Use the Value Equation (dream outcome × perceived likelihood / time delay × effort) to price based on value delivered rather than cost incurred.
 - `INS-260625-FA05` The core bet is that the more product you build, the lower your COGS (model + hosting + humans-in-the-loop) and the higher your gross margin — so price on value (per-unit or outcome-based), never cost-plus or undercutting.
-- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
-- `INS-260404-0EB2` PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
-- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
-- `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260322-8299` The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-839E` Ramp's willingness to reprice in 2022 gave it a fresh start, while Brex's refusal to mark down trapped it under an unsustainable valuation anchor.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260329-1F17` Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260404-0EB2` PMF locks three variables — value prop, segment, and pricing — so capital can be spent on scaling rather than iteration.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
+- `INS-260330-0F52` Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.

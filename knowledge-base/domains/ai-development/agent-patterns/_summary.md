@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 351 insights
+> 352 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -226,6 +226,7 @@
 - `INS-260405-6A0C` [medium] A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260325-BC2A` [medium] Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260423-74BF` [medium] Google ADK demo: the Guardian agent has an Agent Card declaring streaming capability, description, skills, version, and URL — and that card is what lets other agents discover and call it via A2A.
+- `INS-260626-09E1` [medium] Vercel AI SDK 7 makes established coding-agent harnesses pluggable behind a common Agent interface.
 - `INS-260423-FF52` [medium] ADK callbacks: you can invoke Model Armor API at the before-agent-callback to detect malicious inputs before the agent sees them, and at after-agent-callback to check outputs for sensitive data.
 - `INS-260602-EA48` [medium] Mansi More: when an agent picks a wrong tool, gets a wrong answer, goes back and picks another wrong tool, 'there is no way for the agent to tell that hey it's breaking, stop' — so you must curate the tool list (e.g. an allowlist config) before the agent runs, not rely on it to self-correct.
 - `INS-260321-8382` [medium] Agent personality matters more than most tool builders realize — Claude feels like a teammate who cares about your project; Codex feels dry and transactional.

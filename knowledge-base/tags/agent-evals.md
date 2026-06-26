@@ -1,6 +1,7 @@
 # Tag: agent-evals
 
 - `INS-260625-029F` A reliable agent must be scored on knowing when not to continue.
+- `INS-260626-1673` LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260625-ED7E` METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260625-4D09` METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.

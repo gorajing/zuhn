@@ -1,7 +1,7 @@
 # Tag: friction
 
-- `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.
 - `INS-260403-955F` Meaning emerges from friction, obligation, and inconvenience — optimizing these away optimizes away purpose itself.
+- `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.
 - `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260330-30F0` Drag scales with velocity squared, so eliminating resistance produces exponentially larger gains at higher speeds — true in physics and in execution.

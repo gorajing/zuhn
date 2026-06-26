@@ -57,6 +57,7 @@ related:
   - INS-260605-80DC
   - INS-260603-6B3D
   - INS-260605-683B
+  - INS-260626-FC7A
 ---
 Google's HITL pattern draws a clear line: agents handle groundwork, but humans authorize actions that are irreversible or carry significant consequences. The examples are specific — financial transactions, production deployments, actions on sensitive data.
 

@@ -14,6 +14,9 @@
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
+- `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
+- `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
+- `INS-260410-8E0D` Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260412-0F9A` Air traffic controllers spend entire careers in a single sector group, building deep spatial knowledge of their specific airspace geometry that enables safe split-second decisions.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
@@ -25,9 +28,6 @@
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260404-89C3` The expertise barrier for participation in a discussion is a reliable proxy for whether it's driven by knowledge or identity.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
-- `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
-- `INS-260410-260E` The missionary-children Foreign Service officers correctly called the Chinese Civil War hopeless in 1945-46 based on ground truth, were purged by McCarthy for being right, and their fate illustrates both the value and the cost of honest net assessment.
-- `INS-260410-8E0D` Paine repeatedly tells Dwarkesh his questions are 'above my pay grade' — she can describe what the Japanese leadership faced, but can't say what was politically feasible for FDR without having served in government.
 - `INS-260410-EBDC` Mao's Red Guards worked because telling teenagers with no life experience that they were in charge was incredibly empowering — and they started by killing the teachers who had given them hard grades.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
@@ -47,8 +47,8 @@
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260329-F51D` The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
-- `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
 - `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
+- `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
 - `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do.
 - `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.

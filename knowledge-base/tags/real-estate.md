@@ -8,9 +8,9 @@
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260329-B424` Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.
 - `INS-260327-0AB0` Many retirees globally use accumulated retirement savings to pay off mortgages, converting retirement accounts into real estate equity and qualifying for public pensions.
-- `INS-260327-4E10` Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
 - `INS-260412-F80E` 70% of Chinese household wealth in real estate means any property correction threatens social stability, not just portfolios.
 - `INS-260403-7CAF` Cheap debt capital creates viable business models that wouldn't exist under pure equity financing.
+- `INS-260327-4E10` Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
 - `INS-260330-16F7` McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
 - `INS-260412-3AF6` WeWork's 15-year lease commitments against month-to-month tenant revenue created an unhedgeable duration mismatch that any economic downturn would expose.
 - `INS-260403-BD43` McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
