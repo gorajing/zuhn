@@ -48,7 +48,6 @@ stance: >-
   The highest-leverage content niche is important truths that experienced people
   know but younger smart people haven't yet encountered
 related:
-  - INS-260321-3D65
   - INS-260327-6F11
   - INS-260329-5975
   - INS-260403-BDE0
@@ -58,6 +57,7 @@ related:
   - INS-260404-200B
   - INS-260403-219F
   - PRI-260406-B9E0
+  - INS-260402-2A1D
 evidence:
   - id: INS-260403-2AF0
     type: SUPPORTS

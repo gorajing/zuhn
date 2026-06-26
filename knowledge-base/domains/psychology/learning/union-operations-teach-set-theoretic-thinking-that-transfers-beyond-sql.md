@@ -45,11 +45,11 @@ stance: >-
   intuition about combining and filtering collections that directly transfers to
   programming with arrays, streams, and API responses
 related:
+  - INS-260626-1BB0
   - INS-260329-91DD
   - INS-260625-E292
   - INS-260409-A0B4
   - INS-260410-01BC
-  - INS-260605-8F3D
 evidence:
   - id: INS-260330-4B30
     type: TRANSFERS_TO

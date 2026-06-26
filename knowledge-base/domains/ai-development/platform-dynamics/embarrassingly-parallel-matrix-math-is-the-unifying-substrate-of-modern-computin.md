@@ -71,7 +71,6 @@ related:
   - INS-260410-0EF8
   - INS-260402-9EBD
   - INS-260410-F96E
-  - INS-260514-BB1C
 ---
 GPUs were built to solve a graphics-specific problem: rendering millions of pixels in parallel via matrix transforms. That architecture turned out to be a coincidence of history that matched exactly what deep learning needed when AlexNet arrived in 2012 — massively parallel matrix multiplication where each operation is independent of the others. Then crypto mining showed up as a third 'embarrassingly parallel' workload in the same decade, using the same chips for guess-and-check encryption brute-forcing.
 

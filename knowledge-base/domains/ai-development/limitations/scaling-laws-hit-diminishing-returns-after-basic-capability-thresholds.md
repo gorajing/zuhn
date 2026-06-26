@@ -52,13 +52,13 @@ related:
   - INS-260323-3F11
   - INS-260323-7EEB
   - INS-260323-D2AA
-  - INS-260325-C8D5
   - INS-260323-F310
   - INS-260327-6177
   - INS-260327-C4C8
   - INS-260327-E0B0
   - INS-260327-6F26
   - INS-260328-EA3A
+  - INS-260330-A44F
 ---
 Early scaling of language models produced dramatic leaps—from incoherent to fluent—because the models were acquiring fundamental language competence. However, once that baseline was established, further scaling yielded diminishing returns. Recent improvements manifest as better instruction-following, cleaner formatting, and longer context handling rather than genuinely new cognitive capabilities.
 

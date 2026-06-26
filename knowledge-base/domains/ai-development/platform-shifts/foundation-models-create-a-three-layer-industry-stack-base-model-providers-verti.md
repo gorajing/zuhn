@@ -57,8 +57,8 @@ related:
   - PRI-260405-B144
   - INS-260410-684D
   - PRI-260406-E015
+  - INS-260626-E253
   - INS-260403-64F4
-  - PRI-260406-22E2
 ---
 Sam Altman articulated a clear vision for how the AI industry would stratify: a handful of companies (OpenAI, Google, etc.) would train massive base models requiring enormous compute, creating an oligopoly at the infrastructure layer. On top of this, a new generation of startups would fine-tune these base models for specific verticals — law, medicine, science, emotional support — doing 'the 1% of training that really matters' for each use case. The final layer would be individual applications built atop these vertical models.
 

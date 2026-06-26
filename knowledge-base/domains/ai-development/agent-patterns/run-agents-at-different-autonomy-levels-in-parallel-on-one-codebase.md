@@ -54,13 +54,13 @@ related:
   - INS-260321-D3BE
   - INS-260325-D540
   - INS-260325-2DCD
-  - INS-260605-CEB5
   - INS-260605-D055
   - INS-260605-25B2
   - INS-260625-D295
   - INS-260625-814D
   - INS-260530-D34F
   - INS-260605-0C56
+  - INS-260605-5013
 ---
 The demo's core claim is that parallelism across agents only works because the agents sit at different autonomy levels. If all three demanded constant human-in-the-loop attention, a single developer couldn't drive them at once — attention is the bottleneck, not compute. By making the docs agent fully autonomous (cloud), the UI agent semi-autonomous (background), and only the test agent hands-on (local), Hampton's attention is spent almost entirely on the one task he chose to supervise, while the other two run unattended.
 

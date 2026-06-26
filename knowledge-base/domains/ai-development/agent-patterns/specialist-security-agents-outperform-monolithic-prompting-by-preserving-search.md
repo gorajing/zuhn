@@ -49,6 +49,7 @@ related:
   - INS-260605-5CF8
   - INS-260404-6BD6
   - INS-260404-29AF
+  - INS-260626-A922
 ---
 The talk repeatedly contrasted 'ask the model to build a cyber reasoning system' with an engineered harness of specialized agents. Different agents can focus on server-side bugs, crypto issues, patch localization, dynamic input generation, coverage expansion, or verification.
 

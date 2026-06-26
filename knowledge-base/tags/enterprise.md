@@ -19,6 +19,7 @@
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260605-2D9F` Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
 - `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
+- `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 - `INS-260403-1A38` $23.6B in Q4 2025 enterprise deals driven by CIOs buying agentic platforms instead of building internally marks the buy-over-build inflection point.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
@@ -45,4 +46,3 @@
 - `INS-260404-007F` Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models.
 - `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
 - `INS-260330-3E6B` When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
-- `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.

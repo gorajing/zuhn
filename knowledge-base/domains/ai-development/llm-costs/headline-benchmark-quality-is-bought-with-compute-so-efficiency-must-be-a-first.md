@@ -56,7 +56,7 @@ related:
   - INS-260322-3646
   - INS-260322-5790
   - INS-260605-1787
-  - INS-260605-C53B
+  - INS-260626-A927
 ---
 Charpentier quantifies the hidden cost behind leaderboard quality: evaluating ChatGPT-image over 26K battles meant generating 26K images at ~62 seconds each, totaling 20 days of compute, ~$5,000, and ~556 kWh—which he frames as the energy of running 400 marathons. A comparably-scored fast model did the same evaluation in 7 hours for $265 (four marathons).
 

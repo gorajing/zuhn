@@ -61,7 +61,7 @@ related:
   - INS-260514-54F9
   - INS-260605-6066
   - INS-260412-B825
-  - INS-260410-3D3B
+  - INS-260626-4E80
 ---
 DeepSeek's structural choices: open-sourced V4 Pro (1.6T params, 1M context) on Hugging Face, published full architecture paper including training infrastructure details, even open-sourced the Z3 SMT solver code for verifying fused GPU kernels. Closed labs treat infrastructure as proprietary moat — never publishing details on data center choreography, inter-rack communication optimization, or self-stabilizing training tricks. DeepSeek published all of it. Results: Putnam 2025 perfect score (120/120 on hardest undergraduate math exam), wins majority of benchmarks vs Opus 4.6 Max, second-best open-source model after Kimi K2.6. The 'we don't have resources, so we must engineer better' constraint produced architectural innovations the well-funded labs didn't need to discover.
 

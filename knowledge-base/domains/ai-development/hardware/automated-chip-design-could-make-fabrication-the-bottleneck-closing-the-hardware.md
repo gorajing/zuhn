@@ -65,11 +65,11 @@ stance: >-
   3-5 month fab time the dominant bottleneck and enables a tight
   hardware-algorithm co-evolution loop.
 related:
+  - INS-260626-0D4B
   - INS-260404-CCE7
   - INS-260323-9B49
   - INS-260404-B2AF
   - INS-260424-ABB2
-  - PRI-260328-5CDE
 ---
 Jeff Dean is explicit about the feedback loop: today's chip design cycle is ~18 months of human design + 4 months of fab + deployment. The design phase is the dominant cost. If you can collapse design to a few people running an automated search over the design space with fast simulation feedback, the fab time becomes the bottleneck — and crucially, fab time is roughly the same as a training run (3-5 months), so hardware iteration can run in parallel with model iteration.
 

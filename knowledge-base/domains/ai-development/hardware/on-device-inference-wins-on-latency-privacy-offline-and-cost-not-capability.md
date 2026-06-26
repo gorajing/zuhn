@@ -52,7 +52,6 @@ stance: >-
   Edge deployment of small models is justified by latency/privacy/offline/cost
   constraints rather than by matching cloud model quality.
 related:
-  - INS-260505-4351
   - INS-260605-86BE
   - INS-260605-0748
   - INS-260605-4375

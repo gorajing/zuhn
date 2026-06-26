@@ -43,7 +43,6 @@ stance: >-
   skipping one of these
 related:
   - INS-260327-734D
-  - INS-260327-A98E
   - INS-260329-3739
   - INS-260329-87BA
   - INS-260329-B34E
@@ -52,5 +51,6 @@ related:
   - INS-260403-8C63
   - INS-260327-9F46
   - INS-260329-64B8
+  - INS-260410-988F
 ---
 Hormozi reduces the entire self-improvement/entrepreneurship playbook to three moves: start (produce something), take feedback to get better (iterate), never stop (persist through the long bad period). The value of this compression is diagnostic — most people who feel stuck are skipping one of the three. They haven't started, they're not actually taking feedback (defending their work instead), or they've stopped iterating. When coaching yourself or someone else, the first move is to identify which of the three they're failing at, then restore that specific step rather than looking for more complex strategies.

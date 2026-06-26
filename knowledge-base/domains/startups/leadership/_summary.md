@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 206 insights
+> 207 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -174,6 +174,7 @@
 - `INS-260412-EF0E` [medium] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
 - `INS-260625-67F1` [medium] On the Claude Code team every single person — EM, PM, designers, data scientist, finance, user researcher — writes code.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
+- `INS-260626-35CB` [medium] Neuralink's saying is 'you don't have to be a brain surgeon to work here' — the best people are hardcore engineers who learn neuroscience as they go, because the hard problems are manufacturing and robotics, not biology credentials.
 - `INS-260410-87C4` [medium] Greg Abel: 'Our owners' time horizon extends beyond the tenure of any individual CEO. I will not be your CEO for the next 60 years as simple arithmetic makes that — shall we say — an ambitious plan.'
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.
 - `INS-260330-4AAD` [medium] Toussaint L'Ouverture made conquered enemy generals into his own generals because he valued cultural elevation over revenge.

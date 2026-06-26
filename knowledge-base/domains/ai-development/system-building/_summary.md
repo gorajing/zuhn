@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 289 insights
+> 290 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -9,6 +9,7 @@
 - `INS-260329-D0B3` [high] CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
 - `INS-260329-A461` [high] Programming languages, functions, and libraries all exist as abstraction layers that hide complexity, and choosing the right abstraction level is the core system design skill.
 - `INS-260323-2E51` [high] Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
+- `INS-260626-73D4` [high] Sparse or outdated API specs cause agents to hallucinate or fail calls, so spec quality becomes a hard prerequisite for agentic systems.
 - `INS-260323-2DF2` [high] The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible maintenance burden that only a universal abstraction layer can solve.
 - `INS-260329-EF14` [high] Dynamic array append appears O(n) in worst case due to resizing, but amortized analysis shows it's O(1) because the expensive resizing happens so rarely that its cost spreads across all previous cheap appends.
 - `INS-260329-425B` [high] Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.

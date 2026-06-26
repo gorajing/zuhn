@@ -54,7 +54,7 @@ related:
   - INS-260330-CCF0
   - INS-260403-6A69
   - PRI-260328-4CC0
-  - INS-260327-6976
+  - INS-260626-0D4B
 ---
 The video draws an explicit parallel to Nokia's demise — a company whose massive size created bureaucratic layers that fatally slowed its reaction time in the smartphone transition. Obi positioned its small size as a feature: the ability to quickly iterate designs and swap components when better options became available.
 

@@ -55,7 +55,7 @@ related:
   - INS-260322-D1AB
   - INS-260329-2EB1
   - INS-260323-E0B5
-  - INS-260412-347D
+  - INS-260626-3396
 ---
 When Charpentier polls a room on which of three generated images they prefer, votes split and some people even change their minds on the next example. This demonstrates that picking a model by personally eyeballing a few outputs is biased twice over: once by your own aesthetic preference (which differs from the population's), and once by the small, specific set of prompts you happened to test.
 

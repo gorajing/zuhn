@@ -67,8 +67,8 @@ related:
   - INS-260329-96EC
   - INS-260402-3196
   - INS-260321-4178
+  - INS-260626-3396
   - INS-260530-D34F
-  - INS-260327-E0F7
 ---
 The panel surfaced a structural feature of regulated professions that is often missed in AI capability discussions: the liability boundary is enforced by the license, not by the technology. A licensed architect stamps drawings; a licensed lawyer signs filings; a licensed structural engineer approves load calculations. AI can do all of the drafting/research/calculation that precedes the stamp, but cannot itself carry the liability.
 

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 138 insights
+> 147 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -45,6 +45,7 @@
 - `INS-260403-990E` [high] AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
 - `INS-260403-9A0F` [high] Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
 - `INS-260327-4CB3` [high] Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.
+- `INS-260626-C412` [high] Fine-tuning locks you to a model that the next frontier release makes obsolete; a harness that sits on top inherits every future model's gains for free.
 - `INS-260330-8638` [high] The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260327-BF89` [high] Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
 - `INS-260327-3E23` [high] Pace achieves 100% pilot-to-production conversion by deploying forward engineers with former-founder profiles who can ship code into the core codebase while simultaneously closing customer distance.
@@ -73,6 +74,7 @@
 - `INS-260403-E706` [high] A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
 - `INS-260625-1B69` [high] Scaffolding runs a step ahead of the model, but the model keeps digesting it and upstreaming it natively, so today's harness alpha evaporates within about a year.
 - `INS-260530-7FE2` [high] Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
+- `INS-260626-0D4B` [high] Recursive first rebuilds slow chip-design tools to run ~100,000x faster, because fast iteration loops are what let AI exponentially learn and co-optimize across a huge space.
 - `INS-260625-4DE2` [high] Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
 - `INS-260403-3B8D` [high] Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
@@ -99,13 +101,17 @@
 - `INS-260625-4248` [medium] The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.
 - `INS-260605-4375` [medium] Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.
 - `INS-260625-1955` [medium] Trade up-front training compute for drastically smaller inference: a model that learned your context can answer in ~100 tokens what frontier models burn ~100,000 tokens to do by re-reading files and parsing monstrous system prompts.
+- `INS-260626-3AD0` [medium] Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster.
 - `INS-260605-A7C1` [medium] Companies resisted sending data to ChatGPT because text reduced them to an anonymous database; sending their own UI restores identity and makes participation worthwhile.
 - `INS-260625-76F5` [medium] Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - `INS-260605-175E` [medium] The 'starfish' chatbox landing page sits there and makes the user do all the work, demanding they already hold the system's capabilities in their head — rich visual interfaces lower that discovery burden.
+- `INS-260626-313E` [medium] Recursive names its category 'designless' by explicit analogy to 'fabless'—just as TSMC let companies stop owning fabrication, Recursive wants companies to stop owning chip design.
+- `INS-260626-A927` [medium] Flops get exponentially cheaper and compute is a homogeneous market you can simply buy, while data is fragmented, regulated, and negotiated case-by-case — so a model 1000x more data-efficient is roughly 1000x easier to deploy.
 - `INS-260421-60D9` [medium] Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
 - `INS-260327-E75F` [medium] Just as the internet taught people to consume information through screens, ChatGPT is teaching people to consume it through conversation, which will become the dominant modality because humans prefer easy.
 - `INS-260625-6E19` [medium] Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260605-C9EB` [medium] Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
+- `INS-260626-6A9F` [medium] LLMs excel only at data-rich tasks like search and coding; the trillions of dollars of value in the rest of the economy sits in tens of thousands of data-poor domains, so data efficiency is the real frontier.
 - `INS-260605-288D` [medium] If your product is truly differentiated, it is by definition custom — and a generic frontier API eventually becomes the wrong tool.
 - `INS-260625-8333` [medium] Gemini ships ~30 base voices that you 'direct' with a scene and a performance note, rather than a huge filterable library of fixed voices.
 - `INS-260403-F112` [medium] AI embedded within established innovation frameworks outperforms generic AI tools because it combines methodology guardrails with contextual workflow integration.
@@ -114,6 +120,7 @@
 - `INS-260409-160F` [medium] The 'generic helpful assistant' text-box interface forces a lowest-common-denominator deferential personality because one system prompt has to handle every query from legal analysis to recipe advice, and fawning is the only personality that does not actively repel anyone.
 - `INS-260404-F38A` [medium] The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
 - `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
+- `INS-260626-742C` [medium] Frontier model training is concentrated in few hands partly because of data centralization — labs buying out distressed bookstores and scouring rare libraries — so making models data-efficient is what would let more companies participate in the AI economy.
 - `INS-260605-C122` [medium] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
@@ -122,11 +129,13 @@
 - `INS-260626-80F1` [medium] Static models make the same mistakes tomorrow they made today; products that learn from user signal compound a flywheel competitors can't replicate.
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
+- `INS-260626-B134` [medium] Seo's lesson from the AI revolution — 'impossible without scale, inevitable with scale' — already shows up at Neuralink, where a neural foundation model fine-tuned on just ~20 patients' data surfaces counterintuitive patterns.
 - `INS-260625-0686` [medium] Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.
 - `INS-260605-50FB` [medium] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260625-03A6` [medium] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
 - `INS-260421-536F` [medium] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
+- `INS-260626-44E6` [medium] AlphaChip's AI-generated chip placements are 'organic, curved' rather than the aligned, regular layouts human engineers produce—shocking to physical-design experts but minimizing wire length and improving performance.
 - `INS-260409-6236` [medium] Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
 - `INS-260409-9851` [medium] Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260410-6F67` [medium] Fast exponential capability growth continuously generates new use cases that require bare-metal API access, so the API is the one surface that stays relevant across capability generations.

@@ -50,11 +50,11 @@ stance: >-
   better chips enable better AI which designs even better chips.
 related:
   - INS-260323-9B49
+  - INS-260626-0D4B
   - PRI-260328-49CB
   - INS-260410-AC0B
   - INS-260404-CCE7
-  - INS-260605-048B
-  - INS-260330-9D44
+  - INS-260626-44E6
   - INS-260410-10C9
 evidence:
   - id: INS-260323-9B49

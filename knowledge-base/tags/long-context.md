@@ -1,6 +1,7 @@
 # Tag: long-context
 
 - `INS-260624-F048` A million-token window is not a substitute for a context manager.
+- `INS-260626-88B8` Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - `INS-260625-05FF` Per Jeff Dean, even a trillion-token context window needs stage retrieval — 'you don't need a trillion at once, you need the right million' — so retrieval becomes an iterative search-reason-fetch loop, not a one-shot vector call.
 - `INS-260625-AACE` Agentic workflows reasoning over long contexts and reasoning models spending test-time compute both demand ultra-long contexts, making the quadratic scaling of standard attention — not model quality — the dominant constraint on progress.
 - `INS-260625-057C` In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.

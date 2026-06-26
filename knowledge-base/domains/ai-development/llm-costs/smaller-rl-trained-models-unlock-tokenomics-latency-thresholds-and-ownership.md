@@ -53,11 +53,11 @@ stance: >-
   tokenomics, latency constraints, and data ownership viable at scale — not a
   nice-to-have but the gating condition for production.
 related:
+  - INS-260626-A927
   - INS-260403-64F4
   - PRI-260320-233B
   - INS-260605-F383
   - INS-260403-7A48
-  - PRI-260328-D5EB
 ---
 At enterprise scale, a feature that becomes a commodity costs millions: AT&T spends millions just summarizing every customer-agent transcript. A smaller specialized model that matches a frontier model on the specific task collapses that cost, making the tokenomics of the use case finally close. This is the difference between a use case that ships and one that is permanently 'too expensive.'
 

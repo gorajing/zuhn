@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260325-02F2
   - PRI-260328-E1CE
+  - INS-260626-B134
   - PRI-260328-BF67
   - PRI-260406-4EBD
-  - INS-260403-EC8A
 ---
 Mo Bitar's contrarian point: the software economics intuition ('we can spin up a billion of these for every human') doesn't hold for AI. Inference compute, electricity, and chip supply are physically constrained in ways traditional software wasn't. The actual deployed population of AI is super constrained relative to expectations. AI may turn out to be more expensive than humans for many tasks despite being marketed as cheaper. The economics may force AI into a much narrower deployment footprint than the hype suggests.
 

@@ -52,11 +52,11 @@ related:
   - INS-260409-E776
   - INS-260410-56B4
   - INS-260605-D33F
-  - INS-260605-33FA
+  - INS-260626-4E80
   - INS-260505-ABCC
+  - INS-260605-33FA
   - INS-260605-77E5
   - INS-260605-33B4
-  - INS-260625-A53F
 ---
 Anthropic ran Terminal-Bench 2.0 across six resource configurations — from strict 1x enforcement to completely uncapped — holding model, harness, and task set constant. The total lift from tight to uncapped was 6 percentage points. Naive binomial confidence intervals on these benchmarks already span 1-2 points; infrastructure confounders stack on top of that, not within it.
 

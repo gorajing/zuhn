@@ -61,11 +61,11 @@ related:
   - INS-260329-47DD
   - INS-260320-0F7C
   - INS-260405-2021
-  - INS-260409-8408
   - INS-260410-7ED2
   - INS-260410-315B
   - INS-260410-36E3
   - INS-260410-9D04
+  - INS-260501-E843
 ---
 A common enterprise assumption is that more data makes an AI agent more capable. The data-platform lead inverts this: volume without quality is worthless or harmful. A large silo of stale data doesn't expand what the agent can do — it just means the agent re-runs queries against outdated information and produces confidently-stale answers. The binding constraint is data freshness and quality, not quantity.
 

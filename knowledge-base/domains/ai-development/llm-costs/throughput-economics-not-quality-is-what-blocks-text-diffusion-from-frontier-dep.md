@@ -61,7 +61,7 @@ related:
   - INS-260410-0EFE
   - INS-260424-865F
   - INS-260514-4BD5
-  - INS-260605-048B
+  - INS-260626-A927
   - INS-260624-D8C3
 ---
 Autoregressive serving is slow per user but batches beautifully: many queries stream through the network together, keeping the accelerator saturated and cost-per-query low. Diffusion runs multiple forward passes on the same sequence, so it becomes compute-bound at smaller batch sizes — even though any single user gets lower latency, aggregate throughput drops and cost-to-serve rises. The speaker is explicit that quality is at parity with frontier models ('Quality isn't the concern, it's the throughput'); nobody lands diffusion into flagship models purely because it is too expensive to serve at scale.

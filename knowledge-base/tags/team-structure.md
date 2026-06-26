@@ -10,3 +10,4 @@
 - `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
 - `INS-260403-7227` Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - `INS-260403-063E` McKinsey research shows companies combining AI with human decision-making are 20% more successful in AI deployment than those pursuing full automation.
+- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.

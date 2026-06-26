@@ -48,6 +48,7 @@ stance: >-
   survival strategy.
 related:
   - INS-260325-F21D
+  - INS-260626-35CB
   - INS-260403-BF09
   - INS-260514-70CB
   - INS-260327-41A9

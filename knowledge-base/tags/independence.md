@@ -9,3 +9,4 @@
 - `INS-260330-B885` Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260330-27E8` Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
 - `INS-260327-09D7` Labels take 50-80% of royalties and only the handful of currently hot ones (like John Summit's Experts Only) actually move the needle — build organic hype first, then labels become optional.
+- `INS-260626-66C6` ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.

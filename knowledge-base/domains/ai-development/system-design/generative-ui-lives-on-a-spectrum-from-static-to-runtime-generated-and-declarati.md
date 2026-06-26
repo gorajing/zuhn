@@ -56,11 +56,12 @@ stance: >-
   consistency, not full runtime generation.
 related:
   - INS-260329-19EA
-  - INS-260514-315F
   - INS-260329-CEC5
   - INS-260514-4436
   - INS-260403-141E
+  - INS-260514-315F
   - INS-260323-A5EC
+  - INS-260626-313E
 ---
 Casas frames three points on a spectrum. Static components: the agent is just an orchestrator passing props/data to developer-built components (the last 20 years of UI; AG-UI, Goose Auto Visualizer). Declarative UI: the agent emits a JSON/YAML/Python descriptor that a rendering engine translates into predefined components (Vercel's JSON Render, Netflix-style personalization). Generative components: the model writes HTML/CSS/JS on demand at runtime.
 

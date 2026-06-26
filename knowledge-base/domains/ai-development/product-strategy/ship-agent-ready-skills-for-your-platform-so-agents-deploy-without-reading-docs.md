@@ -52,7 +52,6 @@ stance: >-
   Infrastructure platforms should ship agent-consumable skills and CLIs so AI
   agents can operate the platform without parsing human-facing documentation.
 related:
-  - INS-260327-63B5
   - INS-260329-AA76
   - INS-260409-F0F5
   - INS-260409-A3EC
@@ -62,6 +61,7 @@ related:
   - INS-260605-4509
   - INS-260605-B230
   - INS-260605-EF3C
+  - INS-260625-91CA
 ---
 Almost in passing, the presenter noted RunPod offers CLI support plus 'skills to help work with RunPod, everything that's ready for your agent so you don't have to read our documents.' She demoed the console only because 'we're all humans here today' — the implication being that the agent path is now a primary, expected way to use the platform.
 

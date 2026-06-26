@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 182 insights
+> 183 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -157,6 +157,7 @@
 - `INS-260403-504D` [medium] Being the only AI vendor integrated into classified systems creates leverage so strong that the government prefers coercion over switching.
 - `INS-260404-5CFB` [medium] Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
 - `INS-260409-F0F5` [medium] Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
+- `INS-260626-4E80` [medium] The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
 - `INS-260322-3537` [medium] The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
 - `INS-260328-D1B2` [medium] Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results.
 - `INS-260323-E2DD` [medium] Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.

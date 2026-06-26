@@ -60,8 +60,9 @@ related:
   - INS-260625-B5A8
   - INS-260625-D790
   - INS-260404-CE26
+  - INS-260626-4E80
   - INS-260625-9096
-  - INS-260327-5D5F
+  - INS-260626-E990
 ---
 SkillOpt tests three kinds of transfer. A skill optimized for GPT-5.4 still outperforms the no-skill baseline on its mini and nano variants, though a portion of the gain is lost. Skills optimized inside Codex transfer to Claude Code and vice versa, again beating baseline in most cases. And skills optimized for one benchmark carry consistent (if smaller) gains to related benchmarks. Direct optimization for the exact model and harness always wins, but a large share of the improvement survives transfer.
 

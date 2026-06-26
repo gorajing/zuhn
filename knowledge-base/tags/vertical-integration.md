@@ -6,6 +6,11 @@
 - `INS-260410-28C3` The semiconductor industry split into EDA / IP / fabless / equipment / foundry because Moore's Law made it impossible for one company to stay at the frontier across all five layers.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260501-BBB7` Greg Brockman: at OpenAI you do get to live in the future — we can co-design, change the models the harness everything together to better serve the needs we see.
+- `INS-260424-24A3` David Rosenthal: Google is the only company that has a chip, a cloud, and a model — there are multi-trillion-dollar companies that have one of those things.
+- `INS-260410-F96E` Nvidia's decision to write its own drivers in the 1990s — a costly move most chip companies outsourced — planted the low-level software expertise that became CUDA and eventually enabled 66% gross margins on hardware.
+- `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
+- `INS-260327-969D` SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.
+- `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
 - `INS-260402-C03D` MrBeast's $500M+ revenue empire proves a single creator can bypass traditional marketing by using content as the distribution engine for vertically integrated businesses.
 - `INS-260330-7251` Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
 - `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
@@ -28,10 +33,7 @@
 - `INS-260405-1B93` When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
 - `INS-260405-E7F9` Apple Pay's security and seamlessness were only possible because Apple controlled the chip (Secure Enclave), the OS, and the payment network relationships simultaneously.
 - `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
+- `INS-260626-BD6A` Neuralink designed surgical robots, factories, and deployment infrastructure on day one — building 'under the waterline' looks slow until the iceberg breaches and growth becomes massive fast.
+- `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
 - `INS-260412-846C` Samsung makes the chips inside competitors' phones AND their own phones, giving them cost advantages, supply chain leverage, and deep technical knowledge that compounds over time.
 - `INS-260410-2106` Sony bought Columbia Pictures in 1989 partly out of Betamax-induced trauma, but hardware teams wanted devices to play any content (including pirated) while the movie division wanted hardware to enforce restrictions — the two strategies are permanently incompatible.
-- `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
-- `INS-260424-24A3` David Rosenthal: Google is the only company that has a chip, a cloud, and a model — there are multi-trillion-dollar companies that have one of those things.
-- `INS-260410-F96E` Nvidia's decision to write its own drivers in the 1990s — a costly move most chip companies outsourced — planted the low-level software expertise that became CUDA and eventually enabled 66% gross margins on hardware.
-- `INS-260327-969D` SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.
-- `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.

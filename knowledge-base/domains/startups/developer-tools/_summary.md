@@ -1,11 +1,12 @@
 # Topic: developer-tools
 
-> 12 insights
+> 13 insights
 
 - `INS-260330-202A` [high] Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.
 - `INS-260405-F6A6` [high] The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260330-3257` [high] Pin a Three.js canvas with fixed positioning behind CSS Grid content for clean 2D/3D hybrid layouts.
 - `INS-260405-C1E4` [high] AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
+- `INS-260626-05D4` [high] Because agents read docs to pick tools, even a 5% docs improvement can have an outsized impact on adoption.
 - `INS-260330-DE2B` [high] The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260330-0A95` [high] Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260330-737B` [high] Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.

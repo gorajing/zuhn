@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260625-3A20
   - INS-260409-2A51
+  - INS-260626-6A9F
   - INS-260325-E652
   - INS-260625-4248
-  - INS-260402-28BA
 ---
 David Soria Para's framing is the most transferable idea in the session: traditionally humans 'carefully craft SQL over and over for that one perfect query,' optimizing for precision at the fetch step. Agents invert this — they are very good at sifting through large amounts of retrieved data and selecting what they need, but getting to that first layer of input is the hard part for them. The implication is a different tool-design objective: maximize recall and let the model do precision.
 

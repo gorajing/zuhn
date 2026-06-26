@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 212 insights
+> 214 insights
 
 - `INS-260403-49FB` [high] Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate.
 - `INS-260403-AA20` [high] The 996 grind culture trades short-term velocity for compounding burnout costs that destroy long-term startup viability.
@@ -156,6 +156,7 @@
 - `INS-260501-3D33` [medium] Old: company = open loop, decide-execute-don't-measure. New: company = closed loop, intelligence at center auto-adjusting from outcomes.
 - `INS-260625-1651` [medium] Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
 - `INS-260403-4E23` [medium] A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.
+- `INS-260626-BD6A` [medium] Neuralink designed surgical robots, factories, and deployment infrastructure on day one — building 'under the waterline' looks slow until the iceberg breaches and growth becomes massive fast.
 - `INS-260329-545B` [medium] Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-A1A4` [medium] Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
@@ -202,6 +203,7 @@
 - `INS-260404-5E8F` [medium] RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
 - `INS-260405-9DB6` [medium] Plants respond to RuBisCo's 50% error rate not by evolving a better enzyme but by producing 40 billion tons of it — making raw abundance the substitute for precision.
 - `INS-260404-C9B5` [medium] Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
+- `INS-260626-989F` [medium] Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
 - `INS-260403-F6F9` [medium] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - `INS-260403-4365` [medium] Carta data shows solo founders hit 35% of the 2024 class, with soonicorns like BuiltWith ($14M/year, 1 employee) proving the one-person unicorn is approaching reality.
 - `INS-260329-9101` [medium] A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.

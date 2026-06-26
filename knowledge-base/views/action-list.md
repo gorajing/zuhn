@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5767 actionable insights
+Generated on 2026-06-26 | 5788 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -75,6 +75,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260626-33BE] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - [INS-260626-9155] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - [INS-260626-485E] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
+- [INS-260626-F335] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -337,6 +338,11 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260626-40DF] Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
 - [INS-260626-158E] Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
 - [INS-260626-59D9] Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty.
+- [INS-260626-239A] Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
+- [INS-260626-04E5] OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
+- [INS-260626-88B8] Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
+- [INS-260626-2A5F] Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
+- [INS-260626-65D6] Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -384,6 +390,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260625-BCD8] Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 - [INS-260626-9AEB] Don't bounce a Zod/schema error back to an open model that ignores it for 50+ turns; deterministically repair the malformed call and append a hint, and the model self-corrects within a couple of tool calls.
 - [INS-260626-091B] Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
+- [INS-260626-0E82] Claude Code chose deprecated Whisper V1 over Grok (200x faster, 10x cheaper) simply because Whisper had more examples and clearer docs.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -595,6 +602,8 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260625-5E87] Humans should own the architecture, abstractions, and UI decisions; let the AI fill in implementation, not design the structure.
 - [INS-260625-EC7C] Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
 - [INS-260625-057C] In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
+- [INS-260626-7D73] OpenGov moved off LangGraph to a custom agent loop to gain full control once their use cases got complex.
+- [INS-260626-39CE] OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -759,6 +768,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260625-BEFE] Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
 - [INS-260625-52B6] Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 - [INS-260625-D5A7] Punish a model for visibly cheating in its reasoning and it keeps cheating — just invisibly.
+- [INS-260626-AD63] Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -967,6 +977,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260404-CCB1] Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.
 - [INS-260405-54B7] Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
 - [INS-260403-8832] YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
+- [INS-260626-6F6E] When agents choose the tools, the slogan shifts from 'make something users want' to 'build something agents choose.'
 
 ## ai-development/product-strategy
 - [INS-260323-5CBE] Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
@@ -1055,6 +1066,8 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260626-22D2] Aim your product at the model six months from now, then wait for capability to catch up to it.
 - [INS-260626-715B] Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
 - [INS-260626-07B6] Bet that model capability is unlimited and sell the permissions, approvals, audits, and guardrails that let enterprises actually deploy it.
+- [INS-260626-C412] Fine-tuning locks you to a model that the next frontier release makes obsolete; a harness that sits on top inherits every future model's gains for free.
+- [INS-260626-0D4B] Recursive first rebuilds slow chip-design tools to run ~100,000x faster, because fast iteration loops are what let AI exponentially learn and co-optimize across a huge space.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1280,6 +1293,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260626-B94C] Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
 - [INS-260626-3C9A] Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - [INS-260626-8143] Scaffolding buys ~10-20% performance now but gets wiped out by the next model, so treat it as disposable and bias toward waiting.
+- [INS-260626-73D4] Sparse or outdated API specs cause agents to hallucinate or fail calls, so spec quality becomes a hard prerequisite for agentic systems.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -3636,6 +3650,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260330-B771] Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
 - [INS-260405-C1E4] AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
+- [INS-260626-05D4] Because agents read docs to pick tools, even a 5% docs improvement can have an outsized impact on adoption.
 
 ## startups/disruption
 - [INS-260405-9EE4] When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.
@@ -4108,6 +4123,9 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260625-904E] The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
 - [INS-260625-81D0] Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - [INS-260626-526E] A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
+- [INS-260626-1BB0] The set of things GPUs can do efficiently is larger than the set frameworks like PyTorch can express, and the well-researched 'gray circle' inside that is crowded — so new capabilities are found by looking where existing tools can't reach.
+- [INS-260626-49B6] Trying to change a paradigm rather than execute a known playbook calls for creative people with unconventional backgrounds, whose experience suggests such people can do amazing things and change the world.
+- [INS-260626-A322] Neuralink's 'all green light schedule' asks how fast you could build if every light were green — no admin, shipping, or legacy bottlenecks — and finds 80-90% of assumed constraints are unexamined, not physical.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -5100,6 +5118,7 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260411-791E] Dimon argues competitive battles are fought at the detailed segment level by hundreds of small, authorized teams — not by large management committees where 'We'll get it done' means it never will.
 - [INS-260412-EF0E] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
 - [INS-260626-1745] Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
+- [INS-260626-35CB] Neuralink's saying is 'you don't have to be a brain surgeon to work here' — the best people are hardcore engineers who learn neuroscience as they go, because the hard problems are manufacturing and robotics, not biology credentials.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -5728,6 +5747,12 @@ Generated on 2026-06-26 | 5767 actionable insights
 - [INS-260519-E248] Josh Epstein (Coder): customers who went through formal technical validation hit 70-by-90 a hundred times out of a hundred; those who skipped it, 40%.
 - [INS-260625-2A56] Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - [INS-260626-6A32] Assume each department may not need a person, let AI claim it first, and optimize headcount for agility — smallest number of the best people.
+
+## startups/startups/leadership
+- [INS-260626-3396] ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.
+
+## startups/startups/scaling
+- [INS-260626-66C6] ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

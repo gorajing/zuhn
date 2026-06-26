@@ -7,6 +7,7 @@
 - `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
 - `INS-260409-AB32` Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260605-C0B2` An expressive non-humanoid robot puts the user's mind in a creative space rather than treating the machine as a human replacement.
+- `INS-260626-44E6` AlphaChip's AI-generated chip placements are 'organic, curved' rather than the aligned, regular layouts human engineers produce—shocking to physical-design experts but minimizing wire length and improving performance.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
 - `INS-260405-BEA7` Photosynthesis is 450 million years old, described as 'complicated, inefficient and confusing'—yet it powers virtually all life on Earth.
 - `INS-260330-A18F` Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).

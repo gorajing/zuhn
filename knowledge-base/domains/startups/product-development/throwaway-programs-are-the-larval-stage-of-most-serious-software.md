@@ -44,10 +44,10 @@ stance: >-
   success than supporting large-scale engineering from day one.
 related:
   - INS-260405-C1E4
+  - INS-260626-1BB0
   - INS-260327-D570
   - INS-260330-0CAD
   - INS-260329-8830
-  - INS-260323-AF7B
   - INS-260409-AB8D
 evidence:
   - id: INS-260320-A4BF

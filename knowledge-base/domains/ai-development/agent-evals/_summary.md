@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 47 insights
+> 48 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -28,6 +28,7 @@
 - `INS-260625-9644` [high] When a task has objective consequences, evaluate the consequence, not the prose around it.
 - `INS-260625-B096` [high] Retry provider faults, not poor answers.
 - `INS-260625-D1F9` [high] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
+- `INS-260626-F335` [high] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - `INS-260625-EC9A` [high] The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260625-2A4F` [high] Shared failures are often benchmark QA signals before they are leaderboard facts.
 - `INS-260625-B985` [high] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.

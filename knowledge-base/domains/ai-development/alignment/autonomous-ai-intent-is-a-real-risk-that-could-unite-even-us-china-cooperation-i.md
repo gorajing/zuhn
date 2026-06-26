@@ -59,11 +59,11 @@ stance: >-
   global threat that could motivate narrow US-China cooperation, similar to
   nuclear proliferation frameworks, even amid fierce national competition.
 related:
+  - INS-260626-742C
   - INS-260322-A367
   - INS-260327-7299
   - INS-260410-8C08
   - INS-260322-54F3
-  - INS-260514-791A
 evidence:
   - id: INS-260322-54F3
     type: CHALLENGES

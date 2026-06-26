@@ -56,7 +56,6 @@ related:
   - INS-260605-D710
   - INS-260330-B771
   - INS-260410-A18B
-  - INS-260625-7365
 ---
 Transports are how MCP servers talk to agents, and the choice shapes onboarding. STDIO (standard input/output) runs the server as a local process spawned by the client, staying alive for the session — which is why wiring up a STDIO MCP app means a string of JSON with command-line inputs most users don't want to configure. HTTP runs the server as a web service listening at an endpoint, communicating via POST requests, and works well with serverless setups (the thing to finally put in Vercel/Cloudflare edge functions).
 

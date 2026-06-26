@@ -60,7 +60,6 @@ stance: >-
   to two orders of magnitude fewer inference tokens than re-sending that context
   every call.
 related:
-  - INS-260327-C962
   - INS-260405-547E
   - INS-260409-17E9
   - INS-260410-699C

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 354 insights
+> 358 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -238,6 +238,7 @@
 - `INS-260403-886D` [high] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - `INS-260329-6117` [high] The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260329-5C7A` [high] Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
+- `INS-260626-A322` [high] Neuralink's 'all green light schedule' asks how fast you could build if every light were green — no admin, shipping, or legacy bottlenecks — and finds 80-90% of assumed constraints are unexamined, not physical.
 - `INS-260329-89ED` [high] Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.
 - `INS-260329-60CF` [high] Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260403-E688` [high] Wealth's real value is buying back your time and autonomy, not funding consumption.
@@ -254,6 +255,7 @@
 - `INS-260325-86B3` [high] Lyft/Presto cofounder Rajat Suri: 5 years of zero revenue survived through a loyalty cycle where team sacrifice inspired founder persistence and vice versa.
 - `INS-260329-DD01` [high] Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
 - `INS-260410-7687` [medium] Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss.
+- `INS-260626-E494` [medium] Recursive deliberately mixes people who built frontier LLMs (Claude, Gemini, Grok) with chip-design experts, treating this 'unusual' blend as the company's distinctive advantage.
 - `INS-260404-9376` [medium] Elite founder thinking requires actively purging outdated beliefs, not just acquiring new ones.
 - `INS-260328-70D3` [medium] The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` [medium] Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
@@ -297,6 +299,7 @@
 - `INS-260405-F20D` [medium] Founder compensation should be benchmarked against funding stage and market norms, not minimized to signal commitment.
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260322-5D22` [medium] Building networks where people personally know and trust each other's character creates economic infrastructure that bypasses institutional gatekeeping in the AI era.
+- `INS-260626-1BB0` [medium] The set of things GPUs can do efficiently is larger than the set frameworks like PyTorch can express, and the well-researched 'gray circle' inside that is crowded — so new capabilities are found by looking where existing tools can't reach.
 - `INS-260525-35DB` [medium] Korean engineer: 'In our previous era money was the biggest blocker. Money is not that big a blocker now' — operations and not knowing the market are.
 - `INS-260625-9228` [medium] Simile became a company when social scientists and then Fortune 500 boards spontaneously asked to run their experiments in simulation — the inbound revealed a rare clear line from research to impact.
 - `INS-260329-9A5A` [medium] People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
@@ -356,3 +359,4 @@
 - `INS-260327-31BD` [medium] Kisson wrote unsolicited internal case studies at Facebook that caught Zuckerberg's CPO's attention and got her promoted to HQ strategy.
 - `INS-260323-B426` [medium] Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
 - `INS-260327-3349` [medium] Youth gives founders naivete (not knowing what's impossible) and stamina (sustaining intensity)—advantages that decline with age.
+- `INS-260626-49B6` [low] Trying to change a paradigm rather than execute a known playbook calls for creative people with unconventional backgrounds, whose experience suggests such people can do amazing things and change the world.

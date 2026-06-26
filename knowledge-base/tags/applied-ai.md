@@ -6,3 +6,4 @@
 - `INS-260403-1115` Roll-up models applying acquisitions and AI to the $6T+ services market may produce larger outcomes than building new SaaS companies.
 - `INS-260519-D007` Kyle Norton (Owner): the money you'd spend on half your BDRs, spend on a GTM engineer; if you hire a RevOps leader early they must be applied-AI capable.
 - `INS-260519-553B` Cross-source capstone: Attio, Lovable, MKT1, GTM Strategist, Owner, Vercel, Framer, Intercom, Coder independently land on the same spine — convergence is the epistemic signal.
+- `INS-260626-E253` ElevenLabs' moat is layered: model quality earned by getting in front of users and tuning per-domain, plus an ecosystem — telephony integration, evaluation tooling, 20,000+ shared voices, templates, and trusted brand — because the model itself is only a small part of any customer's stack.

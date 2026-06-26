@@ -4,8 +4,10 @@
 - `INS-260323-4EE4` The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
 - `INS-260321-28FB` Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
 - `INS-260403-5DD7` Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
+- `INS-260626-6A9F` LLMs excel only at data-rich tasks like search and coding; the trillions of dollars of value in the rest of the economy sits in tens of thousands of data-poor domains, so data efficiency is the real frontier.
 - `INS-260403-E706` A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
 - `INS-260424-5759` Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic.
+- `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260403-3517` Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
 - `INS-260626-75DA` You can't prompt your way to a winning company because customers give you a local-optimum answer shaped by their worldview, not a clean prompt — the unspoken signal is the alpha, and the remaining bottleneck is the wisdom to choose.
@@ -17,4 +19,3 @@
 - `INS-260327-C99D` Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260327-30E4` Competing with OpenAI and Anthropic on models is capital-intensive and futile — surf the wave of their improvements by building applications on top.
 - `INS-260423-2C05` Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
-- `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.

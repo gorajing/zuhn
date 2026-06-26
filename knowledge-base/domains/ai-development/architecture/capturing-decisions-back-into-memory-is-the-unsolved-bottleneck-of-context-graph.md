@@ -64,8 +64,8 @@ related:
   - INS-260404-4D7F
   - PRI-260406-A4AA
   - INS-260605-EC51
-  - INS-260605-7711
   - INS-260605-2ECD
+  - INS-260626-621D
 ---
 The retrieval side of context graphs is mature: vector indexes, graph embeddings, and Cypher queries reliably pull precedents and traces. The presenter is candid that the *write* side is not. In the demo, the agent only stores a decision when explicitly prompted to; it will not autonomously decide that an interaction is worth recording.
 

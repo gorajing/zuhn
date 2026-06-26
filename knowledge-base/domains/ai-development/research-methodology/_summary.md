@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 127 insights
+> 128 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -108,6 +108,7 @@
 - `INS-260625-5694` [medium] World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
 - `INS-260501-428B` [medium] Six years after Kaplan's language scaling law, the dexterity equivalent appeared: clean log-linear pretraining-hours to validation-loss curve.
 - `INS-260505-4351` [medium] If a new clinical policy takes an action your offline data never saw, off-policy evaluation can't bound its value — synthetic data fills the gap.
+- `INS-260626-B833` [medium] The old rule was 'know your dataset cold'; the new move is to let the meta-system analyze the data, find failure modes, and generate strategies — even when its outputs look nothing like what a human would write.
 - `INS-260505-AFAB` [medium] Two grad student talks, two domains, same lesson: encode the physics in the objective and tiny labeled datasets suffice.
 - `INS-260501-2BF8` [medium] Applied has completely rewritten their stack every ~2 years — 4 times in 10 years. That's the realistic AI engineering cadence.
 - `INS-260605-3ABF` [medium] Because someone must always win and lose, PvP Elo benchmarks never saturate the way fixed-answer benchmarks do — the ceiling is relative, not absolute.

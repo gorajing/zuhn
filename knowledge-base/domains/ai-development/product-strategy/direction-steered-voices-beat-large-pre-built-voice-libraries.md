@@ -62,9 +62,9 @@ stance: >-
 related:
   - INS-260322-191F
   - INS-260322-B264
+  - INS-260626-7EA8
   - INS-260605-9688
   - INS-260619-BF47
-  - INS-260605-9581
 ---
 Legacy TTS providers give you a large library of distinct voices you filter by gender, accent, and language. Gemini takes the opposite approach: roughly 30 base voices, each then *directed* — you set an audio profile, a scene ('cozy crowded pub on the coast of County Clare'), and a director's note ('deliver the lines with a strong authentic Irish accent'), exactly as you'd direct a human performer. A single American base voice becomes a high-pitched Irish male or a Singaporean speaker through prompting alone.
 

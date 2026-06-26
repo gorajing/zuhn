@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260605-C0BF
   - INS-260605-93B8
+  - INS-260626-3396
   - INS-260409-2906
   - INS-260514-D155
-  - INS-260605-A557
 ---
 Granola built their own tracing tools giving complete visibility over every tool call, the reasoning behind each call, and cost, structured exactly how they want it. The crucial design choice is the audience: the UI serves product, data, and CX teams, not just engineers, so nobody has to write complex CloudWatch queries to learn why something failed. Their founder personally follows the agent loop front-to-back to pinpoint failures.
 

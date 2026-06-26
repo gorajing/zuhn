@@ -58,9 +58,10 @@ related:
   - INS-260410-010F
   - INS-260625-407C
   - PRI-260407-7AE9
+  - INS-260626-A927
   - INS-260322-D079
-  - PRI-260407-023B
   - INS-260605-0E65
+  - INS-260626-6A9F
 ---
 Cheema's macro thesis is that model size and intelligence have diminishing marginal returns that are use-case-specific. Whisper Flow doesn't get better with a 10-trillion-parameter model — it needs low latency and 'enough' intelligence, and past that threshold a bigger model adds no user-visible utility while costing far more. Summarization, email triage, and to-do extraction are the same. Because the 'intelligence-per-joule' metric is improving ~5x from hardware and ~3x from models (compounding), the set of tasks that are 'good enough' locally keeps expanding.
 

@@ -60,7 +60,6 @@ stance: >-
   restored on the next message—rather than kept running or rebuilt from a log.
 related:
   - INS-260403-3587
-  - INS-260423-8504
   - INS-260605-4B95
   - INS-260424-7A03
   - INS-260519-20E0

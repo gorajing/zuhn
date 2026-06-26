@@ -55,7 +55,6 @@ related:
   - INS-260625-3DDC
   - INS-260403-CCC3
   - INS-260410-5EC3
-  - INS-260625-8FBA
 evidence:
   - id: INS-260327-F4DB
     type: TRANSFERS_TO

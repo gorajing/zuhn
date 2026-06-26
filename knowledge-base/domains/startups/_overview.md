@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4843 insights across 55 topics
+> 4855 insights across 58 topics
 
 ## Topics
 
@@ -18,13 +18,13 @@
 | content-strategy | 76 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 7 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 9 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
-| developer-tools | 12 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
+| developer-tools | 13 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | disruption | 25 | Most infra became heavyweight not for technical reasons but because it was designed for a few high-value services; agentic coding creates a huge long tail of individually-low-value workloads incumbents never targeted. |
 | engineering | 32 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 298 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | exits | 7 | Give yourself two months to try for acquisition, then shut down — no time frame means no exit. |
 | financial-planning | 4 | In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem. |
-| founder-mindset | 354 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
+| founder-mindset | 358 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
 | founder-psychology | 87 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 466 | Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception. |
 | growth | 114 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
@@ -32,10 +32,10 @@
 | growth-strategy | 83 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 17 | The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone. |
 | hiring | 77 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
-| ideation | 91 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
+| ideation | 92 | Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses. |
 | innovation | 147 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
-| leadership | 206 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
+| leadership | 207 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
 | market-entry | 62 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | marketing | 17 | Joslyn (Meta ads PM): LLMs let the platform understand you're 'shopping for a summer Europe trip' or 'a graduation ceremony' rather than just knowing your age/gender/click history — semantic intent replaces demographic proxies as the personalization signal. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
@@ -52,8 +52,11 @@
 | quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
-| scaling | 212 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
+| scaling | 214 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
+| startups/founder-mindset | 1 | ElevenLabs built a frontier audio model on a fraction of the capital because audio models are smaller, were a niche with few researchers, and the bottleneck was solvable (transcription/annotation) rather than raw compute. |
+| startups/leadership | 1 | ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness. |
+| startups/scaling | 1 | ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth. |
 | strategy | 283 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 70 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |

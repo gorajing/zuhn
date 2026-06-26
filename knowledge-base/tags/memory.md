@@ -9,6 +9,7 @@
 - `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency.
 - `INS-260410-D92A` Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260605-E230` Some harnesses must learn while the run is still alive.
+- `INS-260626-88B8` Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260409-B122` MemPalace's specialist agents each get a dedicated wing with a private diary; CLAUDE.md stays one line long regardless of whether you have 5 or 50 agents, and each agent reads its own history to build domain expertise.
 - `INS-260605-2ECD` Don't store traces as memory; distill traces into navigable evidence.

@@ -46,9 +46,10 @@ stance: >-
   of notable models came from industry in 2025, only 1 from academia, and the
   most capable systems are the least transparent.
 related:
-  - INS-260325-8F49
   - INS-260413-539D
+  - INS-260626-742C
   - INS-260413-CAA6
+  - INS-260325-8F49
   - INS-260413-7816
   - PRI-260323-8E89
   - INS-260413-B7A7

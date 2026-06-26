@@ -51,6 +51,6 @@ related:
   - INS-260404-5882
   - INS-260403-C49F
   - INS-260403-0B76
-  - INS-260323-4457
+  - INS-260626-3396
 ---
 At Groq, an early falling-out between Jonathan Ross (inventor of the TPU) and the initial CEO forced a decision. Chamath's rule: you always back the technical person who's capable of building the thing but for which the company wouldn't exist. Backing the operator in such disputes optimizes for the current organization; backing the builder optimizes for the product that makes the organization matter. In hardware and frontier AI specifically, where the technical artifact IS the company's reason to exist, operator-led teams without the original architect tend to plateau at execution of an inherited vision rather than achieving continuous technical advancement. The exception is when the builder is fundamentally incapable of working within a team structure at all — a rare pathology rather than the default case.

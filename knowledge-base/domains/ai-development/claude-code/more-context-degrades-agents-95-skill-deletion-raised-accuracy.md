@@ -44,10 +44,10 @@ stance: >-
   common gotchas outperforms exhaustive documentation.
 related:
   - INS-260413-416A
+  - INS-260626-05D4
+  - INS-260626-0E82
   - INS-260410-34F5
   - INS-260501-428B
   - INS-260409-60C2
-  - INS-260530-E697
-  - INS-260323-4B1C
 ---
 Nisi auto-generated 10,000+ lines of skills from WorkOS docs with clever SHA-based incremental updates, assuming more tokens meant better results. Evals proved the opposite: one skill made a task 77% accurate when loaded versus 97% accurate when omitted — he was actively making the model worse. Rewriting by hand into 553 lines covering only the most common gotchas cut eval runs from 68 to 6 minutes and improved accuracy. The model already knows how to code; dumping comprehensive docs sends it on 'wild goose chases.' The job is to gently nudge it toward your product's specific landmines, not to re-teach it the domain. Guide, don't prescribe.

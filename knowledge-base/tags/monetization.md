@@ -23,3 +23,4 @@
 - `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260403-3739` Validating that customers will pay for a solution is a stricter and more predictive test than just confirming they have the problem.
+- `INS-260626-66C6` ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.

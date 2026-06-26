@@ -58,10 +58,10 @@ stance: >-
   self-improvement.
 related:
   - INS-260321-2482
+  - INS-260626-A922
   - INS-260625-D295
   - INS-260605-86F6
   - INS-260625-A7AD
-  - INS-260501-3088
 ---
 Karpathy identifies three modes of coding with LLMs: rejecting them entirely, autocomplete (his sweet spot), and agent-based vibe coding. Agents excel at boilerplate and high-frequency internet patterns — they've seen thousands of CRUD apps — but fail on intellectually dense code that deviates from conventions. Building nanochat, he found agents kept trying to make production-grade bloat, couldn't internalize that he had a custom gradient-sync routine, and defaulted to deprecated APIs.
 

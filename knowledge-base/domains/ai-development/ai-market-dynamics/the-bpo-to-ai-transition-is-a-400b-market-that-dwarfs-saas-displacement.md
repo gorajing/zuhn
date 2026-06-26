@@ -51,7 +51,6 @@ stance: >-
   into 80% margin AI businesses.
 related:
   - INS-260322-750D
-  - INS-260322-31F8
   - INS-260322-3010
   - PRI-260328-8317
   - INS-260322-EDA4
@@ -60,6 +59,7 @@ related:
   - INS-260411-1676
   - INS-260329-28B0
   - INS-260404-5CD3
+  - INS-260625-A503
 evidence:
   - id: INS-260327-DFF0
     type: CHALLENGES

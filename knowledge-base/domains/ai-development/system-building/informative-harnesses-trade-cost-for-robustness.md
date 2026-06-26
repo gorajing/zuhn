@@ -46,9 +46,9 @@ related:
   - INS-260605-8F42
   - INS-260605-B930
   - INS-260619-6E08
+  - INS-260626-C412
   - PRI-260426-890F
   - INS-260625-9096
-  - PRI-260328-6CEC
 ---
 The study defines h-low, h-mid, and h-high harnesses. h-mid adds valid tools to each step, while h-high adds richer tool descriptions and carrying-state information. The authors emphasize that h-mid and h-high require either expert design or costly exploration of the environment.
 

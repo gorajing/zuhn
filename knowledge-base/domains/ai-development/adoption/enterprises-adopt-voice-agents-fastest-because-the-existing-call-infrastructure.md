@@ -66,7 +66,6 @@ related:
   - INS-260405-54A9
   - INS-260530-09FE
   - INS-260605-D912
-  - INS-260619-BF47
   - PRI-260406-1F5E
 ---
 Hopkins observes that enterprises are deploying voice agents at massive scale and more rapidly than any other agent category, and the reason is infrastructural rather than technological. Customer service already has standard operating procedures, IVR trees, and documented call flows, so the conceptual leap from a scripted human call to an autonomous voice agent is far smaller than, say, a financial-services agent making decisions on your behalf. The scaffolding for the new capability is already in place.

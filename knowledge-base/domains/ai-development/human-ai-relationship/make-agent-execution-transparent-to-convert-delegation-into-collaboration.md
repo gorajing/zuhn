@@ -53,6 +53,6 @@ related:
   - INS-260625-A668
   - INS-260410-1030
   - INS-260605-2D9B
-  - INS-260403-4D80
+  - INS-260626-6F6E
 ---
 Transparent execution means making what the agent is doing, using, and thinking extremely clear to the user — the goal is to shift from delegation to collaboration, making the user part of the process rather than a recipient of a black-box result. The first benefit is trust: a result delivered with the reasoning, sources read, assumptions made, and points of uncertainty earns more trust than a bare answer. The second is waste reduction: visible step-by-step progress lets the user intervene early when the agent goes down the wrong path (e.g. reading the wrong docs at step two) instead of discovering the mistake only at the end. Claude's co-work surfaces a live to-do list of done and upcoming steps, the context and skills it's drawing from, and every tool call with its inputs and outputs; Manifold shows a similar task-progress view of what it examined and concluded.

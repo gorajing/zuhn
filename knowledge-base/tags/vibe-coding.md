@@ -4,9 +4,9 @@
 - `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
 - `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
 - `INS-260403-8953` AI that writes code can act on the physical world through software systems, making it far more dangerous than AI that only talks.
+- `INS-260424-FE8E` Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better.
 - `INS-260327-D8D1` Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
-- `INS-260424-FE8E` Logan Kilpatrick: we have someone whose job is to take a bunch of these agentically-engineered changes and get them over the line into the actual AI Studio codebase, and is also responsible for how to make that cycle better.
 - `INS-260501-4043` A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free.
 - `INS-260605-E174` The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
@@ -31,3 +31,4 @@
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
 - `INS-260327-D0F3` The apps you actually spend your day using are all built by professional developers; vibe-coded apps are empowering but represent a lower-value segment of the software economy.
 - `INS-260525-77FE` Korean engineer: the visible coding is maybe 40% of the job; project setup, choosing the stack/LLM provider, deployment, and design decisions are the rest and take the most effort.
+- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.

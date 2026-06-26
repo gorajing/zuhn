@@ -6,10 +6,10 @@
 - `INS-260605-B610` Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?'
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
 - `INS-260525-4D80` Korean engineer: 'I need someone who can play the role of an engineering manager' — not because the agent is stupid, but because intent has to be translated into what the agent should build.
-- `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
+- `INS-260626-04E5` OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
 - `INS-260605-20CB` Offload nitpicky style/naming/convention review to agents and reserve human review for big-picture system design.
 - `INS-260605-5404` GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
@@ -24,6 +24,7 @@
 - `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
 - `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
+- `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260625-AEE0` AI accelerates the discovery loop, but the lab still has to measure, validate, and scale.
 - `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
 - `INS-260402-1D32` Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
@@ -45,6 +46,7 @@
 - `INS-260327-0246` Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
 - `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
 - `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
+- `INS-260626-B833` The old rule was 'know your dataset cold'; the new move is to let the meta-system analyze the data, find failure modes, and generate strategies — even when its outputs look nothing like what a human would write.
 - `INS-260605-BEA5` Snorkel scales quality by building rubrics used by both human experts and LLM judges, then enforcing high inter-annotator agreement between humans and between humans and LLM judges.
 - `INS-260514-F2D5` For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation.
 - `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.

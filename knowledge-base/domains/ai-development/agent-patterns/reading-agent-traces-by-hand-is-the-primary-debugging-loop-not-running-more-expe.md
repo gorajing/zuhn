@@ -52,11 +52,11 @@ stance: >-
   Improving an agent harness comes mainly from reading raw traces line-by-line,
   not from running more automated experiments.
 related:
+  - INS-260626-C412
   - INS-260605-4856
   - INS-260625-9096
   - INS-260410-9DB0
   - INS-260625-2563
-  - INS-260605-36E9
   - INS-260605-E230
   - INS-260605-15B8
   - INS-260625-84D0

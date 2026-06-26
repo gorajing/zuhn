@@ -61,6 +61,7 @@ related:
   - INS-260403-215E
   - INS-260413-3860
   - INS-260405-E4FC
+  - INS-260626-BD6A
 ---
 A frontier-tech VC with 11 years of experience went on the record: every impressive humanoid robotics demo on social media is paired with no commercial deployment at scale. The biggest deals in market are still POCs — collaborative discovery processes with a single customer to find out what's possible — not contracted volume orders.
 

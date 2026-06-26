@@ -66,6 +66,7 @@ related:
   - INS-260505-E5CC
   - INS-260522-51E7
   - INS-260625-06B3
+  - INS-260626-B833
 ---
 Daigle reframes the canonical AI use case. The simple examples — 'I need to write a blog post' — are not where the value is. What's actually transformative is 'a recursive loop backwards': go through all the PRs today, everything posted online, the last three months, all my Obsidian notes, all the Teams transcripts via the WorkIQ MCP server, all of Slack — then build the plan of what this week's messaging actually was. The model's job is retrospection over a short, bounded window, then a small forward tweak.
 

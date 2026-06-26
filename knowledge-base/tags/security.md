@@ -26,6 +26,7 @@
 - `INS-260605-A46E` Agent guardrails are defense-in-depth, not the security model.
 - `INS-260625-52B6` Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 - `INS-260625-7365` Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
+- `INS-260626-AD63` Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.
 - `INS-260625-DD6D` Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
 - `INS-260605-2E60` Mount credentials as secret-refs (Podman/Kubernetes secret pointing to an agent-level secret-ref) so keys never appear as raw env vars in logs or config.
 - `INS-260605-DF82` For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
@@ -46,6 +47,9 @@
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260329-5F19` AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
 - `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260412-F893` Two identical presidential limos with the same plates make spotter intelligence worthless — a deception principle applicable to competitive strategy.
@@ -56,6 +60,3 @@
 - `INS-260402-CC68` Immutable smart contracts force a ship-once mentality where security audits must precede deployment, inverting web2's iterate-fast approach.
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.

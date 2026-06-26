@@ -53,6 +53,6 @@ related:
   - INS-260505-4E44
   - INS-260524-E2C4
   - INS-260625-407C
-  - INS-260323-3F39
+  - INS-260626-4E80
 ---
 Cowen cites public results — Intercom beating its frontier API at one-fifth the cost, Perplexity (Pentress) reporting orders-of-magnitude gains — as evidence that the economics of specialization are real. A frontier model carries the cost of being good at everything; a fine-tuned model concentrates capacity on a single domain, so it can be both cheaper and better there. The key economic warning sign is when, even after token-reduction tricks ('caveman mode'), you still pay more for the API than your customers pay you. That inverted unit economics is a direct signal that a customized inference endpoint could make the business model scale.

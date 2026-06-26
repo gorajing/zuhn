@@ -58,6 +58,7 @@ related:
   - INS-260404-040D
   - INS-260411-CF02
   - INS-260405-88A4
+  - INS-260626-A322
 ---
 Harold Haas's key insight was pointing at ceiling lights and saying 'we have the infrastructure there.' LED bulbs are already being deployed globally as energy-efficient replacements for incandescent lighting — Li-Fi simply adds a software-controlled modulation layer to hardware that's already being purchased and installed for other reasons. The marginal cost of a Li-Fi-capable LED over a standard one could be near-trivial at scale.
 

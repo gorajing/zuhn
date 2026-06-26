@@ -57,11 +57,11 @@ stance: >-
   sufficient and the real gap is domain-specific product scaffolding and taste.
 related:
   - INS-260412-C956
+  - INS-260626-3396
   - INS-260327-D0F3
   - INS-260323-6043
   - INS-260403-06D5
   - INS-260403-1D43
-  - INS-260323-E0B5
 ---
 Asked how close we are to a random person vibe-coding a genuinely fun playable game, Kilpatrick says the model capability already makes it possible — 'it doesn't feel like there's a gap in model quality. It feels like there's a gap in someone who knows what it takes to build a great game actually putting the scaffolding together.' Even with libraries like Three.js, coding agents leave rough edges: native sprite generation is weak, so you need an orchestration layer and tooling, plus reliability, reusability, replayability, and taste baked into the product.
 

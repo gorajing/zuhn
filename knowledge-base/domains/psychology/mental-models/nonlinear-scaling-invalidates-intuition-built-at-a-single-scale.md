@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260329-425B
   - INS-260330-4824
+  - INS-260626-B134
   - INS-260326-DBEF
   - INS-260330-FF5B
   - PRI-260403-EA13
-  - PRI-260405-FB37
   - INS-260605-0DB3
 ---
 The square-cube law means that when an object scales linearly, its surface area grows as the square and volume as the cube. This creates a fundamental mismatch between how we intuit scaling and how it actually works — a 10x longer animal has 1000x the mass but only 100x the surface area to manage it.

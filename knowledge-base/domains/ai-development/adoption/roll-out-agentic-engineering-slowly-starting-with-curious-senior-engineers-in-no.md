@@ -59,9 +59,9 @@ related:
   - INS-260524-2346
   - INS-260524-78D0
   - INS-260514-41C9
+  - INS-260626-3396
   - INS-260328-2BCF
   - PRI-260406-BD4D
-  - INS-260410-9A24
 ---
 PFF's rollout was deliberate: pick the engineers with the deepest systems knowledge (the people others are told to 'go ask'), start in non-critical systems where bugs don't matter, prove out small features there, and only then move to the surface that gets 100M page views. Guardrails must be fully functional before entering an autonomous flow. The single most common failure mode Spitz cites is the opposite: giving everyone a coding assistant plus a hackathon and assuming they'll 'sort it out' — every org's style is different and that approach doesn't transfer.
 

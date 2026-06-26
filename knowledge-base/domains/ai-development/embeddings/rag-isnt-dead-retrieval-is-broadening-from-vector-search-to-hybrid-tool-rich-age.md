@@ -53,7 +53,6 @@ stance: >-
   RAG is not dead; it is being redefined from naive one-shot vector search into
   hybrid, tool-rich retrieval that the 'agentic search' camp has simply renamed.
 related:
-  - INS-260409-5CF4
   - INS-260524-8320
   - INS-260605-4C0A
   - INS-260605-B8D3

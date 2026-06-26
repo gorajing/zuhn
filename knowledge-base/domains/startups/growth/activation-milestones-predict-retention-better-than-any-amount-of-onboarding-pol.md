@@ -53,6 +53,7 @@ related:
   - INS-260322-8D47
   - INS-260329-3392
   - INS-260522-EB3C
+  - INS-260626-88B8
 ---
 Retention starts and often ends in the first session. Calm found users who set a reminder on Day 1 retained 3x better. Facebook discovered that adding 7 friends in 10 days predicted long-term retention and rebuilt their entire onboarding around that single behavior.
 

@@ -55,8 +55,8 @@ related:
   - INS-260605-4856
   - INS-260605-1066
   - INS-260605-15B8
-  - INS-260625-84D0
   - INS-260410-B0D6
+  - INS-260626-C412
   - INS-260410-9DB0
 ---
 When you hill-climb an eval, the gains separate into three zones. Zone 1 is obvious flaws: a bug that crashes the harness, rate limits—fix these, they're free. Zone 2 is nuanced improvements and is the most valuable: prompt-engineering techniques that help Anthropic models but not Codex or Gemini, timeout and CPU/memory tuning of containers, and thinking-budget adjustments (asking a model to think more sometimes degrades quality because it loops—'I am a model. I am a model.'—burning 2,000 tokens). Zone 2 is the essence of working with agents: tweaking the harness so it actually leverages the best of each model. Zone 3 is the danger zone—straight-up overfitting and cheating to post a high score for a tweet. The discipline is to live in Zone 2, bank Zone 1, and refuse Zone 3, because a benchmark gamed is a benchmark destroyed for everyone.

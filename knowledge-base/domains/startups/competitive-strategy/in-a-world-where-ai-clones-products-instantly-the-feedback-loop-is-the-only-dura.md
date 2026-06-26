@@ -64,7 +64,7 @@ related:
   - INS-260410-7AA0
   - INS-260522-201B
   - INS-260404-A526
-  - INS-260404-3212
+  - INS-260626-E253
   - INS-260624-223D
 ---
 In a recursive world where AI codes AI, anything you ship can be cloned the moment it goes viral, so the strategic question becomes 'what is unique only to you?' The speakers distinguish 'transactional memory' — accumulated enterprise knowledge in the CRM, ERP, and SOPs — which got you to the table but which every competitor also has, making it a floor rather than a fortress. The true moat is 'living memory': the signals generated at the moment a customer touches your product — edge cases, corrections, emotional intent, and actual behavior at your specific scale and context. Those signals belong only to you. The day you ship is not the finish line but the start of the race: competitive edge comes from how fast you can turn a signal into value and compound it recursively. This demands an engineering-vision shift — every feature you ship should either generate a feedback signal or deliver on what the signal has already taught you; if it does neither, you're building something anyone can copy. The survivors won't be the earliest adopters but the organizations that 'learn to learn,' building memory through feedback loops that cannot be bought or copied.

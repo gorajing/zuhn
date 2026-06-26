@@ -44,11 +44,11 @@ stance: >-
   Polishing only the core mechanic and shipping fast produces better products
   than trying to launch with full depth across all features
 related:
+  - INS-260626-F335
   - INS-260404-F965
   - INS-260605-C223
   - INS-260409-1AA0
   - PRI-260405-4B06
-  - INS-260323-2559
 evidence:
   - id: INS-260404-F965
     type: EXTENDS

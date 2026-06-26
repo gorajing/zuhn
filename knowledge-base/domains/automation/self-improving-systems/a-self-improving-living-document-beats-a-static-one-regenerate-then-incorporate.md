@@ -52,6 +52,6 @@ related:
   - INS-260409-E730
   - INS-260522-EB3C
   - INS-260328-0DFE
-  - INS-260410-00F0
+  - INS-260626-7EA8
 ---
 YC's user manual was 5-10 years old and out of date. With ~2,000 hours of recorded office hours from three months, they diarized and categorized the corpus (fundraising, hiring, co-founder disputes) and regenerated a dramatically better 150-page manual over a weekend. It now self-improves monthly: every new piece of advice is compared with the manual and incorporated or thrown away, becoming an 'up-to-date living brain' that, pumped in as context, lets you ask the combined wisdom of 16 partners — 'but only if it's legible.' This is the strongest concrete artifact in the talk and it is newsletter/living-brief shaped: it argues for a self-improving published brief (e.g., Zuhn Intelligence Brief) over static documents, and corroborates Zuhn's compression -> principles -> views regeneration.

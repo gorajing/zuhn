@@ -4,9 +4,9 @@
 - `INS-260403-B4DC` Adopting an infinite-game mindset — focused on expanding what's possible rather than defending what exists — is the winning strategic posture during major technological disruption.
 - `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
-- `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
 - `INS-260323-C2F1` After his father's death, McConaughey discovered that excessive reverence for dreams and people kept him from fully engaging — reducing reverence while maintaining respect enabled courage.
+- `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260329-9A5A` People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.

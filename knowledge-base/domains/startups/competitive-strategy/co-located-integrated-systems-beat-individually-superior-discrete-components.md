@@ -49,7 +49,6 @@ stance: >-
   components for most real workloads.
 related:
   - INS-260327-B539
-  - INS-260327-DE27
   - INS-260330-202A
   - INS-260330-4C31
   - INS-260410-AA40
@@ -58,6 +57,7 @@ related:
   - INS-260403-B16E
   - INS-260405-E7F9
   - INS-260421-665D
+  - INS-260626-44E6
 evidence:
   - id: INS-260327-DE27
     type: SUPPORTS

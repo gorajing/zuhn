@@ -52,7 +52,6 @@ stance: >-
   assumptions about headcount requirements.
 related:
   - INS-260325-FADB
-  - INS-260327-B561
   - INS-260403-3664
   - INS-260403-13AF
   - INS-260405-B88A
@@ -61,6 +60,7 @@ related:
   - INS-260404-29AF
   - INS-260410-098A
   - INS-260409-D491
+  - INS-260412-2DE5
 ---
 Hyperliquid operates a fully automated on-chain central limit order book with just 11 people, delivering exchange performance comparable to centralized platforms while generating extraordinary revenue per employee. This isn't just efficiency—it represents a structural shift where code and autonomous systems replace the operating workforce entirely.
 

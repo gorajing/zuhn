@@ -54,8 +54,8 @@ related:
   - INS-260327-2E84
   - INS-260514-5B19
   - INS-260530-D34F
+  - INS-260626-3396
   - INS-260405-880C
-  - PRI-260405-47B5
   - INS-260605-7711
 ---
 An outlier video — one performing far above the baseline for its channel or niche — is a live signal that the algorithm's fit model is actively pushing a specific topic-hook-format combination. Studying outliers systematically (hook structure, topic angle, storytelling beats, first three seconds, title, thumbnail) lets a creator copy the pattern that the algorithm is currently rewarding rather than guess what might work.

@@ -5,6 +5,8 @@
 - `INS-260605-288D` If your product is truly differentiated, it is by definition custom — and a generic frontier API eventually becomes the wrong tool.
 - `INS-260625-DE8E` Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
+- `INS-260411-F990` DuPont decomposition of sustained top-quintile ROIC performers from 1963-2023 shows NOPAT margins (differentiation) contributed 4.4x the universe average while invested capital turnover (cost leadership) contributed only 1.8x.
+- `INS-260403-21B2` VC fundraising is lagging prior cycles despite headline interest, with undifferentiated managers facing extended timelines and tougher terms.
 - `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
 - `INS-260322-7FA4` As AI-generated content commoditizes visual spectacle, the creator's durable advantage becomes narrative authenticity — stories infused with personal emotion, values, and philosophical depth that audiences instinctively recognize.
@@ -27,6 +29,7 @@
 - `INS-260404-D4E6` The strongest companies combine 3-4 differentiation dimensions (price, quality, experience, supply) rather than competing on one axis.
 - `INS-260514-F073` AI can build your app in 2 days. It can't build the 7 years of lived experience that told you which app to build. Biographical depth is the only durable moat in the AI era.
 - `INS-260409-C3B3` Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
+- `INS-260626-1BB0` The set of things GPUs can do efficiently is larger than the set frameworks like PyTorch can express, and the well-researched 'gray circle' inside that is crowded — so new capabilities are found by looking where existing tools can't reach.
 - `INS-260409-EC0C` Not knowing the playbook guarantees you won't execute the playbook — making inexperience a forcing function for differentiation.
 - `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 - `INS-260403-05F2` Preparing 2-3 smart questions about the VC's involvement style and portfolio support is the easiest way to differentiate yourself from other founders.
@@ -41,5 +44,3 @@
 - `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'
 - `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
-- `INS-260411-F990` DuPont decomposition of sustained top-quintile ROIC performers from 1963-2023 shows NOPAT margins (differentiation) contributed 4.4x the universe average while invested capital turnover (cost leadership) contributed only 1.8x.
-- `INS-260403-21B2` VC fundraising is lagging prior cycles despite headline interest, with undifferentiated managers facing extended timelines and tougher terms.

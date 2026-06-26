@@ -1,5 +1,6 @@
 # Tag: market-entry
 
+- `INS-260626-0E82` Claude Code chose deprecated Whisper V1 over Grok (200x faster, 10x cheaper) simply because Whisper had more examples and clearer docs.
 - `INS-260412-6B75` Argentine ants conquered six continents because native ant species had defenses evolved against local competitors, not against swarm-and-overwhelm tactics.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.

@@ -1,15 +1,16 @@
 # Tag: positioning
 
 - `INS-260421-BD7F` At AI Agents SF #12 all 5 memory vendors competed on retrieval sophistication; the words 'compression,' 'principle,' 'doctrine,' and 'retirement' did not appear once in 1h 42m.
+- `INS-260626-313E` Recursive names its category 'designless' by explicit analogy to 'fabless'—just as TSMC let companies stop owning fabrication, Recursive wants companies to stop owning chip design.
 - `INS-260421-60D9` Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
 - `INS-260625-DE8E` Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260421-536F` MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
+- `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260410-1D64` Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
 - `INS-260410-8122` 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
-- `INS-260410-C688` When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
@@ -21,6 +22,7 @@
 - `INS-260403-A46C` AI companies undermine their own adoption by leading with economic obsolescence messaging instead of empowerment narratives.
 - `INS-260403-C5D8` If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
 - `INS-260404-3212` Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
+- `INS-260410-C688` When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260403-A17D` Every successful newsletter can be described by the specific job it does for its reader.
 - `INS-260327-61AE` Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
@@ -43,8 +45,6 @@
 - `INS-260322-8BC5` Charging $1500-3000/month to SMBs creates 4-6 month average stick rates that crush margins as churn compounds and CAC rises.
 - `INS-260423-20ED` Seth Godin: when you pick your customers, you pick your future — average people chose to be average, and they won't buy your book or your software.
 - `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
-- `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
-- `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260405-5BD3` After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
 - `INS-260403-6FB9` In competitive rounds, founders choose investors—not the reverse—making investor self-marketing the critical skill.
@@ -52,9 +52,11 @@
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260403-FC45` Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260403-21C4` Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
+- `INS-260412-DAEF` Bukele won 53% of the vote by attacking the two-party system itself rather than running a traditional campaign against individual opponents.
 - `INS-260410-7AA0` In B2B enterprise software, brand is the identity that scales trust across a global buyer base — underinvesting in it cedes the most leveraged asset you can build.
 - `INS-260410-C070` Frank Robinson dropped Coca-Cola's 'sovereign remedy for headache and nervousness' messaging and repositioned it as 'delicious and refreshing' — the product was identical, but he was advertising to the masses instead of the few.
 - `INS-260410-3E0A` Coke pivoted from describing what the drink does ('delicious and refreshing') to associating it with happiness, family, Christmas, and sports heroes — and that extrinsic association is what compounded into a $300B brand.
+- `INS-260403-4610` Creandum went Stockholm → San Francisco → Germany → London, using US credibility to unlock European markets.
 - `INS-260405-E6F9` Investors hear hundreds of pitches — the first filter is whether they remember you, and a single phrase is what makes you memorable.
 - `INS-260405-7F06` Generic differentiation claims ('we're easier to use') backfire; specific, verifiable claims with proof points are what actually move buyers.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
@@ -76,4 +78,3 @@
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260403-E209` When stuck at any PMF level, reassess the four P's — persona, problem, promise, product — rather than reflexively iterating on product alone.
-- `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.

@@ -47,7 +47,6 @@ stance: >-
   Designing every pipeline stage to only add or move fields on a single JSON
   line makes upstream work cacheable and shareable across many experiments.
 related:
-  - INS-260329-E4F6
   - INS-260404-3ABF
   - INS-260605-9A92
   - INS-260605-EF9D

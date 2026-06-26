@@ -44,10 +44,10 @@ stance: >-
   Any AI product that becomes genuinely differentiated will eventually outgrow
   frontier-API-plus-prompting and need a custom model.
 related:
+  - INS-260626-E494
   - INS-260403-3C2C
   - INS-260625-940D
   - INS-260329-CEC5
   - INS-260403-EDFB
-  - PRI-260406-08E9
 ---
 Frontier APIs unlock fast initial growth because you can build almost anything quickly, but they offer essentially no customization beyond prompt engineering. As a product specializes and matures, its needs diverge from what a general-purpose model optimizes for. The frontier labs want their models to win at everything; you only need to win at your specific business logic and customer value. That goal mismatch means a differentiated product is, in some sense, already a custom-domain problem. The strategic question is not whether you cross that line but when — and that timing is a deliberate decision founders should anticipate rather than be surprised by.

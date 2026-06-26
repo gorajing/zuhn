@@ -65,9 +65,9 @@ related:
   - INS-260329-644B
   - INS-260330-F183
   - INS-260404-BE07
-  - INS-260409-A11F
   - INS-260409-A8A3
   - INS-260410-BC76
+  - INS-260410-C8C2
 ---
 AI Search's framing of DeepSeek's design philosophy: 'They didn't have a lot of compute. Instead, they asked a much more elegant question.' Hybrid attention (compress + sparsify rather than process all tokens) was a constraint-forced design. MHC was a constraint-forced solution to signal explosion that better-funded labs could ignore by adding more residual streams. The Muon optimizer was a constraint-forced choice when AdamW was insufficient. Anticipatory routing was a constraint-forced solution to loss spikes when 'just restart from checkpoint' was too expensive. The pattern: each architectural innovation came from a forced choice the well-resourced labs didn't need to make. Result: a 40x-smaller team with worse chips produced a frontier model matching the well-funded labs on most benchmarks.
 

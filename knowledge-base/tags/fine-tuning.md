@@ -1,7 +1,7 @@
 # Tag: fine-tuning
 
-- `INS-260325-2FC1` Hugging Face Skills lets agents use libraries like TRL for reinforcement learning on custom datasets, enabling anyone to do what only data scientists could do two years ago.
 - `INS-260625-1CB8` A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
+- `INS-260325-2FC1` Hugging Face Skills lets agents use libraries like TRL for reinforcement learning on custom datasets, enabling anyone to do what only data scientists could do two years ago.
 - `INS-260405-227C` InterPositive's core insight: train one model per project on that project's own data to preserve style and director intent.
 - `INS-260410-6E7F` Feeding Claude fake 'studies' about AI misbehavior during SFT causes it to deduce 'I am an AI, therefore I should do X' and apply it even to behaviors it was never trained on.
 - `INS-260605-3DBF` Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.
@@ -35,6 +35,7 @@
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260625-1955` Trade up-front training compute for drastically smaller inference: a model that learned your context can answer in ~100 tokens what frontier models burn ~100,000 tokens to do by re-reading files and parsing monstrous system prompts.
 - `INS-260605-288D` If your product is truly differentiated, it is by definition custom — and a generic frontier API eventually becomes the wrong tool.
+- `INS-260626-C412` Fine-tuning locks you to a model that the next frontier release makes obsolete; a harness that sits on top inherits every future model's gains for free.
 - `INS-260327-7A48` Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
 - `INS-260409-654B` After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.

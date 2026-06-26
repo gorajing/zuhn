@@ -44,6 +44,7 @@ stance: >-
   financial capital because human networks can multiply exponentially while
   money compounds linearly.
 related:
+  - INS-260626-66C6
   - INS-260330-E414
   - PRI-260328-BDC2
   - INS-260329-13D2

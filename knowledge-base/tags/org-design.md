@@ -17,3 +17,4 @@
 - `INS-260327-2043` OpenAI merged two separate go-to-market orgs (API and ChatGPT Enterprise) into one unified team of 500, giving everyone new roles, managers, and a new product to learn — because old playbooks don't apply in AI.
 - `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260626-6A32` Assume each department may not need a person, let AI claim it first, and optimize headcount for agility — smallest number of the best people.
+- `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.

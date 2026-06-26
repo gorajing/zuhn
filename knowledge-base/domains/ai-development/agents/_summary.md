@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 66 insights
+> 67 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -54,6 +54,7 @@
 - `INS-260605-BB4B` [medium] Short-term memory holds conversation/session context, long-term holds entities resolved and deduplicated over time, and reasoning holds the decision traces — three layers, not one.
 - `INS-260625-355D` [medium] Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
 - `INS-260619-B1A8` [medium] An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work.
+- `INS-260626-0E82` [medium] Claude Code chose deprecated Whisper V1 over Grok (200x faster, 10x cheaper) simply because Whisper had more examples and clearer docs.
 - `INS-260514-1D60` [medium] Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
 - `INS-260605-8789` [medium] Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'

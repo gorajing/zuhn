@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 86 insights
+> 87 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -61,6 +61,7 @@
 - `INS-260605-E831` [high] When batched requests have uneven token counts and are all padded to the maximum length, the model burns compute on empty padding tokens — variable-length flash attention avoids padding so no compute is wasted.
 - `INS-260410-8092` [high] Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260514-D023` [medium] A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop.
+- `INS-260626-7E5F` [medium] Converting APIs to MCPs and centralizing them in a registry yields cross-purpose reuse and the visibility to review, monitor, and audit what every agent can access.
 - `INS-260424-865F` [medium] Google Cloud lead: the default way of connecting chips together didn't support latency, it supported throughput — but in age of agents you care about the minimum time it takes to get the data through.
 - `INS-260619-90F6` [medium] The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260619-C9B1` [medium] AI app infrastructure cannot assume a fixed deployment shape; the application itself increasingly decides what compute it needs per request.

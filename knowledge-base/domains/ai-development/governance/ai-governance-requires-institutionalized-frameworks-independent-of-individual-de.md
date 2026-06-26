@@ -56,7 +56,7 @@ related:
   - INS-260404-5CFB
   - INS-260403-FF65
   - PRI-260403-6DD6
-  - INS-260323-C316
+  - INS-260626-2170
 ---
 The World Economic Forum's analysis of generative AI governance identifies a structural gap: the entities deploying AI have strong incentives to move fast and weak incentives to internalize societal costs. This is a classic negative externality problem. Individual firms can voluntarily adopt responsible AI principles, but without coordination mechanisms, market pressure will push toward deployment speeds that outrun safety practices.
 

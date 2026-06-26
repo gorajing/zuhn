@@ -62,5 +62,7 @@ related:
   - INS-260403-8256
   - INS-260323-9676
   - INS-260321-B7CB
+  - INS-260626-989F
+  - INS-260626-313E
 ---
 The hyperscaler landscape in 2026 has clear vertical-integration disparities. AWS has cloud and is acquiring chip capability through Trainium/Inferentia but has no proprietary frontier model. Microsoft has cloud and a model partnership with OpenAI but no chip. Apple has chip and arguably a model but no public cloud. Meta has a model and is investing in chip but no public cloud. Google has all three and ships them as integrated infrastructure. The advantage is not just cost (though TPU V8 is roughly 3x more efficient than competing inference accelerators); it is co-evolution speed (chip designs informed by Gemini's specific shape, cloud features designed for Gemini's deployment patterns, model features that exploit chip-specific capabilities). Competitors cannot replicate this without large acquisitions (Microsoft + OpenAI is structurally a partnership) or many years of investment (AWS chip work is 5+ years from caught up). The investment implication: Google's structural moat in AI infrastructure is wider than market valuations suggest, and competitors' strategic position depends on partnerships that introduce execution risk and split economic surplus.

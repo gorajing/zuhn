@@ -1,15 +1,21 @@
 # Tag: policy
 
 - `INS-260403-96BC` Employers are accountable for AI agent actions, and current policy gaps create growing exposure as agents execute real decisions.
+- `INS-260605-E7AD` Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260404-5CFB` Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
-- `INS-260605-E7AD` Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
 - `INS-260405-F8AE` AI's most dangerous failure modes are inequality amplification and accountability erosion, not the unemployment scenario that dominates public debate.
 - `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
 - `INS-260625-BEFE` Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
+- `INS-260404-CB21` The Trump Accounts initiative succeeded politically because Brad Gerstner's personal story about his son's question gave an abstract policy idea emotional traction.
+- `INS-260411-FC21` Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
+- `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment
+- `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
+- `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
+- `INS-260327-B47E` The threat of wealthy exodus is politically effective regardless of accuracy - most high-net-worth individuals have businesses, networks, and family ties that make relocation extremely costly.
 - `INS-260403-C888` Nice parks, walkable streets, and wealth-modest cultural norms reduce the sting of income inequality more than redistribution alone.
 - `INS-260330-0DCA` Destiny identifies the 'conservative merry-go-round' where every problem is deflected to a root cause that cannot be directly addressed, preventing action on tractable improvements.
 - `INS-260410-1898` We've made dogfighting and cockfighting felonies while permitting identical practices on 10 billion factory-farmed animals — a five-orders-of-magnitude blind spot driven by scope insensitivity, not genuine moral reasoning.
@@ -24,9 +30,3 @@
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260403-0611` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260323-8B90` Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
-- `INS-260404-CB21` The Trump Accounts initiative succeeded politically because Brad Gerstner's personal story about his son's question gave an abstract policy idea emotional traction.
-- `INS-260411-FC21` Capital formation drives GDP growth, R&D, and jobs — 80% of R&D and 70% of capex comes from large companies, and countries like Sweden that promote retail investment outperform those that don't.
-- `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment
-- `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
-- `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
-- `INS-260327-B47E` The threat of wealthy exodus is politically effective regardless of accuracy - most high-net-worth individuals have businesses, networks, and family ties that make relocation extremely costly.

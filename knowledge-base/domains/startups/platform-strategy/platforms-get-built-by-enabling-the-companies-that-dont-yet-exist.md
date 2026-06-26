@@ -63,6 +63,7 @@ related:
   - INS-260327-D5CC
   - PRI-260407-7D5E
   - INS-260410-320A
+  - INS-260626-313E
 ---
 When TSMC launched in 1987, every credible buyer told Morris 'real men have Fabs' — Intel, TI, Motorola all passed. The short-term market was the dregs: excess capacity and unprofitable product lines the IDMs wanted to unload. What Morris saw, because he'd been inside TI and General Instrument, was that the bottleneck keeping great chip designers from leaving was capex, not talent. A pure-play foundry removed the $100M+ hurdle to start a chip company, and within a decade Qualcomm, Broadcom, Marvell, Nvidia (which only ever raised $20M) all existed because TSMC existed.
 

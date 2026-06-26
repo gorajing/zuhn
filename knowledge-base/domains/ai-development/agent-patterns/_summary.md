@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 346 insights
+> 351 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -80,6 +80,7 @@
 - `INS-260410-85AD` [high] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260326-9402` [high] Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.
 - `INS-260625-814D` [high] Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
+- `INS-260626-04E5` [high] OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
 - `INS-260411-8034` [high] Use condition-based exit (exit on 'PASS') rather than fixed iteration counts for generator-critic loops to balance quality with efficiency.
 - `INS-260410-095B` [high] Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260605-6722` [high] Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
@@ -146,6 +147,7 @@
 - `INS-260605-2ECD` [high] Don't store traces as memory; distill traces into navigable evidence.
 - `INS-260409-6560` [high] MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260605-E193` [high] The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap.
+- `INS-260626-2A5F` [high] Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
 - `INS-260605-E7F2` [high] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
 - `INS-260605-DB29` [high] The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
 - `INS-260625-447A` [high] A single agent given four tasks tends to nail two and lose the rest mid-context; splitting into expert agents and adding a judge agent to combine their outputs into one coherent result avoids that silent drop.
@@ -205,6 +207,7 @@
 - `INS-260410-E658` [high] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260410-199B` [high] pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-6591` [high] Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.
+- `INS-260626-65D6` [high] Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
 - `INS-260605-9FCF` [high] Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON.
 - `INS-260605-AD25` [high] Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back.
 - `INS-260625-CC7C` [high] A syntactically valid SQL query that returns zero rows is a silent failure, so Studio always runs queries and checks for data before hardcoding them into a widget.
@@ -263,6 +266,7 @@
 - `INS-260624-6753` [medium] High-stakes agent findings should be checked by heterogeneous reviewers.
 - `INS-260605-6CBF` [medium] Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260605-B182` [medium] Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
+- `INS-260626-239A` [medium] Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
 - `INS-260624-223D` [medium] The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
 - `INS-260321-9EBB` [medium] Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
 - `INS-260605-03A6` [medium] Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
@@ -290,6 +294,7 @@
 - `INS-260605-2032` [medium] Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
 - `INS-260624-F048` [medium] A million-token window is not a substitute for a context manager.
 - `INS-260605-E230` [medium] Some harnesses must learn while the run is still alive.
+- `INS-260626-88B8` [medium] Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - `INS-260405-8166` [medium] A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
 - `INS-260410-1A22` [medium] Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
 - `INS-260625-CF6B` [medium] Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.

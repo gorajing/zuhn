@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 106 insights
+> 108 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -86,6 +86,7 @@
 - `INS-260625-AACE` [medium] Agentic workflows reasoning over long contexts and reasoning models spending test-time compute both demand ultra-long contexts, making the quadratic scaling of standard attention — not model quality — the dominant constraint on progress.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260605-3DBF` [medium] Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.
+- `INS-260626-7D73` [medium] OpenGov moved off LangGraph to a custom agent loop to gain full control once their use cases got complex.
 - `INS-260421-7ADE` [medium] Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
 - `INS-260605-8489` [medium] Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
 - `INS-260625-EF29` [medium] Polygraph analyzes every repo a user can reach (owned + open source), extracts what each produces and consumes, and feeds that graph to a harness so an agent reads/writes 'one big codebase.'
@@ -106,5 +107,6 @@
 - `INS-260404-E91F` [medium] Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260625-057C` [medium] In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
 - `INS-260605-E023` [medium] MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
+- `INS-260626-39CE` [medium] OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment.
 - `INS-260605-B176` [medium] The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - `INS-260605-4B12` [low] Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.

@@ -51,8 +51,8 @@ related:
   - INS-260625-8792
   - INS-260320-92CC
   - PRI-260320-233B
+  - INS-260626-4E80
   - PRI-260324-12CF
-  - INS-260327-DFF1
   - INS-260405-5E6B
 stance: An eight-layer optimization stack
 evidence:

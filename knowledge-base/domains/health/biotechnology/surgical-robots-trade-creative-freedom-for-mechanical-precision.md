@@ -49,9 +49,9 @@ stance: >-
   types.
 related:
   - INS-260410-F7B8
+  - INS-260626-B134
   - PRI-260321-7307
   - PRI-260328-1654
   - PRI-260323-A05E
-  - PRI-260407-3EB6
 ---
 The Da Vinci surgical robot translates a surgeon's hand movements into smaller, more precise micro-movements via four computer-controlled arms with 3D HD visualization. This removes human artifacts like hand tremor and enables procedures in tight spaces that manual surgery cannot reach as cleanly. However, the system's software cannot be altered by individual physicians, meaning surgeons must work within the system's predefined movement vocabulary. This is a recurring pattern in human-machine collaboration: the tool amplifies capability in one dimension (precision) while constraining another (improvisation). For most surgeries—cardiac, urological, head and neck—the precision gains far outweigh the creativity loss. The interesting question is whether future systems can offer both, or whether the constraint is architecturally fundamental to maintaining safety guarantees.

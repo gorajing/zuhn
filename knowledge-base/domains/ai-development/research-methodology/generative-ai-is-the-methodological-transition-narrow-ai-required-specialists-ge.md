@@ -59,7 +59,6 @@ stance: >-
 related:
   - INS-260325-2FC1
   - INS-260323-13C0
-  - INS-260327-4E8E
   - INS-260329-5B7B
   - INS-260403-529D
   - INS-260410-096F
@@ -67,6 +66,7 @@ related:
   - INS-260514-70CB
   - INS-260525-3A9A
   - INS-260605-2DD5
+  - INS-260525-9B7B
 ---
 Harrer's narrative arc: for years, narrow AI helped scientists with specific bespoke tasks — discovering seizure warning signals, scanning for extraterrestrial signal patterns, predicting 3D protein structures (AlphaFold). But each model was specialized, requiring scientists to know it exists, how it works, how to access it, how to interpret results. This was a 'luxury most scientists simply do not have.' Generative AI agents change the operational model: any scientist can describe what they want in natural language, and the agent figures out the rest. This is the difference between 'I need a custom airframe' and 'I'll just take an airplane.'
 

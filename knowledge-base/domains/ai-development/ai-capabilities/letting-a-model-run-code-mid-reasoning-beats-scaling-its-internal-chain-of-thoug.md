@@ -56,11 +56,11 @@ related:
   - INS-260605-02FB
   - INS-260605-D777
   - INS-260625-5184
+  - INS-260626-2A5F
   - INS-260322-32E3
   - PRI-260406-F95C
   - INS-260329-500E
   - INS-260329-04FA
-  - INS-260330-5609
   - INS-260625-4355
 ---
 Long chain-of-thought models like DeepSeek-R1 re-evaluate their own solutions internally, but on very complex problems this self-contained reasoning hits a ceiling — the model has no ground truth to check itself against and can confidently converge on a wrong answer. START breaks that ceiling by letting the model write and run Python as part of its reasoning: on a coding task it generates test inputs, executes them, compares against expected outputs, and refines the solution if they disagree, looping multiple times before committing to a final answer.

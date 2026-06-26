@@ -15,6 +15,7 @@
 - `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.
 - `INS-260605-0C24` Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
+- `INS-260626-73D4` Sparse or outdated API specs cause agents to hallucinate or fail calls, so spec quality becomes a hard prerequisite for agentic systems.
 - `INS-260320-8FFC` Sequential IDs stored in a file would be hallucinated by the LLM — timestamp plus title hash made file creation completely stateless with zero collisions across 74 insights.
 - `INS-260403-47FC` Both Fatima and Dhammakaya crowds saw spinning colored suns, but Catholics saw the Virgin Mary while Buddhists saw their founder — priming shapes content, mechanism shapes structure.
 - `INS-260403-06D5` In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.

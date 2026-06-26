@@ -52,10 +52,12 @@ stance: >-
 related:
   - INS-260411-F590
   - INS-260605-74CC
+  - INS-260626-73D4
   - INS-260423-85B3
   - INS-260605-3163
   - INS-260403-2115
-  - INS-260603-1BC0
+  - INS-260626-39CE
+  - INS-260626-7E5F
 ---
 Willmott — who helped write the OpenAPI spec — pushes for agent behavioral specs that stay independent of the implementation. You may build in LangSmith or Vertex agents today and migrate later; if your tests are coupled to the framework, they don't move with you. Keep the integration tests, unit tests, and penetration tests separable and runnable against whatever backend the agent currently uses.
 

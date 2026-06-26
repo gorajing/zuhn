@@ -56,7 +56,6 @@ related:
   - INS-260405-0184
   - INS-260423-2B80
   - INS-260325-2999
-  - INS-260605-B9A9
 ---
 Reeve's viral statue video was edited in ~20-25 minutes on his phone in CapCut with a 200-quid lapel mic — deliberately low production. The leverage was structural, not technical. His platform analytics showed median view time of just 6-12 seconds before drop-off, so the single most important move is front-loading the hook: if viewers don't 'buy' the hook they're gone before any of your content lands.
 

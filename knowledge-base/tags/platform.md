@@ -1,6 +1,7 @@
 # Tag: platform
 
 - `INS-260625-ED79` MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation.
+- `INS-260626-3AD0` Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster.
 - `INS-260404-D68E` VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
 - `INS-260405-3772` Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.
 - `INS-260405-1B93` When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.

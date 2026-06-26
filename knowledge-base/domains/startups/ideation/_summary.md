@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 91 insights
+> 92 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -72,6 +72,7 @@
 - `INS-260321-E471` [high] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` [high] Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260322-A9DE` [high] Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
+- `INS-260626-A922` [medium] Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses.
 - `INS-260403-363C` [medium] Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260403-B378` [medium] Perfect weather, mountains, and proximity to San Francisco explain why Silicon Valley formed around Stanford specifically.
 - `INS-260403-2913` [medium] Blending proven models from different domains (e.g., e-commerce + subscriptions = Dollar Shave Club) is a repeatable ideation method.

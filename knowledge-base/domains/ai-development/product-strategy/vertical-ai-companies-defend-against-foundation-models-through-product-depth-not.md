@@ -51,11 +51,11 @@ stance: >-
   depth, brand, and taste — the things that require thousands of iteration
   steps.
 related:
+  - INS-260626-E253
   - PRI-260406-28E1
   - INS-260403-3C66
   - INS-260323-4EE4
   - PRI-260324-36BF
-  - INS-260410-52C8
   - INS-260619-BF47
 evidence:
   - id: INS-260327-289F

@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 52 insights
+> 53 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -26,6 +26,7 @@
 - `INS-260412-4233` [high] ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
 - `INS-260605-3588` [high] A remote tool token should only work for the exact MCP server it was issued to.
 - `INS-260409-BBBA` [high] 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
+- `INS-260626-AD63` [high] Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.
 - `INS-260605-8AFF` [high] Scope the model's tools and the runtime's direct command permissions separately.
 - `INS-260625-B4AC` [high] Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
 - `INS-260413-7C61` [high] 2025 saw US federal policy shift to deregulation (Jan 23 EO, Jul 23 AI Action Plan, Dec 12 EO curbing state laws) while Texas TRAIGA, California SB 53, Montana Right to Compute, and Utah HB 452 passed substantive state AI laws.

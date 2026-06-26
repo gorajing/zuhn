@@ -52,8 +52,8 @@ stance: >-
 related:
   - INS-260605-D659
   - INS-260403-F400
+  - INS-260626-2A5F
   - INS-260501-06B1
   - INS-260321-A5D4
-  - INS-260605-5CC7
 ---
 Tan predicts a repeat of the personal-computer revolution: within a year, the experience that currently feels janky on local/personal agents (his 'open claw' / Hermes setup that fails on anything beyond simple scripts) will cross the threshold the way Claude Code did, and everyone will have their own personal AI. The strategic fork is ownership. Either you run your own AI — your data, your integrations, your prompts, control over what you see — or you accept a corporate-hosted system where you don't know who wrote the algorithm, who it benefits, or which model is behind it, the way you don't control your Facebook feed. The sharpest framing: 'unless you have your own prompts and can write them for yourself, you are below the API line for some PM or developer who is not you, will not understand you, and will not understand what you uniquely care about.' The defining question becomes whether you control your tools or your tools control you. This is a control/agency thesis, not a capability one — it holds even as hosted models improve, and connects to the human-supplies-agency theme running through tokenmaxxing.

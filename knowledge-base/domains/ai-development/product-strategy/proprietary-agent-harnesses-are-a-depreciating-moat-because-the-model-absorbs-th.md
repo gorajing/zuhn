@@ -64,7 +64,7 @@ related:
   - PRI-260426-890F
   - INS-260410-9DB0
   - INS-260625-6042
-  - INS-260405-82F3
+  - INS-260626-C412
 ---
 Kilpatrick reframes 'the model' as no longer just a set of weights but an expanding system around the weights: tool calling, hosted search, code execution, containerized runtimes, agent harnesses. Scaffolding is typically a couple of steps ahead of what's baked into the weights, but the recurring pattern is that the model 'eats that scaffolding' and it becomes part of the native model system. His concrete prediction: the belief that 'the harness is where the alpha is' won't hold 12 months out, because models will have digested that capability and the alpha will move elsewhere.
 

@@ -60,7 +60,6 @@ related:
   - INS-260410-6290
   - INS-260327-3DE7
   - PRI-260406-EBDB
-  - INS-260625-8333
 ---
 Humeau observes that voice cloning now needs only a few seconds of reference audio, making it trivial to impersonate or configure a voice. He predicts that the concept of 'vocal identity' — already taken seriously by large companies in advertising and branding — will move mainstream: just as companies define how their website and visual identity appear, they will deliberately define how their brand sounds.
 

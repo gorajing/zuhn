@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260412-7FC0
   - INS-260412-2EA9
+  - INS-260626-0D4B
   - INS-260605-6423
   - INS-260412-E078
-  - INS-260501-801C
 ---
 Amtrak's proposal for true high-speed rail in the Northeast Corridor costs $151 billion ($320M per mile). But trains on the existing route already hit 125mph briefly — if track improvements allowed sustained operation at that speed, DC to New York would take only slightly over 2 hours, comparable to high-speed rail for a fraction of the cost. This is a powerful principle for resource-constrained startups: rather than building the ideal system from scratch, identify the specific bottlenecks in your existing system that, when removed, unlock disproportionate performance gains. The 80/20 of infrastructure investment is finding where small improvements compound into large user-facing differences.

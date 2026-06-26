@@ -2,6 +2,7 @@
 
 - `INS-260625-0E60` The best eval is an environment that can measure whether the decision worked.
 - `INS-260625-D1F9` Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
+- `INS-260626-F335` OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - `INS-260605-809A` Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260410-F40F` One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
 - `INS-260605-72C4` A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.
