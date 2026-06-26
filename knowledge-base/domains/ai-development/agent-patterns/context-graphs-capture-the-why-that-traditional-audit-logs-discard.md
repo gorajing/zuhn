@@ -57,12 +57,12 @@ related:
   - INS-260327-73BE
   - INS-260329-CF16
   - INS-260403-7EB2
-  - INS-260410-0FC1
   - INS-260410-001F
   - INS-260605-44E2
   - INS-260605-C028
   - INS-260605-014F
   - INS-260605-83DA
+  - INS-260605-37FB
 ---
 Chin contrasts context graphs with traditional audit logs. An audit log captures a chronological record of events; a context graph captures the decision traces produced while evaluating models — the policies applied, risk factors considered, and the human or agent reasoning behind a recommendation — organized by entities and relationships rather than by timestamp. In the financial-services demo, querying whether to approve a loan surfaces the applicant's account, related margin trades, a prior rejection, the Cypher queries run, the risk factors, and fraud-detection patterns, all visible in the traversed graph.
 

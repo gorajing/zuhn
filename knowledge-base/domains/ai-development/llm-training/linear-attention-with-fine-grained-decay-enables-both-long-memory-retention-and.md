@@ -51,12 +51,11 @@ stance: >-
   retention and rapid information refresh across different channels.
 related:
   - INS-260327-1563
+  - INS-260625-A7C5
+  - INS-260625-D148
   - INS-260625-E500
   - INS-260410-3C37
-  - INS-260329-A45D
-  - INS-260411-59F7
   - INS-260409-74B9
-  - INS-260605-FC5B
 evidence:
   - id: INS-260329-A45D
     type: TRANSFERS_TO

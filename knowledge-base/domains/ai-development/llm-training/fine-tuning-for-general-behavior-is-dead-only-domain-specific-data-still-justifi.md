@@ -61,10 +61,10 @@ stance: >-
 related:
   - INS-260322-3616
   - INS-260409-3230
+  - INS-260625-D790
   - INS-260625-3768
   - INS-260605-33FA
   - INS-260625-0DD6
-  - INS-260326-2410
 ---
 The 2023–2024 fine-tuning communities have cooled markedly. Sanseviero reports that among ~50–60 Gemma 4 launch partners, several arrived planning to fine-tune the 27B model for a vision task, then discovered the base model already handled it well enough that they abandoned the fine-tune. The capability ceiling for general conversational behavior is now high enough that prompting covers most of what fine-tuning used to do.
 

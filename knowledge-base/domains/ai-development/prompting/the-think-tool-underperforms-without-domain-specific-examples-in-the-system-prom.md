@@ -57,7 +57,7 @@ stance: >-
   step.
 related:
   - INS-260410-095B
-  - INS-260410-6ABA
+  - INS-260625-26FE
   - PRI-260405-49C0
   - INS-260605-B44B
   - INS-260409-17E9

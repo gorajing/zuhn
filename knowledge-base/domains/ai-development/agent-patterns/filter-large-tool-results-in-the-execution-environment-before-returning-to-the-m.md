@@ -53,11 +53,11 @@ stance: >-
   the context window.
 related:
   - INS-260329-E4F6
-  - INS-260410-F5EC
   - INS-260501-BA23
+  - INS-260625-EF29
+  - INS-260625-E292
   - PRI-260411-9CB1
-  - INS-260605-6444
-  - INS-260605-0819
+  - INS-260410-F5EC
 ---
 Direct MCP tool calls route every byte of intermediate data through the model: a 10,000-row spreadsheet must fully enter context just to find the 12 rows that matter, and a 2-hour meeting transcript may pass through twice for a read-then-write workflow, eating 50,000+ tokens or exceeding the context window entirely.
 

@@ -42,7 +42,6 @@ stance: >-
   must correlate user behavior, feedback, tickets, and code changes to diagnose
   whether releases actually solved the problem.
 related:
-  - INS-260320-0D43
   - INS-260320-4ED6
   - INS-260514-E481
   - INS-260605-25B2

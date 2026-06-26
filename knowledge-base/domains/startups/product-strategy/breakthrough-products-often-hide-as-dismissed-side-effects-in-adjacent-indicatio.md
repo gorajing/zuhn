@@ -56,10 +56,9 @@ stance: >-
   'interesting' side effect that internal stigma or category norms cause teams
   to dismiss rather than pursue.
 related:
-  - INS-260330-8D4F
-  - INS-260330-C761
   - INS-260322-3A00
   - PRI-260407-9D41
+  - INS-260330-C761
   - INS-260330-989E
   - PRI-260328-AF97
 ---

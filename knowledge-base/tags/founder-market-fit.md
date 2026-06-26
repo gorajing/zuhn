@@ -1,8 +1,8 @@
 # Tag: founder-market-fit
 
+- `INS-260327-4DDE` The best startups come from founders solving their own daily pain points, not from market analysis.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
-- `INS-260327-4DDE` The best startups come from founders solving their own daily pain points, not from market analysis.
 - `INS-260404-016F` In mission-driven verticals, deep domain obsession signals the persistence VCs need to see for long adoption cycles.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
 - `INS-260403-5301` VCs prioritize founder-market fit over product-market fit at seed stage because it's the clearest predictor when no traction exists.
@@ -16,5 +16,5 @@
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260403-7513` The best startup ideas come from solving problems you personally experience and deeply understand.
 - `INS-260625-63D7` Focusing on enterprise from the start gives depth, focus, and consistency and reveals problems that only appear at scale, but a pure-enterprise customer base cuts you off from learning at the frontier, so you need both.
-- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
 - `INS-260329-1739` Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
+- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.

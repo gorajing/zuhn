@@ -55,7 +55,6 @@ related:
   - INS-260330-E5BE
   - INS-260409-6AEB
   - INS-260501-B1AA
-  - INS-260619-0770
 stance: >-
   A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point
   at a time, relying on the scene replaying identically each time.

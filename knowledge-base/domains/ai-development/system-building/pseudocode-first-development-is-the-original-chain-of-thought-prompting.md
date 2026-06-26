@@ -47,16 +47,16 @@ stance: >-
   language before translating to formal syntax — is structurally identical to
   chain-of-thought prompting and works for the same cognitive reasons.
 related:
-  - INS-260321-82FE
   - INS-260323-64A4
-  - INS-260325-AEF5
   - INS-260329-8896
   - INS-260329-519E
   - PRI-260323-C49D
   - PRI-260405-49C0
+  - INS-260321-82FE
   - PRI-260405-BF5B
   - INS-260403-5B4E
   - INS-260329-F362
+  - INS-260410-5D71
 evidence:
   - id: INS-260325-AEF5
     type: TRANSFERS_TO

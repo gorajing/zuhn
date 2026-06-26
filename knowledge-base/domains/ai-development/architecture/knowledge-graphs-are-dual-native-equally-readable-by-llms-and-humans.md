@@ -53,7 +53,6 @@ stance: >-
   knowledge.
 related:
   - INS-260329-3FF4
-  - INS-260605-4B12
   - INS-260625-F775
   - INS-260329-FAE2
   - INS-260329-83AA

@@ -47,10 +47,10 @@ stance: >-
   Efficient agent context budgeting requires distinct tiers with different
   loading policies rather than stuffing all context into the prompt.
 related:
+  - INS-260625-BF8B
   - INS-260327-E18C
   - INS-260625-BAE7
   - INS-260605-91A9
   - INS-260603-6FE3
-  - INS-260625-279D
 ---
 Computer memory hierarchies work because different tiers have different cost-latency profiles — L1 cache is expensive and fast, disk is cheap and slow. Agent memory needs the same treatment. MemPalace's stack: L0 = identity (who is this AI, ~50 tokens, always loaded), L1 = critical facts (team, projects, preferences, ~120 tokens, always loaded), L2 = room recall (recent sessions for the current project, on demand when topic comes up), L3 = deep search (semantic query across all closets, on demand when explicitly asked). An agent wakes up with ~170 tokens of its world already loaded, then pulls more context only when needed. This is a principled alternative to 'stuff everything into the system prompt' or 'full RAG on every turn.' Directly relevant to how the Zuhn wake.ts briefing might budget context for future agent integrations.

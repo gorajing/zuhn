@@ -1,6 +1,6 @@
 # Topic: unit-economics
 
-> 10 insights
+> 11 insights
 
 - `INS-260410-0D14` [high] Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 - `INS-260405-7ACC` [high] CAC and churn are the two variables that determine whether a SaaS business is structurally viable — everything else is execution.
@@ -12,3 +12,4 @@
 - `INS-260412-492D` [high] A Learjet trip costing $11,600 requires a $1M earner solo but only a $111K earner per seat when full — a 9x improvement from utilization alone.
 - `INS-260412-A52B` [high] Purchase frequency directly determines how many people you need in a radius to sustain one location of a business.
 - `INS-260412-C029` [high] Airlines fly at 500-550 mph instead of near the 767 mph speed of sound because fuel cost per flight ($15K+) is 3x the aircraft cost per flight ($5K).
+- `INS-260625-FA05` [medium] The core bet is that the more product you build, the lower your COGS (model + hosting + humans-in-the-loop) and the higher your gross margin — so price on value (per-unit or outcome-based), never cost-plus or undercutting.

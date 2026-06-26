@@ -53,6 +53,7 @@ stance: >-
   borrow existing trust symbols before users will even try the product.
 related:
   - INS-260405-76E4
+  - INS-260625-6C97
   - INS-260403-8CDC
   - INS-260403-BA0D
   - INS-260404-ED0F

@@ -51,6 +51,7 @@ stance: >-
   checklists, memory systems) to maintain coherent work across sessions.
 related:
   - PRI-260320-07A4
+  - INS-260625-3B6D
   - INS-260625-3DDC
   - INS-260524-D5DB
   - INS-260405-2BB0
@@ -59,7 +60,6 @@ related:
   - INS-260405-8166
   - INS-260405-82DD
   - INS-260403-8311
-  - INS-260403-9E51
 evidence:
   - id: INS-260323-D41A
     type: TRANSFERS_TO

@@ -56,6 +56,7 @@ related:
   - INS-260330-C418
   - INS-260322-F6C3
   - INS-260330-0027
+  - INS-260625-3AF0
 stance: >-
   When humans hunted the Tasmanian tiger to extinction, the loss of this apex
   predator triggered cascading failures

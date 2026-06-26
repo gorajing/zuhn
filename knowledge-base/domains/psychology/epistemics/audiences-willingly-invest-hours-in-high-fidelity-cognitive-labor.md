@@ -50,7 +50,6 @@ stance: >-
   Consumer demand for long-form, intellectually demanding content is growing,
   disproving the assumption that attention spans are universally shrinking.
 related:
-  - INS-260327-1563
   - INS-260329-B7F5
   - INS-260329-3473
   - INS-260329-D212
@@ -60,6 +59,7 @@ related:
   - INS-260603-2F7E
   - INS-260329-5C65
   - INS-260402-8D38
+  - INS-260403-68E9
 evidence:
   - id: INS-260327-1563
     type: TRANSFERS_TO

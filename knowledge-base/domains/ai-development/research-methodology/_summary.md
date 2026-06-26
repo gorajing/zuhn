@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 123 insights
+> 124 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -34,6 +34,7 @@
 - `INS-260625-CA6E` [high] A long-horizon run produces hundreds of millions of tokens of behavior; reporting only 'it made $X' throws away the lying, collusion, and breakdown patterns that actually matter.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - `INS-260412-B805` [high] Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
+- `INS-260625-3E47` [high] SWE-RL adds related files that aren't changed by the PR so the model learns that relevance does not imply a required edit.
 - `INS-260505-1606` [high] Models on biological data quietly learn the biases of the experiments — interpretability catches that.
 - `INS-260410-B30D` [high] Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
 - `INS-260605-8168` [high] Manual 'vibe' inspection compounds two biases—your individual preference and the specific handful of prompts you tried—so it must be scaled across many people and samples.

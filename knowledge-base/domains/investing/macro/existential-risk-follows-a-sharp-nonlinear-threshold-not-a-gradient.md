@@ -47,12 +47,12 @@ related:
   - INS-260323-38EC
   - INS-260323-D479
   - INS-260325-4EE9
-  - INS-260409-16CF
   - INS-260412-8111
   - INS-260412-BE47
   - INS-260412-5D55
   - INS-260412-5494
   - INS-260323-CB47
   - INS-260412-1428
+  - INS-260412-B854
 ---
 Intuitively, people assume the world's nuclear arsenal is an extinction-level threat. Kurzgesagt's calculation shows that detonating all 15,000 warheads in a single pile destroys the Amazon and causes a brief nuclear winter, but humanity survives. Extinction requires escalating to roughly 10 billion Hiroshima equivalents — orders of magnitude beyond current stockpiles. This reveals that existential risk from nuclear weapons isn't a smooth gradient but has a sharp threshold. The real danger of the current arsenal is distributed targeting of cities (killing ~3 billion), not raw aggregate energy. This pattern — where risk concentrates at a phase transition rather than scaling linearly — applies broadly to portfolio tail-risk analysis, pandemic modeling, and AI safety scenarios.

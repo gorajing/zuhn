@@ -67,6 +67,7 @@ related:
   - INS-260327-1270
   - INS-260327-C0C7
   - PRI-260328-25C9
+  - INS-260625-3AF0
 ---
 Animal welfare advocates have secured over 3,000 corporate pledges globally — McDonald's cage-free, European retailers ditching low-welfare chicken breeds, Costco going 100% cage-free. This happened because the decision-makers at retailers and restaurants are consumer-facing and respond to public opinion, whereas legislation must pass through Agriculture Committees dominated by industry lobbyists who refuse to even invite opposing witnesses.
 

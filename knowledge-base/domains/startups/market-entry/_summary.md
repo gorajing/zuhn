@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 61 insights
+> 62 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -53,6 +53,7 @@
 - `INS-260403-1F3F` [medium] Founders in smaller markets should build local ecosystem gravity through conferences, academies, and talent attraction rather than relocating to established hubs.
 - `INS-260404-3574` [medium] Thousands of profitable European SMEs face closure due to retiring founders, creating a €20B serviceable market for employee-buyout platforms.
 - `INS-260404-1B01` [medium] The feeder rodent market has enormous animal numbers but near-zero competition in alternatives, a classic neglected market pattern.
+- `INS-260625-6C97` [medium] Pick markets that are (1) low trust / already outsourced, (2) low judgment at the task level, (3) high overall intelligence threshold, and (4) regulated — because regulation raises expectations and accountability, deepening the moat.
 - `INS-260403-56FC` [medium] Rising tariffs and buy-local sentiment in Europe are making global expansion strategies untenable, pushing startups toward regional-first approaches.
 - `INS-260625-63D7` [medium] Focusing on enterprise from the start gives depth, focus, and consistency and reveals problems that only appear at scale, but a pure-enterprise customer base cuts you off from learning at the frontier, so you need both.
 - `INS-260330-930D` [medium] Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.

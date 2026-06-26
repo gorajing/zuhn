@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 130 insights
+> 133 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -32,6 +32,7 @@
 - `INS-260327-42F0` [high] Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
 - `INS-260625-7B5C` [high] Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 - `INS-260327-1C7C` [high] Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
+- `INS-260625-CF91` [high] Architect the product so model progress is a tailwind you absorb, not a rebuild you fund.
 - `INS-260330-6828` [high] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260327-47E9` [high] Google knew character consistency was a gap in prior models and deliberately designed Nano Banana's architecture and data to solve it, confirming it requires intentional engineering rather than just more compute.
 - `INS-260403-26D4` [high] Smart AI companies build cost moats through hybrid retrieval layers, intelligent caching, and model routing rather than competing on raw feature parity.
@@ -71,6 +72,7 @@
 - `INS-260625-4DE2` [high] Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
 - `INS-260403-3B8D` [high] Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
+- `INS-260625-DE8E` [high] Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260327-9816` [high] Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260625-DD6B` [high] A model has finite capacity, so dedicating all of it to your one task lets you ship a smaller, cheaper, faster model than a general frontier model.
@@ -88,6 +90,7 @@
 - `INS-260605-7A70` [high] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260625-4B92` [high] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 - `INS-260605-2623` [medium] Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
+- `INS-260625-C3B0` [medium] Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260625-4248` [medium] The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.
 - `INS-260605-4375` [medium] Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.

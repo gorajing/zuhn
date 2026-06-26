@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 199 insights
+> 200 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -94,6 +94,7 @@
 - `INS-260404-1678` [high] Shifting justifications after the fact reveal the absence of pre-existing strategic reasoning.
 - `INS-260403-B26E` [high] If your opponent lobbies against your strategy while claiming it helps them, their lobbying reveals the strategy is working.
 - `INS-260330-2B29` [high] Revolutions result from accumulated small decisions, not single dramatic moments.
+- `INS-260625-3AF0` [high] Hanoi paid citizens per rat tail to cut the rat population; people farmed rats for their tails and the problem got worse.
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-ABCB` [high] NASA's Bennu sample return found fragile organic compounds that meteorite studies could never detect because atmospheric entry destroys them.
 - `INS-260404-EC33` [high] Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.

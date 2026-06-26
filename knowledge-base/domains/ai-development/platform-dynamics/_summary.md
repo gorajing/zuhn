@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 44 insights
+> 45 insights
 
 - `INS-260603-15F4` [high] Rona Shah (Walmart): Amazon's ads/retail-media is ~10% of revenue but ~40% of operating income — high-margin business that subsidizes low-margin e-commerce; when a shopper completes the journey inside ChatGPT without visiting the retailer, that ad revenue vanishes, which is why Amazon blocks agents and Walmart rolled back OpenAI instant-checkout.
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
@@ -41,6 +41,7 @@
 - `INS-260403-83F3` [medium] AI prototyping tools compete on hosting architecture (browser-side vs. real cloud vs. full database) rather than code generation quality.
 - `INS-260410-BB93` [medium] Whoever wins the scaffolding layer can vertically integrate downward into models because they have the data liquidity to fine-tune any capable open-source checkpoint.
 - `INS-260325-2BDB` [medium] Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
+- `INS-260625-ADEA` [medium] Models, APIs, and tools can be swapped, wrapped, or adapted — but the log is the irreplaceable part that persists, so the provider who hosts your log effectively owns your agent.
 - `INS-260403-F01C` [medium] Media technologies cycle between democratization (which enables divisive entrepreneurs) and consolidation (which restores moderation), and LLMs may be the consolidating phase of the social media cycle.
 - `INS-260328-9B8A` [medium] Zuckerberg frames open source AI not as idealism but as a security strategy — concentrated AI power in untrustworthy hands is potentially more dangerous than widespread access.
 - `INS-260410-4F43` [medium] Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.

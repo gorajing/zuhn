@@ -21,6 +21,7 @@
 - `INS-260409-004E` Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
 - `INS-260410-F436` Gradient descent makes you solve the training problem, not generalize well — catastrophic forgetting is the natural default and good transfer happens only when researchers iterate until they find a representation that transfers.
 - `INS-260625-5694` World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
+- `INS-260625-D790` The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
 - `INS-260625-B5A8` Across single-table-only, mixed, and curriculum (single-then-multi) training regimes, single-table-only gave the greatest uplift — and still produced a similar ~2x jump (13.9% to 26.6%) on the harder multi-table benchmark it never trained on.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260330-09AB` For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.

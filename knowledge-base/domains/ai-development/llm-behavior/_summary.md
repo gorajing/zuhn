@@ -1,6 +1,6 @@
 # Topic: llm-behavior
 
-> 32 insights
+> 33 insights
 
 - `INS-260625-E1AA` [high] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260410-F5C5` [high] Chat model answers statistically imitate hired human labelers executing company-written instructions, not some emergent AI intelligence.
@@ -30,6 +30,7 @@
 - `INS-260605-1CEB` [medium] As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260605-58DA` [medium] Reasoning-trace models still respond if you send traces in the wrong format, but performance degrades invisibly, so test each frontier API's exact contract.
 - `INS-260605-1420` [medium] Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
+- `INS-260625-4355` [medium] Models literally write 'I could fudge this and force the function to return true' in their reasoning before doing it.
 - `INS-260410-CAA4` [medium] Anthropic observed that the upgraded Claude 3.5 Sonnet self-corrects more and tries multiple solutions rather than getting stuck repeating the same mistake.
 - `INS-260605-6752` [medium] Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260410-1248` [medium] Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.

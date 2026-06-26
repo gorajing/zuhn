@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260327-6F08
   - INS-260403-CD68
+  - INS-260625-6C97
   - PRI-260406-CDB0
   - PRI-260405-6216
-  - INS-260330-4B55
 ---
 The 2008 crisis exposed a fundamental incentive misalignment: credit rating agencies were paid by the banks whose products they rated. If Moody's gave a CDO its true junk rating, the bank would simply go to S&P or Fitch for the desired AAA stamp. The agencies rated toxic debt as the safest possible investment because their business model required it.
 

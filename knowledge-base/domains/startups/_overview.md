@@ -1,12 +1,12 @@
 # Domain: startups
 
-> 4826 insights across 55 topics
+> 4832 insights across 55 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| ai-business-models | 44 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
+| ai-business-models | 45 | Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities. |
 | bootstrapping | 38 | An internal AI ops agent let Answer This hit $2M ARR with two full-time founders by absorbing email, support, CRM, and feedback work. |
 | business-models | 244 | The time required to build a company is often predictive of how long it will last. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
@@ -24,7 +24,7 @@
 | execution | 298 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | exits | 7 | Give yourself two months to try for acquisition, then shut down — no time frame means no exit. |
 | financial-planning | 4 | In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem. |
-| founder-mindset | 351 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
+| founder-mindset | 353 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
 | founder-psychology | 87 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 466 | Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception. |
 | growth | 114 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
@@ -36,10 +36,10 @@
 | innovation | 145 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
 | leadership | 205 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
-| market-entry | 61 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
+| market-entry | 62 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | marketing | 17 | Joslyn (Meta ads PM): LLMs let the platform understand you're 'shopping for a summer Europe trip' or 'a graduation ceremony' rather than just knowing your age/gender/click history — semantic intent replaces demographic proxies as the personalization signal. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
-| operations | 30 | Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever. |
+| operations | 31 | Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever. |
 | organizational-design | 28 | Harvey (keynote): AI collapses the org horizontally — one person now does multiple functions instead of one specialist per function — and 'if you collapse horizontally, you naturally collapse vertically'; he reads Meta's ~8,000-person layoff (which eliminated many managers, converting them to ICs) as a preview of this. |
 | pitch-decks | 8 | As pitch descriptions approach 'could be anything,' their information content approaches zero. |
 | platform-dynamics | 27 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
@@ -57,7 +57,7 @@
 | strategy | 282 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 70 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
-| unit-economics | 10 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
+| unit-economics | 11 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
 | validation | 184 | Pretty much 100% of startups that make something popular manage to make money from it. |
 | venture-capital | 14 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |
 | vision-and-strategy | 6 | Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed. |

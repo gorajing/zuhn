@@ -51,5 +51,6 @@ related:
   - INS-260409-2DE3
   - PRI-260328-4B40
   - PRI-260406-6AE6
+  - INS-260625-8319
 ---
 CRISPR reduced genetic engineering costs by 99% and compressed experiment timelines from a year to weeks, making gene editing accessible to any lab. This mirrors how computing moved from room-sized mainframes to personal computers — the inflection point wasn't a single breakthrough capability but the cost floor dropping low enough for mass participation. The pattern suggests that when evaluating emerging technologies, the critical signal isn't peak capability but cost-per-experiment reaching a threshold where iteration becomes trivially cheap. This same dynamic played out with DNA sequencing, solar panels, and AI model training — the revolution comes from the democratization curve, not the frontier.

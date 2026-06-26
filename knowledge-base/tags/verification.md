@@ -31,6 +31,7 @@
 - `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
+- `INS-260625-8BC8` SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
 - `INS-260405-7383` Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
 - `INS-260605-3899` A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
 - `INS-260410-5740` AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.

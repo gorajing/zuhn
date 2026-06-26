@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260605-A46E
   - INS-260605-7E75
+  - INS-260625-D5A7
   - INS-260603-2FB1
   - PRI-260328-37D8
-  - INS-260412-BA6D
 stance: >-
   China is stealing American AI models, removing all guardrails, and potentially
   deploying them against the US

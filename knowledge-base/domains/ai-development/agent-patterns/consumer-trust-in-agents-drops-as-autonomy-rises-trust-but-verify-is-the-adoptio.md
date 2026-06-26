@@ -73,8 +73,8 @@ related:
   - INS-260330-0145
   - INS-260330-7DB7
   - INS-260402-2D7B
-  - INS-260403-5EB4
   - INS-260405-6BC4
+  - INS-260403-E33F
 ---
 The speaker ran a live poll: most people would trust an agent to reorder known staples (milk, eggs), far fewer to let it pick a new brand, fewer still to let it autonomously complete a purchase. The relationship is monotonic — comfort drops as autonomy and unpredictability rise. The more precisely a user can predict what the agent will do, the more willing they are to delegate to it.
 

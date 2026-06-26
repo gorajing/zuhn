@@ -6,3 +6,4 @@
 - `INS-260323-FAF0` Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
 - `INS-260329-6727` The geometric proof of lim(sin θ/θ) = 1 uses area comparisons of triangles and sectors that no purely algebraic approach can replicate, demonstrating that visual reasoning is a distinct and irreplaceable mode of mathematical understanding.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
+- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.

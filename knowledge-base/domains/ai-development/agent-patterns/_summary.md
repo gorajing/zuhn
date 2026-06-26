@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 335 insights
+> 337 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -148,6 +148,7 @@
 - `INS-260605-E7F2` [high] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
 - `INS-260605-DB29` [high] The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
 - `INS-260625-447A` [high] A single agent given four tasks tends to nail two and lose the rest mid-context; splitting into expert agents and adding a judge agent to combine their outputs into one coherent result avoids that silent drop.
+- `INS-260625-A996` [high] One change propagating through UI → module1 → module2 → platform → production became seven separate re-explanations because each agent session was a blank slate.
 - `INS-260605-DC50` [high] Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260605-35B4` [high] Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
 - `INS-260605-29BD` [high] Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
@@ -263,6 +264,7 @@
 - `INS-260501-5ACE` [medium] App building is commoditized; what's not is an agent that researches the market, validates the problem, builds a v1, and writes the business case — agent-as-founder, not agent-as-developer.
 - `INS-260625-2E86` [medium] The reason generative UI defaults to generating JSON ('Jason Bender') and rendering it is that most platforms lack a primitive to safely render untrusted code — solve that and you can just generate React.
 - `INS-260410-62E8` [medium] Each agent claims a task by writing a lockfile to current_tasks/ and pushes via git; git's atomicity handles races and Claude handles merge conflicts.
+- `INS-260625-1E07` [medium] Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
 - `INS-260625-5351` [medium] Give the agent a cron-synced read-only copy of your codebase and DB so it can derive answers like subscription logic by reading the actual source.
 - `INS-260625-0141` [medium] Traditional RAG routes known relationships through the embedding model as a bottleneck; graph RAG models those relationships explicitly as a knowledge graph and expands context by traversal after a vector seed, improving recall and precision.
 - `INS-260605-E9A7` [medium] A paid API call can become observe-pay-retry, not a human onboarding flow.

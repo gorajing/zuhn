@@ -55,8 +55,8 @@ related:
   - PRI-260426-9730
   - INS-260605-E4BB
   - INS-260605-DA98
+  - INS-260625-C735
   - INS-260327-6A4B
-  - INS-260329-4B07
   - INS-260605-5983
 ---
 Asking 'what is the single best model?' is the wrong question because quality and efficiency are separate axes. When you plot an Elo-style quality score against an efficiency metric (latency or price per generation), you get a Pareto front with three or four models on it, not one winner. Charpentier shows cases where quality scores cluster tightly (e.g. Elo 1,100–1,200) while latency varies by 20x—meaning you can pick a model that is nearly as good but dramatically cheaper and faster.

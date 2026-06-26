@@ -1,6 +1,7 @@
 # Tag: exploration
 
 - `INS-260409-95C8` Your questions reveal what matters; file the answers back as permanent wiki pages or lose that signal.
+- `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it.
 - `INS-260605-6C0C` Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.

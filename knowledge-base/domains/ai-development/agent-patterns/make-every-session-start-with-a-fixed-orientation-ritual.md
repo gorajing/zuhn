@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260410-2C51
   - INS-260410-53C2
+  - INS-260625-6127
   - INS-260605-DFF5
   - INS-260329-03B5
-  - INS-260329-917B
 ---
 Because every new context window starts blank, the agent will burn tokens reinventing how to orient itself unless you prescribe the steps. Anthropic standardizes the opening: print working directory, read claude-progress.txt and feature_list.json, scan recent git commits, run init.sh to start the dev server, and run a baseline smoke test before touching any new feature.
 

@@ -1,6 +1,6 @@
 # Topic: training-dynamics
 
-> 19 insights
+> 20 insights
 
 - `INS-260410-78D3` [high] For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
 - `INS-260410-D3A7` [high] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
@@ -12,6 +12,7 @@
 - `INS-260410-E6E9` [high] When implementing or testing backprop code, initialize biases to small random numbers rather than zero — zeros simplify the math enough to mask incorrect gradient formulas that would fail on real inputs.
 - `INS-260410-885B` [high] Initialize each layer's weights from a Gaussian with std = gain/sqrt(fan_in), using gain=1 for linear, 5/3 for tanh, sqrt(2) for ReLU — this is the only scaling that prevents activations from exploding or vanishing as depth grows.
 - `INS-260405-57D6` [high] OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
+- `INS-260625-D790` [high] The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
 - `INS-260410-47AE` [high] Plot histograms of activations and pre-activations during training — if too many values cluster at the saturating tails, gradients are being killed and entire neurons may be permanently dead.
 - `INS-260412-88B6` [high] AlphaGo bootstrapped from 100K human games then improved via 30 million self-play games, beating its prior version 80-90% of the time.
 - `INS-260605-33FA` [high] In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.

@@ -1,6 +1,6 @@
 # Topic: foundation-models
 
-> 24 insights
+> 25 insights
 
 - `INS-260625-9C3D` [high] Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
 - `INS-260603-6E59` [high] Satish (Stanford atmospheric FM): on sequences (language/code) we're ~80-90% there because a word encodes sparse information you can mask and recover; but encoding even a 1024×1024 image into a vector loses enormous information, and video/spectral data is worse — the breakthrough for high-dimensional data hasn't happened.
@@ -13,6 +13,7 @@
 - `INS-260410-76A3` [high] Scaling laws convert LLM capability improvement into a predictable function of compute and data, turning AI progress into a capital-allocation problem.
 - `INS-260605-3AE6` [high] When everyone sprints to build the same workaround for a model limitation, that's a signal the limitation is temporary and the workaround is a depreciating asset.
 - `INS-260605-8C05` [high] New flagship models (Gemini 4, Qwen 3.5, Chimera 2.5) are launching as vision-language/omni models on release, so VLMs are converging with LLMs.
+- `INS-260625-B9A5` [medium] Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters.
 - `INS-260412-EDD8` [medium] General-purpose AI may serve as a new foundational science, enabling unforeseeable downstream applications the way physics enabled modern engineering.
 - `INS-260410-3DAD` [medium] LLMs win the AGI race, but their first act as AGIs is to replace themselves with something closer to Sutton's from-scratch experiential architecture.
 - `INS-260605-3DCD` [medium] The same phone defeated three senior engineers plus ChatGPT a year earlier; Claude refused to give up at the identical dead-end and found the VM man-in-the-middle workaround.

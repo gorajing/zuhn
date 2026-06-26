@@ -55,13 +55,13 @@ related:
   - INS-260403-EA31
   - INS-260410-2C51
   - INS-260514-A15D
-  - INS-260605-9523
   - INS-260605-1B0B
   - INS-260605-159E
   - INS-260605-A2AD
   - INS-260605-CFB7
   - INS-260501-E377
   - INS-260605-2DD5
+  - INS-260625-F3B0
 ---
 Hugging Face Hub added a dataset repository type called 'traces' that ingests, parses, and visualizes agent sessions (Codex, Claude Code, pie, etc.). The non-obvious move is the closing of the loop: once your agent's own sessions are stored as structured, viewable datasets, you can train the next model directly on them. Pushing a trace is friction-free—just upload your session paths, nothing else needed.
 

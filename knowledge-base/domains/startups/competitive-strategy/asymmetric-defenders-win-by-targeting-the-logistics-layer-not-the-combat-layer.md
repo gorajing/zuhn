@@ -49,7 +49,6 @@ stance: >-
   Weaker defenders can neutralize a stronger attacker's advantages by attacking
   supply chains rather than engaging in direct confrontation
 related:
-  - INS-260321-86F1
   - INS-260321-A3A1
   - INS-260323-E74E
   - INS-260321-D4D0

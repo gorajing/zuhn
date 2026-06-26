@@ -59,7 +59,7 @@ related:
   - INS-260605-9719
   - INS-260603-73D5
   - INS-260605-DCE5
-  - INS-260605-FD3D
+  - INS-260625-ECB6
 ---
 Tan demonstrates the pattern: GStack runs adversarial review on a design doc, finds 16 issues across categories (no failure handling, no privacy section, 2FA handoff with no proposed solution), attempts to auto-fix what it can, and re-scores. The doc went from 6/10 to 8/10 with three remaining issues for the human to address. This is dramatically better than 'human reviews and asks for fixes' because most issues are fixable algorithmically once identified — the bottleneck is identification, not fixing.
 

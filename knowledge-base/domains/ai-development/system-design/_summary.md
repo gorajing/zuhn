@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 84 insights
+> 85 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -25,6 +25,7 @@
 - `INS-260412-2B01` [high] Only compute what the consumer actually inspects — everything else can remain a stub until accessed.
 - `INS-260514-6DF3` [high] Lint errors aren't just 'don't merge this' — they're prompts that surface what good code looks like to the agent at the moment the agent is writing it.
 - `INS-260605-EC51` [high] An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
+- `INS-260625-A281` [high] Like a database where the write-ahead log is durable and tables are views, an agent's context window, UI, debugging trace, and compaction should all be projections derived from one primary log.
 - `INS-260514-23D6` [high] Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't.
 - `INS-260605-1BBF` [high] An MCP app is a single sandboxed HTML file in an iframe with no local storage, no network access, and CSP/CORS-blocked external resources — so everything must be embedded and a shared design system becomes essential.
 - `INS-260605-93B8` [high] The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.

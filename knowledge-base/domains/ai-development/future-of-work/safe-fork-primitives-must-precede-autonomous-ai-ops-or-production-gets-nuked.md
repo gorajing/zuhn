@@ -64,13 +64,13 @@ stance: >-
   is not if but when the agent nukes the production database.
 related:
   - INS-260501-9D73
-  - INS-260605-9523
   - INS-260625-E10F
   - INS-260625-868D
   - INS-260530-D34F
   - PRI-260406-3EF8
   - INS-260320-1B10
   - INS-260404-21E6
+  - INS-260625-1E07
 ---
 Cooper argues the SDLC is changing structurally: the pull request becomes the 'prompt request,' and human code review starts to disappear once the surrounding systems are in place. The endgame is agents iterating directly in production — making a small change, having it versioned across the entire infrastructure alongside copy-on-write versions of the database and services, then merging it live. But he is emphatic that this only works if the safe primitives exist first. He 'flipped' on AI yet remains a skeptic of AI SRE specifically, because if you unleash an autonomous agent on production infrastructure without safe primitives for copying volumes and cloning databases, 'it's not a matter of if, it's a matter of when it's going to nuke that database.'
 

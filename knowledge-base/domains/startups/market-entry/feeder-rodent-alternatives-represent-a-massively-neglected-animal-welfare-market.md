@@ -53,8 +53,8 @@ related:
   - PRI-260406-12A2
   - INS-260330-923F
   - INS-260330-F527
+  - INS-260625-3AF0
   - INS-260330-D5BD
-  - INS-260327-EE5E
   - INS-260410-C329
 ---
 An ACX grantee (still in stealth) is building a CPG company developing snake food to replace conventional feeder rodents at scale. The framing reveals a classic neglected-market pattern: feeder mice and rats are among the most numerous farmed mammals in the US, yet almost nobody is working on alternatives. The opportunity exists precisely because it's unglamorous and niche.

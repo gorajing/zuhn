@@ -53,7 +53,7 @@ related:
   - INS-260409-1078
   - PRI-260406-8B75
   - INS-260409-ADD0
-  - INS-260501-BCCB
+  - INS-260625-BF8B
 ---
 Five vendors (MemMachine, mem0, Semiont, FalkorDB, Cognee) presented the current state of AI agent memory. Every talk optimized some form of retrieval: mem0 with multi-signal scoring (semantic + BM25 + entity), MemMachine with graph-neighbor expansion, FalkorDB contrasting graph-versus-vector contextualization, Cognee with cross-store orchestration ('control plane'). Nobody discussed reducing accumulated memory fragments into durable, testable principles; nobody addressed retirement of stale memory; nobody tracked prediction outcomes against historical claims.
 

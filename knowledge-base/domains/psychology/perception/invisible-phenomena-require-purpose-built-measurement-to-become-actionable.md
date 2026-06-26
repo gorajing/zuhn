@@ -51,11 +51,12 @@ stance: >-
   know something theoretically without being able to verify, iterate on, or
   communicate it.
 related:
-  - INS-260330-0FCC
   - INS-260402-AC3D
   - PRI-260323-2E5A
+  - INS-260330-0FCC
   - INS-260327-D570
   - PRI-260406-603C
+  - INS-260625-DE8E
 evidence:
   - id: INS-260327-D570
     type: TRANSFERS_TO

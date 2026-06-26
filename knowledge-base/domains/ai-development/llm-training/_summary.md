@@ -1,8 +1,9 @@
 # Topic: llm-training
 
-> 92 insights
+> 95 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
+- `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
 - `INS-260320-7682` [high] Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
 - `INS-260625-E500` [high] Even after sharding all parameters with FSDP across 8 GPUs, long-context training still OOMs because attention activations — not weights — dominate memory.
 - `INS-260321-53E2` [high] All AI computation is matrix multiplication (word relationships scored as points in matrices) — Hinton discovered GPUs excelled at this by accident in 2012, winning ImageNet overwhelmingly.
@@ -65,10 +66,12 @@
 - `INS-260320-922A` [high] Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
 - `INS-260327-BE4E` [high] Token efficiency gains like the Muon optimizer effectively multiply finite high-quality data, pushing intelligence ceilings higher rather than merely reducing infrastructure cost.
 - `INS-260605-C859` [high] Pick tokenizer vocab size to match your data budget: you need roughly vocab-squared tokens of data to cover the bigrams the model must learn.
+- `INS-260625-0D5D` [high] Keep a training sample only when tool-augmented inference solves it AND standard tool-free inference fails — this teaches the model to use tools precisely where they make the difference, not where it could have answered unaided.
 - `INS-260323-3F39` [high] Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
 - `INS-260330-D3F5` [high] LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260605-311E` [high] 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon.
 - `INS-260605-83A7` [high] Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise.
+- `INS-260625-8BC8` [high] SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
 - `INS-260325-5B28` [medium] Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
 - `INS-260605-C1A5` [medium] An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260410-0EF8` [medium] Most headline software innovations in deep learning were really innovations in how to exploit more compute—so 'software-only singularity' stories that hold compute fixed are misspecified.

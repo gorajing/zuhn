@@ -63,7 +63,6 @@ stance: >-
   regulators rather than editing the full genetic landscape.
 related:
   - INS-260323-8F70
-  - INS-260404-07C3
   - INS-260505-45B7
   - INS-260412-812C
   - INS-260505-50AC

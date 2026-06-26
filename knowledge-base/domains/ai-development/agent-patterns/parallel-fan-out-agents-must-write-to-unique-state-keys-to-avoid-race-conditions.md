@@ -52,10 +52,9 @@ related:
   - INS-260410-566F
   - INS-260411-D060
   - INS-260605-9E7A
+  - INS-260625-6127
   - INS-260323-2E51
   - INS-260605-9A01
-  - INS-260321-18D0
-  - INS-260605-75BB
   - INS-260605-61D9
 ---
 Google's ParallelAgent primitive runs sub-agents simultaneously to reduce latency — for example, a SecurityAuditor, StyleEnforcer, and PerformanceAnalyst reviewing code at the same time. However, because these agents share the same session.state, concurrent writes to the same key will corrupt data.

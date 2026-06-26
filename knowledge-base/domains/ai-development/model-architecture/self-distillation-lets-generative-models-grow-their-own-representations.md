@@ -53,8 +53,8 @@ related:
   - INS-260505-AFAB
   - INS-260605-9F3D
   - INS-260605-D37A
+  - INS-260625-D790
   - INS-260501-FDF0
-  - INS-260605-8F5E
   - INS-260605-C46E
 ---
 SelfFlow (BFL's open research paper) removes the external encoder entirely by adding two noise levels to each asset: a heavily-noised copy fed to a 'student' that must denoise it, and a lightly-noised copy fed to a 'teacher' that is a more stable version of the student. The student simultaneously minimizes generation loss and representation loss against the teacher, learning to represent and to generate in one flow. Because the teacher is just a stable copy of the student, scaling the model scales both — dissolving the scaling ceiling and modality lock-in of external alignment. One model then handles image, video, audio, and even robot actions, beating flow-matching baselines on each modality and converging faster. The architectural move — internalize the component you used to borrow — is the structural answer to the borrowed-ceiling problem of frozen encoders.

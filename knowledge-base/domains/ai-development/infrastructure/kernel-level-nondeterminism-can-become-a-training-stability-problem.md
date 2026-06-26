@@ -49,7 +49,6 @@ related:
   - INS-260404-CE26
   - INS-260410-699C
   - PRI-260328-49CB
-  - INS-260625-E810
 ---
 The talk argued that inference and training engines may produce slightly different outputs even with the same nominal model because floating-point addition is not associative and GPU kernels partition matrix operations differently. Quantization, kernel fusion, MoE routing, sampling, and async weight updates can widen this gap.
 

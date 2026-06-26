@@ -55,6 +55,7 @@ related:
   - INS-260403-B18C
   - INS-260321-B7CB
   - INS-260409-4EC0
+  - INS-260625-CF91
 ---
 From an investor lens, churn isn't just a retention number—it's a judgment on company viability. VCs model durability alongside growth, and high churn signals that the foundation for scale is brittle. It lowers expansion potential, damages net revenue retention, and tells investors that future growth will require ever-increasing acquisition spend to compensate for losses.
 

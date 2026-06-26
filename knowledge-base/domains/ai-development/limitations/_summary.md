@@ -1,9 +1,10 @@
 # Topic: limitations
 
-> 89 insights
+> 92 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
+- `INS-260625-3B6D` [high] An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time).
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260413-C4EE` [high] AI systems can propose novel candidate molecules at scale but clinical trials and wet-lab experiments to validate them remain costly multiyear processes — the generation-validation gap is the binding constraint in drug discovery.
 - `INS-260323-F2C3` [high] AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
@@ -27,6 +28,7 @@
 - `INS-260330-30CE` [high] Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260625-5EEE` [high] A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - `INS-260323-9773` [high] OpenAI's own research confirms hallucinations cannot be eliminated even with perfect training data because they are inherent to probabilistic generation — and reasoning models make it worse by multiplying the dice rolls.
+- `INS-260625-ECB6` [high] Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it.
 - `INS-260409-D922` [high] Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260327-9BA2` [high] LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260323-B309` [high] LLMs match statistical patterns from human-generated text (wide, shallow), while formal computational systems like Wolfram Alpha build deep chains of logical inference from structured knowledge (narrow, deep).
@@ -79,6 +81,7 @@
 - `INS-260411-59F7` [medium] Continual RLHF fine-tuning subtly shifts internal concept boundaries over time, creating a gap between improved surface behavior and degraded deep epistemic coherence.
 - `INS-260325-CC49` [medium] The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.
 - `INS-260410-B3D7` [medium] LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
+- `INS-260625-BF8B` [medium] DeepSeek-V4's multi-needle retrieval stays stable to ~128k tokens, then degrades — still impressive at 1M but no longer reliable — showing that mechanical capacity to process a context outruns the ability to recall from it.
 - `INS-260602-E2BD` [medium] Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260325-A1B9` [medium] Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
 - `INS-260403-04AD` [medium] The 'stochastic parrot' framing relies on hallucinations seeming alien and incomprehensible, but reframing them as guessing reveals a familiar, goal-directed behavior.

@@ -45,9 +45,9 @@ resolutions:
 related:
   - PRI-260321-2DF0
   - INS-260327-BB67
+  - INS-260625-6C97
   - INS-260403-F061
   - INS-260403-08D8
-  - PRI-260328-37D8
   - INS-260404-FFC4
   - INS-260412-D937
 stance: >-

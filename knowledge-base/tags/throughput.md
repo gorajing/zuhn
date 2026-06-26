@@ -13,4 +13,5 @@
 - `INS-260330-956E` A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260412-600E` Without radar, transatlantic planes need 140-mile separation vs 5 miles with radar — a 28x penalty for lost visibility.
 - `INS-260412-D787` The White House to UN trip takes exactly one hour because every transition — Marine One to Air Force One (5 min), landing to motorcade — is ruthlessly optimized.
+- `INS-260625-C735` Treat throughput, cycle time, and variance as product metrics — customers fire you for non-uniform output faster than for being a bit slower or pricier than incumbents.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.

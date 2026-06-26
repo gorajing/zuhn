@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 63 insights
+> 64 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -56,6 +56,7 @@
 - `INS-260410-761E` [medium] The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
 - `INS-260605-8789` [medium] Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'
 - `INS-260605-2A01` [medium] Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.
+- `INS-260625-F3B0` [medium] Like a Star Trek transporter for sessions: the full state — repos, SHAs, agent history, decisions — materializes on a coworker's machine, so they resume your Claude session with Codex and zero setup.
 - `INS-260423-85B3` [medium] Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
 - `INS-260413-11C9` [medium] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260605-E642` [medium] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.

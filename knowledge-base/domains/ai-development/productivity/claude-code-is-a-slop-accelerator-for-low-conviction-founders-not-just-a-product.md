@@ -50,8 +50,8 @@ stance: >-
 related:
   - INS-260327-F95F
   - INS-260330-59FD
+  - INS-260625-D5A7
   - INS-260403-415E
   - INS-260410-6290
-  - INS-260410-FB7E
 ---
 The structural risk of AI coding tools is not that they produce worse code — the code is often impressively capable. The risk is that they dramatically lower the cost of building plausible prototypes, which removes a useful friction. Before Claude Code, low conviction combined with build cost produced founders who stuck with their initial thesis long enough to learn from it. With Claude Code, low conviction plus near-zero build cost produces founders who chain-pivot through arbitrary TechCrunch-article clones, each of which takes them further from any domain they understand. The honest founder test in the AI era: if you hit a wall on your current thesis, do you have enough conviction to keep grinding, or do you clone the next headline? The second path is a one-way trip to pivot hell at higher velocity than was previously possible.

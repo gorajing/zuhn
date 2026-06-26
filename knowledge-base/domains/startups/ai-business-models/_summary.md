@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 44 insights
+> 45 insights
 
 - `INS-260403-3852` [high] Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
@@ -41,6 +41,7 @@
 - `INS-260403-2E0F` [medium] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - `INS-260405-94A0` [medium] OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260409-BC24` [medium] Raise after revenue, not before — AI-era timelines make the old sequencing obsolete.
+- `INS-260625-D666` [medium] Model advances unlock companies that provide the outcome (the completed tax return, FDA approval, legal work) rather than a co-pilot the customer uses internally.
 - `INS-260403-9491` [medium] The highest-value AI business model sells completed work rather than tools to do the work.
 - `INS-260409-62E0` [medium] AI's market structure will look like a barbell with hyper-micro entrepreneurs on one end, ~25 supercalers on the other, and a crushed middle of SaaS and mid-market service businesses.
 - `INS-260524-110F` [medium] Z Venture Capital CEO: SaaS is saturated, so SaaS firms bolt on AI; meanwhile manufacturing-heavy Asia has surprisingly large unmet demand for 'where do we apply AI' consulting.

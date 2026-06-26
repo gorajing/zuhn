@@ -20,7 +20,6 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
-  - INS-260320-4DE2
   - INS-260320-8DBD
   - INS-260320-7379
   - INS-260320-F8FD

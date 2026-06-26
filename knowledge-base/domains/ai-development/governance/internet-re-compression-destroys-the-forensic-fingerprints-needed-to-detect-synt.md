@@ -54,6 +54,5 @@ related:
   - INS-260409-3230
   - INS-260412-C3AB
   - INS-260409-1078
-  - INS-260514-F565
 ---
 Every digital camera produces unique compression artifacts — grouping similar-color pixels in device-specific patterns — that act as forensic fingerprints. Experts can examine raw uploads to detect where these patterns have been disrupted by face-swapping algorithms. However, each time a video is downloaded and re-uploaded to a platform, the platform re-encodes it, destroying the original compression fingerprint. Since viral deepfakes spread through exactly this download-reupload cycle, the forensic method works only on the original upload — the one place a fake is least likely to be examined. This creates a structural asymmetry: detection tools work in lab conditions but fail in the wild distribution channels where deepfakes actually cause harm.

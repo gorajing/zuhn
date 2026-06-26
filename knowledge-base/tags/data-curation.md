@@ -1,4 +1,6 @@
 # Tag: data-curation
 
 - `INS-260410-AA93` Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
+- `INS-260625-0D5D` Keep a training sample only when tool-augmented inference solves it AND standard tool-free inference fails — this teaches the model to use tools precisely where they make the difference, not where it could have answered unaided.
+- `INS-260625-3E47` SWE-RL adds related files that aren't changed by the PR so the model learns that relevance does not imply a required edit.
 - `INS-260605-2793` Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.

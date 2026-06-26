@@ -41,11 +41,11 @@ stance: >-
   such as moments, entities, relationships, timelines, and references rather
   than repeatedly asking models for one-off summaries.
 related:
+  - INS-260625-D148
   - INS-260625-2DA2
   - PRI-260322-94C4
   - INS-260625-3D32
   - INS-260329-BCCB
-  - INS-260323-22E8
 ---
 The TwelveLabs-style talk distinguished between generating a pretty text answer and creating a memory layer that downstream systems can reuse. Enterprise video use cases need timestamps, entities, segment confidence, references, and structured JSON that can be inspected and composed.
 

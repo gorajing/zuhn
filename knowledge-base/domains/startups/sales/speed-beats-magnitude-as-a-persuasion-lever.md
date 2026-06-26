@@ -57,7 +57,6 @@ related:
   - INS-260330-E6B7
   - INS-260605-FE37
   - INS-260412-D787
-  - INS-260605-0BD6
   - INS-260624-D8C3
 evidence:
   - id: INS-260322-191F

@@ -1,11 +1,12 @@
 # Topic: architecture
 
-> 101 insights
+> 106 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
 - `INS-260605-0A68` [high] MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
+- `INS-260625-4DDB` [high] The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260625-05FF` [high] Per Jeff Dean, even a trillion-token context window needs stage retrieval — 'you don't need a trillion at once, you need the right million' — so retrieval becomes an iterative search-reason-fetch loop, not a one-shot vector call.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260625-25AC` [high] The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
@@ -59,6 +60,7 @@
 - `INS-260605-B03B` [high] Because the LLM and TTS blindly carry forward whatever the speech-to-text model produces, a misheard name or drug becomes an uncorrectable error — making entity-level transcript accuracy the foundation of the whole pipeline.
 - `INS-260605-83DA` [high] Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 - `INS-260605-26EC` [high] Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests.
+- `INS-260625-D148` [high] Because DeepSeek-V4 interleaves lossy compressed-attention layers, it relies on the residual stream (mHC) to propagate uncompressed information forward, protecting against data a single layer discarded but a later layer needs.
 - `INS-260605-D37A` [high] Most STT models are trained on single-speaker data and degrade sharply under overlap, speaker change, cross-talk, distant mics, and code-switching.
 - `INS-260625-B6E9` [high] Reasoning from first principles about what a computer means to an agent yields a primitive that pauses and resumes with full state (like closing a laptop lid) yet spins up in milliseconds — which standard preemptable, stateless VMs cannot provide.
 - `INS-260605-ACCD` [high] Cascade speech-to-text, an LLM, and text-to-speech as separate orchestrated models, because unified speech-to-speech models can't yet follow instructions or call tools reliably enough for production.
@@ -67,6 +69,7 @@
 - `INS-260605-CA2B` [high] Replay-based durable execution suits bounded start-to-end workflows, but an agent is a long-lived session whose ever-growing replay journal eventually exceeds the system's entry-count or entry-size limits.
 - `INS-260410-346B` [high] If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260625-D1D5` [high] Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
+- `INS-260625-CC0F` [high] A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
 - `INS-260409-AB32` [high] Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260625-2439` [high] MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` [high] WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
@@ -80,10 +83,12 @@
 - `INS-260625-E4F0` [medium] Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
 - `INS-260421-665D` [medium] MemMachine, mem0, and Cognee all adopt some variant of working memory (short-term buffer), episodic memory (timestamped events), and semantic memory (extracted facts/profile).
 - `INS-260605-0436` [medium] An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
+- `INS-260625-AACE` [medium] Agentic workflows reasoning over long contexts and reasoning models spending test-time compute both demand ultra-long contexts, making the quadratic scaling of standard attention — not model quality — the dominant constraint on progress.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260605-3DBF` [medium] Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.
 - `INS-260421-7ADE` [medium] Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
 - `INS-260605-8489` [medium] Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
+- `INS-260625-EF29` [medium] Polygraph analyzes every repo a user can reach (owned + open source), extracts what each produces and consumes, and feeds that graph to a harness so an agent reads/writes 'one big codebase.'
 - `INS-260423-81B6` [medium] Google Cloud: the load balancer has a service extension that runs Model Armor on every request before it hits the backend, so even if the application forgets to validate, the filter still runs.
 - `INS-260605-7B06` [medium] Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
 - `INS-260605-E303` [medium] Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.

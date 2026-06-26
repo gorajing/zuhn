@@ -1,6 +1,7 @@
 # Tag: jobs-to-be-done
 
 - `INS-260423-72D0` Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
+- `INS-260625-DE8E` Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260403-A17D` Every successful newsletter can be described by the specific job it does for its reader.
 - `INS-260410-04EA` The quartz crisis killed the mechanical watch's job of accurate timekeeping, but a new job — signaling achievement and lifestyle — was waiting to be filled; Rolex survived by recognizing these were two different markets and refusing to compete on the dying one.
@@ -9,7 +10,6 @@
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260402-C883` Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260410-9F29` The coffee was the conduit. The product was community.
-- `INS-260410-BC66` Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.
 - `INS-260403-3F12` AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
@@ -19,3 +19,4 @@
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
+- `INS-260410-BC66` Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.

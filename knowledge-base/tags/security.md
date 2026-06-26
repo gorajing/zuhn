@@ -34,6 +34,7 @@
 - `INS-260605-3088` Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260325-A1B9` Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
 - `INS-260624-5865` A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
+- `INS-260625-DE8E` Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260410-0C77` Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
@@ -45,9 +46,6 @@
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260329-5F19` AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
 - `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260412-F893` Two identical presidential limos with the same plates make spotter intelligence worthless — a deception principle applicable to competitive strategy.
@@ -58,3 +56,6 @@
 - `INS-260402-CC68` Immutable smart contracts force a ship-once mentality where security audits must precede deployment, inverting web2's iterate-fast approach.
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.

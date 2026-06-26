@@ -48,7 +48,6 @@ stance: >-
   naturally decomposes into a hierarchy of increasingly abstract features, not
   because they mimic biological neurons
 related:
-  - INS-260327-1563
   - PRI-260406-FA5B
   - INS-260330-4F10
   - INS-260501-F394
@@ -58,6 +57,7 @@ related:
   - INS-260403-A5FF
   - INS-260329-9CFE
   - INS-260409-1AA0
+  - INS-260410-FEFA
 evidence:
   - id: INS-260329-9CFE
     type: TRANSFERS_TO

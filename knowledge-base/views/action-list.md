@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5698 actionable insights
+Generated on 2026-06-26 | 5711 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -315,6 +315,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260625-AB58] Build tiny single-purpose skills and compose them, rather than one mega-skill that does an entire workflow.
 - [INS-260625-868D] Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
 - [INS-260625-AF2A] If the harness hardcodes the decomposition, it's a map-reduce with LLM calls; if the model picks the decomposition, it's a genuine recursive agent.
+- [INS-260625-1E07] Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -421,6 +422,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260505-F164] Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
 - [INS-260625-2777] SBI reports that AI add-ons reach only a small share of net-new customers, so add-on monetization can block the adoption loop AI products need.
 - [INS-260625-5929] Outcome pricing is not just a billing choice; the product must create self-contained, attributable outcomes before the model works.
+- [INS-260625-1F93] Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
 
 ## ai-development/ai-capabilities
 - [INS-260323-4D14] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.
@@ -501,6 +503,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260605-5CF8] An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for.
 - [INS-260605-AFCF] Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
 - [INS-260625-DF0F] Optimizing for human preference optimizes for the version of reality the rater already believes — so post-training reinforces compositing rather than patching it.
+- [INS-260625-8FC6] A CoT monitor caught 93-97% of reward hacks; an output-only action monitor caught only 40-80%.
 
 ## ai-development/applications
 - [INS-260501-A748] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
@@ -726,6 +729,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260625-386B] A parameterized secure view exposes only the current end user's data to the agent, so even a prompt-injected or manipulated query cannot reach other users' rows — security is enforced by structure, not by the model's good behavior.
 - [INS-260625-BEFE] Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
 - [INS-260625-52B6] Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
+- [INS-260625-D5A7] Punish a model for visibly cheating in its reasoning and it keeps cheating — just invisibly.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -894,6 +898,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260625-5045] Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient.
 - [INS-260625-B5AD] Partners increasingly find base models 'work too well out of the box' for general tasks, so fine-tuning excitement has shifted from behavior-shaping to injecting domain data the model lacks.
 - [INS-260625-43B3] He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
+- [INS-260625-8BC8] SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -1012,6 +1017,8 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260625-03A6] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - [INS-260625-4B92] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 - [INS-260625-7B5C] Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
+- [INS-260625-C3B0] Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
+- [INS-260625-CF91] Architect the product so model progress is a tailwind you absorb, not a rebuild you fund.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1049,6 +1056,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260605-F512] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
 - [INS-260605-9402] Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - [INS-260625-BD36] Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
+- [INS-260625-26FE] Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1087,6 +1095,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260625-FC2D] Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - [INS-260625-0A08] Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward.
 - [INS-260625-CA6E] A long-horizon run produces hundreds of millions of tokens of behavior; reporting only 'it made $X' throws away the lying, collusion, and breakdown patterns that actually matter.
+- [INS-260625-3E47] SWE-RL adds related files that aren't changed by the PR so the model learns that relevance does not imply a required edit.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -4046,6 +4055,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260514-3A62] 'You can just do things.' The system pushes toward outcomes but has inefficient defaults. Action causes information you can't get by analyzing. Cost has never been lower. Constraint: experiments must be victimless and not zero-sum.
 - [INS-260625-286E] A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
 - [INS-260625-904E] The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
+- [INS-260625-81D0] Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -5070,6 +5080,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 
 - [INS-260412-EB34] Toyota's Toyopet Crown flopped in the US because it was designed for Japanese roads and overheated on American highways.
 - [INS-260519-B1A1] Maja Voje (The GTM Strategist): you win early to earn the right to go upmarket; courting a compliance-heavy ICP on day one burns runway.
+- [INS-260625-6C97] Pick markets that are (1) low trust / already outsourced, (2) low judgment at the task level, (3) high overall intelligence threshold, and (4) regulated — because regulation raises expectations and accountability, deepening the moat.
 
 ## startups/marketing
 - [INS-260405-F456] PostHog's genuinely useful company blog—covering topics like CEO communication, first 1,000 users, and startup sales—is cited as a model for content marketing.
@@ -5103,6 +5114,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260514-9DCE] Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever.
 - [INS-260514-3B5E] When juggling too many hats, deliberately drop the SAME ball every week — oscillating which thing breaks makes the priority invisible to leadership.
 - [INS-260514-E481] Four-component GTM stack: (1) record (CRM/warehouse) (2) enrichment (Clay) (3) action (sequencer/dialer/LinkedIn) (4) analytics (recording). Anything missing breaks the iteration loop.
+- [INS-260625-C735] Treat throughput, cycle time, and variance as product metrics — customers fire you for non-uniform output faster than for being a bit slower or pricier than incumbents.
 
 ## startups/organizational-design
 - [INS-260405-346A] Org structure is fundamentally a filter—it determines which conflicts are visible to leadership and which are suppressed before surfacing.
@@ -5796,6 +5808,7 @@ Generated on 2026-06-26 | 5698 actionable insights
 - [INS-260412-F8AE] FedEx uses retired passenger aircraft because their planes only fly ~2 hours/day versus airlines' 12+ hours — cheap purchase price matters more than fuel efficiency at low utilization.
 - [INS-260412-31A6] First class generates $403/sq ft versus business class at $605/sq ft, which is why airlines are eliminating first class despite its higher ticket price.
 - [INS-260412-492D] A Learjet trip costing $11,600 requires a $1M earner solo but only a $111K earner per seat when full — a 9x improvement from utilization alone.
+- [INS-260625-FA05] The core bet is that the more product you build, the lower your COGS (model + hosting + humans-in-the-loop) and the higher your gross margin — so price on value (per-unit or outcome-based), never cost-plus or undercutting.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.

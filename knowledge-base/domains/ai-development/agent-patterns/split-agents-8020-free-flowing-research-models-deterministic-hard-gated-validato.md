@@ -70,9 +70,9 @@ related:
   - INS-260605-05F4
   - INS-260625-25BF
   - PRI-260411-ACEF
+  - INS-260625-AACE
   - INS-260403-CDB0
   - PRI-260406-F95C
-  - INS-260409-04C8
   - INS-260625-2DA2
 ---
 Qodo's answer to the orchestration paradox is an 80/20 hybrid. The 80% that is genuinely open—discovery, deciding which tool to use, planning—is handed to the strongest available reasoning model with freedom to explore. The 20% that converges the work—'if I get X results I want Y,' validation, summarization—is made 'more restricted, more hard gates,' explicitly deterministic so the free-flowing research can be reined in to a usable answer.

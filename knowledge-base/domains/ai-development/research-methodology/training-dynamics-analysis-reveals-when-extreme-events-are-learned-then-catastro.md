@@ -56,11 +56,12 @@ stance: >-
   model captured them.
 related:
   - INS-260330-BD3C
-  - INS-260404-8EFB
   - INS-260325-B50B
   - INS-260501-646A
+  - INS-260625-D790
   - INS-260404-CE26
   - INS-260505-5510
+  - INS-260404-8EFB
   - INS-260505-4EB7
   - INS-260605-9CE2
 ---

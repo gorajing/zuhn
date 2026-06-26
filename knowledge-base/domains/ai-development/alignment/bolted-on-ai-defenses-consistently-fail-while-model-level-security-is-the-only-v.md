@@ -58,6 +58,7 @@ stance: >-
 related:
   - INS-260329-D6AA
   - INS-260404-95D0
+  - INS-260625-D5A7
   - INS-260605-1C30
   - INS-260625-386B
   - INS-260625-D943
@@ -65,7 +66,6 @@ related:
   - INS-260410-AEF8
   - INS-260410-382D
   - INS-260410-1430
-  - INS-260412-4493
 ---
 HackAPrompt, with over 600,000 collected attack prompts, has demonstrated that every commonly deployed defense against prompt injection can be bypassed. Prompt separation (trying to isolate user input from system instructions), instruction-based guardrails ('do not respond to requests for harmful content'), and external classifiers all fail against techniques as simple as the 'grandma trick,' typo obfuscation, emotional manipulation, and encoded inputs.
 

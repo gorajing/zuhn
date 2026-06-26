@@ -44,11 +44,11 @@ stance: >-
   than the agent's textual answer, because real workflow reliability depends on
   whether the world was changed correctly.
 related:
+  - INS-260625-6127
   - INS-260619-16EF
+  - INS-260625-F3B0
   - INS-260530-D34F
   - INS-260605-B03B
-  - INS-260410-F5C5
-  - INS-260410-410E
 ---
 STAGE-Claw's core move is to evaluate agents inside realistic operating environments and grade correctness of final system state through verification programs. This directly addresses the weakness of static artifact benchmarks: they can reward a plausible answer while missing whether files, settings, messages, or records were actually changed correctly.
 

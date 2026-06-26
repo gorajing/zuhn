@@ -54,7 +54,7 @@ related:
   - INS-260413-C040
   - INS-260408-C572
   - INS-260321-3967
-  - PRI-260403-50EF
+  - INS-260625-D790
 ---
 Cross-panel observation: a climate scientist asked the panel about scale, noting that climate models with physics-informed priors are beating pure scaling. The panel confirmed this in their domains. Tolias: brain digital twins are 6M-parameter classical CNN models with strong inductive biases (convolution itself was inspired by visual cortex receptive fields 70 years ago) — they outperform larger general models on neural prediction. Hie agreed: highly curated training data plus appropriate architecture beats large noisy data. Suggests the 'bigger is always better' narrative is domain-specific to consumer NLP.
 

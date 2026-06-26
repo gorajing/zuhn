@@ -50,14 +50,14 @@ stance: >-
   the query itself.
 related:
   - INS-260325-7FAF
-  - INS-260327-4CB3
   - INS-260410-0FC1
   - INS-260410-761E
   - INS-260605-E303
-  - INS-260605-07E5
   - INS-260605-8109
   - INS-260605-3AAF
   - INS-260625-679B
+  - INS-260327-4CB3
   - PRI-260325-08FB
+  - INS-260405-F26B
 ---
 The single thing the presenter wants the audience to remember about the MCP toolbox is its ability to define custom tools via parameterized SQL: the developer writes the SQL with named parameters (e.g. find a hotel by `name`), and the agent never authors SQL — it just supplies the parameter. The stated payoff is determinism: 'in some cases that gives you a lot more determinism in your agentic actions.' This generalizes well beyond SQL. Every place an agent generates a freeform artifact (a query, an API call, a shell command) is a place it can hallucinate or drift; pre-committing the artifact and exposing only the variable slots collapses the failure surface to argument selection. The design heuristic is to move as much of each tool call as possible from 'the model decides the whole thing' to 'the model fills a typed blank,' reserving full generative latitude (an execute-arbitrary-SQL tool) for the genuinely open-ended cases where the determinism cost is worth it.

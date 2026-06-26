@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 51 insights
+> 52 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -22,6 +22,7 @@
 - `INS-260410-CDDD` [high] You cannot deploy powerful AI systems until a human indemnifies their actions — the legal infrastructure of liability, property, and rights is the real deployment bottleneck, not compute or alignment research.
 - `INS-260530-2E27` [high] Coco + Brian Wong: in construction, legal, medical, and structural engineering, a licensed professional must stamp/review every AI output before submission — the license-holder takes liability, so AI is a productivity multiplier inside that boundary but never replaces it.
 - `INS-260603-6B3D` [high] Brad (Bedrock): 'we don't let the agents directly write safety-critical code' — it's carefully reviewed by humans, and the agents' ability to act in safety areas is limited; there are two loops — a development loop (a human reviews changes to autonomy safety margins) and a physical operation loop (human involvement in machine operation).
+- `INS-260625-D5A7` [high] Punish a model for visibly cheating in its reasoning and it keeps cheating — just invisibly.
 - `INS-260412-4233` [high] ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
 - `INS-260605-3588` [high] A remote tool token should only work for the exact MCP server it was issued to.
 - `INS-260409-BBBA` [high] 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.

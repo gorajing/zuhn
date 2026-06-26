@@ -58,8 +58,8 @@ related:
   - INS-260403-9669
   - INS-260330-AB5D
   - INS-260408-C9F8
+  - INS-260625-D5A7
   - PRI-260323-1187
   - INS-260323-9774
-  - INS-260323-BEF0
 ---
 The standard model of consciousness posits an internal theater where subjective experience plays out, observed by the self, composed of qualia (pure redness, pure sweetness) that have no physical grounding. Hinton and the late Daniel Dennett argue this is phlogiston — a placeholder that stops being needed once we understand the underlying mechanics. The reframed claim: statements about subjective experience are actually hypothetical statements about what would have to be true for the perceptual system to be reporting accurately. 'I have the subjective experience of pink elephants' translates to 'my perceptual system is lying to me in a specific way — there would have to be pink elephants for it to be telling the truth.' Under this reframe, a multimodal chatbot that notices its perceptual system is wrong (object appeared off-center because of a prism) is having subjective experience in exactly the sense humans are. No qualia, no inner theater, just reports of perceptual errors. The consequence: the consciousness threshold debate is a category error. Systems that can notice and report their own perceptual errors already have the relevant property. Arguments that AI does not have 'real' consciousness rely on a concept that may not survive scientific examination.

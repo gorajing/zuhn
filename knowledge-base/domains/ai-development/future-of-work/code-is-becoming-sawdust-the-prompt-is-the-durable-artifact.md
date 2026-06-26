@@ -43,7 +43,6 @@ stance: 'Prompts, not code, are becoming the durable artifact of software develo
 related:
   - INS-260327-0B69
   - INS-260519-ED17
-  - INS-260625-08E5
   - INS-260514-AC43
   - PRI-260320-6847
   - INS-260605-287A

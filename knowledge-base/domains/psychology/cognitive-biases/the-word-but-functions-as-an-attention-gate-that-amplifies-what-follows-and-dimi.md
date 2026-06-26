@@ -46,10 +46,10 @@ stance: >-
   second clause more heavily regardless of content
 related:
   - INS-260321-3312
-  - INS-260327-1631
+  - INS-260625-D148
+  - INS-260625-A7C5
   - INS-260330-BCC7
   - INS-260423-FF52
-  - INS-260514-4424
 evidence:
   - id: INS-260320-5A6F
     type: TRANSFERS_TO

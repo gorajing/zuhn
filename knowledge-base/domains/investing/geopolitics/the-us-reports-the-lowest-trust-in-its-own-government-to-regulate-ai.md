@@ -55,7 +55,7 @@ related:
   - INS-260413-CDE2
   - INS-260413-EB7C
   - INS-260321-2241
+  - INS-260625-6C97
   - INS-260403-333C
-  - INS-260404-B208
 ---
 The AI Index 2026 Chapter 9 reports that the United States recorded the lowest trust in its own government to regulate AI responsibly of any country surveyed, at 31%. The global average was 54%. Southeast Asian countries led: Singapore 81%, Indonesia 76%. Globally, the EU is trusted more than the United States or China to regulate AI effectively — across 25 countries in Pew's 2025 survey, a median 53% trust the EU, compared to 37% for the United States and 27% for China. The structural implication is that US AI regulatory legitimacy cannot be assumed — neither domestically nor internationally. When combined with the finding that industry witnesses now dominate US congressional AI testimony (37% share, up from 13%) and that foundation model transparency regressed in 2025, the pattern is one of compounding illegitimacy: the institution tasked with regulating is the least trusted, the witnesses shaping its deliberation are the entities being regulated, and the technical inputs to that regulation are being withheld. This is not a stable governance equilibrium, and the states are already responding (California SB 53, Texas TRAIGA, Montana Right to Compute) by filling the vacuum.

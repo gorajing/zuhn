@@ -4,6 +4,7 @@
 - `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260320-508F` Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
 - `INS-260403-F9C7` Off-the-shelf AI models cannot serve users with dementia, dysphasia, or non-Western communication styles without fundamental architectural changes.
+- `INS-260625-3E47` SWE-RL adds related files that aren't changed by the PR so the model learns that relevance does not imply a required edit.
 - `INS-260605-8168` Manual 'vibe' inspection compounds two biases—your individual preference and the specific handful of prompts you tried—so it must be scaled across many people and samples.
 - `INS-260405-F7FA` All else being equal, bet against the explanation where you are the protagonist.
 - `INS-260405-AF1E` History's biggest paradigm shifts — heliocentrism, evolution, selfish gene — all share a single move: removing humans from the center of the story.

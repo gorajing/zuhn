@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 176 insights
+> 179 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -70,6 +70,7 @@
 - `INS-260321-52EF` [high] Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-539C` [high] Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
 - `INS-260505-3608` [high] Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
+- `INS-260625-C700` [high] Models that validate and refine answers by executing code mid-reasoning outperform ones confined to pure internal reasoning on hard problems.
 - `INS-260403-5F69` [high] Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260323-1BF7` [high] Unlike human children who build world models from minimal data, LLMs require the entire internet as a crutch because they mimic rather than understand.
 - `INS-260323-2C19` [high] A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
@@ -130,6 +131,7 @@
 - `INS-260322-59B9` [medium] The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
 - `INS-260410-439D` [medium] AI could be a super-collective-brain (billions of copies, perfect transmission, infinite bandwidth) but Henrich worries that the things driving real innovation — serendipity, improper copying, environmental shocks — get smoothed away by high-fidelity homogeneity.
 - `INS-260408-8F0A` [medium] AlphaGenome predicts whether single-letter genome mutations are harmful or benign in the 98% non-coding region CRISPR can target but doctors can't yet interpret.
+- `INS-260625-FC64` [medium] Built on the 2024 QwQ-32B, START consistently beats similarly-sized baselines and even outperforms o1-preview and o1-mini on most math and coding benchmarks — capability bought through tooling, not scale.
 - `INS-260327-9DB0` [medium] Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-1563` [medium] Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260322-B33E` [medium] AI reasoning capabilities plus robot learning are converging to create autonomous labs that accelerate scientific discovery across life sciences, chemistry, and materials.
@@ -149,6 +151,7 @@
 - `INS-260323-B029` [medium] When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
 - `INS-260410-4782` [medium] Pure video prediction is cursed by having to model too much — clouds, molecules, pedestrians, everything — while an embodied agent with a goal has a ruthless focusing mechanism that tells it what to pay attention to, making the same raw data far more learnable.
 - `INS-260409-5975` [medium] LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260625-8319` [medium] Because DeepSeek-V4 made long contexts cheap, the team could reduce the RL penalty for long generations and push test-time compute into a new 'Max mode' that delivered a clear capability jump.
 - `INS-260625-50A0` [medium] Once performance scales with how much a model thinks, the speed of inference becomes the ceiling on deliverable intelligence — not just a cost line.
 - `INS-260323-8519` [medium] The LLM paradigm applied to biological data — 'large molecule models' — could unlock nature's design intelligence across all five kingdoms of life.
 - `INS-260424-4111` [medium] Logan Kilpatrick (citing Jeff Dean): the frontier of autonomous agent runtime today is on the order of hours; in the next 12 months it's truly going to be on the order of days or weeks.

@@ -64,10 +64,8 @@ related:
   - INS-260320-9FD5
   - INS-260325-4FF3
   - INS-260405-6A94
-  - INS-260409-8408
   - INS-260410-C022
   - INS-260605-4AF8
-  - INS-260605-5013
   - INS-260325-BEAC
 ---
 Agentic workflows are token-hungry: programming and other agentic tasks sit among the highest token-generation categories (input plus output combined) because the agent loops, reasons, and calls tools repeatedly. Under per-token API billing, that volume scales cost linearly and without ceiling — exactly the regime where renting stops being cheap.

@@ -55,7 +55,6 @@ related:
   - INS-260625-2439
   - INS-260329-E280
   - INS-260329-0432
-  - INS-260411-D060
 evidence:
   - id: INS-260330-CE2F
     type: SUPPORTS

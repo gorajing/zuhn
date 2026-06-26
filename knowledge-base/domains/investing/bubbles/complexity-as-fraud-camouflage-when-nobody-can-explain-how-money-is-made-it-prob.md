@@ -53,8 +53,8 @@ related:
   - INS-260410-001F
   - INS-260412-B47E
   - PRI-260324-A608
+  - INS-260625-D5A7
   - INS-260405-C22F
   - INS-260403-DE45
-  - INS-260403-CA57
 ---
 Enron's business was described as 'too complex for the average person to understand,' and this complexity was treated as a sign of genius rather than a red flag. When Fortune reporter Bethany McLean asked the simple question 'how does Enron make money,' CEO Skilling couldn't answer and deflected to finance staff — who spent three hours failing to explain it clearly. The pattern repeats across major frauds: complexity becomes a shield against scrutiny. Analysts took Skilling at his word because the charisma and complexity made questioning feel unsophisticated. The actionable heuristic is Warren Buffett's circle of competence inverted: if the company's own executives can't explain their revenue model simply, treat that as the strongest possible sell signal.

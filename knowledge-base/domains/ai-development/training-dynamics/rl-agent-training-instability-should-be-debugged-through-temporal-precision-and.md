@@ -52,7 +52,7 @@ related:
   - INS-260410-B3C4
   - INS-260329-D2CA
   - INS-260329-6936
-  - INS-260423-6172
+  - INS-260625-8BC8
 ---
 The slide taxonomy makes the earlier systems point more diagnosable. The desired RL objective assumes rollouts come from the same policy being updated, but practical systems often sample through an inference engine whose behavior differs from the trainer. The slides separate three causes: temporal mismatch from asynchronous or stale weights, precision mismatch from FP8/BF16 or quantized inference, and kernel mismatch from different numerical kernels.
 

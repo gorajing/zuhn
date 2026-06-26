@@ -45,7 +45,6 @@ related:
   - PRI-260406-1AC6
   - INS-260605-8F5E
   - INS-260329-CB03
-  - INS-260410-1B17
   - INS-260605-F512
 stance: >-
   Instead of 'write me X', ask 'what makes X work well?' then 'what principles

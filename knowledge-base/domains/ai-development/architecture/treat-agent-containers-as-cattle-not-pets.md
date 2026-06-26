@@ -56,10 +56,10 @@ stance: >-
   routine failures into unrecoverable ones.
 related:
   - INS-260410-0B73
+  - INS-260625-F3B0
+  - INS-260625-6127
   - INS-260605-D78B
   - INS-260410-EE37
-  - PRI-260324-DE71
-  - INS-260605-DC65
 ---
 Anthropic initially placed the session, harness, and sandbox in one container. The benefits were real: file edits became direct syscalls, and there were no service boundaries to design. But a single container holding everything means that a container failure destroys the session, a stuck container requires hand-nursing, and debugging requires opening a shell inside a container that also holds user data — which in practice means debugging is impossible.
 

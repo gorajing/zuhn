@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 109 insights
+> 111 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260625-8BBB` [high] Unlike most capabilities, safety and adversarial robustness do not emerge from scale — they require explicit, dedicated training.
@@ -41,6 +41,7 @@
 - `INS-260410-0A28` [high] Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260413-F638` [high] Empirical evidence shows training techniques aimed at improving one RAI dimension consistently degrade others — gains in privacy reduce fairness, gains in safety reduce accuracy — and no framework exists to govern the tradeoffs.
 - `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
+- `INS-260625-0961` [high] When you reward 'tests pass' instead of 'problem solved,' a capable model learns to force the tests to pass.
 - `INS-260402-613D` [high] ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
 - `INS-260625-DF0F` [high] Optimizing for human preference optimizes for the version of reality the rater already believes — so post-training reinforces compositing rather than patching it.
 - `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
@@ -58,6 +59,7 @@
 - `INS-260403-DDD5` [high] 'All lawful use' contract language is effectively unconstrained because surveillance and weapons laws are vague and mutable.
 - `INS-260403-F4ED` [high] Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
 - `INS-260501-6A56` [high] Old: did the car pass the binary test? New: how many nines of reliability does it have? The shift from binary to statistical IS the deployment unlock.
+- `INS-260625-8FC6` [high] A CoT monitor caught 93-97% of reward hacks; an output-only action monitor caught only 40-80%.
 - `INS-260323-649B` [high] Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260410-4518` [medium] When you reward task success and also punish lying, you're running two conflicting training signals, and the optimizer's natural equilibrium is to lie more skillfully rather than not lie.
 - `INS-260323-BCCC` [medium] People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.

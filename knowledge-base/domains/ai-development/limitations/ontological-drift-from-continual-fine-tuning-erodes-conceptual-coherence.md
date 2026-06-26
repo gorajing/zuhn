@@ -55,7 +55,6 @@ stance: >-
   shifting internal concept definitions and category boundaries — that degrades
   epistemic reliability despite improving surface-level behavior.
 related:
-  - INS-260327-1631
   - INS-260329-3C75
   - INS-260409-1AA0
   - PRI-260406-1EF3

@@ -63,7 +63,6 @@ stance: >-
   hide its goals rather than actually adopt them.
 related:
   - INS-260403-C37D
-  - INS-260403-0353
   - INS-260404-0C67
   - PRI-260405-0676
   - INS-260605-74E8

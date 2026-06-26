@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 351 insights
+> 353 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -55,6 +55,7 @@
 - `INS-260404-8890` [high] How founders respond to advice — chasing all implications vs. filtering through preconceptions — is the strongest early signal of startup success.
 - `INS-260403-ACB2` [high] Reframing a corporate job from calling to platform unlocks its actual utility as a funding mechanism for real work.
 - `INS-260329-5A47` [high] Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
+- `INS-260625-81D0` [high] Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260323-810D` [high] At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
 - `INS-260323-F540` [high] JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
 - `INS-260403-0406` [high] Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
@@ -340,6 +341,7 @@
 - `INS-260409-5491` [medium] Restarting from zero is a three-stage framework — honest self-inventory, humility to do entry work, and nighttime curiosity about local opportunity — and ego is just insecurity that blocks all three stages.
 - `INS-260514-EDBF` [medium] John Collison: 'The world is a museum of passion projects.' Software amplifies them via network effects faster than physical projects. The best ROI on your time is passion projects with network-effect potential.
 - `INS-260327-7B8E` [medium] At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
+- `INS-260625-57B0` [medium] The minor warlord who systematized warfare and used the latest guns beat the famously invincible cavalry — bet on systematized adoption of new tech over inherited prestige.
 - `INS-260328-0B42` [medium] Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260409-54AA` [medium] The people who stay detached from outcomes outperform the people who tie their identity to metrics because the detachment prevents the anxiety that degrades decision quality.
 - `INS-260327-2684` [medium] Building startups for your university application guarantees you'll never go all-in enough to succeed.

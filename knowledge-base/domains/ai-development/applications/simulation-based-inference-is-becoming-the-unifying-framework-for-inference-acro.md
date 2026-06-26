@@ -58,9 +58,9 @@ related:
   - INS-260330-3879
   - INS-260330-189F
   - INS-260404-DDC8
-  - INS-260501-AF40
   - INS-260501-5F37
   - INS-260505-82B8
+  - INS-260405-567D
 ---
 Cranmer's framing: scientific simulators (particle physics simulations like Pythia/Geant4, cosmological simulations, materials simulations) generate data given parameters but their likelihood functions are intractable. Traditional statistical inference can't handle this. Simulation-based inference uses neural networks to approximate the likelihood or posterior, enabling principled statistical inference. Same approach now applied across particle physics, cosmology, materials science, computational neuroscience, economics. 'I believe the forefront of scientific knowledge is now largely encapsulated in scientific simulators.'
 

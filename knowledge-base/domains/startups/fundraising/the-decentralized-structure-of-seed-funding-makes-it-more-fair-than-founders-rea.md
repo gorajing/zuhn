@@ -57,7 +57,6 @@ related:
   - INS-260321-3521
   - PRI-260405-E9C5
   - INS-260403-B2EB
-  - INS-260405-E05D
 evidence:
   - id: INS-260330-E414
     type: CONTRADICTS

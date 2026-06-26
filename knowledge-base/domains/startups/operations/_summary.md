@@ -1,6 +1,6 @@
 # Topic: operations
 
-> 30 insights
+> 31 insights
 
 - `INS-260514-9DCE` [high] Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever.
 - `INS-260412-2754` [high] The US government's COGCON system splits every agency into three independent teams (A, B, C) at separate sites, each ready to assume full operations if the team above it falls.
@@ -26,6 +26,7 @@
 - `INS-260412-1DBF` [high] Leeson was both head of Singapore trading operations AND in charge of Singapore accounting, making his fraud invisible to standard oversight.
 - `INS-260410-D2D1` [high] Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260412-F4DA` [high] Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
+- `INS-260625-C735` [high] Treat throughput, cycle time, and variance as product metrics — customers fire you for non-uniform output faster than for being a bit slower or pricier than incumbents.
 - `INS-260412-B6D3` [medium] Airlines submit preferred routes nightly to Gander ATC, which synthesizes them into the day's North Atlantic Tracks — bottom-up input with centralized coordination.
 - `INS-260412-EB2D` [medium] The Navy's Blue/Gold crew model — two fully staffed crews alternating 77-day patrols with 25-day turnovers — solves the continuous operations problem by treating the team as the replaceable unit, not individual people.
 - `INS-260405-54A9` [medium] Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.

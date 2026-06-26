@@ -1,7 +1,9 @@
 # Tag: ai-products
 
 - `INS-260325-060A` Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
+- `INS-260625-C3B0` Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
 - `INS-260327-42F0` Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
+- `INS-260625-CF91` Architect the product so model progress is a tailwind you absorb, not a rebuild you fund.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260404-F38A` The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.

@@ -55,8 +55,8 @@ related:
   - INS-260409-156A
   - INS-260501-01A5
   - INS-260605-1A50
+  - INS-260625-1E07
   - INS-260403-7D7A
-  - INS-260605-8489
 ---
 Because agents are reluctant and expensive to send to the web, Supabase is experimenting with exposing their documentation through SSH so agents can browse docs as if they were a local filesystem, using the bash/Linux navigation tools they already know well. The premise is that meeting the agent where its competence already lies — file navigation — yields more reliable retrieval than naive web fetching, which agents skip in favor of stale training data.
 

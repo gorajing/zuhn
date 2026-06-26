@@ -1,6 +1,6 @@
 # Topic: prompting
 
-> 20 insights
+> 21 insights
 
 - `INS-260605-705B` [high] Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260410-AB4A` [high] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
@@ -19,6 +19,7 @@
 - `INS-260514-9D51` [high] Upload an edited version of the AI's output ('here's how page 2 should look — fix the prompt') instead of describing changes in text. Visual feedback compresses hundreds of design decisions into one image.
 - `INS-260625-BD36` [medium] Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
 - `INS-260605-C048` [medium] Put reusable intelligence into tools, middleware, and memory before polishing prompts.
+- `INS-260625-26FE` [medium] Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely.
 - `INS-260605-5B0A` [medium] Empirically, starting a skill's description with the verb 'use' increases the chance the agent recognizes and loads it; the same 'use [skill name]' keyword in a user prompt loads it almost 100% of the time, and a slash command guarantees it.
 - `INS-260410-5D71` [medium] Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
 - `INS-260605-F512` [medium] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.

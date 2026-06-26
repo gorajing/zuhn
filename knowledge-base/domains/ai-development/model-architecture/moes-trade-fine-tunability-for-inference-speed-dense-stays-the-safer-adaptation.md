@@ -60,8 +60,8 @@ related:
   - INS-260410-5088
   - PRI-260406-6F52
   - INS-260330-8F91
+  - INS-260625-C735
   - INS-260403-C4EE
-  - INS-260624-6B2C
 ---
 Google ships two similarly-sized large Gemma models — one dense (~31B, the 'raw intelligence' option that quantizes to fit a consumer GPU) and one MOE (~27B with ~4B activated, optimized for fast inference). The choice between them is not purely about serving cost: MOEs are notably harder to fine-tune. The standard recipes and hyperparameters that work on dense models frequently don't transfer, and instruction-following fine-tunes struggle.
 

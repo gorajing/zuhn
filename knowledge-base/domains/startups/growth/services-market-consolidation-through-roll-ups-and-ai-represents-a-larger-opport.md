@@ -59,6 +59,7 @@ related:
   - INS-260403-2D9B
   - INS-260404-A53F
   - INS-260403-27AC
+  - INS-260625-1F93
 ---
 General Catalyst's thesis that roll-ups could be bigger than SaaS challenges the prevailing startup orthodoxy of building software products. The argument centers on a $6T+ services market (legal, IT, customer service, property management) that is fragmented, inefficient, and now vulnerable to consolidation through a combination of acquisitions and applied AI.
 

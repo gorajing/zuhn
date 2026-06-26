@@ -45,11 +45,11 @@ stance: >-
   anti-pattern that destroys their value — models must be used before and during
   the decision process to be effective.
 related:
+  - INS-260625-26FE
   - INS-260605-44E2
   - INS-260625-E9A9
   - INS-260330-DF2C
   - INS-260410-095B
-  - INS-260625-3768
   - INS-260403-8ECB
   - INS-260405-B361
   - INS-260410-4067
