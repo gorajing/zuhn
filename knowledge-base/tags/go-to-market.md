@@ -33,6 +33,8 @@
 - `INS-260403-5426` Each GTM stage has its own valid acquisition playbook; using tactics from the wrong stage burns resources and generates false signals.
 - `INS-260325-175B` Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
+- `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
+- `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
 - `INS-260403-345C` Category creators should anchor pricing high, learn through real sales motions, and evolve from evangelical hunters to scaled execution as the market matures.
 - `INS-260403-56FC` Rising tariffs and buy-local sentiment in Europe are making global expansion strategies untenable, pushing startups toward regional-first approaches.
 - `INS-260625-63D7` Focusing on enterprise from the start gives depth, focus, and consistency and reveals problems that only appear at scale, but a pure-enterprise customer base cuts you off from learning at the frontier, so you need both.
@@ -41,8 +43,6 @@
 - `INS-260404-77CD` Stealth startups face asymmetric timing risk where the exit window is narrower than traditional launches because they lack the ongoing market signal correction that public startups receive.
 - `INS-260403-5EB4` In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - `INS-260403-0303` US buyers expect top-down pitches, speed, ROI proof, and American reference customers—none of which transfer from European consensus-driven sales cycles.
-- `INS-260403-AF3B` In a market where capital concentrates in fewer deals, founders who demonstrate distribution and audience ownership before fundraising gain disproportionate investor attention.
-- `INS-260404-433E` Successful 2012 IPOs invested years in product refinement and customer validation before going public.
 - `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.
 - `INS-260625-088A` Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
 - `INS-260405-867E` There is no single path to PMF — lessons from 20 founders reveal irreducible diversity in how it is found.
@@ -61,11 +61,11 @@
 
 - `INS-260327-538E` Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
-- `INS-260603-2FB1` Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
-- `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
-- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
 - `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
 - `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
 - `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
 - `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
+- `INS-260603-2FB1` Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
+- `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
+- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.

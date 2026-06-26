@@ -90,7 +90,6 @@
 - `INS-260423-EFC0` Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260410-1384` Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.
 - `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
-- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
 - `INS-260403-1C28` Structure teams as autonomous 2-6 person pods that each own their own goals, roadmap, deployment, and quality control.
@@ -118,3 +117,4 @@
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260403-2ED2` Democratic governance kills venture firm scaling because partners vote to preserve their own power during reorganizations.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
+- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.

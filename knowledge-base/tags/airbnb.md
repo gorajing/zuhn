@@ -7,9 +7,9 @@
 - `INS-260403-D49B` Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
 - `INS-260402-1436` Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
 - `INS-260403-1B8A` The Airbnb founders persisted through a year of no growth and maxed-out credit cards because they had personally experienced the magic of hosting — they'd 'seen a glimpse of the future.'
-- `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
+- `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
 - `INS-260403-BC3B` Airbnb moved from air beds to spare rooms to professional rentals to hotels along a predictable continuum.
 - `INS-260403-74AC` Airbnb's social travel feature failed because 'travelers want to hang out with other travelers' was a solution masquerading as a problem statement.
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.

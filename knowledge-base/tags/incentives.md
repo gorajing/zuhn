@@ -13,11 +13,11 @@
 - `INS-260410-CBCC` Equal partnerships only work with ruthless self-selection into people who bring equal value; the structure is a filter, not a fairness doctrine.
 - `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
+- `INS-260410-7FA4` Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260330-3260` Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
 - `INS-260330-77D1` Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
 - `INS-260403-7E8E` The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
-- `INS-260410-7FA4` Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260403-70F0` Baby bonuses work directionally but the effect size is so small that reaching replacement fertility through payments alone would cost astronomically more than any government would spend.
 - `INS-260409-AD0C` Galef distinguishes three decision categories: (1) concrete everyday choices where scout thinking comes naturally (what to eat), (2) ideological issues where incentives push toward self-deception (politics, religion), (3) important personal decisions with competing scout/soldier incentives (career, marriage, parenting) — each requires a different calibration of vigilance.
 - `INS-260405-E05D` The right to pitch future articles and sidebar placement may be worth more to a writer than the $2,500 first prize.
@@ -34,13 +34,13 @@
 - `INS-260410-4C9D` Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
-- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260410-282E` Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
+- `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260412-F4DA` Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
 - `INS-260410-5CB4` Novo Nordisk's 77% foundation voting control is not tax engineering — it is the structural reason the company survived and produced GLP-1s.
 - `INS-260410-899C` Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
-- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260519-78E6` Josh Epstein (Coder): you always close the first deal; the second proves value landed — if you're not staffing and writing docs for expansion before the first closes, you're not planning to win.
+- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.

@@ -11,6 +11,6 @@
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260626-CAC8` Avoid only fatal or irreversible risk ('don't die, don't go to jail'); everything else is recoverable, and the real danger is being too cautious to do anything worth noticing.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
-- `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
 - `INS-260412-8BDB` Every second, 60,000 stars pass humanity's cosmological horizon permanently — delay in expansion means permanently smaller maximum reach.
 - `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
+- `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.

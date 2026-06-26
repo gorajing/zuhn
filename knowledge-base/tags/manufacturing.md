@@ -23,11 +23,11 @@
 - `INS-260405-32D8` Both Micron's $100B NY megafab and xAI's Mississippi data center received state tax exemptions, confirming that government incentives are structural prerequisites for domestic semiconductor and compute investment.
 - `INS-260403-E9E0` US manufacturing shed workers for 8 consecutive months post-Liberation Day because tariffs taxed the imported inputs that most factories depend on.
 - `INS-260403-2B95` The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
+- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.
 - `INS-260412-4CC8` TSMC holds 61.7% foundry market share vs Samsung's 11% because higher yields attract premium clients, whose revenue funds further R&D — a flywheel that accelerates the gap.
 - `INS-260403-44D9` EV technology shares components with drones, robots, and electronics, so low EV adoption limits scale for the entire manufacturing ecosystem.
-- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
 - `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.

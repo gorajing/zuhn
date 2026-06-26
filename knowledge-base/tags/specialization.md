@@ -41,8 +41,8 @@
 - `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260410-91C0` Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
 - `INS-260403-0196` Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
+- `INS-260412-5684` Reliable surplus enabled specialization, and specialization — not resources alone — drove civilization's exponential progress.
+- `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260412-A38B` Phages kill bacteria by being absurdly specialized against one species, while antibiotics carpet-bomb everything — specialization wins when precision matters.
 - `INS-260412-A4DB` Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
-- `INS-260412-5684` Reliable surplus enabled specialization, and specialization — not resources alone — drove civilization's exponential progress.
-- `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.

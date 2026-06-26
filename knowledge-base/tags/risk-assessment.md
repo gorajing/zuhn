@@ -11,9 +11,9 @@
 - `INS-260412-F681` International condemnation of Bukele's methods reflects a disconnect between observers who've never lived under daily threat of gang murder and citizens who have, producing systematically different risk calculations.
 - `INS-260403-0BD4` A change in exit multiple from optimistic to realistic can flip a deal from fund-maker to pass.
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
+- `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
 - `INS-260412-DDEF` Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
 - `INS-260330-4B4F` Medical experts place PFAS in the lowest tier of a risk reduction hierarchy — below smoking cessation, exercise, diet, sleep, regular checkups, and cholesterol management.
-- `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260412-A944` When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.

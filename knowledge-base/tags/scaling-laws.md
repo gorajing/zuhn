@@ -34,5 +34,5 @@
 - `INS-260505-483B` Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260626-8E45` Liquid pre-trained a 350M model on 28 trillion tokens — orders of magnitude past Chinchilla compute-optimal — and performance was still climbing, suggesting under-trained rather than over-trained.
-- `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260412-C3E6` Just as gravity is irrelevant to ants but lethal to elephants, the forces that threaten organizations undergo categorical shifts at different scales.
+- `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.

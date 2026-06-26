@@ -5,8 +5,8 @@
 - `INS-260625-464B` Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
 - `INS-260605-ACB3` Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
 - `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
-- `INS-260626-4005` A spoken prompt produced a working bookshelf-cataloging app — image upload, search-grounded enrichment, Google login, persistent database, one-click Cloud Run deploy — that Bailey notes 'would have been a startup 3-4 years ago.'
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
+- `INS-260626-4005` A spoken prompt produced a working bookshelf-cataloging app — image upload, search-grounded enrichment, Google login, persistent database, one-click Cloud Run deploy — that Bailey notes 'would have been a startup 3-4 years ago.'
 - `INS-260404-6DAD` The Assistant API lets builders deploy AI assistants anywhere, breaking free from OpenAI's walled garden while preserving the same training and capabilities.
 - `INS-260410-BD9D` AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
 - `INS-260410-38C9` No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.

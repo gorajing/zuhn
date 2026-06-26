@@ -1,7 +1,7 @@
 # Tag: mortality
 
-- `INS-260412-C106` Large-scale studies show chronic loneliness is twice as deadly as obesity and accelerates cancer, Alzheimer's, immune decline, and aging.
 - `INS-260330-09B5` Death is always caused by the body's inability to maintain stable internal conditions, not by the injury or disease label itself.
+- `INS-260412-C106` Large-scale studies show chronic loneliness is twice as deadly as obesity and accelerates cancer, Alzheimer's, immune decline, and aging.
 - `INS-260327-10E8` When healthcare is tied to employment, every layoff and career transition creates a gap in medical coverage that directly increases mortality risk.
 - `INS-260327-1F6A` Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
 - `INS-260409-D5FF` If loss of self correlates with loss of fear of death, that's a clue the fear is downstream of the self-structure, not bolted on top of a neutral awareness.

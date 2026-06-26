@@ -52,8 +52,6 @@
 - `INS-260405-0A6D` Portfolio innovation strategy only works if you actually exit the failures fast—without a kill discipline, you accumulate zombie projects that consume resources and produce nothing.
 - `INS-260626-B77F` Ship a price point as a testable hypothesis instead of agonizing toward a 'right' price, then iterate via churn interviews and A/B tests — knowing your billing infra determines whether each change takes a day or three months.
 - `INS-260514-D155` Restructure GTM as a product team — salespeople are PMs surfacing customer signal, GTM engineers are engineers building frameworks to act on it, and the whole team runs cross-team experiments instead of solo tradecraft.
-- `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
-- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.
 - `INS-260405-A6BA` Test your riskiest business assumptions before writing a single line of code.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
@@ -62,3 +60,5 @@
 - `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - `INS-260405-B673` A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
+- `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
+- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.

@@ -16,10 +16,10 @@
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260323-DD40` Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
+- `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260323-5106` Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260323-5A96` Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
-- `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
@@ -53,6 +53,8 @@
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
 - `INS-260323-F5EF` The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
+- `INS-260323-9A93` Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
+- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
 - `INS-260323-A075` Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
@@ -70,5 +72,3 @@
 - `INS-260323-1B87` Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
 - `INS-260323-F9E5` The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
 - `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.
-- `INS-260323-9A93` Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
-- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.

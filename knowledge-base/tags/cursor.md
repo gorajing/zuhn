@@ -1,7 +1,7 @@
 # Tag: cursor
 
-- `INS-260501-DAD0` Cursor's $3B ARR but bad margins is the structural picture of every vertical AI app without its own model — a sale to a model owner is the inevitable destination.
 - `INS-260403-4819` Cursor and Replit have crossed $500M+ ARR in under four years, setting a new speed record for developer tool commercialization.
+- `INS-260501-DAD0` Cursor's $3B ARR but bad margins is the structural picture of every vertical AI app without its own model — a sale to a model owner is the inevitable destination.
 - `INS-260329-9115` Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.

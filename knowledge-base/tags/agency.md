@@ -5,10 +5,10 @@
 - `INS-260626-613C` If you can't write your own prompts and hold your own data and integrations, you sit below the API line of a PM who doesn't understand your needs — like a Facebook feed whose algorithm you don't control.
 - `INS-260403-AB55` The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
 - `INS-260626-ACD0` For local, file-based tools, you can unlock far more agent capability by giving users sharp tools and owning the risk rather than sandboxing the agent.
-- `INS-260404-C209` Most life outcomes result from accumulated defaults rather than explicit decisions, which has profound implications for how to design intentional lives.
 - `INS-260325-BE19` Even in a deterministic universe, modeling yourself and others as choice-making agents is the right approach because no one can be Laplace's demon.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260405-8584` You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
+- `INS-260404-C209` Most life outcomes result from accumulated defaults rather than explicit decisions, which has profound implications for how to design intentional lives.
 - `INS-260403-0769` The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260514-316F` When my agent sends the prompt I approve, I feel less like the owner of my startup. More like an employee. The psychological shift is real.

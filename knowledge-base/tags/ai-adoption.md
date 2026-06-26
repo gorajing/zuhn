@@ -51,5 +51,5 @@
 - `INS-260403-4A42` Top-performing 2025 revenue teams achieved ~77% higher revenue per rep through deep AI integration and workflow redesign rather than headcount expansion.
 - `INS-260626-3DE4` The AI Consult trial supports a narrower commercialization claim: safe workflow support with documentation and cost signals, not proven patient-outcome transformation.
 - `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
-- `INS-260619-8660` The frontier is moving fast enough that credible AI investing requires personal tool use, not just portfolio updates.
 - `INS-260327-968C` Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
+- `INS-260619-8660` The frontier is moving fast enough that credible AI investing requires personal tool use, not just portfolio updates.

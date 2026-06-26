@@ -37,5 +37,5 @@
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
-- `INS-260405-95AE` RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
 - `INS-260625-1651` Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
+- `INS-260405-95AE` RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.

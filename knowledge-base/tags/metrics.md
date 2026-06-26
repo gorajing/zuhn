@@ -16,13 +16,13 @@
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
 - `INS-260605-EC51` An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
 - `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.
-- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260423-9BA5` Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
 - `INS-260625-3AF0` Hanoi paid citizens per rat tail to cut the rat population; people farmed rats for their tails and the problem got worse.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260330-A9DD` Frequency, orgasm rate, and duration are proxy metrics that often diverge from actual sexual satisfaction — pleasure itself is the only valid measure of sexual wellbeing.
 - `INS-260330-FA1C` The only question that matters for sexual well-being is 'do you like the sex you're having?' — all other metrics are noise.
+- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260325-93A9` 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
@@ -50,19 +50,19 @@
 - `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
-- `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
 - `INS-260423-FB36` Dalton: if you find yourself looking at the graphs that other people don't want to look at, that's how you win the slop war.
+- `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260329-2B60` Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
 - `INS-260329-E96A` If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
+- `INS-260412-DF7B` Civilizational and organizational scale correlate most reliably with total energy/resource throughput.
+- `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
+- `INS-260403-D8DB` Burn multiple (spend per ARR dollar), efficiency score (ARR per burn dollar), and hype factor (capital raised vs ARR) together reveal whether growth is real.
 - `INS-260412-93EA` Rwanda's strategy of explicitly targeting World Bank indicators and global rankings mirrors Goodhart's Law in business — when a measure becomes a target, it ceases to be a good measure.
 - `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
 - `INS-260403-6807` Match your metrics infrastructure to your actual stage—tracking five core dimensions in a spreadsheet beats a premature Looker deployment.
 - `INS-260403-2824` Ensure your call-to-action directly measures what your hypothesis actually claims.
 - `INS-260405-C8B2` Urgency and full-price payment are the only PMF signals that actually predict survival.
 - `INS-260412-E925` St Helena airport's most compelling proof of value wasn't tourism numbers but emergency medevac flights that saved lives — including a premature baby who would have died waiting for the monthly ship.
-- `INS-260412-DF7B` Civilizational and organizational scale correlate most reliably with total energy/resource throughput.
-- `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
-- `INS-260403-D8DB` Burn multiple (spend per ARR dollar), efficiency score (ARR per burn dollar), and hype factor (capital raised vs ARR) together reveal whether growth is real.

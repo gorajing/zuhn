@@ -180,10 +180,10 @@ Generated on 2026-06-26 | 3096 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents? | paste | 8 | 2026-06-26 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents? | paste | 8 | 2026-06-26 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
@@ -2614,8 +2614,8 @@ Generated on 2026-06-26 | 3096 sources
 | You’d Be Surprised How Bad of a Person You Are - Thought Experiments That Change the Way You Think | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How People Perceive You | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How Smart (Or Dumb) You Are | The Dunning-Kruger Effect | youtube | 2 | 2026-03-26 |
-| Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
 | The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
+| Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
 | Agentic Resource Discovery: Let agents search | blog | 1 | 2026-06-26 |
 | GitHub Copilot app support for BYOK | blog | 1 | 2026-06-26 |
 | Improvements to Cursor Automations · Cursor | blog | 1 | 2026-06-26 |

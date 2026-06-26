@@ -38,8 +38,8 @@
 - `INS-260619-F1E3` Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
 - `INS-260519-304D` Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
 - `INS-260626-DCB8` Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes.
-- `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260327-1D23` Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
+- `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
 - `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
@@ -67,8 +67,8 @@
 - `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
 - `INS-260412-A77B` The shipping crisis wasn't a single vicious cycle but a web of mutually reinforcing failures across trucks, terminals, ships, empty containers, and demand — each amplifying the others simultaneously.
 - `INS-260412-DB5A` Supermassive stars blow away their own fuel through radiation pressure, capping formation at ~150 solar masses despite available gas.
-- `INS-260330-27CA` The Millennium Bridge wobble was caused by a positive feedback loop where the bridge's lateral sway synchronized pedestrians' gaits, which amplified the sway further.
 - `INS-260412-121B` Neutron stars spin many times per second because collapsing from star-size to city-size concentrates all rotational energy into a tiny radius.
+- `INS-260330-27CA` The Millennium Bridge wobble was caused by a positive feedback loop where the bridge's lateral sway synchronized pedestrians' gaits, which amplified the sway further.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
@@ -88,11 +88,11 @@
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
-- `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260326-C692` Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
 - `INS-260330-26E7` Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
 - `INS-260325-75EA` A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
+- `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
 - `INS-260619-1512` The build loop is incomplete without an observe-verify-optimize loop that watches what happens after AI-generated changes reach users.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260330-C391` YC finds that founders who hook PagerDuty to customer support tickets and respond within an hour at 3am correlate with startup success more than almost any other behavior.

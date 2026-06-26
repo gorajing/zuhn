@@ -31,22 +31,22 @@
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
 - `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260410-0120` Charlie Munger told Senra he made $400M from reading Barron's for 50 years based on a single idea he acted on — the math of extracting one actionable insight from curated deep work is why biography-reading is absurdly positive-EV.
 
-- `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
-- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
-- `INS-260412-6F6A` Diplomatic immunity forces host countries to use blunt instruments like expulsion rather than precise enforcement, creating costly asymmetric dynamics.
+- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
 - `INS-260412-F06F` The Penrose process trades expendable mass for vastly more valuable rotational energy — a pattern that generalizes to any asymmetric exchange.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
 - `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
+- `INS-260403-5681` SEIU weaponized ballot initiatives as destruction threats to extract concessions worth 16x their investment.
+- `INS-260412-6F6A` Diplomatic immunity forces host countries to use blunt instruments like expulsion rather than precise enforcement, creating costly asymmetric dynamics.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260325-B206` When two operations turn out to be inverses (like integration and differentiation), knowing how to do one gives you the other for free.
 - `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
-- `INS-260409-D491` BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
+- `INS-260409-D491` BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
 - `INS-260625-45F6` An internal AI ops agent let Answer This hit $2M ARR with two full-time founders by absorbing email, support, CRM, and feedback work.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
@@ -95,6 +95,18 @@
 - `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260412-492D` A Learjet trip costing $11,600 requires a $1M earner solo but only a $111K earner per seat when full — a 9x improvement from utilization alone.
+- `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
+- `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
+- `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
+- `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
+- `INS-260329-96EC` Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
+- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
+- `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
+- `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
+- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
+- `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
+- `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
@@ -111,15 +123,3 @@
 - `INS-260412-E197` Trying to move the moon with a nuke is like trying to move a truck by blowing on it — scale mismatch renders even massive effort negligible.
 - `INS-260402-8F1E` Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
-- `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
-- `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
-- `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
-- `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
-- `INS-260329-96EC` Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
-- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
-- `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
-- `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
-- `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
-- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
-- `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
-- `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.

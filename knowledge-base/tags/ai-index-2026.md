@@ -46,7 +46,7 @@
 - `INS-260413-09C4` DeepSeek-R1 briefly matched the top US model in Feb 2025 and as of March 2026 Anthropic leads by just 2.7% — US AI supremacy is a contested measurement, not a structural condition.
 - `INS-260413-DAEA` Only 31% of Americans trust their own government to regulate AI — the lowest of any country surveyed and far below the global average of 54%, Singapore's 81%, and Indonesia's 76%.
 - `INS-260413-255E` US federal AI spending 2013-2024: $20.4B in contracts and grants. US private AI investment 2025 alone: $285.9B. The ratio is roughly 14:1 — in a single year — and the gap is compounding.
-- `INS-260413-AC10` 2025 global AI private investment hit $344.7B (+127.5%), generative AI alone $170.9B (+200%+), newly funded companies 3,499 (+70.8%), and 28 billion-dollar events vs 15 in 2024.
 - `INS-260413-C64F` Across 68 LEAP forecast questions, AI experts predicted faster progress than the public 71% of the time and were on average 16% more likely to predict faster outcomes on any given milestone.
 - `INS-260413-3C99` People are AI-optimistic for themselves and AI-pessimistic for everyone else — 56% globally say AI saves them time, 40% say AI will make their job better, yet 64% of US adults expect AI to produce fewer jobs overall.
+- `INS-260413-AC10` 2025 global AI private investment hit $344.7B (+127.5%), generative AI alone $170.9B (+200%+), newly funded companies 3,499 (+70.8%), and 28 billion-dollar events vs 15 in 2024.
 - `INS-260413-F591` India registered the sharpest rise in AI nervousness of any country surveyed (+14 percentage points 2024-2025) with only a modest increase in excitement (+2) — anxiety and optimism decoupled in the country most central to global AI talent.

@@ -8,14 +8,14 @@
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
-- `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 - `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
-- `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
+- `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 - `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260412-4AC2` We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
 - `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
 - `INS-260411-7F4F` Aleatoric uncertainty (irreducible noise), epistemic uncertainty (knowledge gaps), and ontological uncertainty (ambiguous concepts) each demand different mitigation strategies.
+- `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260412-6D71` Unverifiable intentions plus existential stakes collapse decision-making to worst-case assumptions.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.

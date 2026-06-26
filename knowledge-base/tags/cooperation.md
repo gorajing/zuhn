@@ -14,5 +14,5 @@
 - `INS-260403-E05D` Extractive strategies that replace cooperative arrangements reliably destroy more value than they capture.
 - `INS-260412-FE0A` Argentine ants dominate not through superior individual capabilities but through massive numbers and seamless inter-colony cooperation.
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
-- `INS-260412-6990` Tools without communication infrastructure to share and build on knowledge produce stagnation, not progress.
 - `INS-260412-E2A2` Argentine ants' low genetic diversity — normally a weakness — eliminated inter-colony rivalry and enabled continent-spanning supercolonies.
+- `INS-260412-6990` Tools without communication infrastructure to share and build on knowledge produce stagnation, not progress.

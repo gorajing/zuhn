@@ -12,8 +12,8 @@
 - `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260626-4216` DORA reports broad AI use and perceived productivity gains, but also persistent distrust and stability pressure.
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
-- `INS-260626-BF48` NOVA reports a 13.5x reduction in human-attended time even though GPU-bound training stages keep similar wall-clock duration.
 - `INS-260505-4FEF` Forget chatbots and image generation — AI software engineering is rewriting how companies are run, what teams look like, who gets hired.
+- `INS-260626-BF48` NOVA reports a 13.5x reduction in human-attended time even though GPU-bound training stages keep similar wall-clock duration.
 - `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260625-78EC` Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
 - `INS-260605-4688` An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
@@ -43,10 +43,10 @@
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260405-9760` Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
+- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
-- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
@@ -91,14 +91,14 @@
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260403-2833` Stanford research shows output per hour collapses past 50 hours, with zero marginal gain after 55.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
-- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
-- `INS-260403-2F28` Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.
-- `INS-260402-8F1E` Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
-- `INS-260403-8DCB` Tech stacks make VCs faster at what they already do — they don't substitute for missing deal flow, networks, or analytical judgment.
-- `INS-260402-CF0A` Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260404-8A1D` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.
 - `INS-260403-8A80` Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-4E23` A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260403-3062` Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
 - `INS-260403-4935` If productivity ranges from 0 to 100, a 10x technology multiplier creates a 0 to 1000 range — variance explodes.
+- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
+- `INS-260403-2F28` Large-scale 4-day workweek trials show 40% productivity jumps and 67% lower burnout with no pay cuts.
+- `INS-260402-8F1E` Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
+- `INS-260403-8DCB` Tech stacks make VCs faster at what they already do — they don't substitute for missing deal flow, networks, or analytical judgment.
+- `INS-260402-CF0A` Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.

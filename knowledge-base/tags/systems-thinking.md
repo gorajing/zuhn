@@ -25,14 +25,13 @@
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
+- `INS-260412-2316` Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.
 - `INS-260404-DBA8` Both leftists and rightists got the multipolar world they wanted but not the version they expected.
 - `INS-260412-DDEF` Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
 - `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
 - `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
-- `INS-260412-2316` Supermassive black holes are only 0.001% of galaxy mass — dark matter, not the visible anchor, holds galaxies together.
-- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260412-8111` The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
 - `INS-260412-8F97` Regardless of the triggering catastrophe, infrastructure collapses in a predictable sequence determined by dependency chains — ports first, then communications, then energy, then food supply.
@@ -40,14 +39,15 @@
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260403-2DC4` Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
 - `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
-- `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
-- `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
+- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-1298` Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-70A8` David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
+- `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
+- `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260330-1C84` Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-5670` ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
 - `INS-260412-A77B` The shipping crisis wasn't a single vicious cycle but a web of mutually reinforcing failures across trucks, terminals, ships, empty containers, and demand — each amplifying the others simultaneously.
@@ -75,10 +75,10 @@
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260325-7974` Western individualism is scientifically wrong: we are constantly being reshaped by the actions of people we will never meet.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
+- `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260404-C8FA` BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
-- `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
@@ -98,8 +98,10 @@
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.
 - `INS-260330-8D7C` LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
 - `INS-260412-9657` Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
-- `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260404-67C5` Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
+- `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
+- `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
+- `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
 - `INS-260404-7834` When you can't fix the source of a problem (e.g., patent issuance), target the point where harm actually occurs (e.g., patent enforcement against startups).
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
@@ -110,5 +112,3 @@
 - `INS-260330-6DEB` Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
-- `INS-260403-DC6E` Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
-- `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.

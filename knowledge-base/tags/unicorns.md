@@ -9,9 +9,9 @@
 - `INS-260403-C7B9` Breakout startups hide in niches and avoid traditional growth signals, making old-school VC pattern matching obsolete.
 - `INS-260405-0375` At current exit velocity, the entire U.S. unicorn backlog would take 49 years to clear.
 - `INS-260405-93AE` Data on unicorn founders contradicts the cult of youth that dominates startup culture.
-- `INS-260403-1F3F` Founders in smaller markets should build local ecosystem gravity through conferences, academies, and talent attraction rather than relocating to established hubs.
 - `INS-260404-6243` 38 new unicorns in 2024 show a more selective but still active late-stage venture market.
 - `INS-260403-822B` Unicorn-creating pitch decks used simple, instantly understandable stories rather than polished design.
 - `INS-260403-713B` CB Insights reports $200B+ in AI funding and 75 new unicorns, but capital is concentrating in fewer, larger winners.
 - `INS-260404-238B` Tracking which sectors produce new unicorns reveals where VC conviction is flowing, giving founders a positioning advantage.
 - `INS-260404-C9D0` Most unicorn founders come from underdog backgrounds rather than traditional elite pipelines, and female founder representation is increasing.
+- `INS-260403-1F3F` Founders in smaller markets should build local ecosystem gravity through conferences, academies, and talent attraction rather than relocating to established hubs.

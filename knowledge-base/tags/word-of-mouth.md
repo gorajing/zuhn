@@ -19,6 +19,6 @@
 - `INS-260410-FA70` Ozempic achieved Tylenol-tier brand recognition because users can see weight come off in weeks and everyone around them notices too.
 - `INS-260403-BA0D` Obsessing over product quality and customer service can substitute for early brand investment by generating organic trust and word-of-mouth.
 - `INS-260329-A6DB` Referrals close easily because the referrer has already solved the trust problem, not because the prospect is more qualified.
+- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260328-372B` Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
 - `INS-260403-14E0` Superhuman built a Minimum Lovable Product instead of an MVP, testing whether users loved it rather than whether it worked, and the resulting word-of-mouth created a massive waitlist.
-- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.

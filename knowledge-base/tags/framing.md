@@ -17,8 +17,8 @@
 - `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
-- `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
 - `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
+- `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260404-D66A` Calling your ambitious project 'just a sketch' or 'just a hack' lowers the internal quality bar enough to start, then momentum converts it into real work.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.

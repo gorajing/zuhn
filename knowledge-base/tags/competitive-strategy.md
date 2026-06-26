@@ -49,9 +49,9 @@
 - `INS-260327-C6DC` When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.
 - `INS-260410-E3E6` NVIDIA's superpower is navigating to 'zero-billion-dollar markets' — non-existent markets they believe will emerge — and arriving a decade before competitors even understand why they're there.
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
+- `INS-260625-1651` Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
+- `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.
 - `INS-260403-7DEC` Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260412-FE60` Boeing's 2004 discontinuation of the 757 left a gap between the 737 and 787 that became the most predictable major aircraft opportunity in the industry.
 - `INS-260330-24E0` When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
-- `INS-260625-1651` Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
-- `INS-260330-EB1B` Early organisms compensated for RuBisCo's poor performance by producing enormous quantities of it — a strategy that dominated Earth but left no room for optimization.

@@ -34,8 +34,8 @@
 - `INS-260330-33FF` Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
 - `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260322-7276` Founders assume if the winner makes $500M and they make $50M, they're worth one-tenth — but the actual pattern is the seventh player trends toward zero revenue, not a stable fraction.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260402-AA3F` Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260404-9A25` In power-law domains, switching from failure-listing to success-imagining produces better predictions weighted by outcome.
 - `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - `INS-260404-E6E0` Silicon Valley's advantage is not superior people but a cultural custom of treating early work charitably — a custom any community can develop.
