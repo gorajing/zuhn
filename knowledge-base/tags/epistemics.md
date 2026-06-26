@@ -41,8 +41,8 @@
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
 - `INS-260405-8732` Conformists can't imagine true-but-dangerous ideas because their own views are always safe to express.
 - `INS-260403-33E2` Humans suppress guessing primarily because the social cost of being wrong far outweighs the marginal expected value of occasionally being right.
-- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
-- `INS-260327-E82A` We have perhaps 1-2% of ancient Mesopotamian texts - our entire understanding of these civilizations is based on a fragmentary, non-representative sample.
 - `INS-260409-40AF` A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260409-005E` Predictive competence and interpretive understanding are separable capabilities — prediction can run far ahead of intuition.
+- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
+- `INS-260327-E82A` We have perhaps 1-2% of ancient Mesopotamian texts - our entire understanding of these civilizations is based on a fragmentary, non-representative sample.
 - `INS-260405-F5D8` Independent-mindedness gives founders access to true insights that conventionally-minded people are structurally blocked from perceiving.

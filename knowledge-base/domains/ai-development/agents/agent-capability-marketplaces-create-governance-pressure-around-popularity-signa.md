@@ -52,7 +52,7 @@ related:
   - INS-260501-06B1
   - INS-260519-08E0
   - INS-260327-24D2
-  - INS-260320-A4BF
+  - INS-260626-C563
   - INS-260626-7C7B
 ---
 Team-level leaderboards are useful because repeated agent setup should not be reinvented by every user. The constraint is that extension popularity is not safety. Zuhn's registry should treat popularity or prior-use counts as a ranking feature only after capability provenance, permission surface, and maintenance status are captured.

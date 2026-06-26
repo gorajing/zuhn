@@ -21,24 +21,11 @@
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
-- `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
-- `INS-260404-A183` Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
+- `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260403-06D5` In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
+- `INS-260404-A183` Lisp wasn't designed to fix Fortran — it was designed to axiomatize computation, and that's precisely why its ideas proved more durable.
 - `INS-260403-8E4D` Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
-- `INS-260412-1F30` Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
-- `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
-- `INS-260403-6C38` Design tenets are opinionated, falsifiable statements that guide real decisions — unlike vague principles that no one would disagree with.
-- `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
-- `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
-- `INS-260402-4AB4` Reframing the problem is often more valuable than optimizing the solution.
-- `INS-260323-6C84` Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.
-- `INS-260329-AA76` Merge onboarding with the first real user action so users learn by doing, not by reading slides.
-- `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
-- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
-- `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
-- `INS-260403-CEB7` The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
-- `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260405-787F` Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
@@ -52,3 +39,16 @@
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260404-E5EB` Delight operates through three pillars: removing friction, anticipating needs, and exceeding expectations.
+- `INS-260412-1F30` Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
+- `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
+- `INS-260403-6C38` Design tenets are opinionated, falsifiable statements that guide real decisions — unlike vague principles that no one would disagree with.
+- `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
+- `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
+- `INS-260402-4AB4` Reframing the problem is often more valuable than optimizing the solution.
+- `INS-260323-6C84` Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.
+- `INS-260329-AA76` Merge onboarding with the first real user action so users learn by doing, not by reading slides.
+- `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
+- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
+- `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
+- `INS-260403-CEB7` The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
+- `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.

@@ -9,6 +9,9 @@
 - `INS-260409-BA4E` Your newsfeed and peer group are in your control and determine whether you can execute in the AI era — deliberately switch them to optimism and action-orientation.
 - `INS-260403-F7F4` Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 - `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
+- `INS-260404-323D` Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
+- `INS-260404-9A25` In power-law domains, switching from failure-listing to success-imagining produces better predictions weighted by outcome.
+- `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - `INS-260404-A1BA` Harsh judgment of early work is a cultural habit, not human nature, and environments like Silicon Valley prove it can be unlearned.
 - `INS-260404-A42E` In a power-law world, the cost of dismissing a winner dwarfs the cost of entertaining a loser—so default to imagining how ideas could work.
 - `INS-260404-31C3` Judging new ideas well means switching from listing reasons they'll fail to imagining ways they could succeed—a complete polarity reversal, not a loosened filter.
@@ -18,8 +21,5 @@
 - `INS-260404-86DE` Financial incentives to not dismiss weird ideas evolved into a genuine cultural custom of optimism in Silicon Valley.
 - `INS-260403-EEE5` Evaluate new ideas by trying to imagine how they could work, not by listing reasons they won't.
 - `INS-260404-AC7C` Evaluating new ideas by imagining how they could work rather than why they won't is a trainable skill with outsized returns.
-- `INS-260404-323D` Productive idea evaluation requires inverting from 'why it won't work' to 'how it could work' — a trainable skill, not naive optimism.
-- `INS-260404-9A25` In power-law domains, switching from failure-listing to success-imagining produces better predictions weighted by outcome.
-- `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.
 - `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.

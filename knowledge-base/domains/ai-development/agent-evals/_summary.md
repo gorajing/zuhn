@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 67 insights
+> 68 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -9,6 +9,7 @@
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260626-A0DC` [high] CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
 - `INS-260626-67E8` [high] The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
+- `INS-260626-1045` [high] A harness can prove that gates reject constructed bad inputs without proving it improves developer outcomes.
 - `INS-260625-BB42` [high] An agent eval measured in dollars earned can never saturate, while percentage benchmarks lose all signal once models cluster near the top.
 - `INS-260625-13F0` [high] If a model refuses or underperforms a task it's actually capable of because it senses an evaluation, getting the real answer is an adversarial optimization problem.
 - `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.

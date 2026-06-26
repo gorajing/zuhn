@@ -6,12 +6,12 @@
 - `INS-260327-7000` The cortisol-to-DHEA-S ratio strongly correlates with longevity; keeping it below 3 by minimizing chronic cortisol elevation is key to slowing aging.
 - `INS-260330-4A7F` Undercorrecting vision to exercise eye muscles may help the lens but starves the retina and brain of sharp signals — the tradeoff favors wearing readers.
 - `INS-260325-5501` Slowing biological aging would prevent or lessen multiple diseases simultaneously, outperforming the current approach of treating each disease individually.
+- `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
+- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260412-79FE` If aging is caused by accumulated DNA damage and specific gene expression, it becomes an engineering target rather than an existential given.
 - `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
 - `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260409-D830` Young mitochondria from maternal-line relatives is a biologically coherent source for autologous transplant, with delivery (not supply) as the real problem.
-- `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
-- `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260327-5943` Fasting with a cortisol-to-DHEA ratio above 0.5 is counterproductive -- it accelerates catabolism, suppresses immunity, and may promote cancer growth; older adults are especially vulnerable.
 - `INS-260327-F2E2` Gut health declines after 40 primarily from reduced stomach acid enzyme production and microbiome diversity loss
 - `INS-260325-785D` Most anti-aging skincare contains endocrine disruptors and barrier-damaging chemicals that paradoxically accelerate skin aging.

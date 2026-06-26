@@ -12,6 +12,6 @@
 - `INS-260403-DB0A` Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 - `INS-260330-6300` Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill.
 - `INS-260404-0D62` VCs resist founder control primarily because they don't want to appear weak to their partners, not because they believe it harms returns.
-- `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260403-8BBB` People dismiss ambitious ideas partly because they unconsciously hope you'll fail, since your success would threaten their relative status.
 - `INS-260402-9093` The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
+- `INS-260405-9FD9` Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.

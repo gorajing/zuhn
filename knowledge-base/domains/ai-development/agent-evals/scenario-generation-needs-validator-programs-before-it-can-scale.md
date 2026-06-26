@@ -51,6 +51,7 @@ related:
   - INS-260626-32B6
   - INS-260626-8747
   - INS-260605-A03E
+  - INS-260626-1D80
 ---
 STAGE-Claw creates benchmark tasks from hints but pairs them with environments, prompts, ground truth, and related verification programs. That coupling matters: generated scenarios without generated verifiers mostly increase benchmark volume, not measurement reliability.
 

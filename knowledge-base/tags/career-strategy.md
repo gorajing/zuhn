@@ -15,8 +15,8 @@
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
-- `INS-260325-636B` The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
 - `INS-260626-60DB` Badges (degrees, awards) are useful mainly when you have no other badges — once you're world-class at something verifiable, the credential is redundant.
+- `INS-260325-636B` The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
 - `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
 - `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
 - `INS-260412-35AC` Gen Z workers who change jobs frequently earn almost 30% more than those who stay, turning employer disloyalty into an advantage.
@@ -37,6 +37,6 @@
 - `INS-260327-31BD` Kisson wrote unsolicited internal case studies at Facebook that caught Zuckerberg's CPO's attention and got her promoted to HQ strategy.
 - `INS-260403-F7DA` Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
+- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
-- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.

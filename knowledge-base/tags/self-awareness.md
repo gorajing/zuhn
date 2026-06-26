@@ -22,13 +22,13 @@
 - `INS-260403-1202` Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260409-8487` Hate directed at people who care is projected self-contempt from people who haven't committed to anything.
+- `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
+- `INS-260328-FE38` There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
+- `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
 - `INS-260403-8AEA` $10B+ founders nearly universally exhibit both a superiority complex and a deep inferiority complex operating simultaneously.
 - `INS-260403-9FEA` 42% of business owners experienced burnout recently, but the early warning signs are culturally celebrated rather than treated.
 - `INS-260329-1A64` When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
-- `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
-- `INS-260328-FE38` There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
-- `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
 - `INS-260404-B6CC` Arguments escalate when they shift from debating issues to threatening someone's core identity and values.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.

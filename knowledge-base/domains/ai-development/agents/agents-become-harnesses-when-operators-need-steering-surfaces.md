@@ -44,12 +44,12 @@ related:
   - INS-260423-3AC1
   - INS-260501-247C
   - INS-260605-5D66
-  - INS-260605-8C71
   - INS-260605-C33F
   - INS-260605-80DC
   - INS-260605-ACB3
   - INS-260605-0E19
   - INS-260626-7D73
+  - INS-260603-6B3D
 ---
 The harness talk positioned June 2026 as the beginning of a harness era: not just agents that call tools, but systems with planning modes, parallel subagents, web/context gathering, skills, background tasks, memory, compaction, resume, approval policies, interruption, queueing, and steering.
 

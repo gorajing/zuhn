@@ -8,8 +8,8 @@
 - `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260403-E1E4` Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
 - `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
-- `INS-260330-CAD2` Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260404-C0E6` Startup pitches suffer from a double communication penalty where both sender and receiver deficiencies compound rather than cancel out.
+- `INS-260330-CAD2` Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260412-7728` When you don't know the rules of the game, watch silently before announcing yourself.
 - `INS-260412-1F4E` We exist at a cosmologically unique moment where we can see both our origins and our future — a privilege that will never recur.
 - `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
@@ -24,7 +24,7 @@
 - `INS-260402-3F8D` Effective fundraising sequences information release to build trust incrementally rather than sharing everything upfront.
 - `INS-260404-28A1` Knowing the VC Method lets founders anticipate the exact math investors will use, turning valuation from storytelling into a structured negotiation.
 - `INS-260404-2A95` YC's SAFE contains provisions that many founders don't fully understand, creating hidden advantages for investors.
-- `INS-260412-4499` Anker beat western competitors to market with PowerIQ charging technology because Shenzhen's engineer network transmitted the information faster than formal channels.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
+- `INS-260412-4499` Anker beat western competitors to market with PowerIQ charging technology because Shenzhen's engineer network transmitted the information faster than formal channels.
 - `INS-260412-F4DA` Systems with three actor groups holding different incentives and no shared situational awareness predictably cascade into failure.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.

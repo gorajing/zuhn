@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260330-F140
   - INS-260625-2B5A
+  - INS-260626-1045
   - INS-260327-C4AD
   - INS-260625-A5E7
-  - INS-260325-7B58
 ---
 The paper's strongest mechanism is a routing failure: judge notes often described confirm-gate or cart-state defects, but the rubric had only intent, brand-voice, and personalization axes, and the operational gate was wired to hangs and hard assertions rather than quality dimensions. Defects were visible in notes yet did not become blockers.
 

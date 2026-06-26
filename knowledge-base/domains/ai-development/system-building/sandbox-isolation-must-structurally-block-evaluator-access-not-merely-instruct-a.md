@@ -44,11 +44,11 @@ stance: >-
   Agent evaluation isolation must be enforced structurally because instructions
   not to inspect evaluators or answer keys are not security controls.
 related:
+  - INS-260626-F490
   - INS-260320-9D89
   - INS-260605-705B
   - INS-260626-9155
   - INS-260519-08E0
-  - INS-260605-2A69
 ---
 The benchmark packages tasks with answer keys and evaluator internals removed, then runs agents in a sandbox without a path back to the benchmark code. The paper notes that an agent with autonomous filesystem access can otherwise inspect a reachable evaluator and use it as an oracle, and that a written instruction not to do so provides no real safeguard.
 

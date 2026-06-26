@@ -2,8 +2,8 @@
 
 - `INS-260625-355D` Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
 - `INS-260501-2D9C` Drop screenshots of sites you love into Claude. Ask it to extrapolate a design system. Reference that system in every future component. Vibe-coded sites stop looking like vibe-coded sites.
-- `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
+- `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
 - `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
@@ -25,10 +25,10 @@
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260403-C4BE` Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260329-9A5A` People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260323-BC20` The true measure of a leader is the quality of decisions they make on ordinary days, not how they perform in dramatic crises.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260327-0826` Good closers try to get hot; great closers never get cold because they've analyzed exactly what they do differently during hot streaks and systematized every detail.

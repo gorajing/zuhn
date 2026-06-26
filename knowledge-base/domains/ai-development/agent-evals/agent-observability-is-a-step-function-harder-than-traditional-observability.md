@@ -53,9 +53,10 @@ related:
   - INS-260327-9D50
   - INS-260605-667B
   - INS-260605-36E9
-  - INS-260605-A2AD
   - INS-260625-019F
+  - INS-260605-A2AD
   - INS-260625-6127
   - INS-260625-A281
+  - INS-260626-F3AC
 ---
 The talk frames agent observability as categorically different from traditional observability along three axes. First, agent logs are as important as agent code — because the agent's behavior is non-deterministic, you literally don't know what it did until you read the trace of an actual execution, so developers need logs even during development, not just in production. Second, the logs are consumed for evaluation and optimization, not just for finding errors: you compare answers against a golden dataset, run LLM-as-a-judge over conversations, and categorize transcripts to find optimization opportunities — which means simple GROUP BYs and filters are insufficient and you need real analytical capability over the logs. Third, the logs are increasingly multimodal (images, audio transcripts, video), unlike traditional machine telemetry. The practical implication: pick a logging substrate that supports analytical SQL, LLM scoring, and multimodal payloads from day one, because bolting evaluation onto a metrics-only logging stack later is a rewrite.

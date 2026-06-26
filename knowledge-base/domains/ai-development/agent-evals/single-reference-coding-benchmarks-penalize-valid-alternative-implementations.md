@@ -41,10 +41,10 @@ stance: >-
   failures.
 related:
   - INS-260625-C1E8
+  - INS-260626-DB00
+  - INS-260626-1045
   - INS-260625-FDC1
   - INS-260625-A5E7
-  - INS-260605-07E5
-  - INS-260625-8BC8
   - INS-260625-D842
 ---
 The critique argues that agentic software systems need independent behavioral specifications instead of single-reference solution matching. AgentRun gates should therefore prefer executable contracts, mutation checks, reviewer rubrics, and invariants over golden-patch similarity whenever multiple correct implementations are possible.

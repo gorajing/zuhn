@@ -1,7 +1,7 @@
 # Tag: organizational-design
 
-- `INS-260605-C2A3` An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 - `INS-260405-5E6B` Meta cut 600 AI roles to reduce decision layers, explicitly trading headcount for speed.
+- `INS-260605-C2A3` An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 - `INS-260410-49C5` Future AI organizations will blur the line between individual workers by constantly spawning specialized copies and merging their learnings back through latent-space communication.
 - `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
@@ -28,10 +28,10 @@
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
-- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260404-89DA` Founder mode correctly emphasizes deep engagement but becomes dangerous when used to justify bypassing management structure entirely.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260410-4C9D` Amazon Marketplace let third-party sellers win the buy-box on Amazon's own product pages, which torched category managers' P&L—a move only a founder could force through.
+- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260403-47BF` Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-402A` Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.

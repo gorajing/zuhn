@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 76 insights
+> 77 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -59,6 +59,7 @@
 - `INS-260410-796F` [high] Use subagents for any task that reads many files — they run in their own context window and return only summaries.
 - `INS-260501-9503` [high] Don't write skills upfront. Walk the workflow with the agent step-by-step. Get one successful run. Then ask the agent to extract the skill from what just worked.
 - `INS-260320-04A2` [high] Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
+- `INS-260626-C563` [high] Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 - `INS-260320-0127` [high] Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260605-46B2` [high] You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.

@@ -48,10 +48,10 @@ stance: >-
   in the harness, not be delegated to the model.
 related:
   - INS-260625-C697
+  - INS-260626-DB00
   - INS-260605-0BA3
   - INS-260605-BC6F
   - INS-260514-4FDC
-  - INS-260619-B1A8
   - INS-260605-2E60
 ---
 Rather than putting credentials in the system prompt and hoping the agent logs in correctly, Kumar adds a login handler that runs on every iteration of the agent loop. It cheaply checks the browser's current URL; if not on a login page it does nothing, but if it is, it programmatically fills credentials (which can be environment variables or secrets the harness file has access to) and submits the form deterministically and securely — then injects a message into the queue telling the agent 'I'm the harness, I logged you in, you're good now.' This is the core design principle of harnessing: anything that can be made deterministic or that requires privileged access to secrets is lifted out of the probabilistic model and handled by ordinary, auditable, secure engineering code. The agent is anchored to something stable, exactly like a climber clipped to a mountain or a dog on a leash.

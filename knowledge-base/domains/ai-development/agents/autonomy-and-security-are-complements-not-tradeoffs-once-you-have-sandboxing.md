@@ -49,12 +49,13 @@ stance: >-
   simultaneously, dissolving the common assumption that safer agents must be
   less capable.
 related:
+  - INS-260626-F490
   - INS-260625-BEFE
   - INS-260626-42B5
   - INS-260501-E377
   - INS-260404-292E
-  - INS-260626-AD63
   - INS-260605-BA4B
+  - INS-260626-AD63
 ---
 The intuitive framing of agent safety is a dial: more autonomy means less safety, more safety means more friction. Anthropic's sandboxing work demonstrates this framing is wrong when you change the architecture. By shifting from 'ask permission for each action' to 'define the playing field once, then let the agent run freely inside it,' they got an 84% reduction in prompts AND a stronger security posture (prompt injection can't exfiltrate secrets or escape the directory).
 

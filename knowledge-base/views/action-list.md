@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5868 actionable insights
+Generated on 2026-06-26 | 5872 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -376,6 +376,7 @@ Generated on 2026-06-26 | 5868 actionable insights
 - [INS-260626-E0A7] Add one capability at a time so when something breaks you can take a single step back, diagnose it, and harden against recurrence.
 - [INS-260626-D8E6] Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.
 - [INS-260626-9A2A] A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
+- [INS-260626-F490] Do not rely on prompt text alone for permissions; compile agent definitions into allowlists and reject invalid privilege states early.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -726,6 +727,7 @@ Generated on 2026-06-26 | 5868 actionable insights
 - [INS-260625-78EC] Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
 - [INS-260626-621D] Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - [INS-260626-B614] Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
+- [INS-260626-C563] Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -1360,6 +1362,8 @@ Generated on 2026-06-26 | 5868 actionable insights
 - [INS-260626-E1CB] Two tempting shortcuts — caching answers and reusing prior answers as context — both backfire: code/docs/rationale change constantly, and recycling outputs regresses the system toward the mean.
 - [INS-260626-2044] When the source set is small and enumerable, feeding URLs directly into the model's context ('poor man's retrieval') gives you cited, post-cutoff grounding without the infrastructure cost of a vector DB.
 - [INS-260626-E45C] Cursor implemented the worktree feature as backend-controlled commands rather than bundled skills specifically so prompts could be iterated server-side and reach users on next use.
+- [INS-260626-DB00] Use deterministic gates for hashes, permissions, state transitions, and blocklists instead of asking another model to police the agent.
+- [INS-260626-F3AC] If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

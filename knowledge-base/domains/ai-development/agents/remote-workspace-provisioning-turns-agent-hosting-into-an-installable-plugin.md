@@ -53,5 +53,6 @@ related:
   - INS-260605-159E
   - INS-260605-58DA
   - INS-260327-9D50
+  - INS-260626-0E8C
 ---
 OpenAI's Codex Remote GA plus the DigitalOcean workspace plugin makes workspace provisioning a platform primitive rather than a manual environment task. This unlocks mobile-started or mobile-approved work against real development machines, but it also changes the risk boundary: the agent may now create infrastructure, configure SSH, and operate away from the user's current terminal. AgentRun should add runtime_substrate, provider, pairing/auth state, and cleanup evidence fields for remote work.

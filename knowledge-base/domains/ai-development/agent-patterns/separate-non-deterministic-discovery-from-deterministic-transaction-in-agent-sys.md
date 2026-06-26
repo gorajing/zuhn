@@ -64,9 +64,9 @@ related:
   - INS-260514-0101
   - INS-260605-8C71
   - INS-260625-9C3B
+  - INS-260626-DB00
   - INS-260625-76F5
   - INS-260605-63AE
-  - INS-260410-A27C
 ---
 The core argument is that LLMs are extraordinary at discovery and exploration precisely because they are non-deterministic — they can surface relevant code, products, or businesses from the world's information. But that same property is a liability the moment money moves: credentials, payments, and checkout do not merely benefit from determinism, they require it. The design move is to isolate 'how do I find things / what should I do' from 'how am I going to transact.'
 

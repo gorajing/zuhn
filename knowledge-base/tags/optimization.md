@@ -1,22 +1,22 @@
 # Tag: optimization
 
 - `INS-260625-78C1` SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
-- `INS-260410-F40F` One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
 - `INS-260325-E62D` Agentic inference shifts compute from decode-heavy to prefill-heavy with larger shared cache needs.
+- `INS-260410-F40F` One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
 - `INS-260403-9362` Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
+- `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260605-74E8` An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260625-5358` Skill files can be optimized like neural-network weights, with proposed text edits playing the role of gradients.
-- `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260330-3ADD` Networks achieve 96%+ accuracy with hidden layers that look nearly random rather than detecting edges and patterns as designed.
 - `INS-260410-5033` Residual connections give gradients a direct additive path from loss to input, so deep networks stay trainable even when internal blocks start as near-noise.
 - `INS-260626-0D4B` Recursive first rebuilds slow chip-design tools to run ~100,000x faster, because fast iteration loops are what let AI exponentially learn and co-optimize across a huge space.
 - `INS-260626-44E6` AlphaChip's AI-generated chip placements are 'organic, curved' rather than the aligned, regular layouts human engineers produce—shocking to physical-design experts but minimizing wire length and improving performance.
 - `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
+- `INS-260605-5878` A 'production function' framing shows heterogeneous skill distributions meet complex demand that neither narrow specialists nor broad generalists can satisfy efficiently.
 - `INS-260410-78D3` For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
 - `INS-260410-D3A7` A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
 - `INS-260410-F295` Sweep LR exponentially from tiny to explosive in one short run, plot loss vs log(lr), pick the bottom of the valley.
-- `INS-260605-5878` A 'production function' framing shows heterogeneous skill distributions meet complex demand that neither narrow specialists nor broad generalists can satisfy efficiently.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260402-8A7A` Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
 - `INS-260329-7255` Almost every performance optimization in computing trades memory for speed or speed for memory — recognizing which tradeoff you're making is the key architectural skill.

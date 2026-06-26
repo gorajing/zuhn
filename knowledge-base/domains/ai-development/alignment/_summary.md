@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 111 insights
+> 112 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260625-8BBB` [high] Unlike most capabilities, safety and adversarial robustness do not emerge from scale — they require explicit, dedicated training.
@@ -76,6 +76,7 @@
 - `INS-260327-C69F` [medium] We talk about aligning AI with human values, but what if human values also need updating? Alignment should be mutual, not unilateral.
 - `INS-260326-7995` [medium] Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
 - `INS-260402-4C4C` [medium] Jan Leike argues current alignment success can bootstrap superhuman alignment, but this assumes a golden middle of capability exists.
+- `INS-260626-0E8C` [medium] Blocklists should trace to real incident patterns and carry an explicit maintenance burden.
 - `INS-260327-4E8E` [medium] If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
 - `INS-260403-1F58` [medium] The same explanatory gap that prevents us from verifying another human's color experience makes it fundamentally impossible to verify AI consciousness through behavioral testing alone.
 - `INS-260404-4434` [medium] The Bio Anchors report's efficiency comparisons are technology-invariant, undermining their usefulness for timing AI progress.

@@ -47,7 +47,6 @@ stance: >-
   key because the agent cannot improvise an alternate path.
 related:
   - INS-260329-BD83
-  - INS-260410-382D
   - INS-260514-FEC8
   - INS-260605-BC6F
   - INS-260605-3AB7

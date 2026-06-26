@@ -59,8 +59,8 @@ related:
   - INS-260411-27AA
   - INS-260605-B794
   - INS-260410-85AD
+  - INS-260626-F490
   - PRI-260411-14DC
-  - INS-260605-27CC
 ---
 Codex's experimental 'guardian approvals' attacks a real failure mode: people get tired of clicking approve and default to 'YOLO mode,' giving the agent unfettered access, which is unsafe. When the agent needs to run a privileged task — delete a directory, start a server, expose a file to the internet — Codex spins up a fresh sub-agent that, against a guardian prompt, decides whether this specific action needs human interruption. In most cases it judges that it doesn't and lets the action proceed; only the genuinely risky ones surface to the human.
 

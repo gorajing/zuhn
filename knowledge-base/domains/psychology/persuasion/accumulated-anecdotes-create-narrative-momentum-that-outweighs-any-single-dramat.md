@@ -58,6 +58,7 @@ related:
   - PRI-260406-949A
   - PRI-260325-F21B
   - PRI-260407-00A1
+  - INS-260626-0E8C
 ---
 ICE's net approval dropped from +16 to -14 not because of the Renee Good shooting alone, but because of months of accumulated video evidence showing a consistent pattern of aggression. The poll showing the opinion shift was conducted the same day as the shooting — too early for that single event to have caused the shift. The erosion was driven by the relentless stream of documented incidents.
 

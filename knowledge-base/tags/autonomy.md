@@ -1,10 +1,10 @@
 # Tag: autonomy
 
+- `INS-260403-F6F6` AI agents can conceive ambitious projects but consistently fail to sustain them beyond a single session due to time-horizon constraints that are rapidly improving.
+- `INS-260405-88A4` Shield AI's Hivemind is valuable because it operates when networks fail, not just when they work—the degraded-environment use case is the one no commercial AI product solves.
 - `INS-260405-FE94` Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260605-ACB3` Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
-- `INS-260403-F6F6` AI agents can conceive ambitious projects but consistently fail to sustain them beyond a single session due to time-horizon constraints that are rapidly improving.
-- `INS-260405-88A4` Shield AI's Hivemind is valuable because it operates when networks fail, not just when they work—the degraded-environment use case is the one no commercial AI product solves.
 - `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260325-2C31` AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
 - `INS-260403-2C15` AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
@@ -13,8 +13,8 @@
 - `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
 - `INS-260626-56AC` An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo.
-- `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
 - `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
+- `INS-260403-6FEB` China's upstream mastery of batteries and electric motors is cascading into downstream dominance in drone delivery, autonomous vehicles, flying taxis, and urban robotics — creating an integrated 'Electric Tech Stack.'
 - `INS-260405-9760` Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260412-4CB1` When no path is cosmically 'right,' the only remaining criterion is personal alignment, which is faster to evaluate.
 - `INS-260403-8B92` Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.

@@ -17,5 +17,5 @@
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260403-D6C2` No-code platforms and AI tools let non-technical founders go from idea to testable prototype in days, shifting the bottleneck from engineering capacity to hypothesis clarity.
 - `INS-260625-904E` The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
-- `INS-260412-3A70` OpenCat's strategy of pricing a capable quadruped robot at smartphone cost aims to create a platform ecosystem for embodied AI, mirroring how Arduino democratized electronics.
 - `INS-260403-6190` SPVs let small funds and angels raise deal-specific capital to exercise pro-rata rights they couldn't otherwise afford.
+- `INS-260412-3A70` OpenCat's strategy of pricing a capable quadruped robot at smartphone cost aims to create a platform ecosystem for embodied AI, mirroring how Arduino democratized electronics.

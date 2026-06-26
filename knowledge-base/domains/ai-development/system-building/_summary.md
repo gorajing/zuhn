@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 299 insights
+> 302 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -146,12 +146,14 @@
 - `INS-260404-93CD` [high] Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260320-C8CC` [high] PM2 gives you auto-restart on crashes, per-service logs, memory/CPU monitoring, and easy management like `pm2 restart email`.
 - `INS-260320-4773` [high] Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
+- `INS-260626-9BC5` [high] A canonical agent manifest can preserve declarations across tools, but each harness still needs an enforcement audit.
 - `INS-260329-3243` [high] HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-4E68` [high] Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
 - `INS-260403-F664` [high] Production system prompts that run millions of times must be hardened and optimized like code, representing a distinct discipline from conversational prompting.
 - `INS-260625-81E1` [high] The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
 - `INS-260605-B6BC` [high] Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.
 - `INS-260330-AC7F` [high] CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
+- `INS-260626-DB00` [high] Use deterministic gates for hashes, permissions, state transitions, and blocklists instead of asking another model to police the agent.
 - `INS-260329-12D1` [high] Python's readable syntax made it the gateway language for non-CS practitioners entering AI/ML, creating a self-reinforcing ecosystem effect.
 - `INS-260329-CF48` [high] Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
 - `INS-260410-351E` [high] sum(dim=1) without keepdim=True returns a 1D vector that broadcasting silently treats as a row vector, which normalizes columns instead of rows — producing garbage with no error.
@@ -211,6 +213,7 @@
 - `INS-260626-B5A6` [high] Demos succeed and production fails because operational workflows—not model quality—haven't kept pace with deterministic software engineering.
 - `INS-260329-5F19` [high] AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
 - `INS-260321-167A` [high] Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
+- `INS-260626-F3AC` [high] If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 - `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260409-4CE8` [high] Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260501-F258` [high] Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license.

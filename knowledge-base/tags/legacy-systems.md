@@ -1,8 +1,8 @@
 # Tag: legacy-systems
 
 - `INS-260423-8504` Aaron Levie: if you wanted an agent to find upcoming contract renewal risk, that agent might find 10 different systems containing contracts — half legacy technologies that don't work well with agents, on network file shares and legacy document management systems.
-- `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
 - `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
+- `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
 - `INS-260404-AE3C` RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
 - `INS-260404-84FE` Plants evolved entire metabolic pathways just to clean up after RuBisCo's mistakes rather than replacing the enzyme itself.
 - `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
