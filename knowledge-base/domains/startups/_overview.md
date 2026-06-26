@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4861 insights across 55 topics
+> 4862 insights across 55 topics
 
 ## Topics
 
@@ -57,7 +57,7 @@
 | strategy | 283 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | team-building | 2 | Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent. |
 | timing | 70 | Enterprise SaaS IPOs from 2012 outperformed expectations by solving deep operational pain points with recurring revenue models. |
-| unit-economics | 12 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
+| unit-economics | 13 | Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades. |
 | validation | 184 | Pretty much 100% of startups that make something popular manage to make money from it. |
 | venture-capital | 14 | AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear. |
 | vision-and-strategy | 6 | Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed. |

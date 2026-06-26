@@ -52,8 +52,8 @@ related:
   - INS-260327-F4DD
   - INS-260605-6588
   - INS-260404-E55F
+  - INS-260626-BAE9
   - INS-260405-77C9
-  - INS-260423-85B3
 ---
 The speaker notes a trend of labs releasing their LLMs with vision capabilities on day zero rather than bolting them on later. Examples cited include Gemini 4 (an omni model), Qwen 3.5, and Chimera 2.5—all shipped as VLMs. She forecasts that over time essentially all new models will release multimodal from the start. Crucially, vision LLMs double as computer-use agents: they can operate over screenshots and know where to click.
 

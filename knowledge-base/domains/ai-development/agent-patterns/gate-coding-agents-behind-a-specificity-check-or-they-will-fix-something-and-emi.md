@@ -64,12 +64,12 @@ related:
   - INS-260325-D540
   - INS-260410-545A
   - INS-260605-6444
-  - INS-260605-3872
   - INS-260605-25B2
   - INS-260605-9E46
   - INS-260605-C627
   - INS-260605-77EB
   - INS-260605-2A69
+  - INS-260530-D34F
 ---
 PostHog found that if you throw a generic report like 'onboarding is broken' at the Claude Agent SDK, it will not refuse or ask for clarification — it will confidently attempt a fix, producing a PR that doesn't address anything meaningful. The agent's bias toward action becomes a liability when the input is underspecified.
 

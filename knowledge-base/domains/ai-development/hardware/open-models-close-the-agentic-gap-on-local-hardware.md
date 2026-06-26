@@ -62,6 +62,7 @@ related:
   - INS-260326-2410
   - INS-260410-0E26
   - INS-260327-B9AD
+  - INS-260626-BAE9
 ---
 Ian's demos show a 26B mixture-of-experts model (4B activated) and a 31B dense model running locally via LM Studio on an M4 Mac, serving an OpenAI/Anthropic-compatible endpoint, and driving a coding harness (open code) that reads/writes files, spawns subagents, and self-corrects errors. A separate demo runs an orchestrator spinning up 10 subagents generating SVGs entirely offline. The 'effective' E2B/E4B models run on phones and Raspberry Pis using a per-layer embedding structure that pages embeddings from flash rather than holding them in RAM.
 

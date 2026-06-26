@@ -46,10 +46,10 @@ stance: >-
   Server-sent events make resume and cancel mutually exclusive, so any AI
   product needing both must abandon SSE for a bidirectional transport.
 related:
+  - INS-260626-15F3
   - INS-260330-258F
   - INS-260423-81B6
   - INS-260409-78E1
   - INS-260624-9A4B
-  - INS-260320-C8CC
 ---
 SSE is a strictly one-way pipe from server to client, so a client has no upstream channel to signal intent. The only action it can take is closing the connection, which is ambiguous: should the agent keep generating and buffer events assuming the client will reconnect and resume, or treat the close as a cancellation and stop burning expensive tokens? You cannot do both. Vercel's AI SDK documents exactly this — abort is incompatible with its resume functionality because it defaults to SSE. The implication is that any product wanting both resumable streams and live control (a stop button, steering) needs a bidirectional transport like WebSockets, ideally fronted by a durable session layer.

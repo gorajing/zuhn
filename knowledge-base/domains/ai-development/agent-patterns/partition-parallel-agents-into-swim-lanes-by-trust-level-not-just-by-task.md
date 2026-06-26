@@ -51,7 +51,7 @@ related:
   - INS-260410-BDFF
   - PRI-260328-A65A
   - INS-260323-2E51
+  - INS-260626-9732
   - INS-260605-D912
-  - INS-260605-A847
 ---
 Koc runs 10-20 concurrent agent 'swim lanes' and explicitly assigns them by how much supervision each demands rather than treating them uniformly. Stable, low-risk work like refactoring tests gets a hands-off lane: 'take your time, make the tests pass, just commit.' Feature and bug work on fragile subsystems (Docker, messaging channels) get conversational lanes where he actively investigates with the agent. A final lane scans new P0/P1 issues from GitHub and Discord. The insight is that with abundant agents, your scarce resource is human attention, so the partition that matters is a trust/oversight gradient, not just a topic split. This lets a single person keep 'an eye on all of these sessions' by spending babysitting where the blast radius is highest and ignoring lanes that can safely run to green on their own.

@@ -56,5 +56,6 @@ related:
   - INS-260530-D34F
   - INS-260626-D768
   - INS-260320-9D89
+  - INS-260626-8308
 ---
 The mechanism that lets the agent 'self-evolve' behaviorally is an instructions.md file loaded on every turn that the agent itself can edit. Feedback is given the way you'd correct an employee — in natural language — and the agent rewrites its own instruction set so the change persists into future runs. The proof point is that a non-technical co-founder noticed a class of support mistakes and, instead of opening the codebase, telling an engineer, or filing a ticket, simply messaged the agent in Slack describing what was wrong; the agent updated its instructions and tool links, and that entire class of mistakes stopped recurring. This collapses the feedback loop from 'notice problem → route to engineer → code change → deploy' down to 'notice problem → tell the agent', which means anyone on the team can shape agent behavior at conversation speed. The design principle is to make behavioral memory writable by the agent and addressable in plain language, so correction does not require touching code.

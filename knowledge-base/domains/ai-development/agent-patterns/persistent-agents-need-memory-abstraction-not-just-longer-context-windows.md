@@ -50,6 +50,7 @@ related:
   - PRI-260328-EE02
   - INS-260410-19DE
   - INS-260327-DC4C
+  - INS-260626-ACD0
   - INS-260327-FDC1
 ---
 Multiple panelists converged on the insight that scaling context windows is necessary but insufficient for persistent agents. The Google DeepMind panelist drew a direct analogy to computer memory: context windows are like RAM (fast access), but computers also need persistent storage (hard drives). Similarly, models need infrastructure for pulling information in and out of context and summarizing selectively.

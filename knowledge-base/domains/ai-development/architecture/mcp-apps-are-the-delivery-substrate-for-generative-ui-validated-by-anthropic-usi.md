@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260605-1821
   - INS-260625-2E86
+  - INS-260626-35A9
   - INS-260605-74CC
   - INS-260625-0492
-  - INS-260605-1BBF
 ---
 Once you accept that generative UI needs containment, MCP apps become the natural delivery layer: they provide a double-iframe sandbox by default, plus authentication, tool calling, and message passing between the UI and the agent. They're already the default for third-party UI delivery, and crucially can serve first-party UI too.
 

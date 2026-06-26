@@ -49,7 +49,6 @@ stance: >-
   or discarding it, not a static document that decays.
 related:
   - INS-260328-0B42
-  - INS-260409-E730
   - INS-260522-EB3C
   - INS-260328-0DFE
   - INS-260626-4005

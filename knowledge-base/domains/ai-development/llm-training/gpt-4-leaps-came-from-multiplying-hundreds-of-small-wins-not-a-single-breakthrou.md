@@ -51,6 +51,7 @@ related:
   - INS-260410-34F5
   - INS-260603-11DB
   - INS-260625-B5A8
+  - INS-260626-66DC
 stance: >-
   The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements
   multiplied together across data, training, architecture, and optimization.

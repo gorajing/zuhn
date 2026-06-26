@@ -52,10 +52,10 @@ stance: >-
   engineering trade-off.
 related:
   - INS-260514-3100
+  - INS-260626-A3E4
   - INS-260329-EA2B
   - INS-260323-DC99
   - INS-260329-6AF5
-  - INS-260403-A2E9
 evidence:
   - id: INS-260323-19A8
     type: SUPPORTS

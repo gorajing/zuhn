@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5836 actionable insights
+Generated on 2026-06-26 | 5860 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -38,6 +38,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260625-D295] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.
 - [INS-260625-6ED0] Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
 - [INS-260625-464B] Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
+- [INS-260626-9A47] When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
 
 ## ai-development/agent-evals
 - [INS-260625-C1E8] AgentRun gates should distinguish fast blockers from slower calibration signals.
@@ -87,6 +88,8 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260626-F6DA] If you trust the tests, you can trust the output without looking at the code — so the highest-leverage investment is building systems agents can use to verify their own work.
 - [INS-260626-AF37] Build context tests in tiers — lint the spec, check comprehension, judge conventions with an LLM, then give the judge tools so it actually runs the result.
 - [INS-260626-8DAD] If you can write it as a deterministic check, do; only fall back to LLM-as-judge for nuance like tone or brand fit—and sample its use to control cost.
+- [INS-260626-CF64] Run a little user research where the user is the robot: at the stop hook ask 'what could we have done better to set you up for success?' and let it tell you what you broke.
+- [INS-260626-BF18] Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -366,6 +369,12 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260626-8C66] Expose individual tool fields to the agent (e.g. only the 'to' field) so a mistake is structurally bounded instead of as wide as the underlying API.
 - [INS-260626-A645] Put the human-review step in the execution path as a brick wall the agent cannot route around, instead of trusting the model to ask first.
 - [INS-260626-9FFD] When logic has too many branches to enumerate in code, describe the goal and steps as a skill and let the agent reason through the cases.
+- [INS-260626-F14C] Coding agents are 'breaking containment' beyond software into CMS management, ETL syncs, speaker research, and even buying a lobster — any knowledge work an assistant or junior could do.
+- [INS-260626-8C3C] Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
+- [INS-260626-35A9] Hand the agent a token-cheap fake app that is auth-shaped and login-shaped so it learns where the right events belong, without dragging a whole production codebase into context.
+- [INS-260626-E0A7] Add one capability at a time so when something breaks you can take a single step back, diagnose it, and harden against recurrence.
+- [INS-260626-D8E6] Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.
+- [INS-260626-9A2A] A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -415,6 +424,9 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260626-091B] Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - [INS-260626-0E82] Claude Code chose deprecated Whisper V1 over Grok (200x faster, 10x cheaper) simply because Whisper had more examples and clearer docs.
 - [INS-260626-9E65] Beyond fan-out for speed, spin up N sub-agents to generate divergent hypotheses on the same target — different vulnerability angles on one diff, several implementation approaches for one feature, best-of-N cloud runs.
+- [INS-260626-8EAC] Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
+- [INS-260626-9732] When agents cross the ~5-minute run threshold, the job becomes parallel-managing multiple agents while minimizing brain-frying context switches.
+- [INS-260626-5037] Small models hallucinate because they're memory-bound with low knowledge capacity, but tool access (web search, Python) lets them outperform reliance on baked-in knowledge — and they're naturally strong at agentic tasks.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -907,6 +919,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260626-CE12] You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - [INS-260626-1759] Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - [INS-260626-A499] Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool.
+- [INS-260626-9B36] Doom-loop ratio for a small reasoning model stayed ~15-16% through SFT but dropped sharply after DPO and became almost nonexistent after RL with verifiable rewards plus an n-gram repetition penalty.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -974,6 +987,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260625-43B3] He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
 - [INS-260625-8BC8] SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
 - [INS-260626-408A] The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
+- [INS-260626-21EA] Because small models have low knowledge capacity, the winning strategy is to make them very good at specific tasks (e.g. data extraction, tool use) and accept being weak at code or math nobody uses them for.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -987,6 +1001,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 
 ## ai-development/model-architecture
 - [INS-260605-B82E] When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.
+- [INS-260626-4D5F] In tiny models the embedding layer can dominate the parameter count (63% in Gemma 3 270M), so the 'effective' reasoning parameters are far smaller than the headline size suggests.
 
 ## ai-development/pedagogy
 - [INS-260405-75C4] Watching someone use AI live is more instructive than reading or hearing about it.
@@ -1010,6 +1025,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260405-54B7] Tesla's January 2026 unsupervised robotaxi launch in Austin caused Uber and Lyft to fall 1-2% on the news, confirming that market participants now price AV as a live platform threat, not a future one.
 - [INS-260403-8832] YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
 - [INS-260626-6F6E] When agents choose the tools, the slogan shifts from 'make something users want' to 'build something agents choose.'
+- [INS-260626-55E0] If ~60% of your users are already bots (as Vercel reports), your dashboards stop mattering and your APIs, CLIs, and MCPs become the real product surface.
 
 ## ai-development/product-strategy
 - [INS-260323-5CBE] Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
@@ -1118,6 +1134,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260625-0758] Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
 - [INS-260625-0CAB] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
 - [INS-260626-09B3] When marginal tokens make the output more complete, spend them — token budget is high-ROI leverage, not a cost to minimize.
+- [INS-260626-3EB5] swyx's biggest aha was getting work he'd never gotten before from employees — animations, polish, throwaway-fun projects — because agents removed the feedback-cycle bottleneck of waiting on him or a contractor.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -1140,6 +1157,8 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260605-9402] Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - [INS-260625-BD36] Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
 - [INS-260625-26FE] Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely.
+- [INS-260626-8308] Hoist must-follow rules into their own critical-rules file positioned high in the agent file, because rules scattered in agent.md/soul.md still get forgotten.
+- [INS-260626-14E0] Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1330,6 +1349,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260626-E5E5] A thin backend mints short-lived tokens from the real API key and hands them to the browser, which opens the WebSocket directly — removing a proxy hop while limiting blast radius if a token leaks.
 - [INS-260626-E1CB] Two tempting shortcuts — caching answers and reusing prior answers as context — both backfire: code/docs/rationale change constantly, and recycling outputs regresses the system toward the mean.
 - [INS-260626-2044] When the source set is small and enumerable, feeding URLs directly into the model's context ('poor man's retrieval') gives you cited, post-cutoff grounding without the infrastructure cost of a vector DB.
+- [INS-260626-E45C] Cursor implemented the worktree feature as backend-controlled commands rather than bundled skills specifically so prompts could be iterated server-side and reach users on next use.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1384,6 +1404,9 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260626-AAD8] Offloading conversation state to the server preserves the prompt-prefix cache that client-side history edits (stripping whitespace, line breaks) quietly invalidate.
 - [INS-260626-5375] The same structure that makes a codebase easy for a new human to onboard makes it easy for an agent — collocated, modular code and conventional patterns let agents discover relevant files by listing a folder instead of grepping everywhere.
 - [INS-260626-8D05] Don't resolve every conflict with a heuristic and bury the ones you got wrong — surface unresolvable conflicts to the human and capture their correction as weighted memory.
+- [INS-260626-66DC] Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks.
+- [INS-260626-87B7] For diagrams, charts, and other structured visuals, have the model emit structured text that drives real shape primitives instead of generating an image.
+- [INS-260626-15F3] Use the LLM for understanding and connection-making; for fixed if-this-then-that rules use scripts and skip the model entirely.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -1404,6 +1427,7 @@ Generated on 2026-06-26 | 5836 actionable insights
 - [INS-260514-6561] The 'slop cannon' anti-pattern: pushing one button to replace six weeks of work produces high-volume low-quality output you'll have to redo. Automate selectively, not universally.
 - [INS-260514-F2D5] For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation.
 - [INS-260626-8723] Swap the chat trigger for an hourly schedule and keep the approval gates, so the agent runs unprompted but every consequential action still pings you for sign-off.
+- [INS-260626-8F3D] Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly.
 
 ## automation/content-creation
 - [INS-260320-D58E] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.

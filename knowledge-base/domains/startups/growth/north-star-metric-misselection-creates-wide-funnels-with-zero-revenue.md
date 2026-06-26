@@ -48,13 +48,14 @@ stance: >-
   weekly usage matters — systematically misallocates growth team effort and
   produces vanity growth that never converts.
 related:
-  - INS-260327-C673
   - INS-260328-23B4
   - INS-260329-2865
   - INS-260330-9933
   - INS-260403-FF3E
   - INS-260330-8326
+  - INS-260327-C673
   - INS-260405-3554
+  - INS-260626-BF18
 ---
 The North Star Metric must reflect the core value users get from the product and correlate tightly with long-term revenue. Slack chose 'Weekly Active Teams' (not sign-ups), Airbnb chose 'Nights Booked' (not listings), Spotify chose 'Time Spent Listening' (not downloads). Each metric points the entire organization — product, marketing, operations — at the same definition of success.
 

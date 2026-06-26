@@ -4,6 +4,7 @@
 - `INS-260626-67E8` The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
 - `INS-260626-ECC7` Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
 - `INS-260626-B0D5` AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
+- `INS-260626-BF18` Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
 - `INS-260625-0E60` The best eval is an environment that can measure whether the decision worked.
 - `INS-260626-3105` Run each eval ~5 times, track its pass rate, and give the tests you care about a small failure budget — a single green run proves nothing.
 - `INS-260625-D1F9` Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
@@ -24,8 +25,6 @@
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260605-5D14` If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
-- `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
-- `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260605-7843` Have experts grade agent traces AND write why; then run an LLM over the justifications to mine failure modes and generate scalable automated scorers.
 - `INS-260605-C513` You can define 80% of agent behavior statically and intentfully, but the ever-changing 20% is where the disasters live — so point your adaptive evals there.
@@ -43,13 +42,15 @@
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - `INS-260605-B44B` Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
+- `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
+- `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
-- `INS-260625-C08B` Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
-- `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260410-36E3` Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
+- `INS-260625-C08B` Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
+- `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.

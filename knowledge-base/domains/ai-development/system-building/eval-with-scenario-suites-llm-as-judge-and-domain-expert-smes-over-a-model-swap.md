@@ -57,10 +57,10 @@ stance: >-
   team safely swap in new models as they ship.
 related:
   - INS-260408-B5EC
-  - INS-260605-6C0C
   - INS-260605-D1F1
+  - INS-260626-3E1C
+  - INS-260605-6C0C
   - INS-260413-7816
-  - INS-260501-2A52
 ---
 Play Magnus built 16 scenarios around themes like tactical patterns, blunders, and hallucination-limiting (e.g., asserting the model mentions a knight fork that exists in a position). They extract scenarios from real games, use LLM-as-a-judge to score, and run candidate models through OpenRouter so they can quickly swap in new Gemini, GPT-5, or Claude versions as the rapid release cadence demands. Crucially, the final arbiters are the two builders, both strong chess players, who compare the model's output to how they would actually calculate and play — and they advise teams in other domains to recruit SME evaluators, who are often not the people building the system.
 

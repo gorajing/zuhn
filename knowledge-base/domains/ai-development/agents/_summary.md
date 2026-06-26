@@ -1,12 +1,13 @@
 # Topic: agents
 
-> 68 insights
+> 71 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
 - `INS-260605-610E` [high] Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
 - `INS-260605-809A` [high] Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
+- `INS-260626-8EAC` [high] Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
 - `INS-260410-F0EF` [high] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260410-E73E` [high] Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
 - `INS-260410-F40F` [high] One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
@@ -28,6 +29,7 @@
 - `INS-260625-E04B` [high] MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
 - `INS-260605-2D9B` [high] In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260410-9B0E` [high] Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
+- `INS-260626-5037` [high] Small models hallucinate because they're memory-bound with low knowledge capacity, but tool access (web search, Python) lets them outperform reliance on baked-in knowledge — and they're naturally strong at agentic tasks.
 - `INS-260410-B3C2` [high] pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260605-A28F` [high] Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260605-C009` [high] LLM-as-judge is 'the lunatics running the asylum' — write your own deterministic eval against a golden set when you can.
@@ -60,6 +62,7 @@
 - `INS-260605-8789` [medium] Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'
 - `INS-260605-2A01` [medium] Instead of asking an LLM 'rate this response 1-10,' define a solid set of specific issues and run cheap binary classifiers that tell you whether each issue's rate is rising or falling.
 - `INS-260625-F3B0` [medium] Like a Star Trek transporter for sessions: the full state — repos, SHAs, agent history, decisions — materializes on a coworker's machine, so they resume your Claude session with Codex and zero setup.
+- `INS-260626-9732` [medium] When agents cross the ~5-minute run threshold, the job becomes parallel-managing multiple agents while minimizing brain-frying context switches.
 - `INS-260423-85B3` [medium] Google ADK with LiteLLM: the Guardian agent runs on Gemma 4 today, can swap to any LiteLLM-supported model tomorrow, because the agent layer does not encode Gemini-specific assumptions.
 - `INS-260413-11C9` [medium] Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260626-9E65` [medium] Beyond fan-out for speed, spin up N sub-agents to generate divergent hypotheses on the same target — different vulnerability angles on one diff, several implementation approaches for one feature, best-of-N cloud runs.

@@ -49,6 +49,7 @@ related:
   - INS-260625-0021
   - INS-260602-E2BD
   - INS-260605-320E
+  - INS-260626-8F3D
 stance: >-
   Classical robotics systems fail loudly (joint limit hit, object not detected,
   planner infeasible)

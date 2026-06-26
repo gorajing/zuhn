@@ -53,10 +53,10 @@ stance: >-
   rather than additively.
 related:
   - INS-260412-3506
+  - INS-260626-4D31
   - INS-260325-206C
   - INS-260412-CE4D
   - INS-260403-80D9
-  - INS-260405-180A
 ---
 Meta's Q4 2021 earnings revealed two simultaneous problems: Facebook's first-ever user decline AND $3.3B in quarterly losses from the Reality Labs metaverse division (totaling $8.3B for the year). Either problem alone might have caused a moderate selloff, but together they created a narrative of a company losing its core business while burning cash on an unproven bet.
 

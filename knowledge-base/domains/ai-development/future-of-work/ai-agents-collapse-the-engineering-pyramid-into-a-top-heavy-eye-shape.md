@@ -58,6 +58,7 @@ related:
   - PRI-260406-4B8E
   - INS-260605-9276
   - PRI-260406-806C
+  - INS-260626-F14C
 ---
 The traditional mature-product engineering team is a pyramid: a leader, a few senior engineers, and a large base of junior people writing code and fixing bugs. Reynold Xin argues that well-harnessed AI agents now do most of that base-of-the-pyramid coding work — and in some cases the design work — which removes the structural reason to staff a large junior tier.
 

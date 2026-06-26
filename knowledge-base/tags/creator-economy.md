@@ -5,8 +5,8 @@
 - `INS-260501-70FE` Amjad Masad: I no longer think you should learn how to code — people building multi-million dollar businesses solo don't need to learn how to code, they need to learn how to create.
 - `INS-260409-278A` Agency pricing hasn't repriced for AI yet - the gap between creator cost and agency quote is an arbitrage window.
 - `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
-- `INS-260514-CCBF` The home studio revolution killed BOOKING FRICTION — the actual gatekeeper. When a producer can wake at 3am and record, label power dissolves. Same dynamic: AI agents (no engineer scheduling), AI image (no studio booking), AI writing (no editor queue).
 - `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
+- `INS-260514-CCBF` The home studio revolution killed BOOKING FRICTION — the actual gatekeeper. When a producer can wake at 3am and record, label power dissolves. Same dynamic: AI agents (no engineer scheduling), AI image (no studio booking), AI writing (no editor queue).
 - `INS-260403-E8E3` Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
 - `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'

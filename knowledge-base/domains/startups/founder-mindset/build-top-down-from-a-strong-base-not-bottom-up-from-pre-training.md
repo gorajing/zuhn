@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cursor reasons top-down—how do we get a useful model to users in the least
@@ -59,8 +59,8 @@ related:
   - INS-260410-F985
   - INS-260404-CE26
   - INS-260327-5D5F
+  - INS-260626-9A2A
   - INS-260327-30E4
-  - PRI-260328-C581
 ---
 Despite sitting on a uniquely rich stream of coding tokens that could support near-pre-training-scale data, Cursor deliberately did not pre-train its own model from scratch. The reasoning is explicitly top-down: building bottom-up would mean first figuring out pre-training, then scaling to mid-training, then RL—a sequence that delays a useful model reaching users for a very long time. By starting from a strong open base and pushing on mid-training and large-scale RL instead, they shipped a competitive model quickly, with the plan to internalize earlier stages in later versions.
 

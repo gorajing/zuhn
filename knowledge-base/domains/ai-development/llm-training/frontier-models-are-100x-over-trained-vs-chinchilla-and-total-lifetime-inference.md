@@ -61,8 +61,8 @@ related:
   - INS-260410-E1D9
   - INS-260501-C4AA
   - INS-260405-A22F
+  - INS-260626-8E45
   - INS-260403-141E
-  - INS-260625-1955
 ---
 Pope's calculation: with ~100B active parameters and ~150T pretraining tokens, frontier models are ~100x past Chinchilla-optimal (which would suggest ~1.5T training tokens for that model size). The reason is that Chinchilla optimizes training compute alone — it ignores inference cost. When you also amortize over RL generation and 2 months of serving 50M+ tokens/second, the optimal point shifts dramatically toward smaller models trained much longer.
 

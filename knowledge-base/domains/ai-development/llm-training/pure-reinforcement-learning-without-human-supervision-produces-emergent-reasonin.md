@@ -55,7 +55,6 @@ stance: >-
   human-supervised training may actually constrain model creativity.
 related:
   - INS-260325-2FC1
-  - INS-260403-2138
   - INS-260325-6FA7
   - PRI-260411-ACEF
   - INS-260625-E9A9

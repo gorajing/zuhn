@@ -47,7 +47,6 @@ stance: >-
   while specialized vertical AI startups capture most of the remaining value
 related:
   - INS-260327-CA1C
-  - INS-260330-3257
   - INS-260403-3517
   - INS-260403-426A
   - INS-260404-EA1D
@@ -56,6 +55,7 @@ related:
   - INS-260404-5684
   - INS-260403-7037
   - INS-260405-A23B
+  - INS-260514-FAB4
 ---
 The 2025 generative AI market is crystallizing into two tiers: horizontal platform companies (OpenAI, Anthropic) competing for general-purpose dominance, and specialized startups capturing defensible niches in verticals like legal and medical AI.
 

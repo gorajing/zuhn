@@ -54,6 +54,7 @@ related:
   - INS-260524-8E5D
   - INS-260626-8723
   - INS-260327-13B3
+  - INS-260626-9732
   - INS-260410-85AD
 ---
 Today coding tasks run 5-45 minutes, so you can roughly time your check-ins and idle waste is small. But Richman argues that window 'is only going to get longer.' When a task runs for 5 hours or 5 days, polling breaks down completely — you cannot keep checking, and the longer an agent waits blocked, the more agent time you've missed.

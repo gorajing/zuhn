@@ -2,8 +2,8 @@
 
 - `INS-260626-3AD0` Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster.
 - `INS-260325-2B76` The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
-- `INS-260320-77C2` Sample analog synth sounds (like Moog DFAM) into a digital sampler/sequencer (like Elektron Digitakt) to get warm analog timbre with precise digital sequencing and pattern control.
 - `INS-260410-5075` Financial repression is bad, but suddenly removing it is worse — Japan's 1985 Plaza Accord deregulation led directly to their 1992 crisis because they 'didn't know what they were doing' yet.
+- `INS-260320-77C2` Sample analog synth sounds (like Moog DFAM) into a digital sampler/sequencer (like Elektron Digitakt) to get warm analog timbre with precise digital sequencing and pattern control.
 - `INS-260410-CBF9` Tocqueville's rule held for the USSR: 'the most dangerous moment for a bad government is when it begins to reform,' because Gorbachev gave away political power before fixing the economy while Deng held political power and fixed the economy.
 - `INS-260329-444F` Study what successful people did at your stage, not what they do now, to find the right playbook.
 - `INS-260330-E47D` Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.

@@ -58,8 +58,8 @@ related:
   - INS-260605-6C0C
   - INS-260605-4788
   - INS-260625-DD6B
+  - INS-260626-21EA
   - INS-260403-1B15
-  - INS-260626-742C
 ---
 OpenAI is pushing two directions at once: larger models for long-running and complex tasks, and GPT-mini/nano for short-running tasks and sub-agents. The mini models are described as tying in 'quite well with sub-agents,' letting you parallelize a feature or bug request 'at a faster rate all while making sure that you don't pay as much cost.' The pairing is intentional: the small model exists in part to make the parallel architecture affordable.
 

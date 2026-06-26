@@ -61,7 +61,6 @@ stance: >-
   2-year-old use case
 related:
   - INS-260322-3D21
-  - INS-260323-9492
   - INS-260327-0246
   - INS-260403-499B
   - INS-260405-A309
@@ -70,6 +69,7 @@ related:
   - INS-260501-10B4
   - INS-260501-FBC6
   - INS-260514-EE2E
+  - INS-260625-A4DE
 ---
 The conventional wisdom says enterprises adopt slowly because of compliance/legal/integration friction. The panel evidence suggests something stronger: enterprises are also self-bottlenecking on a stale mental model of what AI does — specifically, they're still in 'chat with our internal documents' deployment, which is a 2024-era use case.
 

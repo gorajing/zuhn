@@ -42,7 +42,7 @@ related:
   - INS-260625-C1E8
   - INS-260625-26F5
   - INS-260625-A5E7
-  - INS-260605-D912
+  - INS-260626-9732
   - INS-260625-2B5A
 ---
 SentinelBench makes the production tradeoff explicit: monitoring agents can complete a task while being too slow or too expensive to deploy. For AgentRun, any watch/automation gate should pair the binary outcome with elapsed time, token/tool-call budget, polling behavior, and whether the system waited for the right condition instead of continuously acting.

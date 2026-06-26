@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 150 insights
+> 152 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -125,6 +125,8 @@
 - `INS-260626-7EA8` [medium] ElevenLabs employs 1000+ voice coaches, musicians, and artists to annotate not just the 'what' of audio but the 'how' — emotion, voice description, music description — a deliberate bet that won't return value for 12-24 months.
 - `INS-260605-C122` [medium] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
+- `INS-260626-4A96` [medium] Cursor accepted that the skill-based worktree feature is harder to discover because it serves power users, and minimizing maintenance on an advanced feature mattered more than surfacing it in the UI.
+- `INS-260626-ACD0` [medium] For local, file-based tools, you can unlock far more agent capability by giving users sharp tools and owning the risk rather than sandboxing the agent.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
 - `INS-260624-5865` [medium] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260424-5759` [medium] Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic.

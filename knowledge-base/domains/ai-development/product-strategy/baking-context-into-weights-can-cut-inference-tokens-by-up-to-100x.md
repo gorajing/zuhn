@@ -64,11 +64,10 @@ related:
   - INS-260409-17E9
   - INS-260410-699C
   - PRI-260411-ACEF
-  - INS-260501-8B78
   - INS-260605-C859
   - INS-260625-429B
+  - INS-260626-8E45
   - INS-260424-0554
-  - INS-260405-A22F
   - INS-260626-6AF4
 ---
 The economic core of Engram's pitch is a compute-shifting tradeoff: burn more compute once to learn an organization's way of working into the weights, then send far less context on every inference pass. The founders insist the savings are not marginal (50%) but can be 100x — two orders of magnitude — because much organizational knowledge (people, teams, priorities, who to triage what to) is implicit and can't be located in any single document to retrieve.

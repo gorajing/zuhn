@@ -1,10 +1,10 @@
 # Tag: compression
 
+- `INS-260605-2ECD` Don't store traces as memory; distill traces into navigable evidence.
+- `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260423-55B2` Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words.
 - `INS-260325-D392` PolarQuant converts Cartesian vectors to polar coordinates, revealing that angle distributions are naturally concentrated — making compression trivial without the normalization overhead traditional methods require.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
-- `INS-260605-2ECD` Don't store traces as memory; distill traces into navigable evidence.
-- `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260625-D148` Because DeepSeek-V4 interleaves lossy compressed-attention layers, it relies on the residual stream (mHC) to propagate uncompressed information forward, protecting against data a single layer discarded but a later layer needs.
 - `INS-260412-4493` Camera-model forensic signatures are destroyed by re-compression during internet sharing, eliminating the main technical detection method precisely where fakes circulate.
 - `INS-260605-3345` Compress snapshots seekably and decompress only the memory pages actually needed on restore, shrinking a 512MB VM snapshot to ~14MB and cutting restore to a few hundred milliseconds.

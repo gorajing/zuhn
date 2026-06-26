@@ -18,7 +18,6 @@
 - `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
-- `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260403-56A9` Seek peers working on their own ambitious projects rather than generic cheerleaders, because they can tell ugly ducklings from baby swans.
 - `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
@@ -27,6 +26,7 @@
 - `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
 - `INS-260325-9F12` Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
 - `INS-260326-8217` When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.
+- `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260404-FA5B` You need peers who can tell an ugly duckling from a baby swan, not just people who are always encouraging.

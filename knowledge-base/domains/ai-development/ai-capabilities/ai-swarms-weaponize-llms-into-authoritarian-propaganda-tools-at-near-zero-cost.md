@@ -50,8 +50,8 @@ related:
   - INS-260625-A7AD
   - PRI-260323-7BFA
   - INS-260322-2D2F
+  - INS-260626-55E0
   - INS-260323-E492
-  - INS-260330-95F3
 stance: >-
   Coordinated bot swarms using LLMs can now maintain persistent fake personas
   and manufactured consensus at unprecedented scale, threatening democrat...

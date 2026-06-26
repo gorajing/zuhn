@@ -1,7 +1,7 @@
 # Tag: delayed-gratification
 
-- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260329-177E` The 'Season of No' is a deliberate period of saying no to all social activities and entertainment to create an environment that makes intense work the only option.
+- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260329-F20E` Teaching building blocks without immediate practical context creates a stronger conceptual breakthrough when the payoff finally arrives.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.

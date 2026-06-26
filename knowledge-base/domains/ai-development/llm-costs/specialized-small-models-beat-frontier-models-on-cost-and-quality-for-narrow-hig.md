@@ -69,7 +69,8 @@ related:
   - INS-260625-407C
   - INS-260410-5951
   - INS-260410-F985
-  - PRI-260405-FB37
+  - INS-260626-87B7
+  - INS-260626-66DC
 ---
 After acquiring Mosaic, Databricks deliberately stopped chasing frontier general models — reasoning that many others would release those and that the marginal recipe is 'just throwing a lot of compute' — and instead focused on the next step: making smart models useful. Their canonical example is document parsing (PDFs, Word docs): sending a page image to a frontier model 'almost gets it' but gets details wrong and burns a huge number of tokens. Their specialized vision model returns clean JSON of all page components, is competitive-to-better on quality, and is about 100x cheaper. The same pattern shows up in specialized sub-agents for coding ('advisor models').
 

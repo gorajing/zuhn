@@ -59,7 +59,6 @@ stance: >-
 related:
   - INS-260323-DA4A
   - INS-260322-B641
-  - INS-260328-3446
   - INS-260327-79E8
   - INS-260405-227C
   - INS-260330-4AD5
@@ -67,6 +66,7 @@ related:
   - INS-260410-1B17
   - INS-260514-1D60
   - INS-260530-E6AA
+  - INS-260605-7125
 ---
 Crawford frames a useful intuition for choosing a training method: separate behavior from knowledge. The financial tool-use failure was a behavior problem — the model knew how to reason about growth rates but didn't act with discipline when using tools. That is precisely the kind of thing RL is good at shaping, because RL optimizes a policy over actions and their consequences rather than re-writing the latent facts in the weights.
 

@@ -50,8 +50,8 @@ related:
   - INS-260327-5EEA
   - INS-260411-52C8
   - INS-260411-D060
+  - INS-260626-2447
   - PRI-260328-1ED1
   - INS-260327-C1A4
-  - INS-260625-447A
 ---
 In a typical multi-agent setup, an orchestrator delegates subtasks to specialized agents and is then forced into a dual role: orchestrating the task AND proxying every granular progress update from sub-agents back to the client. But the orchestrator usually only cares about the final results — relaying progress is accidental complexity. With a durable session, all agents (orchestrator and sub-agents) write independently to the same shared layer. Clients subscribe to a single entity — the session — and get full visibility into every agent's activity plus other clients' activity, with no centralized progress relay. This drastically simplifies the architecture and removes the orchestrator as a bottleneck.

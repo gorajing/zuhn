@@ -1,5 +1,6 @@
 # Tag: licensing
 
+- `INS-260626-BAE9` Gemma 4 moved to an Apache 2.0 license specifically to make the models accessible to everyday developers across initial testing, deployment, and building, paired with both self-host (Hugging Face, Kaggle, Ollama) and cloud (AI Studio, Vertex) paths.
 - `INS-260625-84DB` Ship under a recognized standard license like Apache 2.0 rather than a custom one, because custom terms — however friendly — trigger month-long legal procurement that blocks adoption.
 - `INS-260404-396E` ARM earns $1-10M upfront per license plus 1-2% royalties on every chip shipped, blending stability with volume upside.
 - `INS-260410-F455` Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.

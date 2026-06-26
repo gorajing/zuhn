@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 93 insights
+> 98 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -19,6 +19,7 @@
 - `INS-260410-A27C` [high] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260625-26F5` [high] Stop measuring agent success like a researcher (accuracy) and start measuring it like an SRE — reliability, availability, latency, cost, recovery — because dependable outcomes, not benchmark peaks, are the goal.
 - `INS-260514-6EE6` [high] One day a week, every engineer's job is to take every bit of weekly slop and categorically eliminate it from happening again. Compounds dramatically.
+- `INS-260626-87B7` [high] For diagrams, charts, and other structured visuals, have the model emit structured text that drives real shape primitives instead of generating an image.
 - `INS-260605-C37E` [high] When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
 - `INS-260404-9C57` [high] Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260410-1430` [high] Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
@@ -39,7 +40,9 @@
 - `INS-260404-B1BC` [high] Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
 - `INS-260605-004A` [high] Merging diarization and STT outputs is hard because their timestamps disagree, STT mistranscribes overlaps, and each can detect speech the other misses — so it needs a real reconciliation layer.
 - `INS-260514-F74B` [high] Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain.
+- `INS-260626-7F55` [high] Cursor's old worktree code made escaping the checkout physically impossible; the markdown skill only asks the model to stay put, so models sometimes wander into the primary checkout.
 - `INS-260605-CFB7` [high] Self-hosting the model, relocating data, moving to on-prem infra, and adding tracing each detonate a distinct class of hidden coupling.
+- `INS-260626-15F3` [high] Use the LLM for understanding and connection-making; for fixed if-this-then-that rules use scripts and skip the model entirely.
 - `INS-260410-0C77` [high] Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260605-0C24` [high] Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
 - `INS-260626-AAD8` [high] Offloading conversation state to the server preserves the prompt-prefix cache that client-side history edits (stripping whitespace, line breaks) quietly invalidate.
@@ -67,6 +70,7 @@
 - `INS-260605-59FE` [medium] The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260625-BBB1` [medium] Add attributes to an HTML form and the browser auto-generates the JSON schema; for complex multi-step UI, manually register custom tools with hand-written schemas and execute blocks.
 - `INS-260405-8E85` [medium] Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
+- `INS-260626-66DC` [medium] Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks.
 - `INS-260605-A2AD` [medium] When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.
 - `INS-260605-D129` [medium] Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
 - `INS-260404-F7C5` [medium] Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
@@ -75,6 +79,7 @@
 - `INS-260412-9414` [medium] Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
 - `INS-260605-E706` [medium] Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 - `INS-260626-8660` [medium] Treat your personal notes as an immutable snapshot the LLM never touches; agent-generated concepts, comparisons, and summaries live in a separate derivative layer that references it.
+- `INS-260626-5882` [medium] Local-first and file-over-app architectures gain new justification as the only way to expose the live browser state agents need to observe and script against.
 - `INS-260625-3464` [medium] Rather than reverse-engineering how Cloudflare detects bots, make the agent emit human-like signals (mouse movement, typing cadence) so detection never triggers in the first place.
 - `INS-260624-A121` [medium] Cybersecurity agents improve from both stronger models and better scaffolding.
 - `INS-260605-8AEE` [medium] A modular speech pipeline lets you swap individual ASR, language, and TTS models to fit any device from a first-gen M1 to the latest chip — flexibility a monolithic speech-to-speech model can't match.

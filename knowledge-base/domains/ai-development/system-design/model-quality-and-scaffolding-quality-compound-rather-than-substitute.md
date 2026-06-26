@@ -42,12 +42,12 @@ stance: >-
   harness/scaffolding improvements can independently raise results by giving the
   same model better tools, context, workflow, and verification.
 related:
-  - INS-260326-2410
   - INS-260605-2284
   - INS-260605-A28F
   - INS-260605-20DD
+  - INS-260626-48F7
+  - INS-260326-2410
   - INS-260625-52C0
-  - INS-260403-4120
 ---
 In Q&A, the speaker noted that newer models substantially improve baseline capability, but also that newer agent scaffolds outperform older scaffolds even with similar model capability. The system-level ingredients include tools, prompts, role decomposition, context packaging, patch workflows, validation loops, and retry logic.
 

@@ -62,6 +62,7 @@ related:
   - PRI-260403-ABDE
   - INS-260605-4AB0
   - PRI-260328-1ED1
+  - INS-260626-2447
 ---
 Burtenshaw's central design takeaway is that agents work best with open primitives — tools whose underlying data and behavior the agent can fully reach into and control in its own way. His example is Trackio, a dashboard that is 'basically just a data store' backed by open Parquet: if the agent doesn't want the dashboard, it can read the Parquet directly and build a Gantt chart or any other view it needs.
 

@@ -64,11 +64,12 @@ stance: >-
   the infrastructure and liability burden of hosting third-party content.
 related:
   - INS-260423-81B6
-  - INS-260605-743D
   - INS-260625-5CE4
   - INS-260625-07CB
   - INS-260625-4559
   - INS-260605-1BBF
+  - INS-260605-743D
+  - INS-260626-5882
 ---
 The naive alternative to the double iframe is for the host to run a proxy server on its own domain that downloads each MCP server's HTML resource and re-serves it. That puts the host in a bad position twice over: it must run dynamic, per-app content-serving infrastructure, and it becomes responsible for executing and exposing code on its own domain that it doesn't control and can't fully audit.
 

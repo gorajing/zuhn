@@ -53,6 +53,6 @@ related:
   - INS-260605-C223
   - INS-260409-51B2
   - INS-260605-9FCF
-  - INS-260325-E652
+  - INS-260626-8EAC
 ---
 Karpathy's claim, endorsed in the video, is that the standard RAG stack (vector DB, embeddings, retrievers, rerankers) is over-engineered for personal and small-team scales. A well-structured Obsidian vault where a coding agent can cheaply read, write, and traverse files achieves the same retrieval quality because an LLM with strong long-context reasoning can follow explicit directory and link structure. The cutover point is document count: once you're approaching millions of documents, a proper retrieval system becomes cheaper and faster regardless of how well Claude Code navigates the markdown graph. But almost nobody in solo-developer and small-team contexts is actually at that scale, making the vector RAG default a premature optimization.

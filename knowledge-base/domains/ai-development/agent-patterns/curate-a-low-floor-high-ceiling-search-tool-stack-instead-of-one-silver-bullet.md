@@ -55,8 +55,8 @@ related:
   - INS-260605-0C88
   - INS-260404-CCB1
   - INS-260625-3EE6
+  - INS-260626-21EA
   - INS-260326-2410
-  - INS-260605-D0A0
 ---
 Monigatti borrows the UX concept of 'low floor, high ceiling' for search tools. A low-floor tool — e.g. get-customer-by-ID or a single-string semantic search — has simple parameters, works with a weak/cheap model, rarely errors, and needs few iterations. These cover frequent, predictable operations efficiently.
 

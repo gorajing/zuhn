@@ -60,7 +60,6 @@ stance: >-
   you own whenever data residency, customization, or service-continuity matter
   more than peak intelligence.
 related:
-  - INS-260329-5F19
   - INS-260605-DC65
   - PRI-260405-BFAC
   - INS-260321-D01E

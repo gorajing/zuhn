@@ -20,8 +20,15 @@
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260410-3B42` Rentech's location in East Setauket — a wooded Long Island town of 10,000 — is a load-bearing cultural feature, not an accident: employees don't grab drinks with Two Sigma counterparts because those counterparts aren't within reach.
 - `INS-260410-0042` Equity to part-time frontline workers isn't retention math — it's the moment a company becomes a different organism.
+- `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
+- `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
 - `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - `INS-260404-0EE0` Startups that track only revenue and signups miss the early warning signals—return rates, cancellation trends, AOV drops—that predict failure.
+- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
+- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
+- `INS-260403-E930` Investors value cohort retention tables above topline metrics because they prove revenue durability rather than just acquisition velocity.
+- `INS-260404-F0E9` Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
+- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260404-3771` Find what sticky users do differently, then make every new user do that thing.
 - `INS-260403-2A8B` Aggregate churn rates mask divergent cohort performance, hiding both critical problems and meaningful improvements.
@@ -34,10 +41,6 @@
 - `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
 - `INS-260403-9863` A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
-- `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
-- `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
-- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
-- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
@@ -45,9 +48,6 @@
 - `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
-- `INS-260403-E930` Investors value cohort retention tables above topline metrics because they prove revenue durability rather than just acquisition velocity.
-- `INS-260404-F0E9` Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
-- `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.

@@ -76,7 +76,7 @@ related:
   - INS-260625-D772
   - INS-260322-54F3
   - INS-260412-EB2D
-  - INS-260605-738E
+  - INS-260605-33C0
 ---
 Today's Mixture-of-Experts models are structurally rigid — every expert is the same size, paths merge back together immediately, and the whole training run is a monolithic process that requires starting from scratch to test each idea. Dean argues this is both a research and an organizational bottleneck: scarce training runs force trade-offs like 'more multilingual data OR more coding data' that could be avoided if modules grew independently.
 

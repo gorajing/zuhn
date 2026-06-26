@@ -55,8 +55,8 @@ related:
   - INS-260410-2067
   - INS-260405-214D
   - INS-260326-CAAB
-  - INS-260409-0D87
   - INS-260605-B8D3
   - INS-260625-211E
+  - INS-260626-BCC7
 ---
 A single algorithmic breakthrough in vector quantization (TurboQuant) simultaneously unlocks: 6-8x cheaper LLM inference through KV cache compression, faster vector search with superior recall ratios compared to state-of-the-art methods (PQ, RabbiQ), and more efficient embedding storage for search indices. This happens because LLMs, search engines, and embedding databases are all fundamentally operating on the same mathematical substrate — high-dimensional vector operations. Improvements at this foundational layer propagate multiplicatively through every system built on top. This is why Jensen Huang's 'four scaling laws' framework includes efficiency as a first-class scaling axis alongside pre-training, post-training, and inference-time compute.

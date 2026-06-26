@@ -1,15 +1,15 @@
 # Tag: cybersecurity
 
 - `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
-- `INS-260323-B3A3` Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260624-6753` High-stakes agent findings should be checked by heterogeneous reviewers.
 - `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.
 - `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
+- `INS-260323-B3A3` Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260624-C9A8` AI-speed offense forces AI-speed defense.
 - `INS-260325-BE3A` A digital computer takes hundreds of years to factorize a 50-digit number; a quantum computer could do it almost instantly — every national secret encoded in digital encryption is theoretically vulnerable.
 - `INS-260624-A121` Cybersecurity agents improve from both stronger models and better scaffolding.
-- `INS-260322-2D2F` Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
 - `INS-260412-79D5` Public-key encryption's security relies on computational difficulty that quantum computers eliminate, creating a binary safe/broken threshold.
+- `INS-260322-2D2F` Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
 - `INS-260404-D7E0` Palo Alto Networks and Splunk's 2012 IPOs signaled that cybersecurity and big data were structural growth sectors, not niche plays.
 - `INS-260404-7680` Each attack stopped and integration added makes the security platform smarter, creating a compounding data moat that new entrants cannot replicate.
 - `INS-260403-8BA4` YC's investment focus has migrated from speculative consumer tech toward cybersecurity, industrial, and B2B solutions.

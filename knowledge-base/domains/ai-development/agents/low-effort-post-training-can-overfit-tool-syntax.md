@@ -46,7 +46,7 @@ related:
   - INS-260605-C122
   - PRI-260406-3EF8
   - INS-260403-B800
-  - INS-260605-365A
+  - INS-260626-ACD0
 ---
 Under the stronger v2.0 tool-schema shift, Qwen2.5-7B-Instruct post-trained with GRPO under h-low scores 2.7, below the 13.5 base model reported without post-training. In the GiGPO analysis, h-low and h-mid agents produce invalid tool formats in 81.2% and 75.1% of attempts, while h-high produces 95.7% valid tool calls under v2.0 but still has admissibility errors.
 

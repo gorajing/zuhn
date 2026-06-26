@@ -11,26 +11,33 @@
 - `INS-260625-2B5A` Correctness gates should encode behavior, not proximity to one historical patch.
 - `INS-260626-983E` The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260605-BA6A` What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
+- `INS-260626-9732` When agents cross the ~5-minute run threshold, the job becomes parallel-managing multiple agents while minimizing brain-frying context switches.
 - `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260325-2DCD` Coding agents create well but cannot steward codebases — they lack system design judgment.
-- `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
-- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
-- `INS-260410-9EA8` Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
 - `INS-260626-09E1` Vercel AI SDK 7 makes established coding-agent harnesses pluggable behind a common Agent interface.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-9523` Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
+- `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260625-814D` Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
+- `INS-260626-35A9` Hand the agent a token-cheap fake app that is auth-shaped and login-shaped so it learns where the right events belong, without dragging a whole production codebase into context.
 - `INS-260625-3866` Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
+- `INS-260626-D8E6` Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-AE0D` Sort parallel agent sessions into lanes by required oversight — fire-and-forget test refactors at one end, conversational P0 feature work at the other.
+- `INS-260626-9A2A` A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
 - `INS-260624-E89C` Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260325-031F` Linda from Minimax outlined three coding eras: GUI copilots where humans supervise, CLI agents where humans trust but cannot inspect every step, and fully autonomous agents spawning sub-agents.
+- `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
+- `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
+- `INS-260410-9EA8` Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
 - `INS-260603-50B1` Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
+- `INS-260626-A3E4` Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours.
 - `INS-260410-8767` Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260325-3F86` AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
+- `INS-260626-14E0` Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
 - `INS-260605-9CE2` Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - `INS-260605-4A94` Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - `INS-260625-C69F` Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.

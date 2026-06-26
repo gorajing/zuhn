@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 148 insights
+> 151 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -16,6 +16,7 @@
 - `INS-260329-6CE8` [high] AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260329-B062` [high] AI replaced creative and expert roles before low-skill physical jobs, reversing what most people predicted.
 - `INS-260404-5628` [high] Predicting AI will disrupt specific jobs does not automatically mean the overall economy crashes — these are separate analytical questions requiring different frameworks.
+- `INS-260626-A3E4` [high] Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours.
 - `INS-260501-20F9` [high] Engineering hiring is now bimodal — AI-fluent vs not. The productivity gap is enormous and we hire only for the fluent group.
 - `INS-260327-C962` [high] Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260405-FCBE` [high] AI automates volume in sales, making precision the only remaining differentiator.
@@ -130,6 +131,7 @@
 - `INS-260605-50F5` [medium] Stop optimizing for engineer output and start optimizing the whole pipeline for how fast agents can move.
 - `INS-260410-18A0` [medium] Productivity improvements historically generate more jobs, not fewer, because companies with infinite ambition expand into new areas whenever they become more profitable.
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
+- `INS-260626-48F7` [medium] When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` [medium] When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
 - `INS-260501-3088` [medium] 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening.
@@ -144,6 +146,7 @@
 - `INS-260403-6691` [medium] The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
 - `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.
+- `INS-260626-7CC7` [medium] A 'tiny team' has more millions in revenue than employees, and AI makes that achievable for ordinary companies, not just unicorn founders.
 - `INS-260501-033E` [medium] When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap.
 - `INS-260403-DED4` [medium] The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
 - `INS-260605-ED35` [medium] Once agents can plausibly do most of your work, the scarce decision is which slices of work you keep for yourself because they define your value and you enjoy them.

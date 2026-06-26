@@ -56,5 +56,6 @@ related:
   - INS-260605-8BEA
   - INS-260625-F3B0
   - INS-260625-BCD8
+  - INS-260626-35A9
 ---
 Savkin's thought experiment: a genie grants you John Carmack as your engineer, but imposes two restrictions — he can only see ~1/1000 of your codebase, and he remembers nothing from before; every conversation starts fresh. That, he argues, is exactly what agents are today: a genius on one side and something deeply deficient on the other. The deficiency is not intelligence — it's structural confinement along two orthogonal axes. The *space* axis is the repo boundary: an agent sees and changes generally one repo at a time and never sees the whole system, which can be hundreds or thousands of repos. The *time* axis is amnesia: no episodic memory, so the human becomes the system's memory. Framing the problem this way is powerful because it separates 'make the model smarter' (often intractable) from 'lift the structural constraints' (an engineering problem you can actually attack). It also predicts where pain scales: the more complex the organization, the more apparent both limits become.

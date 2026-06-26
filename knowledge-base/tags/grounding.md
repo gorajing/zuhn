@@ -1,8 +1,8 @@
 # Tag: grounding
 
+- `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
 - `INS-260325-9BBC` AlphaProof frames theorem proving as an RL environment with states (proof states), actions (tactics), and machine-verified rewards — enabling self-play learning on 80M auto-formalized problems.
 - `INS-260605-3047` Because Nano Banana is built on Gemini, it can grade math homework or render a landmark from a sketched arrow on a map.
-- `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
 - `INS-260605-0C24` Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
 - `INS-260626-2044` When the source set is small and enumerable, feeding URLs directly into the model's context ('poor man's retrieval') gives you cited, post-cutoff grounding without the infrastructure cost of a vector DB.
 - `INS-260327-B987` Grounding mats that connect to earth's electromagnetic field may be the most effective non-pharmaceutical sleep relaxation tool, based on reported subjective effects and emerging research.

@@ -61,6 +61,8 @@ related:
   - PRI-260328-A65A
   - INS-260626-B38C
   - INS-260626-DD33
+  - INS-260626-2E1F
+  - INS-260626-E45C
 ---
 Historically, reliability came from workflows: a router classifies the request and hands it to a narrow specialist agent loaded with the right context (e.g. a password-reset agent). This breaks the moment a user wants two things at once — reset password AND change email — because the router has no branch for the combination. Skills resolve this by giving a general agent a formalized manual it can read on demand, progressively disclosing the context needed for whichever combination of sub-tasks shows up.
 

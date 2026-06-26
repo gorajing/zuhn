@@ -52,8 +52,8 @@ related:
   - INS-260605-800F
   - INS-260625-BCD8
   - INS-260524-D5DB
+  - INS-260626-F14C
   - INS-260605-46B2
-  - INS-260626-1B29
   - INS-260626-4BC2
 ---
 Traditionally a human solves the entire context problem first — assembling, cleaning, and structuring knowledge — then hands it to the agent to consume. Demand-driven context reassigns that labor: when the agent solves a problem after a human fills its gaps, it must also curate the new knowledge into a reusable location (the speaker's demo showed it discovering 5-6 net-new entities per incident and writing them back to the store with date and state metadata). This reframes the agent's role from passive consumer to active knowledge manager — it doesn't just take information, it manages the knowledge base on your behalf. The practical payoff is that knowledge management stops being a separate, perpetually-deferred human project and becomes an automatic output of doing the work, which is the only way it scales past the point where manually sitting with an agent per incident becomes unbearable.

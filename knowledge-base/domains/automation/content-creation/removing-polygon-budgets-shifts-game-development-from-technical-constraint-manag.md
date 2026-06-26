@@ -56,6 +56,7 @@ related:
   - PRI-260406-1188
   - PRI-260406-72B3
   - INS-260403-1D43
+  - INS-260626-66DC
 ---
 Unreal Engine 5's Nanite technology uses hierarchical triangle clusters streamed on demand, effectively removing the polygon budget that previously forced developers to constantly trade artistic fidelity against performance. The Matrix demo rendered 7 million assets across 7,000 buildings with millions of polygons each — a scene impossible under traditional constraints.
 

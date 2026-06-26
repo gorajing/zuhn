@@ -6,6 +6,7 @@
 - `INS-260605-74E8` An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
+- `INS-260626-2E1F` Cursor deleted ~15K LoC by re-expressing its worktree feature as a 40-line best-of-N skill plus a worktree skill, built only from existing skill and sub-agent primitives.
 - `INS-260626-23E7` Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
 - `INS-260626-6F68` Treat context as a first-class engineered artifact that flows through generate, evaluate, distribute, observe, and adapt — the same loop as software.
 - `INS-260605-C9E8` Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
@@ -53,8 +54,8 @@
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260626-A08F` Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
-- `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
+- `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260605-BDFF` A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - `INS-260605-4592` In a large org, skills sprawl out of control; only the best should survive, by deliberate Darwinian pruning.
 - `INS-260605-BBCF` Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.

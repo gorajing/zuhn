@@ -11,4 +11,5 @@
 - `INS-260605-9B99` Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely.
 - `INS-260605-D3EB` Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt.
 - `INS-260625-48FA` Gemma's 'effective vs active parameters' split works because per-layer embeddings are lookups, not matrix multiplies, so they can live off the GPU.
+- `INS-260626-BCC7` Gemma 4's 'effective' small models gain capacity by keeping a small (256-dim) per-layer embedding table in flash memory rather than VRAM, since VRAM is the binding on-device constraint.
 - `INS-260605-8F95` Once you drop to 100-200M parameters, a model needs a very narrow and focused task to function — generality is traded away for size.

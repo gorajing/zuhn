@@ -66,8 +66,8 @@ related:
   - INS-260605-D041
   - INS-260327-63B5
   - INS-260605-9276
+  - INS-260626-ACD0
   - INS-260605-90E5
-  - INS-260626-05D4
 ---
 The team deliberately did NOT stuff full API documentation into their coding-agent skill. Instead the skill holds two things: durable orientation the model can't infer (e.g., which Gemini models actually exist, so the agent stops defaulting to the long-deprecated Gemini 1.5) and a link to the always-current markdown documentation. When a new feature ships (like tool combination), only the central docs change — every installed skill picks it up via a web-fetch or read-file call, with no redistribution.
 

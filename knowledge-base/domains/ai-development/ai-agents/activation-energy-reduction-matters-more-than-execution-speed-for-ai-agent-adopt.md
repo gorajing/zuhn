@@ -52,7 +52,6 @@ stance: >-
   The primary productivity gain from AI coding agents comes from lowering the
   activation energy to start work, not from faster code execution itself
 related:
-  - INS-260321-18D0
   - INS-260327-A9D5
   - INS-260403-0350
   - INS-260605-A803
@@ -62,6 +61,7 @@ related:
   - INS-260605-CE19
   - INS-260605-29BD
   - INS-260605-20DD
+  - INS-260626-48F7
 evidence:
   - id: INS-260403-0350
     type: SUPPORTS

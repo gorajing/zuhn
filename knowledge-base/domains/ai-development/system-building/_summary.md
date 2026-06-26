@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 298 insights
+> 299 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -105,6 +105,7 @@
 - `INS-260329-920D` [high] Hash tables achieve O(1) average-case operations not by avoiding collisions but by choosing the right collision resolution strategy for the specific access pattern and load factor.
 - `INS-260329-F886` [high] Open addressing trades deletion complexity for cache-friendly memory layout; separate chaining trades memory locality for operational simplicity.
 - `INS-260501-8E5C` [high] Agents are licenses. Maybe at different price points than humans, but they need identity, permissions, audit — that's a seat.
+- `INS-260626-E45C` [high] Cursor implemented the worktree feature as backend-controlled commands rather than bundled skills specifically so prompts could be iterated server-side and reach users on next use.
 - `INS-260409-212F` [high] Humans abandoned wikis because maintenance grew faster than value; LLMs reverse that ratio by doing all the cross-referencing for free.
 - `INS-260329-D6AA` [high] Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
 - `INS-260329-ACEB` [high] Using tuples for coordinates signals 'this data is fixed' at the type level, making the constraint impossible to violate rather than merely documented.

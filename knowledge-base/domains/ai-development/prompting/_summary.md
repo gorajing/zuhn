@@ -1,6 +1,6 @@
 # Topic: prompting
 
-> 21 insights
+> 23 insights
 
 - `INS-260605-705B` [high] Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260410-AB4A` [high] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
@@ -17,6 +17,8 @@
 - `INS-260410-18CF` [high] Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.
 - `INS-260605-D659` [high] Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
 - `INS-260514-9D51` [high] Upload an edited version of the AI's output ('here's how page 2 should look — fix the prompt') instead of describing changes in text. Visual feedback compresses hundreds of design decisions into one image.
+- `INS-260626-8308` [medium] Hoist must-follow rules into their own critical-rules file positioned high in the agent file, because rules scattered in agent.md/soul.md still get forgotten.
+- `INS-260626-14E0` [medium] Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
 - `INS-260625-BD36` [medium] Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
 - `INS-260605-C048` [medium] Put reusable intelligence into tools, middleware, and memory before polishing prompts.
 - `INS-260625-26FE` [medium] Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely.

@@ -60,8 +60,8 @@ related:
   - INS-260403-C9C2
   - INS-260403-5593
   - INS-260403-0A20
+  - INS-260626-7CC7
   - INS-260403-6694
-  - INS-260403-C949
 ---
 Cherny predicts the number of startups that 'disrupt everything' will increase roughly 10x over the next decade, and the reason is structural rather than technological. The same models are available to everyone — internally Anthropic uses the same models it ships, so there is essentially no model gap. The real gap is organizational: large companies must evolve their business processes, retrain everyone to use the technology, and overcome heavy internal resistance to that change. A startup 'starting fresh' can build AI-native from the ground up with none of that drag, which is why he calls it the best time to be a startup.
 

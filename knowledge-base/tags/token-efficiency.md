@@ -3,6 +3,7 @@
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260625-FE3E` Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
+- `INS-260626-35A9` Hand the agent a token-cheap fake app that is auth-shaped and login-shaped so it learns where the right events belong, without dragging a whole production codebase into context.
 - `INS-260605-2AAF` Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
 - `INS-260605-DC50` Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260605-6591` Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.

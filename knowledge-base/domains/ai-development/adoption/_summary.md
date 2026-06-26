@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 74 insights
+> 76 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -60,6 +60,7 @@
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260424-90E6` [medium] Jason Davenport (Google Cloud): I think we're in an efficiency phase of AI right now — I'm a little excited for when it's over and we start to think about business transformation as a result of AI, because that's where the next Googles, the next Ubers, the next yeah, they're going to come from.
 - `INS-260409-21E0` [medium] Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
+- `INS-260626-9A47` [medium] When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260405-4D81` [medium] Google committing $100B+ to AI spend means the infrastructure layer is effectively closed to new entrants without sovereign or hyperscaler backing.
@@ -69,6 +70,7 @@
 - `INS-260530-E6AA` [medium] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
 - `INS-260626-C72F` [medium] Investing $100K–$1M/year on tokens now lets you live in 2028 today — a one-time time warp to leapfrog Fortune 500s and incumbents before the same capability costs a couple hundred dollars.
 - `INS-260403-C10D` [medium] The biggest AI risk is confidence outrunning understanding, not the technology itself.
+- `INS-260626-BAE9` [medium] Gemma 4 moved to an Apache 2.0 license specifically to make the models accessible to everyday developers across initial testing, deployment, and building, paired with both self-host (Hugging Face, Kaggle, Ollama) and cloud (AI Studio, Vertex) paths.
 - `INS-260625-7DC7` [medium] Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
 - `INS-260625-D295` [medium] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.
 - `INS-260530-09FE` [medium] Coco (working with 5-employee through 500-employee firms): smaller companies are faster to adopt forward-looking autonomous solutions; enterprises are still stuck on chat-with-internal-KB use cases despite the autonomous-agent stack being available for 12+ months.

@@ -7,6 +7,7 @@
 - `INS-260327-DC4C` AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
 - `INS-260501-B7BC` We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260410-D92A` Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
+- `INS-260626-2E1F` Cursor deleted ~15K LoC by re-expressing its worktree feature as a 40-line best-of-N skill plus a worktree skill, built only from existing skill and sub-agent primitives.
 - `INS-260327-F625` Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
 - `INS-260605-2C70` Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail.
 - `INS-260626-8F57` Split a single prompt into staged sub-tasks (collect context, triage, policy-check, draft reply, finalize) so you can see exactly which stage failed.
@@ -42,6 +43,7 @@
 - `INS-260327-63B5` Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260605-48CA` Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
+- `INS-260626-5882` Local-first and file-over-app architectures gain new justification as the only way to expose the live browser state agents need to observe and script against.
 - `INS-260605-4AB0` Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260603-1BC0` Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.

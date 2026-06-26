@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260405-5670
   - INS-260405-54A9
+  - INS-260626-9732
   - PRI-260426-9730
   - INS-260605-DA98
   - INS-260605-D912
-  - INS-260410-AB4A
 ---
 Powerful agents that do real work take minutes, not seconds — a task might take 10 minutes to execute. In a web app, users carry the ChatGPT-trained expectation of near-instant answers; switching context and then waiting 10 minutes for output feels frustrating and broken.
 

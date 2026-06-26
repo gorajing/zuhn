@@ -56,7 +56,6 @@ related:
   - INS-260423-FF52
   - INS-260626-93C7
   - INS-260602-EA48
-  - INS-260410-992A
 ---
 When an agent moves customer records from Google Sheets to Salesforce, the model doesn't actually need to read anyone's email or phone number — it just needs to know which row maps to which record. Code execution with MCP enables the client to intercept those fields, replace them with tokens like [EMAIL_1] or [PHONE_1], and only expand them back to real values when they flow into the destination tool.
 

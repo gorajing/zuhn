@@ -1,12 +1,12 @@
 # Domain: automation
 
-> 88 insights across 7 topics
+> 89 insights across 7 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| ai-automation | 6 | Swap the chat trigger for an hourly schedule and keep the approval gates, so the agent runs unprompted but every consequential action still pings you for sign-off. |
+| ai-automation | 7 | Swap the chat trigger for an hourly schedule and keep the approval gates, so the agent runs unprompted but every consequential action still pings you for sign-off. |
 | content-creation | 13 | Composing face-swap with inpainting solves the character consistency problem that previously made AI personas impractical. |
 | labor-displacement | 5 | AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line. |
 | n8n-workflows | 10 | Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets. |

@@ -45,7 +45,6 @@ stance: >-
   embedding-based retrieval because the traversal path is pre-computed by the
   human and the agent only has to follow it, eliminating wasted tool calls.
 related:
-  - INS-260409-7C62
   - INS-260410-19DE
   - INS-260626-5375
   - INS-260329-61E5

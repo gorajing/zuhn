@@ -56,10 +56,10 @@ stance: >-
   just behind a different interface.
 related:
   - INS-260327-B561
+  - INS-260626-55E0
   - INS-260519-20E0
   - INS-260409-A4F0
   - INS-260514-D155
-  - INS-260501-3D0C
 ---
 Hai Nghiem's open-source Discord bot 'OatMilk' serves 1,500 community members in AGI Ventures' AI Tinkerers Discord. It uses the same skills library that powers internal GTM tooling — answer common questions, provide event info, do web search for community queries. The architectural pattern: codified skills are interface-agnostic. Once you've defined 'how to write a helpful response with specific facts from our knowledge base,' that skill can plug into Slack bots, Discord bots, customer-support agents, or internal CLI tools. The leverage compounds across interfaces, not just across team members.
 

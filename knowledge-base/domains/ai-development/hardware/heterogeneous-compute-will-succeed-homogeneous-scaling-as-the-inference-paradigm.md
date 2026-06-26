@@ -58,7 +58,6 @@ stance: >-
   onto diverse chips, not from scaling single models on identical hardware
   fleets.
 related:
-  - INS-260403-B73D
   - INS-260424-0554
   - INS-260605-DD2A
   - PRI-260405-FB37

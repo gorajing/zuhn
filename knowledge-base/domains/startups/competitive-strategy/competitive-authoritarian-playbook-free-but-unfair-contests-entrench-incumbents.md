@@ -50,7 +50,6 @@ stance: >-
   Allowing competition while systematically disadvantaging competitors is more
   durable than outright suppression because it creates a veneer of legitimacy.
 related:
-  - INS-260323-99E0
   - INS-260327-473D
   - PRI-260406-0ACE
   - INS-260330-1F7E
@@ -60,6 +59,7 @@ related:
   - INS-260403-BA4B
   - INS-260403-311C
   - INS-260403-758F
+  - INS-260403-23C1
 evidence:
   - id: INS-260321-D01E
     type: REFINES

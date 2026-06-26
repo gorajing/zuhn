@@ -1,6 +1,6 @@
 # Topic: training-dynamics
 
-> 20 insights
+> 21 insights
 
 - `INS-260410-78D3` [high] For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
 - `INS-260410-D3A7` [high] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
@@ -15,6 +15,7 @@
 - `INS-260625-D790` [high] The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
 - `INS-260410-47AE` [high] Plot histograms of activations and pre-activations during training — if too many values cluster at the saturating tails, gradients are being killed and entire neurons may be permanently dead.
 - `INS-260412-88B6` [high] AlphaGo bootstrapped from 100K human games then improved via 30 million self-play games, beating its prior version 80-90% of the time.
+- `INS-260626-8E45` [high] Liquid pre-trained a 350M model on 28 trillion tokens — orders of magnitude past Chinchilla compute-optimal — and performance was still climbing, suggesting under-trained rather than over-trained.
 - `INS-260605-33FA` [high] In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260410-89D0` [high] If train and val loss are basically equal, your model is too small — scale it up, don't regularize.
 - `INS-260410-6FA3` [high] Track log10(std(lr * grad) / std(param)) per layer during training and aim for roughly -3 — if it's much lower the network trains too slowly, if higher it's likely unstable, and per-layer asymmetry reveals miscalibrated initialization.

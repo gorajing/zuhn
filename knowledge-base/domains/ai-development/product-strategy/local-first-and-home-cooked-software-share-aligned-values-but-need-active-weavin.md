@@ -58,7 +58,8 @@ related:
   - INS-260409-A682
   - INS-260409-3EB3
   - PRI-260328-C581
+  - INS-260626-ACD0
   - PRI-260406-B9B4
-  - INS-260325-5455
+  - INS-260626-5882
 ---
 Appleton's call to the local-first community: if there is a coming explosion of home-cooked software via LLM orchestration, the default tools baked into the orchestration agents will determine whether that software is local-first or cloud-hostage by default. Barefoot developers will not know to specify 'local-first database' in their technical specs. Whatever the orchestration agent reaches for when asked 'I need to store some data' will be what millions of home-cooked apps use. She paints the dystopian counterfactual: barefoot developers build tons of great local software, but the data lives in the cloud behind monthly subscription fees, terms of service change, and 'it turns out what they built was never actually theirs all along.' The two movements are philosophically aligned on user agency and ownership, but philosophical alignment doesn't automatically produce integration — someone has to build TLDraw-on-top-of-local-first-databases, or barefoot developers won't get local-first by default. The insight generalizes: any adjacent movement that shares values but not tooling must build bridges deliberately or default outcomes will diverge.

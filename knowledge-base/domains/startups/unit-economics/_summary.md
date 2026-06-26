@@ -1,6 +1,6 @@
 # Topic: unit-economics
 
-> 12 insights
+> 13 insights
 
 - `INS-260410-0D14` [high] Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 - `INS-260626-B3FD` [high] Unlike SaaS's stable 80-85% gross margins, AI margins are low and move with usage, so 5-10% of users consuming 80% of compute plus unpredictable infrastructure costs make flat pricing structurally unsafe.
@@ -14,3 +14,4 @@
 - `INS-260412-A52B` [high] Purchase frequency directly determines how many people you need in a radius to sustain one location of a business.
 - `INS-260412-C029` [high] Airlines fly at 500-550 mph instead of near the 767 mph speed of sound because fuel cost per flight ($15K+) is 3x the aircraft cost per flight ($5K).
 - `INS-260625-FA05` [medium] The core bet is that the more product you build, the lower your COGS (model + hosting + humans-in-the-loop) and the higher your gross margin — so price on value (per-unit or outcome-based), never cost-plus or undercutting.
+- `INS-260626-4D31` [medium] Vibe Kanban shut down despite 30k MAU and 25k GitHub stars because users paid it ~$30 to then spend ~$3,000 on Codex — the value capture was upside down.

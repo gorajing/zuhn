@@ -5,7 +5,6 @@
 - `INS-260413-11C9` Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
 - `INS-260327-C1A4` Managing multiple agents individually recreates the human bottleneck -- the solution is orchestrator agents (like Poya managing Ppojjak) that handle agent supervision, freeing humans for higher-level direction.
-- `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
@@ -16,6 +15,7 @@
 - `INS-260605-9E7A` In multi-agent systems, have each agent publish independently to the shared session so the orchestrator only handles final results, not progress relay.
 - `INS-260530-69DC` PayPal's ADK incident platform uses one LLM-driven supervisor orchestrating deterministic sub-agents (detection, triage, communication, mitigation, RCA) — the supervisor decides which agent to invoke, but each sub-agent's job is fixed.
 - `INS-260410-566F` Multi-agent BrowseComp runs hit unintended-solution rates of 0.87% vs 0.24% single-agent — a 3.7x amplification just from more parallel shots at the problem.
+- `INS-260626-2447` Any multi-agent system, canvas-based or coding, must solve shared state, leader election, and preventing blind agents from overlapping work.
 - `INS-260411-F590` Assign specific roles to individual agents for modularity, testability, and reliability rather than overloading a single agent.
 - `INS-260410-77E5` Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
 - `INS-260423-7396` Hinton: Microsoft took an AI, made several copies, told them to play different roles and talk to each other — that does better than most doctors at diagnosis.
@@ -34,11 +34,12 @@
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
 - `INS-260524-2346` Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
+- `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260605-C965` Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260605-6A0A` Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
 - `INS-260625-3DDC` When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt.
 - `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260605-5878` A 'production function' framing shows heterogeneous skill distributions meet complex demand that neither narrow specialists nor broad generalists can satisfy efficiently.
 - `INS-260412-B252` Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
-- `INS-260320-336E` Chain specialized AI agents in n8n -- scraper (Firecrawl) feeds analyst (Perplexity) feeds formatter (Gemini) -- each agent does one job well, keeping the pipeline modular and cheap.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
+- `INS-260320-336E` Chain specialized AI agents in n8n -- scraper (Firecrawl) feeds analyst (Perplexity) feeds formatter (Gemini) -- each agent does one job well, keeping the pipeline modular and cheap.

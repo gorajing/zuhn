@@ -5,11 +5,11 @@
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - `INS-260405-631B` Costco's $60 annual fee screens out price-sensitive customers and concentrates a cohort with ~$100k average household income and 90% annual renewal.
 - `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
-- `INS-260403-1B8C` Expansion revenue from deeper workflow adoption is durable, but expansion used to mask failing customer acquisition is a delayed detonation that shows up in cohort performance.
-- `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
 - `INS-260327-E093` As a 19-year-old dropout with no credibility, he offered advertisers performance-based pricing — absorbing all risk — and grew to $150M ARR in 4 years.
 - `INS-260330-BC21` Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260410-D3D8` When one product inside a portfolio can acquire customers and suppliers for another at a quarter of the external CAC, the compounding advantage is invisible for years then suddenly dominant.
+- `INS-260403-1B8C` Expansion revenue from deeper workflow adoption is durable, but expansion used to mask failing customer acquisition is a delayed detonation that shows up in cohort performance.
+- `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260329-F6E1` Launch free or cheap, raise 20% every 5 customers until conversion-rate × price peaks.

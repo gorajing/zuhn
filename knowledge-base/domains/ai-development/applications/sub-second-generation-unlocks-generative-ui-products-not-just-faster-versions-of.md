@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260501-7726
   - INS-260403-F4F6
+  - INS-260626-35A9
   - INS-260605-D710
   - INS-260605-2408
-  - INS-260519-02A9
 ---
 The speaker's framing is that a latency breakthrough is not 'the same thing, faster' — below a latency threshold, fundamentally new interactions become possible. The demos: a Wikipedia clone where the HTML and article text are generated on every click; a Reddit clone generating fake posts, comments, and (via a paired image model) images in real time; and an operating system where each click generates the next screen. A separate demo built a working to-do app by voice in ~15 seconds of live coding.
 

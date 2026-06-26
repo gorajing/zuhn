@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 367 insights
+> 375 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -43,11 +43,13 @@
 - `INS-260423-6879` [high] ADK lab: before the A2A inspector interaction, run a dummy wake-up call so the cold-start latency doesn't hit the user; second call responds instantly.
 - `INS-260625-2D05` [high] Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
 - `INS-260626-0CFF` [high] Don't install every available rule for your stack — create a rule only when you catch an agent going off the rails, treating rules as SOPs that emerge dynamically.
+- `INS-260626-F14C` [high] Coding agents are 'breaking containment' beyond software into CMS management, ETL syncs, speaker research, and even buying a lobster — any knowledge work an assistant or junior could do.
 - `INS-260410-D92A` [high] Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260605-077D` [high] A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
 - `INS-260625-0492` [high] Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
 - `INS-260410-0E26` [high] Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260625-AB58` [high] Build tiny single-purpose skills and compose them, rather than one mega-skill that does an entire workflow.
+- `INS-260626-2E1F` [high] Cursor deleted ~15K LoC by re-expressing its worktree feature as a 40-line best-of-N skill plus a worktree skill, built only from existing skill and sub-agent primitives.
 - `INS-260605-8109` [high] Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.
 - `INS-260603-D44B` [high] Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
 - `INS-260626-6F68` [high] Treat context as a first-class engineered artifact that flows through generate, evaluate, distribute, observe, and adapt — the same loop as software.
@@ -85,6 +87,7 @@
 - `INS-260625-1CB8` [high] A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
 - `INS-260410-85AD` [high] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260326-9402` [high] Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.
+- `INS-260626-8C3C` [high] Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260625-814D` [high] Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
 - `INS-260626-04E5` [high] OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
 - `INS-260411-8034` [high] Use condition-based exit (exit on 'PASS') rather than fixed iteration counts for generator-critic loops to balance quality with efficiency.
@@ -93,10 +96,12 @@
 - `INS-260320-9D89` [high] Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
 - `INS-260625-EDA3` [high] Free-form text is fine when a human is the only reader, but the moment another system consumes the output it needs an agreed-upon shape — a contract.
 - `INS-260605-20CB` [high] Offload nitpicky style/naming/convention review to agents and reserve human review for big-picture system design.
+- `INS-260626-35A9` [high] Hand the agent a token-cheap fake app that is auth-shaped and login-shaped so it learns where the right events belong, without dragging a whole production codebase into context.
 - `INS-260625-A5E7` [high] Speed requires safety: agents must verify their own work against explicit criteria using progressively stronger gates.
 - `INS-260605-C726` [high] Hand the agent a 'send feedback' tool for tooling/docs/platform failures, routed straight to the builders' Slack.
 - `INS-260626-8C66` [high] Expose individual tool fields to the agent (e.g. only the 'to' field) so a mistake is structurally bounded instead of as wide as the underlying API.
 - `INS-260605-FE8E` [high] Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.
+- `INS-260626-E0A7` [high] Add one capability at a time so when something breaks you can take a single step back, diagnose it, and harden against recurrence.
 - `INS-260410-B0D6` [high] Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
 - `INS-260605-9900` [high] Harness engineering is an extension of context engineering: let agents run, watch where they get lost, and encode that learning back into agents.md, skills, and tests so the agent flows through the workflow more autonomously next time.
 - `INS-260605-1E04` [high] Before the generator writes a line, the two agents negotiate what 'done' means via files on disk, and the evaluator grades against that contract rather than the planner's original spec.
@@ -130,6 +135,7 @@
 - `INS-260625-AF2A` [high] If the harness hardcodes the decomposition, it's a map-reduce with LLM calls; if the model picks the decomposition, it's a genuine recursive agent.
 - `INS-260605-E693` [high] Every agent is a recursive while-loop with a few conditions and end states, so design it as a state machine you can always locate yourself within.
 - `INS-260410-566F` [high] Multi-agent BrowseComp runs hit unintended-solution rates of 0.87% vs 0.24% single-agent — a 3.7x amplification just from more parallel shots at the problem.
+- `INS-260626-2447` [high] Any multi-agent system, canvas-based or coding, must solve shared state, leader election, and preventing blind agents from overlapping work.
 - `INS-260411-F590` [high] Assign specific roles to individual agents for modularity, testability, and reliability rather than overloading a single agent.
 - `INS-260410-77E5` [high] Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
 - `INS-260423-7396` [high] Hinton: Microsoft took an AI, made several copies, told them to play different roles and talk to each other — that does better than most doctors at diagnosis.
@@ -141,6 +147,7 @@
 - `INS-260411-52C8` [high] When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
 - `INS-260410-7ED2` [high] When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.
 - `INS-260625-A668` [high] Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
+- `INS-260626-9A2A` [high] A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
 - `INS-260410-545A` [high] Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
 - `INS-260410-8ECF` [high] Expose MCP servers as a typed file tree of tool modules so agents load only the definitions they actually need.
@@ -309,6 +316,7 @@
 - `INS-260605-E230` [medium] Some harnesses must learn while the run is still alive.
 - `INS-260626-88B8` [medium] Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - `INS-260405-8166` [medium] A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
+- `INS-260626-D8E6` [medium] Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.
 - `INS-260410-1A22` [medium] Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
 - `INS-260625-CF6B` [medium] Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.
 - `INS-260625-3EE6` [medium] Give a model a baseline set of tools and it will sensibly add or drop ones it under-uses; ask it to build its toolset from scratch and it over-engineers and fails to iterate.

@@ -47,6 +47,7 @@ related:
   - INS-260329-FEBA
   - INS-260405-CA27
   - PRI-260320-D5B7
+  - INS-260626-7F55
 ---
 The talk argued that web and enterprise agents often call the model at every click, field entry, and navigation step. Each extra model-mediated action adds latency, cost, and probability of failure.
 

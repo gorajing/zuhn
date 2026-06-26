@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 67 insights
+> 68 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -55,6 +55,7 @@
 - `INS-260330-77A2` [medium] WebAssembly and cloud compute are enabling full development environments to run entirely in the browser.
 - `INS-260323-C4EE` [medium] Meta's codec avatars encode facial expressions into a compact model rather than transmitting full video, achieving photorealism while using less bandwidth than traditional video calls.
 - `INS-260625-ED79` [medium] MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation.
+- `INS-260626-55E0` [medium] If ~60% of your users are already bots (as Vercel reports), your dashboards stop mattering and your APIs, CLIs, and MCPs become the real product surface.
 - `INS-260405-77C9` [medium] Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
 - `INS-260403-1085` [medium] Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260330-E5F7` [medium] Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.

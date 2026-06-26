@@ -63,6 +63,7 @@ related:
   - INS-260625-2E48
   - INS-260605-5A8E
   - INS-260605-33FA
+  - INS-260626-3E1C
 ---
 Karpathy divides LLM production into two stages with radically different economics. Pretraining costs millions, runs for months on thousands of GPUs, and optimizes next-token prediction over terabytes of low-quality web text — this is where knowledge enters the weights. Fine-tuning uses the same next-token objective but swaps in ~100k hand-written high-quality conversations, takes roughly a day, and can be iterated weekly.
 

@@ -6,6 +6,7 @@
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.
 - `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260603-B263` Harvey (keynote): assume ~90% of today's tasks get automated by AI — but that automates knowledge WORK (the task), not the knowledge WORKER; there's no traditional individual-contributor work anymore because every IC is now managing AI/agents, what he calls the 'gold collar' era.
+- `INS-260626-A3E4` Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours.
 - `INS-260405-FCBE` AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260403-D5BB` AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
 - `INS-260530-8DE3` Abhije (Google AI PM): 'Individually all of us are doing 10x better, but the team itself, we don't want to do 10x better.' AI gives individuals capacity their organizations cannot absorb.

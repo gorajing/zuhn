@@ -48,9 +48,9 @@ stance: >-
   left unchanged.
 related:
   - INS-260320-69CD
+  - INS-260626-15F3
   - INS-260605-5BAD
   - INS-260605-FE8E
   - INS-260505-D440
-  - INS-260625-D148
 ---
 The researchers found that feeding the model only the files actually edited in a pull request induced a damaging bias: the model learned to generate edits to all of its input files. In practice many files are relevant context for a change yet require no modification. The fix was to deliberately add related-but-unchanged files to each training sample (predicted by Llama-3.1-70B from the PR description), so the model sees in-context examples of files it should leave alone. This is a general context-design lesson with cross-domain reach: a training distribution that only ever shows 'inputs that get acted on' teaches the model to act on everything; you must include negative context — relevant inputs that warrant no action — to teach restraint and discrimination.

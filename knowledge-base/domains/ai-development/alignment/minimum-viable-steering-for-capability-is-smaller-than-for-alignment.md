@@ -56,8 +56,8 @@ related:
   - INS-260330-C31B
   - INS-260605-86BE
   - INS-260605-9976
+  - INS-260626-21EA
   - INS-260605-8F95
-  - INS-260403-F4ED
 ---
 Marblestone channels Steve Byrnes's worry: a model-based RL system needs only a handful of steering signals — curiosity, prediction error, some exploratory drive — to become extremely capable. Human social instincts, ethics, shame, eye-contact sensitivity, and status-seeking heuristics are orders of magnitude more intricate: a gazillion bespoke cell types in the hypothalamus and amygdala, each wiring learned concepts to innate reflexes.
 

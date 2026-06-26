@@ -68,7 +68,7 @@ related:
   - INS-260605-FC5B
   - INS-260625-1432
   - INS-260625-D148
-  - INS-260625-BF8B
+  - INS-260626-1012
   - INS-260626-ACE3
 ---
 Both of DeepSeek-V4's attention variants follow the same invariant: compress the bulk of the sequence into a lossy summary, then splice the immediate recent tokens back in at full resolution. Heavily Compressed Attention collapses each 128-token group into a single learned entry (importance-weighted via softmax) but concatenates the sliding-window tokens right before the query. Compressed Sparse Attention compresses 4-to-1, runs a Top-k Lightning Indexer to keep only the ~1024 most relevant entries, then concatenates the last 128 uncompressed tokens. The compression captures a cheap global gist; the raw recent window preserves the fine-grained local context that heavy compression destroys.

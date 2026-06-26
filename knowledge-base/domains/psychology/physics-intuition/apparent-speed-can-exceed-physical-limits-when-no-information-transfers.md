@@ -46,7 +46,6 @@ stance: >-
   appear to move faster than light, revealing that our intuition conflates
   visual motion with causal influence.
 related:
-  - INS-260330-14B1
   - INS-260330-AFE0
   - INS-260330-D63D
   - INS-260330-8AE8

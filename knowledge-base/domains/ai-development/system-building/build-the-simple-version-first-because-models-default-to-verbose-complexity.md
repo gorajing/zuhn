@@ -51,6 +51,6 @@ related:
   - INS-260412-3C64
   - INS-260330-4AD5
   - INS-260410-7292
-  - INS-260327-C962
+  - INS-260626-21EA
 ---
 McLean recounts building an elaborate CV-generation application that worked but was beaten — by his own estimate a 100x improvement — by 'four simple letters: HTML.' His generalization: models are naturally verbose and 'tend towards complexity,' reliably suggesting the most complicated solution, so following their lead wastes tokens and engineering effort. The discipline is to build a simple version that works first and let 'your ideas collide with reality fast.' He extends the agent community's 'shorten the feedback loop' mantra to product-building itself: shorten your feedback loop with reality, not just with the model. The practical rule is to treat the model's first elaborate suggestion as a smell and actively search for the dumbest thing that could work.

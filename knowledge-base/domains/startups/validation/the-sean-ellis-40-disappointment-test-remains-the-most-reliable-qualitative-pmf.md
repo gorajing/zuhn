@@ -49,8 +49,8 @@ related:
   - INS-260403-C3DF
   - INS-260403-B635
   - INS-260403-B8ED
+  - INS-260626-55E0
   - INS-260330-1D9D
   - INS-260403-AFBB
-  - INS-260330-F268
 ---
 Usage metrics like DAU or session length can be inflated by curiosity, free tiers, or switching costs. The Sean Ellis test cuts through noise by asking a counterfactual question: would you miss this? A 40% threshold on 'very disappointed' responses correlates with organic growth readiness because emotionally attached users become advocates. The test is most useful when applied to a well-defined segment rather than your entire user base — a high score from your ICP matters more than a mediocre score across all signups. Combining this with retention curves (looking for a flattening cohort curve) gives both qualitative and quantitative confirmation.

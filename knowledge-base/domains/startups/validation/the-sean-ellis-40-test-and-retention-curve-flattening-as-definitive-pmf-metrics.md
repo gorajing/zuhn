@@ -60,6 +60,7 @@ related:
   - INS-260404-769B
   - PRI-260406-D017
   - INS-260329-8BD3
+  - INS-260626-55E0
 ---
 While Marc Andreessen famously said 'you can always feel PMF,' the article provides two concrete measurement tools that remove guesswork. The Sean Ellis survey asks users 'How would you feel if you could no longer use this product?' — if 40%+ say 'very disappointed,' you're on the PMF path. This is powerful because it measures dependency rather than satisfaction, and dependency is what drives retention and organic growth.
 

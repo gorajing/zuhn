@@ -11,7 +11,7 @@
 - `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.
 - `INS-260410-F985` A pretrained GPT just completes internet-shaped documents; turning it into ChatGPT requires SFT on Q&A examples, a learned reward model, and PPO fine-tuning — none of which scale alone provides.
 - `INS-260320-922A` Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
+- `INS-260410-06DB` LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260605-3D90` MAE-style pretraining (drop patches, reconstruct) is impossible on a convolutional network, so the architecture that enabled the best pretraining won partly by default.
 - `INS-260605-DD2A` VITs win over CNNs not because the architecture is better but because massive VIT-specific pretraining re-learns the inductive biases CNNs got for free.
-- `INS-260410-06DB` LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260514-AC1D` GPT is a really good autocomplete. The cake isn't the autocomplete — it's the internal representations the model built while learning to autocomplete.

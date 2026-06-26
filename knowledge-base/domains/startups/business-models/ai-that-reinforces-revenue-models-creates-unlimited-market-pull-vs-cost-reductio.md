@@ -50,11 +50,11 @@ related:
   - INS-260403-3F10
   - INS-260403-754F
   - INS-260403-2E0F
-  - INS-260327-16D7
   - INS-260327-2C46
   - INS-260327-B357
   - INS-260327-4F8C
   - INS-260403-D2A9
+  - INS-260403-9106
 stance: >-
   Companies where AI reinforces the business model by driving revenue — not just
   cutting costs — see dramatically stronger market pull and adoption.

@@ -12,8 +12,8 @@
 - `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
 - `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
-- `INS-260329-4842` Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet.
 - `INS-260330-3C4C` Justinian's condensation of 1,528 Latin law books into the 800,000-word Digest created a legal system that still underpins European civil law today — 1,500 years later.
 - `INS-260330-D63C` At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
+- `INS-260329-4842` Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet.
 - `INS-260325-1160` Roman concrete contains lumps of quickite that were once considered manufacturing defects — MIT researchers discovered these lumps actually create self-healing concrete that gets stronger over time.

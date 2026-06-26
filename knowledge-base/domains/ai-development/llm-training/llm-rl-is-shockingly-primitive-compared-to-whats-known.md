@@ -57,7 +57,7 @@ related:
   - INS-260403-B73D
   - INS-260626-408A
   - INS-260625-DF0F
-  - INS-260424-0554
+  - INS-260626-8E45
 ---
 Marblestone (echoing Ilya Sutskever) points out that current RL fine-tuning is astonishingly crude: trajectories that succeed get every token upweighted, with no value function, no temporal-difference credit assignment, and no model-based planning. Atari-era Q-learning was already more sophisticated. Meanwhile, neuroscience has extensive evidence that dopamine encodes a reward prediction error (TD signal), and that the striatum and basal ganglia implement something genuinely value-function-shaped.
 

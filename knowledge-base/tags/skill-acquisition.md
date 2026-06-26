@@ -4,11 +4,10 @@
 - `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
 - `INS-260329-A862` Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
-- `INS-260330-8134` After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260404-D6EE` Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - `INS-260403-9542` Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - `INS-260404-18F1` Speaking to a room requires a completely different voice than conversation — treat it as a consciously artificial trick, like juggling, that you make seem natural.
-- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
+- `INS-260330-8134` After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260403-EA34` Building skills must be developed early because they require sustained focus, but selling skills can be added later.
 - `INS-260625-0248` Pick papers or work you look up to and replicate them exactly — matching the training curves, loss, or perplexity the original hit — because the unspoken techniques only surface when you go a few layers deeper.
 - `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
@@ -40,6 +39,7 @@
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
 - `INS-260329-023F` Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
 - `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260409-B521` To get good you must be willing to be bad for a very long time — ego protection prevents the iteration that produces skill.
