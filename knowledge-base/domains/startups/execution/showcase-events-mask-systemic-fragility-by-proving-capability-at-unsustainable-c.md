@@ -58,9 +58,9 @@ related:
   - INS-260404-15B8
   - INS-260325-A1BC
   - PRI-260328-0993
+  - INS-260625-ED7E
   - INS-260410-0DA5
   - PRI-260324-12CF
   - INS-260403-4E51
-  - INS-260403-CCED
 ---
 South Africa's 2010 World Cup hosting was a genuine achievement that silenced critics at every stage — stadiums were built on time, fans showed up safely, and the country was discussed alongside Germany, Japan, and France as peers. But this showcase capability was fundamentally unsustainable. The government mobilized extraordinary resources for a bounded event, creating a facsimile of the stability seen in developed host nations. After the event ended, the underlying trajectory reasserted itself and conditions continued to deteriorate. The danger of showcase events is that they generate false positive signals about institutional health. Investors, partners, and even internal stakeholders update their priors based on peak performance rather than steady-state capability. For startups and organizations, the equivalent is the demo day, the flagship launch, or the board presentation that requires heroic effort to pull off. If your organization can only perform at an acceptable level through unsustainable mobilization, the showcase success isn't evidence of capability — it's evidence that you know what good looks like but can't sustain it, and the positive reception will delay the urgency of addressing why.

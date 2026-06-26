@@ -50,5 +50,6 @@ related:
   - INS-260327-A9D5
   - INS-260605-E693
   - INS-260625-26F5
+  - INS-260625-029F
 ---
 HumanLayer reports that many production systems marketed as agents are not very agentic; they are mostly deterministic code with LLM steps placed where language understanding or judgment matters. This reframes agents away from 'prompt plus tools, loop until done' and toward ordinary software architecture with semantic components.

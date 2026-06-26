@@ -1,6 +1,6 @@
 # Topic: ai-agents
 
-> 73 insights
+> 74 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260524-63C9` [high] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
@@ -62,6 +62,7 @@
 - `INS-260325-252D` [medium] Context rot in agents stems from poor context management design, not just model limits.
 - `INS-260403-C734` [medium] Multiple AI customer service startups hitting $100M+ ARR with outcome-based pricing indicates a fundamental shift from per-seat SaaS to pay-per-resolution models.
 - `INS-260325-F981` [medium] Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
+- `INS-260625-8DF3` [medium] METR pressures the 'DX pays double' principle by showing that better shared tooling does not guarantee speedup when AI reliability is still low.
 - `INS-260402-876A` [medium] A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260403-AC2D` [medium] 68% of large enterprises are already deploying AI agents, collapsing a timeline most predicted would take until 2030.
 - `INS-260404-292E` [medium] Investing autonomy progresses through five levels: human judgment, rule-based execution, system orchestration, ML adaptation, and fully autonomous agents.

@@ -64,8 +64,8 @@ related:
   - INS-260403-BA4B
   - INS-260404-45BB
   - INS-260327-2A73
+  - INS-260625-1654
   - INS-260524-2C7C
   - INS-260403-2E0F
-  - INS-260403-946A
 ---
 Two key qualifiers make this different from the generic 'empowered teams' rhetoric most large companies use. First, 'deserved trust' — autonomy is not a default grant; it is earned by demonstrated performance and integrity. Managers who lose trust lose autonomy. Second, 'accountability' is framed as the counterpart, not the cost. Berkshire is not saying 'we give autonomy and then check for accountability'; it is saying 'autonomy is the method, accountability is the contract, and the two are inseparable.' The operating consequence: Berkshire has 400,000 employees across 51 non-insurance operating businesses, 'no layers of management and no allocated goals or targets set by Berkshire.' That level of decentralization is unusual at scale — most conglomerates centralize capital allocation plus some shared services. Berkshire centralizes only capital allocation and leaves everything else to the operating CEOs. The design produces structural advantages: (1) faster decision-making at the operating level, (2) better decision-making because the deciders are closest to the information, (3) clear accountability because there is no one upstream to blame, and (4) cultural self-selection — Berkshire attracts managers who want autonomy and repels those who want corporate cover. Worth contrasting with every other mega-conglomerate that has tried this and drifted back to centralized control within a generation.

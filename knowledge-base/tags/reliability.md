@@ -1,5 +1,6 @@
 # Tag: reliability
 
+- `INS-260625-029F` A reliable agent must be scored on knowing when not to continue.
 - `INS-260625-FDC1` Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260410-B3C2` pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.

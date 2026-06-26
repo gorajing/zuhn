@@ -47,14 +47,16 @@ stance: >-
   experimentation pitfalls that slow them down, and the solution is process
   infrastructure rather than team-level coaching
 related:
-  - INS-260322-474A
-  - INS-260327-40DA
   - INS-260403-3A7A
   - INS-260403-F75F
   - PRI-260406-6122
   - INS-260403-E3C4
+  - INS-260322-474A
+  - INS-260327-40DA
   - INS-260404-BFAB
   - INS-260404-AD2B
+  - INS-260625-AEE0
+  - INS-260625-0CAB
 evidence:
   - id: INS-260322-474A
     type: TRANSFERS_TO

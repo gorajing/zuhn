@@ -45,11 +45,11 @@ stance: >-
   Giving an agent skill a handful of hard constraints produces better output
   than prescribing the full procedure in detail.
 related:
+  - INS-260625-029F
   - INS-260619-CBFA
   - INS-260321-2482
   - INS-260605-F828
   - INS-260320-9D89
-  - INS-260605-5D5E
   - INS-260605-AE67
   - INS-260624-5865
   - INS-260625-1826

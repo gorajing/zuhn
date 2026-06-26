@@ -60,7 +60,7 @@ related:
   - INS-260605-1523
   - INS-260424-BC8F
   - INS-260424-9760
-  - INS-260605-AFCF
+  - INS-260625-4D09
 ---
 The speaker's worst-case is not an empty answer but a stale one. When current-data retrieval is blocked, the model fills the gap from its parametric memory—data frozen at the training cutoff—and frames it as the current situation. The user asking about 'now' gets answers about two years ago, with no flag that the temporal context is wrong.
 

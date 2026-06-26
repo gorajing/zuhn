@@ -1,8 +1,10 @@
 # Topic: applications
 
-> 68 insights
+> 70 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
+- `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
+- `INS-260625-AEE0` [high] AI accelerates the discovery loop, but the lab still has to measure, validate, and scale.
 - `INS-260405-8B05` [high] An AI system routing 2,000 medical devices across 50 hospital locations cut nursing retrieval travel by 50% — staff only noticed they were happier.
 - `INS-260505-7EF5` [high] Telescopes opened the cosmos, microscopes opened cells; AI opens patterns in high-dimensional data that human minds cannot grasp.
 - `INS-260413-416A` [high] Ambient clinical AI scribes saw broad adoption in 2025, with hospitals reporting up to 83% less time writing notes, burnout reductions, and 112% ROI in at least one hospital system.

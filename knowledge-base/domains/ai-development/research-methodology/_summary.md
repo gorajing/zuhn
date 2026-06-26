@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 124 insights
+> 125 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -10,6 +10,7 @@
 - `INS-260505-CBE5` [high] Good students ask 'what's the gap I'm missing?' — AI models confidently fill the gap with plausible-sounding wrong answers.
 - `INS-260413-B79B` [high] AI benchmark saturation has compressed from years to months, making sustained measurement infrastructure the binding constraint on progress tracking.
 - `INS-260505-A55F` [high] Solving more problems doesn't mean solving the right problems — problem-selection stays human.
+- `INS-260625-273E` [high] A discovery system is more valuable when it returns an explorable landscape, not only a winner.
 - `INS-260505-5A06` [high] Prediction: AI guesses, formal verification confirms. Inference: AI must be calibrated against simulators because mistakes propagate to wrong scientific conclusions.
 - `INS-260505-347C` [high] When you switch to AI tools, your citations move toward big-data central topics — AI is closing fields faster than it's opening them.
 - `INS-260410-5740` [high] AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.

@@ -63,10 +63,10 @@ stance: >-
 related:
   - INS-260405-25DD
   - INS-260514-7772
+  - INS-260625-4D09
   - INS-260327-4B5A
   - PRI-260328-0993
   - INS-260330-FF5B
-  - PRI-260403-50EF
 ---
 DeepSeek's training stability technique: 'anticipatory routing' monitors internal training statistics for early warning signs of an impending loss spike. When detected, the model switches its routing decisions to use slightly-earlier snapshots of its own parameters (historical versions, not real-time). The intuition: the underlying training trend moves slowly, but the noise around it is chaotic. Using slightly-older snapshots filters out the chaotic noise (like a moving average on a stock chart) while preserving the trend. Once the danger passes, control hands back to real-time routing. This avoids the standard industry response (stop, roll back, retry — expensive and uninformative) and structurally prevents the failure mode rather than reacting to it.
 

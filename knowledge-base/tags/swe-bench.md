@@ -1,5 +1,6 @@
 # Tag: swe-bench
 
+- `INS-260625-ED7E` METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260625-14F9` Separate context discovery from patch generation when diagnosing coding-agent reliability.
 - `INS-260625-2B5A` Correctness gates should encode behavior, not proximity to one historical patch.
 - `INS-260625-FFDF` SWE-EVO shows that benchmark saturation on isolated tasks can hide a large capability gap on release-sized work.

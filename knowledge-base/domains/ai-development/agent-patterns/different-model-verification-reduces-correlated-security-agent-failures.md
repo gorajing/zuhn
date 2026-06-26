@@ -39,11 +39,11 @@ stance: >-
   methods because same-model review can preserve the original agent's blind
   spots.
 related:
+  - INS-260625-EC9A
   - INS-260625-6178
   - INS-260619-F1E3
   - INS-260410-A27C
   - INS-260625-BB42
-  - INS-260605-7843
 ---
 The talk described using multiple models and verification steps to decide whether a candidate bug is real. This matters in security because a plausible hallucinated report wastes maintainer attention, while a missed exploit has real cost.
 

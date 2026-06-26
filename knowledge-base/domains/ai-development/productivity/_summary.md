@@ -1,8 +1,9 @@
 # Topic: productivity
 
-> 17 insights
+> 18 insights
 
 - `INS-260424-50EE` [high] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
+- `INS-260625-0CAB` [high] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
 - `INS-260409-3AEE` [high] Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day.
 - `INS-260423-7C1A` [high] Dalton: you can oneshot a Salesforce clone, then oneshot the next TechCrunch-clone when that fails, and end up deep in pivot hell because the shiny thing is always what you know least about.
 - `INS-260605-89B0` [high] AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.

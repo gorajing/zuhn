@@ -55,6 +55,7 @@ related:
   - PRI-260407-D50C
   - INS-260403-7410
   - INS-260514-1A3D
+  - INS-260625-4D09
 ---
 The US economy has been a standout performer among advanced economies since the COVID-19 pandemic, driven by fiscal stimulus, labor market resilience, and consumer spending. However, the IMF's 2024-2025 growth projections indicate this outperformance is not indefinite — growth is expected to taper in 2025 as stimulus tailwinds fade and higher-for-longer interest rates take hold.
 

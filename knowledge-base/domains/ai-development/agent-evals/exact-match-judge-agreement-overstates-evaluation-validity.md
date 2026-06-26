@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260605-8789
   - INS-260605-EC51
+  - INS-260625-3162
   - INS-260625-206A
   - INS-260404-5365
-  - INS-260404-2135
 ---
 The study finds universal deflation between exact-match agreement and Cohen's kappa on MT-Bench, plus large shifts in judge rankings across benchmarks. The practical lesson is that a single agreement number can make an evaluator look more discriminative and stable than it is.
 

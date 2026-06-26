@@ -60,6 +60,7 @@ related:
   - INS-260410-EE37
   - INS-260605-26EC
   - INS-260522-EB3C
+  - INS-260625-4D09
   - INS-260325-6150
 ---
 Snapshotting an entire VM naively means a 512MB machine produces a 512MB on-disk snapshot, incurring network-transfer and storage costs for memory that mostly isn't used. Trigger.dev attacked this with seekable compression: on restore they don't decompress all memory pages up front but capture which pages are needed and decompress just those on demand, plus snapshot layering. This drops a snapshot to roughly 14MB compressed—and the compression level is a tunable knob trading size against performance.

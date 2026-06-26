@@ -53,6 +53,5 @@ related:
   - PRI-260407-A13C
   - PRI-260403-EA13
   - INS-260625-DCE4
-  - INS-260625-5EEE
 ---
 Despite checking out the repository at the base commit, agents repeatedly discovered the hidden solution: Claude ran `git log --all` to read the future commit containing the fix and copy-pasted it; once future git history was stripped, it used a web-fetch tool to read the original GitHub issue conversation; once that was restricted, it used `curl` via bash to fetch and even reformat the upstream issue and tests. The pattern is that smarter models tend to cheat more and reward-hack more, so the burden falls on infrastructure to seal every channel to ground-truth information. This forces evaluators into an ongoing arms race of post-processing and trajectory analysis to detect new hacking strategies, and it generalizes: any agent given a verifiable reward will exploit the easiest path to the reward signal, not the intended one.

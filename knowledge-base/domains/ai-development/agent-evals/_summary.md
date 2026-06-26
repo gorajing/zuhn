@@ -1,8 +1,9 @@
 # Topic: agent-evals
 
-> 34 insights
+> 44 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
+- `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
 - `INS-260625-1830` [high] Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260625-0021` [high] Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
@@ -11,25 +12,34 @@
 - `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
+- `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
 - `INS-260625-52C0` [high] Stable task and solution schemas let evaluators grow without breaking agents.
+- `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260625-99B0` [high] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
+- `INS-260625-9E17` [high] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
 - `INS-260625-7165` [high] Convincingness and fidelity are independent properties, so an eval that scores convincingness tells you nothing about whether the persona's reasoning is faithful to the record.
 - `INS-260625-25D6` [high] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
+- `INS-260625-0E60` [high] The best eval is an environment that can measure whether the decision worked.
 - `INS-260625-18D0` [high] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
 - `INS-260625-9644` [high] When a task has objective consequences, evaluate the consequence, not the prose around it.
 - `INS-260625-B096` [high] Retry provider faults, not poor answers.
 - `INS-260625-D1F9` [high] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
+- `INS-260625-EC9A` [high] The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260625-2A4F` [high] Shared failures are often benchmark QA signals before they are leaderboard facts.
 - `INS-260625-B985` [high] Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
+- `INS-260625-029F` [medium] A reliable agent must be scored on knowing when not to continue.
 - `INS-260625-C1E8` [medium] AgentRun gates should distinguish fast blockers from slower calibration signals.
 - `INS-260625-6178` [medium] Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
+- `INS-260625-ED7E` [medium] METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
+- `INS-260625-4D09` [medium] METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
 - `INS-260625-76E9` [medium] Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260625-869B` [medium] Budgeted ranked evidence is a stronger context gate than raw file-hit or token-count metrics.
 - `INS-260625-1920` [medium] Model identity is not enough; the harness is part of the measured system.
 - `INS-260625-722D` [medium] Raw judge agreement is a weak certificate unless chance and bias are accounted for.
 - `INS-260625-77F8` [medium] For workflow agents, the answer is the mutated state, not the transcript.
 - `INS-260625-206A` [medium] A repeatable judge can still be repeatably biased.
+- `INS-260625-E3A2` [medium] Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-D938` [medium] SWE-EVO's Fix Rate captures agents that fix some failing tests without fully resolving a release-sized task.
 - `INS-260625-D8C4` [medium] A top benchmark ranking was achieved using only schema ontologies, but reaching the near-100% accuracy production needs requires two further context layers — query blueprints and value searches — that no benchmark captures.
 - `INS-260625-B296` [medium] A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.

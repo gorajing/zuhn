@@ -52,6 +52,6 @@ related:
   - PRI-260406-2D38
   - INS-260403-B18C
   - INS-260330-608C
-  - PRI-260328-94D4
+  - INS-260625-4462
 ---
 The article emphasizes that loop speed — how quickly one user's action leads to the next user's action — is the most important variable to optimize. A loop completing in 30 seconds compounds dramatically faster than one taking two weeks. This mirrors the lean startup insight that iteration speed beats iteration quality, but applied to growth mechanics rather than product development. The practical framework is to build a Minimum Viable Loop (MVL) that is scrappy and fast rather than polished: hardcode things, manually onboard users, use off-the-shelf tools. The goal is to get one turn of the wheel spinning, then tighten each step. Startups that try to build the final polished loop on day one typically never ship.

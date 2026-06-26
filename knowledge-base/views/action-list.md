@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5711 actionable insights
+Generated on 2026-06-26 | 5723 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -63,6 +63,15 @@ Generated on 2026-06-26 | 5711 actionable insights
 - [INS-260625-B296] A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
 - [INS-260625-D938] SWE-EVO's Fix Rate captures agents that fix some failing tests without fully resolving a release-sized task.
 - [INS-260625-D1F9] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
+- [INS-260625-D842] Detection does not count unless it changes the gate outcome.
+- [INS-260625-029F] A reliable agent must be scored on knowing when not to continue.
+- [INS-260625-ED7E] METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
+- [INS-260625-4D09] METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
+- [INS-260625-224F] A benchmark does not test tool orchestration just because many tools are available.
+- [INS-260625-3162] For production agents, the key judge metric is missed defects, not judge-human agreement.
+- [INS-260625-E3A2] Passing the final test is not enough if the agent got there through a non-repeatable process.
+- [INS-260625-9E17] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- [INS-260625-EC9A] The evaluator needs its own evidence path, not just the agent's final artifact.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -397,6 +406,7 @@ Generated on 2026-06-26 | 5711 actionable insights
 - [INS-260524-63C9] Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
 - [INS-260524-2C7C] Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 - [INS-260525-3A9A] Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
+- [INS-260625-8DF3] METR pressures the 'DX pays double' principle by showing that better shared tooling does not guarantee speedup when AI reliability is still low.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -716,6 +726,7 @@ Generated on 2026-06-26 | 5711 actionable insights
 - [INS-260514-78B3] AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
 - [INS-260619-4962] Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - [INS-260625-6C29] Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
+- [INS-260625-4078] A measured slowdown in expert open-source work argues against retiring human review as a near-term stable bottleneck.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -1035,6 +1046,7 @@ Generated on 2026-06-26 | 5711 actionable insights
 - [INS-260619-4ADA] The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
 - [INS-260625-7CD5] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - [INS-260625-0758] Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
+- [INS-260625-0CAB] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.

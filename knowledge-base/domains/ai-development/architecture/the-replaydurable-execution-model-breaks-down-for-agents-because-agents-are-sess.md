@@ -65,6 +65,7 @@ related:
   - INS-260605-83DA
   - INS-260605-DF08
   - INS-260403-F6F6
+  - INS-260625-2088
 ---
 For 10-15 years, durable-execution engines solved the multi-step-side-effect problem by wrapping each side effect in a cached 'step': on re-execution you skip completed steps so you never, say, charge a credit card twice. Allam calls this the replay model—it builds durability on top of stateless compute and yields a useful audit trail and the ability to pause and wait (e.g., for a human) before resuming. When LLMs arrived in 2023 they fit neatly as just another step in a workflow.
 

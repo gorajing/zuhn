@@ -12,5 +12,5 @@
 - `INS-260403-25F9` Investors form their core impression in the first five minutes, so your founder story and problem framing must be rehearsed to near-perfection.
 - `INS-260405-7F03` Venture capital decisions are driven by quantitative metrics, not story quality.
 - `INS-260405-7F06` Generic differentiation claims ('we're easier to use') backfire; specific, verifiable claims with proof points are what actually move buyers.
-- `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.
 - `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.
+- `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.

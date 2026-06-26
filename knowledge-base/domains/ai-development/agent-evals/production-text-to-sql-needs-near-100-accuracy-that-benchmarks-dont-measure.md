@@ -59,9 +59,9 @@ stance: >-
 related:
   - PRI-260413-A957
   - INS-260514-3974
+  - INS-260625-224F
   - INS-260327-33FA
   - INS-260625-99AE
-  - INS-260605-0C13
 ---
 The presenters were unusually candid about the gap between a benchmark number and a production system. Their #1 ranking on the Bird text-to-SQL leaderboard used only one of their three context mechanisms — schema ontologies (descriptions of the schema). The other two, query blueprints (injecting bespoke interpretations of specific question fragments) and value searches (disambiguating the natural-language question against the actual data values in the database), are what they claim takes a system the rest of the way to near-100%. Production database agents need that accuracy ceiling because a confidently-wrong answer about money or operations is worse than no answer.
 

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 145 insights
+> 146 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -115,6 +115,7 @@
 - `INS-260402-1640` [medium] AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
 - `INS-260605-51AE` [medium] The agent shift mirrors cloud's sysadmin-to-SRE transition — work becomes more automation-oriented, more impactful, and higher-paid — only compressed dramatically in time.
 - `INS-260605-083B` [medium] The home PC and work PC converged, but personal and enterprise agents will not — enterprise workloads consume far more inference, so that's where the value pools.
+- `INS-260625-4078` [medium] A measured slowdown in expert open-source work argues against retiring human review as a near-term stable bottleneck.
 - `INS-260403-A101` [medium] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 - `INS-260330-B28C` [medium] Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.
 - `INS-260403-8874` [medium] AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.

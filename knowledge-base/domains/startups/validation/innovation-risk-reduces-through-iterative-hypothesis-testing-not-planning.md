@@ -47,7 +47,6 @@ stance: >-
   cannot be predicted from internal analysis alone.
 related:
   - INS-260323-DA13
-  - INS-260330-E282
   - INS-260403-3569
   - INS-260403-99D1
   - INS-260403-2BEE
@@ -56,6 +55,7 @@ related:
   - INS-260403-872C
   - INS-260404-A46A
   - PRI-260406-7ED0
+  - INS-260403-FBF0
 evidence:
   - id: INS-260330-E282
     type: TRANSFERS_TO

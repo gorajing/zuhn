@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-26 | 3000 sources
+Generated on 2026-06-26 | 3005 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -190,6 +190,7 @@ Generated on 2026-06-26 | 3000 sources
 | Julia Galef on the Scout Mindset - Econlib | blog | 8 | 2026-04-10 |
 | Power Systems Agent Benchmark: Executable Evaluation of AI Agents in Electric Power Engineering | blog | 8 | 2026-06-25 |
 | RAG Is A Hack - with Jerry Liu from LlamaIndex | blog | 8 | 2026-04-10 |
+| Self-Driving Chemistry Lab Discovers Catalysts That Can Switch Products on Demand | NC State News | blog | 8 | 2026-06-26 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -560,6 +561,7 @@ Generated on 2026-06-26 | 3000 sources
 | Making Claude Code more secure and autonomous with sandboxing | blog | 5 | 2026-04-10 |
 | Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow Opportunities for Founders | blog | 5 | 2026-03-30 |
 | Maybe you should have bought an electric car | blog | 5 | 2026-03-30 |
+| Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity | blog | 5 | 2026-06-26 |
 | Microsoft is Dead | blog | 5 | 2026-03-31 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
@@ -2023,6 +2025,7 @@ Generated on 2026-06-26 | 3000 sources
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |
 | Connect to tools - Amazon Bedrock AgentCore | blog | 3 | 2026-06-05 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 3 | 2026-03-30 |
+| Introduction | blog | 3 | 2026-06-26 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |
 | Position: Coding Benchmarks Are Misaligned with Agentic Software Engineering | blog | 3 | 2026-06-25 |
 | Reinvent Your Company While It's Still Successful | blog | 3 | 2026-03-31 |
@@ -2180,8 +2183,10 @@ Generated on 2026-06-26 | 3000 sources
 | Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 | youtube | 3 | 2026-03-24 |
 | Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390 | youtube | 3 | 2026-03-24 |
 | Digital Jungle 2 | audio | 2 | 2026-06-19 |
+| Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents | blog | 2 | 2026-06-26 |
 | Continual Harness: Online Adaptation for Self-Improving Foundation Agents | blog | 2 | 2026-06-05 |
 | In Consumer AI, Momentum Is the Moat | Andreessen Horowitz | blog | 2 | 2026-03-26 |
+| LLM-as-Judge Blind Spots in Production Multi-Turn Transaction Agents | blog | 2 | 2026-06-26 |
 | MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills | blog | 2 | 2026-06-25 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 2 | 2026-03-26 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 2 | 2026-03-26 |

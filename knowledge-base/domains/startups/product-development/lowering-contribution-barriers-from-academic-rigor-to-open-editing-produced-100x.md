@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260514-1277
   - INS-260409-212F
+  - INS-260625-4078
   - PRI-260405-0AC6
   - INS-260409-C016
-  - PRI-260406-6AE6
   - INS-260409-E730
 stance: >-
   Wikipedia's predecessor Nupedia had a 7-stage academic review process that

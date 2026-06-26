@@ -53,7 +53,7 @@ related:
   - INS-260327-F55C
   - INS-260322-3646
   - INS-260404-CD3E
+  - INS-260625-4078
   - INS-260405-7BA5
-  - PRI-260406-0E02
 ---
 Aletheia's research contributions have been submitted for peer review but the results will take a long time to arrive, so DeepMind had independent math experts check the work for correctness and novelty in the meantime. This is the realistic epistemic situation for all AI research capability claims: the gold-standard signal (peer review, citation impact, replication) takes months to years, while capability moves in weeks. The field must rely on interim expert assessments, which are faster but weaker — they can catch obvious errors but not subtle novelty overclaims or reference misattribution. When reading any 'AI wrote a research paper' claim, check whether the verification was interim expert review or actual peer-reviewed publication, and adjust confidence accordingly. Do not confuse 'experts looked at it and it checks out' with 'the paper has been published in a reputable venue'.

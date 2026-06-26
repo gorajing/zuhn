@@ -40,10 +40,10 @@ stance: >-
   as final structured output, no tool calls, a max-turn limit, errors, or human
   handoff.
 related:
+  - INS-260625-1654
   - INS-260328-5431
   - INS-260410-761E
   - INS-260423-31A1
   - INS-260403-21AF
-  - INS-260404-292E
 ---
 The guide defines a run as a loop where the LLM continues until an exit condition is reached. Examples include a final-output tool, a response without tool calls, an error, or a maximum turn count. Without explicit exit conditions, autonomy turns into hidden control-flow risk.

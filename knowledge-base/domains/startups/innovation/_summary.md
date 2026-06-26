@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 145 insights
+> 146 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260412-F32D` [high] Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.
@@ -145,5 +145,6 @@
 - `INS-260403-6EE7` [medium] Technology's deepest effects are qualitative transformations in how humans live, not quantitative improvements in economic output.
 - `INS-260412-FE82` [medium] Google X's explicit mandate to 'improve technologies by a factor of 10' serves as a structural filter that eliminates incremental projects and forces radical rethinking.
 - `INS-260403-C8FD` [medium] A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
+- `INS-260625-FDA1` [medium] The moat in applied AI is often the proprietary loop between decisions and domain feedback.
 - `INS-260405-B922` [low] CEOs are using venture building as a growth multiplier, creating new business lines with startup speed inside corporate structures.
 - `INS-260409-AB58` [low] If biology, language, and morphology all show saltative branching — long stability then rapid reorganization at branch points — technology and market evolution likely follow the same dynamic, which reframes strategy around transition timing rather than steady progress.

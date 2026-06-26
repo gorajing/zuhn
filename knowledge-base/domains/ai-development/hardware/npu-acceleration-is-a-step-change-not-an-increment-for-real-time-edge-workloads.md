@@ -52,11 +52,11 @@ stance: >-
   real-time edge use cases CPU/GPU cannot.
 related:
   - INS-260412-EDBF
+  - INS-260625-0CAB
   - INS-260605-72B5
   - INS-260330-4C5A
   - INS-260605-1787
   - INS-260605-C9EB
-  - INS-260501-CF7D
 ---
 The speaker calls NPU acceleration a 'game-changer,' citing 3-10x performance improvement (and up to 13x in some quoted numbers) plus a large reduction in energy use versus CPU/GPU. The framing is that CPU and GPU support is now 'pretty universal,' so the differentiator for demanding workloads — AR/VR with real-time camera feed updates, TTS, live perception — is NPU access via integrations with Qualcomm, MediaTek, and other silicon partners.
 
