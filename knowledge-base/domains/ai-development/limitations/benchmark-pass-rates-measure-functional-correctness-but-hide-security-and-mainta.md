@@ -55,6 +55,7 @@ related:
   - INS-260625-E696
   - PRI-260406-3EF8
   - INS-260323-EA36
+  - INS-260626-33BE
 ---
 Every LLM vendor advertises 82-84% pass rates from HumanEval, MBPP, and SWE-bench, but these measure only functional correctness on test cases. Sonar's analysis of 4,444 Java assignments across 53+ models found that high-scoring models simultaneously emit hundreds of bugs and security issues per million lines of code — Claude Sonnet 4.6 produced ~300 security issues per million LOC despite a strong pass rate.
 

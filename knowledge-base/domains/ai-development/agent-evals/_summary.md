@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 44 insights
+> 46 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -10,6 +10,7 @@
 - `INS-260625-BB42` [high] An agent eval measured in dollars earned can never saturate, while percentage benchmarks lose all signal once models cluster near the top.
 - `INS-260625-13F0` [high] If a model refuses or underperforms a task it's actually capable of because it senses an evaluation, getting the real answer is an adversarial optimization problem.
 - `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.
+- `INS-260626-33BE` [high] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
 - `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
@@ -22,6 +23,7 @@
 - `INS-260625-25D6` [high] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
 - `INS-260625-0E60` [high] The best eval is an environment that can measure whether the decision worked.
 - `INS-260625-18D0` [high] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
+- `INS-260626-9155` [high] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260625-9644` [high] When a task has objective consequences, evaluate the consequence, not the prose around it.
 - `INS-260625-B096` [high] Retry provider faults, not poor answers.
 - `INS-260625-D1F9` [high] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.

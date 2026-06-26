@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 337 insights
+> 340 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -104,6 +104,7 @@
 - `INS-260410-D250` [high] Natural-language tool chains force every intermediate result through the context window; code orchestration keeps only the final answer.
 - `INS-260605-0AD6` [high] Don't pre-specify task dependencies for an agent loop — give it a flat backlog and ask it to pick the next most important item, recomputing dependencies on the fly.
 - `INS-260409-5C6B` [high] LLMs reliably catch contradictions, orphans, and gaps in a wiki because the work is global reading — tedious for humans, cheap for LLMs.
+- `INS-260626-AE04` [high] NOVA's L3 task succeeds by coupling paper reproduction, solution design, production code edits, semantic gates, and offline/online validation.
 - `INS-260410-60C8` [high] Preloading every tool definition burns context before work begins; discoverable tools preserve the window for actual reasoning.
 - `INS-260327-FDC1` [high] Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.
 - `INS-260605-A3F4` [high] Because users stay in one long chat, load 10 turns and test the 11th so context-management failures surface in evals instead of in user reports.
@@ -196,6 +197,7 @@
 
 - `INS-260501-8186` [high] We're hacking continual learning by having agents write skill files. Real continual learning — agents that get better at your specific org over time — is research-blocked.
 - `INS-260605-2A69` [high] Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
+- `INS-260626-6D35` [high] NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake.
 - `INS-260605-09B1` [high] Rejected tasks were often under-specified — the testable outcome wasn't stated up front while the back-end tests expected unrequested behavior, or relied on implicit dependencies never given to the model.
 - `INS-260605-24AC` [high] Build agents for ambiguity and judgment, not for every automation problem.
 - `INS-260410-E658` [high] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
@@ -307,6 +309,7 @@
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
 - `INS-260605-F700` [medium] Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
+- `INS-260626-778F` [medium] NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260327-35C7` [medium] Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260605-9E46` [medium] Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
 - `INS-260605-A175` [medium] Classify each decision by reversibility and cost of error, and let serious, irreversible, high-cost decisions consume far more of the agent's analysis budget.

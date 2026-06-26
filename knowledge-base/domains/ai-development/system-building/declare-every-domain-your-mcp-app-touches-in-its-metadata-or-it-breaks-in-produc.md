@@ -68,6 +68,7 @@ related:
   - INS-260625-07CB
   - INS-260625-5BF4
   - INS-260625-3FBF
+  - INS-260626-6D35
 ---
 The double-iframe host re-applies a Content Security Policy to the inner app frame using a meta tag derived from the domains you declare in the MCP app spec metadata. Whatever you omit gets blocked at runtime. So every external dependency must be enumerated: if your view fetches data from an external API, that domain goes in connect-src; scripts, images, and frames each have their own directive. The speaker calls connect-src and script-src the two that matter most.
 

@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 284 insights
+> 286 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -216,11 +216,13 @@
 - `INS-260329-8896` [high] Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
 - `INS-260329-BAB7` [high] The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
 - `INS-260329-9074` [high] Variables create single points of change that prevent linear maintenance scaling in growing codebases.
+- `INS-260626-B7EB` [high] NOVA's cascade checks architecture semantics, local executability, offline metrics, and only then online impact.
 - `INS-260323-DC99` [high] As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260501-4646` [high] Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
 - `INS-260409-0EEE` [medium] Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
 - `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
 - `INS-260605-20DD` [medium] Better models reduce friction but do not remove the need for good agent architecture.
+- `INS-260626-F01D` [medium] NOVA loads a static knowledge base for prior effective directions but keeps current modifications, diagnostics, and metric feedback in trajectory memory.
 - `INS-260501-FBC6` [medium] Any enterprise older than 10 years or larger than 1000 people is a mass of stuff waiting to be integrated — and AI doesn't fix integration.
 - `INS-260409-A3EC` [medium] The KB is a curated prior; agents should still fetch fresh web content to supplement it.
 - `INS-260501-5582` [medium] AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.

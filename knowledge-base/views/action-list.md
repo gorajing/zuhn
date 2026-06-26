@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-26 | 5723 actionable insights
+Generated on 2026-06-26 | 5731 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -72,6 +72,8 @@ Generated on 2026-06-26 | 5723 actionable insights
 - [INS-260625-E3A2] Passing the final test is not enough if the agent got there through a non-repeatable process.
 - [INS-260625-9E17] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
 - [INS-260625-EC9A] The evaluator needs its own evidence path, not just the agent's final artifact.
+- [INS-260626-33BE] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
+- [INS-260626-9155] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -325,6 +327,9 @@ Generated on 2026-06-26 | 5723 actionable insights
 - [INS-260625-868D] Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
 - [INS-260625-AF2A] If the harness hardcodes the decomposition, it's a map-reduce with LLM calls; if the model picks the decomposition, it's a genuine recursive agent.
 - [INS-260625-1E07] Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
+- [INS-260626-AE04] NOVA's L3 task succeeds by coupling paper reproduction, solution design, production code edits, semantic gates, and offline/online validation.
+- [INS-260626-778F] NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
+- [INS-260626-6D35] NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -589,6 +594,7 @@ Generated on 2026-06-26 | 5723 actionable insights
 - [INS-260405-86BB] Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - [INS-260329-D2CA] Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - [INS-260410-0C09] Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks.
+- [INS-260626-BF48] NOVA reports a 13.5x reduction in human-attended time even though GPU-bound training stages keep similar wall-clock duration.
 
 ## ai-development/claude-code
 - [INS-260320-93E1] Planning is king — always use planning mode before implementation; never let the builder start without plans.
@@ -1249,6 +1255,8 @@ Generated on 2026-06-26 | 5723 actionable insights
 - [INS-260625-8A55] Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
 - [INS-260625-019F] Code no longer documents agent behavior at runtime — only telemetry (traces/spans) does, so observability must be instrumentation-first.
 - [INS-260625-1826] Do not rely on policy text to keep agents away from the oracle.
+- [INS-260626-F01D] NOVA loads a static knowledge base for prior effective directions but keeps current modifications, diagnostics, and metric feedback in trajectory memory.
+- [INS-260626-B7EB] NOVA's cascade checks architecture semantics, local executability, offline metrics, and only then online impact.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

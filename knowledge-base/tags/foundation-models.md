@@ -23,7 +23,7 @@
 - `INS-260505-1165` Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text.
 - `INS-260605-80B6` Anthropic/OpenAI already did the data-pipeline-train-deploy work, so your lever is the inputs you feed the model, not feature engineering or retraining.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
-- `INS-260403-5CBD` The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260322-54F3` The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
+- `INS-260403-5CBD` The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260409-22CD` Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
 - `INS-260327-30E4` Competing with OpenAI and Anthropic on models is capital-intensive and futile — surf the wave of their improvements by building applications on top.

@@ -63,6 +63,7 @@ related:
   - INS-260605-C028
   - INS-260605-0436
   - INS-260402-5ACE
+  - INS-260626-F01D
 ---
 Standard retrieval augments an agent with facts, entities, and current state — enough to answer a question correctly. But answering correctly is not the same as deciding well. The gap is the reasoning that produced past outcomes: why a loan was rejected, which risk factors dominated, what precedent the decision followed.
 

@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-26 | 3005 sources
+Generated on 2026-06-26 | 3006 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,14 +180,15 @@ Generated on 2026-06-26 | 3005 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
 | Developer’s guide to multi-agent patterns in ADK- Google Developers Blog | blog | 8 | 2026-04-12 |
 | Home-Cooked Software and Barefoot Developers | blog | 8 | 2026-04-10 |
 | Julia Galef on the Scout Mindset - Econlib | blog | 8 | 2026-04-10 |
+| NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems | blog | 8 | 2026-06-26 |
 | Power Systems Agent Benchmark: Executable Evaluation of AI Agents in Electric Power Engineering | blog | 8 | 2026-06-25 |
 | RAG Is A Hack - with Jerry Liu from LlamaIndex | blog | 8 | 2026-04-10 |
 | Self-Driving Chemistry Lab Discovers Catalysts That Can Switch Products on Demand | NC State News | blog | 8 | 2026-06-26 |

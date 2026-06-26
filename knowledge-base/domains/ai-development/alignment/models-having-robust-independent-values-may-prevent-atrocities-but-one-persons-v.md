@@ -58,8 +58,8 @@ related:
   - INS-260403-49FF
   - INS-260404-5365
   - INS-260410-ED8E
+  - INS-260626-6D35
   - INS-260330-1282
-  - INS-260405-DB32
 ---
 Patel's nuanced position on whether models should have independent values: the historical record suggests boots-on-the-ground refusal has prevented some of history's worst outcomes. Stanislav Petrov broke protocol by judging a 1983 Soviet missile-warning false alarm — averting hundreds of millions of deaths. Berlin Wall guards refusing to fire on civilians collapsed the East German regime. AI models with their own moral conviction could play this role in future authoritarian moments.
 

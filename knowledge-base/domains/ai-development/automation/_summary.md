@@ -1,6 +1,6 @@
 # Topic: automation
 
-> 12 insights
+> 13 insights
 
 - `INS-260405-86BB` [high] Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260404-76DD` [high] Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
@@ -14,3 +14,4 @@
 - `INS-260329-ED44` [medium] File I/O and modules transform Python from a calculator into an automation tool — this is the critical capability threshold for practical value.
 - `INS-260329-E839` [medium] Understanding where abstraction layers hide complexity reveals which programming tasks AI can reliably automate and which it cannot.
 - `INS-260329-3FF4` [medium] Well-chaptered, manually transcribed long-form content produces far better AI-assisted knowledge extraction than unstructured equivalents.
+- `INS-260626-BF48` [medium] NOVA reports a 13.5x reduction in human-attended time even though GPU-bound training stages keep similar wall-clock duration.

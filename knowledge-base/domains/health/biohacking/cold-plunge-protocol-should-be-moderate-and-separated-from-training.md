@@ -45,6 +45,7 @@ stance: >-
   Cold plunging should be limited to 11-12 minutes per week at 50-55F and
   separated from strength training by 6-8 hours to avoid blunting muscle gains
 related:
+  - INS-260626-BF48
   - INS-260330-6C59
   - INS-260329-3473
   - INS-260330-EBE9

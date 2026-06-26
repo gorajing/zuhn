@@ -1,8 +1,8 @@
 # Tag: honesty
 
+- `INS-260403-A8B1` Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
 - `INS-260409-3BC9` Galef: 'There are things in that intersection where you can make yourself feel better without having to resort to telling yourself a lie' — the honest-comforting intersection almost always has something in it, but people jump to self-deception without looking for it.
 - `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
-- `INS-260403-A8B1` Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
 - `INS-260501-F021` Time, introspection, honesty. No shortcut to knowing yourself. Lose money in stocks? Own it, don't blame the market.
 - `INS-260501-93DD` Taste = honest evaluation of quality. No honesty, no taste. No taste, no excellence. Taste isn't optional.
 - `INS-260501-088B` Top 0.01% across domains share three things: extreme work ethic, repetition without distraction, brutal honesty about failure.

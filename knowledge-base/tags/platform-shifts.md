@@ -1,8 +1,8 @@
 # Tag: platform-shifts
 
 - `INS-260625-A4DE` Enterprises deploy voice agents faster than any other agent because IVR trees, call flows, and customer-service SOPs already exist, making the gap from human call to autonomous agent small.
-- `INS-260409-C14E` AI is a platform shift — daily use now compounds into intuition that late adopters cannot buy later.
 - `INS-260605-D0C0` Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
+- `INS-260409-C14E` AI is a platform shift — daily use now compounds into intuition that late adopters cannot buy later.
 - `INS-260403-AC02` The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
 - `INS-260501-5B48` Pat Grady: there are two basic kinds of revolutions in technology — revolutions of communication (information distribution) and revolutions of computation (information processing). The internet, cloud, mobile were all communication. AI is computation.
 - `INS-260424-BC8F` Ben Gilbert: there's an analog to the early web — Google's 2000 infrastructure was a giant one-time web crawl, by 2010-2015 the vast majority was serving pages for queries; you see that exact same thing with training and inference but on a much more compressed timescale of 4 years rather than 15.

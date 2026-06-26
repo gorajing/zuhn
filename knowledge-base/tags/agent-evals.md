@@ -4,6 +4,7 @@
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260625-ED7E` METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260625-4D09` METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
+- `INS-260626-33BE` NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - `INS-260625-1920` Model identity is not enough; the harness is part of the measured system.
 - `INS-260625-77F8` For workflow agents, the answer is the mutated state, not the transcript.
 - `INS-260625-B6E8` Make held-out tests auditable in mechanism but private in instance.
@@ -14,6 +15,7 @@
 - `INS-260625-FDC1` Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260625-E3A2` Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- `INS-260626-9155` Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260625-B296` A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
 - `INS-260625-8EC6` Generated evals scale only when verification is generated and validated with the task.
 - `INS-260625-9644` When a task has objective consequences, evaluate the consequence, not the prose around it.

@@ -50,7 +50,6 @@ stance: >-
   the sampling loop turns a prohibitively expensive data step into a nearly free
   one.
 related:
-  - INS-260329-27A7
   - INS-260329-BC36
   - INS-260413-D96C
   - INS-260403-62AF
