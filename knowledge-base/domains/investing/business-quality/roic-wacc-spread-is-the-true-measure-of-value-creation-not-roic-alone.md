@@ -48,7 +48,6 @@ stance: >-
   cost of capital, because capital always has an opportunity cost that must be
   exceeded for genuine value creation.
 related:
-  - INS-260403-A3B2
   - INS-260404-B6DF
   - PRI-260406-4B0E
   - INS-260327-07C9

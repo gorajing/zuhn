@@ -1,8 +1,8 @@
 # Tag: privacy
 
+- `INS-260514-5001` Meta announced mandatory key-logger + screen recorder on every US employee 9-5 in the same month they laid off 8,000 people.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260405-8166` A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
-- `INS-260514-5001` Meta announced mandatory key-logger + screen recorder on every US employee 9-5 in the same month they laid off 8,000 people.
 - `INS-260325-042A` All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
 - `INS-260605-0748` On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
 - `INS-260605-D430` Choose on-device inference when latency, privacy, offline operation, or per-token cost dominate — not when you need maximum capability.

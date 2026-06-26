@@ -48,11 +48,10 @@ resolutions:
     attributes rather than holistic subjective ratings.
 related:
   - INS-260625-8A55
+  - INS-260625-D1F9
   - INS-260530-C385
   - INS-260605-2A01
   - INS-260410-F40F
-  - INS-260605-4D1D
-  - INS-260410-4EB9
   - INS-260605-EF23
   - INS-260625-C08B
 stance: >-

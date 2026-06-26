@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260423-7396
   - INS-260501-4043
+  - INS-260625-904E
   - INS-260403-13AF
   - INS-260625-D295
   - INS-260404-D6F7
-  - INS-260625-0750
 ---
 Lovejoy warns against the lazy hiring shorthand of 'I need a doctor' or 'I need a lawyer.' The expertise that compounds into product differentiation is direct experience of the exact use case: knowing what the workflow involves, where it breaks, and what 'good' looks like in practice. A doctor who has never done medical coding can't tell you where a coding product will go wrong. This granularity matters because the entire value of the domain expert is appraising AI quality with judgment that engineers and generic models lack. Adjacent skills like prompting and content engineering are nice-to-haves and learnable; deep, specific use-case experience is the irreducible base requirement.

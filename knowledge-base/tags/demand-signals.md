@@ -1,5 +1,6 @@
 # Tag: demand-signals
 
+- `INS-260625-86CA` When customers phone you demanding access right now and follow up the next day if you haven't delivered, that pull — not polite praise — is the unmistakable PMF signal.
 - `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 - `INS-260403-00D7` Complaints indicate awareness of a problem but not purchasing intent; validate with urgency and wallet signals.
 - `INS-260403-D4F0` Verbal agreement from potential users is not evidence of demand; only observed behavior counts.

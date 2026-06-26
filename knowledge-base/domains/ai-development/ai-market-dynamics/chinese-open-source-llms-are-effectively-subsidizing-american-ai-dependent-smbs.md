@@ -65,7 +65,7 @@ related:
   - INS-260403-36EC
   - INS-260405-94A0
   - INS-260605-0C13
-  - PRI-260328-5464
+  - INS-260625-EFCC
   - INS-260514-6576
 ---
 The popular geopolitical framing treats Chinese open-source AI as a threat to American AI competitiveness. The business-level counter-observation from OpenRouter's actual usage data: Chinese open-source models are capturing non-trivial market share for cost-sensitive inference workloads, which produces a pricing floor effect — American closed-source model providers cannot charge above a certain premium without driving workloads to Chinese open-source alternatives. For American SMBs building on LLMs, this is a hidden subsidy: the availability of cheap open-source alternatives keeps American API prices more reasonable than they would be in an OpenAI-Anthropic duopoly. The geopolitical implication is complicated: Chinese open-source releases benefit American small businesses while theoretically undermining American AI leadership. The practical implication for American AI-adjacent businesses: build pricing and architectural assumptions that allow swapping to open-source models when the economics justify it, because the open-source option is both your negotiating leverage with closed-source providers and your fallback if they price-discriminate aggressively. Meta's reintroduction of an up-to-date open-source model would shift this dynamic; until that happens, American SMBs benefit from cheap Chinese inference.

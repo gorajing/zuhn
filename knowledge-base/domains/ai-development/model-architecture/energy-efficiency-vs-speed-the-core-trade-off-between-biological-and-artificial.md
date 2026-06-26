@@ -65,10 +65,10 @@ related:
   - INS-260327-CB82
   - INS-260329-FCD3
   - INS-260330-3E3C
-  - INS-260403-7342
   - INS-260403-558D
   - INS-260403-B16E
   - INS-260405-1F0B
+  - INS-260404-7CBC
 ---
 Biological brains run at millisecond timescales but are extraordinarily power-efficient—the human brain runs on roughly 20 watts. Artificial systems like H100 GPU clusters can process information billions of times faster, but at the cost of megawatts of energy consumption at scale. These aren't two points on a single performance curve but two distinct architectural philosophies.
 

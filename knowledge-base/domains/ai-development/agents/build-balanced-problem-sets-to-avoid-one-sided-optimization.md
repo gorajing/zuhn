@@ -49,12 +49,14 @@ stance: >-
   that behavior.
 related:
   - INS-260322-D6D7
+  - INS-260625-D1F9
   - INS-260625-8A55
   - INS-260605-2186
   - INS-260625-BB42
   - INS-260605-6444
-  - INS-260625-C69F
   - INS-260605-EF23
+  - INS-260625-C69F
+  - INS-260625-7926
 ---
 When Anthropic built web-search evals for Claude.ai, they discovered that testing only 'did it search when it should' produced an agent that searched for almost everything. The fix was to add the other side: queries where the model should answer from existing knowledge ('who founded Apple?') alongside queries where it should fetch fresh data ('what's the weather?'). Striking the right balance between over-triggering and under-triggering required many rounds of refinement to both the prompts and the eval.
 

@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 141 insights
+> 145 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -57,6 +57,7 @@
 - `INS-260413-BE3E` [high] Public vs expert forecasts for AI-driven job loss: cashiers 73% / 73% (agree), truck drivers 33% / 62%, lawyers 23% / 38% — public underestimates expert-identified risk, and overestimates teacher/doctor risk.
 - `INS-260423-44B4` [high] Cody: my friend texted me yesterday — 'I think I'm going to fire 50 people, that's like 70% of my team. I can automate all their jobs right now with agent swarms.'
 - `INS-260410-5AB5` [high] Job-representative interviews were always the gold standard, but once models can do the job in 2 hours, 'representative' and 'AI-resistant' become incompatible goals.
+- `INS-260625-6C29` [high] Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
 - `INS-260403-5BCF` [high] Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
 - `INS-260514-AE3E` [high] Senior engineers DOMINATE AI-amplified work. The 'AI-native juniors will win' prediction was empirically wrong. What matters is STEERING (talking with AI to direct it), and seniors have decades of reps doing exactly that.
 - `INS-260321-988C` [high] A worker saving 20% of their time is 'soft savings' — employers rarely productively reallocate that 20% immediately. Individual task speedups don't automatically translate to enterprise-level value.
@@ -96,6 +97,7 @@
 - `INS-260403-9A0C` [medium] European data shows AI adoption increases productivity without reducing employment, suggesting AI augments workers rather than replacing them.
 - `INS-260405-89E7` [medium] MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
 - `INS-260403-7DF4` [medium] AI coding assistants deliver 55-81% productivity gains but unlike Ford's assembly line, they democratize access rather than concentrating power.
+- `INS-260625-1520` [medium] Research is becoming 'mostly orchestration focused' — humans supply the ideas and taste, models do the implementation and execution — so the bottleneck moves from doing experiments to choosing the right ones.
 - `INS-260403-39CF` [medium] AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260410-8767` [medium] Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260403-287B` [medium] AI is reducing new job creation for junior roles rather than eliminating existing positions.
@@ -104,6 +106,7 @@
 - `INS-260320-B99F` [medium] Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260403-B0CB` [medium] Using subsidized care industries as employment sinks for AI-displaced workers creates expensive make-work programs that raise costs without genuine productivity gains.
 - `INS-260410-098A` [medium] The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
+- `INS-260625-B09C` [medium] Treat code as disposable byproduct and the prompt as the real source — when better models arrive, rerun the prompt and regenerate.
 - `INS-260402-2D38` [medium] Finite compute forces allocation tradeoffs that keep humans economically relevant regardless of AI capability.
 - `INS-260329-92C3` [medium] Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
 - `INS-260410-DD0E` [medium] Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
@@ -134,6 +137,7 @@
 - `INS-260514-1A3D` [medium] Scientific scopes that cost 2 FTE × 6 months mid-2025 cost 2 weeks solo by late 2025 — a 12-24x compression that reprices what 'a project' means.
 - `INS-260423-FF53` [medium] Aaron Levie: there is 100% a role that 500,000 to a million jobs will be created for — agent operators who know MCPs, CLIs, skills, agents.md files, and how to redesign workflows for agents not people.
 - `INS-260514-78B3` [medium] AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
+- `INS-260625-9F65` [medium] Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
 - `INS-260403-6691` [medium] The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
 - `INS-260409-9EE8` [medium] Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260409-A180` [medium] Hassabis softly rejects Marc Andreessen's 'history always repeats' view — AGI at 10x Industrial Revolution speed may exceed the economy's capacity to create replacement jobs.

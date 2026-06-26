@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 129 insights
+> 130 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -30,6 +30,7 @@
 - `INS-260403-82E0` [high] Investors should prioritize AI application-layer companies with workflow embedding, data flywheels, and strong net revenue retention over foundational model plays.
 - `INS-260327-7214` [high] Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-42F0` [high] Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
+- `INS-260625-7B5C` [high] Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 - `INS-260327-1C7C` [high] Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
 - `INS-260330-6828` [high] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260327-47E9` [high] Google knew character consistency was a gap in prior models and deliberately designed Nano Banana's architecture and data to solve it, confirming it requires intentional engineering rather than just more compute.

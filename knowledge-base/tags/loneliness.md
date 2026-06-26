@@ -6,8 +6,8 @@
 - `INS-260412-B769` The loneliness cycle must be broken at three points: what you attend to, how you interpret it, and how you behave in response.
 - `INS-260412-5F4D` Chronic loneliness makes your brain pay more attention to social cues but interpret them less accurately, biasing toward hostility.
 - `INS-260409-67A5` People keep putting aliens on fuzzy photos because we are lonely in the universe.
-- `INS-260412-12D3` The loneliness epidemic traces to structural shifts — Renaissance individualism, industrial mobility, and modern relocation patterns — not individual social failures.
 - `INS-260325-5977` Media describes being alone as negative 10x more than positive — people who internalize this framing feel lonelier when alone, while those with positive beliefs about solitude actually benefit from it.
+- `INS-260412-12D3` The loneliness epidemic traces to structural shifts — Renaissance individualism, industrial mobility, and modern relocation patterns — not individual social failures.
 - `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
 - `INS-260325-05E4` Gratitude combats the loneliness epidemic by expanding one's sense of belonging beyond the individual self.
 - `INS-260412-DD1D` Loneliness is a biological signal for social needs, not a character flaw or skills deficit.

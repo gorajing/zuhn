@@ -66,11 +66,11 @@ stance: >-
   evaluate systems on deterministic capability and side effects rather than
   anthropomorphic analogies that can never be falsified.
 related:
-  - INS-260409-4719
   - INS-260321-F864
   - INS-260403-36EC
+  - INS-260409-4719
   - PRI-260328-C006
-  - PRI-260325-45A2
+  - INS-260625-50A0
 ---
 Origin: John McCarthy rejected his earlier name 'automata studies' for 'artificial intelligence' in 1956 specifically because pegging the field to recreating human intelligence was ambitious and mobilizing. Some of his colleagues were concerned about this choice precisely because human intelligence has no scientific definition.
 

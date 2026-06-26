@@ -51,6 +51,6 @@ related:
   - INS-260603-73D5
   - INS-260320-1B10
   - INS-260605-D055
-  - PRI-260406-3EF8
+  - INS-260625-E696
 ---
 The intuitive design for multi-agent systems is mass parallelism—10 agents for 10x throughput. Factory tried this and found it fails for software development: agents step on each other's changes, duplicate work, and make inconsistent architectural decisions, so coordination overhead eats the speed gains while burning tokens. Missions instead runs features serially—only one worker or validator active at any moment—and parallelizes only read-only operations (searching the codebase, researching APIs, running multiple code-review agents). This 'serial execution with targeted internal parallelization' looks slower on paper, but the error rate drops dramatically, and on multi-day tasks that correctness compounds. The general principle: parallelize work that doesn't mutate shared state, serialize work that does. Concurrency is cheap where there's no write contention and ruinous where there is.

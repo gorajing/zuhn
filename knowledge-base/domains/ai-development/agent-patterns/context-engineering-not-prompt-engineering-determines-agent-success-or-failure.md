@@ -47,7 +47,6 @@ resolutions:
     is a product and UX problem, not just an engineering one.
 stance: 'Agents fail because of bad context selection, not bad prompts.'
 related:
-  - INS-260514-F58B
   - INS-260326-2410
   - INS-260605-20DD
   - INS-260403-5F41

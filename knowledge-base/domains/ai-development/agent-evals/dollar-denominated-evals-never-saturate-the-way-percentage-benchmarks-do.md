@@ -54,6 +54,8 @@ related:
   - INS-260605-365A
   - INS-260624-6753
   - INS-260625-C69F
+  - INS-260625-D1F9
   - INS-260605-72C4
+  - INS-260625-7926
 ---
 Andon Labs argues that most benchmarks have a fatal design flaw: once a model scores ~92%, the remaining 8% is mostly noise and label error, so the gap between 92 and 93 carries no real signal even though people keep treating saturated benchmarks as discriminating. Money-based evals (Vending-Bench, and freelancer/Upwork-style dollar tasks) escape this because there is no 100% ceiling — an agent can always make more money, so the metric keeps separating models indefinitely. This makes 'how much money did the agent make running a business' a candidate proxy for AGI-level capability that resists the saturation that kills most evals. The design lesson generalizes: when building an evaluation, prefer an unbounded, real-stakes outcome metric over a bounded percentage, because unbounded metrics preserve discrimination between strong models exactly where bounded ones go flat.

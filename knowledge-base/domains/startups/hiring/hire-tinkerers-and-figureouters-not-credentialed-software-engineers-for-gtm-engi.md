@@ -58,10 +58,10 @@ related:
   - INS-260323-A7F6
   - INS-260327-D888
   - INS-260514-DB6E
+  - INS-260625-904E
   - INS-260404-D6F7
   - INS-260402-C664
   - INS-260328-FFC3
-  - INS-260525-4D80
   - INS-260605-7747
 ---
 After thousands of customer conversations at Clay, Yash discovered a counterintuitive pattern: ~20-30% of people with software engineering degrees couldn't make sense of Clay because they hadn't built translatable computational thinking — they were experts in their specific tool/language, not in the meta-skill of systems thinking. The archetypes that consistently win are: (1) Zapier/Make/Lindy/Gum Loop experts who've already proven they can think modularly in no-code; (2) Bubble experts (Yash has never met a Bubble expert who couldn't grasp Clay instantly); (3) Data archetypes with SQL/data-science background who think first-principles about logic; (4) Salesforce/CRM admins who already think systematically about boring problems; (5) Sales hackers — BDRs who didn't take status-quo systems for granted and started using Zapier/Clay creatively. Hiring screen: throw a problem at them that they've never seen before and watch HOW they navigate it. The interview gold question: 'What did you mess up here, and how did you overcome it?' — that surfaces problem-solving ability, not workflow-building competence.

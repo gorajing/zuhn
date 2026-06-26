@@ -71,6 +71,7 @@ related:
   - INS-260625-D772
   - INS-260625-57C1
   - INS-260625-E464
+  - INS-260625-5694
 ---
 Zuckerberg reframes what open-source frontier AI is actually for. Almost nobody runs a 2-trillion-parameter model directly — the whole value is that you can use it as a teacher, distilling its reasoning into a small model that's cheap enough to actually deploy. His quoted number: roughly 95% of the teacher's intelligence can be captured at 10% of the cost. This is a much stronger claim than most practitioners have internalized, and it explains why Meta is willing to spend billions training a Behemoth model that nobody will run in production.
 

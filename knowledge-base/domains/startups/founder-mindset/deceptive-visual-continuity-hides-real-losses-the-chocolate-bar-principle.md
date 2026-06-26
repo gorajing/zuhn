@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-BEAD
   - INS-260330-744E
+  - INS-260625-0248
   - INS-260605-3345
   - INS-260410-1D7A
-  - INS-260402-3FD8
 evidence:
   - id: INS-260330-FF5B
     type: EXTENDS

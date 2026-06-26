@@ -7,6 +7,6 @@
 - `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
 - `INS-260409-882E` Shutdown is a top-three outcome and founders plan as if acquisition is common because they never read about the failed attempts.
 - `INS-260405-0375` At current exit velocity, the entire U.S. unicorn backlog would take 49 years to clear.
+- `INS-260405-AD04` The 'sadness of a successful exit' is a predictable psychological outcome when founders build identity around a company rather than around themselves as builders.
 - `INS-260403-D70C` A $300M acquisition offer becomes worthless when your last round was at $500M with 2x liquidation preferences.
 - `INS-260404-F589` Large-scale exits increasingly reward companies with defensible go-to-market strategies over pure product innovation.
-- `INS-260405-AD04` The 'sadness of a successful exit' is a predictable psychological outcome when founders build identity around a company rather than around themselves as builders.

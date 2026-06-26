@@ -62,12 +62,12 @@ stance: >-
   leverage.
 related:
   - INS-260403-AA09
-  - INS-260403-910E
   - INS-260403-2E2C
   - INS-260410-D926
+  - INS-260403-910E
+  - INS-260625-0B96
   - PRI-260403-0ABD
   - PRI-260406-E5FB
-  - PRI-260406-CA93
 ---
 Bob Mercer's quote — 'we're right 50.7% of the time, and being right 100% right 50.7% of the time can make you billions' — is the practical inversion of how most investors think. Traditional investing philosophy prizes conviction: wait for the fat pitch, size up, hold. Rentech's approach is the opposite: accept that your edge per trade is tiny, then compensate through volume (millions of short-held positions), disciplined Kelly-style bet sizing, and leverage (basket options let them run $60B of positions on $5B of capital).
 

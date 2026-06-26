@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 78 insights
+> 79 insights
 
 - `INS-260403-13AF` [high] Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
@@ -71,6 +71,7 @@
 - `INS-260403-88F2` [medium] OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
 - `INS-260330-6411` [medium] ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260409-3640` [medium] SaaS multiples are collapsing because if super-intelligence is coming, forward cash flows are uncertain, so investors are switching to 'how many years of FCF to earn back one share' as the real pricing heuristic.
+- `INS-260625-4D06` [medium] The market wrongly assigns a premium to SaaS vendors reselling tokens as if it were re-accelerating revenue, but token-resale carries far worse margins than classic SaaS — the durable model is exposing every product capability via API and charging for consumption.
 - `INS-260403-36EC` [medium] SaaS business models that charge for access to human-engineered software are being repriced by markets as AI makes equivalent software trivially cheap to produce.
 - `INS-260403-3106` [medium] Only a handful of public SaaS companies still command premium revenue multiples, with survivors owning infrastructure layers and solving mission-critical problems.
 - `INS-260403-1337` [medium] Sequoia views AI as an industrial revolution built on cognition instead of machinery, predicting it will mint the largest fortunes in modern history.

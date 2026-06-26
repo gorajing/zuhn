@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260403-EA6D
   - PRI-260406-311D
+  - INS-260625-4D06
   - PRI-260407-68B9
   - INS-260403-3518
-  - INS-260325-206C
 ---
 Terra's mechanism used Luna to absorb UST volatility — when UST depegged, the algorithm printed more Luna to restore the peg, which crashed Luna's price, which further undermined confidence in UST, triggering more selling. This reflexive loop is mathematically inevitable once selling pressure exceeds a threshold. Terra's $1.5 billion emergency reserve (including Bitcoin) proved wholly inadequate against $4 billion in withdrawals.
 

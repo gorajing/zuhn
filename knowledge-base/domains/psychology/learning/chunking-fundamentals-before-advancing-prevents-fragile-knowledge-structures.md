@@ -49,7 +49,6 @@ stance: >-
   more effective than rushing to advanced topics
 related:
   - INS-260329-393C
-  - INS-260405-2688
   - INS-260329-91DD
   - INS-260329-E839
   - INS-260501-BCCB

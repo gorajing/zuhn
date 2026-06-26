@@ -56,8 +56,8 @@ related:
   - INS-260330-C31B
   - PRI-260407-5465
   - INS-260325-FD14
-  - PRI-260407-7FB7
-  - INS-260330-6BBD
+  - INS-260625-9B0C
+  - INS-260625-2F7C
 ---
 Smith proposes that humans evolved to maximize leverage from their limited organic brains by specializing in exactly the cognitive tasks where compute and memory matter least: recognizing patterns in sparse data and communicating insights through language. If this specialization is near the theoretical maximum, it would explain why LLMs don't feel dramatically more 'intelligent' in conversation despite massive improvements in math and coding.
 

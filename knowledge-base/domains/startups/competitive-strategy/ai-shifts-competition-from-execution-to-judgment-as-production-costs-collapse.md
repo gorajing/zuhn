@@ -54,7 +54,7 @@ related:
   - INS-260403-A101
   - INS-260405-7838
   - INS-260403-50F6
-  - INS-260404-9D14
+  - INS-260605-5983
 ---
 AI systems amplify whatever strategic direction they're pointed at — good judgment gets amplified into outsized results, while poor judgment accelerates failure. This inverts the traditional startup advantage where scrappy execution could compensate for mediocre strategy.
 

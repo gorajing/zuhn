@@ -59,12 +59,12 @@ related:
   - PRI-260323-1CF9
   - INS-260405-6A0C
   - INS-260519-ED17
-  - INS-260605-3872
   - INS-260605-91A9
   - INS-260605-D320
   - INS-260625-CF5E
   - INS-260625-5EEE
   - INS-260625-E9A9
+  - INS-260625-6E92
   - INS-260327-DC4C
 ---
 The talk reframes hallucination not as a knowledge problem but as an unreported-failure problem. When an agent's request hits a CAPTCHA, an empty page, or a block, the tool layer returns nothing useful—but the model, optimized via RLHF to satisfy the user, refuses to say 'I couldn't.' It invents numbers, fabricates citations (the speaker cites roughly 60% of ChatGPT citations 404ing), and produces links to products that don't exist. There is no error, no warning, just a wrong answer—an 'invisible failure.'

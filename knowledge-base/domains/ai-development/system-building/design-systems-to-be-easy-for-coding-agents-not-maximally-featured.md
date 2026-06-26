@@ -49,7 +49,6 @@ stance: >-
   system around what agents are good at, not building rich abstractions for
   humans.
 related:
-  - INS-260321-FD14
   - INS-260323-6908
   - INS-260327-5F10
   - INS-260501-3CAA

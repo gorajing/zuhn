@@ -48,11 +48,11 @@ stance: >-
   eliminates the credential-exfiltration attack surface entirely.
 related:
   - INS-260410-382D
+  - INS-260625-EC7C
   - INS-260605-41AE
   - INS-260605-3AB7
   - INS-260605-A2B7
   - INS-260605-2E60
-  - INS-260321-D01E
   - INS-260605-B794
   - INS-260605-8C71
   - INS-260605-8AFF

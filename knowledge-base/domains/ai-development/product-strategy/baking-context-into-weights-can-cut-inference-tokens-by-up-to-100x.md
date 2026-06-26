@@ -60,7 +60,6 @@ stance: >-
   to two orders of magnitude fewer inference tokens than re-sending that context
   every call.
 related:
-  - INS-260323-8AEC
   - INS-260327-C962
   - INS-260405-547E
   - INS-260409-17E9
@@ -70,6 +69,7 @@ related:
   - INS-260605-C859
   - INS-260625-429B
   - INS-260424-0554
+  - INS-260405-A22F
 ---
 The economic core of Engram's pitch is a compute-shifting tradeoff: burn more compute once to learn an organization's way of working into the weights, then send far less context on every inference pass. The founders insist the savings are not marginal (50%) but can be 100x — two orders of magnitude — because much organizational knowledge (people, teams, priorities, who to triage what to) is implicit and can't be located in any single document to retrieve.
 

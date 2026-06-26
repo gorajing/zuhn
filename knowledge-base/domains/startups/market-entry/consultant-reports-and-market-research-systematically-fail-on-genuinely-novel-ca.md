@@ -67,9 +67,9 @@ stance: >-
 related:
   - INS-260328-D2EC
   - INS-260330-1854
+  - INS-260625-0758
   - INS-260330-255F
   - INS-260327-3A71
-  - INS-260327-89C7
 ---
 When Starbucks proposed entering Japan, the board demanded a consultant study. The consultant's report was unambiguous: 'no one in Japan will ever walk in the street with a cup of coffee, they would lose face,' the no-smoking policy was a non-starter, economics couldn't work at Japanese rents, coffee culture was wrong. Every major finding was wrong. On opening day in Tokyo's Ginza, 200 people were lined up before 6am; within months people were walking around Tokyo with Starbucks cups everywhere. Today Japan has 2,000+ Starbucks stores.
 

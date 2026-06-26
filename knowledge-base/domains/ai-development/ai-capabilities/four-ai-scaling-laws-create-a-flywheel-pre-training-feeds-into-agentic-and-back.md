@@ -52,6 +52,7 @@ resolutions:
 related:
   - INS-260323-8AEC
   - PRI-260323-8E89
+  - INS-260625-50A0
   - PRI-260407-7FB7
   - INS-260403-B73D
   - INS-260323-6C6F
@@ -59,7 +60,6 @@ related:
   - INS-260404-4E13
   - INS-260501-428B
   - INS-260505-56BD
-  - INS-260522-2CE8
 stance: >-
   Jensen identifies four scaling laws (pre-training, post-training, test-time,
   agentic) that form a loop

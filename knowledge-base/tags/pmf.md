@@ -1,5 +1,6 @@
 # Tag: pmf
 
+- `INS-260625-7B5C` Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260405-64FA` The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.

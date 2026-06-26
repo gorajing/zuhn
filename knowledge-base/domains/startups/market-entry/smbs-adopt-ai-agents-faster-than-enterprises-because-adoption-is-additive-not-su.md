@@ -52,7 +52,6 @@ stance: >-
   filling a capability gap rather than replacing existing systems, eliminating
   the organizational resistance that slows enterprise adoption.
 related:
-  - INS-260327-A22D
   - INS-260327-BB71
   - PRI-260328-8317
   - INS-260330-0F23
@@ -62,6 +61,7 @@ related:
   - INS-260405-E8A1
   - INS-260403-0AF6
   - INS-260405-FE94
+  - INS-260403-D51A
 evidence:
   - id: INS-260327-A9D5
     type: EXTENDS

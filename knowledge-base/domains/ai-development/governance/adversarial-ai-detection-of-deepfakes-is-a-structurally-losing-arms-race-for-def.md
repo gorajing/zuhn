@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260323-22E8
   - INS-260320-A467
-  - INS-260327-9816
   - INS-260328-031A
   - INS-260330-0FCC
   - INS-260330-3ADD
@@ -60,5 +59,6 @@ related:
   - INS-260404-AE27
   - INS-260403-AE2C
   - INS-260405-FD9D
+  - INS-260323-0919
 ---
 The proposed solution of training AI to distinguish real from fake videos mirrors the architecture of Generative Adversarial Networks, where a discriminator's feedback directly improves the generator. If detection models are deployed publicly (which they must be to be useful), their classification signals become free training data for the next generation of deepfake tools. Each improvement in detection capability can be inverted into an improvement in generation capability. This structural asymmetry means verification infrastructure cannot rely solely on adversarial detection — it must incorporate provenance-based solutions like cryptographic signing at capture time or blockchain-anchored verification chains. The 2018 proposal of blockchain-verified video, while naive in its original framing, correctly identified that authentication must happen at the point of creation, not the point of consumption.

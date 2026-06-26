@@ -50,10 +50,10 @@ resolutions:
     simple as possible' — drives NVIDIA's engineering culture.
 related:
   - PRI-260323-0654
+  - INS-260625-4D1D
   - INS-260329-9C20
   - INS-260501-801C
   - INS-260329-0487
-  - INS-260505-02F8
   - INS-260325-8D66
   - INS-260329-2242
   - INS-260330-ECA9

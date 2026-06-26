@@ -2,6 +2,7 @@
 
 - `INS-260403-6632` Google DeepMind's model generated a novel cancer immunotherapy hypothesis that was experimentally validated, marking AI's shift from analysis to discovery.
 - `INS-260323-8519` The LLM paradigm applied to biological data — 'large molecule models' — could unlock nature's design intelligence across all five kingdoms of life.
+- `INS-260625-9B0C` ESM-C's continued scaling came from pushing training samples 50M to 2.8B (largely metagenomic data), not clever architecture, and its single-sequence model now matches MSA-based AlphaFold and wins where evolutionary data is sparse.
 - `INS-260524-B6B3` Jongmin Sung: 'if math is physics's language, AI can read very complicated patterns' — and biology is a complex system with no single equation, so AI is the most suitable language for it.
 - `INS-260501-5F37` Once we can accurately simulate emergent systems, economics and biology become real sciences in the way physics has been — controlled experiments without controlled experiments.
 - `INS-260505-5D69` Nature is constantly producing pandemic-grade viruses; what we lack is the ability to detect, respond, and cure them — that's where AI's marginal benefit goes.

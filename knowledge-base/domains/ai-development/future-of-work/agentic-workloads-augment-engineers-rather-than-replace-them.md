@@ -57,7 +57,7 @@ related:
   - INS-260530-D34F
   - INS-260514-DFAE
   - INS-260514-D155
-  - INS-260410-9F17
+  - INS-260625-D1F9
 ---
 The case study is concrete: ten engineers each run their own agent in Kubernetes that periodically checks in on model evaluations, and one engineer estimated the setup did the work of six. The speaker's framing is deliberately not 'we're all losing our jobs' — the displaced work is the tedious, repetitive eval-running, and what it enables is the high-value, outside-the-box, creative work the team would otherwise never reach.
 

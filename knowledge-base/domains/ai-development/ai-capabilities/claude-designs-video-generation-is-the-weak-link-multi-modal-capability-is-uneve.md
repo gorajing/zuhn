@@ -63,8 +63,8 @@ related:
   - INS-260409-0F19
   - PRI-260326-12C6
   - INS-260403-2054
+  - INS-260625-2DA2
   - INS-260330-F7B2
-  - INS-260412-C3AB
 ---
 Isenberg's modality-by-modality assessment after a 1-hour live walkthrough: wireframing is genuinely best-in-class, pitch deck generation is unbelievable, hi-fi visual designs are really good, video generation is a 5/10. This is Karpathy's 'jagged intelligence' diagnosis applied within a single product — capability is uneven across modalities even when the same model architecture is being used, because the training data, RL environments, and specialization investments are uneven.
 

@@ -1,5 +1,6 @@
 # Tag: computer-use
 
+- `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260605-34B0` Separate implementation and validation into different agents with different context, and validate behavior by actually running the app, not just linting and tests.
 - `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260605-8C05` New flagship models (Gemini 4, Qwen 3.5, Chimera 2.5) are launching as vision-language/omni models on release, so VLMs are converging with LLMs.

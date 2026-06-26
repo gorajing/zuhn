@@ -53,7 +53,6 @@ related:
   - INS-260324-DB86
   - INS-260323-DA6F
   - INS-260330-C0E2
-  - INS-260405-07DF
   - INS-260423-E905
 stance: Americans replace mattresses every 9-10 years
 evidence:

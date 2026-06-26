@@ -56,7 +56,7 @@ related:
   - PRI-260323-7BFA
   - INS-260603-A09F
   - INS-260625-2E86
-  - INS-260405-6A6F
+  - INS-260625-E696
 stance: >-
   When you tally coding assistance against deepfake porn, education degradation,
   military errors killing innocents, and employment disruption, genera...

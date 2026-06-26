@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260605-705B
   - INS-260625-18D0
+  - INS-260625-BCD8
   - INS-260423-85B3
   - INS-260524-2C7C
-  - INS-260605-46B2
 ---
 The speaker described coding agents that can plan, implement, commit, deploy, inspect logs, and loop, but also observed that unconstrained agent runs sometimes stop before the operationally important step. The remedy was to divide the job into explicit workflow stages, so the system can rely on the model for reasoning while the platform enforces the boring parts.
 

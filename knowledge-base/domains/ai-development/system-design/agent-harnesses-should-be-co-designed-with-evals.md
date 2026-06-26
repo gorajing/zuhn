@@ -42,11 +42,11 @@ stance: >-
   Production agent systems should design harnesses, post-training data, and
   evaluation gates together because each one changes the meaning of the others.
 related:
+  - INS-260625-D1F9
   - INS-260625-1187
   - INS-260605-2186
   - INS-260605-4D1D
   - INS-260404-8D91
-  - INS-260403-BB23
 ---
 The paper's strongest system-level implication is that a harness-aware training setup changes both capability and OOD robustness. The authors conclude that harness-aware post-training is a prerequisite rather than a supplement for robust tool-integrated agents, while also limiting the claim to ALFWorld, two Qwen models, and two RL algorithms.
 

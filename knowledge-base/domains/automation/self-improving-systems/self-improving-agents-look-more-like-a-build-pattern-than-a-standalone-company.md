@@ -40,7 +40,6 @@ stance: >-
   software categories before it becomes an obviously venture-scale standalone
   product category.
 related:
-  - INS-260327-1C7C
   - INS-260327-A608
   - INS-260403-37FD
   - INS-260403-0372

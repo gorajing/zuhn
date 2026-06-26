@@ -48,11 +48,11 @@ resolutions:
     is essentially 'token laundering': finding ways to get natural language in
     and intelligence out through whatever interface fits the use case.
 related:
+  - INS-260625-0A7D
   - INS-260605-C2A3
   - INS-260603-1BC0
   - INS-260405-F26B
   - INS-260405-A992
-  - INS-260410-F910
   - INS-260327-94FE
   - INS-260409-A3EC
   - INS-260410-71B9

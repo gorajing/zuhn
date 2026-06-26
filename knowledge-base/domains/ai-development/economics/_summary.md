@@ -1,6 +1,6 @@
 # Topic: economics
 
-> 15 insights
+> 16 insights
 
 - `INS-260625-02A3` [high] Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
 - `INS-260405-3240` [high] AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable.
@@ -12,6 +12,7 @@
 
 - `INS-260410-C63C` [high] Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260405-A22F` [high] Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
+- `INS-260625-A503` [high] Railway's payback period on owned metal versus renting the equivalent cloud capacity is ~3 months against 4 years of depreciable hardware, yielding ~70% metal margins that can subsidize cloud bursting.
 - `INS-260410-069C` [medium] When labs split compute ~50/50 between training and inference with >50% gross margins, profit or loss each year is basically whether they bought ahead of or behind the next year's demand.
 - `INS-260603-915A` [medium] Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
 - `INS-260413-9769` [medium] Estimated US consumer surplus from generative AI tools reached $172B annually by early 2026 with median per-user value tripling between 2025 and 2026 — mostly captured through free access.

@@ -58,7 +58,7 @@ related:
   - INS-260325-BEAC
   - INS-260625-279D
   - INS-260605-4375
-  - INS-260605-6B24
+  - INS-260625-50A0
 ---
 Reachy Mini's serving stack has three levels: the on-robot conversation app (mic/speaker I/O, echo cancellation, tool dispatch, face tracking), a speech-to-speech pipeline (VAD → Parakeet STT every 150ms → LLM → Coqui TTS), and separately scaled LLM inference endpoints behind a load balancer sized to connected-robot count.
 

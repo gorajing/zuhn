@@ -56,7 +56,6 @@ stance: >-
   orders of magnitude beyond the hours invested.
 related:
   - INS-260325-622D
-  - INS-260325-7BE7
   - INS-260327-D76A
   - INS-260327-45B4
   - INS-260330-FCA3
@@ -65,6 +64,7 @@ related:
   - INS-260330-B91E
   - INS-260404-5AC1
   - PRI-260328-9EC9
+  - INS-260423-BD00
 ---
 Charlie Munger's own example: he read Barron's every week for 50 years, found one actionable idea, made $50M on it, gave that capital to Li Lu who compounded it to $400M. That is the expected value math of serious reading when you have capital or a business to apply ideas to. Senra extends this: a 28-year-old founder listening to Founders who finds a single insight that produces a 10% improvement to his business has just earned a $10M idea. The ratio of reading hours to dollars generated approaches infinity when you have a deployment vehicle.
 

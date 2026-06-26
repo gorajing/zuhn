@@ -4,6 +4,7 @@
 - `INS-260403-1874` Venture debt hit $53B in 2024 as growth-stage companies delay IPOs and prefer non-dilutive capital.
 - `INS-260403-5941` Venture debt deal sizes and activity have grown substantially over the past decade, making it a standard tool rather than an exotic financing option.
 - `INS-260403-FA1E` Vague MAC clauses let lenders call your loan whenever your business deteriorates, creating existential risk at the worst possible time.
+- `INS-260625-7FA5` Hardware-backed infra startups can raise cheap debt secured against servers (prime-plus, refinanceable) rather than diluting with equity, and should spend the equity they do raise buying an unfair advantage — because today's equity is the most expensive you'll ever give away.
 - `INS-260403-0E32` The breadth of non-dilutive funding options—80+ paths including grants, RBF, and government programs—makes equity-first fundraising a default choice rather than an optimal one.
 - `INS-260403-4D7E` Venture debt lenders care more about who invested in you and whether they'll keep backing you than about your revenue or profitability.
 - `INS-260403-636D` Raise venture debt when you don't desperately need it — the best deals happen when you're in control of the timing.

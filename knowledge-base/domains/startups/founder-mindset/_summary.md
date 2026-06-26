@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 349 insights
+> 351 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-E874` [very_high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
@@ -111,6 +111,7 @@
 - `INS-260327-200C` [high] Being more excited by others' startup failures than your corporate success is the clearest founder signal.
 - `INS-260328-F303` [high] The startup game is already nearly impossible when taking a real shot — not even taking a real shot is a guaranteed waste of time.
 - `INS-260329-8443` [high] At low savings levels, an extra $1K/month in income matters infinitely more than choosing the right index fund.
+- `INS-260625-286E` [high] A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
 - `INS-260322-D6B8` [high] As you age, competing on individual technical skill puts you against younger rivals; building influence and reputation shifts your career to inbound opportunities that come to you.
 - `INS-260330-156C` [high] After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
 - `INS-260328-2854` [high] Self-aware people at powerful institutions stay because they know no one will return their calls once they leave.
@@ -239,6 +240,7 @@
 - `INS-260329-89ED` [high] Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.
 - `INS-260329-60CF` [high] Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260403-E688` [high] Wealth's real value is buying back your time and autonomy, not funding consumption.
+- `INS-260625-904E` [high] The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
 - `INS-260327-3E6F` [high] When quitting isn't an option, every obstacle becomes a design problem to solve rather than a reason to stop.
 - `INS-260327-88FE` [high] When YouTube's dating site version had zero uploads for a week, they pivoted to general video sharing and adopted a culture of shipping experiments overnight — like video responses — without knowing if any would work.
 - `INS-260403-B05A` [high] What you work on and who you work with matter more than how many hours you put in.

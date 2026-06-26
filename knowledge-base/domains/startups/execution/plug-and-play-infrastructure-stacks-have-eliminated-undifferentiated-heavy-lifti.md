@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260625-E1E9
   - INS-260625-D73A
+  - INS-260625-7FA5
   - PRI-260406-9FA8
   - PRI-260406-D8C3
-  - PRI-260405-D6F5
 ---
 A decade of developer tooling evolution has produced a mature, composable startup stack where payments (Stripe), authentication (Firebase/Auth0), hosting (Vercel/Railway), databases (Supabase/PlanetScale), and analytics are all plug-and-play. This means the 'starting from zero' experience has fundamentally changed — founders are standing on a decade's worth of accumulated infrastructure.
 

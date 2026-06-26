@@ -57,14 +57,13 @@ stance: >-
   AI products improve fastest when subject-matter experts own eval criteria and
   prompt design while engineers own building and automation.
 related:
-  - INS-260323-2726
   - INS-260330-6D43
   - INS-260405-1951
   - INS-260501-3D0C
   - INS-260501-4043
-  - INS-260605-AEAC
   - PRI-260406-4B8E
-  - PRI-260406-3EF8
+  - INS-260625-904E
+  - INS-260625-67F1
 ---
 Ngo observes that good AI products surface two distinct personas who must work together: technical users (AI engineers, developers) who are excellent at building, framing, and automating systems, and less-technical subject-matter experts (product managers, domain specialists) who understand what the AI experience *should* be. The mistake is forcing one persona to do the other's job — making engineers guess at domain quality, or making domain experts write code.
 

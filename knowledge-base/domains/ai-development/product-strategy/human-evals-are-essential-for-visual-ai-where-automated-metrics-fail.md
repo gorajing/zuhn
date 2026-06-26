@@ -50,11 +50,11 @@ stance: >-
   can only be judged by the people who know the subject.
 related:
   - INS-260403-1B0D
+  - INS-260625-D1F9
   - INS-260403-4363
   - PRI-260405-ADEA
   - PRI-260405-4B06
   - PRI-260406-0109
-  - PRI-260406-4C28
   - INS-260605-3119
 evidence:
   - id: INS-260330-725C

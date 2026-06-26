@@ -68,8 +68,8 @@ related:
   - INS-260409-3BC9
   - INS-260412-8CD7
   - INS-260404-16E1
+  - INS-260625-0B96
   - INS-260405-0B17
-  - INS-260403-21C4
 ---
 Chamath's claim about personal development: 'There is absolutely no method to knowing yourself better. The only way to do it is time and introspection and honesty.' The alternative — blaming everyone else when things go wrong (lose money in markets, blame the market, not your decisions) — is the universal failure mode. People avoid the discipline because it's painful and slow.
 

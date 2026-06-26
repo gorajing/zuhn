@@ -54,6 +54,5 @@ related:
   - INS-260326-967C
   - PRI-260405-E9C5
   - INS-260328-4EA0
-  - INS-260402-A629
 ---
 The conventional wisdom is that vesting exists to protect co-founders from each other, but YC argues it's equally important for solo founders. First, investors want all founders — including solo ones — incentivized to stay at the company long-term. Vesting provides that skin-in-the-game signal. Second, and more subtly, a solo founder who vests their own shares sets the cultural tone for every future employee. It would be hypocritical to impose 4-year vesting on employees while the founder holds fully vested shares. By putting vesting on their own stock, the founder says 'we're all in this together, we all earn our equity over time.' This cultural signal compounds as the company grows and is far more valuable than the minor inconvenience of restricting your own shares.

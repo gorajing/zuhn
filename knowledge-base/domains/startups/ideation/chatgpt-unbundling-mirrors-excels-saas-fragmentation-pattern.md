@@ -53,8 +53,8 @@ related:
   - INS-260403-FF65
   - INS-260404-B494
   - INS-260530-18D5
+  - INS-260625-9B0C
   - INS-260409-AB58
-  - INS-260403-3517
   - INS-260605-062F
 ---
 The article draws a direct parallel between how Excel once served as a general data tool before spawning thousands of specialized SaaS products (finance, project management, CRM) and how ChatGPT is undergoing the same fragmentation. Users discover specific workflows within ChatGPT—like turning podcast transcripts into social posts—that are cumbersome in the general tool but perfect for a dedicated product.

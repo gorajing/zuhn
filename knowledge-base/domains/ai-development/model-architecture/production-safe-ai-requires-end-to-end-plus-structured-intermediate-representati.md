@@ -63,7 +63,6 @@ stance: >-
   feedback integration — making them appropriate for prototypes but inadequate
   for fully-autonomous safety-critical deployment.
 related:
-  - INS-260409-533A
   - INS-260411-8034
   - PRI-260403-67FC
   - PRI-260411-ACEF

@@ -13,6 +13,7 @@
 - `INS-260625-B096` Retry provider faults, not poor answers.
 - `INS-260625-FFDF` SWE-EVO shows that benchmark saturation on isolated tasks can hide a large capability gap on release-sized work.
 - `INS-260625-2A4F` Shared failures are often benchmark QA signals before they are leaderboard facts.
+- `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260605-A2AD` When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.
 - `INS-260625-CD66` Use saturated compact evals to screen practical models before simulator-scale tests.
 - `INS-260625-1826` Do not rely on policy text to keep agents away from the oracle.

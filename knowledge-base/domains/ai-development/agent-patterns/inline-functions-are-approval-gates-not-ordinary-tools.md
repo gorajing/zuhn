@@ -45,11 +45,11 @@ stance: >-
   sensitive integrations because they pause the agent and let trusted host code
   decide the outcome.
 related:
+  - INS-260625-5E87
   - INS-260329-9CFE
   - INS-260605-4860
   - INS-260403-BA81
   - INS-260605-DC65
-  - INS-260605-5CC7
 ---
 AgentCore distinguishes inline functions from tools that execute on the harness VM: an inline function call returns to client code, which decides what to do and sends a result back. AWS explicitly points to this for human approvals and custom integrations.
 

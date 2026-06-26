@@ -61,8 +61,8 @@ related:
   - INS-260501-A5F5
   - INS-260505-E671
   - INS-260505-03F6
+  - INS-260625-0758
   - INS-260323-085A
-  - INS-260322-32E3
 ---
 Universe Panel discussion: in physics, you typically have a clear idea of the underlying mechanism — Maxwell's equations, the Standard Model, general relativity. AI is helpful for the calculation/prediction layer when those mechanisms are intractable to compute by hand. In biology, you often have correlations with no clear mechanism, especially in complex systems. AI is helpful for finding patterns and generating hypotheses about what mechanisms might exist. The implication: blindly transferring AI architectures designed for physics (with strong inductive biases reflecting known structure) to biology produces models that are over-constrained for biology's actual messiness; blindly transferring biology-style large-data approaches to physics ignores the strong priors that already exist.
 

@@ -60,8 +60,8 @@ related:
   - INS-260405-6DAD
   - INS-260405-18AB
   - INS-260410-614E
+  - INS-260625-0B96
   - INS-260402-7FCC
-  - INS-260410-F1F1
 ---
 With months of cash left and Riva 128, Huang couldn't afford the normal chip cycle of tape-out → debug → re-tape-out. Instead he bought a failing emulation company's inventory and used it to run the full software stack against a virtual chip before committing to production. When leaders asked 'how do you know it's going to be perfect?' his answer was 'because if it's not, we're out of business anyway — so let's make it perfect.'
 

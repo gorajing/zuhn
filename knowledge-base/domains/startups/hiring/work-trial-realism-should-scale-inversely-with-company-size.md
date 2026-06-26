@@ -56,6 +56,7 @@ related:
   - INS-260501-F394
   - PRI-260321-14D8
   - INS-260605-743D
+  - INS-260625-E10F
 ---
 Gumroad represents one extreme: hiring candidates as contractors for 4-6 weeks with full access to internal tools, essentially operating on a 'hired by default, fired in 30-60 days if underperforming' model. Linear runs 3-5 day co-working trials in the actual codebase. Both can afford this because they're small and each hire matters enormously.
 

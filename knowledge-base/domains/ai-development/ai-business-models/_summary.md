@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 17 insights
+> 18 insights
 
 - `INS-260424-E832` [high] Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business?
 - `INS-260423-B612` [high] Rory: what do you do when you can sell more if you had more, but you can't make more? You start allocating capacity based on money — exactly what anyone in economics would say to do.
@@ -17,5 +17,6 @@
 - `INS-260625-5929` [medium] Outcome pricing is not just a billing choice; the product must create self-contained, attributable outcomes before the model works.
 - `INS-260505-2467` [medium] LLMs ship with Silicon Valley's logic baked in: opacity over openness, efficiency over journey, cost-cutting over apprenticeship. Academia gets that logic when it adopts the tools.
 - `INS-260505-F164` [medium] Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
+- `INS-260625-EFCC` [medium] Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
 - `INS-260410-F3D8` [medium] Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent.
 - `INS-260514-90F1` [medium] Companies extracting labor concessions via 'AI will replace you' messaging when the AI can't actually do the work yet.

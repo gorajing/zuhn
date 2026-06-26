@@ -43,11 +43,11 @@ stance: >-
   A frontier technology company that isn't failing at multiple initiatives
   simultaneously is operating below its potential and not taking enough bets.
 related:
+  - INS-260625-0B96
   - INS-260330-06CD
   - INS-260625-2A4F
   - INS-260325-0C4A
   - INS-260410-419F
-  - INS-260403-77F4
 evidence:
   - id: INS-260330-06CD
     type: TRANSFERS_TO

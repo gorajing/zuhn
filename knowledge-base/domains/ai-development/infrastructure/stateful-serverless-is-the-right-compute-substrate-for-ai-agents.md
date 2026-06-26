@@ -61,8 +61,8 @@ related:
   - INS-260605-61D9
   - INS-260625-B67E
   - INS-260605-ACC9
+  - INS-260625-B6E9
   - INS-260505-C5D8
-  - INS-260410-AA40
 ---
 The classic serverless model (a function that takes a request, returns a response, and disappears) breaks for agents because there is no place for state to live — a naive counter always reads zero, and you are forced to bolt on a database, replication, and sticky sessions. Cloudflare's durable objects flip this: for a given ID, a class spins up once and every subsequent request or websocket lands in the same instance, giving each agent a stable address, in-process state, and SQLite alongside it.
 

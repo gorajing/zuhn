@@ -45,6 +45,6 @@ related:
   - INS-260330-9C48
   - INS-260330-4553
   - INS-260330-70BC
-  - INS-260323-5A96
+  - INS-260625-7996
 ---
 PitchBook data shows that in 2024 only 906 European VC investors made two or more deals globally, compared to 1,955 in 2023. This >50% decline signals a dramatic market contraction rather than a temporary slowdown. In tightening capital markets, LP caution flows downstream: fewer new funds get raised, existing managers deploy more slowly, and marginal participants exit the market entirely. The result is a bifurcated landscape where the top-tier firms continue operating while the long tail of active investors collapses — compressing deal flow and raising the bar for founders seeking European capital.

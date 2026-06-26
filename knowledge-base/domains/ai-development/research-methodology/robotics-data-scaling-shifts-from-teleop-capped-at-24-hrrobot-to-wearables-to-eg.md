@@ -70,6 +70,7 @@ related:
   - INS-260530-5644
   - PRI-260328-7007
   - INS-260603-2F7E
+  - INS-260625-3D32
 ---
 Fan's data-scaling progression: teleoperation has a hard physical limit of 24 hours per robot per day (realistically 3-4 hours when 'the robot god is merciful'), making it unscalable past low millions of hours globally. Data wearables (Universal Manipulation Interface — wear the gripper directly on your hand; exoskeletons mapped one-to-one to dexterous robot hands) lift the cap but remain intrusive. The endgame is egocentric video — 99.9% of training data from human first-person video with hand-tracking annotations, capable of 10M+ hours/year if the data collection is ambient (like Tesla FSD's data upload).
 

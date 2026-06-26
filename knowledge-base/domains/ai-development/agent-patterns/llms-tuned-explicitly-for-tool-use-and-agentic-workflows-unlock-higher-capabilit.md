@@ -59,10 +59,10 @@ related:
   - INS-260605-0C88
   - PRI-260501-CD0C
   - INS-260624-A121
-  - INS-260327-7299
   - INS-260405-1282
   - INS-260403-9E51
   - INS-260409-C158
+  - INS-260605-C760
 ---
 Ng observes that early LLMs were optimized to answer human-generated questions — queries like 'why did Shakespeare write Macbeth.' But agentic workflows require different capabilities: reliable function calling, structured output for tool use, and the ability to serve as components in iterative pipelines rather than standalone conversational agents.
 

@@ -55,9 +55,9 @@ related:
   - INS-260405-6A94
   - INS-260325-BEAC
   - INS-260329-0D70
-  - INS-260405-3240
   - INS-260403-91F7
   - INS-260410-B8EB
+  - INS-260410-18CF
 stance: >-
   While per-token costs have decreased, reasoning models burn dramatically more
   tokens per task, so actual inference costs per useful output have inc...

@@ -51,7 +51,6 @@ stance: >-
   inductive biases consistently outperform larger generic foundation models.
 related:
   - INS-260327-EE5B
-  - INS-260410-D082
   - INS-260413-C040
   - INS-260408-C572
   - INS-260321-3967

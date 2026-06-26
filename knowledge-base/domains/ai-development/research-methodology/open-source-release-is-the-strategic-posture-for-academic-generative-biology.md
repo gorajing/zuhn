@@ -49,8 +49,8 @@ related:
   - INS-260410-045C
   - INS-260412-8B95
   - INS-260505-483B
+  - INS-260625-1E2C
   - INS-260413-0EF6
-  - INS-260328-B19D
 ---
 Brian Hie explicitly aligns with James Lennon's open-science framing: all EVO-1 and EVO-2 models, training code, training data, and downstream evaluation pipelines are publicly released. This isn't ideology — it's strategic positioning. Industry labs (Generate Biomedicines, Insitro, Iambic) will produce capable models but keep them closed. Academic labs cannot match capital but can match capability and exceed on openness. The community-wide research velocity gain from open weights and code is the academic comparative advantage.
 

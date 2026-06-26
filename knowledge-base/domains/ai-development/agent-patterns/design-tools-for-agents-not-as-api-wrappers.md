@@ -49,7 +49,6 @@ stance: >-
   fundamentally different affordances than deterministic software.
 related:
   - INS-260321-C5AA
-  - INS-260322-D8C3
   - PRI-260320-D5B7
   - INS-260327-B9AD
   - INS-260327-D020
@@ -58,6 +57,7 @@ related:
   - INS-260404-F38A
   - INS-260409-A3EC
   - INS-260605-C2A3
+  - INS-260603-1BC0
 ---
 Traditional APIs assume deterministic callers with abundant memory who can iterate through large result sets. Agents have limited context and limited ability to process irrelevant data token-by-token, so a list_contacts tool wastes context while search_contacts matches how agents actually work.
 

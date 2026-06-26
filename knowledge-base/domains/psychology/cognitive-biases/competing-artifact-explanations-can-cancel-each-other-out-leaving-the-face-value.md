@@ -53,7 +53,6 @@ stance: >-
   coincidentally change at exactly the right rates to produce the observed data,
   the face-value interpretation becomes more parsimonious.
 related:
-  - INS-260327-AEFA
   - INS-260404-E783
   - PRI-260406-A33C
   - INS-260330-0AE2

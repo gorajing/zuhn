@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260327-D9C0
   - INS-260409-1E3C
+  - INS-260625-D510
   - PRI-260406-AFA7
   - PRI-260406-426E
-  - INS-260330-BCD8
 stance: Life defaults are like software defaults
 evidence:
   - id: INS-260327-85E2

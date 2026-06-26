@@ -55,11 +55,11 @@ stance: >-
   industrial imperative to divide, standardize, and reduce the cost of
   large-scale calculation — the same forces that drove factory production.
 related:
+  - INS-260625-4D1D
   - PRI-260328-7007
   - INS-260325-BF84
   - INS-260325-5B7F
   - INS-260410-83CF
-  - INS-260409-626E
   - INS-260412-7C6B
 evidence:
   - id: INS-260325-D624

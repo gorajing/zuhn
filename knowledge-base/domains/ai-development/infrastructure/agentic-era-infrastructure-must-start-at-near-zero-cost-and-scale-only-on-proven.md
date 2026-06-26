@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260403-F4D7
   - INS-260625-E1E9
+  - INS-260625-7FA5
   - INS-260403-3DF3
   - INS-260403-4050
-  - INS-260404-2E6C
 ---
 Historically, infrastructure — especially databases — was designed heavyweight to support the most mission-critical applications, requiring an army of people to babysit and costing millions. That model is mismatched to how agents work: agents move incredibly fast and run many experiments in parallel, most of which won't pan out. For the failures you want cost to be near zero; for the rare winner you want the same environment to autoscale to production scale without a migration.
 

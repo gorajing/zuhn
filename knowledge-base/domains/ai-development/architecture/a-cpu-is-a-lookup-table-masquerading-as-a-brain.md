@@ -51,8 +51,8 @@ stance: >-
 related:
   - INS-260330-2601
   - PRI-260406-0FF1
+  - INS-260625-B6E9
   - INS-260625-36DF
   - INS-260505-8E0B
-  - INS-260522-2CE8
 ---
 Once the presenter realizes that for every combination of (opcode, step, flags) there is exactly one correct set of control lines to activate, the entire control unit collapses into a read-only memory where the inputs address the ROM and the outputs are the control signals. There is no reasoning, no cleverness, no agent inside the machine — just a fixed function from situation to response, precomputed at design time. This is worth internalizing because it dissolves the intuition that CPUs 'decide' anything. All the apparent intelligence of a running program comes from the sequence of instructions the programmer wrote, not from any decision-making at the chip level. When people anthropomorphize CPUs ('the computer thinks'), the control ROM is the correct antidote.

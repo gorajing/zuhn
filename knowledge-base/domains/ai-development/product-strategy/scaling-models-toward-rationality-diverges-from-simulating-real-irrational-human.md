@@ -64,7 +64,6 @@ stance: >-
   capability.
 related:
   - INS-260323-D934
-  - INS-260327-BE4E
   - INS-260327-EE5B
   - INS-260403-34C0
   - INS-260405-670E
@@ -73,6 +72,7 @@ related:
   - INS-260409-4CBB
   - INS-260410-F5C5
   - INS-260412-F3B0
+  - INS-260505-56BD
 ---
 Park observes that OpenAI, Anthropic, and the new labs share a North Star: super-intelligent machines that are rational and excel at problems with objective answers. But humans are irrational and full of subjective values, preferences, and taste. The result is a counterintuitive divergence — 'you actually start to see model size going up and the performance in its ability to predict and simulate human behavior' plateau. Capability gains aimed at rationality do not transfer to, and can even degrade, human-behavior fidelity.
 

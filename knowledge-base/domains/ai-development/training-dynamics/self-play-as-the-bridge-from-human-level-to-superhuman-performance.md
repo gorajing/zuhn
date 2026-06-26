@@ -48,7 +48,6 @@ stance: >-
   performance in closed domains
 related:
   - INS-260323-C5D3
-  - INS-260408-B5EC
   - INS-260412-AEE1
   - INS-260403-751D
   - INS-260403-CAAB

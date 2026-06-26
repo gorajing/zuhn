@@ -63,7 +63,6 @@ stance: >-
   optimizing for token frugality over shipping velocity misreads what the
   organization actually rewards
 related:
-  - INS-260322-4757
   - INS-260325-DFC7
   - INS-260327-EBDF
   - INS-260327-0595
@@ -73,6 +72,7 @@ related:
   - INS-260423-2B80
   - INS-260501-033E
   - INS-260514-B4A2
+  - INS-260519-224B
 ---
 There's a builder instinct to economize on token/inference cost. The panelist's report from enterprise practice is that this misreads the incentive: companies aren't monitoring token consumption per engineer — they're measuring shipping velocity, because revenue comes from getting product to market. If AI raises your productivity such that a month-long build becomes a week, that's the win the organization rewards, and the token cost to achieve it is noise against the value of shipping faster.
 

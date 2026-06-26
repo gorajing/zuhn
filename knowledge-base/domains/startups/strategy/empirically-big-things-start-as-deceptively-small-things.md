@@ -49,7 +49,6 @@ stance: >-
   and execute against it.
 related:
   - INS-260322-229C
-  - INS-260327-432E
   - INS-260330-D99D
   - PRI-260406-B87C
   - INS-260403-7D5B
@@ -58,6 +57,7 @@ related:
   - INS-260402-9EBD
   - INS-260405-9FD9
   - INS-260410-B47A
+  - INS-260410-18A0
 evidence:
   - id: INS-260403-BCB1
     type: SUPPORTS

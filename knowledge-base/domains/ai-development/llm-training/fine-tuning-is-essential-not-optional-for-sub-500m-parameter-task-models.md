@@ -54,8 +54,6 @@ stance: >-
   production reliability, and that fine-tuning is worth 20-40 eval points.
 related:
   - INS-260322-3616
-  - INS-260322-D6D7
-  - INS-260327-E07C
   - INS-260327-7A48
   - INS-260403-EA93
   - INS-260410-09B4
@@ -63,6 +61,8 @@ related:
   - INS-260409-3230
   - INS-260514-DC55
   - INS-260605-72C4
+  - INS-260625-D1F9
+  - INS-260605-8F95
 ---
 Google AI Edge's experience is that customization strategy should scale inversely with model size: for 2-4B 'small' models, customize via prompting or skills; for sub-1B 'tiny' models, fine-tuning is the workflow of choice; and below 500M parameters fine-tuning is effectively mandatory for production-level reliability. Their concrete data point: a 270M function-calling model went from roughly 40-something percent to 86% reliability across 10 functions after fine-tuning, and they 'see this with smaller models all the time' — fine-tuning is worth 20 to 40 points on a given eval.
 

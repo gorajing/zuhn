@@ -52,13 +52,13 @@ stance: >-
   5-10% improvement and requires reindexing every document in the corpus, making
   it infeasible for most real-world deployments.
 related:
-  - INS-260322-3616
   - INS-260410-656B
   - INS-260410-264E
   - INS-260409-3602
+  - INS-260322-3616
   - PRI-260320-6847
   - INS-260605-4D1D
-  - INS-260605-C28F
+  - INS-260625-B5AD
   - INS-260409-8DA0
   - INS-260412-4493
   - INS-260605-5A8E

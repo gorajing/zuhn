@@ -47,10 +47,10 @@ stance: >-
   work before an exogenous catalyst enables breakout; founders expecting faster
   validation systematically wash out of the category
 related:
+  - INS-260625-7B5C
   - INS-260412-C217
   - INS-260324-782C
   - INS-260323-5A96
   - INS-260403-93E7
-  - INS-260327-B946
 ---
 Groq took from 2015-2022 with no product-market fit. First tape-out, no customers. Government contracts, no success. Then the LLM wave arrived and Groq's chip turned out to be perfectly suited for inference. Replit similarly had years of flat revenue before an exponential hockey stick. The pattern: infrastructure companies commonly build for years waiting for an exogenous ecosystem shift to reveal the market — rather than iterating their way to PMF the way consumer-software startups do. This has two implications. First, the founder selection must tolerate long valleys; founders who need annual revenue validation will burn out before the window opens. Second, investor diligence on infrastructure bets should weight the technical bet (is the architecture right?) over traction (is revenue scaling?), because early traction is the wrong signal in this category.

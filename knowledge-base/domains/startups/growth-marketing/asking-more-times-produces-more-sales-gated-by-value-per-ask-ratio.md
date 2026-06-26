@@ -46,7 +46,7 @@ related:
   - INS-260405-7838
   - INS-260330-E6B7
   - INS-260329-16F0
+  - INS-260625-86CA
   - INS-260329-50D5
-  - INS-260329-1DE0
 ---
 Empirically, salespeople who ask the most times close the most deals — asks are a throughput variable in the sales funnel. Most businesses undershoot by asking once or not at all. But pure ask frequency has a failure mode: an audience that gets only pitches disengages and stops listening, capping total asks. The correct optimization target is (number of asks) multiplied by (probability audience remains engaged per ask), which requires maintaining a high value-per-second between asks. The operational rule is to embed CTAs at the natural value-delivery points — inside the lead magnet, before it, after it, throughout content — and to ensure each pitch is buffered by disproportionate value on either side. This lets you ask 5-10x as often as 'polite' marketing while still growing the audience.

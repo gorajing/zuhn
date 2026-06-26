@@ -64,6 +64,7 @@ related:
   - PRI-260405-FB37
   - PRI-260323-8E89
   - PRI-260328-D893
+  - INS-260625-9B0C
 ---
 Neural scaling laws — more data and parameters yield better models — were rooted in the training domain and assume a single model on a fleet of identical chips. As the field shifts from training to inference, that homogeneity becomes less relevant. We already see 'mild heterogeneity' emerging at three layers: mixture-of-experts replacing dense models (architecture), multi-agent systems replacing single LLM calls (workflow), and prefill-decode disaggregated systems replacing single chips (hardware).
 

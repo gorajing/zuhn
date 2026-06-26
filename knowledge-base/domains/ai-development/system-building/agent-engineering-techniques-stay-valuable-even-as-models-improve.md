@@ -52,5 +52,6 @@ related:
   - INS-260605-A28F
   - INS-260624-A121
   - INS-260330-8F07
+  - INS-260625-017C
 ---
 The 12-factor framing says that even exponentially improving LLMs leave room for core techniques that make LLM-powered software more reliable, scalable, and maintainable. The durable work is owning prompts, context, execution state, control flow, and recovery surfaces.

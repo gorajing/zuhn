@@ -54,9 +54,9 @@ related:
   - INS-260321-B7CB
   - INS-260327-C962
   - INS-260330-9313
+  - INS-260625-43B3
   - PRI-260323-8E89
   - INS-260322-5790
-  - INS-260328-0B99
   - INS-260405-DFBC
 ---
 By late 2024, new language models were released so frequently that people became desensitized to benchmark improvements. Yet OpenAI extended its lead despite competitors matching or exceeding its model quality. The differentiator was habit formation: ChatGPT became embedded in the daily workflows of millions of consumers and enterprises, even beginning to displace the default browser search habit for over a billion people.

@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 204 insights
+> 205 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -171,6 +171,7 @@
 - `INS-260412-86F1` [medium] Ferdinand Porsche was rejected by every European automaker before Hitler's government finally backed his people's car vision.
 - `INS-260403-93BB` [medium] Founder visibility isn't self-promotion — it's a leadership tool that enables team confidence, investor trust, and market legibility.
 - `INS-260412-EF0E` [medium] Samsung appointed three new CEOs in 2021, reshuffled chip leadership in 2024, and enforced six-day executive work weeks — a pattern that signals strategic drift rather than course correction.
+- `INS-260625-67F1` [medium] On the Claude Code team every single person — EM, PM, designers, data scientist, finance, user researcher — writes code.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
 - `INS-260410-87C4` [medium] Greg Abel: 'Our owners' time horizon extends beyond the tenure of any individual CEO. I will not be your CEO for the next 60 years as simple arithmetic makes that — shall we say — an ambitious plan.'
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.

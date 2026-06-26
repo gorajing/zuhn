@@ -55,7 +55,7 @@ related:
   - INS-260501-2759
   - INS-260605-015B
   - PRI-260411-56D8
+  - INS-260625-8624
   - INS-260423-EDF7
-  - INS-260410-797C
 ---
 Diffusion model serving is far less mature than the autoregressive LLM/VLM stack, so the field deliberately borrows proven LLM optimization concepts and re-engineers them. But the architectural mismatch means they rarely port directly. KV caching, central to autoregressive serving, has no clean diffusion analog because diffusion does not emit one token at a time — caching instead exploits the fact that consecutive denoising steps (or spatial chunks within a step) change little, so unchanged regions can skip recomputation above a tuned threshold (e.g. TeaCache, chunk-based caching). Quantization is also less impactful than in LLMs because diffusion models are more attention-heavy, though it remains a low-hanging fruit on modern hardware and shrinks memory enough to run on lower-end GPUs. The practical takeaway: treat LLM optimization knowledge as inspiration, not a drop-in recipe, and always re-validate quality, since caching done wrong significantly degrades image fidelity.

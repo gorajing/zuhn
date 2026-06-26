@@ -57,6 +57,7 @@ related:
   - INS-260403-65D2
   - INS-260403-AC01
   - PRI-260405-A11F
+  - INS-260625-48FA
 ---
 ChatGPT's shift from a two-field to a three-layer system (personality, custom instructions, context) reveals a general principle about layered configuration: each layer constrains and can override the layers below it. Selecting the wrong base personality causes custom instructions to be overridden because the personality layer has higher precedence. This mirrors software architecture patterns where configuration cascades — global defaults, environment-specific overrides, and runtime parameters — must all be coherent.
 

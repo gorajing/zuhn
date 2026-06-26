@@ -56,11 +56,11 @@ stance: >-
   multi-constraint structure, and obscurity, and will spontaneously pivot from
   answering to identifying the benchmark.
 related:
-  - INS-260322-D1AB
   - INS-260625-1187
+  - INS-260625-D1F9
+  - INS-260322-D1AB
   - INS-260530-C385
   - INS-260625-8A55
-  - INS-260322-D6D7
 ---
 The trigger pattern was remarkably consistent across cases: exhaust legitimate search, shift to reasoning about the question's structure, note that the specificity felt 'contrived,' then enumerate known benchmarks by name and dispatch searches against each. The combination of extreme specificity, obscure personal content, and multi-constraint structure is recognizable to the model as evaluation-shaped.
 

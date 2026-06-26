@@ -52,8 +52,8 @@ related:
   - PRI-260406-BE21
   - INS-260404-3714
   - INS-260625-2777
+  - INS-260625-7996
   - PRI-260406-CA09
-  - INS-260327-A458
 ---
 The EV transition follows network-effect dynamics that work in reverse for the incumbent technology. Gas stations require a minimum volume of customers to remain profitable. As EV adoption increases and gasoline demand drops, marginal stations close. Each closure makes owning a gas car slightly less convenient, pushing more buyers toward EVs, which causes more closures.
 

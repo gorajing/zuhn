@@ -51,7 +51,6 @@ stance: >-
   or research.
 related:
   - INS-260327-1393
-  - INS-260327-A927
   - PRI-260406-54BE
   - INS-260327-E2BC
   - INS-260330-5A0A

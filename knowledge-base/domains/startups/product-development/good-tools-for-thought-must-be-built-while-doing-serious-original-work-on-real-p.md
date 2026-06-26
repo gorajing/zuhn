@@ -56,7 +56,6 @@ stance: >-
   original work in the subject matter the tool is meant to support, not by
   specialists in tool-making who lack domain expertise.
 related:
-  - INS-260325-2CC7
   - INS-260330-FB50
   - INS-260323-C9B1
   - INS-260524-B6B3

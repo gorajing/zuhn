@@ -61,11 +61,11 @@ related:
   - INS-260327-A22D
   - INS-260329-C893
   - INS-260403-DC6E
-  - INS-260403-EFFB
-  - INS-260410-C022
   - INS-260410-4696
   - INS-260501-A1C7
-  - PRI-260322-8FD4
+  - INS-260410-C022
+  - INS-260625-4D06
   - INS-260501-814C
+  - INS-260522-88E0
 ---
 The 2026 AI usage discourse centers on capability advancements and product launches. The under-appreciated structural fact is that supply does not catch demand even at hyperscale. Google, despite massive TPU buildout, sees more demand than supply across every product. OpenAI restricts Claude Code in base plans because the alternative is missing earnings. Anthropic at $30B revenue is still capacity-constrained. The implication is not temporary: the compute-supply bottleneck shapes user and business strategy for the next 2-3 years minimum. The practical response is token-allocation discipline: every individual and business operates against an effectively fixed token budget (set by either purchase price or capacity constraint), and the question becomes which use cases produce highest leverage per token. Throwing AI at everything is wasteful; concentrating tokens on workflows where AI produces 5-10x leverage is competitive advantage. For individuals: identify the 3-5 weekly tasks where AI produces dramatic leverage and ration tokens for those. For businesses: rank workflows by AI-leverage-per-token and deploy budget proportionally rather than allowing every team unlimited access. The teams that develop this discipline early will outperform teams that operate as if AI is unlimited and free.

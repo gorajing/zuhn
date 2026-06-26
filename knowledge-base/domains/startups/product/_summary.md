@@ -1,6 +1,6 @@
 # Topic: product
 
-> 27 insights
+> 28 insights
 
 - `INS-260403-6CE6` [high] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-8DA1` [high] Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
@@ -23,6 +23,7 @@
 - `INS-260403-66AE` [high] User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed.
 - `INS-260403-7F06` [high] Reddit beat Slashdot because user submissions made content fresher than human moderators could achieve, and users always follow the newest news.
 - `INS-260403-AEAF` [high] The same attributes that built a brand's dominance can become its biggest handicap when customer values shift.
+- `INS-260625-D510` [medium] When users demand configurability, earn conviction for opinionated defaults by using your own product every day and trusting gut feel.
 - `INS-260605-C699` [medium] Building on-device multimodal AI for a blind father in a low-connectivity region produced a general-purpose framework now used by frontier labs and thousands of developers.
 - `INS-260404-C501` [medium] Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260405-8646` [medium] Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.

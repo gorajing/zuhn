@@ -10,5 +10,5 @@
 - `INS-260326-8E6D` Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
 - `INS-260403-6D4F` The founders who achieve outsized outcomes are distinguished primarily by their refusal to quit during the inevitable multi-year low points, not by superior initial vision.
-- `INS-260403-36E6` YC's analysis of 8,000 applications found grit under pressure outperformed all conventional startup evaluation metrics.
 - `INS-260402-9681` Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
+- `INS-260403-36E6` YC's analysis of 8,000 applications found grit under pressure outperformed all conventional startup evaluation metrics.

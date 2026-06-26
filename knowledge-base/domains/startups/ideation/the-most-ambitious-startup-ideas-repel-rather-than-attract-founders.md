@@ -49,7 +49,6 @@ stance: >-
   founders because they threaten identity and seem impossible, making the best
   ideas systematically underexplored.
 related:
-  - INS-260322-88C3
   - INS-260403-6890
   - PRI-260406-B7A1
   - INS-260404-CA58

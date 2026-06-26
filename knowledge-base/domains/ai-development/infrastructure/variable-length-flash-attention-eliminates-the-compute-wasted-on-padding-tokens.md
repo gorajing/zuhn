@@ -63,6 +63,7 @@ related:
   - INS-260605-2531
   - INS-260605-048B
   - PRI-260411-9CB1
+  - INS-260625-78EC
 ---
 Token-based batching groups requests of differing lengths. The naive implementation pads every request in the batch up to the longest sequence so the tensors are rectangular — but that means a short request padded to a long request's length spends compute processing empty tokens, scaling waste with the variance in request lengths. 
 

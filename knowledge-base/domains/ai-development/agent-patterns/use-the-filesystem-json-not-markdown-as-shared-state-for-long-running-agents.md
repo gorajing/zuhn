@@ -51,7 +51,6 @@ stance: >-
   Persisting agent state and learnings to JSON files on disk is more reliable
   for multi-hour runs than leaning on the context window.
 related:
-  - INS-260330-82B2
   - INS-260409-0D87
   - INS-260605-1A50
   - INS-260625-7935

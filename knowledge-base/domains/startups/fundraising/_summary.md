@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 465 insights
+> 466 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -171,6 +171,7 @@
 - `INS-260405-224A` [high] When founders talk, bad investor behavior propagates quickly and reduces dealflow.
 - `INS-260404-64EC` [high] Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260403-914F` [high] Pre-revenue startups should target grants and tax credits, early-revenue startups should use RBF and invoice factoring, and growth-stage startups should leverage venture debt.
+- `INS-260625-7FA5` [high] Hardware-backed infra startups can raise cheap debt secured against servers (prime-plus, refinanceable) rather than diluting with equity, and should spend the equity they do raise buying an unfair advantage — because today's equity is the most expensive you'll ever give away.
 - `INS-260403-A8BA` [high] IPO timelines have stretched to 11-13+ years, making equity-heavy compensation a much longer bet than most candidates realize.
 - `INS-260403-E541` [high] Compress investor meetings into dense clusters to create competitive urgency, which matters as much as your actual traction.
 - `INS-260402-FC79` [high] Ten friends each writing small checks under slightly different terms creates a cap table nightmare that VCs will either demand you fix or walk away from entirely.

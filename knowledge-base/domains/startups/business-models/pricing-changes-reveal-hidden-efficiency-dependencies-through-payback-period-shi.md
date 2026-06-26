@@ -52,11 +52,11 @@ stance: >-
   economics unless offset by faster conversion.
 related:
   - INS-260322-8BC5
-  - INS-260327-B45A
   - INS-260329-C4A4
+  - INS-260327-B45A
   - PRI-260328-6A8D
+  - INS-260625-A503
   - INS-260324-DB86
-  - INS-260404-A0C2
 ---
 The model demonstrates that dropping price from $200 to $150/month — a seemingly reasonable 25% discount — extends CAC payback from 7 to 10 months while acquisition costs remain unchanged. This 43% increase in payback period means the company needs significantly more working capital to fund the same growth, and each customer takes much longer to become profitable.
 

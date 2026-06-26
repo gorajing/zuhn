@@ -5,4 +5,5 @@
 - `INS-260330-C31B` AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
 - `INS-260505-D1E9` AI is a compression engine — it deduces from training data. Real science is abductive — surprising claims that violate expectations. The two are in tension.
+- `INS-260625-B8D1` Automating overnight ablations you'd have done anyway is convenient but incremental; the exciting threshold is an agent making a 'Move 37'-style discovery a human wouldn't have thought of.
 - `INS-260327-77E5` AI for science progresses through three levels: co-pilot assistance, autonomous AI scientists, and virtual research environments that make biology as fast as computer science.

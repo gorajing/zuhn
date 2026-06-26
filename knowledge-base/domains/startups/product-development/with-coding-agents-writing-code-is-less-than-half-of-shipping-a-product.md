@@ -38,12 +38,11 @@ stance: >-
   shifts to environment setup, stack/provider decisions, deployment, and design
   — so 'I can code it' no longer means 'I can ship it.'
 related:
-  - INS-260323-DC99
   - INS-260323-2726
   - PRI-260328-B4BD
   - INS-260514-7628
+  - INS-260625-E696
   - INS-260403-A2E9
   - INS-260404-D6F7
-  - INS-260329-F51D
 ---
 The first speaker, recounting building his own app with AI, stresses that the screen/coding people imagine is less than half the work; the bulk is setting up the work environment, deciding the stack and LLM providers, handling open-source/IP/deployment, and design. The KB-relevant point: agents collapse the cost of code itself, relocating the bottleneck to the surrounding build-and-ship decisions — which is where judgment now lives.

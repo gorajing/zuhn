@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-25 | 5672 actionable insights
+Generated on 2026-06-26 | 5698 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -62,6 +62,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-206A] A repeatable judge can still be repeatably biased.
 - [INS-260625-B296] A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
 - [INS-260625-D938] SWE-EVO's Fix Rate captures agents that fix some failing tests without fully resolving a release-sized task.
+- [INS-260625-D1F9] Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -308,6 +309,12 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-5358] Skill files can be optimized like neural-network weights, with proposed text edits playing the role of gradients.
 - [INS-260625-131D] The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
 - [INS-260625-9BEB] OpenHands and SWE-agent with frontier models resolve only about 25% of SWE-EVO, so workflow scaffolding is not enough for broad autonomous software evolution.
+- [INS-260625-23CF] A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
+- [INS-260625-08E5] The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
+- [INS-260625-0A7D] MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
+- [INS-260625-AB58] Build tiny single-purpose skills and compose them, rather than one mega-skill that does an entire workflow.
+- [INS-260625-868D] Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
+- [INS-260625-AF2A] If the harness hardcodes the decomposition, it's a map-reduce with LLM calls; if the model picks the decomposition, it's a genuine recursive agent.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -352,6 +359,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-CBC7] A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - [INS-260625-FACB] Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
 - [INS-260625-2ED0] Risk from prompt injection requires three things together — untrusted input, access to private data, and the ability to act/exfiltrate; remove any one and the risk collapses.
+- [INS-260625-BCD8] Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -557,6 +565,9 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-0A79] Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
 - [INS-260625-FA31] Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
 - [INS-260625-D1D5] Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
+- [INS-260625-5E87] Humans should own the architecture, abstractions, and UI decisions; let the AI fill in implementation, not design the structure.
+- [INS-260625-EC7C] Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
+- [INS-260625-057C] In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -628,6 +639,9 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260605-205E] If a skill detail can be skipped, the agent will skip it — so anything that defines your product or its safety belongs inline in skill.md, not in a reference file.
 - [INS-260605-46B2] You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
 - [INS-260605-5A6A] Priscila turned her endlessly repeating comprehension prompts into a 'Catch Me Up' skill structured around six exploration modes.
+- [INS-260625-8E60] Take a 'golden session' where the agent performed well, have an agent deconstruct it into a declarative prose workflow, and re-run that workflow to get the good outcome repeatably.
+- [INS-260625-E696] Channel AI treats coding as an RTS: an orchestrator plus many parallel workers in git worktrees, 'low premium on agent time, high premium on yours,' macro-by-default, satisficing, and tool-calls-per-minute as an APM metric — yielding 3.5x PRs per engineer and another +60%.
+- [INS-260625-78EC] Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -698,6 +712,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260514-AE3E] Senior engineers DOMINATE AI-amplified work. The 'AI-native juniors will win' prediction was empirically wrong. What matters is STEERING (talking with AI to direct it), and seniors have decades of reps doing exactly that.
 - [INS-260514-78B3] AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
 - [INS-260619-4962] Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
+- [INS-260625-6C29] Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
 
 ## ai-development/governance
 - [INS-260409-B005] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
@@ -816,6 +831,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-1432] Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.
 - [INS-260625-F573] Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.
 - [INS-260625-E1AA] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
+- [INS-260625-F62D] Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
 
 ## ai-development/llm-costs
 - [INS-260320-9937] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
@@ -876,6 +892,8 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-D772] Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences.
 - [INS-260625-3768] RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.
 - [INS-260625-5045] Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient.
+- [INS-260625-B5AD] Partners increasingly find base models 'work too well out of the box' for general tasks, so fine-tuning excitement has shifted from behavior-shaping to injecting domain data the model lacks.
+- [INS-260625-43B3] He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -993,6 +1011,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260625-76F5] Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - [INS-260625-03A6] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - [INS-260625-4B92] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
+- [INS-260625-7B5C] Claude Code was built roughly six months before it had product-market fit because the team was building for a model that had not shipped yet.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1008,6 +1027,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260605-2C96] Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.
 - [INS-260619-4ADA] The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
 - [INS-260625-7CD5] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
+- [INS-260625-0758] Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -2294,6 +2314,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260403-D75D] Studying the humble origins of great work trains you to see early efforts for what they actually are rather than dismissing them.
 - [INS-260409-065B] Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
 - [INS-260409-93EC] Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.
+- [INS-260625-0248] Pick papers or work you look up to and replicate them exactly — matching the training curves, loss, or perplexity the original hit — because the unspoken techniques only surface when you go a few layers deeper.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -3538,6 +3559,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260409-78E1] Eight interviews is a feature, not a bug — convergence is your signal to stop talking and start shipping.
 - [INS-260409-655B] Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
 - [INS-260514-8FF5] YC's 'sell before you build' — fake the front-end, pitch it to real prospects, only build what someone says they'd pay for. The clearest signal you're on the right path is paid commitment, not nodding agreement.
+- [INS-260625-86CA] When customers phone you demanding access right now and follow up the next day if you haven't delivered, that pull — not polite praise — is the unmistakable PMF signal.
 
 ## startups/decision-making
 - [INS-260405-809E] Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
@@ -3810,6 +3832,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260412-94BD] Venus terraforming works because each phase — frozen surface, liquid oceans, breathable atmosphere — is independently useful to settlers.
 - [INS-260412-923A] Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
 - [INS-260625-BBE4] Databricks debated for many meetings whether they could write Postgres pages as columnar Parquet; the debate ended when an engineer simply prototyped it overnight and reported 'it works' — no kickoff, no design doc.
+- [INS-260625-4D1D] xAI's 'no goal is too ambitious' deadlines were set by computing the minimum number of days physics allows — data acquisition rate, training iteration speed, GPU scaling, human-data turnaround — not by picking a target date.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.
@@ -4021,6 +4044,8 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260514-1E10] Radiate (share, post, present) WHILE accumulating — not after. Each radiation generates feedback that accelerates accumulation, and you can't predict which post catalyzes your breakthrough.
 - [INS-260514-D89B] Turn down exciting revenue from huge names when it doesn't fit your direction — every customer commitment off-strategy destroys focus that's worth more than the revenue. Saying no is the hardest founder skill.
 - [INS-260514-3A62] 'You can just do things.' The system pushes toward outcomes but has inefficient defaults. Action causes information you can't get by analyzing. Cost has never been lower. Constraint: experiments must be victimless and not zero-sum.
+- [INS-260625-286E] A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
+- [INS-260625-904E] The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -5141,6 +5166,7 @@ Generated on 2026-06-25 | 5672 actionable insights
 - [INS-260409-2A8D] Your only job is right product at right time — everything else is avoidance of that job.
 - [INS-260412-9657] Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
 - [INS-260423-2134] Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do.
+- [INS-260625-D510] When users demand configurability, earn conviction for opinionated defaults by using your own product every day and trusting gut feel.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.

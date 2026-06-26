@@ -49,7 +49,6 @@ stance: >-
   sustainable growth mechanism for startups, and all other growth tactics are
   distractions rooted in test-hacking mentality.
 related:
-  - INS-260321-E654
   - INS-260326-870E
   - INS-260327-80A8
   - INS-260327-76DA
@@ -59,6 +58,7 @@ related:
   - INS-260330-1266
   - INS-260402-D8E7
   - INS-260402-CCF4
+  - INS-260403-ADF9
 evidence:
   - id: INS-260320-9935
     type: CHALLENGES

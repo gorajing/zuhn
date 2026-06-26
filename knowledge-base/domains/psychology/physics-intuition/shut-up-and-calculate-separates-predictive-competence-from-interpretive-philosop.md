@@ -57,5 +57,6 @@ related:
   - PRI-260403-EA13
   - PRI-260406-4F8E
   - PRI-260406-A4AA
+  - INS-260625-4027
 ---
 The researcher cheerfully admits to 'shut up and calculate' as his working philosophy: the math predicts experimental outcomes precisely, and the question of what it all means is 'above my pay grade.' This is not anti-intellectual — it's the recognition that in frontier regimes, the formalism can be far more reliable than human intuition, and demanding a satisfying story before trusting the math is a recipe for paralysis. The transferable lesson: when you have a model that predicts outcomes well but defies intuitive explanation (deep neural networks, complex systems, markets), it is epistemically valid to use it for prediction while openly bracketing the interpretation question as unresolved. Conflating 'I don't understand why it works' with 'it doesn't work' is a category error — and one that the loudest critics of quantum mechanics (including Einstein) repeatedly fell into.

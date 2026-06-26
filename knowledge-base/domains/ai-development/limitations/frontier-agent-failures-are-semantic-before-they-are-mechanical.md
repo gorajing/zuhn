@@ -51,6 +51,7 @@ related:
   - INS-260625-E9A9
   - INS-260325-5023
   - INS-260410-FD24
+  - INS-260625-F62D
 ---
 This challenges the belief that better agent harnesses alone are the main missing layer. In SWE-EVO's failure taxonomy, stronger GPT-series models rarely fail from syntax or tool mechanics; a large share of their failures are classified as instruction-following problems on complex release notes.
 

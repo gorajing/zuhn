@@ -1,6 +1,6 @@
 # Topic: productivity
 
-> 16 insights
+> 17 insights
 
 - `INS-260424-50EE` [high] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - `INS-260409-3AEE` [high] Founders are now shipping in days what used to take engineer-months or years — Chamath vibe-coded a bookmark service he'd sat on for 15 years in one weekend, and his team doubled click-through rates via auto-research in a day.
@@ -15,6 +15,7 @@
 - `INS-260605-6C0C` [medium] Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
 - `INS-260514-AC43` [medium] Sophisticated prompt engineering you build today is often useless in 2 months when models improve. Use the simplest prompt that works; let model improvements absorb specificity.
 - `INS-260605-BEFB` [medium] When Priscila had Claude classify 116 of her AI sessions, 67% were comprehension and only 2% were code generation.
+- `INS-260625-0758` [medium] Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
 - `INS-260405-7C86` [medium] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260423-6CC0` [medium] Cody Schneider: I'm comfortable with 15 windows open — I'm about to literally buy a new computer because I need more RAM.
 - `INS-260405-10DF` [medium] Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.

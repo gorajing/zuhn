@@ -46,11 +46,11 @@ resolutions:
     process. The culture defaults to never saying no — so a fast no is actually
     more valuable than a slow maybe.
 related:
+  - INS-260625-286E
   - INS-260403-924B
   - INS-260403-407A
   - INS-260327-E2BC
   - INS-260403-25EE
-  - INS-260403-99B1
 stance: >-
   Defense primes' advantage over startups is not inventiveness but production
   and manufacturing at scale

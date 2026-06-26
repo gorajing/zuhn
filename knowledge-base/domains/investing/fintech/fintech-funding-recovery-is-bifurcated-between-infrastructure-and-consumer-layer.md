@@ -50,7 +50,6 @@ stance: >-
   Post-2022 fintech recovery is concentrating capital in B2B infrastructure and
   payments plumbing while consumer-facing fintech remains funding-starved.
 related:
-  - INS-260403-81BD
   - INS-260403-FF57
   - INS-260405-B6CB
   - INS-260403-B0E3

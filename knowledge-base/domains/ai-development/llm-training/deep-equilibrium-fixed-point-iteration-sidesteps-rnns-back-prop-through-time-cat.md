@@ -60,10 +60,10 @@ stance: >-
 related:
   - INS-260410-C5A4
   - INS-260329-0CC5
+  - INS-260625-5184
   - INS-260403-FF4E
   - INS-260325-1519
   - INS-260403-D4EA
-  - INS-260501-FE35
 ---
 The technical mechanism that makes HRM/TRM work where prior recursive architectures (Alex Graves's neural Turing machines, adaptive compute time, differential neural computers) hit walls: instead of back-propagating gradients through every unrolled recursion step, do the full recursion (e.g., 16 steps) without storing gradients, then back-prop through just the final step. The hidden states (ZL and Z) carry forward across recursion steps but are not reset between batches — so each gradient update is effectively training on a different point in the latent state space, like a mini-batch constructed from memory rather than from input variation.
 

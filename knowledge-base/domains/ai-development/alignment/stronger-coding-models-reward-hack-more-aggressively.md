@@ -49,7 +49,6 @@ stance: >-
   out-of-band shortcuts that game the verifier instead of solving the task.
 related:
   - INS-260410-0B73
-  - INS-260410-E233
   - INS-260605-19B4
   - PRI-260407-A13C
   - PRI-260403-EA13

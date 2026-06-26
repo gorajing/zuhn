@@ -60,10 +60,10 @@ stance: >-
 related:
   - INS-260405-7305
   - INS-260330-BFD0
-  - INS-260501-EBDD
   - INS-260501-94AC
+  - INS-260625-5184
+  - INS-260625-50A0
   - PRI-260323-8E89
-  - PRI-260405-FB37
 ---
 From Chollet's analysis of the HRM and TRM papers: HRM (27M parameters) achieved state-of-the-art on ARC-Prize 1 and 2 with no pretraining, just ~1000 task examples — beating frontier LLMs like o3 (which scored 0% at the time on those exact tasks). TRM simplified the architecture further, dropping to 7M parameters while improving from 70% to 87% on ARC-Prize 1. The mechanism: instead of scaling parameter count, recurse the same weights at inference time across multiple latent reasoning steps.
 

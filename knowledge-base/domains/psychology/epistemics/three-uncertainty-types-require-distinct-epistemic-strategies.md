@@ -55,7 +55,6 @@ stance: >-
   confidence calibration in AI systems.
 related:
   - INS-260326-B10B
-  - INS-260330-3879
   - INS-260405-DF08
   - INS-260405-C709
   - INS-260403-F4C9

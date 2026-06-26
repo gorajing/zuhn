@@ -51,13 +51,13 @@ stance: >-
   suggests.
 related:
   - INS-260327-991D
-  - INS-260329-7F02
+  - INS-260625-50A0
   - INS-260625-E9A9
   - INS-260625-1955
   - INS-260323-8AEC
-  - INS-260424-0554
   - INS-260410-87B5
   - INS-260605-B9A9
   - INS-260605-3899
+  - INS-260625-4027
 ---
 The video's most concrete capability claim is that the newer Aletheia model reaches the same reasoning performance as a model from six months earlier while using roughly 100x less compute at inference time, attributed to a stronger base model that 'reasons more efficiently'. If broadly true, this undermines the simple mental model that test-time compute is the dominant knob for reasoning — base-model capability determines the compute-per-correct-answer slope. The implication for anyone budgeting agent workloads: expected inference cost for a given reasoning task could drop roughly an order of magnitude per training generation, independent of whether one turns the thinking-time knob up or down. Confidence is medium because the 100x figure comes from a hype-framed summary rather than primary benchmarks.

@@ -53,7 +53,6 @@ stance: >-
   Controlling token expenditure is a first-class engineering concern that shapes
   which agent and prompt patterns are worth adopting.
 related:
-  - INS-260325-206C
   - INS-260403-DC6E
   - INS-260410-376A
   - INS-260423-5F2F
