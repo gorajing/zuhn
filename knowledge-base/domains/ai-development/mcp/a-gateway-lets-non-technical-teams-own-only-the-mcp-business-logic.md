@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260605-98BD
   - INS-260605-B794
+  - INS-260627-3251
   - INS-260626-8D48
   - INS-260626-6F00
-  - INS-260514-8F90
 ---
 Sampath defines a gateway as a middleware layer sitting between many MCP servers (potentially hundreds) and any MCP client. Its job is to provide authorization, authentication, observability, secure client-to-internal connectivity, and easy hosting/deployment. The payoff is a clean separation of concerns: a new MCP server inherits all five capabilities for free and its authors only need to encode their domain logic.
 

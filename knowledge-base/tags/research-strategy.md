@@ -4,6 +4,7 @@
 - `INS-260408-5BE5` Root node problems are the leaves whose solution unlocks an entire research tree — AlphaFold was one, fusion and room-temperature superconductors are next.
 - `INS-260410-41EF` Microsoft bet 30 years on topological qubits because Nadella believed reliable utility-scale quantum demanded a physics breakthrough, not incremental noise reduction.
 - `INS-260501-1608` Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today.
+- `INS-260627-F6CA` Find the deepest unsolved problem in a space ('root node') and solve it to unlock everything downstream, instead of polishing the 'leaves'.
 - `INS-260410-EF9E` Expecting a connectome to explain cognition is like expecting trained LLM weights to — what you need is the architecture, learning rule, and loss function.
 - `INS-260625-5694` World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
 - `INS-260505-2FFB` EVO-1, EVO-2, all training data, all code — released openly because that's where academic labs add unique value.

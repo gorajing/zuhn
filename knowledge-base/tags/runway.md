@@ -5,8 +5,6 @@
 - `INS-260404-DF88` In a startup crisis, waiting for perfect information narrows your options faster than making an imperfect early decision.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
 - `INS-260326-8798` Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
-- `INS-260405-B967` Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
-- `INS-260403-309F` Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
 - `INS-260403-7318` Startups with 18+ months of runway are 3x more likely to secure follow-on funding because runway signals discipline and reduces investor risk perception.
 - `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
 - `INS-260403-3C53` Investors are prioritizing capital discipline, clean unit economics, and 18-24 month runway plans over pure growth metrics when evaluating startups in tariff-uncertain markets.
@@ -23,5 +21,7 @@
 - `INS-260403-6E68` Over $500K in stacked startup credits can extend runway by months, functioning as real non-dilutive capital when activated strategically.
 - `INS-260403-A57D` Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
 - `INS-260330-97F6` In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
+- `INS-260405-B967` Headcount growth should be tied to revenue milestones, not fundraising events or growth ambition.
+- `INS-260403-309F` Improvised hiring at early stage creates compounding delays that manifest months after the bad hire.
 - `INS-260403-193E` Fixed costs like headcount and infrastructure jump in steps, not linearly—controlling when those steps happen is a key founder lever for preserving cash.
 - `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.

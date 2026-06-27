@@ -56,7 +56,6 @@ related:
   - INS-260327-DECA
   - INS-260626-DA0A
   - INS-260410-761B
-  - INS-260627-266C
 ---
 After a deeply technical walkthrough, Ryabinin's closing lesson is methodological rather than algorithmic: the bottlenecks in large-context training 'might appear where you least expect.' His prescription is to measure with tooling — specifically the PyTorch profiler — instead of reasoning a priori about where time and memory go. The whole project's finding that activations rather than parameters dominate memory is itself an instance of an expensive surprise that only measurement reveals.
 

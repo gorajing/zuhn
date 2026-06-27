@@ -13,8 +13,8 @@
 - `INS-260403-2AA2` You need colleagues who can actually evaluate early work's potential, not just cheerleaders you'll learn to discount.
 - `INS-260404-F212` Surrounding yourself with people working on similarly ambitious projects provides encouragement you won't learn to discount.
 - `INS-260403-1228` The right creative peers aren't cheerleaders but fellow practitioners who can accurately judge the potential of ugly early work.
-- `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
+- `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
 - `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.

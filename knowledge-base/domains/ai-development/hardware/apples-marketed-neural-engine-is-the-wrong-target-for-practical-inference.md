@@ -52,10 +52,9 @@ stance: >-
   heavily-marketed Neural Engine, because the Neural Engine's only path (Core
   ML) has poor developer experience.
 related:
-  - INS-260328-92BC
-  - INS-260330-C33B
   - INS-260403-76E9
   - INS-260514-817B
+  - INS-260328-92BC
   - INS-260424-123B
   - INS-260410-4D1F
   - INS-260412-6FB6

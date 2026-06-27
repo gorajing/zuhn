@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260625-D938
   - INS-260625-6E19
+  - INS-260627-02E1
   - INS-260410-AB4A
   - INS-260320-1B10
-  - INS-260626-13FB
   - INS-260625-BAE7
 ---
 The speaker's aha moment: YC built an agent with deterministic tools to query their database (a sidekick — last year's 20-30% productivity model), then put a monitoring agent on top that watched every query every employee ran and detected failures. On a failure it asked 'what would have made this work — different tools, an updated skills file, a new database view or index?', wrote the code, opened a merge request to the YC codebase, had an agent review/merge/deploy it overnight, so a human asking the same query the next day now succeeds. That self-rewriting loop — not incremental productivity — is the threshold. Directly corroborates Zuhn's binary-eval + research-log + keep/discard self-improvement principles and the hackathon critic/should-distill design.

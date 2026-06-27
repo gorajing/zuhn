@@ -54,7 +54,6 @@ related:
   - INS-260323-DEEA
   - INS-260322-22B3
   - INS-260403-F76E
-  - INS-260405-F7FA
 evidence:
   - id: INS-260322-22B3
     type: SUPPORTS

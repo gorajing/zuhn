@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 90 insights
+> 93 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -15,6 +15,7 @@
 - `INS-260410-0DA5` [high] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
 - `INS-260410-B1A9` [high] Microsoft paused leases not because demand was weak, but to avoid 4-5 years of depreciation stuck on one chip generation in one location for one workload type.
 - `INS-260605-F383` [high] Network latency between geographically separated models can dominate engine latency; co-locating all models and the orchestrator in one data center can drop a 75ms hop to ~5ms for a ~30% total latency reduction.
+- `INS-260627-E1BD` [high] Agents can't walk to another floor or ping a teammate to unblock a deploy, so the human workarounds that hid bad platform design become impossible and expose every friction point.
 - `INS-260505-ABCC` [high] Universities don't need to train frontier models. Use open-source. Use smaller curated-data models. Both are competitive for most research problems.
 - `INS-260501-12F4` [high] Google's $40B + Amazon's $5B is a chip-and-capital bundle to displace Nvidia's 70% gross margin and lock Anthropic onto TPU/Trainium.
 - `INS-260410-B3C4` [high] When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
@@ -39,6 +40,7 @@
 - `INS-260410-A1CA` [high] Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
 - `INS-260514-026B` [high] Agentic RPA running real ops has 'we can never go down' stakes — every minute means real customers' billing is late, shipments don't ship. Architecturally and operationally different from consumer AI.
 - `INS-260424-ABB2` [high] Google Cloud lead: at 100,000 chips, several times a day at least one will fail — if a human is needed for diagnosis, that's a 30-minute minimum, and you have zero throughput until you start again.
+- `INS-260627-3251` [high] Make a single AI gateway the only path to models so that unified access, identity-based auth, per-use-case budgets, and central auditing are enforced structurally rather than per-team.
 - `INS-260605-74CC` [high] Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
 - `INS-260626-5671` [high] Code mode only ships once you can run model-generated code in a lightweight isolate whose secret, filesystem, and network access are programmable guardrails you flip per call.
 - `INS-260423-9225` [high] Google Cloud: for self-hosted VLM or Ollama, the platform captures GPU utilization at approximation but tokens-per-second and prefill/decode breakdown require a Prometheus sidecar exporting from the model's internal metrics.
@@ -87,6 +89,7 @@
 - `INS-260405-D638` [medium] Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
 - `INS-260626-354E` [medium] Concurrency plans should read live provider limits before fan-out.
 - `INS-260605-DF82` [medium] For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
+- `INS-260627-8F84` [medium] The argument isn't local vs cloud — it's local for iteration (privacy, deterministic latency, no scheduling queues) and cloud for scale, using one identical software stack across both.
 - `INS-260605-D78B` [medium] Serverless GPU containers remove the need to own and isolate a training cluster, letting you fan out, kill unpromising runs, and pay only for what you use.
 - `INS-260424-F8BB` [medium] Google Cloud lead: the worst failures are not fail-stop but silent data corruption — one chip silently gets the computation wrong every once in a while, and one chip's error goes to everybody.
 - `INS-260605-0C5C` [medium] The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches.

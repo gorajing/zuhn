@@ -60,8 +60,8 @@ related:
   - INS-260327-5F10
   - INS-260321-82FE
   - INS-260626-87B7
+  - INS-260627-DD09
   - INS-260403-D4F0
-  - INS-260627-9EBD
 ---
 Software has always required a contract whenever two systems talk: an agreed-upon shape between them. Agentic systems need the same discipline. When the relocation scout scores a house and just hands back a friendly message, that message is lovely for a human to read in the moment but a dead end for the system — a decision buried in a session transcript that nothing downstream can reliably find. Written instead into a structured shape (decision, score, reason) in the agent's memory layer, that same information becomes queryable: 'show me every house rated four or better with a commute of 15 minutes or less' works because the score and commute live in known places rather than being trapped in a conversation.
 

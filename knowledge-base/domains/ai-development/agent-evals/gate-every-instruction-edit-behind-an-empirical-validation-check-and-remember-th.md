@@ -61,7 +61,7 @@ related:
   - INS-260605-AD25
   - INS-260605-9276
   - INS-260605-6444
-  - INS-260605-BDFF
+  - INS-260627-F3B6
   - INS-260625-4AB6
 ---
 SkillOpt never blindly applies suggested edits. It first ranks proposals and caps how many can be applied per iteration (a 'learning rate' that prevents destabilizing drift), then runs a what-if analysis: apply the candidate edits, run the agent on a validation set, and compare against the current skill. Only updates that show real improvement are committed; otherwise the previous skill stays. Crucially, rejected edits are shown to the optimizer in future iterations so it stops re-proposing changes already proven ineffective.

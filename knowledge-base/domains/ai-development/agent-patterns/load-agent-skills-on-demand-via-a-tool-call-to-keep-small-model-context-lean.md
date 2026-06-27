@@ -56,6 +56,7 @@ related:
   - INS-260605-117F
   - INS-260605-C86D
   - INS-260605-1FD9
+  - INS-260627-C940
 ---
 The skill harness built on Gemma 4 keeps the model aware of what skills exist without forcing every function and detail into context. The system prompt carries skill descriptions; when the model recognizes a need ('show the location of the Google office'), it fires a load-skill tool call to pull in the map skill's full definition, runs it, and can then call a show-JS tool to render a JavaScript UI inside the app.
 

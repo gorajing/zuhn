@@ -66,7 +66,7 @@ related:
   - INS-260423-55A7
   - INS-260514-6576
   - INS-260323-365A
-  - INS-260410-ED4D
+  - INS-260627-E71B
 ---
 Cole Murray deliberately declined to commercialize OpenInspect despite offers, reasoning that a background-agent system will become critical company infrastructure that clients want to fork and customize, and that competing 'for $20 a seat' on an easily-copied orchestration layer is a bad business. Money is made at the sandbox layer (Daytona, E2B, Modal) and at the model layer; the orchestrator sits in a gray area where it's unclear what you're actually selling beyond integrations. Open-sourcing it lets clients build on a shared foundation while he captures value through consulting on integration — the genuinely hard, company-specific work of wiring the agent into production databases, logs, and knowledge bases.
 

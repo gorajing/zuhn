@@ -63,10 +63,10 @@ stance: >-
   re-read the generated PRD.
 related:
   - INS-260626-BC5E
+  - INS-260627-4411
   - INS-260322-D6D7
   - INS-260605-D895
   - PRI-260327-3BD9
-  - INS-260530-C385
 ---
 Pocock argues against the 'specs-to-code' movement — treating a spec document as the source of truth and never looking at code — calling it vibe coding by another name. Instead he opens nearly every task with a tiny 'grill me' skill that interrogates him relentlessly, one question at a time, each with the AI's recommended answer, surfacing decisions a human stakeholder never considered (e.g., 'should points be retroactive given existing progress records?'). Borrowing Frederick Brooks' notion from The Design of Design, the goal is a shared 'design concept' — being on the same wavelength as the agent — not a document. Sessions can run 40–100 questions over an hour.
 

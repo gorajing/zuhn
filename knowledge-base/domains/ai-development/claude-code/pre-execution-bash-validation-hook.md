@@ -18,7 +18,6 @@ sources:
     author: u/PaschalisDim
 related:
   - INS-260320-DDFE
-  - INS-260320-CE36
   - INS-260320-7379
   - INS-260605-C9E8
   - INS-260320-4ED6

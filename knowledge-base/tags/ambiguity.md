@@ -1,7 +1,7 @@
 # Tag: ambiguity
 
-- `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260514-DC55` If the ball can bounce left or right, a generative model predicts both blurry directions averaged. Architecturally forced, not a tuning problem.
+- `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
 - `INS-260321-9906` Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260403-9FB1` A typo in the Congressional Apportionment Amendment — 'more than' instead of 'less than' — would force the Supreme Court to definitively choose between textualism and originalism with no room for compromise.
 - `INS-260403-53D9` Creepiness is a specific cognitive state triggered when something is maybe-threatening but maybe-not, leaving the brain unable to commit to fight-or-flight.

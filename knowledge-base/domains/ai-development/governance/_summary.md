@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 55 insights
+> 56 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -17,6 +17,7 @@
 - `INS-260413-E2C4` [high] FDA authorized 258 AI medical devices in 2025 — the vast majority through pathways that rely on existing safety/efficacy evidence — with only 2.4% backed by randomized trial data.
 - `INS-260413-4EB1` [high] The Foundation Model Transparency Index went 37→58 from 2023-2024 then dropped to 40 in 2025 — the first major regression in disclosure since the index began tracking.
 - `INS-260625-BEFE` [high] Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
+- `INS-260627-94E6` [high] When dozens of teams each wire up their own connections, security, and infrastructure for AI agents, the fix is a central registry that catalogs every tool and agent — not stricter team-level discipline.
 - `INS-260605-0266` [high] An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - `INS-260413-B7A7` [high] US congressional AI witnesses grew from 5 in 2017 to 102 in 2025 (20x), and industry's share nearly tripled from 13% to 37% to become the largest witness group — academia's share fell to 15%.
 - `INS-260412-4493` [high] Camera-model forensic signatures are destroyed by re-compression during internet sharing, eliminating the main technical detection method precisely where fakes circulate.

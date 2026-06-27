@@ -1,11 +1,11 @@
 # Tag: vertical-ai
 
 - `INS-260403-4D80` Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
-- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260404-3D17` AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
 - `INS-260530-18D5` Coco: vertical AI products today look niche (Blueprints AI only does construction documentation, not design or takeoff) — but the same compounding pattern that took Google Scholar → Search is now visible across vertical AI tools as they expand from one workflow step to the full chain.
+- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260404-CCB1` Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.
@@ -15,6 +15,9 @@
 - `INS-260327-F316` Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.
 - `INS-260605-4FE3` Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260605-BFBE` An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
+- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
+- `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
+- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
 - `INS-260403-EDFB` Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
 - `INS-260409-6611` Big AI labs build horizontal tools — vertical industry problems are where the unclaimed value lives.
 - `INS-260404-8CA8` Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.
@@ -25,9 +28,6 @@
 - `INS-260625-FDA1` The moat in applied AI is often the proprietary loop between decisions and domain feedback.
 - `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - `INS-260626-8727` Strong vertical AI wedges replace an expensive missing measurement with ranked, testable candidates.
-- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
 - `INS-260530-A86A` Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
 - `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260626-147E` Like Netflix's questions becoming LA media questions rather than SF tech questions, what AI means for law, finance, or film is answered by people who deeply understand those industries.
-- `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
-- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.

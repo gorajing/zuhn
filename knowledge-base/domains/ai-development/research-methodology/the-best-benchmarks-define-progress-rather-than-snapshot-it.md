@@ -56,6 +56,7 @@ related:
   - INS-260605-6066
   - INS-260605-B60D
   - INS-260327-40DA
+  - INS-260627-34A1
 ---
 Chen draws a sharp line between benchmarks that take a snapshot of progress looking backwards and those that define progress by setting a goalpost about where capabilities need to go. The differentiating 'art' of a great benchmark is that it embeds a thesis — a research question about a subspace of capabilities or a bet about where the world is heading. Terminal Bench was a bet that the CLI would be a core interface for general-purpose computer use, not just coding; that bet turned out largely correct and consequential, and by measuring those capabilities the benchmark arguably accelerated the field's movement in that direction.
 

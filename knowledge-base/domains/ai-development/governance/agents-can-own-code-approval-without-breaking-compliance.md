@@ -56,8 +56,8 @@ related:
   - INS-260403-23AA
   - INS-260603-6B3D
   - INS-260411-27AA
+  - INS-260627-F3B6
   - INS-260603-C90A
-  - INS-260605-80DC
 ---
 As Intercom's bottleneck shifted from writing code to reviewing it, they moved approvals to agents. Their automatic approver hits a 17.6% auto-approval rate, built not by naively asking 'hey Claude, can you approve this?' but through detailed backtesting on prior data, human-labeled outputs to calibrate confidence levels, and shaping PRs toward small, safe, simple changes (which, Scanlan notes, they probably always should have been).
 

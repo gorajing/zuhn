@@ -50,7 +50,6 @@ stance: >-
   Equipping a smaller, older model with tool-augmented reasoning can beat larger
   and newer models that reason without tools.
 related:
-  - INS-260603-11DB
   - INS-260410-022B
   - INS-260327-33FA
   - INS-260626-6DCA

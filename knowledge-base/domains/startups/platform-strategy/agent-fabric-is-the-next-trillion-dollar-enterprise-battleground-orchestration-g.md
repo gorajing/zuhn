@@ -64,10 +64,10 @@ related:
   - INS-260402-CC68
   - INS-260410-9A20
   - INS-260410-E590
+  - INS-260627-02E1
   - INS-260605-0266
   - PRI-260406-F8BD
   - INS-260605-0C56
-  - INS-260403-A232
 ---
 Calacanis's framing: most 'agent orchestration' startups are dashboards on top of a few APIs, fine for a startup or a team with deep technical resources, but inadequate for enterprises running 200+ concurrent agents from multiple vendors with sub-agents, parallel execution, and 24/7 operation. What CIOs actually need is an agent fabric: real-time knowledge of every agent's actions, governance/security/audit, and the ability to fire agents that go rogue.
 

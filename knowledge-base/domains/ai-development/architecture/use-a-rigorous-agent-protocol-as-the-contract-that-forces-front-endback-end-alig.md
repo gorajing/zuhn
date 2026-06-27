@@ -56,10 +56,10 @@ stance: >-
   development by forcing teams to align on one shared schema.
 related:
   - INS-260411-6106
+  - INS-260627-F9F3
   - PRI-260328-935A
   - PRI-260501-CD0C
   - INS-260410-F910
-  - INS-260605-E706
 ---
 OpenGov adopted Google's agent-to-agent (A2A) protocol — modeling concepts like the 'agent card' (name, description, capabilities) into their back-end schema and routes. The reported benefit was less about inter-agent communication and more about coordination: the rigorous spec became the contract that front end and back end both consumed and produced, so alignment reduced to 'follow this spec.' The protocol's extensibility (metadata extensions, A2UI) meant they could grow without renegotiating the core contract.
 

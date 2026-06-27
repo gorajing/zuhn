@@ -58,8 +58,8 @@ related:
   - INS-260627-79F6
   - INS-260530-E697
   - INS-260626-4BC2
+  - INS-260627-C727
   - INS-260605-6591
-  - INS-260501-C59A
 ---
 Chrome DevTools initially threw 50,000-line, multi-megabyte JSON trace files at agents and watched them blow through the context window into the 'dump zone' where reasoning collapses. The fix was to make the performance-tracing endpoint return markdown semantic summaries — surfacing the metrics that matter (LCP, INP, CLS) instead of the raw trace. The agent still has an option to fetch the raw data for post-processing, but the default response is the distilled signal.
 

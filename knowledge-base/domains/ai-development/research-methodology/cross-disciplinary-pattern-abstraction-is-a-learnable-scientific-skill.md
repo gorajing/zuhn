@@ -47,7 +47,6 @@ stance: >-
   a learnable skill that many top scientists have explicitly cultivated —
   pattern recognition across fields is not just a happy accident.
 related:
-  - INS-260329-94E6
   - INS-260330-1609
   - INS-260330-1E5E
   - INS-260329-E40B

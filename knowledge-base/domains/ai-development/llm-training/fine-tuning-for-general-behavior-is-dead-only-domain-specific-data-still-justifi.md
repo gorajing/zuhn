@@ -60,7 +60,6 @@ stance: >-
   data the model never saw, like finance or healthcare.
 related:
   - INS-260322-3616
-  - INS-260409-3230
   - INS-260625-D790
   - INS-260625-3768
   - INS-260605-33FA

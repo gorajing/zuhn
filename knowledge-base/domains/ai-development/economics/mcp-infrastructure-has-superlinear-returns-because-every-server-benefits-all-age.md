@@ -62,6 +62,7 @@ related:
   - INS-260626-E5DE
   - PRI-260328-8317
   - INS-260626-7359
+  - INS-260627-DD09
 ---
 Sampath's economic argument for gateway investment is that MCP usage is exponential: 'every good MCP you have helps all of the agents in your company.' A single server added behind the gateway has knock-on effects far beyond its own use case, because it becomes immediately callable by every agent surface the enterprise runs. This reframes the build/buy decision around a gateway from a cost center into a leverage multiplier.
 

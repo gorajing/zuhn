@@ -50,11 +50,11 @@ stance: >-
   cross-team reuse than by raw discoverability.
 related:
   - INS-260625-7365
+  - INS-260627-94E6
   - INS-260605-0C56
   - INS-260605-EF3C
   - INS-260524-63C9
-  - INS-260514-33FB
-  - INS-260605-E706
+  - INS-260627-FF5D
 ---
 Klook's stated direction is to convert direct API calls into MCP servers and centralize them in an agent registry. The headline benefits are better LLM performance and discoverability, but they explicitly rank governance as more important: as an organization you need to know what tools an agent can access and centrally manage, monitor, and audit that access. The registry is the control plane, not just a catalog.
 

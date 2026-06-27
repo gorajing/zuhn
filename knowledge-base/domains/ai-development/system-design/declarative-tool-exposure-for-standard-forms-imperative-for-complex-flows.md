@@ -59,8 +59,8 @@ related:
   - INS-260409-96B0
   - INS-260410-4F43
   - INS-260605-6134
+  - INS-260627-DD09
   - PRI-260406-788D
-  - INS-260410-85AD
 ---
 WebMCP offers two implementation paths matched to interface complexity. The declarative API is for standard form elements: you add a tool name and description as HTML attributes and the browser automatically generates a JSON schema using the form fields as parameters. Extra attributes — such as a boolean marking whether a form was filled by an agent versus a human — ride along for free. This is the low-effort path when your interaction is already a conventional form.
 

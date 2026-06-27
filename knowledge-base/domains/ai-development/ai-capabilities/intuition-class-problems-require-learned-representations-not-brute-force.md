@@ -53,11 +53,11 @@ related:
   - INS-260327-A44E
   - INS-260330-8FF8
   - INS-260405-0AE7
-  - INS-260408-5BE5
   - INS-260409-0326
   - INS-260410-C045
   - INS-260412-37B2
   - INS-260412-15D0
+  - INS-260505-7EF5
 ---
 The Go breakthrough demonstrated a categorical shift in AI problem-solving. Previous game-playing AIs like Deep Blue used brute-force tree search—evaluate millions of positions and pick the best. Go's branching factor (~250 vs chess's ~35) made this impossible. AlphaGo instead learned to evaluate board positions holistically through neural networks, mimicking what human players call 'intuition.'
 

@@ -57,11 +57,11 @@ stance: >-
 related:
   - INS-260605-F8EF
   - INS-260605-DC50
+  - INS-260627-C727
   - INS-260605-9276
   - INS-260625-D295
   - INS-260524-D5DB
   - INS-260605-C2A3
-  - INS-260625-03A6
 ---
 O'Leary's central framing is that today's coding agents sit between a tool and a collaborator, and the right mental model is a specific kind of teammate: an energetic, ego-less junior developer who has read every Stack Overflow answer, will rewrite something six times without complaint, and is astonishingly broad across languages and frameworks. What they categorically lack is judgment — they don't know why you made an architectural decision three months ago, so they will produce code that is technically correct but contextually wrong.
 

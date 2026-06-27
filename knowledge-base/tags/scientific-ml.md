@@ -1,6 +1,7 @@
 # Tag: scientific-ml
 
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
+- `INS-260627-1C9C` DeepMind's weather models beat gold-standard physics simulations — GenCast was more accurate 97% of the time and produced a 15-day forecast in 8 minutes on one chip instead of hours on a supercomputer.
 - `INS-260505-050B` One model + interpretation methods = microscope (understand) + design tool (intervene) — two products from one training run.
 - `INS-260505-A0F7` Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have.
 - `INS-260603-6E59` Satish (Stanford atmospheric FM): on sequences (language/code) we're ~80-90% there because a word encodes sparse information you can mask and recover; but encoding even a 1024×1024 image into a vector loses enormous information, and video/spectral data is worse — the breakthrough for high-dimensional data hasn't happened.

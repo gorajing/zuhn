@@ -64,6 +64,7 @@ related:
   - INS-260626-5375
   - INS-260626-5671
   - INS-260605-5EE0
+  - INS-260627-3E8A
 ---
 There is a spectrum of isolation strength, from eval with zero isolation (never for untrusted code), to V8 isolates that start in a quarter millisecond but have no file system, no process model, and tight resource limits, to containers that give a full Linux environment with real processes and networking but take seconds to start and cost more. The mistake is asking which is best; the right question is what the use case requires. The decision reduces to one test: does the code need a file system, processes, or package installs? Yes means container, full stop; no means isolate, which is faster, cheaper, and has a tighter isolation model.
 

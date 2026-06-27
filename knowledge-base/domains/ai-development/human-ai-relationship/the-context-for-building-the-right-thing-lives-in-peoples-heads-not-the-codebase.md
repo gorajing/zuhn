@@ -60,7 +60,7 @@ related:
   - INS-260605-C2A3
   - INS-260626-A0DC
   - INS-260501-5ACE
-  - PRI-260328-81F5
+  - INS-260627-D692
 ---
 Most of the context needed to build the right thing is not in the codebase. It's in people's heads: the business context and financial resources that determine what's correct to build, the political dynamics of who decides, the product vision from leaders, user research insights from designers, and the organization's history of what's been built before. Agents can never discover this on their own — it's tacit, social, and unwritten.
 

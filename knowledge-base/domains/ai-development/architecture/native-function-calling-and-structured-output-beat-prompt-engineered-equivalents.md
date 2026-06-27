@@ -57,6 +57,7 @@ related:
   - PRI-260320-6847
   - INS-260605-8F5E
   - INS-260320-D972
+  - INS-260627-4411
 ---
 Gemma 4's edge models ship with function calling, structured JSON output, and chain-of-thought as architecture-level capabilities. The speaker explicitly contrasts native structured JSON output — 'built into the model architecture' — with 'achieving it through some kind of specific prompt engineering,' noting you can do the latter but the former is the supported path. This mirrors the broader industry shift where tool use and constrained decoding became first-class model features rather than prompt hacks.
 

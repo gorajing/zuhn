@@ -60,7 +60,6 @@ stance: >-
   specificity/actionability gate before invocation is what separates useful
   automation from a flood of meaningless PRs.
 related:
-  - INS-260320-9D89
   - INS-260325-D540
   - INS-260410-545A
   - INS-260605-6444
@@ -70,6 +69,7 @@ related:
   - INS-260605-77EB
   - INS-260605-2A69
   - INS-260530-D34F
+  - INS-260625-D295
 ---
 PostHog found that if you throw a generic report like 'onboarding is broken' at the Claude Agent SDK, it will not refuse or ask for clarification — it will confidently attempt a fix, producing a PR that doesn't address anything meaningful. The agent's bias toward action becomes a liability when the input is underspecified.
 

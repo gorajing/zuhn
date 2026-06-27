@@ -62,6 +62,7 @@ related:
   - INS-260501-0D6D
   - INS-260625-A996
   - INS-260626-14A2
+  - INS-260627-F9F3
 ---
 Operating systems solved 'programs as yet unthought of' by virtualizing hardware into abstractions like process and file. The read() syscall is agnostic as to whether it is hitting a 1970s disk pack or a modern SSD — the interface outlasted every underlying implementation. Anthropic applied the same pattern to Managed Agents by identifying three durable components: the session (append-only event log), the harness (the loop that calls Claude and routes tool calls), and the sandbox (execution environment for code).
 

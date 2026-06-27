@@ -63,6 +63,7 @@ related:
   - INS-260329-793D
   - INS-260403-AEAF
   - INS-260625-B5AD
+  - INS-260627-C940
 ---
 Fireworks describes a recurring evolution pattern for AI applications: prototype with an off-the-shelf model, do prompt engineering, figure out your harness—but the most leveraged asset is the specific way your application works (your user data, your harness, which tools you provide). You can capture a little of that through prompting, but the right way is to craft the model to act in your environment. Cursor reinforces this: some tools the agent calls are very hard to describe succinctly to a model in a prompt, but post-training can bake in the optimal way to use them. They believe Composer would behave correctly even without a system prompt, because the right behavior is trained in rather than instructed.
 

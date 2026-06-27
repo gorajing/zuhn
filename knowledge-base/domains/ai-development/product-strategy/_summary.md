@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 159 insights
+> 160 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -140,6 +140,7 @@
 - `INS-260626-80F1` [medium] Static models make the same mistakes tomorrow they made today; products that learn from user signal compound a flywheel competitors can't replicate.
 - `INS-260403-3C6D` [medium] Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
 - `INS-260403-F0AA` [medium] Recurring ChatGPT prompt patterns reveal unmet product needs that can be quickly converted into dedicated tools with built-in validated demand.
+- `INS-260627-C727` [medium] Observers and agents are different tools for different jobs — read-only isn't a broken agent waiting to grow up.
 - `INS-260626-B134` [medium] Seo's lesson from the AI revolution — 'impossible without scale, inevitable with scale' — already shows up at Neuralink, where a neural foundation model fine-tuned on just ~20 patients' data surfaces counterintuitive patterns.
 - `INS-260625-0686` [medium] Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.
 - `INS-260605-50FB` [medium] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.

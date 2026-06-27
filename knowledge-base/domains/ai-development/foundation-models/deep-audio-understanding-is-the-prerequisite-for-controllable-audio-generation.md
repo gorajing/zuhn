@@ -62,11 +62,11 @@ related:
   - INS-260405-1F6B
   - INS-260403-B8AA
   - INS-260605-B03B
-  - INS-260605-D37A
   - INS-260605-ACCD
   - INS-260605-E490
   - INS-260605-20C0
   - INS-260605-204E
+  - PRI-260405-BF5B
 ---
 DeepMind frames its entire audio stack as a layered system: the frontier Gemini 3 models are trained to deeply comprehend audio — not just transcribe words but read emotion, pacing, accent, dialect, and overlapping speakers — and the dedicated speech-generation and real-time conversational models are then built on top of that comprehension. The logic is that you cannot reliably *produce* a 'strong authentic Irish accent in a cozy crowded pub' unless the model already *understands* what that sounds like.
 

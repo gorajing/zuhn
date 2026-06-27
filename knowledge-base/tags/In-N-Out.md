@@ -1,3 +1,3 @@
-# Tag: In-N-Out
+# Tag: in-n-out
 
-- `INS-260327-8ED1` In-N-Out uses seed oils for cooking despite marketing a fresh quality image
+- `INS-260330-7DB7` In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.

@@ -45,7 +45,6 @@ stance: >-
   In AI-assisted development you should maximize token spend while minimizing
   lines of code, because LoC is the liability and inference is not.
 related:
-  - INS-260605-6A32
   - INS-260605-4A94
   - INS-260626-09B3
   - INS-260626-411D

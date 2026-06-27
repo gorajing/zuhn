@@ -47,11 +47,11 @@ stance: >-
   potential that AI tools could unlock, creating a new economic flow system
   outside traditional tech centers.
 related:
-  - INS-260321-E4EB
   - INS-260409-3FC6
+  - INS-260321-E4EB
+  - INS-260627-F6CA
   - INS-260330-F183
   - INS-260325-898A
-  - INS-260403-DDFD
 evidence:
   - id: INS-260321-E4EB
     type: EXTENDS

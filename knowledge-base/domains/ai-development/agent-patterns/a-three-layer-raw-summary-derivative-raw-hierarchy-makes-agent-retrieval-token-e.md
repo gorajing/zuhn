@@ -60,7 +60,7 @@ related:
   - INS-260524-D5DB
   - INS-260605-E642
   - INS-260320-E6DD
-  - INS-260605-CEB5
+  - INS-260627-02E1
 ---
 The system gives the agent an index.yaml entry point (a catalog of sources with summaries and metadata). For a query, the agent first reads the source 'wiki page' — an expanded executive summary computed once at ingestion. 'Sometimes the agent just looks into this, gets what it needs, and goes back, which is very token efficient.' If that fails, it follows links into wiki derivatives (concepts, entities, comparisons, notes). Only if those still don't satisfy the query does it read the whole raw source — the full article, paper, or video transcript.
 

@@ -1,7 +1,5 @@
 # Tag: aging
 
-- `INS-260409-2CE9` The DMN is treatable as an observable engine of self-model construction; its age-related stiffening and psychedelic-induced disruption are both falsifiable claims, not metaphors.
-- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260405-174B` Replacing blood with saline and albumin mimics young-blood transfusion benefits, revealing that aging damage accumulation — not depletion of youth factors — is the primary mechanism.
 - `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
 - `INS-260412-79FE` If aging is caused by accumulated DNA damage and specific gene expression, it becomes an engineering target rather than an existential given.
@@ -22,3 +20,5 @@
 - `INS-260325-3F7A` Vision decline tracks mitochondrial loss in retinal cones which can be slowed or reversed with red light fasting and nutrition.
 - `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
 - `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
+- `INS-260409-2CE9` The DMN is treatable as an observable engine of self-model construction; its age-related stiffening and psychedelic-induced disruption are both falsifiable claims, not metaphors.
+- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.

@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 78 insights
+> 79 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -78,5 +78,6 @@
 - `INS-260530-09FE` [medium] Coco (working with 5-employee through 500-employee firms): smaller companies are faster to adopt forward-looking autonomous solutions; enterprises are still stuck on chat-with-internal-KB use cases despite the autonomous-agent stack being available for 12+ months.
 - `INS-260514-D3CB` [medium] Mainstream software is ~95% AI-coded; scientific biotech code is ~5% AI-coded — a multi-year diffusion gap driven by regulatory caution and benchmark scarcity, not capability gaps.
 - `INS-260405-7838` [medium] In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
+- `INS-260627-5BE1` [medium] If your org resisted API-first platforms, proper docs, or local-friendly tooling on other priorities, use AI — which everyone from executives to ICs is now watching — as the justification to implement them.
 - `INS-260329-E193` [medium] Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.
 - `INS-260405-6CED` [low] AI's growing influence on strategy warrants formal inclusion in governance structures, not just operational workflows.

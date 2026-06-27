@@ -1,5 +1,6 @@
 # Tag: pipeline-design
 
+- `INS-260627-682B` Isolating the agent and customer onto separate stereo channels during capture gives the LLM clean per-speaker input, where mixing them into a mono track forces the model to guess speaker attribution and ruins the downstream summary.
 - `INS-260404-1A3A` The electron transport chain extracts useful work (ATP, NADPH) by progressively lowering electron energy across four protein complexes rather than trying to capture all energy in one step.
 - `INS-260404-9C57` Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.

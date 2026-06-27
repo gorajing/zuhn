@@ -65,6 +65,7 @@ related:
   - INS-260405-A992
   - INS-260519-20E0
   - INS-260327-C1A4
+  - INS-260627-F9F3
 ---
 Cooper inverts a deep UX intuition: things that were prohibitively annoying to humans — a CLI with 40 arguments and 600 flags — are not annoying to agents but excellent, because each flag is another handle the agent can grab to query information and close its loop. So when designing for agents, you want as many handles as possible: ways to get information, pull dynamic state, and act, so the agent can iterate to completion as fast as possible. The CLI becomes the ideal agent surface precisely because a single command maps cleanly to a single intent (deploy, get logs), giving the model a reliable 'handhold.'
 

@@ -46,12 +46,13 @@ stance: >-
   The working/episodic/semantic memory model from cognitive science has become
   the convergent architecture for production AI memory systems
 related:
-  - INS-260405-6C88
   - INS-260421-E9FC
   - INS-260421-43EC
+  - INS-260405-6C88
   - INS-260330-9D44
   - INS-260405-11EA
   - PRI-260321-D74F
+  - INS-260627-BEEB
 ---
 MemMachine makes the model explicit: working memory in SQLite (rolling window, summarized when full), episodic memory in Neo4j (timestamped event nodes with neighbor relationships), semantic memory in Postgres (LLM-inferred stable facts about users/context). mem0 uses a simpler flat model but distinguishes ephemeral conversation state from extracted memories. Cognee builds knowledge graphs that combine event and concept layers.
 

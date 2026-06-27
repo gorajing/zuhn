@@ -53,6 +53,7 @@ related:
   - INS-260626-C5FA
   - INS-260321-1A0B
   - INS-260405-0CE9
+  - INS-260627-5BE1
 ---
 According to Gallup, only 8% of US workers use AI daily despite widespread tool availability. The companies seeing real results (Zapier saving 10hrs/week per sales rep, Duolingo going from 100 to 150 courses in 12 months) succeed not because they have better AI tools, but because they translate abstract AI mandates into specific behavioral changes.
 

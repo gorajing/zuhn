@@ -70,8 +70,8 @@ related:
   - INS-260605-20C0
   - INS-260625-7530
   - INS-260625-8FBA
+  - INS-260627-41BE
   - INS-260403-9774
-  - INS-260626-136F
 ---
 Dedicated speech-to-text models transcribe phonemes in isolation; they have no way to know that a mumbled token should resolve to a specific class name on screen or a domain term the speaker means. A general multimodal model can ingest both the audio AND grounding context — a screenshot, a code buffer, prior conversation — and produce a transcription disambiguated by what the user is actually looking at. The recommendation is to use Gemini 3 Flash to transcribe-with-context whenever the use case doesn't strictly require realtime streaming.
 

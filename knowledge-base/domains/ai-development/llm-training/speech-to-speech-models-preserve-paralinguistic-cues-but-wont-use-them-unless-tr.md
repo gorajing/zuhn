@@ -53,5 +53,6 @@ related:
   - PRI-260406-B97E
   - INS-260329-78AE
   - INS-260321-82FE
+  - INS-260627-682B
 ---
 A key advantage of speech-to-speech over cascaded systems is that paralinguistic information — tone, hesitation, discomfort, the cues in how people speak — is not lost the way it is when audio is flattened to text. But preservation in the input is necessary, not sufficient. If you train the model on the audio version of an instruct dataset doing factual question-answering, it has no reason to ever capture or exploit those cues, so it never will. Capability latent in the representation only emerges when the training objective requires using it. This is a general principle for multimodal models: feeding richer signal does nothing unless the data distribution makes that signal pay off.

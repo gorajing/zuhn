@@ -64,6 +64,7 @@ related:
   - INS-260605-B8AB
   - INS-260329-27DF
   - INS-260404-ED0F
+  - INS-260627-BEEB
 ---
 A subtle but important design constraint: shared payment tokens deliberately do not hide information from the seller. Even though the card is tokenized and scoped, Stripe still forwards the brand, last-four, and credit type so the seller can run their existing risk analysis exactly as before. The explicit goal is 'not trying to do something secret from the seller.'
 

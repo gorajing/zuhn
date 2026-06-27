@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260605-4A2D
   - INS-260624-F048
+  - INS-260627-0691
   - INS-260327-E016
   - PRI-260328-A65A
-  - INS-260605-2531
 ---
 The talk is structured as an elimination ladder where each technique is shown reducing memory but failing to close the gap on its own. FSDP shards parameters; DeepSpeed Ulysses context parallelism distributes attention heads across GPUs (roughly 8x reduction) and lets you use the best Flash Attention kernels; activation checkpointing recomputes activations in the backward pass (another ~8x on activation usage); Unsloth-style CPU offloading moves transformer-block inputs off the GPU and prefetches during backprop at little throughput cost; Arctic-style sequence tiling chunks element-wise loss and MLP computations to avoid giant buffers. Only after all of these does 3 million tokens become possible, and their U-Pipe buffer-reuse technique is needed to push further.
 

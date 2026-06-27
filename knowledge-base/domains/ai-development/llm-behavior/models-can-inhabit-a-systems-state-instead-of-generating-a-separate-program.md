@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260323-C5D3
   - INS-260408-F3F0
+  - INS-260627-9BC5
   - INS-260501-B7BC
   - INS-260519-ED17
   - INS-260501-52B5
-  - INS-260524-78D0
 ---
 Kenton (creator of Cloudflare Workers) built a small canvas app and drew a tic-tac-toe board with one X. When he asked the model to play, it began generating a separate tic-tac-toe application — the default 'generate a program' behavior. He stopped it and said: you have access to the entire state of the system, which here is just an array of strokes (points, grid lines, an X stroke); inspect that and play with me.
 

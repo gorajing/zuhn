@@ -54,8 +54,8 @@ related:
   - INS-260409-B9A1
   - INS-260402-67B4
   - INS-260403-C7D8
+  - INS-260627-0719
   - INS-260330-0F04
-  - INS-260325-BE19
 ---
 Graham offers a practical decision rule derived from intellectual history: when choosing between competing explanations, prefer the one that doesn't revolve around you. This is the everyday version of Copernicus — a default correction for the systematic anthropocentric bias wired into human cognition.
 

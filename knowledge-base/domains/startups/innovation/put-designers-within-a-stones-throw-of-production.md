@@ -58,8 +58,8 @@ related:
   - INS-260330-F7B2
   - PRI-260407-590E
   - PRI-260405-0AC6
+  - INS-260627-E1BD
   - INS-260320-D4BD
-  - PRI-260406-CAE4
 ---
 Kelly Johnson's design for Skunk Works put the engineering desks within steps of the production floor. His stated reason: designers need to glance up and see how things are actually being built so they can catch 'it looked good in the diagram, but in practice you have to bring this big thing around over here.' The cost of walking back to a shop is the cost of a design error compounding through production.
 

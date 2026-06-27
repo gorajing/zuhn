@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260329-B583
   - INS-260627-7541
+  - INS-260627-0719
   - INS-260325-FDA9
   - INS-260605-33B4
-  - INS-260605-0DB3
 evidence:
   - id: INS-260325-FDA9
     type: TRANSFERS_TO

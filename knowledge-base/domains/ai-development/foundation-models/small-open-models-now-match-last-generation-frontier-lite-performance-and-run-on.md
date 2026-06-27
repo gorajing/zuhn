@@ -71,10 +71,10 @@ stance: >-
   contradicting the view that small models systematically underperform
 related:
   - INS-260501-0C6C
+  - INS-260627-7CBA
   - PRI-260328-7007
   - INS-260605-C9EB
   - INS-260323-4E12
-  - INS-260625-FC64
   - INS-260626-8DD1
 ---
 The Google DevRel demo made a concrete, dated capability claim: the small open Gemma 4 models (2-4B parameter range, plus a 26B MoE variant) now perform about as well as — sometimes better than — Gemini 3.1 Flash Lite, the fast frontier-lite tier. Demonstrated tasks: analyzing 5 minutes of YouTube video (sampled at 1 fps) for roughly two cents, reliably extracting timestamped transcript + slide text; image description; 140+ language support. Deployment footprint: runs on a single commodity GPU, a Jetson Nano, fully in-browser (a Gemma model controlling a robot via WebGPU in a sandboxed browser tab), and on-device replicating the Gemini Live experience locally.

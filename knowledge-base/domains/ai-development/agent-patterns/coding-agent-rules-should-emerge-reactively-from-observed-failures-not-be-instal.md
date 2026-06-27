@@ -53,7 +53,7 @@ related:
   - INS-260626-8308
   - INS-260605-8A88
   - PRI-260403-9E80
+  - INS-260627-F3B6
   - INS-260320-9D89
-  - INS-260514-EE1D
 ---
 The common assumption when Cursor launched rules was to install every rule available for your stack (e.g., all the Next.js rules). Zakariasson found the opposite works better: rules should emerge dynamically, created only when you observe agents going off the rails. A rule is best understood as the bridge between model behavior and human intent — a way to encode where the model's default (the statistically 'right' way) diverges from what your specific organization wants. His canonical example: Cursor avoids foreign keys in database migrations for performance reasons, but models always add them because that's textbook-correct, so a single emergent rule in Bugbot flags it. Because models keep improving at instruction-following, you also need fewer rules over time, and you should prefer ephemeral specs and plans before reaching for a permanent rule. The implication is that a large preinstalled rule library is mostly dead weight; the signal is in the specific, hard-won deltas between model default and your actual conventions.

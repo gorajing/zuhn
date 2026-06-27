@@ -47,7 +47,6 @@ stance: >-
   Deep technical skill is a prerequisite for seeing startup opportunities, not a
   tool you acquire after finding an idea.
 related:
-  - INS-260327-8358
   - INS-260330-5043
   - INS-260403-924B
   - INS-260403-816B

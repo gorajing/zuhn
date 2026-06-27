@@ -58,6 +58,7 @@ related:
   - INS-260402-31D8
   - INS-260412-CDDD
   - INS-260412-BA52
+  - INS-260627-E1BD
 ---
 Wi-Fi's ability to pass through walls is both its greatest strength (coverage) and its greatest vulnerability (signals can be intercepted from adjacent rooms or outside buildings). Li-Fi's line-of-sight constraint means the signal is physically confined to the room where the light shines. No signal leakage means no eavesdropping from the parking lot, no war-driving, and no need for complex encryption layers to compensate for physical exposure.
 

@@ -65,8 +65,8 @@ related:
   - PRI-260406-9D48
   - PRI-260413-CBC8
   - INS-260605-0C13
-  - INS-260625-EFCC
   - INS-260626-FF79
+  - INS-260627-E71B
 ---
 Zuckerberg's logic on open source is sequential and unsentimental: Google built proprietary distributed-computing infra first because they were first; Meta built it second, recognized it conferred no advantage relative to Google, and open-sourced it. Open Compute became the industry standard, the supply chain standardized around Meta's designs, and 'we've saved billions of dollars' while quality improved. He explicitly says 'I'm not a zealot on this' — Meta also keeps closed-source things where it makes sense.
 

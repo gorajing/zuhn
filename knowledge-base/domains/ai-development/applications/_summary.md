@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 75 insights
+> 78 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -13,6 +13,7 @@
 - `INS-260514-84FC` [high] Claude Code's name is wrong. It's a terminal agent. Vercel reduced SDRs from 10 to 1 using it. Jason Lemkin's team went from 8 to 1.25.
 - `INS-260501-E3C7` [high] One-shot prompts produce shallow output. Claude Design asks 5-10 structured questions first. The questions are the product.
 - `INS-260514-5389` [high] Lock refined design prompts into Claude Project Instructions + Knowledge — every future chat in that project inherits the prompt, so you skip re-pasting and get consistent output.
+- `INS-260627-F518` [high] Your email doesn't know what you journaled and your CRM doesn't know what you're reading — the cross-source signal is the whole product.
 - `INS-260505-82B8` [high] A digital brain that predicts neural activity lets you run millions of years of experiments in days, then close the loop with real validation.
 - `INS-260501-4043` [high] A physical therapist who knows fascia release builds better fascia software than a contractor in offshore — domain knowledge is the moat once code is free.
 - `INS-260514-9D0A` [high] Build your AI tutor to be DELIBERATELY less helpful than ChatGPT — guide to the answer, don't autocomplete it. Draw a clean policy line. Restraint is the pedagogical mechanism. Maximum helpfulness destroys learning.
@@ -21,6 +22,7 @@
 - `INS-260514-D9DB` [high] 70% of traffic for the fashion AI company Parsa works with now comes from AI overviews, not SEO clicks. GEO is the new SEO.
 - `INS-260514-5698` [high] Insilico Medicine: drug from initial conception to clinical trial in half the conventional time. Real measurement, not handwave.
 - `INS-260514-315F` [high] Extract reference designs as JSON (fonts, colors, layout, elements), mutate values, regenerate with a new product image — creates a reusable design template that propagates style across products.
+- `INS-260627-1C9C` [high] DeepMind's weather models beat gold-standard physics simulations — GenCast was more accurate 97% of the time and produced a 15-day forecast in 8 minutes on one chip instead of hours on a supercomputer.
 - `INS-260605-0748` [high] On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
 - `INS-260625-6345` [high] The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 - `INS-260405-227C` [high] InterPositive's core insight: train one model per project on that project's own data to preserve style and director intent.
@@ -67,6 +69,7 @@
 - `INS-260624-9A4B` [medium] Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
 - `INS-260626-8DD1` [medium] Models around 300-350M parameters run fast and efficiently enough to be triggered inside iOS Shortcuts for routine text-processing automation.
 - `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
+- `INS-260627-37AF` [medium] In contact centers the average call lasts 6.5 minutes but after-call work takes 6.3 minutes — a near 1:1 ratio — so AI's leverage is in mechanizing the admin tail, not the conversation.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260626-763B` [medium] The talk frames open on-device models around scenarios an API cannot serve — fully offline operation (airplane, subway), data that must never leave your servers, national 'sovereign AI' language models, and regulated domains like medical, legal, and finance.
 - `INS-260605-2A64` [medium] Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.

@@ -1,6 +1,6 @@
 # Topic: hardware
 
-> 30 insights
+> 31 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260605-4835` [high] MLX deliberately runs on the GPU rather than the Neural Engine because reaching the Neural Engine requires Core ML, whose private-API friction makes it impractical for developers today.
@@ -13,6 +13,7 @@
 - `INS-260605-86BE` [high] Training is compute-bound, but single-user local inference is dominated by memory bandwidth, memory capacity, and energy-per-byte — so pick hardware on those axes, not FLOPS.
 - `INS-260605-C873` [high] Optimize kernels for memory movement, not flops, because a modern GPU spends most of its time idle waiting on tensors to arrive from slow memory.
 - `INS-260410-3C37` [high] Flash Attention does MORE floating-point operations than vanilla attention yet runs 7.6x faster, because it avoids materializing the T×T attention matrix in HBM.
+- `INS-260627-CD33` [high] Fitting a model in memory says nothing about how fast it will run — bandwidth, not capacity, sets the throughput ceiling.
 - `INS-260605-D430` [high] Choose on-device inference when latency, privacy, offline operation, or per-token cost dominate — not when you need maximum capability.
 - `INS-260626-3408` [high] Recent iPhones run quantized small models like Gemma 4 at ~40 tok/s, moving the real constraint from speed to the 1-3 GB model download.
 - `INS-260605-C760` [high] Gemma 4 demonstrates that single-GPU and even on-device open models now run real agentic workflows — orchestrator-plus-subagents, tool-calling coding harnesses — that recently demanded clusters.

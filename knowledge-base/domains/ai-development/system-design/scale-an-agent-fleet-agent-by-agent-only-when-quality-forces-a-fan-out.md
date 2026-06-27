@@ -56,10 +56,10 @@ stance: >-
   fanning out.
 related:
   - INS-260625-447A
+  - INS-260627-C727
   - INS-260322-D8C3
   - INS-260605-9276
   - INS-260605-6591
-  - INS-260410-F910
 ---
 Despite Paperclip offering importable templates with huge default organizations, the explicit advice is the opposite: 'just start with the agents that you need. You don't actually have to install something that has 130 agents.' The reasoning is that 'if you don't take the time to craft for the agents how you expect them to behave, then you won't get good results' — uncrafted agents at scale multiply noise rather than output.
 

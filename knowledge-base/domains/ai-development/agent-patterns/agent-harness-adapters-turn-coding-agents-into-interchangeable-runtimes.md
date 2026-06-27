@@ -50,6 +50,7 @@ related:
   - INS-260626-4639
   - INS-260514-4FDC
   - INS-260605-50FB
+  - INS-260627-9BC5
   - INS-260626-5B28
 ---
 AI SDK 7's HarnessAgent layer is a real platform primitive: external coding agents can be invoked through the same generate/stream interface as native SDK agents, run in sandboxes, receive instructions, custom skills, and tools, and resume longer sessions. This collapses integration work for teams that want to compare Codex, Claude Code, Deep Agents, OpenCode, or Pi without rewriting the product shell around each one.

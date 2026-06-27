@@ -58,12 +58,12 @@ related:
   - INS-260402-5ACE
   - INS-260403-BA81
   - INS-260404-1678
-  - INS-260605-ECB0
   - INS-260605-C00C
   - INS-260605-C028
   - INS-260605-014F
   - INS-260605-A557
   - INS-260605-0436
+  - INS-260626-A2B9
 ---
 The final, self-learning step of the workflow writes the complete decision record into shared memory: the decision itself, the actions taken, and the full reasoning chain including what was considered and explicitly what was not. This serves two purposes at once — accountability and tracing (you can audit why an autonomous system acted) and self-improvement (future agents refer to prior decisions as precedent rather than re-deriving them).
 

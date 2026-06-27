@@ -59,6 +59,7 @@ related:
   - INS-260605-4AF8
   - INS-260605-1B9D
   - INS-260619-D4F6
+  - INS-260627-B1B2
 ---
 The talk frames four concrete drivers for running AI on the edge instead of the cloud: real-time latency (camera filters, background replacement, video calls where 'latency is king'), privacy (summarizing sensitive documents without sending them off-device), offline operation under poor connectivity, and cost (avoiding per-token cloud spend, a recurring complaint at the conference). Notably, capability is absent from this list — edge models are small (1-2GB RAM for a 2B model) and the pitch is a hybrid architecture where you offset cloud usage rather than replace frontier quality.
 

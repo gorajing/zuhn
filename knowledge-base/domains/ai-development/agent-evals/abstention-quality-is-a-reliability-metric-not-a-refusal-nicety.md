@@ -47,7 +47,7 @@ related:
   - INS-260605-5D5E
   - INS-260605-2D9B
   - INS-260605-8D12
-  - INS-260501-9465
+  - INS-260627-C727
 ---
 RigorBench includes a 'Know When to Fold' task category and an Abstention Quality pillar, making non-action a measurable engineering behavior. This matters because outcome-only coding benchmarks often reward agents for always trying, even when the prompt is underspecified, the requested change is impossible, or proceeding would damage the codebase.
 

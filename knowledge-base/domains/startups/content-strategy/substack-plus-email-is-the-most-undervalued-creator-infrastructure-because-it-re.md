@@ -63,5 +63,6 @@ related:
   - INS-260321-38EC
   - INS-260321-86E7
   - INS-260322-5E5D
+  - INS-260627-F518
 ---
 The common creator trajectory builds audience on algorithmic platforms (Twitter follows, YouTube subscribers, Instagram followers) where the platform controls distribution and can at any point reduce reach, change algorithms, or ban the creator. This is rented audience — the creator has no direct contact with their followers without going through the platform. Substack and email-first platforms invert this: a subscriber list is an asset the creator owns, can export, and can migrate. Distribution is deterministic (email always delivers, subject to deliverability). This structural difference matters more in an AI era because algorithmic platforms increasingly face pressure to down-rank text content in favor of engagement-optimized video and AI-generated content. Creators on rented platforms find their distribution erode for reasons unrelated to their quality. Creators with owned email lists are insulated from that dynamic. For Zuhn Intelligence Brief and any long-term content strategy, owning the audience through Substack/email is the structural default; social promotion to drive subscription is supporting, not primary.

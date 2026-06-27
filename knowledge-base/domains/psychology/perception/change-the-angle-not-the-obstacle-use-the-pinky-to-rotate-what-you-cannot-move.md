@@ -50,6 +50,7 @@ related:
   - INS-260323-BEE6
   - INS-260330-C33B
   - INS-260330-8638
+  - INS-260627-E1BD
 stance: 'When you cannot move an obstacle directly, change its angle with minimal force'
 evidence:
   - id: INS-260321-B8E8

@@ -1,6 +1,7 @@
 # Tag: risk-tolerance
 
 - `INS-260626-AE0C` Finance adopts AI by running the new system alongside the proven one until it's verified, because unlike consumer tech it isn't allowed to make mistakes.
+- `INS-260322-D58A` Synthetic peptides beyond GLP-1s are spreading through tech culture using the same early-adopter logic as beta-testing software — willingness to accept bugs in exchange for frontier access.
 - `INS-260412-6564` Salvadorans maintained 90% approval of Bukele even as he suspended constitutional rights, dismissed judges, and detained 70,000 people — because gang violence had been an existential daily threat for decades.
 - `INS-260403-9F78` Treating new projects as experiments or learning exercises removes the fear of failure because even failed experiments produce knowledge.
 - `INS-260404-6DA9` When you treat a project as an experiment, every outcome—including failure—produces knowledge, which removes the psychological penalty of not succeeding.
@@ -9,4 +10,3 @@
 - `INS-260403-EE10` New investor archetypes will fill the early-stage vacuum because existing VCs cannot change their embedded risk profiles.
 - `INS-260627-A944` Something like OpenClaw 'would not have come out of an American company — it would have been killed in legal long before release'; permissionless personal risk-taking unlocks categories corporate compliance forbids.
 - `INS-260330-9863` Outsized returns consistently go to people willing to pursue weird-looking opportunities before they become professionalized.
-- `INS-260322-D58A` Synthetic peptides beyond GLP-1s are spreading through tech culture using the same early-adopter logic as beta-testing software — willingness to accept bugs in exchange for frontier access.

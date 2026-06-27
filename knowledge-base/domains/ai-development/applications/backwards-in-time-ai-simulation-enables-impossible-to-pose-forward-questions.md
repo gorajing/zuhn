@@ -56,8 +56,8 @@ related:
   - INS-260403-FB0C
   - INS-260505-4E44
   - INS-260330-4BFD
+  - INS-260627-2EB8
   - PRI-260406-26B3
-  - INS-260505-9E07
 ---
 Laura Howell's climate AI work: traditional climate simulation (PDE-based) only runs forward in time. To investigate 'what conditions led to this specific historical hurricane,' you'd run thousands of forward simulations and filter for ones that match the outcome. Data-driven AI models (FourCastNet/AI2-style) can be inverted to run backwards: start with the known landfall, simulate possible weather trajectories that converge to it. Demonstrated on hurricane Sandy and on weather→drought transitions. This isn't possible with the PDE machinery and opens entirely new categories of paleoclimate and counterfactual questions. Specifically: simulating 100 different past climate scenarios to understand the 1600s landfall peak in Chinese coastal hurricane records (preserved in archival rain-and-wind logs).
 

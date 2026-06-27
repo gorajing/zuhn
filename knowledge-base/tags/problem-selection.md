@@ -1,5 +1,6 @@
 # Tag: problem-selection
 
+- `INS-260627-F6CA` Find the deepest unsolved problem in a space ('root node') and solve it to unlock everything downstream, instead of polishing the 'leaves'.
 - `INS-260325-0103` Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260403-3E9A` Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
 - `INS-260328-A57D` If you found the biggest problem and it seemed too hard, searching for four months for easier problems is almost always a worse use of time.

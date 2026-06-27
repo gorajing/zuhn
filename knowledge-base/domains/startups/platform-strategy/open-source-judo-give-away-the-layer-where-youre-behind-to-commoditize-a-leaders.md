@@ -71,6 +71,7 @@ related:
   - INS-260626-E822
   - INS-260625-EFCC
   - INS-260410-ED4D
+  - INS-260627-E71B
 ---
 Zuckerberg articulates a deliberate strategic logic for open source that has nothing to do with idealism. Google built its distributed computing infrastructure first and kept it proprietary as a competitive moat. Meta built theirs second, and since keeping it proprietary wouldn't catch them up to Google, they open-sourced it instead. The result was Open Compute, which became the industry standard, standardized the data-center supply chain around Meta's designs, and saved Meta billions while improving component quality.
 

@@ -61,9 +61,9 @@ related:
   - INS-260403-4501
   - INS-260330-BA13
   - INS-260323-8D12
+  - INS-260627-5A21
   - INS-260329-67CB
   - INS-260605-19B4
-  - INS-260403-2FAE
 ---
 Teams typically treat MCP design (which tools, what schemas, what responses) and MCP security (OAuth, TLS, rate limiting) as separate workstreams handled by different people at different times. Tun Shwe's thesis collapses them: every design choice casts a 'security shadow.' A server that exposes many fine-grained tools, accepts free-form payloads, or returns oversharing responses has already created the attack surface that OWASP's MCP Top 10 enumerates, before any auth code is written.
 

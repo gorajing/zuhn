@@ -51,11 +51,11 @@ stance: >-
   migrate due to regulatory, political, or technical debt constraints rather
   than genuine technical need
 related:
-  - INS-260322-A367
   - INS-260327-C464
   - INS-260619-C9B1
   - INS-260403-F234
-  - INS-260410-CDDD
+  - INS-260627-8F84
+  - INS-260322-A367
 evidence:
   - id: INS-260321-1749
     type: SUPPORTS

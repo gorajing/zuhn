@@ -51,10 +51,10 @@ stance: >-
   negate the size savings.
 related:
   - INS-260326-8201
+  - INS-260627-7CBA
   - INS-260501-CF7D
   - INS-260320-96C9
   - INS-260330-C0E2
-  - INS-260626-BCC7
 ---
 Grondin's working heuristic from shipping a production on-device chatbot: choose a quantized weight variant between 4-bit and 8-bit. Below 4-bit, quantization starts having 'a lot of impact on the output' and models become noticeably worse, so 4-bit is the lowest he will go; 8-bit is the highest he bothers with, reserved for the smallest models where the size cost is affordable. The full-precision (BF16) weights are simply too large to ship to a phone.
 

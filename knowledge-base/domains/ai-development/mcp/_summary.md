@@ -1,6 +1,6 @@
 # Topic: mcp
 
-> 18 insights
+> 19 insights
 
 - `INS-260627-962C` [high] Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260626-3492` [high] A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved.
@@ -9,6 +9,7 @@
 - `INS-260627-B416` [high] Every enabled MCP server injects tool descriptions into every system prompt — disable the ones you aren't using or they waste tokens and mislead the agent.
 - `INS-260626-BC79` [high] GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - `INS-260626-8B56` [high] MCP tool access should be audited against the enterprise policy authority that granted it.
+- `INS-260627-FF5D` [high] Tag each registered server/agent with owner, environment, auth model, cost attribution, and the use cases consuming it — this metadata is what enables impact analysis and lineage, not nice-to-have decoration.
 - `INS-260627-1CF9` [high] Map each human/agent interface difference to its security shadow: discovery to tool poisoning, iteration to data leakage, limited context to oversharing.
 - `INS-260626-A5CB` [high] Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
 - `INS-260626-B983` [high] Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.

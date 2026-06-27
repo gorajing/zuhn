@@ -52,10 +52,10 @@ stance: >-
   data — physics-informed approaches haven't dominated.
 related:
   - INS-260505-2053
+  - INS-260627-1C9C
   - INS-260625-43B3
   - INS-260605-D33F
   - INS-260626-B833
-  - INS-260321-B7CB
 ---
 Q&A point at the end of the lighting talk session: a panelist observes that the early consensus on physics-informed neural networks (PINNs) being the future of fluid dynamics ML hasn't held up. Pure data-driven models (FourCastNet, GraphCast, Pangu, AI2 weather model) competitive with operational supercomputer models (IFS) without needing physics losses. The mechanism: scale + the right architectural inductive bias (spherical harmonics for weather, attention for general purpose) beats explicit conservation-law penalties as a regularizer. PINNs aren't dead — they win in low-data regimes where the physics is well-known and clean — but the broader 'physics-informed always wins' narrative has been falsified.
 

@@ -6,6 +6,6 @@
 - `INS-260514-999B` The GTM engineer's real job is integrating fragmented tools with engineering discipline — applying DRY, abstraction, and modular design to workflows so they don't collapse as the org grows.
 - `INS-260519-90E2` Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 - `INS-260514-41C9` The best GTM engineer profiles are no-code power users (Zapier, Bubble, Make, Salesforce admins) and sales hackers — not credentialed engineers, who often can't translate their skills outside their familiar environment.
+- `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260514-AD9E` Automate the boring manual work, but keep the customer signal in your hands — never automate away your closeness to early users.
 - `INS-260514-D155` Restructure GTM as a product team — salespeople are PMs surfacing customer signal, GTM engineers are engineers building frameworks to act on it, and the whole team runs cross-team experiments instead of solo tradecraft.
-- `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.

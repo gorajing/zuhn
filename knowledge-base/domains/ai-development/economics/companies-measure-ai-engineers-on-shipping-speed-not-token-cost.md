@@ -71,8 +71,8 @@ related:
   - INS-260410-FA70
   - INS-260423-2B80
   - INS-260501-033E
-  - INS-260519-224B
   - INS-260522-88E0
+  - INS-260626-A893
 ---
 There's a builder instinct to economize on token/inference cost. The panelist's report from enterprise practice is that this misreads the incentive: companies aren't monitoring token consumption per engineer — they're measuring shipping velocity, because revenue comes from getting product to market. If AI raises your productivity such that a month-long build becomes a week, that's the win the organization rewards, and the token cost to achieve it is noise against the value of shipping faster.
 
