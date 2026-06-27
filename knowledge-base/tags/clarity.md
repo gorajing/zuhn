@@ -8,9 +8,9 @@
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260405-466C` As a pitch description expands to cover every possibility, its information content approaches zero.
 - `INS-260405-D514` As pitch descriptions approach 'could be anything,' their information content approaches zero.
-- `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
-- `INS-260405-3E5F` Inability to communicate an idea simply is a signal the idea itself needs more work.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260404-32C5` Ornate prose tricks the writer into believing they've said more than they have, creating an illusion of depth that readers don't share.
 - `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
+- `INS-260405-3E5F` Inability to communicate an idea simply is a signal the idea itself needs more work.
+- `INS-260404-7C1F` Startup operating systems should prioritize reducing decision friction over covering every edge case.
 - `INS-260405-D606` Getting the problem statement right is not preliminary work — it is the core intellectual work.

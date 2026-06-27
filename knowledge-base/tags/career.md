@@ -20,5 +20,5 @@
 - `INS-260410-2CBC` People who over-plan their careers unconsciously filter for signals that confirm the plan and dismiss unrelated opportunities, which is exactly how the biggest opportunities get missed.
 - `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
 - `INS-260327-73CB` The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.
-- `INS-260330-BBE7` Close friends share nearly 100% network overlap with you, so acquaintances are the real conduits to new opportunities.
 - `INS-260405-874D` Autonomy in work is a one-way door: once crossed, the cage of a managed job becomes visible and unbearable.
+- `INS-260330-BBE7` Close friends share nearly 100% network overlap with you, so acquaintances are the real conduits to new opportunities.

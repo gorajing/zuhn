@@ -1,8 +1,8 @@
 # Tag: context-dependence
 
 - `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
-- `INS-260505-0200` Liver cell + neuron have the same DNA but use it differently — variant effects are tissue-context-specific.
 - `INS-260325-D7B1` Psychedelics are non-specific amplifiers — you can have euphoria or hell, and the difference is mostly determined by set (your mindset) and setting (your environment), not the drug itself.
+- `INS-260505-0200` Liver cell + neuron have the same DNA but use it differently — variant effects are tissue-context-specific.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260403-75CE` Tactics from successful companies fail when transplanted without the underlying conditions that made them effective.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.

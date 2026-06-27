@@ -7,9 +7,9 @@
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260605-2E27` Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
 - `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
+- `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260412-B805` Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
 - `INS-260505-8E0B` It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'
-- `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260321-801C` Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260409-F9D5` The bottleneck is integrating disparate fields, not advancing any one of them.
 - `INS-260320-CDE4` The Moog DFAM has no MIDI implementation -- sampling its output into a MIDI-capable device is the primary way to integrate it into a broader production setup.

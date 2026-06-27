@@ -10,8 +10,8 @@
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260403-FD6A` In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.
 - `INS-260403-DB38` Large orgs divide into small groups via hierarchy, but each person's freedom shrinks proportionally to total org size because each group must act as one virtual person to the layer above.
-- `INS-260330-CA88` Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
-- `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260402-B065` Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260403-DB0A` Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
+- `INS-260330-CA88` Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
+- `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.

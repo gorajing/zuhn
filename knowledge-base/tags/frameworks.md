@@ -18,9 +18,9 @@
 - `INS-260403-1269` The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.
 - `INS-260329-B604` Sales objections are cognitive distortions that manifest as blame directed at circumstances, other people, or self.
 - `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.
-- `INS-260405-736C` PMF is a four-rung ladder—customer-problem fit, problem-solution fit, business-model fit, then scale—and skipping rungs causes collapse.
 - `INS-260410-71D2` DIME (diplomacy, information, military, economics) is a decent starting point but Japan won on railways, loans, psyops, and Anglo-Japanese alliance terms — the decisive instruments are always context-specific.
 - `INS-260403-462F` Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
+- `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260330-F140` Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
-- `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
+- `INS-260405-736C` PMF is a four-rung ladder—customer-problem fit, problem-solution fit, business-model fit, then scale—and skipping rungs causes collapse.

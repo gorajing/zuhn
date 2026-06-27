@@ -44,6 +44,6 @@
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260403-C4B3` Regulatory compliance costs act as de facto subsidies for large businesses by creating barriers that small competitors cannot easily absorb.
-- `INS-260625-B17D` Big labs have an obligation to do many things and therefore can't focus, so a startup with domain expertise and focus can run laps around them in a vertical.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
+- `INS-260625-B17D` Big labs have an obligation to do many things and therefore can't focus, so a startup with domain expertise and focus can run laps around them in a vertical.
 - `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.

@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 130 insights
+> 131 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -45,6 +45,7 @@
 - `INS-260505-483B` [high] Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
 - `INS-260605-77E5` [high] Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - `INS-260514-1277` [high] Note quality, not wiki tech, is the primary bottleneck — fix your note-taking discipline BEFORE investing in the wiki stack, because the wiki amplifies what's already there.
+- `INS-260626-36F0` [high] Use the P&G field experiment to update creative-collaboration beliefs, not to generalize across all human-AI teaming.
 - `INS-260505-CDAE` [high] FrontierMath is held by an AI lab, DeepMind's MathConjectures benchmark has wide difficulty spread, NYT-style 30-mathematician evaluations don't scale.
 - `INS-260505-2FFB` [high] EVO-1, EVO-2, all training data, all code — released openly because that's where academic labs add unique value.
 - `INS-260410-BFCF` [high] Zuckerberg admits Meta tuned a Llama 4 Maverick variant that sat near the top of Chatbot Arena, but shipped the un-tuned version because arena-optimization 'led us astray' on actual product quality.

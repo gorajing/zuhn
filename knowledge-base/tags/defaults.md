@@ -12,7 +12,7 @@
 - `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260403-DF37` Big company jobs are the career equivalent of junk food—cheap, branded, immediately satisfying, but intellectually corrosive over time.
 - `INS-260322-4F7A` Life defaults are like software defaults — you can only change one or two at a time, and each change requires total commitment or the system reverts you back.
-- `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
 - `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260404-C209` Most life outcomes result from accumulated defaults rather than explicit decisions, which has profound implications for how to design intentional lives.
 - `INS-260330-BCD8` Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
+- `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.

@@ -55,8 +55,8 @@
 - `INS-260403-88F8` Replace short interviews with 6+ hour shared activities because facades crack after 2-3 hours, revealing the real person.
 - `INS-260405-94A1` Match your pitch deck's emphasis to investor decision criteria at your specific funding stage.
 - `INS-260405-CE53` 44% of startups rated their investors 1 out of 5 on helpfulness, suggesting the 'smart money' narrative routinely overpromises.
-- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
 - `INS-260403-8FD7` Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
+- `INS-260403-AC06` Identify which of your risks amplify each other and prioritize decoupling them before approaching investors.
 - `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
 - `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.

@@ -8,9 +8,9 @@
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260626-BA87` Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms.
 - `INS-260625-6345` The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
+- `INS-260501-22AD` Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence.
 - `INS-260625-2E48` A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
 - `INS-260625-2A9E` Choose an owned open model over a stronger hosted one when control, data residency, and immunity from service loss outweigh raw capability.
-- `INS-260501-22AD` Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence.
 - `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
@@ -23,9 +23,9 @@
 - `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260320-EF3A` Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - `INS-260329-7F02` On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
+- `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260605-77E5` Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - `INS-260605-0BD6` Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed.
-- `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260625-00D5` Defer model selection until you have an evaluation dataset to score candidates on, so the choice becomes a quick measurement instead of a weeks-long opinion war.
 - `INS-260625-CD66` Use saturated compact evals to screen practical models before simulator-scale tests.
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.

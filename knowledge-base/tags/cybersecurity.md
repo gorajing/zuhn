@@ -1,9 +1,9 @@
 # Tag: cybersecurity
 
 - `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
+- `INS-260323-B3A3` Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260624-6753` High-stakes agent findings should be checked by heterogeneous reviewers.
 - `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.
-- `INS-260323-B3A3` Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
 - `INS-260624-C9A8` AI-speed offense forces AI-speed defense.
 - `INS-260325-BE3A` A digital computer takes hundreds of years to factorize a 50-digit number; a quantum computer could do it almost instantly — every national secret encoded in digital encryption is theoretically vulnerable.

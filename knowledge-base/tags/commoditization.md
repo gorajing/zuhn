@@ -14,10 +14,10 @@
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260409-BE4C` Chamath's hot take: brand-based pricing power is going to zero because cheaper/faster/better products now dominate on every dimension, as Tesla did to German luxury and BYD is doing to global automakers.
 - `INS-260412-E3CC` In 1974 it was illegal to fly NYC-LA for less than $1,442 (inflation-adjusted); deregulation enabled a 50% real price drop over three decades.
-- `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
-- `INS-260403-F62E` Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
+- `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
+- `INS-260403-F62E` Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260403-3725` AI features get cloned in weeks rather than years, so founders must build strategic moats immediately rather than planning to add them later.
 - `INS-260403-5384` AI makes building software cheap, shifting competitive value from code to distribution, proprietary data, and workflow entrenchment.
 - `INS-260403-BA1B` OpenAI's Miqdad Jaffer argues AI features get copied fast while costs outrun revenue, making data, distribution, and trust the real moats.

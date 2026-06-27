@@ -52,12 +52,11 @@ stance: >-
   agent's personality and tone.
 related:
   - INS-260330-F6DB
-  - INS-260404-D976
   - INS-260410-0DA5
+  - INS-260626-374E
   - INS-260605-3490
   - INS-260322-B641
   - INS-260330-F534
-  - PRI-260405-D586
 ---
 Viktor runs on Opus and tested replacing it with a cheaper alternative that was excellent at tool calling and code generation — on paper a clear win on both capability and cost. The team didn't make the switch, and the most interesting reason was personality: in the A/B test, users started raging. They were attached to Opus's tone, which in Viktor is even 'a bit sassy.'
 

@@ -5,6 +5,6 @@
 - `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260405-C764` IPO preparation is a company-building process spanning years, not a six-month transaction sprint.
-- `INS-260404-D60F` Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.
 - `INS-260405-FBF1` An innovation Sharpe Ratio gives CFOs a risk-adjusted metric to compare experimentation against other asset classes rather than treating it as pure cost.
 - `INS-260405-69F1` Innovation spend framed as a call option is harder for CFOs to cut because it reuses their own valuation logic.
+- `INS-260404-D60F` Underfunding back-office functions creates hidden operational debt that surfaces during investor diligence and audit cycles.

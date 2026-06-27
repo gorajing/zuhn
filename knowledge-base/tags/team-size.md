@@ -1,5 +1,6 @@
 # Tag: team-size
 
+- `INS-260626-D9EA` AI-enabled individuals matched traditional human teams on average quality, so some teamwork benefits can be substituted before teams are redesigned.
 - `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260409-1A44` You have permission to shrink the team before pivoting — the ship is going down and directors who aren't helping aren't helping.

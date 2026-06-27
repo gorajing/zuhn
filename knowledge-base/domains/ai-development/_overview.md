@@ -1,12 +1,12 @@
 # Domain: ai-development
 
-> 3358 insights across 43 topics
+> 3363 insights across 43 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| adoption | 77 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
+| adoption | 78 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
 | agent-evals | 72 | An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it. |
 | agent-patterns | 397 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
 | agents | 78 | What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime. |
@@ -24,10 +24,10 @@
 | embeddings | 27 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | evals | 1 | For scientific AI, the strongest evaluation is whether predictions survive independent measurement. |
 | foundation-models | 29 | Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters. |
-| future-of-work | 153 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| future-of-work | 154 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 55 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
 | hardware | 30 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
-| human-ai-relationship | 110 | Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.' |
+| human-ai-relationship | 112 | Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.' |
 | industry-trends | 24 | If agents were really delivering full value, a kid would have vibe-coded a hit game by now — that we haven't seen it suggests we're still in experimentation. |
 | infrastructure | 89 | A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop. |
 | limitations | 97 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
@@ -44,7 +44,7 @@
 | product-strategy | 159 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 21 | swyx's biggest aha was getting work he'd never gotten before from employees — animations, polish, throwaway-fun projects — because agents removed the feedback-cycle bottleneck of waiting on him or a contractor. |
 | prompting | 27 | Hoist must-follow rules into their own critical-rules file positioned high in the agent file, because rules scattered in agent.md/soul.md still get forgotten. |
-| research-methodology | 130 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
+| research-methodology | 131 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
 | system-building | 305 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 105 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |

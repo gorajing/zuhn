@@ -3,11 +3,11 @@
 - `INS-260605-C2A3` An agent is a product a diverse team builds, not another predictive model to isolate inside the ML org.
 - `INS-260605-4788` Smaller models unlock three production gates at once — affordable cost at scale, sub-third-second latency, and ownership of data and solution.
 - `INS-260403-9D7C` Most equity tokens today provide financial exposure via SPV structures rather than direct share ownership, creating ambiguity around liquidation priority, voting rights, and conversion terms.
-- `INS-260404-2F57` Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
-- `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260403-032B` Larger fund sizes create a structural math problem where required ownership of winners becomes impossible, favoring smaller disciplined funds.
 - `INS-260403-2241` Small funds win by owning more of fewer outliers rather than spreading thin across large portfolios.
 - `INS-260405-7FFC` Smaller funds beat giants by maintaining agility, concentrated ownership, and disciplined focus rather than deploying at scale.
+- `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
+- `INS-260404-2F57` Substack achieves meaningful creator ownership — portable subscriber lists, direct payment relationships — without any blockchain infrastructure, because the layer that matters is the relationship, not the protocol.
 - `INS-260403-9BEF` Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.
 - `INS-260327-DCA9` Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
 - `INS-260410-ED8E` Akio Morita refused a 100,000-unit Sony order that required removing the Sony name, and Ralph Lauren walked away from a Bloomingdale's house-brand deal while sleeping on a mattress — both later made most of their money from licensing the brand they refused to dilute.

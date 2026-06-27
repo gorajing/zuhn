@@ -30,10 +30,10 @@
 - `INS-260402-D2C9` You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260330-DB4B` When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260410-E590` NVIDIA has 40+ direct reports to Huang because the company is architected like a computing stack — with people managing each layer — not like a military command hierarchy.
+- `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
-- `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260626-2395` Smart people are wrong all the time (the best hitters make out two-thirds of the time); the big management fault is letting after-acquired information seep into your judgment of what someone should have done in the fog of the moment.
 - `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.

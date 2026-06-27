@@ -47,7 +47,6 @@ stance: >-
   decade.
 related:
   - INS-260323-6134
-  - INS-260325-3EF4
   - INS-260323-4D63
   - INS-260323-8555
   - INS-260330-7DCF
@@ -56,5 +55,6 @@ related:
   - INS-260404-A850
   - INS-260412-C436
   - INS-260603-F0BE
+  - INS-260603-1389
 ---
 Fully autonomous robots struggle in novel, unstructured environments because they lack the contextual judgment humans bring. Purely remote-controlled robots suffer from latency and lack of sensory immersion. The middle path—teleoperation with haptic feedback—lets a human operator feel what the robot touches while the robot handles low-level coordination (balance, leg placement, obstacle avoidance). Stanford's Ocean One feeds tactile signals back to the operator when touching fragile coral; SpotMini lets a human steer high-level direction while onboard computers manage gait and stabilization. This hybrid architecture is likely the dominant paradigm until AI perception catches up to human situational awareness in truly open-ended domains.

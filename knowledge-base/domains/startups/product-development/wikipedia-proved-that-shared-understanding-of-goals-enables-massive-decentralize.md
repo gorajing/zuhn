@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260403-219F
   - INS-260402-2A1D
+  - INS-260626-AC56
   - INS-260605-BEA5
   - INS-260325-568A
-  - INS-260603-A09F
   - INS-260605-9A92
 stance: >-
   Wikipedia works because everyone intuitively knows what an encyclopedia entry

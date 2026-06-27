@@ -72,13 +72,13 @@ related:
   - INS-260323-B029
   - INS-260323-1BF7
   - INS-260323-6908
-  - INS-260323-CD28
   - INS-260320-0F7C
   - INS-260410-B224
   - INS-260410-E660
   - INS-260410-7AF5
   - INS-260423-C506
   - INS-260501-B1AA
+  - INS-260514-6DB9
 ---
 Why do LLMs work so well and physical AI lag? The panel's answer: language models distilled the entire internet — humanity's accumulated written knowledge — into training data. There is no equivalent corpus for the physical world. Annotated multimodal 3D scene data (the substrate physical AI needs) is scarce, expensive, and not widely available.
 

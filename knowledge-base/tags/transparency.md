@@ -24,6 +24,6 @@
 - `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
 - `INS-260626-42B5` Broadcasting every agent conversation to an open internal channel solves learning, onboarding, and security at once — social transparency substitutes for restrictive access controls.
 - `INS-260403-E332` Ubiquitous video plus independent analysis creates near real-time falsification of institutional narratives.
-- `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
 - `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.
+- `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.

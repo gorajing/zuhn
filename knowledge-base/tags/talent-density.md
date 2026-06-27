@@ -8,5 +8,5 @@
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
 - `INS-260626-6A32` Assume each department may not need a person, let AI claim it first, and optimize headcount for agility — smallest number of the best people.
 - `INS-260330-B3D9` Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.
-- `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260403-F322` Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
+- `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.

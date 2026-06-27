@@ -27,7 +27,7 @@
 - `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
-- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-77D1` Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260410-E6BF` Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.

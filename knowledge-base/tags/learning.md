@@ -2,8 +2,8 @@
 
 - `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
 - `INS-260320-8632` The last generation of great engineers may already be born — AI creates a widening split between exceptional and average.
-- `INS-260605-35D1` Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260605-35D1` Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
 - `INS-260320-A745` Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
 - `INS-260321-1A0B` The biggest risk of AI adoption isn't that it fails — it's that it works so well that humans stop learning. Design AI systems where a key priority is the learning and improvement of the humans in the loop.
@@ -28,13 +28,13 @@
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
+- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260402-27A1` A failed startup teaches more founder skills in one year than several years at a big company.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
-- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260403-872C` Treating new projects as experiments means even failure produces knowledge, removing the psychological barrier to starting.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260327-7DAA` Most innovations look borderline stupid in hindsight—the only real failure is not trying or not reflecting.
@@ -90,8 +90,6 @@
 - `INS-260405-81B4` Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
 - `INS-260402-F772` Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
 - `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
-- `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do.
-- `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260325-B8D4` The optimal failure response is 'forgive and remember' -- psychological safety for admission plus systematic learning from mistakes.
@@ -100,3 +98,5 @@
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
 - `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.
+- `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do.
+- `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.

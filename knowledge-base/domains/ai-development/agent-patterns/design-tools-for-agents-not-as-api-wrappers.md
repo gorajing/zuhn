@@ -54,10 +54,10 @@ related:
   - INS-260327-D020
   - INS-260327-FE24
   - INS-260403-4D80
-  - INS-260404-F38A
   - INS-260409-A3EC
   - INS-260605-C2A3
   - INS-260603-1BC0
+  - INS-260403-0350
 ---
 Traditional APIs assume deterministic callers with abundant memory who can iterate through large result sets. Agents have limited context and limited ability to process irrelevant data token-by-token, so a list_contacts tool wastes context while search_contacts matches how agents actually work.
 

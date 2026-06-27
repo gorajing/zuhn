@@ -19,5 +19,5 @@
 - `INS-260405-8080` Meta's explicit goal of making AI teams 'operate more like startups' signals that enterprise overhead is now a recognized competitive liability in AI.
 - `INS-260410-0F1C` Mark Zuckerberg set up Meta's supervoting structure specifically because in 2006 the board tried to fire him for refusing Yahoo's $1B offer — without that control, he could not have funded Reality Labs through a 50% market cap drawdown.
 - `INS-260410-49D7` Meta open-sources distributed computing infrastructure and AI models specifically because Google got there first — open-sourcing their own version commoditizes Google's proprietary moat and standardizes the supply chain around Meta's designs.
-- `INS-260405-35DF` Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.
 - `INS-260410-02EA` Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.
+- `INS-260405-35DF` Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.

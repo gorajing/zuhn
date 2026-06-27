@@ -49,10 +49,10 @@ stance: >-
   activating the identity narratives those brands represent
 related:
   - INS-260403-6BF7
+  - INS-260626-374E
   - INS-260402-71A7
+  - INS-260626-30E4
   - INS-260320-DADA
-  - INS-260327-679A
-  - INS-260327-FEB7
 evidence:
   - id: INS-260403-6BF7
     type: EXTENDS

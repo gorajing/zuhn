@@ -78,7 +78,6 @@ stance: >-
   the constraint is that the experiments must be victimless and not zero-sum.
 related:
   - INS-260322-474A
-  - INS-260325-4793
   - INS-260323-DA13
   - INS-260323-D9CE
   - INS-260328-0932
@@ -87,5 +86,6 @@ related:
   - INS-260403-6A77
   - INS-260403-3D8C
   - INS-260409-FCF1
+  - INS-260404-36B9
 ---
 Tobi Lütke's closing principle for what he wishes everyone understood: 'You can just do things. At any point of time the system exists to try to get to good outcomes. If you know what good outcomes are, you can step out of system and give it a go. The cost is lower than ever and action causes information. One of the best things that can possibly happen is you figure out something that there's actually a lot of reason why the system discourages it.' The two structural constraints he specifies: (1) Victimless — 'this needs to be a completely victimless endeavor. You can't have someone suffering for you trying a thing.' (2) Not zero-sum — 'no people can't have negative consequences of these kind of things, because then you're just being an asshole, you're dividing people, you're prioritizing your own gain over other people. Fundamentally you're engaging in a zero sum thing. In zero sum environments you should probably not run experiments. But if you are in a zero sum environment you should figure out how to get a positive sum.' The deeper observation: the COST of trying has collapsed across most domains. (a) Building software: AI agents → days instead of months. (b) Reaching customers: social platforms → free → instant feedback. (c) Testing market hypotheses: landing pages + ads → $500 + 48 hours instead of $50K + 6 months. (d) Distributing content: zero-cost. The conclusion: in 2026, the constraint isn't capital, isn't skill, isn't access to information — it's WILLINGNESS to step out of prescribed paths and try things. Most people don't because the social cost of 'doing something the system doesn't endorse' feels high even though the financial cost is near zero. The corollary for ambitious operators: when you find yourself analyzing whether to try something instead of just trying it, the analysis IS the failure mode. The information that would resolve your uncertainty doesn't exist until you act. Action generates the information. The corollary for organizations: structures that make it hard for employees to 'just do things' (approval gates, comprehensive review processes, risk-aversion in culture) systematically prevent the experiments that produce learning. The most productive organizations are the ones where 'you can just do things' is literally the policy, with the bumper-rails being 'victimless + not zero-sum' rather than 'pre-approved by N stakeholders.'

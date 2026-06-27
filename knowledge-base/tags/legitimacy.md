@@ -10,10 +10,10 @@
 - `INS-260403-C6A6` Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
-- `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
-- `INS-260330-5958` 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.
-- `INS-260403-6399` Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260412-CCB6` The video argues that after doomsday, if survivors in Texas or Alaska don't believe they're still in the United States, they aren't — nations exist in collective belief, not in bunkers.
 - `INS-260410-F82F` Many Han Chinese still revere Mao despite 40M deaths because in their narrative he ended the 'century of humiliations' by reunifying China and fighting the Western coalition to a stalemate in Korea.
 - `INS-260412-BE19` The Rajapaksas' legitimacy from ending a 26-year civil war shielded them from accountability for corruption and debt accumulation — until citizens literally could not buy food or fuel.
+- `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
+- `INS-260330-5958` 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.
+- `INS-260403-6399` Rhetoric that questions whether a system is legitimate makes it impossible for the speaker to credibly claim they should lead that system.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.

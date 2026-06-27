@@ -49,11 +49,11 @@ stance: >-
   signals that the organization has outgrown informal processes and needs
   structured tooling to prevent innovation stagnation.
 related:
+  - INS-260626-AC56
   - INS-260403-F112
   - INS-260403-B2EA
   - INS-260403-4D8F
   - INS-260403-C05F
-  - INS-260403-5427
 evidence:
   - id: INS-260403-F112
     type: SUPPORTS

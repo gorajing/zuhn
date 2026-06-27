@@ -51,10 +51,10 @@ resolutions:
     high.
 related:
   - INS-260325-568A
+  - INS-260626-AC56
   - PRI-260323-CE34
   - INS-260327-73CB
   - INS-260330-7994
-  - INS-260327-684D
 stance: >-
   Frebel's experience: even astronomers who share interests and work on the same
   phenomena struggle to communicate across theoretical and observation...

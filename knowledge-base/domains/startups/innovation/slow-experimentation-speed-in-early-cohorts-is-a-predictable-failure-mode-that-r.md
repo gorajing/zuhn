@@ -47,7 +47,6 @@ stance: >-
   experimentation pitfalls that slow them down, and the solution is process
   infrastructure rather than team-level coaching
 related:
-  - INS-260403-3A7A
   - INS-260403-F75F
   - PRI-260406-6122
   - INS-260403-E3C4

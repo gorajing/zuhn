@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260327-D24A
   - INS-260327-AC8E
+  - INS-260626-D9EA
   - INS-260405-C592
   - INS-260330-CA88
-  - INS-260325-C2BD
 evidence:
   - id: INS-260330-CA88
     type: CHALLENGES

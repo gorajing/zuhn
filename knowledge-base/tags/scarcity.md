@@ -13,7 +13,7 @@
 - `INS-260409-5FE5` Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.
 - `INS-260409-526E` Real capacity limits are hidden scarcity assets — make them visible instead of fabricating artificial urgency.
 - `INS-260409-7171` Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
+- `INS-260412-2131` Madoff's status as NASDAQ chairman and invitation-only access made investors skip basic due diligence.
 - `INS-260403-3059` Constraints force founders to prioritize ruthlessly, while excess capital dulls urgency and enables avoidance of hard product decisions.
 - `INS-260403-B710` Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
-- `INS-260412-2131` Madoff's status as NASDAQ chairman and invitation-only access made investors skip basic due diligence.

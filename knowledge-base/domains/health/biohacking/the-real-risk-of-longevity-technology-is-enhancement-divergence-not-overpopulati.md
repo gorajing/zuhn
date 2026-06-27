@@ -63,10 +63,10 @@ stance: >-
   different capabilities and values.
 related:
   - INS-260327-C69F
+  - INS-260626-D9EA
   - INS-260325-DFA5
   - INS-260325-568A
   - INS-260501-BBB7
-  - INS-260323-7212
   - INS-260402-FF4F
 evidence:
   - id: INS-260327-C69F

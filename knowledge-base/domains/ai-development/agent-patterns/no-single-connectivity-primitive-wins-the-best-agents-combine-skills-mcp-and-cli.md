@@ -62,7 +62,6 @@ stance: >-
   on any single connectivity primitive.
 related:
   - INS-260329-26BB
-  - INS-260403-49DF
   - INS-260403-0637
   - INS-260501-F258
   - INS-260514-EA9E
@@ -71,6 +70,7 @@ related:
   - INS-260605-2D9B
   - INS-260625-9F65
   - INS-260626-13FB
+  - INS-260501-91C2
 ---
 Soria Parra rejects the framing that there is one connectivity primitive to rule them all. The 2026 connectivity stack has three legs with distinct jobs: skills are reusable domain knowledge captured in a simple file; CLIs are ideal when you have a sandbox/code-execution environment and the tool (Git, GitHub) is already in pretraining, because the model can discover capabilities itself; MCP earns its place when you need rich semantics, a UI for long-running tasks, resources, platform independence, no available sandbox, or 'boring but important enterprise stuff' like authorization, governance, and policies.
 

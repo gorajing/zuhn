@@ -28,7 +28,7 @@
 - `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260410-E2BC` Epic's biggest competitive advantage is that every application—clinical, billing, scheduling, patient portal—pulls from one Chronicles database, while rivals like Cerner are 24+ companies glued together through M&A.
-- `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
 - `INS-260530-A86A` Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
 - `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
+- `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
 - `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.

@@ -17,5 +17,5 @@
 - `INS-260625-8624` The diffusion model is 'dumb' and renders instructions literally; a larger language-model prompt rewriter supplies the intelligence by expanding terse user intent into exhaustive descriptions.
 - `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.
 - `INS-260625-6E92` Model-based agents spike their error signal the moment the world violates their expectations — a self-awareness of being wrong that model-free policies don't natively provide.
-- `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
+- `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.

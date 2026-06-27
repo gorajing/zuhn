@@ -5,6 +5,7 @@
 - `INS-260320-E683` Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260403-A2E9` As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.
+- `INS-260626-AC56` AI's collaboration value can come from spanning expertise boundaries, not just making an existing specialist faster.
 - `INS-260325-3EF4` Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
 - `INS-260325-FA86` Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
 - `INS-260505-E671` AI proves; mathematicians select problems, define new objects, and verify the work fits within Mathlib's coverage.

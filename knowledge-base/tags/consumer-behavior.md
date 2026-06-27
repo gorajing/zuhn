@@ -33,12 +33,12 @@
 - `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260404-4BF9` Applying professional product-thinking frameworks to personal purchases yields uniquely high-quality evaluations.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
-- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
+- `INS-260403-74DB` The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
 - `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
 - `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr

@@ -21,5 +21,5 @@
 - `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
-- `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-2F13` You cannot predict future knowledge — if you could, you'd already have it — so linear extrapolations of doom ignore the most powerful variable: human creativity.
+- `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.

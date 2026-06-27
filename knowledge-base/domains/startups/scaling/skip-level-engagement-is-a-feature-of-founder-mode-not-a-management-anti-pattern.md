@@ -48,7 +48,6 @@ stance: >-
   Skip-level meetings and cross-hierarchy engagement should be the norm in
   founder-led companies rather than a named exception
 related:
-  - INS-260403-8B5A
   - PRI-260403-2E59
   - INS-260327-2A73
   - INS-260405-B4D2

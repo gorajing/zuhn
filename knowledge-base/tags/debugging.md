@@ -16,20 +16,20 @@
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
-- `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
+- `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
 - `INS-260410-8092` Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260410-FD24` Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
 - `INS-260330-2154` When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
 - `INS-260625-43B3` He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
-- `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
 - `INS-260410-F08E` BatchNorm layers harbor hidden state (running stats, train/eval mode, cross-batch coupling) that silently corrupts outputs when any one of them is misconfigured, making them a top source of subtle deep-learning bugs.
+- `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
+- `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
 - `INS-260625-FC2D` Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - `INS-260505-1606` Models on biological data quietly learn the biases of the experiments — interpretability catches that.
 - `INS-260410-0923` When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
-- `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
 - `INS-260410-5F60` Autograd frameworks don't make neural nets 'just work' — gradient-level bugs like dead neurons, saturated nonlinearities, and miscomputed loss-vs-gradient clipping require understanding backprop internals to diagnose.
 - `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting).
 - `INS-260410-C2E6` Compute the expected initial loss (e.g., -log(1/n_classes)) and compare against your network's actual iteration-zero loss — a mismatch reveals an initialization bug worth fixing before anything else.

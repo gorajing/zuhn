@@ -9,6 +9,7 @@
 - `INS-260605-828D` FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
 - `INS-260403-EE02` Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260405-CD42` Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
+- `INS-260626-374E` AI users in the P&G experiment performed better and felt better, but were less confident their work was top-tier.
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260403-2A0F` Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
 - `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
@@ -35,9 +36,9 @@
 - `INS-260514-6DB9` Skeptics convert when given (1) a reason to believe (concrete published demo) and (2) a 30-60 minute workshop from someone fluent in BOTH AI tools and the user's domain — generic 'AI workshops' don't work.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
+- `INS-260327-540D` Sequoia frames the enterprise AI opportunity as a spectrum from bottoms-up tools to top-down solutions — and solution companies like Harvey, Sierra, and Pace are fundamentally selling trust that AI will work for the customer's specific needs.
 - `INS-260514-93E1` Only 16% of scientists and 18% of biologists currently use AI in their research workflows. The 'AI for science revolution' is still pre-adoption-curve.
 - `INS-260505-0F0B` AI's transformation of biology, physics, climate, and math are different in instructive ways — comparison is the unit of insight.
-- `INS-260327-540D` Sequoia frames the enterprise AI opportunity as a spectrum from bottoms-up tools to top-down solutions — and solution companies like Harvey, Sierra, and Pace are fundamentally selling trust that AI will work for the customer's specific needs.
 - `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
 - `INS-260403-A46C` AI companies undermine their own adoption by leading with economic obsolescence messaging instead of empowerment narratives.
 - `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
@@ -48,8 +49,8 @@
 - `INS-260327-560D` AI newcomers with no preconceptions about limitations outperform experienced users anchored to last year's capabilities.
 - `INS-260403-4A42` Top-performing 2025 revenue teams achieved ~77% higher revenue per rep through deep AI integration and workflow redesign rather than headcount expansion.
 - `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
-- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260626-3DE4` The AI Consult trial supports a narrower commercialization claim: safe workflow support with documentation and cost signals, not proven patient-outcome transformation.
+- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260619-8660` The frontier is moving fast enough that credible AI investing requires personal tool use, not just portfolio updates.
-- `INS-260327-968C` Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
 - `INS-260403-EC3D` Screen-sharing AI workflows in meetings and Slack creates viral adoption through social proof more effectively than formal training.
+- `INS-260327-968C` Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.

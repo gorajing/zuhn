@@ -3,8 +3,8 @@
 - `INS-260403-D746` Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
 - `INS-260329-1F4D` Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
 - `INS-260326-E0E1` Deep work and genuine leadership both drain the same finite resource — you cannot maximize both on the same day.
-- `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260405-A30D` Five consecutive days of immersive practice with a focused cohort produces qualitatively different skill development than the same hours distributed over months.
+- `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260404-B7E4` You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 - `INS-260403-FA30` Coders knocked out of flow need 15+ minutes to return — if they can return at all.

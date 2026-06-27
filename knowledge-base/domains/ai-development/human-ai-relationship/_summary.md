@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 110 insights
+> 112 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -8,6 +8,8 @@
 - `INS-260424-1E10` [high] Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.'
 - `INS-260626-8769` [high] Warmth plus a false specific (a body it doesn't have, a date that's booked) doesn't just dip trust — it inverts it the moment the user realizes the relationship was performed.
 - `INS-260329-560D` [high] AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
+- `INS-260626-30E4` [high] AI-augmented teams produced far more top-decile ideas in a P&G field experiment, challenging the default claim that human-AI combinations usually underperform the best partner.
+- `INS-260626-AC56` [high] AI's collaboration value can come from spanning expertise boundaries, not just making an existing specialist faster.
 - `INS-260323-64A4` [high] Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
 - `INS-260322-D2E9` [high] Neither white-collar nor blue-collar jobs are safe from AI — the only lasting career security comes from being the kind of person others actively want to collaborate with.
 - `INS-260326-E7BE` [high] Humans cannot process raw probabilistic truth — AI interfaces that present unfiltered reality will be rejected, not because users are stupid but because perception is architecturally a survival renderer.

@@ -33,8 +33,8 @@
 - `INS-260404-0CA7` Vertical SaaS that bundles financial and operational workflows becomes nearly impossible to rip out.
 - `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
-- `INS-260625-1651` Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
 - `INS-260405-95AE` RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
+- `INS-260625-1651` Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260412-8A13` Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
 - `INS-260412-4127` Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.

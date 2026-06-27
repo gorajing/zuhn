@@ -1,8 +1,8 @@
 # Tag: goodharts-law
 
 - `INS-260322-A36C` When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
-- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
 - `INS-260403-949E` Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
+- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
 - `INS-260501-033E` When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap.
 - `INS-260626-EAD3` Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago.
 - `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.

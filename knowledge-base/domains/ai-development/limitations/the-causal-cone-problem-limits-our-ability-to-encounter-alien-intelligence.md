@@ -50,16 +50,16 @@ stance: >-
   contact practically impossible, requiring us to create alien intelligence in
   labs instead.
 related:
-  - INS-260325-2C31
   - INS-260325-11A6
   - INS-260325-23E0
   - INS-260325-5ACA
   - INS-260325-76E6
   - INS-260325-02F2
-  - INS-260323-1EEA
   - PRI-260328-9FB6
+  - INS-260325-2C31
   - INS-260330-716C
   - INS-260325-5635
+  - INS-260330-A516
 evidence:
   - id: INS-260325-696D
     type: EXTENDS

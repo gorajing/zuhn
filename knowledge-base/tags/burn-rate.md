@@ -13,6 +13,6 @@
 - `INS-260403-09E8` The real cost of a hire includes payroll tax, benefits, dental, vision, bonuses, and annual raises — often 20-40% above base salary.
 - `INS-260403-7692` People costs are 60-80% of early-stage burn, making headcount planning the single most important financial lever founders have.
 - `INS-260403-5F3E` Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
+- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
 - `INS-260403-A538` Pushing a Head of Sales hire from Q1 to Q2 extended runway by 3 months, creating room to raise on better terms.
 - `INS-260403-BF1F` Plugging real metrics into an MRR model before hiring prevents premature scaling that burns runway.
-- `INS-260330-86CD` A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.

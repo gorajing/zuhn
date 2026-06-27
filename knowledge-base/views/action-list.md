@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 5928 actionable insights
+Generated on 2026-06-27 | 5929 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -897,6 +897,7 @@ Generated on 2026-06-27 | 5928 actionable insights
 - [INS-260605-A9B4] A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
 - [INS-260605-3AAF] Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - [INS-260626-7A54] Business context, political dynamics, product vision, and org history decide the right thing to build — and none of it is in the repo for an agent to read.
+- [INS-260626-AC56] AI's collaboration value can come from spanning expertise boundaries, not just making an existing specialist faster.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.

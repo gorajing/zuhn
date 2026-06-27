@@ -25,14 +25,14 @@
 - `INS-260330-D661` Toussaint made conquered French, Spanish, and British officers into his own generals because he recognized slave culture alone couldn't produce the world-class country he envisioned.
 - `INS-260403-8A8B` Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - `INS-260412-032F` Apple acquired FingerWorks not just for multi-touch patents but primarily to get Wayne Westerman's team, who became core to the iPhone's touch technology.
+- `INS-260405-225B` SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260322-7F88` At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
-- `INS-260405-225B` SF will remain viable but become 'establishment' — the new innovation clusters will be distributed, crypto-friendly, and globally distributed rather than concentrated in a single American city.
 - `INS-260409-065B` Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
+- `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.
 - `INS-260330-593E` Nerds who can't accept their limitations either become crackpots (denial) or self-hating anti-nerds (reaction formation), while healthy acceptance enables actual productive work.
 - `INS-260326-2259` Duckworth's data shows grit is unrelated or inversely related to talent — the most gifted people often lack the perseverance to realize their potential.
-- `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.

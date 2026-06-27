@@ -11,8 +11,8 @@
 - `INS-260410-831F` The Inquisition ignored Voltaire and the Encyclopédie to throw the book at Jansenist treatises about the Trinity — and Palmer says this pattern holds in every era she studies.
 - `INS-260410-2623` In censored societies, the binding constraint isn't private information — it's the inability to coordinate on what 'everyone knows everyone knows.'
 
-- `INS-260402-476E` Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260403-D609` Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
+- `INS-260402-476E` Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260325-36F0` From Jesus to Socrates to Barbra Streisand, suppressing ideas consistently amplifies them — people are more interested in and more likely to believe prohibited content.
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.

@@ -10,15 +10,15 @@
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
 - `INS-260323-9B68` Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
-- `INS-260327-CA82` Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
-- `INS-260404-4666` Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
-- `INS-260410-90BD` Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260330-BBDA` Modern conservative parties mirror Bolshevism's structure: declaring all institutions rotten and demanding total destruction rather than incremental reform.
 - `INS-260410-1601` Rome sustained a society where 10-20% were enslaved without racialized ideology or significant abolitionist pushback, using coercion, manumission incentives, and household embedding instead.
 - `INS-260330-1D61` The myth that pre-Columbus Europeans believed in a flat Earth was a modern-era insult repeated until it became accepted fact.
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
-- `INS-260410-E6BF` Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.
-- `INS-260409-BB40` Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
+- `INS-260327-CA82` Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
+- `INS-260404-4666` Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
+- `INS-260410-90BD` Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
 - `INS-260403-DC52` Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
+- `INS-260410-E6BF` Harper's counterfactual: absent the Justinianic plague and volcanic cold snap, Justinian's Rome was on a trajectory to reconsolidate a pan-Mediterranean empire.
+- `INS-260409-BB40` Douglas's saltative branching model revealed that extinct evolutionary branches leave mathematical footprints on surviving lineages — the dead-end paths still shape what survived, even when invisible to direct observation.
 - `INS-260325-EC7A` Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.

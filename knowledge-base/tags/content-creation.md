@@ -19,7 +19,7 @@
 - `INS-260327-98F7` Ship, post, get feedback—that learning loop beats any formal education for content and startup skills.
 - `INS-260322-FFF6` The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260327-CA1C` Verticalized content creation—being THE authority in one domain—is as viable as verticalized SaaS.
-- `INS-260327-4669` Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
 - `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
+- `INS-260327-4669` Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
 - `INS-260404-D45D` Introverts should leverage written content as their primary vehicle for demonstrating expertise rather than competing in verbal-dominant settings.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
