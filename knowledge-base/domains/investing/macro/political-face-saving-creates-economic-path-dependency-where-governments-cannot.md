@@ -58,5 +58,6 @@ related:
   - INS-260410-19E3
   - INS-260412-839B
   - INS-260327-3A81
+  - INS-260627-E0AE
 ---
 China's zero-COVID policy illustrates how political rigidity transforms recoverable economic problems into structural crises. Even when the policy clearly damaged the economy—20% youth unemployment, manufacturing exodus to India, supply chain disruption—reversal was politically impossible because it would signal failure ahead of Xi Jinping's 20th Party Congress. Fudan University estimated 1M+ deaths if restrictions lifted, giving the regime a humanitarian justification layered on top of the political one. This pattern generalizes beyond China: any system where leaders cannot admit error without existential consequences will double down on failing strategies. For investors, the signal is that policy reversals in face-saving cultures lag rational timing by years, meaning the economic damage compounds far beyond what fundamentals would suggest. The zero-COVID case also shows how a policy that was initially successful (low death toll) becomes a trap precisely because early success raises the political cost of later abandonment.

@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Autonomous workflows become more useful when objectives match the field, not
@@ -51,5 +51,6 @@ related:
   - INS-260410-0E26
   - PRI-260403-7585
   - PRI-260413-8B2F
+  - INS-260627-FC32
 ---
 The platform ran three campaigns: one for branched aldehyde, one for linear aldehyde, and one for catalysts that switch product preference under different conditions. That framing reflects real chemical-process needs where activity, selectivity, flexibility, and scale matter simultaneously. A single success metric would have hidden the most interesting discovery: condition-programmable selectivity inversion.

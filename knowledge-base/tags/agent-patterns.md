@@ -18,6 +18,7 @@
 - `INS-260627-0503` The agent often knew the physics but needed humans to recognize when an optimization framing had saturated.
 - `INS-260627-5004` Reframe 'overfitting to your data' as building expertise — you want an agent that is specialized to your repo, not one so generalized it is mediocre everywhere.
 - `INS-260625-A668` Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
+- `INS-260627-E0AE` Look at the policy, not only the path it happened to take.
 - `INS-260626-43C9` Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
 - `INS-260626-78E6` CLI access, keyword tool-search, and code mode all solve the same problem — never load all tools at once — so choose by constraints, not as rival camps.
 - `INS-260627-DF4B` Treat third-party tools as ordinary callable functions and run the predictable, always-on parts of a workflow (e.g. login) outside the agent, only handing control to the agent once the deterministic setup is done.

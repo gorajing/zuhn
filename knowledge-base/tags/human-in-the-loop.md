@@ -9,7 +9,6 @@
 - `INS-260605-B610` Let agents fully execute reversible work and hand back anything irreversible — Parsons' rule is 'is this reversible without embarrassment to me?'
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
 - `INS-260525-4D80` Korean engineer: 'I need someone who can play the role of an engineering manager' — not because the agent is stupid, but because intent has to be translated into what the agent should build.
-- `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260626-83D7` Many business processes have the shape event -> research -> human decision; shipping an agent that only does the research phase saves enormous time without changing the process or raising the risk profile.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
@@ -36,6 +35,7 @@
 - `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260626-2D64` Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
+- `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260625-AEE0` AI accelerates the discovery loop, but the lab still has to measure, validate, and scale.
 - `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260627-8BD6` Write agents against a logical process that the runtime maps onto physical processes — so a human-in-the-loop wait of days costs nothing and resumes intact.
@@ -54,8 +54,8 @@
 - `INS-260605-A9B4` A pre-merge queue reconciles parallel changes for serializability and surfaces grouped intent-and-result bundles (a demo video, a security-LLM report) for human approval instead of raw diffs.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - `INS-260627-8EE7` Once the AI writes back, you're observing a human-AI hybrid, not yourself — and the feedback loop should be mediated by you, not automated.
-- `INS-260626-A499` Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool.
 - `INS-260626-0FA9` AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
+- `INS-260626-A499` Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool.
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.
 - `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
 - `INS-260627-1B54` MCP exposes an asymmetry — the user approves a one-line tool summary while the LLM consumes the full description, which can hide exfiltration instructions the user never sees.

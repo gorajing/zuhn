@@ -64,7 +64,6 @@ stance: >-
   Agent RL and eval workloads are so spiky that follow-the-sun capacity planning
   fails and providers must reserve for peak via customer commits.
 related:
-  - INS-260410-AF66
   - INS-260625-C69F
   - INS-260605-2186
   - INS-260626-B149

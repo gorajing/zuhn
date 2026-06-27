@@ -10,18 +10,18 @@
 - `INS-260403-99DE` Stablecoins pegged to USD represent over 90% of the $135B stablecoin market cap, making digital dollars the dominant crypto use case.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
+- `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
+- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260625-86CA` When customers phone you demanding access right now and follow up the next day if you haven't delivered, that pull — not polite praise — is the unmistakable PMF signal.
 - `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
-- `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
-- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
 - `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
-- `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260403-ADF9` The most iconic startups found their winning product by observing what users actually did inside a failing product, not by executing their original plan.
 - `INS-260404-8394` Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260327-1996` Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
+- `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
 - `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
 - `INS-260403-DDC9` When customers churn reveals whether you have an activation problem or an evolution problem.
 - `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
@@ -29,11 +29,6 @@
 - `INS-260404-B893` Growth teams are multipliers of existing traction, not creators of it — fix the product before hiring growth.
 - `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
-- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
-- `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
-- `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
-- `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
-- `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
@@ -41,6 +36,11 @@
 - `INS-260329-FCC6` Sell to people who desperately need what you offer rather than trying to convince people they need it.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
+- `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
+- `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
+- `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
+- `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
+- `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - `INS-260403-36C6` Treat every hire as a last resort after exhausting automation, templatization, and temporary outsourcing.
 - `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
@@ -53,6 +53,12 @@
 - `INS-260403-EFAC` Demonstrating pain-product fit to investors yields dramatically higher close rates and better terms.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
+- `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
+- `INS-260625-AC58` When customers will pay you to figure out a problem before you've written any software — and later chase you down through their own procurement — you've found genuine pull; tire-kickers who are merely interested have not.
+- `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
+- `INS-260405-C5B4` GOAT's $4B valuation traces back to authenticating sneakers, not selling them.
+- `INS-260625-088A` Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
+- `INS-260405-867E` There is no single path to PMF — lessons from 20 founders reveal irreducible diversity in how it is found.
 - `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
 - `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
@@ -62,12 +68,6 @@
 - `INS-260323-8AA1` Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
 - `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
-- `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
-- `INS-260625-AC58` When customers will pay you to figure out a problem before you've written any software — and later chase you down through their own procurement — you've found genuine pull; tire-kickers who are merely interested have not.
-- `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
-- `INS-260405-C5B4` GOAT's $4B valuation traces back to authenticating sneakers, not selling them.
-- `INS-260625-088A` Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
-- `INS-260405-867E` There is no single path to PMF — lessons from 20 founders reveal irreducible diversity in how it is found.
 - `INS-260403-4388` Andrew Chen's data shows churn is almost impossible to fix retroactively, making early retention the critical PMF signal.
 - `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
 - `INS-260403-3A44` Publicly excluding customer segments that don't fit your product sharpens value perception for the customers who actually matter.

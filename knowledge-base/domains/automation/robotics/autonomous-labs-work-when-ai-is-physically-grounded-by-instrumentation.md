@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: 'Scientific autonomy is a cyber-physical stack, not just a model call.'
   standard: >-
@@ -50,7 +50,7 @@ related:
   - INS-260605-DC65
   - INS-260605-BA4B
   - INS-260501-E377
+  - INS-260627-01E1
   - INS-260404-292E
-  - INS-260524-2C7C
 ---
 The system could prepare catalysts, run high-pressure gas-liquid reactions, analyze products, and choose the next experiments. Each part matters: without reactors and analysis the optimizer has no trustworthy observations; without the optimizer the robot is just scripted automation. The bottleneck is the integration surface between physical execution and adaptive decision-making.

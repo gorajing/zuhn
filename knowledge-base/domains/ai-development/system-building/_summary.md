@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 320 insights
+> 321 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -227,6 +227,7 @@
 - `INS-260321-167A` [high] Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
 - `INS-260626-F3AC` [high] If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 - `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
+- `INS-260627-B093` [high] Reward peaks and deployment success peaks are not the same surface.
 - `INS-260409-4CE8` [high] Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260501-F258` [high] Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license.
 - `INS-260626-E255` [high] The paper finds that post-update behavior depends primarily on whether the memory pipeline preserves temporally valid evidence before generation.

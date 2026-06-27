@@ -1,6 +1,6 @@
 # Topic: robotics
 
-> 12 insights
+> 13 insights
 
 - `INS-260626-56AC` [high] An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo.
 - `INS-260625-1654` [high] Scientific autonomy is a cyber-physical stack, not just a model call.
@@ -14,3 +14,4 @@
 - `INS-260625-017C` [medium] Because DMPC keeps the action proposal and the dynamics model separate, you can re-adapt only the dynamics on a broken-ankle robot and recover performance the monolithic policy can't.
 - `INS-260603-C102` [medium] Ichi (Meta): collecting real-world data is hard and limited, so the path is to generate visual worlds (3D-mesh environments via tools like a Spoke-style generator, Gaussian-splat captures from a phone walkthrough, or video-based world models) and use them as sandboxes to train robots at unlimited scale.
 - `INS-260412-1A10` [medium] Stanford's Ocean One and Boston Dynamics' SpotMini show that the sweet spot for unstructured environments is human intent plus robot coordination, connected by tactile feedback.
+- `INS-260627-8738` [medium] A well-shaped task field can coordinate simple agents without messaging.

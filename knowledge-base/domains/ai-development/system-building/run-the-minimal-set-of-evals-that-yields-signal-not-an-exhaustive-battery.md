@@ -58,7 +58,6 @@ stance: >-
   cost.
 related:
   - INS-260322-D6D7
-  - INS-260322-D1AB
   - INS-260403-A7D0
   - INS-260403-A7FD
   - INS-260402-D534
@@ -67,6 +66,7 @@ related:
   - INS-260605-EF23
   - INS-260605-2186
   - INS-260625-C08B
+  - INS-260625-0E60
 ---
 Ngo explicitly pushes back on the instinct to evaluate everything: 'just because you can eval something doesn't mean you always should. It's not this exhaustive thing.' Every eval — especially LLM-as-judge evals — has a recurring compute cost that scales with traffic, so an exhaustive eval suite becomes a meaningful line item and a latency tax.
 

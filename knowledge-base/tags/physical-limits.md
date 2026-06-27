@@ -1,5 +1,6 @@
 # Tag: physical-limits
 
+- `INS-260627-FEBB` The strongest eval result is sometimes a map of where success is impossible.
 - `INS-260412-3CF8` Below ~5nm, electrons tunnel through transistor gates, making classical binary switching unreliable.
 - `INS-260501-D18A` Even with infinite optimization, latency is bounded below by total params / memory bandwidth — that's the hardware floor.
 - `INS-260325-3D31` Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.

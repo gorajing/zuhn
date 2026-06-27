@@ -1,8 +1,8 @@
 # Tag: tools
 
 - `INS-260323-05B5` AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
-- `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
 - `INS-260627-CC45` Build one agentic loop that dispatches tool calls by name through a registry, so changing tools never means rewriting orchestration.
+- `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260410-AB4A` Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
 - `INS-260605-C048` Put reusable intelligence into tools, middleware, and memory before polishing prompts.

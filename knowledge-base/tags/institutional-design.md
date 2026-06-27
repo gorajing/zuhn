@@ -7,8 +7,8 @@
 - `INS-260327-85DA` Evolution wired us for short-term thinking, and then we built institutions (elections, quarterly earnings, news cycles) that amplify exactly this bias at civilizational scale.
 - `INS-260402-B065` Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260403-0800` Institutional procedures that create the threat they respond to form closed loops where escalation always appears internally justified.
-- `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
+- `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.
 - `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.

@@ -48,9 +48,9 @@ stance: >-
   AGENTS.md files become production review configuration.
 related:
   - INS-260404-74F4
+  - INS-260627-E0AE
   - INS-260514-283E
   - INS-260404-B208
   - INS-260501-AE73
-  - INS-260409-7C62
 ---
 The new primitive is that a hosted code-review agent consumes repository-level instructions automatically. For Zuhn/AgentRun, this means root guidance should be concise, enforceable, and periodically audited against actual repo practice. If AGENTS.md drifts, Copilot will amplify that drift in review comments, just as a stale CI config would.

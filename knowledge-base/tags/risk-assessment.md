@@ -12,8 +12,6 @@
 - `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
 - `INS-260412-F681` International condemnation of Bukele's methods reflects a disconnect between observers who've never lived under daily threat of gang murder and citizens who have, producing systematically different risk calculations.
 - `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
-- `INS-260412-DDEF` Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
-- `INS-260330-4B4F` Medical experts place PFAS in the lowest tier of a risk reduction hierarchy — below smoking cessation, exercise, diet, sleep, regular checkups, and cholesterol management.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260412-A944` When threats escalate non-linearly, the early months feel barely noticeable while the final phase overwhelms all capacity to respond — and the intervention window closes during the comfortable phase.
@@ -21,6 +19,8 @@
 - `INS-260412-7C35` Charlie Javice's decade-long pattern shows how unchallenged small lies (fake nonprofit metrics, fabricated scholarship rejections) trained her to attempt a $175M fraud against JP Morgan.
 - `INS-260403-225B` A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260403-E554` Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
+- `INS-260412-DDEF` Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
+- `INS-260330-4B4F` Medical experts place PFAS in the lowest tier of a risk reduction hierarchy — below smoking cessation, exercise, diet, sleep, regular checkups, and cholesterol management.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
 - `INS-260412-1428` The gap between 'destroy every city' and 'destroy the planet' spans several orders of magnitude, but humans compress this range into a single category of 'apocalyptic.'
 - `INS-260409-16CF` To make the 1/8 gram antimatter bomb from 'Angels and Demons,' CERN would need to run for longer than the age of the universe.

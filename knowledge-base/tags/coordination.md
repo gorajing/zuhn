@@ -8,6 +8,7 @@
 - `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260626-4393` A shared workspace where humans and agents announce 'I'm working on this file' lets the next actor avoid conflicts without anyone issuing an explicit handoff.
 - `INS-260412-B252` Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
+- `INS-260627-8738` A well-shaped task field can coordinate simple agents without messaging.
 - `INS-260330-B711` Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
 - `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
 - `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
@@ -20,8 +21,8 @@
 - `INS-260330-CA88` Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260412-891B` Riot police manufacture perceived power through dehumanizing uniforms and synchronized movement, making both themselves and opponents believe the police are stronger than they are.
 - `INS-260330-BC8E` Time zones replaced locally accurate solar time with globally coordinated clock time because coordination across distances matters more than precision at a point.
-- `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - `INS-260330-DA4A` Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
+- `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - `INS-260412-5568` Army ants defeat individually stronger wasps and other colonies by acting as a coordinated social unit with overwhelming numbers.
 - `INS-260410-0826` Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
 - `INS-260404-CF81` Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.

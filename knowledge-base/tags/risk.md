@@ -8,9 +8,9 @@
 - `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260405-D9DF` AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
 - `INS-260325-51E6` When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
+- `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260403-9D7C` Most equity tokens today provide financial exposure via SPV structures rather than direct share ownership, creating ambiguity around liquidation priority, voting rights, and conversion terms.
 - `INS-260405-C987` Speculators generate corposlop; info buyers face a public-goods problem; only hedgers provide a structurally sound, recurring source of market liquidity
-- `INS-260405-C88A` Agricultural consolidation reshapes who bears risk and who captures value faster than any technology innovation cycle.
 - `INS-260626-5D91` Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul.
 - `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260403-248E` Brex's early investors celebrated while late-stage investors lost money on the same $5.15B exit, proving entry price matters more than company trajectory.
@@ -26,8 +26,8 @@
 - `INS-260403-B6C6` UnitedHealth and Epic solved data fragmentation by owning more of the system, but the Change Healthcare breach showed this creates catastrophic concentration risk.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260328-02A0` Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260325-F9CF` 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260405-F1A2` Business plans presuppose knowledge that doesn't yet exist in early-stage innovation, making them a liability rather than a tool.
 - `INS-260403-B02A` Structure pitch decks around two slides: risks retired since last round, and risks this capital will retire next.
 - `INS-260403-A486` Track Risk Burn Efficiency by measuring how much validated learning each dollar of spend produces, not just how long runway lasts.

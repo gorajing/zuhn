@@ -3,6 +3,8 @@
 - `INS-260323-7A50` Just as ChatGPT needed a language model, robots need a world foundation model that understands gravity, friction, inertia, and cause-and-effect — trained in physics-grounded simulations.
 - `INS-260327-6E57` Video diffusion models fine-tuned on real robot data can simulate counterfactual physical scenarios, scaling robotics training data exponentially without teleoperation.
 - `INS-260405-1C8D` Meta's TRIBE v2 predicts fMRI brain responses from video, audio, and language—enabling researchers to screen hypotheses in software before spending scarce scanner time on physical experiments.
+- `INS-260627-C757` The paper's credibility comes partly from naming the physics it has not solved yet.
+- `INS-260627-01E1` Microrobot autonomy improves when RL is trained against the deployment physics, not toy channels.
 - `INS-260627-25FC` The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution.
 - `INS-260603-C102` Ichi (Meta): collecting real-world data is hard and limited, so the path is to generate visual worlds (3D-mesh environments via tools like a Spoke-style generator, Gaussian-splat captures from a phone walkthrough, or video-based world models) and use them as sandboxes to train robots at unlimited scale.
 - `INS-260403-CBB2` The inner voice handles working memory, simulation, self-control, and identity construction — chatter is when this system malfunctions.

@@ -8,14 +8,14 @@
 - `INS-260330-B490` Removing the Sinaloa cartel's leadership shattered it into a dozen warring factions and empowered the far more violent Jalisco New Generation Cartel.
 - `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
+- `INS-260412-2117` Increased US airport security after 9/11 drove a 6% decline in air travel, causing 500+ additional driving deaths in 2002 alone from passengers choosing cars over planes.
+- `INS-260410-90BD` Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260404-DBA8` Both leftists and rightists got the multipolar world they wanted but not the version they expected.
 - `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
 - `INS-260330-F6DB` Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
 - `INS-260403-25F3` Registering as independent to protest extremism removes moderates from primaries, making nominees even more extreme — a classic case where the intuitive protest action worsens the problem.
 - `INS-260405-02EE` Plants evolved RuBisCo in a low-oxygen world, then their own photosynthesis filled the atmosphere with O2 — the enzyme they were locked into now malfunctions half the time because of the environment they created.
 - `INS-260403-B805` SF's progressive tolerance of crime and drug markets created an epidemic that devastated poor communities most heavily.
-- `INS-260412-2117` Increased US airport security after 9/11 drove a 6% decline in air travel, causing 500+ additional driving deaths in 2002 alone from passengers choosing cars over planes.
-- `INS-260410-90BD` Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.
 - `INS-260412-D256` Tor was built by US Naval Research for intelligence work but became the backbone of anti-government activity online.
 - `INS-260405-7E85` RuBisCo evolved to fix CO2 in a low-oxygen world, then photosynthesis flooded the atmosphere with oxygen—causing RuBisCo to mistake oxygen for CO2 roughly half the time, generating toxic waste that plants must now continuously detoxify.
 - `INS-260403-202E` Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.

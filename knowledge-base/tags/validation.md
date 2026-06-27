@@ -28,10 +28,10 @@
 - `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - `INS-260409-40AF` A theory validated in one regime cannot be assumed to hold in a new one — each new regime demands fresh measurement.
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
-- `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
-- `INS-260409-78E1` Eight interviews is a feature, not a bug — convergence is your signal to stop talking and start shipping.
 - `INS-260404-CD1A` Stealth startups sacrifice the most important startup input — user feedback — to protect against a threat that may never materialize.
 - `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
+- `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
+- `INS-260409-78E1` Eight interviews is a feature, not a bug — convergence is your signal to stop talking and start shipping.
 - `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
@@ -53,9 +53,9 @@
 - `INS-260403-6F75` Founders who equate raising money with product validation often build investor-pleasing businesses instead of customer-pleasing ones.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
-- `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
+- `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
 - `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
 - `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.

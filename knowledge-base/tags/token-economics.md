@@ -6,8 +6,8 @@
 - `INS-260625-78EC` Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
 - `INS-260603-50B1` Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
 - `INS-260605-5013` Embeddings front-load the cost of understanding a codebase once, replacing the repeated grep-read-grep compute that every agent session otherwise pays.
-- `INS-260626-C380` More available inference budget is not the same as models knowing how to spend it productively.
 - `INS-260323-7625` While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
+- `INS-260626-C380` More available inference budget is not the same as models knowing how to spend it productively.
 - `INS-260409-B15B` MemPalace wake-up (~170 tokens/session) plus ~5 searches/session costs about $10/year; the equivalent LLM-summary approach burns ~$507/year — a 50x cost asymmetry that makes personal AI memory a near-commodity.
 - `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
 - `INS-260625-96AA` Embeddings are cached compute — a one-time indexing cost that lets agents retrieve understanding cheaply at runtime, versus grep-read-assess-repeat loops that re-derive the same understanding (and re-burn the same tokens) every session.

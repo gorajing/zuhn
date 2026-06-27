@@ -1,6 +1,6 @@
 # Topic: biotechnology
 
-> 29 insights
+> 31 insights
 
 - `INS-260625-0F13` [high] The 83-of-213 validation hit rate is important because the source also reports structural dissimilarity, MDR potency, selectivity, and low resistance frequency for the lead compounds.
 - `INS-260505-D52C` [high] AI-generated phage cocktail beats natural phage cocktail at overcoming bacterial resistance.
@@ -14,6 +14,7 @@
 - `INS-260409-F9D5` [high] The bottleneck is integrating disparate fields, not advancing any one of them.
 - `INS-260505-1165` [high] Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text.
 - `INS-260505-50AC` [high] A variant 700kb from a gene can dramatically change that gene's activity — interpretation models need that range built in.
+- `INS-260627-01E1` [high] Microrobot autonomy improves when RL is trained against the deployment physics, not toy channels.
 - `INS-260505-45B7` [high] Variants causing disease usually live in the ~150x more numerous regulatory elements (3.5-4M) than in genes (20K).
 - `INS-260410-CEAA` [high] Height involves ~10,000 genes but one protein (growth hormone) produces extreme variation clinically — most complex traits have analogous single-lever overrides.
 - `INS-260412-16CE` [high] The Da Vinci system eliminates human tremor and scales movements down to sub-millimeter precision, but critics note it limits the creative freedom surgeons have with direct manual control.
@@ -26,6 +27,7 @@
 - `INS-260409-BDAC` [medium] Ovarian cancer is a fit-first indication: invasive implantation is already acceptable and local delivery has clear advantages over systemic.
 - `INS-260409-CFD0` [medium] Patient-derived iPSC organoids let you run a personalized phase-1 trial in a dish before taking the drug yourself.
 - `INS-260626-C3A9` [medium] Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects.
+- `INS-260627-FC32` [medium] Changing the field can change the task without retraining the controller.
 - `INS-260626-D553` [medium] A model trained on a data-rich organism can help annotate data-poor crops if it learns conserved structure.
 - `INS-260410-69C2` [medium] Evolution already solved body-wide targeted delivery — it's called the immune system; viral vectors and LNPs are interim workarounds that will lose to engineered T/B cells that live inside the patient for years and release medicines only when local conditions demand it.
 - `INS-260405-E8D8` [medium] Voice markers for anxiety, depression, and pain need fusion with other biometric signals and longitudinal context to avoid dangerous single-point-in-time misinterpretation.

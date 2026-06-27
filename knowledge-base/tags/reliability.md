@@ -51,6 +51,7 @@
 - `INS-260329-F887` Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
 - `INS-260605-C436` Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - `INS-260605-D0A0` Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win.
+- `INS-260627-B093` Reward peaks and deployment success peaks are not the same surface.
 - `INS-260624-5ACA` Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them.
 - `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
 - `INS-260412-0F9A` Air traffic controllers spend entire careers in a single sector group, building deep spatial knowledge of their specific airspace geometry that enables safe split-second decisions.

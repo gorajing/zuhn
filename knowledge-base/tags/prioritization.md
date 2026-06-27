@@ -28,12 +28,12 @@
 - `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
 - `INS-260403-C283` Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
-- `INS-260322-EE1B` There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
-- `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
-- `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260404-16E1` Mention your business model to show you've thought about it, but don't elaborate—smart investors expect it to be wrong at this stage.
 - `INS-260405-092A` Smart investors expect your early business model to be wrong, so dwelling on it wastes time and can actively damage your pitch.
+- `INS-260322-EE1B` There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
+- `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
+- `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260514-3B5E` When juggling too many hats, deliberately drop the SAME ball every week — oscillating which thing breaks makes the priority invisible to leadership.
 - `INS-260403-8DA1` Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
 - `INS-260403-6C07` Solve the problem users have right now before expanding into the product you envision for the future.

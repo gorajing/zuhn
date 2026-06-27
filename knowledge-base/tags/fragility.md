@@ -14,8 +14,8 @@
 - `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
 - `INS-260325-3A0E` WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
 - `INS-260412-2B91` Russia planned for a 3-5 day war with no logistics fallback, so when Ukraine resisted, the entire invasion apparatus broke down simultaneously.
-- `INS-260330-4E55` The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
 - `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
+- `INS-260330-4E55` The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
 - `INS-260403-C844` Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 - `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.

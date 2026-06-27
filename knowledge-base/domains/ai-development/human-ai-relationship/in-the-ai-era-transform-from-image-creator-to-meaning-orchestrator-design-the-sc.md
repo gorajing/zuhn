@@ -57,7 +57,6 @@ related:
   - PRI-260328-EE04
   - PRI-260328-9F8C
   - INS-260405-11EA
-  - INS-260626-B098
 stance: >-
   As AI automates strategy, naming, copy, design, video, and prototyping, the
   irreplaceable human role shifts from creating outputs to orchestrating ...

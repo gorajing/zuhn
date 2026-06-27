@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 447 insights
+> 448 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -393,6 +393,7 @@
 - `INS-260410-0855` [medium] Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260605-37FB` [medium] Structure agent memory into short-term (current pipeline state), long-term (organized domain history), and reasoning (decision traces capturing the why) rather than one flat store.
 - `INS-260530-AA02` [medium] PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries.
+- `INS-260627-E0AE` [medium] Look at the policy, not only the path it happened to take.
 - `INS-260627-0009` [medium] A week-long video task became a 5-minute afterthought not because of a smarter model but because the brand guide, live stats, dashboard, and Remotion skill were already wired into the system.
 - `INS-260626-43C9` [medium] Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
 - `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.

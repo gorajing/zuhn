@@ -57,8 +57,8 @@ related:
   - INS-260625-464B
   - INS-260404-6DAD
   - INS-260404-8E0D
+  - INS-260627-01E1
   - INS-260410-3264
-  - INS-260323-2AE2
 ---
 The field bottleneck was not raw diagnostic reasoning alone; it was getting useful suggestions into the moment where a clinical officer is documenting and deciding under resource constraints. AI Consult worked in the background inside the electronic medical record, generated context-specific suggestions aligned with Kenyan guidelines, and used color-coded alerts while leaving clinicians responsible for diagnosis, prescribing, and referral.
 

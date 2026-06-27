@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 90 insights
+> 91 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -44,6 +44,7 @@
 - `INS-260625-99B0` [high] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
 - `INS-260625-9E17` [high] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
 - `INS-260625-7165` [high] Convincingness and fidelity are independent properties, so an eval that scores convincingness tells you nothing about whether the persona's reasoning is faithful to the record.
+- `INS-260627-FEBB` [high] The strongest eval result is sometimes a map of where success is impossible.
 - `INS-260625-25D6` [high] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
 - `INS-260627-8318` [high] Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done.
 - `INS-260625-0E60` [high] The best eval is an environment that can measure whether the decision worked.

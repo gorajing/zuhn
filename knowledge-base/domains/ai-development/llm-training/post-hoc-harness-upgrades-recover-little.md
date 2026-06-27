@@ -44,9 +44,9 @@ stance: >-
 related:
   - INS-260605-E230
   - INS-260625-9096
+  - INS-260627-01E1
   - INS-260626-C412
   - INS-260605-E193
-  - INS-260410-9DB0
 ---
 The paper compares agents trained with h-mid or h-high against agents trained under h-low and given the richer harness only during evaluation. Training-time harness application consistently outperforms post-hoc application; for Qwen2.5-7B-Instruct with GRPO, the reported gap is 20.7 points under h-mid and 22.5 points under h-high.
 

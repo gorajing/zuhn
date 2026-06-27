@@ -57,6 +57,7 @@ related:
   - INS-260627-D21B
   - INS-260626-60C2
   - INS-260626-8747
+  - INS-260627-FEBB
 ---
 As models become genuinely capable of self-optimization, evaluation can shift from 'user asks X, correct answer is Y, compare against it' to defining ambiguous, intent-level outcomes — personality, behavior, organizational fit — often expressed as rubrics, the way art or essays are graded in schools. Borrowing from Karpathy-style auto-research, you set a goal and a reward signal and let the system tune itself toward it.
 

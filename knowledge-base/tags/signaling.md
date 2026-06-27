@@ -12,9 +12,9 @@
 - `INS-260412-94D9` Rwanda ranking 29th globally on the Ease of Doing Business Index — above the Netherlands, Switzerland, and Japan — generates outsized credibility and investment signaling far exceeding what raw GDP metrics would attract.
 - `INS-260412-4516` Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.
 - `INS-260412-0C4C` Bolivia's 5,000-person navy and Mongolia's one-tugboat fleet exist as sovereignty assertions, not military assets.
+- `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
 - `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
-- `INS-260410-B47B` The U-2 spy plane kept the Cold War cold because both sides rationally preferred the Soviets tracking it silently over admitting they couldn't shoot it down — information and its management beat raw force.
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260404-405A` Never verbally claim passion or quality — audiences discount explicit self-praise but heavily weight the implicit confidence of your delivery.
@@ -23,10 +23,10 @@
 - `INS-260626-60DB` Badges (degrees, awards) are useful mainly when you have no other badges — once you're world-class at something verifiable, the credential is redundant.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
 - `INS-260409-7249` During grief, presence is the asset — 'you don't call, you show up' is a costly signal that cannot be faked by low-effort outreach.
-- `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
-- `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260403-D328` Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - `INS-260404-6891` When most players in an ecosystem publicly commit to a standard, the holdouts face disproportionate reputational cost.
+- `INS-260403-6BF7` Developer influencers who master visibility often outperform technically superior peers in career outcomes.
+- `INS-260403-89A5` Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260403-8004` A founder packing boxes at $50M revenue does more for culture than any all-hands talk about being scrappy.
 - `INS-260404-AE2E` Publicly committing to ethical standards beyond legal requirements attracts top talent who self-select for principled employers.

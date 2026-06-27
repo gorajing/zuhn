@@ -25,6 +25,7 @@
 - `INS-260626-485E` Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260625-E3A2` Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- `INS-260627-FEBB` The strongest eval result is sometimes a map of where success is impossible.
 - `INS-260627-00E9` The second trapped-ion platform test validates the ARTIQ/MCP/safety-filter interface, while explicitly not claiming full closed-loop physical calibration.
 - `INS-260627-66D8` The paper evaluates the safety-filter with 1,932 adversarial scripts and about 250 harness-level tests, not only with successful lab calibrations.
 - `INS-260627-A5A4` A vulnerability report is not valid until it proves exploitability and impact, not just pattern presence.

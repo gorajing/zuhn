@@ -3,20 +3,20 @@
 - `INS-260605-828D` FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
 - `INS-260405-9285` AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
 - `INS-260625-464B` Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
+- `INS-260404-6DAD` The Assistant API lets builders deploy AI assistants anywhere, breaking free from OpenAI's walled garden while preserving the same training and capabilities.
 - `INS-260605-ACB3` Deploy agents up an 'exposure ladder' — shadow mode, then advisory, then controlled autonomy with kill switches — where each promotion is gated by confidence in outcomes, not completion of a project plan.
 - `INS-260405-CC9D` Prototyping an agent and deploying it reliably in production are fundamentally different engineering problems.
-- `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
-- `INS-260404-6DAD` The Assistant API lets builders deploy AI assistants anywhere, breaking free from OpenAI's walled garden while preserving the same training and capabilities.
 - `INS-260626-4005` A spoken prompt produced a working bookshelf-cataloging app — image upload, search-grounded enrichment, Google login, persistent database, one-click Cloud Run deploy — that Bailey notes 'would have been a startup 3-4 years ago.'
+- `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260410-BD9D` AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
 - `INS-260410-38C9` No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
+- `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260322-8BD1` The AI industry will likely cascade like the computer industry — a few supercomputer-class god models at the top, with the real volume in smaller models deployed down to embedded systems in every physical object.
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260325-3B58` B2B AI deployment is bottlenecked by accuracy needs; B2C by GPU capacity during peak demand.
-- `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
+- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
-- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260409-3230` Jerry Liu: fine-tuning embedding models 'you're going to have to reindex all your documents. For a lot of people, that's not feasible' — and the performance gains are typically modest (~5-10%), not large enough to justify the full-corpus reindex that fine-tuning requires.
 - `INS-260605-72B5` SAM 3 is enormously capable but 800M parameters and 300ms on a T4, making it unusable for the low-power edge deployments vision has historically targeted.
 - `INS-260605-0D8C` Roboflow uses neural architecture search with drop-in-compatible knobs on a pretrained backbone to spin out a whole family of models, hitting ~40x speedup for the same accuracy versus fine-tuning SAM 3.
@@ -35,6 +35,7 @@
 - `INS-260626-E45C` Cursor implemented the worktree feature as backend-controlled commands rather than bundled skills specifically so prompts could be iterated server-side and reach users on next use.
 - `INS-260409-96B0` LLMs like V0 and TLDraw Make Real can generate UI elements, state management, API calls, and basic logic on demand, but they don't tell you how to deploy the result, persist data, set up auth, or assemble the pieces into a working application — the 'glue' layer is still professional-developer territory.
 - `INS-260626-45E4` AI Consult's value came from constraining an LLM inside Kenyan clinical guidelines, EMR context, and clinician accountability rather than exposing a generic chatbot.
+- `INS-260627-B093` Reward peaks and deployment success peaks are not the same surface.
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260405-E34C` Doorways, staircases, and tools are built for human dimensions — a humanoid robot inherits compatibility with all existing infrastructure at no cost.
 - `INS-260403-912E` Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.

@@ -11,9 +11,9 @@
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
-- `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260412-3951` Scientists playing with magnets had no idea they were building the foundation for modern technology — strange matter research may follow the same path.
+- `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
 - `INS-260410-DAB6` Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260326-841D` Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
 - `INS-260330-9751` Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.

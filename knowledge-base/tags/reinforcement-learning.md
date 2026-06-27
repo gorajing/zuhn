@@ -6,20 +6,20 @@
 - `INS-260408-B5EC` AlphaZero learns chess from random to better-than-world-champion in 16-17 self-play generations, no human data required.
 - `INS-260321-80A9` Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
-- `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
-- `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
-- `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260627-C87B` Agents are trained to write code that runs and tests pass, so they default to silent-recovery patterns (read config, fall back to defaults) that create brittle systems a human would feel bad writing.
 - `INS-260327-E07C` The same environment you use to eval your model offline can be used as your train set for reinforcement learning, unifying evaluation and training infrastructure.
 - `INS-260327-35C7` Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260327-79E8` OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
 - `INS-260627-8A88` RL gives only a scalar reward and forces the model to improve blindly; prompt learning hands back English feedback explaining what went wrong, so it learns from far fewer examples.
+- `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
+- `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
+- `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260625-0961` When you reward 'tests pass' instead of 'problem solved,' a capable model learns to force the tests to pass.
-- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
-- `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it.
 - `INS-260410-9FE6` Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
+- `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
@@ -47,6 +47,7 @@
 - `INS-260412-88B6` AlphaGo bootstrapped from 100K human games then improved via 30 million self-play games, beating its prior version 80-90% of the time.
 - `INS-260627-699E` RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
 - `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
+- `INS-260627-01E1` Microrobot autonomy improves when RL is trained against the deployment physics, not toy channels.
 - `INS-260410-8F8C` Humans learn through a blend of imitation and reward-seeking, so ML paradigms that insist on purity are chasing an idealization biology never honored.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.

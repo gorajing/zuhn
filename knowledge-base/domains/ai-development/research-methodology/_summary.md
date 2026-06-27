@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 133 insights
+> 134 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -61,6 +61,7 @@
 - `INS-260505-9E07` [high] Simulators are causal-generative-models with mechanism inside, but you can't backprop through Geant4 — that's why we approximate them with neural networks.
 - `INS-260505-8E0B` [high] It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'
 - `INS-260514-8A98` [high] Measure AI bias amplification BEFORE deployment by embedding the relevant literature corpus and computing distance from the main knowledge cluster. Neglected tropical diseases are 44% more isolated — and AI predicts them 44% worse.
+- `INS-260627-C757` [high] The paper's credibility comes partly from naming the physics it has not solved yet.
 - `INS-260409-C3F7` [high] Building a cell-type atlas of the avian pallium and comparing it to mammalian equivalents settled a 60-year debate about whether bird and mammal intelligence share common neural origins — a pattern other biology debates should emulate.
 - `INS-260409-5E40` [high] Solving open-but-neglected problems is less impressive than it sounds: the problems are tractable, just understaffed.
 - `INS-260605-355C` [high] The same best-in-class diarizer scores ~2-8% error on clean telephone speech but ~41% in a noisy restaurant — so 'how good is it?' has no use-case-free answer.
