@@ -62,8 +62,8 @@ related:
   - INS-260625-224F
   - INS-260627-3481
   - INS-260524-2C7C
+  - INS-260627-8425
   - INS-260626-2F2E
-  - INS-260410-1030
 ---
 A practical architecture principle: the agentic loop is a standardized, largely fixed control structure, and the variability lives in the tools and context inserted into it — which is exactly what agent frameworks do. So you should never rebuild the loop when you change tools. The talk demonstrates this with Temporal's 'dynamic activity,' a handler registered to pick up any tool call off the queue by name rather than being statically bound to specific tool names. The loop calls a generic dispatcher; the dispatcher looks up the concrete function from a registry (metaphorically a dictionary) keyed by tool name.
 

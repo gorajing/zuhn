@@ -46,10 +46,10 @@ stance: >-
   constraint.
 related:
   - INS-260514-8413
+  - INS-260627-6F60
   - PRI-260406-9D48
   - INS-260402-72EF
   - INS-260627-6F57
-  - INS-260323-7D3C
 evidence:
   - id: INS-260325-4846
     type: TRANSFERS_TO

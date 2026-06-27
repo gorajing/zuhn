@@ -39,9 +39,9 @@ resolutions:
 related:
   - INS-260410-C045
   - INS-260505-415C
+  - INS-260627-68CA
   - INS-260409-60C2
   - INS-260410-25AF
-  - INS-260330-F183
   - INS-260505-969C
 stance: 'Tao''s papers now have more code, more plots, deeper literature searches'
 evidence:

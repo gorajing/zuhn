@@ -39,16 +39,8 @@
 - `INS-260321-C5AA` Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
 - `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
-- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
-- `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
-- `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
-- `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
-- `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
-- `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
-- `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
-- `INS-260625-CC0F` A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
 - `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -75,11 +67,13 @@
 - `INS-260410-095B` Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260320-9D89` Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
 - `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
+- `INS-260627-6418` If a model can predict execution traces, an agent can 'imagine' the result of an action and get feedback in a simulated environment, reserving real execution for when it actually matters.
 - `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-E693` Every agent is a recursive while-loop with a few conditions and end states, so design it as a state machine you can always locate yourself within.
 - `INS-260409-2A51` Jerry Liu: 'You can take a question, break it down into smaller components and use that to actually send to your retrieval system. And that gives you better results' than passing the full question as a single vector lookup.
 - `INS-260627-36B1` Give agents a calculator instead of asking them to compute—models are good at language, not deterministic arithmetic, so route exact computation to tools.
+- `INS-260627-8425` Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 - `INS-260410-545A` Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
 - `INS-260625-027A` Tokenizing or proxying a transaction shouldn't hide from the seller — keep passing the brand, last-four, and credit type their risk systems already depend on.
 - `INS-260605-9F5C` Agents with growing tools, sub-agents, and memory sources have an effectively infinite input/output space that golden datasets can't cover, so monitoring production replaces testing as the dominant reliability lever.
@@ -98,6 +92,14 @@
 - `INS-260619-6E08` Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
+- `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
+- `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
+- `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
+- `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
+- `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
+- `INS-260625-CC0F` A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
+- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
+- `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260626-76B5` The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers.
 - `INS-260626-739E` When agents can do the work cheaply, the scarce, expensive activities become specifying it up front and reviewing it afterward.
 - `INS-260605-4688` An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
@@ -131,12 +133,12 @@
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260625-ADEA` Models, APIs, and tools can be swapped, wrapped, or adapted — but the log is the irreplaceable part that persists, so the provider who hosts your log effectively owns your agent.
 - `INS-260619-4ADA` The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
+- `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
 - `INS-260625-C3B0` Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
 - `INS-260624-5865` A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260627-C727` Observers and agents are different tools for different jobs — read-only isn't a broken agent waiting to grow up.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
-- `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
 - `INS-260605-2D9F` Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
 - `INS-260410-F167` Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
 - `INS-260514-791A` Narrow AI: PhD data scientist required. Generative AI agents: any scientist can use them like spoken language.

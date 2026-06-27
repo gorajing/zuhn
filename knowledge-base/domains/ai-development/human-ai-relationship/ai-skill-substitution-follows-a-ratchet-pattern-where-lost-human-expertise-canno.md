@@ -51,7 +51,6 @@ stance: >-
   expertise creates an irreversible dependency that makes civilization fragile
   to AI disruption.
 related:
-  - INS-260403-7DF4
   - INS-260627-E4F9
   - INS-260627-8ED0
   - INS-260330-AA9D

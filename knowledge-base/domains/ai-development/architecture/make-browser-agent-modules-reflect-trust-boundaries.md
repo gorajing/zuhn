@@ -55,8 +55,8 @@ related:
   - INS-260410-761E
   - INS-260605-C775
   - INS-260627-41C1
+  - INS-260627-917D
   - INS-260627-B7F7
-  - INS-260605-2D9B
 ---
 peerd's module map separates provider adapters, egress/security, execution sandboxes, runtime orchestration, and distributed features, with lower capability layers not depending upward on the orchestrator. That makes security review less ambiguous: provider code receives fetch/secret access by injection, the runtime composes capabilities, and distributed features sit above rather than inside the single-agent loop.
 

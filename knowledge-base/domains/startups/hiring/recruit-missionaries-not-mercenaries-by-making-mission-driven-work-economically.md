@@ -58,9 +58,9 @@ related:
   - INS-260403-2369
   - INS-260412-35AC
   - INS-260323-E9E4
+  - INS-260627-D331
   - INS-260404-B7E4
   - INS-260322-D5EB
-  - PRI-260406-701E
 ---
 10DS can pay market rates 'within reason' but not 'meta money.' Their thesis is that many high-performers will happily take pay cuts to work on consequential problems — they recruit from frontier labs, big tech, top research institutes, YC founders, and serial entrepreneurs, people who 'did not think they would be working in the civil service this time last year.' The pitch is that the decisions crossing a minister's desk are among the most important things one could work on, and the promise is an environment where people can do their best work.
 

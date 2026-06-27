@@ -2,8 +2,8 @@
 
 - `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
 - `INS-260514-CDCD` Hedge fund returns: top 60% profitable, bottom 40% lose money every year, bottom 25% out of business annually and replaced. Don't reason about 'how hedge funds work' from the celebrated top — the bottom is the more probable destination.
-- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
+- `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
 - `INS-260323-4E23` What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-5C80` Early Chinese historians systematically reshaped the past to validate Confucian moral philosophy, revealing how all historical narrative serves the ideological needs of its authors.
 - `INS-260330-14E1` Chinese historians wrote dynastic history to prove Confucian moral philosophy, systematically distorting the record to fit their framework.

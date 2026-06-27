@@ -59,6 +59,7 @@ related:
   - INS-260626-1B29
   - INS-260627-8BD6
   - INS-260404-6BD6
+  - INS-260627-63F2
 ---
 Korevec frames the problem with a household analogy: even when her husband did all the dishes, she still carried the mental load of reminding and tracking. The same dynamic holds for async agents — they handle execution, but the developer remains the one monitoring progress, following up, and keeping things moving. That residual load is the real ceiling on agent productivity, not raw model capability.
 

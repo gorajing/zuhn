@@ -64,8 +64,8 @@ related:
   - INS-260605-8AEE
   - INS-260625-0C98
   - INS-260625-9C3D
+  - INS-260627-E858
   - INS-260501-A1C7
-  - PRI-260406-B97E
 ---
 A native-audio model runs sound-token to sound-token with intelligence baked into the audio model itself — no transcribe→LLM→synthesize cascade. This yields lower latency, natural barge-in, and seamless multilingual switching (including mixed-language speech like 'Denglish'). It feels like the future of realtime conversation.
 

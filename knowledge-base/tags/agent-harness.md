@@ -3,8 +3,6 @@
 - `INS-260625-0148` Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260625-76E9` Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260626-9AEB` Don't bounce a Zod/schema error back to an open model that ignores it for 50+ turns; deterministically repair the malformed call and append a hint, and the model self-corrects within a couple of tool calls.
-- `INS-260605-E303` Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.
-- `INS-260605-26EC` Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests.
 - `INS-260626-09E1` Vercel AI SDK 7 makes established coding-agent harnesses pluggable behind a common Agent interface.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260627-C940` The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
@@ -12,6 +10,8 @@
 - `INS-260626-181F` Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260624-F048` A million-token window is not a substitute for a context manager.
 - `INS-260605-4877` Define the agent's workspace as a manifest, not as an implicit container setup.
+- `INS-260605-E303` Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.
+- `INS-260605-26EC` Keep reduction pure and defer side effects to a post-catch-up hook so that replaying 100 buffered events rebuilds state once instead of triggering 100 LLM requests.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260625-1B69` Scaffolding runs a step ahead of the model, but the model keeps digesting it and upstreaming it natively, so today's harness alpha evaporates within about a year.
 - `INS-260627-9F3F` Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.

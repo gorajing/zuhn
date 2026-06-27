@@ -48,7 +48,7 @@ related:
   - INS-260626-475E
   - INS-260627-8B10
   - INS-260321-A56C
-  - INS-260626-181F
+  - INS-260627-917D
 ---
 The benchmark distinguishes task shift from tool environment shift. Tool environment shift changes invocation protocols while preserving functionality, such as moving from Go(receptacle=...) to NavigateTo(destination=...) or a grouped ReceptacleControl(action=..., target=...) schema.
 

@@ -1,7 +1,7 @@
 # Tag: communication
 
-- `INS-260405-1F6B` AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
+- `INS-260405-1F6B` AI that can speak and understand speech natively will unlock use cases that text interfaces cannot reach, from accessibility to real-time conversation.
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
@@ -37,18 +37,18 @@
 - `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260404-D242` Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
-- `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
-- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
+- `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
+- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
+- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
-- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260404-864F` Complex ideas don't require complex sentences—experts in hard fields speak informally because cognitive overhead must go to the ideas, not the language.
 - `INS-260403-F2BF` Founders must distinguish between strategic messaging and keyboard venting before hitting send.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.

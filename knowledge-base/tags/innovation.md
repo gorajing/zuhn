@@ -8,17 +8,17 @@
 - `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
 - `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
-- `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
 - `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
-- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
+- `INS-260410-C02E` Japan and Germany's export models weren't just about foreign demand — they were about forcing their firms to compete with world-class rivals when domestic markets would have tolerated monopolies.
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
-- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
+- `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260327-7C4A` Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
 - `INS-260327-479C` Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
+- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260410-A1A9` The 'collective brain' — population size times interconnectedness — explains why humans beat larger-brained Neanderthals and why Eurasia out-innovated other continents.
-- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
+- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
+- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260403-39E9` Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
 - `INS-260412-3951` Scientists playing with magnets had no idea they were building the foundation for modern technology — strange matter research may follow the same path.
 - `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.

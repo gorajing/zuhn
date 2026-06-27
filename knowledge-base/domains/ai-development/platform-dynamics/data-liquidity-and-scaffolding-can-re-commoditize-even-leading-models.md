@@ -66,7 +66,7 @@ related:
   - INS-260626-4A3B
   - PRI-260323-49F8
   - PRI-260405-A11F
-  - PRI-260328-DF2D
+  - INS-260627-0D20
 ---
 Nadella makes the inverse argument to the AI-bro consensus that model companies will capture all margin: he claims the structural force is that one good open-source checkpoint is always 'one copy away' from any frontier breakthrough, and the durable position belongs to whoever has the data, grounding context, and end-user distribution to fine-tune it. He cites GitHub Copilot's 'auto' mode as the leading indicator — it arbitrages tokens across multiple models to optimize per-task, which structurally pushes models toward commodity status.
 

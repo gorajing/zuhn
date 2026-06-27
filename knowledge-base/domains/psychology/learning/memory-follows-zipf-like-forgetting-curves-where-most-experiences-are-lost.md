@@ -54,7 +54,6 @@ related:
   - INS-260403-A0B0
   - INS-260403-8011
   - INS-260410-3A64
-  - INS-260625-E810
 evidence:
   - id: INS-260320-CDE4
     type: TRANSFERS_TO

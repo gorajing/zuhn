@@ -1,7 +1,6 @@
 # Tag: tool-design
 
 - `INS-260514-1D60` Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
-- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
 - `INS-260627-C940` The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
@@ -18,6 +17,7 @@
 - `INS-260605-FE8E` Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.
 - `INS-260410-E27A` Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
 - `INS-260605-2AAF` Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
+- `INS-260627-8425` Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 - `INS-260625-A668` Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
 - `INS-260605-DC50` Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260605-35B4` Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
@@ -29,16 +29,17 @@
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
 - `INS-260605-2A69` Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
+- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260626-BC79` GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
 - `INS-260627-8DF1` Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
 - `INS-260627-46EB` MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
 - `INS-260627-F2AE` An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
-- `INS-260409-7C48` Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
-- `INS-260409-9851` Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260627-DC30` If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
 - `INS-260410-5D71` Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
+- `INS-260409-7C48` Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
+- `INS-260409-9851` Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260627-6E58` Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - `INS-260605-82BC` A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.

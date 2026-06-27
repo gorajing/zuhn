@@ -18,15 +18,16 @@
 - `INS-260403-D3ED` DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - `INS-260327-5D5F` Fine-tuning an open-weights model degrades its other capabilities because you cannot mix new data with the original training distribution; truly open-source models with full training pipelines are fundamentally more useful.
 - `INS-260321-5DF8` OpenClaw became the most popular open-source project in history within weeks, surpassing Linux's 30-year adoption curve — each AI unhobbling stacks on prior ones and grows faster.
+- `INS-260627-AF32` Agent labs sit uniquely between real engineers and the models, holding the richest dataset of real engineering work — the only thing that actually moves the needle — and every major lab quietly captures it while sharing none of it.
 - `INS-260327-BEFF` There is no internet-scale robot action data; community platforms that aggregate diverse robotic datasets from thousands of contributors will be the critical enabler for physical AI scaling.
 - `INS-260626-2B7F` Whether there are a couple or five frontier labs sets token prices, and token prices in turn govern how value is split between labs, applications, and labor — making lab market structure the biggest knowable-unknown in AI.
-- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
-- `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
 - `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
-- `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - `INS-260626-239A` Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
 - `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
 - `INS-260625-1E07` Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
+- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
+- `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
+- `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - `INS-260625-B9A5` Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters.
 - `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260405-82F3` Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means.

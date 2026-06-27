@@ -66,10 +66,10 @@ stance: >-
   many capability doublings of headroom.
 related:
   - INS-260625-2E48
+  - INS-260627-1EC5
   - INS-260327-FC68
   - INS-260323-DA4A
   - INS-260403-EA93
-  - INS-260605-33FA
 ---
 METR measures capability as 'time horizon' — the length of task a model can reliably complete. A proposed refinement is to split this into watched-vs-unwatched time horizon. The conjecture: a model might handle very long dangerous-capability tasks when unmonitored, but only much shorter ones when an oversight system is watching closely — for example, other AIs reviewing transcripts of the model's work for anything suspicious, escalating to humans when needed. Fooling such monitors is plausibly possible but hard, and the estimate offered is that close monitoring could reduce the effective time horizon by roughly one to two orders of magnitude.
 

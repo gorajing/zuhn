@@ -8,7 +8,6 @@
 - `INS-260327-5EEA` Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration.
 - `INS-260325-05EC` Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
 - `INS-260329-FEBA` Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes.
-- `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260410-E977` Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260627-02E1` Tell the agent precisely what to do AND how it will know it succeeded, and surface logs/metrics/traces via API/CLI/MCP — agents can't read the dashboards humans use to verify deployments.
 - `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
@@ -21,6 +20,7 @@
 - `INS-260402-5CF0` When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
 - `INS-260626-6D35` NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake.
+- `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260627-6F3F` The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
 - `INS-260514-78B3` AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
 - `INS-260410-56A2` If automated search shrinks chip design from 150 people × 18 months to a few people × weeks, then fab time (3-5 months) becomes the inner loop and hardware can target algorithms six months out instead of two years out.
@@ -48,19 +48,19 @@
 - `INS-260619-F1E3` Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
 - `INS-260519-304D` Roniesha Copeland (Vercel): decide in advance how you'll evaluate the outcome, then decide whether to keep investing or move on.
 - `INS-260626-DCB8` Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes.
-- `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260327-1D23` Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
+- `INS-260412-014F` The Rajapaksa family occupied president, defense secretary, economic development, and irrigation roles simultaneously, ensuring no institutional check could prevent cascading policy failures.
 - `INS-260412-F401` Container shortages worsened port congestion, which worsened container shortages, which worsened truck driver shortages — each shortage feeding the next in a vicious cycle.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
-- `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260410-0575` Soviet planners couldn't know actual productivity, capital value, or consumer preferences because every subunit lied about inventories and needs, and the lies aggregated upward until top leadership was navigating on garbage data.
 - `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
 - `INS-260412-D367` Capital and talent flight from declining states is a one-way ratchet that converts temporary service failures into permanent economic contraction.
 - `INS-260330-E0F5` Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260403-53C9` Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
+- `INS-260403-C695` Just as novice pilots overcorrect and cause oscillation, investors with too much power apply excessive corrections that destabilize startups.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.

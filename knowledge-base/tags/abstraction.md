@@ -1,6 +1,9 @@
 # Tag: abstraction
 
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
+- `INS-260626-9FFD` When logic has too many branches to enumerate in code, describe the goal and steps as a skill and let the agent reason through the cases.
+- `INS-260410-BBEA` Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
 - `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260402-06DB` Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
@@ -9,15 +12,13 @@
 - `INS-260409-C133` Peripherals are just memory addresses that happen to be wired to physical things — MMIO turns all I/O into loads and stores.
 - `INS-260605-DC65` Coupling tightly to one provider's API is dangerous; true model sovereignty means you can change models in a day without touching the codebase.
 - `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
-- `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
-- `INS-260626-9FFD` When logic has too many branches to enumerate in code, describe the goal and steps as a skill and let the agent reason through the cases.
-- `INS-260410-BBEA` Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
 - `INS-260605-51AE` The agent shift mirrors cloud's sysadmin-to-SRE transition — work becomes more automation-oriented, more impactful, and higher-paid — only compressed dramatically in time.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260410-025A` Backprop doesn't know anything about neural networks — it applies the chain rule to any directed expression graph, and neural nets are just a particular shape of graph we happen to care about.
 - `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
+- `INS-260627-8C59` A world model is a parameterization of state-action-transition; an LLM is a mechanism that consumes that parameterization, so treating them as competing paradigms is a category error.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260330-AB62` Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
 - `INS-260627-00BE` Most coding agents are 'supervised autonomy' (Tesla FSD — you need a license and stay at the wheel); serving knowledge workers requires 'unsupervised autonomy' (Waymo — sit in the back, no license, all complexity hidden).
@@ -54,8 +55,8 @@
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260412-CE01` Naming an unknown phenomenon creates a collaborative anchor that accelerates investigation despite masking ignorance.
 - `INS-260412-15D0` Point particles are admittedly fictional yet predict electron properties to 14 decimal places, proving that useful approximations beat paralysis from incomplete knowledge.
-- `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
+- `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.

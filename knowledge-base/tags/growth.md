@@ -7,9 +7,9 @@
 - `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
-- `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
 - `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
 - `INS-260405-A1E6` Overpayment patterns expose a company's real bottleneck — follow the money to find the constraint.
+- `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
 - `INS-260403-C907` Growth comes from publishing valuable content people want to share, repeatedly, not from optimizing anything else.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
@@ -52,7 +52,6 @@
 - `INS-260404-8A67` Products that map emotional motivators alongside functional needs achieve stronger retention and organic growth.
 - `INS-260626-B77F` Ship a price point as a testable hypothesis instead of agonizing toward a 'right' price, then iterate via churn interviews and A/B tests — knowing your billing infra determines whether each change takes a day or three months.
 - `INS-260412-EE18` Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase.
-- `INS-260405-4B5D` The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
@@ -60,6 +59,7 @@
 - `INS-260405-21C7` Webvan expanded to multiple cities before understanding its unit economics, and the fixed cost structure made course correction impossible.
 - `INS-260404-1F1B` Photosynthesis produced oxygen as a 'useless byproduct' that then poisoned its own core enzyme, forcing plants into permanent damage-control mode.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
+- `INS-260405-4B5D` The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - `INS-260403-57FF` If the riskiest startups generate the most growth when they succeed, then policies that reduce risk appetite create adverse selection by killing the best startups first.
 - `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260404-087C` End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.

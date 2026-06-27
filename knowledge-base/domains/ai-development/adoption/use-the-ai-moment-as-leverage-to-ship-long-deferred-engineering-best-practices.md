@@ -59,10 +59,10 @@ stance: >-
   previously couldn't prioritize.
 related:
   - INS-260423-EFC0
+  - INS-260627-3543
   - INS-260403-A9CC
   - PRI-260328-C581
   - INS-260403-D2B1
-  - INS-260403-8F6E
 ---
 The closing piece of advice reframes agent-readiness as an organizational change-management opportunity. The practices the talk recommends — self-service, API-first interfaces, local-first tooling, structured documentation, machine-readable observability — were, in the speaker's words, 'always best practices.' Many teams simply never got buy-in to invest in them because other priorities won.
 

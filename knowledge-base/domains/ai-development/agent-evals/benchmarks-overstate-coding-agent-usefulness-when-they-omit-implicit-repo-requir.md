@@ -51,7 +51,6 @@ stance: >-
   Coding-agent evals should include implicit project standards, documentation
   expectations, and human review readiness, not only test-passing tasks.
 related:
-  - INS-260410-0DA5
   - INS-260412-1191
   - INS-260605-09B1
   - INS-260605-B60D
@@ -59,6 +58,7 @@ related:
   - INS-260625-FFDF
   - INS-260627-D9CE
   - INS-260625-0CAB
+  - INS-260627-36DE
   - INS-260627-8ED0
   - INS-260625-4078
 ---

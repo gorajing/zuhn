@@ -56,7 +56,6 @@ stance: >-
   model upgrade, and most developer distrust of AI code traces to bad context
   rather than a weak model.
 related:
-  - INS-260505-7527
   - INS-260625-3768
   - INS-260625-057C
   - INS-260626-A0DC

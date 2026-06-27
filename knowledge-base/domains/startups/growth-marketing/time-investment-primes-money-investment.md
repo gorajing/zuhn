@@ -49,5 +49,6 @@ related:
   - INS-260404-2AFE
   - INS-260329-9F81
   - INS-260403-A8BA
+  - INS-260627-4EB7
 ---
 The lead magnet mechanism isn't merely about capturing contact info — it's about getting the prospect to make a first, low-barrier investment in the relationship. Once a buyer has consumed content, completed an assessment, or used a free trial, they've committed psychological resources that create a consistency gradient favoring the next ask. This is why 'freebie seeker' fears are largely misplaced: people who consume your free thing and find it valuable are pre-sorted toward paying later, assuming the value was real and the next offer is adjacent. The design implication is to stage investments: ask for time → ask for qualifying information → ask for money, in escalating order. Each prior investment makes the next one easier.

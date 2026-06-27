@@ -78,7 +78,7 @@ related:
   - INS-260403-0525
   - INS-260403-FCB6
   - INS-260409-8181
-  - INS-260514-54F9
+  - INS-260627-AF32
 ---
 The pattern: Musk → xAI. Amodei (and sister Daniela + core Anthropic cofounders) → Anthropic. Sutskever → Safe Superintelligence. Murati → Thinking Machines Lab. Greg Brockman has returned but the orbit continues spinning off. All of them worked together at OpenAI. Hao's observation: 'It's not just don't get along, they end up hating each other after working together.'
 

@@ -2,24 +2,25 @@
 
 - `INS-260405-F26B` ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
+- `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
+- `INS-260626-18A3` When the gap between logging an issue and an agent opening a PR shrinks to minutes, every early alignment checkpoint disappears and lands on review instead.
+- `INS-260627-BBCE` Spend your scarce human thinking on research and planning; by the time you implement, all the hard decisions should already be made.
+- `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
+- `INS-260605-1E04` Before the generator writes a line, the two agents negotiate what 'done' means via files on disk, and the evaluator grades against that contract rather than the planner's original spec.
+- `INS-260627-6418` If a model can predict execution traces, an agent can 'imagine' the result of an action and get feedback in a simulated environment, reserving real execution for when it actually matters.
+- `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
+- `INS-260626-E00F` Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
 - `INS-260320-93E1` Planning is king — always use planning mode before implementation; never let the builder start without plans.
 - `INS-260626-B614` Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
 - `INS-260626-BC5E` A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 - `INS-260320-8F12` Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
 - `INS-260320-6CCE` Take time to review the plan thoroughly — you'd be surprised how often you catch silly mistakes before implementation.
 - `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
-- `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
-- `INS-260626-18A3` When the gap between logging an issue and an agent opening a PR shrinks to minutes, every early alignment checkpoint disappears and lands on review instead.
-- `INS-260627-BBCE` Spend your scarce human thinking on research and planning; by the time you implement, all the hard decisions should already be made.
-- `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
-- `INS-260605-1E04` Before the generator writes a line, the two agents negotiate what 'done' means via files on disk, and the evaluator grades against that contract rather than the planner's original spec.
-- `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
-- `INS-260626-E00F` Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
 - `INS-260626-B7AC` The bottleneck is not only finding the algorithm; current models can fail to execute and verify an algorithm they are given.
 - `INS-260323-A5EC` LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
 - `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.
-- `INS-260327-BF89` Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
 - `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
+- `INS-260327-BF89` Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
 - `INS-260329-7673` ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
 - `INS-260410-25AC` Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
 - `INS-260329-0F39` Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.

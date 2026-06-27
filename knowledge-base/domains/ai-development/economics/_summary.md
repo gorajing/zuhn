@@ -1,6 +1,6 @@
 # Topic: economics
 
-> 20 insights
+> 21 insights
 
 - `INS-260627-91B3` [high] Agent systems need spend control as much as capability control.
 - `INS-260625-02A3` [high] Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
@@ -22,4 +22,5 @@
 - `INS-260410-A325` [medium] AGI will compress the measured GDP of cognitive work even as it vastly expands the value produced, so total energy throughput becomes a better civilizational yardstick than GDP.
 - `INS-260626-FEA0` [medium] Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns.
 - `INS-260410-2383` [medium] Ten Napoleons are not worth 400,000 soldiers — parallelizing AI researchers hits diminishing returns fast, and the binding constraints become taste and compute.
+- `INS-260627-8428` [medium] Like Brandolini's law for bullshit, the taste needed to fight slop is an order of magnitude greater than the effort to produce it — and 100-1000x annual token-cost drops keep tilting the field toward the producer.
 - `INS-260603-50B1` [medium] Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.

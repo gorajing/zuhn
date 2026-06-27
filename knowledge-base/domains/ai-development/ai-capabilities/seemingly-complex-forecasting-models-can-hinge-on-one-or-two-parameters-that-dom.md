@@ -55,8 +55,8 @@ related:
   - INS-260403-1EFF
   - INS-260627-647D
   - INS-260410-7933
+  - INS-260627-68CA
   - INS-260410-AC0B
-  - INS-260329-4109
   - INS-260404-82B2
 ---
 Bio Anchors appeared to be a sophisticated model with five biological anchors, multiple compute parameters, and time horizon adjustments. But correcting just one parameter — algorithmic progress — would have brought its timeline close to current consensus. Correcting two parameters (adding compute growth) produces a 2030 estimate matching current vibes.

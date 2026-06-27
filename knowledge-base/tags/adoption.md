@@ -21,6 +21,7 @@
 - `INS-260321-2241` Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
 - `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
+- `INS-260627-8425` Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.

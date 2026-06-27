@@ -6,6 +6,7 @@
 - `INS-260323-7A50` Just as ChatGPT needed a language model, robots need a world foundation model that understands gravity, friction, inertia, and cause-and-effect — trained in physics-grounded simulations.
 - `INS-260413-8CA7` Google DeepMind's Veo 3 demonstrated emergent physical understanding — buoyancy simulation and maze solving — without being explicitly trained on those tasks, across 18,000 generated videos.
 - `INS-260603-F0BE` Frans (Amazon): 'the big next wave in robotics is not the mechanical aspect — China is excellent at that — it's the intelligence layer'; training world models for specific industrial use cases (not humanoids dancing on stage) is where the real impact is, and the US can control that through the likes of Amazon and Google.
+- `INS-260627-6418` If a model can predict execution traces, an agent can 'imagine' the result of an action and get feedback in a simulated environment, reserving real execution for when it actually matters.
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260603-A506` Ichi (Meta): spatial capabilities that today live as separate tools/pages outside the model will be continuously brought into the model layer, so language foundation models and world models converge into one combined spatial+language model.
 - `INS-260605-B9B5` BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing.
@@ -13,6 +14,7 @@
 - `INS-260603-1389` Ichi (Meta): today's AI can write apps, make movies, and generate stories, but a real-world robot still struggles to understand touch and physical perception — the gap isn't language, it's the missing spatial/world-representation layer between language and embodied action.
 - `INS-260505-7B61` After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing.
 - `INS-260328-4717` Higher-quality world models require exponentially less search to achieve the same or better outcomes.
+- `INS-260627-8C59` A world model is a parameterization of state-action-transition; an LLM is a mechanism that consumes that parameterization, so treating them as competing paradigms is a category error.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260625-8624` The diffusion model is 'dumb' and renders instructions literally; a larger language-model prompt rewriter supplies the intelligence by expanding terse user intent into exhaustive descriptions.
 - `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.

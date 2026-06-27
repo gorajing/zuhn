@@ -66,6 +66,7 @@ related:
   - INS-260625-6E19
   - INS-260625-019F
   - INS-260625-1830
+  - INS-260627-AA4B
   - INS-260627-E1BD
 ---
 The talk frames agent work as a loop: given a clear target, the agent will iterate until it gets there. But closing that loop requires two ingredients that teams often leave implicit. The first is precise task instructions — describe the task and tell the agent exactly what you need done. The second, and the more frequently missed one, is an explicit, checkable definition of success: 'this is how you know you have succeeded at the task.'

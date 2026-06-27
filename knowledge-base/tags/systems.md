@@ -6,6 +6,7 @@
 - `INS-260624-4205` Async RL systems improve utilization but make model-version mismatch part of the algorithm.
 - `INS-260405-131B` C powers the interpreters, OS kernels, and databases that higher-level developers use daily, making it the most influential language most programmers never consciously think about.
 - `INS-260625-5045` Reaching 3–5M token context required stacking FSDP, context parallelism, activation checkpointing, CPU offloading, sequence tiling, and buffer reuse — each alone is insufficient.
+- `INS-260627-63F2` CWM's async RL eliminates pipeline stalls by queuing many checkpoints into samplers and many trajectories into trainers, so neither side waits — and it stays near-on-policy because high data volume absorbs the staleness.
 - `INS-260626-43A1` The paper's cost analysis finds localized update/search regimes more cost-efficient than graph-wide consolidation or whole-memory rewriting.
 - `INS-260625-81E1` The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.

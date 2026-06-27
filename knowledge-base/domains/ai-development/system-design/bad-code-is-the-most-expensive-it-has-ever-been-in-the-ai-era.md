@@ -48,11 +48,11 @@ related:
   - INS-260403-912E
   - INS-260403-A2BA
   - INS-260403-A851
-  - INS-260605-89B0
   - INS-260625-E10F
   - INS-260625-868D
   - INS-260626-40DF
   - INS-260626-158E
   - INS-260626-E636
+  - INS-260626-287B
 ---
 The slogan driving specs-to-code is 'code is cheap.' Pocock inverts it: bad code is the most expensive it has ever been. Ousterhout defines complexity as anything in a system's structure that makes it hard to understand and modify — a bad codebase is simply one you cannot change without causing bugs. In a hard-to-change codebase, AI cannot capture the bounty it offers, because AI in a good codebase performs really well. Therefore good codebases matter more than ever, which means software fundamentals matter more than ever. The implication for teams: quality of structure is now a force multiplier on AI throughput, not a luxury to defer — investment in codebase health directly governs how much value AI can add.

@@ -1,6 +1,6 @@
 # Topic: organizational-design
 
-> 29 insights
+> 30 insights
 
 - `INS-260405-0271` [high] Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.
 - `INS-260605-C632` [high] Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
@@ -27,6 +27,7 @@
 - `INS-260405-B406` [medium] If critical tensions aren't reaching leadership, the org structure is filtering them out.
 - `INS-260410-899C` [medium] Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
 - `INS-260410-AFB9` [medium] Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
+- `INS-260627-D331` [medium] Pay engineers like salespeople — a flat base plus a per-story-point fee on accepted tickets — so that using AI to ship more, faster, directly increases their income.
 - `INS-260423-3459` [medium] Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability.
 - `INS-260423-EFC0` [medium] Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.
 - `INS-260410-1384` [medium] Google+ failed as a product but succeeded as an organizational forcing function — Larry Page used it to unify a fragmented company under one identity and account system.

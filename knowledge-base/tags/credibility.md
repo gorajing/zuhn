@@ -30,6 +30,6 @@
 - `INS-260410-9D9C` If you will need the person back within a year, the severance-plus-retraining math already tells you not to lay off — and performance ratings are too subjective to defend when you do.
 - `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
+- `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.
 - `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - `INS-260405-F2C7` Vision should pull milestones forward, not justify why you missed them—keep the two layers structurally separate in your pitch.
-- `INS-260403-F6EC` Metrics that don't connect to revenue, retention, or scalability harm credibility when presented to sophisticated investors.

@@ -61,10 +61,10 @@ related:
   - INS-260327-A22D
   - INS-260403-8176
   - INS-260410-4696
-  - INS-260410-86B0
   - INS-260410-B3C4
   - INS-260423-9225
   - INS-260424-E832
+  - INS-260627-36DE
   - INS-260501-F0E5
 ---
 The naive agent architecture commits all inference to a single foundation model, treating provider choice as a one-time decision. Replit's production architecture treats provider choice as a per-request routing decision. The core long-running coherent loop runs on Anthropic (which excels at multi-step coherence). Search subtasks route to Gemini (which excels at price-performance for that workload). Design tasks also route to Gemini (which excels at design fidelity). Narrow domain tasks route to internal fine-tuned models (which excel at the specific task at lower cost). The architectural pattern: a router agent classifies the task and dispatches to the model best suited for it, and the orchestration layer handles the cross-provider coherence. The benefits compound: better task-specific capability, better unit economics, lower switching cost when any provider changes pricing or capability, and structural protection against any single provider's outages or strategic moves. The cost: an internal capability for evaluating models and maintaining the routing logic — Replit calls this an 'agent lab' and treats it as core IP.

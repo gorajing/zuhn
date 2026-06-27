@@ -69,7 +69,7 @@ related:
   - INS-260626-0D4B
   - INS-260625-89B3
   - INS-260626-BDAB
-  - INS-260403-2CDA
+  - INS-260627-4693
 ---
 Cooper's core technical thesis is that the agent workload profile is not categorically different from the human one — agents need to test changes incrementally (feature flags), version their work, query what happened and where steps failed (observability: traces, logs, metrics), and read/write/snapshot files. What changes is scale: you're doing thousands of these operations in parallel, a roughly 1000x compression of the same loop. At that compression, tools calibrated for human cadence break — 'CI/CD is going to melt,' orchestration needs something better than Kubernetes, networking needs something better than Envoy. The whole stack has to be re-examined layer by layer, each part replaced with a massively better version of the existing primitive rather than an exotic new one.
 

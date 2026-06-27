@@ -58,7 +58,7 @@ related:
   - INS-260410-59F4
   - INS-260626-3408
   - PRI-260406-9780
-  - INS-260404-B2AF
+  - INS-260627-36DE
 ---
 Grondin highlights the MLX community on Hugging Face as the unsung enabler of the on-device stack: it hosts 4,000-5,000 models, and when a lab ships a new model the community uploads quantized variants (4-bit, 6-bit, 8-bit, and more) typically within about 30 minutes of release. The developer workflow collapses to: grab the model ID from the community, pass it to the MLX Swift LM framework, and it downloads and runs — Hugging Face integration is built in.
 

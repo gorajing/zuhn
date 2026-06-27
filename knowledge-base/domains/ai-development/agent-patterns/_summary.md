@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 460 insights
+> 467 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -25,8 +25,10 @@
 - `INS-260327-DC4C` [high] AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
 - `INS-260625-00A6` [high] The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260327-E0B0` [high] AI capabilities improve so fast that security teams who only react to known threats will always be behind; Irregular pioneers proactive research by testing model capabilities before they become attack vectors.
+- `INS-260627-F5A8` [high] Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260627-C940` [high] The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
 - `INS-260625-08E5` [high] The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
+- `INS-260627-0D20` [high] Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - `INS-260627-0719` [high] A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
 - `INS-260625-FE3E` [high] Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead.
 - `INS-260605-74E8` [high] An agent optimizing your skill will ruthlessly strip anything the target function doesn't reward, so the target function must encode all your real goals.
@@ -140,6 +142,7 @@
 - `INS-260626-A645` [high] Put the human-review step in the execution path as a brick wall the agent cannot route around, instead of trusting the model to ask first.
 - `INS-260605-E7AD` [high] Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260403-834C` [high] Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
+- `INS-260627-A392` [high] Real environments are noisy, so the model should think again after each tool response rather than reason once and commit to a plan.
 - `INS-260627-F9B1` [high] Run verification in a sub-agent with a scoped fresh context, scratch that context, and inject only the last observation back — this is separation of concerns applied to context windows.
 - `INS-260410-1B17` [high] Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260410-19DE` [high] Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
@@ -366,6 +369,7 @@
 - `INS-260605-E9A7` [medium] A paid API call can become observe-pay-retry, not a human onboarding flow.
 - `INS-260605-5404` [medium] GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260605-2795` [medium] Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
+- `INS-260627-AA4B` [medium] Bloomberg deploys incident-response agents because AI scans code, telemetry, feature flags, and traces both very fast AND without the 'it must be this' confirmation bias that misleads human responders.
 - `INS-260605-D6EE` [medium] The standard research-plan-implement loop is missing an explicit step where the human understands and corrects the agent's research before it plans.
 - `INS-260405-A992` [medium] Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260605-3553` [medium] Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.
@@ -377,6 +381,7 @@
 - `INS-260321-E59A` [medium] Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
 - `INS-260625-3866` [medium] Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
 - `INS-260327-D020` [medium] Goose's recipe-based approach, where successful workflows are baked into shareable scripts, outperforms pre-built tool integrations because agents find surprising solutions humans wouldn't encode.
+- `INS-260627-6418` [medium] If a model can predict execution traces, an agent can 'imagine' the result of an action and get feedback in a simulated environment, reserving real execution for when it actually matters.
 - `INS-260605-9E7A` [medium] In multi-agent systems, have each agent publish independently to the shared session so the orchestrator only handles final results, not progress relay.
 - `INS-260530-69DC` [medium] PayPal's ADK incident platform uses one LLM-driven supervisor orchestrating deterministic sub-agents (detection, triage, communication, mitigation, RCA) — the supervisor decides which agent to invoke, but each sub-agent's job is fixed.
 - `INS-260326-2410` [medium] Ng highlights that models explicitly tuned for tool use and agentic operations (not just human Q&A) create 'much higher ceilings' for what agentic workloads can accomplish.
@@ -392,9 +397,11 @@
 - `INS-260627-4130` [medium] A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.
 - `INS-260625-CF6B` [medium] Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.
 - `INS-260625-3EE6` [medium] Give a model a baseline set of tools and it will sensibly add or drop ones it under-uses; ask it to build its toolset from scratch and it over-engineers and fails to iterate.
+- `INS-260627-E3EC` [medium] Greg Brockman's modularity principle — humans set clear boundaries on what is human-designed and let AI code everything in between — is swyx's frame for keeping AI-scale code from degenerating into slop.
 - `INS-260605-BC6F` [medium] If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
 - `INS-260501-91C2` [medium] Two agents — personal + work — is the right shape. One is too limited; sub-agent-per-task is over-engineering today.
 - `INS-260625-8C41` [medium] Skills optimized for one model or harness (e.g. Codex) still beat the no-skill baseline when transferred to another (e.g. Claude Code), though direct optimization remains strongest.
+- `INS-260627-8425` [medium] Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 - `INS-260605-21A5` [medium] Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
 - `INS-260626-EF16` [medium] The 'you're all engineering managers now' analogy is wrong: orchestrating agents gives you a tech lead's leverage and a 'mech suit' feel — doing several things at once, in control — without the people problems, and with a feedback loop measured in minutes rather than the six months a human team's decisions take to play out.
 - `INS-260627-5004` [medium] Reframe 'overfitting to your data' as building expertise — you want an agent that is specialized to your repo, not one so generalized it is mediocre everywhere.

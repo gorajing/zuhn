@@ -1,5 +1,6 @@
 # Tag: workflow-integration
 
+- `INS-260627-F5A8` Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260627-453E` Proactivity is built from four hard ingredients — observation, personalization, timeliness, and seamless workflow integration — and missing any one breaks the 'magic'.
 - `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260402-543E` Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.

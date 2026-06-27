@@ -53,6 +53,5 @@ related:
   - INS-260413-7816
   - PRI-260323-8E89
   - INS-260413-B7A7
-  - INS-260505-2FFB
 ---
 The AI Index 2026 documents that industry's share of notable AI models climbed to 91.58% in 2025, with only one notable model coming from academia (1.05%) and five from industry-academia collaboration (5.26%). The top organizations were OpenAI (19 models), Google (12), Alibaba (11), Anthropic (7), and xAI (5). Simultaneously, the most capable models are now the least transparent — training code, dataset sizes, parameter counts, and training duration are increasingly withheld from OpenAI, Anthropic, and Google. Parameter counts have plateaued around 1 trillion for three years as frontier labs stopped reporting them. Two consequences: (1) academic AI research on foundation models is structurally impossible without industry partnerships, and (2) independent evaluation and safety research depends on black-box access that industry controls. The 'open scientific frontier' framing of AI is dead; the frontier is a private industrial product.

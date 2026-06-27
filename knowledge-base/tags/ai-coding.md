@@ -7,14 +7,15 @@
 - `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260626-3F6D` AI can increase software throughput while also increasing delivery instability, so speed is not equivalent to durable progress.
 - `INS-260423-E12B` Aaron Levie: tech is only 8-12-15 percent of GDP; what happens when 85 percent of the economy gets access to engineering like tech has always had? CS grads go to John Deere, Caterpillar, or Eli Lilly, not Google.
-- `INS-260329-E839` Understanding where abstraction layers hide complexity reveals which programming tasks AI can reliably automate and which it cannot.
 - `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
+- `INS-260329-E839` Understanding where abstraction layers hide complexity reveals which programming tasks AI can reliably automate and which it cannot.
 - `INS-260619-4962` Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - `INS-260330-0E6E` Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - `INS-260625-4078` A measured slowdown in expert open-source work argues against retiring human review as a near-term stable bottleneck.
 - `INS-260625-F62D` Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
 - `INS-260605-3AFB` AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 - `INS-260625-0CAB` Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
+- `INS-260627-6F60` Token usage per engineer correlates only ~0.20 with productivity gains, with a 'death valley' where the heaviest users (≈10M tokens/month) perform worse than moderate users.
 - `INS-260423-7C1A` Dalton: you can oneshot a Salesforce clone, then oneshot the next TechCrunch-clone when that fails, and end up deep in pivot hell because the shiny thing is always what you know least about.
 - `INS-260605-89B0` AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
 - `INS-260627-9F46` Each generation tier (autocomplete, agentic codegen, agentic quality workflows) has a higher productivity ceiling, but you only reach the promised 2x by investing in the quality layer, not by generating code faster.
@@ -25,6 +26,7 @@
 - `INS-260329-44C9` Figma-first design eliminates the ambiguity that causes AI code editors to hallucinate features and layouts.
 - `INS-260329-8DC5` Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - `INS-260626-EA1D` Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
+- `INS-260627-E284` An 'environment cleanliness index' (tests, types, docs, modularity, code quality) shows ~0.40 R² with AI productivity gains — clean code amplifies AI, and unchecked AI use accelerates the entropy that degrades it.
 - `INS-260627-8431` Developers report their cursor/copilot rules are 'mostly' followed but never rigorously, so quality has to be a closed loop that catches violations at the PR, records what you accepted, and adapts the standard.
 - `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260626-EAC7` Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.

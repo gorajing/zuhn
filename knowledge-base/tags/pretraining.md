@@ -1,7 +1,7 @@
 # Tag: pretraining
 
-- `INS-260505-A0F7` Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have.
 - `INS-260403-27A5` During pretraining, guessing correctly is rewarded and guessing incorrectly carries no penalty, making hallucination the rational default strategy.
+- `INS-260505-A0F7` Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have.
 - `INS-260410-F342` Pretraining data is to AGI what fossil fuels were to industrial civilization: finite and eventually replaced, but indispensable as the bridge to what comes next.
 - `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
 - `INS-260625-2F7C` When you are unconstrained by compute but constrained by data, the optimal training recipe inverts — old-school regularization and ensembling deliver 5–17x data-efficiency wins.

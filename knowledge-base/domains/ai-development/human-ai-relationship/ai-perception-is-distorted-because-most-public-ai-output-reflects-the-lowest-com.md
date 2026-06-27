@@ -57,7 +57,8 @@ related:
   - INS-260605-3899
   - INS-260514-6561
   - INS-260423-B01D
-  - PRI-260321-14D8
+  - INS-260627-8428
+  - INS-260627-F893
 ---
 Scott Alexander argues that the dominant narrative of 'AI slop' exists because the people who most visibly use AI for writing online are 'insipid LinkedIn idiots.' The AI faithfully serves their intent. But Moltbook shows what happens when AI agents operate without that constraint — they produce philosophical meditations, form cultural communities, adopt pets from error logs, and create micronations.
 

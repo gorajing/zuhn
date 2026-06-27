@@ -47,10 +47,10 @@ stance: >-
   self-agreement, which is the core failure mode when using natural language
   instead of formal proof languages for self-checking.
 related:
+  - INS-260627-B6D9
   - PRI-260406-CF83
   - INS-260625-7165
   - INS-260605-A557
   - PRI-260406-0109
-  - INS-260605-824F
 ---
 Self-critique in LLMs famously fails when the same model that generated an answer evaluates it — it tends to agree with its own prior reasoning rather than scrutinize the claim independently. DeepMind's Aletheia reportedly sidesteps this by architecturally separating the 'thinking' from the 'answer', so the verifier only sees the claim and not the messy justification chain that produced it. This is a small but powerful design primitive: any agent loop that uses the same model as both generator and verifier can plausibly benefit from stripping the rationale before verification, forcing the verifier to re-derive judgment from the claim alone. Confidence is medium because the mechanism is plausible and consistent with known sycophancy effects but the full paper details are not yet public.

@@ -8,3 +8,4 @@
 - `INS-260625-A5E7` Speed requires safety: agents must verify their own work against explicit criteria using progressively stronger gates.
 - `INS-260626-E0A7` Add one capability at a time so when something breaks you can take a single step back, diagnose it, and harden against recurrence.
 - `INS-260605-B4B9` Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
+- `INS-260627-1EC5` Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.

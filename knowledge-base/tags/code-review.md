@@ -3,12 +3,6 @@
 - `INS-260524-63C9` Jongmin Sung: keep CI/CD, modular architecture, unit tests, and code review — then put agents inside that harness instead of coding manually.
 - `INS-260330-FC4D` When agents produce 1,300 PRs weekly, CI pipelines and test coverage become the primary quality gate since human review alone cannot scale to verify correctness.
 - `INS-260330-D5CD` When agents write 1,300 PRs per week, CI and test infrastructure become the primary trust mechanism replacing the confidence that comes from knowing a human wrote the code.
-- `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
-- `INS-260627-765B` Writing code has become reading code, so every engineer is now a reviewer — distribute the exploding PR load with assignment and SLOs, and optimize per-response latency, not total review time.
-- `INS-260627-EB75` Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped.
-- `INS-260626-CD36` Treat root AGENTS.md as a tested review-policy artifact.
-- `INS-260627-F457` Because a PR gate sits at the chokepoint of the SDLC, an AI code reviewer can enforce both code-level concerns (security, efficiency) and process-level requirements (block PRs below a coverage threshold) in one place.
-- `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
 - `INS-260605-27CC` Loop agents on mechanical, verifiable tasks (find shallow bugs, superficial refactors); escalate anything requiring fundamental design judgment to a human.
 - `INS-260603-73D5` Navish (Salesforce): the volume of AI-generated code is impossible to review manually, so you pair it with a reviewer agent — but the agent must know how YOU write and review code; a 6-month junior gets nothing from architect-level feedback they can't understand, so review benefit is gated by the reviewer's own comprehension level.
@@ -19,6 +13,12 @@
 - `INS-260605-34B0` Separate implementation and validation into different agents with different context, and validate behavior by actually running the app, not just linting and tests.
 - `INS-260605-3AB7` An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 - `INS-260605-AD25` Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back.
+- `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
+- `INS-260627-765B` Writing code has become reading code, so every engineer is now a reviewer — distribute the exploding PR load with assignment and SLOs, and optimize per-response latency, not total review time.
+- `INS-260627-EB75` Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped.
+- `INS-260626-CD36` Treat root AGENTS.md as a tested review-policy artifact.
+- `INS-260627-F457` Because a PR gate sits at the chokepoint of the SDLC, an AI code reviewer can enforce both code-level concerns (security, efficiency) and process-level requirements (block PRs below a coverage threshold) in one place.
+- `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 - `INS-260625-4078` A measured slowdown in expert open-source work argues against retiring human review as a near-term stable bottleneck.
 - `INS-260625-6C29` Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
 - `INS-260403-DED4` The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.

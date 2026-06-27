@@ -56,7 +56,6 @@ stance: >-
   enforcing environment isolation, mandatory warm-up runs, and versioned
   reproducible artifacts.
 related:
-  - INS-260625-79ED
   - INS-260627-8D79
   - INS-260627-DE41
   - INS-260625-FFDF

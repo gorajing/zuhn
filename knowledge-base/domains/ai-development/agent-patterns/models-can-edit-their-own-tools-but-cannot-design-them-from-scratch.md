@@ -56,7 +56,7 @@ related:
   - INS-260501-35E3
   - INS-260505-1684
   - INS-260514-AE82
-  - INS-260605-E9E2
   - INS-260605-117F
+  - INS-260605-D0A0
 ---
 Andon Labs has tested self-modifying harnesses (letting a model read its own transcripts and rewrite its system prompt and tools) and found a consistent asymmetry: models are weak at understanding what tools they need to succeed at a task when starting from nothing, but reasonably good at modifying a provided baseline — noticing an unused tool or a missing one and adjusting. Asked to build, say, an inventory system from scratch, models default to elaborate schemas and unnecessary complexity rather than the continuous, minimal iteration a human would do. The practical guidance for agent and harness builders: seed agents with a deliberately minimal, self-descriptive baseline toolset and let them adapt it, rather than expecting zero-to-one tool design. The team marks this as 'very likely to change,' so it is a snapshot of current capability rather than a permanent limit — hence time-sensitive.

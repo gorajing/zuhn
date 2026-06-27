@@ -47,7 +47,6 @@ stance: >-
   physics at exactly one size, making us blind to how forces rebalance at
   different scales.
 related:
-  - INS-260329-425B
   - INS-260330-4824
   - INS-260626-B134
   - INS-260326-DBEF

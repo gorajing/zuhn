@@ -58,11 +58,12 @@ related:
   - INS-260404-177F
   - INS-260410-B3C2
   - INS-260501-033E
-  - INS-260514-CEEA
   - INS-260625-78EC
   - INS-260603-50B1
   - INS-260603-915A
+  - INS-260514-CEEA
   - INS-260625-E696
+  - INS-260627-0C9E
 ---
 Several large companies have begun measuring per-engineer AI token consumption — Meta and Microsoft via leaderboards, Salesforce via a minimum monthly spend (~$175). Because the number leaks into performance reviews ('low token count, clearly not even trying'), engineers token-max: asking agents to summarize docs they could read faster themselves, or running autonomous agents to 'build junk' purely to move the number up. This is the lines-of-code and PR-count failure repeating itself — whatever gets measured gets gamed.
 

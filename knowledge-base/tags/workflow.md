@@ -5,14 +5,6 @@
 - `INS-260605-46A8` For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260322-B6DE` Every AI employee should map to one of seven business operations stages: outreach, discovery, proposal, sales, onboarding, retention, and competitive intelligence.
-- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
-- `INS-260320-93E1` Planning is king — always use planning mode before implementation; never let the builder start without plans.
-- `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
-- `INS-260320-8F12` Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
-- `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
-- `INS-260320-DC3C` Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
-- `INS-260320-47DC` If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
-- `INS-260320-0127` Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
 - `INS-260605-CE25` Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
 - `INS-260626-18A3` When the gap between logging an issue and an agent opening a PR shrinks to minutes, every early alignment checkpoint disappears and lands on review instead.
@@ -23,6 +15,14 @@
 - `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260605-B4B9` Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
 - `INS-260627-C3CE` Compress a 5M-token codebase into a 2,000-word spec via three validated phases — research, plan, implement — so review happens in minutes and the implementation phase becomes mechanical.
+- `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
+- `INS-260320-93E1` Planning is king — always use planning mode before implementation; never let the builder start without plans.
+- `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
+- `INS-260320-8F12` Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
+- `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
+- `INS-260320-DC3C` Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
+- `INS-260320-47DC` If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
+- `INS-260320-0127` Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260410-5036` Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260619-CBFA` Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
@@ -32,7 +32,7 @@
 - `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
 - `INS-260626-B09B` AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax.
 - `INS-260320-105E` The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.
-- `INS-260409-655B` Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
-- `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
 - `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
 - `INS-260409-CB44` Separate the sound-design session from the composition session — farm samples first, then arrange in a different tool using only the harvested material.
+- `INS-260409-655B` Expert users know what is missing because they have a complete workflow mental model — mass-market users do not.
+- `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.

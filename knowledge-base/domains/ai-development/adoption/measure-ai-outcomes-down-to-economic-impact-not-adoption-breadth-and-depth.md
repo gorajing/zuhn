@@ -62,8 +62,9 @@ related:
   - INS-260625-C735
   - INS-260627-8ED0
   - PRI-260321-14D8
-  - INS-260603-50B1
+  - INS-260627-68CA
   - INS-260627-75D7
   - INS-260627-0D0C
+  - INS-260627-1EC5
 ---
 A surprising survey result: enterprises stuck as bottom performers were frequently not measuring speed at all, and only 10% were measuring productivity — most that measured anything tracked adoption breadth and depth (how many users, how heavily used). McKinsey's counter is a holistic measurement system spanning three linked layers. Inputs: investment in coding/AI tools plus time and resources in upskilling and change management. Outputs: not just velocity and capacity, but developer NPS and craft enjoyment (are people enjoying the work or more frustrated?) and code health — security, quality, and resilience, using mean-time-to-resolve priority bugs as a resiliency proxy. Economic outcomes (what the C-suite cares about): time to revenue, price differential for higher-quality features, customer expansion, and cost reduction per pod. Measuring outcomes rather than adoption is what lets you pinpoint issues and course-correct quickly — and it pairs with the harder truth that scaling AI is a change-management problem of getting 20-30 small things right simultaneously (communication, incentives, hands-on upskilling, coaching in the first critical sprints), not a tool-rollout. Rollouts without this reset show usage that spikes then drops off with no impact change.

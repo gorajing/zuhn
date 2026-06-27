@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 158 insights
+> 159 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -145,6 +145,7 @@
 - `INS-260424-123B` [medium] Logan Kilpatrick: this is going to increase the demand for traditional developers — there will be a stopping point of how far you can go without understanding the technology, and people need a developer to partner with.
 - `INS-260403-7D1D` [medium] Software engineering's vulnerability to AI reveals it was always more routine cognitive work than the creative profession engineers believed it to be.
 - `INS-260405-B204` [medium] Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
+- `INS-260627-1297` [medium] Empower support to ship fixes with AI codegen — they hold three structural advantages engineers lack, and it doubles as an engineering pipeline.
 - `INS-260514-1A3D` [medium] Scientific scopes that cost 2 FTE × 6 months mid-2025 cost 2 weeks solo by late 2025 — a 12-24x compression that reprices what 'a project' means.
 - `INS-260423-FF53` [medium] Aaron Levie: there is 100% a role that 500,000 to a million jobs will be created for — agent operators who know MCPs, CLIs, skills, agents.md files, and how to redesign workflows for agents not people.
 - `INS-260514-78B3` [medium] AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.

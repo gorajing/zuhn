@@ -64,11 +64,11 @@ stance: >-
   future more accurately.
 related:
   - INS-260602-1DF1
-  - INS-260605-3872
   - INS-260625-E1AA
   - INS-260627-0BC1
   - INS-260605-E54A
   - INS-260321-2482
+  - INS-260627-AF4E
   - INS-260626-80F1
 ---
 Isaac Ward's LeJEPA talk frames a live fight in both research and startups: model-free vs model-based policies. Model-free maps observations directly to optimal actions with no explicit representation of the future; model-based trains an explicit world model and uses it to predict the outcomes of candidate actions. Model-free policies are good and even contain implicit world models in their weights, but they show brittleness out-of-distribution and don't natively expose how confident they are.

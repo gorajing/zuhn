@@ -51,10 +51,10 @@ stance: >-
   collapse.
 related:
   - INS-260423-5998
+  - INS-260627-8428
   - INS-260423-B01D
   - INS-260423-FB36
   - INS-260403-BEB3
-  - INS-260330-7ED0
 evidence:
   - id: INS-260330-7ED0
     type: CHALLENGES

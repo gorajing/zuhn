@@ -51,10 +51,10 @@ stance: >-
   default because capability cuts against safety and cost.
 related:
   - INS-260605-0C88
+  - INS-260627-AF4E
   - INS-260627-C727
   - INS-260605-9976
   - INS-260327-BF89
-  - INS-260326-2410
 ---
 Intuition says a bigger model yields a better agent, but in deployment the relationship breaks down. Some jailbreaks work *better* on larger models: wrap a malicious instruction inside a poem and a low-end model won't even parse it, while a capable model decodes it and executes the hidden command. Larger models also cost more tokens and run slower on tasks as simple as arithmetic.
 

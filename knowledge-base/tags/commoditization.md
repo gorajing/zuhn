@@ -11,6 +11,7 @@
 - `INS-260410-43E4` GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
 - `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
 - `INS-260405-3805` AI is eating software faster in Europe, shortening competitive windows for cloud companies.
+- `INS-260627-3543` Assume general-purpose platforms will commoditize parts of your internal AI tooling; defend the layer they can't replicate — orchestration plus your own context.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260409-BE4C` Chamath's hot take: brand-based pricing power is going to zero because cheaper/faster/better products now dominate on every dimension, as Tesla did to German luxury and BYD is doing to global automakers.
 - `INS-260412-E3CC` In 1974 it was illegal to fly NYC-LA for less than $1,442 (inflation-adjusted); deregulation enabled a 50% real price drop over three decades.

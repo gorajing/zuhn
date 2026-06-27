@@ -14,6 +14,7 @@
 - `INS-260625-43B3` He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
 - `INS-260410-8E1C` RL broadcasts a single final-reward bit across an entire trajectory, upweighting tokens from wrong paths that happened to end in the right answer — it's terrible, just less terrible than imitation.
 - `INS-260323-9BAB` Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
+- `INS-260627-8125` Beyond scaling RL environments, embed expert developers as reward models who score what behaviors developers actually trust and enjoy.
 - `INS-260605-C46E` Representation alignment with a pretrained encoder makes generative models converge ~70x faster, but the frozen encoder becomes a hard ceiling you can't scale past.
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260624-93AC` Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch.

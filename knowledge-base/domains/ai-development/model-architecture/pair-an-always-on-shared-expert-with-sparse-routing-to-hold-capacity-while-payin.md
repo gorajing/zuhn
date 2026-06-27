@@ -53,10 +53,10 @@ stance: >-
   of it on any given token.
 related:
   - INS-260605-9F16
+  - INS-260627-846D
   - INS-260327-EE5B
   - INS-260325-8F49
   - INS-260626-69EF
-  - INS-260413-7816
 ---
 Gemma 4's MoE block replaces the standard feedforward network with 128 small feedforward experts, of which a router selects 8 per forward pass, plus a single shared expert (3x a normal expert's size) that fires on every pass. This separation captures the computation common to all tokens in the always-on shared expert while reserving the sparse, routed experts for token-specific specialization.
 

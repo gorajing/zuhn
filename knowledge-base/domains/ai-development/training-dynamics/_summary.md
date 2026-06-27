@@ -1,7 +1,8 @@
 # Topic: training-dynamics
 
-> 24 insights
+> 26 insights
 
+- `INS-260627-AF4E` [high] You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
 - `INS-260410-78D3` [high] For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
 - `INS-260410-D3A7` [high] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
 - `INS-260410-5F60` [high] Autograd frameworks don't make neural nets 'just work' — gradient-level bugs like dead neurons, saturated nonlinearities, and miscomputed loss-vs-gradient clipping require understanding backprop internals to diagnose.
@@ -21,6 +22,7 @@
 - `INS-260410-6FA3` [high] Track log10(std(lr * grad) / std(param)) per layer during training and aim for roughly -3 — if it's much lower the network trains too slowly, if higher it's likely unstable, and per-layer asymmetry reveals miscalibrated initialization.
 - `INS-260627-FCAE` [medium] Small batch sizes let environment randomness and a narrow slice of opponents dominate each weight update, reinforcing suboptimal strategies and causing unstable training or collapse.
 - `INS-260605-5CCC` [medium] For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting).
+- `INS-260627-63F2` [medium] CWM's async RL eliminates pipeline stalls by queuing many checkpoints into samplers and many trajectories into trainers, so neither side waits — and it stays near-on-policy because high data volume absorbs the staleness.
 - `INS-260624-37C3` [medium] Long agent rollouts make inference speed a core training-system constraint.
 - `INS-260624-93AC` [medium] Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch.
 - `INS-260627-6A8B` [medium] Because an RL reward is just one bit (right/wrong) while SFT supervises every token, RL can reach the same accuracy with vastly fewer trainable parameters — even single digits.

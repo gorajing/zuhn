@@ -2,6 +2,13 @@
 
 - `INS-260410-D04D` Bubblewrap on Linux and seatbelt on macOS provide subprocess-inclusive sandbox boundaries without container overhead.
 - `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
+- `INS-260619-F7E3` Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
+- `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.
+- `INS-260605-41AE` Cloud agents run in isolated GitHub Actions sandboxes with whitelisted network access and no permission to push to main, so even a misbehaving agent is contained.
+- `INS-260605-BC6F` If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
+- `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
+- `INS-260627-20F9` Let the agent compose rich programs, but make execution depend on a separate policy boundary that checks effects rather than trusting the generated code.
+- `INS-260605-4877` Define the agent's workspace as a manifest, not as an implicit container setup.
 - `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260625-DCE4` Most sandboxes start from a full VM and add security around it; the safer model starts from nothing — only JavaScript, no fetch, no env vars — and grants explicit capabilities.
 - `INS-260605-1C30` If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
@@ -12,13 +19,6 @@
 - `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
 - `INS-260410-E233` Fewer approval prompts inside well-defined sandboxes produce safer outcomes than many prompts against a trust-nothing baseline.
 - `INS-260410-CA42` Filesystem and network isolation are coupled defenses — either alone leaves an agent compromise trivially exploitable.
-- `INS-260619-F7E3` Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
-- `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.
-- `INS-260605-41AE` Cloud agents run in isolated GitHub Actions sandboxes with whitelisted network access and no permission to push to main, so even a misbehaving agent is contained.
-- `INS-260605-BC6F` If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
-- `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
-- `INS-260627-20F9` Let the agent compose rich programs, but make execution depend on a separate policy boundary that checks effects rather than trusting the generated code.
-- `INS-260605-4877` Define the agent's workspace as a manifest, not as an implicit container setup.
 - `INS-260605-9976` One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260605-3206` The sandbox should be replaceable; the agent run should not be.
 - `INS-260605-DF82` For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.

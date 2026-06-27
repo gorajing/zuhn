@@ -1,9 +1,11 @@
 # Tag: compensation
 
+- `INS-260627-2F3C` People under-use AI not because it's bad or they're stubborn, but because their pay doesn't change whether they squeeze out incremental output or not.
 - `INS-260627-E7AE` Circuit breakers (open after N consecutive failures, fail fast, half-open to retest, close on success) stop one flaky agent from cascading failures across the workflow; the saga/compensation pattern gives every agent an execute and a reversible compensate method so a mid-workflow failure walks backward and rolls the system to its initial state.
 - `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260330-ACDA` Salary sharing in tech primarily serves status positioning, not transparency.
 - `INS-260330-B306` Developer satisfaction with pay is driven by peer comparison ($50K→$225K→$900K→$25M chain), not absolute income levels.
+- `INS-260627-4EB7` Each historical pay model fails on its own terms: hourly punishes speed, fixed-bid invites padded estimates, salary-plus-bonus invites clock-watching, and equity only motivates the rare risk-tolerant person at a company that actually exits.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260410-5474` Trader Joe's pays crew members 40–150% above industry comp and rotates everyone through every role — no dedicated cashiers, baggers, or stockers — so any employee can knowledgeably answer any product question.
@@ -32,6 +34,7 @@
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260410-282E` Kelly Johnson's inverted principle: 'I give raises to the guy who supervises the least — that means he's doing more and taking more responsibility.'
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
+- `INS-260627-D331` Pay engineers like salespeople — a flat base plus a per-story-point fee on accepted tickets — so that using AI to ship more, faster, directly increases their income.
 - `INS-260405-F369` Inequality statistics are systematically biased because safe, unfireable jobs carry real economic value that never enters the measurement.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-8A1D` Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive than competitors.

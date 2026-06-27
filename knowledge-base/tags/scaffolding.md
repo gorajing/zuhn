@@ -2,6 +2,7 @@
 
 - `INS-260625-7DC7` Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
 - `INS-260625-1920` Model identity is not enough; the harness is part of the measured system.
+- `INS-260627-0D20` Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - `INS-260627-277A` When in doubt, delete scaffolding and trust the model to explore — most workarounds you build for model flaws will be obsolete in 3-6 months.
 - `INS-260410-CD79` Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
 - `INS-260605-E9E2` Get a feel for each model's spiky weak spots, fill those gaps with harness scaffolding, then delete that scaffolding once a later model internalizes the capability.

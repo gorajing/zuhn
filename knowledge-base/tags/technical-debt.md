@@ -2,13 +2,13 @@
 
 - `INS-260627-5BE1` If your org resisted API-first platforms, proper docs, or local-friendly tooling on other priorities, use AI — which everyone from executives to ICs is now watching — as the justification to implement them.
 - `INS-260404-B18A` Nubank used Devin to migrate a 6-million-line ETL monolith in weeks instead of the estimated 18 months with 1,000 engineers.
-- `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
-- `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
-- `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260627-C87B` Agents are trained to write code that runs and tests pass, so they default to silent-recovery patterns (read config, fall back to defaults) that create brittle systems a human would feel bad writing.
 - `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
 - `INS-260625-868D` Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
 - `INS-260410-B0D6` Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
+- `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
+- `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
+- `INS-260404-5440` Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260410-8092` Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260627-11E7` Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet.
 - `INS-260627-0A85` When an agent analyzes a codebase, technical debt doesn't register as debt — it's just another pattern to preserve, so AI adds layers on top of tangled accidental complexity instead of untangling it.

@@ -53,6 +53,7 @@ related:
   - INS-260605-6F98
   - INS-260403-141E
   - INS-260323-8D12
-  - INS-260627-1EF5
+  - INS-260627-36DE
+  - INS-260627-E858
 ---
 Borrowing Yuval Noah Harari's framing from 'Nexus', Szoke prefers 'alien intelligence' over 'artificial intelligence': LLMs are the first non-human systems to produce human language, but their low-level mechanism — predicting tokens in streams — differs fundamentally from human cognition. The practical consequence is that their failure modes are unexpected to us. AI-generated code often presents with sensible variable names, good comments, and clean structure, yet harbors a subtle bug or leans on a heuristic where the real value could have been checked directly and more reliably. The surface cues humans use to gauge code quality are decoupled from correctness in AI output, so reviewers should not let polish stand in for trust — and should prefer mechanisms (like a compiler) that check the actual thing rather than the appearance of it.

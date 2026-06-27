@@ -5,8 +5,8 @@
 - `INS-260626-A08F` Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
 - `INS-260625-E292` Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
 - `INS-260410-0741` Nadella says the first thing a working quantum computer lets you do is design the next one, because simulating atom-level gate construction is exactly the workload classical hardware cannot handle.
-- `INS-260412-77C6` Building a Dyson Sphere requires Dyson Sphere-level energy — a bootstrapping paradox resolved by starting small and using exponential self-funding.
 - `INS-260327-F3F0` Napoleon's Italian campaign funded itself through war indemnities and looting — each victory paid for the next advance, removing dependence on the cash-strapped French government.
+- `INS-260412-77C6` Building a Dyson Sphere requires Dyson Sphere-level energy — a bootstrapping paradox resolved by starting small and using exponential self-funding.
 - `INS-260409-BC24` Raise after revenue, not before — AI-era timelines make the old sequencing obsolete.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.

@@ -1,7 +1,7 @@
 # Tag: minimalism
 
-- `INS-260402-0DC9` Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260605-5C58` 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
+- `INS-260402-0DC9` Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260627-9BC5` Terminal Bench's Terminus harness — which gives the model only tmux keystrokes, no file tools, no sub-agents — outscores the native harnesses of the same models, because you don't need 10,000 tokens to tell a model it's a coding agent; post-training already made it one.
 - `INS-260404-50F7` Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 - `INS-260403-D0EE` Beyond a threshold, your stuff starts making your decisions for you.

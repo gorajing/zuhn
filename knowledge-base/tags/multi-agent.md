@@ -5,10 +5,9 @@
 - `INS-260327-C1A4` Managing multiple agents individually recreates the human bottleneck -- the solution is orchestrator agents (like Poya managing Ppojjak) that handle agent supervision, freeing humans for higher-level direction.
 - `INS-260405-F26B` ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260413-11C9` Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
+- `INS-260627-846D` M2's 10B active parameters make it cheap enough to spin up many parallel copies, turning model size into a multi-agent scalability feature.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
-- `INS-260524-2346` Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
-- `INS-260605-C965` Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
@@ -46,6 +45,8 @@
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
 - `INS-260627-E7AE` Circuit breakers (open after N consecutive failures, fail fast, half-open to retest, close on success) stop one flaky agent from cascading failures across the workflow; the saga/compensation pattern gives every agent an execute and a reversible compensate method so a mid-workflow failure walks backward and rolls the system to its initial state.
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
+- `INS-260605-C965` Use manager orchestration for synthesis; use handoffs for full takeover.
+- `INS-260524-2346` Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
 - `INS-260605-6A0A` Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
 - `INS-260625-3DDC` When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt.
 - `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.

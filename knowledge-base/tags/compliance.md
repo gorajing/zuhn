@@ -4,9 +4,9 @@
 - `INS-260403-1106` ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260330-5DCA` The vine robot intubation device finds the trachea not through sensors or cameras but through passive compliance — its softness lets it naturally follow the correct anatomical path.
-- `INS-260627-4D17` Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - `INS-260605-C00C` Unlike an audit log that records what happened in time order, a context graph organizes decisions by entity and relationship and preserves why they were made — making agent decisions explainable and auditable.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
+- `INS-260627-4D17` Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - `INS-260605-683B` Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
 - `INS-260627-BEEB` Apply PII masking with buffer management early in the pipeline so credit card numbers, passwords, and personal data never hit the LLM's memory banks or cloud endpoint.

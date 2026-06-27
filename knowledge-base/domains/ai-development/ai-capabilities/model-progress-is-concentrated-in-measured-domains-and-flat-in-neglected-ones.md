@@ -56,11 +56,11 @@ stance: >-
   code, while neglected domains such as game design, law, finance, and creative
   writing have barely improved.
 related:
+  - INS-260627-68CA
   - INS-260329-B062
   - INS-260403-22C2
   - INS-260626-518C
   - PRI-260321-14D8
-  - INS-260627-E4F9
 ---
 Slicing Arena's expert prompts into categories reveals that progress is profoundly uneven. Quantitative work (math, physics) saw dissatisfaction fall sharply — matching the perception that models got much better at it. But on a fixed scale, creative writing improved only modestly, and law, finance, and game design barely moved. Gostev notes that LLMs still 'have no idea how to build actual games' — mechanics are incoherent and unchallenging — even accounting for people asking for more ambitious games now than two years ago.
 

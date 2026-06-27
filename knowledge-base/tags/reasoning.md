@@ -14,11 +14,11 @@
 - `INS-260409-E776` Math olympiad AI scores jumped from ~65% to ~95% in a few months — the benchmark is saturating and will stop discriminating between frontier models soon.
 - `INS-260327-95D3` OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260405-CCB4` AI development offers an empirical path to proving which cognitive principles are prerequisites for intelligence rather than contingent human conventions.
-- `INS-260627-6E3C` A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
-- `INS-260321-703F` Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
 - `INS-260410-095B` Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260626-2A5F` Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
 - `INS-260327-35C7` Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
+- `INS-260627-6E3C` A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
+- `INS-260321-703F` Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
 - `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260627-FFC8` KVarN's cache pipeline rotates and variance-normalizes each tile before low-bit rounding.
 - `INS-260410-0EFE` A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -27,17 +27,19 @@
 - `INS-260327-9BA2` LLMs manipulate language so well that people mistake fluency for intelligence, but they cannot invent or truly reason.
 - `INS-260410-988F` AI problem-solving is trial-and-error at scale, not cumulative — it can jump and fail repeatedly, but it can't reach a handhold, stay there, and climb from it.
 - `INS-260323-A5EC` LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
+- `INS-260627-37CC` By learning the patterns of execution dynamics rather than running code to completion, a world model can give useful approximate answers to problems like halting that are impossible to decide exactly.
 - `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
 - `INS-260328-B19D` Zuckerberg revealed that coding was deprioritized in Llama 2 but became central to Llama 3 after discovering code training makes models more rigorous across all question types.
 - `INS-260403-CDB0` DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
+- `INS-260627-8C59` A world model is a parameterization of state-action-transition; an LLM is a mechanism that consumes that parameterization, so treating them as competing paradigms is a category error.
 - `INS-260605-015B` Because diffusion attends to future tokens, it can revise an answer it guessed early once its reasoning finishes — autoregressive causal attention cannot.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260501-FE35` A 7M-parameter TRM beats a frontier LLM on ARC-AGI by recursing the same weights at inference time — recursion is a scaling axis distinct from parameters.
 - `INS-260625-26FE` Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
-- `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260625-D790` The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
+- `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260325-82E8` The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
 - `INS-260403-213D` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260412-75FF` Single-example reasoning demands surfacing which properties you assume are universal versus local.

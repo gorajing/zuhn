@@ -51,11 +51,11 @@ stance: >-
   (typically Prometheus sidecars) to capture token generation rates and
   model-specific performance data that platform-provided metrics do not expose
 related:
+  - INS-260627-36DE
   - INS-260501-A1C7
   - INS-260423-2B80
   - INS-260626-BAE9
   - INS-260625-DD6B
-  - INS-260626-69EF
   - INS-260605-7B83
   - INS-260605-CFB7
   - INS-260627-5EB3

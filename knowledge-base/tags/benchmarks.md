@@ -1,5 +1,6 @@
 # Tag: benchmarks
 
+- `INS-260627-27E0` A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-ED7E` METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260625-BB42` An agent eval measured in dollars earned can never saturate, while percentage benchmarks lose all signal once models cluster near the top.
 - `INS-260627-0A69` Start by capturing historical runs and back-testing them; track 'agent smell' (tool-call count, retries, latency) for sanity checks, and test the deterministic tools as plain functions.
@@ -21,15 +22,16 @@
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
 - `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
 - `INS-260626-4E80` The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
-- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
-- `INS-260625-6345` The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 - `INS-260605-2186` Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
 - `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
+- `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
+- `INS-260625-6345` The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 - `INS-260409-ADD0` MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
 - `INS-260605-0C13` On benchmarks like MTEB, open-source models tuned for narrow tasks beat managed services, and low-parameter models (e.g. Gemma) post ELO scores above much larger models — so choosing open source is no longer a tradeoff against quality.
 - `INS-260627-DE41` Treat a benchmark as a continuously-updated stream of post-cutoff problems, not a frozen set, so you can both measure and combat contamination while recalibrating difficulty as models improve.
 - `INS-260627-D9CE` METR converts task difficulty into the human time-to-complete at which a model succeeds 50% of the time, yielding a remarkably straight exponential trend (doubling every 6-7 months).
+- `INS-260627-36DE` High-benchmark models often 'suck' when plugged into a real environment, so MiniMax watches downloads and OpenRouter token usage as the truer quality signal.
 - `INS-260625-B9A5` Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters.
 - `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260605-B66C` For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
@@ -58,6 +60,7 @@
 - `INS-260410-9D04` BrowseComp answers leaked through 20+ distinct sources, and the act of running agents on them permanently caches query trails — the benchmark degrades every time it's used.
 - `INS-260605-4856` Frontier models cluster within a few points on SWE-bench Pro while the harness alone swings results ~22%, so you may be measuring the harness, not the model.
 - `INS-260514-3974` AI benchmarks are organized in three tiers — capabilities (cheap, narrow), tasks (expensive, end-to-end PhD-month problems), and processes (multi-team coordinated outputs) — and the third tier is the frontier that doesn't yet exist.
+- `INS-260627-AF4E` You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
 - `INS-260514-5AEF` Diligence any AI product with: 'Show me your benchmarks' AND 'what's the delta vs vanilla Claude Code without your harness?' — if they can't answer, they have no moat beyond the base model.

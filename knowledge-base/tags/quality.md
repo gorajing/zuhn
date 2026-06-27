@@ -3,13 +3,14 @@
 - `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
 - `INS-260525-1CE3` Both speakers: 'anyone can build, but there aren't many high-quality products' — domain knowledge plus conviction (keep asking) is what closes the gap, and maintainability still needs real knowledge.
 - `INS-260626-6012` Agents give back the time implementation used to consume; the winning move is fewer, better things, not a bigger pile of vibe-coded slop.
+- `INS-260627-F893` Slop is a quality and taste failure that humans produce as readily as AI, so anti-slop discipline is about judgment, not about banning AI.
 - `INS-260405-10DF` Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.
 - `INS-260627-EC83` Don't install the 130-agent template; start with the agents you need and add one only when keeping quality high necessitates the split.
 - `INS-260625-9C3B` Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260320-10CC` 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
-- `INS-260410-3B3E` Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
+- `INS-260410-3B3E` Munger's core life strategy — which Senra identified as the dominant theme of their 3-hour dinner — is that great businesses, great spouses, and great friends simply generate fewer crises than mediocre ones, so front-loading quality selection solves 99% of downstream problems.
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
 - `INS-260626-A084` Linear's Quality Wednesdays make each engineer find and present one quality fix weekly; the real payoff is that everyone stays on the lookout for quality, introducing fewer regressions.
 - `INS-260410-25AF` Great writing propagates efficiently through elite networks in roughly a week — audience compounding is an artifact of the creator slowly getting better, not of slow network accretion.
@@ -18,6 +19,7 @@
 - `INS-260626-A893` Quality has no measurable metric and doesn't move revenue until it does, so it gets neglected — then a higher-quality competitor slowly drains your users with no AB test to warn you.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
+- `INS-260627-0838` AI acts like a funhouse mirror that makes any one attribute 10x larger, so it widens the gap between great and weak hires instead of leveling it.
 - `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - `INS-260423-2134` Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do.
 - `INS-260626-18F5` Bugs arrive at a constant rate, so fixing them now versus later costs the same total effort — you just pay a one-time cost to drain the backlog to zero.

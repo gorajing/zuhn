@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260330-A1D2
   - INS-260403-D227
-  - INS-260626-5367
   - INS-260627-8ED0
   - INS-260626-BDAB
+  - INS-260627-6F60
   - INS-260627-9D9A
 ---
 The widely-cited METR study (despite methodological flaws) surfaced a striking dissociation: 100% of participating engineers reported feeling more productive with AI coding assistance, while the measured data showed they were actually 19% slower. The proposed mechanism is 'induced flow' — AI produces a pleasant, fast-feeling working state that the brain reads as productivity regardless of actual throughput. The good feeling is real; the productivity it implies is not.

@@ -54,8 +54,8 @@ related:
   - INS-260328-F782
   - INS-260403-5056
   - PRI-260406-7710
+  - INS-260627-68CA
   - INS-260403-1EFF
-  - INS-260327-0700
 ---
 After analyzing 8,000 YC applications, conventional filters like idea quality, market size, résumé depth, and early traction proved to be weak signals for predicting startup outcomes. The strongest indicator was grit under pressure, which led evaluators to redesign their screening process to probe resilience from multiple angles rather than over-indexing on initial metrics.
 

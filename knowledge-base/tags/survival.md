@@ -1,7 +1,7 @@
 # Tag: survival
 
-- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260330-051F` All death results from irreversible homeostatic failure, regardless of the proximate cause.
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260412-CF9B` Consciousness likely originated as a survival mechanism for directing hungry organisms toward food sources.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.

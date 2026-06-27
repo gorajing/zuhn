@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 134 insights
+> 136 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -83,6 +83,7 @@
 - `INS-260505-97AD` [high] Universities can be patient AND fast. Right now they're patient AND bureaucratic — the second is killing the first.
 - `INS-260505-C5D8` [high] Universities can't out-spend Meta on compute. They can out-open-source Meta on weights, and out-patient Meta on long-horizon research.
 - `INS-260625-0A08` [high] Break a model response's rightness into many individually-answerable rubric questions to pinpoint where it actually fails, then generate targeted data to fix that behavior — while GRPO still consumes only the single pass/fail reward.
+- `INS-260627-3F9B` [high] A case-study team saw PRs rise 14% after AI adoption while code quality fell 9%, rework rose 2.5×, and effective output stayed flat — measuring PR counts alone would have falsely declared a win.
 - `INS-260514-AC1D` [high] GPT is a really good autocomplete. The cake isn't the autocomplete — it's the internal representations the model built while learning to autocomplete.
 - `INS-260626-BA05` [medium] RL crushes a whole trajectory of real-world correction into one reward scalar; SDPO instead gives a teacher privileged hints and matches the student to it, training on actual text guidance.
 - `INS-260405-F72B` [medium] LLM grokking, like penicillin, was discovered by accident—and this accidental-discovery pattern is more characteristic of deep learning progress than theory-driven research.
@@ -110,6 +111,7 @@
 - `INS-260505-969C` [medium] Don't double the number of papers — accelerate fusion energy by 3 years. The metric is mission-level outcome, not output count.
 - `INS-260409-E080` [medium] Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260505-864E` [medium] Same scaling law that took models from Olympiad silver to gold also applies to research-grade problems — just with much longer proof traces.
+- `INS-260627-0C9E` [medium] Business KPIs (revenue, NRR) are too confounded by sales, macro, and product strategy to attribute to AI; engineering outcomes give a clean signal — and can be measured retroactively from git history.
 - `INS-260505-4EB7` [medium] Anthropic and others are studying when language is learned during training, not just whether the final model speaks it.
 - `INS-260625-5694` [medium] World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
 - `INS-260501-428B` [medium] Six years after Kaplan's language scaling law, the dexterity equivalent appeared: clean log-linear pretraining-hours to validation-loss curve.

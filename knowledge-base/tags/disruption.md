@@ -15,10 +15,10 @@
 - `INS-260412-8C4F` Kodak invented the digital camera and Xerox invented the GUI, yet both lost to competitors because their organizations couldn't sacrifice existing revenue to pursue the new paradigm.
 - `INS-260405-C0AF` Surviving retailers like Costco, Ross, Aldi, and Dollar General prove physical retail isn't dying — only undifferentiated or maladapted retail is.
 - `INS-260405-8532` With U.S. labor costs at ~$18.6 trillion (60% of GDP), even partial AI-driven displacement would constitute the largest economic value transfer in modern history.
-- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260327-2964` Prussia's army was considered Europe's finest based on Frederick the Great's victories 50 years earlier — but it had not modernized and collapsed in a single day.
 - `INS-260327-203C` China, the world's most advanced civilization for centuries, was humiliated by Western powers because it stopped innovating while Europe underwent the Industrial Revolution.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
+- `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.

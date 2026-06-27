@@ -1,7 +1,7 @@
 # Tag: statistics
 
-- `INS-260325-3B28` Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
 - `INS-260626-C3A9` Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects.
+- `INS-260325-3B28` Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
 - `INS-260405-75AC` Staten Island Chuck's 85% accuracy dissolves once you notice he predicts early spring 25 out of 31 times—he's a broken clock in a town where spring usually comes early
 - `INS-260330-ECA9` If you experience one event per second during waking hours, a one-in-a-million event should occur roughly every 35 days — making 'miracles' routine.
 - `INS-260405-D66B` Post-selection outperformance is a mathematical signature of upstream bias, not exceptional talent.

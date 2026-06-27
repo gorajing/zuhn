@@ -2,10 +2,6 @@
 
 - `INS-260329-9115` Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
-- `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
-- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
-- `INS-260625-CC0F` A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
-- `INS-260320-CE36` 85,000 out of 100,000 context tokens were consumed by dependency code — one bash validation hook saved 85% of the context window.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
 - `INS-260627-266C` More context isn't better — quality starts degrading around 50% window fill, and bad context can poison the whole output.
 - `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
@@ -16,6 +12,10 @@
 - `INS-260626-DA0A` Feeding an agent more context isn't the bottleneck — the bottleneck is being able to leverage what you gave it in future sessions.
 - `INS-260605-6591` Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.
 - `INS-260605-9FCF` Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON.
+- `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
+- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
+- `INS-260625-CC0F` A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
+- `INS-260320-CE36` 85,000 out of 100,000 context tokens were consumed by dependency code — one bash validation hook saved 85% of the context window.
 - `INS-260605-DD16` Chat history is a double-edged sword: it preserves style consistency across generations but biases new outputs to imitate earlier ones.
 - `INS-260626-105D` An LLM has a 'smart zone' (~under 100K tokens) and a 'dumb zone' beyond it, so size every task to finish inside the smart zone rather than trusting a 200K or 1M window.
 - `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.

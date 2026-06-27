@@ -10,13 +10,13 @@
 - `INS-260403-F400` Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
 - `INS-260605-7B4C` Treat the context window as a budget to minimize, not a resource to fill, because abundance kills the scrappiness that produces good engineering.
-- `INS-260514-618D` Wild automations come from someone first doing it manually — the creative leap precedes the automation, and trying to start with the automation kills the creativity.
 - `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
+- `INS-260514-618D` Wild automations come from someone first doing it manually — the creative leap precedes the automation, and trying to start with the automation kills the creativity.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260404-4E6D` Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
-- `INS-260627-8378` When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260409-065B` Creativity and relationship-building are what AI can't replicate — hire for both, most firms don't.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
@@ -25,6 +25,8 @@
 - `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-7093` Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
+- `INS-260627-8378` When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
+- `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260403-BC89` Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260325-71DE` Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
@@ -34,8 +36,6 @@
 - `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
-- `INS-260405-020E` Lame-looking early work on ambitious projects is not accurately lame — it's accurately early.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
@@ -58,6 +58,7 @@
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
 - `INS-260404-6A15` Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 - `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
@@ -72,4 +73,3 @@
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260404-09EE` Standard education systems optimize for convergent thinking, systematically destroying the creative capacity that innovation later demands.
 - `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
-- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.

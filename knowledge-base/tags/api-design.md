@@ -1,11 +1,11 @@
 # Tag: api-design
 
+- `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
+- `INS-260410-1B17` Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260329-057F` Destructuring and spread operators embody a design principle where systems that natively support structural decomposition handle evolving data shapes more gracefully.
 - `INS-260605-F064` Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - `INS-260627-DD09` Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
 - `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
-- `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
-- `INS-260410-1B17` Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260626-7359` Stop building REST-to-MCP conversion tools — design the server for the agent (start from how a human would want to interact) and use MCP's rich primitives rather than flattening endpoints into tools.
 - `INS-260626-BC79` GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.

@@ -48,10 +48,10 @@ stance: >-
   possible input.
 related:
   - INS-260330-3B6C
+  - INS-260627-37CC
   - INS-260330-AA4F
+  - INS-260627-6418
   - INS-260330-DF2C
-  - INS-260330-B50A
-  - PRI-260406-4F8E
 evidence:
   - id: INS-260330-3B6C
     type: TRANSFERS_TO

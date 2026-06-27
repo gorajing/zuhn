@@ -62,9 +62,9 @@ related:
   - PRI-260320-097F
   - INS-260410-358E
   - INS-260423-FF52
-  - INS-260423-1C4D
   - INS-260501-8186
   - INS-260625-3464
+  - INS-260626-35A9
 ---
 The threat model for agentic web access has moved up a level. The old defense was blocking—~20% of the web is closed to default AI crawling, per the speaker's figures. The new defense is poisoning: systems like Cloudflare's AI Labyrinth detect a bot and, rather than returning a 403, feed it deliberately fake content. Geo- and device-dependent price discrimination (different hotel prices on phone vs. desktop vs. proxy) compounds the problem—there may be no single 'true' value to retrieve.
 

@@ -12,6 +12,7 @@
 - `INS-260410-1D64` Coca-Cola's early team intuited that you don't want customers thinking about headaches and nervousness when they reach for your drink — you want them thinking about happiness, friendship, and Christmas.
 - `INS-260410-8122` 'Melts in your mouth, not in your hand' sold parents on M&M's by addressing the hidden fear of chocolate-smeared furniture, not the kids' desire for candy.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260410-C688` When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - `INS-260404-8D37` A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
@@ -79,4 +80,3 @@
 - `INS-260403-FBD6` Refusing to budge on low-priority positions drains political capital needed to win the battles that actually matter.
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260403-E209` When stuck at any PMF level, reassess the four P's — persona, problem, promise, product — rather than reflexively iterating on product alone.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

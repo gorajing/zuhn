@@ -5,6 +5,8 @@
 - `INS-260403-949E` Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260501-033E` When the metric becomes the goal, employees do useless agent runs to hit token counts — the canonical Goodhart's Law trap.
 - `INS-260626-EAD3` Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago.
+- `INS-260627-3F9B` A case-study team saw PRs rise 14% after AI adoption while code quality fell 9%, rework rose 2.5×, and effective output stayed flat — measuring PR counts alone would have falsely declared a win.
+- `INS-260627-5D31` Tenex pays engineers per story point but pays strategists on net revenue and customer happiness, so the person scoping and approving tickets has the opposite incentive to the person earning per ticket.
 - `INS-260423-9BA5` Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - `INS-260403-420A` Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260403-5C1D` Authority-imposed tests are hackable proxies; market tests honestly measure only what they actually test.

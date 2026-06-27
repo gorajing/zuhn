@@ -13,10 +13,10 @@
 - `INS-260403-9012` Actions under threat reveal true safety commitments in ways that publications and policies never can.
 - `INS-260403-5086` Both human and AI internals use bizarre geometric encodings that neither system can introspect on, making external dismissals of AI cognition suspect.
 - `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
-- `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
-- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260627-FEB4` Bash is the most powerful agent 'tool' because it is composable, low-context, and lets the agent reuse all existing software while checking its own work.
 - `INS-260626-2F2E` Record the exact code-execution tool version whenever an agent composes tools through code.
+- `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
+- `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260410-2F8D` Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
 - `INS-260626-354E` Concurrency plans should read live provider limits before fan-out.

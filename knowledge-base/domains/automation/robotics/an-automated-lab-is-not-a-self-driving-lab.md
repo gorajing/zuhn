@@ -62,7 +62,6 @@ related:
   - INS-260409-04C8
   - INS-260410-991B
   - INS-260501-A550
-  - INS-260505-3CA0
   - PRI-260411-FB73
 ---
 Krause draws a sharp line between an automated lab and a self-driving lab using a driving analogy. Hands-free cruise control keeps you in the lane and at speed, but you still decide when to turn and execute the turn yourself; a Waymo requires you only to name a destination and handles the entire route. Most lab automation is the former: faster execution of human-directed steps. A self-driving lab is the latter: it generates hypotheses, designs campaigns, runs them, interprets results, and designs the next campaign, all autonomously.

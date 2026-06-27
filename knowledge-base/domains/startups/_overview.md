@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4873 insights across 55 topics
+> 4875 insights across 55 topics
 
 ## Topics
 
@@ -31,7 +31,7 @@
 | growth-marketing | 158 | 2026 YouTube algorithm: subscriber QUALITY matters more than quantity. Mom subscribing (she watches K-drama) tells the algorithm 'K-drama viewers want my content' → wrong audience served → de-prioritized. Don't bootstrap with friends/family. |
 | growth-strategy | 83 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 18 | The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone. |
-| hiring | 78 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
+| hiring | 79 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 92 | Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses. |
 | innovation | 148 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
@@ -40,7 +40,7 @@
 | marketing | 17 | Joslyn (Meta ads PM): LLMs let the platform understand you're 'shopping for a summer Europe trip' or 'a graduation ceremony' rather than just knowing your age/gender/click history — semantic intent replaces demographic proxies as the personalization signal. |
 | mental-models | 7 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | operations | 31 | Only 1% of open-source contributors stay long-term. They maintain everyone else's code. Force-rule: every contribution must be maintainable by a stranger 10 years later. Most teams ignore this — and pay forever. |
-| organizational-design | 29 | Harvey (keynote): AI collapses the org horizontally — one person now does multiple functions instead of one specialist per function — and 'if you collapse horizontally, you naturally collapse vertically'; he reads Meta's ~8,000-person layoff (which eliminated many managers, converting them to ICs) as a preview of this. |
+| organizational-design | 30 | Harvey (keynote): AI collapses the org horizontally — one person now does multiple functions instead of one specialist per function — and 'if you collapse horizontally, you naturally collapse vertically'; he reads Meta's ~8,000-person layoff (which eliminated many managers, converting them to ICs) as a preview of this. |
 | pitch-decks | 8 | As pitch descriptions approach 'could be anything,' their information content approaches zero. |
 | platform-dynamics | 27 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | platform-strategy | 19 | The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. |

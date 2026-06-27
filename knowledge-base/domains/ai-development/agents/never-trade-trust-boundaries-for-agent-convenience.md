@@ -59,13 +59,12 @@ related:
   - INS-260402-2D7B
   - INS-260405-FE94
   - INS-260605-ED35
-  - INS-260605-3AAF
   - INS-260403-0350
   - INS-260627-8B75
+  - INS-260605-3AAF
   - INS-260625-029F
   - INS-260627-8ADF
   - INS-260627-9D3D
-  - INS-260627-79FC
 ---
 Users asked Chrome DevTools to 'remember my choice' so they wouldn't click allow every time the agent shares their screen. In traditional UX that's a clear win — remove the friction. But Hablich argues that when you delegate work to agents, that friction is a trust boundary, and they kept it by design. The reasoning rests on Simon Willison's 'lethal trifecta': private data + untrusted content + external communication is where exfiltration attacks live.
 

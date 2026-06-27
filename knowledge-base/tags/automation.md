@@ -14,18 +14,18 @@
 - `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
 - `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
 - `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
-- `INS-260627-09D8` The unlock for real-world browser agents is operating on the user's authenticated sessions, which a sandboxed cloud browser can never see.
-- `INS-260626-8DD1` Models around 300-350M parameters run fast and efficiently enough to be triggered inside iOS Shortcuts for routine text-processing automation.
-- `INS-260627-37AF` In contact centers the average call lasts 6.5 minutes but after-call work takes 6.3 minutes — a near 1:1 ratio — so AI's leverage is in mechanizing the admin tail, not the conversation.
+- `INS-260626-F14C` Coding agents are 'breaking containment' beyond software into CMS management, ETL syncs, speaker research, and even buying a lobster — any knowledge work an assistant or junior could do.
+- `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
 - `INS-260405-945B` AI removes pressure to develop mid-tier skills, leaving only the highly capable and the completely incapable.
 - `INS-260329-ED44` File I/O and modules transform Python from a calculator into an automation tool — this is the critical capability threshold for practical value.
 - `INS-260329-4751` Python's readability and ecosystem make it the best entry point for automation-focused learners.
 - `INS-260626-BF48` NOVA reports a 13.5x reduction in human-attended time even though GPU-bound training stages keep similar wall-clock duration.
+- `INS-260627-09D8` The unlock for real-world browser agents is operating on the user's authenticated sessions, which a sandboxed cloud browser can never see.
+- `INS-260626-8DD1` Models around 300-350M parameters run fast and efficiently enough to be triggered inside iOS Shortcuts for routine text-processing automation.
+- `INS-260627-37AF` In contact centers the average call lasts 6.5 minutes but after-call work takes 6.3 minutes — a near 1:1 ratio — so AI's leverage is in mechanizing the admin tail, not the conversation.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260321-E9B7` If you're copying the same instructions into multiple projects, that's a signal to create a Skill instead — Skills work across ALL conversations while Projects only work within one.
 - `INS-260320-DC3C` Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
-- `INS-260626-F14C` Coding agents are 'breaking containment' beyond software into CMS management, ETL syncs, speaker research, and even buying a lobster — any knowledge work an assistant or junior could do.
-- `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
 - `INS-260323-D2AA` AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.
 - `INS-260403-7D11` Companies are quietly replacing departing employees with AI agents that deliver 70-80% of human output at a fraction of the cost.
@@ -47,12 +47,12 @@
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260627-4446` Web MCP lets a site register typed tools on the navigator object so agents call named actions directly, instead of mimicking human clicks via screenshots and coordinate-guessing.
+- `INS-260627-8530` GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260626-14A2` Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
 - `INS-260409-94D6` Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260327-9C56` Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
-- `INS-260627-8530` GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - `INS-260626-B833` The old rule was 'know your dataset cold'; the new move is to let the meta-system analyze the data, find failure modes, and generate strategies — even when its outputs look nothing like what a human would write.
 - `INS-260412-B89F` At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
@@ -85,6 +85,7 @@
 - `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
+- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
 - `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260405-487E` AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
@@ -98,4 +99,3 @@
 - `INS-260403-7825` Hyperliquid's 11-person team generating massive revenue demonstrates that AI-era automation can replace headcount with code, concentrating both value and risk.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260402-F62B` Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
-- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.

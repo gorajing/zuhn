@@ -1,6 +1,7 @@
 # Tag: vanity-metrics
 
 - `INS-260627-59CB` Optimize for 'reducible runtime' — the time a user makes zero technical decisions — rather than treating long runtime as a badge of honor.
+- `INS-260627-1EC5` Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260403-8439` Measuring success by spending or job creation rather than actual output is a reliable indicator of organizational dysfunction.
 - `INS-260403-1B8C` Expansion revenue from deeper workflow adoption is durable, but expansion used to mask failing customer acquisition is a delayed detonation that shows up in cohort performance.

@@ -56,7 +56,7 @@ related:
   - INS-260626-6CAE
   - INS-260626-15F3
   - INS-260321-703F
-  - INS-260514-1D60
+  - INS-260627-E858
 ---
 Madura's central argument for DSPy is that a system's design and control flow change far more slowly than the models running under it — new, better models ship almost daily. If your application's value is baked into hand-crafted prompt strings tied to one model, every model upgrade forces a rewrite. DSPy instead has you declare intent as signatures (typed inputs/outputs) and compose modules, deferring the actual prompt construction to adapters and the model. The payoff is 'transferability': you retain the program's intent and control flow while bouncing from model to model as needed.
 

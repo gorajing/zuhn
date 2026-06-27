@@ -54,12 +54,12 @@ related:
   - INS-260320-F78E
   - INS-260327-F625
   - INS-260405-CC9D
-  - INS-260405-A5C8
   - INS-260405-880C
   - INS-260410-9F17
   - INS-260514-DFAE
   - INS-260514-999B
   - INS-260514-C1B3
+  - INS-260603-DFA6
 ---
 Bichard frames 'harness engineering' (crediting OpenAI/Ryan's harness-engineering blog) as encoding as much of your development process as possible into the repository — context files, agents.md, skills, unit tests, anything that gives feedback to the agent. He treats it as an extension of context engineering, but with a distinctive feedback loop: do the work, let the agent run, figure out exactly where it gets lost, then encode that knowledge back into the repo so the agent gets unstuck on future runs.
 

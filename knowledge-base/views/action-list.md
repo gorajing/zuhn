@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6131 actionable insights
+Generated on 2026-06-27 | 6147 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -44,6 +44,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260627-29D9] Production agents moved through the pilot phase faster than expected, so the live constraint is now the human side — enablement, sandboxes, and reduced resistance — not the technology.
 - [INS-260627-647D] Bottom performers weren't even measuring speed and only 10% measured productivity; top performers build a holistic chain from inputs (tool spend, upskilling) through outputs (velocity, developer NPS, code resilience) to economic outcomes (time-to-revenue, cost per pod).
 - [INS-260627-DA32] A '100% AI adoption' mandate just teaches engineers to game the metric ('I'll update my readme every morning and be compliant') without moving any real outcome.
+- [INS-260627-6065] Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
 
 ## ai-development/agent-evals
 - [INS-260625-C1E8] AgentRun gates should distinguish fast blockers from slower calibration signals.
@@ -472,6 +473,10 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260627-8B10] Frontier models span a spectrum from one-shot output to multi-step agentic tool-calling; pick the mode that fits the task instead of forcing every job into the same pattern.
 - [INS-260627-59CB] Optimize for 'reducible runtime' — the time a user makes zero technical decisions — rather than treating long runtime as a badge of honor.
 - [INS-260627-C3CE] Compress a 5M-token codebase into a 2,000-word spec via three validated phases — research, plan, implement — so review happens in minutes and the implementation phase becomes mechanical.
+- [INS-260627-F5A8] Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
+- [INS-260627-0D20] Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
+- [INS-260627-A392] Real environments are noisy, so the model should think again after each tool response rather than reason once and commit to a plan.
+- [INS-260627-8425] Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -887,6 +892,9 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260627-9981] Treat the judge as a hallucinating component too — label a data set by hand, then run a code/match eval that measures whether the judge's labels agree with the human labels, and improve the judge where they diverge.
 - [INS-260627-6F3F] The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
 - [INS-260627-DE41] Treat a benchmark as a continuously-updated stream of post-cutoff problems, not a frozen set, so you can both measure and combat contamination while recalibrating difficulty as models improve.
+- [INS-260627-1EC5] Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
+- [INS-260627-36DE] High-benchmark models often 'suck' when plugged into a real environment, so MiniMax watches downloads and OpenRouter token usage as the truer quality signal.
+- [INS-260627-B6D9] Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -1046,6 +1054,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260625-DD6D] Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
 - [INS-260625-E19F] The first serverless request sat in queue ~41s for cold start while execution took only ~1.5s, so production latency requires configuring always-on 'active' workers.
 - [INS-260627-3251] Make a single AI gateway the only path to models so that unified access, identity-based auth, per-use-case budgets, and central auditing are enforced structurally rather than per-team.
+- [INS-260627-4693] Bloomberg built a 'paved path' — a model gateway, an MCP discovery hub, and a standard deployment platform — to stop 9,000 engineers from chaotically duplicating AI tools, guided by 'make the right thing extremely easy and the wrong thing ridiculously hard.'
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -1341,6 +1350,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260627-007C] Expect to get slower for months when adopting AI dev tools, and don't assume the curve eventually bends up for experienced engineers.
 - [INS-260627-9F46] Each generation tier (autocomplete, agentic codegen, agentic quality workflows) has a higher productivity ceiling, but you only reach the promised 2x by investing in the quality layer, not by generating code faster.
 - [INS-260627-DD22] AI's average productivity effect looks innocuous (~2-3%) only because it averages out companies seeing +20% and -20% swings in change confidence.
+- [INS-260627-6F60] Token usage per engineer correlates only ~0.20 with productivity gains, with a 'death valley' where the heaviest users (≈10M tokens/month) perform worse than moderate users.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -1374,6 +1384,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260627-AD6B] Use the rich English explanations of why an output was wrong — not just a pass/fail score — to drive prompt rewrites.
 - [INS-260627-B072] The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed.
 - [INS-260627-8530] GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
+- [INS-260627-5785] A skill/prompt that explicitly acknowledges slop and tells the model not to produce it visibly improves the output, so 'don't produce slop' is a usable, concrete instruction.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1415,6 +1426,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260625-3E47] SWE-RL adds related files that aren't changed by the PR so the model learns that relevance does not imply a required edit.
 - [INS-260626-21B7] Curating the training data is frequently a better investment of effort than tuning the model, but academic incentives train researchers to ignore data.
 - [INS-260627-34A1] Show the 'how,' not just the numbers: Docker isolation, three mandatory warm-up runs, 1-second GPU metric logging, and timestamped per-run artifacts make a benchmark verifiable.
+- [INS-260627-3F9B] A case-study team saw PRs rise 14% after AI adoption while code quality fell 9%, rework rose 2.5×, and effective output stayed flat — measuring PR counts alone would have falsely declared a win.
 
 ## ai-development/security
 - [INS-260626-F069] Approval records should include tool authority and runtime boundary.
@@ -1437,6 +1449,8 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260627-8431] Developers report their cursor/copilot rules are 'mostly' followed but never rigorously, so quality has to be a closed loop that catches violations at the PR, records what you accepted, and adapts the standard.
 - [INS-260627-3F18] The largest agent speedups came not from new kernels but from rewriting the problem to call faster existing operations.
 - [INS-260627-8674] The authorization refactor only became automatable after the team did one migration entirely by hand — reading code, breaking things, surfacing hidden invariants — then fed that pull request to the agent as a seed.
+- [INS-260627-E284] An 'environment cleanliness index' (tests, types, docs, modularity, code quality) shows ~0.40 R² with AI productivity gains — clean code amplifies AI, and unchecked AI use accelerates the entropy that degrades it.
+- [INS-260627-7122] Automate the context-gathering phase of debugging first — it dominates the time and is where an LLM adds the most value.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -2394,6 +2408,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260409-CE5F] Treat chronic fear as legacy survival code misfiring, not as a report about present reality.
 - [INS-260409-A1B2] Three-column exercise: write the emotions/thoughts/actions of your future self who achieved the goal, contrast with today's, then practice the future-self column as daily behavior.
 - [INS-260412-B769] The loneliness cycle must be broken at three points: what you attend to, how you interpret it, and how you behave in response.
+- [INS-260627-5D31] Tenex pays engineers per story point but pays strategists on net revenue and customer happiness, so the person scoping and approving tickets has the opposite incentive to the person earning per ticket.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -5199,6 +5214,7 @@ Generated on 2026-06-27 | 6131 actionable insights
 - [INS-260605-AEAC] For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
 - [INS-260605-0C2F] Pay enough to make the move viable, then sell impact and environment — because a paycheck won't get people out of bed when the work gets hard.
 - [INS-260627-FBF3] At The Browser Company, a strategy-and-ops employee used self-serve prompt tools one weekend to rewrite all the prompts, unlocking a step-change in product quality and seeding the model-behavior team.
+- [INS-260627-0838] AI acts like a funhouse mirror that makes any one attribute 10x larger, so it widens the gap between great and weak hires instead of leveling it.
 
 ## startups/ideation
 - [INS-260321-E471] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.

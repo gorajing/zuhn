@@ -61,7 +61,7 @@ related:
   - INS-260323-F15D
   - INS-260327-0833
   - INS-260328-FFC3
-  - INS-260404-B18A
+  - INS-260404-6DAD
 evidence:
   - id: INS-260328-FFC3
     type: EXTENDS

@@ -70,6 +70,7 @@ related:
   - INS-260410-3880
   - INS-260413-7B46
   - INS-260501-6ECF
+  - INS-260627-AF32
   - INS-260408-F20F
 ---
 The speakers identify the market structure of the model layer as the dominant variable governing value capture, and openly call its outcome unknowable. The mechanism is direct: with only a couple of players at the frontier, token prices stay high (there is enormous inelasticity for frontier intelligence today); with five at the frontier, prices fall. Lower token prices are better for the broader ecosystem — they let a massive layer of application companies become valuable on top of intelligence, and they reduce the pressure to restructure the labor force as fast. So competition at the model layer is not just a pricing detail; it determines whether value accrues mostly to a few labs or diffuses across a wide application economy.

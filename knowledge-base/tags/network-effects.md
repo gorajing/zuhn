@@ -5,37 +5,37 @@
 - `INS-260330-9FCF` Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
+- `INS-260412-CDDC` Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
 - `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260327-EA4E` Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
 - `INS-260412-826D` WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
 - `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
-- `INS-260412-C17E` Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
 - `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
-- `INS-260412-CDDC` Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
+- `INS-260412-C17E` Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
 - `INS-260404-7680` Each attack stopped and integration added makes the security platform smarter, creating a compounding data moat that new entrants cannot replicate.
 - `INS-260403-3122` The most effective deal-flow strategy is building a small circle of active angels and sharing every deal you invest in with them.
 - `INS-260404-1ADA` Breaking into VC requires overcoming structural barriers where deal flow, reputation, and LP access form self-reinforcing loops favoring incumbents.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260403-92B5` Avoiding YC concentration means missing alpha, not managing risk, because YC network effects drive superior survival and exit outcomes.
-- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260327-D25D` Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260412-65EF` A French ATC strike forced rerouting through Spanish, North African, Swiss, Italian, German, and UK airspace, requiring days of multi-country coordination to manage cascading delays.
 - `INS-260410-A1A9` The 'collective brain' — population size times interconnectedness — explains why humans beat larger-brained Neanderthals and why Eurasia out-innovated other continents.
+- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260403-68CE` A woman's probability of having a child spikes in the 12-24 months after a close friend gives birth, proving fertility decisions spread socially.
 - `INS-260403-D198` Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
 - `INS-260330-C8D7` Research shows that population density and inter-group knowledge transfer — not individual brilliance — determine cultural complexity, with isolated groups like Easter Island reliably degenerating in capability.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
-- `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
-- `INS-260403-87CF` Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem.
 - `INS-260404-7EFA` Creating Business Model Canvases for external parties like competitors and partners exposes their motivations, constraints, and possibilities for collaboration or conflict.
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
+- `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
+- `INS-260403-87CF` Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem.
 - `INS-260403-A331` Event hosting is becoming a systematic deal sourcing engine that shapes VC conviction before pitch decks exist.
 - `INS-260404-F6ED` Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.

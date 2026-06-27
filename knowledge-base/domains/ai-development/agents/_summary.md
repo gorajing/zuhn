@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 82 insights
+> 83 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -79,6 +79,7 @@
 - `INS-260605-E642` [medium] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - `INS-260605-169D` [medium] Treat robustness like a vision model's tolerance to fog or camera shake: specify how many typos or rephrasings the agent can absorb before it breaks.
 - `INS-260627-4B83` [medium] Feed coding agents an LLMs-full.txt containing your entire current docs so they stop generating code against the stale framework version baked into their training cutoff.
+- `INS-260627-846D` [medium] M2's 10B active parameters make it cheap enough to spin up many parallel copies, turning model size into a multi-agent scalability feature.
 - `INS-260405-E8A1` [medium] When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260605-71C3` [medium] With AI ROI still unproven, teams are actively engineering around token cost — Hampton cites a viral repo that makes chatbots 'talk like a pirate' purely because the terser style reduces token spend.
 - `INS-260410-D04D` [medium] Bubblewrap on Linux and seatbelt on macOS provide subprocess-inclusive sandbox boundaries without container overhead.

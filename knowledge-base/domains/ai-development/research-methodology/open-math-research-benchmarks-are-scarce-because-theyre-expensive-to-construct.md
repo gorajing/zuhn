@@ -55,8 +55,8 @@ related:
   - INS-260413-7816
   - PRI-260413-A957
   - INS-260605-6066
+  - INS-260627-AF32
   - INS-260330-2F74
-  - INS-260410-022B
 ---
 Carina Hong's analysis of the math benchmark gap: research-level math benchmarks are hard to construct because PhD-level mathematicians who can pose them generally circulate problems through small academic networks, not public benchmarks. AI organization FrontierMath builds private research benchmarks but holds them tightly to prevent training contamination. DeepMind's MathConjectures has wide difficulty variation, making it unreliable for evaluation. The NYT recently profiled 30 famous mathematicians evaluating AI on 10 problems each — the proofs were so long ('every mathematician's nightmare') that consensus on correctness was hard to reach.
 

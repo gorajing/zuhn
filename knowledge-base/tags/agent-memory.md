@@ -3,10 +3,6 @@
 - `INS-260626-924E` The paper treats EM as useful only for short canonical answers and pairs it with evidence fidelity, update robustness, long-horizon stability, and operational cost.
 - `INS-260605-BB4B` Short-term memory holds conversation/session context, long-term holds entities resolved and deduplicated over time, and reasoning holds the decision traces — three layers, not one.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
-- `INS-260605-A557` Reading decision traces works well; writing them — deciding what to store, when, and how to score its quality — is still being figured out.
-- `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
-- `INS-260625-FA31` Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
-- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260405-6C88` Agent memory splits into short-term (conversation state), long-term (extracted durable knowledge), and reasoning (tool/decision traces for explainability).
 - `INS-260327-DC4C` AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
@@ -27,6 +23,10 @@
 - `INS-260605-014F` A RAG knowledge base helps an agent answer correctly; a context graph storing past decisions and why they were made lets the agent decide and justify.
 - `INS-260626-DA0A` Feeding an agent more context isn't the bottleneck — the bottleneck is being able to leverage what you gave it in future sessions.
 - `INS-260501-8186` We're hacking continual learning by having agents write skill files. Real continual learning — agents that get better at your specific org over time — is research-blocked.
+- `INS-260605-A557` Reading decision traces works well; writing them — deciding what to store, when, and how to score its quality — is still being figured out.
+- `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
+- `INS-260625-FA31` Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
+- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260530-ADED` PayPal's explicit feedback to the Google ADK team is that long-session support and shared cross-agent memory are missing — they've been bolting these on themselves, and other production teams hit the same gap.
 - `INS-260626-8660` Treat your personal notes as an immutable snapshot the LLM never touches; agent-generated concepts, comparisons, and summaries live in a separate derivative layer that references it.
 - `INS-260626-BE0D` Make every query leave a trace — a new concept, note, or comparison file — so the knowledge base evolves as you talk to it, not just when you ingest data.

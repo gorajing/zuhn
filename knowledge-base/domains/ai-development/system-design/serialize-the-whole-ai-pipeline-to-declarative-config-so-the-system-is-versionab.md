@@ -54,11 +54,11 @@ stance: >-
   An AI system you cannot serialize to versioned, human-readable config cannot
   be made operationally sovereign.
 related:
-  - INS-260320-4A82
   - PRI-260320-467A
   - INS-260605-8F3D
+  - INS-260627-63F2
+  - INS-260320-4A82
   - INS-260605-C9E8
-  - INS-260423-BFDE
 ---
 Operational sovereignty requires monitoring how systems behave in production (including model inputs and outputs), human-in-the-loop for high-stakes domains like HR and finance, and controlled, auditable versioning of both models and the application layer. The architectural enabler is making data flow explicit and the pipeline serializable: when every component input and output is typed and declared, you can read a pipeline definition and know exactly what data was where — and even in less-deterministic agent architectures, tool calls and tool outputs stay traceable.
 

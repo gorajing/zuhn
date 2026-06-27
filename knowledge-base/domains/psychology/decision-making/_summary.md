@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 203 insights
+> 204 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -154,6 +154,7 @@
 - `INS-260412-FE12` [medium] Gen Z increasingly choosing trades and community colleges over expensive universities reflects rational recalculation as degree ROI declines and student debt compounds.
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-45D5` [medium] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
+- `INS-260627-4EB7` [medium] Each historical pay model fails on its own terms: hourly punishes speed, fixed-bid invites padded estimates, salary-plus-bonus invites clock-watching, and equity only motivates the rare risk-tolerant person at a company that actually exits.
 - `INS-260412-7512` [medium] Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260514-0239` [medium] Game selection beats game excellence. Hedge funds, IB, big tech — crowded high-status games. Ambulance supply, specialty B2B, niche distribution — uncrowded with similar/better outcomes. Choose the game, then play it well.

@@ -1,9 +1,10 @@
 # Topic: mental-models
 
-> 30 insights
+> 33 insights
 
 - `INS-260605-71E7` [high] DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260514-13B6` [high] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
+- `INS-260627-74E5` [high] Zhang's most exciting takeaway: gen AI changes the cost function of software engineering, so the trade-off of whether to build something at all shifts as some work gets much cheaper and other work much more expensive.
 - `INS-260627-8056` [high] Easy means proximity (copy, install, generate); simple means structure you understand — and AI's zero-friction generation makes the simple choice disappear from consideration.
 - `INS-260410-025A` [high] Backprop doesn't know anything about neural networks — it applies the chain rule to any directed expression graph, and neural nets are just a particular shape of graph we happen to care about.
 - `INS-260330-5A2A` [high] All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
@@ -21,6 +22,7 @@
 - `INS-260410-78F4` [high] Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - `INS-260330-D7CA` [high] A shear transformation has too few eigenvectors to form an eigenbasis, meaning it cannot be decomposed into independent scaling operations along any set of axes.
 - `INS-260514-7B5B` [high] Perception is controlled hallucination — your brain generates the world top-down from predictions, sensory data only corrects errors. The vivid world you 'see' is overwhelmingly your simulation constrained by tiny incoming data.
+- `INS-260627-F893` [high] Slop is a quality and taste failure that humans produce as readily as AI, so anti-slop discipline is about judgment, not about banning AI.
 - `INS-260330-8AE8` [high] At near-light-speed, Earth would be genuinely flattened by Lorentz contraction — not an illusion but a real physical consequence of the observer's reference frame.
 - `INS-260330-D63D` [high] At near-light speeds, Lorentz contraction literally flattens Earth into a disc, demonstrating that 'objective shape' depends on the observer's reference frame — a physical fact, not mere perspective.
 - `INS-260627-BBD1` [high] Because many tasks are far easier to verify than to solve, software development — being highly verifiable — is where agents are most advanced.
@@ -32,3 +34,4 @@
 - `INS-260514-2705` [medium] Superintelligence = time-traveler from 2025 dropped into the Roman Empire with the strategic roadmap but still needing iterative learning-by-doing. 100x speedup of industrial revolution plausible. Magic teleportation to nanobots: not.
 - `INS-260330-C989` [medium] Bubbles expand slowly but collapse violently because the Rayleigh-Plesset equation's nonlinear terms dominate during contraction, creating a canonical example of asymmetric dynamics from symmetric-seeming initial conditions.
 - `INS-260514-049E` [medium] If you take the game-engine analogy seriously, every paradoxical quantum behavior (observer effect, non-locality, delayed-choice) becomes mundane computational efficiency. It's not proof we're in a simulation — but it's striking how cleanly the analogy fits.
+- `INS-260627-8C59` [medium] A world model is a parameterization of state-action-transition; an LLM is a mechanism that consumes that parameterization, so treating them as competing paradigms is a category error.

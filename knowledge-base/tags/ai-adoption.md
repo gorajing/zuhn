@@ -7,7 +7,9 @@
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260403-8EF3` Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel they're not using AI to its full potential.
 - `INS-260404-3714` Early AI adoption creates compounding advantages that late movers struggle to close.
+- `INS-260627-6065` Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
 - `INS-260605-828D` FDEs sit with lawyers, policy advisers, and ops teams, observe their pain points, co-design solutions, and ship in a couple of weeks instead of a year of 'discovery.'
+- `INS-260627-2F3C` People under-use AI not because it's bad or they're stubborn, but because their pay doesn't change whether they squeeze out incremental output or not.
 - `INS-260403-EE02` Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260405-CD42` Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
 - `INS-260626-374E` AI users in the P&G experiment performed better and felt better, but were less confident their work was top-tier.

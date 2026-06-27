@@ -48,6 +48,7 @@ stance: >-
   were designed around slow human review and delayed feedback.
 related:
   - PRI-260407-D1AD
+  - INS-260627-6418
   - INS-260627-8BD6
   - INS-260625-DF35
   - INS-260625-FA31

@@ -48,12 +48,13 @@ resolutions:
     Microsoft and Google launch similar capabilities directly in their platforms
     within 6 months.
 related:
+  - INS-260627-3543
   - INS-260403-1C31
   - INS-260403-D2B1
   - INS-260410-3043
   - INS-260404-D646
-  - INS-260403-05B8
   - INS-260327-B5C9
+  - INS-260403-05B8
   - INS-260404-0F87
 stance: >-
   If your AI product is just a layer on top of an underlying AI platform, that

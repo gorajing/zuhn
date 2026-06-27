@@ -8,8 +8,8 @@
 - `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
 - `INS-260423-4402` Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron.
 - `INS-260322-82E8` Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
-- `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
+- `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
@@ -33,6 +33,7 @@
 - `INS-260403-5788` Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
+- `INS-260627-0838` AI acts like a funhouse mirror that makes any one attribute 10x larger, so it widens the gap between great and weak hires instead of leveling it.
 - `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - `INS-260403-C283` Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.
 - `INS-260403-85DE` An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.

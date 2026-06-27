@@ -63,7 +63,7 @@ related:
   - INS-260423-FF53
   - INS-260605-DC7C
   - INS-260605-2284
-  - INS-260327-2101
+  - INS-260627-917D
 ---
 Prompt bloat starts innocently: you tell the agent how to size up a listing, then add a note for an edge case, then a safety rule, then 'one more important exception,' and before long the prompt is doing everything. Engineers already recognize this smell in a gigantic class, a bloated service with too many endpoints, or a function that does too much — the agentic equivalent is the giant prompt. The symptom is that the agent drifts and stops sticking to the script, and the cause is simply that the script is too long.
 

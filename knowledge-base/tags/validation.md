@@ -3,9 +3,6 @@
 - `INS-260625-78C1` SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260627-0BC1` Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
 - `INS-260627-0126` Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
-- `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
-- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
-- `INS-260627-00B7` Masked IRL is stronger because it reports real Franka arm transfer, not only simulation metrics.
 - `INS-260627-9EBD` An agent can't just throw arbitrary data at the next agent and hope; each handoff must declare and validate a schema-and-quality contract (e.g. reject if confidence < 0.7) so contract violations are caught at the boundary, not discovered downstream as garbage reports.
 - `INS-260605-3119` Putting a 'robe and cloak' on an LLM doesn't make it trustworthy — eval the judge itself against human-labeled ground truth.
 - `INS-260605-6A32` At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.
@@ -13,6 +10,9 @@
 - `INS-260605-AD25` Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back.
 - `INS-260625-CC7C` A syntactically valid SQL query that returns zero rows is a silent failure, so Studio always runs queries and checks for data before hardcoding them into a widget.
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
+- `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
+- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
+- `INS-260627-00B7` Masked IRL is stronger because it reports real Franka arm transfer, not only simulation metrics.
 - `INS-260329-3489` Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260329-5F96` Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
 - `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
@@ -58,8 +58,8 @@
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
 - `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
-- `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
 - `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
+- `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.

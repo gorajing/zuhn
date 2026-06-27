@@ -50,7 +50,6 @@ stance: >-
   An agent's reverse-engineering result is trustworthy only when it confirms the
   hypothesis by running fresh values through the recovered algorithm.
 related:
-  - INS-260501-6A56
   - INS-260325-FDA9
   - INS-260505-5A06
   - INS-260423-FB98

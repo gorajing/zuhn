@@ -64,8 +64,8 @@ related:
   - INS-260403-05B8
   - INS-260423-72D0
   - INS-260605-46B2
+  - INS-260627-F5A8
   - PRI-260501-1E66
-  - INS-260501-9503
 ---
 Jordan's full demonstration: connect to Idea Browser MCP → pull context for AI-B2B-sparring-partner project → use Lead Magnet skill to draft offer → use Landing Page Architect skill → switch to Paper.app for design iteration → connect Humbalytics MCP → generate AB test → launch without redeploy. Each step depends on a different MCP and skill, but they compose into one continuous workflow with shared context across the session.
 

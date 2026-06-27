@@ -1,7 +1,8 @@
 # Topic: agent-evals
 
-> 100 insights
+> 101 insights
 
+- `INS-260627-27E0` [high] A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
 - `INS-260627-8B75` [high] Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.

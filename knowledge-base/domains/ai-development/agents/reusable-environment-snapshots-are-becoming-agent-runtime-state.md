@@ -48,6 +48,6 @@ related:
   - INS-260410-ED4D
   - PRI-260320-467A
   - INS-260625-4B92
-  - INS-260410-0855
+  - INS-260627-27E0
 ---
 An environment snapshot reduces setup cost and makes cloud agents more capable of verifying changes, but it also becomes a hidden dependency of agent success. AgentRun should record when a run used a reusable environment snapshot and whether the snapshot was committed, generated, or modified during the run.

@@ -51,7 +51,6 @@ stance: >-
   An eval data set of good input/output pairs is insufficient to specify what an
   agent should do.
 related:
-  - INS-260514-F58B
   - INS-260605-3285
   - INS-260605-3B8B
   - INS-260626-F5AE

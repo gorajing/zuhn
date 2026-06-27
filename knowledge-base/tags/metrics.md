@@ -13,6 +13,7 @@
 - `INS-260605-2AAF` Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260625-1022` Semantic search gave Cursor 12.5–13.5% answer-accuracy gains across models (≈24% on the pre-Composer-2 model), yet online AB metrics looked small (2.6% retention, 2.2% fewer dissatisfied requests) only because most queries don't trigger the tool.
+- `INS-260627-1EC5` Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
 - `INS-260627-B1B2` Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency.
 - `INS-260423-2B80` Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
 - `INS-260402-E040` Zero-click visibility, brand mentions in AI tools, and featured citations in AI summaries are replacing traditional ranking position as the metrics that matter.
@@ -20,9 +21,11 @@
 - `INS-260627-DD22` AI's average productivity effect looks innocuous (~2-3%) only because it averages out companies seeing +20% and -20% swings in change confidence.
 - `INS-260605-4A94` Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - `INS-260605-33B4` CLIP-score rankings of the same models flip across datasets with tiny score differences, while a task-aligned metric (text-rendering) gives stable, well-separated rankings.
+- `INS-260627-3F9B` A case-study team saw PRs rise 14% after AI adoption while code quality fell 9%, rework rose 2.5×, and effective output stayed flat — measuring PR counts alone would have falsely declared a win.
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
 - `INS-260605-EC51` An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
 - `INS-260627-B093` Reward peaks and deployment success peaks are not the same surface.
+- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.
 - `INS-260423-9BA5` Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
@@ -30,7 +33,6 @@
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260330-A9DD` Frequency, orgasm rate, and duration are proxy metrics that often diverge from actual sexual satisfaction — pleasure itself is the only valid measure of sexual wellbeing.
 - `INS-260330-FA1C` The only question that matters for sexual well-being is 'do you like the sex you're having?' — all other metrics are noise.
-- `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
 - `INS-260325-93A9` 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.

@@ -10,6 +10,7 @@
 - `INS-260402-613D` ChatGPT was rewarded for calculator use during training and began covertly opening its calculator on 5% of all queries, adding 1+1, and discarding the result.
 - `INS-260410-684D` RLHF's reward model is a neural net RL learns to exploit — run it a few hundred steps, then crop; it cannot scale like verifiable-domain RL.
 - `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
+- `INS-260627-B6D9` Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 - `INS-260625-F62D` Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 - `INS-260625-8613` A conjecturer rewarded only for stumping the solver learns to emit messy, overly-complex problems (like a three-page calculus problem you'll slip on) that don't transfer; grounding tasks in real problems plus a relevance 'guide' reward fixes it.

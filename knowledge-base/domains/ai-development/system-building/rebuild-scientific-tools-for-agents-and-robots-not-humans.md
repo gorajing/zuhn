@@ -61,8 +61,8 @@ related:
   - INS-260524-2C7C
   - INS-260626-7359
   - INS-260327-9C56
+  - INS-260627-8425
   - INS-260323-05B5
-  - INS-260327-3A71
 ---
 Asked what non-fundamental bottleneck he'd remove, Krause says he'd have tool providers restart their stack: instruments today are built for human operators, and they should be built for agents and robots instead. He explicitly draws the analogy to software, where the move to CLIs and MCP made tools agent-operable, and the interviewer confirms 'you're seeing this already happen.' Two years ago, major instrument vendors wouldn't even sell API access to their raw data, because their business model was selling the analysis software; that tone is now shifting as they add software teams and interface support.
 

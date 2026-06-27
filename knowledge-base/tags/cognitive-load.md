@@ -1,7 +1,7 @@
 # Tag: cognitive-load
 
-- `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
 - `INS-260627-C559` Reactive async agents shift execution off the human but leave the monitoring load on them, capping the productivity gain.
+- `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
 - `INS-260605-E145` Managing many agent sessions has high cognitive load, so breaks are essential — and that's exactly when your best ideas for the agents appear, which is why you need to reach them from anywhere.
 - `INS-260627-386E` Confidence labels plus rationale and code location turn agent suggestions into a triageable queue instead of a code-review burden.
 - `INS-260403-03BD` Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things.
@@ -13,10 +13,10 @@
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
+- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260412-6318` The UK's 'letters of last resort' model — where PMs pre-commit nuclear retaliation decisions at the start of their term — shows that separating decision-making from decision-execution improves outcomes under extreme stress.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
-- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260329-565E` Hormozi ate the same lunch every day for 2 years, treating meal selection as a solved problem to eliminate daily decision fatigue and preserve cognitive bandwidth for business.
 - `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.

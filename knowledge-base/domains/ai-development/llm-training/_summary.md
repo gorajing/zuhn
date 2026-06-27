@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 101 insights
+> 102 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -102,4 +102,5 @@
 - `INS-260409-8D86` [medium] The 'scale to AGI' strategy depends on Hinton and Sutskever's hypothesis that brains are statistical engines — a hypothesis neuroscientists actively dispute.
 - `INS-260323-9BAB` [medium] Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
 - `INS-260626-69EF` [medium] Because Gemma 4 inherits Gemini's tokenizer purpose-built for 140+ languages, fine-tuning it for low-resource languages like Quechua tends to 'work quite well out of the box' independent of the model's raw capabilities.
+- `INS-260627-8125` [medium] Beyond scaling RL environments, embed expert developers as reward models who score what behaviors developers actually trust and enjoy.
 - `INS-260625-3768` [medium] RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.

@@ -67,9 +67,9 @@ stance: >-
 related:
   - INS-260501-E377
   - INS-260605-20DD
+  - INS-260627-8C59
   - PRI-260426-890F
   - INS-260410-B0D6
-  - INS-260605-3AE6
 ---
 Stannis Zhou's Diffusion-MPC (DMPC) demonstrates a modularity payoff that is easy to underrate. It learns two separate diffusion models from offline data: a multi-step action proposal (what to do) and a multi-step dynamics model (what happens if you do it), then uses a simple sampling-based planner to score and pick actions. The factorization is the point. Because the reward function lives in the planner rather than the learned weights, you can change the reward at test time and induce novel behaviors (e.g., jumping) without retraining.
 

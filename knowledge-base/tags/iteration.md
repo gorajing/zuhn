@@ -5,9 +5,9 @@
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
 - `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
+- `INS-260627-3053` With strong validators in place, you stop hand-coding and instead specify constraints, let agents generate, then verify against automation plus intuition and iterate.
 - `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
 - `INS-260627-4E4A` You can parallelize and pipeline agents, but you can't fully automate building good software, because the path to a good product is curved and only walkable by iterating with taste.
-- `INS-260627-3053` With strong validators in place, you stop hand-coding and instead specify constraints, let agents generate, then verify against automation plus intuition and iterate.
 - `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
 - `INS-260627-B072` The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed.
 - `INS-260625-9C3B` Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
@@ -15,8 +15,8 @@
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
-- `INS-260409-93EC` Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.
 - `INS-260403-E1CE` Treat every goal as a funnel where volume of attempts generates information that compounds into exponentially better outcomes over time.
+- `INS-260409-93EC` Benchmark your chapter 1 against their chapter 1, not their chapter 1000 — comparing endpoints generates fake despair.
 - `INS-260409-50C5` Fear of cringe is more costly than actual cringe — it blocks the first reps that mastery requires.
 - `INS-260405-DC20` Focus on how fast the work is improving, not where it currently stands.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.

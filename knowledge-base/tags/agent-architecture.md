@@ -2,16 +2,10 @@
 
 - `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 - `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
-- `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
-- `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
-- `INS-260627-6E3C` A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
-- `INS-260625-EC7C` Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
-- `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
-- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
-- `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
 - `INS-260410-315B` E-commerce long-tail SEO creates persistent URL slugs from agent queries, turning the public web into an unintentional scratchpad shared across every agent run.
 - `INS-260327-DC4C` AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
+- `INS-260627-0D20` Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - `INS-260627-8C56` A general agent that can write and execute code in its own sandbox collapses what used to be a multi-tool, multi-deploy build into a single prompt.
 - `INS-260501-B7BC` We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260410-D92A` Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
@@ -47,6 +41,13 @@
 - `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - `INS-260626-158E` Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
+- `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
+- `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
+- `INS-260627-6E3C` A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
+- `INS-260625-EC7C` Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
+- `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
+- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
+- `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260627-46EB` MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
 - `INS-260327-4CB3` Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.
 - `INS-260626-07B6` Bet that model capability is unlimited and sell the permissions, approvals, audits, and guardrails that let enterprises actually deploy it.

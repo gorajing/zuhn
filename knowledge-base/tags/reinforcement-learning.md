@@ -42,6 +42,8 @@
 - `INS-260625-4B92` The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 - `INS-260626-BA05` RL crushes a whole trajectory of real-world correction into one reward scalar; SDPO instead gives a teacher privileged hints and matches the student to it, training on actual text guidance.
 - `INS-260625-801B` RL has headwinds in subjective fields where two experts disagree; it takes off where implementation is provably correct or wrong, which predicts which jobs agents automate first.
+- `INS-260627-AF4E` You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
+- `INS-260627-63F2` CWM's async RL eliminates pipeline stalls by queuing many checkpoints into samplers and many trajectories into trainers, so neither side waits — and it stays near-on-policy because high data volume absorbs the staleness.
 - `INS-260627-6A8B` Because an RL reward is just one bit (right/wrong) while SFT supervises every token, RL can reach the same accuracy with vastly fewer trainable parameters — even single digits.
 - `INS-260625-D790` The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
 - `INS-260412-88B6` AlphaGo bootstrapped from 100K human games then improved via 30 million self-play games, beating its prior version 80-90% of the time.

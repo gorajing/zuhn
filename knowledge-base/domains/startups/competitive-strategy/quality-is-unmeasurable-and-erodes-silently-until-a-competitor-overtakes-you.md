@@ -59,7 +59,7 @@ related:
   - INS-260403-162F
   - INS-260404-0EE0
   - INS-260423-2B80
-  - INS-260514-5AEF
   - INS-260603-915A
+  - INS-260625-A99C
 ---
 At Uber, the five golden metrics (revenue, trips taken, ride quality, time-to-first-trip) were dominated by revenue, which responds to features like UberPool but has no clean relationship to craft. When Lyft shipped an equivalent pool product at the same price point, the products became substitutes — and Artman's theory is that over time users gravitate to whichever feels higher quality (gets the car faster, smoother UX), even when price and function are identical. The danger is structural: there is no A/B test that tells you whether to invest in quality, because the erosion is gradual and shows up in no dashboard. Quality 'doesn't affect your revenue until it does.' Early Uber maintained high quality through individual engineers who cared (the famous 'this poll is off by two pixels' PR review), but once teams scale and incentives center on revenue, quality decays. The takeaway: a low-quality product silently opens you to being slowly overtaken, and you cannot rely on metrics to catch it — you must invest in quality on conviction, not measurement.

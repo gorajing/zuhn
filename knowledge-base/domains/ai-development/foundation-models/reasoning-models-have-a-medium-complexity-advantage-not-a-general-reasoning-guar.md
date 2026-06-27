@@ -50,7 +50,6 @@ stance: >-
   non-thinking models can win on simple tasks, reasoning models help in the
   middle, and both collapse at high complexity.
 related:
-  - INS-260403-2138
   - INS-260409-40AF
   - INS-260501-AF40
   - INS-260505-A413
@@ -60,6 +59,7 @@ related:
   - INS-260625-6260
   - PRI-260406-CF83
   - INS-260323-3F30
+  - INS-260403-CDB0
 ---
 This directly pressures PRI-260328-8E01, which frames RL with verifiable rewards as the mechanism unlocking AI reasoning in formal domains. Apple finds a narrower pattern: extra thinking helps in a medium-complexity band, but simpler tasks can favor standard models and harder controlled puzzles collapse for both thinking and non-thinking models.
 

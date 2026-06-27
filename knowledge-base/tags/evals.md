@@ -1,5 +1,6 @@
 # Tag: evals
 
+- `INS-260627-27E0` A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260626-B149` A growing class of users ignores the eval UI entirely and just wants a coding agent (Claude Code, Codex) to run pure SQL on the trace backend, pull data into context, and improve their agent for them.
 - `INS-260626-67E8` The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
 - `INS-260626-32B6` Reasoning evals need controllable complexity and trace analysis, not just final accuracy on famous benchmark sets.
@@ -30,8 +31,6 @@
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260605-5D14` If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
-- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
-- `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
@@ -51,8 +50,11 @@
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - `INS-260605-B44B` Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
+- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
+- `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260626-484B` For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
 - `INS-260627-6F3F` The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
+- `INS-260627-B6D9` Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260410-36E3` Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
@@ -61,8 +63,8 @@
 - `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
-- `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260627-8530` GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
+- `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260410-5951` On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260410-F167` Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
 - `INS-260625-79ED` Reject both the objective-metrics camp and the pure-taste camp—pair every benchmark score with a real-world vibe check.

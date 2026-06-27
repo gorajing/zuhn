@@ -47,9 +47,9 @@ stance: >-
   into context.
 related:
   - INS-260605-5CC7
+  - INS-260627-6418
   - INS-260410-E658
   - INS-260505-D440
-  - INS-260626-15F3
-  - INS-260626-8116
+  - INS-260627-E858
 ---
 HumanLayer reduces the agent loop to a repeating sequence: the LLM emits structured JSON describing the next step, deterministic code executes that step, and the result is appended to context until the model decides the workflow is done. This separation keeps semantic judgment and mechanical execution in different layers.

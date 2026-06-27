@@ -53,5 +53,6 @@ related:
   - INS-260627-00BE
   - INS-260627-01E1
   - INS-260404-292E
+  - INS-260627-1EC5
 ---
 The system could prepare catalysts, run high-pressure gas-liquid reactions, analyze products, and choose the next experiments. Each part matters: without reactors and analysis the optimizer has no trustworthy observations; without the optimizer the robot is just scripted automation. The bottleneck is the integration surface between physical execution and adaptive decision-making.

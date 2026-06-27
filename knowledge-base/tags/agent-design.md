@@ -3,9 +3,6 @@
 - `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260329-EAFD` Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
-- `INS-260421-7ADE` Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
-- `INS-260627-F9F3` Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.
-- `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
 - `INS-260627-578E` Reshape a task into a CLI/text interface the model has seen before, and capability that a GUI version blocks suddenly appears.
 - `INS-260627-0719` A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
@@ -36,6 +33,9 @@
 - `INS-260423-72D0` Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
 - `INS-260627-C559` Reactive async agents shift execution off the human but leave the monitoring load on them, capping the productivity gain.
 - `INS-260625-131D` The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
+- `INS-260421-7ADE` Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
+- `INS-260627-F9F3` Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.
+- `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-48F7` When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.

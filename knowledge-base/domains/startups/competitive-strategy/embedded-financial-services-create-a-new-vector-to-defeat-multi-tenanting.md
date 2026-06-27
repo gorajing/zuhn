@@ -47,11 +47,11 @@ stance: >-
   Marketplace defensibility depends more on embedding financial services than on
   traditional network effects alone
 related:
+  - INS-260627-3543
   - PRI-260405-A11F
   - INS-260402-3D00
   - INS-260330-B771
   - PRI-260324-DE71
-  - INS-260404-D646
 evidence:
   - id: INS-260325-2BDB
     type: SUPPORTS

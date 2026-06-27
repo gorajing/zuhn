@@ -54,5 +54,6 @@ related:
   - INS-260625-2563
   - PRI-260426-890F
   - INS-260627-6984
+  - INS-260627-36DE
 ---
 Across model updates — even within the same family, e.g. GPT-5.2 to GPT-5.4 — default parameters for reasoning level, caching, and other settings can drift, quietly changing results in ways unrelated to actual capability. The recommended discipline is to first run an established external benchmark such as SWE-bench or a terminal bench on your own infrastructure and confirm that your numbers match the reported ones; only then begin custom experiments. This converts a silent confound into an explicit checkpoint: if you cannot reproduce known results, your harness has a bug or a misconfigured default, and any downstream comparison would be measuring your plumbing rather than the models.

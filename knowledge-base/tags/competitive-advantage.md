@@ -1,6 +1,7 @@
 # Tag: competitive-advantage
 
 - `INS-260404-3714` Early AI adoption creates compounding advantages that late movers struggle to close.
+- `INS-260627-6065` Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
 - `INS-260626-C72F` Investing $100K–$1M/year on tokens now lets you live in 2028 today — a one-time time warp to leapfrog Fortune 500s and incumbents before the same capability costs a couple hundred dollars.
 - `INS-260405-7838` In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
 - `INS-260327-1795` AI can execute everything but cannot know your values -- the competitive moat shifts from execution ability to values articulation and taste.
@@ -9,6 +10,7 @@
 - `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
 - `INS-260321-7C97` Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
 - `INS-260323-4EE4` The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
+- `INS-260627-AF32` Agent labs sit uniquely between real engineers and the models, holding the richest dataset of real engineering work — the only thing that actually moves the needle — and every major lab quietly captures it while sharing none of it.
 - `INS-260403-FCF7` AI democratizes skill acquisition, making speed of application the new differentiator over access to information.
 - `INS-260403-B800` Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.
 - `INS-260627-6F57` Zapier responded to AI-boosted engineer effectiveness by deciding to hire faster than ever, reasoning that more value per engineer means each new hire is worth more, not redundant.
@@ -21,17 +23,17 @@
 - `INS-260605-4FE3` Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
 - `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260411-2B1D` The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
-- `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
 - `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
 - `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260403-CDC9` Winning deals matters more than picking them because access compounds faster than analytical skill.
 - `INS-260403-F642` Nearly 300 private capital professionals report firms doubling down on data consolidation and AI to sharpen sourcing and evaluation as a competitive differentiator.
 - `INS-260403-A7D6` Fixing deal-breakers others walk away from is the most defensible form of VC value-add.
-- `INS-260410-F5B6` Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
 - `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
+- `INS-260410-F5B6` Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
 - `INS-260329-93AE` Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
 - `INS-260403-3517` Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.

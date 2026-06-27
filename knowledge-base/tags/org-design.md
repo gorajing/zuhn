@@ -2,6 +2,7 @@
 
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
 - `INS-260605-50F5` Stop optimizing for engineer output and start optimizing the whole pipeline for how fast agents can move.
+- `INS-260627-1297` Empower support to ship fixes with AI codegen — they hold three structural advantages engineers lack, and it doubles as an engineering pipeline.
 - `INS-260626-7CC7` A 'tiny team' has more millions in revenue than employees, and AI makes that achievable for ordinary companies, not just unicorn founders.
 - `INS-260409-94D6` Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260605-BFBE` An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.

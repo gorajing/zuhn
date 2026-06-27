@@ -61,5 +61,6 @@ related:
   - INS-260413-D96C
   - INS-260514-93E1
   - INS-260405-62F8
+  - INS-260627-6065
 ---
 The AI Index 2026 Chapter 9 reports that University of Melbourne/KPMG surveyed 48,340 people across 47 countries in 2025. Globally, 58% of employees report using AI at work on a semiregular or regular basis, and 53% say they trust AI for work purposes. But the regional distribution is striking: in India, China, Nigeria, UAE, and Saudi Arabia, over 80% of respondents regularly use AI at work, and trust levels in these countries are similarly high. In most North American and European countries, about 40-48% of employees report using AI tools regularly, with trust tending to fall between 40% and 48%. This inverts the usual technology diffusion curve where advanced economies adopt first. The structural interpretation is that workplace AI adoption is driven not by income or existing tech maturity but by (1) growth trajectory — where AI is seen as the leapfrog technology rather than an incremental improvement — and (2) lower friction from existing workflows, regulations, and union protections. For multinationals, this means emerging-market teams may become the internal center of gravity for AI workflow design, even in companies headquartered in regions with lower usage.

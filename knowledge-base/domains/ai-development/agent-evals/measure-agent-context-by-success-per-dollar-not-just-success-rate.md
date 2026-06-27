@@ -51,8 +51,8 @@ related:
   - INS-260625-5358
   - INS-260626-983E
   - INS-260405-567D
+  - INS-260627-3F9B
   - INS-260409-17E9
-  - INS-260625-1955
   - INS-260626-43C9
 ---
 The paper reports average step and cost increases for both LLM-generated and developer-provided context files. It also measures reasoning-token changes for GPT-5.2 and GPT-5.1 Mini, finding increases under context-file conditions. That means a context file can look neutral on task completion while degrading throughput and budget.

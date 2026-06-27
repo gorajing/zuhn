@@ -1,3 +1,4 @@
 # Tag: active-parameters
 
+- `INS-260627-846D` M2's 10B active parameters make it cheap enough to spin up many parallel copies, turning model size into a multi-agent scalability feature.
 - `INS-260626-3E1C` Gemma 4's first MoE has 128 experts with only 8 activated per forward pass plus one always-on shared expert (3x the size of a regular expert), letting the 26B model run on just 3.8B active parameters.

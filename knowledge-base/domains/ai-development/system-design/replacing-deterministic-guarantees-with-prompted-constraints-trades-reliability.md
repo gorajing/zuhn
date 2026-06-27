@@ -58,7 +58,7 @@ related:
   - INS-260626-2E1F
   - INS-260626-E45C
   - INS-260624-5ACA
-  - INS-260524-78D0
+  - INS-260627-F5A8
 ---
 In the hand-coded version, the agent literally could not touch files outside its worktree — containment was a hard guarantee enforced by the harness. The skill version replaces that with what Gomes openly calls a 'vibes-based' approach: aggressive prompting that says 'operate on this directory, do not escape.' Over long sessions the model can forget where it should be working, and weaker models hallucinate or 'go haywire.'
 

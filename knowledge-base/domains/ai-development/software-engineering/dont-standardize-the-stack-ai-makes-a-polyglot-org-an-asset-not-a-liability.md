@@ -62,13 +62,13 @@ related:
   - INS-260325-CACA
   - INS-260329-693E
   - INS-260329-6A60
-  - INS-260330-AB62
   - INS-260403-066E
   - INS-260330-C2C4
   - INS-260410-4F43
-  - INS-260514-8F90
   - INS-260605-743D
   - INS-260626-A0DC
+  - INS-260626-0704
+  - INS-260627-7674
 ---
 Conventional engineering wisdom says a growing org should standardize on a stack to enable code sharing, hiring fungibility, and maintainability. Shipper reports the opposite at Every: they have not standardized on any language or framework, and instead let each builder pick what they like, because AI makes translation between stacks cheap. Rather than abstracting shared functionality into a library that others download, a developer can point their coding agent at a colleague's repo, have it read how a feature (a teams feature, an OAuth flow) was built, and reimplement it in their own stack — capturing the pattern without the cross-team coordination cost.
 

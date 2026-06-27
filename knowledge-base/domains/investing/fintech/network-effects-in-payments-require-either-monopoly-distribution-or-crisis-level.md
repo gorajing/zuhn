@@ -52,7 +52,6 @@ stance: >-
   distribution monopoly or existential urgency that eliminates the cold-start
   problem.
 related:
-  - INS-260327-CC05
   - INS-260327-9018
   - INS-260328-9408
   - INS-260330-3A0D
@@ -62,6 +61,7 @@ related:
   - INS-260410-320A
   - INS-260330-C24F
   - INS-260327-4440
+  - INS-260405-E7F9
 evidence:
   - id: INS-260322-98D2
     type: SUPPORTS

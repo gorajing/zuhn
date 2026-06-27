@@ -1,5 +1,6 @@
 # Tag: simplicity
 
+- `INS-260627-0D20` Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260605-EBEB` Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.

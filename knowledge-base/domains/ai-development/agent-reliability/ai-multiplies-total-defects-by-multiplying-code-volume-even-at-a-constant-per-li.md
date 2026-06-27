@@ -63,10 +63,10 @@ related:
   - INS-260404-E8B2
   - INS-260329-D2CA
   - INS-260501-5582
-  - INS-260605-D1F0
   - INS-260626-EAC7
   - INS-260627-1970
   - INS-260627-36AB
+  - INS-260627-765B
 ---
 A widely repeated reassurance is that AI doesn't produce more bugs per line than humans. Friedman's point is that this misses the volume term entirely. The reports show ~3x productivity in writing code and a correlated ~3x increase in security incidents — the same defect density applied to triple the output yields triple the absolute problems.
 

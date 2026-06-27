@@ -25,9 +25,9 @@
 - `INS-260410-B9A6` Any cortical area can clamp any subset of variables and sample from any other subset — a generality LLMs only emulate at the context-window level.
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
 - `INS-260625-26FE` Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely.
-- `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260624-37C3` Long agent rollouts make inference speed a core training-system constraint.
 - `INS-260624-93AC` Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch.
+- `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
 - `INS-260409-4CBB` Convergent evolution of intelligence in birds and mammals, winged flight in birds and bats, and camera-eyes in octopuses and mammals is cumulative evidence that these functions have narrow optimal solutions that any sufficient search process will find.
 - `INS-260409-A8F4` You cannot infer velocity from one photograph, no matter how good the shutter metadata is.

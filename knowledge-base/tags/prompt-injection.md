@@ -11,11 +11,11 @@
 - `INS-260626-0E8C` Blocklists should trace to real incident patterns and carry an explicit maintenance burden.
 - `INS-260403-2FAE` Adding 'ignore malicious inputs' or using external classifiers fails against encoded attacks and creative phrasing — security must be model-level.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
-- `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
-- `INS-260410-E233` Fewer approval prompts inside well-defined sandboxes produce safer outcomes than many prompts against a trust-nothing baseline.
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
 - `INS-260627-6744` Put raw DOM/page interaction in a disposable runner and return only fenced, untrusted summaries to the main agent.
 - `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
+- `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
+- `INS-260410-E233` Fewer approval prompts inside well-defined sandboxes produce safer outcomes than many prompts against a trust-nothing baseline.
 - `INS-260625-BEFE` Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
 - `INS-260423-1C4D` Google Cloud's Model Armor: filters prompt injection, jailbreaks, PII leaks, social security numbers, and harassment at the load balancer layer before requests reach the model.
 - `INS-260402-31D8` The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.

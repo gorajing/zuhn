@@ -1,7 +1,7 @@
 # Tag: embeddings
 
-- `INS-260605-8489` Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
 - `INS-260625-0141` Traditional RAG routes known relationships through the embedding model as a bottleneck; graph RAG models those relationships explicitly as a knowledge graph and expands context by traversal after a vector seed, improving recall and precision.
+- `INS-260605-8489` Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
 - `INS-260330-CCA2` Different basis choices make different operations trivial or impossible in vector spaces.
 - `INS-260330-4B84` Every vector maps to exactly one coordinate tuple and vice versa — this bijection is what makes embedding spaces work.
 - `INS-260409-3602` Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.

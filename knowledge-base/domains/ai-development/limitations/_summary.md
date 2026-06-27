@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 104 insights
+> 105 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -106,3 +106,4 @@
 - `INS-260605-D1F0` [medium] LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.
 - `INS-260330-2154` [medium] When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
 - `INS-260625-63AF` [low] SWE-EVO's qualitative failure analysis suggests stronger models fail by misunderstanding release notes more than by broken syntax or tool use.
+- `INS-260627-37CC` [low] By learning the patterns of execution dynamics rather than running code to completion, a world model can give useful approximate answers to problems like halting that are impossible to decide exactly.

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 167 insights
+> 168 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -134,6 +134,7 @@
 - `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260626-742C` [medium] Frontier model training is concentrated in few hands partly because of data centralization — labs buying out distressed bookstores and scouring rare libraries — so making models data-efficient is what would let more companies participate in the AI economy.
 - `INS-260627-95C2` [medium] The AI Studio principle is that users shouldn't think about implementation details — say 'I want a multiplayer app' and the platform knows to wire up Express; say 'e-commerce' and it adds payments and storage automatically.
+- `INS-260627-3543` [medium] Assume general-purpose platforms will commoditize parts of your internal AI tooling; defend the layer they can't replicate — orchestration plus your own context.
 - `INS-260626-7EA8` [medium] ElevenLabs employs 1000+ voice coaches, musicians, and artists to annotate not just the 'what' of audio but the 'how' — emotion, voice description, music description — a deliberate bet that won't return value for 12-24 months.
 - `INS-260605-C122` [medium] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.

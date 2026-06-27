@@ -55,6 +55,7 @@ related:
   - INS-260403-5056
   - INS-260403-FE8D
   - INS-260405-6342
+  - INS-260627-6065
 ---
 A study of Y Combinator founders found that the number of co-founders predicts fundraising outcomes far better than where they went to school or where they previously worked. This challenges the Silicon Valley mythology around Stanford dropouts and ex-FAANG engineers being the strongest signal.
 

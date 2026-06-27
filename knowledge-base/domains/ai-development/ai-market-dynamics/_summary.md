@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 191 insights
+> 192 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260627-8781` [high] Agent operating systems need embedded control before workflow replacement scales.
@@ -174,6 +174,7 @@
 - `INS-260403-7868` [medium] AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
 - `INS-260322-0CE3` [medium] Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260403-64F4` [medium] While AI models commoditize, proprietary data for training and low-latency inference infrastructure will capture disproportionate value.
+- `INS-260627-AF32` [medium] Agent labs sit uniquely between real engineers and the models, holding the richest dataset of real engineering work — the only thing that actually moves the needle — and every major lab quietly captures it while sharing none of it.
 - `INS-260403-33DF` [medium] Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
 - `INS-260626-4216` [medium] DORA reports broad AI use and perceived productivity gains, but also persistent distrust and stability pressure.
 - `INS-260327-D8D1` [medium] Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.

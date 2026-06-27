@@ -8,9 +8,9 @@
 - `INS-260627-51D0` Because code is now cheap, replace the memo-and-deck approval ritual with building a quick demo, which lowers activation energy enough to pursue weirder, riskier ideas.
 - `INS-260409-0EEE` Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
 - `INS-260405-32BB` Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
-- `INS-260627-8378` When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
 - `INS-260404-55E1` Calling ambitious work 'just a sketch' or 'just a hack' sidesteps perfectionism paralysis while preserving the option to upgrade scope later.
 - `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
+- `INS-260627-8378` When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260404-D66A` Calling your ambitious project 'just a sketch' or 'just a hack' lowers the internal quality bar enough to start, then momentum converts it into real work.
 - `INS-260403-1A6B` Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.

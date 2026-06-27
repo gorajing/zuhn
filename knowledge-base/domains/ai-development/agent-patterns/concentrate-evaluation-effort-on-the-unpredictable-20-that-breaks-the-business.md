@@ -53,9 +53,9 @@ stance: >-
 related:
   - PRI-260328-39FA
   - INS-260625-DF35
+  - INS-260627-917D
   - INS-260605-6444
   - PRI-260407-00A1
-  - INS-260605-365A
 ---
 Koc frames the risk surface as an 80/20 split: about 80% of agent behavior can be defined statically in an intentful manner, but the remaining 20% always keeps changing — someone asks a weird question or uses the agent in a strange way — and 'it's that 20% that's going to mess up your business.' That long tail is precisely what static benchmarks cannot anticipate.
 

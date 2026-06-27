@@ -7,8 +7,8 @@
 - `INS-260605-6C0C` Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
 - `INS-260626-D7F3` Radical's AI scientist moved into elemental-alloy families no human had ever published on, because human experts carried an 'unknowing bias' against them, and it can compare 100k papers to 100k images in parallel.
 - `INS-260627-699E` RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
-- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.

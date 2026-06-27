@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 85 insights
+> 87 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -69,8 +69,10 @@
 - `INS-260626-9A47` [medium] When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
+- `INS-260627-6065` [medium] Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
 - `INS-260405-4D81` [medium] Google committing $100B+ to AI spend means the infrastructure layer is effectively closed to new entrants without sovereign or hyperscaler backing.
 - `INS-260322-4757` [medium] Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
+- `INS-260627-2F3C` [medium] People under-use AI not because it's bad or they're stubborn, but because their pay doesn't change whether they squeeze out incremental output or not.
 - `INS-260322-B09B` [medium] Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260405-CA27` [medium] Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260530-E6AA` [medium] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.

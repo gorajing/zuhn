@@ -51,12 +51,13 @@ stance: >-
   execution, not just fewer inference passes.
 related:
   - INS-260627-CC45
+  - INS-260627-8425
   - INS-260410-1030
   - INS-260626-AC8E
   - INS-260627-9968
-  - INS-260403-08D7
   - INS-260514-E481
   - INS-260605-C965
+  - INS-260627-63F2
 ---
 When Claude expresses orchestration in Python, independent operations can run concurrently via asyncio.gather — fetching 20 employees' expenses in parallel instead of 20 sequential tool calls. The blog's example shows this explicitly: budget lookups and expense fetches each fan out in parallel, and the script only blocks on results it actually needs next.
 

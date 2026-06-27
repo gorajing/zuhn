@@ -1,7 +1,5 @@
 # Tag: token-efficiency
 
-- `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
-- `INS-260320-B210` Keep SKILL.md files under 500 lines and use progressive disclosure via resource files for 40-60% token efficiency improvement.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260625-FE3E` Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
@@ -11,6 +9,8 @@
 - `INS-260605-DC50` Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260627-A999` A read-only explorer subagent protects the solver from context pollution while still giving it precise evidence.
 - `INS-260605-6591` Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.
+- `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
+- `INS-260320-B210` Keep SKILL.md files under 500 lines and use progressive disclosure via resource files for 40-60% token efficiency improvement.
 - `INS-260605-6F98` Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
 - `INS-260625-7935` Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
 - `INS-260626-411D` Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.

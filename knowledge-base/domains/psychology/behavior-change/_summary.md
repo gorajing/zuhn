@@ -1,6 +1,6 @@
 # Topic: behavior-change
 
-> 41 insights
+> 42 insights
 
 - `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
@@ -34,6 +34,7 @@
 - `INS-260403-9861` [medium] Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260409-FFEA` [medium] Durable behavior change requires small consistent shifts, not dramatic overhauls — the mustard-seed heuristic.
 - `INS-260330-4088` [medium] Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
+- `INS-260627-5D31` [medium] Tenex pays engineers per story point but pays strategists on net revenue and customer happiness, so the person scoping and approving tickets has the opposite incentive to the person earning per ticket.
 - `INS-260409-9296` [medium] Pain is often the solvent that dissolves a self-model rigid enough to block updating.
 - `INS-260330-293E` [medium] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260409-A1B2` [medium] Three-column exercise: write the emotions/thoughts/actions of your future self who achieved the goal, contrast with today's, then practice the future-self column as daily behavior.

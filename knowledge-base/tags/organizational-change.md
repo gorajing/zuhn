@@ -1,6 +1,7 @@
 # Tag: organizational-change
 
 - `INS-260403-A9CC` Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
+- `INS-260627-6065` Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
 - `INS-260605-82BD` Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 - `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
 - `INS-260404-8E0D` Successful AI agent adoption starts with well-scoped engineering tasks then expands into QA, analytics, documentation, and CX.

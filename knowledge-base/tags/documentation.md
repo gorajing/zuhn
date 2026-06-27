@@ -4,10 +4,6 @@
 - `INS-260605-610E` Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
 - `INS-260605-E642` Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - `INS-260330-6D43` Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
-- `INS-260605-4B12` Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.
-- `INS-260327-91C7` The CPS (Context-Problem-Solution) framework ensures all meeting logs converge into a single document that accumulates shared context, enabling both humans and AI models to stay aligned across iterative development.
-- `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
-- `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260626-DD33` Skills should carry high-level orientation plus a link to markdown docs the agent web-fetches, so capabilities update centrally instead of forcing every user to redistribute the skill.
 - `INS-260605-672C` LLMs compact context and humans forget, so the 'why' behind every flow, feature, and architectural choice must live in durable records an agent can re-discover on demand.
 - `INS-260625-1E07` Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
@@ -16,6 +12,10 @@
 - `INS-260605-E7F2` Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
 - `INS-260625-7A1A` Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
 - `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
+- `INS-260605-4B12` Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.
+- `INS-260327-91C7` The CPS (Context-Problem-Solution) framework ensures all meeting logs converge into a single document that accumulates shared context, enabling both humans and AI models to stay aligned across iterative development.
+- `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
+- `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260627-A0EE` Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
 - `INS-260626-73D4` Sparse or outdated API specs cause agents to hallucinate or fail calls, so spec quality becomes a hard prerequisite for agentic systems.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.

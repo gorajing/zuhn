@@ -56,11 +56,11 @@ related:
   - INS-260403-DC6E
   - INS-260410-376A
   - INS-260423-5F2F
-  - INS-260519-7744
   - INS-260626-09B3
   - INS-260323-7625
+  - INS-260627-8428
   - INS-260410-C022
-  - INS-260405-A22F
+  - INS-260519-7744
 ---
 Hampton grounds the whole agent discussion in an unresolved business reality: enormous AI infrastructure spend with benefits 'yet to really reap,' and managers asking where the ROI and productivity boost actually are. Against that backdrop, token spend becomes a live constraint that practitioners optimize deliberately. His example — a rapidly popular repo that gets language models to respond in a terse pirate-speak style specifically to cut token consumption — shows the community treating output verbosity as a cost lever, not a stylistic choice.
 

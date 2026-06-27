@@ -67,9 +67,9 @@ stance: >-
 related:
   - INS-260605-C37E
   - INS-260320-10CC
+  - INS-260627-3F9B
   - INS-260519-E248
   - INS-260605-4A94
-  - INS-260605-124F
 ---
 Lewig's structural shift: in traditional automotive development (Euro NCAP regulatory regime), verification was binary — a vehicle either passed the automatic-emergency-braking test for an occluded child or it didn't. The test cases were well-known and finite. With AI-driven systems, behavior is statistical — there are no clean pass/fail test cases that fully cover the input space. The new regime is measuring how many nines of reliability you can demonstrate, and how many meantime-between-failures hours you can prove.
 

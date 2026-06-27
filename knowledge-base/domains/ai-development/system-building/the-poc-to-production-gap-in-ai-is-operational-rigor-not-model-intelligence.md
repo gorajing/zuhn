@@ -57,6 +57,7 @@ related:
   - INS-260514-AE82
   - INS-260403-2F40
   - INS-260627-AA19
+  - INS-260627-1EC5
 ---
 The workshop's central diagnosis is that today's commercial and in-house LLMs are already sophisticated enough; what hasn't kept up is the operational rigor for delivering non-deterministic systems at scale. Teams treat the demo state as production-ready, treat logs as observability, and patch prompts reactively until the next failure mode—with no system to track what changed or why. The fix is not better tooling per se but better workflows: knowing exactly what changed in the system, being able to interrogate behavior (not just read logs), and applying systematic rigor so the system improves over iterations.
 

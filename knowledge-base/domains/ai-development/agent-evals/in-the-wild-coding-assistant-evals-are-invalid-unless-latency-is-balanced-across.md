@@ -59,7 +59,7 @@ related:
   - INS-260605-DA98
   - INS-260627-B1B2
   - INS-260410-F167
-  - INS-260605-F383
+  - INS-260627-37CC
 ---
 When evaluating coding assistants in real usage (Copilot Arena: two completions shown, user picks via tab/shift-tab; RepoChat for codebase Q&A), the dominant lesson is that human-centric experiment design is a validity requirement, not a nicety. Acceptance rate is acutely latency-sensitive — once a completion takes more than about a second to appear, acceptance drops sharply. Users reveal a strong preference for fast over marginally-better-but-slower.
 

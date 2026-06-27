@@ -5,6 +5,16 @@
 - `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260410-83EC` Claude Code is an expert at reading evaluation transcripts and refactoring tool implementations and descriptions to improve performance.
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
+- `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
+- `INS-260627-C940` The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
+- `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
+- `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
+- `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
+- `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
+- `INS-260625-3866` Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
+- `INS-260627-4130` A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.
+- `INS-260405-2BB0` The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
+- `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260605-237C` An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260514-84FC` Claude Code's name is wrong. It's a terminal agent. Vercel reduced SDRs from 10 to 1 using it. Jason Lemkin's team went from 8 to 1.25.
 - `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -25,16 +35,6 @@
 - `INS-260320-949A` A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
 - `INS-260501-91A3` Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.
 - `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.
-- `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
-- `INS-260627-C940` The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
-- `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
-- `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
-- `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
-- `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
-- `INS-260625-3866` Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
-- `INS-260627-4130` A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.
-- `INS-260405-2BB0` The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
-- `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260423-00AC` Cody Schneider: my job suddenly turns into — I have ideas, I pass them on to Claude Code, and then I'm polishing the end product.
 - `INS-260501-3088` 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'

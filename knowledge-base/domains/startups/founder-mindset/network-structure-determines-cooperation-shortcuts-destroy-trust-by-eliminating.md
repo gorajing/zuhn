@@ -52,7 +52,6 @@ related:
   - PRI-260406-7C9C
   - INS-260605-5404
   - INS-260410-CA42
-  - INS-260403-0637
 stance: >-
   In prisoner's dilemma simulations, adding just a few shortcut connections to a
   clustered network destroys cooperation entirely

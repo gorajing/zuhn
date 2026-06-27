@@ -46,6 +46,7 @@ stance: >-
   Punishment-based systems teach people what not to do but never what to do —
   they optimize for short-term compliance at the cost of long-term capability.
 related:
+  - INS-260627-F893
   - INS-260323-B374
   - INS-260329-7A7F
   - PRI-260328-094A

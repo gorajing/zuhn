@@ -4,6 +4,7 @@
 - `INS-260605-71C3` With AI ROI still unproven, teams are actively engineering around token cost — Hampton cites a viral repo that makes chatbots 'talk like a pirate' purely because the terser style reduces token spend.
 - `INS-260501-DBDB` Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices.
 - `INS-260625-78EC` Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
+- `INS-260627-8428` Like Brandolini's law for bullshit, the taste needed to fight slop is an order of magnitude greater than the effort to produce it — and 100-1000x annual token-cost drops keep tilting the field toward the producer.
 - `INS-260603-50B1` Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
 - `INS-260605-5013` Embeddings front-load the cost of understanding a codebase once, replacing the repeated grep-read-grep compute that every agent session otherwise pays.
 - `INS-260626-C380` More available inference budget is not the same as models knowing how to spend it productively.

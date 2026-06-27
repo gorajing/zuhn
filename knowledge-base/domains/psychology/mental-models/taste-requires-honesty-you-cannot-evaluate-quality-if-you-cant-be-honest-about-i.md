@@ -72,6 +72,7 @@ related:
   - INS-260404-C99B
   - PRI-260406-1A55
   - INS-260423-79B7
+  - INS-260627-F893
 ---
 Chamath's structural claim: 'taste' — the faculty of knowing what is good, useful, exceptional — requires honesty as a precondition. If your evaluation is colored by emotional bias, social desire, or self-protective deception, you cannot reliably distinguish quality. People who achieve enduring excellence have, in the specific domain they excel in, the ability to be 'extremely honest' about quality. Maybe they're not honest about everything in their lives — but in their craft, they are zealots for honest evaluation.
 

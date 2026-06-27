@@ -45,8 +45,8 @@ related:
   - PRI-260322-3DA5
   - INS-260403-415E
   - INS-260323-0539
+  - INS-260627-3543
   - INS-260404-943E
-  - INS-260403-4C61
 stance: >-
   Learn your DAW's stock EQ, compression, synths, and spatial effects before
   buying any third-party plugins.

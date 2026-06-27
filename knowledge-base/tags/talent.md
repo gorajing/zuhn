@@ -15,6 +15,7 @@
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-A64F` Talent only reveals itself when the environment activates it — a person can go their whole life without entering the domain that would unlock their natural ability.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
+- `INS-260627-0838` AI acts like a funhouse mirror that makes any one attribute 10x larger, so it widens the gap between great and weak hires instead of leveling it.
 - `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - `INS-260605-AEAC` For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.

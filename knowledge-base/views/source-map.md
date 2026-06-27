@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-27 | 3272 sources
+Generated on 2026-06-27 | 3280 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -873,6 +873,7 @@ Generated on 2026-06-27 | 3272 sources
 | Can LLMs generate Enterprise Quality Code? — Prasenjit Sarkar, Sonar | youtube | 5 | 2026-06-05 |
 | Can Something Come From Nothing? Exploring The Universe's Origins With Jim Al-Khalili | youtube | 5 | 2026-03-23 |
 | Can We Pull Back From The Brink? (Episode #207) | youtube | 5 | 2026-03-30 |
+| Can you prove AI ROI in Software Eng? (Stanford 120k Devs Study) – Yegor Denisov-Blanch, Stanford | youtube | 5 | 2026-06-27 |
 | Capitalism and Socialism: Crash Course World History #33 | youtube | 5 | 2026-03-30 |
 | Charlie Munger (Audio) | youtube | 5 | 2026-04-11 |
 | Cheating LLMs & How (Not) To Stop Them | OpenAI Paper Explained | youtube | 5 | 2026-06-26 |
@@ -886,6 +887,7 @@ Generated on 2026-06-27 | 3272 sources
 | Cliff Weitzman: What I Learned from 100 of the World’s Top CEOs & Why Tokens Will Outspend Salaries | youtube | 5 | 2026-05-14 |
 | Coca-Cola: The Complete History & Strategy | youtube | 5 | 2026-04-11 |
 | Code Mode: Let the Code do the Talking - Sunil Pai, Cloudflare | youtube | 5 | 2026-06-27 |
+| Code World Model: Building World Models for Computation – Jacob Kahn, FAIR Meta | youtube | 5 | 2026-06-27 |
 | Codex 마스터 클래스 라이브 | 하네스 설계부터 서비스 배포까지 (라이브 마지막에는 작은 이벤트도 준비했습니다) | youtube | 5 | 2026-05-14 |
 | Coding Evals: From Code Snippets to Codebases – Naman Jain, Cursor | youtube | 5 | 2026-06-27 |
 | Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345 | youtube | 5 | 2026-03-30 |
@@ -975,6 +977,7 @@ Generated on 2026-06-27 | 3272 sources
 | ⚡️ Google's Open AI Strategy — Omar Sanseviero, Google DeepMind | youtube | 5 | 2026-06-26 |
 | GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod | youtube | 5 | 2026-06-25 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
+| Hard Won Lessons from Building Effective AI Coding Agents – Nik Pash, Cline | youtube | 5 | 2026-06-27 |
 | Harnesses in AI: A Deep Dive — Tejas Kumar, IBM | youtube | 5 | 2026-06-05 |
 | Hermès (Audio) | youtube | 5 | 2026-04-11 |
 | How a 28 Year Old Man Destroyed England’s Oldest Bank | youtube | 5 | 2026-04-12 |
@@ -1126,6 +1129,7 @@ Generated on 2026-06-27 | 3272 sources
 | Microsoft Found Gradient Descent for AI Agent Skills | youtube | 5 | 2026-06-25 |
 | Microsoft Volume II: The Complete History and Strategy of the Ballmer Years (Audio) | youtube | 5 | 2026-04-11 |
 | Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft | youtube | 5 | 2026-06-05 |
+| Minimax M2: Building the #1 Open Model – Olive Song, MiniMax | youtube | 5 | 2026-06-27 |
 | Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture | youtube | 5 | 2026-06-05 |
 | Moving away from Agile: What's Next – Martin Harrysson & Natasha Maniar, McKinsey & Company | youtube | 5 | 2026-06-27 |
 | Nestlé's Darkest Secret: The Disturbing Truth | youtube | 5 | 2026-03-30 |
@@ -1134,6 +1138,7 @@ Generated on 2026-06-27 | 3272 sources
 | Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness | Lex Fridman Podcast #318 | youtube | 5 | 2026-03-30 |
 | Nike (Audio) | youtube | 5 | 2026-04-11 |
 | No BS Advice to Get Rich Like the 1% | youtube | 5 | 2026-03-30 |
+| No More Slop – swyx | youtube | 5 | 2026-06-27 |
 | Notes on China | youtube | 5 | 2026-04-10 |
 | Novo Nordisk (Ozempic) | youtube | 5 | 2026-04-11 |
 | NVIDIA CEO Jensen Huang | youtube | 5 | 2026-04-11 |
@@ -1153,6 +1158,7 @@ Generated on 2026-06-27 | 3272 sources
 | Paperclip: Open Source Human Control Plane for AI Labor — Dotta Bippa | youtube | 5 | 2026-06-27 |
 | Parker Conrad’s Revenge Fantasy | youtube | 5 | 2026-03-26 |
 | Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489 | youtube | 5 | 2026-03-23 |
+| Paying Engineers like Salespeople – Arman Hezarkhani, Tenex | youtube | 5 | 2026-06-27 |
 | Personalization in the Era of LLMs - Shivam Verma, Spotify | youtube | 5 | 2026-06-05 |
 | Platforms for Humans and Machines: Engineering for the Age of Agents — Juan Herreros Elorza | youtube | 5 | 2026-06-27 |
 | 도서관에 박혀 공부만 하는 천재들은 '이것'이 없어서 대체됩니다ㅣ카네기멜론 Po-Shen Loh 교수 | youtube | 5 | 2026-03-22 |
@@ -1416,6 +1422,7 @@ Generated on 2026-06-27 | 3272 sources
 | Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses | youtube | 5 | 2026-06-27 |
 | Your Legs Are Failing First — Here’s Why | youtube | 5 | 2026-03-26 |
 | Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect | youtube | 5 | 2026-06-27 |
+| Your Support Team Should Ship Code – Lisa Orr, Zapier | youtube | 5 | 2026-06-27 |
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | Montgomery Street Station | audio | 4 | 2026-06-19 |
@@ -2103,6 +2110,7 @@ Generated on 2026-06-27 | 3272 sources
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
 | What Was the Biggest Company in History? - $7.9 Trillion! | youtube | 4 | 2026-04-12 |
+| What We Learned Deploying AI within Bloomberg’s Engineering Organization – Lei Zhang, Bloomberg | youtube | 4 | 2026-06-27 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
 | What's Actually the Plane of the Future | youtube | 4 | 2026-04-12 |
 | What’s Hiding at the Most Solitary Place on Earth? The Deep Sea | youtube | 4 | 2026-04-12 |
@@ -2958,205 +2966,96 @@ Generated on 2026-06-27 | 3272 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
-| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
@@ -3164,6 +3063,122 @@ Generated on 2026-06-27 | 3272 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
@@ -3175,6 +3190,7 @@ Generated on 2026-06-27 | 3272 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -3214,9 +3230,7 @@ Generated on 2026-06-27 | 3272 sources
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
 | Box CEO on the AI Adoption Gap | The a16z Show | youtube | 0 | 2026-04-23 |
 | Building Agents at Home: Homeschooling, Parenting and More | The a16z Show | youtube | 0 | 2026-04-23 |
-| Can you prove AI ROI in Software Eng? (Stanford 120k Devs Study) – Yegor Denisov-Blanch, Stanford | youtube | 0 | 2026-06-27 |
 | CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
-| Code World Model: Building World Models for Computation – Jacob Kahn, FAIR Meta | youtube | 0 | 2026-06-27 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
 | Darwin Gödel Machine Explained: Self-Improving AI Agents | youtube | 0 | 2026-04-23 |
 | DINOv3 Paper Explained: The Computer Vision Foundation Model | youtube | 0 | 2026-04-23 |
@@ -3234,7 +3248,6 @@ Generated on 2026-06-27 | 3272 sources
 | From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud | youtube | 0 | 2026-04-24 |
 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
-| Hard Won Lessons from Building Effective AI Coding Agents – Nik Pash, Cline | youtube | 0 | 2026-06-27 |
 | How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly | youtube | 0 | 2026-04-23 |
 | How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z | youtube | 0 | 2026-04-23 |
 | How Stripe Built Their New Website | youtube | 0 | 2026-04-23 |
@@ -3250,13 +3263,10 @@ Generated on 2026-06-27 | 3272 sources
 | Marc Andreessen on The Future of VC: Will a16z Go Public & Why Introspection is Dangerous? | youtube | 0 | 2026-04-23 |
 | mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
 | Michael Nielsen – Why aliens will have a different tech stack than us | youtube | 0 | 2026-04-23 |
-| Minimax M2: Building the #1 Open Model – Olive Song, MiniMax | youtube | 0 | 2026-06-27 |
 | Nano Banana, Veo, and Lyria: Mastering the Google gen media stack | youtube | 0 | 2026-04-24 |
-| No More Slop – swyx | youtube | 0 | 2026-06-27 |
 | Notion’s Sarah Sachs & Simon Last on Custom Agents, Evals, and the Future of Work | youtube | 0 | 2026-04-23 |
 | OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show | youtube | 0 | 2026-04-23 |
 | Oura’s Tom Hale: What People Don’t Tell You About Being CEO | youtube | 0 | 2026-04-23 |
-| Paying Engineers like Salespeople – Arman Hezarkhani, Tenex | youtube | 0 | 2026-06-27 |
 | Project Hail Mary's Science Is More Real Than You Think | youtube | 0 | 2026-04-23 |
 | Raw Day Inside $100M+ Venture Capital Firm in Silicon Valley | youtube | 0 | 2026-04-23 |
 | Reinforcement Pre-Training (RPT) By Microsoft Explained | youtube | 0 | 2026-04-23 |
@@ -3270,8 +3280,6 @@ Generated on 2026-06-27 | 3272 sources
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |
-| What We Learned Deploying AI within Bloomberg’s Engineering Organization – Lei Zhang, Bloomberg | youtube | 0 | 2026-06-27 |
 | Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Claude Feels Different (And What That Means for AI) | The a16z Show | youtube | 0 | 2026-04-23 |
 | Why Reinforcement Learning Unlocks Reasoning in LLMs (Aha Moments Explained) | youtube | 0 | 2026-04-23 |
-| Your Support Team Should Ship Code – Lisa Orr, Zapier | youtube | 0 | 2026-06-27 |

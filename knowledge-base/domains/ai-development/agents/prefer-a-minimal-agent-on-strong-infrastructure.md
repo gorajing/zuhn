@@ -48,6 +48,7 @@ stance: >-
   A minimalistic agent backed by robust infrastructure outperforms an
   over-engineered agent on weak infrastructure.
 related:
+  - INS-260627-0D20
   - INS-260605-3206
   - INS-260605-20DD
   - INS-260624-A121

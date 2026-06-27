@@ -1,6 +1,7 @@
 # Tag: platform-risk
 
 - `INS-260404-6DAD` The Assistant API lets builders deploy AI assistants anywhere, breaking free from OpenAI's walled garden while preserving the same training and capabilities.
+- `INS-260627-3543` Assume general-purpose platforms will commoditize parts of your internal AI tooling; defend the layer they can't replicate — orchestration plus your own context.
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
 - `INS-260412-46A4` Robinhood's buy-side restrictions during the GME squeeze revealed that platforms funded by institutional order flow payments will protect those institutions when retail activity threatens them.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.

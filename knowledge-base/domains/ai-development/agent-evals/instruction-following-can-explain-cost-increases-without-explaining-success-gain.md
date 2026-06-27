@@ -56,7 +56,6 @@ related:
   - INS-260626-983E
   - INS-260626-C563
   - INS-260627-1319
-  - INS-260627-46EB
 ---
 Trace analysis shows that context files increased testing, file search, reads, writes, and repository-specific tool use. Agents used uv far more often when it was mentioned and used repository-specific tools much more often when instructed. But the same paper finds no significant success-rate improvement from adding context files.
 

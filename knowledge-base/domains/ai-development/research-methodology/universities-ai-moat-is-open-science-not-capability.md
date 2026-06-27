@@ -50,8 +50,8 @@ related:
   - INS-260409-8181
   - INS-260410-46BB
   - INS-260409-7731
+  - INS-260627-AF32
   - INS-260410-D0F5
-  - INS-260626-56AC
 ---
 James Lennon (HAI director, Stanford) frames the new HAI+Stanford Data Science merged institute around three commitments, with open science as the first. The argument: industry frontier labs will produce extraordinary work but increasingly behind walls (closed weights, data, methods, safety evaluations). Universities exist to share knowledge in the open. This isn't just philosophical — it's strategic positioning. Universities cannot compete with industry on capital or compute, but they can compete on accessibility and reproducibility. Openness is also an accountability mechanism for AI development.
 

@@ -49,11 +49,11 @@ stance: >-
   RL environments for — capability is a function of what made it into the RL
   data distribution, not innate intelligence.
 related:
+  - INS-260627-AF32
   - INS-260410-D0F5
   - INS-260626-56AC
   - INS-260409-3138
   - INS-260320-F78E
-  - PRI-260406-F95C
 ---
 Karpathy's jaggedness diagnosis: models can refactor a 100K-line codebase but tell you to walk 50 meters to a car wash because they're so close. The asymmetry is not random — capability follows two factors: (1) verifiability of the domain (so you can build an RL environment with reward signals), and (2) lab focus (whether the lab decided that domain was economically valuable enough to invest in). The chess capability jump from GPT-3.5 to GPT-4 was reportedly because someone at OpenAI chose to add chess data to pretraining — not emergent capability.
 

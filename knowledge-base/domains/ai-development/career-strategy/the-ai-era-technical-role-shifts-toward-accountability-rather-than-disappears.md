@@ -47,5 +47,7 @@ related:
   - INS-260619-4962
   - INS-260625-E696
   - INS-260627-CC85
+  - INS-260627-1297
+  - INS-260627-E284
 ---
 The counterevidence warrants a confidence adjustment, not a reversal. GitLab's survey is consistent with AI making individual developers faster and code generation more accessible. But it also says the next phase focuses less on generating code and more on governing it. Career advice should shift from 'domain expertise beats technical skill' to 'domain expertise beats undifferentiated implementation, but technical people who own validation, provenance, security, and deployment systems remain highly leveraged.'

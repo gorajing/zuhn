@@ -10,6 +10,7 @@
 - `INS-260410-1159` A gigawatt of Rubin-class compute takes ~3.5 EUV tools of annual output, and ASML can only make ~70 now, scaling to ~100 by 2030 — mathematically capping total AI capacity at ~200 GW/year.
 - `INS-260626-4C42` The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck.
 - `INS-260627-9D9A` Across ~140,000 engineers, AI's annualized time savings were eclipsed by context switching, interruptions, and meeting-heavy days — because writing code was never the bottleneck.
+- `INS-260627-AF4E` You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
 - `INS-260323-DC99` As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260403-6016` US electricity generation has flatlined at ~4,000-4,200 TWh since 2000 after a century of exponential growth, creating the decade's biggest infrastructure bottleneck.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.

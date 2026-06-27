@@ -64,6 +64,7 @@ related:
   - INS-260605-0C5C
   - INS-260605-CA2B
   - INS-260605-6444
+  - INS-260627-6418
   - PRI-260411-14DC
 ---
 Gupta's central architectural claim is that evaluation is becoming part of the control plane rather than an offline process or a separate tool. The control plane continuously observes the system, collects telemetry, runs simulations, and coordinates human review; the execution plane performs the actual work. The control plane measures and governs behavior, and this separation of governance from execution is emerging as a foundational pattern for production AI.

@@ -23,4 +23,5 @@
 - `INS-260403-101D` The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260325-BEAC` Open Router data shows 60-80% of top AI app operating costs are inference, and this ratio is growing as agentic usage explodes.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
+- `INS-260627-D331` Pay engineers like salespeople — a flat base plus a per-story-point fee on accepted tickets — so that using AI to ship more, faster, directly increases their income.
 - `INS-260403-5CAD` The Jevons Paradox predicts that as AI makes software cheaper to build, total demand for software — and the number of people building it — will explode rather than contract.

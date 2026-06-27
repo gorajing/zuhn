@@ -18,12 +18,12 @@
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
 - `INS-260410-A18B` Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
+- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
+- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260404-8321` When capital is abundant, VCs who offer distribution and media reach win competitive allocations over those who only offer money.
 - `INS-260403-52B7` Jake Paul's VC portfolio (Ramp, Anduril, Cognition) shows that timing, access, and distribution often outweigh traditional VC pedigree in generating outsized returns.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
-- `INS-260409-AE80` The initial 200-person sample is mostly strangers, so follower count gives almost no advantage during the cold-start phase.
-- `INS-260409-8750` Algorithms pick ~200 viewers as a fit-score sample test; that group's engagement is the single most leveraged lever in short-form distribution.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260410-9120` Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
 - `INS-260403-EDA1` SaaS value is migrating from code to workflow orchestration, compliance, and distribution — categories AI cannot easily replicate.

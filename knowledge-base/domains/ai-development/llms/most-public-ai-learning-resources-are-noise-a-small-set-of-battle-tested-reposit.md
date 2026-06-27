@@ -58,8 +58,8 @@ related:
   - INS-260329-9DEE
   - INS-260405-880C
   - INS-260514-8413
-  - INS-260409-60C2
-  - INS-260605-9900
+  - INS-260627-4693
+  - INS-260627-AF32
 ---
 The AI tooling ecosystem has exploded, but most public repositories are thin wrappers, weekend projects, or tutorials that never go beyond a single notebook. For engineers trying to build production systems, this creates a navigation problem: the volume of resources makes it harder, not easier, to find what's worth studying.
 

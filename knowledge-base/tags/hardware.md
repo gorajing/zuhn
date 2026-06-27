@@ -3,8 +3,8 @@
 - `INS-260327-DE27` AI that designs better chips faster creates a recursive loop: better chips enable better AI, which designs even better chips.
 - `INS-260404-CC8B` Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260322-8147` The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
-- `INS-260605-237C` An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260409-AB32` Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
+- `INS-260605-237C` An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260405-A22F` Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
 - `INS-260410-AA40` Matrix multiplication (N³ compute, N² data) is the perfect shape for hardware where arithmetic is cheap and data movement is expensive, so deep learning was destined to win once TPUs filled the chip with arithmetic units.
 - `INS-260410-E6E8` Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.

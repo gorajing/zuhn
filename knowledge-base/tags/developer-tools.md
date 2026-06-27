@@ -7,6 +7,7 @@
 - `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
+- `INS-260627-F5A8` Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260625-E02C` The hard part of AI development is reconciling CUDA versions, PyTorch compatibility, and which GPU SKUs actually work — not training or building the model.
 - `INS-260605-0C5C` The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches.
@@ -15,6 +16,7 @@
 - `INS-260626-34FB` Copilot app BYOK makes model provider, billing, region, and data-handling terms session-level choices inside the same agent UI.
 - `INS-260330-77A2` WebAssembly and cloud compute are enabling full development environments to run entirely in the browser.
 - `INS-260625-0CAB` Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
+- `INS-260627-6F60` Token usage per engineer correlates only ~0.20 with productivity gains, with a 'death valley' where the heaviest users (≈10M tokens/month) perform worse than moderate users.
 - `INS-260626-14A2` Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.

@@ -12,10 +12,6 @@
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
-- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
-- `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
-- `INS-260626-6767` Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.
-- `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260627-02E1` Tell the agent precisely what to do AND how it will know it succeeded, and surface logs/metrics/traces via API/CLI/MCP — agents can't read the dashboards humans use to verify deployments.
 - `INS-260405-6C88` Agent memory splits into short-term (conversation state), long-term (extracted durable knowledge), and reasoning (tool/decision traces for explainability).
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
@@ -23,6 +19,7 @@
 - `INS-260627-9968` Choreography (agents coordinate via events on a message bus) scales and decouples but is a debugging nightmare without bulletproof event observability; orchestration (a central coordinator calls each agent, manages parallelism, state, retries, and logging) trades autonomy for debuggability and rollback — choose by workflow complexity vs. autonomy need.
 - `INS-260605-2186` Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
 - `INS-260605-C726` Hand the agent a 'send feedback' tool for tooling/docs/platform failures, routed straight to the builders' Slack.
+- `INS-260627-AA4B` Bloomberg deploys incident-response agents because AI scans code, telemetry, feature flags, and traces both very fast AND without the 'it must be this' confirmation bias that misleads human responders.
 - `INS-260605-3553` Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.
 - `INS-260605-A3F4` Because users stay in one long chat, load 10 turns and test the 11th so context-management failures surface in evals instead of in user reports.
 - `INS-260605-36E9` Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
@@ -31,6 +28,10 @@
 - `INS-260605-E193` The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap.
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
+- `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
+- `INS-260626-6767` Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.
+- `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
+- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.

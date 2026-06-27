@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 78 insights
+> 79 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -61,6 +61,7 @@
 - `INS-260403-E9F5` [high] Work trials give hiring managers direct observation of actual work output, eliminating the performance-vs-productivity gap that plagues traditional interviews.
 - `INS-260403-5788` [medium] Before joining a company as a designer, ask founders for their personal story about why they believe in design — if they don't have one, design will always be an afterthought.
 - `INS-260403-BACA` [medium] AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
+- `INS-260627-0838` [medium] AI acts like a funhouse mirror that makes any one attribute 10x larger, so it widens the gap between great and weak hires instead of leveling it.
 - `INS-260403-79AD` [medium] Buying Web 2.0 startups would have cost Microsoft less than Facebook and restored their competitiveness, but their culture couldn't accept it.
 - `INS-260403-D531` [medium] College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260403-C283` [medium] Give trial project candidates more work than they can finish to see how they triage, scope, and communicate what they chose to skip and why.

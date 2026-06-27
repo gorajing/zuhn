@@ -69,9 +69,9 @@ related:
   - INS-260409-171B
   - INS-260409-8408
   - INS-260410-8B2C
-  - INS-260423-9225
   - INS-260605-C859
   - INS-260605-77D8
+  - INS-260626-3E1C
 ---
 Sanseviero singles out the tokenizer as a distinct lever from model quality: 'independently of the raw capabilities of Gemma, just because of the tokenizer decisions, things tend to work quite well out of the box.' Gemma 4 reuses the Gemini tokenizer, which was deliberately engineered for multilingual coverage across 140+ languages, so the multilingual research powering Gemini also powers Gemma. This is why community efforts — AI Singapore for Southeast Asian languages, Sarvam and government-backed startups for India's official languages — can push state-of-the-art multilinguality on top of an open base.
 

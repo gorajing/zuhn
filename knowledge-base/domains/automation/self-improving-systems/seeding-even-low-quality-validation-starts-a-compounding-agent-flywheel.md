@@ -56,11 +56,11 @@ stance: >-
 related:
   - INS-260408-F58E
   - INS-260423-FB36
-  - INS-260423-B01D
   - INS-260605-3899
   - INS-260625-08E5
+  - INS-260423-B01D
+  - INS-260627-5785
   - INS-260626-F6DA
-  - INS-260409-0DB0
 ---
 Factory engineer Alvin's line — 'a slop test is better than no test' — captures a deliberately counterintuitive claim: a low-quality test that merely passes on correct changes and roughly matches the intended spec is still net-positive, because its mere existence seeds a compounding loop. Humans notice it and upgrade it; other agents notice it, follow its patterns, and extend it. The more opinionated the environment becomes, the faster the cycle turns. Reyes concedes this is 'slightly controversial,' which is why this is a medium-confidence claim — a slop test can also encode and propagate a wrong specification.
 

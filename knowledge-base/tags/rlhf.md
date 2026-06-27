@@ -22,4 +22,5 @@
 - `INS-260410-8E1C` RL broadcasts a single final-reward bit across an entire trajectory, upweighting tokens from wrong paths that happened to end in the right answer — it's terrible, just less terrible than imitation.
 - `INS-260605-564D` Prompting, SFT, and RL all steer model behavior, but RL integrates feedback as a reward signal by design and reaches the same quality with a much smaller model.
 - `INS-260412-9777` ChatGPT's RLHF training produced a model 100x smaller than GPT-3 but with better performance, proving human feedback matters more than raw scale.
+- `INS-260627-8125` Beyond scaling RL environments, embed expert developers as reward models who score what behaviors developers actually trust and enjoy.
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.

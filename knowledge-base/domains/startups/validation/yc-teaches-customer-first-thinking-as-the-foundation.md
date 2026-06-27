@@ -45,7 +45,6 @@ stance: >-
 related:
   - INS-260323-C4E2
   - PRI-260320-D2E1
-  - INS-260327-005D
   - INS-260327-EC45
   - INS-260327-B12E
   - INS-260327-3A71
@@ -53,6 +52,7 @@ related:
   - PRI-260406-874A
   - INS-260423-20ED
   - INS-260328-0540
+  - INS-260328-D2EC
 evidence:
   - id: INS-260323-5CBE
     type: SUPPORTS

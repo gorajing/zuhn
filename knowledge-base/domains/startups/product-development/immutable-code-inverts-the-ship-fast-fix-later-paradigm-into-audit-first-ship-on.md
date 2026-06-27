@@ -56,10 +56,10 @@ stance: >-
   inverting the web2 move-fast-and-break-things norm.
 related:
   - INS-260501-D701
+  - INS-260627-AA4B
   - INS-260410-D03C
   - INS-260325-BC2A
   - INS-260501-5582
-  - PRI-260406-1F5E
 ---
 Web2 product development optimizes for speed of iteration: ship an MVP, collect data, fix bugs, and iterate. This works because code is mutable—bugs can be patched, databases can be edited, and customer support can reverse transactions. Blockchain's immutability breaks this paradigm entirely. Once a smart contract is deployed, vulnerabilities cannot be patched without deploying a new contract (and even proxy patterns undermine user trust). A single security flaw can result in irreversible financial losses with no customer support recourse.
 

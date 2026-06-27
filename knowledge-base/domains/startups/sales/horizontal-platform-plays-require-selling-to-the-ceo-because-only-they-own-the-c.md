@@ -64,7 +64,7 @@ related:
   - INS-260405-77C9
   - PRI-260406-3285
   - PRI-260406-0ACE
-  - PRI-260328-E921
+  - INS-260627-3543
   - INS-260605-BA63
 ---
 ServiceNow's whole pitch is that 20th-century enterprises are organized into functional silos (Finance, HR, Sales, Engineering, Customer Service) each with its own systems of record, and that real business processes (order-to-cash, procure-to-pay, hire-to-retire) run horizontally across them. That means the person who can authorize a platform-level solution must have a broad Enterprise view — and structurally only the CEO does.
