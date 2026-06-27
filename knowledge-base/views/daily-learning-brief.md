@@ -1,75 +1,74 @@
 # Daily Learning Brief
 
-Generated on 2026-06-27 at 09:10 PDT. This is a downstream synthesis job; no new ingestion was run for this brief.
+Generated on 2026-06-27 at 16:23 PDT. This is a downstream synthesis job; no new ingestion was run for this brief.
 
 ## 1. Date and Scope Reviewed
 
-Scope reviewed: roughly 2026-06-26 09:10 PDT through 2026-06-27 09:10 PDT, with emphasis on automation and repo activity after the prior visible brief at 2026-06-27 02:12 PDT. Evidence came from `git log --since`, current `git status`, `knowledge-base/meta/log.md`, `knowledge-base/meta/activity.md`, `knowledge-base/meta/gate-report.json`, daily video manifests, current AgentRun traces, representative source files, insight files, tensions, and post-ingest commits.
+Scope reviewed: roughly 2026-06-26 16:08 UTC through 2026-06-27 23:23 UTC, with special attention to new automation evidence after the prior 2026-06-27 09:14 PDT learning-brief run. Evidence came from `git log --since='2026-06-27T16:08:57Z' -- knowledge-base`, clean initial `git status`, `knowledge-base/views/agent-runs.md`, `knowledge-base/meta/log.md`, stale `knowledge-base/meta/activity.md`, `knowledge-base/meta/gate-report.json`, recent source files, recent insight/tension files, daily video manifests, and AgentRun traces.
 
-Important boundary: repository evidence remains authoritative. Closed AgentRuns with gates are counted as completed. Active run shells and uncommitted runtime artifacts are treated as useful leads, not finished automation results.
+Important boundary: closed AgentRuns with gates and committed post-ingest output are treated as completed evidence. Runtime source files under `knowledge-base/sources/` and run traces under `knowledge-base/runs/` are local/ignored by repo policy, so the visible committed artifacts are the insight, tension, index, and view changes.
 
 ## 2. Executive Summary
 
-- Agent safety moved from abstract alignment to concrete authority design. The ARTIQ paper makes "can write code" and "may execute side effects" separate capabilities that need explicit gates.
-- The second June 27 AI Engineer video digest strengthened the control-plane thesis: production agents need identity, durable workflow state, eval loops, observability, security-scoped tool surfaces, and codebase readiness.
-- AI x industry evidence reinforced the benchmark-to-reality gap. The microrobot RL paper is valuable because it improves simulation realism and names experimental debt, not because it proves deployment-ready medical autonomy.
-- Weekly repo scouting added practical implementation patterns: FastContext supports repository-explorer evaluation, while Cloudflare's security-audit skill shows multi-phase security work should emit independently verifiable artifacts.
-- The contradiction scout surfaced a real belief update but remains operationally incomplete: GitLab AI accountability evidence challenges "domain experts plus vibe coding beat software-first builders," yet `RUN-260627-999D` is still active with no recorded gates.
+- Multi-model orchestration got a hard preflight test: measure the all-models-wrong co-failure tail before building routers, votes, cascades, or mixture-of-agents layers.
+- The later AI Engineer video batch reinforced that agent usefulness is now constrained by workflow design: identity, autonomy boundaries, quality gates, evals, observability, ROI measurement, and operational ownership.
+- AI x health evidence strengthened the "co-design the measurement stack" thesis: lensfree HER2 scoring matters because AI substitutes for expensive optics and turns uncertainty into a routed workflow state, not because it is just another classifier.
+- The weekly repo scout added two implementation patterns worth stealing: browser-native agent harnesses should gate tools through runtime dispatchers, and long-context agent economics can improve at the KV-cache contract.
+- The contradiction scout refined agent-security language: in-the-wild indirect prompt injection is real and maturing, but severity should be conditioned on deployed privileges and confirmed side effects, not attacker intent alone.
 
 ## 3. Sources Processed
 
-- Daily AI paper digest: `RUN-260627-3BB6` passed. It selected arXiv `2606.27231`, ingested `https://arxiv.org/html/2606.27231` as `SRC-260627-61BB`, extracted 8 agent safety/system insights, ran manual health/reindex/embed/gate/learn/views, and skipped auto-git because the checkout was already dirty.
-- Weekly open-source AI repo scout: `RUN-260627-56D2` passed. It selected Microsoft FastContext and Cloudflare `security-audit-skill`, added six verified insights, and intentionally avoided broad post-ingest auto-git in a dirty checkout.
-- Daily AI video digest run 2: `RUN-260627-E849` passed. It scanned 320 AI Engineer rows, found 191 duplicate rows, selected 20 technical talks, ingested 20/20 URLs from `knowledge-base/meta/daily-ai-video-digest-2026-06-27-run-2.txt`, extracted 100 URL-attributed insights, and produced post-ingest commits `f6df5fa0ea` and `2bef52508a`.
-- Daily AI x industry digest: `RUN-260627-785C` passed. It selected arXiv `2606.26154`, ingested `https://arxiv.org/html/2606.26154` as `SRC-260627-4214`, extracted 7 microrobot/RL insights, and auto-git committed `c7b528c178`.
-- Daily contradiction scout: `RUN-260627-999D` exists but is still active with no steps, artifacts, or gates. Separately, committed GitLab accountability evidence appears in `5402fde5f2` and created tension `T-260627-B535`; this should be treated as a useful contradiction artifact, not a closed contradiction-scout run.
-- Existing earlier-in-window context still matters: the prior 02:12 brief covered memory systems, platform changelogs, Masked IRL, the IBM control-gap scout, and the first June 27 video digest.
+- Daily AI paper digest: `RUN-260627-9DA1` passed. It selected arXiv `2606.27288`, ingested `SRC-260627-7784` from `https://arxiv.org/html/2606.27288`, extracted 8 insights, passed post-ingest, health, and AgentRun checks, and committed `275ea3ebb2`.
+- Weekly open-source AI repo scout: `RUN-260627-EE92` passed. It selected peerd (`SRC-260627-8894`) and KVarN (`SRC-260627-8F53`), extracted 6 mechanism-level insights, passed duplicate and post-ingest gates, and committed `1257d832b5`.
+- Daily AI video digest run 3: `RUN-260627-FCF7` passed. It scanned 420 AI Engineer uploads, found 213 known rows before selecting 20 fresh technical videos from `knowledge-base/meta/daily-ai-video-digest-2026-06-27-run-3.txt`, ingested 20/20 sources, extracted 99 committed insights after one near-duplicate skip, and committed `9ed4593f49` plus `060f2e5c35`.
+- Daily AI x industry digest: `RUN-260627-370D` passed. It selected the HER2 lensfree holography/deep-learning pathology paper, ingested `SRC-260627-F122` from the primary arXiv PDF text, extracted 7 insights, passed post-ingest, health, changed-gate, and AgentRun checks, and committed `fa0e0af524`.
+- Daily contradiction scout: `RUN-260627-4BF5` passed. It tested `PRI-260406-9051` against Unit 42's observed in-the-wild prompt-injection evidence, ingested `SRC-260627-1BCF`, extracted 5 insights, created tension `T-260627-D3F5`, and committed `efb10f5021` plus `8f544a5262`.
+- Earlier same-day context still in the 24-hour window includes memory-system paper work, platform changelog runs, Masked IRL robotics, IBM control-gap contradiction evidence, microrobot RL, GitLab accountability tension, and earlier June 27 video/paper/repo-scout batches covered by `RUN-260627-65CB` and `RUN-260627-B546`.
 
 ## 4. Top Durable Insights
 
-- Agent authority should be split into proposal, validation, and execution. The ARTIQ paper's key lesson is that LLM-written control code is less dangerous when hardware side effects require a separate safety gate.
-- Portability claims need interface-level tests. An agent may solve a demo while relying on hidden assumptions about tool schemas, physical hardware, APIs, or authorization pathways.
-- Tool descriptions are part of the security boundary. The video batch and ARTIQ paper both point toward precise tool contracts, least privilege, and explicit side-effect approval as production requirements.
-- Repository exploration is becoming an eval target in its own right. FastContext-style work says agents should be scored on whether they found the right evidence, not just whether their final answer sounds plausible.
-- Production agent products are drifting toward workflow engines plus LLM steps, not freeform chat loops. Temporal, Vercel, OpenAI/Temporal, identity, prompt-learning, and eval talks all strengthen this direction.
-- Simulation success needs an experimental-debt ledger. The microrobot result is promising because it adds capillary geometry, flow, cell dynamics, and Brownian noise; it is still limited by simplified cells, rigid vessels, nonphysiological flow speeds, missing pulsatility, and unreleased code/data.
-- AI coding accountability is the new bottleneck. GitLab evidence says generated-code velocity creates review, provenance, ownership, compliance, deployment, and maintenance debt if governance does not scale with output.
-- Vertical AI advantage should be narrowed from "domain experts beat engineers" to "domain experts plus accountable software operations beat undifferentiated implementation."
+- Orchestration needs an impossibility check. If every candidate model fails on the same cases, a router cannot recover the answer; change the model pool, task format, verifier, or tool path before adding routing machinery.
+- Oracle headroom is not deployable routing signal. A prompt may not contain enough information to predict which model will be right, so report co-failure ceiling, oracle disagreement, and live-router capture separately.
+- Model routing is priced allocation, not leaderboard stacking. For agent workflows with many calls, evaluate dollars-per-success, latency-per-success, and failure dispersion together.
+- Agent tool safety should be enforced as runtime dispatch, not prompt convention. peerd's pattern is useful because persona policy, exposure filtering, origin checks, confirmation, egress, and audit are named gates with testable failure modes.
+- Long-context agents may hit serving capacity before reasoning capacity. KVarN suggests evaluating KV-cache compression at the inference contract before truncating evidence or redesigning memory.
+- Medical AI usefulness concentrates in ambiguous workflow states. The HER2 paper's important evidence is not only aggregate accuracy; it improves equivocal 2+ handling and uses uncertainty filtering to route cases rather than pretending every case deserves a forced answer.
+- AI can move the expensive part of a scientific workflow. Lensfree pathology shows a real pattern: co-design cheaper sensing, learned reconstruction, and classifier/abstention logic instead of pasting AI onto the existing high-cost measurement stack.
+- Prompt-injection risk should be privilege-conditioned. Unit 42 strengthens concern that attackers are probing IDPI, but it weakens unqualified claims that every hidden web prompt proves deployed catastrophic compromise.
+- Agent security measurement needs a causal chain: exposure, malicious instruction, model compliance, available tool permission, and completed side effect are different facts.
 
 ## 5. Belief Updates
 
-- Stronger: "Agent safety is capability design." Safety should be encoded in permission scopes, side-effect gates, approval logs, and validators rather than only in model instructions.
-- Stronger: "AgentRun should distinguish evidence states." Passed runs, active shells, committed artifacts, ignored runtime state, and dirty derived files need separate labels because they imply different trust levels.
-- Stronger: "Evals must inspect path quality." Repository explorers, security-audit skills, and production-agent workflows all require evidence recall, trace quality, and independently verifiable artifacts.
-- Stronger: "AI-for-science value depends on non-model constraints." The microrobot paper reinforces that AI policy quality is only useful if the simulator and downstream experimental path preserve deployment physics.
-- Weaker: "Cheap code makes technical skill mostly obsolete." GitLab accountability evidence directly weakens the strongest version. Technical accountability, validation, provenance, security, and deployment ownership become more valuable as code generation gets cheaper.
-- Still unresolved: the GitLab contradiction evidence has a concrete tension file, but the formal daily contradiction AgentRun remains active. The epistemic update is real; the automation closure is not.
+- Stronger: "Preflight evals should kill unnecessary architecture." Co-failure tails and router-regret tests can save us from adding expensive orchestration layers that have no recoverable headroom.
+- Stronger: "AgentRun should record authority boundaries as data." The peerd and Unit 42 evidence both point to explicit gate names, permission scopes, denial lineage, and side-effect records.
+- Stronger: "AI-for-science and health digests should track workflow routing, not just prediction accuracy." Abstention, escalation, borderline classes, and downstream validation deserve first-class fields.
+- Stronger but narrower: "AI coding and agent adoption bottlenecks are operational." The video batch keeps pushing toward quality systems, observability, ownership, ROI, and team design rather than raw generation speed.
+- Weaker: "Multi-model diversity is automatically useful." Diversity only helps after quality is controlled and after the all-wrong tail leaves enough resolvable cases.
+- Weaker: "Agent prompt injection has already crossed fully from theoretical hazard to broadly confirmed production weapon." The better belief is: real and maturing attack surface, severity bounded by actual agent privileges and confirmed side effects.
 
 ## 6. Actionable Implications
 
-- For Zuhn: teach briefs and dashboards to show provenance class: committed post-ingest, ignored source/runtime, active run shell, manually gated local state, or broad mixed commit.
-- For AgentRun: add a closure guard that flags active runs with no steps after artifact creation nearby. `RUN-260627-999D` should not look equivalent to a closed contradiction scout.
-- For coding workflow: treat generated code as a provenance problem. Require origin, intended purpose, owner, review path, and deployment responsibility for AI-generated changes.
-- For agent product design: build around identity, durable state, eval traces, least privilege, and workflow recovery before expanding autonomy.
-- For AI x industry scouting: preserve deployment blockers as first-class output. A useful digest should say what the model did and what physics, hardware, data, regulation, or workflow still blocks adoption.
-- For learning: prefer sources that add a mechanism or constraint. The strongest new material explained why agents fail at authority, why code generation creates governance debt, and why simulated autonomy can overstate real-world readiness.
+- For Zuhn: add a recurring synthesis check that groups new insights by "architecture preflight," "runtime authority," "workflow routing," and "deployment evidence" so daily briefs stop reading like independent source summaries.
+- For AgentRun: add fields for `authority_boundary`, `allowed_side_effects`, `denied_side_effects`, and `confirmation_gate` on runs that can mutate repos, KB state, external services, or user-visible artifacts.
+- For future paper digests: prefer papers that provide a cheap decision rule, like a ceiling, regret test, abstention curve, or deployment blocker, over papers that only report a higher benchmark number.
+- For product/coding workflow: before adopting model routing or multiple-agent voting, build the eval matrix and compute the all-wrong rate; keep the single-best baseline visible.
+- For security work: classify prompt-injection findings by execution chain stage, not just payload severity. A detected malicious instruction is a different incident class from a completed privileged action.
+- For health/AI scouting: preserve the cost curve and ambiguous-class story. HER2-style systems are interesting when they reduce physical infrastructure requirements and route uncertain cases safely.
 
 ## 7. Open Questions and Verification Gaps
 
-- `RUN-260627-999D` is active with no steps, artifacts, or gates. Close it only after real contradiction-scout verification, or mark it blocked if the GitLab artifact was created outside the run.
-- `RUN-260627-3BB6` and `RUN-260627-56D2` passed but intentionally skipped auto-git because of dirty checkout risk. Their local artifacts are useful but require care when distinguishing committed state from ignored/runtime state.
-- Commit `f6df5fa0ea` is mixed with pre-existing dirty insights per `RUN-260627-E849`; do not attribute all 88 new insights solely to the selected video batch.
-- `knowledge-base/meta/activity.md` remains stale relative to June automation activity.
-- `knowledge-base/meta/gate-report.json` is now current enough to show a June 27 all-corpus gate report, but it is a broad corpus audit, not a proof that every active run was closed correctly.
-- The checkout is dirty with broad generated tag/index state and an untracked tension JSON. This brief should be committed narrowly if it changed meaningfully.
+- `knowledge-base/meta/activity.md` remains stale; it is not reliable for June 27 automation chronology.
+- `knowledge-base/meta/gate-report.json` is current enough to show a broad June 27 corpus audit, but it is not closure proof for each automation run.
+- The video digest was reviewed through manifests, AgentRun gates, source IDs, commits, and representative insights; it was not audited insight-by-insight across all 99 new video insights.
+- Source files and AgentRun traces are ignored/local runtime state. The committed evidence is strong, but future readers should not assume those ignored artifacts exist in a fresh clone.
+- The co-failure paper should become an actual local eval recipe for model/router experiments; today it is represented as knowledge, not an implemented Zuhn/AgentRun gate.
 
 ## 8. Links to Changed Files, Commits, and AgentRun IDs
 
 - Visible brief: `knowledge-base/views/daily-learning-brief.md`
 - Archive copy: `knowledge-base/meta/daily-learning-briefs/2026-06-27.md`
-- This synthesis run: `knowledge-base/runs/RUN-260627-B546.json`
-- AgentRuns reviewed: `RUN-260627-3BB6`, `RUN-260627-56D2`, `RUN-260627-E849`, `RUN-260627-785C`, `RUN-260627-999D`, plus earlier-in-window `RUN-260627-65CB`
-- Key commits reviewed: `5402fde5f2`, `c7b528c178`, `2bef52508a`, `f6df5fa0ea`, `7e74489224`
-- Representative sources: `SRC-260627-61BB`, `SRC-260627-4214`, `knowledge-base/meta/daily-ai-video-digest-2026-06-27-run-2-selection.md`, `knowledge-base/meta/daily-ai-video-digest-2026-06-27-run-2-sources.txt`
-- Representative insight files: `knowledge-base/domains/ai-development/software-engineering/ai-code-generation-moves-the-bottleneck-from-building-to-governing.md`, `knowledge-base/domains/ai-development/software-engineering/generated-code-creates-traceability-debt-when-origin-and-responsibility-are-uncl.md`, `knowledge-base/domains/ai-development/career-strategy/the-ai-era-technical-role-shifts-toward-accountability-rather-than-disappears.md`, `knowledge-base/domains/ai-development/product-strategy/vertical-domain-expertise-needs-software-accountability-to-become-a-moat.md`, `knowledge-base/domains/health/biotechnology/medical-microrobot-control-needs-physics-grounded-training-environments-before-b.md`, `knowledge-base/domains/ai-development/research-methodology/simulation-success-should-carry-an-explicit-experimental-debt-ledger.md`
-- New tension evidence: `knowledge-base/tensions/domain-experts-build-better-vertical-software-than-software-first-developers-onc.md`, `tension-gitlab-ai-accountability-2026.json`
+- This synthesis run: `knowledge-base/runs/RUN-260627-C485.json`
+- AgentRuns reviewed: `RUN-260627-9DA1`, `RUN-260627-FCF7`, `RUN-260627-370D`, `RUN-260627-4BF5`, `RUN-260627-EE92`, plus earlier same-day `RUN-260627-B546`, `RUN-260627-65CB`, `RUN-260627-E849`, `RUN-260627-785C`, `RUN-260627-999D`, `RUN-260627-56D2`, `RUN-260627-3BB6`, `RUN-260627-A67D`, `RUN-260627-2A05`, and `RUN-260627-0C61`.
+- Key commits reviewed: `275ea3ebb2`, `1257d832b5`, `9ed4593f49`, `060f2e5c35`, `fa0e0af524`, `efb10f5021`, `8f544a5262`, `7347f7c1d6`, `7e74489224`.
+- Representative sources: `SRC-260627-7784`, `SRC-260627-F122`, `SRC-260627-1BCF`, `SRC-260627-8894`, `SRC-260627-8F53`, `knowledge-base/meta/daily-ai-video-digest-2026-06-27-run-3-selection.md`, `knowledge-base/meta/daily-ai-video-digest-2026-06-27-run-3-sources.txt`.
+- Representative insight and tension files: `knowledge-base/domains/ai-development/agent-evals/measure-the-all-models-wrong-tail-before-building-a-router.md`, `knowledge-base/domains/ai-development/system-building/oracle-disagreement-is-not-the-same-as-deployable-routing-signal.md`, `knowledge-base/domains/ai-development/tooling/gate-agent-tools-as-a-dispatcher-pipeline-not-a-prompt-convention.md`, `knowledge-base/domains/ai-development/inference/optimize-long-context-agents-at-the-kv-cache-contract.md`, `knowledge-base/domains/ai-development/evaluation/uncertainty-filtering-turns-model-errors-into-routed-workflow-states.md`, `knowledge-base/domains/health/biotechnology/ai-can-substitute-for-expensive-pathology-optics-when-the-sensing-pipeline-is-co.md`, `knowledge-base/domains/ai-development/agent-reliability/in-the-wild-idpi-has-a-real-but-still-opportunistic-deployment-track-record.md`, `knowledge-base/domains/ai-development/agent-reliability/observed-prompt-injection-severity-is-still-bounded-by-deployed-agent-privileges.md`, `knowledge-base/tensions/ai-agents-that-book-flights-send-emails-execute-code-or-otherwise-interact-with.md`.
