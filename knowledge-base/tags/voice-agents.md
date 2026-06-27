@@ -3,12 +3,12 @@
 - `INS-260322-750D` AI voice agents in loan servicing and collections can speak 50 languages, maintain perfect UDAP compliance, and deliver better customer experiences — reorienting fintech TAM from IT budgets to labor costs.
 - `INS-260625-A4DE` Enterprises deploy voice agents faster than any other agent because IVR trees, call flows, and customer-service SOPs already exist, making the gap from human call to autonomous agent small.
 - `INS-260625-B985` Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
-- `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
-- `INS-260605-2E27` Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
-- `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
 - `INS-260624-D8C3` Speculation helps latency, but side-effectful actions need commit barriers.
 - `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
+- `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
+- `INS-260605-2E27` Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
+- `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
 - `INS-260625-0C98` The cascading STT-LLM-TTS voice stack is structurally identical to a self-driving perception-reasoning-control loop, and the next unlock is controllable real-time models that share embeddings and context across specialized stages — neither one monolithic model nor fully separate ones.
 - `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260626-6767` Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.

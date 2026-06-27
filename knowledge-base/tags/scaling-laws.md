@@ -1,7 +1,7 @@
 # Tag: scaling-laws
 
-- `INS-260625-8BBB` Unlike most capabilities, safety and adversarial robustness do not emerge from scale — they require explicit, dedicated training.
-- `INS-260327-6177` Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
+- `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
+- `INS-260328-D1B2` Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results.
 - `INS-260323-F0A2` Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
@@ -10,9 +10,9 @@
 - `INS-260328-8CCC` Training loss scales predictably but actual capabilities emerge non-linearly, making capability prediction unreliable.
 - `INS-260323-4D13` Zuckerberg identifies the scaling question as the single highest-stakes bet in AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundreds of billions in infrastructure riding on continued returns.
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
+- `INS-260625-8BBB` Unlike most capabilities, safety and adversarial robustness do not emerge from scale — they require explicit, dedicated training.
+- `INS-260327-6177` Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
-- `INS-260327-422B` Two dynamics run simultaneously: model intelligence cost drops ~4X/year while total spending rises ~10X/year — DeepSeek sat perfectly on the cost reduction curve, but being the first Chinese company at frontier capability is genuinely concerning.
-- `INS-260328-D1B2` Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results.
 - `INS-260410-76A3` Scaling laws convert LLM capability improvement into a predictable function of compute and data, turning AI progress into a capital-allocation problem.
 - `INS-260605-6A0A` Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
 - `INS-260403-4803` LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
@@ -34,5 +34,5 @@
 - `INS-260505-483B` Individual labs collecting hypothesis-specific data is the equivalent of training language models on one book at a time.
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.
 - `INS-260626-8E45` Liquid pre-trained a 350M model on 28 trillion tokens — orders of magnitude past Chinchilla compute-optimal — and performance was still climbing, suggesting under-trained rather than over-trained.
-- `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260412-C3E6` Just as gravity is irrelevant to ants but lethal to elephants, the forces that threaten organizations undergo categorical shifts at different scales.
+- `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.

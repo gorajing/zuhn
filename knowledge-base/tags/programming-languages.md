@@ -13,6 +13,6 @@
 - `INS-260403-EA2C` Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
 - `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
+- `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260405-EFC2` C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260405-3772` Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.
-- `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract.

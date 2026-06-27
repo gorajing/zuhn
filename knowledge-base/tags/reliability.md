@@ -22,17 +22,17 @@
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
-- `INS-260625-8E60` Take a 'golden session' where the agent performed well, have an agent deconstruct it into a declarative prose workflow, and re-run that workflow to get the good outcome repeatably.
 - `INS-260625-FA31` Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
 - `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
+- `INS-260625-8E60` Take a 'golden session' where the agent performed well, have an agent deconstruct it into a declarative prose workflow, and re-run that workflow to get the good outcome repeatably.
 - `INS-260619-4962` Do not turn off the coding autopilot, but make engineers keep enough manual skill and system understanding to recover when it hands control back.
 - `INS-260625-6127` When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260424-ABB2` Google Cloud lead: at 100,000 chips, several times a day at least one will fail — if a human is needed for diagnosis, that's a 30-minute minimum, and you have zero throughput until you start again.
 - `INS-260410-ED34` When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - `INS-260605-7CEB` Viktor's 2023 browser agent was state-of-the-art on Web Arena yet unusable as a product because ~60% per-step reliability compounded over 3-5 steps into frequent failure.
 - `INS-260605-8F42` The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
-- `INS-260626-BC79` GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
+- `INS-260626-BC79` GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - `INS-260625-C3B0` Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
 - `INS-260619-CBFA` Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -48,6 +48,6 @@
 - `INS-260605-D0A0` Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win.
 - `INS-260624-5ACA` Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them.
 - `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
+- `INS-260412-0F9A` Air traffic controllers spend entire careers in a single sector group, building deep spatial knowledge of their specific airspace geometry that enables safe split-second decisions.
 - `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
 - `INS-260329-A57B` Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.
-- `INS-260412-0F9A` Air traffic controllers spend entire careers in a single sector group, building deep spatial knowledge of their specific airspace geometry that enables safe split-second decisions.

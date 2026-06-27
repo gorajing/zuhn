@@ -1,10 +1,10 @@
 # Tag: interface-design
 
 - `INS-260505-F164` Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
+- `INS-260514-F5D2` I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
 - `INS-260626-7B73` Managing many units under time pressure is a learned skill RTS gamers already have, so build agent orchestrators around those familiar mechanics rather than inventing new ones.
 - `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
-- `INS-260514-F5D2` I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.
 - `INS-260326-E7BE` Humans cannot process raw probabilistic truth — AI interfaces that present unfiltered reality will be rejected, not because users are stupid but because perception is architecturally a survival renderer.
 - `INS-260605-F8EF` Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT.

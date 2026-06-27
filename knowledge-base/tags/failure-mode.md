@@ -1,5 +1,6 @@
 # Tag: failure-mode
 
+- `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
 - `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260323-A183` Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
@@ -12,4 +13,3 @@
 - `INS-260323-3436` Everyone recognizes desktop clutter as a problem, but nobody's in enough pain to adopt a tool to solve it — recognizable problems and painful problems are completely different categories.
 - `INS-260323-40AA` Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
 - `INS-260323-F9E5` The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
-- `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.

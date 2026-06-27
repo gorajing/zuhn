@@ -1,13 +1,13 @@
 # Tag: developer-tools
 
+- `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
 - `INS-260403-4819` Cursor and Replit have crossed $500M+ ARR in under four years, setting a new speed record for developer tool commercialization.
 - `INS-260404-177F` Companies adopting AI engineers like Devin measure success by merged PRs and contributor rankings rather than benchmark scores.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
-- `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
-- `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
-- `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
+- `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
+- `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260625-E02C` The hard part of AI development is reconciling CUDA versions, PyTorch compatibility, and which GPU SKUs actually work — not training or building the model.
 - `INS-260605-0C5C` The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches.
 - `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
@@ -36,9 +36,9 @@
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260405-D23E` Platform builders should maximize developer access rather than try to anticipate use cases, because versatility produces emergent applications the platform creator never imagined.
 - `INS-260625-D510` When users demand configurability, earn conviction for opinionated defaults by using your own product every day and trusting gut feel.
-- `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
+- `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
 - `INS-260410-126F` James Hamilton's first S3 dev/test bill was $3.08, then $0.07 the next month — an economic event impossible under any traditional enterprise sales motion, and the reason Dropbox, Instagram, Airbnb, and Uber were all born on AWS.
 
 

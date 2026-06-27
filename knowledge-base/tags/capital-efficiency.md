@@ -1,11 +1,11 @@
 # Tag: capital-efficiency
 
-- `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260412-826D` WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
+- `INS-260410-320D` Mars targets a fixed 18% return on the replacement cost of assets, forcing continuous asset productivity and disciplined reinvestment.
 - `INS-260403-2369` Stablecoins move money fast but earn nothing — the real opportunity is building yield layers on top of them.
+- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
 - `INS-260625-E7F2` RunPod's founders turned the spare GPUs from a failed crypto-mining venture into an AI cloud by offering free compute on Reddit in exchange for feedback — and were revenue-generating from the very beginning.
-- `INS-260403-F732` Rising rates shake out weak competitors, concentrate talent, and force the survivors to build sustainably profitable businesses.
 - `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260410-03FA` When customers pay you before you pay suppliers, every dollar of growth generates free capital instead of consuming it.
 - `INS-260410-270E` Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
@@ -34,9 +34,9 @@
 - `INS-260403-1823` Women-founded startups produce $0.78 in revenue per dollar raised versus $0.31 for male-founded ones, making the funding disparity an investor performance problem.
 - `INS-260412-1E19` Budget airlines schedule 30-45 minute turnarounds and fly planes all day nonstop, ensuring the most expensive asset is always generating revenue rather than sitting idle.
 - `INS-260412-4D3B` Southwest and Spirit achieve cost leadership by keeping planes flying 11+ hours daily versus legacy carriers' 8.5 hours.
+- `INS-260626-66C6` ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.
 - `INS-260403-2B09` AI and no-code platforms have collapsed the cost of startup operations so dramatically that most software startups no longer need venture-scale capital.
 - `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260412-EDBF` Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.
-- `INS-260626-66C6` ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.

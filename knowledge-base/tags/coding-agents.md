@@ -16,9 +16,9 @@
 - `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
 - `INS-260325-2DCD` Coding agents create well but cannot steward codebases — they lack system design judgment.
+- `INS-260410-9EA8` Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
-- `INS-260410-9EA8` Karpathy built nanochat with mostly autocomplete — not agents — because LLM agents kept forcing deprecated APIs, bloating code with defensive try/catch, and refusing to accept his custom distributed training bypass of PyTorch DDP.
 - `INS-260626-09E1` Vercel AI SDK 7 makes established coding-agent harnesses pluggable behind a common Agent interface.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-9523` Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
@@ -41,8 +41,8 @@
 - `INS-260626-BDAB` PR-level studies show engineers are only marginally faster with AI (the METER study even found them 20% slower while feeling 20% faster), but the organizational unlock comes from giving non-technical teammates coding agents so they stop waiting on engineers.
 - `INS-260325-3F86` AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
 - `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
-- `INS-260626-14E0` Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
+- `INS-260626-14E0` Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
 - `INS-260605-9CE2` Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - `INS-260605-4A94` Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
 - `INS-260625-C69F` Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.

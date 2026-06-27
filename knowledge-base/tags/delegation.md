@@ -1,5 +1,6 @@
 # Tag: delegation
 
+- `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
 - `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
 - `INS-260626-C4F7` Each rung of orchestration extracts the human from a tighter loop — first stop doing, then stop babysitting, then let agents decompose and plan, until your only job is reviewing outcomes.
@@ -9,9 +10,8 @@
 - `INS-260605-4DB9` Not all context belongs in the same agent — delegate searches and intermediate reasoning to sub-agents and pass only results back to the main conversation.
 - `INS-260626-7681` Kitze rejects opaque agent 'memory' in favor of nested topics where each conversation deterministically injects its parent topics' descriptions, and argues you shouldn't load one mega-agent with your entire life any more than you'd load one employee with everything.
 - `INS-260411-5478` Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
-- `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
-- `INS-260321-E2FC` Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
 - `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
+- `INS-260321-E2FC` Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
 - `INS-260626-1B29` As agents do more work you become a manager of an async fleet — which means scoping work to avoid merge conflicts, frontloading context into specs/plans, and trusting agents to run long.
 - `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
@@ -20,6 +20,7 @@
 - `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
 - `INS-260327-3381` Davout was Napoleon's most valuable marshal because he could win battles independently — at Auerstedt he defeated the main Prussian army with a single corps while Napoleon fought a secondary force at Jena.
+- `INS-260404-A246` Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260402-91B5` Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260323-CB34` Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -37,11 +38,10 @@
 - `INS-260325-6F89` The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
-- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260329-88A4` Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
 - `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
-- `INS-260404-A246` Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
+- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.

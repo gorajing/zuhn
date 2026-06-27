@@ -1,7 +1,7 @@
 # Tag: pipeline
 
-- `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260605-FB4D` Google's Eloquent transcription app chains a Gemma-3-based ASR engine with a separate text-polishing model — each only a few hundred million params — to ship offline transcription with a personal dictionary.
+- `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260409-6AEB` Web Clipper plus Local Images Plus gives one-click ingestion with localized images.
 - `INS-260409-086A` Spawn a subagent per source during ingest so context pollution doesn't degrade later items in the queue.
 - `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.

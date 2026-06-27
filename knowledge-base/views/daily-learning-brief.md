@@ -1,74 +1,77 @@
 # Daily Learning Brief
 
-Generated on 2026-06-26 at 05:15 PDT. This is a downstream synthesis job; no new ingestion was run for this brief.
+Generated on 2026-06-26 at 19:08 PDT. This is a downstream synthesis job; no new ingestion was run for this brief.
 
 ## 1. Date and Scope Reviewed
 
-Scope reviewed: roughly 2026-06-25 21:52 PDT through 2026-06-26 05:15 PDT, anchored to the previous automation run and the current working tree. Evidence came from `git log --since='2026-06-25T04:52:13Z'`, scoped `git status` / `git diff`, `knowledge-base/meta/log.md`, `knowledge-base/meta/activity.md`, `knowledge-base/meta/gate-report.json`, June 26 video digest manifests, recent source and insight files, and AgentRun traces under `knowledge-base/runs/`.
+Scope reviewed: roughly 2026-06-26 05:15 PDT through 2026-06-26 19:08 PDT, anchored to the previous daily brief and current repo state. Evidence came from `git log --since`, `git status`, `knowledge-base/meta/log.md`, `knowledge-base/meta/activity.md`, current AgentRun traces, source manifests, recent source files, representative insight files, and post-ingest commits after `d66dd02d84`.
 
-Important boundary: routine names were not treated as proof. I counted a run as learned only where local traces showed source selection, extraction, and verification state. Active or blocked runs are explicitly labeled as such.
+Important boundary: routine names were not treated as proof. I counted a run as passed only where AgentRun gates and committed or local artifacts supported it. Active runs with useful committed evidence are labeled separately.
 
 ## 2. Executive Summary
 
-- The strongest update is that agent value is moving from "can it produce a plausible change?" to "can the harness detect silent negative changes before expensive validation?" NOVA made this concrete with local pass rate, silent failure rate, and effective pass rate.
-- The June 26 video digest added a broad agent/product/startup batch, but its durable synthesis is not "more agent enthusiasm." It reinforces that memory, specs, protocol design, security gates, and deterministic tools are the compounding layer.
-- The DORA contradiction scout weakens any broad headcount-collapse or pure-speed belief. AI appears to amplify organizational health and delivery substrate; it does not erase coordination, trust, platform, or stability costs.
-- Healthcare AI evidence became more calibrated: workflow support can improve documentation and treatment planning without yet proving patient-outcome lift. Clinical and agent evals both need process metrics plus final outcome metrics.
-- Automation state is mixed: paper and video digest runs passed; the clinical AI x industry run extracted useful insights but is blocked because `learn` did not complete; the DORA contradiction scout is still active even though its insight patch is committed.
+- Agent-context files became a measured intervention, not a free best practice. The AGENTS.md evaluation strengthened the need to judge context by success per dollar, not just task resolution.
+- Reasoning-model optimism got narrower. The Apple reasoning counterevidence supports a medium-complexity advantage but challenges any smooth "more test-time compute solves harder reasoning" story.
+- Agent platforms are converging on governed control planes: skills, MCPs, hooks, subagents, cloud workspaces, authorization, and traces are becoming managed runtime state, not incidental config.
+- AI-for-science evidence stayed strongest where predictions are tied to downstream validation. The plant genomics digest reinforced mechanism discovery plus assay confirmation as the credible pattern.
+- Human-AI collaboration evidence became more task-specific. The NBER/P&G evidence challenges broad pessimism about human-AI teams, but mostly for creative, cross-functional product ideation rather than finite-choice decision work.
 
 ## 3. Sources Processed
 
-- Daily AI paper digest: `RUN-260626-3721` selected arXiv:2606.27243, ingested `SRC-260626-7A5B` ("NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems"), extracted 8 insights, and committed `07ca6c8a9c`.
-- Daily AI video digest: `RUN-260626-89C8` processed 20 YouTube URLs from `knowledge-base/meta/daily-ai-video-digest-2026-06-26.txt`, wrote source IDs in `knowledge-base/meta/daily-ai-video-digest-2026-06-26-sources.txt`, extracted 100 attributed insights, repaired nested topic paths, and committed `4ab56f1c0a`, `d4463be297`, and `ef010c4460`.
-- Daily AI x industry digest: `RUN-260626-B946` selected a Nature Medicine / EurekAlert clinical decision-support trial, ingested `SRC-260626-8708`, extracted 7 insights, passed health/reindex/embed/changed-gate, but closed `blocked` because `npm run learn` did not complete. Treat the insights as local/committed evidence with an incomplete post-ingest run, not a fully passed automation.
-- Daily contradiction scout: `RUN-260626-5564` targeted `INS-260322-1D52` against Google Cloud's DORA 2025 report, ingested `SRC-260626-853D`, extracted 5 insights, and committed `9447768dc3`. The AgentRun remains `active`, so the belief update is useful but the automation state is incomplete.
-- Prior late evidence still inside the 24-hour window: `RUN-260625-1E1D` Flex-Cat catalysis, `RUN-260625-AEC2` METR productivity RCT, and June 25 late video / benchmark-watch commits remain relevant context but were already synthesized in the previous brief.
+- Daily AI paper digest: `RUN-260626-7D86` passed. It ingested `SRC-260626-8B40`, "Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?", extracted 8 insights, and committed `d5dbe2d06d`.
+- Daily AI video digest run 2: `RUN-260626-F2B2` passed. It processed 20 YouTube URLs from `knowledge-base/meta/daily-ai-video-digest-2026-06-26-run-2.txt`, source IDs from `knowledge-base/meta/daily-ai-video-digest-2026-06-26-run-2-sources.txt`, and verified 100 attributed insights.
+- Daily AI video digest run 3: `RUN-260626-D07A` passed. It processed 20 AI Engineer videos from `knowledge-base/meta/daily-ai-video-digest-2026-06-26-run-3.txt`, source IDs from `knowledge-base/meta/daily-ai-video-digest-2026-06-26-run-3-sources.txt`, and verified 100 attributed insights.
+- Daily contradiction scout: `RUN-260626-5D85` passed. It ingested `SRC-260626-C446`, Apple/arXiv reasoning-model counterevidence, extracted 5 insights, created tension `T-260626-57B8`, and committed `6ce6ccc855` plus `b9c31f61af`.
+- Weekly AI platform changelog digest: `RUN-260626-AAE0` passed with 7 insights from Vercel AI SDK 7, Hugging Face Agentic Resource Discovery, Cursor Automations, GitHub BYOK, LangSmith, and Gemini Computer Use; post-ingest committed `7895baefd4`.
+- Weekly AI platform changelog fresh pass: `RUN-260626-F2A9` passed with 9 insights from OpenAI Codex Remote GA, GitHub Agent Finder, Cursor Customize, Cursor cloud subagents, and MCP Enterprise-Managed Authorization; post-ingest committed `ba02e56044`.
+- Daily AI x industry digest: `RUN-260626-EA07` passed. It ingested `SRC-260626-281A`, a Forschungszentrum Juelich/IPK plant regulatory-genomics release, extracted 7 insights, and committed `0797f514ed`.
+- Active but locally evidenced runs: `RUN-260626-A6EC` is still active, but `SRC-260626-8D3F` ("A Deterministic Control Plane for LLM Coding Agents") shows 8 extracted insights and committed KB changes. `RUN-260626-39DD` is still active, but `SRC-260626-64A6` from NBER Working Paper 33641 shows 5 extracted insights and commit `5a26338c55`.
 
 ## 4. Top Durable Insights
 
-- Runnable is not enough. NOVA's central contribution is separating locally valid changes from production-effective changes; silent failures are the gap where code runs but semantics or business metrics degrade.
-- Agent evals should decompose failure modes. A single pass rate hides whether the problem is invalid code, valid-but-useless code, weak verifier coverage, or poor online impact.
-- Verification should be a cascade. Cheap semantic gates and local executability checks should prune candidates before offline training, human review, or online A/B tests.
-- Failed attempts should become negative knowledge. NOVA's trajectory memory turns rejected modification patterns into forbidden directions for the next search step; this is directly relevant to AgentRun and Zuhn's own automation traces.
-- The stable-memory / run-memory split matters. Durable KB principles and volatile per-run diagnostics should not be collapsed into one store; otherwise long-term memory gets polluted or active runs lose exact evidence.
-- AI video-derived learning continues to converge on "harness over model." New June 26 insights cluster around agent-readable specs, protocol contracts, tool documentation as GTM, security boundaries, deterministic tooling, and customer/domain insight as the moat.
-- DORA adds organizational counterevidence to AI-speed maximalism. AI-assisted delivery can raise throughput while worsening stability if the platform, tests, feedback loops, and team health are weak.
-- Clinical AI reinforces the proxy/outcome split. AI Consult improved documentation and treatment planning, but the primary 14-day treatment-failure outcome did not significantly improve, so claims should stay bounded to workflow, safety, and cost signals.
+- Context is a product surface, not background prose. AGENTS.md-style files can increase steps, reasoning tokens, and cost without raising success, so they need A/B testing like any other harness change.
+- Agent evals should report efficiency-adjusted outcomes. Success rate alone hides regressions where the agent does more work, burns more budget, or follows extra instructions without producing better accepted patches.
+- Test-time compute is not a monotonic reasoning knob. Apple-style puzzle complexity evidence says reasoning effort can rise in the middle and shrink near collapse, so models need policies for how to spend budget, not just more budget.
+- Control planes are moving from prompts to governed inventories. Cursor, Codex, GitHub, MCP, LangSmith, and Vercel updates all point toward scoped capabilities, runtime identity, traceability, and authorization as first-class agent infrastructure.
+- Video-derived agent learning converged on the same theme: useful agent systems are shaped by gateways, protocols, evals, deterministic code paths, and specialist orchestration, not chat UX alone.
+- Scientific AI value is highest when it bridges from correlation to mechanism. The plant genomics source mattered because it linked regulatory variants to transcription-factor binding and then to independent assay validation.
+- Human-AI synergy is not one belief. P&G/NBER strengthens the case for AI as a boundary-spanning creative teammate, while older meta-analysis and current scout state still warn against naive human-AI averaging on decision tasks.
+- Active-run evidence should not be promoted to passed-run confidence. The deterministic-control-plane and NBER insights look useful, but their AgentRuns remain active and need final closure before future dashboards treat them as completed automations.
 
 ## 5. Belief Updates
 
-- Stronger: "Useful autonomy is capped by verifier quality." NOVA, video-derived harness patterns, and clinical evidence all point to domain-specific gates as the limiting substrate.
-- Stronger: "AgentRun should preserve per-run trajectory evidence separately from long-term beliefs." Today's paper directly supports this architecture.
-- Stronger: "AI adoption is systems change, not procurement." DORA's internal-platform and team-health findings strengthen the view that organizational substrate determines whether AI acceleration compounds or destabilizes.
-- Weaker: "AI broadly collapses headcount and durable leads by itself." DORA is counterevidence: capital, models, and tools do not dissolve coordination and stability bottlenecks without platform quality and safety nets.
-- More precise: "Clinical AI works first as workflow-embedded decision support." The credible near-term claim is improved documentation, planning, guideline adherence, and cost behavior, not proven patient-outcome transformation.
-- Active tension: video digest evidence still supports aggressive agent-native product building, while DORA/METR/clinical evidence says the productivity and outcome claims must be observed at the final system boundary.
+- Stronger: "Repository context files must be evaluated as interventions." The AGENTS.md paper weakens blanket enthusiasm for adding more instructions and strengthens success-per-dollar evaluation.
+- Stronger: "AgentRun should model capability origin and runtime scope." Platform changelogs make user/team/workspace/run-local configuration a reproducibility concern.
+- Stronger: "Scientific AI needs downstream validation." Plant regulatory genomics supports the pattern that internal model metrics are not enough without domain-native confirmation.
+- Weaker: "Inference-time compute smoothly extends reasoning." Apple counterevidence makes the broad RLVR/test-time scaling claim more regime-dependent.
+- More precise: "Human-AI teams can outperform in creative, cross-functional tasks." This does not falsify decision-task underperformance; it narrows the boundary where synergy is plausible.
+- Active tension: the same day strengthened both agent-control-plane optimism and agent-context skepticism. The reconciled view is that structured, measured, scoped context helps; unmeasured prose accumulation can hurt.
 
 ## 6. Actionable Implications
 
-- For Zuhn: add a first-class state distinction in briefs and dashboards: passed/committed, committed-but-active, extracted-but-blocked, and stale. Today has all four, and flattening them would overstate evidence quality.
-- For AgentRun: store silent-failure diagnostics and rejected directions as structured artifacts, not just narrative notes. Future runs should be able to say "do not retry this class of patch."
-- For coding workflow: evaluate AI coding by final accepted change, review burden, stability, and incident risk, not elapsed typing time or self-reported speed.
-- For product strategy: prefer products that become the control layer around deterministic tools, protocols, specs, and feedback loops. Model access alone is becoming the least durable part of the stack.
-- For investing: discount AI productivity stories unless the company shows platform quality, feedback loops, stability metrics, and organizational adoption depth.
-- For healthcare/vertical AI: position around measured workflow and cost improvements until patient-outcome evidence exists; do not market proxy gains as clinical transformation.
-- For future digests: close or update active AgentRuns promptly. `RUN-260626-5564` and old `RUN-260625-A5DA` should not remain ambiguous after their useful evidence has been committed or superseded.
+- For Zuhn: add a durable "evidence state" lens to briefs and dashboards: passed, blocked, active-with-artifacts, committed-but-not-closed, and stale.
+- For AgentRun: record capability origin scope for tools, skills, MCP servers, subagents, hooks, and local config. Reproducibility now depends on more than the git diff.
+- For coding workflow: keep AGENTS.md/CLAUDE.md concise and measured. Treat generated context files as experimental harness changes that can raise cost without success.
+- For AI evaluation: report accepted-change rate, cost, steps, repeated reads, tool-call mix, and final outcome, not just whether the agent produced a runnable answer.
+- For investing/product: favor agent companies building control planes, governance, and trace infrastructure around real workflows over thin wrappers around model access.
+- For AI-for-science learning: prefer sources that connect model predictions to experimental assays, production decisions, or real-world outcomes.
+- For contradiction scouts: close `RUN-260626-A6EC` and `RUN-260626-39DD` cleanly or mark them blocked; useful artifacts without closure are a recurring trust leak.
 
 ## 7. Open Questions and Verification Gaps
 
-- `RUN-260626-5564` remains `active` despite committed DORA-derived insights. It needs final gates or closure before being counted as a passed contradiction scout.
-- `RUN-260626-B946` is explicitly `blocked`: source ingestion and insight extraction succeeded, but `learn` did not complete.
-- `knowledge-base/meta/activity.md` remains stale relative to June 25 and June 26 automation activity.
-- `knowledge-base/meta/gate-report.json` still appears dated 2026-06-11, so it is not current proof for today's KB quality.
-- The repo is ahead of `origin/main` and contains a broad dirty KB tree. This brief should be committed narrowly if changed, without sweeping unrelated knowledge-base edits.
-- Video digest source manifests prove the 20 selected URLs and source IDs, but the brief does not individually audit all 100 video-derived insights; it samples representative clusters and relies on `RUN-260626-89C8` verification gates.
+- `RUN-260626-A6EC` remains `active` with no gates in the AgentRun record even though `SRC-260626-8D3F` has 8 extracted insights. It should be closed or explicitly marked blocked.
+- `RUN-260626-39DD` remains `active` with no gates in the AgentRun record even though `SRC-260626-64A6` has 5 extracted insights and the latest commit contains human-AI-team insights.
+- `knowledge-base/meta/activity.md` remains stale relative to June 26 automation activity.
+- `knowledge-base/meta/gate-report.json` is still not current proof for today's KB quality.
+- The repo has a broad dirty KB tree unrelated to this brief. This synthesis should be committed narrowly if changed.
+- The video digest produced 200 new attributed insights across two later runs; this brief samples clusters and relies on the AgentRun attribution gates rather than individually auditing every insight.
 
 ## 8. Links to Changed Files, Commits, and AgentRun IDs
 
 - Visible brief: `knowledge-base/views/daily-learning-brief.md`
 - Archive copy: `knowledge-base/meta/daily-learning-briefs/2026-06-26.md`
-- This synthesis run: `knowledge-base/runs/RUN-260626-27F9.json`
-- AgentRun traces reviewed: `RUN-260626-3721`, `RUN-260626-89C8`, `RUN-260626-B946`, `RUN-260626-5564`, `RUN-260625-1E1D`, `RUN-260625-AEC2`, `RUN-260625-5D34`, `RUN-260625-88AB`
-- Key commits reviewed: `07ca6c8a9c`, `4ab56f1c0a`, `d4463be297`, `ef010c4460`, `9447768dc3`, plus prior-window commits `9036e90f4d`, `2f16c9d22c`, `da219ced3d`, and `3430434479`
-- Representative sources: `knowledge-base/sources/blog/nova-a-verification-aware-agent-harness-for-architecture-evolution-in-industrial.md`, `knowledge-base/sources/blog/ai-support-tool-improved-clinician-decisions-in-real-world-primary-care-trial.md`, `knowledge-base/sources/blog/announcing-the-2025-dora-report.md`
-- Representative insight files: `knowledge-base/domains/ai-development/agent-evals/evaluate-agent-harnesses-with-local-pass-rate-silent-failure-rate-and-effective.md`, `knowledge-base/domains/ai-development/agent-evals/runnable-code-is-an-insufficient-success-criterion-for-domain-changing-agents.md`, `knowledge-base/domains/ai-development/system-building/verification-cascades-should-order-checks-from-cheapest-semantic-blockers-to-exp.md`, `knowledge-base/domains/ai-development/system-building/agent-memory-should-distinguish-stable-knowledge-bases-from-run-local-trajectory.md`, `knowledge-base/domains/ai-development/ai-market-dynamics/ai-amplifies-organizational-health-instead-of-replacing-it.md`, `knowledge-base/domains/health/biotechnology/clinical-ai-value-must-be-proven-on-patient-outcomes-not-simulated-reasoning.md`
+- This synthesis run: `knowledge-base/runs/RUN-260626-2323.json`
+- AgentRun traces reviewed: `RUN-260626-7D86`, `RUN-260626-F2B2`, `RUN-260626-5D85`, `RUN-260626-AAE0`, `RUN-260626-F2A9`, `RUN-260626-D07A`, `RUN-260626-EA07`, `RUN-260626-A6EC`, `RUN-260626-39DD`
+- Key commits reviewed: `d5dbe2d06d`, `6ce6ccc855`, `b9c31f61af`, `ba02e56044`, `618c2647f7`, `479f442c1d`, `bffe1a5bb6`, `0797f514ed`, `5a26338c55`
+- Representative sources: `knowledge-base/sources/paste/evaluating-agentsmd-are-repository-level-context-files-helpful-for-coding-agents.md`, `knowledge-base/sources/blog/a-deterministic-control-plane-for-llm-coding-agents.md`, `knowledge-base/sources/blog/ai-decodes-the-language-of-genes-a-new-look-inside-the-control-center-of-plants.md`, `knowledge-base/sources/pdf/w33641.md`
+- Representative insight files: `knowledge-base/domains/ai-development/agent-evals/treat-repository-context-files-as-an-intervention-not-harmless-background.md`, `knowledge-base/domains/ai-development/agent-evals/measure-agent-context-by-success-per-dollar-not-just-success-rate.md`, `knowledge-base/domains/ai-development/foundation-models/reasoning-models-have-a-medium-complexity-advantage-not-a-general-reasoning-guar.md`, `knowledge-base/domains/ai-development/llm-behavior/inference-time-reasoning-effort-can-shrink-exactly-when-tasks-get-harder.md`, `knowledge-base/domains/ai-development/agents/agent-customization-surfaces-are-becoming-governed-inventories.md`, `knowledge-base/domains/ai-development/applications/ai-is-most-valuable-when-it-converts-associations-into-mechanisms.md`, `knowledge-base/domains/ai-development/evals/scientific-ai-needs-downstream-validation-not-just-benchmark-curves.md`, `knowledge-base/domains/ai-development/human-ai-relationship/creation-tasks-unlock-human-ai-synergy-while-decision-tasks-destroy-it.md`

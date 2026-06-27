@@ -33,7 +33,7 @@
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
 - `INS-260626-7A55` Instead of you constantly prompting AI, the most productive people will delegate ~99% of work and the AI will prompt them — 'you didn't send me a picture of your passport,' 'what do you want to do next?'
 - `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
+- `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260410-B6EA` Mixed human-AI corporations will be outcompeted by fully autonomous ones the way a spreadsheet with some human-computed cells would be worse than a pure spreadsheet.
 - `INS-260403-10CE` As AI automates task execution, the scarce human contribution shifts to judgment, taste, and the ability to orchestrate AI systems effectively.
 - `INS-260501-A6E0` Three roles: builders, DRIs (one person, one outcome), AI founders. Middle management = legacy of pre-AI information routing. Goes away.
-- `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.

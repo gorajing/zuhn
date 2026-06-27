@@ -7,5 +7,5 @@
 - `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260329-66BD` Load balancers prevent server failure but become the single point of failure themselves, requiring redundant load balancers — revealing that reliability is recursive, not additive.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
-- `INS-260412-48E7` Communities built around a single extractive resource face existential decline when that resource runs out, and pivoting to tourism requires infrastructure that resource towns rarely build.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
+- `INS-260412-48E7` Communities built around a single extractive resource face existential decline when that resource runs out, and pivoting to tourism requires infrastructure that resource towns rarely build.

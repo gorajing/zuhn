@@ -1,6 +1,10 @@
 # Tag: management
 
 - `INS-260605-5D5E` An agent that starts waffling, contradicting itself, or 'bullshitting' in its reasoning is signaling failure before its diff does — kill or park the session.
+- `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
+- `INS-260626-2395` Smart people are wrong all the time (the best hitters make out two-thirds of the time); the big management fault is letting after-acquired information seep into your judgment of what someone should have done in the fog of the moment.
+- `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
+- `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
 - `INS-260402-ABB5` Financial constraints force companies to fix dysfunctions — overpaying underperformers, underpaying top talent, coordination-heavy middle management — that abundant capital made invisible.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
@@ -30,10 +34,6 @@
 - `INS-260402-D2C9` You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260330-DB4B` When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260410-E590` NVIDIA has 40+ direct reports to Huang because the company is architected like a computing stack — with people managing each layer — not like a military command hierarchy.
-- `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
 - `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
-- `INS-260626-2395` Smart people are wrong all the time (the best hitters make out two-thirds of the time); the big management fault is letting after-acquired information seep into your judgment of what someone should have done in the fog of the moment.
-- `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
-- `INS-260405-68DC` Good engineers made into managers as a reward for engineering excellence reliably become bad managers — the role requires different skills, not more of the same.
