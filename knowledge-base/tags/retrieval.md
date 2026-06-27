@@ -3,6 +3,8 @@
 - `INS-260625-869B` Budgeted ranked evidence is a stronger context gate than raw file-hit or token-count metrics.
 - `INS-260626-20B7` The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
 - `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
+- `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
+- `INS-260619-0770` The durable layer for video AI is a corpus memory with grounded primitives and citations back to source footage.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260627-4946` Instead of one embed-search-top-K pass and hoping the answer is in the chunks, give the agent the query plus search tools and let it run as many searches as it needs.
 - `INS-260625-211E` Models excel at selecting the right rows from a large input but are weak at producing the precise query that fetches only those rows, so give them broad-recall tools (vector + hybrid search) and let them do the final selection.
@@ -16,8 +18,6 @@
 - `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
 - `INS-260626-9A2A` A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
 - `INS-260605-37DA` Keep the first 100 and last 100 characters plus the system prompt and latest tool result, store the truncated middle in memory, and let the agent retrieve it on demand.
-- `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
-- `INS-260619-0770` The durable layer for video AI is a corpus memory with grounded primitives and citations back to source footage.
 - `INS-260625-05FF` Per Jeff Dean, even a trillion-token context window needs stage retrieval — 'you don't need a trillion at once, you need the right million' — so retrieval becomes an iterative search-reason-fetch loop, not a one-shot vector call.
 - `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260605-4B12` Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.

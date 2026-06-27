@@ -2,7 +2,6 @@
 
 - `INS-260409-52CE` If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 - `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
-- `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
 - `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260626-7F36` LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260501-C59A` Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt.
@@ -21,6 +20,7 @@
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - `INS-260321-E2FC` Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
 - `INS-260320-DC3C` Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
+- `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
 - `INS-260626-C88F` The instinct to abandon math and CS once AI automates them is backwards — knowing how LLMs actually work is precisely what lets you wield and prompt them effectively.
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'

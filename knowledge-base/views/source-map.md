@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-27 | 3238 sources
+Generated on 2026-06-27 | 3240 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -2141,7 +2141,9 @@ Generated on 2026-06-27 | 3238 sources
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |
 | Connect to tools - Amazon Bedrock AgentCore | blog | 3 | 2026-06-05 |
 | GitHub - cloudflare/security-audit-skill: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | blog | 3 | 2026-06-27 |
+| GitHub - huawei-csl/KVarN: KVarN is a native vLLM KV-cache quantization backend for your agents: 3-5x more context, throughput above FP16, and FP16-level accuracy. Calibration-free, one flag. | blog | 3 | 2026-06-27 |
 | GitHub - microsoft/fastcontext: FastContext: Training Efficient Repository Explorer for Coding Agents | blog | 3 | 2026-06-27 |
+| GitHub - NotASithLord/peerd: The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry. | blog | 3 | 2026-06-27 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 3 | 2026-03-30 |
 | Introduction | blog | 3 | 2026-06-26 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |

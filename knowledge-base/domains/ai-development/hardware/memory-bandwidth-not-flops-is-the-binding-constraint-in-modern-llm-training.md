@@ -57,7 +57,6 @@ stance: >-
   cores sit idle waiting for data far more than they run out of compute.
 related:
   - INS-260327-1563
-  - INS-260327-1631
   - INS-260409-FE00
   - INS-260605-FC5B
   - INS-260605-C9EB

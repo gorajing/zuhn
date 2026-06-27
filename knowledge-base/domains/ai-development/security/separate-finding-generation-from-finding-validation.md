@@ -53,6 +53,7 @@ related:
   - INS-260625-A5E7
   - INS-260627-8B75
   - INS-260627-C727
+  - INS-260627-79FC
 ---
 Cloudflare's skill structures security work as role separation: reconnaissance maps the system, hunters produce candidate vulnerabilities, validators try to disprove them, and fresh verifiers check the final structured claims against source code. The mechanism attacks the common failure mode where an agent becomes attached to its own speculative finding.
 

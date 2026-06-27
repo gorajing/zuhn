@@ -8,9 +8,9 @@
 - `INS-260409-A1D3` Skills are teachable in weeks; attitudes calcify over decades — so over-indexing on attitude selection beats over-indexing on skill screening.
 - `INS-260423-4402` Chamath: A-players are meaningless; there are teams that can perform at an A level. Iron sharpens iron.
 - `INS-260322-82E8` Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
-- `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260405-EE74` Growth-stage companies pay a premium for reliability because delays cost more than overpaying.
+- `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
@@ -98,6 +98,11 @@
 - `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260323-A7F6` The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
+- `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
+- `INS-260328-7942` A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
+- `INS-260327-2430` At OpenAI, Maggie holds the hiring line even during hypergrowth from 200 to 1000 people because one exceptional hire beats three average ones, and a mishire costs $1M+ when you factor in full cycle costs.
+- `INS-260327-2608` Sales managers hiring SDRs look for hard work, coachability, and team orientation — candidates with zero experience but these traits consistently outperform experienced hires who lack them.
+- `INS-260329-100D` Orient sales training around deep prospect understanding rather than product knowledge — reps shouldn't be talking much about the product anyway.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260322-7F88` At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
 - `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
@@ -119,8 +124,3 @@
 - `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
-- `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
-- `INS-260328-7942` A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
-- `INS-260327-2430` At OpenAI, Maggie holds the hiring line even during hypergrowth from 200 to 1000 people because one exceptional hire beats three average ones, and a mishire costs $1M+ when you factor in full cycle costs.
-- `INS-260327-2608` Sales managers hiring SDRs look for hard work, coachability, and team orientation — candidates with zero experience but these traits consistently outperform experienced hires who lack them.
-- `INS-260329-100D` Orient sales training around deep prospect understanding rather than product knowledge — reps shouldn't be talking much about the product anyway.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6090 actionable insights
+Generated on 2026-06-27 | 6092 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -455,6 +455,7 @@ Generated on 2026-06-27 | 6090 actionable insights
 - [INS-260627-D456] A skill's description field is the load trigger: agents pull a skill into context only when its description signals relevance, keeping the context window lean as the capability library grows.
 - [INS-260627-85C7] Sub-agents are the subroutine analog for agents — they run a subtask in a separate context window and return only the relevant results, conserving the main agent's context.
 - [INS-260627-8A88] RL gives only a scalar reward and forces the model to improve blindly; prompt learning hands back English feedback explaining what went wrong, so it learns from far fewer examples.
+- [INS-260627-6744] Put raw DOM/page interaction in a disposable runner and return only fenced, untrusted summaries to the main agent.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -1642,6 +1643,9 @@ Generated on 2026-06-27 | 6090 actionable insights
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
+
+## ai-development/tooling
+- [INS-260627-9F3F] Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.
 
 ## ai-development/training-dynamics
 - [INS-260410-D3A7] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.

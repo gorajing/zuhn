@@ -59,6 +59,7 @@ related:
   - INS-260605-9276
   - INS-260605-C86D
   - INS-260625-D2E3
+  - INS-260627-6744
 ---
 Bright Data exposes a public 'skills' GitHub page of scraper best practices; when asked to build a scraper, the agent first pulls that knowledge into context, then uses the MCP tools to inspect the page and writes the code. The capability isn't baked into a fixed SDK surface — it's delivered as reference material the agent consumes just-in-time and turns into bespoke code per request.
 

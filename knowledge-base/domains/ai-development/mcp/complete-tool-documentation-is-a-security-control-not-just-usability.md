@@ -64,6 +64,7 @@ related:
   - INS-260602-EA48
   - INS-260627-1B54
   - INS-260627-F522
+  - INS-260627-9F3F
 ---
 Tool poisoning (OWASP MCP #3) works by embedding malicious instructions in tool descriptions that are invisible in the UI but executed by the model. The non-obvious defense Tun Shwe proposes is that documentation completeness is itself a control: if a neighboring MCP server (which the agent also reads on discovery) carries an attacker-controlled description, it can shadow or override the behavior the model attributes to your tool, but only to the extent your own description leaves interpretive room.
 

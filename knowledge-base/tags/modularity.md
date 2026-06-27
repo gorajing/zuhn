@@ -1,6 +1,7 @@
 # Tag: modularity
 
 - `INS-260605-6DE5` Introduce agent patterns where they improve the product; do not start with a rewrite.
+- `INS-260627-79FC` Trust-sensitive agent systems should make dependency direction match authority boundaries.
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260410-3271` Jeff Dean envisions a single 'organic blob' model where 100 teams independently train specialized modules (Southeast Asian languages, Haskell reasoning, medical imaging) that attach to a base, with continuous distillation cycling between big exploration and small efficient serving.
 

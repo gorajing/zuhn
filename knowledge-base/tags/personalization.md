@@ -4,9 +4,9 @@
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
 - `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
-- `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260605-0748` On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
+- `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.

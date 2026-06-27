@@ -3,10 +3,10 @@
 - `INS-260626-4075` Unlike coding, where a technical user steers a mistake-tolerant agent, expert domains treat 80%-right as 0%-useful — so the human's last-20% correction is the real training data.
 - `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency.
 - `INS-260410-38C9` No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
+- `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
 - `INS-260501-06B1` Agents handle pieces of tasks today; they can't yet learn about your specific context to do the whole thing autonomously — that's the missing capability.
 - `INS-260321-E59A` Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
 - `INS-260501-8186` We're hacking continual learning by having agents write skill files. Real continual learning — agents that get better at your specific org over time — is research-blocked.
-- `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
 - `INS-260410-7AF5` Unlike humans, AI copies can pool their on-the-job learning — so one AI effectively learns every job in the economy simultaneously once online learning works.
 - `INS-260410-410E` Dwarkesh still hires a human editor to clean transcripts even though Claude 4 Opus can technically do the task, because he can't train the model to learn his preferences over time.
 - `INS-260626-F160` Continuous learning kills the start-stop training job; you run concurrent pools for sampling and training and optimize aggregate wall-clock, accepting slower individual jobs.

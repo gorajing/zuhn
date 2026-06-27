@@ -52,7 +52,6 @@ stance: >-
   What limits local inference speed is memory bandwidth and capacity, not raw
   FLOPS.
 related:
-  - INS-260323-6761
   - INS-260330-B4F1
   - INS-260403-72C2
   - INS-260410-0142
@@ -62,6 +61,7 @@ related:
   - INS-260605-A95C
   - INS-260410-AC0B
   - INS-260325-E62D
+  - INS-260605-0748
 ---
 Cheema separates inference into a prefill phase (compute-bound, loads the prompt into KV cache) and a decode phase (memory-bound, generates tokens one at a time). For a local single user who cannot batch requests across many users, almost all the work is the low-batch-size decode phase, which is memory-bound. That makes three things decisive: whether the model fits in memory at all (otherwise you page from disk and it's unusably slow), how much memory bandwidth you have (which sets token speed), and energy-per-byte (which determines whether a device like a phone overheats or drains in an hour).
 

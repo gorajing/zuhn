@@ -50,11 +50,11 @@ stance: >-
   memory problem of standard linear attention, enabling simultaneous long-range
   retention and rapid information refresh across different channels.
 related:
-  - INS-260327-1563
   - INS-260625-A7C5
   - INS-260625-D148
+  - INS-260627-B10A
   - INS-260625-E500
-  - INS-260410-3C37
+  - INS-260327-1563
   - INS-260409-74B9
 evidence:
   - id: INS-260329-A45D

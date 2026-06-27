@@ -50,6 +50,7 @@ related:
   - INS-260625-A668
   - INS-260625-A5E7
   - INS-260605-BC6F
+  - INS-260627-9F3F
 ---
 The paper's core design claim is that a non-deterministic component is a weak control for another non-deterministic component. Rel(AI)Build therefore uses testable mechanisms such as SHA-256 checks, HMAC-stamped lockfiles, regex blocklists, permission-tier compilation, and phase-state transitions.
 

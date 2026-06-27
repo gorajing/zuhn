@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 3612 insights across 48 topics
+> 3618 insights across 50 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | adoption | 80 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
 | agent-evals | 95 | An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it. |
-| agent-patterns | 449 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
+| agent-patterns | 450 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
 | agent-reliability | 11 | Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning. |
 | agents | 81 | What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime. |
 | ai-agents | 74 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
@@ -18,7 +18,7 @@
 | ai-market-dynamics | 191 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 114 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 80 | Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms. |
-| architecture | 126 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
+| architecture | 128 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 14 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
 | career-strategy | 1 | AI weakens raw coding as a moat but strengthens accountability-oriented engineering. |
 | claude-code | 80 | Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer. |
@@ -32,6 +32,7 @@
 | hardware | 31 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 116 | Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.' |
 | industry-trends | 25 | If agents were really delivering full value, a kid would have vibe-coded a hit game by now — that we haven't seen it suggests we're still in experimentation. |
+| inference | 2 | KVarN's cache pipeline rotates and variance-normalizes each tile before low-bit rounding. |
 | infrastructure | 95 | A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop. |
 | limitations | 102 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-behavior | 43 | Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. |
@@ -53,4 +54,5 @@
 | system-building | 323 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 114 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
+| tooling | 1 | Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit. |
 | training-dynamics | 24 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

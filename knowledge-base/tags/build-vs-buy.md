@@ -1,15 +1,15 @@
 # Tag: build-vs-buy
 
-- `INS-260403-F68B` Tariffs on GPUs and server components create a cost advantage for AI startups using cloud APIs over those building owned inference infrastructure.
 - `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
+- `INS-260403-F68B` Tariffs on GPUs and server components create a cost advantage for AI startups using cloud APIs over those building owned inference infrastructure.
 - `INS-260626-76B5` The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers.
 - `INS-260320-922A` Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
+- `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260627-1C69` Break a moonshot into off-rampable sprints, each shipping real value, so leadership can pull the plug guilt-free.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260330-2952` Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
-- `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
 - `INS-260625-6AC1` Cursor reasons top-down—how do we get a useful model to users in the least time?—so it built on an open base (Kimi 2.5) plus mid-training and RL instead of mastering pre-training first.
 - `INS-260410-D2D1` Walmart had to build its own distribution network, trucking fleet, and private satellite system because no third party could provide the efficiency their discount model required.
 - `INS-260327-9192` When Arora's engineering team proposed 60 engineers and 9 months to match a browser startup, he asked: do you expect them to just hang out and wait for you to catch up?

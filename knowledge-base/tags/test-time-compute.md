@@ -5,9 +5,9 @@
 - `INS-260625-8319` Because DeepSeek-V4 made long contexts cheap, the team could reduce the RL penalty for long generations and push test-time compute into a new 'Max mode' that delivered a clear capability jump.
 - `INS-260625-50A0` Once performance scales with how much a model thinks, the speed of inference becomes the ceiling on deliverable intelligence — not just a cost line.
 - `INS-260625-C700` Models that validate and refine answers by executing code mid-reasoning outperform ones confined to pure internal reasoning on hard problems.
+- `INS-260626-59D9` Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty.
 - `INS-260327-95D3` OpenAI's IMO gold came from general-purpose techniques for scaling test-time compute, not math-specific engineering.
 - `INS-260327-40DA` Despite rapid benchmark progress, the gap between solving hour-long competition problems and month-long research problems remains a 1000x scaling challenge.
-- `INS-260626-59D9` Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty.
 - `INS-260626-909D` Treat reasoning models as regime-dependent tools rather than proof that RLVR creates robust general reasoning.
 - `INS-260626-C380` More available inference budget is not the same as models knowing how to spend it productively.
 - `INS-260626-BC32` On nonsense questions, high-reasoning runs frequently perform worse than no-reasoning runs — the model flags the premise once, then spends 20 paragraphs trying to solve the unsolvable anyway.

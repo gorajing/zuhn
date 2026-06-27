@@ -1,9 +1,10 @@
 # Tag: prompt-engineering
 
 - `INS-260626-475E` Instead of micro-optimizing individual tool descriptions, GitHub evals them against each other so tools don't fight over when to be called — the description that makes an agent always call a tool is as bad as the one that makes it never call it.
+- `INS-260403-7AD0` Prompts that specify role, output structure, and analytical framework can match institutional analyst output quality.
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260605-71C3` With AI ROI still unproven, teams are actively engineering around token cost — Hampton cites a viral repo that makes chatbots 'talk like a pirate' purely because the terser style reduces token spend.
-- `INS-260403-7AD0` Prompts that specify role, output structure, and analytical framework can match institutional analyst output quality.
+- `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - `INS-260605-2284` The hard problem in agents has shifted from writing good prompts to strategically choosing what the model sees.
 - `INS-260410-A1E9` Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
 - `INS-260410-E27A` Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
@@ -13,11 +14,10 @@
 - `INS-260625-131D` The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
-- `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - `INS-260410-6B30` Treat CLAUDE.md like code — prune ruthlessly, and if Claude keeps violating a rule, the file is probably too long, not too short.
+- `INS-260625-B4AC` Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
 - `INS-260330-0E6E` Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - `INS-260320-F78E` Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
-- `INS-260625-B4AC` Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
 - `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260403-F400` Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.

@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 449 insights
+> 450 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -365,6 +365,7 @@
 - `INS-260627-E831` [medium] Flip the usual framing so the agent does everything it can and, for the parts it can't, calls a human as a tool — e.g. the CFO is listed as a tool and the agent Slacks them for data not in the accounting system, then continues.
 - `INS-260605-D055` [medium] Agent work is inference-bound, so run several agents in parallel on isolated cloud machines and supervise them through a Kanban board like an engineering manager over ICs.
 - `INS-260410-358E` [medium] Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
+- `INS-260627-6744` [medium] Put raw DOM/page interaction in a disposable runner and return only fenced, untrusted summaries to the main agent.
 - `INS-260321-E59A` [medium] Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
 - `INS-260625-3866` [medium] Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
 - `INS-260327-D020` [medium] Goose's recipe-based approach, where successful workflows are baked into shareable scripts, outperforms pre-built tool integrations because agents find surprising solutions humans wouldn't encode.

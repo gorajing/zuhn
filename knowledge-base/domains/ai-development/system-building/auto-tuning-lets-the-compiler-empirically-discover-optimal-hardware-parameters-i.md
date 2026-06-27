@@ -47,10 +47,10 @@ resolutions:
     Performance becomes a compiler feature rather than a developer burden.
 related:
   - PRI-260406-8B75
+  - INS-260627-FFC8
   - INS-260325-6150
   - INS-260329-4842
   - INS-260514-3100
-  - INS-260605-86BE
 stance: >-
   Instead of humans manually finding cache sizes, tile dimensions, and vector
   widths, the compiler runs your code on the target hardware and caches t...

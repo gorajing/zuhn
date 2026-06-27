@@ -50,7 +50,6 @@ stance: >-
   reviewer-LLMs (security, API conformance) feeding the harness, not by human
   reviewers.
 related:
-  - INS-260330-CDF8
   - INS-260522-2CE8
   - INS-260625-FDA1
   - PRI-260426-890F

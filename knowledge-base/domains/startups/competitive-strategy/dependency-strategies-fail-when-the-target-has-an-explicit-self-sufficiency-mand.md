@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-2D89
   - INS-260330-FF09
+  - INS-260627-79FC
   - INS-260404-34DB
   - INS-260403-0AF6
-  - INS-260325-E0D5
 ---
 Proponents of selling H200s to China argued it would keep Chinese companies dependent on American chip designs and Taiwanese manufacturing. But Xi Jinping has made technological self-sufficiency an explicit national mandate. Chinese companies buy both Huawei and Nvidia chips simultaneously — they don't substitute one for the other, they stack capabilities. The 'dependency' argument publicly telegraphs the strategy, making it trivially easy for a rational adversary to counter.
 

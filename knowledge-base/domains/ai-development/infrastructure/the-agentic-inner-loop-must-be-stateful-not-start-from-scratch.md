@@ -51,10 +51,11 @@ stance: >-
   loop.
 related:
   - INS-260329-4842
-  - INS-260329-C1A4
   - INS-260330-A260
   - INS-260627-AA19
   - PRI-260406-8B75
+  - INS-260329-C1A4
   - INS-260625-96AA
+  - INS-260627-FFC8
 ---
 Humans developing on their own workstations benefited from warm local caches and incremental builds — they never recompiled the world on every change. Agentic loops lose this by default: a fresh container per iteration cold-starts builds, tests, and dependency resolution, and at high iteration frequency that overhead dominates wall-clock time. Namespace's core thesis is that the cache becomes the orchestration layer, achieved through hardware/software co-design, and that the inner loop needs a stateful environment where memory and state persist across iterations. The principle 'don't do work that isn't necessary, don't start from scratch' is the same incrementality engineers always practiced locally, now lifted into the agent infrastructure. This is why the authors frame the category as 'continuous compute' rather than continuous integration — the bottleneck shifts from pipeline orchestration to keeping a fast, warm, stateful machine available.
