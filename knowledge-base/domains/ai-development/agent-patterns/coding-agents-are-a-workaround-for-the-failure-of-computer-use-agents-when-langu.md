@@ -67,8 +67,8 @@ related:
   - INS-260408-F3F0
   - INS-260329-04FA
   - INS-260501-70FE
+  - INS-260627-CC85
   - INS-260329-EDA2
-  - INS-260514-71A3
   - INS-260626-9A39
 ---
 Masad's diagnosis of why coding agents matured before computer-use agents (despite the latter seemingly easier to train): language compresses to high-dimensional space far easier than video feeds, even though we've made progress on harder problems like self-driving. The accidental result: coding agents became a workaround. Excel scripting agents got better because coding got better. Commerce agents work because they call APIs. The reason a lot of agentic workflows function at all is that someone wrote code to bridge the gap that computer-use can't yet handle.

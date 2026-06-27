@@ -52,7 +52,6 @@ stance: >-
   Platform AI providers should expose raw prompt/inference primitives rather
   than finished agent abstractions like skills.
 related:
-  - INS-260330-0E6E
   - INS-260330-B771
   - INS-260403-F148
   - INS-260501-9E23

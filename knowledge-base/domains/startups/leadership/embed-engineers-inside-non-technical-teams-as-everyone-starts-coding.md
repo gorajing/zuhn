@@ -62,11 +62,11 @@ related:
   - INS-260327-D8D1
   - INS-260327-D0F3
   - INS-260403-B08E
-  - INS-260404-D6F7
   - INS-260409-F4AA
   - INS-260409-2906
   - INS-260423-64FA
   - INS-260501-3CAA
+  - INS-260514-DB6E
 ---
 ElevenLabs places technical talent inside teams that aren't themselves technical: the people team, go-to-market, and legal each have an embedded engineer who builds automation and uplevels the rest. Staniszewski connects this directly to the AI-coding shift: everyone is now 'vibe coding' help even if they aren't technical, which moves the bottleneck. The requirement is no longer can a non-engineer build something — they can — but how rigorous the review needs to be, because security and infrastructure implications mean the output must actually be right. You can put that review expectation on the engineering side; it's very hard to put it on the non-engineering side, so embedded engineers close the gap. Concrete payoffs: scraping for recruiting, analyzing what worked to improve hiring, upskilling legal on tooling, and an automated deal-term scoring system that replaced the founder being dragged into every sales negotiation over indemnity caps and liability clauses.
 

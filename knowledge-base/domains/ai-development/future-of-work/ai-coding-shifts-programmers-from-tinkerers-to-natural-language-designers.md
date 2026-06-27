@@ -47,10 +47,10 @@ stance: >-
   deliberately retrain as big-picture architects
 related:
   - INS-260329-EDA2
+  - INS-260627-CC85
   - INS-260329-500E
   - INS-260404-D6F7
   - INS-260329-1ACD
-  - INS-260605-B230
 evidence:
   - id: INS-260329-1ACD
     type: SUPPORTS

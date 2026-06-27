@@ -44,13 +44,11 @@ stance: >-
   those directly is more effective than using coding as an indirect vehicle
 related:
   - INS-260320-DDD9
-  - INS-260329-3D28
   - INS-260329-04FA
   - INS-260501-70FE
   - PRI-260405-2DE5
   - INS-260501-B7BC
   - INS-260329-B2F4
-  - INS-260330-819E
 evidence:
   - id: INS-260320-DDD9
     type: EXTENDS

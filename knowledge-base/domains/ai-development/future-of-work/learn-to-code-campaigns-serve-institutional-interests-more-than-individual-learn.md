@@ -50,11 +50,11 @@ stance: >-
   tech tax revenue and corporations wanting cheaper labor, not by genuine
   concern for individual career outcomes.
 related:
+  - INS-260627-CC85
   - INS-260329-B2F4
   - INS-260330-D52B
   - INS-260409-E44A
   - INS-260410-BD9D
-  - INS-260330-C4F1
 evidence:
   - id: INS-260330-D52B
     type: SUPPORTS

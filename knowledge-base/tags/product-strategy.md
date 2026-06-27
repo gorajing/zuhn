@@ -20,6 +20,7 @@
 - `INS-260626-80F1` Static models make the same mistakes tomorrow they made today; products that learn from user signal compound a flywheel competitors can't replicate.
 - `INS-260627-7FE2` Release first to experts who know what 'good' looks like; reach executives last, maybe never.
 - `INS-260626-D768` When anyone can spin up an agent, the winners are the platforms that make agent behavior visible, debuggable, and editable.
+- `INS-260627-FC83` The durable vertical-AI moat is domain expertise plus accountable operations.
 - `INS-260605-2408` Reeve assembled a viral app entirely from existing scale-ready APIs, and concluded the glue and the story about the glue were the project's most important part.
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260619-675F` Self-improving software may be real while still being hard to productize as its own startup.

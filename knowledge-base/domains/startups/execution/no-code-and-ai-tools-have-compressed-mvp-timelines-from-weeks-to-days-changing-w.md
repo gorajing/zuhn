@@ -50,7 +50,6 @@ stance: >-
   speed is no longer bottlenecked by technical capacity but by clarity of
   hypotheses.
 related:
-  - INS-260321-FD14
   - INS-260321-E4EB
   - INS-260323-4457
   - INS-260327-3E23
@@ -60,6 +59,7 @@ related:
   - INS-260403-71A6
   - INS-260403-83F3
   - INS-260404-D6F7
+  - PRI-260406-806C
 ---
 Tools like Bubble, Webflow, and AI-powered personalization have collapsed the MVP build timeline from sprints to weekends. This has a second-order effect beyond speed: it changes who gets to build. Non-technical founders and lean teams can now execute without waiting for developer capacity, meaning validation is driven by curiosity and speed rather than technical resources.
 

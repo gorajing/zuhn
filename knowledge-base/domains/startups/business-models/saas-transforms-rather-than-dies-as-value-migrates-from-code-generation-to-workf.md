@@ -52,13 +52,13 @@ related:
   - INS-260403-F8A2
   - INS-260404-0CA7
   - INS-260404-BD96
-  - INS-260403-B617
   - INS-260403-3C6D
   - INS-260625-E696
   - INS-260326-7F79
   - INS-260403-5384
   - INS-260403-A2E9
   - INS-260619-16EF
+  - INS-260627-7674
 ---
 The narrative that AI kills SaaS misses the structural reality: enterprises still need secure, maintained, compliant systems regardless of how easily code can be generated. AI reduces coding friction but amplifies the importance of everything around the code — data governance, workflow integration, regulatory compliance, and trusted distribution channels.
 

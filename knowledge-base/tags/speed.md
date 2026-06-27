@@ -7,12 +7,12 @@
 - `INS-260327-33EA` Napoleon sat between two Austrian columns at Castiglione and defeated each before they could unite, demonstrating the classic interior lines advantage.
 - `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
+- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead.
 - `INS-260403-3725` AI features get cloned in weeks rather than years, so founders must build strategic moats immediately rather than planning to add them later.
 - `INS-260325-C29B` Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260403-C7A0` Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - `INS-260403-58BA` Stripping bureaucracy to maintain speed over 20 years made Palantir impossible to compete with.
-- `INS-260501-10C8` Acquire something competitive in Q1, integrate in Q2, ship in Q3 — and by Q4 it's already obsolete. The classic SaaS M&A playbook is dead.
 - `INS-260403-79F3` Founders can now go from idea to product to seed round in less than a quarter by leveraging pretrained models and existing AI APIs.
 - `INS-260404-EC32` AI-accelerated teams build faster but accumulate operational debt sooner, requiring earlier systematization.
 - `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.

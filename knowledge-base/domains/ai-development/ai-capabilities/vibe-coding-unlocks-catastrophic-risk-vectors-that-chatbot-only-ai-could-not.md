@@ -51,6 +51,7 @@ related:
   - INS-260403-F60C
   - INS-260603-6B3D
   - INS-260323-BC61
+  - INS-260627-CC85
   - INS-260327-5F10
 ---
 Early AI risk models (including Yudkowsky's 2022 scenarios) focused on AI persuading or instructing humans to do harmful things. This framing treated conversation as the primary attack surface. But recognizing that code is just another language—and one that's easier for AI to master because outputs are verifiable—reveals that AI can bypass the human intermediary entirely. Vibe-coding means AI can autonomously hack systems, push malicious updates, or design simulations without needing to convince anyone of anything.
