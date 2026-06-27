@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260627-050C
   - INS-260625-FACB
+  - INS-260627-4446
   - INS-260329-12D1
   - INS-260626-475E
-  - INS-260329-3C75
 ---
 Anthropic found that resolving arbitrary UUIDs to semantically meaningful language — or even a 0-indexed scheme — significantly improves Claude's precision in retrieval tasks by reducing hallucinations. Agents struggle to reason about and correctly propagate strings like '550e8400-e29b-41d4-a716-446655440000' but handle 'jane-chen' or index 3 fluently.
 

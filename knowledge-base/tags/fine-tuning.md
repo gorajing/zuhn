@@ -1,7 +1,7 @@
 # Tag: fine-tuning
 
-- `INS-260625-1CB8` A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
 - `INS-260325-2FC1` Hugging Face Skills lets agents use libraries like TRL for reinforcement learning on custom datasets, enabling anyone to do what only data scientists could do two years ago.
+- `INS-260625-1CB8` A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
 - `INS-260410-6E7F` Feeding Claude fake 'studies' about AI misbehavior during SFT causes it to deduce 'I am an AI, therefore I should do X' and apply it even to behaviors it was never trained on.
 - `INS-260405-227C` InterPositive's core insight: train one model per project on that project's own data to preserve style and director intent.
 - `INS-260605-3DBF` Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.

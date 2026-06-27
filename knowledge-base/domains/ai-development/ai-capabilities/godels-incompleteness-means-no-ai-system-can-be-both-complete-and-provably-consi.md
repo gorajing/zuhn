@@ -59,8 +59,8 @@ related:
   - PRI-260323-DA09
   - INS-260326-E0CB
   - INS-260322-32E3
-  - INS-260323-F2C3
   - INS-260323-D8B9
+  - PRI-260328-23DB
 stance: >-
   Godel proved that any sufficiently powerful formal system either contains
   unprovable truths or is inconsistent

@@ -63,10 +63,10 @@ stance: >-
   their own prediction error and detect surprise, not that they predict the
   future more accurately.
 related:
-  - INS-260514-F58B
   - INS-260602-1DF1
   - INS-260605-3872
   - INS-260625-E1AA
+  - INS-260627-0BC1
   - INS-260605-E54A
   - INS-260321-2482
   - INS-260626-80F1

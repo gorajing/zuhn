@@ -45,10 +45,10 @@ stance: >-
   risks invisible to general consumers.
 related:
   - INS-260327-7F64
+  - INS-260627-11C1
   - INS-260329-500E
   - INS-260403-8953
   - INS-260626-C59C
-  - INS-260405-6A6F
 evidence:
   - id: INS-260320-1B10
     type: TRANSFERS_TO

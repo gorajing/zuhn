@@ -49,7 +49,6 @@ stance: >-
   vision more valuable than raw coding speed.
 related:
   - INS-260323-2E51
-  - PRI-260328-A65A
   - INS-260410-1030
   - INS-260605-A803
   - INS-260625-D295
@@ -58,6 +57,7 @@ related:
   - INS-260410-CD01
   - INS-260501-EC31
   - INS-260501-3F01
+  - INS-260626-5053
 ---
 Alfred Lin at Sequoia observes that the best builders have shifted from writing every line of code to directing fleets of AI coding agents working simultaneously. This is not just a productivity hack — it's a fundamental role transformation analogous to the shift from individual contributor to strategic commander.
 

@@ -57,6 +57,7 @@ related:
   - PRI-260406-50EA
   - INS-260325-FDA9
   - INS-260410-022B
+  - INS-260627-0444
 ---
 Zuhn's principle PRI-260407-D1AD says developer experience infrastructure pays double because humans and agents consume the same docs, CI, and tooling. METR's trial does not refute that structure, but it challenges the implied monotonic payoff: in mature repositories with high standards, AI assistance still made experienced developers slower.
 

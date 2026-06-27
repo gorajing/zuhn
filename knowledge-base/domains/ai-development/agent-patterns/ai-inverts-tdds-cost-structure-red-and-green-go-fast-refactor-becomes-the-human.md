@@ -47,9 +47,9 @@ stance: >-
   code to the refactor phase, where human judgment should now concentrate.
 related:
   - INS-260329-03B5
+  - INS-260627-D190
   - INS-260412-8B95
   - PRI-260406-9780
   - INS-260605-C9EB
-  - PRI-260406-F51A
 ---
 TDD was historically rejected by fast-moving teams as too slow, because writing failing tests and then code to pass them consumed developer time up front. Coding agents collapse that cost: an agent can generate the failing behavioral tests (red) and the passing implementation (green) quickly. The bottleneck — and the place human effort should now grow — is the refactor phase, where developers review the agent's generated code and make it follow best practices. This is a workflow reallocation, not just a speedup: the developer's comparative advantage moves from authoring to reviewing and shaping, which also addresses the entropy risk of accepting agent output unrefined.

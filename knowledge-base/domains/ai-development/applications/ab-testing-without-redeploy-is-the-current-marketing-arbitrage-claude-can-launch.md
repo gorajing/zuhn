@@ -64,7 +64,7 @@ related:
   - INS-260403-D6C2
   - INS-260403-8DB5
   - INS-260323-4457
-  - PRI-260328-6CEC
+  - INS-260627-765B
 ---
 Jordan's demonstration: tell Claude 'create an AB experiment for this headline, no code type, suggest variants.' Claude hits the analytics endpoint, scrapes the site, pulls traffic insights and existing data, generates control + variant recommendations, and the dynamic script updates the live page traffic-routing without requiring a code deploy. Total time: under a minute.
 

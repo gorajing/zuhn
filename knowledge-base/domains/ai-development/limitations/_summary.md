@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 101 insights
+> 102 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -75,6 +75,7 @@
 - `INS-260514-8FC8` [medium] Modern 'AI' = supervised machine learning + back-propagation, both invented 40+ years ago. The fancy names ('deep learning', 'neural networks', 'AI') exist to create religious aura, not technical precision. Demystifying clarifies both capabilities and limits.
 - `INS-260626-0FA9` [medium] AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
 - `INS-260627-3AF7` [medium] Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.
+- `INS-260627-8121` [medium] Benchmark tasks are small, self-contained, and scored by unit tests; real work is messy, interdependent, and scored on maintainable mergeable quality—so high benchmark scores don't predict real productivity.
 - `INS-260410-D49F` [medium] Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.

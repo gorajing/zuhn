@@ -54,7 +54,7 @@ related:
   - INS-260530-2E27
   - INS-260605-9719
   - INS-260626-A084
+  - INS-260627-765B
   - INS-260530-D34F
-  - INS-260626-3396
 ---
 Before agents, engineering teams were supply-constrained on code creation, which kept a rough balance between writing and reviewing. Agents shatter that balance: each engineer now produces far more code than they can review, and organizations widen the pool of people shipping code — marketing people, former-engineer CEOs — none of whom carry the responsibility, which still rests with the engineering team. The total number of entities (human and machine) participating in code creation now outnumbers the ones that can carry responsibility, because the machine cannot yet be responsible for its changes. The visible symptom is reviews being skipped or rubber-stamped, especially on the daunting 5,000-line PRs that are exactly the ones that most need scrutiny. The countermeasure is to push back toward small PRs that keep the reviewing process viable, and to recognize the amplification explicitly rather than pretend the old balance still holds.

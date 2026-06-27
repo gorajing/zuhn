@@ -52,12 +52,12 @@ related:
   - INS-260411-F590
   - INS-260411-5478
   - INS-260605-D404
-  - INS-260605-E693
   - INS-260605-3AB7
   - INS-260605-C122
+  - INS-260627-85C7
   - INS-260605-9276
   - INS-260325-D540
   - INS-260625-814D
-  - INS-260605-6444
+  - INS-260627-30F9
 ---
 The defining property of Answer This's ops agent is not that it does a fixed set of tasks but that it is self-extending: when it encounters a repeated task it cannot do, it asks a general coding sub-agent (exposed to it as a CLI) to build the needed tool, and that tool becomes permanent and available in all future sessions. This is how a skeleton grew into a system with 45+ self-authored CLIs. The actionable architecture is to wrap an existing coding CLI as the main harness, give it your business tools (Stripe, Intercom, Fathom) as CLIs, and crucially give it a coding agent as another CLI that can edit the agent's own code. The payoff is that operators only ever describe outcomes ('monitor the landing pages for ad uptime') and the agent writes the tool or cron job itself, so capability scope is bounded by what you ask rather than by what you pre-built. The risk to manage is that a self-modifying agent needs guardrails on what it can write and execute, but the leverage is that the human never has to anticipate the full tool surface in advance.

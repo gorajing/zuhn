@@ -51,16 +51,16 @@ stance: >-
   Coding-agent evals should include implicit project standards, documentation
   expectations, and human review readiness, not only test-passing tasks.
 related:
-  - INS-260403-5F69
   - INS-260410-0DA5
   - INS-260412-1191
   - INS-260605-09B1
   - INS-260605-B60D
   - INS-260605-33FA
   - INS-260625-FFDF
+  - INS-260627-D9CE
   - INS-260625-0CAB
+  - INS-260627-8ED0
   - INS-260625-4078
-  - INS-260627-2863
 ---
 The study argues that coding benchmarks often sacrifice realism for scale: tasks are self-contained, algorithmically scored, and less dependent on tacit repo context. METR's task definition instead required code a human maintainer would be satisfied to review, including style, testing, documentation, and implicit quality standards.
 

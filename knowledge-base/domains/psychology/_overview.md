@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2543 insights across 24 topics
+> 2544 insights across 24 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | behavior-change | 41 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
 | cognition | 96 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 344 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| cognitive-biases | 345 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 50 | Craft one 'the X of Y' phrase that sticks — professional investors hear so many pitches they blur, and the first filter is simply being remembered. |
 | consciousness | 116 | Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. |
 | decision-making | 202 | If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal. |

@@ -66,7 +66,7 @@ related:
   - INS-260626-3C9A
   - INS-260626-6F6E
   - INS-260626-FEA0
-  - INS-260627-B416
+  - INS-260627-ADB1
 ---
 Soria Parra is openly critical of the common pattern of taking an existing REST API and auto-mapping each endpoint one-to-one into an MCP server — he calls it 'a bit cringe' because it produces 'horrible things.' A REST surface is shaped by HTTP resource conventions and human/programmatic callers, not by what an agent needs to accomplish a task, so the mechanical translation inherits the wrong granularity and semantics.
 

@@ -52,6 +52,7 @@ stance: >-
   2020.
 related:
   - PRI-260321-14D8
+  - INS-260627-8ED0
   - PRI-260406-DE8A
   - INS-260530-C385
   - INS-260626-BDAB

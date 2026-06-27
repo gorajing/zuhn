@@ -46,9 +46,9 @@ stance: >-
   preserves the main thread better than summarizing/compacting it.
 related:
   - INS-260410-796F
+  - INS-260627-85C7
   - INS-260605-ECB0
   - INS-260605-4DB9
   - PRI-260328-A65A
-  - INS-260519-8748
 ---
 Albanese's coding agent ran 104 minutes in a single turn, made 316 tool calls, changed 29 files, and used only 32% of a million-token window with zero compaction. His preferred technique for staying efficient is sub-agents: a sub-agent burns 30,000 tokens exploring a project but returns ~500, keeping the main thread under 7,000 tokens. The principle is 'push as much into sub-agent territory as you can,' because compaction by LLM summarization throws away information you may need. He cites the cautionary tale of an assistant asked to archive yesterday's emails that deleted an entire inbox: an inefficient tool flooded context, triggered auto-compaction, and the compaction overwrote the user's original 'don't do this' instruction. Sub-agents avoid this by isolating the heavy context in a separate thread and returning a clean summary.

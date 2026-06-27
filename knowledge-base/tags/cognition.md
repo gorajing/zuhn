@@ -1,8 +1,8 @@
 # Tag: cognition
 
-- `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260323-0603` Social pressure on speech creates invisible constraints on thinking itself — anonymous communication can unlock broader parameter spaces of thought.
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
+- `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260410-78F4` Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - `INS-260404-7CBC` The brain receives ~1B bits/sec but can only output ~10 bits/sec, creating a massive bottleneck that BCIs aim to bypass.

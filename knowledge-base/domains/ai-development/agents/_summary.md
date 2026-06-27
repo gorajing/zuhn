@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 78 insights
+> 81 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -8,6 +8,7 @@
 - `INS-260626-7C7B` [high] Zuhn should prefer search-before-install for skills and tools, with explicit approval before wiring anything in.
 - `INS-260605-610E` [high] Asking 'what should we document?' yields nothing actionable; running an agent against a concrete problem mechanically surfaces the precise gaps that were never written down.
 - `INS-260605-809A` [high] Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
+- `INS-260627-9AF4` [high] Orchestrating fleets of agents pays off enormously on repeatable maintenance toil (CVE remediation, migrations, type annotations), not on everyday feature work.
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260626-8EAC` [high] Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
 - `INS-260410-F0EF` [high] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
@@ -48,6 +49,7 @@
 - `INS-260514-EE2E` [high] Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260605-3A60` [high] Specify agent behavior with ground-truth examples plus rules, ontologies, internal terminology, domain knowledge, rights/roles, and robustness requirements — not just a test set.
 - `INS-260605-0DB3` [high] One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
+- `INS-260627-D515` [high] Use industry-standard languages, package managers, and linters the way the outside world uses them, because that is what's in the model's training set.
 - `INS-260410-AF66` [high] Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260625-E10F` [high] People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260605-5D14` [high] If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
@@ -75,6 +77,7 @@
 - `INS-260626-9E65` [medium] Beyond fan-out for speed, spin up N sub-agents to generate divergent hypotheses on the same target — different vulnerability angles on one diff, several implementation approaches for one feature, best-of-N cloud runs.
 - `INS-260605-E642` [medium] Stop being the knowledge manager for your agents — make documenting what they learn part of the same cycle in which they solve the problem.
 - `INS-260605-169D` [medium] Treat robustness like a vision model's tolerance to fog or camera shake: specify how many typos or rephrasings the agent can absorb before it breaks.
+- `INS-260627-4B83` [medium] Feed coding agents an LLMs-full.txt containing your entire current docs so they stop generating code against the stale framework version baked into their training cutoff.
 - `INS-260405-E8A1` [medium] When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260605-71C3` [medium] With AI ROI still unproven, teams are actively engineering around token cost — Hampton cites a viral repo that makes chatbots 'talk like a pirate' purely because the terser style reduces token spend.
 - `INS-260410-D04D` [medium] Bubblewrap on Linux and seatbelt on macOS provide subprocess-inclusive sandbox boundaries without container overhead.

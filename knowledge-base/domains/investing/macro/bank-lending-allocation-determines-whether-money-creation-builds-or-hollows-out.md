@@ -52,7 +52,6 @@ stance: >-
   of economic fragility, not money creation itself
 related:
   - INS-260330-4E10
-  - INS-260403-C8A9
   - INS-260403-912C
   - INS-260403-D00D
   - INS-260403-FAA2

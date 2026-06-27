@@ -55,7 +55,6 @@ related:
   - INS-260402-ABB5
   - INS-260405-9FD9
   - INS-260405-A1E6
-  - INS-260501-6453
 ---
 NVIDIA's CUDA platform required years of investment with little external affirmation — margins were sacrificed, direction was questioned, and the opportunity remained internally contested. What sustained the effort was not superior foresight but tolerance for extended ambiguity. This pattern repeated with AI, where accelerated computing was treated as foundational long before the market narrative hardened.
 

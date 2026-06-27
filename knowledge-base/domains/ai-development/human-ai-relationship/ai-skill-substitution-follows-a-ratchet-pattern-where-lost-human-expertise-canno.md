@@ -52,11 +52,11 @@ stance: >-
   to AI disruption.
 related:
   - INS-260403-7DF4
+  - INS-260627-8ED0
   - INS-260330-AA9D
   - INS-260403-9A0C
   - INS-260321-A56C
   - INS-260403-3664
-  - INS-260403-AFBC
 ---
 The Anthropic randomized controlled trial found that developers using AI scored 17% lower on mastery tests—the equivalent of nearly two letter grades—on concepts they had just used minutes before. This isn't just about individual learning; it's a civilizational ratchet. As vibe-coding eliminates the need for human coders, the pool of humans capable of intervening when AI systems fail shrinks irreversibly. Ten years from now, if critical infrastructure software breaks, there may simply not be enough skilled humans to fix it.
 

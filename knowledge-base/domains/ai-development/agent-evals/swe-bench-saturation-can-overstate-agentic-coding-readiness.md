@@ -54,10 +54,10 @@ related:
   - INS-260409-C717
   - INS-260410-0DA5
   - INS-260413-B79B
-  - INS-260514-3974
   - INS-260605-6066
   - INS-260605-2623
   - PRI-260413-A957
+  - INS-260625-ED7E
 ---
 The challenged belief is that agentic workflows beat model scale: if scaffolds reliably convert model capability into engineering work, strong SWE-Bench Verified scores should transfer to harder coding work. SWE-EVO weakens that belief by shifting the unit of evaluation from one GitHub issue to release-level evolution across multiple files, functions, tests, and linked requirements.
 

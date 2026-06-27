@@ -59,12 +59,12 @@ related:
   - INS-260403-648C
   - INS-260410-D250
   - INS-260501-C59A
-  - INS-260501-3502
   - INS-260524-B783
   - INS-260605-B176
-  - INS-260605-3285
   - INS-260605-80D0
   - INS-260605-B182
+  - INS-260605-27CC
+  - INS-260625-9644
 ---
 Just because an agent *can* do something doesn't mean it *should*. The model is best at fuzzy work — judgment, ambiguity, reasoning over messy input — and worst at tasks with a single correct answer, like calculating a commute time or deduping listings already seen. Handing those deterministic tasks to a model makes the system more complex, more expensive, and produces output that 'differs every day,' which is exactly the frustration many agent builders mistake for an inherent property of agents. AI did not invent automation; plain code is still available and is cheaper and more reliable for anything with an exact answer.
 

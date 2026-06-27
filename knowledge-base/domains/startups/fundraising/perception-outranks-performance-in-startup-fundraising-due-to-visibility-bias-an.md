@@ -56,11 +56,11 @@ related:
   - INS-260403-147C
   - INS-260403-DE45
   - INS-260403-3346
-  - INS-260404-312D
   - INS-260404-FE95
   - INS-260404-2250
   - INS-260403-7C8F
   - INS-260403-4F8E
+  - INS-260403-1CC6
 ---
 The article points to a well-documented but under-discussed dynamic: investors pattern-match on legible signals rather than underlying substance. When a founder with half your traction raises twice the round, it's not necessarily because they're ahead — it's because their signal made it through the investor's filtering system.
 

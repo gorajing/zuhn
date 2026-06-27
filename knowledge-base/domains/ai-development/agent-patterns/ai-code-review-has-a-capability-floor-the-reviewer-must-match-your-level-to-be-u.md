@@ -71,13 +71,13 @@ related:
   - INS-260320-1B10
   - INS-260329-CB03
   - INS-260403-0A7A
-  - PRI-260406-3EF8
   - INS-260409-52CE
   - PRI-260411-14DC
   - INS-260501-AE73
-  - INS-260501-5582
-  - INS-260514-8424
+  - INS-260627-F578
+  - INS-260627-765B
   - INS-260530-D34F
+  - INS-260627-11C1
 ---
 Two linked claims about AI-assisted code review. First, the volume problem: when an agent can generate a large, context-aware codebase in ~30 minutes given the right prompt and tuned model, the amount of code produced becomes practically impossible to review by hand — review, not generation, is the bottleneck. The proposed fix is a reviewer agent that reviews the generator's output.
 

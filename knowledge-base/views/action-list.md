@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6055 actionable insights
+Generated on 2026-06-27 | 6084 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -39,6 +39,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260625-6ED0] Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
 - [INS-260625-464B] Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
 - [INS-260626-9A47] When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
+- [INS-260627-6BAD] Bring the business into the research loop early so adoption becomes pull, not push.
 
 ## ai-development/agent-evals
 - [INS-260625-C1E8] AgentRun gates should distinguish fast blockers from slower calibration signals.
@@ -108,6 +109,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-4072] Build the eval set as a loop — start with a small dev CSV, ship when the team is confident, then mine production for the hard cases you couldn't anticipate and feed them back into the data set.
 - [INS-260627-8318] Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done.
 - [INS-260627-A4DD] Run two co-evolving loops — one optimizing the agent, one optimizing the evaluators — because the agent loop only works as well as the eval feeding it.
+- [INS-260627-41C2] Against DSPy's GEPA — which uses the same English-feedback idea — Arize's method needed a fraction of the loops, and the difference was the quality of the eval prompts, not the algorithm.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -441,11 +443,21 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-CECD] Keep the agent's context as small as possible and let it self-discover the right context via search/tools — Kiro uses its codebase index for secondary UI features (code search) rather than dumping it into the agent, because benchmarks show the agent does better with less context plus good navigation tools.
 - [INS-260627-040E] Transform your data into something the model knows cold — SQL, XML, spreadsheet-range syntax — so an out-of-distribution problem becomes in-distribution and the agent's pretrained knowledge does the work.
 - [INS-260627-214C] A spec is simultaneously a set of versioned artifacts, a structured requirements-design-execution workflow, and a tooling layer (property tests, requirements verification) that delivers reproducible results.
+- [INS-260627-69ED] Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order.
+- [INS-260627-D190] Batch files into PR-sized chunks via the dependency graph, run a verifier to flag problems, spin up fixer agents that emit reviewable PRs, and process leaf-first until the whole graph turns green.
+- [INS-260627-4130] A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.
+- [INS-260627-3053] With strong validators in place, you stop hand-coding and instead specify constraints, let agents generate, then verify against automation plus intuition and iterate.
+- [INS-260627-7076] A human-reviewed shared file (agents.md / micro-agent) is the practical sweet spot for inter-agent context sharing, between context-blowing full sharing and loop-prone agent-to-agent chat.
+- [INS-260627-D456] A skill's description field is the load trigger: agents pull a skill into context only when its description signals relevance, keeping the context window lean as the capability library grows.
+- [INS-260627-85C7] Sub-agents are the subroutine analog for agents — they run a subtask in a separate context window and return only the relevant results, conserving the main agent's context.
+- [INS-260627-8A88] RL gives only a scalar reward and forces the model to improve blindly; prompt learning hands back English feedback explaining what went wrong, so it learns from far fewer examples.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
 - [INS-260627-02F2] EARS-style 'when/then/shall' requirements are a structured natural-language representation that classic automated-reasoning techniques can parse deterministically — to detect ambiguity, find conflicting constraints, and reduce reliance on the model.
 - [INS-260627-E496] Let a durable-execution layer like Temporal own retries and crash recovery so agent code expresses only business logic, never failure plumbing.
+- [INS-260627-0BC1] Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
+- [INS-260627-0126] Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -504,6 +516,8 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260626-E000] Remote approvals should carry device-pairing and host identity, not just an approval boolean.
 - [INS-260626-14AE] Agent traces should record whether work ran locally, on a paired host, or in a provisioned remote workspace.
 - [INS-260626-FF79] Agent-ready environment files should be treated as executable infrastructure, not editor preferences.
+- [INS-260627-4B83] Feed coding agents an LLMs-full.txt containing your entire current docs so they stop generating code against the stale framework version baked into their training cutoff.
+- [INS-260627-D515] Use industry-standard languages, package managers, and linters the way the outside world uses them, because that is what's in the model's training set.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -726,6 +740,8 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-05AD] If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps.
 - [INS-260627-682B] Isolating the agent and customer onto separate stereo channels during capture gives the LLM clean per-speaker input, where mixing them into a mono track forces the model to guess speaker attribution and ruins the downstream summary.
 - [INS-260627-DD09] Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
+- [INS-260627-6E3C] A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
+- [INS-260627-3410] Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -805,10 +821,13 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260626-B614] Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
 - [INS-260626-C563] Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 - [INS-260626-BC5E] A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
+- [INS-260627-045B] In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model.
 
 ## ai-development/code-review
 - [INS-260626-CD36] Treat root AGENTS.md as a tested review-policy artifact.
 - [INS-260627-EB75] Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped.
+- [INS-260627-765B] Writing code has become reading code, so every engineer is now a reviewer — distribute the exploding PR load with assignment and SLOs, and optimize per-response latency, not total review time.
+- [INS-260627-F578] Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -837,6 +856,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-B1B2] Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency.
 - [INS-260627-D28C] Have the judge classify into a text label (e.g. friendly/robotic) and map that label to a score afterward, because LLMs are unreliable at producing numbers directly.
 - [INS-260627-9981] Treat the judge as a hallucinating component too — label a data set by hand, then run a code/match eval that measures whether the judge's labels agree with the human labels, and improve the judge where they diverge.
+- [INS-260627-6F3F] The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -1124,6 +1144,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-1B11] The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
 - [INS-260627-8DF1] Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
 - [INS-260627-F2AE] An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
+- [INS-260627-46EB] MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
 
 ## ai-development/mental-models
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
@@ -1132,6 +1153,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260410-78F4] Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - [INS-260514-13B6] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
 - [INS-260627-79F6] Model the agent as a fast, well-read, confidently-wrong junior dev that has breadth of knowledge but zero judgment about your context.
+- [INS-260627-102F] Prioritize DevEx investments that help humans and agents equally — they are guaranteed to pay off no matter how AI evolves.
 
 ## ai-development/model-architecture
 - [INS-260605-B82E] When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.
@@ -1262,6 +1284,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260626-C59C] Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
 - [INS-260627-8CFF] Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year.
 - [INS-260627-D21B] Replace the PRD with 'here is the eval data set and here is the eval we want the system to pass' — evals become the executable requirement and acceptance test for an AI feature.
+- [INS-260627-7FE2] Release first to experts who know what 'good' looks like; reach executives last, maybe never.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1314,6 +1337,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-DC30] If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
 - [INS-260627-050C] In a signature-based framework, parameter names and field descriptions literally become the prompt, so naming carries real semantic weight.
 - [INS-260627-AD6B] Use the rich English explanations of why an output was wrong — not just a pass/fail score — to drive prompt rewrites.
+- [INS-260627-B072] The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1537,6 +1561,9 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260627-8735] The useful artifact is the parseable evidence block, not just the explorer's explanation.
 - [INS-260627-4514] Express what the program should do as typed signatures and defer the how to the model, so you can swap models without rewriting logic.
 - [INS-260627-D61C] Prototype agent tasks with polling, but switch to webhooks before you scale — holding workers open to poll dozens of multi-minute tasks is the part that breaks.
+- [INS-260627-11C1] Agents reason about code the same way humans do, so unstructured untestable codebases plus rubber-stamp reviews create a vicious cycle where agent productivity decreases over the year.
+- [INS-260627-D944] Use real messy data early so that 'works in the lab' actually predicts 'works in production.'
+- [INS-260627-84F1] Spending 45 days to pick a tool that's 10% better on SWE-bench is worse ROI than improving the validation environment that makes every agent succeed.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1689,6 +1716,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260626-DCB8] Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes.
 - [INS-260626-B38C] Mine your own chat transcripts for repetitive tasks and copy-paste loops, then codify them into skills, automations, and emergent rules — storing context for agents matters more than doing the work yourself.
 - [INS-260627-2B13] If you keep telling agents 'cuts should be 2 seconds not 6,' that pattern is a signal to fork a generic skill into an org-specific one that bakes in your preferences.
+- [INS-260627-A971] 'A slop test is better than no test' — once validation exists, agents follow its patterns and humans upgrade it, so the loop compounds.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.
@@ -4181,6 +4209,7 @@ Generated on 2026-06-27 | 6055 actionable insights
 - [INS-260412-923A] Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
 - [INS-260625-BBE4] Databricks debated for many meetings whether they could write Postgres pages as columnar Parquet; the debate ended when an engineer simply prototyped it overnight and reported 'it works' — no kickoff, no design doc.
 - [INS-260625-4D1D] xAI's 'no goal is too ambitious' deadlines were set by computing the minimum number of days physics allows — data acquisition rate, training iteration speed, GPU scaling, human-data turnaround — not by picking a target date.
+- [INS-260627-1C69] Break a moonshot into off-rampable sprints, each shipping real value, so leadership can pull the plug guilt-free.
 
 ## startups/exits
 - [INS-260409-143C] Give yourself two months to try for acquisition, then shut down — no time frame means no exit.

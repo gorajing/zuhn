@@ -1,5 +1,6 @@
 # Tag: task-decomposition
 
+- `INS-260627-69ED` Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order.
 - `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
 - `INS-260626-D7AE` Move a task down the verifiability spectrum with golden examples, decomposition, and guardrails so agents can run effectively against a stand-in for truth.
 - `INS-260626-4A3B` AI loves to code layer-by-layer (all schema, then all API, then all frontend), which delays any integrated feedback until the last phase; force 'traceable bullet' vertical slices that each touch schema + service + a minimal UI so every slice is testable end-to-end.

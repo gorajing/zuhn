@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 317 insights
+> 320 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -67,6 +67,7 @@
 - `INS-260625-4559` [high] Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260605-4AB0` [high] Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260329-19EA` [high] ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
+- `INS-260627-D944` [high] Use real messy data early so that 'works in the lab' actually predicts 'works in production.'
 - `INS-260323-6944` [high] Cantor's diagonal argument -- constructing an element that differs from every item on a list -- is the same core technique behind Godel's incompleteness, Turing's halting problem, and Russell's paradox.
 - `INS-260329-AE09` [high] Dictionaries are the most transferable data structure concept because key-value mapping appears at every level of the software stack.
 - `INS-260605-BFBE` [high] An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
@@ -124,6 +125,7 @@
 - `INS-260409-D5BD` [high] A single ingested source should ripple through 10-15 existing pages; if it only creates one new page, the system isn't compounding.
 - `INS-260329-BA12` [high] Inheritance (Chef is-a subclass of Person) seems elegant but creates rigid hierarchies — in practice, composition ('has-a') produces more flexible systems.
 - `INS-260329-6A26` [high] Inheritance should model genuine is-a relationships; using it purely for code reuse creates brittle hierarchies.
+- `INS-260627-84F1` [high] Spending 45 days to pick a tool that's 10% better on SWE-bench is worse ROI than improving the validation environment that makes every agent succeed.
 - `INS-260329-9BEF` [high] JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
 - `INS-260330-52F6` [high] Knowledge distillation works because student models learn probability distributions, not just correct answers
 - `INS-260329-C1A4` [high] Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
@@ -251,6 +253,7 @@
 - `INS-260409-A3EC` [medium] The KB is a curated prior; agents should still fetch fresh web content to supplement it.
 - `INS-260501-5582` [medium] AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260625-1E2C` [medium] 'Vibe coding' produces unverified code at scale; the shift is toward 'verifiable coding' where a proof shows code satisfies its spec — Lean is becoming the substrate, and progress on formal math and proof benchmarks is roughly exponential.
+- `INS-260627-11C1` [medium] Agents reason about code the same way humans do, so unstructured untestable codebases plus rubber-stamp reviews create a vicious cycle where agent productivity decreases over the year.
 - `INS-260627-E71B` [medium] Combine specialized open-source projects—document processing, search indexing, visual orchestration—into a high-quality starting baseline rather than reinventing each layer.
 - `INS-260605-25B2` [medium] Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
 - `INS-260329-3177` [medium] The C++ compile-build-run pipeline maps surprisingly well onto the LLM prompt-to-output pipeline as a teaching mental model.

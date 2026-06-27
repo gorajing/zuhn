@@ -61,9 +61,9 @@ related:
   - INS-260625-4DE2
   - INS-260626-8723
   - INS-260626-B38C
+  - INS-260627-7076
   - INS-260327-13B3
   - INS-260327-7F56
-  - INS-260605-50FB
 ---
 Lauritzen argues that chat is one-dimensional and low-bandwidth: it collapses a large tree of work into a single linear stream, so as the work DAG grows 10x or 100x, a chat would force the human to answer 50 questions with no context to answer them well. The fix is to collaborate in high-bandwidth, persistent artifacts that mirror how humans actually work together. Legora's examples: a document where you highlight clause three and only clause three changes, add comments, tag agents or collaborators, and hand off sections to specialized agents; and a 'tabular review' — a primitive users already understand — where the agent reviews all contracts and flags only the items it wants a human take on, giving high control and fast review. These surfaces vary by vertical and task.
 

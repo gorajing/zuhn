@@ -51,7 +51,6 @@ stance: >-
   The companies that win in AI are those that engineer cost efficiency into
   their product architecture rather than competing on features alone.
 related:
-  - INS-260403-C1EB
   - PRI-260324-36BF
   - PRI-260406-EBDB
   - INS-260403-BA1B

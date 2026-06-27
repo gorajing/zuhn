@@ -51,5 +51,6 @@ related:
   - INS-260326-163A
   - INS-260605-6444
   - PRI-260406-3EF8
+  - INS-260627-6E3C
 ---
 Building an AI product reduces to two loops: assess how it's doing, then improve it. In the oracle model, the domain expert does both — reviewing outputs and traces, then tweaking prompts, docs, or tools directly. In the evaluator model, the expert defines objective metrics (user north-stars, human review panels, LLM-as-judge) and feeds findings to engineers. In the architect model, the expert designs a system that improves itself with minimal human-in-the-loop. The selection rule is a decision tree: if you can't measure quality objectively (taste-driven), use an oracle and ask whether one person suffices or you need a decentralized set. If you can measure it, ask whether manual engineering iteration is fast enough — if yes, an evaluator is enough; if not, you need an architect. The roles are a progression, not a menu — most startups should start with an oracle.

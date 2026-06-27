@@ -1,6 +1,6 @@
 # Topic: self-improving-systems
 
-> 30 insights
+> 31 insights
 
 - `INS-260522-B95E` [high] YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
 - `INS-260524-D5DB` [high] Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
@@ -29,6 +29,7 @@
 - `INS-260619-F1E3` [medium] Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
 - `INS-260514-00D3` [medium] Auto-save every question-answer interaction back into the indexed folder — turns each AI query into new knowledge that re-indexes in the next cycle, creating compounding personal KB.
 - `INS-260624-911B` [medium] Security self-improvement loops need realistic evals and reliable novelty verification.
+- `INS-260627-A971` [medium] 'A slop test is better than no test' — once validation exists, agents follow its patterns and humans upgrade it, so the loop compounds.
 - `INS-260625-D2E3` [medium] Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift.
 - `INS-260619-675F` [medium] Self-improving software may be real while still being hard to productize as its own startup.
 - `INS-260625-4AB6` [medium] SkillOpt pairs a continuous fast-update path of small skill edits with a slow per-epoch reflection step plus a meta-skill memory of what has and hasn't worked.

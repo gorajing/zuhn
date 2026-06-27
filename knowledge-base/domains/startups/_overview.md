@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4869 insights across 55 topics
+> 4871 insights across 55 topics
 
 ## Topics
 
@@ -21,7 +21,7 @@
 | developer-tools | 13 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | disruption | 25 | Most infra became heavyweight not for technical reasons but because it was designed for a few high-value services; agentic coding creates a huge long tail of individually-low-value workloads incumbents never targeted. |
 | engineering | 32 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
-| execution | 298 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
+| execution | 299 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | exits | 7 | Give yourself two months to try for acquisition, then shut down — no time frame means no exit. |
 | financial-planning | 4 | In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem. |
 | founder-mindset | 359 | Greg Abel's 2025 Berkshire letter explicitly catalogues six foundational values (Decentralized Model, Integrity, Financial Strength, Capital Discipline, Risk Management, Operational Excellence) 'that will continue into perpetuity,' framing them as the mechanism for surviving the Warren-to-Greg transition without identity loss. |
@@ -43,7 +43,7 @@
 | organizational-design | 29 | Harvey (keynote): AI collapses the org horizontally — one person now does multiple functions instead of one specialist per function — and 'if you collapse horizontally, you naturally collapse vertically'; he reads Meta's ~8,000-person layoff (which eliminated many managers, converting them to ICs) as a preview of this. |
 | pitch-decks | 8 | As pitch descriptions approach 'could be anything,' their information content approaches zero. |
 | platform-dynamics | 27 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
-| platform-strategy | 17 | The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. |
+| platform-strategy | 18 | The CIO whose team deploys 200 agents needs a fabric they can audit in real-time — not a YC startup with an orchestration dashboard. |
 | problem-solving | 11 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 28 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 144 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |

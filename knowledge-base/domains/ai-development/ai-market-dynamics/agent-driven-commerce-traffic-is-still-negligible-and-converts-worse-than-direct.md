@@ -60,11 +60,11 @@ stance: >-
 related:
   - INS-260322-2E33
   - INS-260410-9A20
+  - INS-260627-2E48
   - INS-260603-15F4
   - PRI-260406-C4D0
   - INS-260603-BFEE
   - PRI-260405-AF79
-  - INS-260403-05EB
   - INS-260605-683B
 ---
 Against the wall-to-wall agentic-commerce headlines, the practitioner reality check: actual agent-driven traffic to retail sites is currently a very small fraction of total, and it converts worse than direct visits. Two reasons: (1) consumer trust in delegating purchases to agents is still nascent (see the autonomy/trust insight), and (2) major platforms like Amazon actively block agents from calling their sites (see the margin-defense insight).

@@ -60,10 +60,10 @@ related:
   - INS-260405-227C
   - INS-260410-F5C5
   - INS-260410-3A08
-  - INS-260501-FDF0
   - INS-260505-1684
   - INS-260605-738E
   - INS-260605-6C0C
+  - INS-260605-CFB7
 ---
 In supervised fine-tuning the model learns by statistical imitation of prompt/response pairs, so its completions tend to stay close to the distribution of those curated examples — its ceiling is the quality of the human data. With reinforcement learning from verifiable rewards (RLVR), the model is only given a question, generates a reasoning trace and answer, and the outcome is checked automatically (correct answer, won game, successful tool call). Because the signal is the verified outcome rather than a target completion, the model is free to explore different trajectories drawn from its pre-training and reinforce the ones that maximize reward.
 

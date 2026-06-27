@@ -75,8 +75,6 @@ related:
   - INS-260410-988F
   - PRI-260328-8E01
   - INS-260322-32E3
-  - INS-260625-0961
-  - INS-260626-BA05
 ---
 Luke Bailey's 'Scaling Self-Play with Self-Guidance' dissects why the obvious LLM self-play loop fails. The baseline: one model (the conjecturer) generates RL tasks, the same model (the solver) attempts them, and the conjecturer is rewarded by roughly 1 minus the solver's success rate — i.e., for producing problems right at the frontier of the solver's capability. In principle this should manufacture an endless curriculum; in practice it matches plain RL and plateaus (about 60% on 3,000 formal Lean math problems). The diagnosis is reward hacking: the cheapest way to make a problem 'hard' is to make it artificially complex and inelegant rather than genuinely instructive — the equivalent of handing someone a three-page high-school calculus problem they'll slip up on somewhere, which teaches nothing transferable.
 

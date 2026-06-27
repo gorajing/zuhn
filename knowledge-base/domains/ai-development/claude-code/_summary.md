@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 79 insights
+> 80 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -65,6 +65,7 @@
 - `INS-260320-DCA0` [high] A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260605-46B2` [high] You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
 - `INS-260501-F0E5` [medium] If your CLAUDE.md just says 'this is React, use TypeScript', delete it. The model figures that out from the code. Save the tokens.
+- `INS-260627-045B` [medium] In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model.
 - `INS-260626-621D` [medium] Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260625-8E60` [medium] Take a 'golden session' where the agent performed well, have an agent deconstruct it into a declarative prose workflow, and re-run that workflow to get the good outcome repeatably.
 - `INS-260501-8E29` [medium] Anthropic split Claude Code from Co-work; Codex unified everything. The unified product is winning.

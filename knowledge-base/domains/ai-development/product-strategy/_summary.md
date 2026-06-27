@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 162 insights
+> 163 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -85,6 +85,7 @@
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260327-9816` [high] Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260625-DD6B` [high] A model has finite capacity, so dedicating all of it to your one task lets you ship a smaller, cheaper, faster model than a general frontier model.
+- `INS-260627-7FE2` [high] Release first to experts who know what 'good' looks like; reach executives last, maybe never.
 - `INS-260325-FC07` [high] MIT found the 5% of organizations reaching production AI deploy through distributed experimentation with vendor accountability, not centralized approval processes.
 - `INS-260403-03BD` [high] Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things.
 - `INS-260327-6D77` [high] Taste isn't about button placement or dark mode — it's having high enough standards that you won't stamp your name on something that doesn't actually help the user.

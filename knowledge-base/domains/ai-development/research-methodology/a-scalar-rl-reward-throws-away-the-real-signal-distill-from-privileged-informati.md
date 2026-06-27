@@ -71,10 +71,10 @@ related:
   - INS-260330-27DD
   - INS-260403-D56B
   - INS-260410-8E1C
+  - INS-260627-8A88
   - PRI-260407-9DDF
   - INS-260627-6A8B
   - PRI-260405-0676
-  - INS-260625-8613
 ---
 Reinforcement learning is the dominant post-training paradigm: an agent explores, gets a reward at the end, and the whole trajectory is labeled good or bad by that number. Malde argues this is 'really broken' for continual learning because it takes all the rich correction information from the real world and compresses it into a single scalar, discarding the directional, textual content of what the user actually wanted.
 

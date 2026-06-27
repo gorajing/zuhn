@@ -60,7 +60,6 @@ stance: >-
 related:
   - INS-260320-DEAF
   - INS-260327-2387
-  - INS-260330-ABB1
   - INS-260412-EDBF
   - INS-260605-3899
   - INS-260626-A08F
@@ -68,6 +67,7 @@ related:
   - INS-260626-FBB1
   - INS-260626-48F7
   - INS-260514-AC43
+  - INS-260603-7252
 ---
 Thariq's rule of thumb is to re-think or rewrite agent code roughly every six months, because capabilities shift enough that yesterday's baked-in assumptions become liabilities. The strategic stance that follows is to avoid hedging bets on where the future is going and instead build aggressively for what works right now — capture market share today, and don't be afraid to discard code later. 'We can write code 10 times faster, so you should throw out code 10 times faster.' Trying to predict the trajectory of model capabilities is extremely hard even from inside a lab, which makes future-proofing a poor use of effort relative to shipping against present capability.
 

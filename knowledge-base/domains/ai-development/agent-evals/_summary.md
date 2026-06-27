@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 89 insights
+> 90 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -77,6 +77,7 @@
 - `INS-260625-4D09` [medium] METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
 - `INS-260625-76E9` [medium] Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260625-869B` [medium] Budgeted ranked evidence is a stronger context gate than raw file-hit or token-count metrics.
+- `INS-260627-41C2` [medium] Against DSPy's GEPA — which uses the same English-feedback idea — Arize's method needed a fraction of the loops, and the difference was the quality of the eval prompts, not the algorithm.
 - `INS-260627-0A69` [medium] Start by capturing historical runs and back-testing them; track 'agent smell' (tool-call count, retries, latency) for sanity checks, and test the deterministic tools as plain functions.
 - `INS-260625-1920` [medium] Model identity is not enough; the harness is part of the measured system.
 - `INS-260625-722D` [medium] Raw judge agreement is a weak certificate unless chance and bias are accounted for.

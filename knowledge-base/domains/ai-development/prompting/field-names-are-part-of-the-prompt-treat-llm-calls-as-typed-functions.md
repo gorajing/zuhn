@@ -54,9 +54,9 @@ related:
   - INS-260325-B061
   - INS-260329-3C75
   - INS-260410-EE5C
+  - INS-260627-D456
   - INS-260605-117F
   - INS-260626-6CAE
-  - INS-260625-FACB
 ---
 A non-obvious detail Madura emphasizes: in DSPy's class-based signatures, the field names themselves act as mini-prompts injected into what the model sees. An input named 'text' or 'clinical_note' is passed through as part of the actual prompt, so naming parameters intuitively for the model is not cosmetic — it materially shapes behavior, with the description field carrying additional context. This reframes 'the end of prompt engineering' not as prompts disappearing but as prompt-craft moving into typed code: you declare intent, and the framework constructs the string.
 

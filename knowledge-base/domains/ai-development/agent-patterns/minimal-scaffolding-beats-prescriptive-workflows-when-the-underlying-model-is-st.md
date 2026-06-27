@@ -58,7 +58,7 @@ related:
   - INS-260627-FEB4
   - INS-260605-6591
   - INS-260602-EA48
-  - INS-260530-E697
+  - INS-260627-84F1
 ---
 For the Claude 3.5 Sonnet SWE-bench agent, Anthropic's design philosophy was to give as much control as possible to the language model and keep the scaffolding minimal. The agent had a single prompt, a Bash tool, and a str_replace editor tool, and sampled until the model itself decided it was done or hit the 200k context limit. The prompt suggested an approach but did not enforce strict state transitions.
 

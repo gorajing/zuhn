@@ -50,15 +50,15 @@ resolutions:
     simple as possible' — drives NVIDIA's engineering culture.
 related:
   - PRI-260323-0654
+  - INS-260627-D9CE
   - INS-260625-4D1D
   - INS-260329-9C20
   - INS-260501-801C
-  - INS-260329-0487
   - INS-260325-8D66
   - INS-260329-2242
+  - INS-260329-0487
   - INS-260330-ECA9
   - INS-260402-3866
-  - INS-260403-76F5
 stance: >-
   Instead of continuous improvement (74 days to 72), strip every problem back to
   first principles and ask what physics allows

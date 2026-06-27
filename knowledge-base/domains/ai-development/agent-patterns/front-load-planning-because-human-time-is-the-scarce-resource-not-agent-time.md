@@ -53,7 +53,7 @@ related:
   - INS-260514-08E3
   - INS-260626-A3E4
   - INS-260603-73D5
+  - INS-260627-765B
   - INS-260330-2B45
-  - INS-260320-6CCE
 ---
 There are two fundamental ways to work with a coding agent: the plan-based approach, where you write a comprehensive plan doc (often using a spec framework, or letting the model interrogate you until it has exhausted its questions), and the review-heavy approach, where you YOLO a vague prompt and pay it back in repeated correction rounds. Because the genuinely scarce, valuable resource is human attention — not agent compute — the plan-based approach almost always wins. Front-loaded planning eliminates edge cases, gives the model maximal context, reduces the odds it goes wrong, and yields fewer review rounds. Constantly switching back and forth with an agent delivering half-finished work is the expensive failure mode. The distilled rule: spending five minutes planning saves thirty minutes of reviewing AI-generated code.

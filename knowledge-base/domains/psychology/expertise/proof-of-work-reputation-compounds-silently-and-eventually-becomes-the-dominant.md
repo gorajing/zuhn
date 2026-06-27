@@ -57,10 +57,9 @@ stance: >-
 related:
   - INS-260327-E3CA
   - INS-260329-B77F
-  - INS-260330-74A0
-  - INS-260405-6BC4
   - PRI-260406-B314
   - PRI-260406-66BA
+  - INS-260405-6BC4
   - INS-260329-4A69
 ---
 Gil built his position without a media machine, brand theatrics, or billionaire surname. Instead, he spent a decade being indispensable to founders — showing up during high-stakes moments, making introductions that unlocked hard executive searches, and helping structure fundraising processes. The compounding effect was that 'Elad is in the round' became a signal that immediately raised valuations, not because of marketing but because of consistent pattern-matching by sophisticated market participants.

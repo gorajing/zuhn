@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 79 insights
+> 80 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -21,6 +21,7 @@
 - `INS-260403-8EF3` [high] Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel they're not using AI to its full potential.
 - `INS-260410-797C` [high] Slow enterprise AI adoption is revealing capability shortfalls, not normal technology-diffusion lag.
 - `INS-260404-3714` [high] Early AI adoption creates compounding advantages that late movers struggle to close.
+- `INS-260627-6BAD` [high] Bring the business into the research loop early so adoption becomes pull, not push.
 - `INS-260403-1106` [high] ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260423-EDF7` [high] Aaron Levie: I already saw one diffusion cycle with cloud and how long it took — 20 years later it got way bigger than we ever realized; if it works, the market's always larger than you ever think.
 - `INS-260501-27BF` [high] The board says 'we need more AI', the CEO hires a consultant, the project no one understands fails — but every individual employee uses ChatGPT brilliantly.

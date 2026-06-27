@@ -46,7 +46,7 @@ related:
   - INS-260626-2D64
   - INS-260330-7E4F
   - INS-260605-27CC
-  - INS-260410-D92A
+  - INS-260627-69ED
   - INS-260605-AE0D
 ---
 Carlini didn't point all 16 agents at the core problem. Some were given structural roles: one hunted duplicate code (addressing the known pathology that LLMs reimplement existing functionality), one optimized compiler performance, one improved generated code efficiency, one critiqued the project as a Rust idiom reviewer, one maintained docs. This mirrors a healthy engineering team, but the important insight is that these roles directly counter known LLM weaknesses — duplicate reimplementation, shallow code review of their own work, doc rot. When you have abundant parallel capacity, spending some of it on self-critique and hygiene agents is a higher-leverage use than marginal throughput on the main task.

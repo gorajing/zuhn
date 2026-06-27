@@ -50,8 +50,8 @@ related:
   - INS-260405-3315
   - INS-260405-0CE9
   - PRI-260406-CA09
+  - INS-260627-6BAD
   - INS-260325-FDF5
-  - INS-260404-8E0D
 ---
 DORA's guidance is operationally conservative: clarify AI policies, connect AI to internal context, prioritize foundational practices, fortify safety nets, invest in internal platforms, and focus on end users. That list challenges a recurring AI-economics belief that the next wave is mostly about replacing headcount with code and maintaining ultra-lean cores.
 

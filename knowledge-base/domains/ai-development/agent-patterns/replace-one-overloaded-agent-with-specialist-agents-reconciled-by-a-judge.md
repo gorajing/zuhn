@@ -63,16 +63,16 @@ stance: >-
   so you should decompose into single-purpose specialist agents whose
   conflicting outputs are reconciled by a dedicated judge agent.
 related:
-  - INS-260410-E977
   - INS-260410-A27C
   - INS-260627-3963
   - INS-260605-9976
+  - INS-260627-85C7
   - INS-260605-ED35
-  - INS-260626-9732
   - INS-260625-9F65
   - INS-260626-9FFD
   - INS-260626-14E0
   - INS-260626-9D78
+  - INS-260627-EC83
 ---
 The tempting move once context windows are large is to let one agent do testing, review, security, and coding all at once. Qodo's experience is that the agent gets overwhelmed and 'loses what the original task was'—give it four tasks and it quietly narrows to two, returning great results on those while the other two disappear in the middle. This is the same lost-in-the-middle failure showing up at the task level rather than the token level.
 

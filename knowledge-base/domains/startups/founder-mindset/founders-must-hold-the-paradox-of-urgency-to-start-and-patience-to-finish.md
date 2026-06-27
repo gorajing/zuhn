@@ -46,10 +46,10 @@ stance: >-
   intense impatience to begin while accepting that great work takes years to
   produce results.
 related:
-  - INS-260323-81F5
   - INS-260327-8E62
   - INS-260327-3918
   - INS-260505-97AD
+  - INS-260627-D9CE
   - INS-260327-B72F
   - INS-260403-CE62
 evidence:

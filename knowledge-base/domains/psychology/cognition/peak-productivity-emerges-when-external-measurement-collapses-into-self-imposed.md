@@ -50,10 +50,10 @@ stance: >-
   to bars they set themselves, not externally imposed benchmarks
 related:
   - INS-260322-A36C
+  - INS-260627-8121
   - INS-260329-9D26
   - INS-260403-CF46
   - INS-260404-312D
-  - INS-260405-95A6
 evidence:
   - id: INS-260322-A36C
     type: EXTENDS

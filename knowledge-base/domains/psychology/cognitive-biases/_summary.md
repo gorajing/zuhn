@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 344 insights
+> 345 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -136,6 +136,7 @@
 - `INS-260405-F1FD` [high] Once members pay $60-$120 upfront, not using Costco feels like wasting the fee — so they default to Costco without price-shopping.
 - `INS-260403-AFC4` [high] Paradigms shape not just what we think but the mental components we think with, creating invisible evaluation bias against novel ideas.
 - `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
+- `INS-260627-8ED0` [high] Developers reported being sped up ~20% by AI after the study, but were measurably slowed 19%—a direct demonstration that felt productivity diverges from measured productivity.
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.
 - `INS-260330-13B2` [high] People don't value privacy or decentralization until someone goes to jail or gets deplatformed, creating a predictable cycle of complacency and panic.
 - `INS-260330-3851` [high] The Columbus flat-Earth myth persists because the hero-vs-ignorance narrative is more compelling than the boring truth that educated people already knew Earth was round.

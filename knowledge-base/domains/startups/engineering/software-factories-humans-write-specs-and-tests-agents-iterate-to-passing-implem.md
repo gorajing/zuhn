@@ -60,10 +60,10 @@ stance: >-
   spec-writing becomes the new craft.
 related:
   - PRI-260406-3EF8
+  - INS-260627-11C1
   - INS-260530-D34F
   - INS-260625-D938
   - INS-260605-25B2
-  - INS-260625-7592
   - INS-260605-CF2E
   - INS-260625-99B0
   - INS-260625-E3A2

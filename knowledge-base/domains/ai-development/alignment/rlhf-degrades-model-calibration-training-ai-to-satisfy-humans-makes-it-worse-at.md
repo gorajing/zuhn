@@ -54,13 +54,13 @@ related:
   - INS-260412-9777
   - INS-260501-FDF0
   - INS-260505-5510
+  - INS-260627-8A88
   - PRI-260403-EA13
-  - INS-260409-1FD3
   - INS-260329-3D3E
   - INS-260329-7F02
   - INS-260330-B08E
   - INS-260330-B153
-  - INS-260410-F5C5
+  - INS-260409-1FD3
 stance: >-
   Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times),
   but human feedback training flattened this into the same vague probab...

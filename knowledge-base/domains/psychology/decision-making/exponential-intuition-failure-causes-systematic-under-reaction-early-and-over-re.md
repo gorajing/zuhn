@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260330-C0D1
   - INS-260330-864C
-  - INS-260330-F493
   - INS-260330-41A5
   - PRI-260403-50EF
   - INS-260330-FB66
@@ -61,6 +60,7 @@ related:
   - INS-260412-2D98
   - INS-260330-1C84
   - INS-260402-318B
+  - PRI-260407-023B
 evidence:
   - id: INS-260330-F493
     type: EXTENDS

@@ -51,10 +51,10 @@ stance: >-
   easy to verify, regardless of how easy it is to generate.
 related:
   - INS-260626-D7AE
+  - INS-260627-BBD1
   - PRI-260328-8E01
   - INS-260409-6833
   - INS-260330-5609
-  - INS-260322-32E3
 ---
 The 'verifier's rule' (coined by Jason Wei for foundation models) states that a solvable task with cheap verification will get solved, because cheap verification enables RL environments, post-training, or simply running an agent in a loop with 'you did this wrong, fix it' until it converges. Lauritzen argues the rule applies to agents, not just model training.
 

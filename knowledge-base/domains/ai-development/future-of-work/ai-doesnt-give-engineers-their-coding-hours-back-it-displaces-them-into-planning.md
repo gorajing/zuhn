@@ -52,6 +52,6 @@ related:
   - INS-260626-8C3C
   - INS-260603-73D5
   - INS-260403-A2E9
-  - INS-260524-63C9
+  - INS-260627-11C1
 ---
 Knight-Webb breaks software work into four buckets — planning, writing code, reviewing your own code, and reviewing others' code — and traces how each successive tool (GitHub Copilot, ChatGPT, original Cursor, Claude Code) shrinks the code-writing slice. The naive expectation is that eliminating four hours of daily coding returns four hours of freedom. It doesn't: the work is displaced, not deleted. AI acts as an accelerant (you get roughly 20 minutes back for every 30 spent), but the recovered time migrates into the planning and review activities that now bound throughput. The strategic implication is that engineers should invest in becoming excellent planners and reviewers, because those are the skills the job is collapsing toward — fighting for code-writing relevance is fighting the trend.

@@ -51,5 +51,6 @@ related:
   - INS-260410-9AF4
   - INS-260323-1345
   - INS-260409-FEAE
+  - INS-260627-102F
 ---
 Hormozi's framing borrows from Knightian uncertainty: when labor and cognition are commoditized, the remaining scarce input is judgment-under-uncertainty combined with willingness to bear the downside. Capital allocation, entrepreneurship, and product bets become the high-value human activities because the agent doesn't carry the loss if the decision is wrong. This implies that people currently earning on labor-substitutable skills should re-orient toward decision-making roles, and that the ability to form convictions and act on them becomes a core career skill. The prediction is falsifiable: if AI systems eventually take economic risk on their own behalf (with their own capital at stake), this thesis breaks.

@@ -58,6 +58,7 @@ related:
   - PRI-260403-26B9
   - PRI-260406-2E0D
   - INS-260402-3D61
+  - INS-260627-1C69
 ---
 The article frames fundraising explicitly as a distraction from daily operations — only 1% of small businesses are VC-backed, and the process pulls founders away from the work that actually builds the company. The prescription is a tight process: prepare everything upfront (deck, VDR, parameters), then run all investor conversations in parallel rather than sequentially, and aim to close within a defined window.
 

@@ -61,6 +61,7 @@ related:
   - INS-260626-F694
   - INS-260625-2A4F
   - INS-260605-B60D
+  - INS-260627-8121
   - PRI-260323-9D46
 ---
 Static benchmarks saturate: once models score near 100%, the test stops discriminating and authors abandon it for the next paper, leaving a graveyard of stale leaderboards. Kaggle's Game Arena sidesteps this by pitting models against each other in PvP games (Werewolf for deception, poker for risk/randomization, chess as the ML constant) and ranking them with Elo via Bradley-Terry pairwise comparison. There is no absolute score to max out — there is always a winner and a loser — so the benchmark stays 'hill-climbable' indefinitely.

@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260403-B617
   - INS-260626-3F6D
+  - INS-260627-B6E4
   - INS-260323-D2AA
   - INS-260625-E810
-  - INS-260329-3AE5
 ---
 The removal date for Opus 4.7 fast mode turns a latency optimization into a future hard error. Agent routing code should store the provider, model id, speed or effort setting, and planned fallback. For Zuhn/AgentRun, the important adaptation is to record speed-mode usage in traces and avoid treating 'fast' as a stable abstract option across model versions.

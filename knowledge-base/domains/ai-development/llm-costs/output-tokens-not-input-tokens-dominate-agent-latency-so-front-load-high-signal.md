@@ -64,11 +64,11 @@ related:
   - INS-260410-699C
   - INS-260410-B282
   - INS-260410-761B
-  - INS-260605-9925
   - INS-260605-2531
   - INS-260605-DA2B
   - INS-260605-E831
   - INS-260605-2AAF
+  - INS-260625-78EC
 ---
 Werry reports that the common assumption — input tokens are the bottleneck — is wrong. Time-to-first-output-token is now highly optimized, and you can push input size up substantially without much penalty; what actually drags performance is the volume of output tokens the agent generates. The implication inverts the usual instinct: rather than aggressively pruning context to save input, you should invest input and retrieval time up front to get the agent's output loop tight and correct on the first pass.
 

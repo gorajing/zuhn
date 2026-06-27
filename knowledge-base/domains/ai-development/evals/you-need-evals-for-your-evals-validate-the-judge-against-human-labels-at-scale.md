@@ -60,6 +60,7 @@ related:
   - INS-260627-21FF
   - INS-260627-9E58
   - INS-260627-D28C
+  - INS-260627-6F3F
 ---
 Khan's 'light-bulb' takeaway is that you cannot just trust an LLM-as-a-judge because the judge itself hallucinates. In the demo, the judge graded a robotic itinerary as 'friendly' — disagreeing with his own human label almost entirely. The discipline is to label a data set with subject-matter-expert annotations in the same platform, then run a second, often code-based, eval (a simple match/regex check) that compares judge label vs human label and reports agreement rate.
 

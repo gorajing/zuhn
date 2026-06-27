@@ -61,7 +61,6 @@ stance: >-
 related:
   - INS-260325-DA83
   - INS-260403-225B
-  - INS-260320-96C9
   - INS-260409-E776
   - INS-260410-3E37
   - INS-260413-25EC
@@ -69,6 +68,7 @@ related:
   - INS-260625-1022
   - INS-260626-9B36
   - PRI-260323-8E89
+  - INS-260322-5790
 ---
 Arena lets users mark that BOTH model responses are bad, yielding a 'dissatisfaction rate.' Restricting to battles between the top 25 models (to avoid weak-model noise), the rate dropped from ~17% in the pre-reasoning era to ~12% after o1-class models to roughly 9% today. The progress is genuine, but the plateau is the point: 9% of the time, two strong models both fail to satisfy a user — a very different story from benchmark lines approaching saturation.
 

@@ -61,8 +61,8 @@ related:
   - INS-260403-4CE2
   - INS-260403-3CD9
   - INS-260329-9C20
+  - INS-260627-8ED0
   - INS-260405-0CE7
-  - INS-260403-449A
 ---
 A recurring finding in software-engineering research is a sharp asymmetry in what self-report can measure. If you ask developers how much more productive they *felt* using a tool, their answer correlates well with quantitative ground truth. But if you ask how long a specific task *took*, the answer is almost always wrong. METR exploited this: developers in their study confidently predicted AI would speed them up, and reported feeling faster, while screen-recording timestamps showed they were actually slowed down.
 

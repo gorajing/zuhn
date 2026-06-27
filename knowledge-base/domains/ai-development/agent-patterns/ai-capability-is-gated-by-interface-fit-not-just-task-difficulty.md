@@ -64,12 +64,11 @@ stance: >-
   in-distribution interface like CLI or text rather than an out-of-distribution
   one like a GUI.
 related:
-  - INS-260329-8F98
   - INS-260403-5BD6
-  - INS-260320-63D3
   - INS-260626-AE04
   - INS-260603-A506
   - INS-260327-DECA
+  - INS-260329-8F98
   - INS-260323-DA4A
 ---
 A central explanation for why agents fail at real-world goals (the 'AI Village' experiments, where models given fuzzy goals like running a merch store or organizing an event consistently fall on their faces) is interface mismatch, not raw incapability. Computer use — driving a GUI — is markedly worse than CLI or text-based interaction because GUIs are out of distribution for the model, while CLI and text are heavily represented in training data. The same underlying task, presented as a Chrome-clicking problem versus a text/CLI problem, can flip from failure to success.

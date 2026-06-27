@@ -1,6 +1,6 @@
 # Topic: mcp
 
-> 24 insights
+> 26 insights
 
 - `INS-260627-962C` [high] Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260626-3492` [high] A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved.
@@ -15,6 +15,7 @@
 - `INS-260626-B983` [high] Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.
 - `INS-260627-8DF1` [high] Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
 - `INS-260627-6217` [high] A third-party MCP tool's description is integration code written by someone who doesn't know your use case, so vanilla descriptions like 'Press a key on the keyboard' give agents too little to act well.
+- `INS-260627-46EB` [high] MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
 - `INS-260627-1B54` [high] MCP exposes an asymmetry — the user approves a one-line tool summary while the LLM consumes the full description, which can hide exfiltration instructions the user never sees.
 - `INS-260627-ADB1` [high] Auth0 maps the agent as a client and APIs as traditional OAuth resource servers; the MCP server is itself a client, and Dynamic Client Registration lets agents register against it automatically.
 - `INS-260626-6F00` [high] Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security.
@@ -26,3 +27,4 @@
 - `INS-260627-A0EE` [medium] Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
 - `INS-260626-13FB` [medium] Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260627-1B11` [medium] The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
+- `INS-260627-4446` [medium] Web MCP lets a site register typed tools on the navigator object so agents call named actions directly, instead of mimicking human clicks via screenshots and coordinate-guessing.

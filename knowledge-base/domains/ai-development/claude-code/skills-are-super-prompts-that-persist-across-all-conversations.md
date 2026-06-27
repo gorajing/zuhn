@@ -43,7 +43,6 @@ related:
   - INS-260410-49C5
   - INS-260329-8DC5
   - INS-260320-76D2
-  - INS-260626-4393
   - INS-260627-DC30
 stance: >-
   If you're copying the same instructions into multiple projects, that's a

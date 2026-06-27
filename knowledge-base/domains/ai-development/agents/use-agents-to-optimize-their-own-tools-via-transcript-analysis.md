@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260530-C385
   - INS-260605-EC51
+  - INS-260627-765B
   - INS-260626-60C2
   - INS-260605-6444
-  - INS-260605-2D70
 ---
 Anthropic reports that most of the advice in their guide came from repeatedly optimizing internal tools with Claude Code, and that held-out test sets revealed performance improvements beyond what expert researchers could achieve manually. The loop: run evaluation, dump transcripts into Claude Code, let it identify rough edges and rewrite descriptions and implementations, re-evaluate.
 

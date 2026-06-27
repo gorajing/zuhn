@@ -54,11 +54,11 @@ stance: >-
   be standalone agents under an orchestrator, not skills inlined into the
   parent.
 related:
+  - INS-260627-85C7
   - PRI-260328-A65A
   - PRI-260328-1ED1
   - INS-260410-1030
   - INS-260323-2E51
-  - INS-260327-C1A4
 ---
 When Klook turned its multi-step supply-research workflow into an agentic system, each specialized analyzer (one per social platform) was built as a standalone agent coordinated by an orchestrator, rather than as a skill plugged directly into the parent. The deciding factors were that each needed its own separate context and had to run in parallel — and the pattern also works better for models prone to 'context anxiety' when overloaded with one giant context.
 

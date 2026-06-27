@@ -57,6 +57,7 @@ related:
   - INS-260327-79E8
   - INS-260320-F8FD
   - INS-260626-BC5E
+  - INS-260627-045B
   - INS-260627-DC30
 ---
 Brick draws a sharp line between two capabilities. Sequential skill use across a conversation — skill, then skill, then skill, each in its own turn — works robustly even on a 4B model choosing among eight enabled skills. What remains hard is a single user interaction requiring the app to call multiple skills as part of one answer; that works only sometimes and is still being figured out.

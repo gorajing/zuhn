@@ -60,9 +60,9 @@ stance: >-
 related:
   - PRI-260407-590E
   - INS-260330-6A9E
+  - INS-260627-B6E4
   - INS-260412-6DCE
   - INS-260625-4D1D
-  - INS-260323-B4D2
 ---
 Seo reframes 'Elon time' — the famously aggressive schedules — as a rigorous engineering instrument rather than arbitrary pressure. The technique he names is the 'all green light schedule': imagine every single light is green, with no administrative burden, no shipping delays, no legacy bottlenecks, and ask how fast you could actually manufacture the chip or design and test the robot. That number becomes the physically-possible baseline against which all real-world delay is measured.
 

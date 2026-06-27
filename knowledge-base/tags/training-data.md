@@ -1,5 +1,6 @@
 # Tag: training-data
 
+- `INS-260627-D515` Use industry-standard languages, package managers, and linters the way the outside world uses them, because that is what's in the model's training set.
 - `INS-260410-86B0` Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
 - `INS-260327-5E40` Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
 - `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.

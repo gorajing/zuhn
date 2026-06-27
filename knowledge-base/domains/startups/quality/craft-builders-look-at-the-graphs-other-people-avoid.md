@@ -49,7 +49,7 @@ related:
   - INS-260327-CC05
   - INS-260626-78D1
   - INS-260423-B01D
+  - INS-260627-A971
   - INS-260423-5998
-  - INS-260325-E23D
 ---
 Competitive advantage in a crowded, AI-accelerated market will accrue to the builders who measure what their competitors refuse to measure. Retention is uncomfortable because it reveals abandonment. Depth-of-use is uncomfortable because it reveals shallow engagement. Problem-resolution rate is uncomfortable because it requires defining the problem and confronting whether the product actually solves it. Most founders default to the comfortable metrics (signups, MAU, revenue) that every competitor also optimizes. The strategic opening is to adopt one or two uncomfortable metrics as primary and accept the short-term reporting pain. This selects for a different kind of team (honest, craft-oriented, patient) and produces a different kind of product (durable, high-quality, defensible). The contrarian metric is itself the positioning.

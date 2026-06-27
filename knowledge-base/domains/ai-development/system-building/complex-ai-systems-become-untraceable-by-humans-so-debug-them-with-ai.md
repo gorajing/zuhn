@@ -56,9 +56,9 @@ related:
   - INS-260321-2482
   - INS-260625-0021
   - INS-260625-FC2D
+  - INS-260627-0BC1
   - INS-260605-93B8
   - INS-260626-8F57
-  - INS-260626-CF64
 ---
 incident.io's investigations run hundreds of telemetry queries and expand into hundreds of prompts and tool calls per step; their chatbot alone is powered by 10+ agents and 50+ prompts. A single subtle error early in the chain can produce a totally wrong root-cause analysis with no obvious trail back to the offending step. Understanding a single incident well enough to judge an AI report takes a human about an hour, which doesn't scale across thousands of investigations on hundreds of customer accounts.
 

@@ -57,7 +57,6 @@ related:
   - INS-260403-45DB
   - INS-260321-4E98
   - INS-260403-5D3C
-  - INS-260603-C90A
 ---
 Gartner predicts that within three years, 90% of B2B purchasing decisions will be mediated by AI agents, and two-thirds of buyers already trust AI recommendations over Google search results. This represents a fundamental shift in how products get discovered and chosen — moving from a system optimizable through SEO, paid ads, and content marketing to one where the agent evaluates actual product quality, integration capabilities, and user outcomes.
 

@@ -49,7 +49,6 @@ stance: >-
   Catching defects in a sub-5-second pre-commit analysis loop is strictly better
   than waiting for the CI gate to fail.
 related:
-  - INS-260605-434D
   - INS-260605-A705
   - INS-260605-EA2E
   - INS-260625-6E19

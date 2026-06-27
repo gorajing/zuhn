@@ -57,7 +57,7 @@ related:
   - INS-260605-6591
   - INS-260605-9276
   - INS-260605-46B2
-  - INS-260501-9503
+  - INS-260627-D456
   - INS-260626-8308
 ---
 Supabase found that even after an agent loads a skill, it is lazy about loading the skill's bundled reference files. Loading even one reference file is unreliable; loading two is nearly impossible, and three or four essentially never happens — because fetching/tool-calling is expensive, agents default to their training data and minimal context. Their security checklist initially lived in a reference file and was routinely missed, so they moved it into skill.md itself.

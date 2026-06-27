@@ -1,9 +1,9 @@
 # Tag: tacit-knowledge
 
+- `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260605-768D` Much of AI engineering is being explicit about the implicit knowledge humans carry — agents do their job well only when our tacit understanding is transferred to them.
 - `INS-260501-17BB` Amjad Masad: when a model comes out, our AI engineers sit down with it for a day or two — they're like model psychologists, they play around with it, plug it in, figure out the limits.
 - `INS-260402-5ACE` Context graphs store not just facts but the precedent and reasoning behind decisions, answering 'why' questions that vector similarity search alone cannot.
-- `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260410-9AF4` AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.
 - `INS-260325-ADF3` Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260626-7A54` Business context, political dynamics, product vision, and org history decide the right thing to build — and none of it is in the repo for an agent to read.
@@ -22,8 +22,8 @@
 - `INS-260325-2AA0` Experimental archaeologists who physically recreate ancient technologies discover knowledge that decades of artifact analysis missed entirely.
 - `INS-260325-B974` A hairdresser, survivalists, and indigenous communities have all corrected academic archaeologists because practical craft knowledge reveals what artifact analysis misses.
 - `INS-260410-95BC` Sam Walton walked into competitor stores with a yellow legal pad for 50 years — and claimed to have spent more time in Kmarts than any Kmart employee outside of senior management.
-- `INS-260330-E670` Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260626-75DA` You can't prompt your way to a winning company because customers give you a local-optimum answer shaped by their worldview, not a clean prompt — the unspoken signal is the alpha, and the remaining bottleneck is the wisdom to choose.
+- `INS-260330-E670` Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260403-802D` The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
 - `INS-260412-4499` Anker beat western competitors to market with PowerIQ charging technology because Shenzhen's engineer network transmitted the information faster than formal channels.
 - `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.

@@ -51,7 +51,6 @@ stance: >-
   probabilistic beliefs, making search engines arbiters of uncertain futures
   rather than just recorders of the past.
 related:
-  - INS-260329-C092
   - INS-260402-7A1A
   - INS-260405-567D
   - INS-260404-4758

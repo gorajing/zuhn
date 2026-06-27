@@ -18,8 +18,8 @@
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260423-5998` Michael Seibel: the Facebook platform slop wars — no one competing with Zynga won; Facebook won.
-- `INS-260405-C342` Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260403-BC3B` Airbnb moved from air beds to spare rooms to professional rentals to hotels along a predictable continuum.
+- `INS-260405-C342` Photosynthesis produces oxygen as a 'useless byproduct' — yet that waste product became the atmosphere that enables all animal life, including the humans who depend on the plants.
 - `INS-260403-E71A` Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
 - `INS-260403-3615` Infrastructure consolidation reliably creates the conditions for an application-layer startup boom, as cheap reliable infrastructure enables new use cases.
 - `INS-260412-684D` EU regulations force worldwide product changes because maintaining region-specific SKUs is cost-prohibitive.

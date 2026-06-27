@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260626-54A5
   - INS-260605-27CC
+  - INS-260627-BBD1
   - INS-260625-A5E7
   - INS-260625-8E60
-  - INS-260410-E977
 ---
 Since true verification is often unavailable, the move is to construct a proxy and pull the task into the solvable-and-verifiable region. Lauritzen gives concrete patterns: (1) Proxy verification — compare the agent's output against known-good 'golden' artifacts (e.g. is this new contract similar to our previous contracts that we know work?) instead of needing a judge's ruling. (2) Decomposition — split one unverifiable task into verifiable sub-tasks and leave only the genuinely judgment-bound pieces (risk profile, precedent selection, negotiation stance) to a human, while letting the agent own easy-to-verify pieces like formatting and definition-linting. (3) Guardrails — increase trust by constraining the action space: it can only edit these three files, read from this directory, search these websites. (4) Bringing a coding task down via browser access and test-driven development so it becomes verifiable.
 

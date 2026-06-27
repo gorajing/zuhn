@@ -46,10 +46,10 @@ resolutions:
     collapse.
 related:
   - INS-260327-8E62
+  - INS-260627-D9CE
   - INS-260330-1E5E
   - INS-260328-A57D
   - INS-260330-C658
-  - INS-260328-F1D2
 stance: >-
   If you cannot imagine yourself working on this problem for 10 years, you will
   abandon it when the inevitable 2-3 year difficulty spike hits.

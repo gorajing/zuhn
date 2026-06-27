@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 298 insights
+> 299 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260625-BBE4` [high] Databricks debated for many meetings whether they could write Postgres pages as columnar Parquet; the debate ended when an engineer simply prototyped it overnight and reported 'it works' — no kickoff, no design doc.
@@ -91,6 +91,7 @@
 - `INS-260329-62C1` [high] As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260404-A46A` [high] Treating projects as experiments ensures you gain knowledge even if the project itself fails.
 - `INS-260405-D925` [high] Starting with an explicit low-commitment frame ('just a sketch', 'just a hack') bypasses perfectionism and lets real work accumulate.
+- `INS-260627-1C69` [high] Break a moonshot into off-rampable sprints, each shipping real value, so leadership can pull the plug guilt-free.
 - `INS-260330-EBFD` [high] Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
 - `INS-260403-2041` [high] Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260402-70FD` [high] Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.

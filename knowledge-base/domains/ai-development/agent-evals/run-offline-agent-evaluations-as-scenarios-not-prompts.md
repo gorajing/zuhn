@@ -54,7 +54,6 @@ stance: >-
   Offline evaluation for agents should simulate realistic end-to-end workflows
   rather than test isolated prompt-response pairs.
 related:
-  - INS-260330-EC22
   - INS-260409-655B
   - INS-260619-CBFA
   - INS-260625-B985

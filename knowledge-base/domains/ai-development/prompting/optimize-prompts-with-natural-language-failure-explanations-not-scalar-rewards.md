@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260605-667B
   - INS-260605-FD3D
+  - INS-260627-6F3F
   - PRI-260320-8205
   - INS-260410-E27A
-  - INS-260605-DCE5
 ---
 Arize's 'prompt learning' distinguishes itself from reinforcement learning (which updates weights from scalar rewards and is impractical for LLMs) and from plain metaprompting (which asks an LLM to improve a prompt from results alone). The key addition is the natural-language feedback channel: a subject-matter expert or LLM-as-judge annotates not just 'incorrect' but *why* — which instruction was violated, what context was ignored — and that text is what drives the rewrite.
 

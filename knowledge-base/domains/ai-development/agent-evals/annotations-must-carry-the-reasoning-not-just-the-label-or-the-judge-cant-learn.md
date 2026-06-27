@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260605-FCDA
   - INS-260605-DCE5
+  - INS-260627-6F3F
   - INS-260605-E18B
   - INS-260605-93B8
-  - INS-260329-92E9
 ---
 The speaker stresses that data curation and annotation — though covered quickly — are the hardest part of the whole exercise, echoing the data-scientist truism that getting good data is harder than running the algorithm. The annotation's free-text reasoning is what encodes the otherwise-hidden policy. For a complex policy-adherence judge, a bare 'compliant/non-compliant' label gives the optimizer nothing to learn from; the reasoning ('approved the cancellation before verifying the reservation met the cancellation rules') is what lets it reconstruct the rule.
 

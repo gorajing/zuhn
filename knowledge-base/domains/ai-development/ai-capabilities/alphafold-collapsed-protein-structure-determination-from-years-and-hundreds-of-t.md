@@ -54,5 +54,6 @@ related:
   - INS-260524-9100
   - INS-260408-76F4
   - INS-260410-55B5
+  - INS-260627-D944
 ---
 Hassabis describes the moment in 2021 when his team realized AlphaFold could fold all 200 million known proteins in about a year if they distributed the compute, rather than running a request server. They folded everything and released it free. Over 3 million scientists now use AlphaFold; a pharma scientist told Hassabis 'almost every drug developed from now on will probably use AlphaFold in its process.' The shift is not just speed — it's that structural biology now keeps pace with genetic sequencing instead of lagging it by decades.

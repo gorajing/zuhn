@@ -66,8 +66,8 @@ related:
   - INS-260323-4D8D
   - PRI-260323-8E89
   - INS-260403-B73D
+  - INS-260627-D9CE
   - PRI-260407-A13C
-  - PRI-260403-EA13
 ---
 Fan's announcement: NVIDIA's Ego Scale work discovered a neuroscaling law for dexterity — clean log-linear relationship between pretraining-hours-of-egocentric-data and optimal-validation-loss. The mathematical structure is identical to the original Kaplan/Chinchilla scaling laws for language models, six years later in the dexterity domain.
 

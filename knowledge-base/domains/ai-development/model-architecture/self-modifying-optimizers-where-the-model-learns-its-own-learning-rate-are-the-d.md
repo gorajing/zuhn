@@ -64,7 +64,7 @@ related:
   - INS-260322-C0D3
   - INS-260410-F5C5
   - INS-260410-F436
-  - INS-260625-D790
+  - INS-260627-8A88
 ---
 The buried lede in Hope's Self-Modifying Titans: the optimizer that updates memory is itself a learned module. The model dynamically generates its own learning rate (how aggressively to incorporate new information) and decay factor (how much past memory to retain or forget) using dedicated sub-modules — and those sub-modules are themselves self-adaptive. This is meta-learning at the architectural level: the model learns how to update itself based on the situation it's in.
 

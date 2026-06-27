@@ -52,7 +52,6 @@ related:
   - INS-260405-C1E4
   - INS-260626-8C3C
   - INS-260625-E696
-  - INS-260402-1FE9
   - INS-260405-2C44
 stance: >-
   As AI coding tools handle implementation, the planning-to-development time

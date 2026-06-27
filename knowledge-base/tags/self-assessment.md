@@ -2,6 +2,7 @@
 
 - `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
+- `INS-260627-8ED0` Developers reported being sped up ~20% by AI after the study, but were measurably slowed 19%—a direct demonstration that felt productivity diverges from measured productivity.
 - `INS-260405-2E0A` Being slightly overconfident compensates for the systematic underestimation errors that ambitious work generates — making the net estimate more accurate, not less.
 - `INS-260402-0BFF` Having zero controversial private opinions is evidence of conformity, not correctness.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.

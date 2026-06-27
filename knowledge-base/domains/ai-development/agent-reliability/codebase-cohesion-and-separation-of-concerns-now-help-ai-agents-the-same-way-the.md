@@ -62,12 +62,12 @@ related:
   - INS-260410-77E5
   - INS-260605-4AB0
   - INS-260605-9E46
-  - INS-260625-868D
   - INS-260626-5375
-  - INS-260626-5053
   - INS-260626-287B
   - INS-260627-30F9
+  - INS-260627-11C1
   - INS-260605-A803
+  - PRI-260406-3EF8
 ---
 Asked how Kiro handles large existing codebases, Harris gives an answer that collapses the human/agent distinction: if the system already has good separation of concerns and highly cohesive, coherent components, the agent does a great job because it can say 'this is the module that does this thing' without keeping many things in context at once. Conversely, a codebase loaded with tech debt (his self-deprecating example: an IDE rushed for a launch deadline) is harder for the agent to traverse 'in the same way that a dev would.' Reliable test suites and understandable module decomposition directly raise the quality of agent output.
 

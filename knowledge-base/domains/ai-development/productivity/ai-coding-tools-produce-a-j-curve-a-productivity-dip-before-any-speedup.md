@@ -65,9 +65,9 @@ related:
   - INS-260327-CED9
   - INS-260328-B57E
   - INS-260405-2299
-  - INS-260625-0CAB
   - INS-260626-BDAB
   - INS-260330-9346
+  - INS-260627-B6E4
   - INS-260603-7252
 ---
 Meta — which has arguably the best quantitative measurement of developer experience of any company, tracking the actual human effort per PR — observed a J-curve when it gave engineers agents: productivity dropped for roughly 3–6 months before recovering. This matches the general pattern that you are slower the first time you experiment with any tool, paying an investment cost for later proficiency (or, in AI's case, for the bet that the models will keep improving).

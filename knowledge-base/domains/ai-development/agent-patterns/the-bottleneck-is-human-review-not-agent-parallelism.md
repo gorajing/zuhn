@@ -49,7 +49,7 @@ related:
   - INS-260410-566F
   - INS-260409-0DB0
   - INS-260411-BCB0
-  - INS-260605-A803
+  - INS-260627-F578
   - INS-260605-63AE
 ---
 Parsons repeatedly pushes back on multi-agent orchestration tooling (Gas Town, MCP agent mail) by applying theory of constraints: the bottleneck in his workflow is not tokens-per-second or agent count, it's his own ability to specify what he wants and review what the AI produced. He wakes up to 30 things his agents did overnight and is 'always the bottleneck.' Adding more parallel agents to a system whose constraint is human review just deepens the backlog. The practical advice: begin with one continuously-running loop, see if you can even keep up with that, and only reach for parallelism once you've proven the human review step isn't your limiting factor. Introducing agents upstream of your true constraint is counterproductive, not just neutral.

@@ -58,6 +58,7 @@ related:
   - INS-260410-71B9
   - INS-260605-D710
   - INS-260603-BFEE
+  - INS-260627-2E48
 ---
 Ubl reveals that in a recent 7-day window over 60% of page views on vercel.com came from AI agents — humans are now in the minority on their web properties. Correspondingly, usage is shifting from people clicking around dashboards toward APIs and CLIs. His operating rule: when someone proposes a feature with a UI, his first question is 'what's the CLI? how does an agent use this?' because UI has become cheap while agent-accessible automation is the durable surface.
 

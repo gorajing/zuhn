@@ -50,10 +50,10 @@ stance: >-
   entirely
 related:
   - INS-260329-BC11
+  - INS-260627-9B00
   - PRI-260323-FA42
   - INS-260605-AA03
   - INS-260403-4788
-  - INS-260404-8A8A
 evidence:
   - id: INS-260405-6A0C
     type: TRANSFERS_TO

@@ -74,7 +74,7 @@ related:
   - INS-260605-4597
   - INS-260603-73D5
   - PRI-260411-14DC
-  - INS-260320-1B10
+  - INS-260627-765B
 ---
 The writing system's most powerful component is an evaluator-optimizer loop made of two LLM calls with two different context windows: a writer drafts, and a reviewer in a completely fresh context critiques it. The separate context is the whole point — LLMs are biased toward liking what they already wrote, and putting the review in a new window removes that bias. The reviewer checks the draft against the guideline (user intent), the research (to remove hallucinations), and the style profiles, then the editor (usually the writer itself, now holding the critique plus original context) applies the edits, looping three or four times.
 

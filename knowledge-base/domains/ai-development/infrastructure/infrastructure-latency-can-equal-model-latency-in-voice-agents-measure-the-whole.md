@@ -49,7 +49,6 @@ stance: >-
   Reported model latency understates real perceived latency because
   infrastructure overhead can match the model's own inference time.
 related:
-  - INS-260329-33AA
   - INS-260330-D483
   - INS-260330-C06E
   - PRI-260426-9730

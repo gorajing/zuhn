@@ -65,6 +65,7 @@ related:
   - INS-260605-9523
   - INS-260605-3899
   - INS-260625-EF29
+  - INS-260627-A971
   - INS-260625-1E07
 ---
 Cole Murray's meme from consulting AI-first teams: 'your codebase regresses to your worst engineer.' The engineer who is most enthusiastic about AI and least disciplined about auditing output ships patterns — a 20-deep if/else chain, twelve different date-formatting helpers — that then become the in-context examples the agent references, so the AI starts reproducing and compounding that style. Cognition's own experiment quantified the decay: pure vibe-coding with auto-merge and no code review stayed viable for only about two weeks before a trivial change (recoloring a button implemented in ten slightly-different places) revealed the codebase had to be trashed and rebuilt.

@@ -66,13 +66,13 @@ related:
   - INS-260330-74A0
   - INS-260402-876A
   - INS-260409-6833
-  - INS-260410-E977
   - INS-260410-382D
   - INS-260605-55A6
   - INS-260605-AD25
   - INS-260605-B610
   - INS-260605-02FB
   - INS-260605-34B0
+  - INS-260605-237C
 ---
 The agent loop is gather context, take action, verify — and the verification step is the single best predictor of how general and reliable an agent can be. Coding is the canonical good case: you can lint, compile, and execute to verify, and git makes the work atomically reversible. Deep research is harder because verification is weak (citing sources is only a partial check). Computer use is the bad case: it operates on an irreversible state machine, so a mistake compounds — order Pepsi instead of Coke and you cannot just click Coke; you must navigate to the cart and remove it. So two intuitions govern agent suitability: how verifiable is the work, and how reversible is the state. When state is irreversible, the engineering move is to make it reversible — store checkpoints the user (or even the model) can roll back to.
 

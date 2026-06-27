@@ -45,10 +45,10 @@ stance: >-
   cheap certainty.
 related:
   - INS-260330-D6EF
+  - INS-260627-BBD1
   - PRI-260406-33E9
   - INS-260328-E410
   - INS-260627-8B75
-  - INS-260402-1146
   - INS-260403-F1C6
   - INS-260322-F891
 evidence:

@@ -55,12 +55,11 @@ stance: >-
   evaluation must judge outcomes and reasonableness of process — never
   prescribed step sequences.
 related:
-  - INS-260410-3601
   - INS-260625-447A
   - INS-260605-0BA3
   - INS-260605-365A
+  - INS-260627-0BC1
   - INS-260627-36B1
-  - INS-260605-27CC
   - INS-260624-6753
   - INS-260625-FE3E
   - INS-260625-E3A2

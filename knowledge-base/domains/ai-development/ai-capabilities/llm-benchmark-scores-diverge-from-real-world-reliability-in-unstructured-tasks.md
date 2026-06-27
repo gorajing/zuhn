@@ -53,10 +53,10 @@ stance: >-
   ambiguity, incomplete information, and consequential stakes
 related:
   - INS-260330-EC22
+  - INS-260627-8121
   - INS-260410-0DA5
   - INS-260625-2A4F
   - INS-260605-3ABF
-  - INS-260625-ED7E
   - INS-260410-E3BB
   - INS-260413-EB61
   - INS-260625-79ED

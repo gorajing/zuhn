@@ -46,7 +46,7 @@ related:
   - INS-260403-50F6
   - INS-260403-9020
   - INS-260605-0BD6
+  - INS-260627-8ED0
   - INS-260625-C735
-  - PRI-260328-4CC0
 ---
 HumanLayer describes a common journey: teams grab a framework, move quickly, reach a rough quality bar, then discover that getting beyond it requires reverse-engineering the framework's prompts, flow, and assumptions. The warning is not anti-framework; it is pro-control once the system must serve real users.

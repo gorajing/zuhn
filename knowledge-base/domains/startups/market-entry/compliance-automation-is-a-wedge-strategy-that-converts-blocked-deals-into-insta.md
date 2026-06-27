@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260519-B1A1
   - PRI-260327-942E
+  - INS-260627-D9CE
   - PRI-260406-CCAE
   - PRI-260328-6A8D
-  - INS-260329-903B
   - INS-260627-9CF1
 ---
 The Delve example illustrates a powerful go-to-market pattern: a startup hit growth mode but stalled when prospects demanded SOC 2 compliance. Traditional platforms meant endless tasks, tied-up engineers, and lost deals while competitors closed. Delve compressed audit-readiness from months to 15 hours, directly converting a blocked deal into a closed one.

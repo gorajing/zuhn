@@ -60,5 +60,6 @@ related:
   - INS-260605-27CC
   - INS-260626-6F6E
   - INS-260410-1030
+  - INS-260627-4446
 ---
 Engineering teams reflexively try to remove all friction from shipping, but friction is also the mechanism that makes you stop and ask 'do I need this reliability, this criticality, am I staffed to run it?' — the same purpose SLOs serve. Without friction there is no steering. The practical pattern is a review tool that separates two classes of feedback: mechanical issues (bare-catch violations, lint failures) get routed back to the agent to fix automatically, while a distinct channel of human callouts flags changes where the human's brain must reactivate. Database migrations should never merge without a human judgment call because the safety depends on locks and production data size; permission changes demand human attention because they're often under-documented. These are areas where 'if we miss it, we regret it' — and you will miss it, but the machines can at least surface it so you get the jolt to kick into gear. Speed is genuinely addictive and productive, but relying on it where you shouldn't is devious; find the spots where the speed feels wrong and deliberately put your judgment back in.

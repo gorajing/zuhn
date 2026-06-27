@@ -8,6 +8,13 @@
 - `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260410-DDD0` When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.
+- `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
+- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260410-2AF4` Jensen Huang and Mark Zuckerberg both confirm that if they could compress 30 years of pain and hardship into a 29-year-old's brain, neither would have started their company — the entrepreneurial superpower is partly ignorance of how hard things are.
+- `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
+- `INS-260403-F0D4` Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
+- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
+- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260625-0AD4` Ideas that were once 'slightly out of reach' are now buildable, so the burden flips from 'can I build this?' to 'I can't just ship the MVP — I have to go ten steps further.'
 - `INS-260501-F9F7` Be 5 years ahead, not 50 — early enough to win the wave, late enough to survive long enough to ride it.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
@@ -25,13 +32,6 @@
 - `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
-- `INS-260423-E905` Chamath on Groq: We didn't have product-market fit for seven years. Replit had years of nothingness before the hockey stick.
-- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
-- `INS-260410-2AF4` Jensen Huang and Mark Zuckerberg both confirm that if they could compress 30 years of pain and hardship into a 29-year-old's brain, neither would have started their company — the entrepreneurial superpower is partly ignorance of how hard things are.
-- `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
-- `INS-260403-F0D4` Replace 10-year visions with 90-day micro-ambitions that stack and reveal new ceilings you couldn't previously see.
-- `INS-260405-BA7F` The instruction 'aim to make more than you take' reframes profit as a consequence of genuine usefulness, not a target to optimize for directly.
-- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260330-8686` Travis's relentless aggression built Uber into a global giant, but the same traits made him unfit to lead it once the company needed to repair its reputation and prepare for an IPO.

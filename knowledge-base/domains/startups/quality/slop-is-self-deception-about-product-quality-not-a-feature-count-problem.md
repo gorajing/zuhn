@@ -51,6 +51,7 @@ related:
   - INS-260403-62E0
   - INS-260423-FB36
   - INS-260514-5D9D
+  - INS-260627-A971
   - INS-260514-6561
 ---
 The canonical failure mode of new builders is responding to 'our product is bad' with 'let me add 10 more features' — the feature treadmill. This optimizes surface area rather than usefulness. Both YC partners name a specific diagnostic: after taking a break, sleeping, and returning with fresh eyes, do you actually believe the product helps the user? If not, adding features is slop. The alternative is to stop adding, start removing, and ask whether the core interaction delivers value. The test is not external validation (demos, funding, awards) but an honest self-assessment plus trusted peers who will tell you when it's not working. Critically: anyone who insists on having good taste almost definitionally does not have it; taste reveals itself through the work and the stamping of one's name on it.

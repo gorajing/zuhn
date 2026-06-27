@@ -49,7 +49,7 @@ related:
   - INS-260514-0226
   - INS-260605-89B0
   - INS-260625-868D
+  - INS-260627-11C1
   - INS-260626-287B
-  - INS-260403-643A
 ---
 The specs-to-code thesis holds that code is cheap: write a spec, let AI generate code, and when something breaks you edit the spec and re-run rather than touch the code. Pocock tried it and watched the output degrade with each pass — run it, get code; run again, get worse code; keep running, end up with garbage. The mechanism is software entropy (from The Pragmatic Programmer): if every change considers only the local change and not the design of the whole system, the codebase drifts toward collapse. Ignoring the code and letting it 'manage itself' is just vibe coding renamed. The practical takeaway is that a human (or a design-aware process) must stay accountable for the structure of the system; you cannot delegate the design integrity to a loop that never reads its own output.

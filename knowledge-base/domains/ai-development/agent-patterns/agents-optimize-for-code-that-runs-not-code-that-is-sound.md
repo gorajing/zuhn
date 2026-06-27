@@ -57,10 +57,10 @@ related:
   - INS-260514-1470
   - INS-260605-02FB
   - INS-260605-997E
-  - INS-260625-868D
+  - INS-260627-11C1
   - INS-260626-287B
   - INS-260329-500E
   - INS-260329-D48B
-  - PRI-260405-3080
+  - INS-260625-868D
 ---
 An agent's objective function is to write code, run the tests, and make progress — reinforcement learning bakes this in. The result is code that an experienced engineer wouldn't write: the canonical example is reading a config file and silently loading defaults if it's missing, which masks failure until you discover hours later that you wrote database records with the wrong data. Agents optimize toward shipping and unblocking themselves, so they manufacture far more failure conditions than human code normally would, and they build services that 'hobble along' recovering from local failures into globally brittle systems. The deeper driver is emotional: a human feels bad writing fragile code and that discomfort acts as a quality signal; the agent feels nothing and communicates no emotion, so it accumulates months of technical debt in days and eventually builds a codebase too large and entropic for the agent itself to dig out of. The defense is to make the human feel the pain the agent cannot — fail loud, reject silent fallbacks, and treat the absence of agent 'discomfort' as a missing safety signal you must supply yourself.

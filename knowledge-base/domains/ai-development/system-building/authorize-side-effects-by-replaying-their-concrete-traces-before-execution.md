@@ -51,7 +51,7 @@ related:
   - PRI-260403-5B3D
   - INS-260501-0662
   - INS-260626-AE04
-  - INS-260627-8318
+  - INS-260627-765B
 ---
 The safety-filter runs agent-written ARTIQ scripts in dax.sim and checks each generated device operation against operator-defined bounds before issuing an execution token. This shifts validation from reviewing prose or source code to verifying the concrete sequence of operations the system would perform.
 

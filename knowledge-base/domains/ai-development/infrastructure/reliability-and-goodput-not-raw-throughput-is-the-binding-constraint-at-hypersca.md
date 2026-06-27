@@ -57,7 +57,6 @@ stance: >-
   scale, and the engineering challenge is overwhelmingly systems-reliability
   rather than chip-performance
 related:
-  - INS-260410-56A2
   - INS-260410-10C9
   - INS-260412-DC05
   - INS-260424-981C

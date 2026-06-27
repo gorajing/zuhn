@@ -1,9 +1,11 @@
 # Topic: evals
 
-> 6 insights
+> 8 insights
 
 - `INS-260627-D28C` [high] Have the judge classify into a text label (e.g. friendly/robotic) and map that label to a score afterward, because LLMs are unreliable at producing numbers directly.
 - `INS-260626-484B` [high] For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
+- `INS-260627-6F3F` [high] The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
+- `INS-260627-D9CE` [high] METR converts task difficulty into the human time-to-complete at which a model succeeds 50% of the time, yielding a remarkably straight exponential trend (doubling every 6-7 months).
 - `INS-260627-B1B2` [high] Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency.
 - `INS-260627-9981` [high] Treat the judge as a hallucinating component too — label a data set by hand, then run a code/match eval that measures whether the judge's labels agree with the human labels, and improve the judge where they diverge.
 - `INS-260626-B04D` [medium] AgentRun evals should include effort metrics, detours, and environment revisions.

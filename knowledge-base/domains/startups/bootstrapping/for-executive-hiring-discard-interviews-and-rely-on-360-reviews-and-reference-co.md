@@ -51,11 +51,11 @@ resolutions:
     Project-based evaluations or trial periods (like Weebly's two-week exec
     trials) are more predictive.
 related:
+  - INS-260627-7FE2
   - INS-260327-B18F
   - INS-260330-9F1F
   - INS-260328-0C87
   - INS-260404-DD95
-  - PRI-260406-BC55
 stance: Senior executives are professional interviewers
 ---
 The more senior the hire, the better they are at interviewing — by definition. At the C-suite level, the interview itself becomes nearly useless as a signal. Two alternative approaches generate much better signal:

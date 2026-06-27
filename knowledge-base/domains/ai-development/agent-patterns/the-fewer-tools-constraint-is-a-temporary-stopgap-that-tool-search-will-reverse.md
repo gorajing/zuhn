@@ -60,11 +60,11 @@ related:
   - INS-260405-5E6B
   - INS-260330-0CAD
   - INS-260409-665F
-  - INS-260410-60C8
   - INS-260605-158D
   - INS-260626-181F
   - INS-260626-B983
   - INS-260626-A5CB
+  - INS-260626-7F76
 ---
 The 2025 consensus that 'more tools make worse agents' (confirmed by LangChain's February research and GitHub's own experience past 100 tools) is treated by Morrow not as a permanent law but as a workaround for missing infrastructure. The real culprit was not tool count per se but tools and their context being 'shoved directly into the context.' As that constraint dissolves — via Anthropic's tool-search tool API (recently landed in Claude Code), OpenAI's similar API, and Cloudflare's code-mode — he 'fully expects thousands of tools will be normal very soon' and plans to reverse many of the fewer-tools decisions.
 

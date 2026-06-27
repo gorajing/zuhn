@@ -44,7 +44,6 @@ stance: >-
   skill—knowing how to manage, delegate, and provide context to a capable but
   overeager collaborator—not a technical prompt engineering skill.
 related:
-  - INS-260320-DCA0
   - INS-260329-4D06
   - INS-260329-11AB
   - PRI-260406-1AC6

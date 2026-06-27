@@ -59,7 +59,6 @@ stance: >-
   leveling a major source of China's technological advantage.
 related:
   - INS-260330-83D5
-  - INS-260403-F60C
   - INS-260403-225F
   - PRI-260328-8317
   - INS-260404-6BD6
@@ -68,6 +67,7 @@ related:
   - INS-260605-A803
   - INS-260403-7DF4
   - INS-260605-24AC
+  - INS-260627-D61C
 ---
 One of Smith's four updated skepticism factors is that the rapid emergence of capable AI agents makes China's technological position less defensible than it appeared even 12 months ago. China's edge in technology competition has partly rested on a massive pool of technically-trained workers who can execute at scale — an advantage that is expensive and slow to replicate in smaller economies.
 

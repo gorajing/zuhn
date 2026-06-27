@@ -64,6 +64,7 @@ related:
   - INS-260409-4290
   - INS-260627-3481
   - INS-260514-71A3
+  - INS-260627-B072
   - INS-260625-B67E
 ---
 Jordan's framing: traditional design flow was Figma static asset → engineering handoff → code → final UI. The new flow has been vibe-coding-direct-to-code — but designers lose track of what they iterated on, and there's no way to refine direction visually before committing to code. Paper.app fills this gap: a design canvas where Claude Code generates and you can manually adjust, both directions stay in sync, and you commit to the code only when you've found the right direction visually.
