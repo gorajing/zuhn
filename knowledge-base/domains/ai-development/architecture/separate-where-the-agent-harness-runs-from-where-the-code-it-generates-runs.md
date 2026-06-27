@@ -57,6 +57,7 @@ related:
   - INS-260626-09E1
   - INS-260626-5B28
   - PRI-260426-890F
+  - INS-260626-CC4A
 ---
 Ubl argues that the AI ecosystem is 'marching head on into a security nightmare' reminiscent of 1999, where essentially everything is hackable. His concrete example: almost all currently popular agent harnesses have the wrong architecture because they conflate where the harness runs with where the agent-generated code executes. The fix is to isolate code execution — give the agent a computer (a sandbox) without giving it your computer — which is why sandboxes have become a near-meme in the space and why he built 'just bash,' a TypeScript bash interpreter with near-instant startup.
 

@@ -11,7 +11,6 @@
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
-- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260405-6C88` Agent memory splits into short-term (conversation state), long-term (extracted durable knowledge), and reasoning (tool/decision traces for explainability).
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260605-2186` Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
@@ -24,16 +23,17 @@
 - `INS-260605-E193` The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap.
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
+- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260626-6767` Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.
 - `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.
+- `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.
 - `INS-260410-B3C4` When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
 - `INS-260423-2B80` Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
 - `INS-260605-44E5` When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
-- `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260626-6F00` Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security.
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260626-D768` When anyone can spin up an agent, the winners are the platforms that make agent behavior visible, debuggable, and editable.

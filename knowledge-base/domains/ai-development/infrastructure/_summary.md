@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 89 insights
+> 90 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -85,6 +85,7 @@
 - `INS-260605-A4F1` [medium] A unified model file format that runs unchanged on Android, iOS, macOS, Linux, Windows, web, and IoT collapses the cost of supporting many devices.
 - `INS-260605-44E5` [medium] When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
 - `INS-260405-D638` [medium] Starcloud's orbital GPU clusters use solar power and vacuum cooling to eliminate the cost structure of terrestrial AI infrastructure.
+- `INS-260626-354E` [medium] Concurrency plans should read live provider limits before fan-out.
 - `INS-260605-DF82` [medium] For agents running real development tasks, prefer VMs over containers because containers leak across the isolation boundary and create noisy-neighbor compute contention.
 - `INS-260605-D78B` [medium] Serverless GPU containers remove the need to own and isolate a training cluster, letting you fan out, kill unpromising runs, and pay only for what you use.
 - `INS-260424-F8BB` [medium] Google Cloud lead: the worst failures are not fail-stop but silent data corruption — one chip silently gets the computation wrong every once in a while, and one chip's error goes to everybody.

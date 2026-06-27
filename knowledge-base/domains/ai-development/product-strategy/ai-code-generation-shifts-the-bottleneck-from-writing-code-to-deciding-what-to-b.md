@@ -54,6 +54,7 @@ related:
   - PRI-260407-590E
   - PRI-260406-72B3
   - INS-260403-EDA1
+  - INS-260626-01AD
 ---
 Mike Krieger reports that 90-95% of code for some Anthropic products is now AI-written, and the transformation happened faster than anyone expected. The bottleneck has shifted from 'can we build it?' to 'should we build it?' and 'can we get it merged and deployed?'
 

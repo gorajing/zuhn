@@ -60,6 +60,7 @@ related:
   - INS-260412-7728
   - INS-260626-8C3C
   - INS-260323-7F3E
+  - INS-260626-354E
 ---
 Lopopolo's pragmatic warning: plan mode (agent produces plan first, human approves, then agent executes) sounds good but breaks under the standard human behavior of approving plans without actually reading them. The user is then committing to a rollout potentially based on bad reasoning. The fix: push plans up as standalone PRs where every line is reviewable, block on human approval, then merge → execute. If you find yourself approving plans without reading, either stop using plan mode or institute the PR-review discipline. Lopopolo personally doesn't use plan mode much: 'my expectation is I should be able to drop a ticket in and have it do the job anyway without diverting through a plan, because most of the time I'm never going to read it anyway.'
 

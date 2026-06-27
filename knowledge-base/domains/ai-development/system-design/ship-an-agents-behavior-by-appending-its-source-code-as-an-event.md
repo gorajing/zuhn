@@ -65,7 +65,6 @@ related:
   - INS-260605-E303
   - INS-260605-C122
   - INS-260625-6FC0
-  - INS-260625-73BD
   - INS-260625-1C5E
 ---
 The most ambitious idea in the workshop: a stream that 'knows nothing about the world' becomes an agent the instant you append a single event whose payload is a string of JavaScript defining a reducer and after-append hook. The platform runs it (in Cloudflare dynamic workers) on every subsequent event, 'horizontally scalable,' with no server deployment. The ~40 lines for a basic OpenAI agent can be bundled into an event, and appending it to any stream makes that stream an agent.

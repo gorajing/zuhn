@@ -2,6 +2,7 @@
 
 - `INS-260410-4067` Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
 - `INS-260410-9B0E` Anthropic's incident log shows the real-world dangers come from agents helpfully exceeding scope, not from hostile reasoning.
+- `INS-260403-834C` Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260403-949E` Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260409-42F2` Hassabis says the real safety crunch arrives in 1-2 years when systems become meaningfully agentic and autonomous.
 - `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
@@ -48,7 +49,6 @@
 - `INS-260403-F4ED` Alignment difficulty stems from the nature of human values (sparse, contradictory, contextual), not from insufficient technical capability.
 - `INS-260410-FF8B` Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.
 - `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
-- `INS-260403-834C` Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260626-39CE` OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment.
 - `INS-260410-CDDD` You cannot deploy powerful AI systems until a human indemnifies their actions — the legal infrastructure of liability, property, and rights is the real deployment bottleneck, not compute or alignment research.
 - `INS-260412-4233` ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
@@ -64,14 +64,13 @@
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260626-4C42` The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck.
 - `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
-- `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
-- `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
-- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
+- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
-- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260405-BE58` Co-founder chemistry is infrastructure — misalignment there propagates into every downstream decision.
+- `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
+- `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
 - `INS-260403-22BB` A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
@@ -80,7 +79,8 @@
 - `INS-260410-899C` Every early Walmart store was its own partnership, and the manager was a real dollar-invested equity partner — making the alignment immediate and scoped to their own performance.
 - `INS-260403-7BCF` Every team member holds a unique mental model of the problem, and without forced alignment the team builds toward different goals.
 - `INS-260405-8646` Product KPIs need to be designed for four audiences at once: product team, stakeholders, executives, and customers.
-- `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
 - `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
+- `INS-260403-30FF` Clear organizational vision replaces coordination overhead — everyone already knows what to build without being told.
+- `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

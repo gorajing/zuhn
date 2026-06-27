@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 5929 actionable insights
+Generated on 2026-06-27 | 5936 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -394,6 +394,9 @@ Generated on 2026-06-27 | 5929 actionable insights
 - [INS-260626-E803] Anyone selling a single solution to agent connectivity (just MCP, just CLI, just computer use) is wrong — each has a distinct best-fit job and good agents use all of them together.
 - [INS-260626-E00F] Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
 - [INS-260626-2D64] Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
+- [INS-260626-CC4A] Record harness adapter identity whenever comparing agent runs.
+- [INS-260626-2F2E] Record the exact code-execution tool version whenever an agent composes tools through code.
+- [INS-260626-8A80] AgentRun should trace remote subagent handoffs as state transitions, not opaque tool calls.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -749,6 +752,9 @@ Generated on 2026-06-27 | 5929 actionable insights
 - [INS-260626-C563] Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 - [INS-260626-BC5E] A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 
+## ai-development/code-review
+- [INS-260626-CD36] Treat root AGENTS.md as a tested review-policy artifact.
+
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
 - [INS-260603-50B1] Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
@@ -769,6 +775,7 @@ Generated on 2026-06-27 | 5929 actionable insights
 
 ## ai-development/evals
 - [INS-260626-484B] For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
+- [INS-260626-B04D] AgentRun evals should include effort metrics, detours, and environment revisions.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -994,6 +1001,7 @@ Generated on 2026-06-27 | 5929 actionable insights
 - [INS-260626-A08F] Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
 - [INS-260626-411D] Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.
 - [INS-260626-FBB1] A flyweight model with code execution drew correct Lego-brick bounding boxes 'right out of the gate' for a fraction of a penny — faster and cheaper than the larger model that reached the same answer.
+- [INS-260626-01AD] Do not hard-code provider speed knobs without a capability check and migration path.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -1259,6 +1267,9 @@ Generated on 2026-06-27 | 5929 actionable insights
 - [INS-260625-CA6E] A long-horizon run produces hundreds of millions of tokens of behavior; reporting only 'it made $X' throws away the lying, collusion, and breakdown patterns that actually matter.
 - [INS-260625-3E47] SWE-RL adds related files that aren't changed by the PR so the model learns that relevance does not imply a required edit.
 - [INS-260626-21B7] Curating the training data is frequently a better investment of effort than tuning the model, but academic incentives train researchers to ignore data.
+
+## ai-development/security
+- [INS-260626-F069] Approval records should include tool authority and runtime boundary.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.

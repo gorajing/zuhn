@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 397 insights
+> 400 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -291,6 +291,7 @@
 - `INS-260625-6FC0` [medium] Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
 - `INS-260625-0A7D` [medium] MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` [medium] User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
+- `INS-260626-CC4A` [medium] Record harness adapter identity whenever comparing agent runs.
 - `INS-260501-B7BC` [medium] We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260605-A705` [medium] Always commit before an agent starts changing code, because it may not remember what the code looked like before.
 - `INS-260605-77EB` [medium] Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
@@ -351,6 +352,7 @@
 - `INS-260530-AA02` [medium] PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries.
 - `INS-260626-43C9` [medium] Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
 - `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.
+- `INS-260626-2F2E` [medium] Record the exact code-execution tool version whenever an agent composes tools through code.
 - `INS-260626-78E6` [medium] CLI access, keyword tool-search, and code mode all solve the same problem — never load all tools at once — so choose by constraints, not as rival camps.
 - `INS-260605-800F` [medium] Onboard agents like new hires — assign a task first and let them pull the knowledge they're missing, rather than graduating them on all documentation before any work.
 - `INS-260514-33FB` [medium] Build a fleet of narrow purpose-built agents (one per channel × intent type) rather than one general agent — specialization improves output quality and per-client modifications stay isolated.
@@ -358,6 +360,7 @@
 - `INS-260605-44E2` [medium] Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
 - `INS-260402-5CF0` [medium] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 - `INS-260405-02BE` [medium] Storing rejection events alongside successful retrievals lets agents learn what not to suggest, creating a temporal record of evolving preferences.
+- `INS-260626-8A80` [medium] AgentRun should trace remote subagent handoffs as state transitions, not opaque tool calls.
 - `INS-260626-7F36` [medium] LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260605-F700` [medium] Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - `INS-260626-778F` [medium] NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.

@@ -57,12 +57,12 @@ related:
   - INS-260514-6DF3
   - INS-260524-63C9
   - INS-260603-73D5
-  - INS-260605-A705
   - INS-260625-14F9
   - INS-260625-ACBC
   - INS-260626-9155
   - INS-260530-D34F
   - PRI-260406-3EF8
+  - INS-260626-5375
 ---
 Codex's reviewer spins up a fresh process with a dedicated review system prompt and, crucially, does not limit itself to the diff or the list of changes — it contextualizes the changes against everything in the repo. The presenter's claim is that this is exactly why it surfaces second-order effects: changes whose consequences land in modules the author never touched in the PR. That whole-repo reasoning is the stated reason 100% of pull requests across all OpenAI repos are auto-reviewed by Codex as the mandatory first pass.
 

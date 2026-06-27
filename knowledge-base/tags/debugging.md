@@ -2,12 +2,11 @@
 
 - `INS-260403-643A` AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260626-CF64` Run a little user research where the user is the robot: at the stop hook ask 'what could we have done better to set you up for success?' and let it tell you what you broke.
+- `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
 - `INS-260410-E3BB` A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
-- `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
 - `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
-- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
 - `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
 - `INS-260605-36E9` Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
@@ -17,12 +16,13 @@
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
+- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
-- `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
-- `INS-260410-8092` Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260410-FD24` Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
 - `INS-260330-2154` When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
+- `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
+- `INS-260410-8092` Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260625-43B3` He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
 - `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
 - `INS-260410-F08E` BatchNorm layers harbor hidden state (running stats, train/eval mode, cross-batch coupling) that silently corrupts outputs when any one of them is misconfigured, making them a top source of subtle deep-learning bugs.

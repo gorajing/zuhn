@@ -10,6 +10,8 @@
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260626-49B6` Trying to change a paradigm rather than execute a known playbook calls for creative people with unconventional backgrounds, whose experience suggests such people can do amazing things and change the world.
 - `INS-260327-7349` Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
+- `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260320-A1D3` Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
 - `INS-260403-FA12` Early hires define company culture and execution speed more decisively than any strategic or product decision.
@@ -25,8 +27,6 @@
 - `INS-260322-627E` Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
 - `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
-- `INS-260403-26CD` Top accelerators prioritize diverse, complementary teams over solo founders in their selection process.
-- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260410-6D83` Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
 - `INS-260323-9A93` Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.

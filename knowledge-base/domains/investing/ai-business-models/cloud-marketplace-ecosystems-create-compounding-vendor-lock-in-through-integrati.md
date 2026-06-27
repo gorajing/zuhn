@@ -63,6 +63,7 @@ related:
   - PRI-260407-E7CD
   - INS-260330-5C64
   - INS-260403-86BF
+  - INS-260626-01AD
 evidence:
   - id: INS-260322-642F
     type: CHALLENGES

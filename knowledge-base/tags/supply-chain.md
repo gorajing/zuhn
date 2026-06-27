@@ -1,10 +1,10 @@
 # Tag: supply-chain
 
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
+- `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
+- `INS-260626-0E8C` Blocklists should trace to real incident patterns and carry an explicit maintenance burden.
 - `INS-260410-46BB` AI labs are one permit denial or one Amazon/Nvidia side conversation away from existential pressure, regardless of their own government contract status.
 - `INS-260322-8147` The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
-- `INS-260626-0E8C` Blocklists should trace to real incident patterns and carry an explicit maintenance burden.
-- `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
 - `INS-260626-C563` Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 - `INS-260625-7365` Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 - `INS-260410-D593` Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
@@ -40,7 +40,6 @@
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260404-2AD7` China banning foreign AI chips from state data centers and the US securing $1.4B in rare-earth deals indicate a permanent split in AI hardware supply chains.
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
-- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260403-2E12` Everything from EVs to drones to robots draws on the same batteries, sensors, motors, and compute that the smartphone ecosystem industrialized at scale.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
@@ -51,11 +50,12 @@
 - `INS-260403-DD63` Apple keeps 60-70% margins not by manufacturing itself, but by exerting pricing power over its suppliers.
 - `INS-260403-8194` Tariffs up to 34% on China/Taiwan/Korea imports are forcing hardware startups to shift from cost-optimized to resilience-optimized supply chains.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
+- `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260412-3978` Eliminating ground transport forces all physical goods through air freight, creating massive cost premiums proportional to weight and bulk rather than intrinsic value.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
 - `INS-260412-F414` Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
-- `INS-260410-6BFF` Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.
 - `INS-260330-EA23` Domino's centralized all ingredient preparation into hub facilities, enabling individual stores to be much smaller and cheaper while maintaining consistent quality across thousands of locations.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260412-846C` Samsung makes the chips inside competitors' phones AND their own phones, giving them cost advantages, supply chain leverage, and deep technical knowledge that compounds over time.
+- `INS-260410-6BFF` Pick a shockingly low target price first, then reinvent every step of the supply chain to make that price possible.

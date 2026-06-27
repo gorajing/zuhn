@@ -5,6 +5,7 @@
 - `INS-260525-3A9A` Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
 - `INS-260501-E377` Amjad Masad: when we released agent v2, we had to delete a lot of that code because the models got a lot better at staying consistent — autonomy is now built into the model, not the infrastructure.
 - `INS-260605-0312` A harness must deterministically inspect the trace of tool calls to confirm what actually happened, because the model will claim it succeeded even when it failed.
+- `INS-260626-CC4A` Record harness adapter identity whenever comparing agent runs.
 - `INS-260605-07E5` Build a state machine with gates between agents so steps can't be skipped, instead of trusting prompt instructions the model can ignore.
 - `INS-260605-C9E8` Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
 - `INS-260605-8C71` Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.

@@ -28,8 +28,8 @@
 - `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-48F7` When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
-- `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260626-9A39` When Kenton told a model to play tic-tac-toe by inspecting a canvas's array of strokes rather than generating a tic-tac-toe app, it recognized the board from raw state and played — with zero tic-tac-toe code anywhere in the system.
+- `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260626-A2B9` Centralize planning and decisions in one agent and expose capabilities as tools — each tool can carry its own system prompt, validation logic, and even its own LLM call — so the global context stays intact in the decision-maker.
 - `INS-260626-15F3` Use the LLM for understanding and connection-making; for fixed if-this-then-that rules use scripts and skip the model entirely.
 - `INS-260409-A3EC` The KB is a curated prior; agents should still fetch fresh web content to supplement it.

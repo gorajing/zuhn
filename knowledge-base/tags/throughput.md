@@ -1,6 +1,7 @@
 # Tag: throughput
 
 - `INS-260624-02AB` Deterministic kernels are a stability tool, not merely a reproducibility preference.
+- `INS-260626-354E` Concurrency plans should read live provider limits before fan-out.
 - `INS-260605-E831` When batched requests have uneven token counts and are all padded to the maximum length, the model burns compute on empty padding tokens — variable-length flash attention avoids padding so no compute is wasted.
 - `INS-260605-FE37` Diffusion does multiple forward passes over the same data, so it hits the compute ceiling earlier in large batches — lower latency per user but lower total throughput and higher cost.
 - `INS-260625-429B` You don't need million-token contexts to benefit from memory analysis — understanding the budget lets you reinvest freed memory into faster training.

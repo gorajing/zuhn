@@ -59,6 +59,7 @@ related:
   - INS-260626-9BC5
   - INS-260626-4639
   - PRI-260426-890F
+  - INS-260626-CC4A
 ---
 Sampath's forward-looking thesis is that the agent harness should not be tightly coupled to how an enterprise's data and MCP servers are structured. With an explosion of agents and surfaces coming, the 'orange box' (the agent) and the data/MCP layer should be mutually un-opinionated. A gateway is what enforces this separation: it presents a stable interface that agents listen to, regardless of how the underlying servers are organized.
 

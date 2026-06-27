@@ -55,7 +55,7 @@ related:
   - INS-260625-0A79
   - INS-260605-9276
   - INS-260501-F258
-  - INS-260501-E377
+  - INS-260626-2F2E
   - INS-260409-9296
 stance: >-
   Making an AI agent aware of its own source code, harness, documentation, and

@@ -2,9 +2,9 @@
 
 - `INS-260409-11E7` Felt-effortfulness in goal pursuit is a signal of internal resistance to the goal, not evidence of dedication.
 - `INS-260409-F7F8` People who brag about not trying are losing and sensing it — the mockery of effort is self-protection against their own avoidance.
+- `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260402-F04F` People prefer to believe in innate genius because it absolves them of the responsibility to try harder.
-- `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260409-C3B3` Out-caring competitors is the only high-leverage moat that isn't gated by scarcity — anyone can occupy that ranking.
 - `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
 - `INS-260329-CBF3` The market rewards what is required, not what you tried — if your best isn't enough, the answer is to become better, not to feel good about falling short.

@@ -55,6 +55,7 @@ related:
   - INS-260321-E2FC
   - INS-260605-3553
   - INS-260403-A1FA
+  - INS-260626-8A80
 ---
 Rather than a single message type, MCP Apps define a spectrum representing 'how much control the UI wants for itself and how much control it gives to the host.' A notification is the highest UI control — incrementing a cart count goes back to Shopify and merely tells the host something happened. A tool call is the UI instructing the host to call a specific tool. A prompt is the UI 'releasing all control,' telling the host 'just run this prompt and see what happens.'
 

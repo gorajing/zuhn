@@ -54,6 +54,7 @@ related:
   - INS-260605-3AFB
   - INS-260625-8A55
   - INS-260322-D1AB
+  - INS-260626-B04D
   - INS-260605-09E0
 ---
 Debois warns that the obvious instinct — drop evals into CI/CD and gate on pass/fail — breaks against non-determinism. Run the same eval twice and it can give different results, so a single run that happens to pass tells you nothing reliable and leaves you unable to debug intermittent failures. The fix is statistical: run each test N times (he uses five) and measure how many succeed. Some tests hit 100% every run; others are flaky by nature, and which ones pass shifts as you edit context.

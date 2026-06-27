@@ -55,6 +55,7 @@ related:
   - INS-260323-EECF
   - INS-260412-C17E
   - INS-260605-72B5
+  - INS-260626-354E
 stance: >-
   Unlike previous platform shifts where physical limits were known (modem
   speeds, battery life, fiber deployment), AI's theoretical limits are unknow...

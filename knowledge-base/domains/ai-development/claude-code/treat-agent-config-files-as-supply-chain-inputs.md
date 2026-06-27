@@ -48,6 +48,7 @@ related:
   - INS-260626-E56B
   - INS-260626-F5AE
   - INS-260626-ACD0
+  - INS-260626-F069
 ---
 Madatha's prevalence study found that agent configuration files propagate as undeclared shared components: 10.1% of tracked config paths were exact duplicates across independent repositories after fork adjustment, and 75.5% of clone pairs crossed organizational boundaries. That makes AGENTS.md, CLAUDE.md, Cursor rules, and similar files closer to dependencies than notes.
 
