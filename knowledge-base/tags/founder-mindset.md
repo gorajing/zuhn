@@ -1,10 +1,10 @@
 # Tag: founder-mindset
 
 - `INS-260405-83F0` VC funding cycles and business growth timelines rarely align — this is a known structural property that founders and investors must plan around.
-- `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
 - `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
 - `INS-260403-1BEF` Feeling unseen as a founder usually means you've evolved faster than your environment has noticed — it's a growth signal, not a failure signal.
 - `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
+- `INS-260403-3442` Consuming startup advice feels like progress but produces fragmented thinking and delays execution.
 - `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260410-DDD0` When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.

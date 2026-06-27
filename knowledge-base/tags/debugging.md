@@ -15,8 +15,8 @@
 - `INS-260411-BCB0` Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
-- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
+- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - `INS-260627-1297` Empower support to ship fixes with AI codegen — they hold three structural advantages engineers lack, and it doubles as an engineering pipeline.
@@ -25,10 +25,10 @@
 - `INS-260410-FD24` Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
 - `INS-260330-2154` When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
 - `INS-260625-43B3` He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
-- `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
 - `INS-260410-F08E` BatchNorm layers harbor hidden state (running stats, train/eval mode, cross-batch coupling) that silently corrupts outputs when any one of them is misconfigured, making them a top source of subtle deep-learning bugs.
-- `INS-260627-54A4` These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up.
+- `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
 - `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
+- `INS-260627-54A4` These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up.
 - `INS-260627-7122` Automate the context-gathering phase of debugging first — it dominates the time and is where an LLM adds the most value.
 - `INS-260625-FC2D` Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - `INS-260505-1606` Models on biological data quietly learn the biases of the experiments — interpretability catches that.

@@ -38,6 +38,7 @@
 - `INS-260605-E516` Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
 - `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260605-DDAB` Diarization can't assume a fixed number of speakers or stable labels, and must handle overlap, short turns, and speaker imbalance — which is why it remains unsolved.
+- `INS-260627-C628` The durable claim is not 'AI scored HER2,' but 'AI reduced dependence on bulky whole-slide scanning hardware.'
 - `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260625-1022` Semantic search gave Cursor 12.5–13.5% answer-accuracy gains across models (≈24% on the pre-Composer-2 model), yet online AB metrics looked small (2.6% retention, 2.2% fewer dissatisfied requests) only because most queries don't trigger the tool.
 - `INS-260627-2863` A model's tendency to find spurious 'nooks and crannies' degrades judges but is exactly what optimizers harness to lift task performance.
@@ -90,13 +91,13 @@
 - `INS-260605-15B8` Turn harness edits into falsifiable contracts, not untracked tweaks.
 - `INS-260330-B153` Score translation quality without reference translations by training a separate quality estimation model on human error judgments
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
-- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit.
 - `INS-260625-D26E` The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
-- `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
-- `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
+- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
+- `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
+- `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
 - `INS-260501-93DD` Taste = honest evaluation of quality. No honesty, no taste. No taste, no excellence. Taste isn't optional.
 - `INS-260403-5EE3` Applying finished-work standards to early-stage projects is a category error that destroys ambitious work.
 - `INS-260404-4127` Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.

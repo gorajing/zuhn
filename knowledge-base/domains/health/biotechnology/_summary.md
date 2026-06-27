@@ -1,8 +1,9 @@
 # Topic: biotechnology
 
-> 31 insights
+> 33 insights
 
 - `INS-260625-0F13` [high] The 83-of-213 validation hit rate is important because the source also reports structural dissimilarity, MDR potency, selectivity, and low resistance frequency for the lead compounds.
+- `INS-260627-CE7F` [high] The HER2 system shows AI changing the pathology cost curve by replacing high-end optics with lensfree sensing plus learned inference.
 - `INS-260505-D52C` [high] AI-generated phage cocktail beats natural phage cocktail at overcoming bacterial resistance.
 - `INS-260405-0AE7` [high] IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
 - `INS-260505-AA8C` [high] AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
@@ -13,6 +14,7 @@
 - `INS-260412-4441` [high] CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
 - `INS-260409-F9D5` [high] The bottleneck is integrating disparate fields, not advancing any one of them.
 - `INS-260505-1165` [high] Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text.
+- `INS-260627-9BA6` [high] HER2 2+ was the hard class, so the paper's useful evidence is the improvement on equivocal cases, not just aggregate accuracy.
 - `INS-260505-50AC` [high] A variant 700kb from a gene can dramatically change that gene's activity — interpretation models need that range built in.
 - `INS-260627-01E1` [high] Microrobot autonomy improves when RL is trained against the deployment physics, not toy channels.
 - `INS-260505-45B7` [high] Variants causing disease usually live in the ~150x more numerous regulatory elements (3.5-4M) than in genes (20K).

@@ -30,8 +30,8 @@
 - `INS-260329-63DD` Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.
 - `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
-- `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260514-3559` Authenticity ≠ originality. Copy working formats; add your authentic spin. Trying to invent novel formats from scratch keeps you in the cocoon forever. Mr Beast himself copies what works and adds his style.
+- `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260320-630D` Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.

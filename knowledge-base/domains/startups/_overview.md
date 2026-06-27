@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4875 insights across 55 topics
+> 4876 insights across 55 topics
 
 ## Topics
 
@@ -30,7 +30,7 @@
 | growth | 114 | When an AI product cuts process time by 92%, the switching cost of NOT adopting it exceeds the cost of change, driving organic product-led growth. |
 | growth-marketing | 158 | 2026 YouTube algorithm: subscriber QUALITY matters more than quantity. Mom subscribing (she watches K-drama) tells the algorithm 'K-drama viewers want my content' → wrong audience served → de-prioritized. Don't bootstrap with friends/family. |
 | growth-strategy | 83 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
-| health-innovation | 18 | The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone. |
+| health-innovation | 19 | The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone. |
 | hiring | 79 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 92 | Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses. |
 | innovation | 148 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |

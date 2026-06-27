@@ -30,11 +30,11 @@
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260404-D6EE` Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - `INS-260405-A6E1` The data is showing mega funds beating middle-market funds, inverting a long-held VC narrative.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260403-DEB6` Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260404-BE07` A great programmer doesn't do the same work faster — they invent things an ordinary programmer would never even think of.
 - `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260327-7581` Focus on doing the work well rather than achieving the result, and the result takes care of itself.

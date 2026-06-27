@@ -51,5 +51,6 @@ related:
   - INS-260626-F5E2
   - INS-260627-FEBB
   - INS-260403-4DFB
+  - INS-260627-C628
 ---
 The paper reports model performance metrics, but the more important evidence is that a flowering-time regulatory variant prediction was confirmed with a high-throughput reporter assay. This is the evaluation pattern to copy: use computational metrics for model selection, then reserve confidence for predictions that survive a domain-native measurement loop.

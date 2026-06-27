@@ -19,8 +19,8 @@
 - `INS-260327-35C7` Physical AI will develop reasoning in trajectory and motion space, complementing text-based reasoning and potentially improving LLMs in return.
 - `INS-260627-6E3C` A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
 - `INS-260321-703F` Instead of 'write me X', ask 'what makes X work well?' then 'what principles apply here?' then 'now do it for my case' — the model reasons before generating instead of pattern-matching to common outputs.
-- `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260627-FFC8` KVarN's cache pipeline rotates and variance-normalizes each tile before low-bit rounding.
+- `INS-260403-5F41` Prompting 'think step by step: identify the issue, evaluate solutions, then recommend based on cost and feasibility' forces the model to reason rather than pattern-match to an answer.
 - `INS-260410-0EFE` A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
 - `INS-260410-939B` Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - `INS-260605-91A9` The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.

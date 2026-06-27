@@ -47,12 +47,12 @@
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260627-4446` Web MCP lets a site register typed tools on the navigator object so agents call named actions directly, instead of mimicking human clicks via screenshots and coordinate-guessing.
-- `INS-260627-8530` GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260626-14A2` Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
 - `INS-260409-94D6` Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260327-9C56` Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
+- `INS-260627-8530` GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - `INS-260626-B833` The old rule was 'know your dataset cold'; the new move is to let the meta-system analyze the data, find failure modes, and generate strategies — even when its outputs look nothing like what a human would write.
 - `INS-260412-B89F` At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
@@ -75,6 +75,7 @@
 - `INS-260626-B09B` AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax.
 - `INS-260625-D729` Autonomous workflows become more useful when objectives match the field, not a toy proxy.
 - `INS-260626-4320` Shared multi-label models can replace brittle one-model-per-target workflows.
+- `INS-260627-5B61` The HER2 ensemble favored high-confidence positive calls because false negatives can deny targeted therapy.
 - `INS-260627-110A` Masked IRL matched or beat baselines with up to 4.7x fewer demonstrations by using language to constrain which state features mattered.
 - `INS-260627-8738` A well-shaped task field can coordinate simple agents without messaging.
 - `INS-260405-E34C` Doorways, staircases, and tools are built for human dimensions — a humanoid robot inherits compatibility with all existing infrastructure at no cost.

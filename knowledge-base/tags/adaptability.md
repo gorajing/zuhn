@@ -25,5 +25,5 @@
 - `INS-260626-1745` Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
-- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
+- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.

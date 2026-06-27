@@ -24,6 +24,8 @@
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
 - `INS-260404-0EE0` Startups that track only revenue and signups miss the early warning signals—return rates, cancellation trends, AOV drops—that predict failure.
+- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
+- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260404-3771` Find what sticky users do differently, then make every new user do that thing.
 - `INS-260403-2A8B` Aggregate churn rates mask divergent cohort performance, hiding both critical problems and meaningful improvements.
@@ -36,8 +38,6 @@
 - `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
 - `INS-260403-9863` A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
-- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
-- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
@@ -61,8 +61,8 @@
 - `INS-260327-A814` After the initial close, future-pace the customer: 'People love texting me when they hit their first milestone -- would you keep me in the loop on your transformation?' This cements commitment and shifts you from sales rep to partner.
 - `INS-260403-B6F2` Retention, upsells, and product stickiness are the three compounding levers for CLTV that outperform CAC reduction strategies long-term.
 - `INS-260404-A19C` Retention, not acquisition, is the linchpin of durable ARR growth in SaaS.
-- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.
 - `INS-260403-C837` If Day 1 retention stays under 10% and no cohort flattens across segments, stop A/B testing buttons and rethink the core value proposition.
 - `INS-260403-E1E0` Product-market fit is proven by users staying and returning, not by how many you acquire or how much press you generate.
 - `INS-260403-14E0` Superhuman built a Minimum Lovable Product instead of an MVP, testing whether users loved it rather than whether it worked, and the resulting word-of-mouth created a massive waitlist.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260404-C13E` Costco pays double the retail average but gets triple the productivity — high wages are an investment with measurable ROI.

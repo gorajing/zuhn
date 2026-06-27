@@ -21,5 +21,5 @@
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260625-67F1` On the Claude Code team every single person — EM, PM, designers, data scientist, finance, user researcher — writes code.
 - `INS-260605-3B06` Sprint planning, standups, refinement, and retros are coordination tax that agentic workflows make redundant — cut them.
-- `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
+- `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.

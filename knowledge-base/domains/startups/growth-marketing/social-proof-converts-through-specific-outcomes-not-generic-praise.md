@@ -53,7 +53,6 @@ stance: >-
   2' convert significantly more than generic praise like 'love the product'
   because they map to specific product benefits
 related:
-  - INS-260403-E21C
   - INS-260322-3C3D
   - INS-260329-7B56
   - INS-260403-6CE6

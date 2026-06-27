@@ -20,12 +20,12 @@
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260410-8BF9` No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
 - `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
+- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
 - `INS-260404-70DE` Prediction markets reached mainstream scale by distributing through platforms with 100M+ existing accounts rather than acquiring users directly.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260403-05CE` The stealth-to-public transition demands a structured launch blueprint: working backwards from a date, building amplifier networks, scheduling publishing waves, and shipping a follow-up within 30 days.
-- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260410-8C24` Microsoft sold to the enterprise by leveraging the fact that employees had already smuggled Excel and Word into their offices personally — turning employee love into the wedge for top-down enterprise deals.
 - `INS-260323-8896` Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
 - `INS-260403-CA42` Building distribution in parallel with product is now table stakes for startup survival, not a post-PMF optimization.
@@ -66,6 +66,6 @@
 - `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
 - `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
+- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
 - `INS-260603-2FB1` Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
-- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.

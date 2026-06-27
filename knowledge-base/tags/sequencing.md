@@ -15,6 +15,6 @@
 - `INS-260412-2785` F1 priority pallets contain wall panels and electrical systems — not the most valuable items, but the ones needed first for assembly.
 - `INS-260403-30BF` Industry digitization follows a fixed sequence: information layer first, then transactions, then operations.
 - `INS-260519-2A13` Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message.
+- `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260323-BEE6` GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
-- `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.

@@ -65,6 +65,7 @@ related:
   - INS-260603-6E59
   - INS-260605-015B
   - INS-260327-6E57
+  - INS-260627-7D01
 ---
 Natural images have a power-law magnitude spectrum (a straight line on a log-log plot, analogous to scaling laws in language). Gaussian noise, by contrast, has a flat spectrum — equal energy at all frequencies. When you add noise to an image, the noise floor first overwhelms the weak high-frequency components and only overwhelms the strong low-frequency components once the noise is large. So the diffusion corruption process destroys fine detail first and global structure last.
 

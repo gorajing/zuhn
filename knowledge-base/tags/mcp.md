@@ -86,10 +86,10 @@
 - `INS-260626-55E0` If ~60% of your users are already bots (as Vercel reports), your dashboards stop mattering and your APIs, CLIs, and MCPs become the real product surface.
 - `INS-260626-2170` Once building agents is easy, organizations drown in duplicate agents and MCP servers, making discoverability and governance the real scaling constraint.
 - `INS-260605-743D` Because one MCP App codebase runs across every compliant host (ChatGPT, Claude, VS Code, LibreChat), the standard is less a rendering protocol than an app-distribution channel to a 1B+ user audience.
-- `INS-260410-AB4A` Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
-- `INS-260627-DC30` If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
 - `INS-260605-A7C1` Companies resisted sending data to ChatGPT because text reduced them to an anonymous database; sending their own UI restores identity and makes participation worthwhile.
 - `INS-260625-4DE2` Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
+- `INS-260410-AB4A` Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
+- `INS-260627-DC30` If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
 - `INS-260627-5EB3` Going from local stdio to remote HTTP MCP flips you from zero security surface to OAuth, tokens, CORS, TLS, and rate limiting all at once, with no halfway house.
 - `INS-260627-2FFE` Move MCP auth from long-lived shared keys (confused-deputy risk) to short-lived scoped OAuth 2.1 tokens, token exchange, and CIMD-based verifiable client identity.
 - `INS-260627-9F3F` Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.

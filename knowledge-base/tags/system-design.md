@@ -25,6 +25,7 @@
 - `INS-260330-4C31` Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260625-DAE9` Do not optimize the model, scaffold, and eval suite as independent tracks.
+- `INS-260627-7D01` The HER2 paper treats color channels, propagation distance, ensemble size, and abstention thresholds as knobs in one measurement system.
 - `INS-260625-2088` Autonomy improves when the environment exposes a bounded action space with reliable execution.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260627-30F9` Treat your codebase as infrastructure designed for the agent: modularize, follow known patterns, remove hidden magic, and enforce it all with linting so the agent's strengths compound.
@@ -68,11 +69,11 @@
 - `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments.
 - `INS-260404-82B2` Renaissance's edge was the integration of sizing, hedging, and execution across thousands of instruments, not a single brilliant algorithm.
 - `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
-- `INS-260412-774E` After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
 - `INS-260403-5137` An 81.7% overturn rate on prior authorization denials means the system functions as a friction filter rather than a genuine decision-making process.
+- `INS-260412-774E` After crowd disasters, blame consistently falls on participant character rather than system design flaws, preventing real fixes.
 - `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
-- `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
+- `INS-260330-881A` The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260403-A9F3` Gerrymandering 6,641 tiny districts is computationally harder and more fragile than gerrymandering 435 large ones, and buying 0.02% of Congress per seat is less attractive than buying 0.23%.
 - `INS-260403-11F9` The 'data moat' is largely a fallacy—architectural feedback loops that compound over time are what actually create defensibility.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.

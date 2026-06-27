@@ -10,9 +10,9 @@
 - `INS-260330-DD63` Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
 - `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
 - `INS-260330-DDF0` Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
-- `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260405-4EAA` Silicon Valley's tolerance for weird ideas is a cultivated social custom that spread because it reliably produced better outcomes — not because its inhabitants are smarter or kinder.
 - `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
+- `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260403-7471` Startups fail by default everywhere — hubs succeed by providing enough positive interventions to counteract the natural death rate.
 - `INS-260403-8BBB` People dismiss ambitious ideas partly because they unconsciously hope you'll fail, since your success would threaten their relative status.
 - `INS-260404-9E63` Switch from listing reasons an idea won't work to imagining ways it could — especially in domains with power-law outcome distributions.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6147 actionable insights
+Generated on 2026-06-27 | 6149 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -719,6 +719,7 @@ Generated on 2026-06-27 | 6147 actionable insights
 - [INS-260627-37AF] In contact centers the average call lasts 6.5 minutes but after-call work takes 6.3 minutes — a near 1:1 ratio — so AI's leverage is in mechanizing the admin tail, not the conversation.
 - [INS-260627-4D17] Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - [INS-260627-3D9A] Deploy optimization agents to get better-than-baseline across the many unglamorous workloads experts can't reach, freeing scarce experts for the few hardest problems.
+- [INS-260627-C628] The durable claim is not 'AI scored HER2,' but 'AI reduced dependence on bulky whole-slide scanning hardware.'
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -895,6 +896,9 @@ Generated on 2026-06-27 | 6147 actionable insights
 - [INS-260627-1EC5] Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
 - [INS-260627-36DE] High-benchmark models often 'suck' when plugged into a real environment, so MiniMax watches downloads and OpenRouter token usage as the truer quality signal.
 - [INS-260627-B6D9] Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
+
+## ai-development/evaluation
+- [INS-260627-20D7] MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.

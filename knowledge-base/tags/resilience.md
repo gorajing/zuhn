@@ -14,19 +14,19 @@
 - `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
-- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
 - `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
 - `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
-- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
-- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
-- `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
+- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260412-8F97` Regardless of the triggering catastrophe, infrastructure collapses in a predictable sequence determined by dependency chains — ports first, then communications, then energy, then food supply.
 - `INS-260412-BBF8` Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
+- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260403-E1E9` Replit CEO Amjad Masad's six lessons on winning emphasize that progress compounds through clarity and consistency, not through shortcuts or hype cycles.
+- `INS-260403-5E03` Guy Kawasaki argues optimism means believing in your ability to shape reality, not ignoring it — a mindset that compounds through team inspiration and opportunity attraction.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.

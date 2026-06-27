@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 3710 insights across 50 topics
+> 3713 insights across 51 topics
 
 ## Topics
 
@@ -17,7 +17,7 @@
 | ai-capabilities | 182 | Ben Gilbert: a lot more AI tasks will start feeling synchronous instead of async — there's such a big difference in computing applications between something that feels instant versus not, and we can't yet predict what that unlocks. |
 | ai-market-dynamics | 192 | Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon. |
 | alignment | 114 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
-| applications | 82 | Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms. |
+| applications | 83 | Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms. |
 | architecture | 128 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 14 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
 | career-strategy | 2 | Engineers must move from writing code to orchestrating agents and dividing up work, but ~70% of surveyed companies haven't changed any role definitions — they assume people will 'just do things differently' while the formal role stays identical to two years ago. |
@@ -26,6 +26,7 @@
 | economics | 21 | Agent systems need spend control as much as capability control. |
 | embeddings | 31 | Different basis choices make different operations trivial or impossible in vector spaces. |
 | evals | 12 | AgentRun evals should include effort metrics, detours, and environment revisions. |
+| evaluation | 1 | MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome. |
 | foundation-models | 29 | Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters. |
 | future-of-work | 159 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 57 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
@@ -52,7 +53,7 @@
 | security | 22 | Approval records should include tool authority and runtime boundary. |
 | software-engineering | 10 | AI coding tools shift leverage from writing code to governing generated code. |
 | system-building | 323 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
-| system-design | 114 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
+| system-design | 115 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | tooling | 4 | Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context. |
 | training-dynamics | 26 | You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment. |

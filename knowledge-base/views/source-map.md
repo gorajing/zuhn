@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-27 | 3280 sources
+Generated on 2026-06-27 | 3281 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -245,6 +245,7 @@ Generated on 2026-06-27 | 3280 sources
 | World's Lightest Solid! | youtube | 8 | 2026-03-30 |
 | You’ll never escape life's problems. Why that’s actually liberating | Oliver Burkeman for BT+ | youtube | 8 | 2026-03-25 |
 | Your brain wasn't built to hold this much information | Richard Cytowic | youtube | 8 | 2026-03-25 |
+| Automated HER2 scoring with uncertainty quantification using lensfree holography and deep learning | paste | 7 | 2026-06-27 |
 | Chapter 2 | audio | 7 | 2026-05-25 |
 | Jongmin Sung | audio | 7 | 2026-05-24 |
 | Keynote   Dario Gil | audio | 7 | 2026-05-06 |

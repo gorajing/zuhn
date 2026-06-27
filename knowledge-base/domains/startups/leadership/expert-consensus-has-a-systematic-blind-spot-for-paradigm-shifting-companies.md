@@ -57,6 +57,7 @@ related:
   - INS-260626-4555
   - INS-260605-4FE3
   - INS-260323-15F4
+  - INS-260627-9BA6
 ---
 Karp makes a sweeping claim: he can't name a single expert class that's been right about anything substantive in 20 years. Financial analysts said Palantir's model wouldn't work. Foreign policy experts said tech wouldn't determine geopolitical outcomes. The pattern he identifies is that credentialed experts optimize their predictions for social acceptability within their peer group rather than accuracy.
 

@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 114 insights
+> 115 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -73,6 +73,7 @@
 - `INS-260625-5124` [medium] The electric grid's history shows that the most enduring coordinators never owned their own generation — they pooled uncorrelated anchor demand and let participants share base load while scheduling their spikes.
 - `INS-260625-DAE9` [medium] Do not optimize the model, scaffold, and eval suite as independent tracks.
 - `INS-260619-CBFA` [medium] Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
+- `INS-260627-7D01` [medium] The HER2 paper treats color channels, propagation distance, ensemble size, and abstention thresholds as knobs in one measurement system.
 - `INS-260605-8F3D` [medium] Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260514-0226` [medium] Code is the compiled artifact. The spec + harness is the source. LLM is the fuzzy compiler. Swap models = swap compiler backend.
 - `INS-260605-59FE` [medium] The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.

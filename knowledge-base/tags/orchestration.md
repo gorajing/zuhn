@@ -41,10 +41,10 @@
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.
 - `INS-260605-9976` One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260605-82C6` The single 'any-to-any' model is a vision; in practice a reasoning model routes to separate image and speech generators.
-- `INS-260625-BD36` Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
-- `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260421-60D9` Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
 - `INS-260625-F9B2` Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste.
+- `INS-260625-BD36` Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results.
+- `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260619-CBFA` Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 - `INS-260605-A8A9` Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
 - `INS-260605-004A` Merging diarization and STT outputs is hard because their timestamps disagree, STT mistranscribes overlaps, and each can detect speech the other misses — so it needs a real reconciliation layer.

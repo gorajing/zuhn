@@ -42,6 +42,6 @@
 - `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
 - `INS-260405-790A` Effective sales pitches follow a setup phase that frames the buyer's world, then a differentiated value phase that proves why your solution uniquely fits it.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
-- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.
 - `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
+- `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.

@@ -9,8 +9,8 @@
 - `INS-260605-4DB9` Not all context belongs in the same agent — delegate searches and intermediate reasoning to sub-agents and pass only results back to the main conversation.
 - `INS-260626-7681` Kitze rejects opaque agent 'memory' in favor of nested topics where each conversation deterministically injects its parent topics' descriptions, and argues you shouldn't load one mega-agent with your entire life any more than you'd load one employee with everything.
 - `INS-260411-5478` Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
-- `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
+- `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260321-E2FC` Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
 - `INS-260627-455A` Because agents do the deep-focus work asynchronously, technical leaders can investigate bugs and submit PRs in the gaps between meetings instead of needing a protected 3-4 hour block.
 - `INS-260626-1B29` As agents do more work you become a manager of an async fleet — which means scoping work to avoid merge conflicts, frontloading context into specs/plans, and trusting agents to run long.
