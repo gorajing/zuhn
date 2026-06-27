@@ -25,12 +25,12 @@
 - `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
 - `INS-260403-B887` Present proposals in terms of what the audience already cares about, not what you care about.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
+- `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260404-36D7` Costco stocks only 4,000 SKUs versus Walmart's 140,000, which makes suppliers compete fiercely for limited shelf space and accept lower margins.
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260410-90C5` Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.
 - `INS-260410-DF92` Henry Flagler's 'Lakeshore Agreement' promised railroads enough oil volume to run dedicated trains in exchange for shipping rates no competitor could match — turning a negotiated discount into an industry lock.
-- `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).

@@ -52,5 +52,6 @@ related:
   - INS-260625-3866
   - INS-260625-C700
   - INS-260605-BFBE
+  - INS-260627-DB17
 ---
 Most agents implement reasoning at the model-selection layer — you pick a reasoning model and the whole experience slows down. Amp instead implements reasoning as a sub-agent it calls the 'oracle.' This preserves the main agent's snappiness and its ability to fluidly use a wide variety of tools, while reserving deep reasoning for the moments that actually need it: debugging a tricky bug or planning something nuanced. The workflow becomes: when the main agent gets stuck, invoke the oracle, let it think deeply for a few minutes while you do something else, and roughly four out of five times it surfaces the underlying issue. The general principle is that capability modes with very different latency/cost profiles (fast tool use vs. slow deep reasoning) are better separated into distinct callable agents than fused into one model the user must select up front.

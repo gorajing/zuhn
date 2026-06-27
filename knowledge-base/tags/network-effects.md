@@ -5,15 +5,15 @@
 - `INS-260330-9FCF` Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
 - `INS-260403-751D` Pre-existing user bases of hundreds of millions create a flywheel where more human feedback produces faster model improvement.
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
-- `INS-260412-CDDC` Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
 - `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260327-EA4E` Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
 - `INS-260412-826D` WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
-- `INS-260412-C17E` Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
 - `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.
 - `INS-260404-7AA0` More traders create better price signals, which attract more traders — a classic liquidity network effect that compounds.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
+- `INS-260412-C17E` Incompatible EV charging standards split the installed base and prevent any single network from reaching critical density.
 - `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
+- `INS-260412-CDDC` Measles herd immunity requires 95% vaccination coverage — one of the highest thresholds of any disease — making it extremely fragile to even small anti-vaccine movements.
 - `INS-260404-7680` Each attack stopped and integration added makes the security platform smarter, creating a compounding data moat that new entrants cannot replicate.
 - `INS-260403-3122` The most effective deal-flow strategy is building a small circle of active angels and sharing every deal you invest in with them.
 - `INS-260404-1ADA` Breaking into VC requires overcoming structural barriers where deal flow, reputation, and LP access form self-reinforcing loops favoring incumbents.
@@ -39,6 +39,8 @@
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
+- `INS-260402-70FD` Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
+- `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.
 - `INS-260405-71E1` Network effects and switching cost moats are structurally superior because they strengthen with scale, while cost-based moats invite well-funded competition.
 - `INS-260404-E9F3` Oxygen is technically a waste byproduct of water-splitting in photosynthesis, yet it became the foundation of all animal life on Earth.
@@ -62,8 +64,6 @@
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
 - `INS-260403-B3E8` A16z is hiring dedicated ecosystem leadership to turn its relationship network into compounding infrastructure rather than treating connections as ad hoc deal flow.
-- `INS-260402-70FD` Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
-- `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260403-C161` Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.

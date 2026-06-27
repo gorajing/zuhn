@@ -63,6 +63,7 @@ related:
   - INS-260626-60C2
   - INS-260625-9C3B
   - INS-260626-8DAD
+  - INS-260627-046B
 ---
 Ngo breaks evaluation signal into roughly five flavors: LLM-as-judge, human feedback (end users, PMs, domain experts), golden datasets, deterministic/logic-based checks, and business metrics (make money, save money, save time). The key cost insight is that 'you don't always have to use an LLM call or even humans — determinism is super nice.' If an agent is supposed to emit JSON, you can deterministically check whether it is valid JSON, has the right schema, and has non-null required fields — at near-zero cost and zero latency, with no model in the loop.
 

@@ -69,6 +69,7 @@ related:
   - PRI-260406-4F8E
   - PRI-260407-7FB7
   - INS-260323-584D
+  - INS-260627-9121
 ---
 Guidance runs two predictions per step — one with the conditioning signal (e.g. a text prompt) and one without — and amplifies the delta between them as the new denoising direction. The effect is dramatic: cranking up the guidance scale collapses diversity but sharply improves per-sample quality and prompt adherence. Since the late-2021 GLIDE-era papers, 'nobody ever turns it off anymore'; Dieleman notes people would be shocked how bad current models look without it. Over-cranking it produces tell-tale over-saturated images, and a known refinement is to ramp guidance up in the middle of sampling rather than at the very start or end.
 

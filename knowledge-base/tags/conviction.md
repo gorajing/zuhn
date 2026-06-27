@@ -31,9 +31,9 @@
 - `INS-260403-E7E1` When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - `INS-260327-2520` Arora didn't even know cybersecurity was one word when he joined Palo Alto, but succeeded by learning furiously while projecting calm conviction — like a duck, serene on top but paddling furiously underneath.
 - `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
+- `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
 - `INS-260330-5A82` Phil Knight failed at selling encyclopedias but effortlessly sold running shoes because customers sensed his genuine conviction in the product's superiority.
 - `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
 - `INS-260329-EF96` True conviction that the product helps people creates involuntary tonal authority that prospects detect and respond to, independent of the words spoken.
 - `INS-260327-5688` Sales is 80% the conviction of your voice and energy when discussing your product -- people buy your eyes, your passion, and your belief before they buy features.
-- `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
 - `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.

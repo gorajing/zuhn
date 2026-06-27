@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 321 insights
+> 323 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -151,6 +151,7 @@
 - `INS-260329-05BB` [high] HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
 - `INS-260321-9906` [high] Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260626-E1CB` [high] Two tempting shortcuts — caching answers and reusing prior answers as context — both backfire: code/docs/rationale change constantly, and recycling outputs regresses the system toward the mean.
+- `INS-260627-DB17` [high] Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
 - `INS-260329-8C14` [high] The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
 - `INS-260329-01F2` [high] Path compression in union-find makes every find operation flatten the tree it traverses, so the data structure permanently improves its own performance with each use.
 - `INS-260404-93CD` [high] Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
@@ -245,6 +246,7 @@
 - `INS-260323-DC99` [high] As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260501-4646` [high] Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.
 - `INS-260409-0EEE` [medium] Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
+- `INS-260627-046B` [medium] Before deploying a cheap-to-strong cascade, validate that the verifier finds the cheap model's actual error tail.
 - `INS-260626-BE0D` [medium] Make every query leave a trace — a new concept, note, or comparison file — so the knowledge base evolves as you talk to it, not just when you ingest data.
 - `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
 - `INS-260605-20DD` [medium] Better models reduce friction but do not remove the need for good agent architecture.

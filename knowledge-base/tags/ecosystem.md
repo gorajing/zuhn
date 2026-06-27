@@ -13,8 +13,8 @@
 - `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
 - `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
 - `INS-260405-A761` Euro VCs' ambivalence toward Balderton's large AI fund signals structural concerns about Europe's ability to compete in AI.
-- `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260412-BEBE` The competitive drive that lets you win a market can be the same force that burns it down.
+- `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260405-4523` Well-maintained curated lists in fast-moving technical fields attract disproportionate community engagement because they solve the navigation problem most practitioners face.
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260412-6B75` Argentine ants conquered six continents because native ant species had defenses evolved against local competitors, not against swarm-and-overwhelm tactics.

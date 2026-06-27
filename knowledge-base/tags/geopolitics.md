@@ -98,11 +98,11 @@
 - `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
 - `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
+- `INS-260412-B172` Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
 - `INS-260412-0275` The US engineered the Plaza Accord to force Japan to appreciate the yen and handicap its own exporters, despite being Japan's closest ally.
 - `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
 - `INS-260403-44A6` Canada's decision to slash Chinese EV tariffs from 100% to 6.1% was a direct consequence of deteriorating US-Canada relations under Trump's tariff threats, illustrating how bullying allies creates unintended competitive openings.
-- `INS-260412-B172` Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
 - `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.

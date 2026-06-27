@@ -9,9 +9,9 @@
 - `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260327-A458` Trends that used to take years to peak and decline now cycle in weeks because TikTok and Instagram compress the discovery-adoption-saturation-backlash cycle.
 - `INS-260409-4FEB` Every ranking decision the algorithm makes is downstream of maximizing user session time so the platform can serve more ads.
-- `INS-260410-13EB` F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260403-BC04` Cuban's advice: content gives you reach and credibility, but you need scalable products to convert attention into lasting wealth.
+- `INS-260410-13EB` F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
 - `INS-260626-D65F` When money and intelligence are cheap and plentiful, the binding constraint — and therefore the moat — becomes attention and the ability to control mind-share.
 - `INS-260410-9A10` Lalit Modi explicitly called controversy 'a pillar of the IPL' and ran the player auction as a deliberately offensive 'cattle and sheep' spectacle because he knew the outrage cycle would generate more attention than any ad spend could.
 - `INS-260603-2F7E` Harvey (keynote): AI infinitely increases supply (gazillion units of code/content/video) but human consumption didn't change — 'my eyeball time, my attention is still limited' — so you produce in 2 days what took 2 months, but so does the person next to you, and you're all competing for the same fixed attention.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

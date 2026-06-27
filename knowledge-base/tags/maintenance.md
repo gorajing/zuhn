@@ -1,11 +1,11 @@
 # Tag: maintenance
 
 - `INS-260325-2DCD` Coding agents create well but cannot steward codebases — they lack system design judgment.
+- `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly.
 - `INS-260605-E06C` Knowledge entries go stale on every model release and feature change, and stale context actively hampers the agent — so continuous deletion is as important as collection.
 - `INS-260409-5065` Ingest adds new material; query probes and adds explorations; lint finds contradictions, orphans, and gaps.
 - `INS-260605-F4AE` Variable-driven prompts preserve evaluability as use cases multiply.
 - `INS-260329-9074` Variables create single points of change that prevent linear maintenance scaling in growing codebases.
-- `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly.
 - `INS-260514-A02E` Carve repeated GTM logic into 'function tables' in Clay (f.cleanFullName, f.validateEmail) — callers write a row to the function table, wait for the LLM, then look up the cleaned output, so one prompt update propagates to all callers.
 - `INS-260625-D2E3` Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift.
 - `INS-260412-06A1` Airlines perform maintenance on planes forced to sit idle in South America, exploiting cheaper labor to extract value from schedule-imposed downtime.

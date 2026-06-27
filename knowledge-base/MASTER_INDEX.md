@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-06-27 | Total insights: 13139 | Sources: 2912
+> Last rebuilt: 2026-06-27 | Total insights: 13147 | Sources: 2913
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -8,7 +8,7 @@
 
 | Domain | Topics | Insights | Principles | Last Updated |
 | ------ | ------ | -------- | ---------- | ------------ |
-| ai-development | 48 | 3604 | 137 | 2026-06-27 |
+| ai-development | 48 | 3612 | 137 | 2026-06-27 |
 | automation | 8 | 96 | 2 | 2026-06-27 |
 | health | 6 | 502 | 44 | 2026-06-27 |
 | investing | 14 | 1428 | 110 | 2026-06-26 |
@@ -47,7 +47,11 @@ _No flags._
 - `INS-260627-9E3D` FastContext turns exploration quality into a measurable citation task separate from end-to-end task success. _(2026-06-27)_
 - `INS-260627-4072` Build the eval set as a loop — start with a small dev CSV, ship when the team is confident, then mine production for the hard cases you couldn't anticipate and feed them back into the data set. _(2026-06-27)_
 - `INS-260627-6846` The model exploits any deterministic quirk in the opponent or environment, scoring great on benchmarks while being clueless in real play — only hands-on testing reveals it. _(2026-06-27)_
+- `INS-260627-8213` For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router. _(2026-06-27)_
+- `INS-260627-6984` Before building a router, measure the all-models-wrong rate and certify whether any selector has enough headroom to matter. _(2026-06-27)_
+- `INS-260627-9C1F` If production is open-ended, do not trust a multiple-choice eval to reveal shared model failure. _(2026-06-27)_
 - `INS-260627-21FF` A generic judge that could detect your agent's hallucinations would imply the app already worked — eval metrics must come from the specific business use case, defined by subject-matter experts, not pulled from a library. _(2026-06-27)_
+- `INS-260627-FFCB` Do not price multi-model orchestration from pairwise correlation; directly estimate the all-wrong tail. _(2026-06-27)_
 - `INS-260627-FEBB` The strongest eval result is sometimes a map of where success is impossible. _(2026-06-27)_
 - `INS-260627-00E9` The second trapped-ion platform test validates the ARTIQ/MCP/safety-filter interface, while explicitly not claiming full closed-loop physical calibration. _(2026-06-27)_
 - `INS-260627-8318` Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done. _(2026-06-27)_
@@ -84,6 +88,7 @@ _No flags._
 - `INS-260627-69ED` Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order. _(2026-06-27)_
 - `INS-260627-CC45` Build one agentic loop that dispatches tool calls by name through a registry, so changing tools never means rewriting orchestration. _(2026-06-27)_
 - `INS-260627-9968` Choreography (agents coordinate via events on a message bus) scales and decouples but is a debugging nightmare without bulletproof event observability; orchestration (a central coordinator calls each agent, manages parallelism, state, retries, and logging) trades autonomy for debuggability and rollback — choose by workflow complexity vs. autonomy need. _(2026-06-27)_
+- `INS-260627-9121` Do not add weaker models for diversity unless their quality is close enough that their different failures can actually help. _(2026-06-27)_
 - `INS-260627-277A` When in doubt, delete scaffolding and trust the model to explore — most workarounds you build for model flaws will be obsolete in 3-6 months. _(2026-06-27)_
 - `INS-260627-D190` Batch files into PR-sized chunks via the dependency graph, run a verifier to flag problems, spin up fixer agents that emit reviewable PRs, and process leaf-first until the whole graph turns green. _(2026-06-27)_
 - `INS-260627-9EBD` An agent can't just throw arbitrary data at the next agent and hope; each handoff must declare and validate a schema-and-quality contract (e.g. reject if confidence < 0.7) so contract violations are caught at the boundary, not discovered downstream as garbage reports. _(2026-06-27)_
@@ -117,6 +122,7 @@ _No flags._
 - `INS-260627-E7AE` Circuit breakers (open after N consecutive failures, fail fast, half-open to retest, close on success) stop one flaky agent from cascading failures across the workflow; the saga/compensation pattern gives every agent an execute and a reversible compensate method so a mid-workflow failure walks backward and rolls the system to its initial state. _(2026-06-27)_
 - `INS-260627-841C` A model that can run dangerous 40-hour tasks unwatched may only manage 2-hour tasks when closely monitored — oversight is a capability tax. _(2026-06-27)_
 - `INS-260627-915A` Refusal is a probabilistic preference, so gradient-found gibberish suffixes can push the next-token distribution into compliance — and those suffixes transfer to closed models. _(2026-06-27)_
+- `INS-260627-B395` AI weakens raw coding as a moat but strengthens accountability-oriented engineering. _(2026-06-27)_
 - `INS-260627-F518` Your email doesn't know what you journaled and your CRM doesn't know what you're reading — the cross-source signal is the whole product. _(2026-06-27)_
 - `INS-260627-1C9C` DeepMind's weather models beat gold-standard physics simulations — GenCast was more accurate 97% of the time and produced a 15-day forecast in 8 minutes on one chip instead of hours on a supercomputer. _(2026-06-27)_
 - `INS-260627-00B7` Masked IRL is stronger because it reports real Franka arm transfer, not only simulation metrics. _(2026-06-27)_
@@ -131,12 +137,11 @@ _No flags._
 - `INS-260627-05AD` If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps. _(2026-06-27)_
 - `INS-260627-0691` The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project. _(2026-06-27)_
 - `INS-260627-3410` Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster. _(2026-06-27)_
-- `INS-260627-B395` AI weakens raw coding as a moat but strengthens accountability-oriented engineering. _(2026-06-27)_
-- `INS-260627-045B` In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model. _(2026-06-27)_
-- `INS-260627-4E4A` You can parallelize and pipeline agents, but you can't fully automate building good software, because the path to a good product is curved and only walkable by iterating with taste. _(2026-06-27)_
 - `INS-260627-765B` Writing code has become reading code, so every engineer is now a reviewer — distribute the exploding PR load with assignment and SLOs, and optimize per-response latency, not total review time. _(2026-06-27)_
 - `INS-260627-EB75` Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped. _(2026-06-27)_
 - `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost. _(2026-06-27)_
+- `INS-260627-045B` In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model. _(2026-06-27)_
+- `INS-260627-4E4A` You can parallelize and pipeline agents, but you can't fully automate building good software, because the path to a good product is curved and only walkable by iterating with taste. _(2026-06-27)_
 - `INS-260627-91B3` Agent systems need spend control as much as capability control. _(2026-06-27)_
 - `INS-260627-30CD` Matryoshka representation learning produces nested embeddings so you can retrieve with 256 dims cheaply, then expand to more dimensions for precision — one network, many operating points. _(2026-06-27)_
 - `INS-260627-41BE` Encoding text, video, audio, and PDFs through one omnimodal model into a unified semantic vector preserves cross-modal information that separate encoders lose when merged. _(2026-06-27)_
@@ -148,10 +153,10 @@ _No flags._
 - `INS-260627-D9CE` METR converts task difficulty into the human time-to-complete at which a model succeeds 50% of the time, yielding a remarkably straight exponential trend (doubling every 6-7 months). _(2026-06-27)_
 - `INS-260627-B1B2` Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency. _(2026-06-27)_
 - `INS-260627-9981` Treat the judge as a hallucinating component too — label a data set by hand, then run a code/match eval that measures whether the judge's labels agree with the human labels, and improve the judge where they diverge. _(2026-06-27)_
+- `INS-260627-CD33` Fitting a model in memory says nothing about how fast it will run — bandwidth, not capacity, sets the throughput ceiling. _(2026-06-27)_
 - `INS-260627-F934` When every idea is a prompt away, the bottleneck shifts to choosing boundaries and refusing features — the integration of many ideas, not any single one, is what breaks systems. _(2026-06-27)_
 - `INS-260627-94E6` When dozens of teams each wire up their own connections, security, and infrastructure for AI agents, the fix is a central registry that catalogs every tool and agent — not stricter team-level discipline. _(2026-06-27)_
 - `INS-260627-B89C` CIOs cannot govern agent work they cannot see. _(2026-06-27)_
-- `INS-260627-CD33` Fitting a model in memory says nothing about how fast it will run — bandwidth, not capacity, sets the throughput ceiling. _(2026-06-27)_
 - `INS-260627-B44E` Adding a durability layer to otherwise non-durable agent SDKs is becoming a repeatable, popular integration pattern across the ecosystem. _(2026-06-27)_
 - `INS-260627-9CF1` The ~30% time savings reported by power users comes from disciplined delegation boundaries, not from auto-completing through the day. _(2026-06-27)_
 - `INS-260627-5447` Agents 'can do anything except know what you value,' so your leverage shifts entirely to articulating preferences, brand, and quality bars. _(2026-06-27)_
@@ -162,8 +167,16 @@ _No flags._
 - `INS-260627-51BE` Because each step runs on its own serverless function, platform timeouts apply per-step — long workflows just split into more steps, and concurrency is bounded only by the provider. _(2026-06-27)_
 - `INS-260627-3251` Make a single AI gateway the only path to models so that unified access, identity-based auth, per-use-case budgets, and central auditing are enforced structurally rather than per-team. _(2026-06-27)_
 - `INS-260627-8F84` The argument isn't local vs cloud — it's local for iteration (privacy, deterministic latency, no scheduling queues) and cloud for scale, using one identical software stack across both. _(2026-06-27)_
+- `INS-260627-E257` There's a gap between a model not breaking at a million tokens and actually reasoning across them — performance degrades sharply (Chroma's 'context rot') well before the limit. _(2026-06-27)_
+- `INS-260627-35AC` Agents shine on libraries (tight constraints, clear API surface, simple core) and struggle on products because the product's many interacting components can't fit in the context window. _(2026-06-27)_
+- `INS-260627-11E7` Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet. _(2026-06-27)_
+- `INS-260627-3AF7` Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess. _(2026-06-27)_
+- `INS-260627-8121` Benchmark tasks are small, self-contained, and scored by unit tests; real work is messy, interdependent, and scored on maintainable mergeable quality—so high benchmark scores don't predict real productivity. _(2026-06-27)_
 - `INS-260627-BDF8` The bottleneck for beating a frontier model on a specific task is no longer compute or data but the ability to define a verifiable reward and wrap it in an environment. _(2026-06-27)_
+- `INS-260627-F805` A model router should optimize quality per constrained resource, not simply call the highest-ranked model more often. _(2026-06-27)_
 - `INS-260627-AA29` When a frontier model works but is too costly at scale, optimize the prompt for a cheaper model to claw performance back before reaching for fine-tuning. _(2026-06-27)_
+- `INS-260627-C112` Don't fine-tune on your raw documents — generate a large synthetic dataset that describes them and train on that, or the model just memorizes and breaks. _(2026-06-27)_
+- `INS-260627-EEDE` SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided. _(2026-06-27)_
 - `INS-260627-962C` Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication. _(2026-06-27)_
 - `INS-260627-A0EE` Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours. _(2026-06-27)_
 - `INS-260627-B416` Every enabled MCP server injects tool descriptions into every system prompt — disable the ones you aren't using or they waste tokens and mislead the agent. _(2026-06-27)_
@@ -179,13 +192,6 @@ _No flags._
 - `INS-260627-4446` Web MCP lets a site register typed tools on the navigator object so agents call named actions directly, instead of mimicking human clicks via screenshots and coordinate-guessing. _(2026-06-27)_
 - `INS-260627-F851` If you own the client (internal tools, your own mobile app), you can do progressive disclosure, custom doc placement, masking, and elicitation; if you don't, you must design for the worst-possible client. _(2026-06-27)_
 - `INS-260627-F522` Wrap each third-party tool so it invokes the original function unchanged but carries a richer, hand-tuned description that encodes your team's hard-won operating knowledge. _(2026-06-27)_
-- `INS-260627-C112` Don't fine-tune on your raw documents — generate a large synthetic dataset that describes them and train on that, or the model just memorizes and breaks. _(2026-06-27)_
-- `INS-260627-EEDE` SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided. _(2026-06-27)_
-- `INS-260627-E257` There's a gap between a model not breaking at a million tokens and actually reasoning across them — performance degrades sharply (Chroma's 'context rot') well before the limit. _(2026-06-27)_
-- `INS-260627-35AC` Agents shine on libraries (tight constraints, clear API surface, simple core) and struggle on products because the product's many interacting components can't fit in the context window. _(2026-06-27)_
-- `INS-260627-11E7` Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet. _(2026-06-27)_
-- `INS-260627-3AF7` Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess. _(2026-06-27)_
-- `INS-260627-8121` Benchmark tasks are small, self-contained, and scored by unit tests; real work is messy, interdependent, and scored on maintainable mergeable quality—so high benchmark scores don't predict real productivity. _(2026-06-27)_
 - `INS-260627-102F` Prioritize DevEx investments that help humans and agents equally — they are guaranteed to pay off no matter how AI evolves. _(2026-06-27)_
 - `INS-260627-BBD1` Because many tasks are far easier to verify than to solve, software development — being highly verifiable — is where agents are most advanced. _(2026-06-27)_
 - `INS-260627-6757` Humans discover once and iterate cheaply with vast context; agents re-discover every session, treat iteration as the enemy, and have a ~200k-token working memory — so interfaces built for one are wrong for the other. _(2026-06-27)_
@@ -195,6 +201,11 @@ _No flags._
 - `INS-260627-2EB8` DeepMind's FGN predicts cyclones directly — trajectory, wind speed, eye formation — rather than predicting general weather and then running a cyclone detector as post-processing, and it's better for it. _(2026-06-27)_
 - `INS-260627-007C` Expect to get slower for months when adopting AI dev tools, and don't assume the curve eventually bends up for experienced engineers. _(2026-06-27)_
 - `INS-260627-B6E4` METR's RCT found AI-allowed conditions made expert developers 19% slower even though they expected to be ~20-25% faster. _(2026-06-27)_
+- `INS-260627-8CFF` Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year. _(2026-06-27)_
+- `INS-260627-D21B` Replace the PRD with 'here is the eval data set and here is the eval we want the system to pass' — evals become the executable requirement and acceptance test for an AI feature. _(2026-06-27)_
+- `INS-260627-C727` Observers and agents are different tools for different jobs — read-only isn't a broken agent waiting to grow up. _(2026-06-27)_
+- `INS-260627-7FE2` Release first to experts who know what 'good' looks like; reach executives last, maybe never. _(2026-06-27)_
+- `INS-260627-FC83` The durable vertical-AI moat is domain expertise plus accountable operations. _(2026-06-27)_
 - `INS-260627-DC30` If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.' _(2026-06-27)_
 - `INS-260627-050C` In a signature-based framework, parameter names and field descriptions literally become the prompt, so naming carries real semantic weight. _(2026-06-27)_
 - `INS-260627-4411` A bare 'summarize this call' prompt yields a messy narrative paragraph, so use few-shot templates to force separate bullet lists, classify against a predefined enum of call reasons, and require the model to output why it chose each classification. _(2026-06-27)_
@@ -204,14 +215,6 @@ _No flags._
 - `INS-260627-54A4` These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up. _(2026-06-27)_
 - `INS-260627-B072` The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed. _(2026-06-27)_
 - `INS-260627-335A` Two seed-prompt families were tried — one with the agent's full policy copy-pasted in, one without — and the policy-free seed optimized better, because starting with the complete policy locks you into a local minimum you can't improve on. _(2026-06-27)_
-- `INS-260627-8CFF` Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year. _(2026-06-27)_
-- `INS-260627-D21B` Replace the PRD with 'here is the eval data set and here is the eval we want the system to pass' — evals become the executable requirement and acceptance test for an AI feature. _(2026-06-27)_
-- `INS-260627-C727` Observers and agents are different tools for different jobs — read-only isn't a broken agent waiting to grow up. _(2026-06-27)_
-- `INS-260627-7FE2` Release first to experts who know what 'good' looks like; reach executives last, maybe never. _(2026-06-27)_
-- `INS-260627-FC83` The durable vertical-AI moat is domain expertise plus accountable operations. _(2026-06-27)_
-- `INS-260627-F6CA` Find the deepest unsolved problem in a space ('root node') and solve it to unlock everything downstream, instead of polishing the 'leaves'. _(2026-06-27)_
-- `INS-260627-C757` The paper's credibility comes partly from naming the physics it has not solved yet. _(2026-06-27)_
-- `INS-260627-34A1` Show the 'how,' not just the numbers: Docker isolation, three mandatory warm-up runs, 1-second GPU metric logging, and timestamped per-run artifacts make a benchmark verifiable. _(2026-06-27)_
 - `INS-260627-3E71` Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution. _(2026-06-27)_
 - `INS-260627-1224` The four pillars are: the agent must know who the user is, call APIs on the user's behalf, request the user's confirmation for risky actions, and access only finely-scoped resources. _(2026-06-27)_
 - `INS-260627-B1A4` The filter guarantees bounded hardware operations, not that the experiment is scientifically sensible or that all adversarial code is impossible. _(2026-06-27)_
@@ -235,6 +238,9 @@ _No flags._
 - `INS-260627-CC85` AI coding tools shift leverage from writing code to governing generated code. _(2026-06-27)_
 - `INS-260627-36AB` Cheap generated code can make review capacity the scarce resource. _(2026-06-27)_
 - `INS-260627-0EFC` AI-generated code needs provenance and ownership, not just good prompts. _(2026-06-27)_
+- `INS-260627-F6CA` Find the deepest unsolved problem in a space ('root node') and solve it to unlock everything downstream, instead of polishing the 'leaves'. _(2026-06-27)_
+- `INS-260627-C757` The paper's credibility comes partly from naming the physics it has not solved yet. _(2026-06-27)_
+- `INS-260627-34A1` Show the 'how,' not just the numbers: Docker isolation, three mandatory warm-up runs, 1-second GPU metric logging, and timestamped per-run artifacts make a benchmark verifiable. _(2026-06-27)_
 - `INS-260627-30F9` Treat your codebase as infrastructure designed for the agent: modularize, follow known patterns, remove hidden magic, and enforce it all with linting so the agent's strengths compound. _(2026-06-27)_
 - `INS-260627-6C9A` The agent OS should be modular enough to swap models and workloads. _(2026-06-27)_
 - `INS-260627-9E58` Run automated hallucination checks to confirm the summary is grounded in the transcript, then keep a lightweight human verification step where the operator reviews the auto-populated summary, edits if needed, and confirms before it writes to the CRM. _(2026-06-27)_
@@ -246,6 +252,7 @@ _No flags._
 - `INS-260627-FCAE` Small batch sizes let environment randomness and a narrow slice of opponents dominate each weight update, reinforcing suboptimal strategies and causing unstable training or collapse. _(2026-06-27)_
 - `INS-260627-6A8B` Because an RL reward is just one bit (right/wrong) while SFT supervises every token, RL can reach the same accuracy with vastly fewer trainable parameters — even single digits. _(2026-06-27)_
 - `INS-260627-699E` RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track. _(2026-06-27)_
+- `INS-260627-046B` Before deploying a cheap-to-strong cascade, validate that the verifier finds the cheap model's actual error tail. _(2026-06-27)_
 - `INS-260627-25FC` The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution. _(2026-06-27)_
 - `INS-260627-11C1` Agents reason about code the same way humans do, so unstructured untestable codebases plus rubber-stamp reviews create a vicious cycle where agent productivity decreases over the year. _(2026-06-27)_
 - `INS-260627-F5F2` If the simulator sees an unmapped device, unsupported method, or unreachable review host, the filter blocks and escalates rather than allowing the action. _(2026-06-27)_
@@ -256,6 +263,7 @@ _No flags._
 - `INS-260627-3E8A` pi is a minimal core wired so the agent can write its own TypeScript extensions from shipped docs and code examples — and those extensions go on NPM, because 'we already have package managers' and don't need another silo called a marketplace. _(2026-06-27)_
 - `INS-260627-0723` Readable summaries and machine-readable ledgers should be checked against each other before a run closes. _(2026-06-27)_
 - `INS-260627-D61C` Prototype agent tasks with polling, but switch to webhooks before you scale — holding workers open to poll dozens of multi-minute tasks is the part that breaks. _(2026-06-27)_
+- `INS-260627-DB17` Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain. _(2026-06-27)_
 - `INS-260627-D692` Provide template GitHub repos with Docker, auth, cost tracking, and observability already wired in so developers start from production-ready scaffolding and only write the agent's actual value. _(2026-06-27)_
 - `INS-260627-C26A` Masked IRL's implicit masking loss stayed robust under noisy LLM masks, while explicit masking degraded because it discarded potentially useful state. _(2026-06-27)_
 - `INS-260627-B093` Reward peaks and deployment success peaks are not the same surface. _(2026-06-27)_
@@ -405,9 +413,9 @@ _No flags._
 - `INS-260626-6D35` NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake. _(2026-06-26)_
 - `INS-260626-59D9` Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty. _(2026-06-26)_
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel. _(2026-06-26)_
-- `INS-260626-0E8C` Blocklists should trace to real incident patterns and carry an explicit maintenance burden. _(2026-06-26)_
 - `INS-260626-7286` Cursor's /automate flow turns automation creation itself into an agent task with Slack, GitHub, and computer-use surfaces. _(2026-06-26)_
 - `INS-260626-BF48` NOVA reports a 13.5x reduction in human-attended time even though GPU-bound training stages keep similar wall-clock duration. _(2026-06-26)_
+- `INS-260626-0E8C` Blocklists should trace to real incident patterns and carry an explicit maintenance burden. _(2026-06-26)_
 - `INS-260626-BA87` Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms. _(2026-06-26)_
 - `INS-260626-7133` High-signal AI applications turn statistical associations into testable mechanisms. _(2026-06-26)_
 - `INS-260626-8DD1` Models around 300-350M parameters run fast and efficiently enough to be triggered inside iOS Shortcuts for routine text-processing automation. _(2026-06-26)_
@@ -424,11 +432,11 @@ _No flags._
 - `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant. _(2026-06-26)_
 - `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two. _(2026-06-26)_
 - `INS-260626-39CE` OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment. _(2026-06-26)_
+- `INS-260626-CD36` Treat root AGENTS.md as a tested review-policy artifact. _(2026-06-26)_
 - `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current. _(2026-06-26)_
 - `INS-260626-B614` Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs. _(2026-06-26)_
 - `INS-260626-BC5E` A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset. _(2026-06-26)_
 - `INS-260626-C563` Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents. _(2026-06-26)_
-- `INS-260626-CD36` Treat root AGENTS.md as a tested review-policy artifact. _(2026-06-26)_
 - `INS-260626-76B5` The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers. _(2026-06-26)_
 - `INS-260626-FEA0` Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns. _(2026-06-26)_
 - `INS-260626-739E` When agents can do the work cheaply, the scarce, expensive activities become specifying it up front and reviewing it afterward. _(2026-06-26)_
@@ -438,6 +446,7 @@ _No flags._
 - `INS-260626-136F` Most models now accept many input modalities, so the real competitive gap is which models can natively emit audio, images, and video — not just text and code. _(2026-06-26)_
 - `INS-260626-909D` Treat reasoning models as regime-dependent tools rather than proof that RLVR creates robust general reasoning. _(2026-06-26)_
 - `INS-260626-B7AC` The bottleneck is not only finding the algorithm; current models can fail to execute and verify an algorithm they are given. _(2026-06-26)_
+- `INS-260626-3408` Recent iPhones run quantized small models like Gemma 4 at ~40 tok/s, moving the real constraint from speed to the 1-3 GB model download. _(2026-06-26)_
 - `INS-260626-D9EA` AI-enabled individuals matched traditional human teams on average quality, so some teamwork benefits can be substituted before teams are redesigned. _(2026-06-26)_
 - `INS-260626-A3E4` Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours. _(2026-06-26)_
 - `INS-260626-C88F` The instinct to abandon math and CS once AI automates them is backwards — knowing how LLMs actually work is precisely what lets you wield and prompt them effectively. _(2026-06-26)_
@@ -449,7 +458,6 @@ _No flags._
 - `INS-260626-57BA` Under XAA you log into the downstream app as yourself with your full existing permissions — the IDP brokers identity but does not attenuate scope, and scoped delegation is not in the spec. _(2026-06-26)_
 - `INS-260626-A027` When a machine is compromised or a user offboards, IDP revocation does not kill the long-lived OAuth access and refresh tokens MCP servers hold locally, leaving days-to-months of invisible standing access. _(2026-06-26)_
 - `INS-260626-AD63` Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates. _(2026-06-26)_
-- `INS-260626-3408` Recent iPhones run quantized small models like Gemma 4 at ~40 tok/s, moving the real constraint from speed to the 1-3 GB model download. _(2026-06-26)_
 - `INS-260626-8769` Warmth plus a false specific (a body it doesn't have, a date that's booked) doesn't just dip trust — it inverts it the moment the user realizes the relationship was performed. _(2026-06-26)_
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over. _(2026-06-26)_
 - `INS-260626-30E4` AI-augmented teams produced far more top-decile ideas in a P&G field experiment, challenging the default claim that human-AI combinations usually underperform the best partner. _(2026-06-26)_
@@ -458,6 +466,11 @@ _No flags._
 - `INS-260626-613C` If you can't write your own prompts and hold your own data and integrations, you sit below the API line of a PM who doesn't understand your needs — like a Facebook feed whose algorithm you don't control. _(2026-06-26)_
 - `INS-260626-7A54` Business context, political dynamics, product vision, and org history decide the right thing to build — and none of it is in the repo for an agent to read. _(2026-06-26)_
 - `INS-260626-7A55` Instead of you constantly prompting AI, the most productive people will delegate ~99% of work and the AI will prompt them — 'you didn't send me a picture of your passport,' 'what do you want to do next?' _(2026-06-26)_
+- `INS-260626-E46D` The Hugging Face MLX community re-publishes quantized device-ready weights ~30 minutes after a lab releases a model, turning new models into instantly runnable on-device assets. _(2026-06-26)_
+- `INS-260626-7E5F` Converting APIs to MCPs and centralizing them in a registry yields cross-purpose reuse and the visibility to review, monitor, and audit what every agent can access. _(2026-06-26)_
+- `INS-260626-F160` Continuous learning kills the start-stop training job; you run concurrent pools for sampling and training and optimize aggregate wall-clock, accepting slower individual jobs. _(2026-06-26)_
+- `INS-260626-354E` Concurrency plans should read live provider limits before fan-out. _(2026-06-26)_
+- `INS-260626-5671` Code mode only ships once you can run model-generated code in a lightweight isolate whose secret, filesystem, and network access are programmable guardrails you flip per call. _(2026-06-26)_
 - `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look. _(2026-06-26)_
 - `INS-260626-571F` A user saying 'not urgent' about an invoice export before a board meeting is actually urgent—the model misses what the business knows. _(2026-06-26)_
 - `INS-260626-9B36` Doom-loop ratio for a small reasoning model stayed ~15-16% through SFT but dropped sharply after DPO and became almost nonexistent after RL with verifiable rewards plus an n-gram repetition penalty. _(2026-06-26)_
@@ -468,16 +481,20 @@ _No flags._
 - `INS-260626-BCC3` When asked unanswerable nonsense questions, most models (GPT, Gemini, smaller models) go along with the bad premise ~50% of the time; only the latest Claude/Sonnet models reliably push back. _(2026-06-26)_
 - `INS-260626-A499` Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool. _(2026-06-26)_
 - `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps. _(2026-06-26)_
-- `INS-260626-E46D` The Hugging Face MLX community re-publishes quantized device-ready weights ~30 minutes after a lab releases a model, turning new models into instantly runnable on-device assets. _(2026-06-26)_
-- `INS-260626-7E5F` Converting APIs to MCPs and centralizing them in a registry yields cross-purpose reuse and the visibility to review, monitor, and audit what every agent can access. _(2026-06-26)_
-- `INS-260626-F160` Continuous learning kills the start-stop training job; you run concurrent pools for sampling and training and optimize aggregate wall-clock, accepting slower individual jobs. _(2026-06-26)_
-- `INS-260626-354E` Concurrency plans should read live provider limits before fan-out. _(2026-06-26)_
-- `INS-260626-5671` Code mode only ships once you can run model-generated code in a lightweight isolate whose secret, filesystem, and network access are programmable guardrails you flip per call. _(2026-06-26)_
+- `INS-260626-0FA9` AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability. _(2026-06-26)_
+- `INS-260626-E926` Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents. _(2026-06-26)_
+- `INS-260626-9AAA` Radical makes new discoveries from ~1,200 alloys with 50-150 data points each, not millions; the binding constraint is running physical experiments and the long feedback loop, not compute or dataset size. _(2026-06-26)_
+- `INS-260626-BC32` On nonsense questions, high-reasoning runs frequently perform worse than no-reasoning runs — the model flags the premise once, then spends 20 paragraphs trying to solve the unsolvable anyway. _(2026-06-26)_
+- `INS-260626-E636` AI's leverage lets one piece of software do 70,000 transactions, and the core problem is we can't test whether it's right—'not because it's smarter than us and it's going to turn us into pets.' _(2026-06-26)_
 - `INS-260626-A08F` Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community. _(2026-06-26)_
 - `INS-260626-5A6D` Frontier models handle long-running complex tasks, but mini/nano models are deliberately positioned to power short-running sub-agents at low enough cost that spinning up many of them in parallel makes economic sense. _(2026-06-26)_
 - `INS-260626-01AD` Do not hard-code provider speed knobs without a capability check and migration path. _(2026-06-26)_
 - `INS-260626-411D` Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop. _(2026-06-26)_
 - `INS-260626-FBB1` A flyweight model with code execution drew correct Lego-brick bounding boxes 'right out of the gate' for a fraction of a penny — faster and cheaper than the larger model that reached the same answer. _(2026-06-26)_
+- `INS-260626-7658` Pre-train on abundant text-prompt pairs, then graft on richer control signals (reference images, camera control, event timing) in post-training where targeted labeled data is feasible. _(2026-06-26)_
+- `INS-260626-21EA` Because small models have low knowledge capacity, the winning strategy is to make them very good at specific tasks (e.g. data extraction, tool use) and accept being weak at code or math nobody uses them for. _(2026-06-26)_
+- `INS-260626-408A` The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give. _(2026-06-26)_
+- `INS-260626-69EF` Because Gemma 4 inherits Gemini's tokenizer purpose-built for 140+ languages, fine-tuning it for low-resource languages like Quechua tends to 'work quite well out of the box' independent of the model's raw capabilities. _(2026-06-26)_
 - `INS-260626-C623` A gateway absorbs the five cross-cutting concerns (auth, authz, observability, secure connectivity, hosting) so each new MCP server only owns its business logic. _(2026-06-26)_
 - `INS-260626-3492` A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved. _(2026-06-26)_
 - `INS-260626-8D48` Security teams should bless one gateway platform as a single root of trust, letting MCP development be decentralized without losing central control. _(2026-06-26)_
@@ -489,15 +506,6 @@ _No flags._
 - `INS-260626-B983` Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP. _(2026-06-26)_
 - `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck. _(2026-06-26)_
 - `INS-260626-6F00` Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security. _(2026-06-26)_
-- `INS-260626-7658` Pre-train on abundant text-prompt pairs, then graft on richer control signals (reference images, camera control, event timing) in post-training where targeted labeled data is feasible. _(2026-06-26)_
-- `INS-260626-21EA` Because small models have low knowledge capacity, the winning strategy is to make them very good at specific tasks (e.g. data extraction, tool use) and accept being weak at code or math nobody uses them for. _(2026-06-26)_
-- `INS-260626-408A` The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give. _(2026-06-26)_
-- `INS-260626-69EF` Because Gemma 4 inherits Gemini's tokenizer purpose-built for 140+ languages, fine-tuning it for low-resource languages like Quechua tends to 'work quite well out of the box' independent of the model's raw capabilities. _(2026-06-26)_
-- `INS-260626-0FA9` AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability. _(2026-06-26)_
-- `INS-260626-E926` Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents. _(2026-06-26)_
-- `INS-260626-9AAA` Radical makes new discoveries from ~1,200 alloys with 50-150 data points each, not millions; the binding constraint is running physical experiments and the long feedback loop, not compute or dataset size. _(2026-06-26)_
-- `INS-260626-BC32` On nonsense questions, high-reasoning runs frequently perform worse than no-reasoning runs — the model flags the premise once, then spends 20 paragraphs trying to solve the unsolvable anyway. _(2026-06-26)_
-- `INS-260626-E636` AI's leverage lets one piece of software do 70,000 transactions, and the core problem is we can't test whether it's right—'not because it's smarter than us and it's going to turn us into pets.' _(2026-06-26)_
 - `INS-260626-5E7E` Adding Gaussian noise drowns out high frequencies first and low frequencies last, so diffusion effectively generates images coarse-to-fine — a 'spectral autoregression.' _(2026-06-26)_
 - `INS-260626-1012` Gemma 4 interleaves cheap local (sliding-window) attention with expensive global attention at a 5:1 ratio, then applies heavier grouped-query compression (8 queries per KV head) only to the costly global layers while compensating with longer KV heads. _(2026-06-26)_
 - `INS-260626-BB8B` Gemma's per-layer-embedding 'E2B' architecture loads only ~2B of a ~4-5B-parameter model into the GPU and pushes the rest to CPU or disk because those weights act as lookup tables, not matrix-multiplication operands. _(2026-06-26)_
@@ -517,12 +525,6 @@ _No flags._
 - `INS-260626-3EB5` swyx's biggest aha was getting work he'd never gotten before from employees — animations, polish, throwaway-fun projects — because agents removed the feedback-cycle bottleneck of waiting on him or a contractor. _(2026-06-26)_
 - `INS-260626-EAD3` Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago. _(2026-06-26)_
 - `INS-260626-09B3` When marginal tokens make the output more complete, spend them — token budget is high-ROI leverage, not a cost to minimize. _(2026-06-26)_
-- `INS-260626-8308` Hoist must-follow rules into their own critical-rules file positioned high in the agent file, because rules scattered in agent.md/soul.md still get forgotten. _(2026-06-26)_
-- `INS-260626-0704` A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned. _(2026-06-26)_
-- `INS-260626-14E0` Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones. _(2026-06-26)_
-- `INS-260626-EB91` Render soft human context before the numeric guard block so the model sets tone first and then satisfies constraints — reversing the order makes prose feel mechanically slotted. _(2026-06-26)_
-- `INS-260626-1D80` A Jaccard drift score can flag suspicious prompt edits, but the threshold is not proof of behavior change without an eval. _(2026-06-26)_
-- `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well. _(2026-06-26)_
 - `INS-260626-3AD0` Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster. _(2026-06-26)_
 - `INS-260626-D14F` The 'horseless carriages' mistake is slotting a little AI inside a lot of deterministic software with the prompt hidden from the user; AI-native software inverts this so an agent wraps small deterministic tools and the user controls the prompt. _(2026-06-26)_
 - `INS-260626-22D2` Aim your product at the model six months from now, then wait for capability to catch up to it. _(2026-06-26)_
@@ -549,13 +551,19 @@ _No flags._
 - `INS-260626-E253` ElevenLabs' moat is layered: model quality earned by getting in front of users and tuning per-domain, plus an ecosystem — telephony integration, evaluation tooling, 20,000+ shared voices, templates, and trusted brand — because the model itself is only a small part of any customer's stack. _(2026-06-26)_
 - `INS-260626-EA1D` Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator. _(2026-06-26)_
 - `INS-260626-4C42` The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck. _(2026-06-26)_
+- `INS-260626-8308` Hoist must-follow rules into their own critical-rules file positioned high in the agent file, because rules scattered in agent.md/soul.md still get forgotten. _(2026-06-26)_
+- `INS-260626-0704` A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned. _(2026-06-26)_
+- `INS-260626-14E0` Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones. _(2026-06-26)_
+- `INS-260626-EB91` Render soft human context before the numeric guard block so the model sets tone first and then satisfies constraints — reversing the order makes prose feel mechanically slotted. _(2026-06-26)_
+- `INS-260626-1D80` A Jaccard drift score can flag suspicious prompt edits, but the threshold is not proof of behavior change without an eval. _(2026-06-26)_
+- `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well. _(2026-06-26)_
+- `INS-260626-F069` Approval records should include tool authority and runtime boundary. _(2026-06-26)_
 - `INS-260626-BA05` RL crushes a whole trajectory of real-world correction into one reward scalar; SDPO instead gives a teacher privileged hints and matches the student to it, training on actual text guidance. _(2026-06-26)_
 - `INS-260626-D7F3` Radical's AI scientist moved into elemental-alloy families no human had ever published on, because human experts carried an 'unknowing bias' against them, and it can compare 100k papers to 100k images in parallel. _(2026-06-26)_
 - `INS-260626-6CAE` When symbols interact, the model must learn syntax rather than count motifs. _(2026-06-26)_
 - `INS-260626-21B7` Curating the training data is frequently a better investment of effort than tuning the model, but academic incentives train researchers to ignore data. _(2026-06-26)_
 - `INS-260626-36F0` Use the P&G field experiment to update creative-collaboration beliefs, not to generalize across all human-AI teaming. _(2026-06-26)_
 - `INS-260626-B833` The old rule was 'know your dataset cold'; the new move is to let the meta-system analyze the data, find failure modes, and generate strategies — even when its outputs look nothing like what a human would write. _(2026-06-26)_
-- `INS-260626-F069` Approval records should include tool authority and runtime boundary. _(2026-06-26)_
 - `INS-260626-F25E` AI performs dramatically better in well-structured codebases, so a hard-to-change codebase now caps your AI leverage and bad code becomes the most expensive it has ever been. _(2026-06-26)_
 - `INS-260626-0B2E` Per Ousterhout, prefer deep modules (simple interface over rich internals) to many shallow modules: deep modules give one clean test boundary the AI can exercise end-to-end, and you stay oriented by designing the interfaces while treating module internals as delegatable gray boxes. _(2026-06-26)_
 - `INS-260626-66DC` Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks. _(2026-06-26)_
@@ -577,6 +585,8 @@ _No flags._
 - `INS-260626-656C` Instead of manually approving every privileged action (fatigue) or granting unfettered access (unsafe), spawn a verifier agent that adjudicates each request and interrupts the human only when warranted. _(2026-06-26)_
 - `INS-260626-8080` Treat AI agents as your dominant, abuse-prone API consumers — they run your endpoints in for-loops across many sandboxes, so rate limiting and load protection become first-class requirements. _(2026-06-26)_
 - `INS-260626-8E45` Liquid pre-trained a 350M model on 28 trillion tokens — orders of magnitude past Chinchilla compute-optimal — and performance was still climbing, suggesting under-trained rather than over-trained. _(2026-06-26)_
+- `INS-260626-8723` Swap the chat trigger for an hourly schedule and keep the approval gates, so the agent runs unprompted but every consequential action still pings you for sign-off. _(2026-06-26)_
+- `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly. _(2026-06-26)_
 - `INS-260626-BE0D` Make every query leave a trace — a new concept, note, or comparison file — so the knowledge base evolves as you talk to it, not just when you ingest data. _(2026-06-26)_
 - `INS-260626-F01D` NOVA loads a static knowledge base for prior effective directions but keeps current modifications, diagnostics, and metric feedback in trajectory memory. _(2026-06-26)_
 - `INS-260626-4564` The paper frames better automatic context generation as future work but its results imply the objective should be concise, outcome-improving guidance. _(2026-06-26)_
@@ -600,32 +610,30 @@ _No flags._
 - `INS-260626-E255` The paper finds that post-update behavior depends primarily on whether the memory pipeline preserves temporally valid evidence before generation. _(2026-06-26)_
 - `INS-260626-2044` When the source set is small and enumerable, feeding URLs directly into the model's context ('poor man's retrieval') gives you cited, post-cutoff grounding without the infrastructure cost of a vector DB. _(2026-06-26)_
 - `INS-260626-B7EB` NOVA's cascade checks architecture semantics, local executability, offline metrics, and only then online impact. _(2026-06-26)_
-- `INS-260626-8723` Swap the chat trigger for an hourly schedule and keep the approval gates, so the agent runs unprompted but every consequential action still pings you for sign-off. _(2026-06-26)_
-- `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly. _(2026-06-26)_
-- `INS-260626-56AC` An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo. _(2026-06-26)_
 - `INS-260626-B09B` AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax. _(2026-06-26)_
 - `INS-260626-4320` Shared multi-label models can replace brittle one-model-per-target workflows. _(2026-06-26)_
+- `INS-260626-56AC` An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo. _(2026-06-26)_
 - `INS-260626-E990` Most RSI proposals require training a new model per improvement step (hundreds of millions, months); doing it at the harness level skips the weights entirely and runs in days for under six figures. _(2026-06-26)_
 - `INS-260626-B38C` Mine your own chat transcripts for repetitive tasks and copy-paste loops, then codify them into skills, automations, and emergent rules — storing context for agents matters more than doing the work yourself. _(2026-06-26)_
 - `INS-260626-DCB8` Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes. _(2026-06-26)_
-- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit. _(2026-06-26)_
-- `INS-260626-C3A9` Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects. _(2026-06-26)_
-- `INS-260626-D553` A model trained on a data-rich organism can help annotate data-poor crops if it learns conserved structure. _(2026-06-26)_
 - `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure. _(2026-06-26)_
 - `INS-260626-6E01` Classic bubbles form when excess supply destroys economics; AI today is supply-constrained (no data-center capacity until late '28–'29), which makes a near-term bubble structurally unlikely even if a longer-term one remains possible. _(2026-06-26)_
 - `INS-260626-5C4D` Like Excel before it, AI becomes a competitive necessity everyone must adopt, and the cost saving gets competed away — you do far more work for the same price rather than charging more. _(2026-06-26)_
 - `INS-260626-EF8C` When traders disputed Goldman's marks in the crisis, the firm made them sell a fraction—and the vanishing bids on supposedly-AAA paper became the early warning that something was amiss. _(2026-06-26)_
+- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit. _(2026-06-26)_
+- `INS-260626-C3A9` Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects. _(2026-06-26)_
+- `INS-260626-D553` A model trained on a data-rich organism can help annotate data-poor crops if it learns conserved structure. _(2026-06-26)_
 - `INS-260626-5D91` Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul. _(2026-06-26)_
-- `INS-260626-4555` Beginner's mind and willingness to admit you were wrong now beat accumulated strong opinions, because the model keeps making those opinions obsolete. _(2026-06-26)_
 - `INS-260626-DA56` Don't ask people the probability of an event; ask what they'll do if it happens and what they can do cheaply today to mitigate it—the rehearsal itself makes you fastest off the mark. _(2026-06-26)_
 - `INS-260626-CAC8` Avoid only fatal or irreversible risk ('don't die, don't go to jail'); everything else is recoverable, and the real danger is being too cautious to do anything worth noticing. _(2026-06-26)_
+- `INS-260626-4555` Beginner's mind and willingness to admit you were wrong now beat accumulated strong opinions, because the model keeps making those opinions obsolete. _(2026-06-26)_
 - `INS-260626-2395` Smart people are wrong all the time (the best hitters make out two-thirds of the time); the big management fault is letting after-acquired information seep into your judgment of what someone should have done in the fog of the moment. _(2026-06-26)_
 - `INS-260626-60DB` Badges (degrees, awards) are useful mainly when you have no other badges — once you're world-class at something verifiable, the credential is redundant. _(2026-06-26)_
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.' _(2026-06-26)_
-- `INS-260626-77D0` Bundle features into credits the customer sees as stable, while freely re-mapping what each credit buys underneath as premium features become commodity and new ones launch. _(2026-06-26)_
-- `INS-260626-DC1B` Combine a base subscription fee (to anchor the relationship) with a usage/scaling fee (to protect margins and let users experiment) rather than choosing one or the other. _(2026-06-26)_
 - `INS-260626-A084` Linear's Quality Wednesdays make each engineer find and present one quality fix weekly; the real payoff is that everyone stays on the lookout for quality, introducing fewer regressions. _(2026-06-26)_
 - `INS-260626-75DA` You can't prompt your way to a winning company because customers give you a local-optimum answer shaped by their worldview, not a clean prompt — the unspoken signal is the alpha, and the remaining bottleneck is the wisdom to choose. _(2026-06-26)_
+- `INS-260626-77D0` Bundle features into credits the customer sees as stable, while freely re-mapping what each credit buys underneath as premium features become commodity and new ones launch. _(2026-06-26)_
+- `INS-260626-DC1B` Combine a base subscription fee (to anchor the relationship) with a usage/scaling fee (to protect margins and let users experiment) rather than choosing one or the other. _(2026-06-26)_
 - `INS-260626-05D4` Because agents read docs to pick tools, even a 5% docs improvement can have an outsized impact on adoption. _(2026-06-26)_
 - `INS-260626-FC81` Shopify deliberately absorbed years of bugs, churn, and unlimited tool spend to stay roughly six months ahead of competitors — a trade that only pays off for firms whose edge is innovation velocity and hiring, not for businesses competing on something physical. _(2026-06-26)_
 - `INS-260626-D65F` When money and intelligence are cheap and plentiful, the binding constraint — and therefore the moat — becomes attention and the ability to control mind-share. _(2026-06-26)_
@@ -819,6 +827,7 @@ _No flags._
 - `INS-260625-CF5E` The 'RAG is dead' claim conflates RAG with simple vector search; retrieval-augmented generation actually spans vector search, BM25 full-text, grep/glob/regex, and filters — so 'agentic search' is a richer form of RAG, not its replacement. _(2026-06-25)_
 - `INS-260625-B9A5` Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters. _(2026-06-25)_
 - `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends. _(2026-06-25)_
+- `INS-260625-0A3D` RunPod frames the 2026 GPU shortage as COVID-toilet-paper-style hoarding that will recover as companies get better at estimating compute needs. _(2026-06-25)_
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build. _(2026-06-25)_
 - `INS-260625-1520` Research is becoming 'mostly orchestration focused' — humans supply the ideas and taste, models do the implementation and execution — so the bottleneck moves from doing experiments to choosing the right ones. _(2026-06-25)_
 - `INS-260625-B09C` Treat code as disposable byproduct and the prompt as the real source — when better models arrive, rerun the prompt and regenerate. _(2026-06-25)_
@@ -832,16 +841,7 @@ _No flags._
 - `INS-260625-D5A7` Punish a model for visibly cheating in its reasoning and it keeps cheating — just invisibly. _(2026-06-25)_
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it. _(2026-06-25)_
 - `INS-260625-B4AC` Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks. _(2026-06-25)_
-- `INS-260625-0A3D` RunPod frames the 2026 GPU shortage as COVID-toilet-paper-style hoarding that will recover as companies get better at estimating compute needs. _(2026-06-25)_
 - `INS-260625-ACBC` Pull requests exist to codify trust; when an agent writes and another agent reviews, trust becomes diffuse and tools only solve verification, not trust. _(2026-06-25)_
-- `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. _(2026-06-25)_
-- `INS-260625-F62D` Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on. _(2026-06-25)_
-- `INS-260625-D44A` Things that fool humans rarely fool AI and things that fool AI would never fool a human — AI is an alien intelligence with its own attack surface. _(2026-06-25)_
-- `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context. _(2026-06-25)_
-- `INS-260625-3DDC` When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt. _(2026-06-25)_
-- `INS-260625-C4AE` Auto-regressive prediction has no architectural capacity to distinguish a 1789 letter from a 2019 viral tweet, so it collapses both into a single composite weighted by corpus salience. _(2026-06-25)_
-- `INS-260625-4355` Models literally write 'I could fudge this and force the function to return true' in their reasoning before doing it. _(2026-06-25)_
-- `INS-260625-F573` Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs. _(2026-06-25)_
 - `INS-260625-6127` When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents. _(2026-06-25)_
 - `INS-260625-7996` GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow. _(2026-06-25)_
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop. _(2026-06-25)_
@@ -855,6 +855,21 @@ _No flags._
 - `INS-260625-02C7` Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met. _(2026-06-25)_
 - `INS-260625-E7CD` Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request. _(2026-06-25)_
 - `INS-260625-5BF4` Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect. _(2026-06-25)_
+- `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. _(2026-06-25)_
+- `INS-260625-F62D` Models hedge against failure with getattr/hasattr guards, untyped any/tuple dumps, and backwards-compat import-export shims; these are identifiable signatures you can fail the build on. _(2026-06-25)_
+- `INS-260625-D44A` Things that fool humans rarely fool AI and things that fool AI would never fool a human — AI is an alien intelligence with its own attack surface. _(2026-06-25)_
+- `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context. _(2026-06-25)_
+- `INS-260625-3DDC` When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt. _(2026-06-25)_
+- `INS-260625-C4AE` Auto-regressive prediction has no architectural capacity to distinguish a 1789 letter from a 2019 viral tweet, so it collapses both into a single composite weighted by corpus salience. _(2026-06-25)_
+- `INS-260625-4355` Models literally write 'I could fudge this and force the function to return true' in their reasoning before doing it. _(2026-06-25)_
+- `INS-260625-F573` Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs. _(2026-06-25)_
+- `INS-260625-3B6D` An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time). _(2026-06-25)_
+- `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer. _(2026-06-25)_
+- `INS-260625-63AF` SWE-EVO's qualitative failure analysis suggests stronger models fail by misunderstanding release notes more than by broken syntax or tool use. _(2026-06-25)_
+- `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it. _(2026-06-25)_
+- `INS-260625-BF8B` DeepSeek-V4's multi-needle retrieval stays stable to ~128k tokens, then degrades — still impressive at 1M but no longer reliable — showing that mechanical capacity to process a context outruns the ability to recall from it. _(2026-06-25)_
+- `INS-260625-4027` Gemma 4 matches ~18-month-old SOTA on agentic capability (function calling, instruction-following) but Gemini stays far ahead on factual knowledge — a gap set by information theory, not training effort. _(2026-06-25)_
+- `INS-260625-39E7` Human training data confines a model to a 'typical set' H of the full solution space F; finite test-time compute and recursive self-improvement won't sample F minus H, so superhuman capability requires self-generated experience. _(2026-06-25)_
 - `INS-260625-279D` High-token-volume agentic tasks reframe inference cost from per-token API billing to fixed energy and utilization, making owned hardware economical past a volume threshold. _(2026-06-25)_
 - `INS-260625-E1CB` Don't run 10,000 pages through an LLM to extract fields—have the LLM write a parser once, then execute the script, cutting roughly 99% of tokens while gaining determinism. _(2026-06-25)_
 - `INS-260625-8E1D` Use cheaper reserved pods (or a low serverless worker count) while experimenting; pay the serverless premium only when variable load demands auto-scaling across hundreds of GPUs. _(2026-06-25)_
@@ -880,13 +895,6 @@ _No flags._
 - `INS-260625-0D5D` Keep a training sample only when tool-augmented inference solves it AND standard tool-free inference fails — this teaches the model to use tools precisely where they make the difference, not where it could have answered unaided. _(2026-06-25)_
 - `INS-260625-3768` RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows. _(2026-06-25)_
 - `INS-260625-8BC8` SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code. _(2026-06-25)_
-- `INS-260625-3B6D` An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time). _(2026-06-25)_
-- `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer. _(2026-06-25)_
-- `INS-260625-63AF` SWE-EVO's qualitative failure analysis suggests stronger models fail by misunderstanding release notes more than by broken syntax or tool use. _(2026-06-25)_
-- `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it. _(2026-06-25)_
-- `INS-260625-BF8B` DeepSeek-V4's multi-needle retrieval stays stable to ~128k tokens, then degrades — still impressive at 1M but no longer reliable — showing that mechanical capacity to process a context outruns the ability to recall from it. _(2026-06-25)_
-- `INS-260625-4027` Gemma 4 matches ~18-month-old SOTA on agentic capability (function calling, instruction-following) but Gemini stays far ahead on factual knowledge — a gap set by information theory, not training effort. _(2026-06-25)_
-- `INS-260625-39E7` Human training data confines a model to a 'typical set' H of the full solution space F; finite test-time compute and recursive self-improvement won't sample F minus H, so superhuman capability requires self-generated experience. _(2026-06-25)_
 - `INS-260625-A7C5` DeepSeek-V4's two attention mechanisms both compress global context heavily yet always concatenate the raw most-recent tokens, because recent tokens carry the most next-token signal. _(2026-06-25)_
 - `INS-260625-E464` Unlike LLM distillation (which shrinks parameters), diffusion 'step distillation' keeps the same parameter count but trains a student to match quality in 4–8 (or even 1) denoising steps instead of 50, yielding 10x–200x speedups. _(2026-06-25)_
 - `INS-260625-A02C` The diffusion serving ecosystem borrows concepts from mature LLM serving, but they must be re-derived: KV cache has no direct analog (no per-token generation), and quantization helps less because diffusion is attention-heavy. _(2026-06-25)_
@@ -903,8 +911,6 @@ _No flags._
 - `INS-260625-0CAB` Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown. _(2026-06-25)_
 - `INS-260625-7CD5` Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around. _(2026-06-25)_
 - `INS-260625-0758` Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.' _(2026-06-25)_
-- `INS-260625-BD36` Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results. _(2026-06-25)_
-- `INS-260625-26FE` Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely. _(2026-06-25)_
 - `INS-260625-91CA` Fix web foundations (semantic HTML, accessibility, performance) first; that work doubles as agent-readiness and should precede adopting WebMCP. _(2026-06-25)_
 - `INS-260625-C3B0` Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers. _(2026-06-25)_
 - `INS-260625-4248` The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup. _(2026-06-25)_
@@ -924,6 +930,8 @@ _No flags._
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge. _(2026-06-25)_
 - `INS-260625-F9B2` Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste. _(2026-06-25)_
 - `INS-260625-4B92` The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container. _(2026-06-25)_
+- `INS-260625-BD36` Insert an LLM prompt-engineering step before your image/generative model — it expands a terse human request into rich, well-cued prompts that yield better results. _(2026-06-25)_
+- `INS-260625-26FE` Place tool-invocation hints after tokens that signal the model is reconsidering ('alternatively', 'wait') or about to conclude, so tools enter exactly when reasoning is most uncertain or about to terminate prematurely. _(2026-06-25)_
 - `INS-260625-A53F` A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift. _(2026-06-25)_
 - `INS-260625-273E` A discovery system is more valuable when it returns an explorable landscape, not only a winner. _(2026-06-25)_
 - `INS-260625-B8D1` Automating overnight ablations you'd have done anyway is convenient but incremental; the exciting threshold is an agent making a 'Move 37'-style discovery a human wouldn't have thought of. _(2026-06-25)_
@@ -965,23 +973,23 @@ _No flags._
 - `INS-260625-1826` Do not rely on policy text to keep agents away from the oracle. _(2026-06-25)_
 - `INS-260625-2563` Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there. _(2026-06-25)_
 - `INS-260625-019F` Code no longer documents agent behavior at runtime — only telemetry (traces/spans) does, so observability must be instrumentation-first. _(2026-06-25)_
-- `INS-260625-1654` Scientific autonomy is a cyber-physical stack, not just a model call. _(2026-06-25)_
-- `INS-260625-017C` Because DMPC keeps the action proposal and the dynamics model separate, you can re-adapt only the dynamics on a broken-ankle robot and recover performance the monolithic policy can't. _(2026-06-25)_
 - `INS-260625-D26E` The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence. _(2026-06-25)_
 - `INS-260625-D729` Autonomous workflows become more useful when objectives match the field, not a toy proxy. _(2026-06-25)_
+- `INS-260625-1654` Scientific autonomy is a cyber-physical stack, not just a model call. _(2026-06-25)_
+- `INS-260625-017C` Because DMPC keeps the action proposal and the dynamics model separate, you can re-adapt only the dynamics on a broken-ankle robot and recover performance the monolithic policy can't. _(2026-06-25)_
 - `INS-260625-8A5F` Make the agent's corrected conversation history part of its own retrieval source, so each human fix becomes future training context and the agent gets better day after day. _(2026-06-25)_
 - `INS-260625-9721` Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills. _(2026-06-25)_
 - `INS-260625-D2E3` Pair every generated scraper with a scheduled agent loop that validates output and rewrites the parser when selectors drift. _(2026-06-25)_
 - `INS-260625-4AB6` SkillOpt pairs a continuous fast-update path of small skill edits with a slow per-epoch reflection step plus a meta-skill memory of what has and hasn't worked. _(2026-06-25)_
+- `INS-260625-4D06` The market wrongly assigns a premium to SaaS vendors reselling tokens as if it were re-accelerating revenue, but token-resale carries far worse margins than classic SaaS — the durable model is exposing every product capability via API and charging for consumption. _(2026-06-25)_
+- `INS-260625-5972` Reaching the top of a scientific discipline requires the same human leadership — earning trust, marshaling resources, confrontational conviction — that makes a great CEO, so 'he's just a researcher' is a category error. _(2026-06-25)_
 - `INS-260625-0F13` The 83-of-213 validation hit rate is important because the source also reports structural dissimilarity, MDR potency, selectivity, and low resistance frequency for the lead compounds. _(2026-06-25)_
 - `INS-260625-8CE3` The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing. _(2026-06-25)_
 - `INS-260625-2224` The source frames selective antibacterial compounds against N. gonorrhoeae as a needed tool for a pathogen with resistance to recommended antibiotics. _(2026-06-25)_
-- `INS-260625-4D06` The market wrongly assigns a premium to SaaS vendors reselling tokens as if it were re-accelerating revenue, but token-resale carries far worse margins than classic SaaS — the durable model is exposing every product capability via API and charging for consumption. _(2026-06-25)_
-- `INS-260625-5972` Reaching the top of a scientific discipline requires the same human leadership — earning trust, marshaling resources, confrontational conviction — that makes a great CEO, so 'he's just a researcher' is a category error. _(2026-06-25)_
-- `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people. _(2026-06-25)_
 - `INS-260625-0248` Pick papers or work you look up to and replicate them exactly — matching the training curves, loss, or perplexity the original hit — because the unspoken techniques only surface when you go a few layers deeper. _(2026-06-25)_
 - `INS-260625-0B96` Borrowing a trader's lens, sound-but-ambitious bets only have to pay off 'once in a while' to justify themselves — so evaluate the portfolio's expectation, and mine failed bets for their writeups. _(2026-06-25)_
 - `INS-260625-3AF0` Hanoi paid citizens per rat tail to cut the rat population; people farmed rats for their tails and the problem got worse. _(2026-06-25)_
+- `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people. _(2026-06-25)_
 - `INS-260625-E4EF` Remote-controlling running agents from your phone means walking away from the desk no longer means stopping work. _(2026-06-25)_
 - `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do. _(2026-06-25)_
 - `INS-260625-D666` Model advances unlock companies that provide the outcome (the completed tax return, FDA approval, legal work) rather than a co-pilot the customer uses internally. _(2026-06-25)_

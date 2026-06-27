@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260402-30DC
   - INS-260410-0142
-  - INS-260605-738E
   - INS-260605-2C70
   - INS-260605-8F95
   - INS-260605-04E7
@@ -60,5 +59,6 @@ related:
   - INS-260626-5037
   - PRI-260328-A82C
   - INS-260626-742C
+  - INS-260404-CE26
 ---
 Labonne argues that low knowledge capacity is actually freeing: rather than chase average performance across every benchmark, you concentrate the model's limited capacity on the capabilities that matter for its deployment. Liquid's LFM 2.5 350M was deliberately optimized to be very strong at data extraction (case-report-style) and tool use (BFCL, Tau-bench), while accepting weakness on coding and math — 'people don't use it that way anyway.' This applies to fine-tuning too: the narrower you can scope a downstream task (e.g. calling one particular function), the better the result. The principle generalizes beyond edge models — capacity-constrained systems should be designed around an explicit capability target, treating breadth as a cost rather than a default goal. Trying to be balanced on everything spreads scarce capacity too thin to be excellent anywhere.

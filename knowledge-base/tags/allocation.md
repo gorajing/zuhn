@@ -1,3 +1,3 @@
 # Tag: allocation
 
-- `INS-260330-F4C0` Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
+- `INS-260627-F805` A model router should optimize quality per constrained resource, not simply call the highest-ranked model more often.

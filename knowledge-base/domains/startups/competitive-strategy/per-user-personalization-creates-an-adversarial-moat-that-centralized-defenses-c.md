@@ -47,11 +47,11 @@ stance: >-
   adversarial gaming exponentially harder because attackers cannot optimize
   against a single shared model.
 related:
+  - INS-260627-9121
   - INS-260321-D01E
   - PRI-260406-2BC0
   - INS-260605-77E5
   - INS-260327-7299
-  - INS-260605-D37A
 evidence:
   - id: INS-260321-D01E
     type: CHALLENGES

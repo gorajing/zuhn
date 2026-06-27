@@ -14,8 +14,8 @@
 - `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
 - `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
 - `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
-- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260412-3829` Airline points are tax-free because governments classify them as purchase rebates rather than income — a classification that enables the entire multi-billion dollar points economy.
+- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.
 - `INS-260403-D4D4` Lenny called his 2,500-member private Slack community one of his proudest achievements, distinct from the newsletter itself.
 - `INS-260403-0414` Durable competitive advantage comes from business model design, not product or technology superiority alone.

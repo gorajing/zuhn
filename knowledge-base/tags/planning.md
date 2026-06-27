@@ -18,8 +18,8 @@
 - `INS-260626-B7AC` The bottleneck is not only finding the algorithm; current models can fail to execute and verify an algorithm they are given.
 - `INS-260323-A5EC` LLMs generate one token at a time without planning the full answer first, unlike humans who form an abstract representation of their response before mapping it to language -- this is a fundamental architectural limitation.
 - `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.
-- `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
 - `INS-260327-BF89` Flow engineering -- explicitly designing the agent's state machine rather than relying on LLM implicit planning -- is the current best practice for reliable agent deployment, though it may become unnecessary as models improve.
+- `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
 - `INS-260329-7673` ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
 - `INS-260410-25AC` Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
 - `INS-260329-0F39` Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
@@ -31,9 +31,9 @@
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
 - `INS-260329-1ACD` Planning code via pseudocode and flowcharts before writing it produces cleaner implementations with fewer bugs.
 - `INS-260412-FEE1` Antarctic winter crews are more isolated than ISS astronauts—seven months with zero possibility of external support, requiring total pre-commitment of resources and personnel.
-- `INS-260327-0E86` Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260403-1904` Centralizing all financial assumptions in one tab and wiring downstream logic to it prevents the Jenga-tower fragility that plagues most startup spreadsheets.
 - `INS-260625-4D1D` xAI's 'no goal is too ambitious' deadlines were set by computing the minimum number of days physics allows — data acquisition rate, training iteration speed, GPU scaling, human-data turnaround — not by picking a target date.
+- `INS-260327-0E86` Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260402-2300` Start thinking about fundraising 12 months before you need it, maintain 8+ months runway when beginning outreach, and consider bridge rounds if runway is short.
 - `INS-260412-B6D3` Airlines submit preferred routes nightly to Gander ATC, which synthesizes them into the day's North Atlantic Tracks — bottom-up input with centralized coordination.

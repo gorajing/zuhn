@@ -58,9 +58,9 @@ related:
   - INS-260605-36E9
   - INS-260605-7843
   - INS-260605-773B
-  - INS-260625-B4AC
   - INS-260625-FC2D
   - INS-260625-25D6
+  - INS-260625-0E60
 ---
 Hetzel frames eval design as a two-step dependency: the best way to perform evals is to think hard about the specific failure modes your agent can fall into and build scoring functions around them — and the best way to find those failure modes in the first place is to have access to production trace data, the agent in front of real users and real usage. This is why a playground or a synthetic test set, while a useful step, is not where the rubber meets the road.
 

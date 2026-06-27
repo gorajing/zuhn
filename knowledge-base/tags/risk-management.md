@@ -5,7 +5,6 @@
 - `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
-- `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
 - `INS-260326-6D53` The opposite of fragile is not robust (indifferent to shocks) but antifragile (benefits from shocks), a distinction with massive implications for portfolio construction and system design.
@@ -22,6 +21,7 @@
 - `INS-260323-1B42` Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
 - `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
 - `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
+- `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
 - `INS-260403-970B` When a sector will produce few massive winners among thousands of failures, fund diversification through top-tier managers beats direct bets.
 - `INS-260403-C557` VCs investing in the same rounds as peers create correlated portfolios that amplify downside risk when markets turn.
@@ -40,13 +40,13 @@
 - `INS-260410-DDD0` When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet.
 - `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
+- `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
+- `INS-260627-1C69` Break a moonshot into off-rampable sprints, each shipping real value, so leadership can pull the plug guilt-free.
+- `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260330-19E1` Midgley rejected ethanol (safe, effective, but low-margin) in favor of tetraethyl lead (cheap, high-margin, known toxic) — a decision that generated ~$3B in profits but caused an estimated 100 million deaths globally.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260330-570F` Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.
 - `INS-260403-5710` Ever-shifting tariff regimes — imposing, exempting, reimposing under different authorities — make long-term business planning impossible, which suppresses investment independent of tariff levels.
-- `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
-- `INS-260627-1C69` Break a moonshot into off-rampable sprints, each shipping real value, so leadership can pull the plug guilt-free.
-- `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
 - `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260329-6130` Low personal expenses buy you more shots on goal by letting you survive multiple business failures.

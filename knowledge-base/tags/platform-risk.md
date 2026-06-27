@@ -4,9 +4,9 @@
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
 - `INS-260412-46A4` Robinhood's buy-side restrictions during the GME squeeze revealed that platforms funded by institutional order flow payments will protect those institutions when retail activity threatens them.
 - `INS-260327-B950` Venice's decline began when Portuguese discovery of the sea route to India bypassed the Mediterranean trade routes that Venice controlled.
-- `INS-260412-0BF3` Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260330-7251` Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
+- `INS-260412-0BF3` Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
 - `INS-260412-6FB6` Nokia's decision to use Microsoft's OS instead of Android meant superior hardware was undermined by a barren app ecosystem, proving that platform ecosystem size trumps hardware quality.
 - `INS-260403-3C66` AI startups need at least one of three moats — domain expertise, differentiated distribution, or new interaction models — to survive platform competition.
 - `INS-260403-16A7` You cannot create strategic dependency on an actor who has explicitly committed to eliminating that dependency.

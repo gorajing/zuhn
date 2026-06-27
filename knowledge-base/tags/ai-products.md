@@ -9,12 +9,12 @@
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260605-4FE3` Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260626-DC1B` Combine a base subscription fee (to anchor the relationship) with a usage/scaling fee (to protect margins and let users experiment) rather than choosing one or the other.
-- `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260327-FFA7` In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
 - `INS-260327-A5EE` If your AI product works well today, you're not thinking big enough—build for the next model generation.
 - `INS-260327-3A71` In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
 - `INS-260327-2718` A thousand complaints from dedicated users is healthier than silence or universal satisfaction.
 - `INS-260327-B17E` You cannot pre-test AI products with infinite use cases—ship fast and learn from real user behavior.
+- `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
 - `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - `INS-260405-474C` ChatGPT's capabilities set the expectation ceiling for every AI product, regardless of use case.

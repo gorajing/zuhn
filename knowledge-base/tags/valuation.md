@@ -13,8 +13,8 @@
 - `INS-260412-4D5D` Samsung's 80 subsidiaries across construction, finance, healthcare, and electronics prevent existential risk but didn't prevent a $122B market cap loss because markets price the flagship's trajectory, not the portfolio's floor.
 - `INS-260410-641D` An acquisition serving three strategic purposes simultaneously is worth far more than critics who grade on one dimension will estimate — YouTube went from 'Google's worst mistake' to a $500B business.
 - `INS-260412-9B06` Nikola surpassed Ford's $28B market cap within one week of going public despite having zero revenue, zero deliveries, and no functioning technology.
-- `INS-260411-0841` Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
 - `INS-260404-D475` Kalshi's $11B valuation and 1000% volume growth validates regulated prediction markets as a mainstream financial category.
+- `INS-260411-0841` Household net worth at 560% of GDP and low credit spreads mean anything less than positive outcomes could trigger dramatic asset price declines.
 - `INS-260405-F374` SpaceX at $350B staying private proves the largest strategic assets no longer need public markets for liquidity.
 - `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - `INS-260403-D880` Judging sky-high valuations by the revenue needed to justify them — given realistic margins, growth, and reinvestment — reveals that aggregated company narratives often exceed plausible total market demand.
@@ -64,6 +64,6 @@
 - `INS-260403-001C` The VC Method estimates future exit value then discounts back to today using target return rates, bypassing the need for cash flow history.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
 - `INS-260403-DAFA` Dealroom's 2025 VC ranking weights two-thirds of scores on real revenue milestones rather than growth narratives.
+- `INS-260405-180A` Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.
 - `INS-260405-4CDA` The 1980s leveraged buyout wave succeeded partly because corporate balance sheets never formalized the debt owed to employees for deferred promotion promises.
 - `INS-260403-B228` Valuation reflects how much uncertainty remains — momentum can inflate it temporarily but markets always revert to evidence.
-- `INS-260405-180A` Lacework's near-total value destruction illustrates how much 2021 unicorn valuations were driven by rate environment rather than business quality.

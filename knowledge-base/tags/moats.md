@@ -39,13 +39,13 @@
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
 - `INS-260410-C445` Walmart's refusal to take outside capital forced obsessive focus on inventory turns and per-unit economics, which became the actual advantage over Kmart at scale.
+- `INS-260625-11A3` Culture is not what you believe but what you repeatedly do; it compounds into a moat competitors can't catch, yet frays instantly when leaders stop acting on stated commitments.
 - `INS-260410-58A5` F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260410-C688` When a product bundles utility with an intangible 'priceless feeling,' buyers can no longer comp it against alternatives, which frees the seller to price without reference to competitor feature sets.
 - `INS-260405-FD9D` SaaS is speedrunning itself — viral today, vanished tomorrow — making defensibility more urgent than ever.
 - `INS-260404-9004` Subscription SaaS companies from 2012 built durable moats through deep enterprise integration and high switching costs.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260410-270E` Coca-Cola serves the entire world from a handful of syrup plants because it lets independent bottlers put up the capital and labor for bottling and distribution while the parent company keeps the trademark, the formula, and the marketing.
-- `INS-260625-11A3` Culture is not what you believe but what you repeatedly do; it compounds into a moat competitors can't catch, yet frays instantly when leaders stop acting on stated commitments.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260404-2FD0` Bundling adjacent features around a core product creates stickiness in commodity markets.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.

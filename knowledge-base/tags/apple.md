@@ -9,11 +9,11 @@
 - `INS-260404-B863` Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
+- `INS-260412-7FF8` iPhone engineers worked 7-day weeks for years, with multiple divorces and health breakdowns, while the world only saw the magical launch event.
 - `INS-260412-3506` Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
 - `INS-260412-AB09` Intel CEO Paul Otellini rejected the iPhone chip deal because mobile margins seemed too thin, inadvertently funding Apple's path to replacing Intel entirely.
 - `INS-260330-8326` Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.
 - `INS-260412-FB49` Apple's iPhone profits funded chip R&D that improved 300% in five years while Intel improved only 28%, demonstrating how adjacent-market cash flows can fuel disruption.
-- `INS-260412-7FF8` iPhone engineers worked 7-day weeks for years, with multiple divorces and health breakdowns, while the world only saw the magical launch event.
 - `INS-260412-B825` Apple ran two competing iPhone teams (iPod-phone vs touch-Mac-OS) without letting them see each other's work, and the underdog team won.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.

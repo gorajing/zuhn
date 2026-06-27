@@ -1,14 +1,14 @@
 # Domain: ai-development
 
-> 3604 insights across 48 topics
+> 3612 insights across 48 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | adoption | 80 | An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively. |
-| agent-evals | 91 | An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it. |
-| agent-patterns | 448 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
+| agent-evals | 95 | An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it. |
+| agent-patterns | 449 | Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended. |
 | agent-reliability | 11 | Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning. |
 | agents | 81 | What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime. |
 | ai-agents | 74 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
@@ -35,7 +35,7 @@
 | infrastructure | 95 | A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop. |
 | limitations | 102 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-behavior | 43 | Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. |
-| llm-costs | 61 | Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching. |
+| llm-costs | 62 | Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching. |
 | llm-training | 101 | Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations. |
 | llms | 1 | In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge. |
 | mcp | 26 | Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication. |
@@ -50,7 +50,7 @@
 | research-methodology | 134 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
 | security | 21 | Approval records should include tool authority and runtime boundary. |
 | software-engineering | 3 | AI coding tools shift leverage from writing code to governing generated code. |
-| system-building | 321 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
+| system-building | 323 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 114 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | training-dynamics | 24 | For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them. |

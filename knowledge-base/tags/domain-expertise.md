@@ -17,11 +17,11 @@
 - `INS-260327-5DD3` Murat was the greatest cavalry commander of his era but a disastrous king — his instinct for dramatic personal action was perfect for leading charges but catastrophic for governance.
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260327-10A2` Sneaker reseller Leo makes the highest margins on pre-owned shoes where pricing is non-standardized and his years of expertise let him issue bids within seconds, while new-shoe margins are constrained to 20-25%.
-- `INS-260403-FCEA` Generic VC platform services fail; domain-specific research and talent networks in verticals where your portfolio clusters create real competitive advantage.
-- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260330-7CC0` Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
+- `INS-260403-FCEA` Generic VC platform services fail; domain-specific research and talent networks in verticals where your portfolio clusters create real competitive advantage.
+- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260625-904E` The best person to build accounting software is now a great accountant, not an engineer — coding is the easy part, knowing the domain is the hard part.
 - `INS-260605-AAA1` Domain expertise is the non-negotiable base; layer on as many adjacent skills as possible so the same person can scale into evaluator and architect roles.

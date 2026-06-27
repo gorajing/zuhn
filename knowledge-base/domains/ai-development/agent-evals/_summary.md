@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 91 insights
+> 95 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -37,12 +37,16 @@
 - `INS-260626-BF18` [high] Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
 - `INS-260625-52C0` [high] Stable task and solution schemas let evaluators grow without breaking agents.
 - `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
+- `INS-260627-8213` [high] For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
 - `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260626-6AF4` [high] Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
+- `INS-260627-6984` [high] Before building a router, measure the all-models-wrong rate and certify whether any selector has enough headroom to matter.
+- `INS-260627-9C1F` [high] If production is open-ended, do not trust a multiple-choice eval to reveal shared model failure.
 - `INS-260627-21FF` [high] A generic judge that could detect your agent's hallucinations would imply the app already worked — eval metrics must come from the specific business use case, defined by subject-matter experts, not pulled from a library.
 - `INS-260626-485E` [high] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260625-99B0` [high] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
 - `INS-260625-9E17` [high] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- `INS-260627-FFCB` [high] Do not price multi-model orchestration from pairwise correlation; directly estimate the all-wrong tail.
 - `INS-260625-7165` [high] Convincingness and fidelity are independent properties, so an eval that scores convincingness tells you nothing about whether the persona's reasoning is faithful to the record.
 - `INS-260627-FEBB` [high] The strongest eval result is sometimes a map of where success is impossible.
 - `INS-260625-25D6` [high] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.

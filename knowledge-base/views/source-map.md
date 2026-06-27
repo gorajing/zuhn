@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-27 | 3237 sources
+Generated on 2026-06-27 | 3238 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -180,10 +180,10 @@ Generated on 2026-06-27 | 3237 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| From agentic AI to physical AI | audio | 8 | 2026-06-03 |
-| TQ era | audio | 8 | 2026-06-03 |
 | Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents? | paste | 8 | 2026-06-26 |
 | Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
+| From agentic AI to physical AI | audio | 8 | 2026-06-03 |
+| TQ era | audio | 8 | 2026-06-03 |
 | A Deterministic Control Plane for LLM Coding Agents | blog | 8 | 2026-06-26 |
 | A hardware-safety-gated system for LLM-written native ARTIQ control code on a trapped-ion platform | blog | 8 | 2026-06-27 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
@@ -196,6 +196,7 @@ Generated on 2026-06-27 | 3237 sources
 | Power Systems Agent Benchmark: Executable Evaluation of AI Agents in Electric Power Engineering | blog | 8 | 2026-06-25 |
 | RAG Is A Hack - with Jerry Liu from LlamaIndex | blog | 8 | 2026-04-10 |
 | Self-Driving Chemistry Lab Discovers Catalysts That Can Switch Products on Demand | NC State News | blog | 8 | 2026-06-26 |
+| When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models | blog | 8 | 2026-06-27 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A $350,000 AI AD Using Only 1 Tool (2026) | youtube | 8 | 2026-04-09 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -2128,12 +2129,12 @@ Generated on 2026-06-27 | 3237 sources
 | You Are Immune Against Every Disease | youtube | 4 | 2026-04-12 |
 | Your life needs more ‘existential grit.’ Here’s how to find it | Kate Bowler | youtube | 4 | 2026-03-25 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
+| Anthropic API release notes relevant to weekly platform changelog | paste | 3 | 2026-06-27 |
 | agent | audio | 3 | 2026-06-02 |
 | Google io | audio | 3 | 2026-06-03 |
 | takeaway | audio | 3 | 2026-05-06 |
 | The St. Regis San Francisco 3 | audio | 3 | 2026-06-19 |
 | World Model | audio | 3 | 2026-06-03 |
-| Anthropic API release notes relevant to weekly platform changelog | paste | 3 | 2026-06-27 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 3 | 2026-03-30 |
 | Authorization - Model Context Protocol | blog | 3 | 2026-06-05 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 3 | 2026-03-31 |
@@ -2299,8 +2300,8 @@ Generated on 2026-06-27 | 3237 sources
 | Will Superintelligent AI End the World? | Eliezer Yudkowsky | TED | youtube | 3 | 2026-03-27 |
 | Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 | youtube | 3 | 2026-03-24 |
 | Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390 | youtube | 3 | 2026-03-24 |
-| Digital Jungle 2 | audio | 2 | 2026-06-19 |
 | openai codex remote ga june 25 2026 | paste | 2 | 2026-06-26 |
+| Digital Jungle 2 | audio | 2 | 2026-06-19 |
 | AI SDK 7 is now available - Vercel | blog | 2 | 2026-06-26 |
 | Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents | blog | 2 | 2026-06-26 |
 | Cloud Environment Setup and Cloud Subagents in Agents Window · Cursor | blog | 2 | 2026-06-26 |
@@ -2690,8 +2691,8 @@ Generated on 2026-06-27 | 3237 sources
 | You’d Be Surprised How Bad of a Person You Are - Thought Experiments That Change the Way You Think | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How People Perceive You | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How Smart (Or Dumb) You Are | The Dunning-Kruger Effect | youtube | 2 | 2026-03-26 |
-| The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
 | Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
+| The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
 | Agent finder for GitHub Copilot now available | blog | 1 | 2026-06-26 |
 | Agentic Resource Discovery: Let agents search | blog | 1 | 2026-06-26 |
 | Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A- Google Developers Blog | blog | 1 | 2026-06-27 |

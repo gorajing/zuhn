@@ -3,8 +3,8 @@
 - `INS-260322-A36C` When a measure becomes a target, it stops being accurate — AI productivity must be measured through passive behavioral data (who actually uses the tools) married with outcomes, not self-reported surveys.
 - `INS-260625-6ED0` Like factories that swapped a steam engine for an electric motor and got only modest gains until they redesigned around small distributed motors, AI gains stay incremental until you redesign the whole dev process.
 - `INS-260322-FD23` Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
-- `INS-260329-9D26` Using AI as an input filter and output accelerator compounds into roughly 100x individual productivity gains.
 - `INS-260627-9AF4` Orchestrating fleets of agents pays off enormously on repeatable maintenance toil (CVE remediation, migrations, type annotations), not on everyday feature work.
+- `INS-260329-9D26` Using AI as an input filter and output accelerator compounds into roughly 100x individual productivity gains.
 - `INS-260322-76B5` A Bali-based cybersecurity consultant now works 30 minutes per day — reviewing agent-completed security tests and reports that previously took one person two weeks per test — while generating ~150M won monthly.
 - `INS-260404-BD96` The transition from AI as information provider to AI as autonomous workflow executor represents the next major frontier in generative AI value creation.
 - `INS-260410-C045` Tao's papers now contain more code, more figures, deeper literature searches thanks to AI — but the hardest parts still happen on pen and paper.
@@ -39,18 +39,18 @@
 - `INS-260323-2E51` Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
 - `INS-260320-76D2` Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
-- `INS-260403-9757` Research shows brain function drops 15% above 1000 ppm CO2 and over 50% above 1400 ppm, making CO2 monitoring a high-ROI cognitive tool.
 - `INS-260626-5C4D` Like Excel before it, AI becomes a competitive necessity everyone must adopt, and the cost saving gets competed away — you do far more work for the same price rather than charging more.
 - `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
+- `INS-260403-9757` Research shows brain function drops 15% above 1000 ppm CO2 and over 50% above 1400 ppm, making CO2 monitoring a high-ROI cognitive tool.
 - `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
+- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
 - `INS-260405-9760` Being measured on output alone and judged against your own bar is the condition for peak productivity.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
-- `INS-260403-7943` Population decline creates a doom loop where fewer workers means fewer researchers means lower productivity growth means less ability to compensate for fewer workers.
-- `INS-260627-F1B4` Ask people how productive they felt, not how long something took — only the former tracks reality.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
+- `INS-260627-F1B4` Ask people how productive they felt, not how long something took — only the former tracks reality.
 - `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260404-D547` Fake work — activity that looks like work but produces nothing — is more dangerous than leisure because it doesn't trigger the guilt alarms that would prompt you to stop.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.

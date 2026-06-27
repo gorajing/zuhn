@@ -21,9 +21,9 @@
 - `INS-260605-EC51` An LLM judge is just a prompt plus a model — build a labeled dataset and run precision/recall/F1 on the judge itself, then keep checking it against human agreement over time.
 - `INS-260627-B093` Reward peaks and deployment success peaks are not the same surface.
 - `INS-260403-C838` MOIC flatters slow capital while IRR exaggerates quick wins — you need both to see reality.
+- `INS-260625-3AF0` Hanoi paid citizens per rat tail to cut the rat population; people farmed rats for their tails and the problem got worse.
 - `INS-260423-9BA5` Seth Godin: at Yahoo, the thing that wrecked the company was the stock ticker — 3,000 people watching it daily and doing whatever made it go up in one day, even when it wouldn't go up in one year.
 - `INS-260423-77DF` Dalton: in the first 10% of the race, you look like you're winning — and sometimes forget you have 90% of the race to run.
-- `INS-260625-3AF0` Hanoi paid citizens per rat tail to cut the rat population; people farmed rats for their tails and the problem got worse.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260330-A9DD` Frequency, orgasm rate, and duration are proxy metrics that often diverge from actual sexual satisfaction — pleasure itself is the only valid measure of sexual wellbeing.
 - `INS-260330-FA1C` The only question that matters for sexual well-being is 'do you like the sex you're having?' — all other metrics are noise.
@@ -32,9 +32,9 @@
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
-- `INS-260626-A893` Quality has no measurable metric and doesn't move revenue until it does, so it gets neglected — then a higher-quality competitor slowly drains your users with no AB test to warn you.
 - `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260404-1775` Early-stage startups gain the most from simple, structured KPI tracking rather than complex BI tools or gut feel.
+- `INS-260626-A893` Quality has no measurable metric and doesn't move revenue until it does, so it gets neglected — then a higher-quality competitor slowly drains your users with no AB test to warn you.
 - `INS-260519-7402` James Pastan (Framer): setup enables aha; aha with habit is activation — and if success in the product doesn't mean they pay you, you don't have a business.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
 - `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
@@ -60,12 +60,12 @@
 - `INS-260423-FB36` Dalton: if you find yourself looking at the graphs that other people don't want to look at, that's how you win the slop war.
 - `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260402-3CF1` Airdrop farming, data portability, and pseudonymous wallets break every traditional PMF measurement framework.
-- `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
-- `INS-260329-2B60` Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
-- `INS-260329-E96A` If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
 - `INS-260412-DF7B` Civilizational and organizational scale correlate most reliably with total energy/resource throughput.
 - `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
 - `INS-260403-D8DB` Burn multiple (spend per ARR dollar), efficiency score (ARR per burn dollar), and hype factor (capital raised vs ARR) together reveal whether growth is real.
+- `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
+- `INS-260329-2B60` Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
+- `INS-260329-E96A` If you measure success by 'did I help them decide' instead of 'did they buy,' pressure disappears and close rates increase.
 - `INS-260412-93EA` Rwanda's strategy of explicitly targeting World Bank indicators and global rankings mirrors Goodhart's Law in business — when a measure becomes a target, it ceases to be a good measure.
 - `INS-260326-870E` Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
 - `INS-260403-6807` Match your metrics infrastructure to your actual stage—tracking five core dimensions in a spreadsheet beats a premature Looker deployment.

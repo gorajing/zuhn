@@ -21,10 +21,10 @@
 - `INS-260627-EB75` Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped.
 - `INS-260410-2383` Ten Napoleons are not worth 400,000 soldiers — parallelizing AI researchers hits diminishing returns fast, and the binding constraints become taste and compute.
 - `INS-260626-6DCA` Across Gemma 1 → 2 → 3 → 4, LM Arena scores rose generation over generation without the models getting bigger, with the most capable points clustering in the 'small-and-strong' top-left corner.
+- `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260402-C98A` Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
 - `INS-260327-C962` Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260325-4846` Every successful technology follows the same S-curve adoption pattern, and AI is at its steepest inflection.
-- `INS-260410-101D` China adds a France-or-UK-sized power grid every year; their strategic bet on cheap abundant electricity positions them to deploy more AI than anyone once the model matters less than how many you can run.
 - `INS-260404-E077` Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
 - `INS-260625-7996` GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.
@@ -34,19 +34,19 @@
 - `INS-260627-51BE` Because each step runs on its own serverless function, platform timeouts apply per-step — long workflows just split into more steps, and concurrency is bounded only by the provider.
 - `INS-260605-4AF8` Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
 - `INS-260605-D78B` Serverless GPU containers remove the need to own and isolate a training cluster, letting you fan out, kill unpromising runs, and pay only for what you use.
+- `INS-260625-39E7` Human training data confines a model to a 'typical set' H of the full solution space F; finite test-time compute and recursive self-improvement won't sample F minus H, so superhuman capability requires self-generated experience.
 - `INS-260412-9B00` At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
 - `INS-260625-E1CB` Don't run 10,000 pages through an LLM to extract fields—have the LLM write a parser once, then execute the script, cutting roughly 99% of tokens while gaining determinism.
 - `INS-260625-8E1D` Use cheaper reserved pods (or a low serverless worker count) while experimenting; pay the serverless premium only when variable load demands auto-scaling across hundreds of GPUs.
 - `INS-260605-9F7A` Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
-- `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
-- `INS-260626-B983` Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.
 - `INS-260323-4E12` The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260410-3E86` A trillion-parameter transformer and a 41-parameter micrograd MLP use the same forward pass, same backward pass, same gradient descent loop — only the loss function (cross-entropy vs MSE) and optimizer tweaks differ.
 - `INS-260410-656B` Going from 3 to 8 characters of context in the same flat MLP moved validation loss from 2.10 to 2.02 — a bigger gain than the later hierarchical WaveNet rewrite produced at matched parameter count.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
-- `INS-260625-39E7` Human training data confines a model to a 'typical set' H of the full solution space F; finite test-time compute and recursive self-improvement won't sample F minus H, so superhuman capability requires self-generated experience.
+- `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
+- `INS-260626-B983` Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.
 - `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260410-2FEE` With 27 tokens a bigram table has 729 entries but a 10-gram table would need 27^10 ≈ 2×10^14 entries — tables are structurally unscalable, which is the real reason neural language models won.
 - `INS-260605-DD2A` VITs win over CNNs not because the architecture is better but because massive VIT-specific pretraining re-learns the inductive biases CNNs got for free.
@@ -70,10 +70,10 @@
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - `INS-260409-B80C` A shared bus with arbitration is how you escape N-squared point-to-point wiring — the same idea powers hardware buses, message queues, and event buses.
 - `INS-260626-4320` Shared multi-label models can replace brittle one-model-per-target workflows.
-- `INS-260412-A4E9` Elephants require more mutations per cell to develop cancer because evolution equipped them with additional tumor suppressor genes to offset their massive cell counts.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
-- `INS-260412-5494` Kurzgesagt's method of escalating from 15,000 warheads to all-uranium-on-Earth reveals phase transitions invisible at normal scale.
+- `INS-260412-A4E9` Elephants require more mutations per cell to develop cancer because evolution equipped them with additional tumor suppressor genes to offset their massive cell counts.
 - `INS-260404-EC33` Plants produce 40 billion tons of an inefficient enzyme rather than evolving a better one — volume compensates for poor per-unit performance.
+- `INS-260412-5494` Kurzgesagt's method of escalating from 15,000 warheads to all-uranium-on-Earth reveals phase transitions invisible at normal scale.
 - `INS-260412-AB42` A 10x change in one dimension produces 100x and 1000x changes in related dimensions, making single-scale intuition dangerously misleading.
 - `INS-260320-8688` Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
@@ -82,12 +82,6 @@
 - `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260405-13C5` Spending on acquisition before proving unit economics is the most common cash-kill mechanism in SaaS.
-- `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
-- `INS-260403-2496` Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
-- `INS-260412-00A1` China's agricultural self-sufficiency — the foundation of its rise — became impossible at the scale its success created, forcing import dependence on potentially hostile foreign powers.
-- `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
-- `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
-- `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260409-2578` Pivots at scale rarely work — only pivot when you have literally no other choice.
@@ -97,6 +91,12 @@
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
 - `INS-260323-CB34` Founders who try to be every team member stifle company growth and drain energy from the entire organization.
+- `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
+- `INS-260403-2496` Yahoo's hand-curated web directory drowned as the internet scaled, while Google's PageRank handled exponential growth effortlessly.
+- `INS-260412-00A1` China's agricultural self-sufficiency — the foundation of its rise — became impossible at the scale its success created, forcing import dependence on potentially hostile foreign powers.
+- `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
+- `INS-260330-45A9` Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
+- `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260405-BBA3` Five happy full-price customers is the minimum evidence required to justify building a repeatable sales motion.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
@@ -109,12 +109,12 @@
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
+- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
+- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260410-1C96` Size ambition to the reach of your brand equity, not the size of your revenue.
 - `INS-260403-B18C` Exponential growth comes from stacking multiple self-reinforcing growth loops, not optimizing individual acquisition channels.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
-- `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
-- `INS-260325-07FA` Just as semiconductors and solar followed Wright's Law cost curves, gene therapy could drop from millions per dose to thousands — enabling treatment of ultra-rare diseases that currently have no economic model.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
@@ -143,7 +143,6 @@
 - `INS-260323-C90C` True AI-native companies embed AI directly into the product so it works with the customer without human involvement, scaling with compute instead of headcount.
 - `INS-260330-851F` Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
-- `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
 - `INS-260410-0D14` Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 - `INS-260403-8A80` Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - `INS-260403-DD41` YC broke at 80 startups because partner-startup relationships were O(n²) — sharding into dedicated groups fixed it instantly.
@@ -224,6 +223,7 @@
 - `INS-260412-578D` Each ocean depth zone has completely different light, pressure, food sources, and survival strategies — no single adaptation works across all layers.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260403-E1EB` Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
+- `INS-260405-443C` Sales hires amplify product-led momentum but cannot substitute for it.
 - `INS-260403-5B4E` Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260410-DF88` Benchmark's 'we will not scale' is a real strategy because the thing they sell — partnership-wide attention on every portfolio company — literally cannot exist at 5x the size.

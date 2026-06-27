@@ -17,8 +17,8 @@
 - `INS-260403-A331` Event hosting is becoming a systematic deal sourcing engine that shapes VC conviction before pitch decks exist.
 - `INS-260403-C17B` Twice-yearly high-visibility campaigns convert passive interest into active community participation by lowering activation energy at scale.
 - `INS-260403-D4D4` Lenny called his 2,500-member private Slack community one of his proudest achievements, distinct from the newsletter itself.
-- `INS-260324-6345` The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
 - `INS-260405-42D3` Crowd voting surfaces candidates; editorial judgment makes final calls — this hybrid beats both pure democracy and pure autocracy in content curation.
+- `INS-260324-6345` The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
 - `INS-260405-4523` Well-maintained curated lists in fast-moving technical fields attract disproportionate community engagement because they solve the navigation problem most practitioners face.
 - `INS-260327-B387` Serve your core fans like a band plays its hits—sideline critics will never become users no matter what you change.
 - `INS-260410-8B2C` Porsche's impenetrable model-number lineage (911 / 964 / 993 / 996 / 997 / 991 / 992, GT3, GT3 RS, Carrera, Carrera S, Turbo S) creates a language enthusiasts have to learn, which deepens tribal identification rather than hurting sales.
@@ -33,5 +33,5 @@
 - `INS-260323-D783` Cooking for others and sharing meals creates a uniquely powerful social bond — people become fundamentally different when sitting down together versus standing, drinking, or interacting online.
 - `INS-260403-1A08` Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260403-22EE` Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.
-- `INS-260403-C5FA` Becoming a trusted insider in customer communities creates pipelines that paid marketing cannot replicate.
 - `INS-260330-B390` YC's batch model accidentally created a self-reinforcing ecosystem where startups became each other's customers, advisors, and support network.
+- `INS-260403-C5FA` Becoming a trusted insider in customer communities creates pipelines that paid marketing cannot replicate.

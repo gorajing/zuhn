@@ -25,9 +25,9 @@
 - `INS-260627-00B7` Masked IRL is stronger because it reports real Franka arm transfer, not only simulation metrics.
 - `INS-260404-E91F` Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260410-56F7` Physical Intelligence's robots work because they start from open-source VLMs (e.g. Gemma) with an action expert bolted on, importing world knowledge robot data could never supply on its own.
-- `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260410-D593` Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
 - `INS-260605-C0B2` An expressive non-humanoid robot puts the user's mind in a creative space rather than treating the machine as a human replacement.
+- `INS-260405-7624` When labor becomes a choice rather than a necessity, the product categories that capture value shift from productivity to creation, expression, and meaning.
 - `INS-260605-B9B5` BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing.
 - `INS-260410-F7B8` Physical Intelligence's robots can execute minute-long tasks like folding inside-out shorts using only ~1 second of visual context because dexterity is Moravec's paradox in disguise — the easy-feeling tasks are where the real hard computation lives.
 - `INS-260530-5644` Brian Wong (Outpost Capital): high-quality physical-AI data comes from data-collection factories where humans wear VR headsets and replay actions for thousands of hours per robot/environment/task — change the hardware or workspace and the dataset is discarded.

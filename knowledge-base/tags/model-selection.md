@@ -22,6 +22,7 @@
 - `INS-260625-1C2B` Don't pay for a top model to click buttons — when the environment does the masking and unblocking, a small model is enough.
 - `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260320-EF3A` Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
+- `INS-260627-F805` A model router should optimize quality per constrained resource, not simply call the highest-ranked model more often.
 - `INS-260329-7F02` On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260605-77E5` Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
@@ -30,4 +31,5 @@
 - `INS-260625-CD66` Use saturated compact evals to screen practical models before simulator-scale tests.
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
+- `INS-260627-DB17` Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
 - `INS-260327-A22D` After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.

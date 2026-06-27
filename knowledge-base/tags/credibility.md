@@ -16,9 +16,9 @@
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
-- `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260412-923A` Bukele's transformation of a 7,000-person town — eliminating illiteracy, building infrastructure, near-zero homicides — became the proof point that propelled him to the presidency.
+- `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260409-9D44` MemPalace maintainers explicitly stated 'we'd rather be right than impressive' when admitting four launch overclaims — an intentional value choice against the default incentive to hype at launch and correct later.
 - `INS-260403-4D04` Digital content creates awareness, but traditional media like TV and books creates credibility that compounds over time.

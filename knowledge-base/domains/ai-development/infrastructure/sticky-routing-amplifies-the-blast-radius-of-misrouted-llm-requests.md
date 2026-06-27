@@ -55,8 +55,8 @@ related:
   - INS-260405-8B05
   - INS-260410-C2E6
   - INS-260412-7197
+  - INS-260627-6984
   - INS-260403-5683
-  - INS-260330-BCD8
 ---
 Anthropic's August context-window routing bug initially misrouted 0.8% of Sonnet 4 requests to servers configured for the 1M-token context. Because routing was sticky, users whose first request hit a misconfigured server kept getting bad responses on follow-ups, meaning roughly 30% of Claude Code users experienced at least one degraded message during the worst period.
 

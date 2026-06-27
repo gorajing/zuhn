@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 448 insights
+> 449 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -78,6 +78,7 @@
 - `INS-260410-0FC1` [high] Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260410-A1E9` [high] Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
 - `INS-260410-F910` [high] Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
+- `INS-260627-9121` [high] Do not add weaker models for diversity unless their quality is close enough that their different failures can actually help.
 - `INS-260627-277A` [high] When in doubt, delete scaffolding and trust the model to explore — most workarounds you build for model flaws will be obsolete in 3-6 months.
 - `INS-260605-1A50` [high] Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
 - `INS-260627-D190` [high] Batch files into PR-sized chunks via the dependency graph, run a verifier to flag problems, spin up fixer agents that emit reviewable PRs, and process leaf-first until the whole graph turns green.

@@ -11,6 +11,7 @@
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
+- `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260410-AAFE` Amazon.com itself took 13 years to migrate off Oracle databases onto its own AWS database products — if the parent company can't quickly escape its own database lock-in, no customer can.
 
 
@@ -24,7 +25,6 @@
 - `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
-- `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260330-0371` Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
 - `INS-260330-1A23` Free samples designed to eliminate the user's ability to revert create permanent lock-in.
 - `INS-260409-5FE5` Two loss frames beat one — 'limited seats' plus 'locked-in price forever' creates urgency that neither alone can match.

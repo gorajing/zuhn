@@ -31,12 +31,12 @@
 - `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
 - `INS-260409-78E1` Eight interviews is a feature, not a bug — convergence is your signal to stop talking and start shipping.
-- `INS-260404-CD1A` Stealth startups sacrifice the most important startup input — user feedback — to protect against a threat that may never materialize.
-- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260404-393A` Strategy is a hypothesis, not a plan — its value is only realized through execution that tests, validates, and iterates on strategic choices.
+- `INS-260404-CD1A` Stealth startups sacrifice the most important startup input — user feedback — to protect against a threat that may never materialize.
+- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
 - `INS-260403-A08A` Ask potential buyers four questions about price perception — too cheap, getting expensive, too expensive, and bargain — to find your data-backed pricing window.

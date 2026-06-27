@@ -14,16 +14,16 @@
 - `INS-260410-4E57` Meta's 2013 FAIR investment in AI paid off on three independent horizons — immediate ad/feed ranking improvements, medium-term defense against TikTok via Reels, and long-term optionality on AI as a platform — and only the first was required to justify the spend.
 - `INS-260412-B4B6` Samsung's $2M investment in FUBU when it was about to fail, which generated $6B in subsequent sales, reveals an underappreciated venture-style capital allocation capability within conglomerates.
 - `INS-260410-91A6` Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
-- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
-- `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
-- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
-- `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
-- `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
 - `INS-260329-A6EA` Your investment strategy should shift from human capital to financial assets as your capital base grows.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
 - `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes.
 - `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
+- `INS-260410-4357` At scale, effectiveness of achieving outcomes matters more than efficiency of resource use — the 'waste' in China's growth was the mechanism that produced the growth.
+- `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
+- `INS-260409-8B3D` Napier: the investment question for the next 10-15 years is not 'which company wins' but 'who gets cheap credit and who gets excluded' — winners are re-industrialization, rearmament, defense, energy, robotics, and old-economy manufacturing.
+- `INS-260412-89BE` Near-zero rates after 2008 pushed investment away from productive innovation and into speculative financial assets, permanently lowering GDP per capita trajectory.
+- `INS-260410-731D` China's banking system lets strategic-sector companies borrow on the promise of producing units, not profits — which produces world-leading manufacturing capacity alongside massive capital destruction.
 - `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open.
 - `INS-260403-F387` AI dominates VC funding at 40% of total capital while non-AI startups face a funding freeze, and SVB flags rising 'zombiecorns' with shaky growth.
 - `INS-260404-C28B` Anti-woke VC funds are emerging as an explicit political counter-positioning in venture capital.

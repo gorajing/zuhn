@@ -9,10 +9,10 @@
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260603-A506` Ichi (Meta): spatial capabilities that today live as separate tools/pages outside the model will be continuously brought into the model layer, so language foundation models and world models converge into one combined spatial+language model.
 - `INS-260605-B9B5` BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing.
-- `INS-260328-4717` Higher-quality world models require exponentially less search to achieve the same or better outcomes.
 - `INS-260323-EECF` The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260603-1389` Ichi (Meta): today's AI can write apps, make movies, and generate stories, but a real-world robot still struggles to understand touch and physical perception — the gap isn't language, it's the missing spatial/world-representation layer between language and embodied action.
 - `INS-260505-7B61` After hundreds of millions in video generation training, AI still produces physically impossible scenes a child would reject — suggests scale isn't the only thing missing.
+- `INS-260328-4717` Higher-quality world models require exponentially less search to achieve the same or better outcomes.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.
 - `INS-260625-8624` The diffusion model is 'dumb' and renders instructions literally; a larger language-model prompt rewriter supplies the intelligence by expanding terse user intent into exhaustive descriptions.
 - `INS-260514-F58B` LLM agents act-then-react. Reliable agents need world models to search over consequences before committing. Inference becomes search, not autoregression.

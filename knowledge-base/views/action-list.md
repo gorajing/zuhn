@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6084 actionable insights
+Generated on 2026-06-27 | 6090 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -110,6 +110,10 @@ Generated on 2026-06-27 | 6084 actionable insights
 - [INS-260627-8318] Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done.
 - [INS-260627-A4DD] Run two co-evolving loops — one optimizing the agent, one optimizing the evaluators — because the agent loop only works as well as the eval feeding it.
 - [INS-260627-41C2] Against DSPy's GEPA — which uses the same English-feedback idea — Arize's method needed a fraction of the loops, and the difference was the quality of the eval prompts, not the algorithm.
+- [INS-260627-8213] For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
+- [INS-260627-6984] Before building a router, measure the all-models-wrong rate and certify whether any selector has enough headroom to matter.
+- [INS-260627-9C1F] If production is open-ended, do not trust a multiple-choice eval to reveal shared model failure.
+- [INS-260627-FFCB] Do not price multi-model orchestration from pairwise correlation; directly estimate the all-wrong tail.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -1564,6 +1568,8 @@ Generated on 2026-06-27 | 6084 actionable insights
 - [INS-260627-11C1] Agents reason about code the same way humans do, so unstructured untestable codebases plus rubber-stamp reviews create a vicious cycle where agent productivity decreases over the year.
 - [INS-260627-D944] Use real messy data early so that 'works in the lab' actually predicts 'works in production.'
 - [INS-260627-84F1] Spending 45 days to pick a tool that's 10% better on SWE-bench is worse ROI than improving the validation environment that makes every agent succeed.
+- [INS-260627-046B] Before deploying a cheap-to-strong cascade, validate that the verifier finds the cheap model's actual error tail.
+- [INS-260627-DB17] Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

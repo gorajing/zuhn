@@ -7,6 +7,7 @@
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
+- `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.
 - `INS-260403-DED8` Cuban says the biggest Shark Tank mistake is leading with the product instead of selling yourself — business is a human relationship first.
 - `INS-260403-02CE` Page's silence let the media credit Schmidt for Google's success, demonstrating that work does not speak for itself at scale.
 - `INS-260404-D711` Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
@@ -44,4 +45,3 @@
 - `INS-260409-229B` The story of the company IS the strategy — there is no separate secret strategy document.
 - `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
-- `INS-260322-7E86` Listeners connect to how a song makes them feel, not how technically impressive the production is.

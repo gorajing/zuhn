@@ -1,6 +1,7 @@
 # Tag: diversity
 
 - `INS-260410-439D` AI could be a super-collective-brain (billions of copies, perfect transmission, infinite bandwidth) but Henrich worries that the things driving real innovation — serendipity, improper copying, environmental shocks — get smoothed away by high-fidelity homogeneity.
+- `INS-260627-9121` Do not add weaker models for diversity unless their quality is close enough that their different failures can actually help.
 - `INS-260410-66C6` Ask ChatGPT for ten jokes and you'll notice it only knows three — models are silently collapsed into a narrow output manifold, which poisons any attempt to train on their own generations.
 - `INS-260505-A413` Train an RL reasoning model on hard problems, and inside the reasoning trace it spins up little debate societies — more dramatic, extroverted, less agreeable than the base model.
 - `INS-260505-5FA7` Don't ask AI 'what's the next paper likely to say' — ask 'conditional on this surprising thing being true, what improbable claims would also be true?'

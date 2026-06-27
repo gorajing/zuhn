@@ -12,14 +12,14 @@
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260330-0DFC` Rogan survived his cancellation by refusing to read any negative coverage, telling his wife never to read negative articles to him, and continuing his normal work routine.
 - `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
-- `INS-260405-1661` Classifieds were ~30% of newspaper revenue and effectively funded quality journalism — when Craigslist killed classifieds, it defunded journalism as a byproduct.
-- `INS-260403-0CA9` Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260330-B885` Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260403-CBED` Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260405-D216` In AI content, doing-and-sharing beats talking-about at generating durable audience trust.
 - `INS-260405-6019` Expertise plus authenticity is outcompeting institutional authority as the basis for trusted information.
 - `INS-260405-6BC4` Individual creators who expose their reasoning methodology earn more trust than institutional brands hiding behind mastheads.
 - `INS-260403-6908` With 64% of people mistrusting journalists and 74% trusting 'someone like me,' individual creators are becoming preferred information sources.
+- `INS-260405-1661` Classifieds were ~30% of newspaper revenue and effectively funded quality journalism — when Craigslist killed classifieds, it defunded journalism as a byproduct.
+- `INS-260403-0CA9` Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260405-FE5C` Print media lost classifieds first, then print advertising, then newsstand revenue — each loss made the next harder to absorb, until collapse arrived all at once.
 - `INS-260405-BAB0` The internet killed the solid middle-class journalist salary while top writers still earn premium rates, collapsing the ladder rather than flattening the field.
 - `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.

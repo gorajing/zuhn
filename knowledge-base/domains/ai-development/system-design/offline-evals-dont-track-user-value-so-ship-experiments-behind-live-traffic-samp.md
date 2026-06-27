@@ -48,9 +48,9 @@ stance: >-
   experiments must be validated by sampling real production traffic.
 related:
   - INS-260626-ECC7
+  - INS-260627-8213
   - INS-260410-F167
   - INS-260605-D430
   - INS-260327-E07C
-  - INS-260605-A03E
 ---
 Zed runs offline evals on a held-out test set using Levenshtein-style n-gram comparison, a reversal ratio (is it undoing what you typed?), and diagnostic error counts before vs. after a prediction. But Kunkle is explicit that these offline evals don't necessarily correlate with what users actually want in their editor. So each model experiment is deployed behind a controllable traffic split — ramping a candidate from 15% to 20% of production and up to fully live — with a dashboard tracking real acceptance rate and latency. The lesson: offline metrics are necessary guardrails but insufficient proof of value; the real verdict comes from sampled production traffic measuring whether users keep the output.

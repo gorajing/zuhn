@@ -15,6 +15,7 @@
 - `INS-260410-1AF0` Getting better at making antibodies to gene X doesn't help you treat disease Y because the bottleneck is knowing what gene to target — which is why compounding returns in biotech require a perturbation-prediction model that generalizes across cell states.
 - `INS-260410-76A3` Scaling laws convert LLM capability improvement into a predictable function of compute and data, turning AI progress into a capital-allocation problem.
 - `INS-260605-6A0A` Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
+- `INS-260403-4803` LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
 - `INS-260410-0EF8` Most headline software innovations in deep learning were really innovations in how to exploit more compute—so 'software-only singularity' stories that hold compute fixed are misspecified.
 - `INS-260625-2F7C` When you are unconstrained by compute but constrained by data, the optimal training recipe inverts — old-school regularization and ensembling deliver 5–17x data-efficiency wins.
 - `INS-260410-AA93` Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
@@ -25,7 +26,6 @@
 - `INS-260410-7933` LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
 - `INS-260327-BE4E` Token efficiency gains like the Muon optimizer effectively multiply finite high-quality data, pushing intelligence ceilings higher rather than merely reducing infrastructure cost.
 - `INS-260605-C859` Pick tokenizer vocab size to match your data budget: you need roughly vocab-squared tokens of data to cover the bigrams the model must learn.
-- `INS-260403-4803` LLM scaling has shifted from capability breakthroughs to incremental refinement of existing abilities.
 - `INS-260625-9B0C` ESM-C's continued scaling came from pushing training samples 50M to 2.8B (largely metagenomic data), not clever architecture, and its single-sequence model now matches MSA-based AlphaFold and wins where evolutionary data is sparse.
 - `INS-260322-E734` Unlike previous platform shifts where physical limits were known (modem speeds, battery life, fiber deployment), AI's theoretical limits are unknown because we don't fully understand why it works or what human intelligence is.
 - `INS-260625-0686` Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.

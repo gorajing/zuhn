@@ -57,6 +57,7 @@ related:
   - INS-260325-BEAC
   - INS-260402-24B0
   - INS-260626-C380
+  - INS-260627-FFCB
 ---
 Traditional SaaS enjoyed near-zero marginal cost per additional user, enabling massive scale with maintained margins. AI-powered products break this model — every API call, every generation, every interaction carries real inference cost. This creates direct variable cost exposure that scales linearly with usage.
 
