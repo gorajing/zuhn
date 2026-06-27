@@ -2,13 +2,12 @@
 
 - `INS-260403-2A0F` Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
 - `INS-260605-44E2` Save the decision, the actions taken, and the entire reasoning process — including what was NOT considered — back into the graph so later agents inherit it as precedent.
-- `INS-260405-F8AE` AI's most dangerous failure modes are inequality amplification and accountability erosion, not the unemployment scenario that dominates public debate.
 - `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
+- `INS-260405-F8AE` AI's most dangerous failure modes are inequality amplification and accountability erosion, not the unemployment scenario that dominates public debate.
 - `INS-260627-B395` AI weakens raw coding as a moat but strengthens accountability-oriented engineering.
 - `INS-260627-EB75` Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped.
 - `INS-260627-1EC5` Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
 - `INS-260627-0EFC` AI-generated code needs provenance and ownership, not just good prompts.
-- `INS-260412-9805` Angola leveraged simultaneous US and Chinese demand for oil to extract favorable terms from both while avoiding accountability pressure from either.
 - `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260405-966C` Public outcome data enables bias audits that institutions cannot suppress.
 - `INS-260330-790F` Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
@@ -37,3 +36,4 @@
 - `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
 - `INS-260605-C632` Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
 - `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
+- `INS-260412-9805` Angola leveraged simultaneous US and Chinese demand for oil to extract favorable terms from both while avoiding accountability pressure from either.

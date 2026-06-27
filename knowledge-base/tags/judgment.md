@@ -7,7 +7,6 @@
 - `INS-260627-9CF1` The ~30% time savings reported by power users comes from disciplined delegation boundaries, not from auto-completing through the day.
 - `INS-260627-F193` 'It works' isn't enough — every time you skip thinking to keep up with generation speed, you don't just add code you don't understand, you lose the instinct that says 'this is getting complex.'
 - `INS-260619-4ADA` The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
-- `INS-260327-C0C5` Marshal Ney was the bravest man in Napoleon's army but his recklessness — charging cavalry without infantry support at Waterloo — contributed to some of the greatest French disasters.
 - `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260405-6E4F` Better inputs compound into better judgment — information diet is a leverage point most people underinvest in.
@@ -26,3 +25,4 @@
 - `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260322-4B63` Most people who aren't creating content are stopped by fear of negative comments from anonymous strangers, not by lack of ability or time.
 - `INS-260327-4C94` Easy decisions never reach the CEO desk; the value of experience is in navigating the close calls where intelligence alone is insufficient.
+- `INS-260327-C0C5` Marshal Ney was the bravest man in Napoleon's army but his recklessness — charging cavalry without infantry support at Waterloo — contributed to some of the greatest French disasters.

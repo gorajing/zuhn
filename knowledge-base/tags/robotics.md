@@ -42,10 +42,10 @@
 - `INS-260627-110A` Masked IRL matched or beat baselines with up to 4.7x fewer demonstrations by using language to constrain which state features mattered.
 - `INS-260603-DDE4` William Santana Lee (Knightscope, 13yr autonomous): physical AI is 'pain, suffering, and tears' — the reality check where everything that worked in the conference room fails in the real world; the only way to make it work is to deploy and bump your head until you figure it out, not to perfect it in code/simulation.
 - `INS-260627-A7A6` Robot demonstrations show how to act, but they do not identify the relevant state features behind the human preference.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
-- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
-- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
 - `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260403-215E` Humanoid robots lead Q3 2025 deal count while AI leads dollar volume, revealing a hardware-many-bets vs software-mega-bet divergence.
 - `INS-260323-7DAE` Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
 - `INS-260323-F7DB` Boston Dynamics' breakthrough came from rejecting the safe, slow, static approach to robotics in favor of aggressive dynamic movement — bouncing, running, and predicting rather than always maintaining perfect stability.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
+- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
+- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.

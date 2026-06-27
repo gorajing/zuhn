@@ -1,9 +1,5 @@
 # Tag: deal-structure
 
-- `INS-260403-C622` PitchBook data shows ~40% of elite VC deals include another top firm, blurring the line between consensus and conviction.
-- `INS-260403-1D6E` Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
-- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
-- `INS-260410-F026` The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
 - `INS-260410-2632` Nike gave Jordan a 5% gross revenue royalty plus signature shoe because Converse and Adidas couldn't offer the same without their existing stars demanding equal treatment.
 - `INS-260404-4682` Convertible notes with different caps reward early-committing investors and break the deadlock of everyone waiting on everyone else.
 - `INS-260403-6EBD` Mezzanine deal terms interact in non-obvious ways that only reveal their true cost over the life of the instrument.
@@ -14,3 +10,7 @@
 - `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
 - `INS-260403-62A9` YC's Handshake Deal Protocol converts vague verbal commitments into clear, actionable steps that both parties can trust.
 - `INS-260329-21AF` Lock in the price first, then negotiate favorable terms like seller financing and extended payment schedules as a separate conversation.
+- `INS-260403-C622` PitchBook data shows ~40% of elite VC deals include another top firm, blurring the line between consensus and conviction.
+- `INS-260403-1D6E` Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
+- `INS-260403-F852` Deal structure (cash/stock/debt/earn-out mix) determines who carries downside risk far more than the headline acquisition price.
+- `INS-260410-F026` The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.

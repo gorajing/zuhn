@@ -1,6 +1,6 @@
 # Tag: skill-investment
 
 - `INS-260626-C88F` The instinct to abandon math and CS once AI automates them is backwards — knowing how LLMs actually work is precisely what lets you wield and prompt them effectively.
-- `INS-260329-5414` Young people with small capital bases get dramatically higher ROI from skill investment than from financial markets.
 - `INS-260329-9F81` Put early money into learning skills that multiply your earning power rather than into financial markets where the absolute returns on small capital are negligible.
 - `INS-260329-32A4` Prioritize jobs that maximize learning over immediate compensation during skill-building years.
+- `INS-260329-5414` Young people with small capital bases get dramatically higher ROI from skill investment than from financial markets.

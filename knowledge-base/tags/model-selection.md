@@ -16,7 +16,6 @@
 - `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
 - `INS-260410-939B` Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
 - `INS-260410-3FB3` Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
-- `INS-260329-7F02` On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - `INS-260626-5A6D` Frontier models handle long-running complex tasks, but mini/nano models are deliberately positioned to power short-running sub-agents at low enough cost that spinning up many of them in parallel makes economic sense.
 - `INS-260626-FBB1` A flyweight model with code execution drew correct Lego-brick bounding boxes 'right out of the gate' for a fraction of a penny — faster and cheaper than the larger model that reached the same answer.
 - `INS-260605-E4BB` Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
@@ -24,6 +23,7 @@
 - `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260320-EF3A` Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - `INS-260627-F805` A model router should optimize quality per constrained resource, not simply call the highest-ranked model more often.
+- `INS-260329-7F02` On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260605-77E5` Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
 - `INS-260605-0BD6` Plot quality against latency/cost and pick from the Pareto front—often several models tie on quality while differing 20x in speed.

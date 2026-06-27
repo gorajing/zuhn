@@ -5,7 +5,6 @@
 - `INS-260625-4027` Gemma 4 matches ~18-month-old SOTA on agentic capability (function calling, instruction-following) but Gemini stays far ahead on factual knowledge — a gap set by information theory, not training effort.
 - `INS-260323-9BAB` Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
 - `INS-260412-9414` Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
-- `INS-260404-7E86` Public and private information are now priced in so fast that human-speed reaction strategies cannot capture meaningful edge.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260412-94B2` Burning paper doesn't destroy its information — it redistributes it across ash, smoke, and heat in a form that's theoretically reconstructable.
 - `INS-260412-37B2` The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
@@ -15,3 +14,4 @@
 - `INS-260330-6A9E` Shadows and geometric intersection points can exceed light speed because they transfer no information — only physical causation is speed-limited.
 - `INS-260330-AFE0` The speed limit of the universe applies to information transfer, not to geometric abstractions like shadows or intersection points.
 - `INS-260323-8897` Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.
+- `INS-260404-7E86` Public and private information are now priced in so fast that human-speed reaction strategies cannot capture meaningful edge.
