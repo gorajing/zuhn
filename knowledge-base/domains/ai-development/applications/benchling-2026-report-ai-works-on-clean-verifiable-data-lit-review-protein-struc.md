@@ -70,7 +70,7 @@ related:
   - INS-260514-D3CB
   - INS-260410-8C08
   - INS-260403-04AF
+  - INS-260626-13FB
   - INS-260409-BBBA
-  - INS-260323-8519
 ---
 Benchling's November 2025 report surveyed 100 biotech companies substantially using AI in R&D. Four 'killer app' categories had consistently good adoption and outcomes: (1) Literature review and knowledge extraction — PDFs are abundant, ground truth is verifiable by re-checking the source, and the failure mode is summarization-not-fabrication. (2) Protein structure prediction — AlphaFold-class models have a clean training corpus (PDB) and outputs are physically constrained. (3) Scientific reporting — formatted outputs from structured data have known ground truth. (4) Target identification — well-curated databases and clear scoring metrics. The shared property: all four sit on clean verifiable data with clear ground truth. Where AI is struggling: generative molecular design, biomarker analysis, ADMET prediction — all suffer from scattered hard-to-validate data, where the same compound or biomarker may be measured differently across labs/protocols and ground truth is contested. This is empirical confirmation that 'garbage in, garbage out' is the rate-limiting variable in 2026 biotech AI, not model capability. The implication for builders: pick problems where the data is already verifiable, or invest seriously in data harmonization BEFORE you invest in AI tooling. The implication for adopters: when evaluating AI vendors, look at the underlying data quality, not the model. The implication for VCs: data-cleaning and data-harmonization startups in regulated domains may be more valuable than yet-another-foundation-model startup.

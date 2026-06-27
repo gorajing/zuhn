@@ -2,6 +2,7 @@
 
 - `INS-260501-2A3D` Pat Grady: legal services in the US alone is a $400B market — that's one vertical and one geo and it's the same as all of software. The services TAM is conveniently 10 trillion.
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
+- `INS-260626-E5DE` Because the application layer can thrive independent of any single model and the model companies are commoditizing each other, the AI engineers building agents — not the labs — become the locus of business value and innovation.
 - `INS-260626-6D2E` Models lack network effects, durable differentiation, and OS-level control, so value moves up the stack and providers behave like chips/ISPs/telcos rather than Windows/iOS.
 - `INS-260325-2BDB` Eugene from ZDOT AI argued durable value lies in platform infrastructure — model-as-a-service, enterprise deployment, and APIs — sitting between foundation models and applications.
 - `INS-260403-E93A` History suggests the application layer on top of AI infrastructure will capture more enterprise value than the infrastructure itself.
@@ -15,6 +16,6 @@
 - `INS-260327-F229` Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
 - `INS-260423-9D71` Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily.
-- `INS-260626-4D31` Vibe Kanban shut down despite 30k MAU and 25k GitHub stars because users paid it ~$30 to then spend ~$3,000 on Codex — the value capture was upside down.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260410-15AC` Qualcomm's demand of 5% of every iPhone's ASP plus per-unit patent fees was the bill that made Apple buy Intel's modem business and start building its own modem — a decade-long project Apple only started because the tax was intolerable.
+- `INS-260626-4D31` Vibe Kanban shut down despite 30k MAU and 25k GitHub stars because users paid it ~$30 to then spend ~$3,000 on Codex — the value capture was upside down.

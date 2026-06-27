@@ -38,8 +38,8 @@
 - `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260330-1815` Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
 - `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
-- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
-- `INS-260412-C040` Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.
 - `INS-260330-03A9` When everyone believes all institutions are power conspiracies, the only institution that can survive is dictatorship, which explicitly runs on power.
 - `INS-260323-8F41` Geometries allowed by equations don't automatically correspond to physical reality -- you must also check whether the required matter and energy actually exist.
+- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
+- `INS-260412-C040` Milton's emotional stage presence and personal backstory consistently overrode the complete absence of technical evidence, fooling Bosch, GM, and thousands of investors.
 - `INS-260403-06E7` A structured checklist asking what's missing, what luck was involved, what resources they had, whether it works without funding, and whether the model is generalizable turns inspiration into usable intelligence.

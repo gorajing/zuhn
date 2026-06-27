@@ -49,7 +49,6 @@ stance: >-
   Giving an agent a scratchpad file system to externalize its plan and research
   outperforms loading it with many tools.
 related:
-  - INS-260410-62E8
   - INS-260625-3B6D
   - INS-260524-D5DB
   - INS-260327-DC4C

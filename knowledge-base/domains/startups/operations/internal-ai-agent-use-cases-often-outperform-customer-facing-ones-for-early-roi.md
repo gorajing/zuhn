@@ -55,10 +55,9 @@ related:
   - INS-260403-7868
   - INS-260625-A4DE
   - PRI-260322-8FD4
+  - INS-260626-13FB
   - PRI-260406-1F5E
-  - INS-260327-A61B
   - INS-260605-F8EF
-  - INS-260626-FEA0
 ---
 The dominant AI agent narrative focuses on customer-facing automation — chatbots, support agents, upselling bots. But internal operations agents like employee onboarding assistants, policy knowledge bases, and competitor intelligence feeds face fewer deployment barriers: no customer-facing compliance review, no brand risk if the agent makes an error, and a captive user base with clear incentive to use the tool.
 

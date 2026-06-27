@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 189 insights
+> 190 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -144,6 +144,7 @@
 - `INS-260409-CBC7` [medium] Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260501-10B4` [medium] Anthropic at $1T enterprise-of-choice today — but the autonomous-agent battle is just starting and OpenAI's Codex is shipping daily.
 - `INS-260403-F7A9` [medium] Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
+- `INS-260626-E5DE` [medium] Because the application layer can thrive independent of any single model and the model companies are commoditizing each other, the AI engineers building agents — not the labs — become the locus of business value and innovation.
 - `INS-260403-C1D2` [medium] Over 630 investors backed LLM startups, but NVIDIA, Amazon, Microsoft, Alibaba, Salesforce, and Google write the largest checks while serving as suppliers and competitors.
 - `INS-260404-116E` [medium] When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
 - `INS-260423-55A7` [medium] Rory: the Chinese Communist Party is effectively subsidizing the American small independent software vendor by providing cheap open-source models — if you look at the winner list on OpenRouter, it's all Qwen, Kimmy and other open source products.

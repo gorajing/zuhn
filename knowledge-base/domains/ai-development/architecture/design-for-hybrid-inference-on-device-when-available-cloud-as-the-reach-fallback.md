@@ -55,9 +55,9 @@ related:
   - INS-260605-D430
   - INS-260605-0748
   - INS-260605-7B83
+  - INS-260626-ECA6
   - INS-260605-4375
   - INS-260605-86BE
-  - INS-260424-0554
 ---
 Gemini Nano only runs on flagship-class hardware (Pixel 9/10-generation and equivalent OEM devices), which would cap a feature's reach if it were on-device-only. The answer is hybrid inference (via Firebase AI logic): run on-device for low latency, privacy, and zero marginal cost when the model is present, and transparently fall back to a cloud model (Gemini Flash/Pro) when it is not. The team's stated goal is to make the on-device and cloud APIs 'as consistent as possible so it's easy to blend what is needed.'
 

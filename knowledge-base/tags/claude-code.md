@@ -28,6 +28,7 @@
 - `INS-260501-0D6D` Every agent platform converged on the same UI: chat list left, conversation middle, artifact right. Terminal-first is dying for non-developer users.
 - `INS-260320-F8FD` Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
 - `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
+- `INS-260626-BC5E` A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 - `INS-260605-997E` After cracking the protocol, Starkov factory-reset the phone, encoded the full procedure as a Claude Code skill, and open-sourced it so anyone can program a Viking phone without the multi-day reverse-engineering or any Windows VM.
 - `INS-260320-949A` A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
 - `INS-260501-91A3` Office hours as a skill = 10% strength of 16 YC partners doing thousands of hours of founder coaching, packaged into one command.

@@ -52,12 +52,11 @@ stance: >-
   effective agent context than wrapping those UIs in an MCP server.
 related:
   - INS-260409-156A
-  - INS-260410-D04D
   - INS-260605-9FCF
+  - INS-260626-E7C4
   - INS-260605-726C
   - INS-260625-DCE4
   - INS-260605-C0BF
-  - INS-260605-1C30
   - INS-260605-4B12
 ---
 incident.io's biggest unlock was converting the UIs they built to debug their AI (traces, prompt inputs, interaction hierarchies) into downloadable file systems. They dump a single bad interaction into a sandboxed Claude Code session, point the agent at it, and ask what went wrong and where in the code base to fix it — the agent can grep through everything because the export is self-documenting and the code base is loaded in the same session. Even rich visual traces translate cleanly to ASCII/text files that an LLM consumes well.

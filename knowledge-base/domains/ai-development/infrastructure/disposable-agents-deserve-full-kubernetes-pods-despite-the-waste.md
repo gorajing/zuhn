@@ -51,13 +51,13 @@ stance: >-
   abstraction even though it is resource-wasteful.
 related:
   - INS-260325-160E
-  - INS-260330-77BB
   - INS-260410-0142
   - INS-260410-77E5
   - INS-260421-7ADE
   - INS-260501-91C2
   - INS-260605-3553
   - INS-260605-A803
+  - INS-260626-2D64
   - INS-260626-2170
   - INS-260626-9732
 ---

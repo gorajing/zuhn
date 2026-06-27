@@ -54,7 +54,6 @@ related:
   - INS-260505-45B7
   - INS-260524-1A41
   - INS-260625-EF29
-  - INS-260605-FB4D
 ---
 AlphaGenome represents a paradigm shift in genomics by targeting the 98% of DNA that was previously considered 'junk' but actually regulates everything from gene expression to disease susceptibility. It outperformed existing models in 24 of 26 evaluations covering gene expression, splicing, and mutation-disease links.
 

@@ -57,11 +57,11 @@ stance: >-
   per-layer embedding lookup tables lets you keep most parameters in CPU or disk
   without slowing inference.
 related:
+  - INS-260626-BB8B
   - INS-260626-4D5F
   - INS-260626-BCC7
   - PRI-260406-FA5B
   - INS-260329-5F96
-  - INS-260403-2138
 ---
 Gemma 4's architecture adds a per-layer embedding table inside each transformer block. Crucially, accessing it is a lookup, not a full matrix multiplication — so those weights don't need to sit in GPU memory. A model labeled E2B effectively loads ~2B parameters onto the GPU while ~3B more live in CPU or on disk, yet inference stays fast because the offloaded parameters are only ever indexed, never multiplied.
 

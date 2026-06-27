@@ -63,8 +63,8 @@ related:
   - INS-260410-9EFC
   - INS-260605-4A94
   - INS-260625-2D05
+  - INS-260626-AC8E
   - INS-260327-A22D
-  - INS-260605-3163
 ---
 PostHog's instinct early on was to minimize cost: avoid agents where possible and delay invoking them as late as possible in the pipeline, since trillions of events were flowing in. They call this a big mistake. Premature cost optimization meant they never saw the range of clever solutions the agent could produce, and they couldn't tell which steps actually needed an agent.
 

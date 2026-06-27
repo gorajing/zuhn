@@ -45,9 +45,9 @@ stance: >-
   retyped each time.
 related:
   - INS-260605-BEFB
+  - INS-260626-BC5E
   - PRI-260406-1AC6
   - INS-260605-2C96
   - INS-260514-A295
-  - INS-260329-ACE6
 ---
 When Priscila noticed her comprehension prompts repeating, she promoted them into a skill — described as just a very detailed prompt with clear goals, an MD file in human language. Rather than a single blob, she structured it around six explicit exploration modes: architecture, convention, feature trace, syntax, testing, and history. The skill also encodes her preference as a visual thinker by returning structures, organograms, and tables. The general principle: when you find yourself re-prompting the same shape of request, the cost of writing it down once as a parameterized skill pays back on every future invocation, and the act of structuring it (naming the distinct modes) makes the tool sharper than ad-hoc prompting. She uses the same skill both to onboard onto unfamiliar repos and to gain enough context to review colleagues' PRs.

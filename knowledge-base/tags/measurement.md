@@ -20,16 +20,16 @@
 - `INS-260625-0CAB` Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
 - `INS-260410-5951` On Terminal-Bench 2.0, the same Claude model scored 6 points higher with uncapped resources than with strictly enforced per-task specs (p<0.01), exceeding the margins that typically separate frontier models on leaderboards.
 - `INS-260605-365A` Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
-- `INS-260626-C3A9` Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects.
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260625-8A55` Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
-- `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
 - `INS-260519-224B` Rati Zvirawa (Intercom): the agent didn't break the metric — it surfaced that the metric was already broken.
-- `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
-- `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
+- `INS-260626-C3A9` Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects.
+- `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
 - `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260409-E8B3` Watch-time session share captures how much of a user's platform session your content monopolizes, which is the cleanest proxy for influence on retention.
+- `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
+- `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
 - `INS-260404-B8D9` Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - `INS-260405-370B` People tell pollsters what they're supposed to believe, not what they actually believe, whenever the two diverge.
 - `INS-260412-4AC2` We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
@@ -46,24 +46,24 @@
 - `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
 - `INS-260412-C37A` The Heisenberg uncertainty principle shows that seeing is touching — observing particles with enough energy to detect them inevitably alters them, establishing a hard limit on simultaneous knowledge.
 - `INS-260403-89B5` The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
-- `INS-260330-51D6` Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
-- `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
-- `INS-260409-7FC5` You can't 'just drop' an antiproton to test gravity because electric forces dwarf gravity — neutral antiatoms are required, and those in turn are harder to contain.
-- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
-- `INS-260330-0BC2` Scales measure force but display mass units, and weight is mutual — Earth weighs 180 pounds on you just as you weigh 180 pounds on Earth.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-2999` fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
 - `INS-260323-144F` Lunar rocks match Earth's isotope ratios at parts-per-million precision — an empirical fact that invalidates the most physically elegant Moon formation model, demonstrating that measurement precision can overturn theoretical elegance.
 - `INS-260329-95EF` Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
+- `INS-260330-51D6` Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
+- `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
+- `INS-260409-7FC5` You can't 'just drop' an antiproton to test gravity because electric forces dwarf gravity — neutral antiatoms are required, and those in turn are harder to contain.
+- `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
+- `INS-260330-0BC2` Scales measure force but display mass units, and weight is mutual — Earth weighs 180 pounds on you just as you weigh 180 pounds on Earth.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260405-809E` Updating predictions to match outcomes after the fact eliminates any information the prediction contained and corrupts future calibration.
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
-- `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
+- `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260403-6EE7` Technology's deepest effects are qualitative transformations in how humans live, not quantitative improvements in economic output.
 - `INS-260405-0271` Innovation and execution are fundamentally different activities that require different investment mechanisms, success metrics, and decision frameworks.

@@ -65,6 +65,7 @@ related:
   - INS-260405-68DC
   - PRI-260406-4B8E
   - INS-260525-4D80
+  - INS-260626-7B73
 ---
 A common claim is that AI turns engineers into engineering managers. Orosz, a former EM, rejects this: management's actual burdens — interpersonal conflict, career drama, becoming removed from the product, and waiting six months to see the results of a decision made across ten people — are exactly what agents remove. Orchestrating agents is closer to a tech-lead or senior-mentor role, or DHH's 'mech suit' framing: you can do seven things at once, faster, while staying in control of the product.
 

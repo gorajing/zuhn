@@ -50,11 +50,11 @@ stance: >-
   Letting developers choose the image token budget per request beats hardcoding
   a single preprocessing resolution.
 related:
+  - INS-260626-69EF
   - INS-260625-FC64
   - INS-260625-F775
   - INS-260412-9E22
   - INS-260626-1012
-  - INS-260323-4E12
 ---
 Gemma 3 forced every image through a fixed 'pan and scan' pipeline that split it into padded squares processed as separate images, spending a fixed token budget regardless of the task. Gemma 4 instead supports variable aspect ratios and five resolution/soft-token-budget settings, with spatial positional encodings carried through so the model still understands patch layout across shapes.
 

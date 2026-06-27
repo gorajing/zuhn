@@ -2,6 +2,7 @@
 
 - `INS-260505-F164` Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
+- `INS-260626-7B73` Managing many units under time pressure is a learned skill RTS gamers already have, so build agent orchestrators around those familiar mechanics rather than inventing new ones.
 - `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
 - `INS-260514-F5D2` I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.
@@ -11,6 +12,7 @@
 - `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260409-8C6C` The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
 - `INS-260605-2623` Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
+- `INS-260626-7F5B` Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
 - `INS-260409-160F` The 'generic helpful assistant' text-box interface forces a lowest-common-denominator deferential personality because one system prompt has to handle every query from legal analysis to recipe advice, and fawning is the only personality that does not actively repel anyone.
 - `INS-260605-1CC3` Design for a shared canvas the human and agent both manipulate — like the Excalidraw MCP app — rather than UI the agent generates and hands over.

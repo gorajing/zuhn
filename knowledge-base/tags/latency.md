@@ -4,6 +4,8 @@
 - `INS-260410-376A` Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
+- `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
+- `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
 - `INS-260410-CD01` Code-driven orchestration unlocks asyncio.gather across independent tool calls, collapsing sequential round-trips into one concurrent batch.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260624-D8C3` Speculation helps latency, but side-effectful actions need commit barriers.

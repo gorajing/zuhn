@@ -1,5 +1,6 @@
 # Tag: cognitive-load
 
+- `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
 - `INS-260605-E145` Managing many agent sessions has high cognitive load, so breaks are essential — and that's exactly when your best ideas for the agents appear, which is why you need to reach them from anywhere.
 - `INS-260403-03BD` Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things.
 - `INS-260329-F362` Naming a block of code 'say_hi' or 'cube' creates a mental handle that lets you think about what the program does rather than how it does it.

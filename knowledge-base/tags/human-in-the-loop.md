@@ -8,6 +8,7 @@
 - `INS-260525-4D80` Korean engineer: 'I need someone who can play the role of an engineering manager' — not because the agent is stupid, but because intent has to be translated into what the agent should build.
 - `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
 - `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
+- `INS-260626-83D7` Many business processes have the shape event -> research -> human decision; shipping an agent that only does the research phase saves enormous time without changing the process or raising the risk profile.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260626-04E5` OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
@@ -25,8 +26,10 @@
 - `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260625-7592` If a task has an exact answer reach for code, if it needs interpretation reach for the agent, and if it needs authority reach for a human.
 - `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
+- `INS-260626-E00F` Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
 - `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
+- `INS-260626-2D64` Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
 - `INS-260625-AEE0` AI accelerates the discovery loop, but the lab still has to measure, validate, and scale.
 - `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
@@ -55,8 +58,8 @@
 - `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
 - `INS-260626-8D05` Don't resolve every conflict with a heuristic and bury the ones you got wrong — surface unresolvable conflicts to the human and capture their correction as weighted memory.
 - `INS-260626-656C` Instead of manually approving every privileged action (fatigue) or granting unfettered access (unsafe), spawn a verifier agent that adjudicates each request and interrupts the human only when warranted.
-- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260626-8723` Swap the chat trigger for an hourly schedule and keep the approval gates, so the agent runs unprompted but every consequential action still pings you for sign-off.
 - `INS-260514-F2D5` For well-documented pipelines (RNA-seek, bulk transcriptomics), humans should never be writing the code — the entire domain-expertise value is in input curation and output interpretation.
+- `INS-260409-4CE8` Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260412-1A10` Stanford's Ocean One and Boston Dynamics' SpotMini show that the sweet spot for unstructured environments is human intent plus robot coordination, connected by tactile feedback.
 - `INS-260626-B38C` Mine your own chat transcripts for repetitive tasks and copy-paste loops, then codify them into skills, automations, and emergent rules — storing context for agents matters more than doing the work yourself.

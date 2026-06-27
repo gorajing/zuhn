@@ -7,6 +7,7 @@
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
 - `INS-260605-27CC` Loop agents on mechanical, verifiable tasks (find shallow bugs, superficial refactors); escalate anything requiring fundamental design judgment to a human.
 - `INS-260626-0CFF` Don't install every available rule for your stack — create a rule only when you catch an agent going off the rails, treating rules as SOPs that emerge dynamically.
+- `INS-260626-D7AE` Move a task down the verifiability spectrum with golden examples, decomposition, and guardrails so agents can run effectively against a stand-in for truth.
 - `INS-260625-814D` Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
 - `INS-260514-FEC8` Rules = judgment ('please don't access .env'). Hooks = enforcement (the access actually fails). For high-stakes constraints, use hooks not rules — agents will eventually find reasons to ignore rules but cannot bypass hooks.
 - `INS-260501-4C5E` Sonia Huang: agents go from little helpers that do a little amount by your side, to interns that need to be managed, to interns that manage themselves, eventually to interns trusty enough to push to prod without oversight — what I call dark factories.
@@ -25,10 +26,10 @@
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260626-FDFC` The first three layers are probabilistic instructions ('asking nicely and hoping'); add a fourth deterministic layer that reads actual output and rejects facts that aren't real.
 - `INS-260605-D320` Forbid the capability that creates a bug class — e.g. ban database access from template rendering so N+1 queries can never occur — instead of repeatedly hunting for instances.
+- `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly.
 - `INS-260605-3872` When you catch an agent doing something dumb (casting with 'as', using 'any'/'unknown', skipping validation), encode a lint rule banning that exact pattern so the type/lint error forces the model to correct itself.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260626-DB00` Use deterministic gates for hashes, permissions, state transitions, and blocklists instead of asking another model to police the agent.
 - `INS-260605-D0A0` Constrain tool-call decoding to the specific finite tool the model is supposed to call — the smaller the model, the larger the reliability win.
-- `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly.
 - `INS-260403-8ECB` Tools that flag unrealistic inputs at the moment of entry prevent more bad decisions than post-hoc review ever will.
 - `INS-260327-73BE` Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.

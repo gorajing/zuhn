@@ -48,11 +48,11 @@ resolutions:
     others are strategic attempts at regulatory capture by incumbents trying to
     prevent competition.
 related:
-  - INS-260322-C5BD
   - PRI-260328-0123
   - INS-260328-92BC
+  - INS-260322-C5BD
+  - INS-260626-763B
   - INS-260403-1F40
-  - INS-260404-CC9A
 stance: >-
   a16z's AI policy framework: don't regulate mathematical models themselves,
   regulate their applications

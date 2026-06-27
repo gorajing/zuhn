@@ -50,11 +50,11 @@ stance: >-
   Multi-stage agent pipelines should share a filesystem workspace rather than
   passing large text blobs through each stage.
 related:
+  - INS-260626-4393
   - INS-260605-8F3D
   - INS-260323-CD28
   - INS-260403-4D80
   - PRI-260320-BC72
-  - INS-260325-568A
 ---
 DeepMind's deep research system currently passes a huge amount of context all the way through the pipeline — every search result blob threaded forward — which is expensive and consumes the context window. KP's direction is to instead have the parts of the pipeline collaborate in a shared file system, treating each element as a collaborator in a workspace, analogous to how a human research team works against shared documents.
 

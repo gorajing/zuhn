@@ -48,11 +48,11 @@ stance: >-
   significant compensation, meaning slow release cycles are a talent repellent,
   not just a productivity drag
 related:
+  - INS-260626-F25E
   - INS-260323-78A5
   - INS-260405-70D4
   - INS-260403-E482
   - INS-260323-C8AC
-  - INS-260519-945C
 evidence:
   - id: INS-260323-C8AC
     type: SUPPORTS

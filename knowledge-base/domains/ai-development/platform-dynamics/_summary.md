@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 45 insights
+> 46 insights
 
 - `INS-260603-15F4` [high] Rona Shah (Walmart): Amazon's ads/retail-media is ~10% of revenue but ~40% of operating income — high-margin business that subsidizes low-margin e-commerce; when a shopper completes the journey inside ChatGPT without visiting the retailer, that ad revenue vanishes, which is why Amazon blocks agents and Walmart rolled back OpenAI instant-checkout.
 - `INS-260404-573C` [high] Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
@@ -34,6 +34,7 @@
 - `INS-260330-2601` [high] A hierarchy of control exists in tech — plugins < browsers < operating systems < physical devices — where each higher layer can override everything below it.
 - `INS-260330-7C24` [high] Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260410-28C3` [high] The semiconductor industry split into EDA / IP / fabless / equipment / foundry because Moore's Law made it impossible for one company to stay at the frontier across all five layers.
+- `INS-260626-D7DC` [high] Gemma reached 500M+ downloads and 100K+ derivative models by shipping day-one into Hugging Face transformers, llama.cpp, vLLM, Unsloth, and MLX — explicitly so developers never have to switch to a first-party framework like Keras to use it.
 - `INS-260322-D8C3` [medium] OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260403-7089` [medium] The power structure emerging from AI development converges to either state control or corporate warlordism, with no viable middle ground.
 - `INS-260404-CAD5` [medium] AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.

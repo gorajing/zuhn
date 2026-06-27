@@ -61,8 +61,8 @@ related:
   - INS-260402-E040
   - INS-260405-0810
   - INS-260603-46AE
+  - INS-260626-14A2
   - INS-260402-C1A9
-  - INS-260603-BFEE
 ---
 Parsa's empirical observation: for one of his clients (a fashion AI company), 70% of inbound traffic now comes through AI overviews — the search now produces an AI-generated answer at the top, the user reads that answer, and only sometimes clicks through to source links. If your product gets mentioned in the AI overview, you win. If not, you lose, regardless of your traditional SEO rank. The strategy: produce content explicitly designed to be answer-engine-quotable — clear product mentions, structured information, specific comparisons. The mental model: 'who is my ideal customer, what are they searching during the discovery phase, how can my content show up in the AI overview when they search.'
 

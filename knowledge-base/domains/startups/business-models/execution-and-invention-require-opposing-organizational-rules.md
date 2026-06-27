@@ -46,7 +46,6 @@ stance: >-
   projections, zero-tolerance for failure) to new business model experiments
   will kill innovation before it can prove itself
 related:
-  - INS-260322-A14D
   - INS-260326-CA66
   - INS-260327-99CE
   - INS-260403-462F

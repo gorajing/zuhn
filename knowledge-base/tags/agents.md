@@ -75,6 +75,7 @@
 - `INS-260625-7A1A` Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
 - `INS-260410-53C2` Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
 - `INS-260626-40DF` Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
+- `INS-260626-54A5` If a task is solvable and easy to verify, AI will solve it — verifiability, not solvability, is the gating factor.
 - `INS-260410-6ABA` Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-295D` Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
@@ -91,6 +92,8 @@
 - `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
 - `INS-260625-CC0F` A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
+- `INS-260626-76B5` The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers.
+- `INS-260626-739E` When agents can do the work cheaply, the scarce, expensive activities become specifying it up front and reviewing it afterward.
 - `INS-260605-4688` An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
 - `INS-260625-6C29` Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
 - `INS-260625-9F65` Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
@@ -116,6 +119,7 @@
 - `INS-260626-408A` The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260625-84D0` If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
+- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260625-ADEA` Models, APIs, and tools can be swapped, wrapped, or adapted — but the log is the irreplaceable part that persists, so the provider who hosts your log effectively owns your agent.
 - `INS-260619-4ADA` The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.

@@ -6,8 +6,8 @@
 - `INS-260322-7A32` Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
-- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do.
+- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260329-557C` The capacity to do the same unrewarding thing repeatedly without quitting is learnable and is the main thing separating successful people from everyone else.
 - `INS-260329-F21F` Passion emerges from competence, not the other way around — so pick based on opportunity, not feeling.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.

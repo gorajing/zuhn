@@ -60,8 +60,8 @@ related:
   - INS-260412-2327
   - INS-260501-D701
   - INS-260525-9B7B
+  - INS-260626-13FB
   - INS-260514-F073
   - INS-260325-311F
-  - INS-260424-4111
 ---
 The speakers describe building an agentic solution in a large corporation in roughly two weeks, then spending another twelve months getting it into production because the infrastructure, security, AI gateway, data governance, and application teams all had to align through manual review chains, legal sign-offs, and change freezes. As AI coding agents turn PMs, designers, and domain experts into builders, the supply of deployable code explodes (GitHub on track for ~14 billion commits/year) while approval and deployment infrastructure remains designed for human pace. The real technical debt is therefore not legacy application code but years of underinvestment in engineering automation (CI/CD, security review automation, deployment pipelines). The prescription: convert every human process into 'adaptable, executable code' rather than another meeting or sign-off chain, and make governance speed the CTO's top engineering problem. AI itself can help build this automation faster and cheaper, but it requires a mindset shift — treating governance latency, not model quality, as the thing to fix first.

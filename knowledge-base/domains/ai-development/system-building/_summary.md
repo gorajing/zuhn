@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 303 insights
+> 304 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -179,6 +179,7 @@
 - `INS-260329-C7B8` [high] Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
 - `INS-260625-2563` [high] Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
 - `INS-260320-4B31` [high] We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
+- `INS-260626-EAC7` [high] Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.
 - `INS-260605-6C72` [high] Explicit signals (error rate, latency, cost, regenerations) capture objective reality, while implicit signals (refusals, user frustration, task failure, jailbreaking) capture the fuzzy semantic failures that standard observability tools miss.
 - `INS-260329-3423` [high] Database constraints (NOT NULL, UNIQUE, DEFAULT, FOREIGN KEY, ON DELETE) catch entire categories of data integrity bugs at the storage layer before application code ever runs.
 - `INS-260329-34C0` [high] SQL combines four distinct sub-languages — data query, definition, control, and manipulation — each with different risk profiles and use cases.

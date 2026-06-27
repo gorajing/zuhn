@@ -52,10 +52,10 @@ stance: >-
   drain agent UX.
 related:
   - INS-260605-90CF
+  - INS-260626-7F5B
   - INS-260327-E75F
   - INS-260625-ED79
   - INS-260603-C8AF
-  - INS-260325-175B
 ---
 Text-only tool outputs force two costly patterns: the user navigates away (e.g., a 'can I buy this online?' answer returns links you then chase into a browser) or the user iterates by re-typing ('is this good? where is the time spent?') in a slow conversational loop. MCP apps collapse both by returning a live component rendered in-chat — a flame graph you read directly, a checkout you complete inline, a chart you click to drill into.
 

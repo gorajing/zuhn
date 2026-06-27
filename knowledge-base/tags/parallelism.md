@@ -4,6 +4,7 @@
 - `INS-260330-77BB` Running multiple AI agents locally hits machine limits at 3-4 worktrees; cloud dev environments remove this ceiling entirely.
 - `INS-260410-ED68` Human science is optimized for depth because that's all humans can do; AI unlocks a parallel breadth-first mode that requires restructuring how science is practiced.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
+- `INS-260626-C4F7` Each rung of orchestration extracts the human from a tighter loop — first stop doing, then stop babysitting, then let agents decompose and plan, until your only job is reviewing outcomes.
 - `INS-260605-6CBF` Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260410-62E8` Each agent claims a task by writing a lockfile to current_tasks/ and pushes via git; git's atomicity handles races and Claude handles merge conflicts.
 - `INS-260605-D055` Agent work is inference-bound, so run several agents in parallel on isolated cloud machines and supervise them through a Kanban board like an engineering manager over ICs.

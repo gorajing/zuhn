@@ -47,7 +47,6 @@ stance: >-
   minimal code outperforms accumulating special-case optimizations, especially
   when scaling is not the primary mission.
 related:
-  - INS-260329-9074
   - INS-260412-9657
   - INS-260625-8792
   - INS-260410-022B

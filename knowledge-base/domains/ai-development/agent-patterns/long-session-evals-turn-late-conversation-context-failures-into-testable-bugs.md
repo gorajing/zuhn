@@ -47,7 +47,6 @@ stance: >-
   Loading N turns and testing turn N+1 converts context-degradation failures
   into a reproducible, automated signal.
 related:
-  - INS-260320-CE36
   - INS-260605-DCE5
   - INS-260625-B4AC
   - INS-260625-C69F

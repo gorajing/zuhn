@@ -56,7 +56,7 @@ related:
   - INS-260605-0C56
   - INS-260501-91C2
   - INS-260605-ED35
-  - INS-260626-1B29
+  - INS-260626-739E
 ---
 Hampton splits agents into three autonomy tiers and assigns tasks by his desired level of involvement rather than by complexity. He uses a hands-on local agent for writing tests because he wants to understand the codebase and be human-in-the-loop; a background agent for building a front-end UI where he wants roughly 50/50 oversight ('I don't want to be fully out of the loop, but I also don't want the arduous to-and-fro'); and a fully hands-off cloud agent for documentation, which he simply dislikes doing.
 

@@ -78,7 +78,6 @@
 - `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260605-C37E` When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
 - `INS-260605-1B9D` Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
-- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit.
 - `INS-260625-00D5` Defer model selection until you have an evaluation dataset to score candidates on, so the choice becomes a quick measurement instead of a weeks-long opinion war.
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260605-15B8` Turn harness edits into falsifiable contracts, not untracked tweaks.
@@ -86,6 +85,7 @@
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - `INS-260625-D26E` The study moved from model screening to experimental testing, potency/selectivity checks, mechanism work, tissue-chip evidence, and mouse-model evidence.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
+- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit.
 - `INS-260405-3E73` Anonymizing submissions is the only reliable way to prevent social proximity from contaminating quality judgments.
 - `INS-260404-7C63` We judge early ambitious work by finished-work standards because we never developed customs for the special case of nascent projects.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.

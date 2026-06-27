@@ -7,6 +7,7 @@
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
 - `INS-260626-8F57` Split a single prompt into staged sub-tasks (collect context, triage, policy-check, draft reply, finalize) so you can see exactly which stage failed.
+- `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
 - `INS-260626-A645` Put the human-review step in the execution path as a brick wall the agent cannot route around, instead of trusting the model to ask first.
 - `INS-260605-2032` Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
 - `INS-260605-2E27` Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.

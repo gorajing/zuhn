@@ -55,10 +55,10 @@ stance: >-
   requires, not maximized everywhere by default.
 related:
   - INS-260605-DC65
+  - INS-260626-763B
   - INS-260323-6F66
   - PRI-260406-E015
   - INS-260603-6C2A
-  - INS-260323-BC61
 ---
 Sovereign AI is the ability to design, deploy, and operate AI systems on your own terms — technically, explicit control over data flow, model choice, infrastructure, observability, and operations. The talk splits this into four pillars: data sovereignty (where data is stored/processed plus internal access permissions), model sovereignty (who controls the running model and its training-data origin), infrastructure sovereignty (where compute physically happens), and operational sovereignty (traceability, who can update, who owns incident response).
 

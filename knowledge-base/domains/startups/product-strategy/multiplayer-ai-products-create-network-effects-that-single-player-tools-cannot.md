@@ -48,11 +48,11 @@ stance: >-
   single-user productivity tools because each interaction strengthens the
   network.
 related:
-  - INS-260323-4A3D
   - INS-260330-4F2A
   - INS-260405-DADB
   - INS-260403-E86E
-  - PRI-260406-C4D0
+  - INS-260626-E803
+  - INS-260323-4A3D
 ---
 Most AI tools operate in single-player mode — one user, one model. Meet-Ting's core insight was that scheduling is fundamentally a network problem, not an individual one. By building an AI that coordinates across multiple people, threads, and contexts simultaneously, every new user and meeting adds data that improves coordination for everyone.
 

@@ -58,11 +58,11 @@ stance: >-
   worse; a simple agent loop with broad context and tools outperforms the
   over-engineered harness.
 related:
+  - INS-260626-F25E
   - INS-260405-131B
   - INS-260329-500E
   - INS-260626-E636
   - INS-260327-3B91
-  - INS-260405-3240
 ---
 Franceschi's central regret was spending half a million lines of Rails code building what he calls a 'Foxconn factory for agents' — elaborate scaffolding to tightly control what context the model sees and constrain its every move, because he treated the LLM as a precious, expensive resource that had to be micromanaged. He argues most of software is still making this mistake, over-engineering the harness when 'every single good AI product you've used is an agent loop with tools — skills, tools, and a model, there's not really much else.'
 

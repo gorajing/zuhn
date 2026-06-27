@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 109 insights
+> 110 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -78,6 +78,7 @@
 - `INS-260404-E077` [medium] Neuralink's target of 10K implants/year by 2030 at $40-50K each means BCIs won't meaningfully close the human-AI gap at population scale for years.
 - `INS-260323-9385` [medium] If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
 - `INS-260329-808C` [medium] Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
+- `INS-260626-4393` [medium] A shared workspace where humans and agents announce 'I'm working on this file' lets the next actor avoid conflicts without anyone issuing an explicit handoff.
 - `INS-260605-5D5E` [medium] An agent that starts waffling, contradicting itself, or 'bullshitting' in its reasoning is signaling failure before its diff does — kill or park the session.
 - `INS-260325-ADF3` [medium] Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260330-4AD5` [medium] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.

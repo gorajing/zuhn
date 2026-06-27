@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260405-CA27
   - INS-260403-82E0
+  - INS-260626-E5DE
   - INS-260605-48D1
   - PRI-260406-1F5E
-  - INS-260603-A506
 ---
 The Narada slide frames the action model as natural-language, browser-extension, and API/SDK inputs flowing into an orchestration engine powered by LLCompiler. That engine performs task decomposition, planning as a DAG/workflow graph, parallel execution, and error handling/self-healing before dispatching to API integrations or browser/UI agents.
 

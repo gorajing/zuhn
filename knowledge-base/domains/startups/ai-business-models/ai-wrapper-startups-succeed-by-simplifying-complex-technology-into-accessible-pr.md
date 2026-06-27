@@ -49,7 +49,6 @@ stance: >-
   AI wrappers that abstract away technical complexity will capture more market
   value than the underlying model providers in many vertical applications
 related:
-  - INS-260403-15DD
   - PRI-260406-D8C3
   - INS-260327-E2BC
   - INS-260402-CCF4

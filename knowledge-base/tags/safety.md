@@ -18,10 +18,10 @@
 - `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260403-3B8D` Anthropic proved that safety-first positioning creates enterprise value by making predictability the product, not the overhead.
 - `INS-260505-5510` A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution.
-- `INS-260327-67A9` Creatine supplementation does not harm kidneys (elevated creatinine is a benign byproduct) and the hair loss connection is based on a single study with methodological issues.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
 - `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
+- `INS-260327-67A9` Creatine supplementation does not harm kidneys (elevated creatinine is a benign byproduct) and the hair loss connection is based on a single study with methodological issues.
 - `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.

@@ -66,6 +66,7 @@
 - `INS-260626-411D` Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
+- `INS-260626-0704` A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned.
 - `INS-260605-9402` Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260605-59FE` The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.

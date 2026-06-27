@@ -10,6 +10,7 @@
 - `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
 - `INS-260403-B16E` DeepSeek's MoE architecture activates only relevant neurons per task, slashing compute costs while maintaining competitive performance.
 - `INS-260605-82C6` The single 'any-to-any' model is a vision; in practice a reasoning model routes to separate image and speech generators.
+- `INS-260626-BB8B` Gemma's per-layer-embedding 'E2B' architecture loads only ~2B of a ~4-5B-parameter model into the GPU and pushes the rest to CPU or disk because those weights act as lookup tables, not matrix-multiplication operands.
 - `INS-260505-584B` Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in.
 - `INS-260605-FC5B` BERT, modern BERT, Qwen, and ColBERT differ in flash-attention implementation, positional embeddings (absolute lookup vs. rotary), normalization, and whether QKV can be fused, so a single engine can't serve them all without per-architecture forward-pass adaptation.
 - `INS-260626-4D5F` In tiny models the embedding layer can dominate the parameter count (63% in Gemma 3 270M), so the 'effective' reasoning parameters are far smaller than the headline size suggests.

@@ -63,6 +63,6 @@ related:
   - INS-260605-B136
   - INS-260625-447A
   - INS-260625-FDC1
-  - INS-260327-C1A4
+  - INS-260626-2D64
 ---
 Agent execution time keeps growing because each capability added — returning code, then running a type checker, then running tests, then driving a browser via Playwright MCP for front-end QA — is an order of magnitude slower than the last, but worth it because higher accuracy from longer runs minimizes total human time spent. Knight-Webb pegs ~5 minutes as the threshold past which you can no longer reasonably sit and watch logs; beyond it, the rational move is parallelism — running several agents at once so that as you finish reviewing one, another has completed. This demands new interfaces (his Vibe Kanban being one attempt: git-worktree-isolated workspaces, diffs, inline comments, live previews). The key human constraint he names is 'focus maxing': tooling should let an agent run as long as possible before yielding, because yanking a human in and out of context every 30 seconds fries their brain and destroys productivity. He forecasts that within roughly nine months agents will autonomously QA front-end work, collapsing most of the back-and-forth.

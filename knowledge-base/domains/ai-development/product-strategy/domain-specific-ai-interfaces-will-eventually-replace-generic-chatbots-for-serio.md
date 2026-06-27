@@ -51,12 +51,12 @@ stance: >-
   with built-in critical-thinking workflows will outperform generic chatbots for
   serious cognitive work.
 related:
-  - INS-260325-175B
   - INS-260405-1C8D
   - INS-260403-699A
   - INS-260409-A4F0
   - INS-260409-8C6C
-  - INS-260404-CCB1
+  - INS-260325-175B
+  - INS-260626-7F5B
   - INS-260412-A4DB
   - INS-260605-175E
 ---

@@ -8,12 +8,15 @@
 - `INS-260625-0A7D` MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
+- `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
+- `INS-260626-181F` Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
 - `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
 - `INS-260410-01BC` When a tool returns large data, filter and aggregate it in the code execution sandbox and only log the relevant slice.
 - `INS-260605-3553` Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260410-60C8` Preloading every tool definition burns context before work begins; discoverable tools preserve the window for actual reasoning.
+- `INS-260626-E803` Anyone selling a single solution to agent connectivity (just MCP, just CLI, just computer use) is wrong — each has a distinct best-fit job and good agents use all of them together.
 - `INS-260625-A668` Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
 - `INS-260410-0855` Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260410-8ECF` Expose MCP servers as a typed file tree of tool modules so agents load only the definitions they actually need.
@@ -40,8 +43,8 @@
 - `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260625-2439` MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
-- `INS-260605-0C56` VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
 - `INS-260626-FEA0` Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns.
+- `INS-260605-0C56` VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
 - `INS-260626-57BA` Under XAA you log into the downstream app as yourself with your full existing permissions — the IDP brokers identity but does not attenuate scope, and scoped delegation is not in the spec.
 - `INS-260625-7365` Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 - `INS-260605-3588` A remote tool token should only work for the exact MCP server it was issued to.
@@ -51,8 +54,11 @@
 - `INS-260626-C623` A gateway absorbs the five cross-cutting concerns (auth, authz, observability, secure connectivity, hosting) so each new MCP server only owns its business logic.
 - `INS-260626-8D48` Security teams should bless one gateway platform as a single root of trust, letting MCP development be decentralized without losing central control.
 - `INS-260626-5D7C` Generate a typed SDK from your API and expose a single 'code' tool the model writes against — Cloudflare fit an entire API into ~1,000 tokens this way.
+- `INS-260626-7359` Stop building REST-to-MCP conversion tools — design the server for the agent (start from how a human would want to interact) and use MCP's rich primitives rather than flattening endpoints into tools.
 - `INS-260626-8B56` MCP tool access should be audited against the enterprise policy authority that granted it.
+- `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
 - `INS-260626-B983` Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.
+- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260626-6F00` Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security.
 - `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260625-ED79` MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation.

@@ -15,6 +15,7 @@
 - `INS-260626-34FB` Copilot app BYOK makes model provider, billing, region, and data-handling terms session-level choices inside the same agent UI.
 - `INS-260330-77A2` WebAssembly and cloud compute are enabling full development environments to run entirely in the browser.
 - `INS-260625-0CAB` Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
+- `INS-260626-14A2` Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260626-0D4B` Recursive first rebuilds slow chip-design tools to run ~100,000x faster, because fast iteration loops are what let AI exponentially learn and co-optimize across a huge space.

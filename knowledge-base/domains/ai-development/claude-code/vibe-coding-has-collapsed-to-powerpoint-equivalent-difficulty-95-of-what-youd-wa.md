@@ -65,6 +65,7 @@ related:
   - INS-260605-1BBF
   - INS-260519-02A9
   - INS-260603-C102
+  - INS-260626-9A39
 ---
 Pemberton's claim from extensive testing: 95% of the things you'd want to code are now 'as easy as creating a presentation' — one prompt produces a functional artifact. He oneshotted a Replit-equivalent (vibe coding tool that spawns sandboxes for mobile-vibe-coding apps) — took 80 minutes of agent generation time on Codex 5.4. The Allstate-sponsored physics-train-simulator was one prompt.
 

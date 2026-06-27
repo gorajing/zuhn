@@ -6,6 +6,7 @@
 - `INS-260327-C1A4` Managing multiple agents individually recreates the human bottleneck -- the solution is orchestrator agents (like Poya managing Ppojjak) that handle agent supervision, freeing humans for higher-level direction.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
+- `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
 - `INS-260605-A803` When scaling coding-agent swarms, runtime, orchestration, and triggering are largely solved — coordination (agents picking up tasks from and collaborating with each other) is the actual bottleneck.
 - `INS-260605-6CBF` Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260624-223D` The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
@@ -19,6 +20,7 @@
 - `INS-260605-F700` Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
 - `INS-260605-2D70` Default to one worker/validator at a time and parallelize only read-only work like code search, API research, and code review.
 - `INS-260605-1FD9` A 4B on-device model picks among ~8 skills reliably turn-by-turn ('find a fact, then show it on Maps'), but invoking multiple skills inside one answer only works sometimes.
+- `INS-260626-2D64` Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
 - `INS-260625-25BF` High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
 - `INS-260603-23B1` Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260524-2346` Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.

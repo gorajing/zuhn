@@ -3,13 +3,13 @@
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260412-B805` Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
+- `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
+- `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
+- `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260409-3117` Because hair loss is a multi-factor cascade, any protocol that fixes only one layer (DHT, circulation, mitochondria, scar tissue, or metabolic) will plateau at partial results.
-- `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
-- `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
-- `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
 - `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard.
 - `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
@@ -19,12 +19,12 @@
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
+- `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
-- `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260404-DBA8` Both leftists and rightists got the multipolar world they wanted but not the version they expected.
 - `INS-260412-DDEF` Our catastrophic intuitions ignore the dampening properties of the systems we're reasoning about.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
@@ -90,8 +90,8 @@
 - `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260405-A103` The Calvin Cycle produces 6 G3P molecules per turn but must use 5 of them to regenerate the starting molecules — only 1 net output escapes per cycle, meaning 83% of output is structural overhead.
 - `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
-- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260322-F6C3` Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.
+- `INS-260403-E63A` Growth matured from a solo hacker role into a cross-functional team that operates like a systems architecture function spanning product, data, engineering, and design.
 - `INS-260405-AD58` Every agricultural revolution solved a constraint and created a dependency — today's precision ag wave will be no different.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.

@@ -53,7 +53,6 @@ stance: >-
   scaffolding the model has internalized rather than keeping it for its own
   sake.
 related:
-  - INS-260410-09B4
   - INS-260410-9DB0
   - PRI-260426-890F
   - INS-260410-B0D6

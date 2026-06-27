@@ -54,6 +54,7 @@ related:
   - INS-260329-E0B0
   - INS-260330-EA2E
   - INS-260410-CBCC
+  - INS-260626-E803
 ---
 Ben and Marc Andreessen have worked together for 30 years with a clear division: Marc provides star-level talent and ideas nobody else has, while Ben structures organizations around that talent for execution. They argue about direction and timeframe, but by the time they decide, they've already worked through the conflict productively.
 

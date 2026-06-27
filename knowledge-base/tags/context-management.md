@@ -5,6 +5,7 @@
 - `INS-260320-5B49` Curated structured data enables REASONING about connections. Vector memory stores text blobs for retrieval. For business-ready context, structure wins.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260605-672C` LLMs compact context and humans forget, so the 'why' behind every flow, feature, and architectural choice must live in durable records an agent can re-discover on demand.
+- `INS-260626-181F` Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260605-03A6` Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260410-B0D6` Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
 - `INS-260605-2032` Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.

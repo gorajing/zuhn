@@ -19,10 +19,12 @@
 - `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
 - `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
 - `INS-260624-A740` LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
+- `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260409-C1B2` Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260605-1C30` If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
 - `INS-260625-EC7C` Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
 - `INS-260625-3FBF` Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
+- `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
 - `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
 - `INS-260320-DDFE` Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
 - `INS-260605-A46E` Agent guardrails are defense-in-depth, not the security model.

@@ -2,13 +2,17 @@
 
 - `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
 - `INS-260410-1B17` Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
+- `INS-260329-057F` Destructuring and spread operators embody a design principle where systems that natively support structural decomposition handle evolving data shapes more gracefully.
 - `INS-260605-F064` Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
-- `INS-260329-057F` Destructuring and spread operators embody a design principle where systems that natively support structural decomposition handle evolving data shapes more gracefully.
+- `INS-260626-7359` Stop building REST-to-MCP conversion tools — design the server for the agent (start from how a human would want to interact) and use MCP's rich primitives rather than flattening endpoints into tools.
 - `INS-260626-BC79` GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
+- `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
 - `INS-260626-B983` Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.
 - `INS-260626-55E0` If ~60% of your users are already bots (as Vercel reports), your dashboards stop mattering and your APIs, CLIs, and MCPs become the real product surface.
 - `INS-260625-76F5` Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
+- `INS-260626-14A2` Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
+- `INS-260626-C59C` Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
 - `INS-260605-82BC` A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260625-BBB1` Add attributes to an HTML form and the browser auto-generates the JSON schema; for complex multi-step UI, manually register custom tools with hand-written schemas and execute blocks.
 - `INS-260626-66DC` Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks.

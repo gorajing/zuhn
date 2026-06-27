@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 5905 actionable insights
+Generated on 2026-06-27 | 5927 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -385,6 +385,15 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-4A3B] AI loves to code layer-by-layer (all schema, then all API, then all frontend), which delays any integrated feedback until the last phase; force 'traceable bullet' vertical slices that each touch schema + service + a minimal UI so every slice is testable end-to-end.
 - [INS-260626-7681] Kitze rejects opaque agent 'memory' in favor of nested topics where each conversation deterministically injects its parent topics' descriptions, and argues you shouldn't load one mega-agent with your entire life any more than you'd load one employee with everything.
 - [INS-260626-9D78] Decompose an agent's behavior into four layers — immutable identity, situational mode, example-anchored voice, and a post-generation veto — assembled in a fixed order rather than crammed into one prompt.
+- [INS-260626-83D7] Many business processes have the shape event -> research -> human decision; shipping an agent that only does the research phase saves enormous time without changing the process or raising the risk profile.
+- [INS-260626-C4F7] Each rung of orchestration extracts the human from a tighter loop — first stop doing, then stop babysitting, then let agents decompose and plan, until your only job is reviewing outcomes.
+- [INS-260626-8116] Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
+- [INS-260626-181F] Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
+- [INS-260626-D7AE] Move a task down the verifiability spectrum with golden examples, decomposition, and guardrails so agents can run effectively against a stand-in for truth.
+- [INS-260626-AC8E] Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
+- [INS-260626-E803] Anyone selling a single solution to agent connectivity (just MCP, just CLI, just computer use) is wrong — each has a distinct best-fit job and good agents use all of them together.
+- [INS-260626-E00F] Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
+- [INS-260626-2D64] Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -658,6 +667,8 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-39CE] OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment.
 - [INS-260626-407C] Forget the vector-DB/knowledge-graph infrastructure you think you need; a personal research OS works better as plain files plus a reference-based index.
 - [INS-260626-93C7] Cross-App Access uses the ID-JAG flow so the IDP, which both the MCP client and server already trust, mints a cross-app token the client exchanges for a normal access token — removing manual consent entirely.
+- [INS-260626-7AB8] Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
+- [INS-260626-4639] Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -736,6 +747,7 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-621D] Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - [INS-260626-B614] Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
 - [INS-260626-C563] Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
+- [INS-260626-BC5E] A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
@@ -1020,6 +1032,8 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-5D7C] Generate a typed SDK from your API and expose a single 'code' tool the model writes against — Cloudflare fit an entire API into ~1,000 tokens this way.
 - [INS-260626-BC79] GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - [INS-260626-B983] Naively converting a large API into MCP tools annihilates the context window, so the fix is progressive tool loading — not abandoning MCP.
+- [INS-260626-7359] Stop building REST-to-MCP conversion tools — design the server for the agent (start from how a human would want to interact) and use MCP's rich primitives rather than flattening endpoints into tools.
+- [INS-260626-A5CB] Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
 
 ## ai-development/mental-models
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
@@ -1031,6 +1045,7 @@ Generated on 2026-06-27 | 5905 actionable insights
 ## ai-development/model-architecture
 - [INS-260605-B82E] When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.
 - [INS-260626-4D5F] In tiny models the embedding layer can dominate the parameter count (63% in Gemma 3 270M), so the 'effective' reasoning parameters are far smaller than the headline size suggests.
+- [INS-260626-9883] For phone-sized models, 4-bit is the practical floor and 8-bit the ceiling; below 4-bit, output quality drops sharply.
 
 ## ai-development/pedagogy
 - [INS-260405-75C4] Watching someone use AI live is more instructive than reading or hearing about it.
@@ -1043,6 +1058,7 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260323-BC61] LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
 - [INS-260330-7C24] Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - [INS-260625-98B5] Neon's revenue grew 10x in under a year partly because when you ask a coding agent to build with Postgres, it recommends Neon — agent recommendations are becoming a distribution channel.
+- [INS-260626-D7DC] Gemma reached 500M+ downloads and 100K+ derivative models by shipping day-one into Hugging Face transformers, llama.cpp, vLLM, Unsloth, and MLX — explicitly so developers never have to switch to a first-party framework like Keras to use it.
 
 ## ai-development/platform-shifts
 - [INS-260403-5DD7] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
@@ -1149,6 +1165,9 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-7F76] GitHub built tool-sets, dynamic discovery, and a RAG tool-search to tame context bloat, but 'everyone used the default settings,' so the only fix that mattered was tightening the default itself.
 - [INS-260626-EA1D] Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
 - [INS-260626-4C42] The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck.
+- [INS-260626-7F5B] Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
+- [INS-260626-14A2] Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
+- [INS-260626-C59C] Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1195,6 +1214,7 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-14E0] Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
 - [INS-260626-EB91] Render soft human context before the numeric guard block so the model sets tone first and then satisfies constraints — reversing the order makes prose feel mechanically slotted.
 - [INS-260626-A928] Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
+- [INS-260626-0704] A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1390,6 +1410,7 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-DB00] Use deterministic gates for hashes, permissions, state transitions, and blocklists instead of asking another model to police the agent.
 - [INS-260626-F3AC] If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 - [INS-260626-287B] Bad codebases make bad agents — if AI output is poor, raise the quality of your feedback loops (tests, type checks); enforce TDD red-green so the agent writes a failing test first and can't retro-fit tests to whatever it built.
+- [INS-260626-EAC7] Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1451,6 +1472,7 @@ Generated on 2026-06-27 | 5905 actionable insights
 - [INS-260626-2133] Brand identity fields must come from tenant config with no silent default — a missing identity is a crash, not a fallback, or you ship one venue speaking in another's voice.
 - [INS-260626-A2B9] Centralize planning and decisions in one agent and expose capabilities as tools — each tool can carry its own system prompt, validation logic, and even its own LLM call — so the global context stays intact in the decision-maker.
 - [INS-260626-8080] Treat AI agents as your dominant, abuse-prone API consumers — they run your endpoints in for-loops across many sandboxes, so rate limiting and load protection become first-class requirements.
+- [INS-260626-F25E] AI performs dramatically better in well-structured codebases, so a hard-to-change codebase now caps your AI leverage and bad code becomes the most expensive it has ever been.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

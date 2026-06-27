@@ -5,6 +5,7 @@
 - `INS-260605-5404` GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260411-D060` Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
 - `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
+- `INS-260626-4393` A shared workspace where humans and agents announce 'I'm working on this file' lets the next actor avoid conflicts without anyone issuing an explicit handoff.
 - `INS-260412-B252` Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
 - `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
 - `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
@@ -16,10 +17,10 @@
 - `INS-260403-2F4D` People instinctively defer to established organizers, creating a coordination trap that requires explicit, public handoff ceremonies to break.
 - `INS-260403-E36A` Making volunteer gaps visible combats the bystander effect in distributed community organizing.
 - `INS-260330-CA88` Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
-- `INS-260412-891B` Riot police manufacture perceived power through dehumanizing uniforms and synchronized movement, making both themselves and opponents believe the police are stronger than they are.
 - `INS-260330-BC8E` Time zones replaced locally accurate solar time with globally coordinated clock time because coordination across distances matters more than precision at a point.
-- `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
+- `INS-260412-891B` Riot police manufacture perceived power through dehumanizing uniforms and synchronized movement, making both themselves and opponents believe the police are stronger than they are.
 - `INS-260330-DA4A` Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
+- `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - `INS-260412-5568` Army ants defeat individually stronger wasps and other colonies by acting as a coordinated social unit with overwhelming numbers.
 - `INS-260410-0826` Gallipoli failed because the navy telegraphed the landing two months in advance; Normandy succeeded because every service moved together after years of disinformation.
 - `INS-260404-CF81` Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.

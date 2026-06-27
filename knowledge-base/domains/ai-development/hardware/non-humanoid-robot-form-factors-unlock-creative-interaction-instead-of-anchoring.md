@@ -51,7 +51,6 @@ stance: >-
   Designing robots to look explicitly non-human produces better human-robot
   interaction paradigms than imitating human form.
 related:
-  - INS-260410-5EC3
   - INS-260403-9BBA
   - INS-260412-1A10
   - INS-260603-F0BE

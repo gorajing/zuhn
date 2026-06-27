@@ -2,10 +2,10 @@
 
 - `INS-260403-19C9` Top AI coding tools are seeing traffic declines, forcing startups to rework retention and monetization after a year of rapid growth.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
-- `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
 - `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers.
 - `INS-260327-94E6` YouTube Shorts doesn't care about your niche, personality, or subscriber count — it only measures if viewers stay or swipe, making the first 3 seconds more important than everything else combined.
 - `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
+- `INS-260321-E529` Your content feed must feel episodic like a TV show — if each post is a different genre (live, mimed, behind-scenes, different clothes), viewers get the Game of Thrones problem where every episode is a different show.
 - `INS-260329-656B` Use complete mini-projects rather than isolated exercises to teach technical concepts.
 - `INS-260329-153F` Teaching concepts at the moment a project demands them creates natural motivation and deeper retention than abstract-first instruction.
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
@@ -36,6 +36,8 @@
 - `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
 - `INS-260403-9863` A 1% monthly churn reduction compounds dramatically over 24 months, making it the highest-leverage growth investment.
 - `INS-260403-29AC` First adopters retain 20-30% better than paid users; treat their curve as a benchmark, not a baseline you can maintain.
+- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
+- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260423-6FB5` Dalton: whenever I worked on retention, I had to start with 'am I helping the user?'; whenever I worked on topline growth, I was serving myself.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
@@ -43,8 +45,6 @@
 - `INS-260403-A2A2` Prioritize retention measurement over acquisition volume to diagnose whether you actually have product-market fit.
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260404-9626` Offshore hires often stay longer than domestic ones, and their presence reduces burnout-driven turnover on local teams.
-- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
-- `INS-260409-D681` Relationships are the ballast that keeps transactional businesses afloat when the deal flow turns — customers stay with people, not products.
 - `INS-260403-E930` Investors value cohort retention tables above topline metrics because they prove revenue durability rather than just acquisition velocity.
 - `INS-260404-F0E9` Greylock's Hierarchy of Engagement framework shows that billion-dollar businesses are built by systematically moving users up levels of increasing engagement and commitment.
 - `INS-260403-1D7D` For early rounds, present a clean dashboard showing retention, expansion, and CAC efficiency instead of bloated financial projections.

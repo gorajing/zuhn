@@ -6,6 +6,7 @@
 - `INS-260605-1C30` If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
 - `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
 - `INS-260625-07CB` ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.
+- `INS-260626-9A39` When Kenton told a model to play tic-tac-toe by inspecting a canvas's array of strokes rather than generating a tic-tac-toe app, it recognized the board from raw state and played — with zero tic-tac-toe code anywhere in the system.
 - `INS-260625-ED79` MCP/ChatGPT apps give businesses a new surface to expose products and services, discoverable both in an app store and contextually in-chat, layering interactive UI on top of conversation.
 - `INS-260626-E9D5` Normies won't vibe-code, but they also won't need apps — they'll state a task and the UI will generate on the fly inside a new OS; only specialist software (color grading, music, film) survives.
 - `INS-260605-1CC3` Design for a shared canvas the human and agent both manipulate — like the Excalidraw MCP app — rather than UI the agent generates and hands over.

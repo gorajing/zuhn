@@ -49,7 +49,6 @@ stance: >-
   Verification only works when the validator never saw the code and tests actual
   behavior, not just whether the code looks right.
 related:
-  - INS-260321-C5AA
   - INS-260403-F7A9
   - INS-260320-63D3
   - INS-260605-AD25

@@ -70,7 +70,6 @@ stance: >-
   transfer to high-dimensional domains
 related:
   - INS-260323-2651
-  - INS-260326-8201
   - INS-260329-D8BC
   - INS-260403-410A
   - INS-260329-5ECD
@@ -79,6 +78,7 @@ related:
   - INS-260412-3252
   - INS-260505-0EB5
   - INS-260514-F277
+  - INS-260625-D148
 ---
 The panel's deepest technical claim reframes how 'solved' AI actually is. Transformers work remarkably well on sequences — language, code, anything tokenizable — and the panelist estimates ~80-90% of the sequence problem is solved. The reason they generalize so well on text is that a word is information-sparse: you encode a token into a high-dimensional vector with room to spare, and there's semantic redundancy (mask 70% of a sentence or image of a face and the model can recover it from context).
 

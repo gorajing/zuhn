@@ -6,8 +6,8 @@
 - `INS-260619-90F6` The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260409-F975` HALO (high asset, low obsolescence) businesses — physical experiences, LNG, mining, space — are the counter-AI portfolio that preserves durability while digital business models face rerating.
-- `INS-260327-65E7` British ships were built heavier and more durable than French ships, which were faster but more fragile — in prolonged fleet actions, British durability won because the ships could absorb damage and keep fighting.
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
+- `INS-260327-65E7` British ships were built heavier and more durable than French ships, which were faster but more fragile — in prolonged fleet actions, British durability won because the ships could absorb damage and keep fighting.
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
 - `INS-260405-4C63` Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
 - `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.

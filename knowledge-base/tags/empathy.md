@@ -8,9 +8,9 @@
 - `INS-260412-66F5` Recognizing that other selves have their own perspectives enables the most complex forms of consciousness including empathy and strategic social behavior.
 - `INS-260412-73A8` Treating all others as literal extensions of yourself collapses the cognitive distance that enables cruelty.
 - `INS-260402-46AD` The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
+- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
 - `INS-260404-2F16` Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
 - `INS-260404-C258` The switch from impersonal to personal moral dilemmas shifts brain activation from prefrontal reasoning circuits to the amygdala's emotion centers.
-- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
 - `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260323-6F94` For neurodivergent people who bypassed the social self stage, empathy can be retroactively built through deliberate practice — paying attention, physical closeness, and creating safe spaces for emotional connection.
 - `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.

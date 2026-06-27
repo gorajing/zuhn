@@ -47,9 +47,9 @@ related:
   - INS-260514-4FDC
   - INS-260605-5D66
   - INS-260410-B0D6
+  - INS-260626-4639
   - PRI-260426-890F
   - INS-260619-B1A8
-  - INS-260605-0312
   - INS-260625-FC2D
 ---
 Borrowing from Ryan Carson/'harness engineering' — never work on the code the agent produces, only on the harness that produces the code. Case implements this with a retrospective agent that parses the Claude/Codex JSONL transcripts after each run, detecting failure signatures: repeated identical tool calls, doom loops, redundant parallel tool runs. It writes lessons into scoped markdown memory files (general, Next.js, TanStack Start, etc.) so a one-time mistake like breaking start.ts's implicit TanStack contract never recurs. Combined with human feedback channels and (planned) automatic memory pruning, every failure becomes data that compounds the agent's reliability over time.

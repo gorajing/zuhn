@@ -54,13 +54,13 @@ stance: >-
   Tasks involving sensitive data, personalization, or short context windows
   belong on-device, not in the cloud.
 related:
-  - INS-260505-4351
   - INS-260605-86BE
   - INS-260605-4509
   - INS-260605-D430
   - INS-260605-4375
   - INS-260605-F064
   - INS-260405-567D
+  - INS-260626-ECA6
 ---
 The talk gives a clear decision rule for what should run locally. On-device inference processes prompts entirely on the device with no data sent to a server, which makes it the right home for three classes of work: sensitive data (e.g., banking information that shouldn't leave the device), personalization (which is inherently local and private), and short-context tasks like translation that don't need a large context window. It also enables offline operation and incurs no per-inference cost — both impossible in a cloud-only design.
 

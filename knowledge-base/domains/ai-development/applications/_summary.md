@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 72 insights
+> 74 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -64,8 +64,10 @@
 - `INS-260501-B933` [medium] The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product.
 - `INS-260624-D8C3` [medium] Speculation helps latency, but side-effectful actions need commit barriers.
 - `INS-260624-9A4B` [medium] Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
+- `INS-260626-8DD1` [medium] Models around 300-350M parameters run fast and efficiently enough to be triggered inside iOS Shortcuts for routine text-processing automation.
 - `INS-260605-5DE9` [medium] DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260514-F5D2` [medium] I tell my agent 'make my startup successful.' Every 30 minutes it suggests actions. I click yes/no. That's the entire interface.
+- `INS-260626-763B` [medium] The talk frames open on-device models around scenarios an API cannot serve — fully offline operation (airplane, subway), data that must never leave your servers, national 'sovereign AI' language models, and regulated domains like medical, legal, and finance.
 - `INS-260605-2A64` [medium] Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
 - `INS-260619-0770` [medium] The durable layer for video AI is a corpus memory with grounded primitives and citations back to source footage.
 - `INS-260619-D4F6` [medium] For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.

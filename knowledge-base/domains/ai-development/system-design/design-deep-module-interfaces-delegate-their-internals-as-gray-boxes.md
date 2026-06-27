@@ -65,11 +65,11 @@ stance: >-
   functionality) makes it both AI-legible and testable, and lets you retain
   understanding by owning interfaces while delegating implementations.
 related:
+  - INS-260626-7AB8
   - INS-260325-05EC
   - INS-260327-C99D
   - PRI-260403-ABDE
   - PRI-260405-A11F
-  - INS-260501-F394
 ---
 Drawing on John Ousterhout's A Philosophy of Software Design, Pocock contrasts shallow modules (many tiny files exporting many things, with tangled cross-dependencies) against deep modules (a small simple interface hiding lots of functionality). Shallow architectures are hard for AI to navigate — it must manually trace the dependency graph — and hard to test, because there's no natural place to draw a test boundary, pushing the AI toward bad per-function tests that mock everything and miss integration bugs. Deep modules let you wrap one big test boundary around rich functionality, catching real behavior with a simple caller-facing contract. Left unwatched, AI tends to generate the shallow, hard-to-test shape, so deliberate direction is required.
 

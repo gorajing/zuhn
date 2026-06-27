@@ -28,6 +28,7 @@
 - `INS-260605-5A8E` Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward.
 - `INS-260410-F985` A pretrained GPT just completes internet-shaped documents; turning it into ChatGPT requires SFT on Q&A examples, a learned reward model, and PPO fine-tuning — none of which scale alone provides.
 - `INS-260322-3616` Supervised fine-tuning only changed tone and instruction-following; reinforcement fine-tuning lets companies train models to domain-expert level on their proprietary data, creating the first real moat from model customization.
+- `INS-260626-69EF` Because Gemma 4 inherits Gemini's tokenizer purpose-built for 140+ languages, fine-tuning it for low-resource languages like Quechua tends to 'work quite well out of the box' independent of the model's raw capabilities.
 - `INS-260625-0D5D` Keep a training sample only when tool-augmented inference solves it AND standard tool-free inference fails — this teaches the model to use tools precisely where they make the difference, not where it could have answered unaided.
 - `INS-260625-3768` RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.
 - `INS-260605-B82E` When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.

@@ -2,6 +2,7 @@
 
 - `INS-260329-9115` Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
+- `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
 - `INS-260410-D250` Natural-language tool chains force every intermediate result through the context window; code orchestration keeps only the final answer.
 - `INS-260410-60C8` Preloading every tool definition burns context before work begins; discoverable tools preserve the window for actual reasoning.
 - `INS-260626-DA0A` Feeding an agent more context isn't the bottleneck — the bottleneck is being able to leverage what you gave it in future sessions.

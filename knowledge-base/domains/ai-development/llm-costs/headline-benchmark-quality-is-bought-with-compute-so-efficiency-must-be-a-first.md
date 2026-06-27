@@ -51,7 +51,6 @@ stance: >-
   Marginal quality gains from larger models are often not worth their compute,
   cost, and energy, so efficiency must be evaluated alongside quality.
 related:
-  - INS-260410-43E4
   - INS-260409-17E9
   - INS-260322-3646
   - INS-260322-5790

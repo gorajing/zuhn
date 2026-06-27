@@ -12,6 +12,7 @@
 - `INS-260605-2C70` Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail.
 - `INS-260626-8F57` Split a single prompt into staged sub-tasks (collect context, triage, policy-check, draft reply, finalize) so you can see exactly which stage failed.
 - `INS-260410-01BC` When a tool returns large data, filter and aggregate it in the code execution sandbox and only log the relevant slice.
+- `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
 - `INS-260605-3553` Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260625-3866` Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
@@ -36,6 +37,7 @@
 - `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
 - `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260625-EC7C` Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
+- `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
 - `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260327-4CB3` Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.

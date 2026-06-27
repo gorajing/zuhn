@@ -54,7 +54,7 @@ related:
   - INS-260605-50FB
   - INS-260519-20E0
   - INS-260423-74BF
-  - INS-260327-13B3
+  - INS-260626-7F5B
 ---
 The common framing of voice is that it's a faster, more natural input modality — quicker and more interactive than typing, and more accessible to people with dyslexia or who struggle with keyboards. Harries pushes past that to the more strategic point: voice is omni-channel. The moment an agent gains voice, it unlocks entirely new interaction surfaces that text simply cannot occupy.
 

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 155 insights
+> 159 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -37,9 +37,11 @@
 - `INS-260625-CF91` [high] Architect the product so model progress is a tailwind you absorb, not a rebuild you fund.
 - `INS-260330-6828` [high] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260327-47E9` [high] Google knew character consistency was a gap in prior models and deliberately designed Nano Banana's architecture and data to solve it, confirming it requires intentional engineering rather than just more compute.
+- `INS-260626-7F5B` [high] Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - `INS-260403-26D4` [high] Smart AI companies build cost moats through hybrid retrieval layers, intelligent caching, and model routing rather than competing on raw feature parity.
 - `INS-260323-8555` [high] Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260329-44C9` [high] Figma-first design eliminates the ambiguity that causes AI code editors to hallucinate features and layouts.
+- `INS-260626-14A2` [high] Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
 - `INS-260325-040F` [high] AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260626-715B` [high] Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
 - `INS-260403-990E` [high] AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
@@ -116,6 +118,7 @@
 - `INS-260625-6E19` [medium] Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260605-C9EB` [medium] Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
 - `INS-260626-6A9F` [medium] LLMs excel only at data-rich tasks like search and coding; the trillions of dollars of value in the rest of the economy sits in tens of thousands of data-poor domains, so data efficiency is the real frontier.
+- `INS-260626-C59C` [medium] Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
 - `INS-260605-288D` [medium] If your product is truly differentiated, it is by definition custom — and a generic frontier API eventually becomes the wrong tool.
 - `INS-260625-8333` [medium] Gemini ships ~30 base voices that you 'direct' with a scene and a performance note, rather than a huge filterable library of fixed voices.
 - `INS-260403-F112` [medium] AI embedded within established innovation frameworks outperforms generic AI tools because it combines methodology guardrails with contextual workflow integration.
@@ -128,6 +131,7 @@
 - `INS-260626-7EA8` [medium] ElevenLabs employs 1000+ voice coaches, musicians, and artists to annotate not just the 'what' of audio but the 'how' — emotion, voice description, music description — a deliberate bet that won't return value for 12-24 months.
 - `INS-260605-C122` [medium] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.
+- `INS-260626-ECA6` [medium] LM Studio can serve local models over an OpenAI- or Anthropic-compatible endpoint, letting apps swap cloud APIs for on-device inference with no client changes.
 - `INS-260626-4A96` [medium] Cursor accepted that the skill-based worktree feature is harder to discover because it serves power users, and minimizing maintenance on an advanced feature mattered more than surfacing it in the UI.
 - `INS-260626-ACD0` [medium] For local, file-based tools, you can unlock far more agent capability by giving users sharp tools and owning the risk rather than sandboxing the agent.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.

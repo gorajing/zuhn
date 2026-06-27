@@ -10,6 +10,7 @@
 - `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
 - `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260410-E8A8` Google is the only company in the world that controls frontier model, custom AI chips, hyperscale cloud distribution, and mass-market consumer applications — every other major AI player has at most one of these.
+- `INS-260626-D7DC` Gemma reached 500M+ downloads and 100K+ derivative models by shipping day-one into Hugging Face transformers, llama.cpp, vLLM, Unsloth, and MLX — explicitly so developers never have to switch to a first-party framework like Keras to use it.
 - `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
 - `INS-260404-E4C3` AI features embedded in existing vertical workflows achieve faster adoption than standalone AI products because they eliminate the adoption barrier of a new tool.
@@ -17,6 +18,7 @@
 - `INS-260625-76F5` Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - `INS-260626-313E` Recursive names its category 'designless' by explicit analogy to 'fabless'—just as TSMC let companies stop owning fabrication, Recursive wants companies to stop owning chip design.
 - `INS-260421-60D9` Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
+- `INS-260626-ECA6` LM Studio can serve local models over an OpenAI- or Anthropic-compatible endpoint, letting apps swap cloud APIs for on-device inference with no client changes.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260410-6F67` Fast exponential capability growth continuously generates new use cases that require bare-metal API access, so the API is the one surface that stays relevant across capability generations.

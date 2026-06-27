@@ -55,9 +55,9 @@ stance: >-
 related:
   - PRI-260426-890F
   - INS-260514-4FDC
+  - INS-260626-4639
   - INS-260605-E693
   - INS-260524-2C7C
-  - INS-260626-5B28
 ---
 Weitekamp's rubric for an RLM requires an executable environment, an externalized prompt, code that calls the model, state that stays symbolic, and — critically — that the model itself chooses how to decompose the problem into sub-calls or sub-agents. Hardcoded map-reduces (e.g. lambda-RLM, which uses lambda calculus to pre-decompose into a fixed map-reduce) fail this test: the LLM executes pieces but never decides the decomposition. That dynamic, model-owned decomposition is 'the key element that makes it very agent-native.'
 

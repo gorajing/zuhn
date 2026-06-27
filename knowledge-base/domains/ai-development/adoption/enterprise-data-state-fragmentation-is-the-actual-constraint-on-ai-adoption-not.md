@@ -64,7 +64,7 @@ related:
   - PRI-260407-D1AD
   - INS-260501-09FD
   - INS-260626-AD63
+  - INS-260626-13FB
   - INS-260626-73D4
-  - INS-260321-4E98
 ---
 The popular AI adoption narrative emphasizes model capability as the constraint: when models get smart enough, adoption follows. Enterprise operators experience a different reality: models are plenty capable but cannot execute because data is fragmented across systems, half of which are legacy and cannot cleanly expose APIs to modern agents. A Fortune 500 company trying to deploy a contract-risk agent typically finds contracts across ten or more systems: the CLM tool, SharePoint legacy, shared network drives, email inboxes, PDF archives, acquired-company document management systems, and personal employee file storage. Half of these are not agent-accessible without multi-quarter integration projects. The practical implication: agent deployment projects reliably underestimate the time required because they assume data-state problems will be solved quickly. Realistic enterprise AI roadmaps sequence data-state remediation before agent deployment, often 6-12 months of data-consolidation work before the first user-facing agent ships. The investment implication: companies whose AI feature success depends on accessing enterprise data will underperform projections until buyers complete their data-state work. The competitive implication: AI-native tools that sidestep enterprise data entirely (acting on documents uploaded to them rather than enterprise systems) can deploy faster than tools requiring enterprise integration.

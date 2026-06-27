@@ -61,7 +61,6 @@ stance: >-
   fixed energy and utilization.
 related:
   - INS-260323-7625
-  - INS-260320-9FD5
   - INS-260325-4FF3
   - INS-260405-6A94
   - INS-260410-C022

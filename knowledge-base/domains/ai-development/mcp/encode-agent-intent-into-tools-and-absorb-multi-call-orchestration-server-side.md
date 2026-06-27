@@ -58,12 +58,12 @@ related:
   - INS-260410-358E
   - INS-260514-1841
   - INS-260514-822C
-  - INS-260522-C5C2
   - INS-260605-98BD
   - INS-260605-0819
   - INS-260605-D710
   - INS-260605-1A2D
   - INS-260605-37DA
+  - INS-260605-2E27
 ---
 A naive MCP server mirrors the platform API: one tool per endpoint. GitHub found this both unreliable and token-hungry. Their reliability push raised tool success to over 95%, mostly 'by encoding a sort of agent intent into our tool surface.' Where a robust operation might require five API calls, they perform all five inside the server during a single tool call. This collapses round trips, which 'saves context, saves time, and makes the agents more successful.'
 

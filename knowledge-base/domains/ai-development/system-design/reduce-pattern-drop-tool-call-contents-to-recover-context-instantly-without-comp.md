@@ -61,7 +61,6 @@ stance: >-
   important because user+assistant turns capture the decisions.
 related:
   - INS-260329-CD02
-  - INS-260410-0B73
   - INS-260605-9925
   - INS-260323-E15F
   - INS-260605-1A2D

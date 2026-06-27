@@ -68,13 +68,13 @@ stance: >-
 related:
   - INS-260410-EE37
   - PRI-260426-890F
+  - INS-260626-4639
   - INS-260626-5B28
   - INS-260605-C33F
   - INS-260524-2C7C
-  - INS-260605-D818
   - INS-260514-283E
   - INS-260605-8C71
+  - INS-260605-D818
   - INS-260619-B1A8
-  - INS-260619-6E08
 ---
 Manu's three-layer mental model for harness engineering: (1) STANDARDS layer = agent.md (rule files that agents always read first) + memory (saved preferences/lessons from prior sessions). This sets the WHAT — what should always be true? What conventions apply? What did we learn from previous mistakes? (2) PROCEDURES layer = skills (packaged repetitive procedures with front-matter, references, scripts, optional sub-agents) + MCP (Model Context Protocol — connects external tools like Slack, Gmail, GitHub, Notion). This sets the HOW — how do we do this specific task? How do we reach external systems? (3) EXECUTION layer = hooks (programmatic enforcement at runtime events like session-start, before-tool-use, turn-finished) + sub-agents (specialized parallel contexts). This sets the GUARANTEE — what MUST be true regardless of what the agent might choose? What needs separate context? Each layer answers a structurally different question. The failure mode of treating the harness as one undifferentiated bag of stuff: people put behavioral rules in skills (wrong layer — should be in agent.md or hooks), put hard guarantees in agent.md (wrong layer — agent.md is judgment-based, not enforced), and put parallelization needs in skills (wrong layer — should be sub-agents). Two configuration paths in Codex: ~/.codex/ for environment settings (auth, status, history, logs, memory, hooks, execution state) and ~/.agent/ for shared global skills. The corollary for any agent framework (Claude Code, Codex, Cursor, Pi.dev): same six-component pattern emerges in all of them under different names. Lopopolo's persona reviewers = sub-agents. Pi.dev extensions = skills + hooks combined. Hai Nghiem's skills vs sub-agents distinction = same as Codex's. When evaluating a new agent framework, map its abstractions to these six components — anything missing is a structural gap; anything redundant suggests the framework will have confused users.

@@ -58,8 +58,8 @@ related:
   - INS-260605-C132
   - INS-260626-BC79
   - INS-260605-3553
+  - INS-260626-7F5B
   - INS-260605-50FB
-  - INS-260605-98BD
 ---
 Asked how the voice wrapper handles tool calling, Harries gives the cleanest expression of the wrap-don't-rebuild philosophy: the underlying chat agent already does the majority of tool calling on the backend, so the voice wrapper inherits all of it 'without needing to deal with any of the issues of tool calling.' Tool calling — one of the hardest, most error-prone parts of agent engineering — is simply not the voice layer's problem when you wrap rather than replace.
 

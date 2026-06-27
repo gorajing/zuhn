@@ -54,5 +54,6 @@ related:
   - INS-260626-BCC7
   - INS-260626-21EA
   - INS-260409-17E9
+  - INS-260626-BB8B
 ---
 Labonne points out that the smallest models in major families carry embedding layers far out of proportion to their reasoning capacity: Gemma 3 270M is roughly 63% embedding parameters and Gemma 2.5 0.8B is ~29%. Those embedding parameters don't contribute to reasoning or knowledge capacity — they exist largely because the models are distilled from teachers with huge vocabularies. The practical consequence is that two models with the same memory footprint can have wildly different 'effective' sizes. Liquid's LFM2 architecture keeps the embedding layer small (so ~90% of parameters are effective), squeezing more reasoning out of the same footprint. The actionable takeaway: when designing or selecting a small model, look past total parameter count to the share spent on embeddings — that ratio, not the headline number, predicts usable capability per byte of memory.

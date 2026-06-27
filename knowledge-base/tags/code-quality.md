@@ -8,11 +8,13 @@
 - `INS-260625-78EC` Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
 - `INS-260605-402B` An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces.
 - `INS-260605-89B0` AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
+- `INS-260626-F25E` AI performs dramatically better in well-structured codebases, so a hard-to-change codebase now caps your AI leverage and bad code becomes the most expensive it has ever been.
 - `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
 - `INS-260626-287B` Bad codebases make bad agents — if AI output is poor, raise the quality of your feedback loops (tests, type checks); enforce TDD red-green so the agent writes a failing test first and can't retro-fit tests to whatever it built.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260329-3C75` Semantic naming and structural clarity communicate intent more reliably than comments because structure can't drift out of sync with behavior.
+- `INS-260626-EAC7` Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.
 - `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.

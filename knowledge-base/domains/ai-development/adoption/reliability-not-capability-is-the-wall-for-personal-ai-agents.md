@@ -63,9 +63,9 @@ related:
   - INS-260410-9EA8
   - INS-260423-44B4
   - INS-260403-4120
+  - INS-260626-13FB
   - INS-260327-DC4C
   - INS-260605-5404
-  - INS-260501-4C5E
 ---
 Kitze describes the adoption arc of personal-agent communities (Tinker Club, the Open Claw Discord): an explosion of enthusiastic sign-ups and weekly calls, followed by attrition down to a handful of people swapping failure stories. His diagnosis is that the tools are 'unreliable where it matters most' — scheduled cron jobs that misfire, multi-agent orchestration that breaks, agents that forget context from one message to the next. A separate tell: when he asks community members which of their use cases they couldn't already do with plain Claude Code or Codex, the list shrinks by ~90%, suggesting the packaged-agent layer adds little durable value over the raw coding agent.
 

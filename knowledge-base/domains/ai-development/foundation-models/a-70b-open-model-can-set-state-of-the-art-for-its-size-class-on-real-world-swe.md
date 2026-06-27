@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260413-C040
   - INS-260605-A0BC
+  - INS-260626-6DCA
   - INS-260409-E776
   - INS-260413-25EC
-  - INS-260413-7816
 ---
 On SWE-bench Verified — a human-curated benchmark of real GitHub issues — Llama-3-SWE-RL-70B solves 41% of issues on the first attempt, setting a new state-of-the-art among open-source models with fewer than 100 billion parameters. It does not beat the largest closed-source or 100B+ models, but it reaches that performance at a far more deployable, fine-tune-friendly size. The signal for builders is that method (RL on the right data with the right reward) can substitute for raw scale on a specialized task: you don't necessarily need a frontier-scale model to get strong real-world software-engineering performance if you train the objective that matches the task. The specific 41% figure is time-sensitive as benchmarks and models advance, but the size-vs-method tradeoff is the durable lesson.

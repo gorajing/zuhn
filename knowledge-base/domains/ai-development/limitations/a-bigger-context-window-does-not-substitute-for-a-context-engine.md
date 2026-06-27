@@ -47,7 +47,6 @@ stance: >-
   lacking entities and relationships.
 related:
   - INS-260323-8D12
-  - INS-260409-8408
   - INS-260410-F24A
   - INS-260501-22BF
   - INS-260626-35A9

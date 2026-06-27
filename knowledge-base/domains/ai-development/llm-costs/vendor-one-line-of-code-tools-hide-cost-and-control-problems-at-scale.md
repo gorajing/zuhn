@@ -46,11 +46,11 @@ stance: >-
   LLM-provider conveniences like a built-in web search tool look like one line
   of code but become unworkable at scale due to token cost and loss of control.
 related:
+  - INS-260626-A5CB
   - INS-260524-8320
   - INS-260626-78E6
   - INS-260625-AC58
   - INS-260605-D710
-  - INS-260403-7D7A
 ---
 Granola found that adding the labs' web search tool was trivial to wire up but came with two hidden costs. First, token usage and cost balloon — complex queries can cost ~10 pence per chat, which is infeasible across millions of users. Second, the provider controls quality: an overnight model update silently degraded their web search and they had no recourse except switching providers, with no visibility into what changed.
 

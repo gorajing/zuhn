@@ -24,6 +24,7 @@
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
+- `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260626-6767` Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.
 - `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.
@@ -37,6 +38,7 @@
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260626-D768` When anyone can spin up an agent, the winners are the platforms that make agent behavior visible, debuggable, and editable.
 - `INS-260605-7711` Build bespoke tracing that structures the data your way and serves product/data/CX — not just engineers — because LLMs make such internal tools cheap to one-shot.
+- `INS-260626-A45A` Map directories and files to a visual space where agents appear as units, giving lineage tracking and a collision heat map instead of an opaque list of running sessions.
 - `INS-260605-CFB7` Self-hosting the model, relocating data, moving to on-prem infra, and adding tracing each detonate a distinct class of hidden coupling.
 - `INS-260605-726C` When an AI system grows to many chained prompts and agents, a human can't trace where a failure originated, so you must point AI at your own internal tooling to debug it.
 - `INS-260602-1DF1` Mansi More: in the data-sources → ingestion → sub-agents → models stack, 'when one layer, one error comes, the whole agent is confined to it' — so it is critical to know exactly which layer produced an error, which only per-layer observability provides.

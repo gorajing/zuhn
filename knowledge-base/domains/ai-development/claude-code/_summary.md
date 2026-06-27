@@ -1,6 +1,6 @@
 # Topic: claude-code
 
-> 77 insights
+> 78 insights
 
 - `INS-260321-82FE` [very_high] Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260501-EC31` [high] Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
@@ -34,6 +34,7 @@
 - `INS-260501-0D6D` [high] Every agent platform converged on the same UI: chat list left, conversation middle, artifact right. Terminal-first is dying for non-developer users.
 - `INS-260320-4ED6` [high] The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260320-F8FD` [high] Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
+- `INS-260626-BC5E` [high] A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 - `INS-260605-158D` [high] Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
 - `INS-260501-AE73` [high] Adversarial review: score the doc, find issues, attempt auto-fix, re-score. 6→8/10 in two rounds without human intervention.
 - `INS-260320-2DDE` [high] Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.

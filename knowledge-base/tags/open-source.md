@@ -32,6 +32,7 @@
 - `INS-260405-82F3` Open models consistently trail closed models by ~6 months, but the gap persists because proprietary labs keep redefining what 'frontier' means.
 - `INS-260410-59F4` Frontier lab red lines don't stop mass surveillance because open-source models 12 months behind will always be smart enough to watch a camera.
 - `INS-260514-6576` Open-source devs contributed to GitHub; Microsoft bought GitHub; trained Copilot on the open-source code; sold the result as a closed subscription.
+- `INS-260626-E46D` The Hugging Face MLX community re-publishes quantized device-ready weights ~30 minutes after a lab releases a model, turning new models into instantly runnable on-device assets.
 - `INS-260605-44E5` When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
 - `INS-260619-AD94` At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
 - `INS-260410-F053` Zuckerberg frames distillation as the surprise-strong technique of the last year — ~95% of a teacher model's intelligence captured at ~10% of the cost — and says the point of open-sourcing behemoth models is to enable distillation, not direct deployment.
@@ -45,6 +46,7 @@
 - `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
 - `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
 - `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
+- `INS-260626-D7DC` Gemma reached 500M+ downloads and 100K+ derivative models by shipping day-one into Hugging Face transformers, llama.cpp, vLLM, Unsloth, and MLX — explicitly so developers never have to switch to a first-party framework like Keras to use it.
 - `INS-260404-FC9E` AI is the platform shift enabling open-source tools to displace entrenched SaaS incumbents.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260410-B30D` Leonardo wrote his discoveries in coded mirror script and Brunelleschi burned his dome schematics — both wanted to be marveled at forever, and Palmer calls them saboteurs of human progress.
@@ -59,7 +61,6 @@
 - `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
-- `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260405-E2F2` Companies invest in OSS to influence standards, attract developers, and commoditize competitors' advantages.
 - `INS-260323-3BA4` OpenClaw beat every well-funded agentic AI startup because competitors 'all take themselves too seriously' — it's hard to compete against someone who's just there to have fun, with lobster memes, weird branding, and a soul.md that gives agents personality.
@@ -68,6 +69,7 @@
 - `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260402-97AF` Open-source code plus portable user data means web3 projects cannot rely on IP or lock-in—only ongoing community value sustains them.
 - `INS-260323-7D3C` Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
+- `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260330-7675` Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260412-2AF2` Google's $50M Android acquisition captured 80%+ smartphone market share by making every hardware manufacturer a distribution partner.
 - `INS-260410-49D7` Meta open-sources distributed computing infrastructure and AI models specifically because Google got there first — open-sourcing their own version commoditizes Google's proprietary moat and standardizes the supply chain around Meta's designs.

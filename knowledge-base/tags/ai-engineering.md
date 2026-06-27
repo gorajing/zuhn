@@ -1,5 +1,6 @@
 # Tag: ai-engineering
 
+- `INS-260626-E5DE` Because the application layer can thrive independent of any single model and the model companies are commoditizing each other, the AI engineers building agents — not the labs — become the locus of business value and innovation.
 - `INS-260605-768D` Much of AI engineering is being explicit about the implicit knowledge humans carry — agents do their job well only when our tacit understanding is transferred to them.
 - `INS-260501-17BB` Amjad Masad: when a model comes out, our AI engineers sit down with it for a day or two — they're like model psychologists, they play around with it, plug it in, figure out the limits.
 - `INS-260626-AE04` NOVA's L3 task succeeds by coupling paper reproduction, solution design, production code edits, semantic gates, and offline/online validation.

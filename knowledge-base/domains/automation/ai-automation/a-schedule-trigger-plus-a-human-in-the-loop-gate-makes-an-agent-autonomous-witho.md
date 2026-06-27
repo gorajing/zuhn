@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260605-46A8
   - INS-260411-27AA
+  - INS-260626-7F5B
   - INS-260327-13B3
   - INS-260626-B38C
-  - INS-260626-091B
 ---
 The same agent that responds when you message it becomes an autonomous background worker the moment you replace its chat trigger with a schedule trigger carrying a standing instruction like 'clear my inbox.' Now it runs every hour without being initiated. The key is that this autonomy does not require giving up oversight: the human-in-the-loop gates on destructive actions remain, and the agent pings a Slack channel for approval before sending or replying. You get unattended operation plus a veto on every consequential step.
 

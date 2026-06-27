@@ -48,6 +48,7 @@ related:
   - INS-260410-BBEA
   - INS-260322-37EE
   - INS-260423-6879
+  - INS-260626-7AB8
 stance: >-
   Since VLAs eliminate the interfaces needed for classical debugging, you must
   invent new probe methods: attention visualization, camera ablations, c...

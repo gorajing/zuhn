@@ -53,10 +53,10 @@ stance: >-
   anonymous browsing nearly impossible for commercial purposes
 related:
   - INS-260329-917B
+  - INS-260626-E803
   - INS-260626-D91F
   - INS-260329-BCB7
   - INS-260327-415B
-  - PRI-260320-097F
 evidence:
   - id: INS-260327-E41B
     type: CONTRADICTS

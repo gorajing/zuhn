@@ -31,5 +31,5 @@
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.
 - `INS-260626-BD6A` Neuralink designed surgical robots, factories, and deployment infrastructure on day one — building 'under the waterline' looks slow until the iceberg breaches and growth becomes massive fast.
 - `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
-- `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
 - `INS-260410-2106` Sony bought Columbia Pictures in 1989 partly out of Betamax-induced trauma, but hardware teams wanted devices to play any content (including pirated) while the movie division wanted hardware to enforce restrictions — the two strategies are permanently incompatible.
+- `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.

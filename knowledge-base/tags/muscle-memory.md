@@ -1,3 +1,4 @@
 # Tag: muscle-memory
 
+- `INS-260626-7B73` Managing many units under time pressure is a learned skill RTS gamers already have, so build agent orchestrators around those familiar mechanics rather than inventing new ones.
 - `INS-260424-1E10` Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.'

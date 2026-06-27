@@ -32,6 +32,7 @@
 - `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260410-BDFF` Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
 - `INS-260605-0374` Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
+- `INS-260626-2D64` Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
 - `INS-260605-92FF` The dangerous toolset is ambiguous, not merely large.
 - `INS-260603-23B1` Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
@@ -44,5 +45,6 @@
 - `INS-260605-5878` A 'production function' framing shows heterogeneous skill distributions meet complex demand that neither narrow specialists nor broad generalists can satisfy efficiently.
 - `INS-260626-A2B9` Centralize planning and decisions in one agent and expose capabilities as tools — each tool can carry its own system prompt, validation logic, and even its own LLM call — so the global context stays intact in the decision-maker.
 - `INS-260412-B252` Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
+- `INS-260626-A45A` Map directories and files to a visual space where agents appear as units, giving lineage tracking and a collision heat map instead of an opaque list of running sessions.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260320-336E` Chain specialized AI agents in n8n -- scraper (Firecrawl) feeds analyst (Perplexity) feeds formatter (Gemini) -- each agent does one job well, keeping the pipeline modular and cheap.

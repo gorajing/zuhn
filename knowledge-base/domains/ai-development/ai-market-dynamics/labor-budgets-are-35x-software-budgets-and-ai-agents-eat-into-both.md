@@ -49,9 +49,9 @@ stance: >-
 related:
   - PRI-260328-8317
   - INS-260403-101D
+  - INS-260626-76B5
   - INS-260405-E8A1
   - INS-260404-6BD6
-  - INS-260327-5690
 ---
 Traditional SaaS products compete for a share of enterprise software budgets. AI agents break this constraint by also competing for labor budgets, which are roughly 35x larger than software budgets. This means the total addressable market for agent-based companies is fundamentally larger than for any previous software category.
 

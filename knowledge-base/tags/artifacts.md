@@ -1,5 +1,6 @@
 # Tag: artifacts
 
+- `INS-260626-7F5B` Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - `INS-260320-6F8E` SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
 - `INS-260409-7DB7` Document the struggle now — the shame you feel about early work is exactly what makes future-you want that record.
 - `INS-260330-DECB` The prime number spirals arise from rational approximations of 2pi in the coordinate system, not from any property of primes themselves.

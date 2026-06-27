@@ -57,10 +57,10 @@ stance: >-
   it beats per-user personal agents for company workflows.
 related:
   - INS-260603-23B1
+  - INS-260626-E803
   - INS-260501-91C2
   - INS-260605-C2A3
   - INS-260409-D491
-  - PRI-260328-81F5
 ---
 Viktor's core architectural bet is that a 'company agent' is categorically different from a 'personal agent.' With a personal agent, every employee must connect their own integrations and run their own instance — painful at scale (asking 20 growth-team members to each connect Meta Ads) and error-prone (someone connects the wrong account, the agent gets stuck not knowing which to use).
 

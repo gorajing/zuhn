@@ -71,7 +71,6 @@ related:
   - INS-260403-7B04
   - INS-260403-3BB2
   - INS-260625-4DE2
-  - INS-260626-34FB
 ---
 The strategic framing of MCP apps is that they create a new acquisition channel with two properties. First, discoverability: apps live in browsable ecosystems (the ChatGPT app store, Claude connectors) and are also surfaced contextually mid-conversation — if a chat is relevant to an app, the host can pull it in to add context and actions. Second, and the bigger shift, is interactive UI: where agents previously emitted only text, apps now inject a layer of UI (provided by the MCP server or generated) directly into the conversation.
 

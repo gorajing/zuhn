@@ -55,6 +55,7 @@ related:
   - INS-260625-F3B0
   - INS-260605-D710
   - INS-260605-83DA
+  - INS-260626-A45A
 ---
 Richman's architecture puts a Command and Control daemon alongside each agent platform (Claude Code, Cursor, Codex, Gemini, Open Code). Each daemon monitors its agent's lifecycle and reports up to a shared control-plane layer; the UI then talks back to that layer. The control plane aggregates every agent regardless of whether it runs on a dev Mac, a cloud VM, or both.
 

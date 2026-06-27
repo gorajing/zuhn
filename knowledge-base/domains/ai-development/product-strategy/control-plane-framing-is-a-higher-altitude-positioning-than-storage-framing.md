@@ -61,8 +61,8 @@ related:
   - INS-260327-C1A4
   - INS-260626-7681
   - INS-260605-37FB
-  - INS-260530-ADED
   - INS-260605-3553
+  - INS-260626-B94C
 ---
 Vasilije Markovic opened his Cognee talk with: 'Cognee is a memory engine for AI apps and agent — control layer, control plane effectively for multiple agents, connecting, sharing, memory, exchanging.' Notably, he did not pitch Cognee as a better memory store than Neo4j or FalkorDB; he admitted 'since Memzero went into the benchmarks, since Falkor went into how graphs work, I'm not going to go into any of that.'
 

@@ -58,7 +58,7 @@ related:
   - INS-260514-E860
   - INS-260409-A4F0
   - INS-260403-B8ED
-  - PRI-260328-6A8D
+  - INS-260626-14A2
 ---
 swyx cites Malte's keynote claim that roughly 60% of Vercel's user base is now agents rather than humans, and Edo and Liad's talk on shipping UI into someone else's app rather than building your own. The conclusion he draws is that the 'primary user' of software is shifting toward what people call agent experience (AX): when agents are the majority caller, the human-facing dashboard and custom UI matter less, and the machine-facing surfaces — APIs, CLIs, MCPs — matter more.
 

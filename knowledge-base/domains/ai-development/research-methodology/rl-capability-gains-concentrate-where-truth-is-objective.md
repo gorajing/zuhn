@@ -60,10 +60,10 @@ stance: >-
   (math, code) and stalls where expert judgment diverges (creative writing).
 related:
   - INS-260405-C709
+  - INS-260626-E00F
   - INS-260605-24AC
   - PRI-260403-52DF
   - PRI-260405-2DE5
-  - PRI-260407-F684
 ---
 Chen frames the automation frontier as a gradeability problem. RL historically struggles in subjective domains — his example is creative writing, where two experts can hold 'wildly different opinions' on the same piece, leaving no clean reward signal. It takes off where there is 'cold hard truth': math and computer science, where a solution is implemented correctly or it isn't. This is why a coding agent works before a junior-consultant agent: the code base supplies accessible, verifiable context, whereas a consultant's context is scattered and the output is judged subjectively.
 

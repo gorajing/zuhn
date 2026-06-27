@@ -62,8 +62,8 @@ related:
   - INS-260330-BD04
   - INS-260403-8BBB
   - INS-260330-F737
+  - INS-260626-E00F
   - INS-260325-3589
-  - PRI-260406-7CD8
 ---
 Dara's advice to young people is explicitly anti-planning: the most common mistake he sees is people deciding they want to be VP by X age or earn Y by Z age, because once you commit to a plan, your brain actively searches for evidence that agrees with it and discards everything else. This is a mechanistic claim about cognitive bias, not vague advice to 'stay open.'
 

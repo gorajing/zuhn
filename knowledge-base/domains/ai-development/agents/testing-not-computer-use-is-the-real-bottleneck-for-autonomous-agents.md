@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260409-96B0
   - INS-260404-21E6
+  - INS-260626-F25E
   - INS-260625-6C29
   - INS-260403-A851
-  - INS-260329-CF48
 ---
 Walden Yan argues that observers fixate on 'computer use' — can the model emit the right coordinates to click a button — when the genuinely hard problem is testing. To verify a change spanning frontend, backend, and deeper services, the agent has to reason about how to run those applications together at the correct code version, then figure out how to actually trigger the feature: maybe it must be an admin, maybe a flag has to be on, maybe it has to run two sessions and send a specific word into one to provoke the behavior. This requires extensive codebase context and orchestration, and Cognition found cases where no single frontier model could complete the end-to-end task — they had to orchestrate multiple frontier models together.
 

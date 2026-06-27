@@ -29,7 +29,7 @@
 - `INS-260330-7675` Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260410-AFB9` Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
 - `INS-260412-49DA` Ford humiliated Tata in 1999 for entering passenger cars; by 2008 Tata bought Ford's Jaguar Land Rover for $2.3B.
-- `INS-260330-68EF` France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
 - `INS-260403-3876` Movements with members on both sides of a divide can influence whichever side currently holds power.
 - `INS-260403-4C4E` As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260330-68EF` France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.

@@ -9,6 +9,7 @@
 - `INS-260410-204E` Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
 - `INS-260405-18C8` Like steam engines making coal cheaper and thereby increasing total coal consumption, AI lowering the cost of knowledge work will likely expand total demand for that work.
 - `INS-260423-4CB1` Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
+- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260625-0758` Point AI at 'what already happened' across all your data sources to find patterns, not just at 'write me a new thing.'
 - `INS-260626-09B3` When marginal tokens make the output more complete, spend them — token budget is high-ROI leverage, not a cost to minimize.
 - `INS-260405-10DF` Knowledge workers spend nearly two hours per week fixing low-quality AI outputs ('workslop'), creating a hidden productivity tax during the adoption dip.

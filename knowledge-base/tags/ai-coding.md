@@ -23,6 +23,7 @@
 - `INS-260329-8DC5` Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - `INS-260626-EA1D` Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
 - `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
+- `INS-260626-EAC7` Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.
 - `INS-260405-C1E4` AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - `INS-260625-0AD4` Ideas that were once 'slightly out of reach' are now buildable, so the burden flips from 'can I build this?' to 'I can't just ship the MVP — I have to go ten steps further.'
 - `INS-260404-9D14` AI commoditizes code production, making attention — not engineering velocity — the scarce resource for startups.

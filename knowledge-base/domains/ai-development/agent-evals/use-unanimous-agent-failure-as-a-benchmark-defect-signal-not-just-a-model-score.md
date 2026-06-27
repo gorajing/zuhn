@@ -57,8 +57,8 @@ related:
   - INS-260410-0DA5
   - INS-260424-F8BB
   - INS-260605-3ABF
-  - INS-260625-A53F
   - INS-260625-76E9
+  - PRI-260323-9D46
 ---
 During construction, the paper found that identical failures across agents often exposed mismatched field descriptions, unstated conventions, over-strict comparisons, or even a latent evaluator bug. In the clearest case, agents converged on the physically correct answer while the evaluator was wrong because its own indicator model had an off-by-one error that self-consistency checks missed.
 

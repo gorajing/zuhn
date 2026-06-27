@@ -11,12 +11,12 @@
 - `INS-260625-8792` Their U-Pipe optimization exploits that a single head-group maxes out the GPU, so heads can be computed in sequential chunks that reuse one small buffer instead of one giant allocation.
 - `INS-260625-7CD5` Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - `INS-260325-123C` There is no catching up on sleep; consistent sleep hygiene is the most powerful attention intervention.
+- `INS-260409-7171` Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
+- `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - `INS-260403-D16C` Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260330-0C49` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
 - `INS-260330-6E6A` A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
-- `INS-260409-7171` Naming a desire triggers attention to its absence, so gap-awareness is the default failure mode of goal-setting.
-- `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260403-5CA6` Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
@@ -43,14 +43,14 @@
 - `INS-260405-EF0F` People grabbed newspapers and magazines at newsstands out of commuting habit — when smartphones replaced the commute ritual, the revenue vanished even though the content was still good.
 - `INS-260330-0930` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260330-B047` Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
-- `INS-260323-42A7` Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
 - `INS-260330-E0A7` In silence and darkness, Derek felt his heartbeat shaking his entire body — not because it got stronger, but because the brain stopped filtering it out.
 - `INS-260409-3059` Images become the load-bearing memory of an event while the names of those involved fade.
+- `INS-260323-42A7` Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-D212` Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
+- `INS-260404-896B` Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.
 - `INS-260327-6D58` A clown gets attention but has no fan club — trusted creators with small audiences outperform viral ones with millions of followers.
 - `INS-260329-6859` Put 80% of ad creation effort into the hook/headline — front-end CTR gains of 4x dwarf backend improvements.
 - `INS-260322-FFF6` The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260403-963B` Package your message into a surprising public visual that journalists and audiences cannot ignore.
-- `INS-260404-896B` Lead your investor pitch with a plain-language description of your product in the very first sentence, not context or preamble.

@@ -50,11 +50,11 @@ stance: >-
   standardize and shorten trials to maintain scalability.
 related:
   - INS-260320-2DDE
+  - INS-260626-F25E
   - PRI-260407-A13C
   - INS-260605-89B0
   - PRI-260406-9D48
   - INS-260501-F394
-  - PRI-260321-14D8
   - INS-260605-743D
   - INS-260625-E10F
 ---

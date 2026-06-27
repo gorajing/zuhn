@@ -51,10 +51,10 @@ stance: >-
   operational overhead.
 related:
   - INS-260605-B230
+  - INS-260626-7359
   - INS-260322-5678
   - INS-260405-945B
   - PRI-260405-AF79
-  - INS-260605-0C56
   - INS-260403-6412
   - INS-260410-953E
   - INS-260605-D2C7

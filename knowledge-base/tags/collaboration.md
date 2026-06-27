@@ -5,6 +5,7 @@
 - `INS-260421-7ADE` Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
 - `INS-260325-11E9` AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.
+- `INS-260626-4393` A shared workspace where humans and agents announce 'I'm working on this file' lets the next actor avoid conflicts without anyone issuing an explicit handoff.
 - `INS-260605-5CC7` When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 - `INS-260410-988F` AI problem-solving is trial-and-error at scale, not cumulative — it can jump and fail repeatedly, but it can't reach a handhold, stay there, and climb from it.
 - `INS-260403-4120` Moltbook reveals that AI agents excel at founding projects but cannot sustain them, producing thousands of one-off ideas with almost no follow-through or genuine collaboration.

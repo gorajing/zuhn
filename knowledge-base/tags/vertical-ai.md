@@ -9,6 +9,7 @@
 - `INS-260322-EDC2` While staying on the model frontier matters, the real defensibility in vertical AI comes from deep application context — understanding specific workflows, regulations, and customer needs that no foundation model company will pursue.
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260404-CCB1` Vertical AI solutions specialized for specific industries will outperform horizontal AI platforms by building deeper moats through domain expertise and proprietary data.
+- `INS-260626-7F5B` Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
 - `INS-260404-60A6` Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260327-F316` Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.

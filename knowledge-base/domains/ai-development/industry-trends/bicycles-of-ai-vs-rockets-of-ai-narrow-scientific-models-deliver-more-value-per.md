@@ -74,7 +74,7 @@ related:
   - INS-260505-ABCC
   - INS-260619-AD94
   - INS-260605-8F42
-  - INS-260327-89AE
+  - INS-260626-E5DE
   - INS-260412-48E7
 ---
 The transportation analogy: we have nuanced conversations about transportation where we push electric vehicles, public transit, bicycles. We don't say everyone should get a rocket for all transportation needs — that would be absurd. AI should be discussed the same way. Frontier LLMs from OpenAI, Anthropic, xAI, Meta are the rockets: massive data, massive compute, massive energy, massive externalities, broad but shallow capability, benefit for some people at huge cost to others.

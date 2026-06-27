@@ -51,7 +51,6 @@ stance: >-
   Agent interoperability requires a separate protocol layer for client-agent
   interaction, not just a tool-provisioning protocol like MCP.
 related:
-  - INS-260410-FEFA
   - INS-260514-33FB
   - INS-260605-20DD
   - INS-260326-2410

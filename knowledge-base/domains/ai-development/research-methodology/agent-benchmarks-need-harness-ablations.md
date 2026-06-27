@@ -46,7 +46,7 @@ related:
   - INS-260410-5951
   - PRI-260328-A82C
   - INS-260410-D03C
-  - INS-260625-2A4F
+  - INS-260626-6DCA
 ---
 The authors run each RL algorithm across combinations of three harness levels and multiple task settings, then evaluate both in-distribution and under tool/task shift. They note that prior ALFWorld work often used a highly informative harness without making that assumption explicit.
 

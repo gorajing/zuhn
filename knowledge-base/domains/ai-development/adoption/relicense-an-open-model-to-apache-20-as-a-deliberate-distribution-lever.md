@@ -57,9 +57,10 @@ related:
   - INS-260605-6588
   - INS-260605-8C05
   - INS-260625-84DB
+  - INS-260626-ECA6
   - INS-260410-4F43
   - INS-260605-C760
-  - INS-260605-0C56
+  - INS-260626-D7DC
 ---
 The Gemma team frames the Apache 2.0 relicensing as a deliberate accessibility move rather than a compliance detail: a permissive license lets a developer carry the model through the full lifecycle — initial testing, integration, deployment, and building on top — without the legal friction that custom or restrictive open-weights licenses impose. This is a distribution decision aimed at lowering adoption activation energy.
 

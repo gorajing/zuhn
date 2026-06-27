@@ -2,6 +2,7 @@
 
 - `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
 - `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
+- `INS-260626-76B5` The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers.
 - `INS-260403-7D11` Companies are quietly replacing departing employees with AI agents that deliver 70-80% of human output at a fraction of the cost.
 - `INS-260411-CF02` Unlike electricity or the internet where adoption took decades, AI deployment will be far faster — and the gap between job displacement and new job creation may require unprecedented government and corporate intervention.
 - `INS-260404-6BD6` AI agents are moving beyond task-level automation to reshape how entire workforces are structured.

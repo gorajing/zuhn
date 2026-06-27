@@ -45,7 +45,7 @@ related:
   - INS-260625-D938
   - INS-260603-6FE3
   - INS-260321-2482
+  - INS-260626-13FB
   - INS-260605-726C
-  - INS-260625-447A
 ---
 While compiling the Linux kernel, parallelism collapsed: every agent hit the same bug and overwrote each other's attempts. The fix was clever — use GCC as an online 'known-good' oracle. Compile most of the kernel with GCC and only a random subset with Claude's compiler. If the build worked, Claude's subset was clean; if it broke, bisect by recompiling more files with GCC. This gave each parallel agent a different failing subset to debug. The generalizable pattern: when parallelism collapses onto a monolithic task, find an oracle that can verify subcomponents, and use it to create independent work streams. Without this, adding more agents is net-negative — they just thrash on the same merge-conflicted hotspot.

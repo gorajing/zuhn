@@ -16,11 +16,11 @@
 - `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260412-3C98` If giant viruses hid in plain sight until 2003, every mature field likely contains fundamental phenomena we're miscategorizing or ignoring.
-- `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260323-738D` The negative energy solutions in the Dirac equation were universally condemned as 'the saddest chapter in modern physics' — until Dirac proposed they predicted antimatter, and Carl Anderson accidentally found the positron in a cloud chamber just one year later.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
+- `INS-260403-21A5` Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260423-AB6B` Dan Koe: write to discover, not to perform — an essay begins with uncertainty and an open mind; most social media engagement comes from packaging, which is a separate skill.
 - `INS-260330-CCD4` Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
 - `INS-260405-A9B2` Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.

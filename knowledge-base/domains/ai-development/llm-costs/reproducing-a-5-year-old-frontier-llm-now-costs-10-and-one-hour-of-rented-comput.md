@@ -58,10 +58,10 @@ stance: >-
   project.
 related:
   - INS-260501-801C
+  - INS-260626-E46D
   - PRI-260406-9780
   - INS-260605-C9EB
   - INS-260603-7252
-  - INS-260605-B9A9
 ---
 When OpenAI released GPT-2 in 2019, training the 124M model was a 'fairly complicated optimization' requiring significant engineering and meaningful compute budget. Five years later, Karpathy reproduces it on rented Lambda Labs hardware in roughly an hour of wall-clock time, at a cost any individual developer can absorb on a credit card.
 

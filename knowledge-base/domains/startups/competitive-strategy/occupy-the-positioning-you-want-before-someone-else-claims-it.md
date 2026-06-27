@@ -51,7 +51,6 @@ related:
   - INS-260404-AD52
   - INS-260327-37C8
   - INS-260501-9D73
-  - INS-260410-8B2C
 evidence:
   - id: INS-260330-E54B
     type: TRANSFERS_TO

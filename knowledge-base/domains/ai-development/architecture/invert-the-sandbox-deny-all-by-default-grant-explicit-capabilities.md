@@ -69,8 +69,8 @@ related:
   - INS-260605-A28F
   - INS-260605-1C30
   - INS-260619-F7E3
+  - INS-260626-E7C4
   - INS-260605-3206
-  - INS-260605-41AE
 ---
 The conventional approach to sandboxing untrusted code begins with a VM or container (a full environment with broad access) and then tries to wall it in from the outside. Cloudflare's dynamic workers do the opposite: the isolate can run only JavaScript, with no fetch, no APIs, no environment variables, and nothing else by default. From the outside you then grant narrow, explicit capabilities — e.g. outgoing fetches only to github.com, or a specific set of four APIs. The recommended default is to block outgoing fetches entirely.
 

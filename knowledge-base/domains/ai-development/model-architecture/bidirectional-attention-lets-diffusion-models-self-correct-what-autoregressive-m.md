@@ -55,7 +55,6 @@ stance: >-
   before the reasoning completes — that diffusion's bidirectional attention
   structurally avoids.
 related:
-  - INS-260323-A5EC
   - INS-260403-F8CB
   - INS-260625-A02C
   - INS-260625-25BF

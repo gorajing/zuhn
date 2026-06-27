@@ -58,7 +58,6 @@ related:
   - INS-260625-C69F
   - INS-260605-4C0A
   - INS-260626-4BC2
-  - INS-260626-14E0
 ---
 With ~500 documentation pages, an agent that fetches-and-reads loops wastes tokens and turns: fetch one page, reason, fetch another, reason. Langfuse repurposed an existing docs Q&A RAG stack as a search endpoint the coding agent calls with a natural-language query and gets back relevant chunks directly — solving the problem in one hop instead of five.
 

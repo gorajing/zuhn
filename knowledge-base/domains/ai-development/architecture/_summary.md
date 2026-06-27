@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 114 insights
+> 117 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -10,6 +10,7 @@
 - `INS-260625-05FF` [high] Per Jeff Dean, even a trillion-token context window needs stage retrieval — 'you don't need a trillion at once, you need the right million' — so retrieval becomes an iterative search-reason-fetch loop, not a one-shot vector call.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260625-25AC` [high] The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
+- `INS-260626-E7C4` [high] Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260605-7B83` [high] A useful on-device model is 3-4GB, so shipping it once at the system level and letting every app share it is the only way the economics work.
 - `INS-260605-C965` [high] Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
@@ -19,6 +20,7 @@
 - `INS-260514-37AA` [high] Optimal complex systems live at the critical point between order and chaos — scale-free hub-and-spoke organization at every scale. Too ordered = unresponsive (depression, ossified org). Too chaotic = falls apart (psychosis, chaos).
 - `INS-260501-835A` [high] Decode amortizes weights across one token; prefill amortizes them across many — flipping which bottleneck dominates.
 - `INS-260405-64C5` [high] Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
+- `INS-260626-7AB8` [high] Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
 - `INS-260405-06B0` [high] Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260605-F064` [high] Because capable on-device models only run on recent flagship devices, ship hybrid inference that runs locally where possible and falls back to the cloud to keep your feature reachable everywhere.
 - `INS-260625-0A79` [high] Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
@@ -54,6 +56,7 @@
 - `INS-260605-4860` [high] MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
 - `INS-260625-EC7C` [high] Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
 - `INS-260625-3FBF` [high] Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
+- `INS-260626-4639` [high] Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
 - `INS-260402-2879` [high] Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260605-B230` [high] Android deliberately ships the low-level Prompt API rather than a skills system, because a skill is just text composed into a prompt — so the platform provides the substrate and lets agent frameworks build on top.
 - `INS-260514-4FDC` [high] Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.

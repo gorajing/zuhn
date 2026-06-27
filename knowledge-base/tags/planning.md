@@ -7,8 +7,10 @@
 - `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260605-1E04` Before the generator writes a line, the two agents negotiate what 'done' means via files on disk, and the evaluator grades against that contract rather than the planner's original spec.
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
+- `INS-260626-E00F` Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
 - `INS-260320-93E1` Planning is king — always use planning mode before implementation; never let the builder start without plans.
 - `INS-260626-B614` Make the agent map data flows, inputs/outputs, user flows, state machines, and error cases as ASCII diagrams before it codes — it 'boils the ocean better' and writes fewer bugs.
+- `INS-260626-BC5E` A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 - `INS-260320-8F12` Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
 - `INS-260320-6CCE` Take time to review the plan thoroughly — you'd be surprised how often you catch silly mistakes before implementation.
 - `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
@@ -36,5 +38,5 @@
 - `INS-260412-B6D3` Airlines submit preferred routes nightly to Gander ATC, which synthesizes them into the day's North Atlantic Tracks — bottom-up input with centralized coordination.
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
-- `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
+- `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.

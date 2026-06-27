@@ -56,6 +56,7 @@ related:
   - INS-260605-705B
   - INS-260403-0350
   - INS-260605-24AC
+  - INS-260626-739E
   - INS-260322-EAB6
 ---
 In the proposed decision workflow, the output of the analysis stage is deliberately NOT a decision — it is a ranked set of alternatives with pros and cons. The choice is handed to a second, compartmentalized agent whose sole responsibility is to decide whether it has the authority and certainty to act. If it does, it ranks the options and takes the action so the impact is felt. If it lacks authority or certainty, it escalates to a higher-privilege agent or a human in the loop.

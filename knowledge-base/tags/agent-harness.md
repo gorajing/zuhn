@@ -6,6 +6,7 @@
 - `INS-260626-09E1` Vercel AI SDK 7 makes established coding-agent harnesses pluggable behind a common Agent interface.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260327-F625` Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
+- `INS-260626-181F` Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260624-F048` A million-token window is not a substitute for a context manager.
 - `INS-260605-4877` Define the agent's workspace as a manifest, not as an implicit container setup.
 - `INS-260605-E303` Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.

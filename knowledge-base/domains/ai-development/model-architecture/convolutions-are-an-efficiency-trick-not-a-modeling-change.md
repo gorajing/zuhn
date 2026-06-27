@@ -61,7 +61,7 @@ related:
   - INS-260626-6B7B
   - INS-260330-AE16
   - INS-260410-5033
-  - INS-260605-0A68
+  - INS-260626-BB8B
 ---
 When WaveNet is described as 'a stack of dilated causal convolution layers,' the phrase sounds architecturally loaded. Karpathy strips this illusion: the hierarchical tree of linear layers he built in pure Python is functionally identical to what convolutions compute. The difference is entirely about efficiency.
 

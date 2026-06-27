@@ -43,6 +43,7 @@ stance: >-
   failure modes like duplicate reimplementation.
 related:
   - PRI-260328-A65A
+  - INS-260626-2D64
   - INS-260330-7E4F
   - INS-260605-27CC
   - INS-260410-D92A

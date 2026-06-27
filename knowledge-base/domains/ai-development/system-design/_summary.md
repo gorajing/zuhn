@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 103 insights
+> 105 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -9,6 +9,7 @@
 - `INS-260514-1841` [high] Browser Harness is 600 lines. When an agent hits an edge case (sign a signature, click a native dialog), it writes its own tool extension and publishes it as a skill.
 - `INS-260605-82BC` [high] A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260412-B89F` [high] At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
+- `INS-260626-F25E` [high] AI performs dramatically better in well-structured codebases, so a hard-to-change codebase now caps your AI leverage and bad code becomes the most expensive it has ever been.
 - `INS-260605-7711` [high] Build bespoke tracing that structures the data your way and serves product/data/CX — not just engineers — because LLMs make such internal tools cheap to one-shot.
 - `INS-260514-8413` [high] Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
 - `INS-260605-A8A9` [high] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
@@ -91,6 +92,7 @@
 - `INS-260412-5965` [medium] Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
 - `INS-260514-8424` [medium] Have one engineer write what 'good security review' looks like — now every agent gets that review on every push. The single review becomes durable infrastructure.
 - `INS-260605-9925` [medium] Don't let plugins block before an event/LLM call; instead wait a bounded window (~200ms) for optional enrichment and proceed regardless, so a slow plugin degrades quality rather than breaking the system.
+- `INS-260626-A45A` [medium] Map directories and files to a visual space where agents appear as units, giving lineage tracking and a collision heat map instead of an opaque list of running sessions.
 - `INS-260605-C1A4` [medium] Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
 - `INS-260605-EA2E` [medium] Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - `INS-260605-D404` [medium] Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.

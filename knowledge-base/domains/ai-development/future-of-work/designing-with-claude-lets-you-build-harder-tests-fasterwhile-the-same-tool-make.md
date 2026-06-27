@@ -56,11 +56,11 @@ stance: >-
   accelerant, because manual design cannot keep pace with model capability
   gains.
 related:
+  - INS-260626-BC5E
   - INS-260329-4DBC
   - INS-260626-AE04
   - INS-260626-7F36
   - INS-260330-2B45
-  - INS-260404-A6D4
 ---
 A subtle but important pattern: Hume explicitly credits Claude with making the redesign feasible at all. 'I realized Claude could help me implement whatever I designed quickly, which motivated me to try developing a harder take-home.' He then used Claude as the adversary—iterating on problem design until Claude (including 'ultrathink' modes with longer thinking budgets) couldn't solve it, while his colleagues still could.
 

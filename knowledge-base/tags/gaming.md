@@ -1,5 +1,6 @@
 # Tag: gaming
 
+- `INS-260626-7B73` Managing many units under time pressure is a learned skill RTS gamers already have, so build agent orchestrators around those familiar mechanics rather than inventing new ones.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
 - `INS-260403-8A25` Cram schools reveal the exact weaknesses in any credentialing system—their decline signals the system is becoming harder to game.

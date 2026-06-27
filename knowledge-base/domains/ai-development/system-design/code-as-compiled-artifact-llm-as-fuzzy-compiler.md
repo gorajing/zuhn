@@ -57,9 +57,9 @@ stance: >-
 related:
   - PRI-260320-467A
   - PRI-260426-890F
+  - INS-260626-EAC7
   - INS-260626-81BB
   - INS-260605-77EB
-  - INS-260320-6F8E
 ---
 Lopopolo's compiler-LLM analogy: in traditional software, you write source code, a compiler produces machine code. In agent-driven development, you write a spec + harness (lints, tests, docs, reviewer agents), and the LLM 'compiles' that into source code. The harness's role is exactly the role of static analysis and optimization passes in LLVM: constrain what valid output looks like, regardless of which compiler backend you use (LLVM vs Cranelift in Rust = GPT vs Claude vs Gemini in agent code). The same spec + harness should produce acceptably equivalent code across model swaps. This frames source code as a disposable compiled artifact, not the durable knowledge — the durable knowledge is the spec + harness.
 

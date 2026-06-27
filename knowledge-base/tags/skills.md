@@ -15,6 +15,7 @@
 - `INS-260605-9900` Harness engineering is an extension of context engineering: let agents run, watch where they get lost, and encode that learning back into agents.md, skills, and tests so the agent flows through the workflow more autonomously next time.
 - `INS-260501-3D0C` Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
 - `INS-260605-36E9` Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
+- `INS-260626-E803` Anyone selling a single solution to agent connectivity (just MCP, just CLI, just computer use) is wrong — each has a distinct best-fit job and good agents use all of them together.
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
 - `INS-260410-0855` Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260605-E7F2` Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
@@ -26,6 +27,7 @@
 - `INS-260605-90E5` A skill replaces the hand-built router-and-specialist-workflow stack by letting a single agent progressively acquire the context to solve cross-domain requests.
 - `INS-260605-BAB5` MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
+- `INS-260626-E00F` Planning only lets you steer at the root before the work reveals itself; skills inject judgment exactly where each unit of work happens and handle contingencies planning can't foresee.
 - `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260626-158E` Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.

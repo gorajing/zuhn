@@ -31,8 +31,8 @@
 - `INS-260626-7F76` GitHub built tool-sets, dynamic discovery, and a RAG tool-search to tame context bloat, but 'everyone used the default settings,' so the only fix that mattered was tightening the default itself.
 - `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
-- `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260405-2287` 54.6% of U.S. adults use AI personally but fewer than 10% of businesses have integrated it into production, so the real disruption hasn't started yet.
+- `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260403-EA6D` The rapid growth of stablecoins as a settlement layer demonstrates that tokenized financial instruments can scale when they offer tangible infrastructure improvements over incumbents.
 - `INS-260412-30EE` Asimov correctly predicted home computers connected to libraries acting as personalized teachers, but wrongly predicted this would make traditional schooling obsolete—the technology existed, the behavioral shift didn't.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
@@ -48,6 +48,6 @@
 - `INS-260403-1269` The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
 - `INS-260412-A2FE` Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
+- `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
-- `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.

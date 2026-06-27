@@ -61,6 +61,7 @@ related:
   - INS-260327-DC4C
   - INS-260403-0350
   - INS-260501-9503
+  - INS-260626-D7AE
 ---
 The talk's reliability payoff closes the loop on the 'mismanaged genius' thesis: when you have a great session — the day the agent nailed it rather than the day it drained your wallet — you want to capture and replay that performance instead of gambling on variance. Weitekamp built a system where you feed a golden session (from Claude Code, Codex, or Pi) into a prose program that has an agent deconstruct it and emit a reusable workflow, which can itself invoke recursive sub-agents to reproduce the golden state on demand.
 

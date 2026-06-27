@@ -48,10 +48,10 @@ stance: >-
   every tool or stuffing tool descriptions into the model context.
 related:
   - INS-260325-175B
+  - INS-260626-181F
   - INS-260603-A506
   - INS-260327-79E8
   - INS-260328-C246
-  - INS-260625-3768
 ---
 ARD reframes the agent-tool problem from execution to discovery. MCP, skills, and A2A already describe how to use a capability once known, but they assume the user or developer preselected it. ARD adds a searchable catalog layer with publisher identity, representative queries, compliance signals, tags, and media types, letting clients ask for a capability at runtime and receive the appropriate artifact envelope.
 
