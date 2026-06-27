@@ -51,7 +51,6 @@ related:
   - PRI-260406-B97E
   - INS-260327-E833
   - INS-260403-B887
-  - INS-260409-DBCF
   - INS-260409-AC30
 evidence:
   - id: INS-260402-1414

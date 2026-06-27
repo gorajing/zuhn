@@ -65,6 +65,7 @@ related:
   - PRI-260406-07C2
   - PRI-260325-45A2
   - INS-260605-E18B
+  - INS-260627-C26A
 ---
 Explicit signals deal with objective, verifiable-true-or-false reality: tool error rate, latency, cost, users hitting regenerate. Spikes (or suspicious flatlines) in these are cheap, reliable alarms and are largely what existing observability stacks (Sentry, LogRocket) already surface. Implicit signals deal with the semantic nature of what's happening — refusals ('I can't do that'), task failure, user frustration, content moderation/NSFW, jailbreaking, and even positive 'wins.' These are harder to detect but capture the fuzzy failure space where a user is frustrated even though no exception was thrown.
 

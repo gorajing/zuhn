@@ -51,8 +51,8 @@ related:
   - INS-260626-20B7
   - INS-260405-DFBC
   - PRI-260406-88DD
+  - INS-260627-9E3D
   - INS-260409-60C2
-  - INS-260505-347C
 ---
 AI models are trained on and reinforced by human feedback signals, including which citations users find helpful. Sources that get cited early accumulate positive signal, making them more likely to be cited again in future fine-tuning and retrieval cycles. This is analogous to PageRank's rich-get-richer dynamic but operates faster and is less transparent to would-be competitors.
 

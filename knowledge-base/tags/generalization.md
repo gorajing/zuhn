@@ -1,26 +1,27 @@
 # Tag: generalization
 
 - `INS-260321-B8E8` VLA models have no spatial primitive vocabulary — 'move up', 'move back', 'don't move' all produce similar grasping motions. Spatial commands only work when reducible to 'move toward visible object.'
-- `INS-260409-2CCA` Olympiad math is a closed, curated search space; frontier research is unbounded with no training data on unknown answers, making it a categorically harder AI task.
-- `INS-260408-F3F0` Deep Blue couldn't play tic-tac-toe; AlphaGo's move 37 revealed a system that generates knowledge its training data didn't contain.
+- `INS-260627-5004` Reframe 'overfitting to your data' as building expertise — you want an agent that is specialized to your repo, not one so generalized it is mediocre everywhere.
 - `INS-260327-1B82` Teleoperated robots could already clean houses and cook a decade ago; the missing piece is autonomous intelligence, not better hardware.
 - `INS-260326-0AB4` Yudkowsky argues that RLHF-style training produces alignment that only holds within the training distribution and predictably fails when AI systems become smarter than their human evaluators.
 - `INS-260410-6E7F` Feeding Claude fake 'studies' about AI misbehavior during SFT causes it to deduce 'I am an AI, therefore I should do X' and apply it even to behaviors it was never trained on.
+- `INS-260409-2CCA` Olympiad math is a closed, curated search space; frontier research is unbounded with no training data on unknown answers, making it a categorically harder AI task.
+- `INS-260408-F3F0` Deep Blue couldn't play tic-tac-toe; AlphaGo's move 37 revealed a system that generates knowledge its training data didn't contain.
 - `INS-260605-D37A` Most STT models are trained on single-speaker data and degrade sharply under overlap, speaker change, cross-talk, distant mics, and code-switching.
 - `INS-260410-6B98` Embeddings let the model treat 'a' and 'the' as interchangeable even if the exact phrase was never in training — generalization via semantic geometry.
 - `INS-260410-7292` Reasoning models solve hard problems by brute-forcing a vast internal library, not by creative recombination—and this distinction predicts where they'll break.
 - `INS-260410-045C` Humans are valuable precisely because no one has to build a bespoke training loop to teach them each new lab-specific or company-specific skill.
 - `INS-260423-61B6` Hinton: train a good-at-math AI to give the wrong answer, and it doesn't get worse at math — it understands you want wrong answers and starts giving wrong answers to everything.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
-- `INS-260410-D082` Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
-- `INS-260330-CAE6` Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
 - `INS-260409-D922` Hassabis calls current models 'jagged intelligences' — amazing at certain framings but failing at basic variants, and closing this gap is core to AGI.
 - `INS-260410-67D5` Things that impress humans about other humans (math, chess, competitive programming) are exactly the skills evolution didn't optimize, so AI dominance there is weak evidence of broad competence.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
+- `INS-260410-D082` Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
+- `INS-260330-CAE6` Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
+- `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
 - `INS-260409-004E` Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.
 - `INS-260410-F436` Gradient descent makes you solve the training problem, not generalize well — catastrophic forgetting is the natural default and good transfer happens only when researchers iterate until they find a representation that transfers.
 - `INS-260625-5694` World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
-- `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
 - `INS-260625-D790` The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
 - `INS-260625-B5A8` Across single-table-only, mixed, and curriculum (single-then-multi) training regimes, single-table-only gave the greatest uplift — and still produced a similar ~2x jump (13.9% to 26.6%) on the harder multi-table benchmark it never trained on.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.

@@ -49,7 +49,6 @@ stance: >-
   between $0 and $1M ARR, and founders who treat it as a binary
   achieved/not-achieved state miss critical intermediate signals.
 related:
-  - INS-260323-D9CE
   - INS-260405-5E18
   - INS-260405-F2C7
   - INS-260322-047D

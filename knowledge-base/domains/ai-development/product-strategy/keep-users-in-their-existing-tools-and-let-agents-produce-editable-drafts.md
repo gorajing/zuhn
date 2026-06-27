@@ -48,6 +48,8 @@ stance: >-
   delivering reviewable drafts rather than autonomous actions.
 related:
   - INS-260605-9A01
+  - INS-260627-FEB4
+  - INS-260627-E831
   - INS-260625-3866
   - INS-260530-D34F
   - INS-260605-B5A2

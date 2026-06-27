@@ -56,6 +56,7 @@ related:
   - INS-260605-2D9B
   - INS-260405-9EE4
   - INS-260625-02A3
+  - INS-260627-B89C
 ---
 Every autonomous agent workflow eventually hits a wall where a transaction is required — paying for compute, API calls, or moving funds. Until now, that required human approval, breaking the autonomy loop. Coinbase's Agentic Wallets, built on the x402 machine-to-machine payment protocol, close this gap by giving agents their own on-chain identity and spending authority.
 

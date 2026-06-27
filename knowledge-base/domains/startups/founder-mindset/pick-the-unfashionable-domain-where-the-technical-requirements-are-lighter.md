@@ -55,11 +55,12 @@ stance: >-
   Building a frontier model is achievable without massive capital if you pick a
   domain that is technically lighter and ignored by competitors.
 related:
+  - INS-260627-AA29
   - INS-260505-ABCC
   - INS-260625-407C
   - INS-260626-4E80
   - INS-260627-BDF8
-  - PRI-260405-B144
+  - INS-260627-B9FA
 ---
 In 2022, while everyone chased crypto, the metaverse, and text/vision models, audio was considered a niche with very few researchers working in it. Staniszewski frames this as the core advantage, not a handicap: the team was excited about the future, others underrated the domain's value, and crucially the technical requirements were different. Audio models are smaller than their text and vision siblings, so they demand far less compute. The data exists in abundance; the hard part was transcribing and annotating it well — which the founders knew they could do — and then the architecture, which their co-founder (a strong researcher) could assemble a top team to solve.
 

@@ -52,11 +52,11 @@ stance: >-
   descriptions because the agent only sees the schema, never the years of
   developer context.
 related:
+  - INS-260627-FEB4
   - INS-260625-52B6
   - INS-260410-60C8
   - PRI-260411-9CB1
   - INS-260605-E06C
-  - INS-260410-85AD
 ---
 Backend APIs accumulate implicit meaning: a 'delete item by ID' endpoint feels self-explanatory to the engineer who spent years on the product API and needs no docstring. But an agent never sees the code, the history, or the conventions — it sees only function schemas, docstrings, and tool definitions. What is obvious to a veteran is opaque to the agent.
 

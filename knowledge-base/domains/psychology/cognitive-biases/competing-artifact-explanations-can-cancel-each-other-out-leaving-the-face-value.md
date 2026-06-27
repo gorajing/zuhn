@@ -54,10 +54,10 @@ stance: >-
   the face-value interpretation becomes more parsimonious.
 related:
   - INS-260404-E783
+  - INS-260627-8735
   - PRI-260406-A33C
   - INS-260330-0AE2
   - PRI-260406-CF83
-  - INS-260325-2AA0
 ---
 A common pattern in motivated reasoning is stacking artifact explanations: 'the murder rate looks low because of medical care improvements, AND other crimes look low because of reporting bias.' But this compound explanation requires two independent factors to change at precisely the right rates to produce the observed uniform decline across all crime categories.
 

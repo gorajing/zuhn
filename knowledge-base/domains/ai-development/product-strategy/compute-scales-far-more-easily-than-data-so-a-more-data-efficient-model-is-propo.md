@@ -58,8 +58,6 @@ stance: >-
   Betting on data efficiency compounds advantage because data is structurally
   harder to scale than compute.
 related:
-  - PRI-260320-233B
-  - INS-260320-EF3A
   - INS-260325-DD43
   - INS-260409-A11F
   - INS-260409-384A
@@ -68,6 +66,8 @@ related:
   - INS-260605-B9A9
   - INS-260605-4788
   - PRI-260407-7AE9
+  - INS-260410-C022
+  - PRI-260328-D5EB
 ---
 The second argument is a supply-side asymmetry. Compute follows a known cost curve — flops get exponentially cheaper over time — and the compute market is homogeneous: when GPT launched, the path to more capability was simply 'buy all the compute.' There is a centralized, fungible supply.
 

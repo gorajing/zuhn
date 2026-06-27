@@ -55,7 +55,6 @@ stance: >-
   deterministic code intercepting the invocation, because agents will eventually
   ignore prompt instructions.
 related:
-  - INS-260410-14E5
   - INS-260625-26FE
   - INS-260626-04E5
   - INS-260602-EA48

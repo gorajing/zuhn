@@ -52,10 +52,10 @@ stance: >-
   specialists, not a flat mesh of negotiating peers
 related:
   - INS-260327-C1A4
+  - INS-260627-C237
   - PRI-260328-1ED1
   - INS-260627-9968
   - INS-260327-2101
-  - INS-260501-4C5E
 ---
 The architecture choice PayPal made is significant: rather than a peer mesh of equal agents that 'negotiate' (which is what most agent-framework demos show), they pinned all non-determinism at the supervisor. The supervisor uses an LLM to decide which sub-agent to delegate to based on the incident's state; each sub-agent is a deterministic specialist (data collector, service analyst, change analyst, report generator). This narrows the failure surface — debugging 'why did the supervisor pick the wrong sub-agent' is a clean question; debugging 'why did three agents negotiate this outcome' is not.
 

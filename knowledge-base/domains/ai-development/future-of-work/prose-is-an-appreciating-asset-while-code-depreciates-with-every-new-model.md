@@ -53,14 +53,13 @@ stance: >-
   value from over time.
 related:
   - INS-260328-3446
-  - INS-260605-6DE5
   - INS-260624-A121
   - INS-260625-7935
   - INS-260625-B09C
+  - INS-260627-8CFF
   - INS-260501-FD20
+  - INS-260627-277A
   - INS-260530-D34F
-  - INS-260330-8F07
-  - INS-260501-E377
   - INS-260627-D692
 ---
 Engineers have spent their whole careers being rewarded for writing more and cleverer code, but code has always been a depreciating asset: ship it and it starts rotting with tech debt, and when a better model arrives tomorrow the code you wrote yesterday has the same or declining value. Prose is the inverse — write great prose today and a better model tomorrow will do even more with it. PostHog's wizard reflects this: roughly 90% markdown files, 8% tools for delivering and processing those files, and the rest agent harness.

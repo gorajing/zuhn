@@ -58,6 +58,7 @@ related:
   - INS-260409-3230
   - INS-260626-21EA
   - INS-260626-3408
+  - INS-260627-B9FA
 ---
 On-device inference is bottlenecked not by FLOPs but by VRAM, which runs out fast on phones and laptops. Gemma 4's Per-Layer Embeddings (PLE) exploit this by giving each layer its own embedding table but storing those tables in flash memory instead of VRAM. The per-layer table is deliberately narrow (256 dimensions) and projected up to the full hidden size only at lookup time inside each decoder block, so the extra representational capacity costs cheap storage rather than scarce fast memory.
 

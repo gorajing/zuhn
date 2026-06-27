@@ -58,7 +58,8 @@ related:
   - INS-260625-DA23
   - INS-260625-52B6
   - INS-260626-8080
-  - INS-260625-EC7C
+  - INS-260627-8C56
+  - INS-260627-A999
 ---
 Codex lets every sub-agent persona declare its own model, reasoning effort, and sandbox mode (read-only vs. write). The presenter is emphatic that this is not a knob to tune casually: 'for a review agent, you would almost always 100% want to use the review agent in read-only mode — you would never want your review agent to execute anything,' and the same for cybersecurity vulnerability agents. Write access is reserved for agents whose job inherently requires side effects, like a docs writer or bug-report generator.
 

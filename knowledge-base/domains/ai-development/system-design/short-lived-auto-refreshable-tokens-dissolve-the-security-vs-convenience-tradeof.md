@@ -60,10 +60,10 @@ stance: >-
 related:
   - INS-260330-82B5
   - INS-260410-18CF
-  - INS-260605-6A32
   - INS-260605-6F98
   - INS-260626-93C7
   - INS-260626-A027
+  - INS-260627-30A2
   - INS-260626-E5E5
 ---
 Conventional security thinking treats convenience and safety as opposed: longer-lived tokens reduce friction but widen the breach window; shorter tokens are safer but force constant re-authentication. XAA collapses this tradeoff. Once the user has an SSO session, steps two and three (mint ID-JAG, exchange for access token) require no human action, so the system can re-run them transparently whenever the access token expires. That makes 5-minute access tokens practical.

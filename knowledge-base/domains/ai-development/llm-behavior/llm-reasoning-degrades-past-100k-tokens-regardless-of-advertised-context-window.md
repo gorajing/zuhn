@@ -62,10 +62,10 @@ related:
   - INS-260330-BC8E
   - INS-260412-2D3A
   - INS-260501-22BF
+  - INS-260627-6A8B
   - INS-260321-C14C
   - INS-260403-A4CF
   - INS-260605-91A9
-  - INS-260625-78EC
 ---
 Pocock frames LLM degradation through Dex Hardy's 'smart zone vs dumb zone': attention relationships scale quadratically with token count (like added matches when you add a team to a league), so each token added strains reasoning. The practical marker is ~100K tokens — it does not matter whether the window is 200K or 1M; quality starts dropping around the same absolute size, and a larger window mostly 'ships you more dumb zone' that is good for retrieval (finding facts in a huge document) but worse for coding.
 

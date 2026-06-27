@@ -49,7 +49,7 @@ related:
   - INS-260405-1C8D
   - INS-260325-3F8B
   - INS-260325-EF79
-  - INS-260330-B076
+  - INS-260627-00E9
 stance: >-
   Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and
   Korean semiconductors

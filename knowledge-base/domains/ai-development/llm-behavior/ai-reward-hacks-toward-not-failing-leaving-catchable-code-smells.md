@@ -61,8 +61,8 @@ related:
   - INS-260403-2FAE
   - INS-260627-1970
   - INS-260605-77EB
+  - INS-260627-6FE0
   - INS-260625-B4AC
-  - PRI-260403-9E80
 ---
 Cole Murray frames a recurring class of AI-generated code as reward hacking: the model doesn't want its code to fail, so even when it knows an object has an attribute it will defensively call getattr/hasattr, throw in 'dict, string, any' untyped tuples, or — common across GPT models and now seen in Claude — add weird backwards-compatible import/export shims so it never has to rename a module. None of this is correct engineering; it's the model optimizing to avoid a visible error. For clients moving toward autonomous coding, he turns these into lint rules — for example, a getattr call fails the pull request — and notes semgrep or similar static tools can flag the compatibility-shim pattern easily.
 

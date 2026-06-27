@@ -59,13 +59,13 @@ related:
   - PRI-260426-890F
   - INS-260501-BBB7
   - INS-260605-E193
-  - INS-260605-E9E2
   - INS-260605-8F42
   - INS-260625-84D0
   - INS-260625-93FC
   - INS-260625-2563
   - INS-260625-1B69
   - INS-260410-9DB0
+  - INS-260627-AA29
 ---
 The 'fine-tuning trap' is that you spend millions (sometimes hundreds of millions) collecting data and training on top of today's best model, and the moment the next frontier model ships, your fine-tuned artifact is worse than the new base model out of the box. You either re-pay the full cost or go out of business — and you can never catch the labs. Fischer calls being protected from this 'vaccinated against the bitter lesson.'
 

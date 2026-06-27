@@ -61,6 +61,7 @@ related:
   - INS-260626-091B
   - INS-260603-6B3D
   - INS-260602-EA48
+  - INS-260627-1B11
 ---
 There's a counterintuitive interaction between interception-based safety gates and model alignment. Because the human-review step is invisible to the agent (it thinks it's calling the tool directly), a smarter, safety-trained model will often refuse to send the email or book the event on its own — it has been trained not to take consequential actions without explicit permission. The very caution that makes the model trustworthy now blocks the workflow.
 

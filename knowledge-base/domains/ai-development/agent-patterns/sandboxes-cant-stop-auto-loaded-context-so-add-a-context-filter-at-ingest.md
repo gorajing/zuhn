@@ -56,8 +56,9 @@ stance: >-
   context-filtering firewall at the ingestion point.
 related:
   - INS-260423-1C4D
-  - INS-260514-283E
   - INS-260626-1C28
+  - INS-260627-CECD
+  - INS-260514-283E
   - INS-260605-C86D
   - INS-260605-295D
   - INS-260627-266C

@@ -53,7 +53,6 @@ stance: >-
   Voice agents should be architected as a swappable voice engine layer proxying
   to a separate agent orchestration layer, not a monolith.
 related:
-  - INS-260410-CD01
   - PRI-260501-168F
   - INS-260605-0126
   - INS-260605-2E27

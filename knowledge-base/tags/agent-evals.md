@@ -1,14 +1,17 @@
 # Tag: agent-evals
 
+- `INS-260627-8B75` Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260625-029F` A reliable agent must be scored on knowing when not to continue.
 - `INS-260626-1673` LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260626-A0DC` CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
 - `INS-260625-ED7E` METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
+- `INS-260627-6FE0` Don't let eval-building block you — ship something scrappy, start with a binary good/bad gate, then decompose into granular continuous criteria as you learn what 'good' means.
 - `INS-260625-4D09` METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
 - `INS-260626-1045` A harness can prove that gates reject constructed bad inputs without proving it improves developer outcomes.
 - `INS-260626-33BE` NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - `INS-260626-20B7` The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
+- `INS-260627-9E3D` FastContext turns exploration quality into a measurable citation task separate from end-to-end task success.
 - `INS-260625-1920` Model identity is not enough; the harness is part of the measured system.
 - `INS-260625-77F8` For workflow agents, the answer is the mutated state, not the transcript.
 - `INS-260625-B6E8` Make held-out tests auditable in mechanism but private in instance.
@@ -22,6 +25,9 @@
 - `INS-260626-485E` Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260625-E3A2` Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- `INS-260627-00E9` The second trapped-ion platform test validates the ARTIQ/MCP/safety-filter interface, while explicitly not claiming full closed-loop physical calibration.
+- `INS-260627-66D8` The paper evaluates the safety-filter with 1,932 adversarial scripts and about 250 harness-level tests, not only with successful lab calibrations.
+- `INS-260627-A5A4` A vulnerability report is not valid until it proves exploitability and impact, not just pattern presence.
 - `INS-260626-9155` Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260625-B296` A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
 - `INS-260625-8EC6` Generated evals scale only when verification is generated and validated with the task.
@@ -31,6 +37,7 @@
 - `INS-260625-EC9A` The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260626-983E` The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260625-2A4F` Shared failures are often benchmark QA signals before they are leaderboard facts.
+- `INS-260627-A4DD` Run two co-evolving loops — one optimizing the agent, one optimizing the evaluators — because the agent loop only works as well as the eval feeding it.
 - `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260626-B04D` AgentRun evals should include effort metrics, detours, and environment revisions.
 - `INS-260605-A2AD` When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.

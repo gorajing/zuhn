@@ -42,12 +42,13 @@ stance: >-
   accumulated error.
 related:
   - INS-260423-72D0
-  - INS-260605-33C0
   - INS-260410-0E26
   - INS-260329-FEBA
+  - INS-260605-33C0
   - INS-260405-CA27
   - PRI-260320-D5B7
   - INS-260626-7F55
+  - INS-260627-718B
 ---
 The talk argued that web and enterprise agents often call the model at every click, field entry, and navigation step. Each extra model-mediated action adds latency, cost, and probability of failure.
 

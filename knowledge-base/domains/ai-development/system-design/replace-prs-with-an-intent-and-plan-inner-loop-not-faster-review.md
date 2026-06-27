@@ -49,7 +49,6 @@ stance: >-
   an agent harness executes in a continuous loop, eliminating the PR as the
   coordination primitive.
 related:
-  - INS-260605-55A6
   - INS-260605-D777
   - INS-260627-9EBD
   - INS-260524-2C7C

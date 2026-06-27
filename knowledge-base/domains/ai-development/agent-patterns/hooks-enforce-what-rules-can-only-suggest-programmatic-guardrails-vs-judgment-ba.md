@@ -73,7 +73,6 @@ stance: >-
   hooks not rules.
 related:
   - INS-260320-DDFE
-  - INS-260320-949A
   - PRI-260320-C14C
   - INS-260330-4E68
   - INS-260605-A2B7

@@ -1,8 +1,8 @@
 # Tag: grounding
 
+- `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
 - `INS-260325-9BBC` AlphaProof frames theorem proving as an RL environment with states (proof states), actions (tactics), and machine-verified rewards — enabling self-play learning on 80M auto-formalized problems.
 - `INS-260605-3047` Because Nano Banana is built on Gemini, it can grade math homework or render a landmark from a sketched arrow on a map.
-- `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
 - `INS-260627-9E58` Run automated hallucination checks to confirm the summary is grounded in the transcript, then keep a lightweight human verification step where the operator reviews the auto-populated summary, edits if needed, and confirms before it writes to the CRM.
 - `INS-260605-0C24` Compute the truth deterministically, then give the LLM only the job of putting that truth into words.
 - `INS-260626-2044` When the source set is small and enumerable, feeding URLs directly into the model's context ('poor man's retrieval') gives you cited, post-cutoff grounding without the infrastructure cost of a vector DB.

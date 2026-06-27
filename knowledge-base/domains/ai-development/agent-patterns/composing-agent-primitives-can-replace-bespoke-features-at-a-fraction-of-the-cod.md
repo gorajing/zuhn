@@ -58,8 +58,8 @@ related:
   - INS-260626-4A96
   - INS-260626-E45C
   - INS-260605-9276
+  - INS-260627-FEB4
   - INS-260626-7F55
-  - INS-260605-90E5
 ---
 Cursor's original parallel-agent feature carried code for creating and managing worktrees, scoping agents, running setup scripts, judging outputs, harness changes, and disk cleanup. The team realized two pre-existing primitives — agent skills and sub-agents — could re-express the entire capability. The replacement worktree skill is a set of plain-markdown instructions; the best-of-N skill is ~40 lines that tells a parent agent to spawn one sub-agent per model, each in its own worktree, then summarize and compare results.
 

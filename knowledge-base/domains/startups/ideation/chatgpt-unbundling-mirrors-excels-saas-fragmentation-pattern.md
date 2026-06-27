@@ -48,7 +48,6 @@ stance: >-
   niche startups from one general-purpose tool.
 related:
   - INS-260329-057F
-  - INS-260403-1085
   - INS-260403-426A
   - INS-260403-FF65
   - INS-260404-B494

@@ -68,6 +68,7 @@ related:
   - INS-260625-99B0
   - INS-260625-E3A2
   - INS-260627-D692
+  - INS-260627-8318
 ---
 Hu's framework for the highest-velocity engineering organizations: humans write the spec and the test harness that defines success; AI agents generate the implementation and iterate until tests pass. Some companies have already pushed this to the point where their repos contain no handwritten code, just specs and test harnesses. Strong DM's AI team is the prototype: scenario-based validations drive agents to write tests and iterate on code until probabilistic satisfaction threshold is met.
 

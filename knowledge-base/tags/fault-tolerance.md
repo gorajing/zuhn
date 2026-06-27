@@ -1,5 +1,6 @@
 # Tag: fault-tolerance
 
+- `INS-260627-E496` Let a durable-execution layer like Temporal own retries and crash recovery so agent code expresses only business logic, never failure plumbing.
 - `INS-260625-6127` When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260405-C497` RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
 - `INS-260329-85E9` HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.

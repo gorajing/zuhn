@@ -2,9 +2,9 @@
 
 - `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
 - `INS-260327-F608` You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
-- `INS-260327-11AB` The 1910 Flexner Report systematically eliminated natural medicine from medical education to benefit pharmaceutical interests
 - `INS-260330-2B4F` Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260327-11AB` The 1910 Flexner Report systematically eliminated natural medicine from medical education to benefit pharmaceutical interests
 - `INS-260327-CA82` Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260404-4666` Studying the embarrassingly rough early work of great creators teaches you to judge your own early efforts more accurately.
 - `INS-260410-90BD` Stalin genuinely fought tsarist injustice for 20 years as a penniless revolutionary and then built a regime orders of magnitude more unjust — this 'perverse and unintended consequences' pattern is the rule, not the exception.

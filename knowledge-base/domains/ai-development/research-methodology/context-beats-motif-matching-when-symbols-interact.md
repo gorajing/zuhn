@@ -49,5 +49,7 @@ related:
   - INS-260605-117F
   - INS-260410-966F
   - INS-260501-FDF0
+  - INS-260627-050C
+  - INS-260627-4514
 ---
 The source highlights that transcription factors do not simply read isolated DNA motifs; binding depends on the broader arrangement of nearby sequence signals. The model learned regulatory grammar across sequence context, which is why it could distinguish cases that motif presence alone would over-call. The general lesson is that context is not decoration when the domain is combinatorial.

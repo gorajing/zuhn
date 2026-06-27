@@ -56,11 +56,11 @@ stance: >-
   comprehension checks, convention judges, and finally judge-agents that execute
   in a sandbox for true end-to-end verification.
 related:
+  - INS-260627-214C
   - INS-260605-B44B
   - PRI-260405-3080
   - INS-260605-EC51
   - INS-260605-BDFF
-  - INS-260605-C223
 ---
 Debois lays out testing context as a fidelity ladder borrowed from code testing. The cheapest tier is linting — validating a skill against its format spec (description present, length within limits), the equivalent of IDE squiggles. Next is a 'Grammarly for context' comprehension check: ask an LLM whether the context is verbose and explicit enough to be understood, and act on the gaps. Above that, an LLM-as-judge checks whether generated artifacts honor team-specific conventions (e.g. 'does this endpoint start with /awesome?') that no base model would produce without your context — proving the context, not just the model, did the work.
 

@@ -3,17 +3,17 @@
 - `INS-260322-7DD5` 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
-- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
 - `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260605-0748` On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
-- `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
+- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
-- `INS-260605-6B24` Cloud's cost advantage rests on batching identical model weights across millions of users; if continual learning gives each user their own evolving weights, batching collapses and local inference becomes ~10x more competitive.
-- `INS-260605-AA21` A 'soft token' — a user embedding linearly projected into the LLM's token space and inserted into the prompt — gives a generative recommender per-user context it could never learn from training data alone.
+- `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260405-2DC0` Reframing health conversations around personal motivations instead of clinical outcomes brings disengaged patients back to their providers.
+- `INS-260605-6B24` Cloud's cost advantage rests on batching identical model weights across millions of users; if continual learning gives each user their own evolving weights, batching collapses and local inference becomes ~10x more competitive.
+- `INS-260605-AA21` A 'soft token' — a user embedding linearly projected into the LLM's token space and inserted into the prompt — gives a generative recommender per-user context it could never learn from training data alone.
 - `INS-260605-5BAD` Spotify's 'taste profile' exposes what the model knows about you as editable text — you can chat to adjust it, choose what to keep or forget — feeding your edits back into the generative model.
 - `INS-260605-DC7C` Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
 - `INS-260605-9362` LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.

@@ -1,6 +1,10 @@
 # Tag: ai-limitations
 
 - `INS-260327-40DA` Despite rapid benchmark progress, the gap between solving hour-long competition problems and month-long research problems remains a 1000x scaling challenge.
+- `INS-260423-A0C9` Dan Koe: you can tell AI to share something novel, but then you're anticipating it — it is no longer novel, no longer a surprise, and you destroyed any chance of stumbling upon a discovery.
+- `INS-260403-7CD3` AI provides speed and pattern recognition, but human instinct for customer psychology, timing, and emotional resonance remains the irreplaceable competitive edge.
+- `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
+- `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260330-C31B` AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260626-0FA9` AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
 - `INS-260627-3AF7` Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.
@@ -8,12 +12,8 @@
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260514-C4CF` Supervised ML works only when 3 constraints hold: clean labeled data, measurable goal, defined parameters. Edge cases (situations breaking those constraints) cause catastrophic failure. Not a temporary problem — a fundamental architectural limit.
-- `INS-260423-A0C9` Dan Koe: you can tell AI to share something novel, but then you're anticipating it — it is no longer novel, no longer a surprise, and you destroyed any chance of stumbling upon a discovery.
-- `INS-260403-7CD3` AI provides speed and pattern recognition, but human instinct for customer psychology, timing, and emotional resonance remains the irreplaceable competitive edge.
-- `INS-260329-7BAF` Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
-- `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
-- `INS-260505-CBE5` Good students ask 'what's the gap I'm missing?' — AI models confidently fill the gap with plausible-sounding wrong answers.
 - `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
+- `INS-260505-CBE5` Good students ask 'what's the gap I'm missing?' — AI models confidently fill the gap with plausible-sounding wrong answers.
 - `INS-260403-9149` AI's probabilistic nature makes it unsuitable as a standalone replacement for SaaS in regulated enterprise functions like finance, HR, and legal.
-- `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260327-D888` The best AI users are coaches not coders—AI will gaslight you if you don't push back.
+- `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.

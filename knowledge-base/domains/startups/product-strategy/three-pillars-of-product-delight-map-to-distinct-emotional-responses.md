@@ -52,6 +52,6 @@ related:
   - INS-260405-95D1
   - INS-260403-955F
   - INS-260404-29EC
-  - INS-260403-FFD2
+  - INS-260627-1224
 ---
 Changuel's framework distinguishes three pillars of delight, each with a different emotional mechanism. Friction removal (e.g., Uber's automatic refund flow) creates relief and trust. Need anticipation (e.g., Revolut offering eSIMs before international travel) creates a sense of being understood. Expectation exceeding (e.g., Edge browser finding coupons during checkout) creates surprise and gratitude. The key insight is that most teams default to the third pillar—flashy surprise moments—while the first two pillars actually drive more retention because they address recurring pain points. Mapping product opportunities to the correct pillar prevents teams from confusing confetti animations with genuine delight.

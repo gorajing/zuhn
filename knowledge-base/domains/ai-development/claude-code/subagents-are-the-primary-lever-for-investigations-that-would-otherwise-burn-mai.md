@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260320-63D3
   - INS-260409-086A
+  - INS-260627-A999
   - INS-260605-5078
   - INS-260626-A05F
   - INS-260605-83DA
-  - INS-260626-E926
 ---
 When Claude investigates a codebase, every file read consumes the main conversation's context. A single 'how does authentication work?' question can fill thousands of tokens of exploration that you never actually needed in your working memory. Subagents solve this by running in an isolated context window with their own tools, then reporting back with a summary.
 

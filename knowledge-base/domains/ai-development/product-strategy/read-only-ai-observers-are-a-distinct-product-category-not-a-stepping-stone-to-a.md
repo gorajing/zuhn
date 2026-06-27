@@ -54,7 +54,6 @@ stance: >-
   agents and should not be treated as a limited precursor you graduate from.
 related:
   - INS-260320-9D89
-  - INS-260410-E977
   - INS-260501-9E23
   - INS-260501-9465
   - INS-260501-1FC3
@@ -63,6 +62,7 @@ related:
   - INS-260605-B4B9
   - INS-260605-F828
   - INS-260605-AE67
+  - INS-260605-E145
 ---
 The personal-AI industry frames read access as a limitation you eventually trade for write/action capability. Podhajský argues this framing is wrong: the observer and the agent occupy different product categories that serve different needs. The agent saves him 30 seconds on a weather check; the observer shows him he has been avoiding his most important project for two weeks. Value-per-interaction is far higher for the observer because it operates on synthesis and reflection rather than micro-task automation.
 

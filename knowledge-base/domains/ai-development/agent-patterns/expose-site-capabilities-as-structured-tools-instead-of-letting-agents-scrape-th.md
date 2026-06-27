@@ -57,8 +57,8 @@ related:
   - INS-260605-D0A0
   - INS-260626-2F2E
   - INS-260605-25B2
+  - INS-260627-FEB4
   - INS-260605-BA6A
-  - INS-260410-5D66
   - INS-260625-D2E3
 ---
 Today a browser agent buying a concert ticket typically passes the entire DOM to understand the page, reads the accessibility tree for structure, takes a screenshot to catch what HTML missed, then measures pixel offsets to click the right element. Agyemang highlights why this is fragile and expensive: it burns enormous token budgets, and a late-loading ad that pushes content down can make the agent click the wrong place after all that work.

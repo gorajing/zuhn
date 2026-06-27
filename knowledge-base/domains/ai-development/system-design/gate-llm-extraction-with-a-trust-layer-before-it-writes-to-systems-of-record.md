@@ -58,9 +58,10 @@ stance: >-
 related:
   - INS-260514-7B5B
   - PRI-260323-1CF9
+  - INS-260627-9981
   - INS-260330-125E
   - INS-260505-5A06
-  - INS-260627-21FF
+  - INS-260627-0723
 ---
 Before AI-extracted data updates the CRM, the pipeline applies a trust layer: automated checks that the generated summary is strictly grounded in the source transcript (not invented), combined with token optimization to keep latency low. But the human is deliberately not removed — the operator sees the AI summary auto-populated on screen, does a quick visual field validation, makes minor edits, and clicks confirm. The structured data then flows simultaneously into BI dashboards and flags candidates for new FAQ entries.
 

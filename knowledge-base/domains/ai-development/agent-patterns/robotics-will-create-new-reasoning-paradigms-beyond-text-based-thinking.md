@@ -56,6 +56,7 @@ related:
   - INS-260323-F0A2
   - INS-260330-0C0C
   - INS-260626-F01D
+  - INS-260627-53EF
 ---
 Physical Intelligence's founders argue that while current robotics models already do short-horizon planning (50 timesteps, about 1-2 seconds) and task decomposition in language space, physical reasoning is fundamentally different from math or coding reasoning. When learning tennis, you don't think in text about grip angles; you reason in terms of body motion and object trajectories.
 

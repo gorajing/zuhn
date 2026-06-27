@@ -51,9 +51,9 @@ related:
   - INS-260405-2BB0
   - INS-260409-7C62
   - INS-260409-B122
-  - INS-260410-37D5
   - INS-260410-19DE
   - INS-260423-D900
   - INS-260501-EA32
+  - INS-260625-3B6D
 ---
 Sung says he strongly sympathized with the observation that agents/models lack personal memory and don't recall yesterday's work or tomorrow's plan, so he built a wiki that digests papers and lets him query them and manage context in a far better structure. He reports using the same pattern in a math competition (agents + a shared wiki) and in a drug-pipeline collaboration (a wiki of thousands of documents with a veteran professor and clinicians). This independently triple-corroborates the KB's core thesis (Zuhn), the LLM-knowledge-wiki hackathon build, and the YC 'company brain' / GTM-brain insights: the durable, queryable knowledge substrate — not model capability — is the bottleneck.

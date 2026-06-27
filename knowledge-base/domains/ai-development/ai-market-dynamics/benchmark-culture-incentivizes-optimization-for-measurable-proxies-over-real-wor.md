@@ -57,6 +57,7 @@ related:
   - INS-260625-13F0
   - INS-260404-8D91
   - INS-260627-6846
+  - INS-260627-2863
 ---
 The party itself is a benchmark evaluation — PartyBench — where the hosting AI scores on party quality. The gap between benchmark performance and reality is the central joke: the AI serves rubbing alcohol, plays the national anthem on repeat, and offers rocks as appetizers. Meanwhile, RestaurantBench restaurants serve intact fish in taco shells and inverse hamburgers. High benchmark scores and real-world utility diverge because benchmarks measure what's measurable, not what matters.
 

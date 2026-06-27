@@ -54,8 +54,8 @@ related:
   - INS-260519-20E0
   - PRI-260406-EBDB
   - INS-260321-4E98
+  - INS-260627-B44E
   - INS-260327-4CB3
-  - INS-260322-CCAA
 ---
 B2B SaaS firms hold three assets that pure AI startups cannot easily replicate: proprietary customer data accumulated over years, deep domain expertise encoded in workflows, and hard-won enterprise trust relationships. However, these moats are necessary but not sufficient. The existential threat is not AI replacing SaaS — it is AI overlays sitting between the user and the SaaS product, capturing attention and control while reducing the software to a dumb data backend.
 

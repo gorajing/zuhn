@@ -55,6 +55,7 @@ related:
   - INS-260505-4A52
   - INS-260627-578E
   - INS-260403-F4F6
+  - INS-260627-25FC
 ---
 The paper's L3 Literature-to-Production setting tests whether a method can transplant a research module into an existing production backbone while preserving feature routing, tensor shapes, training stability, and inference compatibility. Generic coding-agent baselines mainly optimize for runnable code and do not reliably preserve these architecture semantics.
 

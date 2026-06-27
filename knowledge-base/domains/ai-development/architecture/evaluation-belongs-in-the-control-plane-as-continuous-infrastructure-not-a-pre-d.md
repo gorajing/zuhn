@@ -59,13 +59,13 @@ stance: >-
   Evaluation should be a separate always-running control plane that observes and
   governs the execution plane, not a one-time testing gate before deployment.
 related:
-  - INS-260409-0DB0
   - INS-260605-AABE
   - INS-260605-C513
   - INS-260605-0C5C
   - INS-260605-CA2B
   - INS-260605-6444
   - PRI-260411-14DC
+  - INS-260627-F5F2
 ---
 Gupta's central architectural claim is that evaluation is becoming part of the control plane rather than an offline process or a separate tool. The control plane continuously observes the system, collects telemetry, runs simulations, and coordinates human review; the execution plane performs the actual work. The control plane measures and governs behavior, and this separation of governance from execution is emerging as a foundational pattern for production AI.
 

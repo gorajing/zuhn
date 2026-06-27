@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 100 insights
+> 101 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -27,6 +27,7 @@
 - `INS-260403-18CA` [high] Few-shot prompting can take accuracy from 0% to 90%, while role prompting has negligible effect on correctness.
 - `INS-260605-D3EB` [high] Function Gemma (270M) went from 46% to over 90% function-calling accuracy on 8 of 10 app intents by fine-tuning on synthetic data rather than describing functions in a system prompt.
 - `INS-260605-4D1D` [high] For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
+- `INS-260627-C112` [high] Don't fine-tune on your raw documents — generate a large synthetic dataset that describes them and train on that, or the model just memorizes and breaks.
 - `INS-260410-3A08` [high] Pretraining gives a base model all its knowledge; a cheap fine-tuning stage on ~100k curated Q&A pairs reshapes it into a helpful assistant without adding knowledge.
 - `INS-260323-4E12` [high] The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements multiplied together across data, training, architecture, and optimization.
 - `INS-260410-CDE6` [high] To match GPT-3's 0.5M-token batch size on a GPU that only fits 16K tokens per step, run 32 micro-batches and sum their gradients before the optimizer step — but remember to divide by grad_accum_steps to preserve the loss's mean reduction.

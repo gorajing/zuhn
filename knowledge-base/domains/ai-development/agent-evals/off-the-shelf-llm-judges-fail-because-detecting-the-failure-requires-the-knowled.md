@@ -58,12 +58,11 @@ stance: >-
 related:
   - INS-260405-6A0C
   - INS-260605-C009
+  - INS-260627-9981
   - INS-260605-D3C7
   - INS-260605-EC51
   - PRI-260411-14DC
   - INS-260605-6444
-  - INS-260626-8747
-  - INS-260627-9E58
 ---
 The talk opens with a common failure: a team drops a library 'hallucination' LLM-judge into production, the dashboard looks fine, but customers report the agent is broken. The judge's prompt is essentially 'rate whether this output is a hallucination, make no mistakes' — but if the model could reliably know what counts as a hallucination for this domain, the app would have worked from day one. The detection task is circular with the task the agent already failed.
 

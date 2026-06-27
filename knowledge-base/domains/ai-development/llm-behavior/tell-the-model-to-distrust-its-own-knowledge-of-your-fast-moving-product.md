@@ -58,6 +58,6 @@ related:
   - INS-260605-1CEB
   - INS-260626-9A2A
   - INS-260625-3768
-  - INS-260605-D37A
+  - INS-260627-C112
 ---
 A model's training data is a frozen snapshot, but a live product is a moving target — so the model's confident 'knowledge' of your own product is often quietly wrong. WorkOS handles this at the prompt layer: 'we tell the LLM to specifically distrust knowledge around our product... go for primary sources, look up data in our docs.' The general principle: anywhere the ground truth changes faster than the model's training cycle, treat the model's parametric memory as a liability rather than an asset and route it to authoritative, current sources. This is a cheap, high-leverage instruction that prevents a whole class of plausible-sounding stale answers, and it applies far beyond product docs — to APIs, schemas, pricing, org structure, and any internal fact that drifts. It pairs naturally with just-in-time context injection: rather than hoping the model remembers, you supply the current truth at the moment it's needed and tell it to trust that over itself.

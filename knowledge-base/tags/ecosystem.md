@@ -3,6 +3,7 @@
 - `INS-260403-C1D2` Over 630 investors backed LLM startups, but NVIDIA, Amazon, Microsoft, Alibaba, Salesforce, and Google write the largest checks while serving as suppliers and competitors.
 - `INS-260327-FDF4` Karpathy's LLM OS framework: models are the CPU, modalities are peripherals, existing software infrastructure connects in, and there will be both default apps and a thriving third-party ecosystem.
 - `INS-260321-2BF9` NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
+- `INS-260627-B44E` Adding a durability layer to otherwise non-durable agent SDKs is becoming a repeatable, popular integration pattern across the ecosystem.
 - `INS-260626-E46D` The Hugging Face MLX community re-publishes quantized device-ready weights ~30 minutes after a lab releases a model, turning new models into instantly runnable on-device assets.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
 - `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
@@ -23,12 +24,12 @@
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260412-6B75` Argentine ants conquered six continents because native ant species had defenses evolved against local competitors, not against swarm-and-overwhelm tactics.
 - `INS-260405-BC10` The US-Europe startup gap is best explained by failure-recovery infrastructure — bankruptcy law, investor attitudes, labor mobility — not by cultural risk appetite alone.
-- `INS-260403-5D7D` Seed-stage startups are too mobile for small regional grants to anchor them geographically.
-- `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260403-1AD3` Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
 - `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260405-3772` Java's flaws spawned Groovy, Clojure, Scala, Kotlin, and arguably JavaScript — more ecosystem value than most 'better' languages ever generated.
 - `INS-260403-20B1` Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
+- `INS-260403-5D7D` Seed-stage startups are too mobile for small regional grants to anchor them geographically.
+- `INS-260404-DE04` Regulatory shifts can rapidly undermine entire regional startup ecosystems independent of talent and capital availability.
 - `INS-260404-D6EC` ARM's 1,000+ partner ecosystem creates switching costs that no single competitor can overcome, even with superior technology.
 - `INS-260404-B5EB` Apple 'mobilized' the payments ecosystem by letting all existing players continue business as usual while adding a mobile layer, rather than forcing ecosystem rewiring.
 - `INS-260405-ABE0` Valve can afford hardware bets others can't because every device plugs into an already-won software distribution war.

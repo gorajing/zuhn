@@ -53,6 +53,6 @@ related:
   - INS-260605-3163
   - INS-260625-08E5
   - INS-260625-6C29
-  - INS-260625-EF29
+  - INS-260627-5004
 ---
 When debugging an issue against a dependency, Savkin pulls the actual open-source repo (e.g. Vitest) into the session rather than relying on a documentation-retrieval tool like Context7. His reasoning: 'if I have the real code, the agent can go really deep. So the deep problems are discovered all this way.' Documentation is a lossy compression of a library — it captures the intended interface, not the edge cases, implementation quirks, or the actual behavior that breaks your code. For shallow lookups (how do I call this API) docs suffice, but for the hard problems — where the bug lives in the interaction between your code and the library's internals — the agent needs to read the source. The actionable pattern: when an agent is stuck on a dependency-related problem, give it the dependency's real repository, not a summary. The tradeoff is context cost (real repos are large), which is exactly why a harness that can selectively pull the *relevant* repo and SHAs into a session matters — it makes 'just give it the real code' affordable.

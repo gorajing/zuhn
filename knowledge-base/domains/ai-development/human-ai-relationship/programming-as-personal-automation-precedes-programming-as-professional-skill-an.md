@@ -57,11 +57,11 @@ stance: >-
   difficult concepts.
 related:
   - INS-260320-6A9D
-  - PRI-260320-097F
   - PRI-260406-DDE1
+  - PRI-260320-097F
   - INS-260402-F62B
   - INS-260403-648C
-  - INS-260514-618D
+  - INS-260627-E831
 evidence:
   - id: INS-260320-6A9D
     type: EXTENDS

@@ -49,5 +49,6 @@ related:
   - INS-260327-9C56
   - INS-260327-0875
   - INS-260605-6CBF
+  - INS-260627-0818
 ---
 Woosang frames autonomous labs as a closed loop: machine learning recommends synthesis recipes, robots actually synthesize, and results are fed back as new training data (active learning). He notes this framework emerged ~3 years ago across the US, Korea, and China. Directly parallels Jongmin's protein active-learning loop — the same self-improving experimental cycle the KB tracks, applied to materials.

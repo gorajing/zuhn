@@ -58,7 +58,7 @@ related:
   - INS-260626-2D64
   - INS-260330-7E4F
   - INS-260403-08D7
-  - PRI-260328-A65A
+  - INS-260627-0C43
 ---
 The dominant image of peak AI productivity is one person running two dozen terminal-based coding agents in parallel. Appleton calls this the 'one man, two dozen Clods' theory and argues its core flaw is assuming software is made by one person. Today's agent tools are single-player interfaces that scale up the individual, but there is limited value in scaling one individual because real software is a team sport where everyone has to agree on what's being built and why.
 

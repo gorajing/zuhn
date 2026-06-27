@@ -43,11 +43,11 @@ stance: >-
   do not guarantee equal safety when target runtimes enforce permissions
   differently.
 related:
+  - INS-260627-8B75
   - PRI-260426-890F
   - INS-260625-ADEA
   - INS-260627-9EBD
   - INS-260605-98BD
-  - INS-260626-5B28
 ---
 Rel(AI)Build compiles one canonical definition to several IDE targets, which attacks the real maintenance problem of reauthoring the same expertise in multiple dialects. The limitation is that translation fidelity does not imply runtime equivalence: the paper notes that some targets enforce tool allowlists differently or lack tool-level runtime enforcement.
 

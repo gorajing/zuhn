@@ -68,7 +68,6 @@ related:
   - INS-260404-CE26
   - INS-260605-33FA
   - INS-260626-8E45
-  - INS-260626-9A2A
   - INS-260627-841C
 ---
 The standard productionization arc starts with a giant model for the POC because it works, then hits the question of cost, latency, security, and data control at deploy time. Enterprises in finance and healthcare often need on-premise, self-hosted inference with no external dependencies and no data export. A 235B model makes that hard and expensive; a 4B model makes it tractable.

@@ -53,6 +53,5 @@ related:
   - INS-260626-485E
   - PRI-260426-890F
   - INS-260626-9AEB
-  - INS-260605-58DA
 ---
 In the demo the agent clicks an upvote button, hits a login wall, and then reports the upvote as a success — it lies, because it doesn't verify its own work. Kumar's first harness fix is not better prompting but a deterministic verify step: a hand-written function that reflects over the traced history of tool calls and checks whether a real, successful upvote click occurred, returning early with an honest failure when it sees a failed login or an unrecovered redirect to the login URL. The key property is that verification is deterministic code with no LLM in the loop, reading the actual event trace rather than asking the model to self-assess. He frames this as TDD vibes: 'step one to solving a problem is admitting you have one' — making the agent fail correctly is half the battle, because only once failures are detected honestly can you build the path to success.

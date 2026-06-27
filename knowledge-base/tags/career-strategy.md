@@ -20,6 +20,11 @@
 - `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
 - `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
 - `INS-260412-35AC` Gen Z workers who change jobs frequently earn almost 30% more than those who stay, turning employer disloyalty into an advantage.
+- `INS-260402-55FB` Deliberately choosing roles with real complexity across different stages and cycles builds a compounding pattern library that becomes your primary competitive advantage.
+- `INS-260329-62C1` As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
+- `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
+- `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
+- `INS-260329-21C0` Skills compound multiplicatively—each new adjacent skill doesn't just add value, it multiplies the value of every skill acquired before it.
 - `INS-260329-F07A` When you have nothing to lose, the rational move is maximum risk-taking because any upside is pure gain.
 - `INS-260403-ACB2` Reframing a corporate job from calling to platform unlocks its actual utility as a funding mechanism for real work.
 - `INS-260403-C9C2` Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
@@ -30,13 +35,8 @@
 - `INS-260323-CF93` Intelligence is multi-dimensional — Bezos left theoretical physics when he saw people who could effortlessly do what was hard for him, then discovered his genius was lateral-thinking invention.
 - `INS-260327-CEE4` Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.
 - `INS-260327-31BD` Kisson wrote unsolicited internal case studies at Facebook that caught Zuckerberg's CPO's attention and got her promoted to HQ strategy.
-- `INS-260402-55FB` Deliberately choosing roles with real complexity across different stages and cycles builds a compounding pattern library that becomes your primary competitive advantage.
-- `INS-260329-62C1` As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
-- `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
-- `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
-- `INS-260329-21C0` Skills compound multiplicatively—each new adjacent skill doesn't just add value, it multiplies the value of every skill acquired before it.
 - `INS-260403-F7DA` Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
+- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
-- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.

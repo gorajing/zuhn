@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 310 insights
+> 317 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -18,6 +18,7 @@
 - `INS-260329-8F98` [high] Always version APIs explicitly (e.g., /v1/products, /v2/products) rather than modifying existing endpoints, so old clients continue working while new clients get new features.
 - `INS-260330-E059` [high] 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260402-8A7A` [high] Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
+- `INS-260627-25FC` [high] The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution.
 - `INS-260323-6761` [high] Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.
 - `INS-260320-10CC` [high] 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
 - `INS-260325-21D1` [high] Babbage built his computing machines like railroad engines — massive brass gears requiring cutting-edge machining — when the successful approach used clock technology with smaller, standardized parts.
@@ -28,6 +29,7 @@
 - `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260627-F5F2` [high] If the simulator sees an unmapped device, unsupported method, or unreachable review host, the filter blocks and escalates rather than allowing the action.
 - `INS-260626-43A1` [high] The paper's cost analysis finds localized update/search regimes more cost-efficient than graph-wide consolidation or whole-memory rewriting.
 - `INS-260625-C69F` [high] Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.
 - `INS-260514-EE1D` [high] Harness order: rules first → skills when you repeat yourself → MCP when you need external systems → hooks when stakes rise → sub-agents when contexts conflict. Don't design the whole thing upfront. Add components when friction surfaces.
@@ -70,6 +72,7 @@
 - `INS-260605-BFBE` [high] An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
 - `INS-260330-81A7` [high] Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260625-BAE7` [high] The four-joins-deep customer query every new hire must copy-paste gets told to Studio once, and it then performs it correctly forever — eliminating the data-team dashboard bottleneck.
+- `INS-260627-4514` [high] Express what the program should do as typed signatures and defer the how to the model, so you can swap models without rewriting logic.
 - `INS-260330-CA97` [high] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
 - `INS-260626-E5E5` [high] A thin backend mints short-lived tokens from the real API key and hands them to the browser, which opens the WebSocket directly — removing a proxy hop while limiting blast radius if a token leaks.
 - `INS-260329-7673` [high] ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
@@ -131,6 +134,7 @@
 - `INS-260409-1078` [high] MemPalace's AAAK uses 73 tokens to encode text that plain English encodes in 66 — compression only amortizes at scale where the same entities appear hundreds of times, making it a net loss for small-scale personal memory.
 - `INS-260409-BA55` [high] RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.
 - `INS-260605-6F34` [high] Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.
+- `INS-260627-0723` [high] Readable summaries and machine-readable ledgers should be checked against each other before a run closes.
 - `INS-260501-7726` [high] Karpathy built Menu Gen as a multi-step app, then realized Gemini + Nano Banana renders the entire thing in one shot — the app shouldn't exist.
 - `INS-260409-0D87` [high] Under ~thousands of documents, a markdown vault plus Claude Code matches vector RAG without embeddings.
 - `INS-260625-407C` [high] Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
@@ -140,6 +144,7 @@
 - `INS-260329-6AF5` [high] Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
 - `INS-260409-A0B4` [high] LlamaIndex exposes data loaders, parsers, retrievers, synthesizers, and reasoners as swappable components — Jerry Liu's design philosophy is that optimal choices differ per data type and use case, so users need to plug in custom implementations at each layer rather than accept one pipeline.
 - `INS-260330-C06E` [high] Real-time AI latency is solved in the serving infrastructure (caching, batching), not in the model architecture
+- `INS-260627-D61C` [high] Prototype agent tasks with polling, but switch to webhooks before you scale — holding workers open to poll dozens of multi-minute tasks is the part that breaks.
 - `INS-260329-148D` [high] AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
 - `INS-260329-05BB` [high] HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
 - `INS-260321-9906` [high] Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
@@ -179,6 +184,7 @@
 - `INS-260329-3383` [high] AWS's shared responsibility model — where AWS secures infrastructure 'of' the cloud and customers secure everything 'in' the cloud — is a transferable framework for any platform-builder relationship.
 - `INS-260410-264E` [high] If your corpus is under ~500 pages, just put the whole thing in the prompt and cache it — no RAG infrastructure required.
 - `INS-260329-C7B8` [high] Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
+- `INS-260627-C26A` [high] Masked IRL's implicit masking loss stayed robust under noisy LLM masks, while explicit masking degraded because it discarded potentially useful state.
 - `INS-260625-2563` [high] Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
 - `INS-260320-4B31` [high] We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
 - `INS-260626-EAC7` [high] Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.
@@ -228,6 +234,7 @@
 - `INS-260323-9955` [high] The principle of least action provides a single mathematical framework that generates all laws of physics — classical mechanics, relativity, electrodynamics — by simply writing down the correct Lagrangian.
 - `INS-260329-0B55` [high] Union-Find achieves near-constant amortized operations by lazily flattening tree paths only when queried, not eagerly during union.
 - `INS-260330-0CAD` [high] Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
+- `INS-260627-8735` [high] The useful artifact is the parseable evidence block, not just the explorer's explanation.
 - `INS-260329-8896` [high] Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
 - `INS-260329-BAB7` [high] The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
 - `INS-260329-9074` [high] Variables create single points of change that prevent linear maintenance scaling in growing codebases.

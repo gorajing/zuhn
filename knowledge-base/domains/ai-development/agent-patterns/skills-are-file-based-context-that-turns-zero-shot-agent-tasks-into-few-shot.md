@@ -66,9 +66,9 @@ related:
   - INS-260410-0855
   - INS-260410-53C2
   - INS-260423-74BF
-  - INS-260501-C59A
   - INS-260501-8186
   - INS-260501-9503
+  - INS-260514-4436
 ---
 Burtenshaw deliberately keeps the concept of skills simple: 'really they're just kind of file-based context.' Because they're files, you get all the affordances of files — open and close them, version them, source-control them — and agents can do the same, opening a skill only when they need it. For a hard task like writing CUDA kernels, a skill supplies worked examples (here, benchmarking scripts and references), which 'takes a task from being zero-shot to being few-shot' — a familiar ML framing of just giving the model examples.
 

@@ -2,6 +2,7 @@
 
 - `INS-260403-39CF` AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
 - `INS-260403-9A0F` Product managers embedded with AI researchers influence model behavior directly, creating differentiation impossible to achieve by building on public APIs alone.
+- `INS-260627-D21B` Replace the PRD with 'here is the eval data set and here is the eval we want the system to pass' — evals become the executable requirement and acceptance test for an AI feature.
 - `INS-260403-E706` A survey of 1,750 tech professionals shows product managers want AI for research and founders want it for ideation, revealing a major gap in strategic AI applications.
 - `INS-260403-541C` Systematically research each stakeholder's incentives, decision process, and concerns before attempting to influence them.
 - `INS-260327-B5C9` You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.

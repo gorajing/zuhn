@@ -47,10 +47,10 @@ stance: >-
   program small enough to hold in one's head.
 related:
   - PRI-260406-26FB
+  - INS-260627-214C
   - PRI-260403-5B3D
   - INS-260403-D645
   - INS-260325-D4F6
-  - PRI-260405-3080
   - INS-260410-B9A6
 evidence:
   - id: INS-260320-4BA8

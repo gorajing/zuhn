@@ -48,9 +48,9 @@ stance: >-
   were designed around slow human review and delayed feedback.
 related:
   - PRI-260407-D1AD
+  - INS-260627-8BD6
   - INS-260625-DF35
   - INS-260625-FA31
-  - INS-260605-5404
-  - PRI-260403-EA13
+  - INS-260627-3481
 ---
 The pull request was engineered for a world where a developer submits one or two diffs a week and colleagues review them asynchronously over hours or days. Its slow machinery — review handoffs, batched CI, merge queues — was hidden behind human latency and felt acceptable. When agents generate N PRs across N repos with thousands of short-lived branches pulling the same codebase in different directions, the same machinery becomes the bottleneck. The act of merging starts to resemble a high-performance database problem: a single ledger (the git repo) that every change must serialize into, with a lock held during commit. That lock window is tolerable at human change-rates but catastrophic at machine change-rates. The implication for tool builders is that the PR abstraction itself, not just its speed, is what fails — you cannot fix agent-scale development by making PR review faster.

@@ -62,7 +62,7 @@ related:
   - INS-260605-D0A0
   - INS-260605-0819
   - INS-260605-1A2D
-  - INS-260605-6134
+  - INS-260605-92FF
 ---
 Morrow's team learned that optimizing a tool description in isolation is a trap. The goal of a description is correct selection: 'called at the right times and not called at the wrong times.' A description so compelling the agent always reaches for that tool is just as broken as one so weak the agent never does. Because tools compete for the agent's attention, the only meaningful evaluation is a competitive one — testing descriptions against each other in a realistic pool to verify each fires precisely when appropriate.
 

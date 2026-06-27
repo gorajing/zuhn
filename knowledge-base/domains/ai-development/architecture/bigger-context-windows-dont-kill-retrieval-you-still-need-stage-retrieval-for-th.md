@@ -58,6 +58,6 @@ related:
   - INS-260624-F048
   - INS-260625-BF8B
   - INS-260625-429B
-  - INS-260409-2A51
+  - INS-260627-E257
 ---
 A common pillar of the 'RAG is dead' argument is that long context windows will make retrieval obsolete. The talk rebuts this with Jeff Dean's framing: it doesn't matter if you reach a trillion-token context window — what you actually need is stage retrieval, a lightweight mechanism to narrow that trillion down to the right million at a time. 'You don't need a trillion at once, you need the right million.' This is the same problem Turbopuffer sees with customers holding trillions of tokens: the value is in getting down to the right 1M, right 100K, right 10K to feed the window. The corresponding shift in practice is from one-shot RAG (vector search once, dump into context) to iterative agentic retrieval — agents reason across several steps, search semantically or via full text as needed, and fetch only what each step requires, 'searching to understand more' in a loop. The design implication: don't bet that scaling context lets you skip retrieval; instead invest in a fast narrowing layer, because selecting the right tokens is the bottleneck regardless of how big the window gets.

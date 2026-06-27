@@ -51,11 +51,11 @@ resolutions:
     open-source contribution. The principle: agent self-awareness is a force
     multiplier for both development velocity and accessibility.
 related:
+  - INS-260627-FEB4
   - INS-260530-D34F
   - INS-260625-0A79
   - INS-260605-9276
   - INS-260501-F258
-  - INS-260626-2F2E
   - INS-260409-9296
 stance: >-
   Making an AI agent aware of its own source code, harness, documentation, and

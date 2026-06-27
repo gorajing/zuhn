@@ -1,8 +1,8 @@
 # Tag: selection-bias
 
 - `INS-260321-BFA3` AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
-- `INS-260410-EA51` Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
 - `INS-260403-BEB3` The 'AI slop' narrative reflects the quality of typical AI users, not AI capability — unconstrained AI output is far more interesting than LinkedIn-optimized generation.
+- `INS-260410-EA51` Systematic sweeps show ~1-2% per-problem success rates; the impressive headlines come from cherry-picking the wins from massive parallel attempts.
 - `INS-260403-ECB2` Over two-thirds of the best angel outcomes came from deals that were already 'hot' at the time of investment, making access the binding constraint.
 - `INS-260403-9D9E` Astia Fund's sift strategy represents a shift from network-dependent to systematic deal sourcing designed to reduce failure rates.
 - `INS-260405-2B3F` Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.

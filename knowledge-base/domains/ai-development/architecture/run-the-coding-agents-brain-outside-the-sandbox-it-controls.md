@@ -63,7 +63,6 @@ related:
   - INS-260605-3206
   - INS-260605-74CC
   - INS-260327-DC4C
-  - INS-260626-A05F
 ---
 Cognition built Devin from the start to 'separate the brain from the machine,' and Walden Yan argues the out-of-the-box harness is the better architecture despite being more work. When you run the agent in the box, every secret it needs to operate has to live in that box — and because AI behavior is unpredictable, it can accidentally exfiltrate those secrets or do other unintended damage. The out-of-the-box pattern instead runs the 'brain' in a control plane that makes tool calls into a sandbox serving as disposable 'hands.' OpenAI and Anthropic's managed-agents offerings are described as variations of this same pattern.
 

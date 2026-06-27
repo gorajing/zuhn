@@ -1,7 +1,8 @@
 # Topic: economics
 
-> 19 insights
+> 20 insights
 
+- `INS-260627-91B3` [high] Agent systems need spend control as much as capability control.
 - `INS-260625-02A3` [high] Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
 - `INS-260405-3240` [high] AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable.
 - `INS-260410-BC76` [high] Frontier labs buy compute 1–2 years before it comes online, so mispredicting demand by a single year of the 10x curve makes the company insolvent.

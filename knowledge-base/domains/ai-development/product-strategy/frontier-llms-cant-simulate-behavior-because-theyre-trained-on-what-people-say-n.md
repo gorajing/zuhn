@@ -67,6 +67,7 @@ related:
   - INS-260625-940D
   - INS-260323-9774
   - PRI-260323-1187
+  - INS-260627-A7A6
 ---
 Park rebuts the intuitive assumption that you can just prompt a large model ('you are a 34-year-old woman in a bi-coastal metro') and get a faithful human. The blocker is the say-do gap: there is a real, persistent difference between what people say and what they actually do, and LLMs are trained 'on attitudinal data — fundamentally the things people have said online.' That covers a huge slice of training data but is precisely the wrong slice for predicting behavior.
 

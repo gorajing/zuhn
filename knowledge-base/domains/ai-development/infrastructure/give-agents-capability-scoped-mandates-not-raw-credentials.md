@@ -68,6 +68,8 @@ related:
   - INS-260626-35A9
   - INS-260423-74BF
   - INS-260625-03A6
+  - INS-260627-1B11
+  - INS-260627-F756
 ---
 Handing a raw card number to an intermediary provides zero enforcement: you are simply trusting that they charge what you parsed off the page. Stripe's shared payment tokens instead let the agent collect a credential and re-share it as a mandate — a smart-contract-like object encoding usage limits scoped to a particular seller, amount, currency, and expiry. In the demo, a Visa card with a high real limit was scoped to $25, 30 days, and one seller; a $50 charge attempt was rejected by Stripe before settlement.
 

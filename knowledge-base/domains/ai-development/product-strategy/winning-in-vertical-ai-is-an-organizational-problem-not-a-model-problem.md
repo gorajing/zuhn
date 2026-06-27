@@ -48,9 +48,8 @@ related:
   - INS-260403-615D
   - INS-260505-CBE5
   - INS-260408-C572
+  - INS-260627-2863
   - PRI-260406-4EBD
   - INS-260404-E36F
-  - INS-260626-21EA
-  - INS-260605-F5F7
 ---
 Lovejoy rejects the common belief that vertical AI is won by securing the best model. With ~50% of generative AI projects abandoned (Gartner), the core failure is building systems without deeply understanding the workflow being automated or how a domain expert would actually perform it. His thesis: the system for incorporating domain insights matters more than the sophistication of your models or pipelines. This reframes vertical AI competition away from a technical arms race and toward an organizational design challenge — specifically, how you bake expert judgment into both assessing AI quality and improving it. For founders, the practical implication is to stop benchmark-chasing and instead invest in the human-and-process scaffolding that captures the 'last mile' nuances of a specific use case.

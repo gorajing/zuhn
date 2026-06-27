@@ -53,13 +53,12 @@ stance: >-
   enable the systematic experimentation, comparison, and cross-experiment
   analytics that drive agent improvement.
 related:
-  - INS-260605-EF23
   - INS-260605-2186
-  - INS-260625-8EC6
   - INS-260626-B149
+  - INS-260627-4072
   - INS-260605-09E0
+  - INS-260605-EF23
   - INS-260625-8A55
-  - INS-260627-21FF
 ---
 Hetzel lays out a maturity ladder — spreadsheet, then a bespoke vibe-coded UI on a real database, then a playground for tweaking agent configs, then the production-fed flywheel — and the recurring failure at the early rungs is the same: you're still documenting rather than iterating. A spreadsheet has zero barrier to entry and is the correct place to start, but it becomes cumbersome to manage, makes it hard to directly compare experiments over time, supports little cross-experiment analytics, leans on hard-to-scale human scoring, and is slow to append to each cycle.
 

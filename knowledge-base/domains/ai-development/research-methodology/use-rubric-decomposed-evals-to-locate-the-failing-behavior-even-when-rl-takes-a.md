@@ -61,10 +61,9 @@ stance: >-
   specific behavior is failing and what data to generate, even though the RL
   signal itself is only a single scalar.
 related:
-  - INS-260403-0803
-  - INS-260605-2A01
   - INS-260605-780C
   - INS-260625-0961
+  - INS-260403-0803
   - INS-260625-13F0
   - INS-260403-88AF
   - INS-260605-DCE5

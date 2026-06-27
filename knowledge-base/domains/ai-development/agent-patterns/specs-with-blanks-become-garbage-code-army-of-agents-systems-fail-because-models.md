@@ -61,7 +61,6 @@ stance: >-
   code learned from the internet, which is garbage; the only complete spec IS
   the program itself.
 related:
-  - INS-260320-4BA8
   - INS-260330-23CD
   - INS-260405-2688
   - INS-260505-D545

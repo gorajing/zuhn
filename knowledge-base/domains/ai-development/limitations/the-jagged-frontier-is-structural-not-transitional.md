@@ -52,9 +52,9 @@ related:
   - INS-260405-75AC
   - INS-260409-E366
   - INS-260410-E042
+  - INS-260627-6A8B
   - PRI-260407-F684
   - INS-260626-BF48
   - INS-260625-8FC6
-  - INS-260627-1C9C
 ---
 The AI Index 2026 frames the jagged frontier as one of its top 12 takeaways, and the evidence is stark: Gemini Deep Think scored 35 points (gold medal) at the 2025 International Mathematical Olympiad — up from 28 points (silver) in 2024, working end-to-end in natural language within the 4.5-hour time limit. The same class of models read analog clocks correctly only 50.1% of the time on ClockBench, compared to 91% for humans. Agents that reached 66.3% on OSWorld still fail 1 in 3 attempts on structured benchmarks. Robots reach 89.4% success in RLBench simulations but succeed on only 12% of real household tasks. The jaggedness is not a transitional artifact that uniform progress will smooth over — it persists across model scales and capability domains, meaning any forecast that extrapolates from a single benchmark result to 'general' capability is making a measurement error. Capability models must be multidimensional or they are wrong.

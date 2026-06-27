@@ -46,10 +46,10 @@ stance: >-
   the AI pipeline can predict binding affinity AND off-target toxicity for
   arbitrary candidate compounds.
 related:
+  - INS-260627-00E9
   - INS-260404-4320
   - INS-260524-1A41
   - INS-260603-6B3D
   - INS-260322-37EE
-  - INS-260605-3AFB
 ---
 Isomorphic Labs (DeepMind spin-out) uses AlphaFold-derived structures plus chemistry models to predict (1) which compounds bind a target protein and how strongly, and (2) crucially, whether those same compounds also bind any of the other 20,000 proteins in the human body — the off-target check that determines toxicity. Both predictions run in minutes, allowing iteration over thousands or millions of candidate compounds. Only the final shortlist goes to the wet lab. Average drug development takes ~10 years with ~10% clinical success; Isomorphic has 18-19 active programs spanning cardiovascular, cancer, and immunology.

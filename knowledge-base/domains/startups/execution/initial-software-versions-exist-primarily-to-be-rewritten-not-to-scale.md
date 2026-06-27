@@ -45,7 +45,6 @@ stance: >-
   experimenting with its own design, not to be production-ready.
 related:
   - INS-260321-0CCD
-  - INS-260330-ABB1
   - INS-260519-D007
   - INS-260514-CEEA
   - PRI-260407-590E

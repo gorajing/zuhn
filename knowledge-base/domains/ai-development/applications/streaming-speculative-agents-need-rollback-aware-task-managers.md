@@ -44,9 +44,9 @@ stance: >-
   commit-gate irreversible actions.
 related:
   - INS-260605-FCDA
-  - INS-260605-E16A
   - INS-260603-6B3D
   - INS-260410-9B0E
+  - INS-260627-8B75
   - INS-260625-B296
   - INS-260625-A5E7
 ---

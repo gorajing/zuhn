@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 122 insights
+> 124 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -104,6 +104,7 @@
 - `INS-260625-EF29` [medium] Polygraph analyzes every repo a user can reach (owned + open source), extracts what each produces and consumes, and feeds that graph to a harness so an agent reads/writes 'one big codebase.'
 - `INS-260423-81B6` [medium] Google Cloud: the load balancer has a service extension that runs Model Armor on every request before it hits the backend, so even if the application forgets to validate, the filter still runs.
 - `INS-260605-7B06` [medium] Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
+- `INS-260627-8BD6` [medium] Write agents against a logical process that the runtime maps onto physical processes — so a human-in-the-loop wait of days costs nothing and resumes intact.
 - `INS-260605-E303` [medium] Make every agent action — input, LLM token fragments, errors, schedules — an event, and express all agent logic as a pure reduce(state, event) plus a separate side-effect hook.
 - `INS-260330-30FB` [medium] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260625-A741` [medium] Pulling enterprise data out to an external AI service introduces staleness and integration cost; embedding AI operators (vector search, forecasting, LLM functions) in the database lets agents act on the live state.
@@ -114,6 +115,7 @@
 - `INS-260605-68F4` [medium] One audio-to-audio architecture replaces the STT→LLM→TTS cascade, enabling more natural live voice interaction.
 - `INS-260605-E1E2` [medium] Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
 - `INS-260501-DF06` [medium] RevNets are Feistel ciphers; adversarial attacks are differential cryptanalysis — neural nets and crypto have been borrowing from each other.
+- `INS-260627-718B` [medium] Decouple the response stream from the API handler by storing it (Redis in prod, a file locally) under the workflow's run ID so any client can reconnect and resume.
 - `INS-260605-BECA` [medium] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - `INS-260605-D0C0` [medium] Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
 - `INS-260626-5B28` [medium] Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.

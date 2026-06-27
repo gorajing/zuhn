@@ -48,7 +48,6 @@ stance: >-
   execute attacks autonomously rather than merely advising humans how to attack.
 related:
   - INS-260330-C6A2
-  - INS-260402-876A
   - INS-260403-D51A
   - INS-260403-8311
   - PRI-260406-9051

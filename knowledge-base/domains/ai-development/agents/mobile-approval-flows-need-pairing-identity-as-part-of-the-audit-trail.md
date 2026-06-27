@@ -47,9 +47,9 @@ stance: >-
   controller.
 related:
   - INS-260410-E233
+  - INS-260627-F756
   - INS-260329-92E9
   - INS-260411-27AA
   - INS-260626-AE0C
-  - INS-260403-23AA
 ---
 The Codex Remote update makes remote steering and approval normal across ChatGPT plans. Because the phone can approve actions for a Mac or Windows host, the approval boundary is now a relationship between a mobile device and a host. AgentRun should preserve that relationship when available, especially for actions involving shell access, infrastructure creation, or credentials.

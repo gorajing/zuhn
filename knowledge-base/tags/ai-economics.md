@@ -6,6 +6,7 @@
 - `INS-260327-85E2` Cloud replaced software with software ($350B to $650B TAM); AI replaces services with software, starting from a tens-of-trillions base.
 - `INS-260405-6A94` OpenRouter's 100 trillion token study shows inference becoming a dominant operating cost that volume growth keeps pushing higher despite falling unit prices.
 - `INS-260514-B4A2` Copilot: from 'some number of actions per month' to 'this many tokens per month' — the cheap-AI era is over.
+- `INS-260627-91B3` Agent systems need spend control as much as capability control.
 - `INS-260603-915A` Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
 - `INS-260410-BC76` Frontier labs buy compute 1–2 years before it comes online, so mispredicting demand by a single year of the 10x curve makes the company insolvent.
 - `INS-260403-B800` Competitive advantage in the agent era comes from identifying which resources AI makes scarce, not which it makes abundant.

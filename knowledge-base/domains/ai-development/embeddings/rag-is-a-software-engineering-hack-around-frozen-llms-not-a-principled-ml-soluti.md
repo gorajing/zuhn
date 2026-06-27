@@ -59,6 +59,6 @@ related:
   - INS-260403-6857
   - INS-260410-BBEA
   - INS-260524-78D0
-  - INS-260330-4AD5
+  - INS-260627-277A
 ---
 The honest framing from inside the RAG ecosystem: retrieval-augmented generation exists because fine-tuning on every new document is expensive and fine-tuning APIs don't actually support knowledge injection well. So instead, we freeze the model and patch it at query time with external retrieval. Jerry Liu: 'RAG is basically just... a hack, but it turns out it's a very good hack.' The hack is that you're stitching together components (embedder, vector store, reranker, synthesizer) that were never co-trained and have no guarantee of aligning. 'Unless the software engineering lens, there's pieces in here that are going to be like suboptimal.' This is worth internalizing: RAG is a pragmatic patch, not a principled solution. The principled solution would be end-to-end trained retrieval systems that co-optimize retrieval and generation — these don't scale well yet, which is why RAG dominates. Marks as time-sensitive because 2024-26 advances in long context and native retrieval training may eventually obsolete pieces of this critique.

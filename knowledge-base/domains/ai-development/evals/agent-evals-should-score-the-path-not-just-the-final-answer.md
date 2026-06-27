@@ -48,7 +48,6 @@ stance: >-
   should measure how much work the agent needed to succeed, because final-answer
   pass rates hide API friction, stale docs, and expensive detours.
 related:
-  - INS-260410-4EB9
   - INS-260625-0E60
   - INS-260626-1673
   - INS-260626-3105

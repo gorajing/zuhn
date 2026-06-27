@@ -1,5 +1,6 @@
 # Tag: interfaces
 
+- `INS-260627-00E9` The second trapped-ion platform test validates the ARTIQ/MCP/safety-filter interface, while explicitly not claiming full closed-loop physical calibration.
 - `INS-260322-4090` Voice uniquely carries emotional information that text and images cannot — making it the AI modality most capable of creating genuine human connection and feeling.
 - `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
 - `INS-260627-F9F3` Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.

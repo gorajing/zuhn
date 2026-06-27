@@ -46,11 +46,11 @@ stance: >-
   single line of code actually produces faster product-market fit than the
   common approach of building quickly and iterating.
 related:
-  - INS-260323-2726
+  - INS-260627-8CFF
   - INS-260330-2B45
   - INS-260323-E15F
   - INS-260410-8767
-  - PRI-260406-9FA8
+  - INS-260323-2726
   - INS-260403-558D
 evidence:
   - id: INS-260329-B408

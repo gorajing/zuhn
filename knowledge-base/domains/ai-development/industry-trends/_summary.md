@@ -1,6 +1,6 @@
 # Topic: industry-trends
 
-> 24 insights
+> 25 insights
 
 - `INS-260409-A11F` [high] Frontier AI compute is only economically viable because its environmental and public health costs are externalized onto vulnerable communities that never consented to host the infrastructure.
 - `INS-260410-6290` [high] Human corporations can't clone themselves because they're made of people, which is why they age and die — AI firms built from copyable code will compound like eukaryotic life over prokaryotic bacteria.
@@ -17,6 +17,7 @@
 - `INS-260405-2DCC` [medium] Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260405-1054` [medium] xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260410-D0F5` [medium] AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.
+- `INS-260627-B44E` [medium] Adding a durability layer to otherwise non-durable agent SDKs is becoming a repeatable, popular integration pattern across the ecosystem.
 - `INS-260405-285D` [medium] Mistral raised €600M at a €5.8bn valuation from DST Global and General Catalyst despite a 50% contraction in active European VCs.
 - `INS-260605-B9B5` [medium] BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing.
 - `INS-260514-7C33` [medium] Marketing automation tools (HubSpot, Marketo, Salesforce sequencer) decay in agentic world. Agents don't need human-composing templates — they compose directly. Software whose reason to exist was 'make humans more efficient at X' obsoletes when AI does X.

@@ -57,6 +57,7 @@ related:
   - INS-260329-22B6
   - INS-260328-B57E
   - INS-260625-4078
+  - INS-260627-0723
 ---
 Fiorucci recommends watching logs and plots early to catch out-of-memory errors and instability, but once a run is clearly going well, to stop staring at the plots and 'go for a walk.' RL is slow and takes time to show progress; continual monitoring creates the temptation to stop and tweak prematurely, while a slowly progressing run can turn out surprisingly well given enough time.
 

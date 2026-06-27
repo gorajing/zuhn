@@ -53,8 +53,8 @@ stance: >-
 related:
   - INS-260605-A2AD
   - INS-260605-159E
+  - INS-260627-0A69
   - INS-260524-D5DB
   - INS-260501-3502
-  - INS-260410-85AD
 ---
 The speaker started by fixing context operationally — assign a work item, the agent fails, then fill context in real time — and found it intolerably slow and patience-draining; nobody will sit with an agent per incident. The better move is to fix context before retrieval: scope down to the smallest team (its Jira tickets, incidents, and Confluence pages), then run an automated context-gap scanner across that team's archived work items to produce a prioritized Kanban board of what's missing, classified critical/high/medium and tagged clean/stale/incomplete/missing/tribal. A good domain expert can then repair 60-80% of the documentation in a couple of weeks. Two enabling facts make this practical: per-domain context averages ~96K tokens, which fits a single context window (often outperforming graph RAG at that scale), and the scan is cheap enough to run repeatedly. Critically, scope is the binding constraint — at enterprise or even full-domain scale no single person holds the expertise, so the approach only works drilled down to a small team where one expert can actually fill the gaps.

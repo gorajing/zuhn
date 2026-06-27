@@ -65,7 +65,7 @@ related:
   - INS-260625-6127
   - INS-260625-A281
   - INS-260605-83DA
-  - INS-260625-25AC
+  - INS-260627-FEB4
   - INS-260626-9BC5
 ---
 Once you accept that the log is the agent, the strongest form of lock-in is not model lock-in (models can be swapped) or API/tool lock-in (those can be wrapped and adapted) — it is log lock-in. The model is replaceable, the runtime is replaceable, the machines are replaceable; the log is the thing that persists, and it is the valuable part. If a provider owns your log, the provider owns your agent.

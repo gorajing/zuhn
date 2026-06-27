@@ -50,11 +50,10 @@ stance: >-
   and CLIs, tool-search, and code mode are interchangeable implementations of
   that one principle.
 related:
-  - INS-260514-1D60
   - INS-260605-9F7A
   - INS-260602-EA48
   - INS-260626-181F
+  - INS-260627-CECD
   - INS-260403-7D7A
-  - INS-260403-643A
 ---
 The online 'MCP vs CLI' and 'is MCP dead' debates dissolve once you see all three approaches as implementations of progressive disclosure. CLIs let the agent introspect commands via --help and call them, which works and is popular (e.g. with coding agents) but requires shell access — the binding constraint. Tool-search (used by Claude Code) keyword-matches the user request and injects only the top-K (~8) relevant tools into context; you still carry some unused tokens (~2,100 loaded, ~500 used) but coverage stays bounded. Code mode generates code against a typed SDK and needs an isolate to run safely. None requires dumping the full catalog. The practical guidance: pick by your constraints — shell availability, client sophistication, and whether you can host an isolate — rather than treating these as competing ideologies. The invariant across all of them is: surface capabilities lazily, scoped to the current task.

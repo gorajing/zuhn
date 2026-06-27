@@ -57,7 +57,7 @@ related:
   - INS-260626-7DD4
   - INS-260626-2447
   - INS-260519-20E0
-  - INS-260327-4CB3
+  - INS-260627-E831
   - INS-260626-4393
 ---
 Casas warns that 'floating windows' is the too-obvious future, the equivalent of early TV being radio shows with cameras pointed at them — we lack the imagination for the genuinely new medium, and we're still in its 'radio era.' His bet is that the future moves beyond components toward human-agent collaboration on a shared artifact.

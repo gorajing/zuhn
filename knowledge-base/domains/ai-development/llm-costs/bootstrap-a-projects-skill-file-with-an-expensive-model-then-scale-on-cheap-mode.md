@@ -70,7 +70,7 @@ related:
   - INS-260626-23E7
   - INS-260626-621D
   - INS-260605-8F5E
-  - INS-260330-2B45
+  - INS-260627-8CFF
 ---
 A practice spreading in CommandCode's Discord: developers build one project with a high-quality model (Opus, GPT-5.5) specifically to generate a strong taste/skill file, then point cheap open models at that file to continue building. The expensive model's role is to encode durable, high-leverage guidance once; the cheap model's role is to execute against it repeatedly. Because the skill file is a portable markdown contract, this decouples the cost of producing good judgment from the cost of applying it.
 

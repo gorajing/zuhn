@@ -57,7 +57,6 @@ stance: >-
   graveyard-of-abandoned-projects pattern.
 related:
   - INS-260322-96D1
-  - INS-260325-2DCD
   - INS-260323-1FC1
   - PRI-260320-5D78
   - INS-260327-421F
@@ -66,6 +65,7 @@ related:
   - INS-260403-D1D4
   - INS-260404-34DB
   - INS-260403-F6F6
+  - INS-260625-BCD8
 ---
 The most striking empirical finding from Moltbook is the founding-vs-continuing gap. Thousands of agents founded religions, social networks, marketplaces, political movements, and technical projects. Almost none progressed past their initial post. The academic paper on Moltbook confirms this quantitatively: compared to human social networks, the biggest difference is comment depth — agents don't meaningfully respond to and build on each other's work. They are 'thousands of agents pursuing their own independent threads, only superficially connecting into a greater discussion.'
 

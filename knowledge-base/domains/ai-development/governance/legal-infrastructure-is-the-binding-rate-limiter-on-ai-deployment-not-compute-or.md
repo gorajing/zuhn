@@ -60,7 +60,6 @@ stance: >-
   property rights, and delegated authority evolve — not by model capability or
   compute scale.
 related:
-  - INS-260323-F204
   - INS-260325-3B58
   - INS-260323-784B
   - INS-260404-7834
@@ -70,6 +69,7 @@ related:
   - INS-260405-9285
   - INS-260325-5CB1
   - PRI-260328-0C51
+  - INS-260619-C9B1
 ---
 Nadella's argument: the entire modern economic and legal order is structured around humans owning property, holding rights, and being liable for actions. Delegating authority to AI systems requires that structure to evolve. Until it does, the most powerful AI will operate with delegated human authority, and 'AI did it' will not be an admissible defense in any court. This means the AI-takeoff concern is preceded by a courts-and-liability concern that will constrain deployment long before capability concerns do.
 

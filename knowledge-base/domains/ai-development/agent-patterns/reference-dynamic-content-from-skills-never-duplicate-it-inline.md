@@ -56,7 +56,7 @@ related:
   - INS-260329-9CFE
   - INS-260409-60C2
   - INS-260410-F985
-  - INS-260605-205E
+  - INS-260627-C112
 ---
 There is strong pull from both internal developers and community contributors to stuff a skill full of context — it feels like a fast local cache of the docs, immediately available to the agent. Klingen warns this recreates the exact failure that motivated skills in the first place: the embedded content goes out of date, and now you maintain two diverging representations of what the product is (the real docs and the skill's copy).
 

@@ -53,7 +53,6 @@ stance: >-
   attackers have unlimited rephrasing attempts while defenders must anticipate
   all possible framings
 related:
-  - INS-260320-B8B0
   - INS-260330-1A23
   - INS-260330-4E68
   - INS-260403-FF74

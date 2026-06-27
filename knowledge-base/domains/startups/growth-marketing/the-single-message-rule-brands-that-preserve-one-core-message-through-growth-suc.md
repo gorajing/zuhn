@@ -55,7 +55,6 @@ related:
   - INS-260603-46AE
   - INS-260403-7D5B
   - INS-260405-8BEA
-  - INS-260327-9838
 stance: >-
   Less than 10% of brands succeed, and the common factor among those that do is
   preserving a single undiluted brand message through every stage of or...

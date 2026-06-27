@@ -58,7 +58,7 @@ related:
   - INS-260605-672C
   - PRI-260320-07A4
   - INS-260605-83DA
-  - PRI-260407-D1AD
+  - INS-260627-3963
   - INS-260626-8308
 ---
 The harness approach is admittedly context-heavy — Cichra notes you 'can run out of half of the context just starting the research.' But he reports no fear of context compaction: over the last half year, sessions with 20-50 compactions work fine 'because the important things survive and the agent will always look them up again.'

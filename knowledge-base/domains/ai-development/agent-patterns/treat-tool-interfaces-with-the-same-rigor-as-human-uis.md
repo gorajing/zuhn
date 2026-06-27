@@ -52,13 +52,13 @@ stance: >-
 related:
   - PRI-260411-64C7
   - INS-260519-20E0
+  - INS-260627-FEB4
   - INS-260625-23CF
   - INS-260413-AD37
-  - INS-260605-8D12
   - INS-260410-85AD
   - INS-260605-D912
-  - INS-260605-4AB0
   - INS-260605-7CEB
+  - INS-260605-8D12
   - INS-260627-1CF9
 ---
 When building their SWE-bench coding agent, the Anthropic team spent more time optimizing tool definitions than the overall prompt. Tools are how the agent actually acts on the world, and models struggle with formats that require counting lines (like diffs with chunk headers) or escaping quotes (like code inside JSON). Formats that look close to what the model saw on the open internet work best.

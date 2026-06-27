@@ -53,10 +53,10 @@ stance: >-
   stored in the OS keychain, never written to plaintext JSON.
 related:
   - INS-260329-1277
+  - INS-260627-8DF1
   - INS-260329-67CB
   - INS-260329-3423
   - PRI-260403-9E80
-  - INS-260329-2FB8
 ---
 The manifest lets extension developers declare user_config fields with types (string, directory, number) and a 'sensitive' boolean. When marked sensitive, Claude Desktop routes the value into the macOS/Windows keychain and only injects it at runtime via template literal substitution (${user_config.api_key}).
 

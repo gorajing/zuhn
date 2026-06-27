@@ -45,9 +45,9 @@ stance: >-
   data and services.
 related:
   - INS-260404-6B73
+  - INS-260627-AA29
   - INS-260605-D33F
   - INS-260409-E776
   - INS-260410-4696
-  - INS-260405-82F3
 ---
 The CEO of Z Venture Capital (LINE-Yahoo's CVC), a longtime Naver and LINE CFO, recounts Naver concluding it could fund its own LLM (Clover) up to ~1 trillion KRW but not the 10-100 trillion the frontier now demands — so competing on the model is meaningless, especially as foreign LLMs began handling Korean well. The strategy: keep your services, integrate the best available models, and defend with proprietary data and user base. Strong firsthand corroboration of the KB principle that AI value accrues to workflow/context owners, not model builders.

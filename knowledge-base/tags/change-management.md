@@ -15,9 +15,9 @@
 - `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
 - `INS-260403-97F5` When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-F590` The time required for business model change is driven by organizational readiness, not by how radical the change is.
-- `INS-260625-286E` A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
 - `INS-260605-BA63` A 'big enough stick from ministers' lets you in the door, but breaking silos and shipping is far harder than outsiders assume — otherwise everyone would do it.
 - `INS-260603-E224` William Santana Lee: 'the gap is humans. Humans don't want to change. Large organizations don't want to change.' You can't drop an agent on a Fortune 1000 process designed around humans and expect legal/purchasing/finance/accounting to sign off — only companies where the CEO can redesign the org around the agent will pull it off.
+- `INS-260625-286E` A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
 - `INS-260626-1745` Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 - `INS-260323-7D01` Leaders should shape the belief systems of employees, board, partners, and customers gradually over months so that by the time a major strategic decision is announced, it feels obvious and inevitable rather than shocking.
 - `INS-260605-B7A2` Rather than reform a slow institution wholesale, create a small central unit operating under different rules (autonomy, market pay, own hiring) as a proof point.

@@ -57,12 +57,12 @@ related:
   - INS-260327-DECA
   - INS-260409-2CCA
   - INS-260410-56B4
-  - INS-260410-5951
-  - INS-260625-407C
   - INS-260625-6042
   - INS-260626-D8AE
   - INS-260626-B7AC
   - INS-260323-3F39
+  - INS-260410-5951
+  - INS-260627-AA29
 ---
 In the experiment, a small open model (LFM-2) that could barely beat a random tic-tac-toe player was turned, via an SFT warm-up plus a few minutes of RL on a single GPU, into a player that dominates random opponents, draws 85% against an optimal minimax opponent, and beats GPT-5 mini — the very teacher model used to generate its synthetic warm-up data — against an optimal opponent. The whole pipeline ran on modest hardware in minutes.
 

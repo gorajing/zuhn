@@ -57,6 +57,6 @@ related:
   - INS-260626-A05F
   - INS-260627-B416
   - INS-260626-BC79
-  - INS-260605-35B4
+  - INS-260627-FEB4
 ---
 The managed BigQuery MCP server exposes read-only tools (which block all DML/DDL so an agent can't unintentionally modify data) and a separate read-write tool — but the key governance move is that, because the server integrates with platform IAM, a data administrator can attach an IAM deny policy on the read-write tools. The presenter's framing is the principle: 'you don't have to depend upon your agent developer to make the right choice — you as a data owner can protect it from your project.' This is least-privilege relocated to the layer that actually owns the risk. Two transferable rules follow. (1) Default the agent to a read-only capability set and make write a deliberately granted, separately-scoped surface. (2) Put the kill switch where the data owner sits (infrastructure/identity), not where the agent author sits (application code), because the person who bears the blast radius should hold the control, and IAM denies are auditable and centrally enforceable in a way that code review is not. Carrefour reinforces the same theme from the authentication side: queries run under the end user's OAuth credentials, never the agent's identity, so the agent can only ever touch data that specific user is already authorized to see.

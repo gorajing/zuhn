@@ -59,6 +59,7 @@ related:
   - INS-260605-BAB5
   - INS-260410-CDDD
   - INS-260605-2D9F
+  - INS-260627-8C56
 ---
 Platforms like Zapier, Microsoft Power Automate, and ChatGPT integrations have abstracted away the engineering complexity of AI agent deployment. A business operator can now wire a customer complaint to an auto-created Jira ticket, or connect a WhatsApp message to an LLM response, without writing code. This represents a genuine shift in who can own AI agent strategy inside an organization.
 

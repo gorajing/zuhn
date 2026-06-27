@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 26 insights
+> 27 insights
 
 - `INS-260605-71E7` [high] DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260514-13B6` [high] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
@@ -21,6 +21,7 @@
 - `INS-260514-7B5B` [high] Perception is controlled hallucination — your brain generates the world top-down from predictions, sensory data only corrects errors. The vivid world you 'see' is overwhelmingly your simulation constrained by tiny incoming data.
 - `INS-260330-8AE8` [high] At near-light-speed, Earth would be genuinely flattened by Lorentz contraction — not an illusion but a real physical consequence of the observer's reference frame.
 - `INS-260330-D63D` [high] At near-light speeds, Lorentz contraction literally flattens Earth into a disc, demonstrating that 'objective shape' depends on the observer's reference frame — a physical fact, not mere perspective.
+- `INS-260627-6757` [high] Humans discover once and iterate cheaply with vast context; agents re-discover every session, treat iteration as the enemy, and have a ~200k-token working memory — so interfaces built for one are wrong for the other.
 - `INS-260627-79F6` [high] Model the agent as a fast, well-read, confidently-wrong junior dev that has breadth of knowledge but zero judgment about your context.
 - `INS-260514-BD41` [high] Leonard Suskin's point: you can know everything about an entangled system and still know nothing about its individual components. Reductionism fails when parts are deeply relational.
 - `INS-260605-1C4E` [medium] Treat structure as a viewing choice: the same content can be projected into markdown, graphs, clusters, folders, or timelines depending on what you need, so pick multiple representations deliberately.

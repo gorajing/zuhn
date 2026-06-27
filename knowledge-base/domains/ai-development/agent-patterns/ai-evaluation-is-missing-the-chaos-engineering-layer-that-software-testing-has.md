@@ -49,11 +49,11 @@ stance: >-
   observability layer that mature software engineering uses to discover failure
   modes.
 related:
+  - INS-260627-E257
   - INS-260409-BF3F
   - PRI-260412-96C1
   - PRI-260323-9D46
   - INS-260330-1F25
-  - INS-260605-4FE3
 ---
 Software engineering does not stop at unit tests and CI/CD; it adds chaos engineering — deliberately breaking things and stretching the system to discover where it fails — plus continuous observability. AI evaluation, by contrast, hyper-fixates on static benchmarks and offline test cycles, then accumulates ever-larger datasets to try to explain agent behavior, right up until something goes wrong (which it inevitably will).
 

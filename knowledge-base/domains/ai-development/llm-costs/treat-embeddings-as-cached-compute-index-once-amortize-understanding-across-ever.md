@@ -59,6 +59,6 @@ related:
   - INS-260605-5159
   - PRI-260406-8B75
   - INS-260329-4842
-  - INS-260323-6761
+  - INS-260627-6757
 ---
 Turbopuffer's framing is that embeddings and semantic search are a form of cached compute, and the clearest way to see it is to compare two agent traces. A Claude-Code-style trace does per-session discovery: to answer 'how does metadata filtering work,' it must grep, read, assess, and repeat until it reaches a satisfied state. Ten agents, ten developers, ten days asking the same question means ten full re-derivations — and what looks like 6,000 tokens is just one sub-step of one agent. A Cursor-style trace pays an upfront cost to parse, chunk, and embed the codebase once, then answers the same query at runtime with a lightweight semantic lookup. The upfront indexing is the cache write; every subsequent retrieval is a cache hit that saves tokens, time, and money. This is why teams that were heavy Claude Code users report switching to Cursor for speed — not because grep is wrong, but because re-deriving context every session is uncached compute. The decision rule: when the same corpus is queried repeatedly across sessions and people, pay to index; when it's a one-off, grep is fine.

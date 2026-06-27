@@ -11,9 +11,10 @@
 - `INS-260627-0691` The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project.
 - `INS-260405-A22F` Vera Rubin delivers up to 10x lower inference token cost and 4x fewer GPUs for MoE training compared to Blackwell, entering production in H2 2026.
 - `INS-260625-5BF4` Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect.
+- `INS-260403-F4C7` Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 - `INS-260625-C08B` Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
 - `INS-260605-4788` Smaller models unlock three production gates at once — affordable cost at scale, sub-third-second latency, and ownership of data and solution.
-- `INS-260403-F4C7` Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 - `INS-260627-54A4` These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up.
 - `INS-260626-43A1` The paper's cost analysis finds localized update/search regimes more cost-efficient than graph-wide consolidation or whole-memory rewriting.
+- `INS-260627-D61C` Prototype agent tasks with polling, but switch to webhooks before you scale — holding workers open to poll dozens of multi-minute tasks is the part that breaks.
 - `INS-260625-8A55` Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.

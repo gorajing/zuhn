@@ -52,7 +52,7 @@ related:
   - INS-260605-0374
   - INS-260626-ECA6
   - INS-260605-34B0
-  - INS-260605-0C56
+  - INS-260627-6C9A
   - INS-260626-57BA
 ---
 The GitHub Copilot app's BYOK support turns provider choice into an explicit runtime boundary. The same agent shell can now run against Copilot-hosted models, customer Azure/OpenAI/Anthropic/Microsoft Foundry endpoints, local LM Studio or Ollama, or any OpenAI-compatible gateway. That lets enterprises keep inference traffic inside their tenant or internal gateway while retaining the Copilot workflow surface.

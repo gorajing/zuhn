@@ -47,7 +47,6 @@ related:
   - INS-260330-E082
   - INS-260321-3808
   - PRI-260406-E48F
-  - INS-260403-24DB
 stance: Becoming a hegemonic power requires other nations to voluntarily follow
 evidence:
   - id: INS-260323-636C

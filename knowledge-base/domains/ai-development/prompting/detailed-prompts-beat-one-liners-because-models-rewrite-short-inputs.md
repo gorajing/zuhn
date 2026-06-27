@@ -45,10 +45,10 @@ related:
   - INS-260403-31E4
   - INS-260409-1812
   - INS-260514-5389
-  - INS-260514-AC43
   - INS-260519-ED17
   - INS-260605-D659
-  - INS-260605-7125
+  - INS-260514-AC43
   - INS-260605-6752
+  - INS-260625-B09C
 ---
 Vernade notes that Gen Media models 'always' do a bit of internal rewriting of your prompt before generating, because a one-liner gives the model nothing interesting to work with. The model fills the gap with its own assumptions. The longer and more specific your prompt, the less the model improvises and the more closely the output follows your intent. This inverts the intuition that short prompts are cleaner — under the hood, brevity hands control to the model's prior. For production media generation, invest in verbose, structured prompts (style, composition, character descriptions) and treat prompt length as a controllability lever, not noise.

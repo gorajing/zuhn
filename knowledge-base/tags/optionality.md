@@ -16,11 +16,11 @@
 - `INS-260501-9CD4` Find win-wins. Preserve relationships, egos, emotions. Listen more, talk less. Don't blow yourself up doing something stupid. Optionality compounds.
 - `INS-260410-DAB6` Berkshire ended 2025 with $370B+ in cash and Treasuries as 'dry powder' — explicitly reserved to 'allow us to act decisively, invest when others are tentative or fearful, and stand firm when financial storms roll through.'
 - `INS-260326-841D` Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
-- `INS-260403-0406` Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - `INS-260330-9751` Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
 - `INS-260403-7B93` Choosing the door-opening option 80% of the time creates 292 chances for serendipity per year versus 73 for comfort-seekers.
 - `INS-260412-B172` Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
 - `INS-260403-144A` Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
-- `INS-260403-B374` A high valuation forces founders to hit unrealistic targets and removes the ability to call a strong outcome a win.
+- `INS-260403-0406` Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - `INS-260403-81D4` You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
+- `INS-260403-B374` A high valuation forces founders to hit unrealistic targets and removes the ability to call a strong outcome a win.
 - `INS-260403-F4C9` In periods of radical technological uncertainty, optimize for strategies that work across all scenarios rather than betting on a specific prediction.

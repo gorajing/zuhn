@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260409-DBCF
   - INS-260409-05F8
+  - INS-260627-9068
   - INS-260625-06B3
   - INS-260409-B13F
   - INS-260626-EB91
-  - INS-260410-B282
 ---
 In traditional software everything mapped to booleans, flags, or enums you could check — a user profile field was 'Celsius' or 'Fahrenheit', a plan was 'approve' or 'deny'. That model can't capture semantic nuance. A deep-research agent returning a plan lets the user approve it AND simultaneously add steering ('focus on the US market but ignore California') in one natural-language turn, instead of forcing a decline-revise-resubmit loop.
 

@@ -48,11 +48,11 @@ stance: >-
   contractual promises (SLAs) — the delta between them is the error budget that
   funds all experimentation and deployment risk.
 related:
+  - INS-260627-E257
   - INS-260403-77F4
   - INS-260403-5A88
   - PRI-260406-91C2
   - INS-260409-BF3F
-  - INS-260403-ABB7
 evidence:
   - id: INS-260325-3B58
     type: TRANSFERS_TO

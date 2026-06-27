@@ -50,9 +50,9 @@ stance: >-
   agents can call them reliably.
 related:
   - INS-260323-7424
-  - INS-260423-8504
   - INS-260603-6FE3
   - INS-260605-E706
+  - INS-260627-214C
   - INS-260625-B985
   - PRI-260405-3080
 ---

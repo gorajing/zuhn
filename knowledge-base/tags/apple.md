@@ -6,8 +6,8 @@
 - `INS-260412-5768` Intel evaluated the iPhone deal against current mobile chip margins rather than the trajectory of mobile performance converging with desktop, a systematic error incumbents repeatedly make.
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
-- `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260404-B863` Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
+- `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260412-3506` Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
 - `INS-260412-AB09` Intel CEO Paul Otellini rejected the iPhone chip deal because mobile margins seemed too thin, inadvertently funding Apple's path to replacing Intel entirely.
 - `INS-260330-8326` Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.

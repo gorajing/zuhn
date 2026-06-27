@@ -44,10 +44,10 @@ stance: >-
   consumers are willing to pay.
 related:
   - INS-260409-0846
+  - INS-260627-AA29
   - INS-260625-00D5
   - INS-260625-407C
   - INS-260605-0436
-  - INS-260605-2284
 ---
 The speaker described monthly frontier-model bills that did not match consumer pricing once agents started running for hours as customer applications grew more complex. Their response was to use rented GPUs, open-source models, task-specific tuning, routers, and prebuilt modules so expensive intelligence is used only where it changes the outcome.
 

@@ -41,11 +41,11 @@ stance: >-
   queues, workers, scaling logic, retries, and state management with a small
   code annotation around the core loop.
 related:
+  - INS-260627-AA19
   - INS-260410-0E26
   - INS-260327-B9AD
   - INS-260403-EDA1
   - INS-260627-9968
-  - INS-260619-90F6
   - INS-260625-77F8
 ---
 The demo described an internal data-science analytics agent that would normally require a web service, background workers, queues, scaling logic, retries, and state handling. Render Workflows replaced that stack with a workflow service activated by a decorator around the agent loop.

@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260625-6127
   - INS-260627-95CF
+  - INS-260627-3963
   - INS-260619-16EF
   - INS-260625-F3B0
-  - INS-260530-D34F
 ---
 STAGE-Claw's core move is to evaluate agents inside realistic operating environments and grade correctness of final system state through verification programs. This directly addresses the weakness of static artifact benchmarks: they can reward a plausible answer while missing whether files, settings, messages, or records were actually changed correctly.
 

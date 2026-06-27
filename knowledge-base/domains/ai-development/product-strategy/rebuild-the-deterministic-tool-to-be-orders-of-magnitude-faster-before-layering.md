@@ -64,8 +64,8 @@ related:
   - INS-260605-90FB
   - INS-260625-20D7
   - PRI-260328-49CB
+  - INS-260627-8CFF
   - PRI-260406-CBAC
-  - PRI-260406-8FDF
 ---
 Recursive's stated approach is to first redesign existing EDA tools to run 100,000x faster, then expose them to AI, because 'our AIs really like fast iteration loops and they can just exponentially learn more.' Their static timing analysis (STA) engine correlates with commercial tools at high fidelity but runs ~1,000x faster, which turns a once-a-day feedback signal into something an RL outer loop can call thousands of times.
 

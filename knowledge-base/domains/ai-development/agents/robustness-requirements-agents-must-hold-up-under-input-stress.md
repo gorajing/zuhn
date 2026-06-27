@@ -47,11 +47,11 @@ stance: >-
   Passing the test set is not enough; an agent spec must define how much input
   perturbation it tolerates.
 related:
+  - INS-260627-8B75
   - INS-260625-DA23
   - INS-260411-7232
   - INS-260505-5A06
   - INS-260403-EA93
-  - INS-260411-F649
 ---
 Willmott carries a discipline from formal verification of vision models into agents. For a vision model you ask: can it detect the runway at sunset, in fog, with camera shake — and how much degradation before it fails? The analogous question for a customer-facing agent: do typos disrupt it, how many, how does it behave under rephrasing, how stable are results under small changes to the input.
 

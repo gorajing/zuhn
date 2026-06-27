@@ -3,6 +3,7 @@
 - `INS-260625-A99C` An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-0148` Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260626-F694` Open user prompts give breadth no condensed benchmark can match, a 'both bad' vote captures absolute (not just relative) quality, and the benchmark never saturates because there's always a better possible answer.
+- `INS-260627-6FE0` Don't let eval-building block you — ship something scrappy, start with a binary good/bad gate, then decompose into granular continuous criteria as you learn what 'good' means.
 - `INS-260625-76E9` Monitoring benchmarks should disclose and vary waiting primitives because they change measured reliability.
 - `INS-260625-14F9` Separate context discovery from patch generation when diagnosing coding-agent reliability.
 - `INS-260625-722D` Raw judge agreement is a weak certificate unless chance and bias are accounted for.

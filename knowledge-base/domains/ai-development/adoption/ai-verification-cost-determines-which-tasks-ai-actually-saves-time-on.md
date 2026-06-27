@@ -53,6 +53,7 @@ related:
   - INS-260627-109F
   - INS-260403-5953
   - INS-260410-9A20
+  - INS-260627-DC30
 stance: AI only saves time when verification is cheaper than doing the task manually
 evidence:
   - id: INS-260329-6E0F

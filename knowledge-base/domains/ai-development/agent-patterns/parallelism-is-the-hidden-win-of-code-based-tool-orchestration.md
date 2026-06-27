@@ -50,11 +50,11 @@ stance: >-
   The biggest latency gains from code-driven tool calling come from parallel
   execution, not just fewer inference passes.
 related:
+  - INS-260627-CC45
   - INS-260410-1030
   - INS-260626-AC8E
   - INS-260627-9968
   - INS-260403-08D7
-  - INS-260605-C132
   - INS-260514-E481
   - INS-260605-C965
 ---

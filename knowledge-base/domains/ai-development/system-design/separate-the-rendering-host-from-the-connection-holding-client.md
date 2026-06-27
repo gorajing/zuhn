@@ -55,8 +55,8 @@ related:
   - INS-260605-1821
   - INS-260605-743D
   - INS-260605-48CA
+  - INS-260627-ADB1
   - INS-260625-2439
-  - INS-260605-0A68
 ---
 In MCP apps the roles are deliberately split: the server returns tool results plus a resource reference pointing to stored HTML; the host (VS Code) fetches that HTML and renders it in a sandboxed iframe; and a separate client (GitHub Copilot) maintains the one-to-one connection to the server. Crucially, it is the host — not the client — that does the rendering, while the rendered app calls back to the server for fresh data.
 

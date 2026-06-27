@@ -57,12 +57,11 @@ related:
   - INS-260327-63B5
   - INS-260405-82DD
   - INS-260409-7C48
-  - INS-260605-0C88
   - INS-260605-5EE0
-  - INS-260625-CBC7
   - INS-260626-DD33
   - INS-260605-9276
-  - INS-260605-74CC
+  - INS-260627-FEB4
+  - INS-260605-0C88
   - INS-260626-C563
 ---
 tldraw hit the limits of safe sandboxing — agents needed the DOM and browser to see state and generate screenshots, which a sandbox can't provide — so Ruiz instead shipped a local Electron app that opens an HTTP endpoint and runs any posted JavaScript as code. He's blunt that this is 'a terrible idea' for a networked app, but for an offline, file-based desktop app the worst case is 'you could hurt yourself.' The agents have no qualms doing script injection or even modifying other desktop apps' minified bundles, and that maximal agency is exactly what makes them powerful.

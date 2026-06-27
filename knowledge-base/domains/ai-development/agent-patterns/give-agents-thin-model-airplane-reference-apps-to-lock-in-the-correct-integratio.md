@@ -54,7 +54,6 @@ stance: >-
   real app but none of the production weight makes agents complete the correct
   integration pattern consistently.
 related:
-  - INS-260410-85AD
   - INS-260410-992A
   - INS-260424-273F
   - INS-260501-F258
@@ -64,6 +63,7 @@ related:
   - INS-260605-34B0
   - INS-260605-7B06
   - INS-260625-A7AD
+  - INS-260625-02A3
 ---
 Models were trained on countless projects of varying architecture quality, so an agent's own conception of how to assemble an integration is often workable but not ideal. PostHog counters this with 'model airplanes': reference projects implementing PostHog across many frameworks and languages, but deliberately thin — the auth, for example, accepts any password and logs you in. It is auth-shaped without being real auth.
 

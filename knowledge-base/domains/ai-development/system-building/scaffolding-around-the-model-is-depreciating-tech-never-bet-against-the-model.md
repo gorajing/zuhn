@@ -52,10 +52,10 @@ stance: >-
   model release will largely make redundant.
 related:
   - INS-260605-44E5
+  - INS-260627-E257
   - INS-260321-B7CB
   - INS-260605-3AE6
   - PRI-260403-5FC4
-  - PRI-260328-4CC0
 ---
 Anthropic frames the Claude Code team's central tradeoff as the bitter lesson (Rich Sutton's essay is literally framed on their wall): the more general model will always beat the more specific one, so never bet against the model. Any code that isn't the model itself — Cherny calls it 'scaffolding' — can lift performance maybe 10-20% in a given domain, but that gain is typically erased by the next model, which gets you the capability 'for free.'
 

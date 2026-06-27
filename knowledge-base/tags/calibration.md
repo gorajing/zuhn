@@ -5,10 +5,10 @@
 - `INS-260627-21FF` A generic judge that could detect your agent's hallucinations would imply the app already worked — eval metrics must come from the specific business use case, defined by subject-matter experts, not pulled from a library.
 - `INS-260605-8789` Two experts grading the same output against the same rubric often agree only 20-30% of the time, so a judge hitting 0.4 agreement with you is doing 'really, really well.'
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
-- `INS-260403-7EA1` An AI system ranked 4th out of nearly 500 human forecasters on Polymarket by using disciplined data sourcing and calibrated uncertainty.
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
-- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
+- `INS-260403-7EA1` An AI system ranked 4th out of nearly 500 human forecasters on Polymarket by using disciplined data sourcing and calibrated uncertainty.
 - `INS-260403-E5D4` Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
+- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - `INS-260404-D122` Neuralink requires ~20-minute personalized calibration per user because neural firing patterns for identical intended movements vary significantly between individuals.
 - `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
@@ -30,7 +30,7 @@
 - `INS-260405-81B4` Immersing yourself in the early histories of great work trains you to recognize the pattern and neutralizes premature abandonment.
 - `INS-260409-0250` A galaxy hosting a rapidly accreting black hole can look identical in brightness to a galaxy with 10x more stars, because friction-heated infalling gas radiates light that is indistinguishable from starlight at JWST resolution from billions of light years away.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
-- `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260330-BF96` Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
+- `INS-260409-81CB` The most valuable AI insight for you personally is whichever side you're currently not considering — deliberately steelman the counter to your default position.
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260619-8660` The frontier is moving fast enough that credible AI investing requires personal tool use, not just portfolio updates.

@@ -63,7 +63,7 @@ related:
   - INS-260605-B4B9
   - INS-260625-BCD8
   - INS-260626-F14C
-  - INS-260530-69DC
   - INS-260605-800F
+  - INS-260605-ACB3
 ---
 The popular framing of agents treats agency as binary: either AI-assists or AI-acts-autonomously. Sequoia's continuum captures more of the operational reality. Tab autocomplete is one AI helping inline. Agentic development is one human directing one agent. Background async agents are humans managing teams of agents asynchronously. Dark factories — Sonia's term — are agents pushing to production without any human review, observed in production at cybersecurity companies. The implication is that 'human in the loop' is not a binary policy but a per-workflow design decision, and the right point on the spectrum depends on consequences-of-failure, guardrail quality, and verifier strength. Workflows with high consequences of failure (legal, medical, financial transactions) sit lower on the spectrum (human review required); workflows with cheap failures and strong verifiers (test generation, internal tooling, cybersecurity scanning) can run higher (no human review). The strategic implication for builders: the appropriate agenticness level for your product is a design surface, not a default; ship products that explicitly support multiple points on the spectrum so customers can move along it as their guardrails mature.

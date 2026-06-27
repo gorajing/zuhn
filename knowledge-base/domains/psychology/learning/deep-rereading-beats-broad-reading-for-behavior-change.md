@@ -44,7 +44,6 @@ stance: >-
   five mediocre books once, because mastery requires the ability to teach the
   material and build personal frameworks around it.
 related:
-  - INS-260327-6E86
   - INS-260329-85E9
   - INS-260330-B91E
   - PRI-260406-ABAA

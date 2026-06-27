@@ -3,8 +3,8 @@
 - `INS-260410-0E26` Start with single LLM calls plus retrieval and examples; add workflow complexity only when a simpler solution measurably fails, and add autonomous agents only when workflows measurably fail.
 - `INS-260605-EBEB` Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
-- `INS-260410-AC0B` DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
 - `INS-260409-3EB3` Most of what local communities and individuals need from software is simple CRUD persisting data over time with basic user authentication and a few API calls — not the industrial-scale complexity of enterprise software that must serve millions, handle conflicting needs, and scale for VC returns.
+- `INS-260410-AC0B` DeepSeek's research taste is visible in how iteratively and transparently they trade off hardware constraints (memory bandwidth vs. flops) for algorithmic structure, producing simple solutions rather than ornamented ones.
 - `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260605-04E7` Don't use the 'power of the gods' just because you have it — models tend toward complexity, so the simplest working version usually wins by 10-100x.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.

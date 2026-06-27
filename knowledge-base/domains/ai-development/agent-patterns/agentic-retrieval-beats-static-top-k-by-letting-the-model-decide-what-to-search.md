@@ -57,7 +57,7 @@ related:
   - INS-260605-F5FB
   - INS-260605-CEB5
   - INS-260605-9F7A
-  - INS-260625-3A20
+  - INS-260627-CECD
 ---
 A traditional RAG generation pipeline embeds the user query once, runs a single nearest-neighbor search over chunks, presents the top-K results to the LLM, and hopes the answer is contained in them and the model is smart enough to extract it. Agentic retrieval inverts the control flow: the user's query is handed to an agent along with instructions and search tools, and the *model* decides what searches to perform, how many, and what to do with the results.
 

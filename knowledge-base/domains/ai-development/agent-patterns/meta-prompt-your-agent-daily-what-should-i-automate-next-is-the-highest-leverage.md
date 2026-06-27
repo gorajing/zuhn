@@ -57,11 +57,11 @@ stance: >-
   user habit is to meta-prompt daily: 'what's one task I'm doing repeatedly that
   I should set up as a cron job?'
 related:
+  - INS-260627-3963
   - INS-260605-0AD6
   - INS-260619-B1A8
   - INS-260410-1030
   - INS-260605-46A8
-  - INS-260625-6E19
   - INS-260605-2795
   - INS-260605-6CBF
   - INS-260605-A8A9

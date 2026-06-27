@@ -55,5 +55,6 @@ related:
   - INS-260605-117F
   - INS-260403-7D7A
   - INS-260605-C28F
+  - INS-260627-8DF1
 ---
 Arnaldi deliberately wrote nothing in uppercase during the GPT-5.4 demo: 'GPT gets scared if you scream at it — it's going to de-optimize and then be passive and agree on everything,' which is the opposite of what you want. With Claude, screaming (uppercase) makes it focus on that specific sentence. This breaks the dream of a portable AGENTS.md 'standard' — the way you prompt Claude and the way you prompt GPT genuinely differ. Within a family the differences shrink (GPT 5.2/5.3/5.4 are similar; Opus/Sonnet/Haiku are similar), so his proposed solution is a CLI that asks which model you use and generates context optimized for that family on the spot, rather than shipping off-the-shelf patterns. He also contrasts behavioral defaults: GPT constantly asks for input to continue (good for complex tasks where its slow output is correct), while Opus just acts but sometimes takes shortcuts like stubbing with 'any' to make things compile.

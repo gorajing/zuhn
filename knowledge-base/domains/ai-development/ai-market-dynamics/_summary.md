@@ -1,8 +1,9 @@
 # Topic: ai-market-dynamics
 
-> 190 insights
+> 191 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
+- `INS-260627-8781` [high] Agent operating systems need embedded control before workflow replacement scales.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
 - `INS-260323-B07C` [high] A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
 - `INS-260323-EF23` [high] The booster-doomer debate creates a false spectrum where the only question is whether powerful AI is good or bad — both camps share the unexamined premise that it works.

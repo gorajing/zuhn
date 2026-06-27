@@ -59,9 +59,10 @@ related:
   - INS-260402-BF2E
   - INS-260403-EA93
   - INS-260625-C1E8
+  - INS-260627-B1A4
+  - INS-260627-66D8
   - INS-260626-4075
-  - INS-260603-6B3D
-  - INS-260409-ADD0
+  - INS-260627-00E9
 ---
 A guardrail decision is fundamentally discrimination, and for non-generative tasks encoder models offer a far better performance-per-inference-cost balance than generative LLMs. Bidirectional attention lets an encoder read the entire input in one forward pass and condense it into a CLS token fed to a classification head — ~35ms per check, before any quantization. A ModernBERT fine-tuned on the 75k-example Inject Guard dataset reached ~85% accuracy on held-out benchmarks for under a dollar.
 

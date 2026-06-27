@@ -50,11 +50,11 @@ related:
   - INS-260410-B3C2
   - INS-260501-6A56
   - INS-260514-3B3C
+  - INS-260627-E257
   - INS-260625-2906
+  - INS-260627-6A8B
   - INS-260410-988F
   - INS-260625-0961
-  - INS-260605-D1F0
-  - INS-260625-78EC
   - INS-260626-33BE
 ---
 To deliver real practical value, SWE-rebench reports far more than a single mean resolved metric: tokens per problem and price per problem for economics, tries per problem, and five runs per task to compute confidence intervals. Running each task five times yields two distinct and useful readings — pass@5, where solving a task in at least one run signals the model's potential ceiling, and pass-all-5, where success requires solving it in every run and thus measures reliability. These metrics answer different practitioner questions: a model with high pass@5 but low pass-all-5 is capable but inconsistent, which matters enormously for production where flakiness translates to incidents. A leaderboard that collapses everything to one number forces buyers to conflate capability, reliability, and cost.

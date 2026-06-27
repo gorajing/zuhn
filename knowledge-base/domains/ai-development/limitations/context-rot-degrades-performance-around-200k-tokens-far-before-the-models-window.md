@@ -66,7 +66,6 @@ stance: >-
   budget rather than trusting the million-token window.
 related:
   - INS-260410-761B
-  - INS-260410-796F
   - PRI-260411-9CB1
   - INS-260605-7B4C
   - INS-260625-1CB8

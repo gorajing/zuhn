@@ -1,8 +1,8 @@
 # Tag: moat
 
+- `INS-260605-077D` A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
 - `INS-260409-CBC7` Hassabis predicts the moat is shifting from scale to algorithmic invention — labs without novel-idea capacity will fall behind.
 - `INS-260524-E2C4` Z Venture Capital CEO (ex-Naver/LINE CFO): Naver could chase frontier parity to ~1 trillion won, but at 10-100 trillion it's pointless — keep the service, use others' LLMs, and the foreign models now speak Korean fine anyway.
-- `INS-260605-077D` A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260405-1054` xAI's third data center reaches nearly 2 gigawatts of compute power by co-locating with an acquired power plant, signaling that energy access—not just hardware—is the binding constraint for frontier AI labs.
 - `INS-260403-415E` When your entire product depends on a third-party API, you don't control pricing, uptime, or differentiation—any competitor can clone you in a weekend.

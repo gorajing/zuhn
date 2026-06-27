@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 111 insights
+> 114 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -46,6 +46,7 @@
 - `INS-260404-B1BC` [high] Lisp's nine radical ideas from 1958 gradually became standard features in mainstream languages, proving theoretical purity wins over time.
 - `INS-260605-004A` [high] Merging diarization and STT outputs is hard because their timestamps disagree, STT mistranscribes overlaps, and each can detect speech the other misses — so it needs a real reconciliation layer.
 - `INS-260514-F74B` [high] Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain.
+- `INS-260627-6ACC` [high] Stop building hundred-node classifier DAGs; use a master loop with tool calls, and push the steps that must be deterministic into rigorous tools you can eval and version.
 - `INS-260626-7F55` [high] Cursor's old worktree code made escaping the checkout physically impossible; the markdown skill only asks the model to stay put, so models sometimes wander into the primary checkout.
 - `INS-260605-CFB7` [high] Self-hosting the model, relocating data, moving to on-prem infra, and adding tracing each detonate a distinct class of hidden coupling.
 - `INS-260626-15F3` [high] Use the LLM for understanding and connection-making; for fixed if-this-then-that rules use scripts and skip the model entirely.
@@ -78,6 +79,7 @@
 - `INS-260625-BBB1` [medium] Add attributes to an HTML form and the browser auto-generates the JSON schema; for complex multi-step UI, manually register custom tools with hand-written schemas and execute blocks.
 - `INS-260405-8E85` [medium] Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260626-0B2E` [medium] Per Ousterhout, prefer deep modules (simple interface over rich internals) to many shallow modules: deep modules give one clean test boundary the AI can exercise end-to-end, and you stay oriented by designing the interfaces while treating module internals as delegatable gray boxes.
+- `INS-260627-6C9A` [medium] The agent OS should be modular enough to swap models and workloads.
 - `INS-260626-66DC` [medium] Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks.
 - `INS-260626-9141` [medium] The paper's routing ablations find explicit planning and moderate fusion helpful, while extra reflection does not add gains over planning.
 - `INS-260605-A2AD` [medium] When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.
@@ -101,6 +103,7 @@
 - `INS-260605-C1A4` [medium] Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
 - `INS-260605-EA2E` [medium] Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - `INS-260605-D404` [medium] Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
+- `INS-260627-FDB3` [medium] Default to an automatic router that picks simple-chat vs full-agent by query complexity, while still exposing the tier as an override for callers who want fine-grained control.
 - `INS-260627-EC83` [medium] Don't install the 130-agent template; start with the agents you need and add one only when keeping quality high necessitates the split.
 - `INS-260625-75D6` [medium] Let the host fetch and render UI from a resource reference while a separate client holds the one-to-one server connection.
 - `INS-260605-EF9D` [medium] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.

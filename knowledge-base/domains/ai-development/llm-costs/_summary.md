@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 60 insights
+> 61 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -61,4 +61,5 @@
 - `INS-260625-2906` [medium] Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
 - `INS-260514-CEEA` [medium] Token spend is bimodal: S-tier engineers compound 10-100x; web-dev tier trashes tokens (100k lines where 1k would do). Companies will eventually clamp down on the mediocre tier while expanding access for top engineers.
 - `INS-260605-9B99` [medium] Hyperscaler voice modes run at a loss; for consumer voice apps the LLM is almost free and TTS is the bill that burns the whole fundraise — so a <100M-param CPU TTS removes per-use API cost entirely.
+- `INS-260627-AA29` [medium] When a frontier model works but is too costly at scale, optimize the prompt for a cheaper model to claw performance back before reaching for fine-tuning.
 - `INS-260514-60D5` [low] Imagine humanity reaching the precipice of AI revolution but it fizzles because the models couldn't survive in our atmosphere of money.

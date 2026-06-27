@@ -55,10 +55,9 @@ stance: >-
   interlinked markdown knowledge base—not merely tool and inbox access.
 related:
   - INS-260409-7C62
-  - INS-260409-0D87
   - INS-260524-D5DB
   - INS-260625-3B6D
   - INS-260626-35A9
-  - INS-260625-8A5F
+  - INS-260627-FEB4
 ---
 Radek pinpoints the moment his agent went from helpful to 'running my life' as when he gave it his Obsidian vault: ~3,000 interlinked markdown notes spanning work, personal, tasks, projects, and research, exposed through layered retrieval (normal search, QMD search, plus per-workspace memory). The leverage comes from interlinking and context, not raw access: when he drops a link into an inbox, the agent fetches it, tags it, finds what already exists on that topic, and surfaces forgotten related notes—turning dead Twitter bookmarks into a compounding knowledge graph. He notes this matches Karpathy's viral 'LLM knowledge base' framing. The actionable consequence: tool and email access alone produce a thin assistant; the durable value is created by accumulating your context as plain, interlinked markdown the agent can traverse, because that is what lets it reason proactively about what matters and how things connect. Markdown also matters because it is inspectable and editable—you can read, audit, and fix the agent's substrate by hand.

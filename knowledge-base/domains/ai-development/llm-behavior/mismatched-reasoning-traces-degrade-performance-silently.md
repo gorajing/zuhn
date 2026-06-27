@@ -50,8 +50,8 @@ related:
   - INS-260327-9D50
   - INS-260605-1523
   - INS-260605-A2AD
+  - INS-260627-AA29
   - INS-260605-C0BF
-  - INS-260605-0312
   - INS-260626-14AE
 ---
 Modern reasoning models tie their test-time-compute loop and cache to reasoning traces that must be echoed back in the precise expected format across multi-turn conversations. Get the format wrong and the API still returns a response — it just performs worse, with no way to know. Many builders are quietly leaving large performance gains on the table for exactly this reason.

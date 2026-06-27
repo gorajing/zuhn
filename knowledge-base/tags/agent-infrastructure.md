@@ -10,6 +10,8 @@
 - `INS-260619-90F6` The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260605-9976` One-agent-per-task scaling means provisioning full pods per agent — wasteful, but a full computer makes an agent far more capable than a constrained sandbox.
 - `INS-260625-7926` Background agents follow predictable human-like 'follow-the-sun' usage, but RL/eval runs are square-wave bursts (0 to 100k CPUs and back), pushing mean utilization to ~15% against 90% peaks and forcing capacity commitments.
+- `INS-260627-1B11` The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
 - `INS-260403-8832` YC's Fall 2025 RFS reveals that AI startup competitive advantage has shifted from model innovation to operational productization in specific verticals.
 - `INS-260626-B94C` Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
 - `INS-260605-B930` Use provider-native harnesses for capability, but preserve your own portable run contract.
+- `INS-260627-D61C` Prototype agent tasks with polling, but switch to webhooks before you scale — holding workers open to poll dozens of multi-minute tasks is the part that breaks.

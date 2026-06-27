@@ -62,10 +62,12 @@ related:
   - INS-260410-1ED3
   - INS-260605-0C5C
   - INS-260605-83DA
+  - INS-260627-3963
   - INS-260605-3163
   - INS-260327-DC4C
   - INS-260625-4DDB
   - INS-260626-9D78
+  - INS-260627-2524
 ---
 A prompt can run once and be done, but a useful agentic system has to survive messy realities: webhooks fire twice, runs fail to complete, flows get retried. That forces the agent to track its state — was this action already taken, did the input change, did the session crash, which parts can be safely retried — and this is not an exceptional case but the normal operating condition. The answer is the same one traditional software already uses: design for idempotency, so running the same thing twice doesn't cause a mess on the second run.
 

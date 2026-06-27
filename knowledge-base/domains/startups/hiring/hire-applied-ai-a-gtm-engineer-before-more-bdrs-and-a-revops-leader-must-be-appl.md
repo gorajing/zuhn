@@ -49,10 +49,10 @@ related:
   - INS-260322-0D87
   - INS-260326-7B2A
   - INS-260327-9192
-  - INS-260327-E3DE
   - INS-260328-FFC3
   - INS-260329-C92A
   - INS-260330-63BA
   - INS-260403-EFAF
+  - INS-260403-EEDB
 ---
 Norton calls 'who will do this, we have no money' the wrong math: a GTM engineer is ~2x a BDR, so take two BDR headcount into one GTME (or a consultant) and fix the data first — everything downstream improves. He'd hire applied AI early, alongside or ahead of RevOps, and states an early-stage RevOps leader must be applied-AI capable. This is a falsifiable, prediction-class claim that the applied-AI / GTM-engineer role is a durable rising hiring category — directly relevant to tracking the KB's AI-role predictions and to the open question of whether that role (e.g., a Strategy & Ops / GTM-engineer position) is real and compounding.

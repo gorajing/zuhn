@@ -47,7 +47,6 @@ stance: >-
   residual defects toward subtler, harder-to-catch failures.
 related:
   - INS-260325-D25C
-  - INS-260328-3446
   - INS-260329-F84E
   - INS-260329-0154
   - INS-260327-98DE
@@ -56,6 +55,7 @@ related:
   - INS-260410-B3C4
   - INS-260410-A1CA
   - INS-260605-44E5
+  - INS-260625-43B3
 ---
 Sonar observed that total bugs and vulnerabilities per model decrease as models mature through reinforcement learning — they learn to avoid the security problems they've already seen. But the residual defects migrate into a different genre: finer bugs and finer security issues that are very hard for a human reviewer to detect.
 

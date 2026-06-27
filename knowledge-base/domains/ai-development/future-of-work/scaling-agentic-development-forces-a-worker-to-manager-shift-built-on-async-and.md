@@ -51,7 +51,6 @@ stance: >-
   Productively running many agents requires shifting from synchronous coding to
   asynchronous management with context frontloaded into specs and plans.
 related:
-  - INS-260605-2795
   - INS-260605-51AE
   - INS-260605-0E19
   - INS-260626-F14C

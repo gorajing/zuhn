@@ -62,7 +62,7 @@ related:
   - INS-260603-6B3D
   - PRI-260328-F723
   - PRI-260406-3EF8
-  - INS-260603-E224
+  - INS-260627-F5F2
 ---
 n8n's human-review step works by intercepting the tool call mid-flight: the agent calls the tool, and the platform freezes execution and waits for an approve/deny before the tool actually runs. Critically, the agent doesn't know the review step exists — it thinks it's calling the tool directly. This is a fundamentally different design than prompting the LLM to 'ask before sending an email.' A prompt-based gate is probabilistic and can be jailbroken, forgotten, or skipped; an interception gate is a deterministic property of the runtime — the speaker calls it a brick wall where 'nothing gets past it.'
 

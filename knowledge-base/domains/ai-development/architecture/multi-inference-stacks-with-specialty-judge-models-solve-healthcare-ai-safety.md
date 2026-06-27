@@ -52,5 +52,7 @@ related:
   - INS-260605-4D1D
   - INS-260605-169D
   - INS-260627-841C
+  - INS-260627-00E9
+  - INS-260627-66D8
 ---
 The speaker described a multi-inference stack where specialty models fine-tuned on specific medical domains (neurology, gastroenterology) handle clinical reasoning, while a separate small open-source model acts as a continuous real-time judge validating outputs. This architecture acknowledges that LLMs are 'statistical representations of knowledge, not knowledge bases' and therefore cannot be trusted as single points of clinical decision-making. The judge model is deliberately small and fast to enable real-time guardrails without latency. Combined with homomorphic encryption for data privacy and on-device inference where possible, this represents a production healthcare AI architecture that addresses both safety and regulatory concerns. The FDA's innovation group is described as actively supportive of startups building with these safeguards.

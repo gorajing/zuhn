@@ -43,14 +43,14 @@ stance: >-
   performance on hard problems more than swapping the underlying model.
 related:
   - INS-260410-A9CE
-  - INS-260514-4FDC
   - INS-260514-2E48
   - INS-260514-283E
   - INS-260514-E481
   - INS-260519-08E0
   - INS-260524-B783
+  - INS-260514-4FDC
   - PRI-260426-890F
   - INS-260603-6B3D
-  - INS-260605-0AD6
+  - INS-260605-EA2E
 ---
 Woosang repeatedly stresses 'harness engineering': applying production-system discipline to wrap models in orchestration (tool calls, verification, reflection cycles), with memory (retrieval/ranking/history) and early thinking/planning as the highest-leverage steps. He observes that adding a strong model to a good harness moved benchmark performance substantially. Reinforces the KB pattern (Jongmin, the YC company-brain talk) that the scaffolding/context around the model — not the model alone — is where capability is won.

@@ -2,11 +2,11 @@
 
 - `INS-260626-6D35` NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake.
 - `INS-260330-DE16` Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
-- `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260403-F400` Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
-- `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.
+- `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it.
 - `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
+- `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260625-2088` Autonomy improves when the environment exposes a bounded action space with reliable execution.
 - `INS-260626-7F55` Cursor's old worktree code made escaping the checkout physically impossible; the markdown skill only asks the model to stay put, so models sometimes wander into the primary checkout.
 - `INS-260605-D912` Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
@@ -18,16 +18,14 @@
 - `INS-260329-9BEF` JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
 - `INS-260410-7028` Telling a 1945 American GI who just finished a three-year WWII tour to go die in China was politically impossible, which is why counterfactuals about 'saving China' miss the binding constraint — domestic willpower, not strategic insight, was the limit.
-- `INS-260321-9C2E` Charlie Puth's vast musical index becomes a liability without collaborators to constrain him — 'if you only know one sound, you'll use it, but too many options means you need someone to tell you to sit down.'
-- `INS-260409-FE00` Offline processing unlocks 'look at the whole file first' operations — like sorting grains by amplitude — that real-time DSP is structurally incapable of.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260412-6864` Wormholes enabling time travel would violate causality — and many physicists take this as evidence they cannot exist rather than evidence that causality is breakable.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
-- `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
 - `INS-260330-F183` The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
 - `INS-260409-E0A9` Antimatter is hard not because we can't make it, but because we can't hold it — most scarcity problems have a similar 'containment hides as creation' structure.
 - `INS-260330-DEF7` The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
@@ -43,11 +41,6 @@
 - `INS-260412-0055` Antarctica's logistics are entirely dictated by seasonal constraints—dark winters ban all flights, sea-ice blocks ships, and runway surfaces melt in peak summer—creating narrow operational windows.
 - `INS-260410-3043` Scarcity is only a weakness until you engineer it into the product — Acquired copied Hermès and the NFL by refusing to scale their inputs.
 - `INS-260410-CC41` Benchmark's no-growth-fund, equal-partners, no-memos, five-person structure isn't a list of quirks — each constraint only works because the others exist, and together they multiply instead of conflict.
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
-- `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
-- `INS-260403-2FC3` YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
-- `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
-- `INS-260626-A322` Neuralink's 'all green light schedule' asks how fast you could build if every light were green — no admin, shipping, or legacy bottlenecks — and finds 80-90% of assumed constraints are unexamined, not physical.
 - `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260329-C0A7` The business bottleneck is almost never in the domain the founder enjoys most.
 - `INS-260412-FD95` The wind-shear crisis killed the 737 plan but led to the Airlink E190 solution with connecting routes from both Johannesburg and Cape Town — arguably better than the original single-origin Comair service.
@@ -56,6 +49,11 @@
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260403-9746` 20VC's origin story demonstrates how a personal low created the space for a media platform that snowballed into a capital engine.
 - `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
+- `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
+- `INS-260403-2FC3` YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
+- `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
+- `INS-260626-A322` Neuralink's 'all green light schedule' asks how fast you could build if every light were green — no admin, shipping, or legacy bottlenecks — and finds 80-90% of assumed constraints are unexamined, not physical.
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260410-2C92` The canonical invite-only growth mechanic — now copied by every AI product launch — originated as operational cost rationing at Gmail, not as a psychology play.
 - `INS-260403-DC6C` Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
 - `INS-260403-C5FB` Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
@@ -70,8 +68,10 @@
 - `INS-260330-2E34` The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course.
 - `INS-260330-2AA7` Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.
 - `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
+- `INS-260321-9C2E` Charlie Puth's vast musical index becomes a liability without collaborators to constrain him — 'if you only know one sound, you'll use it, but too many options means you need someone to tell you to sit down.'
+- `INS-260409-FE00` Offline processing unlocks 'look at the whole file first' operations — like sorting grains by amplitude — that real-time DSP is structurally incapable of.
+- `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
 - `INS-260412-F465` A rogue Earth losing its atmosphere makes spaceflight trivially easier — the very catastrophe that kills surface life removes the biggest barrier to leaving.
 - `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
-- `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.

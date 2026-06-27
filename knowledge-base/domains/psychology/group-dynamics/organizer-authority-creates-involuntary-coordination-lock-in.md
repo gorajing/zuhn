@@ -53,7 +53,7 @@ related:
   - INS-260405-CADE
   - INS-260403-D36D
   - INS-260329-8ABB
-  - INS-260403-3FF5
+  - INS-260627-3481
 ---
 Scott Alexander identifies a subtle group dynamics problem: once you become the meetup organizer, people respect you, coordinate around you, and avoid taking initiative to avoid stepping on your toes. This means passive handoff (just stopping) kills the group, and quiet offers don't work because people won't volunteer unprompted.
 

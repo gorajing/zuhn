@@ -61,8 +61,8 @@ related:
   - INS-260403-15DD
   - INS-260403-E93A
   - INS-260403-82E0
-  - INS-260409-0846
   - INS-260409-96B0
+  - INS-260514-D155
 ---
 Ubl presents two futures. In one, a single model lab wins, AI stays expensive, all value accrues to that company, and 'AI engineers' degrade into forward-deployed engineers for whichever lab dominates. He considers this unlikely. The more probable future is commoditization: Claude, Codex, and Google's models are all strong and converging, and Google in particular will keep pushing prices down because it has the cheapest infrastructure, driving the cost of intelligence toward zero.
 

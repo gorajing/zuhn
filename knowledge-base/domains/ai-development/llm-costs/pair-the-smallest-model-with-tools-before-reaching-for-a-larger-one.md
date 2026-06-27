@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260605-1787
   - INS-260605-3899
+  - INS-260627-8CFF
   - INS-260605-D33F
   - PRI-260406-72B3
-  - INS-260410-939B
 ---
 In a head-to-head compare-mode demo, Gemini 3.1 Flash Lite — the smallest model — with code execution turned on wrote Python, analyzed an image, and produced correct bounding boxes on green Lego bricks instantly, while the larger Flash model reached the same answer slower and at higher cost. Both cost 'well under a fraction of a penny.' Bailey's explicit recommendation: 'strongly recommend experimenting with the smaller weight models, especially turning on these tools to help them do their work more effectively.'
 

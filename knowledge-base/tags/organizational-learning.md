@@ -1,7 +1,7 @@
 # Tag: organizational-learning
 
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260627-2B13` If you keep telling agents 'cuts should be 2 seconds not 6,' that pattern is a signal to fork a generic skill into an org-specific one that bakes in your preferences.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260403-32CF` Sequoia cataloged 40 cognitive biases with names after post-mortems repeatedly revealed that their biggest misses came from psychology, not analysis.
 - `INS-260403-E21C` Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-31C2` Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.

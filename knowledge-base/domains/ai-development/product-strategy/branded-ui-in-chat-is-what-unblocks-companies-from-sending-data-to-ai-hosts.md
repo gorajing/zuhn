@@ -56,7 +56,7 @@ related:
   - INS-260330-0371
   - INS-260404-D976
   - INS-260501-9D73
-  - INS-260329-12D1
+  - INS-260627-A7F8
 ---
 The speakers identify a non-obvious adoption barrier: a 'main blocker' for companies wasn't connecting to chat agents, it was being reduced to a 'wall of text where you don't have identity' — you can't tell if information came from Shopify, Booking, or Expedia. Brand erasure, not plumbing, was the real cost. MCP-UI's pitch is that you 'don't need to throw away everything we know about UI and UX' to enter the agent world; you can preserve branding, identity, and decades of perfected user journeys.
 

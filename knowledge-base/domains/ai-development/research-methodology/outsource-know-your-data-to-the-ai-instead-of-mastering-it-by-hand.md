@@ -60,10 +60,10 @@ stance: >-
 related:
   - INS-260322-C0D3
   - INS-260505-4E44
+  - INS-260627-040E
   - INS-260603-6FE3
   - INS-260625-3768
   - INS-260625-0758
-  - PRI-260406-A33C
 ---
 Classical machine learning held that you must understand your dataset deeply before you can build a good model. Fischer describes inverting this: Poetiq's team deliberately does not spend much time staring at the data, and instead lets the meta-system analyze it, decide whether to do more context-stuffing or generate examples, and surface the robust reasoning strategies. Understanding the data becomes the AI's job, not the researcher's.
 

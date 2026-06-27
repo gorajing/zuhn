@@ -73,6 +73,7 @@ related:
   - INS-260626-B94C
   - INS-260626-88B8
   - INS-260626-6E3B
+  - INS-260627-93C4
 ---
 Two complementary design choices anchor this insight. First, on agent granularity: Kitze uses a delegation analogy — you wouldn't give one employee every detail of your business, personal, and family life and then talk to them in a single one-on-one chat about everything. So one mega-agent loaded with all your context is the wrong shape. Instead he favors specialized, packaged agents, each with its own provider/model, system prompt ('soul'), tool/MCP list, and permission set, scoped to a domain (fitness, work, customer support).
 

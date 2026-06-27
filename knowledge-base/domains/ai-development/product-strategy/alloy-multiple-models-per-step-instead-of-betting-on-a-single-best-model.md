@@ -52,5 +52,6 @@ related:
   - INS-260410-939B
   - INS-260501-17BB
   - INS-260605-D37A
+  - INS-260627-4514
 ---
 De Moor describes XBOW's 'alloy' technique: model an attack as a sequence of actions, and at every step randomly decide whether to ask Gemini or Sonnet. This stochastic mix performs measurably better than either model used alone because the two compensate for each other's distinct failure modes — analogous to pair programming where a second perspective catches the first's errors. The practical takeaway for any agent builder is to stop searching for the one optimal model and instead diversify per-step model choice as an error-correction mechanism. It exploits the fact that different frontier models fail on different inputs, so uncorrelated errors cancel across a long action chain. This is cheap to implement (a routing coin-flip) and turns the existence of multiple comparable models from a procurement headache into a reliability asset.

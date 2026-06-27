@@ -50,7 +50,6 @@ stance: >-
   programmatic tool calling means agent runtimes should treat executable tool
   substrates as versioned capabilities, not generic sandboxes.
 related:
-  - INS-260323-4B4D
   - INS-260329-9745
   - INS-260410-D250
   - INS-260410-1030
@@ -60,5 +59,6 @@ related:
   - INS-260605-6444
   - INS-260605-E303
   - INS-260605-35B4
+  - INS-260605-0C88
 ---
 The practical change is not merely that Claude can run code; it is that persistent REPL state and programmatic tool calling are tied to a named tool version, `code_execution_20260120`, with SDK support across major languages and no beta header. AgentRun should record the execution substrate version, model compatibility, and whether state persisted across calls. Otherwise a run that passed with stateful tool composition can be misreplayed later on a stateless or incompatible substrate.

@@ -61,9 +61,10 @@ related:
   - INS-260605-610E
   - INS-260605-5D5E
   - INS-260625-D938
+  - INS-260627-1319
   - INS-260602-EA48
-  - INS-260625-814D
   - INS-260605-6DE5
+  - INS-260627-F2AE
 ---
 Hablich treats error recovery as a spectrum and a token-cost problem: every error forces the agent to retry and re-reason, which is expensive. The cheapest intervention is writing useful error messages — obvious in principle, neglected in practice. They added one sentence to a navigation error ('history entry to navigate was not found') and it was enough for the agent to self-heal, removing the human from the loop.
 

@@ -1,8 +1,8 @@
 # Tag: judgment
 
+- `INS-260627-F1AF` Friction is what lets you steer — so build tooling that routes mechanical bugs back to the agent automatically but forces a human judgment call on high-stakes changes like DB migrations and permission changes.
 - `INS-260323-B07C` A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
 - `INS-260403-A3E4` Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.
-- `INS-260627-F1AF` Friction is what lets you steer — so build tooling that routes mechanical bugs back to the agent automatically but forces a human judgment call on high-stakes changes like DB migrations and permission changes.
 - `INS-260321-4178` AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260627-9CF1` The ~30% time savings reported by power users comes from disciplined delegation boundaries, not from auto-completing through the day.
 - `INS-260619-4ADA` The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.

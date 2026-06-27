@@ -57,8 +57,8 @@ related:
   - INS-260625-FDA1
   - PRI-260406-28E1
   - INS-260626-E253
+  - INS-260627-4072
   - INS-260530-C385
-  - INS-260626-67E8
 ---
 Hetzel's central reframe: measuring agent quality is a systems problem, not a UI/UX problem. The UI of evals — a for-loop, some scores, a table — is easy to generate. What breaks teams is the data layer. Agent traces are unlike normal application traces: they are semi-structured to unstructured, dominated by raw text, and enormous (individual spans of 10–20MB versus the usual few kilobytes), arriving at high velocity because production usage is heavy. Cramming a 1GB trace into a Postgres row creates severe performance problems.
 

@@ -67,7 +67,7 @@ related:
   - INS-260605-FD3D
   - INS-260625-868D
   - INS-260626-B614
-  - INS-260530-D34F
+  - INS-260627-0C43
 ---
 Pocock's strongest structural claim is that the quality of a codebase's feedback loops sets the ceiling on AI performance: without good tests and type checks the AI is 'coding blind,' and when outputs are bad the fix is usually better feedback loops, not better prompts. This reframes test infrastructure as the primary lever for AI productivity rather than a quality afterthought, and underlies his broader principle that 'bad codebases make bad agents.'
 

@@ -64,7 +64,7 @@ related:
   - INS-260605-D33F
   - INS-260625-8C41
   - INS-260323-3F39
-  - INS-260505-ABCC
+  - INS-260627-AA29
   - INS-260626-D8AE
 ---
 Fischer's reported results (self-published, founder-pitch context — treat the exact numbers with appropriate skepticism) illustrate a cost asymmetry rather than just a leaderboard win. On ARC-AGI v2, two days after Gemini 3 Deep Think hit 45%, Poetiq reported 54% — built on the cheaper Gemini 3 Pro, at roughly $32 per problem versus ~$70, i.e. higher accuracy at half the cost. On Humanity's Last Exam they reported 55% versus Anthropic's Claude Opus 4.6 at 53.1%, with the optimization run costing under $100k from a seven-person team.

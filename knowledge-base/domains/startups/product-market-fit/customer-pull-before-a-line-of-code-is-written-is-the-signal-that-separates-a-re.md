@@ -66,9 +66,9 @@ related:
   - INS-260403-9E6A
   - INS-260514-AD9E
   - INS-260519-299F
-  - INS-260605-9F7A
   - INS-260327-89C7
   - INS-260329-F2BB
+  - INS-260403-5683
 ---
 Coval's first idea (a general evals platform) had early users but never made money — Hopkins calls them tire-kickers. The pivot signal was qualitatively different: their first voice customer said, 'You don't have a single line of software written, but we're willing to just pay you to help us figure out this problem.' That willingness to pay for problem-solving before a product exists is the YC-style pull signal: it proves there is enough product and market pull and that no good solution exists yet.
 

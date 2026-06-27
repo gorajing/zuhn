@@ -60,10 +60,11 @@ stance: >-
   short-lived cross-app tokens, because both apps already trust the IDP — making
   direct app-to-app consent unnecessary.
 related:
-  - INS-260410-358E
   - INS-260626-0D50
   - INS-260626-C51E
   - INS-260423-5F2F
+  - INS-260627-3E71
+  - INS-260627-F756
   - INS-260626-E5E5
 ---
 The XAA architecture has four parties: the client (e.g. Claude Code), the IDP (Okta), the resource authorization server (Figma's auth server), and the resource server (Figma's API). The user does one SSO login to the IDP, receiving an ID and refresh token. The client then asks the IDP for an ID-JAG token (Identity JWT Authorization Grant) scoped to a target audience like mcp.figma.com. Because the IDP knows both apps and can verify the user belongs to both and that this client is policy-allowed to request access to that resource, it issues the cross-app token. The client hands it to Figma's auth server, which validates it against the IDP and returns a standard OAuth access token. Step four is then ordinary MCP traffic — no new credential type at the resource layer.

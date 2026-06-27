@@ -56,6 +56,6 @@ related:
   - INS-260403-93FA
   - INS-260409-5CF4
   - INS-260514-60C4
-  - INS-260603-7252
+  - INS-260627-277A
 ---
 The speaker says internal dashboards and most simple internal software can now be one-shotted to high quality (Codex), so treat that software as entirely disposable: store the data preciously (Gary Tan puts all emails in markdown and never throws anything away) and regenerate the software from your original instructions whenever models improve. 'The business context and skills are the valuable part; the software on top is ephemeral.' This is Zuhn's exact architecture boundary (replaceable TS plumbing vs. markdown source-of-truth) and the Software 3.0 principle, and its strategic corollary: if the brain/software is cheap, the durable moat shifts to proprietary context and distribution.

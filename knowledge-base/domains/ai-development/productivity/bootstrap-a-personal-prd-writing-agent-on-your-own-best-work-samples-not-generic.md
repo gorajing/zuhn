@@ -67,12 +67,12 @@ related:
   - INS-260404-D45D
   - INS-260410-CD79
   - INS-260501-9503
-  - INS-260514-1841
   - INS-260514-1659
   - INS-260605-35D1
   - INS-260605-9276
   - INS-260605-D659
   - INS-260625-D295
+  - INS-260605-749D
 ---
 The default AI-drafting workflow is: open a chat, paste the request, get a generic competent draft, then rewrite it into your voice. The personal-sample-agent workflow inverts this: front-load your best historical work into the agent's context (or fine-tune if the platform supports it), invoke as a skill, get a first draft already in your voice.
 

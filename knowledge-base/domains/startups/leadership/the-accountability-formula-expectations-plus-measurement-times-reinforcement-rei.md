@@ -48,10 +48,10 @@ resolutions:
     short-term but creates avoidance, disloyalty, and turnover.
 related:
   - PRI-260323-9D46
+  - INS-260627-6A8B
   - INS-260514-3A62
   - INS-260325-CEE1
   - INS-260325-0FED
-  - INS-260403-F8B6
 stance: >-
   Expectations + Measurement x Reinforcement = Accountability — without
   reinforcement, expectations and measurement produce zero accountability.

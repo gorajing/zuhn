@@ -53,7 +53,7 @@ related:
   - INS-260605-35B4
   - INS-260626-BC79
   - INS-260605-1A2D
-  - INS-260410-264E
+  - INS-260627-FEB4
 ---
 Alex's production strategy combines truncation with a retrievable memory store. They keep the head (first 100 chars), the tail (last 100 chars), the system prompt (never reset), and the latest tool-call result, while the truncated middle is pushed into a memory store the agent can query. Tool calls can be enormous and Alex makes many, so this prevents the window from bloating while preserving access.
 

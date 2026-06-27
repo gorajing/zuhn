@@ -3,9 +3,9 @@
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
 - `INS-260330-4267` A simple sigmoid-based prior over word frequencies improved the Wordle solver from 4.1 to 3.6 average — a bigger gain than algorithmic sophistication alone.
 - `INS-260402-7A1A` Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
-- `INS-260412-8FB0` Cancer results from compounding tiny replication errors across trillions of reactions over time, making it a when-not-if phenomenon.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260325-4996` The Drake equation only multiplies narrowing filters, but the real calculation should also add up alternative paths to life that use different chemistry.
+- `INS-260412-8FB0` Cancer results from compounding tiny replication errors across trillions of reactions over time, making it a when-not-if phenomenon.
 - `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260330-70B9` The most likely outcomes feel least informative, but a strategy optimized for rare jackpots performs worse than one optimized for average information.
 - `INS-260330-ECA9` If you experience one event per second during waking hours, a one-in-a-million event should occur roughly every 35 days — making 'miracles' routine.

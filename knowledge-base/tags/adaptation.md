@@ -3,10 +3,10 @@
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260409-9EE8` Past tech waves rewarded better swimmers — AI turns the water to gas, and even the best swimmer can't flap their way through air.
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
-- `INS-260330-C367` Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
-- `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260330-C367` Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
+- `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260405-3048` RuBisCo worked perfectly in a low-oxygen world; the problem wasn't the enzyme but the changed atmosphere — the same dynamic explains many human cognitive 'errors'.
 - `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.
@@ -23,8 +23,8 @@
 - `INS-260403-91DB` Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-3673` Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260405-7B7C` Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
-- `INS-260325-17BF` Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260412-FD95` The wind-shear crisis killed the 737 plan but led to the Airlink E190 solution with connecting routes from both Johannesburg and Cape Town — arguably better than the original single-origin Comair service.
+- `INS-260325-17BF` Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260403-C5FB` Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
 - `INS-260403-D8A2` Sears, Toys-R-Us, and RadioShack died not because retail died but because they failed to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.

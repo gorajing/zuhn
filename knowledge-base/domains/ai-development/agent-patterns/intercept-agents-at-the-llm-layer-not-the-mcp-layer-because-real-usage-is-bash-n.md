@@ -50,12 +50,11 @@ stance: >-
   calls to executing code.
 related:
   - INS-260403-A1FA
-  - INS-260605-5C58
+  - INS-260627-9298
+  - INS-260627-A41A
   - INS-260605-5404
   - INS-260605-0C56
   - INS-260421-60D9
-  - INS-260605-2DD5
-  - INS-260605-9976
   - INS-260605-E023
   - INS-260605-2E27
 ---

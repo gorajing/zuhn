@@ -49,7 +49,6 @@ stance: >-
   emerges as a geometric byproduct of optimizing for prediction, not from
   explicit semantic programming.
 related:
-  - INS-260325-B061
   - INS-260327-35C7
   - PRI-260407-7FB7
   - INS-260403-141E

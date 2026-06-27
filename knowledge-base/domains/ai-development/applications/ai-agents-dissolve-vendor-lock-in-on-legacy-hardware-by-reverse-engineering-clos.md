@@ -54,6 +54,7 @@ related:
   - INS-260625-3464
   - INS-260605-27CC
   - INS-260605-74CC
+  - INS-260627-8B75
   - INS-260605-4CED
 ---
 For decades, talking to a piece of hardware required the vendor's driver or software — often Windows-only, abandoned, or impossible to source. Starkov shows that a coding agent can bypass this entirely: Claude Code nmapped the phone's ports, discovered the communication interface by sending probe sequences, brute-forced the two-letter command space to find the ~80 valid commands, and reverse-engineered the binary checksum format with no public documentation. The strategic implication is that the moat created by proprietary, undocumented interfaces is collapsing. Any networked device in your house — or any legacy industrial hardware gathering dust because its software no longer runs — becomes addressable again. The capability generalizes beyond this one phone; Starkov explicitly frames the workflow as extendable to arbitrary hardware.

@@ -43,11 +43,11 @@ stance: >-
   A single word substitution — replacing 'should' with 'might' — is the most
   practical intervention for breaking free of unconscious cognitive scripts.
 related:
+  - INS-260627-02F2
   - INS-260330-DB4B
   - INS-260403-2788
   - INS-260404-8E68
   - INS-260330-7EDF
-  - INS-260404-323D
 evidence:
   - id: INS-260329-0F39
     type: SUPPORTS

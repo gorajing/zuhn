@@ -52,7 +52,7 @@ related:
   - INS-260605-013A
   - INS-260626-F069
   - INS-260403-23AA
+  - INS-260627-3E71
   - INS-260625-BEFE
-  - INS-260605-3588
 ---
 Stable EMA is a meaningful security and operations primitive for MCP at scale. It reduces repeated consent prompts and makes connected MCP servers usable in enterprise environments, but the permission boundary moves upward into central policy. AgentRun should capture authorization_mode, policy_authority, server identity, and whether the run used user-granted, enterprise-managed, or local credentials.

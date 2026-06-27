@@ -48,11 +48,12 @@ stance: >-
   agent orchestration.
 related:
   - INS-260410-F910
+  - INS-260627-FEB4
   - INS-260327-DC4C
   - INS-260605-2DD5
   - INS-260501-FD20
-  - INS-260605-0628
   - INS-260411-D060
+  - INS-260605-0628
   - INS-260625-A996
   - INS-260626-A45A
 ---

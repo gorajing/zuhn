@@ -53,11 +53,11 @@ stance: >-
   Frontier models are overkill for web-browsing agents; a cheap model like Haiku
   suffices once anti-bot masking is offloaded to infrastructure.
 related:
-  - INS-260325-DAD7
   - INS-260605-1787
   - INS-260605-B82E
   - INS-260320-92CC
   - INS-260404-CE26
+  - INS-260627-AA29
 ---
 The speaker never uses top-tier models for browsing agents — he reports Claude Haiku is 'more than enough' because the genuinely hard parts (mimicking human mouse movement and typing, solving captchas, rotating IPs to avoid blocks) are handled by deterministic infrastructure, not by model intelligence. Once the difficulty is offloaded, the LLM's remaining job — deciding what to click and what to extract — is well within a small model's reach.
 

@@ -53,7 +53,6 @@ stance: >-
   cannot be checked deterministically, and run the cheap deterministic checks
   all the time.
 related:
-  - INS-260605-C009
   - INS-260605-0C24
   - INS-260625-36DF
   - INS-260625-C08B

@@ -56,8 +56,8 @@ related:
   - INS-260625-8E1D
   - INS-260330-C06E
   - INS-260409-D012
+  - INS-260627-51BE
   - INS-260423-6879
-  - INS-260424-865F
 ---
 In the live demo the first request waited about 41 seconds in the queue while execution itself took only ~1.5 seconds. The gap was almost entirely cold start: the container had to be created and the model downloaded before any work happened. Subsequent requests, hitting already-warm workers, returned far faster.
 

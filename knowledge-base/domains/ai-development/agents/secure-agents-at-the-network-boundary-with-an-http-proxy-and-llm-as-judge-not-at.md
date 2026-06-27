@@ -69,12 +69,12 @@ related:
   - INS-260330-4E68
   - INS-260403-5BCF
   - INS-260412-4233
-  - INS-260423-FF52
   - INS-260605-75B7
   - INS-260605-BC6F
-  - INS-260605-A2B7
   - INS-260605-AFCF
   - INS-260605-B8AB
+  - INS-260627-1B11
+  - INS-260627-6BD0
 ---
 Brex's security team initially refused to let agents write into production systems for all the obvious reasons. Franceschi spent four weeks solving the hardest problem — security — and concluded the only robust place to enforce control is the network layer. Approaches that fork the agent shell to gate which tools the model can call are bypassable: 'you can do all that, but you can also just make an HTTP request wrong.' So Brex built and open-sourced 'crab trap,' an HTTP proxy that audits the entire network boundary of an agent, making every request inspectable.
 

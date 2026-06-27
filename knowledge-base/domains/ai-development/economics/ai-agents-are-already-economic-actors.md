@@ -61,6 +61,7 @@ related:
   - INS-260501-033E
   - INS-260625-DD6D
   - INS-260626-35A9
+  - INS-260627-30A2
 ---
 The reframe is that agents already have their own currency — tokens — and every interaction in a coding harness or any LLM application is in effect spending money, whether proxied through a subscription or converted from input/output tokens into dollars. We already let agents spend; we just only let them spend with their LLM provider.
 

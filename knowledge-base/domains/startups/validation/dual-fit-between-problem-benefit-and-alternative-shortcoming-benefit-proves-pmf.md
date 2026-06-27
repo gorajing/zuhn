@@ -50,7 +50,6 @@ stance: >-
   both the core problem and the specific shortcomings of existing alternatives
   as two distinct fits.
 related:
-  - INS-260404-E5EB
   - INS-260330-0BBA
   - INS-260330-2C79
   - PRI-260406-874A

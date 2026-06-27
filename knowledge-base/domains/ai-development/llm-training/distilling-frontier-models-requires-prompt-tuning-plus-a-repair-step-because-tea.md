@@ -50,9 +50,10 @@ stance: >-
   data.
 related:
   - INS-260323-3F39
-  - INS-260505-ABCC
   - INS-260605-1523
   - INS-260605-EBEB
+  - INS-260627-AA29
+  - INS-260505-ABCC
   - INS-260605-B82E
 ---
 Zed distills training data by giving a frontier model the full edit-prediction input and asking what it would predict. But as Kunkle puts it, ask a frontier model 100,000 times and you get 100,001 answers — they are smart but inconsistent, so the distillation prompt must be heavily tuned. They then run offline static evaluations with heuristics (is the prediction just undoing what you typed? is it ignoring the editable-region boundary?), and any prediction that fails gets sent to another frontier model with a 'it failed this way, can you fix it?' prompt — the repair step. Only after repair does the teacher's output become the student's expected output. The principle: never trust raw teacher labels; build a filter-and-repair stage into the distillation pipeline.

@@ -52,7 +52,6 @@ stance: >-
   — AI accelerates the consolidation/crystallization phase of fields much faster
   than it opens new fields, producing more homogeneous science.
 related:
-  - INS-260405-C17A
   - INS-260402-E040
   - INS-260405-4523
   - INS-260403-19C9

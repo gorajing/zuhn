@@ -60,6 +60,7 @@ related:
   - INS-260625-FFDF
   - INS-260625-0CAB
   - INS-260625-4078
+  - INS-260627-2863
 ---
 The study argues that coding benchmarks often sacrifice realism for scale: tasks are self-contained, algorithmically scored, and less dependent on tacit repo context. METR's task definition instead required code a human maintainer would be satisfied to review, including style, testing, documentation, and implicit quality standards.
 

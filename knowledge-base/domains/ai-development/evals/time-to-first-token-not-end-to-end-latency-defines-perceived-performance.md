@@ -55,7 +55,7 @@ related:
   - INS-260423-2B80
   - INS-260603-915A
   - INS-260605-D430
-  - INS-260605-D1F0
+  - INS-260627-E257
 ---
 The talk separates three metrics that are often conflated: raw throughput (completion tokens/sec) measures power, end-to-end latency measures total wait, but time-to-first-token (TTFT) is 'the metric that defines the user's perceived performance.' If the first token arrives instantly the app feels responsive; if it stalls, the app feels broken regardless of eventual throughput. The benchmark harness explicitly timestamps the first chunk of the streaming response to capture this.
 

@@ -2,23 +2,21 @@
 
 - `INS-260322-F891` AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
 - `INS-260626-4075` Unlike coding, where a technical user steers a mistake-tolerant agent, expert domains treat 80%-right as 0%-useful — so the human's last-20% correction is the real training data.
+- `INS-260627-8B75` Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260625-C1E8` AgentRun gates should distinguish fast blockers from slower calibration signals.
 - `INS-260625-0148` Treat model, tools, context, environment, and feedback as explicit evaluation variables.
+- `INS-260627-9E3D` FastContext turns exploration quality into a measurable citation task separate from end-to-end task success.
 - `INS-260625-722D` Raw judge agreement is a weak certificate unless chance and bias are accounted for.
 - `INS-260625-77F8` For workflow agents, the answer is the mutated state, not the transcript.
 - `INS-260625-E3A2` Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- `INS-260627-8318` Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done.
 - `INS-260625-0E60` The best eval is an environment that can measure whether the decision worked.
 - `INS-260626-9155` Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260626-F6DA` If you trust the tests, you can trust the output without looking at the code — so the highest-leverage investment is building systems agents can use to verify their own work.
 - `INS-260625-EC9A` The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
-- `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
-- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
-- `INS-260505-3608` Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
-- `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
-- `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260410-E977` Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260605-124F` Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
@@ -40,20 +38,30 @@
 - `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
 - `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
+- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260505-3608` Lean output compiles or it doesn't — there's no debate over whether the proof is correct.
+- `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
+- `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260626-739E` When agents can do the work cheaply, the scarce, expensive activities become specifying it up front and reviewing it afterward.
 - `INS-260626-484B` For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
-- `INS-260625-8BC8` SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
-- `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
-- `INS-260405-7383` Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
+- `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
+- `INS-260625-8BC8` SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
+- `INS-260405-7383` Google's Willow processor demonstrated quantum advantage that was independently confirmed — shifting the field from performance claims to verifiable science.
 - `INS-260605-3899` A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
+- `INS-260627-B1A4` The filter guarantees bounded hardware operations, not that the experiment is scientifically sensible or that all adversarial code is impossible.
+- `INS-260627-B7F7` The agent that found a vulnerability should not be the agent that validates or verifies it.
 - `INS-260410-5740` AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.
 - `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260626-FDFC` The first three layers are probabilistic instructions ('asking nicely and hoping'); add a fourth deterministic layer that reads actual output and rejects facts that aren't real.
+- `INS-260627-25FC` The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution.
+- `INS-260627-F5F2` If the simulator sees an unmapped device, unsupported method, or unreachable review host, the filter blocks and escalates rather than allowing the action.
 - `INS-260325-FDA9` Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.
+- `INS-260627-0723` Readable summaries and machine-readable ledgers should be checked against each other before a run closes.
 - `INS-260605-C223` A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 - `INS-260626-B7EB` NOVA's cascade checks architecture semantics, local executability, offline metrics, and only then online impact.
 - `INS-260410-81DC` Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.

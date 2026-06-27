@@ -49,6 +49,7 @@ related:
   - INS-260403-AB5C
   - PRI-260406-6D40
   - INS-260505-A0F7
+  - INS-260627-53EF
 ---
 Continual Harness starts from only a minimal environment interface and no curated knowledge, hand-crafted tools, or domain scaffolding. The harness alternates between acting and refining prompts, subagents, skills, and memory using past trajectory data.
 

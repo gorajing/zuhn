@@ -53,7 +53,6 @@ stance: >-
   Critical guidance an agent cannot afford to miss must live in the main
   skill.md file, never in a bundled reference file.
 related:
-  - INS-260605-E7F2
   - INS-260605-C86D
   - INS-260605-6591
   - INS-260605-9276

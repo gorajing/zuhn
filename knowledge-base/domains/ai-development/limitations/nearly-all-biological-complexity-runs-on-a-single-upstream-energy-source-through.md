@@ -51,7 +51,6 @@ stance: >-
   transformed through many intermediate steps, making them fragile to disruption
   of that one source
 related:
-  - INS-260322-02A6
   - INS-260330-1084
   - INS-260330-BC56
   - PRI-260403-181B

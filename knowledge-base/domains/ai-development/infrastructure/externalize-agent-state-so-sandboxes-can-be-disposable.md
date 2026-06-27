@@ -44,9 +44,9 @@ stance: >-
 related:
   - INS-260605-41AE
   - INS-260605-A28F
+  - INS-260627-8C56
   - INS-260625-EC7C
   - INS-260625-0492
-  - INS-260605-74CC
 ---
 OpenAI frames harness/compute separation as a security, durability, and scaling primitive. If agent state is externalized, a failed or expired sandbox can be replaced and the run can continue from a checkpoint; subagents can also be routed to isolated sandboxes and parallelized.
 

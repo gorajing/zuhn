@@ -4,11 +4,11 @@
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260408-A0F5` Hassabis would have preferred CERN-like collaboration on AGI; ChatGPT going viral forced commercial pressure that changed the entire industry's pace.
 - `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
-- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260403-474E` Palantir CEO Alex Karp argues that banning AI superintelligence development in the US would hand technological and ideological influence to global rivals rather than making the world safer.
 - `INS-260403-A68D` Major AI pause advocates (Pause AI, Yudkowsky, Krueger) all explicitly call for international treaties, not unilateral action.
 - `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
 - `INS-260403-D7EF` DeepSeek R1's built-in censorship on politically sensitive topics demonstrates that state alignment creates structural bias that persists despite jailbreak attempts.
+- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260423-31A1` Hinton: if the Chinese figured out how to prevent AI from ever wanting to take control away from people, they would immediately tell the Americans, because they don't want AI taking control in America either.
 - `INS-260404-83C6` DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260412-03B4` The Dutch East India Company was granted monopoly trade rights plus authority to wage war, mint coins, and negotiate treaties — transforming from corporation to empire within decades.
@@ -103,7 +103,7 @@
 - `INS-260403-90A0` China's rare earth export tightening and Western chip seizures are forcing companies to vertically integrate within their geopolitical bloc or risk existential supply disruption.
 - `INS-260403-44A6` Canada's decision to slash Chinese EV tariffs from 100% to 6.1% was a direct consequence of deteriorating US-Canada relations under Trump's tariff threats, illustrating how bullying allies creates unintended competitive openings.
 - `INS-260412-B172` Northern Pacific Airways went from 'resounding skepticism among experts' to 'potentially feasible' overnight when Russian airspace closed and Anchorage became strategically relevant again.
-- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
+- `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260410-81E8` Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
 - `INS-260404-1579` Geopolitical realignment is turning deeptech startups into sovereignty infrastructure with government-backed demand.

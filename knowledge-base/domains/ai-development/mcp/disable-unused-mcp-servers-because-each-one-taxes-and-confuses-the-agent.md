@@ -62,6 +62,7 @@ related:
   - INS-260627-6217
   - INS-260626-7359
   - INS-260627-1B54
+  - INS-260627-3E71
 ---
 MCP solved a real problem (giving models tools beyond text-in/text-out — GitHub for PRs/issues, Context7 for up-to-date framework docs past the training cutoff), and there are now thousands of servers. But the popularity created a trap: every enabled server adds its tool descriptions to the system prompt that gets sent on every single interaction. With many servers always-on, this is a major contributor to the context bloat that pushes you toward the quality-degradation zone.
 

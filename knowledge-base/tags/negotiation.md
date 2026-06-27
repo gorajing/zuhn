@@ -30,8 +30,13 @@
 - `INS-260405-DEF2` Being the only or one of two options in a category gives you more leverage over suppliers than volume alone ever could.
 - `INS-260410-90C5` Costco refused to accept credit cards for years, proving customers would shop without them, which later let Costco hold an auction among card networks instead of paying interchange — the constraint became the leverage.
 - `INS-260410-DF92` Henry Flagler's 'Lakeshore Agreement' promised railroads enough oil volume to run dedicated trains in exchange for shipping rates no competitor could match — turning a negotiated discount into an industry lock.
-- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
 - `INS-260403-91FD` Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
+- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
+- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
+- `INS-260410-A65C` The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
@@ -56,11 +61,6 @@
 - `INS-260402-A22C` After a VC partner buys in, shift from pitching mode to collaborative mode — help them tailor the pitch for their partnership meeting.
 - `INS-260403-0CBA` Combine 2-3 valuation methods to present a defensible range rather than a single number.
 - `INS-260403-11E3` Exit waterfall modeling reveals how deal terms actually distribute value at different exit sizes, exposing whether employee equity retains meaningful upside.
-- `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.
-- `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.
-- `INS-260410-A65C` The NFL got Pete Rozelle as a paid commissioner; F1 needed Bernie Ecclestone as an owner-operator because you cannot wage-incentivize someone to wrangle global teams, tracks, broadcasters, and a regulator across 45 years.
-- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
-- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
 - `INS-260410-F455` Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.
 - `INS-260329-21AF` Lock in the price first, then negotiate favorable terms like seller financing and extended payment schedules as a separate conversation.
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.

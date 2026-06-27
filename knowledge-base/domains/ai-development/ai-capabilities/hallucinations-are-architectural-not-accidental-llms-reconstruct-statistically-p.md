@@ -58,9 +58,9 @@ related:
   - INS-260402-89DE
   - INS-260402-5034
   - INS-260410-F24A
+  - INS-260627-E257
   - INS-260605-91A9
   - INS-260410-8092
-  - INS-260627-1B4D
 stance: >-
   Hallucinations stem from how LLMs break information into tokens and
   reconstruct probable relationships

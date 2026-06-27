@@ -48,11 +48,10 @@ stance: >-
   than the system's intended behavior, producing green suites that catch
   nothing.
 related:
-  - INS-260408-F58E
   - INS-260605-FD3D
+  - INS-260627-8318
   - INS-260626-287B
   - INS-260626-3105
   - INS-260605-3B8B
-  - INS-260626-F6DA
 ---
 When developers delegate test-writing to AI, the model often produces 'self-affirming' tests — assertions derived from the code's existing output rather than from a specification of correct behavior. The unit suite goes green and coverage metrics look healthy, but the system's actual behavior is never validated, so the tests provide false confidence and catch no real regressions. This compounds a pre-existing TDD critique (over-indexing on coverage tests implementation details, so a method rename breaks a test even when behavior is fine). The defense is to test stable contracts — APIs, exported modules, end-to-end behavior — rather than internal methods, and to treat AI-written tests as suspect until they're shown to fail when behavior is actually wrong.

@@ -5,5 +5,5 @@
 - `INS-260403-88DA` Previous healthcare IT reforms required rebuilding infrastructure; LLMs can interpret unstructured clinical data on top of existing systems.
 - `INS-260505-4351` If a new clinical policy takes an action your offline data never saw, off-policy evaluation can't bound its value — synthetic data fills the gap.
 - `INS-260626-45E4` AI Consult's value came from constraining an LLM inside Kenyan clinical guidelines, EMR context, and clinician accountability rather than exposing a generic chatbot.
-- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit.
 - `INS-260626-B09B` AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax.
+- `INS-260626-16C8` Real-world clinical AI requires patient-outcome trials because improved reasoning proxies may not translate into measurable patient benefit.

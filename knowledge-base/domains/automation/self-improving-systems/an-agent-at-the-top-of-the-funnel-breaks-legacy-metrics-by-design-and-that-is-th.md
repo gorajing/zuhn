@@ -49,5 +49,6 @@ related:
   - INS-260625-3162
   - INS-260627-02E1
   - INS-260524-460B
+  - INS-260627-00B7
 ---
 Zvirawa: an agent at the top of funnel means fewer trial clicks and more conversations; the instinct is to protect the old metric and bolt the new experience on top. The better move is to step back and ask how success is measured in the new journey (still tied to revenue, just not the old metric). A customer thought the agent broke their MQL numbers, then found their MQL definition was inconsistent across funnels to begin with. Strongly corroborates the KB's 'metrics break, that's the point' / eval-must-be-redesigned self-improvement principle.

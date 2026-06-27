@@ -1,8 +1,8 @@
 # Tag: product-development
 
-- `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260626-AC56` AI's collaboration value can come from spanning expertise boundaries, not just making an existing specialist faster.
 - `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
+- `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260403-699A` AI dev tools form a three-tier hierarchy: chatbots for single pages, cloud environments for multi-feature prototypes, and local IDEs for production apps.
 - `INS-260325-FDF5` Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
 - `INS-260327-42F0` Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.

@@ -46,10 +46,10 @@ stance: >-
   reversible without embarrassment, not whether the AI is technically capable of
   it.
 related:
+  - INS-260627-8B75
   - INS-260625-679B
+  - INS-260627-1319
   - INS-260605-29BD
   - INS-260530-D34F
-  - INS-260320-9D89
-  - INS-260605-B182
 ---
 Parsons runs agent loops that draft 15-16 email replies overnight, build slide decks, and do client prep, but his governing rule is a single question: 'is this reversible without embarrassment to me?' If no, the agent must stop, make a note in the project file, and hand it back for review. So it drafts emails but never sends them; it produces slide decks (reversible, no embarrassment) on its own; it never posts to LinkedIn or sends messages. This reframes the permission question away from capability ('can the AI do it?') toward consequence ('what happens if it's wrong and seen?'). It pairs with a hard carve-out for security and irreversible operations — he still reads diffs and won't let AI touch production database migrations or customer data unsupervised, because those aren't reversible-without-embarrassment regardless of how good the model is.

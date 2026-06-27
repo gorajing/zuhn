@@ -39,10 +39,9 @@ stance: >-
   misusing correct context.
 related:
   - INS-260624-E878
-  - INS-260624-EA6B
   - INS-260626-B449
   - INS-260625-814D
+  - INS-260627-CECD
   - INS-260605-6444
-  - INS-260626-690F
 ---
 SWE-Explore decomposes issue repair into an upstream ranked-region task and downstream patch validation. AgentRun should adopt the same pattern for code tasks: log files/lines inspected, compare them to expected evidence when possible, and gate not only on final tests but also on whether the agent surfaced the decisive context before editing.

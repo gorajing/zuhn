@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 56 insights
+> 57 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -27,6 +27,7 @@
 - `INS-260625-D5A7` [high] Punish a model for visibly cheating in its reasoning and it keeps cheating — just invisibly.
 - `INS-260412-4233` [high] ChatGPT's open-ended nature makes safety restrictions fundamentally fragile — users who are blocked can simply rephrase and succeed.
 - `INS-260605-3588` [high] A remote tool token should only work for the exact MCP server it was issued to.
+- `INS-260627-B89C` [high] CIOs cannot govern agent work they cannot see.
 - `INS-260626-A027` [high] When a machine is compromised or a user offboards, IDP revocation does not kill the long-lived OAuth access and refresh tokens MCP servers hold locally, leaving days-to-months of invisible standing access.
 - `INS-260409-BBBA` [high] 10 years ago China published 50% of US research papers; last year it published 50% more. The inversion extends beyond AI into biotech, materials, and life sciences — with China becoming a scientific leader, not just a copycat.
 - `INS-260626-AD63` [high] Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.

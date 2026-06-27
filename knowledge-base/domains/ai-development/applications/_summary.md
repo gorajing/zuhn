@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 78 insights
+> 80 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -28,6 +28,7 @@
 - `INS-260405-227C` [high] InterPositive's core insight: train one model per project on that project's own data to preserve style and director intent.
 - `INS-260514-96FE` [high] A personal AI agent accessible via Telegram with your genome + FDA pharmacogenomics data can photo-identify drugs and recommend YOUR specific dose. Manuel Corpas's 'Robotary' caught a warfarin error that would have caused him to bleed to death.
 - `INS-260412-F46C` [high] UE5's ~80% photorealism threshold has already enabled amateur filmmakers to produce cinema-quality content using a real-time game engine.
+- `INS-260627-00B7` [high] Masked IRL is stronger because it reports real Franka arm transfer, not only simulation metrics.
 - `INS-260501-2D9C` [high] Drop screenshots of sites you love into Claude. Ask it to extrapolate a design system. Reference that system in every future component. Vibe-coded sites stop looking like vibe-coded sites.
 - `INS-260505-D440` [high] Old model: experiment, analyze later. New model: model adjusts experiment in real-time from in-flight data, before the first run completes.
 - `INS-260505-050B` [high] One model + interpretation methods = microscope (understand) + design tool (intervene) — two products from one training run.
@@ -63,6 +64,7 @@
 - `INS-260405-E4FC` [medium] Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
 - `INS-260505-A9BC` [medium] Asking an AI agent for a plan before it acts works for the same reason specific climate language predicts real reduction — intent + plan beats intent alone.
 - `INS-260524-2346` [medium] Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
+- `INS-260627-09D8` [medium] The unlock for real-world browser agents is operating on the user's authenticated sessions, which a sandboxed cloud browser can never see.
 - `INS-260505-A0F7` [medium] Old paradigm: train on simulations. New paradigm: pretrain on raw real data, fine-tune on the few labels you have.
 - `INS-260501-B933` [medium] The valuable workflows aren't 'use Claude Code' or 'use Idea Browser.' They're 'use Idea Browser MCP + Lead Magnet skill + Paper MCP + Humbalytics MCP in one session.' Composition is the product.
 - `INS-260624-D8C3` [medium] Speculation helps latency, but side-effectful actions need commit barriers.

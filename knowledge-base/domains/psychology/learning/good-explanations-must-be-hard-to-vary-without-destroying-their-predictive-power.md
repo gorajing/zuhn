@@ -51,11 +51,11 @@ stance: >-
   The defining quality of a good explanation is not testability alone but that
   its components cannot be freely substituted without breaking its predictions.
 related:
-  - INS-260329-CB03
   - INS-260330-7CFB
   - INS-260330-984C
   - PRI-260403-88F5
-  - INS-260403-61A1
+  - INS-260627-02F2
+  - INS-260329-CB03
   - INS-260410-5D71
 evidence:
   - id: INS-260329-CB03

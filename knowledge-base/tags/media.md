@@ -23,7 +23,7 @@
 - `INS-260405-FE5C` Print media lost classifieds first, then print advertising, then newsstand revenue — each loss made the next harder to absorb, until collapse arrived all at once.
 - `INS-260405-BAB0` The internet killed the solid middle-class journalist salary while top writers still earn premium rates, collapsing the ladder rather than flattening the field.
 - `INS-260405-BFC0` Local news collapsed because the internet made geographic information monopolies impossible, not because local journalism got worse.
+- `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
-- `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
 - `INS-260412-FEFA` British tabloids branded St Helena's airport 'the world's most useless airport' based on a single aborted landing, and years of successful operations couldn't undo the damage.

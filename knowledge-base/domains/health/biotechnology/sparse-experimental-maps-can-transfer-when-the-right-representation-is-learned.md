@@ -49,7 +49,7 @@ related:
   - INS-260626-742C
   - INS-260625-D790
   - INS-260410-684D
+  - INS-260627-C112
   - INS-260501-FDF0
-  - PRI-260407-7FB7
 ---
 The model was trained on Arabidopsis, where rich DNA-binding data exist, then applied to maize under heat stress to annotate condition-responsive transcription factors. That matters because most crops lack dense binding maps. The AI capability is not replacing crop experiments; it reallocates attention by projecting learned regulatory structure into sparse species where direct measurement is expensive.

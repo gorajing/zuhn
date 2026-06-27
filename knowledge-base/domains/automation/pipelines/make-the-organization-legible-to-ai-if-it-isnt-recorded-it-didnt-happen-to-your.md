@@ -49,7 +49,6 @@ stance: >-
 related:
   - INS-260320-8FFC
   - INS-260323-043E
-  - INS-260329-CCDE
   - INS-260329-2ECE
   - INS-260330-4FB9
   - INS-260409-C1B2
@@ -57,5 +56,6 @@ related:
   - INS-260409-FB26
   - INS-260409-F691
   - INS-260412-94B2
+  - INS-260423-8403
 ---
 The first and most emphasized prescription: make the entire organization legible to AI by recording everything — partner emails, every Slack message and DM, every office hour (YC started recording all of them). The maxim: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence.' But you cannot pump 100,000 hours of recordings into a context window, so you must diarize, aggregate, and synthesize down to the important parts and give the AI breadcrumbs. This is exactly Zuhn's ingestion-plus-stance-discipline premise and its 5-level compression hierarchy / retrieval-vs-compression thesis, stated independently by a YC partner.

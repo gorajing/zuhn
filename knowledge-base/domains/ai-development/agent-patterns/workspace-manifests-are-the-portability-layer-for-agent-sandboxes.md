@@ -48,8 +48,8 @@ related:
   - INS-260410-F910
   - INS-260605-5EE0
   - INS-260626-4393
+  - INS-260627-6C9A
   - INS-260501-5ACE
-  - INS-260405-F26B
 ---
 OpenAI's updated Agents SDK introduces a Manifest abstraction for describing an agent workspace: local files, output directories, and external storage mounts. The important design move is not the specific SDK API; it is making the workspace a portable contract the model can rely on.
 

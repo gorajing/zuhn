@@ -64,11 +64,10 @@ stance: >-
   is not if but when the agent nukes the production database.
 related:
   - INS-260501-9D73
-  - INS-260625-E10F
-  - INS-260625-868D
   - INS-260530-D34F
   - PRI-260406-3EF8
   - INS-260320-1B10
+  - INS-260625-868D
   - INS-260404-21E6
   - INS-260625-1E07
 ---

@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260625-F573
   - INS-260625-6AC1
+  - INS-260627-C112
   - INS-260626-742C
   - INS-260404-CE26
-  - INS-260625-2E48
 ---
 Models are expensive snapshots of the web as it was months ago, which is fine for slow-moving knowledge but disastrous for a fast-changing API or SDK: a primitive agent asked to 'integrate PostHog' would confidently fabricate keys, patterns, and APIs that never existed. PostHog's fix is to maintain documentation that is hot off the presses on their own site and let the agent select the relevant fresh markdown into its context before acting.
 

@@ -61,7 +61,6 @@ stance: >-
   dashboards and filing issues.
 related:
   - INS-260322-3083
-  - INS-260501-247C
   - INS-260501-BA23
   - INS-260522-C5C2
   - INS-260605-B136

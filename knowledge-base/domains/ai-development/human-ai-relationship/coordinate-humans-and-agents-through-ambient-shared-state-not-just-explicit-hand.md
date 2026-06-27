@@ -54,5 +54,6 @@ related:
   - INS-260605-4877
   - INS-260605-1CC3
   - INS-260321-E9B7
+  - INS-260627-718B
 ---
 Because agents aren't smart enough to do everything alone, Salomon offloads to other humans — but the interesting mechanism is how they coordinate. Beyond explicit handoffs (taking over another person's agent, prompting their agent directly), there's a 'softer' channel: a chat shared between humans and agents where an agent posts 'I'm starting to work on something' and a human can reply 'I'm also working on it,' so the agent's next action accounts for the overlap. Agents likewise surface which files each is changing. The principle is that coordination in mixed human-agent teams should rely on ambient, readable shared state — a broadcast of intent and activity that any participant can consume — rather than only point-to-point handoffs. This is the same insight as the collision heat map applied to social coordination: make activity visible and let participants self-deconflict.

@@ -63,10 +63,10 @@ related:
   - INS-260605-ACB3
   - INS-260625-679B
   - INS-260625-9F65
+  - INS-260627-8B75
   - INS-260501-2A52
   - INS-260530-D34F
   - INS-260605-9276
-  - INS-260605-27CC
 ---
 The speaker's framing of where n8n competes: 'You can go anywhere and build an agent — it's so easy to build agents. One of the problems we're seeing, and where the winners are going to lie, is seeing what your agent can do, knowing what it's doing, seeing what went wrong, and being able to tweak it and fix it.' Construction is commoditized; the differentiated value is the control and observability layer wrapped around the agent.
 

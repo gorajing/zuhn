@@ -59,11 +59,12 @@ related:
   - INS-260410-01BC
   - INS-260605-D0A0
   - INS-260625-2906
-  - INS-260626-9AEB
   - INS-260626-5671
-  - INS-260626-5D7C
   - INS-260626-8116
   - INS-260626-2F2E
+  - INS-260626-9AEB
+  - INS-260626-5D7C
+  - INS-260627-6ACC
 ---
 Traditional tool calling is fine for a handful of tools on short runs, but breaks at scale: stuffing hundreds of tools (Google services, Jira, wiki) fills the context, composition gets weird, and each call requires a slow back-and-forth with the model. Code Mode flips this — the model generates a string of code (typically JavaScript) that the harness runs against the environment in a single execution.
 

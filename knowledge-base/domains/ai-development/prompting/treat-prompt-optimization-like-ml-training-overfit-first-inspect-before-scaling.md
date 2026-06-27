@@ -70,6 +70,7 @@ related:
   - INS-260605-B1FC
   - INS-260625-2F7C
   - INS-260625-DF0F
+  - INS-260627-2863
 ---
 The biggest practical learning: GEPA-style optimization 'is not an algorithm you just take and it works from day one' except on toy examples — reaching a usable judge took many iterations and parameter tuning (batch size, calls per iteration, ~200-300 iterations per experiment). The disciplined workflow mirrors machine learning: (1) start with small iterations, instrument and visually inspect the reflection-LLM reasoning and the candidate prompts it generates before committing to large sampling runs; (2) customize the reflection/refinement template to inject useful priors (here: telling it it's judging an airline support agent and should derive real policy rules from the verdict-vs-ground-truth gap) — the default template underperformed; (3) deliberately overfit the training data first, treating success as 'make it work,' not 'run it purely.' The Pareto-frontier reaching 100% training accuracy meant a per-task solver existed for every case; the unsolved hard part was merging candidates into one prompt that handles everything.
 

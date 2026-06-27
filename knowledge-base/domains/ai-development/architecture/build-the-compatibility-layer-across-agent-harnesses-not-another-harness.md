@@ -59,7 +59,6 @@ related:
   - INS-260501-E377
   - INS-260626-E253
   - INS-260605-0A68
-  - INS-260625-ADEA
   - INS-260627-F9F3
 ---
 Databricks built Omnigent around a single common API: an agent session takes in messages or files and streams out text and tool calls, with cancel/turn controls — and that same interface is mapped onto Claude Code, Codex, the OpenAI SDK, Cursor, and others. Zaharia's point is that this mapping is the part worth maintaining: 'whenever Claude changes its API, you've got to tweak your thing or it's going to lose some messages.' The harnesses, UIs, and even the models are commoditizing and churning every few months; the abstraction that absorbs that churn is what teams actually depend on.

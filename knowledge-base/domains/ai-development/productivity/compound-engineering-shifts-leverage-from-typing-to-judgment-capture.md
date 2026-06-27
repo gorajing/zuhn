@@ -47,6 +47,7 @@ related:
   - INS-260605-9900
   - INS-260329-8830
   - INS-260405-880C
+  - INS-260627-8735
 ---
 The Compound Engineering talk framed the shift as moving from typing to judgment. Models can increasingly implement, review, and plan, but product understanding, taste, and failure interpretation remain scarce. The proposed loop spends roughly half the effort on building and half on codifying what was learned into docs, skills, or reusable conventions.
 

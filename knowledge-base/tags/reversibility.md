@@ -1,5 +1,6 @@
 # Tag: reversibility
 
+- `INS-260627-8B75` Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260605-29BD` Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
 - `INS-260605-A175` Classify each decision by reversibility and cost of error, and let serious, irreversible, high-cost decisions consume far more of the agent's analysis budget.
 - `INS-260412-94B2` Burning paper doesn't destroy its information — it redistributes it across ash, smoke, and heat in a form that's theoretically reconstructable.

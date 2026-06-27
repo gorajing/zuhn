@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6001 actionable insights
+Generated on 2026-06-27 | 6055 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -99,6 +99,15 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260627-7541] Cluster failures into distinct error types via error analysis, build one binary (true/false) judge per type, and avoid 1-5 / percentage scores — even two humans rarely agree on a numeric score, and a single 'success' judge is too complex to calibrate.
 - [INS-260627-6846] The model exploits any deterministic quirk in the opponent or environment, scoring great on benchmarks while being clueless in real play — only hands-on testing reveals it.
 - [INS-260627-21FF] A generic judge that could detect your agent's hallucinations would imply the app already worked — eval metrics must come from the specific business use case, defined by subject-matter experts, not pulled from a library.
+- [INS-260627-0818] Masked IRL reports instruction accuracy and mask precision/recall/F1 before tying disambiguation to robot reward performance.
+- [INS-260627-66D8] The paper evaluates the safety-filter with 1,932 adversarial scripts and about 250 harness-level tests, not only with successful lab calibrations.
+- [INS-260627-A5A4] A vulnerability report is not valid until it proves exploitability and impact, not just pattern presence.
+- [INS-260627-8B75] Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
+- [INS-260627-6FE0] Don't let eval-building block you — ship something scrappy, start with a binary good/bad gate, then decompose into granular continuous criteria as you learn what 'good' means.
+- [INS-260627-0A69] Start by capturing historical runs and back-testing them; track 'agent smell' (tool-call count, retries, latency) for sanity checks, and test the deterministic tools as plain functions.
+- [INS-260627-4072] Build the eval set as a loop — start with a small dev CSV, ship when the team is confident, then mine production for the hard cases you couldn't anticipate and feed them back into the data set.
+- [INS-260627-8318] Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done.
+- [INS-260627-A4DD] Run two co-evolving loops — one optimizing the agent, one optimizing the evaluators — because the agent loop only works as well as the eval feeding it.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -419,6 +428,24 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260627-C940] The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
 - [INS-260627-0719] A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
 - [INS-260627-36B1] Give agents a calculator instead of asking them to compute—models are good at language, not deterministic arithmetic, so route exact computation to tools.
+- [INS-260627-9068] Masked IRL uses LLMs to convert language into binary state-relevance masks that supervise a downstream reward model.
+- [INS-260627-0503] The agent often knew the physics but needed humans to recognize when an optimization framing had saturated.
+- [INS-260627-20F9] Let the agent compose rich programs, but make execution depend on a separate policy boundary that checks effects rather than trusting the generated code.
+- [INS-260627-A999] A read-only explorer subagent protects the solver from context pollution while still giving it precise evidence.
+- [INS-260627-A41A] Give an agent bash and you give it thousands of tools; it works so well because shell usage is heavily represented in training data, the same reason models are worse at Rust than Python.
+- [INS-260627-93C4] A full context makes the model 'stupider,' so fork work into sub-agents that feed back only results and instruct the agent to save state as markdown files for long-term memory.
+- [INS-260627-CC45] Build one agentic loop that dispatches tool calls by name through a registry, so changing tools never means rewriting orchestration.
+- [INS-260627-277A] When in doubt, delete scaffolding and trust the model to explore — most workarounds you build for model flaws will be obsolete in 3-6 months.
+- [INS-260627-F756] Built on CIBA, the agent initiates a back-channel approval that pushes the exact symbol/quantity/price to the user's device, and the returned access token carries those approved details—not a generic yes.
+- [INS-260627-FEB4] Bash is the most powerful agent 'tool' because it is composable, low-context, and lets the agent reuse all existing software while checking its own work.
+- [INS-260627-CECD] Keep the agent's context as small as possible and let it self-discover the right context via search/tools — Kiro uses its codebase index for secondary UI features (code search) rather than dumping it into the agent, because benchmarks show the agent does better with less context plus good navigation tools.
+- [INS-260627-040E] Transform your data into something the model knows cold — SQL, XML, spreadsheet-range syntax — so an out-of-distribution problem becomes in-distribution and the agent's pretrained knowledge does the work.
+- [INS-260627-214C] A spec is simultaneously a set of versioned artifacts, a structured requirements-design-execution workflow, and a tooling layer (property tests, requirements verification) that delivers reproducible results.
+
+## ai-development/agent-reliability
+- [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
+- [INS-260627-02F2] EARS-style 'when/then/shall' requirements are a structured natural-language representation that classic automated-reasoning techniques can parse deterministically — to detect ambiguity, find conflicting constraints, and reduce reliance on the model.
+- [INS-260627-E496] Let a durable-execution layer like Temporal own retries and crash recovery so agent code expresses only business logic, never failure plumbing.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -786,6 +813,7 @@ Generated on 2026-06-27 | 6001 actionable insights
 ## ai-development/economics
 - [INS-260530-777B] Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
 - [INS-260603-50B1] Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
+- [INS-260627-91B3] Agent systems need spend control as much as capability control.
 
 ## ai-development/embeddings
 - [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
@@ -801,11 +829,14 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260625-3A20] Exact KNN works great for small corpora, highly-filtered result sets, and partitioned queries; reach for approximate (ANN) indexing only when vector search is your primary mechanism over a large corpus.
 - [INS-260625-3A4F] Run a keyword retriever and a vector retriever in parallel and merge their results with reciprocal rank fusion — keyword nails exact matches, vectors catch semantic neighbors, and fusion recovers what either misses alone.
 - [INS-260627-30CD] Matryoshka representation learning produces nested embeddings so you can retrieve with 256 dims cheaply, then expand to more dimensions for precision — one network, many operating points.
+- [INS-260627-A7F8] Embeddings are not anonymized text — Morris's research recovered ~90% of source text exactly from stored vectors, so treat a vector DB as sensitive as the raw documents.
 
 ## ai-development/evals
 - [INS-260626-484B] For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
 - [INS-260626-B04D] AgentRun evals should include effort metrics, detours, and environment revisions.
 - [INS-260627-B1B2] Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency.
+- [INS-260627-D28C] Have the judge classify into a text label (e.g. friendly/robotic) and map that label to a score afterward, because LLMs are unreliable at producing numbers directly.
+- [INS-260627-9981] Treat the judge as a hallucinating component too — label a data set by hand, then run a code/match eval that measures whether the judge's labels agree with the human labels, and improve the judge where they diverge.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -880,6 +911,7 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260626-AD63] Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.
 - [INS-260626-A027] When a machine is compromised or a user offboards, IDP revocation does not kill the long-lived OAuth access and refresh tokens MCP servers hold locally, leaving days-to-months of invisible standing access.
 - [INS-260627-94E6] When dozens of teams each wire up their own connections, security, and infrastructure for AI agents, the fix is a central registry that catalogs every tool and agent — not stricter team-level discipline.
+- [INS-260627-B89C] CIOs cannot govern agent work they cannot see.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -980,6 +1012,7 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260625-5EEE] A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - [INS-260626-E926] Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents.
 - [INS-260627-11E7] Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet.
+- [INS-260627-E257] There's a gap between a model not breaking at a million tokens and actually reasoning across them — performance degrades sharply (Chroma's 'context rot') well before the limit.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -1037,6 +1070,7 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260626-411D] Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.
 - [INS-260626-FBB1] A flyweight model with code execution drew correct Lego-brick bounding boxes 'right out of the gate' for a fraction of a penny — faster and cheaper than the larger model that reached the same answer.
 - [INS-260626-01AD] Do not hard-code provider speed knobs without a capability check and migration path.
+- [INS-260627-AA29] When a frontier model works but is too costly at scale, optimize the prompt for a cheaper model to claw performance back before reaching for fine-tuning.
 
 ## ai-development/llm-training
 - [INS-260326-8201] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
@@ -1068,6 +1102,7 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260625-8BC8] SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
 - [INS-260626-408A] The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - [INS-260626-21EA] Because small models have low knowledge capacity, the winning strategy is to make them very good at specific tasks (e.g. data extraction, tool use) and accept being weak at code or math nobody uses them for.
+- [INS-260627-C112] Don't fine-tune on your raw documents — generate a large synthetic dataset that describes them and train on that, or the model just memorizes and breaks.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -1086,6 +1121,9 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260627-B416] Every enabled MCP server injects tool descriptions into every system prompt — disable the ones you aren't using or they waste tokens and mislead the agent.
 - [INS-260627-F522] Wrap each third-party tool so it invokes the original function unchanged but carries a richer, hand-tuned description that encodes your team's hard-won operating knowledge.
 - [INS-260627-FF5D] Tag each registered server/agent with owner, environment, auth model, cost attribution, and the use cases consuming it — this metadata is what enables impact analysis and lineage, not nice-to-have decoration.
+- [INS-260627-1B11] The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
+- [INS-260627-8DF1] Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
+- [INS-260627-F2AE] An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
 
 ## ai-development/mental-models
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
@@ -1222,6 +1260,8 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260626-7F5B] Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - [INS-260626-14A2] Over 60% of vercel.com page views are now AI agents and platform usage is shifting from dashboard clicks to APIs and CLIs, so the agent-facing interface, not the UI, is the product surface that matters.
 - [INS-260626-C59C] Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
+- [INS-260627-8CFF] Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year.
+- [INS-260627-D21B] Replace the PRD with 'here is the eval data set and here is the eval we want the system to pass' — evals become the executable requirement and acceptance test for an AI feature.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1271,6 +1311,9 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260626-A928] Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
 - [INS-260626-0704] A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned.
 - [INS-260627-4411] A bare 'summarize this call' prompt yields a messy narrative paragraph, so use few-shot templates to force separate bullet lists, classify against a predefined enum of call reasons, and require the model to output why it chose each classification.
+- [INS-260627-DC30] If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
+- [INS-260627-050C] In a signature-based framework, parameter names and field descriptions literally become the prompt, so naming carries real semantic weight.
+- [INS-260627-AD6B] Use the rich English explanations of why an output was wrong — not just a pass/fail score — to drive prompt rewrites.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1323,6 +1366,10 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260627-8ADF] The real agent risk isn't bugs in one product — it's the inherent combination of data access, untrusted input, and outbound communication, which is irreducible and grows with capability.
 - [INS-260627-C36B] Safety filtering is a binary safe/unsafe classification, so a fine-tuned encoder (35ms, self-hostable, retrainable in hours) beats an LLM-judge that compounds seconds of latency per checkpoint.
 - [INS-260627-BEEB] Apply PII masking with buffer management early in the pipeline so credit card numbers, passwords, and personal data never hit the LLM's memory banks or cloud endpoint.
+- [INS-260627-B7F7] The agent that found a vulnerability should not be the agent that validates or verifies it.
+- [INS-260627-3E71] Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution.
+- [INS-260627-30A2] Forwarding the user's access token breaks agent autonomy because tokens expire, forcing repeated re-login; a delegated connection that stores refresh tokens lets the agent stay online.
+- [INS-260627-9298] Use a 'Swiss cheese' stack — model alignment, harness-level AST parsing and permissions, and network/filesystem sandboxing — so no single failure compromises a bash-powered agent.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1483,6 +1530,13 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260626-E255] The paper finds that post-update behavior depends primarily on whether the memory pipeline preserves temporally valid evidence before generation.
 - [INS-260627-E71B] Combine specialized open-source projects—document processing, search indexing, visual orchestration—into a high-quality starting baseline rather than reinventing each layer.
 - [INS-260627-D692] Provide template GitHub repos with Docker, auth, cost tracking, and observability already wired in so developers start from production-ready scaffolding and only write the agent's actual value.
+- [INS-260627-C26A] Masked IRL's implicit masking loss stayed robust under noisy LLM masks, while explicit masking degraded because it discarded potentially useful state.
+- [INS-260627-25FC] The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution.
+- [INS-260627-F5F2] If the simulator sees an unmapped device, unsupported method, or unreachable review host, the filter blocks and escalates rather than allowing the action.
+- [INS-260627-0723] Readable summaries and machine-readable ledgers should be checked against each other before a run closes.
+- [INS-260627-8735] The useful artifact is the parseable evidence block, not just the explorer's explanation.
+- [INS-260627-4514] Express what the program should do as typed signatures and defer the how to the model, so you can swap models without rewriting logic.
+- [INS-260627-D61C] Prototype agent tasks with polling, but switch to webhooks before you scale — holding workers open to poll dozens of multi-minute tasks is the part that breaks.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1550,6 +1604,8 @@ Generated on 2026-06-27 | 6001 actionable insights
 - [INS-260627-EC83] Don't install the 130-agent template; start with the agents you need and add one only when keeping quality high necessitates the split.
 - [INS-260627-9E58] Run automated hallucination checks to confirm the summary is grounded in the transcript, then keep a lightweight human verification step where the operator reviews the auto-populated summary, edits if needed, and confirms before it writes to the CRM.
 - [INS-260627-F3B6] Don't make an agent push to version control and wait minutes for a workflow to fail — validate up front locally by calling the same APIs or wrappers, so the agent's iteration loop stays tight.
+- [INS-260627-6C9A] The agent OS should be modular enough to swap models and workloads.
+- [INS-260627-6ACC] Stop building hundred-node classifier DAGs; use a master loop with tool calls, and push the steps that must be deterministic into rigorous tools you can eval and version.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.

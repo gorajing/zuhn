@@ -59,8 +59,8 @@ related:
   - INS-260605-8A88
   - INS-260626-5375
   - INS-260605-25B2
+  - INS-260627-0C43
   - INS-260625-3866
   - INS-260524-63C9
-  - INS-260424-FE8E
 ---
 Once the codebase is the thing agents operate on, it becomes infrastructure that must be legible to them. Concrete moves: modularize so a feature can be added in one spot without corrupting everything — including modularizing the *control flow* itself, because the fuzz an agent adds (parsing between types, stuffing things into state) tends to appear in the undefined gaps between your clearly-named steps. Lean into the RL by following known/conventional patterns rather than fighting them. Keep a simple core and push complexity to other abstraction layers. Critically, remove hidden magic — React server actions or an ORM over raw SQL hide intent from the agent, and 'if the agent can't see it, it can't respect it.' Then enforce these properties mechanically through linting rather than discipline: no bare catch-alls, a single query interface so SQL isn't scattered, one primitives/UI component library for consistency, no dynamic imports, and even unique function names — which improve legibility and token efficiency, because a grep that returns one result keeps the agent's loop on track. Erasable syntax-only TypeScript gives one source of truth between code and compiler so the agent finds errors without transpilation confusion.

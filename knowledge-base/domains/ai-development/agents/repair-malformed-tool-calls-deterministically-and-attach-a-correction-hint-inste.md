@@ -70,11 +70,14 @@ stance: >-
 related:
   - INS-260605-0312
   - INS-260625-5EEE
+  - INS-260627-277A
   - INS-260626-485E
   - INS-260625-3768
   - INS-260605-77EB
   - INS-260626-AC8E
   - INS-260627-9EBD
+  - INS-260627-8DF1
+  - INS-260627-F2AE
 ---
 Awais found that open models (DeepSeek V4 Pro, Kimi, MiniMax) frequently emit malformed tool-call arguments — an empty object or null where an optional field belongs, a JSON string where an array is expected, a markdown link wrapped around a file path — and then, when handed back a strict schema error, repeat the exact same wrong call up to ~56 times on average per billion tokens. His hypothesis: these models are trained to trust their own outputs ('whatever I'm telling you is correct'), so they don't treat error feedback as a signal to change.
 

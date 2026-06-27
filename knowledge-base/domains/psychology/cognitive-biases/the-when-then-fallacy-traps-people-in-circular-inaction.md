@@ -57,10 +57,10 @@ stance: >-
   conditions.
 related:
   - INS-260325-7B58
+  - INS-260627-02F2
   - INS-260412-8FB0
   - INS-260330-14CA
   - INS-260330-7A80
-  - INS-260522-51E7
   - INS-260404-B8D9
   - INS-260625-4355
 evidence:

@@ -55,6 +55,7 @@ related:
   - PRI-260406-DC9B
   - PRI-260324-36BF
   - INS-260501-2243
+  - INS-260627-8781
 ---
 The DORA 2025 findings directly pressure the broad version of INS-260322-1D52, the belief that AI breaks the Mythical Man-Month by letting companies throw money and compute at problems to close leads quickly. Google Cloud's summary says AI does not fix a team; it amplifies what is already there: strong teams become more efficient, while struggling teams expose and intensify their problems.
 

@@ -52,9 +52,9 @@ related:
   - INS-260327-A5EE
   - INS-260625-0297
   - INS-260625-7B5C
+  - INS-260627-277A
   - PRI-260328-94D4
   - PRI-260403-5FC4
-  - INS-260501-CF7D
 ---
 Cherny's repeated advice to LLM founders is to never build for the model of today: identify the frontier where the current model is weak but improving, build there, and let the next model release make the product work. Claude Code itself wrote ~10% of his code in February 2024 and was 'not very good at it' — they shipped anyway because the bet was on where the model was going.
 

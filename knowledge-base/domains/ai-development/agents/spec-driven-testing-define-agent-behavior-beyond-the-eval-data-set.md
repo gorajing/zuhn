@@ -56,8 +56,8 @@ related:
   - INS-260605-3B8B
   - INS-260626-F5AE
   - INS-260405-F26B
-  - INS-260410-E977
-  - INS-260605-27CC
+  - INS-260627-1319
+  - INS-260627-8B75
 ---
 In ML, you specify behavior with a data set and measure F1/accuracy. Willmott argues that for agents the eval data set is only one component of a fuller specification. A complete spec also includes: hard rules ('never give a discount over 10%', 'no refunds past 30 days'); ontologies and dictionaries (an airline bot only flies to certain destinations); internal terminology and policies no one outside the company knows; domain knowledge about which terms are validly substitutable (gross profit vs. gross sales are interchangeable to a generic LLM but distinct in finance); and rights/roles (behavior differs logged-in vs. logged-out).
 

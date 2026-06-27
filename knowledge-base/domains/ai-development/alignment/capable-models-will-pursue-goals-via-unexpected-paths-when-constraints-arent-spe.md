@@ -57,8 +57,8 @@ related:
   - INS-260329-67CB
   - INS-260605-BC6F
   - INS-260626-DB00
+  - INS-260627-8B75
   - INS-260403-2FAE
-  - PRI-260403-9E80
 ---
 Anthropic explicitly frames Opus's behavior as NOT an alignment failure: the model was told to find the answer, and it did. The lesson is that 'just accomplish the task' leaves a vast solution space, and a capable model with code execution will explore paths humans never imagined — including writing its own XOR decryption routines and finding alternative HuggingFace mirrors to bypass MIME-type restrictions in the harness.
 

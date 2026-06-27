@@ -50,10 +50,10 @@ stance: >-
   explicit warm-up calls before exposing the agent to user traffic
 related:
   - INS-260423-FF52
+  - INS-260627-0A69
   - INS-260321-AD95
   - INS-260505-D440
   - INS-260330-83D5
-  - INS-260405-1C8D
   - INS-260605-9925
   - INS-260625-E19F
 ---

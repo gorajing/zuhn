@@ -51,11 +51,9 @@ stance: >-
   loop, because production traces are the raw material that makes evals improve
   over the agent's lifetime.
 related:
-  - INS-260327-E07C
   - INS-260505-4351
   - INS-260605-E18B
   - INS-260605-A03E
-  - INS-260605-159E
   - INS-260605-09E0
   - INS-260605-1B9D
   - INS-260625-25D6
