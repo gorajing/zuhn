@@ -52,7 +52,6 @@ stance: >-
   years away because there is no large multimodal computer-use pretraining
   corpus analogous to the internet text that cracked NLP.
 related:
-  - INS-260327-1B9A
   - INS-260330-EEBD
   - INS-260410-F985
   - INS-260410-06DB

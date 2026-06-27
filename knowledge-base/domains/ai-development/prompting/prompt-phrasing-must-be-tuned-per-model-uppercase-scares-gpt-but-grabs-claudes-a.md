@@ -50,9 +50,8 @@ stance: >-
   Best-practice and AGENTS.md files are not portable across model families
   because identical phrasing produces opposite behavior in GPT versus Claude.
 related:
-  - INS-260321-703F
-  - INS-260514-1D60
   - PRI-260320-6847
+  - INS-260321-703F
   - INS-260605-117F
   - INS-260403-7D7A
   - INS-260605-C28F

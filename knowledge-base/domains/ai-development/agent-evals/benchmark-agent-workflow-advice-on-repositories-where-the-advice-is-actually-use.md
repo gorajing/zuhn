@@ -53,6 +53,7 @@ related:
   - INS-260514-D3CB
   - INS-260626-43C9
   - PRI-260403-9E80
+  - INS-260626-7A54
 ---
 The authors build CTX BENCH from 5,694 PRs across repositories that contain AGENTS.md or CLAUDE.md, then filter to 138 deterministic, testable instances across 12 repositories. This design addresses a benchmark mismatch: SWE-BENCH-style popular repositories are useful for coding-agent ability, but not sufficient for evaluating the marginal value of context files because many do not use them.
 

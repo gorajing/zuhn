@@ -54,7 +54,6 @@ stance: >-
   problem-solving accuracy more than extending internal chain-of-thought alone.
 related:
   - INS-260605-02FB
-  - INS-260605-D777
   - INS-260625-5184
   - INS-260626-2A5F
   - INS-260322-32E3

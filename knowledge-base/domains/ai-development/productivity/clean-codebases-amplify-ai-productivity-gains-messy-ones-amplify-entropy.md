@@ -47,9 +47,9 @@ related:
   - INS-260329-9074
   - INS-260330-7FAC
   - INS-260403-A851
+  - INS-260626-287B
   - INS-260625-868D
   - INS-260329-500E
   - INS-260329-1ACD
-  - INS-260625-1E2C
 ---
 A Stanford study of 120,000 developers found that AI's effect on productivity is conditional, not absolute: clean codebases amplify AI gains while unchecked AI in a messy codebase amplifies entropy. A case study showed a team's PR count rose under AI, but code quality fell and rework/refactoring time ballooned — netting only ~1% effective output increase. The leverage point isn't adopting AI, it's the substrate it operates on: test coverage, type coverage, documentation, and modularity. This reframes 'should we use AI' into 'is our codebase in a state where AI helps' — and makes investment in code hygiene a precondition for, not a competitor to, AI adoption.

@@ -43,11 +43,11 @@ stance: >-
   customers deeply enough, because genuine customer focus makes competitive
   moves largely irrelevant.
 related:
-  - INS-260329-6E0F
   - PRI-260406-0087
   - INS-260403-3A44
+  - INS-260626-A893
+  - INS-260329-6E0F
   - INS-260403-AEAF
-  - INS-260322-0C28
 evidence:
   - id: INS-260322-0C28
     type: SUPPORTS

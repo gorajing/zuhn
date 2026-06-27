@@ -50,6 +50,7 @@ related:
   - PRI-260324-2A76
   - INS-260330-6D2E
   - INS-260405-DADB
+  - INS-260626-6F00
 ---
 Anthropic explicitly calls out that without network isolation, a compromised agent just exfiltrates SSH keys and secrets over HTTP. Without filesystem isolation, a compromised agent edits shell configs or binaries to escape the sandbox and regain network access on next invocation. The two boundaries form an AND-gate, not an OR-gate.
 

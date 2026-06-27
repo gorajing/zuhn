@@ -45,7 +45,7 @@ related:
   - PRI-260406-6690
   - INS-260530-D34F
   - INS-260524-63C9
-  - INS-260320-DEAF
+  - INS-260626-BDAB
 ---
 The EliseAI talk argued that obvious AI slop may decline as models improve, but the gap between shipped code and human mental models will widen. The aviation analogy was Air France 447: automation worked until it handed control back, at which point skill atrophy mattered.
 

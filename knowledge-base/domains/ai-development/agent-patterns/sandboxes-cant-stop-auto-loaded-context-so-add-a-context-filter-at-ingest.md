@@ -60,7 +60,7 @@ related:
   - INS-260626-1C28
   - INS-260605-C86D
   - INS-260605-295D
-  - INS-260501-C59A
+  - INS-260626-B983
 ---
 Debois flags a gap that the rush to package and distribute skills creates: a registry full of community skills (he claims 99.9% are low quality) is also a supply-chain attack surface, and you can now run code from strangers on your laptop. The instinct is to sandbox the agent — but he points out the flaw. A coding agent by default loads your agent.md and skill.md with no restriction; the moment you download a skill, its context is loaded. Sandboxing constrains what the agent's tools can touch, but it does not filter the instructions entering the agent's head, so it cannot stop a prompt injection riding in on a downloaded skill.
 

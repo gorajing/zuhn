@@ -40,10 +40,10 @@ stance: >-
   context managers.
 related:
   - INS-260320-CE36
-  - INS-260605-91A9
   - INS-260625-05FF
+  - INS-260605-91A9
   - INS-260625-5045
-  - INS-260625-429B
+  - INS-260626-B983
 ---
 In Q&A, the speaker emphasized that longer context is useful but bounded by cost and training difficulty. The stronger approach is to index structure and retrieve context through the harness: file systems, code structure, call graphs, task history, and dependency relationships.
 

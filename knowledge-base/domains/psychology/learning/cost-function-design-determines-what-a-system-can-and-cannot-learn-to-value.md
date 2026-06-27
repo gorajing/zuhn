@@ -52,7 +52,6 @@ stance: >-
   emerge regardless of capacity
 related:
   - INS-260323-61CD
-  - INS-260330-3ADD
   - PRI-260406-CC90
   - INS-260625-50A0
   - PRI-260412-0C19
@@ -61,6 +60,7 @@ related:
   - INS-260330-2154
   - INS-260405-638B
   - INS-260404-4541
+  - INS-260409-5C28
 evidence:
   - id: INS-260330-3ADD
     type: EXTENDS

@@ -44,7 +44,6 @@ stance: >-
   Wiring agents to data via MCPs and pipes does not produce correct work because
   access is not the same as reasoning across that data.
 related:
-  - INS-260325-2DCD
   - INS-260329-BD83
   - INS-260409-F0F5
   - INS-260605-BC6F

@@ -50,10 +50,10 @@ stance: >-
   benchmarks
 related:
   - INS-260514-AE3E
+  - INS-260626-BDAB
   - PRI-260406-3EF8
+  - INS-260626-EAD3
   - INS-260405-68DC
-  - INS-260514-DFAE
-  - INS-260405-880C
 ---
 Gumroad's Devin is their #1 code contributor with 1,500+ merged PRs averaging 10/day. ChatPRD's Devin is their #2 contributor touching 100% of PRs. This signals a fundamental shift in how AI coding tools earn trust — not through capability demos but through sustained, measurable output alongside human teammates.
 

@@ -51,7 +51,7 @@ related:
   - INS-260625-99B0
   - INS-260605-4A94
   - INS-260626-33BE
-  - INS-260625-0961
+  - INS-260626-EAD3
 ---
 Agent behavior is non-deterministic, so a single pass/fail per task hides the real distribution. Two metrics capture this: pass@k measures the probability that at least one of k trials succeeds (rises toward 100% as k grows), while pass^k measures the probability that all k trials succeed (collapses toward 0% as k grows). At k=1 they're identical; by k=10 they tell opposite stories.
 

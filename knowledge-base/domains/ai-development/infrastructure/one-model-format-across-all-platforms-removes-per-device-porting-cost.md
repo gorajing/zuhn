@@ -49,7 +49,6 @@ stance: >-
   A single cross-platform model format (TFLite/LiteRT) is more valuable to edge
   deployment than per-platform optimization.
 related:
-  - INS-260403-5BD6
   - INS-260605-4860
   - INS-260410-B3C4
   - INS-260605-5A8E

@@ -59,7 +59,6 @@ stance: >-
   the blast radius of any exploit.
 related:
   - INS-260405-3E73
-  - INS-260410-0A28
   - INS-260410-E233
   - INS-260605-4597
   - INS-260625-2ED0

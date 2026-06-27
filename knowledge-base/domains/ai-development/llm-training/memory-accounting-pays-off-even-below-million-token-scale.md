@@ -51,7 +51,6 @@ stance: >-
   lengths, because freed memory can be reinvested to speed up training.
 related:
   - INS-260423-5F2F
-  - INS-260624-F048
   - INS-260625-05FF
   - INS-260625-E500
   - INS-260625-1955

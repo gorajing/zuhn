@@ -54,6 +54,6 @@ related:
   - INS-260605-C28F
   - PRI-260407-7FB7
   - INS-260605-BF58
-  - PRI-260405-FB37
+  - INS-260626-6B7B
 ---
 Generative image/video models trained by denoising never learn physical priors (a glass shouldn't pass through a table). The standard fix — representation alignment (RePA) — borrows an external pretrained encoder (e.g. DinoV2) to teach those priors, which BFL reports converges ~70x faster. But the technique carries three structural costs: a scaling ceiling (your generator can't grow past a frozen-checkpoint encoder), modality lock-in (an image encoder can't help you generate audio or video, forcing a Frankenstein stack of encoders), and objective misalignment (the encoder is trained to segment, your model to generate). The lesson generalizes: any time you accelerate a system by grafting on a frozen pretrained component, you've borrowed capability against a ceiling you didn't set — fast early gains, bounded long-run headroom.

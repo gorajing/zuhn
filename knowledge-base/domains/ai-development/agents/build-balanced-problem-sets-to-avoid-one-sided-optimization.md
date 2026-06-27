@@ -48,7 +48,6 @@ stance: >-
   should not, or optimization will drive the agent to over- or under-trigger
   that behavior.
 related:
-  - INS-260322-D6D7
   - INS-260625-D1F9
   - INS-260625-8A55
   - INS-260605-2186

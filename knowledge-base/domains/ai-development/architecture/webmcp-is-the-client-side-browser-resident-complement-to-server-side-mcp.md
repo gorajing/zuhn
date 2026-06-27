@@ -53,7 +53,6 @@ stance: >-
   In-browser agents need a client-side tool protocol that is distinct from, not
   a replacement for, server-side MCP.
 related:
-  - INS-260327-63B5
   - INS-260329-4D03
   - INS-260410-8ECF
   - INS-260605-8409
@@ -61,6 +60,7 @@ related:
   - INS-260605-0C56
   - INS-260605-75BB
   - INS-260605-6F34
+  - INS-260626-BC79
   - INS-260625-D295
   - INS-260410-85AD
 ---

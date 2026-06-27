@@ -60,8 +60,8 @@ related:
   - INS-260501-EA32
   - INS-260524-D5DB
   - INS-260404-D242
+  - INS-260626-7681
   - INS-260403-BFF3
-  - INS-260605-8BEA
 ---
 Hitting token limits and context overload on long OG Assist conversations, OpenGov found that 'rolling summarization was more effective than always stuffing in the latest and most recent messages.' They keep a running summary that refreshes after N messages, retain only the N-minus-5 or N-minus-10 most recent raw messages, and add a memory component so the agent can recall details from far earlier in the thread (e.g. '100 messages above') by querying the summary rather than the raw transcript.
 

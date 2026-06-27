@@ -51,7 +51,6 @@ stance: >-
   navigate and work more autonomously than scattered ones.
 related:
   - INS-260320-EA19
-  - INS-260329-075C
   - INS-260409-430B
   - INS-260410-0855
   - INS-260605-4AB0

@@ -52,8 +52,8 @@ related:
   - INS-260404-D711
   - INS-260409-F4AA
   - INS-260605-7FEA
+  - INS-260626-A2B9
   - PRI-260406-F51A
   - INS-260605-EA2E
-  - INS-260625-C700
 ---
 Factory's Missions front-loads a 'validation contract' during the orchestrator's planning phase: hundreds of assertions defining correctness, written before any code exists. Each feature is assigned one or more assertions, and the union of all features must cover every assertion. This inverts the common failure mode where tests are written after implementation. As Alvoeiro puts it, 'tests written after implementation don't catch bugs, they confirm decisions'—they are shaped by the code rather than by what the code was supposed to do, so a system relying on them eventually drifts. By defining correctness independently of implementation up front, validation becomes a fixed target the agents are measured against rather than a rationalization of whatever they happened to build. For anyone building autonomous coding systems, the actionable move is to separate the specification of 'what done means' in time and authorship from the code that satisfies it.

@@ -59,12 +59,12 @@ related:
   - INS-260409-667F
   - INS-260410-CDE9
   - INS-260501-35E3
-  - INS-260505-A0F7
   - INS-260605-AA21
   - INS-260605-A9B4
   - INS-260403-A101
   - PRI-260322-94C4
   - INS-260409-1FD3
+  - INS-260412-9777
 ---
 A natural assumption is that post-training and RLHF pull a model back toward the documentary record. The talk argues the opposite: alignment amplifies the distortion, for a structural reason. Human raters evaluate outputs using their own conceptual frameworks, and those frameworks were built by the same culturally dominant narratives that saturate the corpus — the rater grew up with the same mythologized Hamilton or Lincoln everyone did. So when alignment optimizes for human preference, it optimizes for outputs that conform to the rater's already-mythologized experience.
 

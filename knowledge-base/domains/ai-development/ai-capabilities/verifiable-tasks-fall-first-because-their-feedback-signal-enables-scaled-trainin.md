@@ -52,8 +52,8 @@ related:
   - INS-260329-58E7
   - INS-260404-9AEC
   - PRI-260403-EA13
+  - INS-260626-7658
   - INS-260320-F8FD
-  - INS-260404-CE26
   - INS-260625-074C
 ---
 Dario Amodei draws a sharp distinction between verifiable tasks (code compiles, proofs check out, math resolves) and non-verifiable tasks (novel quality, strategic correctness). The verification signal is what makes scaled RL training possible — you can generate millions of attempts and automatically score them. This is why coding and math are falling first, not because they're 'easier' but because their feedback loops are tighter.

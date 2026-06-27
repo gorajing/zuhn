@@ -52,6 +52,7 @@ related:
   - INS-260323-3F39
   - PRI-260403-7585
   - INS-260625-407C
+  - INS-260626-5545
 ---
 SWE-EVO directly tests whether agentic workflows can carry models through a realistic long-horizon software task: interpret release notes, coordinate modifications across a large codebase, and preserve existing behavior. The reported best resolved rate is only 25%, while gpt-5.2 drops from 72.80% on SWE-Bench Verified to 22.92% on SWE-EVO.
 

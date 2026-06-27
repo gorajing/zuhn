@@ -52,7 +52,6 @@ resolutions:
     2030 when AI is actually more capable, but society needs to build
     critical-thinking muscles about AI-generated content now.
 related:
-  - INS-260322-2E33
   - PRI-260327-0D6E
   - PRI-260323-0942
   - PRI-260328-C006
@@ -62,6 +61,7 @@ related:
   - INS-260323-99E0
   - INS-260323-4ADE
   - INS-260404-D6D4
+  - INS-260403-69C3
 stance: >-
   The MoltBook saga showed that human-prompted agents can create viral
   fearmongering content that even smart people believe is autonomous AI scheming

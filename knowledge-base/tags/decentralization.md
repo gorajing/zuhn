@@ -1,6 +1,7 @@
 # Tag: decentralization
 
 - `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
+- `INS-260626-8D48` Security teams should bless one gateway platform as a single root of trust, letting MCP development be decentralized without losing central control.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260403-3518` Many independent stablecoin projects pegged to USD create redundancy that makes the dollar harder to overtake than a single CBDC would.
 - `INS-260323-E214` The biggest misconception about China's economy is that it is centrally commanded — in reality, local mayors and provincial governors drive reform and innovation in a fiercely competitive decentralized system.

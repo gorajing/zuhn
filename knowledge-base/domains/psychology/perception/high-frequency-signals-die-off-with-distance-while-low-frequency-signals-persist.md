@@ -50,14 +50,15 @@ stance: >-
   transmission is fundamentally different in character from the information
   available at the source.
 related:
+  - INS-260626-5E7E
   - INS-260330-5DD4
   - INS-260412-B650
   - INS-260412-3252
   - INS-260605-83A7
-  - INS-260514-4BD5
   - INS-260409-7055
   - INS-260412-A52B
   - INS-260412-600E
+  - INS-260514-4BD5
 evidence:
   - id: INS-260329-D8BC
     type: CHALLENGES

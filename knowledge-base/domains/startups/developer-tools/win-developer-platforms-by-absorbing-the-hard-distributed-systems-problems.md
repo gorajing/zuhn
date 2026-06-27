@@ -64,10 +64,10 @@ stance: >-
   userland.
 related:
   - INS-260625-E04B
+  - INS-260626-8D48
   - INS-260403-7B04
   - INS-260424-123B
   - INS-260514-D155
-  - INS-260514-C1B3
 ---
 A recurring pitch in the talk is that hard infrastructure problems — resumable streaming (refresh mid-stream and it continues), multi-tab and multi-device sync, real-time collaborative editing — should be solved once by the platform and handed to developers for free, rather than patched into every application in userland. In a stateless world each of these forces you into databases, replication, and sticky sessions; with a stateful primitive you just reconnect to the same instance and it resumes. The framing is blunt: 'make it Cloudflare's problem,' so app teams can 'worry about making money.'
 

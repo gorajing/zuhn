@@ -56,9 +56,9 @@ related:
   - INS-260402-E040
   - INS-260405-4523
   - INS-260403-19C9
+  - INS-260626-B983
   - INS-260410-C045
   - INS-260403-8EF3
-  - INS-260325-EE14
 ---
 James Evans's nature-paper finding: looking at all uses of AI by scientists over 30 years (per-year, per-field). When scientists switch from non-AI to AI methods on a problem, their citation impact rises ~300%. They're 60% less likely to leave the academy, 1.4 years earlier to senior professor. But they all move in the same direction — toward the big-data central topics in their field. As parameter intensity in models increases, the acceleration toward big-data centers also accelerates. The space of questions scientists ask narrows. They cite each other less and reference common big-data resources more. AI is functioning as a centripetal force — pulling everyone toward a smaller set of questions and a more homogeneous research output, faster than it's pulling researchers into new domains.
 

@@ -1,7 +1,8 @@
 # Topic: quality
 
-> 16 insights
+> 17 insights
 
+- `INS-260626-18F5` [high] Bugs arrive at a constant rate, so fixing them now versus later costs the same total effort — you just pay a one-time cost to drain the backlog to zero.
 - `INS-260402-EF63` [high] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260403-4942` [high] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 - `INS-260402-2FDF` [high] Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.

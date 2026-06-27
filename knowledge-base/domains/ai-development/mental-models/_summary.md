@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 24 insights
+> 25 insights
 
 - `INS-260605-71E7` [high] DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260514-13B6` [high] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
@@ -9,6 +9,7 @@
 - `INS-260330-798D` [high] Computing the 100th power of a matrix is a nightmare in standard coordinates but trivial in an eigenbasis — just raise each diagonal eigenvalue to the 100th power.
 - `INS-260410-DA81` [high] Because d(loss)/d(logits) equals softmax(logits) − onehot(y), the gradient row sums to zero — every incorrect class is pushed down by exactly the amount the correct class is pushed up, with force scaling as the prediction's confidence in wrong answers.
 - `INS-260514-A0AC` [high] Quantum effects aren't rare — they're ubiquitous, but every system entangles with so many environmental particles that the correlations spread out and become invisible. Classical reality is an emergent layer hiding the quantum substrate.
+- `INS-260626-5E7E` [high] Adding Gaussian noise drowns out high frequencies first and low frequencies last, so diffusion effectively generates images coarse-to-fine — a 'spectral autoregression.'
 - `INS-260330-F493` [high] Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260330-BF2A` [high] Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-9FCF` [high] Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.

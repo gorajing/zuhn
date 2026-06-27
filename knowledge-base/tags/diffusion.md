@@ -10,9 +10,11 @@
 - `INS-260501-2759` Wider diffusion = more vendors willing to comply, not more places for resistance to take root.
 - `INS-260625-02C7` Diffusion serving optimizations (quantization, caching, distillation, context parallelism) are all composable, so start with the cheapest lever and add more only until quality and latency targets are met.
 - `INS-260625-57C1` Distribution-based distillation (match where the teacher ends up) currently yields better quality than trajectory-based distillation (mimic each denoising step), and hybrids of the two give the best stability-quality balance.
+- `INS-260626-5E7E` Adding Gaussian noise drowns out high frequencies first and low frequencies last, so diffusion effectively generates images coarse-to-fine — a 'spectral autoregression.'
 - `INS-260625-E464` Unlike LLM distillation (which shrinks parameters), diffusion 'step distillation' keeps the same parameter count but trains a student to match quality in 4–8 (or even 1) denoising steps instead of 50, yielding 10x–200x speedups.
 - `INS-260625-A02C` The diffusion serving ecosystem borrows concepts from mature LLM serving, but they must be re-derived: KV cache has no direct analog (no per-token generation), and quantization helps less because diffusion is attention-heavy.
 - `INS-260625-8624` The diffusion model is 'dumb' and renders instructions literally; a larger language-model prompt rewriter supplies the intelligence by expanding terse user intent into exhaustive descriptions.
+- `INS-260626-21B7` Curating the training data is frequently a better investment of effort than tuning the model, but academic incentives train researchers to ignore data.
 - `INS-260410-B47A` A decade ago virtually every major AI figure worked at Google — Ilya Sutskever, Hinton, Krizhevsky, Dario Amodei, Karpathy, Shazeer, Hassabis, Suleyman — yet the commercialization of their work mostly happened at OpenAI, Anthropic, and Tesla after they left.
 
 

@@ -69,7 +69,6 @@ related:
   - INS-260328-9C16
   - INS-260626-1759
   - INS-260603-6D08
-  - INS-260605-9F7A
 ---
 In 1999, Google signed Netscape to power its organic search results and insisted on a 'Powered by Google' tag at the bottom of every results page. The Netscape deal brought 3 million searches per day and came close to tipping over Google's infrastructure. By June 2000, the Yahoo deal doubled daily searches to 14 million and paid Google $7.2M in 2001 — enough to bridge the dot-com winter when venture capital was unavailable.
 

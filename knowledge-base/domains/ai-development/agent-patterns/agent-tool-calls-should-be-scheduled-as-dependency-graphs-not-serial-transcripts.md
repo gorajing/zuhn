@@ -43,11 +43,11 @@ stance: >-
   true dependencies, because language-model token order should not dictate
   execution order.
 related:
-  - INS-260605-D0A0
-  - INS-260605-0C88
   - INS-260605-0819
-  - INS-260605-0A68
-  - INS-260605-D912
+  - INS-260626-475E
+  - INS-260626-BC79
+  - INS-260605-0C88
+  - INS-260605-D0A0
 ---
 The talk used function calling to show a common inefficiency: the model emits one search or lookup, waits for it, then emits another even when the two calls are independent. A harness can treat tasks as a dependency graph and dispatch independent calls in parallel.
 

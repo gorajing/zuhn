@@ -58,7 +58,6 @@ stance: >-
   complain about.
 related:
   - INS-260330-1A23
-  - INS-260605-3588
   - INS-260626-C51E
   - INS-260605-ACC9
   - INS-260410-1430

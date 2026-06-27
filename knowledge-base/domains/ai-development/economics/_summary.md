@@ -1,6 +1,6 @@
 # Topic: economics
 
-> 16 insights
+> 17 insights
 
 - `INS-260625-02A3` [high] Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
 - `INS-260405-3240` [high] AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable.
@@ -17,5 +17,6 @@
 - `INS-260603-915A` [medium] Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
 - `INS-260413-9769` [medium] Estimated US consumer surplus from generative AI tools reached $172B annually by early 2026 with median per-user value tripling between 2025 and 2026 — mostly captured through free access.
 - `INS-260410-A325` [medium] AGI will compress the measured GDP of cognitive work even as it vastly expands the value produced, so total energy throughput becomes a better civilizational yardstick than GDP.
+- `INS-260626-FEA0` [medium] Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns.
 - `INS-260410-2383` [medium] Ten Napoleons are not worth 400,000 soldiers — parallelizing AI researchers hits diminishing returns fast, and the binding constraints become taste and compute.
 - `INS-260603-50B1` [medium] Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.

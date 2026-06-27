@@ -49,16 +49,16 @@ stance: >-
   Holding compute and task count constant, curating for high task quality yields
   several times more RL improvement than adding more low-quality tasks.
 related:
-  - INS-260320-96C9
   - INS-260410-3A08
   - INS-260410-5088
-  - INS-260410-5951
   - INS-260412-9777
   - INS-260605-0D57
+  - INS-260410-5951
   - INS-260625-D790
   - INS-260625-43B3
   - INS-260625-ED7E
   - INS-260625-2E48
+  - INS-260625-B5AD
 ---
 Snorkel ran two RL training runs with the same model, the same compute budget, and the same number of tasks — varying only whether the tasks came from the 'accepted' (high-quality) or 'rejected' (low-quality) bucket. The low-quality set moved the base model about 1%; the high-quality set moved it about 6%. That ~5x difference is attributable purely to task fidelity, since every other variable was held fixed.
 

@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260403-2F4D
   - INS-260409-53F7
+  - INS-260626-EF16
   - INS-260410-CD01
   - INS-260327-C1A4
-  - INS-260625-1520
 ---
 OpenAI distinguishes manager patterns, where a central agent calls specialized agents as tools, from decentralized handoffs, where peer agents transfer control. The manager pattern preserves one coherent user-facing surface, while handoffs fit triage-like flows where another specialist should own the interaction.

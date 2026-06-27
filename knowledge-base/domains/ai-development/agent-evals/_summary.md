@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 68 insights
+> 72 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -16,6 +16,7 @@
 - `INS-260626-32B6` [high] Reasoning evals need controllable complexity and trace analysis, not just final accuracy on famous benchmark sets.
 - `INS-260626-ECC7` [high] Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
 - `INS-260626-33BE` [high] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
+- `INS-260626-475E` [high] Instead of micro-optimizing individual tool descriptions, GitHub evals them against each other so tools don't fight over when to be called — the description that makes an agent always call a tool is as bad as the one that makes it never call it.
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
 - `INS-260626-AC18` [high] When you have no production traffic, curate known edge cases into a golden dataset so releases rest on evidence rather than vibes.
@@ -34,6 +35,7 @@
 - `INS-260625-7165` [high] Convincingness and fidelity are independent properties, so an eval that scores convincingness tells you nothing about whether the persona's reasoning is faithful to the record.
 - `INS-260625-25D6` [high] Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
 - `INS-260625-0E60` [high] The best eval is an environment that can measure whether the decision worked.
+- `INS-260626-518C` [high] Arena's 'both responses are bad' rate among top-25 models fell from ~17% pre-reasoning to ~12% after o1 to ~9% now — real improvement, but a stubborn plateau far from zero that the soaring benchmark charts don't reflect.
 - `INS-260625-18D0` [high] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
 - `INS-260626-9155` [high] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260625-9644` [high] When a task has objective consequences, evaluate the consequence, not the prose around it.
@@ -44,6 +46,7 @@
 - `INS-260626-F335` [high] OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - `INS-260626-AF37` [high] Build context tests in tiers — lint the spec, check comprehension, judge conventions with an LLM, then give the judge tools so it actually runs the result.
 - `INS-260626-EDB3` [high] Anyone can vibe-code the eval UI; the real engineering moat is a data layer that handles huge, unstructured, high-velocity agent traces under two conflicting query patterns.
+- `INS-260626-60C2` [high] Invest in a human-labeled dataset (pass/fail plus a short critique), generate eval outputs from your real system rather than synthesizing them, and calibrate the judge to a domain expert using train/dev/test splits and F1.
 - `INS-260625-EC9A` [high] The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260626-983E` [high] The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260626-8DAD` [high] If you can write it as a deterministic check, do; only fall back to LLM-as-judge for nuance like tone or brand fit—and sample its use to control cost.
@@ -53,6 +56,7 @@
 - `INS-260626-1673` [medium] LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260625-C1E8` [medium] AgentRun gates should distinguish fast blockers from slower calibration signals.
 - `INS-260625-6178` [medium] Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
+- `INS-260626-F694` [medium] Open user prompts give breadth no condensed benchmark can match, a 'both bad' vote captures absolute (not just relative) quality, and the benchmark never saturates because there's always a better possible answer.
 - `INS-260625-ED7E` [medium] METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260626-B149` [medium] A growing class of users ignores the eval UI entirely and just wants a coding agent (Claude Code, Codex) to run pure SQL on the trace backend, pull data into context, and improve their agent for them.
 - `INS-260625-4D09` [medium] METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.

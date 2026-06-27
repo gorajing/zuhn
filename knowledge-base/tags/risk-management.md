@@ -4,10 +4,11 @@
 - `INS-260321-1A03` The Pentagon discovered its AI vendor contracts included restrictions that could shut off models mid-operation if terms were violated — an existential risk when AI is embedded in combat command and control.
 - `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
-- `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260409-9991` Clinical and recreational psychedelic use are different interventions and their risk/benefit data should not be pooled.
+- `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
+- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260326-6D53` The opposite of fragile is not robust (indifferent to shocks) but antifragile (benefits from shocks), a distinction with massive implications for portfolio construction and system design.
 - `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - `INS-260404-EEAF` Most fortunes are destroyed by bad investments rather than extravagant spending because investments bypass our innate alarms about self-indulgence.
@@ -15,7 +16,6 @@
 - `INS-260412-B47E` Apparent profitability creates a perverse incentive to avoid auditing the profit source, enabling fraud to compound unchecked.
 - `INS-260329-7B15` Rich people buy things for zero dollars that can't go to zero, while poor people buy lottery tickets that almost certainly will.
 - `INS-260410-5871` Run stress tests against the worst outcome ever recorded for each exposure, not against the milder scenarios regulators or consensus supply.
-- `INS-260410-B74C` Choose to be modestly less profitable than peers in booms so you can remain standing — and acquire them — during busts.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260329-B424` Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.
 - `INS-260323-2FF9` Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
@@ -50,11 +50,11 @@
 - `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260329-6130` Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
+- `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-1217` Low startup costs align founder and investor risk appetites by letting founders diversify across multiple ventures over time.
 - `INS-260403-70B9` Tracking total capital deployed across follow-on rounds rather than just the initial investment reveals the true risk exposure and changes return calculations significantly.
 - `INS-260403-EAFC` Scenario models only work when assumptions cascade through the entire financial stack, not just the revenue line.
 - `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
-- `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260412-600E` Without radar, transatlantic planes need 140-mile separation vs 5 miles with radar — a 28x penalty for lost visibility.
 - `INS-260412-1DBF` Leeson was both head of Singapore trading operations AND in charge of Singapore accounting, making his fraud invisible to standard oversight.
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.

@@ -44,11 +44,11 @@ stance: >-
   fix the core experience, not to add more features; adding features to a bad
   core produces higher slop surface area, not better products
 related:
-  - INS-260327-7CE9
   - INS-260402-B36F
   - INS-260423-6CC0
   - INS-260323-8AA1
+  - INS-260327-7CE9
+  - INS-260626-04B1
   - INS-260424-BFDC
-  - INS-260321-A56C
 ---
 Feature addition is a response to complaints that does not require the founder to confront the possibility that the core product is bad. Adding a feature is emotionally easier, demo-worthy, and marketable. But every feature on a broken core increases maintenance burden, confuses users, and obscures the one question that matters: does the product solve the intended problem? The correct response to 'it's bad' is almost always removal or redesign of the core, not addition of adjacency. Founders who default to adding features when users are unhappy systematically produce products with large surface area and low engagement — the slop profile.

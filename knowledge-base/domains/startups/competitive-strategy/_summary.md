@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 642 insights
+> 644 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -530,6 +530,7 @@
 - `INS-260330-DF31` [medium] 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge.
 - `INS-260330-2064` [medium] A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
 - `INS-260329-5B18` [medium] Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
+- `INS-260626-FC81` [medium] Shopify deliberately absorbed years of bugs, churn, and unlimited tool spend to stay roughly six months ahead of competitors — a trade that only pays off for firms whose edge is innovation velocity and hiring, not for businesses competing on something physical.
 - `INS-260501-1774` [medium] Twice a year a foundation model lab ships a step change. Don't roadmap around incremental capability — roadmap around the next inflection.
 - `INS-260405-487E` [medium] AI communication agents are commoditizing — companies without them will have operational disadvantages, not just missed opportunities.
 - `INS-260524-3793` [medium] Z Venture Capital CEO: the language barrier is becoming meaningless and the proprietary-data advantage is going away — everyone now competes globally.
@@ -620,6 +621,7 @@
 - `INS-260403-47C0` [medium] Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260403-5598` [medium] Being pushed into the spotlight too early creates expectations that half-built products cannot meet, destroying momentum before it forms.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
+- `INS-260626-A893` [medium] Quality has no measurable metric and doesn't move revenue until it does, so it gets neglected — then a higher-quality competitor slowly drains your users with no AB test to warn you.
 - `INS-260403-04C9` [medium] McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
 - `INS-260403-3673` [medium] Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260403-5C9D` [medium] SaaS survival depends on building agentic capabilities atop existing data moats before AI overlays capture the user relationship.

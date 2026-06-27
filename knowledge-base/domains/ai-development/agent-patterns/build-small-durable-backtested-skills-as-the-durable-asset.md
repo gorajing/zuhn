@@ -54,11 +54,11 @@ stance: >-
   validated against your historical data — not the agents or models themselves.
 related:
   - INS-260327-D888
+  - INS-260626-287B
   - INS-260625-C700
   - INS-260322-C6CE
   - INS-260605-BDFF
   - INS-260605-25B2
-  - INS-260530-D34F
 ---
 Intercom is technically conservative — they prefer single tools used extremely well, which is why they run Ruby on Rails monoliths. They apply the same lens to AI: rather than have everyone build bespoke multi-agent orchestrators, they focus attention on small, high-quality, durable, testable skills that 'do the job extremely well,' considering the lifetime value of what they produce. Specific implementations will change, but Scanlan is confident that 'writing down how to do work in Intercom will be valuable no matter what happens.'
 

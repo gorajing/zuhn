@@ -64,10 +64,10 @@ related:
   - INS-260320-B210
   - INS-260320-F872
   - INS-260410-6B30
+  - INS-260626-5D7C
   - INS-260501-A1C7
   - INS-260626-15F3
   - INS-260402-5034
-  - INS-260626-93C7
 ---
 The educator's analysis: a 1000-line CLAUDE.md is roughly 7000 tokens injected into context every single turn. Across a long session, that compounds significantly. Most of what's in those files (framework, language, conventions) the model can derive from the actual codebase. The valuable content for an agent.md file is genuinely proprietary or methodology-specific information that the model can't derive: company-specific terminology, internal decision rules, references to non-public systems.
 

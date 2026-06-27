@@ -48,11 +48,11 @@ resolutions:
     Nvidia flat for 6 months, and Oracle down 35%, the correction may already be
     underway.
 related:
+  - INS-260626-A893
   - INS-260501-2322
   - INS-260327-D0F4
   - PRI-260328-6A8D
   - INS-260327-2B62
-  - INS-260404-6751
   - INS-260403-59B0
   - INS-260423-679C
 stance: >-

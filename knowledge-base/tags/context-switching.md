@@ -1,7 +1,7 @@
 # Tag: context-switching
 
-- `INS-260625-4DE2` Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
 - `INS-260423-6CC0` Cody Schneider: I'm comfortable with 15 windows open — I'm about to literally buy a new computer because I need more RAM.
+- `INS-260625-4DE2` Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
 - `INS-260403-FA30` Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
 - `INS-260403-D746` Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.

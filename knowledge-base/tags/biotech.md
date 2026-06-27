@@ -12,10 +12,10 @@
 - `INS-260404-F01F` Biotech and health companies captured 53% of all US Series A funding in early 2024, totaling $5.6B across 110 rounds.
 - `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
-- `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
-- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
 - `INS-260625-8D0D` The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone.
 - `INS-260404-880A` J&J's $1B+ investment in a 2M sq ft cell therapy facility marks the transition from experimental to industrial-scale advanced therapy manufacturing.
 - `INS-260323-D631` We can now precisely edit DNA like a text editor, but we still lack the postal system to deliver those edits to specific cell types inside the body.
+- `INS-260404-F22C` Biotech and health tech VC funds are raising at dramatically larger scales than software-focused peers.
+- `INS-260404-5D6E` The largest venture rounds are concentrating in AI infrastructure and biotech, signaling investor preference for capital-intensive defensible businesses.
 - `INS-260403-0020` Platform companies should monetize secondary assets via licensing while self-developing their lead candidate.
 - `INS-260403-04AF` Software IP is nearly worthless as a moat because the field evolves faster than patents can protect, but bio/techbio IP remains a genuine durability source.

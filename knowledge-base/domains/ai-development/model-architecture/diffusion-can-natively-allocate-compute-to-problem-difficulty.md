@@ -62,6 +62,7 @@ related:
   - INS-260605-D37A
   - INS-260320-D972
   - INS-260605-C46E
+  - INS-260626-EB91
 ---
 Two related properties fall out of diffusion's iterative process. First, dynamic computation: giving the model a larger forward-pass budget roughly monotonically raises quality across evals, because even a nearly-clean output gets re-examined and corrected. Second, adaptive computation: the model can be trained to determine its own stopping point. Outputting 100 digits of pi (100 tokens) took only 4 steps because it's memorized; FizzBuzz took 18; 'explain quantum mechanics in a paragraph' took 31. Across benchmarks, harder evals (GPQA Diamond) consumed more steps than easy ones (MBPP basic Python) with no external controller.
 

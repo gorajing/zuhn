@@ -58,6 +58,7 @@ related:
   - INS-260403-B89E
   - INS-260403-2F40
   - INS-260625-4AB6
+  - INS-260626-FC81
 stance: >-
   AI programming tools have a unique competitive dynamic where every model
   improvement creates new product possibilities, making iteration speed the ...

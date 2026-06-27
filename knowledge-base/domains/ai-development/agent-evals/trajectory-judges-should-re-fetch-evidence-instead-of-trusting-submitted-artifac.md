@@ -49,7 +49,6 @@ stance: >-
   protocol-violating.
 related:
   - INS-260410-AA6E
-  - INS-260605-C536
   - INS-260605-B13C
   - INS-260624-6753
   - INS-260625-6178

@@ -1,8 +1,8 @@
 # Tag: behavior
 
 - `INS-260625-3768` RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.
-- `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260329-1D3B` Soft skills decompose into trainable micro-behaviors — patience is just a bundle of specific habits you can practice.
 - `INS-260325-64FD` We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
 - `INS-260403-1A08` Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
+- `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.

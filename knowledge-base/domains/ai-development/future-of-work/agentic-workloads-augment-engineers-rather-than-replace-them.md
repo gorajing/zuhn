@@ -51,7 +51,6 @@ stance: >-
   Running agents at scale removes tedious work and frees engineers for creative
   work rather than eliminating their jobs.
 related:
-  - INS-260327-9192
   - INS-260501-17BB
   - INS-260501-D6B8
   - INS-260530-D34F

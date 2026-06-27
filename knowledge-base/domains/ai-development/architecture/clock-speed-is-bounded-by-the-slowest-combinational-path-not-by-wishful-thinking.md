@@ -59,6 +59,6 @@ related:
   - INS-260625-C1E8
   - INS-260405-5649
   - PRI-260426-9730
-  - INS-260409-7055
+  - INS-260409-34EA
 ---
 Naive intuition says 'to go faster, speed up the clock.' The video punctures this: each logic gate has a tiny propagation delay, and if your ALU has 50 gates on its slowest route, the clock period must be at least 50 gate-delays long or the output will not have stabilized when it's latched. This is why modern CPUs don't just run at 100 GHz — the physics of electrons moving through silicon sets a floor. The engineering response is to shorten critical paths, parallelize (more transistors, same clock), and pipeline (decompose a single instruction into stages that overlap). Any performance conversation that ignores the critical path is missing the actual constraint.

@@ -6,7 +6,9 @@
 - `INS-260605-9527` The weaver's-hands bottleneck moves from writing code to taste and orchestration; the hard question becomes who to say no to, not how to say yes.
 - `INS-260403-A2E9` As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - `INS-260501-D9D1` Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why.
+- `INS-260626-0FA9` AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
 - `INS-260625-F9B2` Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste.
+- `INS-260626-EA1D` Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
 - `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 - `INS-260404-5AEB` Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260404-0570` You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
@@ -16,9 +18,9 @@
 - `INS-260404-8A87` Only copy work you authentically enjoy, not work you admire for its status.
 - `INS-260501-93DD` Taste = honest evaluation of quality. No honesty, no taste. No taste, no excellence. Taste isn't optional.
 - `INS-260403-E33F` Non-affiliate, taste-driven curation signals authenticity and builds deeper audience trust than monetized recommendation lists.
+- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260403-F657` If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260403-8E4D` Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260402-D2C9` You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260330-072C` Great recruiters are great sourcerers who find tinkerers and outliers before the market recognizes them.

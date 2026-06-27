@@ -50,7 +50,7 @@ related:
   - INS-260625-B985
   - PRI-260405-2DE5
   - PRI-260405-4B06
+  - INS-260626-F694
   - INS-260605-8789
-  - PRI-260328-B2EA
 ---
 Bredin pushes back on the question 'how well does state-of-the-art diarization work?' by showing diarization error rate (DER) swings from ~2% on clean two-person telephone speech to ~41% for the best system in a noisy multi-friend restaurant setting. The same model, radically different numbers. A second example: NVIDIA Parakeet reports 11.4% word error on AMI headset microphones but ~26% on the distant tabletop microphone from the same meetings, because one is single-speaker close audio and the other is multi-speaker distant audio. The lesson for anyone selecting or benchmarking speech models: a leaderboard number is only meaningful paired with its acoustic conditions, and you must benchmark on audio that matches your deployment, not on the vendor's easiest split.

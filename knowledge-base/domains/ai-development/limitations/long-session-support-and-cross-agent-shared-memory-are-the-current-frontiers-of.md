@@ -53,11 +53,11 @@ stance: >-
   sessions and cross-agent shared memory — the current generation forces
   builders to bolt these on, which is where production failures cluster
 related:
-  - INS-260329-818A
   - INS-260603-6FE3
+  - INS-260329-818A
+  - INS-260626-7681
   - INS-260605-D912
   - INS-260421-60D9
-  - PRI-260328-EE02
 ---
 This is forward-looking signal: a production deployer of one of the leading agent frameworks (Google ADK) is publicly naming the two gaps they had to patch around. Both are framework-level concerns, not application logic — long sessions are the difference between 'this agent ran for the 30-min triage' and 'this agent owned the incident from page to RCA.' Cross-agent shared memory is what lets the mitigation agent know what the triage agent learned without re-querying.
 

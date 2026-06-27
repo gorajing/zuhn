@@ -54,8 +54,8 @@ related:
   - PRI-260321-14D8
   - PRI-260406-DE8A
   - INS-260530-C385
+  - INS-260626-BDAB
   - INS-260327-575D
-  - INS-260326-80B1
 ---
 Ajeya Cotra's Bio Anchors report estimated ML algorithms were ~2.5 orders of magnitude less efficient than the brain, anchored on comparisons like dialysis machines vs kidneys and solar panels vs leaves. Commenter David Schneider-Joseph pointed out a fundamental flaw: these reference points have nothing to do with where ML algorithms specifically were in 2020. The same anchors would have yielded near-identical estimates in 2000 or 2040.
 

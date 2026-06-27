@@ -50,9 +50,9 @@ related:
   - INS-260625-8A55
   - INS-260625-D1F9
   - INS-260530-C385
+  - INS-260626-60C2
   - INS-260605-2A01
-  - INS-260410-F40F
-  - INS-260625-C08B
+  - INS-260626-A928
 stance: >-
   Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does
   the hook describe a result, not a feature?') to make optimization ma...

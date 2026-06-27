@@ -43,12 +43,12 @@ stance: >-
   semantically equivalent tool-schema updates can break agents that look
   competent in-distribution.
 related:
-  - INS-260410-60C8
   - INS-260410-EE5C
   - INS-260605-52E4
+  - INS-260626-475E
   - INS-260321-A56C
   - INS-260625-3768
-  - INS-260625-26FE
+  - INS-260410-60C8
 ---
 The benchmark distinguishes task shift from tool environment shift. Tool environment shift changes invocation protocols while preserving functionality, such as moving from Go(receptacle=...) to NavigateTo(destination=...) or a grouped ReceptacleControl(action=..., target=...) schema.
 

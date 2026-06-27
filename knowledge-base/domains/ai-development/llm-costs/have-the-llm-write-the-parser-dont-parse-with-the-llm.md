@@ -55,10 +55,10 @@ stance: >-
   deterministically beats sending every page through the model.
 related:
   - INS-260625-FE3E
+  - INS-260626-5D7C
   - INS-260626-715B
   - INS-260410-C022
   - INS-260323-2E51
-  - INS-260330-3AF7
 ---
 The speaker's scaling tip is to keep the LLM out of the hot loop. Parsing each of thousands of pages with the model is token-heavy, slow, and non-deterministic. Instead, use the LLM once—at design time—to author a parser for the site's structure, then run that script across all pages. He cites ~99% token savings, plus reproducible output. A related micro-optimization is scraping pages as markdown rather than raw HTML so tokens aren't wasted on tags when the model is in the loop.
 

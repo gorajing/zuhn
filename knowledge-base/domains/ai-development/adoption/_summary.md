@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 76 insights
+> 77 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -70,6 +70,7 @@
 - `INS-260530-E6AA` [medium] Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
 - `INS-260626-C72F` [medium] Investing $100K–$1M/year on tokens now lets you live in 2028 today — a one-time time warp to leapfrog Fortune 500s and incumbents before the same capability costs a couple hundred dollars.
 - `INS-260403-C10D` [medium] The biggest AI risk is confidence outrunning understanding, not the technology itself.
+- `INS-260626-A550` [medium] Personal-agent communities exploded with sign-ups then collapsed into 'Open Claw anonymous' because the agents are unreliable exactly where it matters most — cron jobs, agent-to-agent handoffs, and remembering the message directly above them.
 - `INS-260626-BAE9` [medium] Gemma 4 moved to an Apache 2.0 license specifically to make the models accessible to everyday developers across initial testing, deployment, and building, paired with both self-host (Hugging Face, Kaggle, Ollama) and cloud (AI Studio, Vertex) paths.
 - `INS-260625-7DC7` [medium] Package the integration recipe as an agent skill so a CLI can spit out many working examples instead of devs hand-building each one.
 - `INS-260625-D295` [medium] DeepMind publishes coding-agent skills for every Gemini API, including the tricky real-time Live API, so agents steer developers toward correct usage.

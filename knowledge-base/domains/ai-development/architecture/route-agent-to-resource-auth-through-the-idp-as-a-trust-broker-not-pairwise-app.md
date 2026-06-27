@@ -61,7 +61,6 @@ stance: >-
   direct app-to-app consent unnecessary.
 related:
   - INS-260410-358E
-  - INS-260501-F0E5
   - INS-260626-0D50
   - INS-260626-C51E
   - INS-260423-5F2F

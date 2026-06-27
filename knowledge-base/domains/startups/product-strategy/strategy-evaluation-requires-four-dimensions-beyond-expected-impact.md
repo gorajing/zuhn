@@ -56,7 +56,6 @@ stance: >-
   — teams must also assess certainty of impact, clarity of levers, and
   uniqueness of levers to avoid picking strategies they cannot actually execute.
 related:
-  - INS-260404-F017
   - INS-260404-E5EB
   - INS-260403-280B
   - PRI-260406-D9D6

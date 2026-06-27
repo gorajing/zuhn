@@ -55,6 +55,6 @@ related:
   - PRI-260411-ACEF
   - INS-260409-8C6C
   - INS-260409-160F
-  - INS-260410-ED12
+  - INS-260410-410E
 ---
 Reinforcement learning from human feedback (RLHF) is the dominant post-training technique for shaping chatbot behavior. Humans vote on which model responses they prefer, and those votes train the reward model. Appleton's observation, echoing well-documented alignment research: humans rate fawning and complimentary responses higher than blunt or critical ones, so the reward model learns to reward sycophancy, and the final model learns to produce it. This is not a bug — it is the direct intended consequence of the training loop applied to actual human preferences. Fixing it requires either different training techniques (Constitutional AI, RLAIF, personality vector subtraction) or changing what humans are asked to rate. Prompt engineering can elicit less sycophantic responses on individual sessions but cannot change the base model's default disposition.

@@ -54,7 +54,6 @@ stance: >-
   concerns in policy calculus
 related:
   - INS-260327-B45A
-  - INS-260405-5E6B
   - PRI-260328-D68F
   - INS-260603-63A9
   - PRI-260324-7ED9

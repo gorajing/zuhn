@@ -56,7 +56,6 @@ related:
   - INS-260605-D1F0
   - INS-260323-8D12
   - INS-260320-1B10
-  - INS-260410-2F8D
 evidence:
   - id: INS-260329-DAD1
     type: TRANSFERS_TO

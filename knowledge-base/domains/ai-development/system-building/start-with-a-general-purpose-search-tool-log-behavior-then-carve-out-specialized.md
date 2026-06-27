@@ -55,12 +55,11 @@ related:
   - INS-260410-F5EC
   - INS-260410-5D66
   - INS-260501-F826
-  - INS-260514-1841
+  - INS-260626-475E
+  - INS-260626-BC79
   - INS-260624-B6EA
   - INS-260605-6591
   - INS-260410-095B
-  - INS-260605-D0A0
-  - INS-260605-1A2D
 ---
 The low-floor/high-ceiling balance assumes you already know your agent's behavior. When you don't, Monigatti recommends starting with a general-purpose tool (shell or query-execution) and logging the agent's behavior, then specializing from evidence rather than guessing the tool stack upfront.
 

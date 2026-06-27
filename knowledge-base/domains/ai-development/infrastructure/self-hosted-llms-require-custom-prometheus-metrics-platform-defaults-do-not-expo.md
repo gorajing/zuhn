@@ -57,5 +57,6 @@ related:
   - INS-260625-DD6B
   - INS-260605-CFB7
   - INS-260605-7B83
+  - INS-260626-5671
 ---
 Cloud platforms expose built-in metrics for their own services (request count, latency, CPU, memory, GPU utilization) but these are black-box approximations when the workload is a self-hosted LLM inference server. The specific metrics that matter for AI cost and capacity planning — tokens generated per second, prefill versus decode time, request-level token counts, batch utilization, KV-cache hit rate — live inside the inference engine (VLM, Ollama, llama.cpp) and are only accessible via their internal metric endpoints. The production pattern is a Prometheus sidecar container deployed alongside the model container, scraping the model's metrics endpoint every 15 seconds and exporting to the cloud monitoring API. Systems that rely only on platform-default metrics cannot answer basic cost questions (cost per thousand tokens, utilization of provisioned GPUs, optimization opportunities) and end up making capacity decisions based on coarse proxies.

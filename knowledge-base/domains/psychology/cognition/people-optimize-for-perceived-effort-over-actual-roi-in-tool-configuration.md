@@ -53,8 +53,8 @@ related:
   - INS-260405-8107
   - INS-260403-E5D4
   - INS-260403-E78B
+  - INS-260626-18F5
   - PRI-260405-548B
-  - INS-260327-290C
 ---
 The article's observation — 'most people would rather spend 50 hours getting mediocre outputs than 10 minutes setting up properly' — captures a broader cognitive bias around tool configuration. Setup time feels like overhead rather than investment because the benefit is diffuse (spread across all future interactions) while the cost is concentrated (right now, before you get to do anything).
 

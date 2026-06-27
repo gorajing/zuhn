@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260626-CE12
   - INS-260408-3691
+  - INS-260626-BCC3
   - INS-260605-4FE3
   - PRI-260412-7664
-  - INS-260330-420B
 ---
 Final Panel insight (Sandhya): AI models are very poor at recognizing what they don't know. Confronted with an unfamiliar question, they generate confident plausible-sounding answers rather than flagging uncertainty. Good human students do the opposite — they ask clarifying questions and signal when they're outside their competence. The metaphor: ancient maps of the world before America's discovery filled the unknown space rather than leaving it blank, because mapmakers couldn't recognize what they didn't know. AI models do the same. Strong human researchers know what they don't know and use that to ask better questions. This is one of the most valuable human skills in AI-augmented science.
 

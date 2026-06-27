@@ -67,6 +67,7 @@ related:
   - PRI-260406-9780
   - PRI-260406-9FA8
   - INS-260410-AA40
+  - INS-260626-6012
 ---
 The efficiency story usually stops at 'inference got cheaper,' but DeepSeek-V4 shows the more important consequence: the same architectural savings that shrank the KV cache 9.5x at 1M tokens directly relaxed a constraint that had been capping capability. During reinforcement learning, the team reduced the penalty for generating long sequences — something they could only afford because long sequences were no longer expensive — producing a 'Max mode' with substantial gains over High mode.
 

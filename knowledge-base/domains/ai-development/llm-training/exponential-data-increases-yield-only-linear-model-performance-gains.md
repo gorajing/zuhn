@@ -52,8 +52,8 @@ related:
   - INS-260329-5F96
   - INS-260330-206C
   - INS-260320-7B4B
+  - INS-260626-21B7
   - INS-260514-838D
-  - INS-260413-F638
   - INS-260330-CAE6
 ---
 As language models are trained on exponentially more data, the resulting performance improvements are only linear. This means that once all competitors have access to roughly the same volume of internet-scraped text, models converge toward similar capability levels on that axis alone.

@@ -46,6 +46,7 @@ stance: >-
   context than by prompt cleverness.
 related:
   - INS-260327-E016
+  - INS-260626-E926
   - INS-260605-295D
   - INS-260626-411D
   - INS-260625-81E1
@@ -54,7 +55,6 @@ related:
   - INS-260605-9925
   - INS-260605-03A6
   - INS-260605-7B4C
-  - INS-260626-59D9
 ---
 A single debugging session or codebase exploration can consume tens of thousands of tokens, and as the window fills Claude starts forgetting earlier instructions and making more mistakes. Every other best practice in the guide — using subagents for investigation, /clear between tasks, pruning CLAUDE.md, scoping prompts narrowly, compacting with instructions — is ultimately a context management technique.
 

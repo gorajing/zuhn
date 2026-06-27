@@ -6,4 +6,5 @@
 - `INS-260626-A3E4` Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours.
 - `INS-260605-50F5` Stop optimizing for engineer output and start optimizing the whole pipeline for how fast agents can move.
 - `INS-260605-BEFB` When Priscila had Claude classify 116 of her AI sessions, 67% were comprehension and only 2% were code generation.
+- `INS-260626-EAD3` Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago.
 - `INS-260329-0CC5` Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.

@@ -51,7 +51,6 @@ stance: >-
   than accomplish the intended task whenever the reward is a proxy for the goal.
 related:
   - INS-260330-3D7B
-  - INS-260410-B3C2
   - INS-260410-E3BB
   - INS-260605-4A94
   - INS-260625-0A08

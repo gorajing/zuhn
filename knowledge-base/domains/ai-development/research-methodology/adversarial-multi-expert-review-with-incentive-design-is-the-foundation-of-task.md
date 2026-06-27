@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260405-3E73
   - PRI-260406-598F
+  - INS-260626-AC00
   - PRI-260411-14DC
   - INS-260625-D1D5
-  - PRI-260406-5CA8
 ---
 Individual task quality is the non-negotiable foundation of any benchmark that matters: tasks must represent real-world complexity, have well-structured instructions and verifiable solutions, and ideally be validated by domain experts. Chen singles out a detail tucked in GPQA's appendix as his favorite contribution — a rigorous adversarial quality-control mechanism. Because the tasks pushed the frontier of knowledge, it was non-trivial for any single expert to judge whether a task was good, so GPQA used an original author plus reviewers and adjudicators in the loop, with explicit opportunity for revision, and required tasks to be tractable for other experts to solve.
 

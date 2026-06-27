@@ -68,7 +68,6 @@ related:
   - INS-260403-1EFF
   - PRI-260413-A957
   - INS-260625-FFDF
-  - INS-260514-5AEF
   - INS-260625-D8C4
 ---
 Sonia's mental model for what 'trusting AI output' actually means: benchmarks at three distinct levels. (1) Capability benchmarks measure narrow skills — Chart QA / chart understanding, multimodal vision, code generation in a specific language. These are cheap to curate but limited in inferential value because they don't compose. (2) Task benchmarks measure end-to-end completion of bounded problems — Bixbench (Future House, 2025) and Comp Biobench (Genentech, 2026) curate problems that take a PhD scientist a month to solve manually, with human-verified ground-truth solutions and figures. These are expensive but high-value because they capture the real workflow. The benchmarks are public goods that suffer from typical public-goods underinvestment, but having an industry leader like Genentech contribute back is laudable. (3) Process benchmarks would measure coordinated multi-team outputs — e.g., 'generate a preIND document with sourced data from 10 teams, each curated through their own QA process, that I trust enough to submit to the FDA.' This tier doesn't exist yet because curating ground truth is impossibly expensive, but it's where the field is heading. Implication for builders: pick the right tier for what you're measuring. Capability benchmarks tell you if a model knows a skill; task benchmarks tell you if it can complete a real job; process benchmarks would tell you if you can trust it inside an organizational workflow.

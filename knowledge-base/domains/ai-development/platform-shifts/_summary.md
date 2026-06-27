@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 68 insights
+> 69 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -62,6 +62,7 @@
 - `INS-260403-88DA` [medium] Previous healthcare IT reforms required rebuilding infrastructure; LLMs can interpret unstructured clinical data on top of existing systems.
 - `INS-260409-35EC` [medium] Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.
 - `INS-260323-4D63` [medium] Quest 3's mixed reality breakthrough is making VR more comfortable and practical by layering digital objects onto the physical world rather than fully immersing users.
+- `INS-260626-E9D5` [medium] Normies won't vibe-code, but they also won't need apps — they'll state a task and the UI will generate on the fly inside a new OS; only specialist software (color grading, music, film) survives.
 - `INS-260403-572C` [medium] Human-naming AI products is the 'information superhighway' of this era—an analogy crutch that will fade as people internalize the autonomous nature of AI.
 - `INS-260403-84E1` [medium] OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.
 - `INS-260330-460D` [medium] Facebook and Google's strategies to become the internet itself — through Instant Articles, AMP, and app-based experiences — represent an existential threat to the open web's architecture.

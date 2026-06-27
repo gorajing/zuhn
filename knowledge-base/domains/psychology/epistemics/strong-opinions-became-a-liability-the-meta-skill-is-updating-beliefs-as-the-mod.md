@@ -60,7 +60,7 @@ related:
   - INS-260403-BA48
   - INS-260322-CCE8
   - INS-260403-615D
-  - INS-260505-A413
+  - INS-260626-BCC3
 ---
 Cherny argues that the discipline of engineering rewards strong opinions — architects and senior engineers are hired for deep experience and firm views — but 'a lot of this stuff just isn't relevant anymore' because the model keeps getting better. The most valuable trait is now the ability to think scientifically and from first principles, and to discard priors fast. He notes people fresh out of school, with fewer assumptions, often become model maximalists faster than long-tenured engineers whose brains are 'stuck somewhere six months ago.'
 

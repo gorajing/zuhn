@@ -53,7 +53,7 @@ related:
   - PRI-260501-168F
   - INS-260321-4E98
   - PRI-260328-7E58
+  - INS-260626-8080
   - PRI-260405-AF79
-  - PRI-260406-B314
 ---
 Chamath reports that at 8090 (his enterprise software business) multiple large enterprise customers are explicitly asking for 'strangulation as a service' — get the complicated UIs out of the way, let me write what I need, and have agents deal with the complexity in the background. This is the concrete mechanism behind the SaaS apocalypse thesis: customers don't want to log into separate tools, they want a universal intent layer (chat/voice/text) over all their systems. The implication is that UI-first SaaS products face an asymmetric threat not from competitors with better UIs, but from agentic layers that make UIs irrelevant. This aligns with Sacks' counterfactual about iPhones — if personal agents get good enough, 'the wall of apps' disappears, and with it a huge chunk of interface-based software value.

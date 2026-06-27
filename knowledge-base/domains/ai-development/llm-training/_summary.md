@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 97 insights
+> 98 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -74,6 +74,7 @@
 - `INS-260605-311E` [high] 95% of GenAI pilots die because teams think the demo is the hard part and production is a short last mile, when production is the actual marathon.
 - `INS-260605-83A7` [high] Wait for the user to finish editing to get a real label, then keep examples in the middle distance band — too close is trivial, too far is noise.
 - `INS-260625-8BC8` [high] SWE-RL sidesteps the unverifiability of real-world bug fixes by rewarding patch similarity to the actual merged PR rather than running the code.
+- `INS-260626-7658` [medium] Pre-train on abundant text-prompt pairs, then graft on richer control signals (reference images, camera control, event timing) in post-training where targeted labeled data is feasible.
 - `INS-260325-5B28` [medium] Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
 - `INS-260605-C1A5` [medium] An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260410-0EF8` [medium] Most headline software innovations in deep learning were really innovations in how to exploit more compute—so 'software-only singularity' stories that hold compute fixed are misspecified.

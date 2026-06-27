@@ -51,12 +51,12 @@ stance: >-
   creates.
 related:
   - INS-260327-BB71
-  - INS-260405-A23B
   - INS-260605-9976
   - INS-260605-A803
   - PRI-260328-5CDE
   - INS-260327-A9D5
   - INS-260626-14E0
+  - INS-260626-FEA0
 ---
 Early agent work was gated by capability: could you connect an LLM to data sources, APIs, and other agents at all? Once protocols like MCP and A2A made that trivial, the constraint inverted. Organizations now have hundreds of agents, and frequently multiple agents and multiple MCP servers that do the exact same thing (e.g. '17 servers to talk to BigQuery'), because everyone built enthusiastically with no process to manage overlap.
 

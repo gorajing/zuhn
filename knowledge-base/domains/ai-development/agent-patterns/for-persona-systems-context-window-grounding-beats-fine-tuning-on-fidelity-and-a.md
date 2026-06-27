@@ -69,8 +69,8 @@ related:
   - INS-260410-4D86
   - INS-260501-01A5
   - INS-260605-672C
+  - INS-260626-E926
   - PRI-260320-07A4
-  - INS-260410-78F4
 ---
 Two architectures dominate role-play construction: anchor documents placed in the context window at inference (RAG lineage) versus anchor documents used as fine-tuning data. They look like two implementations of one goal but answer different metaphysical questions — fine-tuning tries to make the model BE the persona, while the context window lets the model speak THROUGH the persona's record. Counterintuitively for engineers (for whom fine-tuning usually means 'better'), fine-tuning is worse here: it layers a thin personal signal over the vast cultural sediment already in the base weights, the two interact in non-auditable ways, and it suppresses surface distortion while amplifying it underneath. Supporting evidence comes from an adjacent high-stakes domain — a 2026 Nature Medicine study where general-purpose frontier models outperformed dedicated fine-tuned clinical tools, and a separate finding that biomedically fine-tuned models underperformed their base models via catastrophic forgetting.
 

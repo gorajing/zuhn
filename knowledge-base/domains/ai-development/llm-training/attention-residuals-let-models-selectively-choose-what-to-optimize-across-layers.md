@@ -54,7 +54,6 @@ related:
   - INS-260330-A660
   - INS-260410-1789
   - INS-260410-3E86
-  - INS-260410-FEFA
 evidence:
   - id: INS-260330-A660
     type: TRANSFERS_TO

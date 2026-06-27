@@ -49,12 +49,13 @@ stance: >-
   than sharing a project-wide service account.
 related:
   - INS-260409-8408
-  - INS-260410-761E
   - INS-260423-8504
   - INS-260605-EF3C
+  - INS-260410-761E
   - INS-260605-BC6F
   - INS-260605-74CC
   - INS-260626-57BA
+  - INS-260626-2133
 ---
 The default pattern of one service account shared by every agent in a project makes granular, least-privilege permissions nearly impossible — you can't tell which agent needs what, and deleting an agent leaves its access behind. The fix is a SPIFFE-based per-agent identity that is created on deploy, assigned its own permissions and secrets, and fully revoked on delete, so no orphaned permissions linger.
 

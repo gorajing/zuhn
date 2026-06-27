@@ -45,10 +45,10 @@ stance: >-
   pipeline.
 related:
   - INS-260410-3F1A
+  - INS-260626-5D7C
   - INS-260409-3230
   - INS-260625-FE3E
   - INS-260605-C0BF
-  - INS-260409-1078
   - INS-260605-37DA
   - INS-260605-2C96
 ---

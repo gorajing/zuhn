@@ -49,11 +49,11 @@ stance: >-
   simultaneously, dissolving the common assumption that safer agents must be
   less capable.
 related:
+  - INS-260626-5545
   - INS-260626-F490
   - INS-260625-BEFE
   - INS-260626-42B5
   - INS-260501-E377
-  - INS-260404-292E
   - INS-260605-BA4B
   - INS-260626-AD63
 ---

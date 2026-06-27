@@ -53,7 +53,6 @@ stance: >-
   Coordinating multiple agents forces every team to independently solve shared
   state, leader election, and blind-overlap prevention.
 related:
-  - INS-260326-9402
   - INS-260412-2754
   - INS-260605-9E7A
   - INS-260605-1CC3

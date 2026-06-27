@@ -50,10 +50,10 @@ stance: >-
   and the modalities actually enhance each other rather than competing.
 related:
   - INS-260323-042C
+  - INS-260626-7658
   - INS-260403-9774
   - INS-260329-70D5
   - INS-260403-D090
-  - INS-260410-E660
 evidence:
   - id: INS-260329-70D5
     type: TRANSFERS_TO

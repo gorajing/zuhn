@@ -49,10 +49,10 @@ stance: >-
   need to block specific actions.
 related:
   - INS-260605-5C58
+  - INS-260626-C623
   - INS-260410-85AD
+  - INS-260626-BC79
   - INS-260626-091B
-  - INS-260605-2DD5
-  - INS-260626-35A9
   - INS-260605-B794
   - INS-260605-2E27
   - INS-260626-9BC5

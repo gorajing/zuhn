@@ -1,6 +1,6 @@
 # Topic: company-culture
 
-> 15 insights
+> 16 insights
 
 - `INS-260501-07C8` [high] Company generates $1B cash, gives out $1B equity, buys it back for $1B — they generated zero cash. Always subtract SBC from cash flow.
 - `INS-260625-11A3` [high] Culture is not what you believe but what you repeatedly do; it compounds into a moat competitors can't catch, yet frays instantly when leaders stop acting on stated commitments.
@@ -10,6 +10,7 @@
 - `INS-260410-C56B` [high] Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
 - `INS-260410-5474` [high] Trader Joe's pays crew members 40–150% above industry comp and rotates everyone through every role — no dedicated cashiers, baggers, or stockers — so any employee can knowledgeably answer any product question.
 - `INS-260412-9C7F` [high] Theranos's extreme secrecy, surveillance, and retaliation against dissenters functioned as a fraud-preservation system rather than legitimate IP protection.
+- `INS-260626-A084` [medium] Linear's Quality Wednesdays make each engineer find and present one quality fix weekly; the real payoff is that everyone stays on the lookout for quality, introducing fewer regressions.
 - `INS-260501-AFFE` [medium] AppLovin has no product organization. Engineers ARE product managers. They imagine, audit AI output, optimize directly to revenue KPIs. PM is redundant.
 - `INS-260412-98B1` [medium] Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
 - `INS-260412-F2A6` [medium] Jamsetji Tata's philanthropic values from 1868 still drive Tata Group's operations and reputation 150+ years later.

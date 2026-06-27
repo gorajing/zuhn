@@ -58,12 +58,12 @@ stance: >-
   to extrapolate a design system gives consistent, polished output across all
   subsequent components in the project.
 related:
-  - INS-260321-7C97
   - INS-260323-E0B5
   - INS-260402-E994
+  - INS-260321-7C97
   - INS-260327-D0F3
   - INS-260514-D3D1
-  - INS-260327-B403
+  - INS-260626-E9D5
 ---
 Jordan's workflow: take screenshots of sites with design styles you like, drop them into Claude, ask 'extrapolate the key design elements from these pages and help me create a design system.' Save the resulting design system as a project file. Reference it in every subsequent component prompt: 'reference design style guide as you create new components.'
 

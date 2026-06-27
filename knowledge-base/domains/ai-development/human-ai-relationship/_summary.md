@@ -1,11 +1,12 @@
 # Topic: human-ai-relationship
 
-> 106 insights
+> 109 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
 - `INS-260325-4793` [very_high] Meta-analysis of 106 experiments shows human-AI systems average g = -0.23 vs best-of-either, meaning most teams are worse than using the best partner alone.
 - `INS-260424-1E10` [high] Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.'
+- `INS-260626-8769` [high] Warmth plus a false specific (a body it doesn't have, a date that's booked) doesn't just dip trust — it inverts it the moment the user realizes the relationship was performed.
 - `INS-260329-560D` [high] AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260323-64A4` [high] Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
 - `INS-260322-D2E9` [high] Neither white-collar nor blue-collar jobs are safe from AI — the only lasting career security comes from being the kind of person others actively want to collaborate with.
@@ -104,7 +105,9 @@
 - `INS-260423-187E` [medium] Seth Godin: a brand's AI that has seen all my tools is a whole new level of permission — the more I teach it, the more their brand is worth to me.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.
+- `INS-260626-7A54` [medium] Business context, political dynamics, product vision, and org history decide the right thing to build — and none of it is in the repo for an agent to read.
 - `INS-260605-63AE` [medium] Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
+- `INS-260626-7A55` [medium] Instead of you constantly prompting AI, the most productive people will delegate ~99% of work and the AI will prompt them — 'you didn't send me a picture of your passport,' 'what do you want to do next?'
 - `INS-260605-9688` [medium] Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
 - `INS-260605-4CED` [medium] Claude orchestrated the entire reverse-engineering effort while the human merely rebooted the phone and reported how many beeps he heard, acting as the agent's hands and ears.
 - `INS-260505-8322` [low] Sanskrit-named frontier AI models in 2026 thread cultural continuity from millennia-old farming civilizations to silicon-based intelligence.

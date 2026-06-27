@@ -58,8 +58,8 @@ related:
   - INS-260330-A1D2
   - INS-260412-7FF8
   - INS-260514-6561
+  - INS-260626-A084
   - INS-260403-7D1D
-  - INS-260514-8413
 ---
 Lopopolo's team practice: every Friday is 'Garbage Collection Day.' Each engineer's entire job is to take the categories of slop they observed during the week (recurring code review comments, agent failure modes, merge conflict patterns) and figure out ways to systematically eliminate them. Each piece of feedback becomes a lint rule, a test assertion, a documentation update, or a reviewer agent enhancement. The feedback that humans were synchronously giving on PRs becomes automatic context injection that the next agent attempt selfheals against. Result over months: slop reduces, PR cycle time compresses, merge conflicts drop, humans no longer block on review.
 

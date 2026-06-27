@@ -63,6 +63,7 @@ related:
   - INS-260410-F910
   - INS-260501-FD20
   - INS-260605-25B2
+  - INS-260626-8080
 ---
 OpenGov started OG Assist on LangGraph, which was 'fine until the team really started to scale and our use cases started to evolve.' They then rebuilt their own agent loop from the ground up to have 'full regency' over it — so that complex features could reach into the loop directly rather than fighting the framework's abstractions. The payoff was fine-grained control over tracing, structured concurrency, and logging propagated through the entire loop, plus levers like dependency-injected, hot-swappable language models.
 

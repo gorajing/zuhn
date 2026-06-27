@@ -51,11 +51,11 @@ stance: >-
   over machine efficiency becomes increasingly dominant as the correct
   engineering trade-off.
 related:
+  - INS-260626-6012
   - INS-260514-3100
   - INS-260626-A3E4
   - INS-260329-EA2B
   - INS-260323-DC99
-  - INS-260329-6AF5
 evidence:
   - id: INS-260323-19A8
     type: SUPPORTS

@@ -46,10 +46,10 @@ stance: >-
   the decision process to be effective.
 related:
   - INS-260625-26FE
+  - INS-260626-A2B9
   - INS-260605-44E2
   - INS-260625-E9A9
   - INS-260330-DF2C
-  - INS-260410-095B
   - INS-260403-8ECB
   - INS-260405-B361
   - INS-260410-4067

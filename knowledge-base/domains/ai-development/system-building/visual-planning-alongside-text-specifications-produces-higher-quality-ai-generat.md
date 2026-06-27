@@ -49,10 +49,10 @@ resolutions:
 related:
   - INS-260321-0C99
   - INS-260501-2D9C
+  - INS-260626-E9D5
   - PRI-260406-F51A
   - PRI-260328-B4BD
   - PRI-260328-A65A
-  - INS-260327-D0F3
   - INS-260605-03A6
   - INS-260605-8168
 stance: Text-only planning (markdown PRDs) is insufficient for vibe coding

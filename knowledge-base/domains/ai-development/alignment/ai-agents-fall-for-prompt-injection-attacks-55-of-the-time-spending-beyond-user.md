@@ -52,8 +52,8 @@ related:
   - INS-260605-86F6
   - INS-260327-76B2
   - INS-260605-5CF8
+  - INS-260626-8080
   - INS-260603-C90A
-  - INS-260323-E492
 stance: >-
   KAIST researchers found that AI agents making autonomous purchases exceeded
   user-set spending limits 55% of the time (10 of 18 attack methods succe...

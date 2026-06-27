@@ -49,9 +49,9 @@ resolutions:
 related:
   - PRI-260323-ADA4
   - PRI-260406-4B37
+  - INS-260626-4C42
   - INS-260409-3346
   - INS-260327-DECA
-  - INS-260325-5CB1
   - INS-260323-257D
 stance: >-
   Energy is the current AI infrastructure bottleneck (driving renewed interest

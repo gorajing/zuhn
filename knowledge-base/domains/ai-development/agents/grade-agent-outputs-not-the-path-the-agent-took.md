@@ -48,11 +48,11 @@ stance: >-
   Agent evaluations should grade the produced outcome rather than enforce a
   specific sequence of tool calls or reasoning steps.
 related:
+  - INS-260626-475E
   - INS-260625-36DF
   - PRI-260403-2376
   - INS-260605-0819
   - PRI-260405-49C0
-  - PRI-260406-A5F0
   - INS-260625-86CF
 ---
 A tempting instinct when building agent evals is to assert that the agent followed a specific sequence of steps — call tool A, then tool B, then return. Anthropic found this produces overly brittle tests because frontier models regularly discover valid approaches the eval designers never anticipated. Opus 4.5 once solved a τ2-bench flight-booking problem by exploiting a loophole in the stated policy — technically 'failing' the eval as written, but actually producing a better outcome for the user.

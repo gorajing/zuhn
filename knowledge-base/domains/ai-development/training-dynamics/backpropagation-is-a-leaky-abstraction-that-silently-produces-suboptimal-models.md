@@ -66,6 +66,7 @@ related:
   - INS-260410-684D
   - INS-260410-E6E9
   - INS-260410-47AE
+  - INS-260626-6B7B
 ---
 Karpathy argues that calling loss.backward() gives the illusion of abstraction safety, but backprop leaks through that abstraction in ways that matter: saturated tanh/sigmoid kill gradients, exploding/vanishing gradients plague RNNs, and a common real-world bug is clipping the loss value when the author meant to clip the gradient (which silently zeros out the gradient on outliers instead of dampening them).
 

@@ -16,6 +16,7 @@
 - `INS-260323-5D23` The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
+- `INS-260626-A084` Linear's Quality Wednesdays make each engineer find and present one quality fix weekly; the real payoff is that everyone stays on the lookout for quality, introducing fewer regressions.
 - `INS-260403-C4BE` Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - `INS-260329-6253` Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260323-8848` People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.

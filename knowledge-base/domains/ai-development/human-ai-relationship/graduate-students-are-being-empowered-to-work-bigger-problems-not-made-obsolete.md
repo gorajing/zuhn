@@ -51,10 +51,10 @@ stance: >-
   dominant pattern in 2026.
 related:
   - INS-260405-F9E4
-  - INS-260403-7DF4
   - INS-260403-6711
   - INS-260403-9F78
-  - INS-260403-872C
+  - INS-260403-7DF4
+  - INS-260626-BDAB
 ---
 Universe Panel discussion: there's widespread anxiety that AI will replace graduate students. The empirical observation in physics labs is the opposite — students are empowered to take on questions they couldn't have approached alone. They can iterate faster, explore more architectures, dig through literature more efficiently. The professors note: 'we can keep up' with the AI advancement at least at this stage — students are learning to use these tools in ways that accelerate their training rather than replace it. The future is unclear (what happens in 2030, 2040 is open) but the immediate pattern is empowerment.
 

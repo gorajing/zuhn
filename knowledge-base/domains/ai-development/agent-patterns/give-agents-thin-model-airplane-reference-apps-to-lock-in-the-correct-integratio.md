@@ -59,11 +59,11 @@ related:
   - INS-260424-273F
   - INS-260501-F258
   - INS-260605-8409
-  - INS-260605-98BD
   - INS-260605-5DE9
   - INS-260605-91A9
   - INS-260605-34B0
   - INS-260605-7B06
+  - INS-260625-A7AD
 ---
 Models were trained on countless projects of varying architecture quality, so an agent's own conception of how to assemble an integration is often workable but not ideal. PostHog counters this with 'model airplanes': reference projects implementing PostHog across many frameworks and languages, but deliberately thin — the auth, for example, accepts any password and logs you in. It is auth-shaped without being real auth.
 

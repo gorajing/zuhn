@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 152 insights
+> 155 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -66,6 +66,7 @@
 - `INS-260330-BB53` [high] Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260329-B4E7` [high] Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260605-DC7C` [high] Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
+- `INS-260626-7F76` [high] GitHub built tool-sets, dynamic discovery, and a RAG tool-search to tame context bloat, but 'everyone used the default settings,' so the only fix that mattered was tightening the default itself.
 - `INS-260327-112B` [high] Lowering creation barriers through AI generates stronger social dynamics than optimizing content consumption feeds.
 - `INS-260409-94D6` [high] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
 - `INS-260327-C5D9` [high] Just as novice managers check in on delegates after 5 minutes, users must learn to give AI agents minutes or hours before expecting results.
@@ -92,6 +93,8 @@
 - `INS-260327-F316` [high] Mati argues that while foundation model providers may match ElevenLabs on voice research, the competitive moat is product platform depth and taste that takes thousands of iterations to achieve.
 - `INS-260327-F95F` [high] When you can send Claude Code a TechCrunch article and get a working clone in an hour, the temptation to constantly pivot becomes almost irresistible — and that's exactly how startups die.
 - `INS-260323-B4D2` [high] If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
+- `INS-260626-EA1D` [high] Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
+- `INS-260626-4C42` [high] The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck.
 - `INS-260403-AFBB` [high] AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260605-4FE3` [high] Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260605-7A70` [high] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.

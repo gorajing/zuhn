@@ -72,8 +72,8 @@ related:
   - INS-260505-2FFB
   - INS-260514-D3CB
   - INS-260514-F565
-  - INS-260605-89B0
   - PRI-260328-8E01
+  - INS-260322-32E3
 ---
 Robert George argues for a 'new era of verified intelligence.' Informal math — and most coding — is flexible and littered with unstated steps ('proof by intimidation'), whereas formal systems like Lean force every step explicit and cannot be fooled by a handwave; the kernel either accepts the proof or it doesn't. The last two years show steep, near-exponential progress: IMO gold via formal and DSL-based approaches, Aristotle (Harmonic) clearing PutnamBench, and AI-claimed solutions to long-open Erdős problems now increasingly accompanied by formal verification in the loop.
 

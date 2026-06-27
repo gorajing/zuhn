@@ -58,10 +58,10 @@ stance: >-
   layers.
 related:
   - INS-260423-9225
+  - INS-260626-5671
   - INS-260403-7A48
   - INS-260603-A506
   - INS-260605-3163
-  - INS-260605-D37A
 ---
 When a manager says 'make our working system sovereign,' the intuitive first moves each expose lock-in that was invisible while the system worked. Replacing a frontier API with a self-hosted model forces re-translating API logic, updating prompts, re-evaluating performance from scratch, and writing significant new code. Moving private data into the required jurisdiction creates multiple databases/instances and turns search into a routing problem (query-classify first vs. fan out to both stores). Swapping managed infra for on-prem reveals how much the cloud provider was silently handling — Kubernetes cluster management, GPU/CPU placement, and network connection management between the app layer and the now-local GPU model.
 

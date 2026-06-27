@@ -55,7 +55,6 @@ stance: >-
   system regresses toward the mean.
 related:
   - INS-260410-D250
-  - INS-260605-CF15
   - INS-260625-C700
   - INS-260514-00D3
   - INS-260329-4842

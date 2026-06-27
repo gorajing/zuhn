@@ -49,5 +49,6 @@ related:
   - INS-260403-BA1B
   - INS-260403-0350
   - INS-260403-26D4
+  - INS-260626-5B28
 ---
 Traditional software moats like switching costs are weakening because AI agents can automate migrations, rewrite integrations, and retrain teams rapidly. This collapses one of SaaS's most reliable defensive advantages. However, the assets AI cannot easily replicate — proprietary datasets, deeply embedded trust relationships, and operational expertise accumulated over years — become relatively more valuable as everything else gets commoditized. For builders, this means the strategic priority shifts from creating lock-in through complexity to accumulating unique data and relationship capital that compounds over time and resists AI-driven arbitrage.

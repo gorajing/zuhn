@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260329-D6AA
   - INS-260625-2ED0
+  - INS-260626-3492
   - INS-260625-ACBC
   - INS-260603-D44B
   - INS-260323-8D12
-  - INS-260625-D1D5
 ---
 Karpathy shows two potent injection attacks: an image with faint white text that hijacks ChatGPT's response, and a Google Doc that instructs Bard to exfiltrate a user's private data by encoding it into an image URL. Google's content security policy blocked the first exfiltration path, but attackers pivoted to Google Apps Scripts to write into an attacker-controlled Doc inside the trusted domain. The pattern recurs across systems.
 

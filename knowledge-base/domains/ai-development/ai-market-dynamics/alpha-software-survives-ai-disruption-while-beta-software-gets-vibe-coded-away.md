@@ -50,9 +50,11 @@ related:
   - INS-260322-D58A
   - INS-260322-3083
   - INS-260327-D0F3
+  - INS-260626-E9D5
   - INS-260327-D8D1
   - INS-260626-3396
   - INS-260501-2D9C
+  - INS-260626-6012
 stance: >-
   Software that makes you similar to everyone else (beta) will be replaced by
   AI/vibe-coding

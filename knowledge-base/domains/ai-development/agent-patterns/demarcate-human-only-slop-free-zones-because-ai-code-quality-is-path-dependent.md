@@ -47,6 +47,7 @@ stance: >-
   prevent quality death spirals.
 related:
   - INS-260605-89B0
+  - INS-260626-287B
   - INS-260603-6B3D
   - INS-260329-500E
   - INS-260327-5F10

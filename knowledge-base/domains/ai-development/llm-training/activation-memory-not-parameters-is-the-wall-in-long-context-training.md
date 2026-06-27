@@ -53,11 +53,11 @@ stance: >-
   model parameters — is the binding constraint on what fits in GPU memory.
 related:
   - INS-260327-1631
-  - INS-260410-699C
   - INS-260410-38C9
   - INS-260625-1432
+  - INS-260410-699C
+  - INS-260626-7658
   - INS-260625-429B
-  - INS-260327-79E8
 ---
 The intuitive culprit for out-of-memory failures is model size, but Ryabinin shows that for long sequences the parameters are the easy part. Trying to fit a 3-million-token sequence with a Llama 3B model OOMs even on parameter placement alone, and fully sharded data parallelism (FSDP) — which chunks all parameters across the 8 GPUs — dramatically reduces parameter memory yet still fails. The reason is that attention activations scale with sequence length and quickly dwarf the weights.
 

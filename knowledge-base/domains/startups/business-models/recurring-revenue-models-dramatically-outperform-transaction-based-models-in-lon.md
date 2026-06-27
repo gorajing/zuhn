@@ -51,7 +51,6 @@ stance: >-
   create fundamentally more durable competitive advantages than those that
   remain transaction-dependent
 related:
-  - INS-260323-F753
   - INS-260324-C496
   - INS-260327-4440
   - INS-260329-C8C7
@@ -61,6 +60,7 @@ related:
   - INS-260403-3F5F
   - INS-260409-5FBA
   - INS-260410-9120
+  - INS-260403-2913
 evidence:
   - id: INS-260323-F753
     type: CHALLENGES

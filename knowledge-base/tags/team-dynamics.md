@@ -1,5 +1,6 @@
 # Tag: team-dynamics
 
+- `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260605-26AB` Priscila reframes AI as 'the cheapest senior engineer out there' — a teammate who never tires of your questions, removing the social and timezone cost of asking.
 - `INS-260410-10C9` Google Brain's bottom-up 'one credit per researcher, pool them as you like' chip allocation rewarded dropping failed ideas; Gemini's top-down allocation leads every group to report 'my thing is working, give me more chips.'
 

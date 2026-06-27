@@ -1,6 +1,7 @@
 # Tag: inductive-bias
 
 - `INS-260410-9303` The brain's 'special sauce' is a large set of innately wired, species-specific reward functions — not a clever learning algorithm or architecture.
+- `INS-260626-6B7B` Diffusion models train on learned autoencoder latents that keep the grid topology intact — off-the-shelf codecs like JPEG/H.265 compress too aggressively and destroy the structure the network relies on.
 - `INS-260505-584B` Tolias's brain models are 6M parameters and outperform big generic models because they have the right priors built in.
 - `INS-260505-23FB` Use Earth's geometry as a basis function, not a learning target — spherical harmonics give the model the right inductive bias for free.
 - `INS-260605-DD2A` VITs win over CNNs not because the architecture is better but because massive VIT-specific pretraining re-learns the inductive biases CNNs got for free.

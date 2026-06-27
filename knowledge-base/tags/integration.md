@@ -10,8 +10,8 @@
 - `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260412-B805` Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
 - `INS-260505-8E0B` It's no longer 'do you have the supercomputer' — it's 'how fast can your integrated system close the loop from data to decision.'
-- `INS-260321-801C` Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260409-F9D5` The bottleneck is integrating disparate fields, not advancing any one of them.
+- `INS-260321-801C` Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260320-CDE4` The Moog DFAM has no MIDI implementation -- sampling its output into a MIDI-capable device is the primary way to integrate it into a broader production setup.
 - `INS-260327-AA2C` Belisarius's key innovation was integrating heavy cavalry, mounted archers, and infantry into coordinated tactics that no opponent could counter with any single approach.
 - `INS-260327-70A4` Napoleon seized Spain easily but then faced six years of guerrilla war that drained more French resources than any conventional campaign.

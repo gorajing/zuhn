@@ -53,6 +53,7 @@ related:
   - INS-260605-74CC
   - INS-260624-595D
   - INS-260323-D41A
+  - INS-260626-3492
 ---
 Willmott pulls the behavioral spec directly into security testing for two reasons. First, an agent is most willing to engage with the domains it's supposed to act in, so those are where it's most likely to be talked into something — the edges of its competence are the edges of its vulnerability. Second, the tasks it performs are where it holds the most power in your infrastructure (a banking agent can move money in the banking domain), so a compromise there does the most damage.
 

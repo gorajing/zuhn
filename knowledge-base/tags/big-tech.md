@@ -1,6 +1,7 @@
 # Tag: big-tech
 
 - `INS-260403-C1D2` Over 630 investors backed LLM startups, but NVIDIA, Amazon, Microsoft, Alibaba, Salesforce, and Google write the largest checks while serving as suppliers and competitors.
+- `INS-260626-EAD3` Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago.
 - `INS-260322-6DFC` Unlike the dot-com broadband buildout funded by leveraged telecoms, today's $400B+ AI infrastructure buildout is funded by the most profitable companies ever created — Google, Microsoft, Amazon, Meta — making systemic risk fundamentally lower.
 - `INS-260403-CCED` Microsoft and Meta both beat revenue expectations but saw stock declines because investors focused on escalating AI capex eating into margins, while Alphabet and Amazon were rewarded for combining growth with execution efficiency.
 - `INS-260405-3E92` MANG (Microsoft, Amazon, Alphabet, Nvidia) raised $25B+ in 2023 deals — roughly 8% of all North American venture capital — signaling Big Tech's structural entry into VC.

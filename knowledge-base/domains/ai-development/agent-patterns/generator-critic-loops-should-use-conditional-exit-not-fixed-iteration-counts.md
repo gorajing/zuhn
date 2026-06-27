@@ -47,11 +47,11 @@ stance: >-
   fixed-iteration loops because they avoid both premature stopping and wasteful
   extra cycles.
 related:
+  - INS-260626-AC00
   - INS-260605-09E0
   - PRI-260411-14DC
   - INS-260322-24FB
   - INS-260501-646A
-  - INS-260329-D48B
 ---
 Google distinguishes two loop patterns: generator-critic (binary pass/fail on correctness) and iterative refinement (qualitative improvement over cycles). Both use ADK's LoopAgent, but the exit mechanisms differ critically.
 

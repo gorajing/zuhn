@@ -50,6 +50,7 @@ related:
   - INS-260626-15F3
   - INS-260605-4860
   - INS-260403-BA81
+  - INS-260626-2133
 ---
 AgentCore distinguishes inline functions from tools that execute on the harness VM: an inline function call returns to client code, which decides what to do and sends a result back. AWS explicitly points to this for human approvals and custom integrations.
 

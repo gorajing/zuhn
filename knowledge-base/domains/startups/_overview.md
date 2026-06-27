@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4862 insights across 55 topics
+> 4867 insights across 55 topics
 
 ## Topics
 
@@ -12,9 +12,9 @@
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
 | community-building | 7 | A 25% hard cap for underrepresented categories lets curators correct homogeneity without destroying participant trust in merit-based selection. |
-| company-culture | 15 | AppLovin has no product organization. Engineers ARE product managers. They imagine, audit AI output, optimize directly to revenue KPIs. PM is redundant. |
+| company-culture | 16 | Linear's Quality Wednesdays make each engineer find and present one quality fix weekly; the real payoff is that everyone stays on the lookout for quality, introducing fewer regressions. |
 | competition | 5 | Uber lost US food delivery to doordash because Uber's urban-fast-cheap identity made them see the suburbs as someone else's market—but suburbs are where the food delivery money actually is. |
-| competitive-strategy | 642 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| competitive-strategy | 644 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 76 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | customer-discovery | 7 | You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral. |
 | decision-making | 9 | When you bet the company, you're not gambling — you're pulling every future risk into the present so the outcome is already determined before the bet. |
@@ -48,8 +48,8 @@
 | product | 28 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 144 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 13 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
-| product-strategy | 100 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
-| quality | 16 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
+| product-strategy | 101 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
+| quality | 17 | Bugs arrive at a constant rate, so fixing them now versus later costs the same total effort — you just pay a one-time cost to drain the backlog to zero. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
 | scaling | 215 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |

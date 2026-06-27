@@ -53,6 +53,5 @@ related:
   - INS-260624-A121
   - INS-260625-3EE6
   - INS-260625-DCE4
-  - INS-260605-1C30
 ---
 Nebius found it is better to run a minimalistic agent with strong infrastructure than an over-engineered agent with weak infrastructure. In their scaffold the most-used tools and bash commands are simple and few, and because every model is now good at tool calling they dropped the early ReAct-plus-demonstration prompting in favor of minimal context. The hard part of agent reliability is operational: defining a retry policy that separates model errors from infrastructural errors, minimizing infrastructural noise (external network dependencies, images defaulting to a 1970s clock that breaks time-sensitive tests), and enabling prompt caching which cut their cost roughly fourfold. The lesson is that scaffolding complexity yields diminishing returns against capable models, while infrastructure quality is the dominant lever on both validity and cost.

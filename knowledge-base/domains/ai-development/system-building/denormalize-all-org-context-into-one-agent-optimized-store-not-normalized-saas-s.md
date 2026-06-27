@@ -52,10 +52,10 @@ stance: >-
   a single agent-optimized store, not scattered across normalized third-party
   SaaS tools.
 related:
+  - INS-260626-7681
   - INS-260421-60D9
   - INS-260329-E6AF
   - INS-260605-014F
   - INS-260320-E6DD
-  - INS-260603-1BC0
 ---
 YC's unlock was that it runs on its own software backed by a single Postgres database holding everything — companies, founders, financial transactions, CRM notes. Giving an agent read-only SQL access plus a little schema context let non-engineers ask arbitrary cross-cutting questions ('investors who funded space companies in the last four batches') that previously cost hours of BI work. Koomen frames the general pattern as a repeat of Google's shift from normalized schemas-with-joins to one map-reducible 'big table': you take data spread across many systems and denormalize it into a format optimized for a specific agent harness's retrieval (rag, graph-rag, hybrid RRF, reranking). The lesson for any organization is that the highest-leverage infrastructure investment is a common context layer — a data warehouse where as much internal truth as possible lives in one place — because, just as a coding agent in a monorepo is more efficient, an agent over one unified schema dramatically outperforms one stitching together many MCP sources.

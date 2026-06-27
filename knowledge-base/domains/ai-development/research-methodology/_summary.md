@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 128 insights
+> 129 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -31,6 +31,7 @@
 - `INS-260514-791A` [high] Narrow AI: PhD data scientist required. Generative AI agents: any scientist can use them like spoken language.
 - `INS-260605-E54A` [high] Accepted tasks produced 'cleaner failures' — logic errors and incomplete-task failures from true difficulty — which give models useful hill-climbing signal, unlike degenerate environmental failures that no model could solve.
 - `INS-260625-FC2D` [high] Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
+- `INS-260626-21B7` [high] Curating the training data is frequently a better investment of effort than tuning the model, but academic incentives train researchers to ignore data.
 - `INS-260413-C040` [high] MSAPairformer (111M params) beat prior SOTA on ProteinGym; GPN-Star (200M) beat a 40B genomics model; AlphaFold 3 (370M) still leads FoldBench despite SimpleFold's 3B challenger — data beats scale in biology.
 - `INS-260625-CA6E` [high] A long-horizon run produces hundreds of millions of tokens of behavior; reporting only 'it made $X' throws away the lying, collusion, and breakdown patterns that actually matter.
 - `INS-260408-F58E` [high] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.

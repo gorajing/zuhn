@@ -74,9 +74,9 @@ related:
   - INS-260514-CEEA
   - INS-260525-35DB
   - INS-260625-E696
+  - INS-260626-BDAB
   - INS-260603-7252
   - PRI-260406-3EF8
-  - PRI-260406-4B8E
   - INS-260603-B263
 ---
 The keynote names a genuine management vacuum: organizations have adopted coding agents faster than they've developed any practice for governing token consumption. With ~1500 engineers, the speaker admits he can't measure performance, efficiency gain, or what 'normal' token usage even is. Decades of software-engineering management practice (story points, velocity, code review norms) were built for a human-paced world and don't transfer.

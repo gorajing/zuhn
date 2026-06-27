@@ -49,11 +49,11 @@ stance: >-
   In any adversarial domain, each new offensive technique predictably triggers
   its historical counter — and teams that know the ladder save years.
 related:
+  - INS-260626-6F00
   - INS-260403-5F8E
   - INS-260321-A3A1
   - PRI-260325-070D
   - PRI-260407-93D7
-  - INS-260327-74CF
 ---
 Paine lays out the strategic ladder explicitly: maritime powers blockade, continental powers respond with commerce raiding, maritime powers respond with convoying merchant ships, and continental powers respond with wolfpack concentration and improved encryption. Every step is a predictable counter to the previous one. The Allies won in part because they remembered the ladder from WWI and started convoying before the US even entered WWII, while Admiral King had to re-learn it after losing a million tons in three months.
 

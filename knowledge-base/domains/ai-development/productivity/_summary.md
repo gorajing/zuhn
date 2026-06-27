@@ -1,6 +1,6 @@
 # Topic: productivity
 
-> 20 insights
+> 21 insights
 
 - `INS-260424-50EE` [high] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - `INS-260625-0CAB` [high] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
@@ -10,6 +10,7 @@
 - `INS-260619-4ADA` [high] The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
 - `INS-260605-3899` [high] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
 - `INS-260625-7CD5` [high] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
+- `INS-260626-EAD3` [high] Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago.
 - `INS-260410-4CE7` [high] For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
 - `INS-260626-3EB5` [medium] swyx's biggest aha was getting work he'd never gotten before from employees — animations, polish, throwaway-fun projects — because agents removed the feedback-cycle bottleneck of waiting on him or a contractor.
 - `INS-260605-2C96` [medium] Priscila pointed Claude at her own session cache, had it classify 116 sessions into six categories, and the result (67% comprehension) surprised even her.

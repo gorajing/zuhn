@@ -58,10 +58,10 @@ related:
   - INS-260404-59D1
   - INS-260424-BFDC
   - INS-260605-BA63
+  - INS-260626-4C42
   - PRI-260406-806C
   - INS-260327-A61B
   - INS-260323-AB5F
-  - INS-260403-8011
 ---
 Kilpatrick describes a personal shift from kicking around ideas that felt slightly out of reach ('ah, wouldn't it be nice') to the opposite problem: 'I'm kicking around an idea and I'm like, I could probably make this even more ambitious.' Agentic coding makes him feel he has more agency and can tackle more ambitious problems — but it 'adds a different layer of burden' because he can no longer justify just doing the MVP; the technology enabling him means he should go ten steps further. He calls 'resetting my level of ambition' something he's actively had to work on.
 
