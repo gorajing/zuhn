@@ -52,8 +52,8 @@ related:
   - INS-260403-DDEB
   - INS-260403-868C
   - INS-260403-77F4
+  - INS-260627-E7AE
   - PRI-260328-39FA
   - INS-260330-7A80
-  - PRI-260323-847E
 ---
 Radek's central methodology is that he never made a big change to his agent setup—he started with a single WhatsApp chat channel and one trivial workflow, then added one capability once the previous one worked. The payoff is structural, not just cautious: because every change is one small step, when something breaks he steps exactly one step back, understands why it failed, builds a setup so it never happens again, then steps forward. This is why he avoids the 'it bricked my computer during an update' failures others report. The principle generalizes: the surface area of a failure is bounded by the size of the last change, so small steps make every failure cheaply diagnosable and reversible. The counterintuitive result is that someone who 'only ever took small steps' ended up with a more sophisticated setup than people who tried to architect everything up front—incremental growth compounds past what deliberate design reaches.

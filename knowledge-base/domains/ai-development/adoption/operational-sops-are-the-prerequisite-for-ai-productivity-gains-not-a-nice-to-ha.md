@@ -68,8 +68,8 @@ related:
   - INS-260410-AAFE
   - INS-260625-C6F4
   - INS-260603-6FE3
+  - INS-260627-3AF7
   - INS-260322-F46F
-  - INS-260625-3768
 ---
 The data-cleaning bottleneck is widely-discussed; the panel surfaced a stronger claim — even after data is clean, AI cannot deliver consistent enterprise productivity until the underlying processes are documented as SOPs. The reason is that AI can pattern-match, but it pattern-matches to whatever its inputs show; if the same process has 5 different unwritten ways of being done across the team, the AI inherits the variance and reproduces noise.
 

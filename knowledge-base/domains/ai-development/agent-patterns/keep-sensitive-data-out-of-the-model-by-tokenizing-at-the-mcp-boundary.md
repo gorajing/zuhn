@@ -51,6 +51,7 @@ stance: >-
   ever entering the model's context if the MCP client tokenizes them on read and
   untokenizes on write.
 related:
+  - INS-260627-B416
   - INS-260625-A7AD
   - INS-260605-9A01
   - INS-260626-BC79

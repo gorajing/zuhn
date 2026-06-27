@@ -48,7 +48,6 @@ stance: >-
   resourcefulness that emerges once they enter environments that reward it
 related:
   - INS-260329-D913
-  - INS-260403-4CE2
   - INS-260329-557C
   - PRI-260406-69FC
   - INS-260330-85D9

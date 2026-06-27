@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4868 insights across 55 topics
+> 4869 insights across 55 topics
 
 ## Topics
 
@@ -33,7 +33,7 @@
 | health-innovation | 18 | The study's leverage came from experimentally tested molecule data and validation infrastructure, not from model access alone. |
 | hiring | 77 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 92 | Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses. |
-| innovation | 147 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
+| innovation | 148 | C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages. |
 | investor-relations | 4 | Match your pitch deck's emphasis to investor decision criteria at your specific funding stage. |
 | leadership | 208 | Microsoft grew revenue from $6B to $80B under Ballmer, yet the stock stayed flat for over a decade because the company could not articulate a coherent story for consumers, developers, or investors. |
 | market-entry | 62 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |

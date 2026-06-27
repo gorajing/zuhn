@@ -72,9 +72,9 @@ related:
   - INS-260605-34B0
   - INS-260605-7FEA
   - INS-260605-D777
-  - INS-260605-EA2E
   - INS-260605-014F
-  - INS-260605-0436
+  - INS-260605-3AAF
+  - INS-260605-44E2
 ---
 In the CRM marketing-content build, the sub-tasks (plan, retrieve, generate, validate, fix) were sequential, heavily coupled, and context-dependent: each step needed the full content in mind to produce the best output. Splitting those decisions across separate agents — as the client originally wanted — would have fragmented that shared context and created handoff and tool-call errors that reduce reliability. So Towards AI built a single agent and used tools as their unit of specialization.
 

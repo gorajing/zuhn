@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260402-BF2E
   - INS-260403-BEB3
-  - INS-260410-58D6
   - INS-260514-F565
   - INS-260514-3100
   - INS-260605-048B
@@ -58,6 +57,7 @@ related:
   - INS-260625-08E5
   - INS-260409-17E9
   - INS-260626-FBB1
+  - INS-260626-3408
 ---
 The intuition that faster models simply make developers more productive is wrong. Chieng argues the bad habits developers formed under slow generation — oneshotting massive prompts, running 10 agents in parallel, making huge commits nobody reviews — were tolerable only because slow output rate-limited the damage. At 1,200 tokens/second, the same habits generate technical debt at a level never seen before, with nobody verifying the output.
 

@@ -1,8 +1,8 @@
 # Tag: search
 
 - `INS-260625-355D` Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
-- `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
+- `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
 - `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - `INS-260405-C17A` Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.

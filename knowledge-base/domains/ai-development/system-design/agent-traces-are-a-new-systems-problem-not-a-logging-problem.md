@@ -49,7 +49,6 @@ stance: >-
   their size and shape break conventional observability backends.
 related:
   - INS-260403-410A
-  - INS-260410-264E
   - INS-260514-23D6
   - INS-260605-1A50
   - INS-260605-58DA

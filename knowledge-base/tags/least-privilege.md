@@ -10,4 +10,5 @@
 - `INS-260625-52B6` Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 - `INS-260626-AD63` Per-agent identities bound to the deploy/delete lifecycle prevent rogue residual permissions that a shared service account accumulates.
 - `INS-260625-DD6D` Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
+- `INS-260627-6BD0` Don't enumerate what to block; enumerate what to allow, so there is nothing to exploit because the dangerous capability was never granted.
 - `INS-260330-4E68` Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.

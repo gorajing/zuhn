@@ -53,6 +53,7 @@ related:
   - INS-260323-23B9
   - INS-260403-27F5
   - INS-260514-6576
+  - INS-260627-89F2
 ---
 Sonar attributes much of the code-quality problem to the training corpus itself: open-source and scraped code carries built-in security flaws and subtle logic errors that slip into the training pool. The model picks up insecure examples alongside good ones and reproduces both, so the defects are upstream of any single prompt.
 

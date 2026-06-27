@@ -56,7 +56,7 @@ related:
   - INS-260327-0C4A
   - INS-260514-6EE6
   - INS-260605-9719
+  - INS-260627-EB75
   - PRI-260406-8FDF
-  - INS-260501-17BB
 ---
 Linear runs 'Quality Wednesdays': in a ~30-minute remote call, each of ~25 engineers demos one quality fix they personally found and shipped that week — ranging from a one-pixel adjustment to a backend efficiency gain. The practice began when Artman, frustrated at repeatedly flagging tiny issues himself (like a missing hover-highlight or an animation fade-out that should take 150ms), ran an offsite exercise where the team found 35 problems in a single small menu view. The rule is that engineers must hunt for problems themselves; fixes aren't handed to them. Over time Linear has fixed an estimated 2,500-3,000 of these small details. The crucial insight is the second-order effect: because engineers know they must arrive each Wednesday with a self-found fix, they stay constantly attuned to quality while building unrelated features — and therefore introduce far fewer quality regressions in the first place. The ritual trains a standing awareness, which is worth more than the individual fixes. Note Linear keeps quality fixes strictly separate from bugs (a bug assigned to you does not count as your Quality Wednesday contribution).

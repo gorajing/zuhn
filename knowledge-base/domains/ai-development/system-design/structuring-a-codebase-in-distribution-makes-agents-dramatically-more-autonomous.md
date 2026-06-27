@@ -52,11 +52,10 @@ stance: >-
 related:
   - INS-260320-EA19
   - INS-260409-430B
-  - INS-260410-0855
   - INS-260605-4AB0
+  - INS-260627-30F9
   - INS-260605-BA6A
   - INS-260605-9E46
-  - INS-260626-690F
-  - INS-260605-A803
+  - INS-260627-05AD
 ---
 Zakariasson frames factory-building as 'primitives and patterns.' If code is collocated and modularized, an agent can 'ls' one folder and discover all relevant files at once, working isolated within a single part of the codebase rather than grepping across everything. Heuristic: if a new human onboards easily, an agent probably will too. The second lever is conventional patterns being 'in distribution' for the models — package.json with a standard start script means a JS-project agent immediately knows to look there to start a server, with no instruction needed. The same logic extends to having predefined services and boilerplate (auth methods, startup scripts, test patterns) the agent can be pointed to and told to reproduce. The deeper principle: the more your codebase matches the statistical conventions the models were trained on, the less scaffolding and prompting agents require to operate autonomously within it.

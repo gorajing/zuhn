@@ -58,11 +58,11 @@ stance: >-
   removed the primary legal uncertainty that blocked institutional adoption,
   making a broad capital inflow to crypto structurally more likely.
 related:
+  - INS-260627-A944
   - INS-260402-31D8
   - INS-260404-78E0
   - INS-260327-368D
   - INS-260412-9C7F
-  - INS-260412-583A
 ---
 The March 2026 SEC/CFTC joint interpretive release represents a structural shift in US crypto regulation. By introducing a formal taxonomy (digital commodities, collectibles, tools, stablecoins = not securities; digital securities = securities), the SEC eliminated the ambiguity that forced companies to either avoid the US market or operate under constant enforcement risk.
 

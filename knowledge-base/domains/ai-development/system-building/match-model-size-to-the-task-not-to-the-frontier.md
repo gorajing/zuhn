@@ -60,7 +60,6 @@ stance: >-
   inference cost.
 related:
   - INS-260327-422B
-  - INS-260410-56B4
   - INS-260501-3088
   - INS-260505-ABCC
   - INS-260605-B8DD
@@ -69,6 +68,7 @@ related:
   - INS-260619-AD94
   - INS-260625-F775
   - INS-260323-3F39
+  - INS-260627-BDF8
 ---
 Reaching for the most capable model by default is a reflex that quietly inflates cost. Summarizing mail, refactoring code in small modular chunks, generating code against specific instructions, and document-analysis agentic loops do not require planet-scale intelligence. The right question is not 'what is the best model' but 'what is the smallest model that reliably clears this task's quality bar.'
 

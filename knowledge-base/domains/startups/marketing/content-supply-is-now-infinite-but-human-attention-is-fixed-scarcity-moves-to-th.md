@@ -70,7 +70,7 @@ related:
   - INS-260501-0C6C
   - INS-260603-A7CF
   - INS-260321-6437
-  - PRI-260328-0BE1
+  - INS-260627-0009
   - INS-260625-7CD5
 ---
 The economic reframe: AI drives the marginal cost of producing content, code, and media toward zero, so supply becomes effectively infinite. But the demand side — human attention and consumption capacity — is fixed. A person still has ~2 hours a day to read, not 20. So the classic supply/demand picture inverts: supply explodes, demand holds constant, and the scarce, valuable resource becomes attention (the 'eyeball'), not production.

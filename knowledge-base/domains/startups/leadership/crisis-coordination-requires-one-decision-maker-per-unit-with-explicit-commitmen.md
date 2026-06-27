@@ -52,9 +52,10 @@ related:
   - INS-260329-422F
   - INS-260403-EC1D
   - PRI-260328-F0E4
+  - INS-260627-9968
   - PRI-260403-7E5E
-  - INS-260403-30FF
   - INS-260403-2F4D
+  - INS-260403-30FF
 ---
 During Geneva Hospital's COVID-19 transformation, the Head of Operations, Surgical bloc manager, Patient flow manager, and projects department each took ownership of their units' transformation. The Team Alignment Map made their individual commitments visible to everyone else.
 

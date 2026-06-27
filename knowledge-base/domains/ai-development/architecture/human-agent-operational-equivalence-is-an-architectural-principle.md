@@ -58,8 +58,8 @@ related:
   - INS-260404-292E
   - INS-260409-B80C
   - PRI-260328-1ED1
+  - INS-260627-9968
   - INS-260605-9976
-  - INS-260403-10CE
 ---
 Anthony (AI Alliance, presenting Adam Pingel's Semiont project) articulated the principle directly: 'Every operation that Semiont can do is equivalent — a human can do it, an AI can do it, and there's a sliding scale. It's up to the user, to the manager of the deployment, how much of what.'
 

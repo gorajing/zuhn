@@ -3,6 +3,7 @@
 - `INS-260410-14E5` Return denials as tool results so false positives cost a single retry instead of killing the session.
 - `INS-260410-38C8` The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
 - `INS-260410-E27A` Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
+- `INS-260627-79E3` Catch the guardrail violation and feed the agent a clear corrective message ('access denied, save here instead, provide a proper path') so it retries correctly rather than crashing the whole agentic process.
 - `INS-260605-35B4` Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
 - `INS-260605-2627` When HTTP calls were cheap you just retried the whole request; when an agent step costs 15 minutes of compute and context, you must treat the error as an input and recover forward.
 - `INS-260605-2A69` Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.

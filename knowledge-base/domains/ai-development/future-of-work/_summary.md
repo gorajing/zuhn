@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 154 insights
+> 155 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -136,6 +136,7 @@
 - `INS-260626-48F7` [medium] When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
 - `INS-260325-2069` [medium] The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` [medium] When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
+- `INS-260627-F934` [medium] When every idea is a prompt away, the bottleneck shifts to choosing boundaries and refusing features — the integration of many ideas, not any single one, is what breaks systems.
 - `INS-260501-3088` [medium] 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening.
 - `INS-260405-0E77` [medium] AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
 - `INS-260424-123B` [medium] Logan Kilpatrick: this is going to increase the demand for traditional developers — there will be a stopping point of how far you can go without understanding the technology, and people need a developer to partner with.

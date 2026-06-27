@@ -9,9 +9,6 @@
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
 - `INS-260626-D7DC` Gemma reached 500M+ downloads and 100K+ derivative models by shipping day-one into Hugging Face transformers, llama.cpp, vLLM, Unsloth, and MLX — explicitly so developers never have to switch to a first-party framework like Keras to use it.
 - `INS-260626-E253` ElevenLabs' moat is layered: model quality earned by getting in front of users and tuning per-domain, plus an ecosystem — telephony integration, evaluation tooling, 20,000+ shared voices, templates, and trusted brand — because the model itself is only a small part of any customer's stack.
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
-- `INS-260405-A761` Euro VCs' ambivalence toward Balderton's large AI fund signals structural concerns about Europe's ability to compete in AI.
 - `INS-260412-BEBE` The competitive drive that lets you win a market can be the same force that burns it down.
 - `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260405-4523` Well-maintained curated lists in fast-moving technical fields attract disproportionate community engagement because they solve the navigation problem most practitioners face.
@@ -35,3 +32,6 @@
 - `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
 - `INS-260403-D870` Sweden's unicorn density came from founder alumni reinvesting exits into new startups, amplified by tax incentives — not government venture programs.
 - `INS-260404-8050` Oxygen is a 'useless byproduct' of photosynthesis that became the foundation for all animal life — the most consequential side effect in biological history.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260405-484F` Clawback mechanisms that reach founders' personal assets convert entrepreneurship from bounded-downside to unlimited-downside, chilling risk-taking.
+- `INS-260405-A761` Euro VCs' ambivalence toward Balderton's large AI fund signals structural concerns about Europe's ability to compete in AI.

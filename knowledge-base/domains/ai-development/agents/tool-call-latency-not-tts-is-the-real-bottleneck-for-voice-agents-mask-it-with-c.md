@@ -48,7 +48,6 @@ stance: >-
   call, and the fix is to keep talking naturally while the call resolves rather
   than to optimize the TTS further.
 related:
-  - INS-260410-14E5
   - INS-260514-F74B
   - INS-260626-475E
   - INS-260605-D0A0

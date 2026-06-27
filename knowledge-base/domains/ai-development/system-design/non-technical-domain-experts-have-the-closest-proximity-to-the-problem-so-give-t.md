@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260327-9D50
   - INS-260403-BE4D
-  - INS-260605-310E
   - INS-260605-610E
   - INS-260605-726C
   - INS-260605-7843
@@ -56,5 +55,6 @@ related:
   - INS-260605-A2AD
   - INS-260605-7711
   - INS-260626-0E8C
+  - INS-260626-F3AC
 ---
 Because changing an agent now means changing its inputs, the people who understand the problem best can directly shape behavior through prompt and context engineering — even without an engineering background. Equally important is human annotation: a domain expert reading an agent trace can judge whether the agent performed well and, most valuably, articulate why. That 'why' is the grounded signal that feeds back into improving prompts and evals. Building a relevant agent therefore requires pulling domain experts into the loop rather than treating agent quality as purely an engineering concern.

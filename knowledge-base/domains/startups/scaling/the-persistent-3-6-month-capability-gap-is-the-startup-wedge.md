@@ -64,6 +64,7 @@ related:
   - INS-260410-56B4
   - INS-260625-1B69
   - INS-260323-3F39
+  - INS-260627-BDF8
 ---
 The founders concede that for high-stakes domains — math, coding, cyber — the 'magic of training' will land in the frontier labs' hands. But they argue there is consistently a three-to-six-month lead where bespoke tasks people are actively exploring are not yet well-served by the base models. The models will eventually get there, but if you can autonomously learn in a lightweight way, you capture value during that window.
 

@@ -67,6 +67,7 @@ related:
   - INS-260605-B95C
   - INS-260625-D943
   - INS-260626-FFE2
+  - INS-260627-266C
 ---
 Context rot — the documented effect (per Chroma's research) where output quality degrades as context length increases — means simply stuffing more data into an agent is self-defeating. The fix is to put cheap, specialized small models upstream of the agent: named-entity-recognition models to build ontologies and knowledge graphs (the Karpathy approach), classification models for taxonomy, or rerankers as tools. 
 

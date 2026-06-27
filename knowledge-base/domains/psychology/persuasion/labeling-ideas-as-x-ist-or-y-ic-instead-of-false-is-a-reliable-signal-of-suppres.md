@@ -49,7 +49,6 @@ stance: >-
   factually wrong, the statement is more likely to contain truth that threatens
   a power structure.
 related:
-  - INS-260330-775F
   - PRI-260406-C1EF
   - INS-260410-A33F
   - INS-260605-DCE5

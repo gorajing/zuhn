@@ -46,10 +46,10 @@ stance: >-
   context than by prompt cleverness.
 related:
   - INS-260327-E016
+  - INS-260627-266C
   - INS-260626-E926
   - INS-260605-295D
   - INS-260626-411D
-  - INS-260625-81E1
   - INS-260409-384A
   - INS-260501-4646
   - INS-260605-9925

@@ -61,12 +61,12 @@ related:
   - INS-260404-EF52
   - INS-260403-5611
   - INS-260404-3FBC
-  - INS-260403-9149
   - INS-260403-28AB
   - PRI-260406-4EBD
   - INS-260322-0E41
   - PRI-260406-5E06
   - INS-260403-1B15
+  - PRI-260406-4D4E
 ---
 Rwanda's entire development trajectory is inseparable from Paul Kagame — military liberator, constitutional amender, three-term president winning with 98.8% of the vote. He himself acknowledged that failure to groom a successor by 2017 would be a 'personal failure,' yet remains in power with no succession plan visible. This pattern — where a country's stability, growth narrative, and foreign investment thesis all depend on one person — creates a binary risk that traditional economic analysis handles poorly.
 

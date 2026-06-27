@@ -1,14 +1,16 @@
 # Topic: agent-evals
 
-> 74 insights
+> 78 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
 - `INS-260625-1830` [high] Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260625-0021` [high] Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
+- `INS-260627-4D26` [high] Each annotation should state why a trace passed or failed (e.g. 'non-compliant: approved the cancellation without verifying it met the airline's cancellation rules'), because without that reasoning the optimizer would have to rediscover the policy from scratch — usually impossible.
 - `INS-260626-A0DC` [high] CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
 - `INS-260626-67E8` [high] The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
+- `INS-260627-7541` [high] Cluster failures into distinct error types via error analysis, build one binary (true/false) judge per type, and avoid 1-5 / percentage scores — even two humans rarely agree on a numeric score, and a single 'success' judge is too complex to calibrate.
 - `INS-260626-1045` [high] A harness can prove that gates reject constructed bad inputs without proving it improves developer outcomes.
 - `INS-260625-BB42` [high] An agent eval measured in dollars earned can never saturate, while percentage benchmarks lose all signal once models cluster near the top.
 - `INS-260625-13F0` [high] If a model refuses or underperforms a task it's actually capable of because it senses an evaluation, getting the real answer is an adversarial optimization problem.
@@ -22,6 +24,7 @@
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
 - `INS-260626-AC18` [high] When you have no production traffic, curate known edge cases into a golden dataset so releases rest on evidence rather than vibes.
+- `INS-260627-6846` [high] The model exploits any deterministic quirk in the opponent or environment, scoring great on benchmarks while being clueless in real play — only hands-on testing reveals it.
 - `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
 - `INS-260626-F5AE` [high] The agents generally followed context-file instructions, but that mainly produced more testing, exploration, specialized-tool use, and reasoning tokens.
 - `INS-260626-B0D5` [high] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
@@ -31,6 +34,7 @@
 - `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260626-6AF4` [high] Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
+- `INS-260627-21FF` [high] A generic judge that could detect your agent's hallucinations would imply the app already worked — eval metrics must come from the specific business use case, defined by subject-matter experts, not pulled from a library.
 - `INS-260626-485E` [high] Before concluding a model is bad, instrument the harness for tool-call failures — most 'DeepSeek is slow/bad' verdicts are 50+ silently-hidden tool errors per session, a harness problem.
 - `INS-260625-99B0` [high] SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
 - `INS-260625-9E17` [high] Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.

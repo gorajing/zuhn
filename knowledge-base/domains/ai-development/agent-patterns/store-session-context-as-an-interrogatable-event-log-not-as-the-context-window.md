@@ -65,7 +65,6 @@ related:
   - INS-260605-3345
   - PRI-260426-890F
   - INS-260410-346B
-  - INS-260626-A027
 ---
 Long-horizon tasks routinely exceed Claude's context window, and the standard mitigations — compaction, memory files, context trimming — all involve irreversible decisions about what to keep. You can't know in advance which tokens a future turn will need. If compaction removes messages from the context window, those messages are only recoverable if they were separately stored.
 

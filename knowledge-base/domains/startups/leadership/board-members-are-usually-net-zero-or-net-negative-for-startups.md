@@ -43,10 +43,10 @@ stance: >-
   for getting a 'zero' rather than hoping for a rare 'plus one.'
 related:
   - INS-260327-812B
+  - INS-260627-7541
   - INS-260403-9867
   - INS-260412-9719
   - INS-260501-0A62
-  - INS-260403-7BCF
 evidence:
   - id: INS-260325-C996
     type: TRANSFERS_TO

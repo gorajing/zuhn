@@ -52,8 +52,8 @@ related:
   - INS-260605-59FE
   - INS-260626-E926
   - PRI-260411-9CB1
+  - INS-260627-266C
   - INS-260410-761B
   - INS-260327-E016
-  - INS-260327-F625
 ---
 McLean argues that the recent leap in agent capability came mostly from larger context windows, but that 'however big they get, it's not going to be enough' — world knowledge doubles roughly every 12 hours, so demand is unbounded. Rather than chase capacity, he advocates self-imposed constraints: everyone knows not to use the full context window, but the more interesting question is how *little* of it you can use and still complete the task. His justification is that constraints create creativity while abundance stops you being scrappy — the same dynamic that produced SpaceWar in 4,000 words or the Crash Bandicoot team's PS2 memory tricks. The actionable practice is to set an artificial context budget well below the model's limit and design retrieval, compaction, and tool use to live within it, which forces the architectural discipline that raw abundance lets you skip.

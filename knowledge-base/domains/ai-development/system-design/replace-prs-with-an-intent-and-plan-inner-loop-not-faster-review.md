@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260605-55A6
   - INS-260605-D777
+  - INS-260627-9EBD
   - INS-260524-2C7C
   - INS-260605-B136
   - INS-260605-3AAF
-  - INS-260626-A2B9
 ---
 Namespace's team and the frontier companies they work with (Fal, Zed, Ramp) have already removed PRs from their inner loop. The new primitive is intent and plan: a goal codified somewhere durable — a Linear ticket, a Slack message, a spec doc. That intent feeds an agent harness (Amp, Claude Code, Cursor, Factory) which checks out a well-known commit, implements toward the plan, and runs internal validation using the repository's own assets (build it, test it) before reporting back. The human's role shrinks to a tight 'does this look good? continue?' decision — 'continue' being the most-used word. Coordination that CI used to own (ordering changes, gating on passing tests) moves inside this loop. The actionable shift for teams is to treat the spec as the unit of work and invest in harness configuration and fast local validation rather than PR-review tooling.

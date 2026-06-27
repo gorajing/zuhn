@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 59 insights
+> 60 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -41,6 +41,7 @@
 - `INS-260320-2058` [high] Use OpenRouter for a unified dashboard, model switching, spending tracking, and hard budget limits across all LLM providers.
 - `INS-260605-9F7A` [high] Provider-supplied tools like web search are a line of code to add but blow up token cost and surrender control over a core part of your UX.
 - `INS-260605-6F98` [medium] Move from undirected 'Ralph looping' that burns 8-9 hours of tokens hoping something happens to opinionated loops with reward mechanisms and a human watching.
+- `INS-260627-BDF8` [medium] The bottleneck for beating a frontier model on a specific task is no longer compute or data but the ability to define a verifiable reward and wrap it in an environment.
 - `INS-260605-8F42` [medium] The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
 - `INS-260320-9937` [medium] OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
 - `INS-260625-279D` [medium] High-token-volume agentic tasks reframe inference cost from per-token API billing to fixed energy and utilization, making owned hardware economical past a volume threshold.

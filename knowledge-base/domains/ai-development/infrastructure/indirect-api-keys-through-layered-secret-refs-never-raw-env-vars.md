@@ -51,11 +51,11 @@ stance: >-
   Agent API keys should be stored as layered secret references rather than
   plaintext environment variables.
 related:
+  - INS-260627-9478
   - INS-260605-BC6F
   - INS-260329-1277
   - INS-260410-1430
-  - INS-260403-2FAE
-  - INS-260605-8C71
+  - INS-260627-2FFE
 ---
 The standard pattern is a chain of indirection: store the API key in a Podman secret (or Kubernetes secret), mount it into the container, and then have the agent reference it through its own secret-ref feature. OpenClaw's secret-ref support 'doubles' the separation — the agent config holds a pointer to a secret-ref that points to the external secret, so the actual key value never lives inline.
 

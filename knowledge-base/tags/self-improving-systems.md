@@ -7,6 +7,7 @@
 - `INS-260522-B95E` YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice.
 - `INS-260524-D5DB` Jongmin Sung: agents are very smart but 'without personal memory you don't remember what you did yesterday' — so he digests papers into a wiki he can query and manage context with.
 - `INS-260524-5173` Woosang: ML recommends a recipe -> a robot synthesizes it -> the result feeds back; active learning plus robotic synthesis is the autonomous-lab loop.
+- `INS-260627-2B13` If you keep telling agents 'cuts should be 2 seconds not 6,' that pattern is a signal to fork a generic skill into an org-specific one that bakes in your preferences.
 - `INS-260514-00D3` Auto-save every question-answer interaction back into the indexed folder — turns each AI query into new knowledge that re-indexes in the next cycle, creating compounding personal KB.
 - `INS-260522-2CE8` YC Root Access: a company is a set of recursive self-improving AI loops — sensor (tickets, telemetry, churn) -> policy/decision -> tool layer (deterministic APIs/skills) -> quality gate (evals, human review) -> learning mechanism that loops back.
 - `INS-260625-4AB6` SkillOpt pairs a continuous fast-update path of small skill edits with a slow per-epoch reflection step plus a meta-skill memory of what has and hasn't worked.

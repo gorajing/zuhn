@@ -46,7 +46,6 @@ stance: >-
   more honest PMF indicator than usage metrics alone because it measures
   emotional dependency rather than habitual behavior
 related:
-  - INS-260403-C3DF
   - INS-260403-B635
   - INS-260403-B8ED
   - INS-260626-55E0

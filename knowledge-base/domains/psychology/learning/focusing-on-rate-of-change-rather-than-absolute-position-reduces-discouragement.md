@@ -50,5 +50,6 @@ related:
   - INS-260329-9115
   - INS-260530-C385
   - INS-260403-76E4
+  - INS-260627-F1B4
 ---
 When output is objectively poor by any finished-work standard, absolute-position metrics are demoralizing and provide no useful signal. Switching to rate-of-change framing converts the same information into evidence of traction. This is especially effective early in a project when improvement is fastest—the derivative is at its steepest. Graham connects this to time investment: spending large continuous blocks of time on new work accelerates the improvement curve, which makes the rate-of-change motivation strategy more potent. Young people benefit from this naturally because they typically have larger contiguous time blocks.

@@ -62,7 +62,7 @@ related:
   - INS-260605-35B4
   - INS-260626-D14F
   - INS-260602-EA48
-  - INS-260625-3768
+  - INS-260627-9EBD
 ---
 The speaker contrasts two permission models. When you give something like Claude Code raw access to your Google Calendar, it can make any API call the credential allows — the blast radius equals the entire API surface. In n8n, a tool exposes every field individually, and you choose which fields the agent may fill. You can let it set the subject and 'to' while hard-coding the body, or template static text and let the AI fill only one slot. The agent literally cannot touch fields you didn't expose.
 

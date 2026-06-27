@@ -54,7 +54,6 @@ related:
   - INS-260404-F0C3
   - INS-260403-B6C6
   - INS-260412-C69B
-  - INS-260624-EA6B
 ---
 Bitfinex delegated wallet security to BitGo, a third-party service. When BitGo's servers were compromised, the attacker could order the system to transfer all Bitcoin to their own address — a single point of failure that exposed every user on the platform. The exchange's own security was irrelevant because the critical custody layer had been outsourced.
 

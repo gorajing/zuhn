@@ -19,6 +19,7 @@
 - `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
 - `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
 - `INS-260624-A740` LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
+- `INS-260320-DDFE` Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
 - `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260409-C1B2` Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260605-1C30` If you let a model emit HTML/CSS/JS at runtime, render it inside a sandbox — the same boundary you'd impose on any untrusted third-party code.
@@ -26,7 +27,6 @@
 - `INS-260625-3FBF` Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
 - `INS-260626-4639` Most popular agent harnesses dangerously combine the harness environment with the environment that runs the code the agent generates, and the correct architecture separates the two.
 - `INS-260625-D1D5` Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
-- `INS-260320-DDFE` Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
 - `INS-260605-A46E` Agent guardrails are defense-in-depth, not the security model.
 - `INS-260625-52B6` Split tools into read-only and read-write surfaces and let the data owner deny write tools via IAM, so the developer can't accidentally grant an agent destructive power.
 - `INS-260625-7365` Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
@@ -40,11 +40,18 @@
 - `INS-260605-402B` An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces.
 - `INS-260605-3088` Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260325-A1B9` Digital encryption relies on the difficulty of factoring large numbers -- a task that takes digital computers centuries but quantum computers could do almost instantly.
+- `INS-260627-962C` Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260626-3492` A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved.
 - `INS-260626-8D48` Security teams should bless one gateway platform as a single root of trust, letting MCP development be decentralized without losing central control.
+- `INS-260627-A0EE` Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
+- `INS-260627-1CF9` Map each human/agent interface difference to its security shadow: discovery to tool poisoning, iteration to data leakage, limited context to oversharing.
 - `INS-260626-6F00` Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security.
 - `INS-260624-5865` A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260625-DE8E` Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
+- `INS-260627-109F` When AI makes producing plausible work cheap but verifying it stays expensive and human, the bottleneck — and the attack surface — shifts entirely to the reviewer.
+- `INS-260627-08E7` Intercept the tool call before it executes, validate the sensitive arguments with deterministic logic, and refuse invocation if they violate your constraints.
+- `INS-260627-5EB3` Going from local stdio to remote HTTP MCP flips you from zero security surface to OAuth, tokens, CORS, TLS, and rate limiting all at once, with no halfway house.
+- `INS-260627-2FFE` Move MCP auth from long-lived shared keys (confused-deputy risk) to short-lived scoped OAuth 2.1 tokens, token exchange, and CIMD-based verifiable client identity.
 - `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260410-0C77` Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260626-C51E` Because the cross-app token exchange can re-run with no human in the loop, access tokens can be ~5 minutes long — revoking the SSO session cuts off the agent within minutes while the user never sees a prompt.
@@ -57,9 +64,6 @@
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260329-5F19` AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
 - `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
@@ -70,3 +74,6 @@
 - `INS-260402-CC68` Immutable smart contracts force a ship-once mentality where security audits must precede deployment, inverting web2's iterate-fast approach.
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
 - `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.

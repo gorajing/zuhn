@@ -72,7 +72,7 @@ related:
   - INS-260403-B73D
   - INS-260424-0554
   - INS-260625-39E7
-  - INS-260410-CB70
+  - INS-260627-54A4
 ---
 Konwoo Kim's 'Pretraining Under Infinite Compute' starts from a structural observation: internet text grows roughly 3% per year, but pretraining compute grows 4–5x per year, so the compute-per-datapoint we are willing to spend keeps rising ~4x year-over-year. The chinchilla 'compute-optimal' regime — scale parameters and data together — assumes data is cheap. That assumption is expiring, and the algorithmic regime flips: the question becomes how to extract maximum generalization from fixed data given effectively unlimited compute.
 

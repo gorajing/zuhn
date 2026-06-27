@@ -58,7 +58,7 @@ related:
   - INS-260402-E85D
   - INS-260325-0C4A
   - INS-260404-89DA
-  - INS-260409-171C
+  - INS-260627-E7AE
 ---
 Barbara Corcoran's $77,000 VHS flop illustrates this pattern perfectly — the tapes failed commercially, but she uploaded them online the same night she heard about the internet and made two sales by morning. The competitive advantage wasn't avoiding the bad bet; it was compressing the recovery cycle to hours instead of months.
 

@@ -54,11 +54,11 @@ stance: >-
   millions of synthetic examples with a strong cloud LLM, then fine-tune a small
   base model on them.
 related:
+  - INS-260627-EEDE
   - INS-260626-9E65
   - INS-260603-C102
   - INS-260626-21EA
   - INS-260626-ECA6
-  - INS-260410-684D
   - INS-260626-3796
   - INS-260626-3408
 ---

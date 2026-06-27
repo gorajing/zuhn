@@ -1,6 +1,6 @@
 # Topic: epistemics
 
-> 85 insights
+> 86 insights
 
 - `INS-260412-0F94` [high] The empty universe is not a lack of data — it is the single most important data point in the Fermi Paradox.
 - `INS-260412-CC9E` [high] At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
@@ -44,6 +44,7 @@
 - `INS-260405-2B3F` [high] Treating survey non-response as randomly missing data produces systematically wrong estimates whenever the stigmatized view is also the under-reported one.
 - `INS-260412-7728` [high] When you don't know the rules of the game, watch silently before announcing yourself.
 - `INS-260412-B9F4` [high] Future Milkdromeda civilizations will have no evidence of the Big Bang, cosmic expansion, or other galaxies — they'll rationally conclude a static, solitary universe.
+- `INS-260627-F1B4` [high] Ask people how productive they felt, not how long something took — only the former tracks reality.
 - `INS-260405-F7FA` [high] All else being equal, bet against the explanation where you are the protagonist.
 - `INS-260410-7FA4` [high] Vaccination and scurvy's cure took centuries to discover despite killing millions, showing that intrinsic problem difficulty, not weak motivation, is often the binding constraint.
 - `INS-260409-42F7` [high] Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.

@@ -44,6 +44,6 @@ related:
   - INS-260625-2B5A
   - INS-260625-FDC1
   - INS-260625-A5E7
-  - INS-260327-A61B
+  - INS-260627-C36B
 ---
 The paper separates inner-loop signals such as tests and type checks, middle-loop signals such as review and simulation, and outer-loop signals such as PR acceptance or incidents. AgentRun should keep this taxonomy in its ledgers: fast gates decide whether to close a run, while slower feedback recalibrates which gates deserve trust.

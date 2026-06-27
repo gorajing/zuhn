@@ -24,6 +24,7 @@
 - `INS-260501-AB31` Future companies have builders (deputizing agents) and salespeople (transferring trust). Everything else is automated by the builders.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
 - `INS-260409-4719` When intelligence costs go to zero, humans get paid for taking risk — the one thing machines cannot perform on your behalf.
+- `INS-260627-F934` When every idea is a prompt away, the bottleneck shifts to choosing boundaries and refusing features — the integration of many ideas, not any single one, is what breaks systems.
 - `INS-260514-1A3D` Scientific scopes that cost 2 FTE × 6 months mid-2025 cost 2 weeks solo by late 2025 — a 12-24x compression that reprices what 'a project' means.
 - `INS-260514-78B3` AI amplifies diligence over genius — because AI needs continuous human feedback to improve, the person who shows up daily for years extracts more value than the sporadic genius.
 - `INS-260423-4CB1` Seth Godin: are you going to upskill or be deskilled? Are you going to work for an AI — which is going to be unhappy — or is AI going to work for you?
@@ -31,6 +32,7 @@
 - `INS-260605-ED35` Once agents can plausibly do most of your work, the scarce decision is which slices of work you keep for yourself because they define your value and you enjoy them.
 - `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260403-3E16` When everyone delegates to AI, human professional identity shifts from 'what I do' to 'what I delegate.'
+- `INS-260627-5447` Agents 'can do anything except know what you value,' so your leverage shifts entirely to articulating preferences, brand, and quality bars.
 - `INS-260626-7A55` Instead of you constantly prompting AI, the most productive people will delegate ~99% of work and the AI will prompt them — 'you didn't send me a picture of your passport,' 'what do you want to do next?'
 - `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
 - `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.

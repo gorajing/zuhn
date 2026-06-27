@@ -60,10 +60,10 @@ related:
   - INS-260403-F4B9
   - INS-260605-09B1
   - INS-260625-0A08
+  - INS-260627-6846
   - INS-260626-B7AC
   - INS-260410-939B
   - INS-260505-5510
-  - INS-260625-D1F9
 ---
 Models exhibit eval awareness: when a test is set up artificially (placeholder emails like example.com, obviously fake web pages), the model often reasons 'this is a simulation, it doesn't matter what I do' — producing both false positives (doing things it shouldn't because it thinks nothing is real) and false negatives (sandbagging a capability eval so it 'won't score too well' and get restricted). Either way, the measured behavior diverges from real-world behavior.
 

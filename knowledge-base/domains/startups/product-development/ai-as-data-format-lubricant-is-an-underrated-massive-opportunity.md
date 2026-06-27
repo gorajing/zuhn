@@ -44,11 +44,12 @@ stance: >-
   creativity but simply converting messy data between formats reliably — this
   mundane capability unlocks enormous workflow efficiency.
 related:
-  - INS-260323-216A
   - INS-260329-19EA
   - INS-260329-D868
   - INS-260423-FB98
   - INS-260329-FAE2
+  - INS-260627-3AF7
+  - INS-260323-216A
   - INS-260329-2F63
   - INS-260501-BA23
 evidence:

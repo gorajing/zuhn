@@ -8,8 +8,6 @@
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260403-401F` AI companies need usage-based pricing that kicks in fast because generous free tiers burn cash at a rate that SaaS free tiers never did.
 - `INS-260325-4FF3` Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies should charge for value delivered — aligning revenue with the GDP of agent output rather than compute consumed.
-- `INS-260403-29EB` Lenny crossed 1,000 paid subscribers and exceeded his Airbnb PM Lead salary within months of launching paid.
-- `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260403-32BA` Creators are increasingly launching product lines, brands, and software companies rather than relying solely on content monetization.
 - `INS-260626-77D0` Bundle features into credits the customer sees as stable, while freely re-mapping what each credit buys underneath as premium features become commodity and new ones launch.
 - `INS-260410-13EB` F1 has millions of fans who buy merch, know drivers, and respond to sponsors but never watch a race — and the sponsorship model works fine because logo impressions accumulate across Drive to Survive, social media, and merchandise.
@@ -20,6 +18,8 @@
 - `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260404-B8EB` Usage-based pricing is displacing seat-based licensing as the dominant SaaS monetization model.
+- `INS-260403-29EB` Lenny crossed 1,000 paid subscribers and exceeded his Airbnb PM Lead salary within months of launching paid.
+- `INS-260403-002C` VC newsletters increasingly monetize through embedded partner tool credits rather than paywalling core content.
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260403-3656` Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - `INS-260626-66C6` ElevenLabs deliberately monetized fast and kept healthy margins so internally-generated revenue could fund model work, treating early independence as more valuable than maximally fast growth.

@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 403 insights
+> 416 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -17,6 +17,7 @@
 - `INS-260605-124F` [high] Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
 - `INS-260410-315B` [high] E-commerce long-tail SEO creates persistent URL slugs from agent queries, turning the public web into an unintentional scratchpad shared across every agent run.
 - `INS-260605-0312` [high] A harness must deterministically inspect the trace of tool calls to confirm what actually happened, because the model will claim it succeeded even when it failed.
+- `INS-260627-C87B` [high] Agents are trained to write code that runs and tests pass, so they default to silent-recovery patterns (read config, fall back to defaults) that create brittle systems a human would feel bad writing.
 - `INS-260625-211E` [high] Models excel at selecting the right rows from a large input but are weak at producing the precise query that fetches only those rows, so give them broad-recall tools (vector + hybrid search) and let them do the final selection.
 - `INS-260605-4C0A` [high] Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
 - `INS-260321-8414` [high] The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
@@ -64,6 +65,7 @@
 - `INS-260605-2C70` [high] Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail.
 - `INS-260501-9E23` [high] Don't be an artist about your agent setup. Customization isn't the skill. What you ship with it is.
 - `INS-260626-8F57` [high] Split a single prompt into staged sub-tasks (collect context, triage, policy-check, draft reply, finalize) so you can see exactly which stage failed.
+- `INS-260627-9968` [high] Choreography (agents coordinate via events on a message bus) scales and decouples but is a debugging nightmare without bulletproof event observability; orchestration (a central coordinator calls each agent, manages parallelism, state, retries, and logging) trades autonomy for debuggability and rollback — choose by workflow complexity vs. autonomy need.
 - `INS-260626-5545` [high] Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
 - `INS-260626-181F` [high] Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260625-868D` [high] Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
@@ -76,6 +78,8 @@
 - `INS-260327-9EFE` [high] The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
 - `INS-260605-07E5` [high] Build a state machine with gates between agents so steps can't be skipped, instead of trusting prompt instructions the model can ignore.
 - `INS-260605-C9E8` [high] Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
+- `INS-260627-9EBD` [high] An agent can't just throw arbitrary data at the next agent and hope; each handoff must declare and validate a schema-and-quality contract (e.g. reject if confidence < 0.7) so contract violations are caught at the boundary, not discovered downstream as garbage reports.
+- `INS-260627-35B1` [high] Asking a coding agent to 'test this in the browser before sending it back' reliably fails; a separate enforced QA-then-approver gate does not.
 - `INS-260626-D7AE` [high] Move a task down the verifiability spectrum with golden examples, decomposition, and guardrails so agents can run effectively against a stand-in for truth.
 - `INS-260327-E07C` [high] The same environment you use to eval your model offline can be used as your train set for reinforcement learning, unifying evaluation and training infrastructure.
 - `INS-260410-38C8` [high] The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
@@ -95,6 +99,7 @@
 - `INS-260410-85AD` [high] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260626-4A3B` [high] AI loves to code layer-by-layer (all schema, then all API, then all frontend), which delays any integrated feedback until the last phase; force 'traceable bullet' vertical slices that each touch schema + service + a minimal UI so every slice is testable end-to-end.
 - `INS-260326-9402` [high] Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.
+- `INS-260627-BBCE` [high] Spend your scarce human thinking on research and planning; by the time you implement, all the hard decisions should already be made.
 - `INS-260626-8C3C` [high] Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260625-814D` [high] Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
 - `INS-260626-04E5` [high] OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
@@ -169,6 +174,7 @@
 - `INS-260605-1523` [high] Optimize prompts when the model has never seen your data; skip it when a frontier model already knows the answer.
 - `INS-260605-B1FC` [high] An optimizer that hit 96% accuracy still wrongly excluded aunts and uncles because its training subset never showed them — classic overfitting.
 - `INS-260605-2E27` [high] Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
+- `INS-260627-DF4B` [high] Treat third-party tools as ordinary callable functions and run the predictable, always-on parts of a workflow (e.g. login) outside the agent, only handing control to the agent once the deterministic setup is done.
 - `INS-260605-8C71` [high] Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
 - `INS-260605-1A91` [high] Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260605-7FEA` [high] Match models to roles—careful reasoning for planning, fast fluency for implementation, precise instruction-following for validation—and avoid locking into one provider.
@@ -178,10 +184,12 @@
 - `INS-260605-E193` [high] The real art of tuning a harness is reading full traces by hand to find where the agent's judgment diverged from yours, then tuning the prompt for exactly that gap.
 - `INS-260626-2A5F` [high] Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
 - `INS-260605-E7F2` [high] Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
+- `INS-260627-F1AF` [high] Friction is what lets you steer — so build tooling that routes mechanical bugs back to the agent automatically but forces a human judgment call on high-stakes changes like DB migrations and permission changes.
 - `INS-260605-DB29` [high] The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
 - `INS-260626-9FFD` [high] When logic has too many branches to enumerate in code, describe the goal and steps as a skill and let the agent reason through the cases.
 - `INS-260625-447A` [high] A single agent given four tasks tends to nail two and lose the rest mid-context; splitting into expert agents and adding a judge agent to combine their outputs into one coherent result avoids that silent drop.
 - `INS-260625-A996` [high] One change propagating through UI → module1 → module2 → platform → production became seven separate re-explanations because each agent session was a blank slate.
+- `INS-260627-79E3` [high] Catch the guardrail violation and feed the agent a clear corrective message ('access denied, save here instead, provide a proper path') so it retries correctly rather than crashing the whole agentic process.
 - `INS-260605-DC50` [high] Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260605-35B4` [high] Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
 - `INS-260605-29BD` [high] Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
@@ -240,6 +248,7 @@
 - `INS-260605-09B1` [high] Rejected tasks were often under-specified — the testable outcome wasn't stated up front while the back-end tests expected unrequested behavior, or relied on implicit dependencies never given to the model.
 - `INS-260605-24AC` [high] Build agents for ambiguity and judgment, not for every automation problem.
 - `INS-260410-E658` [high] Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
+- `INS-260627-95CF` [high] Shared mutable state produces lost updates and stale reads when agents write concurrently; instead each agent seals an immutable, versioned state object and appends a new row (insert, never update), giving race-free handoffs, clear lineage, free rollback, and binary-searchable debugging through state evolution.
 - `INS-260410-199B` [high] pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260605-6591` [high] Show the agent only one-line skill descriptions and let it request full instructions on demand, rather than loading every tool's details up front.
 - `INS-260626-65D6` [high] Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
@@ -252,6 +261,7 @@
 - `INS-260625-E9A9` [high] A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260410-1030` [high] Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - `INS-260605-4877` [high] Define the agent's workspace as a manifest, not as an implicit container setup.
+- `INS-260627-E7AE` [high] Circuit breakers (open after N consecutive failures, fail fast, half-open to retest, close on success) stop one flaky agent from cascading failures across the workflow; the saga/compensation pattern gives every agent an execute and a reversible compensate method so a mid-workflow failure walks backward and rolls the system to its initial state.
 - `INS-260411-5478` [high] Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 - `INS-260605-D777` [high] Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
 - `INS-260410-F259` [high] System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
@@ -265,6 +275,7 @@
 - `INS-260626-09E1` [medium] Vercel AI SDK 7 makes established coding-agent harnesses pluggable behind a common Agent interface.
 - `INS-260423-FF52` [medium] ADK callbacks: you can invoke Model Armor API at the before-agent-callback to detect malicious inputs before the agent sees them, and at after-agent-callback to check outputs for sensitive data.
 - `INS-260602-EA48` [medium] Mansi More: when an agent picks a wrong tool, gets a wrong answer, goes back and picks another wrong tool, 'there is no way for the agent to tell that hey it's breaking, stop' — so you must curate the tool list (e.g. an allowlist config) before the agent runs, not rely on it to self-correct.
+- `INS-260627-266C` [medium] More context isn't better — quality starts degrading around 50% window fill, and bad context can poison the whole output.
 - `INS-260321-8382` [medium] Agent personality matters more than most tool builders realize — Claude feels like a teammate who cares about your project; Codex feels dry and transactional.
 - `INS-260625-9BEB` [medium] OpenHands and SWE-agent with frontier models resolve only about 25% of SWE-EVO, so workflow scaffolding is not enough for broad autonomous software evolution.
 - `INS-260327-76B2` [medium] Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
@@ -275,6 +286,7 @@
 - `INS-260405-6C88` [medium] Agent memory splits into short-term (conversation state), long-term (extracted durable knowledge), and reasoning (tool/decision traces for explainability).
 - `INS-260404-34DB` [medium] CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260402-2342` [medium] An agent given filesystem and MCP access spontaneously wrote its own memory skill and started using a graph database without explicit programming.
+- `INS-260627-578E` [medium] Reshape a task into a CLI/text interface the model has seen before, and capability that a GUI version blocks suddenly appears.
 - `INS-260603-73D5` [medium] Navish (Salesforce): the volume of AI-generated code is impossible to review manually, so you pair it with a reviewer agent — but the agent must know how YOU write and review code; a 6-month junior gets nothing from architect-level feedback they can't understand, so review benefit is gated by the reviewer's own comprehension level.
 - `INS-260605-768D` [medium] Much of AI engineering is being explicit about the implicit knowledge humans carry — agents do their job well only when our tacit understanding is transferred to them.
 - `INS-260501-17BB` [medium] Amjad Masad: when a model comes out, our AI engineers sit down with it for a day or two — they're like model psychologists, they play around with it, plug it in, figure out the limits.
@@ -353,6 +365,7 @@
 - `INS-260410-0855` [medium] Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
 - `INS-260605-37FB` [medium] Structure agent memory into short-term (current pipeline state), long-term (organized domain history), and reasoning (decision traces capturing the why) rather than one flat store.
 - `INS-260530-AA02` [medium] PayPal explicitly stores incident-triage reports in persistent memory so follow-up queries pull from the report instead of re-triaging — without this, the platform's per-incident savings would be wiped out by user re-queries.
+- `INS-260627-0009` [medium] A week-long video task became a 5-minute afterthought not because of a smarter model but because the brand guide, live stats, dashboard, and Remotion skill were already wired into the system.
 - `INS-260626-43C9` [medium] Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
 - `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.
 - `INS-260626-2F2E` [medium] Record the exact code-execution tool version whenever an agent composes tools through code.

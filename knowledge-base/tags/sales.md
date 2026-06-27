@@ -6,8 +6,8 @@
 - `INS-260323-1CA4` Cuban redefines selling as simply asking 'can my product help this person?' — a learnable skill that requires empathy and domain knowledge, not innate charisma.
 - `INS-260409-D195` Ask more times, but only as often as your value delivery earns the right.
 - `INS-260405-5CCD` The champion, not the salesperson, is the real closer in bottom-up enterprise deals.
-- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260405-6387` The deck opens the door; the meeting closes it—optimize for curiosity, not completeness.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260403-AFCD` Showing customers they are already vulnerable builds trust faster than any pitch deck or feature demo.
 - `INS-260405-7F06` Generic differentiation claims ('we're easier to use') backfire; specific, verifiable claims with proof points are what actually move buyers.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.

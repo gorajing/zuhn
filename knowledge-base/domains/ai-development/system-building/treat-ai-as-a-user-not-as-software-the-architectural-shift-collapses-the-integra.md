@@ -61,7 +61,6 @@ stance: >-
   requires giving up the chat-feature-inside-product paradigm.
 related:
   - INS-260323-4B4D
-  - INS-260402-3196
   - INS-260424-5759
   - INS-260626-35A9
   - INS-260605-C2A3

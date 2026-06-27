@@ -2,6 +2,7 @@
 
 - `INS-260411-52C8` When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
 - `INS-260411-D060` Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
+- `INS-260627-95CF` Shared mutable state produces lost updates and stale reads when agents write concurrently; instead each agent seals an immutable, versioned state object and appends a new row (insert, never update), giving race-free handoffs, clear lineage, free rollback, and binary-searchable debugging through state evolution.
 - `INS-260605-9FCF` Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON.
 - `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260625-FA31` Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.

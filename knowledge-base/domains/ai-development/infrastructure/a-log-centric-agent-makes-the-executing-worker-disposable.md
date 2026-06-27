@@ -71,7 +71,7 @@ related:
   - INS-260625-77F8
   - INS-260625-F3B0
   - INS-260625-4DDB
-  - INS-260625-ADEA
+  - INS-260627-E7AE
 ---
 The key architectural insight isn't that the agent loop is complicated — it's that the loop is disposable. A worker claims a session, reads the log, advances the agent exactly one step, writes the result back, and then disappears entirely. Any other worker can pick the session up later. The executor is allowed to be fallible because the agent's identity never lived in the process.
 

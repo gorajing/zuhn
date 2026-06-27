@@ -51,7 +51,6 @@ stance: >-
   maximize agent throughput rather than to maximize individual engineer output.
 related:
   - INS-260323-A1FE
-  - PRI-260320-BC72
   - PRI-260327-7A68
   - INS-260412-90AC
   - INS-260530-D34F

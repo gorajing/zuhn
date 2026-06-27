@@ -25,9 +25,9 @@
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260605-7A70` Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
-- `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260626-66DC` Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks.
 - `INS-260625-B67E` Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
+- `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
 - `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260605-4AB0` Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
 - `INS-260329-19EA` ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.

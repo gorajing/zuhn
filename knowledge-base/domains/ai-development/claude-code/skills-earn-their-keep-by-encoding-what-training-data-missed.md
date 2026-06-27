@@ -61,6 +61,7 @@ related:
   - INS-260625-386B
   - INS-260329-03B5
   - INS-260403-2FAE
+  - INS-260627-962C
 ---
 The demonstration's whole point was a knowledge gap, not a capability gap. Claude created a department-stats view, declared it working, and it did return data — but by default a Postgres view runs with the creator's privileges and bypasses the row-level security policies on the underlying tables, so every employee could see every department's salaries. The fix is a single security_invoker flag, available since Postgres 15, which makes RLS policies apply on the view itself. The model 'missed something that is training data basically missed.'
 

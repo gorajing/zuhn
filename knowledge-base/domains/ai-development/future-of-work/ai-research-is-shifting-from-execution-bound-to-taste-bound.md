@@ -59,7 +59,6 @@ stance: >-
   As models get good enough to implement and orchestrate experiments themselves,
   the scarce input in research becomes idea-taste, not execution.
 related:
-  - INS-260327-7299
   - INS-260327-C1A4
   - INS-260403-10CE
   - INS-260409-A682

@@ -13,13 +13,13 @@
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260626-05D4` Because agents read docs to pick tools, even a 5% docs improvement can have an outsized impact on adoption.
+- `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260402-ECD2` In hierarchical markets, winning one apex customer (e.g., a top law firm) cascades credibility and adoption downstream more effectively than scaling from the bottom up.
 - `INS-260327-6E93` Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260410-8BF9` No carrier would adopt CDMA unless someone made the base stations, the handsets, AND the chips — so Qualcomm built JVs with Nortel and Sony to make all three before divesting every non-core layer.
-- `INS-260403-2041` Invest deeply in validating your go-to-market thesis before hiring sales and marketing teams.
 - `INS-260403-D2F4` Second-time founders bake GTM strategy into week one of building, treating distribution as the product rather than an afterthought.
 - `INS-260404-70DE` Prediction markets reached mainstream scale by distributing through platforms with 100M+ existing accounts rather than acquiring users directly.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
@@ -51,11 +51,6 @@
 - `INS-260412-6F4D` St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260404-97AA` Halo targets ALS and locked-in syndrome patients first, creating emotional demonstrations and clinical validation before pursuing consumer augmentation.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
-- `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
-- `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
-- `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
-- `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
-- `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
 - `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - `INS-260330-760D` Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
 - `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
@@ -66,6 +61,11 @@
 
 - `INS-260327-538E` Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
+- `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
+- `INS-260403-024E` Cutting back-half GTM hiring makes current efficiency metrics look great while silently guaranteeing a growth collapse the following year due to sales rep ramp times.
+- `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
+- `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
+- `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
+- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
 - `INS-260603-2FB1` Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
-- `INS-260323-4DD9` Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.

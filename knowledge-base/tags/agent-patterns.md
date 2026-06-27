@@ -1,11 +1,15 @@
 # Tag: agent-patterns
 
+- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
+- `INS-260627-266C` More context isn't better — quality starts degrading around 50% window fill, and bad context can poison the whole output.
 - `INS-260625-9BEB` OpenHands and SWE-agent with frontier models resolve only about 25% of SWE-EVO, so workflow scaffolding is not enough for broad autonomous software evolution.
 - `INS-260605-124F` Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
 - `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260625-0492` Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
 - `INS-260605-55A6` Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
+- `INS-260627-BBCE` Spend your scarce human thinking on research and planning; by the time you implement, all the hard decisions should already be made.
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
 - `INS-260605-FE8E` Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.
 - `INS-260626-057E` The paper concludes that human-written context files should mostly encode specific extra requirements, not broad repository overviews.
@@ -14,16 +18,18 @@
 - `INS-260625-A668` Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
 - `INS-260626-43C9` Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
 - `INS-260626-78E6` CLI access, keyword tool-search, and code mode all solve the same problem — never load all tools at once — so choose by constraints, not as rival camps.
+- `INS-260627-DF4B` Treat third-party tools as ordinary callable functions and run the predictable, always-on parts of a workflow (e.g. login) outside the agent, only handing control to the agent once the deterministic setup is done.
 - `INS-260605-F700` Start with bespoke rules to prove value, then build an automation layer that classifies task complexity and auto-selects the optimal model and chip.
+- `INS-260627-79E3` Catch the guardrail violation and feed the agent a clear corrective message ('access denied, save here instead, provide a proper path') so it retries correctly rather than crashing the whole agentic process.
 - `INS-260626-778F` NOVA's L1-L4 control separates routine covered changes from high-risk or underspecified changes that need Copilot-style oversight.
 - `INS-260423-72D0` Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
 - `INS-260605-320E` The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
 - `INS-260626-6D35` NOVA records rejected architecture patterns as forbidden directions so later iterations avoid repeating the same semantic mistake.
-- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
-- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260605-1787` You don't need GPT to zoom an image — offloading such subtasks to less intelligent models was 11x faster and 43x cheaper on those steps, driving the system's overall gains.
+- `INS-260627-B416` Every enabled MCP server injects tool descriptions into every system prompt — disable the ones you aren't using or they waste tokens and mislead the agent.
+- `INS-260627-F522` Wrap each third-party tool so it invokes the original function unchanged but carries a richer, hand-tuned description that encodes your team's hard-won operating knowledge.
 - `INS-260327-33FA` On the HumanEval coding benchmark, GPT-3.5 with an agentic workflow outperformed GPT-4 zero-shot, demonstrating that iteration beats raw model capability.
-- `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260605-C1A4` Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
+- `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260409-430B` Explicit folder hierarchies pre-encode retrieval paths so the agent follows, rather than searches.
 - `INS-260410-25AC` Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.

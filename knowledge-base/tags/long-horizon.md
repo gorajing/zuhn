@@ -7,5 +7,5 @@
 - `INS-260410-D92A` Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260626-C3C4` The paper reports that many append-only stores degrade with evidence distance and that standard semantic consolidation can destroy chronological cues.
 - `INS-260626-7EA8` ElevenLabs employs 1000+ voice coaches, musicians, and artists to annotate not just the 'what' of audio but the 'how' — emotion, voice description, music description — a deliberate bet that won't return value for 12-24 months.
-- `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.
 - `INS-260409-B367` The 20-year apparatus build, not the moment of measurement, is the real cost of a frontier physics result.
+- `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.

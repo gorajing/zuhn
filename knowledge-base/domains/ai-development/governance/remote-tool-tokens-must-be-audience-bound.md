@@ -45,10 +45,10 @@ stance: >-
   cross-service escalation risk.
 related:
   - INS-260605-52E4
+  - INS-260627-B416
   - INS-260605-35B4
   - INS-260626-BC79
   - INS-260410-8ECF
-  - INS-260323-8D12
   - INS-260626-8B56
   - INS-260626-8A80
 ---

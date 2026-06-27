@@ -52,7 +52,6 @@ related:
   - INS-260625-A5E7
   - INS-260530-D34F
   - INS-260626-B7EB
-  - INS-260626-9BC5
 ---
 NOVA's central failure mode is a recommender architecture edit that compiles and trains but violates model semantics, such as mask direction, feature routing, attention structure, or logit-fusion logic. The paper calls these silent failures because ordinary software checks may pass while offline AUC, calibration, or business metrics degrade.
 

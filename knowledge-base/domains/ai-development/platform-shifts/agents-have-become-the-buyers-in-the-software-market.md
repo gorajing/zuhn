@@ -56,6 +56,7 @@ related:
   - INS-260626-7359
   - INS-260605-3AAF
   - INS-260405-E8A1
+  - INS-260627-F1AF
 ---
 Historically dev tools spread through humans talking to each other, Stack Overflow, and GitHub. The panel argues that channel is being replaced: developers now trust agents to pick libraries, databases, and services with minimal supervision, so the agent is the buyer. The addressable population of 'developers' also explodes — from ~20M CS-trained engineers to potentially hundreds of millions of vibe-coders, each commanding agents that act as semi-independent economic actors. Concretely, Supabase saw a surge in Postgres database creation because agents default to it.
 

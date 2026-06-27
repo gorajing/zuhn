@@ -18,6 +18,7 @@
 - `INS-260626-E803` Anyone selling a single solution to agent connectivity (just MCP, just CLI, just computer use) is wrong — each has a distinct best-fit job and good agents use all of them together.
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
 - `INS-260410-0855` Treat the execution environment's filesystem as an accumulating toolbox — agents should save working code as skills and import them on future runs.
+- `INS-260627-0009` A week-long video task became a 5-minute afterthought not because of a smarter model but because the brand guide, live stats, dashboard, and Remotion skill were already wired into the system.
 - `INS-260605-E7F2` Point skills at the live documentation reference instead of embedding content, because inline copies go stale the same way pretraining context does.
 - `INS-260626-7F36` LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260626-9FFD` When logic has too many branches to enumerate in code, describe the goal and steps as a skill and let the agent reason through the cases.
@@ -32,9 +33,6 @@
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260626-158E` Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
 - `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.
-- `INS-260626-3ACC` Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
-- `INS-260605-59AE` Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
-- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260320-A4BF` Attach ready-to-use utility scripts to skills so Claude references proven tools instead of reinventing test scripts from scratch.
 - `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
@@ -53,6 +51,9 @@
 - `INS-260320-F872` Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.
 - `INS-260320-DCA0` A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260605-46B2` You know your product best, so encode your prescribed workflow into the skill instead of leaving the agent to discover it.
+- `INS-260626-3ACC` Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
+- `INS-260605-59AE` Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
+- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260410-098A` The winning career bet isn't avoiding automation — it's positioning to manage ever-larger fleets of AI workers, which still rewards deep fundamentals and frontier proximity.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260626-A08F` Pay for one Opus/GPT-5.5 pass to produce a project's skill/taste file, then do the bulk of the building with cheap models reading that file — a pattern emerging organically in the user community.
@@ -64,5 +65,6 @@
 - `INS-260605-BBCF` Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
 - `INS-260605-062F` Start harnesses with primitives, then let trajectory evidence grow the specialization.
 - `INS-260605-B6BC` Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.
+- `INS-260627-2B13` If you keep telling agents 'cuts should be 2 seconds not 6,' that pattern is a signal to fork a generic skill into an org-specific one that bakes in your preferences.
 - `INS-260625-9721` Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills.
 - `INS-260323-3C7B` Prioritize curiosity and learning velocity over domain expertise when hiring, especially in fast-changing industries.

@@ -53,6 +53,6 @@ related:
   - PRI-260406-CA93
   - INS-260403-EA2D
   - INS-260403-C1FB
-  - INS-260405-5B4D
+  - INS-260505-5FA7
 ---
 Most founders set valuations based on comparable deals or revenue multiples without checking whether the implied return math actually works for their investors. If your ask requires a 5x multiple for investors to hit their IRR target, but your market or business model makes that improbable, you'll lose credibility the moment a sophisticated investor runs the numbers. The inverse is also powerful: if you can walk into a pitch and show that your valuation, combined with realistic exit timelines, clears the fund's hurdle rate, you're speaking LP language fluently. This transforms negotiations from subjective storytelling into fact-driven discussions where both sides can evaluate the same math.

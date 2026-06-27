@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 112 insights
+> 114 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -16,6 +16,7 @@
 - `INS-260403-BEB3` [high] The 'AI slop' narrative reflects the quality of typical AI users, not AI capability — unconstrained AI output is far more interesting than LinkedIn-optimized generation.
 - `INS-260322-B693` [high] Using AI to optimize exam performance produces 'human versions of AI' — the real educational opportunity is cultivating intrinsic motivation and original thinking.
 - `INS-260323-A55A` [high] AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative work builds 'narratives' (time-intensive, suffering-accumulated) — and only narratives carry the 'aura' of authenticity that Benjamin defined as presence born from spatial, temporal, and symbolic distance.
+- `INS-260627-9CF1` [high] The ~30% time savings reported by power users comes from disciplined delegation boundaries, not from auto-completing through the day.
 - `INS-260403-D227` [high] Anthropic's study showing 17% lower mastery with AI assistance reveals that AI productivity gains come at the cost of human backup capability.
 - `INS-260322-13D6` [high] AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260403-BA48` [high] AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
@@ -109,6 +110,7 @@
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.
 - `INS-260626-7A54` [medium] Business context, political dynamics, product vision, and org history decide the right thing to build — and none of it is in the repo for an agent to read.
+- `INS-260627-5447` [medium] Agents 'can do anything except know what you value,' so your leverage shifts entirely to articulating preferences, brand, and quality bars.
 - `INS-260605-63AE` [medium] Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
 - `INS-260626-7A55` [medium] Instead of you constantly prompting AI, the most productive people will delegate ~99% of work and the AI will prompt them — 'you didn't send me a picture of your passport,' 'what do you want to do next?'
 - `INS-260605-9688` [medium] Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.

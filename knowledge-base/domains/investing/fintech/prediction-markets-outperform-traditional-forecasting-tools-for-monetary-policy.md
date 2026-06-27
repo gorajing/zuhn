@@ -55,7 +55,7 @@ related:
   - PRI-260406-D106
   - INS-260403-147C
   - PRI-260405-ED62
-  - INS-260403-3EDE
+  - INS-260627-915A
 ---
 A new Federal Reserve working paper validated prediction markets as superior forecasting instruments. Kalshi's median/mode predictions have accurately matched FOMC decisions the day before meetings since 2022, outperforming fed funds futures. More notably, Kalshi's CPI forecasts beat Bloomberg consensus — the industry standard for macro forecasting.
 

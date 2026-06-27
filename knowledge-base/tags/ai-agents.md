@@ -37,19 +37,20 @@
 - `INS-260522-213D` YC Root Access: extract the domain knowledge locked in heads, Slack, email, and Notion, make it legible as context/skills, and the company becomes an intelligent AI-native organization — the brain is the asset.
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260322-E4D8` AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
-- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
-- `INS-260409-F0F5` Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
-- `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
+- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
+- `INS-260410-BD9D` AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
+- `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260605-077D` A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
 - `INS-260327-368D` Just as security changed fundamentally when economic activity moved from physical to digital, it must change again as it moves from digital to autonomous AI interactions.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
-- `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
-- `INS-260410-BD9D` AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
-- `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
 - `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
 - `INS-260505-A9BC` Asking an AI agent for a plan before it acts works for the same reason specific climate language predicts real reduction — intent + plan beats intent alone.
+- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
+- `INS-260409-F0F5` Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
+- `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
+- `INS-260627-05AD` If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps.
 - `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.
 - `INS-260403-08D7` Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
@@ -63,7 +64,6 @@
 - `INS-260625-FC2D` Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - `INS-260625-C69F` Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.
 - `INS-260625-2563` Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
-- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
 - `INS-260405-615E` Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260403-3852` Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260403-75E3` Per-seat pricing creates an inverse relationship between AI product effectiveness and revenue.
@@ -77,3 +77,4 @@
 - `INS-260403-0350` For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
 - `INS-260405-54A9` Internal AI agents (HR, knowledge base, competitor intel) deliver faster ROI than customer-facing ones because deployment barriers are lower.
 - `INS-260403-F745` The 5.8M SMB market requires uniqueness at scale — each business has specific needs — which AI agents can deliver but traditional SaaS never could.
+- `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.

@@ -11,6 +11,7 @@
 - `INS-260409-1E3C` Asking users to write their own critical-thinking prompts (like Appleton's 'Scholarly Inquisitor' Claude style) is not a solution because most users don't realize the default is fawning and can't write the prompts that would override it — defaults are what ships to 99% of users.
 - `INS-260329-EDA2` It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260409-8C6C` The three empirical studies on GenAI and critical thinking do not convict AI itself; they convict RLHF-trained sycophancy plus generic deferential chatbot interfaces — both of which are fixable design choices, not inherent limitations of the technology.
+- `INS-260627-962C` Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260605-2623` Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
 - `INS-260626-7F5B` Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.

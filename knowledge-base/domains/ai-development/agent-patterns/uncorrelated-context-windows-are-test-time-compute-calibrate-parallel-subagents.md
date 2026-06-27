@@ -56,7 +56,7 @@ related:
   - INS-260410-761B
   - INS-260626-E926
   - PRI-260328-A65A
-  - INS-260410-796F
+  - INS-260627-266C
 ---
 Cherny describes an emerging field of 'agent topologies' — ways to configure multiple agents. The key sub-idea is uncorrelated context windows: multiple agents each get fresh context that isn't polluted by each other's or their own prior context, and throwing more context at a problem is itself a form of test-time compute that buys more capability. With the right topology (so agents communicate and are laid out well), a swarm can build bigger things — Anthropic's plugins feature was built almost entirely by an unsupervised agent swarm over a weekend, seeded from a single spec on an Asana board.
 

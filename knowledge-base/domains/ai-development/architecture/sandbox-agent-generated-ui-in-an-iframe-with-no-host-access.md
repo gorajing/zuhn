@@ -56,7 +56,7 @@ related:
   - INS-260625-5CE4
   - INS-260625-07CB
   - INS-260625-4559
-  - INS-260605-41AE
+  - INS-260627-89F2
 ---
 When a tool can return arbitrary HTML/JS to be rendered in your application, that markup is untrusted code from a third party — the same threat class as running a random dependency. The MCP apps design renders it inside a sandboxed iframe (the 'hamster in a cage' analogy: contain it or it chews up the room), explicitly denying it access to VS Code settings, internal APIs, and anything external.
 

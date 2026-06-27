@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260325-502D
   - INS-260327-29F0
-  - INS-260328-2CFF
   - INS-260329-93AE
   - INS-260330-8920
   - INS-260330-8D34
@@ -59,6 +58,7 @@ related:
   - INS-260402-71A7
   - INS-260403-6340
   - INS-260404-CF81
+  - INS-260404-F48F
 ---
 Lenny Rachitsky uses the 'silver burrito' metaphor from Chipotle billboards — everyone looking at the wrapped burrito imagines their ideal filling inside. Problem statements work the same way: each team member projects their own interpretation onto an ambiguous statement. This is why writing down a problem statement isn't enough; you must actively share it, collect feedback, resolve disagreements in person, and re-confirm alignment with stakeholders before design or engineering begins. The larger and more complex the project, the more likely interpretations diverge silently.
 

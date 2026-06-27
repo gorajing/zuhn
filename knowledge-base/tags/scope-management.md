@@ -1,3 +1,3 @@
 # Tag: scope-management
 
-- `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
+- `INS-260627-F934` When every idea is a prompt away, the bottleneck shifts to choosing boundaries and refusing features — the integration of many ideas, not any single one, is what breaks systems.

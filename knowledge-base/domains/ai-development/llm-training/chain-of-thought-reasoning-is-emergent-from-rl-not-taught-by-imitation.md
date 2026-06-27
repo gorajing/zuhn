@@ -66,10 +66,10 @@ related:
   - INS-260403-5086
   - INS-260403-B8AA
   - INS-260410-F24A
-  - INS-260410-F5C5
   - PRI-260411-ACEF
   - INS-260625-25BF
   - INS-260403-141E
+  - PRI-260328-D893
 ---
 The DeepSeek R1 paper publicly demonstrated what internal labs had been seeing: when you run RL on math and code problems with verifiable answers, models spontaneously learn to write much longer responses that include phrases like 'wait, let me reconsider,' 'let me try a different approach,' and explicit self-checking. Response length climbs alongside accuracy. No labeler wrote these patterns — they emerged because they empirically helped the model reach correct answers.
 

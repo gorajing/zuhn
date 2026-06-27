@@ -59,10 +59,10 @@ stance: >-
 related:
   - INS-260330-1A23
   - INS-260626-C51E
+  - INS-260627-2FFE
   - INS-260605-ACC9
   - INS-260410-1430
   - INS-260625-BF8B
-  - INS-260410-EE37
 ---
 Galow recounts being hit by the compromised NPM Axios package: IT could cut network access and invalidate his Okta sessions across all SSO apps in seconds — but his laptop still held MCP server connections and API keys that were not issued through the IDP. He had to manually hunt through his machine asking 'what am I connected to, what credential is at risk, how do I revoke it?' The IDP's central kill switch simply doesn't reach these credentials.
 

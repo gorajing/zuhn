@@ -44,9 +44,9 @@ stance: >-
   rather than merely counting tools.
 related:
   - INS-260404-61DA
+  - INS-260627-A0EE
   - INS-260323-BC61
   - INS-260410-A1E9
   - INS-260626-475E
-  - INS-260605-D0A0
 ---
 OpenAI notes that some agents can handle more than 15 distinct tools while others struggle with fewer than 10 overlapping tools. The decision to split work across agents should come after improving names, parameters, descriptions, and tool boundaries. Tool-count thresholds are weak proxies for actual tool-selection difficulty.

@@ -10,6 +10,7 @@
 - `INS-260626-18A3` When the gap between logging an issue and an agent opening a PR shrinks to minutes, every early alignment checkpoint disappears and lands on review instead.
 - `INS-260626-5545` Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
 - `INS-260605-03A6` Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
+- `INS-260627-BBCE` Spend your scarce human thinking on research and planning; by the time you implement, all the hard decisions should already be made.
 - `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260605-B4B9` Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
 - `INS-260626-B098` AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
@@ -21,9 +22,9 @@
 - `INS-260320-47DC` If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
 - `INS-260320-0127` Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
 - `INS-260403-31E4` Follow-up prompts that reshape output ('too long, trim to 100 words, make it conversational') are more effective than trying to craft one perfect initial prompt.
-- `INS-260410-5036` Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260619-CBFA` Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 - `INS-260405-B88A` AI automation applied to the RFP process promises dramatic efficiency gains in both proposal generation and vendor evaluation.
+- `INS-260410-5036` Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260323-2E51` Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
 - `INS-260605-3B8B` Write a behavioral test when a feature request arrives, not when you add a method to a class.
 - `INS-260409-EA5A` A RAW intake folder preserves the human's curation intent before Claude Code compresses it into wikis.

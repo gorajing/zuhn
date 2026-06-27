@@ -53,7 +53,6 @@ stance: >-
   is a real gatekeeping behavior that drives new contributors away from open
   source
 related:
-  - INS-260327-D888
   - INS-260330-B8CC
   - INS-260403-D966
   - INS-260403-287B

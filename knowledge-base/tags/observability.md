@@ -13,6 +13,7 @@
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
 - `INS-260405-6C88` Agent memory splits into short-term (conversation state), long-term (extracted durable knowledge), and reasoning (tool/decision traces for explainability).
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
+- `INS-260627-9968` Choreography (agents coordinate via events on a message bus) scales and decouples but is a debugging nightmare without bulletproof event observability; orchestration (a central coordinator calls each agent, manages parallelism, state, retries, and logging) trades autonomy for debuggability and rollback — choose by workflow complexity vs. autonomy need.
 - `INS-260605-2186` Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
 - `INS-260605-C726` Hand the agent a 'send feedback' tool for tooling/docs/platform failures, routed straight to the builders' Slack.
 - `INS-260605-3553` Building control at the MCP layer captures a shrinking slice of agent behavior; building it at the LLM/network layer captures everything, including the bash commands that actually dominate real workloads.

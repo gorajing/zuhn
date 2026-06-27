@@ -47,6 +47,7 @@ stance: >-
   Efficient agent context budgeting requires distinct tiers with different
   loading policies rather than stuffing all context into the prompt.
 related:
+  - INS-260627-2FFE
   - INS-260625-BF8B
   - INS-260626-AD63
   - INS-260626-69EF

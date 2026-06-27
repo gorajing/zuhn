@@ -58,12 +58,13 @@ stance: >-
   scoping depends on an assumption about what Claude can't do, and that
   assumption decays with every model upgrade.
 related:
+  - INS-260627-2FFE
   - INS-260410-992A
   - INS-260403-2FAE
   - INS-260323-8D12
   - PRI-260403-9E80
-  - INS-260626-57BA
   - INS-260605-2E60
+  - INS-260626-57BA
   - INS-260626-A027
 ---
 In the coupled design, untrusted code Claude generated ran in the same container as credentials, so a successful prompt injection only needed to convince Claude to read its own environment. Once an attacker has those tokens, they can spawn fresh unrestricted sessions and delegate work to them. Narrow scoping is an obvious mitigation, but it encodes an assumption about what Claude can't do with a limited token — and Claude is getting increasingly smart.

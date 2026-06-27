@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 147 insights
+> 148 insights
 
 - `INS-260405-EFC2` [high] C invented the curly-brace, semicolon syntax that now defines how billions of developers write code — its design choices became the assumed defaults of most successor languages.
 - `INS-260412-F32D` [high] Sakichi Toyoda sold his power loom patent rights for 1 million yen and gave the proceeds to his son to start Japan's first automobile company.
@@ -140,6 +140,7 @@
 - `INS-260405-9FD9` [medium] Osterwalder observes that being tasked with 'inventing the future' of a company carries surprisingly little prestige inside most large organizations.
 - `INS-260412-EA55` [medium] Tata introduced the 8-hour workday in 1912 and medical benefits in 1917, decades before they became standard globally.
 - `INS-260405-3066` [medium] Apple framed wallet replacement not as a convenience upgrade but as a security and privacy improvement — a more compelling reason to change entrenched behavior.
+- `INS-260627-A944` [medium] Something like OpenClaw 'would not have come out of an American company — it would have been killed in legal long before release'; permissionless personal risk-taking unlocks categories corporate compliance forbids.
 - `INS-260404-86DE` [medium] Financial incentives to not dismiss weird ideas evolved into a genuine cultural custom of optimism in Silicon Valley.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-4D8F` [medium] Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.

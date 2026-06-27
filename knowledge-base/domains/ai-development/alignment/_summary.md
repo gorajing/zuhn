@@ -1,6 +1,6 @@
 # Topic: alignment
 
-> 112 insights
+> 114 insights
 
 - `INS-260403-949E` [high] Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale.
 - `INS-260625-8BBB` [high] Unlike most capabilities, safety and adversarial robustness do not emerge from scale — they require explicit, dedicated training.
@@ -36,6 +36,7 @@
 - `INS-260410-FBAA` [high] Jailbreaks work because refusal training generalizes over surface form (English, plain text) rather than semantic intent, so any new encoding — base64, roleplay, adversarial suffixes, noise patterns in images — opens a gap.
 - `INS-260605-E2D9` [high] Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260410-F24A` [high] Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
+- `INS-260627-915A` [high] Refusal is a probabilistic preference, so gradient-found gibberish suffixes can push the next-token distribution into compliance — and those suffixes transfer to closed models.
 - `INS-260409-45C3` [high] Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260325-C5AA` [high] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260410-0A28` [high] Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
@@ -114,3 +115,4 @@
 - `INS-260327-AC8E` [medium] Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.
 - `INS-260403-2C15` [medium] AI control risk depends on three prerequisites — full autonomy, capable robots, and self-sustaining AI production — and blocking any one is sufficient defense.
 - `INS-260410-FF8B` [medium] Petrarch wanted the Renaissance to restore Christian oligarchic virtue; instead it produced democracy, atheist philosophers, and vaccines — a future he would find horrifying in values but miraculous in outcomes.
+- `INS-260627-841C` [low] A model that can run dangerous 40-hour tasks unwatched may only manage 2-hour tasks when closely monitored — oversight is a capability tax.

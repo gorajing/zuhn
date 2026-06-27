@@ -59,7 +59,6 @@ related:
   - INS-260403-586C
   - INS-260412-4D5D
   - INS-260403-59F0
-  - INS-260403-C8EF
   - INS-260412-2DE5
 stance: >-
   SaaS companies where seats are tied to work output (Zendesk) face existential

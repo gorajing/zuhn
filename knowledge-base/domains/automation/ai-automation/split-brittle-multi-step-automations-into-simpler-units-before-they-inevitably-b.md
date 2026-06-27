@@ -56,6 +56,6 @@ related:
   - INS-260329-64B8
   - INS-260514-618D
   - INS-260321-D370
-  - INS-260605-E54A
+  - INS-260627-E7AE
 ---
 Among the failure modes Radek calls out, brittle automations are the sharpest: a 10-step automation 'can break and probably will break at some point,' so the remedy is to split it into simpler ones or add more effective guardrails. The same maintenance logic applies to memory—bad memory compounds, and once a vault or node graph grows into the thousands you will have problems unless you actively prune; he removes 'noisy nodes' and cleans regularly. The unifying principle is that agentic systems decay without active hygiene: complexity and accumulated state are liabilities that must be continuously simplified, not assets that passively grow. This is the operational complement to incremental growth—just as you add capability one safe step at a time, you must subtract brittleness and noise on an ongoing basis, or the system that runs your life will eventually run it badly.

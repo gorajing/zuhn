@@ -47,7 +47,6 @@ related:
   - INS-260625-EC7C
   - INS-260625-0492
   - INS-260605-74CC
-  - INS-260625-DCE4
 ---
 OpenAI frames harness/compute separation as a security, durability, and scaling primitive. If agent state is externalized, a failed or expired sandbox can be replaced and the run can continue from a checkpoint; subagents can also be routed to isolated sandboxes and parallelized.
 

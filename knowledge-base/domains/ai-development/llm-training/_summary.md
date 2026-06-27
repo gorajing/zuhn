@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 99 insights
+> 100 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -56,6 +56,7 @@
 - `INS-260322-3616` [high] Supervised fine-tuning only changed tone and instruction-following; reinforcement fine-tuning lets companies train models to domain-expert level on their proprietary data, creating the first real moat from model customization.
 - `INS-260410-8E1C` [high] RL broadcasts a single final-reward bit across an entire trajectory, upweighting tokens from wrong paths that happened to end in the right answer — it's terrible, just less terrible than imitation.
 - `INS-260410-46CA` [high] Capabilities unlock domain by domain based on how cleanly you can construct a verifiable reward signal, not on general intelligence improvements.
+- `INS-260627-EEDE` [high] SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided.
 - `INS-260412-9777` [high] ChatGPT's RLHF training produced a model 100x smaller than GPT-3 but with better performance, proving human feedback matters more than raw scale.
 - `INS-260321-8C35` [high] AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260403-B73D` [high] RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.

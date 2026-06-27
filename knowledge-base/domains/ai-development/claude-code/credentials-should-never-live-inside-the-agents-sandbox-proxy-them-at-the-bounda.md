@@ -51,10 +51,10 @@ stance: >-
   per-request, never inside where the agent can read them.
 related:
   - INS-260410-1430
+  - INS-260627-2FFE
   - INS-260626-35A9
   - INS-260626-E5E5
   - INS-260412-1440
-  - INS-260625-DD6D
   - INS-260605-5F0C
   - INS-260605-B8AB
 ---

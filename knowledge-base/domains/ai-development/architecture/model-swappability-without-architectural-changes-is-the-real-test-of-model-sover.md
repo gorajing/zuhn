@@ -52,7 +52,6 @@ stance: >-
   A system is only model-sovereign if you can swap the underlying model without
   rewriting the application logic.
 related:
-  - INS-260321-1A03
   - INS-260329-5F19
   - INS-260329-3383
   - INS-260403-56BB
@@ -62,6 +61,7 @@ related:
   - INS-260501-E377
   - INS-260625-1654
   - INS-260501-A1C7
+  - INS-260625-2A9E
 ---
 Model sovereignty has two layers. The obvious one is not being able to run only a single provider's model — if that API goes down you lose access, and if they raise prices you have a cost problem. The subtler, more common failure is being technically free to switch but practically trapped: your code is so wired to one model's API logic that swapping would require rewriting the whole codebase, re-translating API logic to the new model's architecture, updating prompts, and re-evaluating performance from scratch.
 

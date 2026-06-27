@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260404-9E63
   - PRI-260406-0A98
+  - INS-260627-915A
   - INS-260403-CA42
   - INS-260410-3075
-  - INS-260605-A557
 ---
 Classical Ben Graham investing values a series of cash flows discounted to present value. But early-stage VC has no cash flows — just a founder and an idea. The math people use to justify $20M valuations on napkins is voodoo when framed as cash flow analysis. Michael Mauboussin's reframe: stop trying to DCF and recognize that you're buying an option on a wide distribution of outcomes.
 

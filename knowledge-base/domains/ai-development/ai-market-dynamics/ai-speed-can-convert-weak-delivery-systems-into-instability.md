@@ -49,7 +49,6 @@ stance: >-
   control, architecture, and feedback loops are weak.
 related:
   - INS-260323-F15D
-  - INS-260328-B57E
   - INS-260329-4696
   - INS-260329-50D5
   - INS-260329-4B07
@@ -58,6 +57,7 @@ related:
   - INS-260403-EA2C
   - INS-260403-58BA
   - INS-260323-A075
+  - INS-260501-5582
 ---
 DORA's 2025 summary reports a positive relationship between AI adoption and software delivery throughput, but also says AI adoption continues to have a negative relationship with software delivery stability. The mechanism is plausible: higher change volume exposes downstream weaknesses when automated testing, mature version control, fast feedback loops, and loosely coupled architecture are missing.
 

@@ -65,6 +65,7 @@ related:
   - INS-260605-6F34
   - INS-260626-C51E
   - INS-260323-8D12
+  - INS-260627-5EB3
 ---
 The naive realtime setup proxies the model connection through your server: client → server WebSocket → model WebSocket. That adds a full network hop of latency to every audio/video frame, which is painful in a conversational loop. The alternative is to let the client connect straight to the realtime API — but you can't ship a long-lived API key to a browser or phone.
 

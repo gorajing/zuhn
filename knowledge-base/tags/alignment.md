@@ -28,6 +28,7 @@
 - `INS-260403-AFCC` Anthropic's deeper concern about military AI may be that adversarial training objectives could seed misaligned values that persist as models scale toward AGI.
 - `INS-260410-0142` The minimal set of drives needed to bootstrap general capability (curiosity, exploration) is much smaller than the set needed to produce human-compatible values.
 - `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
+- `INS-260627-915A` Refusal is a probabilistic preference, so gradient-found gibberish suffixes can push the next-token distribution into compliance — and those suffixes transfer to closed models.
 - `INS-260409-45C3` Hassabis says AI outputting non-human-readable tokens is a red line — it breaks interpretability and creates a safety vulnerability most labs would agree to avoid.
 - `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
 - `INS-260323-584D` Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
@@ -64,16 +65,14 @@
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260626-4C42` The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck.
 - `INS-260626-A928` Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
-- `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
-- `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.
-- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260410-8D62` When you take a leadership role, commit real, personal, post-tax capital — not just granted equity — so every decision is visibly yours too.
+- `INS-260327-B72F` When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
 - `INS-260320-10E8` Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
 - `INS-260405-BE58` Co-founder chemistry is infrastructure — misalignment there propagates into every downstream decision.
-- `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260403-1ECB` When hiring plans live in Notion, runway models in Excel, and compensation decisions in separate conversations, the resulting misalignment silently erodes runway.
+- `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260403-22BB` A misselected North Star Metric causes teams to optimize the wrong behavior, producing impressive acquisition numbers that never translate to revenue.
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
@@ -84,3 +83,5 @@
 - `INS-260330-3585` Productivity falls with the square of employees unless you actively build alignment through repeated roadmap communication, offsites, and quarterly planning.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
 - `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
+- `INS-260410-F789` Charging 2-and-20 or 3-and-30 before demonstrating unusual results attracts people who are good at fundraising and fee extraction, not people who are good at investing.
+- `INS-260403-C200` Capital is commoditized; the founder-investor relationship and alignment determine post-deal outcomes more than the money itself.

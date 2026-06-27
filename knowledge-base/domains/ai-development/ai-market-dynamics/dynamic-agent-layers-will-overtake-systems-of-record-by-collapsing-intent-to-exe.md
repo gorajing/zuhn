@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260410-9B0E
   - INS-260323-BC61
+  - INS-260627-8ADF
   - INS-260323-E492
   - INS-260403-B12E
-  - INS-260330-D7CC
   - INS-260409-CE5F
   - INS-260409-D947
 stance: 'For the first time, a genuine threat exists to systems of record'

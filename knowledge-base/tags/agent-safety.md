@@ -10,6 +10,7 @@
 - `INS-260626-A645` Put the human-review step in the execution path as a brick wall the agent cannot route around, instead of trusting the model to ask first.
 - `INS-260626-A499` Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool.
 - `INS-260626-ACD0` For local, file-based tools, you can unlock far more agent capability by giving users sharp tools and owning the risk rather than sandboxing the agent.
+- `INS-260627-08E7` Intercept the tool call before it executes, validate the sensitive arguments with deterministic logic, and refuse invocation if they violate your constraints.
 - `INS-260626-7F55` Cursor's old worktree code made escaping the checkout physically impossible; the markdown skill only asks the model to stay put, so models sometimes wander into the primary checkout.
 - `INS-260626-656C` Instead of manually approving every privileged action (fatigue) or granting unfettered access (unsafe), spawn a verifier agent that adjudicates each request and interrupts the human only when warranted.
 - `INS-260626-E255` The paper finds that post-update behavior depends primarily on whether the memory pipeline preserves temporally valid evidence before generation.

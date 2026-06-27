@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 117 insights
+> 118 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -48,6 +48,7 @@
 - `INS-260409-F4AA` [high] Overflow is a deliberate hardware contract — the carry flag is offered, and it is the programmer's job to check it.
 - `INS-260625-2A9E` [high] Choose an owned open model over a stronger hosted one when control, data residency, and immunity from service loss outweigh raw capability.
 - `INS-260605-9877` [high] Knowing who spoke, when, and how (interruptions, backchannels, pauses, stress) often determines conversational meaning that plain transcription discards.
+- `INS-260627-05AD` [high] If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps.
 - `INS-260625-36DF` [high] Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260410-0B73` [high] Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
 - `INS-260625-07CB` [high] ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.

@@ -48,6 +48,7 @@ related:
   - INS-260626-983E
   - INS-260626-057E
   - INS-260626-6AF4
+  - INS-260627-266C
   - INS-260626-4564
 ---
 On CTX BENCH, developer-provided context files outperform LLM-generated context files with a reported p-value of 3.8%, while improving average performance only modestly versus no context file and still increasing steps and cost. The paper also finds developer-provided files differ from generated ones and tend to be shorter.

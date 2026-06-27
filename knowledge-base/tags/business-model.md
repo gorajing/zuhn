@@ -4,8 +4,6 @@
 - `INS-260403-957B` Coding assistants are proving to be AI's first real business model with billions in projected revenue, marking the shift from hype to validated payoff.
 - `INS-260403-D3ED` DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - `INS-260405-0E77` AI collapses the historical separation between software budgets and labor budgets by doing the whole job, not just tooling it.
-- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
-- `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260403-7B3B` AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260409-D491` BYOA — one operator with trained agents replaces an entire department and captures a fraction of the saved salary cost; Anthropic's one-person marketing team is the template.
@@ -34,10 +32,12 @@
 - `INS-260405-180B` A top VC invested in a company specifically knowing their business model would change three times — detail-pitching yours signals you don't understand this.
 - `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
 - `INS-260626-4D31` Vibe Kanban shut down despite 30k MAU and 25k GitHub stars because users paid it ~$30 to then spend ~$3,000 on Codex — the value capture was upside down.
+- `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
+- `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260410-E338` Every business line should either feed another line with customers, data, or distribution — otherwise it's a hobby and should be sold.
 - `INS-260322-229C` Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260405-8884` Costco earns 75% of profit from membership fees, so raising prices costs more in renewals than it gains in margins — the structure enforces customer-first behavior.
 - `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves.
 - `INS-260323-104E` Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
-- `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
+- `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.

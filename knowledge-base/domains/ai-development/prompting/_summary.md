@@ -1,6 +1,6 @@
 # Topic: prompting
 
-> 27 insights
+> 29 insights
 
 - `INS-260605-705B` [high] Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260410-AB4A` [high] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
@@ -29,3 +29,5 @@
 - `INS-260626-1D80` [medium] A Jaccard drift score can flag suspicious prompt edits, but the threshold is not proof of behavior change without an eval.
 - `INS-260605-F512` [medium] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
 - `INS-260626-A928` [medium] Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
+- `INS-260627-54A4` [medium] These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up.
+- `INS-260627-335A` [medium] Two seed-prompt families were tried — one with the agent's full policy copy-pasted in, one without — and the policy-free seed optimized better, because starting with the complete policy locks you into a local minimum you can't improve on.

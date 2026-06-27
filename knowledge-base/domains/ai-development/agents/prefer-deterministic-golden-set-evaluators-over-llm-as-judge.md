@@ -50,9 +50,9 @@ stance: >-
   trustworthy than an LLM-as-a-judge.
 related:
   - INS-260605-EC51
+  - INS-260627-21FF
   - INS-260404-E185
   - INS-260626-8DAD
   - INS-260626-60C2
-  - INS-260404-5365
 ---
 Colvin is blunt that while platforms ship prebuilt LLM-as-a-judge evaluators, 'defining your own is far better than LLM as a judge,' which he likens to 'the lunatics running the asylum' — using the same fallible model class to grade itself introduces correlated errors. Where you have a golden reference (their case: a JSON of correct ancestral relations per MP, generated with Opus 4.6 and hand-checked), a deterministic comparison gives clean per-case accuracy scores you can trust. He's candid that this is the hard part: 'working out what your judge is is always the hard bit of evals,' and it gets harder as models get smarter, because knowing what 'right' looks like becomes subtler. When no golden set exists, fall back to executable proxies — for a coding agent, run the code and check it compiles or avoids unavailable libraries; the smoking-cessation example reduces an impossible 40-year outcome eval to cheap text checks ('does the output not contain the word cigar'). Crude string assertions, he notes, are what 'an awful lot of evals end up being.'

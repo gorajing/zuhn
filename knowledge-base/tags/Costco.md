@@ -1,6 +1,5 @@
 # Tag: costco
 
-- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260405-A164` Once you've paid an annual fee, you stop asking 'is this the best price?' and start asking 'how do I justify what I already spent?'
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260405-47FD` Costco pays $21/hour average — double the U.S. retail average — and gets employees three times more productive in return.
@@ -30,3 +29,4 @@
 - `INS-260403-9104` Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
 - `INS-260403-137D` Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
+- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.

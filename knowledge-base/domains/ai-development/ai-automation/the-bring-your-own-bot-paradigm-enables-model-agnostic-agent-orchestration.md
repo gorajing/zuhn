@@ -50,10 +50,10 @@ stance: >-
   genuinely different personalities and strengths.
 related:
   - INS-260325-8F49
+  - INS-260627-EEDE
   - INS-260327-76B2
   - INS-260605-C760
   - PRI-260328-1ED1
-  - INS-260625-1520
   - INS-260327-4E8E
   - INS-260402-1F41
 evidence:

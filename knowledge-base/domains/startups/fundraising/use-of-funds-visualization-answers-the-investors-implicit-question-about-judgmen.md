@@ -52,7 +52,7 @@ related:
   - INS-260405-4AE1
   - INS-260327-19E5
   - INS-260404-16E1
-  - INS-260403-03CC
+  - INS-260627-5447
 ---
 When VCs ask how a founder will deploy capital, the surface question is about the plan — but the underlying question is about prioritization logic. A founder who can show funds aligned to milestones rather than arbitrary timelines is demonstrating they understand which bets are load-bearing. The template advice to 'align spend with milestones, not timelines' captures this precisely.
 

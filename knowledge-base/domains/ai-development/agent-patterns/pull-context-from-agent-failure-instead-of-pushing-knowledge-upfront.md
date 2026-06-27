@@ -48,7 +48,6 @@ stance: >-
   Letting agents fail tasks and demand the knowledge they lack beats pre-loading
   all institutional context into retrieval layers.
 related:
-  - INS-260320-63D3
   - INS-260403-BACA
   - INS-260514-5914
   - INS-260605-E642

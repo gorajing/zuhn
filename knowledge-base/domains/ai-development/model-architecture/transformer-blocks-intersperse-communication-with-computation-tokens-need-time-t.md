@@ -52,7 +52,6 @@ stance: >-
   computation) because tokens need private processing time between message
   exchanges.
 related:
-  - INS-260325-5B28
   - INS-260410-0EFE
   - INS-260625-A7C5
   - INS-260501-C4AA

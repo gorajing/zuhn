@@ -50,10 +50,10 @@ stance: >-
   technical context the non-technical user lacks.
 related:
   - INS-260605-35B4
+  - INS-260627-F1AF
   - INS-260619-F1E3
   - INS-260605-EA4B
   - INS-260605-7A70
-  - INS-260530-D34F
 ---
 Lovable gave their coding agent an explicit vent tool: use it when 'tooling, docs, or platform behavior is so poor it degrades your work' — missing tools, mismatched schemas, conflicting docs, broken platform behavior. Feedback lands directly in the team's Slack. The insight is an asymmetry of context: a non-technical user who gets stuck usually can't diagnose why, but the agent has been working the problem for several turns and often knows exactly what failed.
 

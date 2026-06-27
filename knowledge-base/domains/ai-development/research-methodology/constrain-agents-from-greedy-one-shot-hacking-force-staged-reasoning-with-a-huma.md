@@ -49,8 +49,8 @@ related:
   - INS-260410-7292
   - INS-260409-FA5E
   - INS-260412-8E0A
-  - INS-260505-9723
   - INS-260408-C572
   - PRI-260406-5CA8
+  - INS-260626-F983
 ---
 Building an agent to attack hard math, Woosang found that one-shotting produced 'hacky' buggy solutions, so he evolved a multi-stage approach: ask clarifying questions, verify, align early, explore from different angles for creative leaps, and explicitly combine the agent's idea with the human's. His takeaway: the agent is powerful but not perfect, so keep a human in the loop. Concrete method-level support for the KB's human-vs-automation-boundary principles.

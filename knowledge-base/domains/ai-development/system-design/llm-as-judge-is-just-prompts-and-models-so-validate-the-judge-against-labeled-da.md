@@ -50,11 +50,11 @@ related:
   - INS-260404-E185
   - INS-260404-2135
   - INS-260410-83EC
-  - INS-260605-8789
   - INS-260605-C009
   - INS-260605-0DB3
   - INS-260605-D3C7
   - INS-260605-BEA5
   - INS-260626-60C2
+  - INS-260627-7541
 ---
 People are tempted to believe LLM-as-judge outputs blindly during evals, but a judge is just another prompt and model and can be wrong. The discipline is to create a labeled dataset and apply the traditional classification metrics — precision, recall, F1 — to the judge's verdicts, an area where data-science rigor genuinely transfers. Beyond a one-time check, production data should continually feed an offline evaluation set so the team can detect whether the judge is converging toward or diverging from human agreement. This is one of the clearest places where data scientists add value to agent building: keeping the evaluator honest.

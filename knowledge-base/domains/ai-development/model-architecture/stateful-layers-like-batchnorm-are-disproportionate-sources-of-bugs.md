@@ -60,7 +60,7 @@ related:
   - INS-260410-E73E
   - INS-260602-1DF1
   - INS-260605-1CEB
-  - INS-260605-1066
+  - INS-260627-6846
 ---
 Karpathy flags BatchNorm as 'a very weird layer' that causes a lot of bugs for three reasons. First, it holds running mean and variance that are trained outside backprop via exponential moving average — state you have to wait to stabilize. Second, it behaves differently in training vs. evaluation mode, so forgetting to flip the mode gives wrong results instead of an error. Third, it couples activation statistics across batch elements, so a batch of size one produces NaN variance and silently poisons downstream computations.
 

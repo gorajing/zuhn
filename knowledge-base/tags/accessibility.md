@@ -7,9 +7,9 @@
 - `INS-260605-5A8E` Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward.
 - `INS-260605-7B00` Voice is omni-channel: once an agent can speak and listen, it can join a Zoom call, answer a phone line, or assist users who struggle with keyboards — interaction paradigms a text box can't reach.
 - `INS-260625-91CA` Fix web foundations (semantic HTML, accessibility, performance) first; that work doubles as agent-readiness and should precede adopting WebMCP.
-- `INS-260412-F121` Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.
-- `INS-260327-33F7` Target now carries grass-fed ground beef, pasture-raised eggs, organic dairy, and quality butter, making animal-based eating accessible at mainstream retailers nationwide.
 - `INS-260409-171B` Node-based wrappers (SoundThread over CDP) unlock decades-old DSP toolkits that were previously gated by command-line friction.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260328-F301` Seed-stage funding is fairer than founders think: investors don't coordinate, there are many independent writers, criteria are public, and getting rejected by one investor doesn't poison the well with others.
 - `INS-260605-C699` Building on-device multimodal AI for a blind father in a low-connectivity region produced a general-purpose framework now used by frontier labs and thousands of developers.
+- `INS-260327-33F7` Target now carries grass-fed ground beef, pasture-raised eggs, organic dairy, and quality butter, making animal-based eating accessible at mainstream retailers nationwide.
+- `INS-260412-F121` Dark energy permanently separates gravitationally unbound galaxy groups, making the Local Group humanity's absolute ceiling regardless of technology.

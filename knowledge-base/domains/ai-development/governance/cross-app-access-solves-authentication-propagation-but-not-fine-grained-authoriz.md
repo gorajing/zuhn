@@ -59,11 +59,11 @@ stance: >-
   nothing to scope what the agent can do, leaving fine-grained authorization as
   the unsolved hard problem.
 related:
-  - INS-260410-1430
   - PRI-260320-097F
+  - INS-260410-1430
+  - INS-260627-2FFE
   - INS-260626-34FB
   - INS-260323-92AD
-  - INS-260626-AD63
 ---
 Asked directly whether XAA solves authorization, Galow said no — by default it is purely about authentication. You connect to Figma as yourself and inherit exactly the permissions your Figma account already has; the IDP does not narrow them. The audience parameter (e.g. mcp.figma.com) only routes the request to the right app, it does not hack or expand scopes. So an agent acting on your behalf gets your full standing authority at the resource, which may be far more than the task requires.
 

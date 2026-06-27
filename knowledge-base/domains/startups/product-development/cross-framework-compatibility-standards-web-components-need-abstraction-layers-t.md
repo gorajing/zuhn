@@ -56,10 +56,10 @@ stance: >-
   experience.
 related:
   - INS-260402-2D95
+  - INS-260627-35AC
   - INS-260409-A0B4
   - INS-260409-96B0
   - INS-260625-91CA
-  - INS-260605-743D
 evidence:
   - id: INS-260327-FDF4
     type: SUPPORTS

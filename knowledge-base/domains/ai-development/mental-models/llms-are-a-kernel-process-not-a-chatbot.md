@@ -56,7 +56,6 @@ stance: >-
   system that orchestrates memory, tools, and I/O — not a word generator or
   chatbot.
 related:
-  - INS-260330-AC7F
   - INS-260519-7744
   - PRI-260406-7A21
   - INS-260626-BA87

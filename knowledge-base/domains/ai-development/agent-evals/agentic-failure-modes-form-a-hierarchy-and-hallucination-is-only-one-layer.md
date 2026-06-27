@@ -57,14 +57,14 @@ stance: >-
 related:
   - INS-260321-D370
   - INS-260323-1811
-  - PRI-260328-1ED1
   - INS-260329-D8F2
   - INS-260329-4D24
   - INS-260403-4F1B
   - INS-260330-A3B7
   - INS-260410-FD24
   - INS-260411-33E5
-  - PRI-260411-78CD
+  - INS-260412-6F0E
+  - INS-260602-1DF1
 ---
 Many teams still treat hallucination as the primary AI failure mode. Gupta argues that in production it is just one category among many. Agentic systems introduce an entire hierarchy: at the foundation sit memory failures, retrieval failures, and safety failures; one layer up are reasoning mistakes, poor planning, and incorrect tool execution; at the highest layer are multi-agent coordination failures. Each layer is a distinct class of error that an output-only check cannot detect.
 

@@ -4,6 +4,7 @@
 - `INS-260329-EAFD` Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
+- `INS-260627-578E` Reshape a task into a CLI/text interface the model has seen before, and capability that a GUI version blocks suddenly appears.
 - `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.
 - `INS-260605-8109` Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.
 - `INS-260626-5545` Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
@@ -29,8 +30,8 @@
 - `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-48F7` When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
-- `INS-260626-9A39` When Kenton told a model to play tic-tac-toe by inspecting a canvas's array of strokes rather than generating a tic-tac-toe app, it recognized the board from raw state and played — with zero tic-tac-toe code anywhere in the system.
 - `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
+- `INS-260626-9A39` When Kenton told a model to play tic-tac-toe by inspecting a canvas's array of strokes rather than generating a tic-tac-toe app, it recognized the board from raw state and played — with zero tic-tac-toe code anywhere in the system.
 - `INS-260626-A2B9` Centralize planning and decisions in one agent and expose capabilities as tools — each tool can carry its own system prompt, validation logic, and even its own LLM call — so the global context stays intact in the decision-maker.
 - `INS-260626-15F3` Use the LLM for understanding and connection-making; for fixed if-this-then-that rules use scripts and skip the model entirely.
 - `INS-260409-A3EC` The KB is a curated prior; agents should still fetch fresh web content to supplement it.

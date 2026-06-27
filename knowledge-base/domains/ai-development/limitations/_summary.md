@@ -1,9 +1,10 @@
 # Topic: limitations
 
-> 97 insights
+> 99 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
+- `INS-260627-35AC` [high] Agents shine on libraries (tight constraints, clear API surface, simple core) and struggle on products because the product's many interacting components can't fit in the context window.
 - `INS-260625-3B6D` [high] An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time).
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260413-C4EE` [high] AI systems can propose novel candidate molecules at scale but clinical trials and wet-lab experiments to validate them remain costly multiyear processes — the generation-validation gap is the binding constraint in drug discovery.
@@ -71,6 +72,7 @@
 - `INS-260403-0A83` [medium] AI that replaces human learning effort may destroy the byproduct discoveries that grow humanity's total knowledge stock.
 - `INS-260514-8FC8` [medium] Modern 'AI' = supervised machine learning + back-propagation, both invented 40+ years ago. The fancy names ('deep learning', 'neural networks', 'AI') exist to create religious aura, not technical precision. Demystifying clarifies both capabilities and limits.
 - `INS-260626-0FA9` [medium] AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
+- `INS-260627-3AF7` [medium] Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.
 - `INS-260410-D49F` [medium] Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.

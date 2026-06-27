@@ -52,7 +52,6 @@ stance: >-
   reaching a billion-plus users, reframing app distribution rather than just UI
   rendering.
 related:
-  - INS-260330-C2C4
   - INS-260605-1821
   - INS-260605-4860
   - INS-260625-E04B

@@ -53,7 +53,6 @@ related:
   - PRI-260403-5B3D
   - INS-260330-0E6E
   - INS-260405-A6BA
-  - INS-260323-AF96
 evidence:
   - id: INS-260330-0E6E
     type: SUPPORTS

@@ -58,6 +58,7 @@ related:
   - INS-260626-B7AC
   - INS-260409-F9D5
   - INS-260626-DA0A
+  - INS-260627-F934
 ---
 Saudi Arabia spent $1 billion redesigning the Jamarat bridge complex after repeated crowd crushes, successfully handling over 500,000 pilgrims per hour. Yet in 2015, the deadliest crush in modern history (2,400 deaths) occurred just down the road at an overlooked street intersection. The massive investment solved the bridge problem but the systemic risk simply relocated to the nearest weak point. Similarly, after the 1979 Who concert disaster, Cincinnati banned general admission entirely, but crush incidents continued worldwide because the underlying dynamics — competitive crowds, constrained architecture, inadequate planning — were never systemically addressed.
 

@@ -55,7 +55,6 @@ stance: >-
   operations teams produce equal or larger ROI per deployment and are
   systematically underserved relative to product
 related:
-  - INS-260323-216A
   - INS-260405-A2A2
   - INS-260405-A4DB
   - INS-260410-E3FB

@@ -44,10 +44,11 @@ stance: >-
   generating good ideas but persistent maze-navigation.
 related:
   - INS-260405-1BFA
-  - INS-260409-3FC6
   - PRI-260405-72D4
   - PRI-260403-3906
+  - INS-260409-3FC6
   - INS-260330-6C68
   - PRI-260328-04FA
+  - INS-260627-F934
 ---
 Horowitz endorses Chris Dixon's 'idea maze' framing and pushes it further: 'there are no ideas — there's only the idea maze.' Every founder is going through it. You're going to run into a wall in the market, a wall with competition, a wall with the underlying technology — and you have to keep moving. The implication is that the common framing 'do I have a good idea?' is wrong; the right question is 'can I navigate the maze when the walls appear.' This aligns with his pivot view — continuous adjustment is the steady state, not the exception. It also reframes what founder skill is: not insight at the start, but adaptive persistence at each wall.

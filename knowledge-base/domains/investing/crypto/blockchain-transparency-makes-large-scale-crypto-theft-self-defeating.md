@@ -51,7 +51,6 @@ stance: >-
   because community surveillance and exchange blacklisting trap stolen funds
   indefinitely.
 related:
-  - INS-260405-6E5F
   - INS-260412-D138
   - INS-260412-E90F
   - INS-260412-E5C7

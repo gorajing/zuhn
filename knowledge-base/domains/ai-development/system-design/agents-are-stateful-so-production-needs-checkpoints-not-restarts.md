@@ -56,12 +56,12 @@ stance: >-
   turns.
 related:
   - INS-260329-5EE7
-  - INS-260409-96B0
   - INS-260625-FA31
+  - INS-260627-9968
   - INS-260410-0E26
+  - INS-260627-0F4E
+  - INS-260627-95CF
   - INS-260605-61D9
-  - PRI-260328-F723
-  - INS-260619-16EF
 ---
 Traditional software engineering assumes failures can be retried cheaply from the start of a request. Agents violate this: they run for long stretches, maintain state across many tool calls, and errors compound — one bad tool call can send the agent down an entirely different trajectory. Restarting a 50-turn research session because turn 47 failed is both expensive and infuriating for users.
 

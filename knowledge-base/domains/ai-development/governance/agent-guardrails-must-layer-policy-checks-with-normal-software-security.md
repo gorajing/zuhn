@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260321-86F1
   - INS-260327-DCAF
-  - INS-260327-73BE
   - INS-260605-9402
   - INS-260605-80DC
+  - INS-260627-79E3
 ---
 OpenAI recommends combining LLM-based, rules-based, moderation, PII, relevance, jailbreak, and brand-safety guardrails while also keeping authentication, authorization, and access controls in place. It also suggests rating tools by risk and pausing or escalating high-risk functions.

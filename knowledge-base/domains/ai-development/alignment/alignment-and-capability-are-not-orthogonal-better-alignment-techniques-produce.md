@@ -51,6 +51,8 @@ related:
   - INS-260409-45C3
   - INS-260409-DC8C
   - INS-260505-050B
+  - INS-260627-841C
+  - INS-260627-578E
 stance: >-
   Alignment work (RLHF, interpretability) directly improves model capabilities,
   not just safety.

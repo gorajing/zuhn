@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 106 insights
+> 109 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -17,6 +17,7 @@
 - `INS-260605-5F0C` [high] Put credential handles in manifests, not credentials.
 - `INS-260605-75BB` [high] Clients hold a continuously maintained connection to a shared session so a second tab or phone has instant visibility and an upstream channel to the working agent.
 - `INS-260605-48CA` [high] Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
+- `INS-260627-30F9` [high] Treat your codebase as infrastructure designed for the agent: modularize, follow known patterns, remove hidden magic, and enforce it all with linting so the agent's strengths compound.
 - `INS-260410-A27C` [high] Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260625-26F5` [high] Stop measuring agent success like a researcher (accuracy) and start measuring it like an SRE — reliability, availability, latency, cost, recovery — because dependable outcomes, not benchmark peaks, are the goal.
 - `INS-260626-FDFC` [high] The first three layers are probabilistic instructions ('asking nicely and hoping'); add a fourth deterministic layer that reads actual output and rejects facts that aren't real.
@@ -34,6 +35,7 @@
 - `INS-260625-A281` [high] Like a database where the write-ahead log is durable and tables are views, an agent's context window, UI, debugging trace, and compaction should all be projections derived from one primary log.
 - `INS-260514-23D6` [high] Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't.
 - `INS-260605-1BBF` [high] An MCP app is a single sandboxed HTML file in an iframe with no local storage, no network access, and CSP/CORS-blocked external resources — so everything must be embedded and a shared design system becomes essential.
+- `INS-260627-0F4E` [high] Going from one agent to N agents converts an AI problem into a distributed-systems problem whose coordination complexity grows quadratically, so the failures are architectural — stale caches, race conditions, lost updates — not model errors.
 - `INS-260605-93B8` [high] The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
 - `INS-260605-1B9D` [high] Don't trust offline evals to predict user value — gate model experiments behind production traffic sampling and watch acceptance rate and latency.
 - `INS-260625-8FBA` [high] Echo Script extracts speaker names, timestamps, language, emotion, English translation, and a summary from audio in one Gemini API call by passing a response schema.
@@ -97,6 +99,7 @@
 - `INS-260605-C1A4` [medium] Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.
 - `INS-260605-EA2E` [medium] Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - `INS-260605-D404` [medium] Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
+- `INS-260627-EC83` [medium] Don't install the 130-agent template; start with the agents you need and add one only when keeping quality high necessitates the split.
 - `INS-260625-75D6` [medium] Let the host fetch and render UI from a resource reference while a separate client holds the one-to-one server connection.
 - `INS-260605-EF9D` [medium] Typed, explicit data flow plus YAML-serializable pipelines make every input/output traceable and let you roll the whole system back by git commit.
 - `INS-260412-4773` [medium] Submarine VLF communication at 700 words per minute in text-only forces message protocols to be maximally clear and unambiguous — a discipline that disappears when bandwidth is cheap.

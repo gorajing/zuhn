@@ -50,5 +50,6 @@ related:
   - INS-260605-2A69
   - INS-260530-D34F
   - INS-260626-48F7
+  - INS-260627-2B13
 ---
 HumanLayer argues that skilled engineers can apply modular concepts from agent building without going all-in on a greenfield framework rewrite. This matters because production teams already have data models, UX expectations, permissions, and workflows that agents must fit into.

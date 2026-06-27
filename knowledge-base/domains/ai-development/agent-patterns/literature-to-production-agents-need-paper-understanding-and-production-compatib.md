@@ -49,10 +49,11 @@ stance: >-
 related:
   - INS-260410-DD0E
   - INS-260413-61CE
-  - INS-260505-4A52
   - INS-260605-FB4D
   - PRI-260406-1AC6
   - INS-260330-2306
+  - INS-260505-4A52
+  - INS-260627-578E
   - INS-260403-F4F6
 ---
 The paper's L3 Literature-to-Production setting tests whether a method can transplant a research module into an existing production backbone while preserving feature routing, tensor shapes, training stability, and inference compatibility. Generic coding-agent baselines mainly optimize for runnable code and do not reliably preserve these architecture semantics.

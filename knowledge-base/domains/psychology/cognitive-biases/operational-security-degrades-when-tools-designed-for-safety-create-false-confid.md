@@ -45,7 +45,6 @@ stance: >-
   users' vigilance, making them more susceptible to social engineering and scams
   within those environments.
 related:
-  - INS-260327-6D77
   - INS-260404-F172
   - INS-260404-7ED7
   - PRI-260406-598F

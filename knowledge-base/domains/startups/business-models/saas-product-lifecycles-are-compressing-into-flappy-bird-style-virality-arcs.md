@@ -48,11 +48,11 @@ stance: >-
   structural moats more important than distribution speed for long-term ARR
   durability.
 related:
+  - INS-260627-699E
   - INS-260404-7E86
   - INS-260323-A075
   - INS-260412-C3AB
   - INS-260403-96F9
-  - INS-260403-2074
 ---
 The 'Flappy Bird era of SaaS' framing captures a real dynamic: AI tooling has lowered the cost of building and distributing SaaS products to near zero, creating a Cambrian explosion of point solutions that achieve rapid adoption but lack the stickiness needed to sustain ARR. Distribution is no longer the bottleneck; retention and workflow integration are.
 

@@ -1,6 +1,6 @@
 # Topic: training-dynamics
 
-> 21 insights
+> 23 insights
 
 - `INS-260410-78D3` [high] For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
 - `INS-260410-D3A7` [high] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
@@ -19,7 +19,9 @@
 - `INS-260605-33FA` [high] In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260410-89D0` [high] If train and val loss are basically equal, your model is too small — scale it up, don't regularize.
 - `INS-260410-6FA3` [high] Track log10(std(lr * grad) / std(param)) per layer during training and aim for roughly -3 — if it's much lower the network trains too slowly, if higher it's likely unstable, and per-layer asymmetry reveals miscalibrated initialization.
+- `INS-260627-FCAE` [medium] Small batch sizes let environment randomness and a narrow slice of opponents dominate each weight update, reinforcing suboptimal strategies and causing unstable training or collapse.
 - `INS-260605-5CCC` [medium] For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting).
 - `INS-260624-37C3` [medium] Long agent rollouts make inference speed a core training-system constraint.
 - `INS-260624-93AC` [medium] Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch.
+- `INS-260627-699E` [medium] RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
 - `INS-260625-B5A8` [medium] Across single-table-only, mixed, and curriculum (single-then-multi) training regimes, single-table-only gave the greatest uplift — and still produced a similar ~2x jump (13.9% to 26.6%) on the harder multi-table benchmark it never trained on.

@@ -51,10 +51,10 @@ stance: >-
   thousands of background tasks.
 related:
   - INS-260605-86F6
+  - INS-260627-9968
   - INS-260626-B38C
   - INS-260327-DC4C
   - PRI-260328-F723
-  - INS-260410-1030
   - INS-260403-656F
   - INS-260605-2795
   - INS-260605-46A8

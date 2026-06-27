@@ -44,11 +44,11 @@ resolutions:
     work.
 related:
   - INS-260323-13C0
+  - INS-260627-3AF7
   - PRI-260323-00C6
   - INS-260625-C6F4
   - INS-260404-36B9
   - INS-260514-118A
-  - INS-260501-2243
   - INS-260327-956D
 stance: >-
   Most AI projects fail because organizations skip the unglamorous data science

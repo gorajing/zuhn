@@ -1,12 +1,12 @@
 # Tag: physical-ai
 
+- `INS-260424-9544` Logan Kilpatrick: robotics is at this crossroads that I think a lot of the coding models were at 18 months ago — we're probably 12-18 months from a bunch of significant breakthroughs.
+- `INS-260325-EF79` Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
+- `INS-260405-E4FC` Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
 - `INS-260530-86E3` Brian Wong (VC, 11 years frontier tech): 'Have you heard about one single commercial deal with over 100 robots being deployed? Not necessarily.' Multi-billion-dollar valuations are riding on a deployment pipeline that doesn't yet exist.
 - `INS-260321-2BF9` NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260327-6E57` Video diffusion models fine-tuned on real robot data can simulate counterfactual physical scenarios, scaling robotics training data exponentially without teleoperation.
-- `INS-260424-9544` Logan Kilpatrick: robotics is at this crossroads that I think a lot of the coding models were at 18 months ago — we're probably 12-18 months from a bunch of significant breakthroughs.
-- `INS-260325-EF79` Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
-- `INS-260405-E4FC` Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
 - `INS-260605-B9B5` BFL extended one generative model to predict robot actions alongside images/video/audio, and frames world models explicitly as a way to train agents in simulation to scale self-driving and manufacturing.
 - `INS-260501-814C` Physical machines today = 50 different OSes per industry. AI can't deploy until someone builds the Android. That's Applied Intuition.
 - `INS-260530-5644` Brian Wong (Outpost Capital): high-quality physical-AI data comes from data-collection factories where humans wear VR headsets and replay actions for thousands of hours per robot/environment/task — change the hardware or workspace and the dataset is discarded.

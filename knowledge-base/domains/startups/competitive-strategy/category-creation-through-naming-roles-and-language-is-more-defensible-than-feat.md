@@ -57,9 +57,9 @@ stance: >-
 related:
   - PRI-260406-DF94
   - INS-260322-5A72
+  - INS-260627-5447
   - INS-260403-21C4
   - PRI-260328-82BE
-  - INS-260404-3212
 ---
 Clay invented the 'GTM Engineer' role and wrote the handbook for it, making Clay the default operating system for anyone hired into that position. Lovable coined 'vibe coding' and turned it into a cultural meme that reframed app building as accessible and creative. In both cases, the language spread independently of the product and became self-reinforcing — every job posting mentioning 'GTM Engineer' is implicit distribution for Clay.
 

@@ -1,12 +1,12 @@
 # Tag: compute
 
 - `INS-260405-4D81` Google committing $100B+ to AI spend means the infrastructure layer is effectively closed to new entrants without sovereign or hyperscaler backing.
-- `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
-- `INS-260323-8637` Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
-- `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
 - `INS-260505-82B8` A digital brain that predicts neural activity lets you run millions of years of experiments in days, then close the loop with real validation.
+- `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
+- `INS-260323-8637` Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
+- `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
 - `INS-260410-C022` At ~$10⁻¹⁸ per operation and a trillion ops per token, LLMs deliver roughly a million tokens per dollar — 100x cheaper than a paperback, 10,000x cheaper than customer support, and a million-plus times cheaper than a lawyer — so you can afford to make inference far more expensive to make it far smarter.
 
 - `INS-260625-A503` Railway's payback period on owned metal versus renting the equivalent cloud capacity is ~3 months against 4 years of depreciable hardware, yielding ~70% metal margins that can subsidize cloud bursting.
@@ -22,8 +22,8 @@
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260403-B73D` RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.
 - `INS-260410-DD35` From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
+- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
+- `INS-260626-D8AE` ElevenLabs built a frontier audio model on a fraction of the capital because audio models are smaller, were a niche with few researchers, and the bottleneck was solvable (transcription/annotation) rather than raw compute.
 - `INS-260403-FCB6` AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
 - `INS-260626-6E01` Classic bubbles form when excess supply destroys economics; AI today is supply-constrained (no data-center capacity until late '28–'29), which makes a near-term bubble structurally unlikely even if a longer-term one remains possible.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
-- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
-- `INS-260626-D8AE` ElevenLabs built a frontier audio model on a fraction of the capital because audio models are smaller, were a niche with few researchers, and the bottleneck was solvable (transcription/annotation) rather than raw compute.

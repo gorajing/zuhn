@@ -48,7 +48,6 @@ stance: >-
   Telling an AI to 'pick the next most important ticket' from a flat backlog
   outperforms handing it a pre-computed dependency graph of tasks.
 related:
-  - INS-260411-BCB0
   - INS-260501-247C
   - INS-260405-3B54
   - INS-260409-0DB0

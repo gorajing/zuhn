@@ -62,12 +62,12 @@ related:
   - INS-260330-FC4D
   - INS-260404-88D8
   - INS-260413-AD37
-  - INS-260501-9465
   - INS-260524-0DC3
   - INS-260605-9F5C
   - INS-260605-D912
   - INS-260605-7843
   - INS-260605-365A
+  - INS-260605-AABE
 ---
 Gupta's most useful mindset shift is to stop thinking like a researcher and start thinking like an SRE or production engineer. SREs do not measure success with accuracy; they measure reliability, availability, latency, cost, and recovery. Agentic systems demand the same treatment because the goal is not maximizing benchmark scores — it is maximizing dependable outcomes. Reliability becomes the North Star metric, and accuracy demotes to merely one input feeding it.
 
