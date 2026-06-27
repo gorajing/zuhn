@@ -16,5 +16,5 @@
 - `INS-260626-35CB` Neuralink's saying is 'you don't have to be a brain surgeon to work here' — the best people are hardcore engineers who learn neuroscience as they go, because the hard problems are manufacturing and robotics, not biology credentials.
 - `INS-260412-0D71` Graphene took 16 years from discovery (2004) to first consumer product (2020), consistent with historical timelines for carbon fiber, lithium-ion, and other breakthrough materials.
 - `INS-260402-9EBD` The biggest technology companies emerged during periods that combined platform innovation in both software and hardware with the operational discipline forced by higher interest rates.
-- `INS-260524-0515` Z Venture Capital CEO: opened a US office for seed/early because the AI alliance's most active part is the US; in Asia only Korea/Japan have a deep-tech base, and SE Asia has 'nothing to invest in.'
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
+- `INS-260524-0515` Z Venture Capital CEO: opened a US office for seed/early because the AI alliance's most active part is the US; in Asia only Korea/Japan have a deep-tech base, and SE Asia has 'nothing to invest in.'

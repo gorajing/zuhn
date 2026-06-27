@@ -7,11 +7,11 @@
 - `INS-260327-EEEE` Pharmaceutical companies pay social media influencers millions to promote drugs disguised as authentic health content
 - `INS-260403-E4C7` Nearly a third of Gen Z has deleted social media apps, and global social media usage has declined 10% since 2022, suggesting organic human adaptation to harmful technology.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
-- `INS-260403-F0BF` Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
-- `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
 - `INS-260325-9507` Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
 - `INS-260327-9562` Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
 - `INS-260325-9B9A` Heavy screen use does not just exploit weak impulse control — it actively stunts the brain's ability to develop that control, creating a vicious cycle.
+- `INS-260403-F0BF` Algorithmic feeds replaced neighbor-comparison with influencer-comparison, escalating financial inadequacy.
+- `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
 - `INS-260403-889B` Moderate disengagement from online politics creates a selection effect that makes remaining discourse more extreme than the population it claims to represent.
 - `INS-260412-AFF7` WallStreetBets transformed GameStop from a trade into an identity movement where selling became moral betrayal, causing participants to hold through massive losses they would never accept in isolation.
 - `INS-260403-8C7E` Social media functions as a status marketplace where divisive hostility is the most reliable path to visibility and influence.

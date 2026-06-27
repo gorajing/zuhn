@@ -45,8 +45,8 @@
 - `INS-260404-AFE6` Hybrid funding models like seed strapping and boot-scaling blur the line between bootstrapping and traditional VC, giving founders more nuanced growth paths.
 - `INS-260405-F531` Simply asking 'what would a bootstrapped company do?' cuts through VC-funded bloat and restores prioritization clarity.
 - `INS-260403-6F75` Founders who equate raising money with product validation often build investor-pleasing businesses instead of customer-pleasing ones.
+- `INS-260410-4AD0` Google could not have been built even one or two years later because crawling and indexing the entire web from a dorm room was only financially feasible in 1996 — by 1998 the cost of building a fresh index had jumped to tens of millions of dollars, and by 2000 to hundreds of millions.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.
 - `INS-260329-12EC` Reach out to 100 people per day through free warm channels (social media, email, communities) to generate first customers without advertising spend.
-- `INS-260410-4AD0` Google could not have been built even one or two years later because crawling and indexing the entire web from a dorm room was only financially feasible in 1996 — by 1998 the cost of building a fresh index had jumped to tens of millions of dollars, and by 2000 to hundreds of millions.
 - `INS-260522-88E0` YC Root Access: companies reach demo day at ~5x revenue per employee vs 18 months ago; soon you're constrained on token usage, not headcount.
