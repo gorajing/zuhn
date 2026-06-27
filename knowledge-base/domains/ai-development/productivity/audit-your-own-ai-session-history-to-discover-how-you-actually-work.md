@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260605-5A6A
   - INS-260605-BEFB
+  - INS-260626-6E3B
   - INS-260410-264E
   - INS-260409-ADD0
-  - INS-260404-047D
 ---
 Priscila did not design her 'Catch Me Up' skill from a theory of how she should use AI; she discovered the need by having Claude analyze the cache of her actual sessions. The classifier surfaced that comprehension overwhelmingly dominated her usage — a fact she found surprising despite being the person generating every prompt. This is a generalizable meta-move: your interaction history with AI tools is a dataset about your real workflow, and feeding it back to the model for classification exposes the high-frequency patterns that justify building dedicated tooling. Her closing advice to the audience was explicitly this — track your own AI usage and you will find places to improve. Introspection underestimates how lopsided real usage is.

@@ -1,8 +1,6 @@
 # Tag: anthropic
 
 - `INS-260403-E78C` Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
-- `INS-260403-C584` Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
-- `INS-260626-2F2E` Record the exact code-execution tool version whenever an agent composes tools through code.
 - `INS-260402-4C4C` Jan Leike argues current alignment success can bootstrap superhuman alignment, but this assumes a golden middle of capability exists.
 - `INS-260327-6177` Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
 - `INS-260327-DCAF` The Pentagon labeling Anthropic's ethical guardrails as a 'supply chain risk' creates a precedent where maintaining AI safety standards becomes a punishable national security liability.
@@ -14,6 +12,8 @@
 - `INS-260409-7731` Frontier AI labs splinter because each billionaire wants to create AI in their own image — they can't share control, so collaboration always collapses into competing labs.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
+- `INS-260626-2F2E` Record the exact code-execution tool version whenever an agent composes tools through code.
+- `INS-260403-C584` Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.

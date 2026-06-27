@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 400 insights
+> 403 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -131,6 +131,7 @@
 - `INS-260626-AE04` [high] NOVA's L3 task succeeds by coupling paper reproduction, solution design, production code edits, semantic gates, and offline/online validation.
 - `INS-260410-60C8` [high] Preloading every tool definition burns context before work begins; discoverable tools preserve the window for actual reasoning.
 - `INS-260327-FDC1` [high] Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.
+- `INS-260626-C3C4` [high] The paper reports that many append-only stores degrade with evidence distance and that standard semantic consolidation can destroy chronological cues.
 - `INS-260605-A3F4` [high] Because users stay in one long chat, load 10 turns and test the 11th so context-management failures surface in evals instead of in user reports.
 - `INS-260605-36E9` [high] Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
 - `INS-260625-679B` [high] Load an instructions.md on every agent turn that the agent can edit, so feedback given in plain language permanently changes behavior.
@@ -138,6 +139,7 @@
 - `INS-260410-BBC1` [high] Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260605-34B0` [high] Separate implementation and validation into different agents with different context, and validate behavior by actually running the app, not just linting and tests.
 - `INS-260605-B4B9` [high] Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
+- `INS-260626-6E3B` [high] The paper finds no single memory system dominates; cross-session reasoning, coherent dialogue, and stateful execution each favor different memory structures.
 - `INS-260605-2AAF` [high] Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
 - `INS-260501-247C` [high] Ask your agent every day: 'what's one task I'm doing repeatedly that you should automate?' That's the loop until proactive observation works.
 - `INS-260410-CD79` [high] Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
@@ -308,6 +310,7 @@
 - `INS-260626-239A` [medium] Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
 - `INS-260624-223D` [medium] The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
 - `INS-260321-9EBB` [medium] Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
+- `INS-260626-BD97` [medium] The paper's component analysis finds that coverage-preserving extraction can beat more selective extraction for downstream answerability.
 - `INS-260605-03A6` [medium] Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260501-5ACE` [medium] App building is commoditized; what's not is an agent that researches the market, validates the problem, builds a v1, and writes the business case — agent-as-founder, not agent-as-developer.
 - `INS-260625-2E86` [medium] The reason generative UI defaults to generating JSON ('Jason Bender') and rendering it is that most platforms lack a primitive to safely render untrusted code — solve that and you can just generate React.

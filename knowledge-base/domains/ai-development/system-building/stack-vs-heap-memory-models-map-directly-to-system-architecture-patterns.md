@@ -49,10 +49,10 @@ stance: >-
   distributed systems
 related:
   - INS-260605-61D9
+  - INS-260626-6E3B
   - INS-260625-B6E9
   - INS-260625-1654
   - INS-260330-BE4D
-  - INS-260329-818A
 evidence:
   - id: INS-260330-BE4D
     type: TRANSFERS_TO

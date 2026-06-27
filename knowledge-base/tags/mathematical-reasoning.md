@@ -1,7 +1,7 @@
 # Tag: mathematical-reasoning
 
-- `INS-260325-8065` AlphaProof solved 3 of 5 non-geometry IMO 2024 problems including P6 (solved by only 5 of 609 humans) through RL-guided formal proof search.
 - `INS-260626-F5E2` Keep the math-over-philosophy prediction active, but discount straight-line extrapolation from IMO/AIME performance.
+- `INS-260325-8065` AlphaProof solved 3 of 5 non-geometry IMO 2024 problems including P6 (solved by only 5 of 609 humans) through RL-guided formal proof search.
 - `INS-260412-F6FD` Equations can have valid solutions that describe nothing real — mathematical possibility is a necessary but not sufficient condition for existence.
 - `INS-260330-9033` Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
 - `INS-260330-BEDC` The Basel proof doubles circles repeatedly while preserving brightness, and the infinite limit of evenly-spaced lighthouses on a line yields the series sum.

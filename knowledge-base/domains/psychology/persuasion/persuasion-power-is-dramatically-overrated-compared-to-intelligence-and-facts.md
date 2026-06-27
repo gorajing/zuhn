@@ -53,11 +53,11 @@ stance: >-
   consequences.
 related:
   - INS-260330-ECD8
+  - INS-260626-924E
   - INS-260403-9A5D
   - INS-260404-2A95
   - INS-260403-2AF0
   - INS-260321-2D72
-  - PRI-260406-75C2
   - INS-260403-E688
   - INS-260410-CB92
 evidence:

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 5936 actionable insights
+Generated on 2026-06-27 | 5939 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -94,6 +94,7 @@ Generated on 2026-06-27 | 5936 actionable insights
 - [INS-260626-F694] Open user prompts give breadth no condensed benchmark can match, a 'both bad' vote captures absolute (not just relative) quality, and the benchmark never saturates because there's always a better possible answer.
 - [INS-260626-475E] Instead of micro-optimizing individual tool descriptions, GitHub evals them against each other so tools don't fight over when to be called — the description that makes an agent always call a tool is as bad as the one that makes it never call it.
 - [INS-260626-60C2] Invest in a human-labeled dataset (pass/fail plus a short critique), generate eval outputs from your real system rather than synthesizing them, and calibrate the judge to a domain expert using train/dev/test splits and F1.
+- [INS-260626-20B7] The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -1426,6 +1427,8 @@ Generated on 2026-06-27 | 5936 actionable insights
 - [INS-260626-F3AC] If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 - [INS-260626-287B] Bad codebases make bad agents — if AI output is poor, raise the quality of your feedback loops (tests, type checks); enforce TDD red-green so the agent writes a failing test first and can't retro-fit tests to whatever it built.
 - [INS-260626-EAC7] Treating generated code as a disposable artifact you never inspect causes software entropy — each compiler pass makes the codebase worse, not better.
+- [INS-260626-43A1] The paper's cost analysis finds localized update/search regimes more cost-efficient than graph-wide consolidation or whole-memory rewriting.
+- [INS-260626-E255] The paper finds that post-update behavior depends primarily on whether the memory pipeline preserves temporally valid evidence before generation.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

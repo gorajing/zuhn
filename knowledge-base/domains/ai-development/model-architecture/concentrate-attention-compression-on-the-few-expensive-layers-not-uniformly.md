@@ -60,6 +60,7 @@ related:
   - INS-260625-D148
   - INS-260605-FE37
   - INS-260626-66DC
+  - INS-260626-43A1
 ---
 Gemma 4 mixes two attention types: local layers attend only to a sliding window (512 or 1024 tokens) and are cheap, while global layers attend to every preceding token and dominate memory and inference cost. The model interleaves them 5:1 (4:1 in the smallest model) and forces the final layer to be global so the model still integrates the full context.
 

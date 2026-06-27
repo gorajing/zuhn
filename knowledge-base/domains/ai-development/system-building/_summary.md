@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 305 insights
+> 307 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -28,6 +28,7 @@
 - `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260626-43A1` [high] The paper's cost analysis finds localized update/search regimes more cost-efficient than graph-wide consolidation or whole-memory rewriting.
 - `INS-260625-C69F` [high] Pay users to share real usage, then hand-clean those traces into eval tasks—single-turn synthetic benchmarks miss the infinite search space of agents.
 - `INS-260514-EE1D` [high] Harness order: rules first → skills when you repeat yourself → MCP when you need external systems → hooks when stakes rise → sub-agents when contexts conflict. Don't design the whole thing upfront. Add components when friction surfaces.
 - `INS-260605-04E7` [high] Don't use the 'power of the gods' just because you have it — models tend toward complexity, so the simplest working version usually wins by 10-100x.
@@ -220,6 +221,7 @@
 - `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260409-4CE8` [high] Plain files beat opaque stores because you can see, edit, and trust what the system knows.
 - `INS-260501-F258` [high] Stop fusing AI into your product. Make your product a tool the agent uses. The agent is just another user with a license.
+- `INS-260626-E255` [high] The paper finds that post-update behavior depends primarily on whether the memory pipeline preserves temporally valid evidence before generation.
 - `INS-260329-02B3` [high] String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
 - `INS-260329-DEA1` [high] Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260330-0A8D` [high] One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified

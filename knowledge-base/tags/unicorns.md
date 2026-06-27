@@ -6,9 +6,9 @@
 - `INS-260403-E294` Unicorn exits accelerating in AI, cyber, and health while other sectors remain illiquid reveals selective rather than broad liquidity recovery.
 - `INS-260403-CE07` October 2025's unicorn cohort added $44.5B in value, signaling a selective recovery that rewards rational growth over boom-era exuberance.
 - `INS-260405-5569` Unicorn status typically requires 5 rounds, with private unicorns reaching it more efficiently than exit-unicorns.
-- `INS-260403-C7B9` Breakout startups hide in niches and avoid traditional growth signals, making old-school VC pattern matching obsolete.
 - `INS-260405-0375` At current exit velocity, the entire U.S. unicorn backlog would take 49 years to clear.
 - `INS-260405-93AE` Data on unicorn founders contradicts the cult of youth that dominates startup culture.
+- `INS-260403-C7B9` Breakout startups hide in niches and avoid traditional growth signals, making old-school VC pattern matching obsolete.
 - `INS-260404-6243` 38 new unicorns in 2024 show a more selective but still active late-stage venture market.
 - `INS-260403-822B` Unicorn-creating pitch decks used simple, instantly understandable stories rather than polished design.
 - `INS-260403-713B` CB Insights reports $200B+ in AI funding and 75 new unicorns, but capital is concentrating in fewer, larger winners.

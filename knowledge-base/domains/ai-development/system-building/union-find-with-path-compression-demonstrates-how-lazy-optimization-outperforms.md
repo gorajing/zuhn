@@ -47,12 +47,11 @@ stance: >-
   Deferring and batching expensive operations (lazy evaluation) often yields
   better overall performance than doing work eagerly at each step
 related:
-  - INS-260329-4696
   - INS-260329-2612
-  - INS-260329-EF14
   - INS-260329-01F2
   - INS-260329-4986
   - PRI-260407-5465
+  - INS-260329-4696
   - INS-260501-835A
 evidence:
   - id: INS-260329-4696

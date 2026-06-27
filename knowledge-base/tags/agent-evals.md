@@ -8,6 +8,7 @@
 - `INS-260625-4D09` METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
 - `INS-260626-1045` A harness can prove that gates reject constructed bad inputs without proving it improves developer outcomes.
 - `INS-260626-33BE` NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
+- `INS-260626-20B7` The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
 - `INS-260625-1920` Model identity is not enough; the harness is part of the measured system.
 - `INS-260625-77F8` For workflow agents, the answer is the mutated state, not the transcript.
 - `INS-260625-B6E8` Make held-out tests auditable in mechanism but private in instance.

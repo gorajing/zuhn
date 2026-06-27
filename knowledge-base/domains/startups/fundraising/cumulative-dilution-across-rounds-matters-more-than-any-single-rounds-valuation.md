@@ -65,6 +65,7 @@ related:
   - INS-260405-36E6
   - INS-260410-02EA
   - INS-260605-3B06
+  - INS-260626-9141
 ---
 Most founders negotiate each funding round in isolation — celebrating a high Series A valuation without modeling how Series B and C dilution will compound on top. A founder who raises $1M at Seed, $5M at Series A, and $15M at Series B might end up with far less equity than expected because each round's dilution multiplies against the previous rounds.
 

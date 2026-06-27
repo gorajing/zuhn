@@ -28,5 +28,5 @@
 - `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 - `INS-260402-E994` Unseen details accumulate into visible quality — great software, like great painting, requires fanatical devotion to parts no one is supposed to see.
 - `INS-260423-B01D` Dalton and Michael: slop is where you're actively self-deceiving that your thing is good when you kind of know it's not that good.
-- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260410-BED1` A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.
+- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.

@@ -50,6 +50,7 @@ related:
   - PRI-260328-A4AC
   - INS-260403-B6F2
   - INS-260329-595E
+  - INS-260626-BD97
 ---
 Hormozi frames goodwill not as a soft virtue but as a hard financial asset. When you consistently deliver more value than expected, you accumulate social and reputational capital that converts to revenue through word-of-mouth, reduced churn, and the ability to charge premium prices.
 
