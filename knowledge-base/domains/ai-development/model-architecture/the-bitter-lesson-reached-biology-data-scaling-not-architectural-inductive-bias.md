@@ -65,7 +65,6 @@ stance: >-
   specialists in biology just as they did in NLP and vision, and the binding
   constraint is training-data volume rather than architecture.
 related:
-  - INS-260403-A3E4
   - INS-260403-B73D
   - INS-260403-2A92
   - INS-260410-34F5
@@ -75,6 +74,7 @@ related:
   - INS-260605-6B24
   - INS-260605-6A0A
   - INS-260625-B5A8
+  - INS-260625-43B3
 ---
 Yasa Baig's reading of the ESM-C (ESM Cambrian) paper is 'the bitter lesson comes from biology.' The prior ESM2 generation hit a wall — adding parameters gave diminishing returns and the scaling curve flattened. ESM-C keeps climbing with no plateau, and the fix was not a clever inductive bias but data: the team pushed from ~50M training samples to ~2.8B by pulling in metagenomic sequences (protein found by sequencing DNA from dirt, oceans, and human guts). A masked-language model trained only on raw amino-acid sequences — no MSA, no handcrafted evolutionary features — lands within about three points of AlphaFold3 on general protein complexes and actually beats it on antibody design (roughly 50 vs 47), precisely the modality where MSA data is sparse but drug designers most need predictions.
 

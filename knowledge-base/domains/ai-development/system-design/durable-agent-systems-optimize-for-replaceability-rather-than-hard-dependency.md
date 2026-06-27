@@ -55,6 +55,7 @@ related:
   - INS-260626-34FB
   - INS-260627-EC83
   - INS-260501-91C2
+  - INS-260627-8B10
   - INS-260410-F910
 ---
 IBM reports that surveyed organizations designing for adaptability early, by keeping workloads portable and models replaceable rather than locked into hard dependencies, saw 10% higher AI ROI in 2025. This narrows AI-native operating-system enthusiasm: the durable architecture is not one monolithic agent OS that absorbs the company, but a modular control plane where workloads, models, and vendors remain replaceable. The practical implication is to privilege interfaces, auditability, and portability over irreversible workflow capture.

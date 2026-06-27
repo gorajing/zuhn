@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260410-B4C0
   - PRI-260412-52DA
+  - INS-260627-E660
   - PRI-260403-B9A0
   - INS-260403-CA46
-  - PRI-260322-9E36
   - INS-260330-D7CD
 stance: >-
   The same macro forces that create billion-dollar winners also destroy them

@@ -60,6 +60,7 @@ related:
   - INS-260423-1C4D
   - INS-260625-D1D5
   - INS-260626-1C28
+  - INS-260627-1C20
 ---
 Drawing on Simon Willison's framing, the guests decompose prompt-injection risk into three necessary ingredients: (1) the agent ingests external data from untrusted sources, (2) it has access to private or sensitive internal information, and (3) it can take consequential action — send data out, make tool calls, write to systems. An agent that only generates tokens ('just spewing out reports') is harmless no matter how injected; an agent with no untrusted input can't be hijacked. The danger is the conjunction.
 

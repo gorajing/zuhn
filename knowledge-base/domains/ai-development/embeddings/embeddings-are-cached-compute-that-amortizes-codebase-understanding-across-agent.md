@@ -57,7 +57,7 @@ related:
   - INS-260625-5351
   - INS-260605-9E46
   - INS-260627-6757
-  - INS-260625-EF29
+  - INS-260627-0A85
 ---
 Claude Code's default agentic search greps the file system, reads files, and greps again to find and understand code — and it repeats this whole trajectory on every session, even for identical questions. A single trace might burn only ~6,000 tokens, but multiplied across every session and every parallel agent it compounds. Vector indexing inverts the cost curve: you pay an upfront chunk-embed-index cost, then agents query the cache of semantic meaning and retrieve the right chunks faster and with token savings.
 

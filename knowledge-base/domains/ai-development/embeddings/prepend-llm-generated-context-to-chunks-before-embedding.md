@@ -49,9 +49,10 @@ related:
   - INS-260410-3F1A
   - INS-260626-5D7C
   - INS-260605-77D8
+  - INS-260627-C3CE
   - INS-260409-1078
-  - INS-260514-23D6
   - INS-260501-22BF
+  - INS-260514-23D6
 ---
 Anthropic's Contextual Retrieval works by passing the whole document plus the target chunk to Claude with a prompt asking for a 'short succinct context to situate this chunk within the overall document.' That preamble is then prepended to the chunk before both embedding and BM25 indexing. Reported impact: a 35% reduction in top-20 retrieval failure rate from contextual embeddings alone, 49% when combined with contextual BM25, and 67% when stacked with a reranker.
 

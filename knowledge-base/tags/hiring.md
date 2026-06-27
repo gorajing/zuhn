@@ -75,6 +75,7 @@
 - `INS-260403-A851` The spectrum from full codebase access (Linear, Gumroad) to synthetic take-home projects (PostHog, Automattic at scale) reflects a deliberate trade-off between signal depth and process scalability.
 - `INS-260403-6844` Candidates who invest days or weeks in a work trial are simultaneously demonstrating their interest level, and the trial gives them enough visibility into company internals to make an informed decision themselves.
 - `INS-260403-E9F5` Work trials give hiring managers direct observation of actual work output, eliminating the performance-vs-productivity gap that plagues traditional interviews.
+- `INS-260627-FBF3` At The Browser Company, a strategy-and-ops employee used self-serve prompt tools one weekend to rewrite all the prompts, unlocking a step-change in product quality and seeding the model-behavior team.
 - `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.

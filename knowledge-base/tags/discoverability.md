@@ -1,7 +1,7 @@
 # Tag: discoverability
 
-- `INS-260605-6134` The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
 - `INS-260627-DD09` Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
+- `INS-260605-6134` The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
 - `INS-260605-175E` The 'starfish' chatbox landing page sits there and makes the user do all the work, demanding they already hold the system's capabilities in their head — rich visual interfaces lower that discovery burden.
 - `INS-260626-C59C` Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
 - `INS-260626-4A96` Cursor accepted that the skill-based worktree feature is harder to discover because it serves power users, and minimizing maintenance on an advanced feature mattered more than surfacing it in the UI.

@@ -47,12 +47,12 @@ stance: >-
   engineering team can close the capability gap before the acquisition target
   extends their lead — if not, the math always favors buying.
 related:
+  - INS-260627-6F57
   - INS-260519-D007
   - INS-260330-63BA
   - INS-260626-BDAB
   - INS-260514-DFAE
   - INS-260404-B18A
-  - INS-260410-7224
 evidence:
   - id: INS-260327-CED9
     type: EXTENDS

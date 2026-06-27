@@ -1,20 +1,20 @@
 # Tag: enterprise-ai
 
+- `INS-260627-CCC6` The more use cases a person or organization deployed, the better their reported ROI — leaders win by treating AI as a comprehensive strategy, not a portfolio of one-off pilots.
 - `INS-260405-6CED` AI's growing influence on strategy warrants formal inclusion in governance structures, not just operational workflows.
+- `INS-260627-29D9` Production agents moved through the pilot phase faster than expected, so the live constraint is now the human side — enablement, sandboxes, and reduced resistance — not the technology.
 - `INS-260410-9CF4` Just as Lean transformed factories by rewiring end-to-end processes, AI in knowledge work requires management teams to redesign workflows — the hard bottleneck is organizational, not technical.
 - `INS-260627-6BAD` Bring the business into the research loop early so adoption becomes pull, not push.
 - `INS-260403-1106` ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260322-7B61` Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
 - `INS-260322-4757` Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
+- `INS-260627-647D` Bottom performers weren't even measuring speed and only 10% measured productivity; top performers build a holistic chain from inputs (tool spend, upskilling) through outputs (velocity, developer NPS, code resilience) to economic outcomes (time-to-revenue, cost per pod).
 - `INS-260403-BBCF` McKinsey's 2025 State of AI shows the gap between AI leaders and laggards is driven by operational redesign willingness, not technology access.
 - `INS-260322-FD23` Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
+- `INS-260627-6C1E` When use cases explicitly mention automation or agents, their self-reported ROI wildly outperforms the first-tier productivity use cases that dominate by count.
 - `INS-260626-091B` Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
-- `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
-- `INS-260327-76B2` Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
-- `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
-- `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260627-8781` Agent operating systems need embedded control before workflow replacement scales.
 - `INS-260323-EA36` 95% of AI projects fail — twice the rate of any other emerging technology — driven equally by skills gaps and employee resistance to adoption.
 - `INS-260323-13C0` Organizations routinely assign their least technical person to 'train the AI' because they don't understand that this is actual data science work.
@@ -28,14 +28,21 @@
 - `INS-260423-4DD5` Seth Godin: you can't cost-reduce yourself to greatness — the current cycle is cost reduction but the opportunity is using AI to make things better.
 - `INS-260323-216A` Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
 - `INS-260321-015B` Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
+- `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
+- `INS-260627-4D17` Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
+- `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
+- `INS-260327-76B2` Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
+- `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
 - `INS-260627-91B3` Agent systems need spend control as much as capability control.
 - `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
+- `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
 - `INS-260627-94E6` When dozens of teams each wire up their own connections, security, and infrastructure for AI agents, the fix is a central registry that catalogs every tool and agent — not stricter team-level discipline.
 - `INS-260627-B89C` CIOs cannot govern agent work they cannot see.
-- `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
+- `INS-260627-DAF7` Contrary to the assumption that small nimble companies move fastest, the biggest organizations are consistently ahead on scaling AI — though the very smallest (1-50 person) firms capture early transformational benefit.
 - `INS-260402-31D8` The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - `INS-260325-8F49` Hugging Face hosts roughly as many private models as their 1 million public models, created by 350,000 organizations doing custom fine-tuning, evaluation, and reinforcement learning.
 - `INS-260626-2170` Once building agents is easy, organizations drown in duplicate agents and MCP servers, making discoverability and governance the real scaling constraint.
+- `INS-260627-0D0C` Engineers report tasks dropping from days to minutes, yet enterprises average only 5-15% overall gains because workflows, review, and team structure inherited from human-paced development never changed.
 - `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
 - `INS-260626-07B6` Bet that model capability is unlimited and sell the permissions, approvals, audits, and guardrails that let enterprises actually deploy it.

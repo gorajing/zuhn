@@ -53,12 +53,12 @@ related:
   - INS-260325-ADF5
   - INS-260323-A7F6
   - INS-260327-999C
-  - INS-260327-005D
   - INS-260327-ACB3
   - INS-260329-FC6D
   - INS-260329-74F9
   - INS-260403-C228
   - INS-260403-F519
   - INS-260403-39CF
+  - INS-260404-B893
 ---
 Sales has historically been individual sport — even within a team, reps compete with each other for commission, safeguard their outreach scripts, and never run truly controlled experiments. This caps the org because (a) experiments across 20 reps are confounded by individual charisma and (b) the choice between measuring experiments and just bringing revenue in the door always favors revenue. Yash argues GTM engineering changes this: salespeople become the PMs (surfacing patterns from the customer front lines — what objections recur, what trends in problem framing), GTM engineers become the engineers (building automations and workflows to act on that PM feedback). Now experiments can run at team scale and be properly measured because the workflows themselves capture the data, and you can deploy what used to take weeks of manual work in 1-2 days. This requires real cultural shift away from individual safeguarding, which is part of why the term 'GTM engineering' is polarizing — it implicitly indicts the old sales culture.

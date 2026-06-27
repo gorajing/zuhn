@@ -53,7 +53,6 @@ related:
   - INS-260410-FD24
   - INS-260330-F67A
   - INS-260329-B2D8
-  - INS-260403-B378
 evidence:
   - id: INS-260323-AB5F
     type: TRANSFERS_TO

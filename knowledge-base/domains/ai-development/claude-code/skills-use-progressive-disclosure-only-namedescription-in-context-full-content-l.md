@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260627-D456
   - INS-260605-C86D
+  - INS-260627-CEC6
   - INS-260327-5AFE
   - INS-260605-117F
-  - INS-260605-5B0A
 ---
 The technical mechanism: when you create a skill.md file, the YAML frontmatter (name, description) is injected into the system prompt as available skills. The body of the skill (the actual instructions, examples, code snippets) is NOT injected. When the agent encounters a task, it scans the available skill names+descriptions and decides which (if any) is relevant. If yes, it loads the full skill content into context for that specific task. If no, no extra cost.
 

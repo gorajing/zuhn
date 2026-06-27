@@ -59,12 +59,12 @@ related:
   - INS-260325-59D4
   - INS-260323-1176
   - INS-260327-80DC
-  - INS-260327-C4AD
   - INS-260327-3675
   - INS-260330-4D5C
   - INS-260330-9575
   - INS-260402-3A0D
   - INS-260403-76E9
   - INS-260403-7285
+  - INS-260403-6C88
 ---
 The dominant framing of AI governance treats international cooperation as desirable across many risks (fake-video election interference, cyber attacks, autonomous weapons, bioweapon synthesis) and failing mostly due to lack of coordination. Hinton offers a sharper framework: cooperation only happens where interests align, and interests align on exactly one AI risk — preventing AI takeover from humanity. Every other AI risk has misaligned interests: election interference benefits the attacker, cyber attacks benefit the attacker, autonomous weapons create competitive advantage for the adopter. Even bioweapon risk produces partial alignment (nobody wants global pandemic) but lower than takeover-prevention because terrorists benefit asymmetrically. The strategic implication: international AI safety architecture should focus cooperation efforts on takeover-prevention treaties (verifiable compute caps, agent-autonomy boundaries, infrastructure-access norms) because those are the ones that can succeed. Election interference, cyber, and autonomous weapons treaties are unlikely to hold because the aligned-interests condition is absent. This is not cynicism about cooperation — it is realism about which cooperation can actually persist through adversarial conditions.

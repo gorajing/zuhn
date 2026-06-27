@@ -1,15 +1,15 @@
 # Tag: error-handling
 
 - `INS-260410-14E5` Return denials as tool results so false positives cost a single retry instead of killing the session.
+- `INS-260320-7379` A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
+- `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
+- `INS-260320-69CD` A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
 - `INS-260410-38C8` The SWE-bench agent always requires absolute paths and only performs an edit when `old_str` matches exactly once — both choices eliminate entire classes of silent failure.
 - `INS-260410-E27A` Tool error responses are prompt-engineering surfaces — use them to teach agents correct usage, not just to report failure.
 - `INS-260627-79E3` Catch the guardrail violation and feed the agent a clear corrective message ('access denied, save here instead, provide a proper path') so it retries correctly rather than crashing the whole agentic process.
 - `INS-260605-35B4` Catch tool exceptions and return the error text to the agent as the tool response so it can self-correct, rather than letting the system crash.
 - `INS-260605-2627` When HTTP calls were cheap you just retried the whole request; when an agent step costs 15 minutes of compute and context, you must treat the error as an input and recover forward.
 - `INS-260605-2A69` Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
-- `INS-260320-7379` A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
-- `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
-- `INS-260320-69CD` A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
 - `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260627-F2AE` An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

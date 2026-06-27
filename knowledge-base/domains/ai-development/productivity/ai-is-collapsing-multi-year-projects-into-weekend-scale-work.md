@@ -55,9 +55,7 @@ related:
   - INS-260404-B18A
   - INS-260501-801C
   - INS-260410-84DA
-  - PRI-260406-6AE6
-  - INS-260412-7FF8
-  - INS-260501-5582
+  - INS-260627-9D9A
   - INS-260626-04B1
 ---
 Multiple anecdotes in this episode reinforce the pattern: Chamath finally built 'annotated.com' (a 15-year-old domain idea) plus a Chrome extension in one weekend. His 8090 team vibe-coded a new marketing site in a day and used auto-research to double click-through rates. Both hosts describe this as feeling 'like a simulation,' 'like a replicator from Star Trek,' and '100x bigger than the mobile+social wave.' The mechanism is that AI removes the sequencing and staging delays — the project management overhead — that normally accumulate between idea and shipped product. Concrete implication: if you have been sitting on project ideas for years, the cost of testing them has fallen by 100x, and founders should be clearing their backlog aggressively rather than prioritizing one bet at a time.

@@ -1,10 +1,10 @@
 # Tag: composability
 
+- `INS-260330-DE16` Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
 - `INS-260625-AB58` Build tiny single-purpose skills and compose them, rather than one mega-skill that does an entire workflow.
 - `INS-260514-EA9E` A 5-narrow-agent chain (news → researcher → career-page poller → scorer → resume writer) is more reliable than one general agent — narrow agents with single jobs chain better and are easier to debug.
 - `INS-260625-EDA3` Free-form text is fine when a human is the only reader, but the moment another system consumes the output it needs an agreed-upon shape — a contract.
 - `INS-260605-8409` Treat an agent as a publicly-routable HTTP service over a tolerant event stream, so Slack webhooks, web-form submissions, and third-party plugins all become events instead of requiring a bespoke connector concept.
-- `INS-260330-DE16` Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
 - `INS-260329-E015` Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
 - `INS-260329-FAE2` Layer simple, well-understood data structures together rather than inventing clever one-off solutions.
 - `INS-260329-AE09` Dictionaries are the most transferable data structure concept because key-value mapping appears at every level of the software stack.

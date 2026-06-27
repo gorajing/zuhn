@@ -50,10 +50,10 @@ resolutions:
     in programming tools.
 related:
   - INS-260505-A9BC
+  - INS-260627-8056
   - INS-260410-1030
   - INS-260412-1A10
   - INS-260323-8897
-  - INS-260530-D34F
 stance: >-
   Once a developer's intent is determined, all remaining keystrokes to express
   that intent are zero-entropy actions that AI should eliminate via next...

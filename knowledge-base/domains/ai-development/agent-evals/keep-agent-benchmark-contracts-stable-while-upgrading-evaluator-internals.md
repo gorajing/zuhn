@@ -49,7 +49,7 @@ related:
   - INS-260605-27CC
   - INS-260605-2186
   - INS-260605-6444
-  - INS-260327-4CB3
+  - INS-260627-3D9A
 ---
 The benchmark fixes a JSON contract: task files specify inputs, schemas, constraints, metrics, and provenance; agents write structured solutions; evaluators emit feasibility, score, violations, and evidence. The paper then defines an evaluator maturity ladder from closed-form or graph surrogates through deterministic engineering models and simulator-backed checks.
 

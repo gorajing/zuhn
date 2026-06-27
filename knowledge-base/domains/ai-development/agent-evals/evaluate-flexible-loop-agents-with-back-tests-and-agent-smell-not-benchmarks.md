@@ -66,9 +66,9 @@ related:
   - INS-260605-CF2E
   - INS-260605-0819
   - INS-260605-159E
-  - INS-260605-AFCF
   - INS-260625-36DF
   - INS-260626-715B
+  - INS-260605-A2AD
 ---
 Zoneraich is blunt that 'benchmarks are pretty useless' — they've become marketing, and every model somehow beats them. The simple-loop architecture he advocates is harder to eval precisely because it leans on model flexibility, so there's no fixed path to assert against. His mental model offers three options in order of preference: end-to-end integration tests ('does it fix the problem?'), point-in-time tests (inject a half-finished conversation where you know a specific tool call should fire), and — most recommended — back-tests: start capturing historical data now and simply re-run it.
 

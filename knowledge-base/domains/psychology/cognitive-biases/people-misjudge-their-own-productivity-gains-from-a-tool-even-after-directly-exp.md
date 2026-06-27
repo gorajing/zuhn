@@ -62,6 +62,8 @@ related:
   - INS-260625-0CAB
   - INS-260627-F1B4
   - INS-260627-110A
+  - INS-260627-E4F9
+  - INS-260627-647D
 ---
 The most striking psychological result is the gap between perception and measurement. Even after completing the study, participants believed AI had sped them up by ~20%, while the data showed a 19% slowdown—a roughly 40-point error in self-assessment about their own recent, directly-experienced work. This is not naive forecasting (predicting an uncertain future) but a failure of retrospective metacognition about events they personally lived through.
 

@@ -50,10 +50,10 @@ stance: >-
   inherently unhackable because no one claims they measure more than they do.
 related:
   - INS-260402-AD42
+  - INS-260627-8392
   - INS-260605-824F
   - INS-260626-F6DA
   - INS-260410-010F
-  - INS-260605-8E69
   - INS-260410-5871
   - INS-260625-B6E8
 evidence:

@@ -51,6 +51,6 @@ related:
   - INS-260514-4436
   - INS-260605-C223
   - INS-260603-A506
-  - INS-260327-2C5F
+  - INS-260627-90A8
 ---
 A second failure mode is the AI being too verbose, as if you're talking at cross-purposes using different languages. Pocock maps this onto the classic developer/domain-expert language gap and reaches for domain-driven design's ubiquitous language: a single domain model from which code, developer conversations, and expert conversations are all derived. Concretely it's a markdown file of agreed terms, kept aligned with what they actually mean and used consistently in code, in discussion, and when talking to the AI. His ubiquitous-language skill scans the codebase, extracts terminology, and generates the glossary tables; he keeps it open while planning. Reading the AI's thinking traces, he found it not only improved planning but let the AI think less verbosely and produce implementations more aligned with the plan — establishing shared vocabulary is a concrete, reusable lever for AI alignment.

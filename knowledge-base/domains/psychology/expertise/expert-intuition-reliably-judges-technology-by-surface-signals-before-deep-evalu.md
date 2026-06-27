@@ -56,7 +56,6 @@ related:
   - PRI-260406-F95C
   - INS-260404-0095
   - INS-260404-4541
-  - INS-260626-7133
 evidence:
   - id: INS-260330-CA97
     type: CHALLENGES

@@ -1,6 +1,7 @@
 # Tag: tool-design
 
 - `INS-260514-1D60` Agents prefer bash over typed tools — even when read/write/edit exist, they route through bash. Make bash safe and useful instead of building tools the model won't choose.
+- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
 - `INS-260627-C940` The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
@@ -28,7 +29,6 @@
 - `INS-260410-9D86` Invest as much effort in agent-computer interfaces as you would in human-computer interfaces — clear tool descriptions, example usage, poka-yoke constraints, and formats close to natural training data all compound into reliability.
 
 - `INS-260605-2A69` Efficiency is useless if the agent gets stuck — design error messages so the agent can fix itself.
-- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260626-BC79` GitHub pushed tool success rates above 95% by encoding agent intent into the tool surface — making five API calls server-side inside one tool instead of forcing the agent to chain them.
 - `INS-260626-A5CB` Cloudflare turned 2,600 API endpoints (1.2M tokens if exposed as tools) into two tools — search and execute, both taking code as input — for a ~99.9% token reduction to ~1,000 tokens.
@@ -39,6 +39,7 @@
 - `INS-260409-9851` Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260627-DC30` If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
 - `INS-260410-5D71` Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
+- `INS-260627-6E58` Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - `INS-260605-82BC` A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.

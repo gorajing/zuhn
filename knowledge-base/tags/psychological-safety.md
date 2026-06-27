@@ -1,5 +1,6 @@
 # Tag: psychological-safety
 
+- `INS-260627-DA32` A '100% AI adoption' mandate just teaches engineers to game the metric ('I'll update my readme every morning and be compliant') without moving any real outcome.
 - `INS-260403-5C89` Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
 - `INS-260403-E21C` Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-9120` Frame early stakeholder conversations as informal information-seeking, not persuasion attempts, to get honest intelligence.

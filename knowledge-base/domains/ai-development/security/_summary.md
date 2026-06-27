@@ -1,6 +1,6 @@
 # Topic: security
 
-> 21 insights
+> 22 insights
 
 - `INS-260627-3E71` [high] Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution.
 - `INS-260627-1224` [high] The four pillars are: the agent must know who the user is, call APIs on the user's behalf, request the user's confirmation for risky actions, and access only finely-scoped resources.
@@ -8,6 +8,7 @@
 - `INS-260627-109F` [high] When AI makes producing plausible work cheap but verifying it stays expensive and human, the bottleneck — and the attack surface — shifts entirely to the reviewer.
 - `INS-260627-89F2` [high] Strip away the AI framing and you are running untrusted code from the internet with your own credentials, file system, and network access.
 - `INS-260627-08E7` [high] Intercept the tool call before it executes, validate the sensitive arguments with deterministic logic, and refuse invocation if they violate your constraints.
+- `INS-260627-1C20` [high] AI browsers sit in a 'lethal trifecta' (private data + untrusted content + external communication); since tag-wrapping and role separation only mitigate prompt injection, the durable defense is a plain-text user-confirmation step before any irreversible action.
 - `INS-260627-1970` [high] Wrong code from an honest model — infinite loops, nonexistent imports, missing base cases — can take down production, so the baseline threat requires protection before you even consider attackers.
 - `INS-260627-9478` [high] Don't pass API keys into the sandbox as env vars; have the sandbox call a proxy endpoint in your own code that injects the real key, so the secret never enters the untrusted environment.
 - `INS-260627-BEEB` [high] Apply PII masking with buffer management early in the pipeline so credit card numbers, passwords, and personal data never hit the LLM's memory banks or cloud endpoint.

@@ -53,10 +53,10 @@ stance: >-
   defensibility of products whose value was assembling that stack.
 related:
   - INS-260522-B95E
+  - INS-260627-FBF3
   - INS-260625-BD36
   - INS-260525-9B7B
   - INS-260501-10A0
-  - INS-260403-F0AA
 ---
 Bailey live-builds an app from a voice prompt: photograph a bookshelf, extract titles and authors from spines, enrich them via Google Search grounding, require Google login, persist per-user to a database, and deploy to Cloud Run with one click. She remarks that this 'in theory would have been a startup, you know, 3-4 years ago.' The builder (comparable to v0.dev or Lovable) now bundles database, OAuth, and secure key management.
 

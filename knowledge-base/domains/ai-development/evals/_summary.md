@@ -1,8 +1,9 @@
 # Topic: evals
 
-> 8 insights
+> 9 insights
 
 - `INS-260627-D28C` [high] Have the judge classify into a text label (e.g. friendly/robotic) and map that label to a score afterward, because LLMs are unreliable at producing numbers directly.
+- `INS-260627-DE41` [high] Treat a benchmark as a continuously-updated stream of post-cutoff problems, not a frozen set, so you can both measure and combat contamination while recalibrating difficulty as models improve.
 - `INS-260626-484B` [high] For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
 - `INS-260627-6F3F` [high] The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
 - `INS-260627-D9CE` [high] METR converts task difficulty into the human time-to-complete at which a model succeeds 50% of the time, yielding a remarkably straight exponential trend (doubling every 6-7 months).

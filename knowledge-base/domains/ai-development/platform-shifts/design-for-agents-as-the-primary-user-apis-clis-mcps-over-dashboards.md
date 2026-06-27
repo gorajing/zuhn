@@ -52,7 +52,6 @@ stance: >-
   As agents become the majority of product traffic, your APIs, CLIs, and MCPs
   matter more than your human-facing dashboards and custom UI.
 related:
-  - INS-260323-9492
   - INS-260323-99E0
   - INS-260404-769B
   - INS-260514-E860

@@ -45,14 +45,13 @@ stance: >-
   functional improvement cycles because the primary utility is social signaling,
   not technology
 related:
-  - INS-260325-DA83
   - INS-260330-EFFB
   - INS-260403-D227
   - INS-260330-C0E2
+  - INS-260325-DA83
   - INS-260330-D808
   - INS-260403-641F
   - INS-260412-10FD
-  - INS-260626-4216
 evidence:
   - id: INS-260325-DA83
     type: SUPPORTS

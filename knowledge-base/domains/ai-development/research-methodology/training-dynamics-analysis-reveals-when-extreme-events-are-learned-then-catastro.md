@@ -62,7 +62,6 @@ related:
   - INS-260505-5510
   - INS-260404-8EFB
   - INS-260505-4EB7
-  - INS-260605-9CE2
 ---
 Laura Howell's training-dynamics study: instead of evaluating the final trained model, evaluate snapshots at every training checkpoint. Run a specific extreme weather event (hurricane, atmospheric river, etc.) through each snapshot. Pattern observed: the event is learned, then well-predicted for many checkpoints, then suddenly unlearned and never recovered. About 1/3 of extreme weather events show this 'learn-then-unlearn' pattern. The final model misses them, but a checkpoint a few hundred thousand steps earlier had them right. This phenomenon is invisible if you only look at final-model performance. It generalizes: the broader ML community is increasingly studying training dynamics rather than treating training as a black box that produces a final model.
 

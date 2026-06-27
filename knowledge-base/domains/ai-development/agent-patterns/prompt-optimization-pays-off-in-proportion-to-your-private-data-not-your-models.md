@@ -52,7 +52,6 @@ stance: >-
   a state-of-the-art model.
 related:
   - INS-260405-2B3F
-  - INS-260514-5AEF
   - INS-260605-58DA
   - INS-260605-B405
   - INS-260505-ABCC

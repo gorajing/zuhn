@@ -54,7 +54,6 @@ stance: >-
   reusable, declarative workflow — not from hoping the next run repeats the good
   day.
 related:
-  - INS-260605-E145
   - INS-260625-9721
   - INS-260627-3963
   - INS-260530-E697

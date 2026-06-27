@@ -3,10 +3,13 @@
 - `INS-260409-8DDA` Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
+- `INS-260627-29D9` Production agents moved through the pilot phase faster than expected, so the live constraint is now the human side — enablement, sandboxes, and reduced resistance — not the technology.
 - `INS-260626-9A47` When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
 - `INS-260410-9CF4` Just as Lean transformed factories by rewiring end-to-end processes, AI in knowledge work requires management teams to redesign workflows — the hard bottleneck is organizational, not technical.
+- `INS-260627-647D` Bottom performers weren't even measuring speed and only 10% measured productivity; top performers build a holistic chain from inputs (tool spend, upskilling) through outputs (velocity, developer NPS, code resilience) to economic outcomes (time-to-revenue, cost per pod).
 - `INS-260403-BBCF` McKinsey's 2025 State of AI shows the gap between AI leaders and laggards is driven by operational redesign willingness, not technology access.
 - `INS-260605-7747` Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
+- `INS-260627-DA32` A '100% AI adoption' mandate just teaches engineers to game the metric ('I'll update my readme every morning and be compliant') without moving any real outcome.
 - `INS-260627-5BE1` If your org resisted API-first platforms, proper docs, or local-friendly tooling on other priorities, use AI — which everyone from executives to ICs is now watching — as the justification to implement them.
 - `INS-260321-1749` Fortune 500 CEOs universally say they want to become AI companies, but actual deployment lags because change management across large organizations is fundamentally harder than deploying the technology itself.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.

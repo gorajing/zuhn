@@ -61,7 +61,7 @@ related:
   - INS-260403-E209
   - INS-260321-1A84
   - PRI-260406-4E6C
-  - PRI-260407-1D23
+  - INS-260627-453E
 ---
 Tan's mental model: by default Claude Code uses Opus 4.6 — 'the ADHD CEO. He's the guy you want to get a beer with and he's got a billion ideas.' That's right for ideation, exploration, structuring options, broad architectural thinking. But 'when the going gets tough, you got to call in your autistic CTO and that's Codex' — for grinding through complex bugs, edge cases, implementation correctness. The two models have genuinely different strength profiles.
 

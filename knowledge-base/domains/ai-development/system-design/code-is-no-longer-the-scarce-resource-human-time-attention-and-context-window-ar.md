@@ -63,8 +63,8 @@ related:
   - INS-260405-A5C8
   - INS-260514-CEEA
   - INS-260519-D007
-  - INS-260501-15D5
-  - INS-260423-E12B
+  - INS-260627-6F57
+  - INS-260627-9D9A
 ---
 Lopopolo's framing of the post-2025 software engineering economics: implementation used to be the scarce resource that determined what a team could ship. In late 2025, GPT-5.2 reached capability where models produce code at quality isomorphic to human engineers. Code is now free — produce, refactor, delete at near-zero marginal cost. The scarce resources are: (1) human time required to direct the work, (2) human and model attention required to evaluate work, (3) model context window required to load relevant context. P3 tickets that previously never shipped now ship immediately because the human cost of writing them is gone — only the human cost of approving them remains.
 

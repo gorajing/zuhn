@@ -51,11 +51,11 @@ stance: >-
   For grounding against a small, known set of documents, injecting URLs into the
   context window obsoletes standing up a vector database.
 related:
+  - INS-260627-C258
   - INS-260320-0511
   - INS-260409-3230
   - PRI-260411-9CB1
   - INS-260625-B09C
-  - INS-260625-E292
 ---
 Bailey demonstrates URL context — pasting in a handful of URLs (e.g. blog posts published after the model's training cutoff) and having the model read them into its context window, then answer with inline citations to each source. She explicitly calls this 'poor man's retrieval' and notes Vertex offers internal-document retrieval 'without necessarily having to set up a vector database.'
 

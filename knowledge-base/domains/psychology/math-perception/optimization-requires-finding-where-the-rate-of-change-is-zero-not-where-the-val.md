@@ -56,7 +56,6 @@ related:
   - INS-260329-8015
   - INS-260321-2D72
   - PRI-260320-A2C7
-  - INS-260329-BC6C
 evidence:
   - id: INS-260329-BC6C
     type: TRANSFERS_TO

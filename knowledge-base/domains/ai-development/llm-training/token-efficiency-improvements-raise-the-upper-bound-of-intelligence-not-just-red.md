@@ -52,10 +52,10 @@ stance: >-
   finite and a 2x efficiency gain effectively doubles available data.
 related:
   - INS-260403-34C0
+  - INS-260627-3D9A
   - INS-260625-50A0
   - INS-260330-A660
   - INS-260625-8792
-  - PRI-260407-7FB7
   - INS-260405-DA33
   - INS-260409-AEF3
   - INS-260410-5088

@@ -1,6 +1,6 @@
 # Topic: prompting
 
-> 36 insights
+> 37 insights
 
 - `INS-260605-705B` [high] Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260410-AB4A` [high] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
@@ -37,4 +37,5 @@
 - `INS-260627-E8B8` [medium] How structured inputs/outputs are serialized into the prompt is a swappable lever that measurably affects accuracy and token cost.
 - `INS-260626-A928` [medium] Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.
 - `INS-260627-54A4` [medium] These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up.
+- `INS-260627-8530` [medium] GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - `INS-260627-335A` [medium] Two seed-prompt families were tried — one with the agent's full policy copy-pasted in, one without — and the policy-free seed optimized better, because starting with the complete policy locks you into a local minimum you can't improve on.

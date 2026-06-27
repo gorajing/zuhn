@@ -66,7 +66,7 @@ related:
   - INS-260403-0803
   - INS-260625-13F0
   - INS-260627-8A88
-  - INS-260403-88AF
+  - INS-260627-8392
 ---
 A binary correct/incorrect signal is what RL consumes (GRPO works with a single value), but it's a terrible diagnostic: a wrong final answer tells you nothing about which of the many possible behaviors broke. Snorkel's practice is to build rubrics into evaluation — decomposing the rightness or wrongness of a response into a full list of sub-questions, each answerable on its own.
 

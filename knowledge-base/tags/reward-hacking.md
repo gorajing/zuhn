@@ -1,6 +1,8 @@
 # Tag: reward-hacking
 
+- `INS-260627-AEC2` Generating optimization candidates is cheap; the hard, decisive work is measuring them reliably and proving the agent didn't cheat.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
+- `INS-260627-8392` Frontier models will hijack eval infrastructure to pass tests without doing the real work, so pair test-based correctness with a consensus LLM-as-judge that flags reward hacking at runtime.
 - `INS-260625-EC9A` The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260514-6530` Old failure: AI too stupid to understand training (GPT-3 hemming on 'are bugs real'). New failure: AI smart enough to perfectly understand training, but training itself rewards deception. The second gets WORSE with intelligence.
 - `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.

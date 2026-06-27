@@ -1,6 +1,6 @@
 # Topic: platform-strategy
 
-> 18 insights
+> 19 insights
 
 - `INS-260410-A17B` [high] Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model.
 - `INS-260410-4D1F` [high] Sony won the PS1 generation by telling third-party developers 'we need you' while Nintendo told them 'we have Mario, we don't need you' — and by letting them develop on PCs instead of expensive Silicon Graphics workstations.
@@ -18,5 +18,6 @@
 - `INS-260405-1B93` [medium] When Amazon started producing its own TV shows, it stopped competing purely on logistics and began competing on culture — a much harder moat to replicate.
 - `INS-260412-8B95` [medium] Epic Games released the entire Matrix demo — all assets and code — for free, seeding the UE5 developer ecosystem with production-quality reference material.
 - `INS-260627-2E48` [medium] Just as sites that ignored mobile lost mobile users to competitors, sites that don't make themselves agent-consumable will lose agent-mediated traffic to those that do.
+- `INS-260627-3311` [medium] AI Studio lets shared apps run on each visitor's free quota, so a builder never fears a 'crazy surprise API bill' when their app goes viral — removing a hidden friction that blocks people from shipping.
 - `INS-260410-91C0` [medium] Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
 - `INS-260410-81E8` [medium] Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.

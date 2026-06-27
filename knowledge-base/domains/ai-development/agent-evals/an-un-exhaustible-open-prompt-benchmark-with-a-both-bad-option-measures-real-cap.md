@@ -63,9 +63,9 @@ related:
   - INS-260605-355C
   - INS-260605-3ABF
   - INS-260410-0DA5
+  - INS-260627-DE41
   - INS-260625-C69F
   - PRI-260321-AD44
-  - INS-260625-1187
 ---
 Gostev makes the design case for Arena's mechanic: users submit any prompt and pick the better of two anonymous responses — or mark both bad. Three properties make this a stronger measure than typical benchmarks. First, breadth: real prompts span the fuzzy whole of what users want, where any static benchmark necessarily condenses to a narrow, well-specified slice. Second, an absolute-quality signal: the 'both bad' option captures dissatisfaction, not just which model won, so you learn when the frontier itself is failing. Third, non-exhaustion: there's always a response better than the current best, so the benchmark can't be saturated or gamed the way percentage benchmarks are.
 

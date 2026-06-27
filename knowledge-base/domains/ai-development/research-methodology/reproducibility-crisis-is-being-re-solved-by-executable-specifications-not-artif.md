@@ -52,10 +52,9 @@ stance: >-
   can interpret and reproduce, which combines computational reliability with
   human-readability.
 related:
-  - INS-260320-6F8E
   - INS-260329-85E9
-  - INS-260330-202A
   - INS-260409-C1B2
+  - INS-260320-6F8E
   - PRI-260403-5B3D
   - INS-260330-F5A1
   - INS-260514-1470

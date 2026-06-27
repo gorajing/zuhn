@@ -50,7 +50,6 @@ stance: >-
   Reading what an agent actually did at runtime, before building any evals,
   surfaces most of what you need to improve it.
 related:
-  - INS-260605-310E
   - INS-260625-1830
   - INS-260626-B149
   - INS-260605-6444

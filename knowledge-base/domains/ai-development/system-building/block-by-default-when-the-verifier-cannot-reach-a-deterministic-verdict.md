@@ -46,10 +46,10 @@ stance: >-
   instead of treating verifier uncertainty as permission.
 related:
   - INS-260626-A645
+  - INS-260627-8392
   - INS-260605-4D1D
   - INS-260603-6B3D
   - INS-260524-78D0
-  - INS-260625-DF35
 ---
 The safety-filter approves only when the AST screen and simulation trace produce a deterministic within-bounds result. Unknown devices, unmapped operations, simulation failures, and sensitive operations are routed to manual review or denied.
 

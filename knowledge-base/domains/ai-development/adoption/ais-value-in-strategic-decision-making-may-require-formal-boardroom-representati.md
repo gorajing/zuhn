@@ -53,6 +53,7 @@ stance: >-
   level, not just the operational level.
 related:
   - INS-260402-543E
+  - INS-260627-CCC6
   - INS-260403-B198
   - INS-260330-7B1C
   - INS-260405-4803

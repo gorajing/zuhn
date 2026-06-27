@@ -71,8 +71,8 @@ related:
   - PRI-260328-F723
   - INS-260413-AD37
   - INS-260627-D9CE
+  - INS-260627-6C1E
   - INS-260627-BBD1
-  - PRI-260328-9E3F
 ---
 Brennan repeatedly pushes back on the instinct to fully automate. The stated goal is 'something like 90% automation' — and he frames that as still an order-of-magnitude productivity gain, so the marginal cost of closing the last 10% is rarely worth it. Crucially, the human-in-the-loop is not just a final gate on the collated result; you must review the intermediate output of each individual agent. The reason orchestrated tasks resist full automation is partly technical (limited context, the 'laziness problem' where an agent migrates 3 of 100 services and quits, compounding errors, missing domain intuition) and partly human (the engineer holds a mental model of how a migration should go that they cannot fully convey, and there is no crisp definition of 'done').
 

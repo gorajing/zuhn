@@ -56,12 +56,12 @@ related:
   - INS-260320-8632
   - INS-260325-DFC7
   - INS-260329-04CB
-  - INS-260330-7241
   - INS-260403-A521
   - INS-260403-3FAE
   - INS-260410-2DB5
   - INS-260410-54CB
   - INS-260413-3AB5
   - INS-260514-AE3E
+  - INS-260404-D6F7
 ---
 The job-displacement framing focuses on tech companies where AI-coding tools shrink engineering demand. This myopic frame misses that tech is a small fraction of the economy. The other 85 percent of GDP (manufacturing, agriculture, healthcare, finance, energy, logistics) historically could not access tech-company-grade engineering because the talent supply was captured by FAANG companies offering higher compensation. AI-coding tools expand the effective engineering talent supply because existing engineers become 5-10x more productive, which enables expansion into previously-unserved domains. The practical career implication: CS graduates in 2026 should not assume Google or Meta is the default destination; John Deere, Caterpillar, and Eli Lilly increasingly have credible engineering opportunities with interesting problems like pharmaceutical research automation, agricultural equipment intelligence, and supply chain optimization. The aggregate demand story: total engineering employment likely grows substantially as AI enables the non-tech 85 percent of the economy to automate at rates previously reserved for tech. Displacement is real at the company level but reversed at the economy level.

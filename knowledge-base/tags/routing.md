@@ -3,10 +3,10 @@
 - `INS-260625-D842` Detection does not count unless it changes the gate outcome.
 - `INS-260627-8213` For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
 - `INS-260627-6984` Before building a router, measure the all-models-wrong rate and certify whether any selector has enough headroom to matter.
+- `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260627-9121` Do not add weaker models for diversity unless their quality is close enough that their different failures can actually help.
 - `INS-260605-90E5` A skill replaces the hand-built router-and-specialist-workflow stack by letting a single agent progressively acquire the context to solve cross-domain requests.
 - `INS-260411-6106` Write sub-agent descriptions with the same precision as API documentation — they are the routing signal for LLM-driven delegation.
-- `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260627-F805` A model router should optimize quality per constrained resource, not simply call the highest-ranked model more often.
 - `INS-260625-E810` MOEs are great for serving but standard fine-tuning hyperparameters often fail on them because the router interacts badly with distribution shift.
 - `INS-260626-9141` The paper's routing ablations find explicit planning and moderate fusion helpful, while extra reflection does not add gains over planning.

@@ -57,7 +57,6 @@ stance: >-
   For capable multi-tool agents, evals are insufficient and production
   monitoring should be the primary reliability mechanism.
 related:
-  - INS-260410-36E3
   - INS-260605-278E
   - INS-260603-6FE3
   - PRI-260328-A82C

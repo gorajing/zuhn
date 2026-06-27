@@ -56,7 +56,6 @@ stance: >-
   engineering time on a router.
 related:
   - INS-260329-C7B8
-  - INS-260410-E3BB
   - INS-260410-ED34
   - INS-260625-E810
   - INS-260627-8213

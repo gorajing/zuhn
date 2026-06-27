@@ -69,9 +69,9 @@ related:
   - INS-260403-03BD
   - INS-260404-DF95
   - INS-260605-2793
+  - INS-260627-8056
   - INS-260605-2D9B
   - INS-260605-CE19
-  - PRI-260405-9A14
 ---
 Zechner's prescription inverts the productivity framing of AI coding. The goal is not to maximize generated tokens but to preserve the human's understanding of the system. For non-critical or boring work, 'five slop ahead' — let the agent rip. But for critical code, read every line; and for anything important, write it by hand. You can use an agent to help, but don't let it make the decisions, because all the decisions it makes are learned from the internet's garbage. The friction of writing it yourself is not waste — it 'builds the understanding of the system in your head,' and it is also where you learn new things.
 

@@ -57,14 +57,13 @@ stance: >-
   of AI-coded apps because there hasn't been enough time for the coupling and
   complexity to accumulate, and we don't know how that will go.
 related:
-  - INS-260329-B4E7
   - INS-260329-7914
   - INS-260329-5ECD
   - INS-260501-4903
   - INS-260501-52B5
+  - INS-260627-F193
   - INS-260404-D6F7
   - INS-260329-7B1D
-  - INS-260403-643A
   - INS-260605-E174
 ---
 Reflection from 8 years of maintaining one team's platform at Atlassian: 'Building something is easy. Changing it and making sure that you can still change it over time is difficult. Because as you change things, it slowly becomes harder to change. Things start to get coupled, and all of a sudden when you change something in one area, it affects another, and you have to deal with the task of detangling.' The open question for the AI era: 'It'll be interesting with all these vibe-coded apps and AI-assisted apps to see how we handle that. When we have people that are not really familiar with what they've created, and the maintenance burdens appear.' The optimist's case: maybe LLMs will be able to perform the detangling for us when we ask them to. The skeptic's case: maintenance requires understanding the WHY of past decisions, which is not encoded in the code — and an LLM that didn't write the code may struggle to reconstruct intent. The empirical answer is coming in 18-36 months as the first wave of vibe-coded production apps reaches the age where coupling matters. The practical implication today: invest in retrievable design documents and decision records alongside vibe-coded apps, NOT just clean code — the maintenance bottleneck will be intent recovery, not code legibility.

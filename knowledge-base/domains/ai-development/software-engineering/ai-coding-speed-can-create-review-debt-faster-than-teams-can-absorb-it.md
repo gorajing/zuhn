@@ -44,6 +44,6 @@ related:
   - INS-260603-73D5
   - INS-260627-765B
   - INS-260320-1B10
-  - INS-260627-F578
+  - INS-260627-1EF5
 ---
 GitLab reports that the AI-coding shift has moved work downstream to review, security, compliance, and deployment. The important contradiction is not that AI coding fails; it is that faster generation can flood the rest of the software lifecycle. This should lower confidence in claims that the technical barrier collapses broadly once non-engineers can generate code. The better model is that AI reduces implementation friction while raising the premium on validation infrastructure, test design, secure review, release management, and long-term maintainability.

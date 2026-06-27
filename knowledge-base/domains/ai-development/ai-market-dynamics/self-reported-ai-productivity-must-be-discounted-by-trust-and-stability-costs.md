@@ -50,10 +50,10 @@ stance: >-
   paired with trust, review burden, and delivery-stability outcomes.
 related:
   - INS-260329-9D26
-  - INS-260403-F0EE
   - INS-260405-95A6
+  - INS-260627-DD22
   - INS-260404-56AC
-  - INS-260330-AA9D
+  - INS-260403-F0EE
 ---
 Google Cloud's summary says 90% of respondents use AI at work and more than 80% believe it increased their productivity, but 30% still report little or no trust in AI-generated code and DORA continues to find a negative relationship with delivery stability. That combination is a warning against treating adoption and self-reported speed as sufficient proof of real software-output gains.
 

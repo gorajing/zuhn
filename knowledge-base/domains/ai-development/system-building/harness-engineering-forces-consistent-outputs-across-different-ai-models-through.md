@@ -51,7 +51,6 @@ stance: >-
   force Claude, Codex, and Gemini to produce nearly identical outputs, making
   the specific AI model choice irrelevant to result quality.
 related:
-  - INS-260320-2DDE
   - INS-260320-EA19
   - PRI-260320-C14C
   - PRI-260328-B4BD

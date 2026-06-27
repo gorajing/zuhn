@@ -49,10 +49,10 @@ stance: >-
   and volatile per-run trajectory evidence.
 related:
   - INS-260327-35C7
+  - INS-260627-C258
   - INS-260625-4AB6
   - INS-260605-014F
   - INS-260625-0A79
-  - INS-260522-2CE8
 ---
 NOVA initializes from production code, source documents, and a static knowledge base of historical evidence, then updates a separate trajectory memory during the current run with modifications, diagnostics, failures, and metric feedback. The distinction matters because stable priors and run-local evidence have different lifetimes and trust boundaries.
 

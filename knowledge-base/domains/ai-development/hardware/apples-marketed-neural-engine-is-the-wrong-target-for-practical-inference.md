@@ -56,8 +56,8 @@ related:
   - INS-260514-817B
   - INS-260328-92BC
   - INS-260424-123B
+  - INS-260627-F193
   - INS-260410-4D1F
-  - INS-260412-6FB6
 ---
 A common confusion: developers see Apple promote the Neural Engine yet observe its utilization sitting at zero during inference. The reason is architectural — MLX targets the GPU, and the only way to actually use the Neural Engine is through Core ML, which Canuma describes as not running well and not being an easy developer experience due to private-API issues. The headline accelerator is effectively stranded for general-purpose LLM/VLM work.
 

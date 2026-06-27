@@ -44,7 +44,6 @@ stance: >-
   The main function of a startup's first version is to serve as a vehicle for
   experimenting with its own design, not to be production-ready.
 related:
-  - INS-260321-0CCD
   - INS-260519-D007
   - INS-260514-CEEA
   - PRI-260407-590E

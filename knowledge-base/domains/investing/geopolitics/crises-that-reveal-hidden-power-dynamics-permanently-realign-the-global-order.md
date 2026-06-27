@@ -49,10 +49,10 @@ stance: >-
   that maintained the old order.
 related:
   - INS-260403-6428
+  - INS-260627-C258
   - INS-260323-1871
   - INS-260412-E4F5
   - INS-260412-24DB
-  - INS-260423-31A1
   - INS-260625-D842
 evidence:
   - id: INS-260323-1871

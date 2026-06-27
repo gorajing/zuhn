@@ -55,8 +55,8 @@ related:
   - INS-260625-25BF
   - INS-260625-35C5
   - INS-260626-8116
+  - INS-260627-2925
   - INS-260626-909D
-  - INS-260403-5F41
 ---
 Löber contrasts two architectures for a NotebookLM clone: a workflow where the pipeline is hardcoded versus an agent where a reasoning model decides what to create. In the agentic version, Gemini sits as the 'brain', is given tool/function declarations (generate_image, generate_speech), and reasons in a loop about which concepts are complex enough to need a diagram and which sections would benefit from audio — then decides whether the generated assets are sufficient or more are needed.
 

@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260329-FCD3
   - INS-260329-CB03
+  - INS-260627-F193
   - INS-260403-7ED5
   - INS-260403-E2FB
   - INS-260505-E5CC
-  - INS-260329-F969
 ---
 The 2024-2025 mental model treated AI capability as the binding constraint and prompt engineering as the human's bridge to that capability. Brockman's reframe: by April 2026, the binding constraint has shifted to context. The model is capable enough; what's missing is its access to what the user is already doing, what was said in the last meeting, what's in the relevant document, what's been worked on the past hour. OpenAI's response is Chronicle, a Codex-adjacent tool that observes user activity and builds persistent context memory. The implication for AI product builders: stop optimizing for one-shot capability and start optimizing for continuous-context architecture. The tools that win the next two years will be the ones that ambient-record meaningful activity and pre-load it into AI invocations rather than asking the user to re-summarize. The implication for users: your AI productivity is gated by how much friction you tolerate in restating context. Investing in tools that capture context once and replay it many times has compounding returns; insisting on stateless prompting wastes attention every session.

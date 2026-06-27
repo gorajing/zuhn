@@ -54,7 +54,7 @@ related:
   - INS-260327-A59A
   - INS-260423-3459
   - INS-260327-4F3D
+  - INS-260627-6F57
   - PRI-260405-608A
-  - INS-260323-9A93
 ---
 The standard corporate comp structure prices marketers at $80-150k, assuming they produce linear output from direct execution. A marketer using Claude Code plus agent workflows produces roughly 10x that output (10 ad variations vs 1, 100 outreach emails vs 10, live dashboards vs weekly reports). The value-capture argument: if you do the work of 10 people, you deserve 3x the pay of one. This is obviously true in steady state, but organizations are slow to recalibrate. The immediate implication for individual marketers: document your throughput in specific terms (ads created, campaigns launched, pipeline generated per week), compare to team averages, and use that asymmetry as the basis for a renegotiation or a departure. For hiring managers: comp bands anchored on 2023 productivity assumptions will lose your best AI-native operators to competitors or to independent work within 12 months. The repricing of marketing labor is happening whether organizations recognize it or not.

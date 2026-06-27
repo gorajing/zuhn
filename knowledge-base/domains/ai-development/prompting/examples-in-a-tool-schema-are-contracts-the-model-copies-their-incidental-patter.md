@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260322-F891
   - INS-260625-E1CB
+  - INS-260627-F193
   - INS-260605-1FD9
   - INS-260323-A5EC
-  - INS-260321-E9B7
 ---
 Examples are a double-edged sword for tool design. They are extremely effective at showing an agent how to use a tool — but the model treats the example as a contract and reproduces far more than its format. It copies incidental, unstated properties: the number of elements in an array, the shape of the values, the implicit cardinality. Lowin debugged exactly this: an MCP tool that always returned two tags despite instructions demanding at least ten, because one example happened to contain two tags. The instruction lost to the example.
 

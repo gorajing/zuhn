@@ -51,11 +51,11 @@ stance: >-
   behavior is alien) and hire candidates who are bad at it (because they feel
   familiar).
 related:
+  - INS-260627-6F57
   - INS-260329-F51D
   - INS-260525-4D80
   - PRI-260405-91AD
   - INS-260327-89C7
-  - INS-260514-D155
   - INS-260330-3A7B
 evidence:
   - id: INS-260329-F063

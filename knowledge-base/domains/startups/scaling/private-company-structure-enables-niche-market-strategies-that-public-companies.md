@@ -53,7 +53,7 @@ related:
   - INS-260329-D1A1
   - PRI-260403-5DEA
   - PRI-260406-B87C
-  - INS-260410-0B28
+  - INS-260627-DAF7
 ---
 Sculley emphasized that Obi's ambitions were 'quite different than some of the large public companies' because Obi was private. They didn't need massive market share to build an attractive business — they just needed a viable slice of a high-growth market.
 

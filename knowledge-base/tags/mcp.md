@@ -5,10 +5,29 @@
 - `INS-260626-6F8E` Agent traces should record the scope that supplied each active capability: user, team, workspace, or run-local.
 - `INS-260626-7C7B` Zuhn should prefer search-before-install for skills and tools, with explicit approval before wiring anything in.
 - `INS-260625-E04B` MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
+- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
+- `INS-260605-1821` MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
+- `INS-260605-0A68` MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
+- `INS-260626-3ACC` Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
+- `INS-260627-DD09` Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
+- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
+- `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
+- `INS-260626-0D50` MCP inherits OAuth's assumption that apps don't trust each other, which directly contradicts the single-sign-on trust fabric enterprises already run.
+- `INS-260625-5CE4` srcdoc shares the host origin (scripts blocked by nonce-CSP, or if CSP is relaxed the app can read host localStorage/cookies); a sandboxed null-origin iframe loses storage APIs; adding allow-same-origin re-grants full host access — so one iframe can never both isolate and execute.
+- `INS-260625-07CB` ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.
+- `INS-260626-93C7` Cross-App Access uses the ID-JAG flow so the IDP, which both the MCP client and server already trust, mints a cross-app token the client exchanges for a normal access token — removing manual consent entirely.
+- `INS-260605-4860` MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
+- `INS-260625-3FBF` Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
+- `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
+- `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
+- `INS-260625-2439` MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
+- `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
+- `INS-260605-0C56` VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
 - `INS-260625-0A7D` MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260625-2D05` Exposing 2,600 API endpoints to an agent as generated-and-executed code costs ~1,000 tokens; exposing them as individual MCP tool definitions would be vastly more.
 - `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
+- `INS-260627-21D0` Distrust of AI code is 80% a context problem, not a model problem — and the right context includes standards, PR history, and org logs, not just the current branch.
 - `INS-260626-181F` Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
 - `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
@@ -28,24 +47,6 @@
 - `INS-260605-52E4` Local tools and remote tools should not share the same credential assumptions.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260605-B136` Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
-- `INS-260605-1821` MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
-- `INS-260605-0A68` MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
-- `INS-260626-3ACC` Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
-- `INS-260627-DD09` Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
-- `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
-- `INS-260605-7B06` Build generative UI on MCP apps rather than a bespoke renderer — they ship the double-iframe sandbox, authentication, tool calling, and UI-agent message passing you'd otherwise rebuild.
-- `INS-260626-0D50` MCP inherits OAuth's assumption that apps don't trust each other, which directly contradicts the single-sign-on trust fabric enterprises already run.
-- `INS-260625-5CE4` srcdoc shares the host origin (scripts blocked by nonce-CSP, or if CSP is relaxed the app can read host localStorage/cookies); a sandboxed null-origin iframe loses storage APIs; adding allow-same-origin re-grants full host access — so one iframe can never both isolate and execute.
-- `INS-260625-07CB` ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.
-- `INS-260626-93C7` Cross-App Access uses the ID-JAG flow so the IDP, which both the MCP client and server already trust, mints a cross-app token the client exchanges for a normal access token — removing manual consent entirely.
-- `INS-260605-4860` MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
-- `INS-260625-3FBF` Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
-- `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
-- `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
-- `INS-260625-2439` MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
-- `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
-- `INS-260605-0C56` VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
-- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260626-FEA0` Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns.
 - `INS-260626-57BA` Under XAA you log into the downstream app as yourself with your full existing permissions — the IDP brokers identity but does not attenuate scope, and scoped delegation is not in the spec.
 - `INS-260627-94E6` When dozens of teams each wire up their own connections, security, and infrastructure for AI agents, the fix is a central registry that catalogs every tool and agent — not stricter team-level discipline.

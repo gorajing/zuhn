@@ -62,12 +62,12 @@ related:
   - PRI-260320-07A4
   - INS-260327-F625
   - INS-260327-FDC1
-  - INS-260410-37D5
   - INS-260605-E303
   - INS-260605-0374
   - INS-260605-A2AD
   - INS-260605-C00C
   - INS-260627-85C7
+  - INS-260625-4DDB
 ---
 Allam argues that from first principles a durable agent has two halves that should be persisted by different mechanisms. The first is the context: system messages, user messages, tool calls, tool results, and assistant responses—everything that went in and out of the LLM. Because it is an append-only log, it can be made durable cheaply with any existing primitive (database, object storage, distributed filesystem) and scales well. The second is the execution layer: the machine the agent acts on—cloned repos, installed packages, in-memory datasets, dev servers, sandboxed subprocesses. This state cannot be reconstructed from a log and instead needs snapshot-and-restore.
 

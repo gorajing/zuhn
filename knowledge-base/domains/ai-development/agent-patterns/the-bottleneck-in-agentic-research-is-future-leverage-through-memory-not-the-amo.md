@@ -55,13 +55,13 @@ related:
   - INS-260321-18D0
   - INS-260327-DECA
   - INS-260403-7F89
-  - INS-260405-3B54
   - INS-260405-9285
   - INS-260409-F9D5
   - INS-260410-1A22
   - INS-260412-9657
   - INS-260605-9527
   - INS-260605-BAB5
+  - INS-260625-81E1
 ---
 With a bare coding agent, 'the context window becomes everything — the database, the file system, the memory, the reasoning space. It has to do it all, and when you stop the conversation, it loses everything.' Each new Codex/ChatGPT session forces you to re-paste links, PDFs, and prior work, and any structure the agent built on the fly is discarded. The presenters' key reframe: 'all this information you give to the model is not the bottleneck. The bottleneck is how can you leverage it in the future.'
 

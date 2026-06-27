@@ -67,7 +67,7 @@ related:
   - INS-260410-B501
   - INS-260605-15E9
   - INS-260625-A7C5
-  - INS-260625-D148
+  - INS-260627-8056
 ---
 Committing to 'support hundreds of models' sounds like a config problem but is actually an architecture problem. Models that look interchangeable from the API differ in at least five structurally incompatible ways: how flash attention is implemented, how positional embeddings work (BERT uses absolute lookup, Qwen uses rotary), how normalization is applied, whether query/key/value can be fused (Qwen's grouped-query attention blocks fusion that BERT allows), and what the model even outputs — ColBERT emits multiple vectors (late interaction), and cross-encoders/rerankers output scores rather than vectors at all. 
 

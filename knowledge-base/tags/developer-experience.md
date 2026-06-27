@@ -13,17 +13,21 @@
 - `INS-260605-2E27` Because the wrapped chat agent already handles the majority of tool calling on the backend, the voice layer can proxy to it and inherit every integration without touching tool-calling complexity.
 - `INS-260625-A996` One change propagating through UI → module1 → module2 → platform → production became seven separate re-explanations because each agent session was a blank slate.
 - `INS-260625-7A1A` Host a docs/skills page the agent pulls into context, and it will author the scraper itself instead of you maintaining a bespoke SDK.
+- `INS-260627-C559` Reactive async agents shift execution off the human but leave the monitoring load on them, capping the productivity gain.
 - `INS-260626-B04D` AgentRun evals should include effort metrics, detours, and environment revisions.
 - `INS-260605-4835` MLX deliberately runs on the GPU rather than the Neural Engine because reaching the Neural Engine requires Core ML, whose private-API friction makes it impractical for developers today.
+- `INS-260627-E4F9` In the METR study every engineer felt more productive using AI assistance, yet the data showed a 19% productivity decrease.
 - `INS-260605-63AE` Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
 - `INS-260627-E1BD` Agents can't walk to another floor or ping a teammate to unblock a deploy, so the human workarounds that hid bad platform design become impossible and expose every friction point.
 - `INS-260605-B794` When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow.
 - `INS-260626-C623` A gateway absorbs the five cross-cutting concerns (auth, authz, observability, secure connectivity, hosting) so each new MCP server only owns its business logic.
 - `INS-260627-102F` Prioritize DevEx investments that help humans and agents equally — they are guaranteed to pay off no matter how AI evolves.
 - `INS-260626-D7DC` Gemma reached 500M+ downloads and 100K+ derivative models by shipping day-one into Hugging Face transformers, llama.cpp, vLLM, Unsloth, and MLX — explicitly so developers never have to switch to a first-party framework like Keras to use it.
+- `INS-260627-66E3` Because humans are serial executors, the '16 agents in 16 terminals' model multiplies switching cost rather than throughput.
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260323-8555` Once a developer's intent is determined, all remaining keystrokes to express that intent are zero-entropy actions that AI should eliminate via next-action prediction.
 - `INS-260626-C59C` Your 'next billion users' are code-generating robots — they dream in types and syntax errors, so build markdown docs, actionable error messages, and search-based discoverability for them, not just human UIs.
+- `INS-260627-95C2` The AI Studio principle is that users shouldn't think about implementation details — say 'I want a multiplayer app' and the platform knows to wire up Express; say 'e-commerce' and it adds payments and storage automatically.
 - `INS-260626-7F76` GitHub built tool-sets, dynamic discovery, and a RAG tool-search to tame context bloat, but 'everyone used the default settings,' so the only fix that mattered was tightening the default itself.
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
@@ -37,13 +41,14 @@
 - `INS-260605-6F34` Turn your Electron front-end into a web shell so every PR gets a preview link and agents like Cursor can test and screenshot changes automatically.
 - `INS-260627-D692` Provide template GitHub repos with Docker, auth, cost tracking, and observability already wired in so developers start from production-ready scaffolding and only write the agent's actual value.
 - `INS-260329-B2F4` Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
-- `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
 - `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260410-84DA` Facebook's internal tooling — monolithic codebase with portable engineers, feature flags with auto-rollback, HipHop compiler, Hack language, real-time experimentation — produced a decade of shipping velocity that competitors could not replicate, and it exists because the company built for itself rather than buying off-the-shelf.
+- `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
+- `INS-260627-3311` AI Studio lets shared apps run on each visitor's free quota, so a builder never fears a 'crazy surprise API bill' when their app goes viral — removing a hidden friction that blocks people from shipping.
 - `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.
 - `INS-260403-912E` Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 - `INS-260403-D2B1` Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.

@@ -67,6 +67,6 @@ related:
   - INS-260327-3918
   - INS-260330-F2EB
   - INS-260403-6386
-  - INS-260404-B18A
+  - INS-260323-E559
 ---
 The engineering-leverage discourse in 2025 was about 10x productivity. The 2026 reality demonstrated by named examples is closer to 100-1000x for specific projects. Three concrete data points: Nathan from Zed completed a planned 3-year moonshot over a holiday break (single engineer, cloud code). Brett Taylor rebuilt Sierra over a weekend. Notion rewrote 8M lines of code in 6 weeks. These are not minor productivity gains; they are existence proofs that the prior estimates of project duration are obsolete by 1-2 orders of magnitude for the right kind of project. The strategic implication for product roadmaps: the projects you have been deferring as 'too big' need to be re-evaluated against the new feasibility frontier. The career implication for engineers: senior engineers who have not personally experienced 100x compressed-timeline work in 2026 should explicitly seek a project where they can attempt it; the discipline of designing-for-AI-execution is itself a high-leverage skill that develops through practice. The market implication for VCs and acquirers: the time-to-build assumption built into most pre-2026 valuation models is broken; companies can ship competitor-class products in fractions of the historical timeline, which compresses competitive cycles dramatically.

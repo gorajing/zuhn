@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 164 insights
+> 167 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -111,8 +111,10 @@
 - `INS-260626-3AD0` [medium] Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster.
 - `INS-260605-A7C1` [medium] Companies resisted sending data to ChatGPT because text reduced them to an anonymous database; sending their own UI restores identity and makes participation worthwhile.
 - `INS-260627-8CFF` [medium] Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year.
+- `INS-260627-00BE` [medium] Most coding agents are 'supervised autonomy' (Tesla FSD — you need a license and stay at the wheel); serving knowledge workers requires 'unsupervised autonomy' (Waymo — sit in the back, no license, all complexity hidden).
 - `INS-260625-76F5` [medium] Expose your product catalog and checkout as structured data (JSON, ACP) so agents transact deterministically instead of stumbling through forms.
 - `INS-260605-175E` [medium] The 'starfish' chatbox landing page sits there and makes the user do all the work, demanding they already hold the system's capabilities in their head — rich visual interfaces lower that discovery burden.
+- `INS-260627-51D0` [medium] Because code is now cheap, replace the memo-and-deck approval ritual with building a quick demo, which lowers activation energy enough to pursue weirder, riskier ideas.
 - `INS-260626-313E` [medium] Recursive names its category 'designless' by explicit analogy to 'fabless'—just as TSMC let companies stop owning fabrication, Recursive wants companies to stop owning chip design.
 - `INS-260626-A927` [medium] Flops get exponentially cheaper and compute is a homogeneous market you can simply buy, while data is fragmented, regulated, and negotiated case-by-case — so a model 1000x more data-efficient is roughly 1000x easier to deploy.
 - `INS-260421-60D9` [medium] Cognee pitches 'control plane for agent memory' — orchestration across stores — rather than 'a better memory store'; this positioning is harder to commodify than storage-layer differentiation.
@@ -131,6 +133,7 @@
 - `INS-260404-F38A` [medium] The defensible value in a custom GPT comes from the curated knowledge and structured workflow baked into it, not from the API connection itself.
 - `INS-260404-60A6` [medium] Vertical AI products trained on domain-specific and proprietary data create defensible positions against generalist LLMs.
 - `INS-260626-742C` [medium] Frontier model training is concentrated in few hands partly because of data centralization — labs buying out distressed bookstores and scouring rare libraries — so making models data-efficient is what would let more companies participate in the AI economy.
+- `INS-260627-95C2` [medium] The AI Studio principle is that users shouldn't think about implementation details — say 'I want a multiplayer app' and the platform knows to wire up Express; say 'e-commerce' and it adds payments and storage automatically.
 - `INS-260626-7EA8` [medium] ElevenLabs employs 1000+ voice coaches, musicians, and artists to annotate not just the 'what' of audio but the 'how' — emotion, voice description, music description — a deliberate bet that won't return value for 12-24 months.
 - `INS-260605-C122` [medium] Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
 - `INS-260409-7C48` [medium] Local-first (data stays on user devices, syncs via cloud) and home-cooked software (built for small communities by their own members) both prize user agency and ownership, but orchestration agents for barefoot developers will make most design decisions by default — so local-first tools need to be the path of least resistance, not an opt-in.

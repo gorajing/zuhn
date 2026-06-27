@@ -51,5 +51,6 @@ related:
   - INS-260410-9F17
   - INS-260405-6A6F
   - INS-260625-801B
+  - INS-260627-6C1E
 ---
 OpenAI's guide draws a bright line between conventional automation and agents: agents use an LLM to control workflow execution and recover from intermediate failures. The most suitable workflows are ones where conventional rules become unmaintainable, context-sensitive decisions matter, or the system must interpret unstructured data. For straightforward, stable workflows, the guide explicitly warns that deterministic solutions may be sufficient.

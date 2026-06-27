@@ -50,11 +50,11 @@ related:
   - INS-260627-BBD1
   - INS-260327-70DF
   - INS-260322-116B
+  - INS-260627-E660
   - INS-260323-F282
   - INS-260323-F540
   - INS-260327-F55A
   - INS-260327-A5CD
-  - INS-260329-461A
 stance: >-
   AI's strongest achievements (AlphaGo, AlphaFold) are in domains with
   verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate

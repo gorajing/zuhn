@@ -16,11 +16,11 @@
 - `INS-260605-BEA5` Snorkel scales quality by building rubrics used by both human experts and LLM judges, then enforcing high inter-annotator agreement between humans and between humans and LLM judges.
 - `INS-260605-B60D` Across public benchmarks, a fixed set of tasks that can never be completed becomes a source of noise that masks whether model improvement is genuinely happening.
 - `INS-260627-9E58` Run automated hallucination checks to confirm the summary is grounded in the transcript, then keep a lightweight human verification step where the operator reviews the auto-populated summary, edits if needed, and confirms before it writes to the CRM.
-- `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260603-6FE3` Navish (Salesforce): 'the problem is not how large a dataset you give the agent, it's the quality' — a big silo of stale data just has the agent running the same query on old data; you have to keep the data updated for the agent to help.
 - `INS-260625-C6F4` Agents don't forgive bad data the way humans do — they return it as a confident wrong answer — so data foundation absorbs the majority of production effort and is the real reliability lever.
 - `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
 - `INS-260627-D944` Use real messy data early so that 'works in the lab' actually predicts 'works in production.'
+- `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260519-90E2` Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 - `INS-260327-A478` Blue Zone centenarian counts may be inflated by birth record errors and pension fraud in regions with historically poor documentation, undermining dietary conclusions drawn from this data.
 - `INS-260403-AE6A` The BLS revised nonfarm employment down by 911K jobs, revealing the labor market was substantially weaker than monthly reports indicated.

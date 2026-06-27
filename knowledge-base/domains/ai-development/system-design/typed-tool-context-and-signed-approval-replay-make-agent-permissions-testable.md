@@ -51,8 +51,9 @@ related:
   - INS-260411-27AA
   - INS-260625-BEFE
   - INS-260625-99B0
-  - INS-260626-04E5
+  - INS-260627-CEC6
   - INS-260626-F069
+  - INS-260627-59CB
 ---
 The important change is not just more agent features; it is that the permission boundary is becoming programmable. Tools can declare a contextSchema, callers pass scoped toolsContext, high-risk tool calls can require approval, approvals can be revalidated before continuation, and HMAC signing binds the original tool inputs to the approval token. First-class total, step, chunk, and tool timeout budgets add another explicit failure boundary.
 

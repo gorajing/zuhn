@@ -7,6 +7,10 @@
 - `INS-260605-667B` An agent wrote a perfect report but saved it to disk and 'failed' — output-only judgment would call it garbage; the trace showed the research and writing were flawless.
 - `INS-260410-E3BB` A 0% pass rate across many trials is almost always a broken task or grader, not an incapable model — verify by reading transcripts.
 - `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
+- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
+- `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
+- `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
 - `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
 - `INS-260605-36E9` Before complicating things with eval harnesses, read raw execution traces — they reveal ~80% of what is wrong and how to fix the agent or skill.
@@ -15,10 +19,6 @@
 - `INS-260411-BCB0` Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
-- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
-- `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
-- `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
-- `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
 - `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
 - `INS-260410-8092` Anthropic's December 2024 workaround for a dropped-token bug was inadvertently masking a much worse approximate top-k bug that only became visible when they removed the workaround in August.
 - `INS-260410-FD24` Tokenization is the hidden root cause of most LLM failure modes that look like model or architecture problems.
@@ -31,11 +31,6 @@
 - `INS-260625-FC2D` Run the suite, then have an agent read every failure trace and attribute each failure to a specific cause to surface the few levers that move the score most.
 - `INS-260505-1606` Models on biological data quietly learn the biases of the experiments — interpretability catches that.
 - `INS-260410-0923` When your experiments contradict you, top-down belief based on beauty, simplicity, and brain-inspired correctness is what tells you to keep debugging instead of abandoning the direction.
-- `INS-260410-5F60` Autograd frameworks don't make neural nets 'just work' — gradient-level bugs like dead neurons, saturated nonlinearities, and miscomputed loss-vs-gradient clipping require understanding backprop internals to diagnose.
-- `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting).
-- `INS-260410-C2E6` Compute the expected initial loss (e.g., -log(1/n_classes)) and compare against your network's actual iteration-zero loss — a mismatch reveals an initialization bug worth fixing before anything else.
-- `INS-260410-E6E9` When implementing or testing backprop code, initialize biases to small random numbers rather than zero — zeros simplify the math enough to mask incorrect gradient formulas that would fail on real inputs.
-- `INS-260410-47AE` Plot histograms of activations and pre-activations during training — if too many values cluster at the saturating tails, gradients are being killed and entire neurons may be permanently dead.
 - `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
 - `INS-260329-0CC5` Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.
@@ -46,6 +41,11 @@
 - `INS-260410-351E` sum(dim=1) without keepdim=True returns a 1D vector that broadcasting silently treats as a row vector, which normalizes columns instead of rows — producing garbage with no error.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260329-02B3` String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
+- `INS-260410-5F60` Autograd frameworks don't make neural nets 'just work' — gradient-level bugs like dead neurons, saturated nonlinearities, and miscomputed loss-vs-gradient clipping require understanding backprop internals to diagnose.
+- `INS-260605-5CCC` For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting).
+- `INS-260410-C2E6` Compute the expected initial loss (e.g., -log(1/n_classes)) and compare against your network's actual iteration-zero loss — a mismatch reveals an initialization bug worth fixing before anything else.
+- `INS-260410-E6E9` When implementing or testing backprop code, initialize biases to small random numbers rather than zero — zeros simplify the math enough to mask incorrect gradient formulas that would fail on real inputs.
+- `INS-260410-47AE` Plot histograms of activations and pre-activations during training — if too many values cluster at the saturating tails, gradients are being killed and entire neurons may be permanently dead.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
 - `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.

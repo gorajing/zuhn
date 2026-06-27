@@ -49,7 +49,7 @@ related:
   - INS-260626-07B6
   - INS-260605-BC6F
   - INS-260625-0148
-  - INS-260605-0C88
+  - INS-260627-CEC6
 ---
 AWS AgentCore documents that `allowedTools` scopes LLM tool selection during harness invocation, but does not affect `InvokeAgentRuntimeCommand`, a separate IAM-controlled API that executes commands directly without passing through the LLM. Preventing that path requires not granting the runtime command IAM action.
 

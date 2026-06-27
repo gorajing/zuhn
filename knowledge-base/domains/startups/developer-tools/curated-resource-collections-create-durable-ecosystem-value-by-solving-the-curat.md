@@ -57,10 +57,10 @@ stance: >-
   communities and conferring lasting authority on their maintainers.
 related:
   - INS-260402-E148
+  - INS-260627-386E
   - INS-260626-AC56
   - INS-260505-347C
   - INS-260403-219F
-  - INS-260327-6E86
   - INS-260403-1432
 ---
 The 'awesome list' pattern on GitHub—curated collections of tools, papers, and frameworks around a topic—has proven remarkably durable despite the proliferation of AI-generated alternatives. The reason is structural: curation requires human judgment about quality and relevance, which is precisely what search engines and LLMs struggle to provide in fast-moving fields where the signal-to-noise ratio is poor.

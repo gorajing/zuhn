@@ -46,14 +46,14 @@ stance: >-
   Formalizing handshake deals with explicit protocols reduces deal failure rates
   more effectively than relying on reputation and trust alone
 related:
-  - INS-260327-D9D6
   - INS-260329-57B3
   - INS-260330-CA88
   - INS-260405-B59F
   - INS-260410-614E
+  - INS-260327-D9D6
+  - INS-260627-8056
   - PRI-260406-A6A2
   - PRI-260324-E8C6
-  - INS-260403-D531
 ---
 Silicon Valley handshake deals are notoriously vague and prone to failure because verbal commitments lack specificity about terms, timing, and follow-through. YC's Handshake Deal Protocol addresses this by creating a structured framework that transforms informal agreements into clear, actionable steps.
 

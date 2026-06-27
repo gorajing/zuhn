@@ -47,10 +47,10 @@ stance: >-
   purely academic or economic factors.
 related:
   - INS-260412-EB34
+  - INS-260627-8056
   - INS-260403-6CA8
   - INS-260403-91DB
   - INS-260325-793A
-  - INS-260327-77A0
 evidence:
   - id: INS-260327-77A0
     type: SUPPORTS

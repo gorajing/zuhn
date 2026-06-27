@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 77 insights
+> 78 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -79,3 +79,4 @@
 - `INS-260403-6935` [medium] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
 - `INS-260423-9D71` [medium] Greg Isenberg: if you can figure out how to do all these jobs-to-be-done and be one person instead of ten, there is a case to be made that you've added a tremendous amount of value to your role — triple my salary easily.
 - `INS-260403-680C` [medium] Mike Dauber argues most VC firms hire associates wrong by treating them as disposable leverage instead of future partners, destroying their talent pipeline.
+- `INS-260627-FBF3` [medium] At The Browser Company, a strategy-and-ops employee used self-serve prompt tools one weekend to rewrite all the prompts, unlocking a step-change in product quality and seeding the model-behavior team.

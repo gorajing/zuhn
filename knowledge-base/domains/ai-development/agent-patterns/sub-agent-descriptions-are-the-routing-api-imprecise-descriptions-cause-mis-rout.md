@@ -54,9 +54,9 @@ related:
   - INS-260327-7F56
   - PRI-260328-F0E4
   - INS-260410-096F
+  - INS-260627-54E6
   - PRI-260411-64C7
   - INS-260411-5478
-  - INS-260627-85C7
   - INS-260626-39CE
 ---
 Google's Coordinator/Dispatcher pattern uses a central agent that analyzes user intent and routes to specialist sub-agents via ADK's AutoFlow mechanism. The routing decision is driven entirely by the description field on each sub-agent — the LLM reads these descriptions to decide where to send the request.

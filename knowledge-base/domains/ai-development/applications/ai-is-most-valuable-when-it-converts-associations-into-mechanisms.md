@@ -53,6 +53,6 @@ related:
   - INS-260322-3083
   - INS-260402-3FD8
   - INS-260412-347D
-  - INS-260403-B08E
+  - INS-260627-8530
 ---
 The plant genomics bottleneck was not a shortage of GWAS hits; it was knowing which non-coding variants actually change gene regulation. The model predicted how regulatory DNA variants shift transcription-factor binding, giving researchers a route from trait association to a plausible molecular mechanism. This is the durable pattern for AI in science: compress a large association space into mechanistic hypotheses that experiments can prioritize.

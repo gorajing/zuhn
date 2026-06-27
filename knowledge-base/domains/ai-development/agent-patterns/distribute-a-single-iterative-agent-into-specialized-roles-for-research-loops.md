@@ -63,11 +63,11 @@ stance: >-
   planner, worker, reporter) outperforms one agent doing everything
   sequentially.
 related:
+  - INS-260627-2925
   - INS-260605-D6EE
   - INS-260524-5173
   - INS-260505-483B
   - INS-260409-6A6C
-  - INS-260501-247C
 ---
 Burtenshaw started from Karpathy's Auto Research project, which used a single agent iterating in one loop — finding improvements to a nanoGPT training script and implementing them. What stood out to him as 'kind of weird' was that one agent worked in a single sequential way, and he reasoned 'it would make sense to distribute this.'
 

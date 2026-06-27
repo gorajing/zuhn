@@ -8,19 +8,6 @@
 - `INS-260626-EC65` Genie 3 generates each frame dynamically pixel-by-pixel with no physics engine or game engine behind it — it is a navigable video, not a 3D mesh you can extract as a game asset.
 - `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
 - `INS-260409-1D91` Birds achieving cognitive parity with mammals via a completely different pallial architecture is biological proof that intelligence doesn't require a specific substrate — relevant analogy for AI systems that differ structurally from brains.
-- `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
-- `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
-- `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
-- `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
-- `INS-260605-9E7A` In multi-agent systems, have each agent publish independently to the shared session so the orchestrator only handles final results, not progress relay.
-- `INS-260626-6E3B` The paper finds no single memory system dominates; cross-session reasoning, coherent dialogue, and stateful execution each favor different memory structures.
-- `INS-260605-E693` Every agent is a recursive while-loop with a few conditions and end states, so design it as a state machine you can always locate yourself within.
-- `INS-260410-77E5` Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
-- `INS-260625-C697` Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
-- `INS-260410-6ABA` Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
-- `INS-260405-F3C0` Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
-- `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
-- `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
 - `INS-260627-B10A` KVarN leaves non-KV recurrent state alone and compresses only full-attention KV layers.
 - `INS-260405-64C5` Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
@@ -39,6 +26,19 @@
 - `INS-260605-83DA` Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 - `INS-260501-8A1F` AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI.
 - `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
+- `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
+- `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
+- `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
+- `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
+- `INS-260605-9E7A` In multi-agent systems, have each agent publish independently to the shared session so the orchestrator only handles final results, not progress relay.
+- `INS-260626-6E3B` The paper finds no single memory system dominates; cross-session reasoning, coherent dialogue, and stateful execution each favor different memory structures.
+- `INS-260605-E693` Every agent is a recursive while-loop with a few conditions and end states, so design it as a state machine you can always locate yourself within.
+- `INS-260410-77E5` Multi-agent systems burn ~15x the tokens of a chat and only pay off for parallelizable, high-value research tasks — not coding or tightly-coupled domains.
+- `INS-260625-C697` Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
+- `INS-260410-6ABA` Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
+- `INS-260405-F3C0` Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
+- `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
+- `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - `INS-260627-41BE` Encoding text, video, audio, and PDFs through one omnimodal model into a unified semantic vector preserves cross-modal information that separate encoders lose when merged.
 - `INS-260605-0D57` Frontier gains like Gemini 3 to 3.1 doubling some benchmarks come from better reasoning/fine-tuning data on a near-identical base, not from reinventing the transformer.
 - `INS-260412-8396` ARM's reduced instruction set approach, initially dismissed as underpowered, became decisive when desktop CPUs hit power and thermal limits that simpler architectures inherently avoid.
@@ -103,12 +103,12 @@
 - `INS-260412-4516` Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260405-C780` Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
-- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260404-673B` When language and program evolve together, the architecture naturally aligns with the problem's real structure.
 - `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
+- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.

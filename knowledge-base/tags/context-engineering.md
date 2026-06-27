@@ -8,6 +8,17 @@
 - `INS-260626-8EAC` Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
 - `INS-260525-3A9A` Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
 - `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
+- `INS-260605-CF15` Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
+- `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
+- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
+- `INS-260625-057C` In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
+- `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
+- `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
+- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
+- `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
+- `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
+- `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
+- `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260605-B5A2` An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
 - `INS-260627-3481` In the OpenAI Agents SDK, a handoff doesn't spin up a fresh agentic loop — it swaps the active context/persona of the one running loop.
 - `INS-260627-266C` More context isn't better — quality starts degrading around 50% window fill, and bad context can poison the whole output.
@@ -18,10 +29,12 @@
 - `INS-260409-7C62` CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
 - `INS-260605-9523` Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
 - `INS-260626-23E7` Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
+- `INS-260627-54E6` Run agent work as a plan-delegate-assess-codify loop whose payoff step is codifying tacit lessons into CLAUDE.md, sub-agents, and slash commands so the whole org compounds them.
 - `INS-260626-6F68` Treat context as a first-class engineered artifact that flows through generate, evaluate, distribute, observe, and adapt — the same loop as software.
 - `INS-260327-F625` Harrison Chase says context engineering describes everything LangChain has done without knowing the term existed — traces show what's in your context, compaction manages it, sub-agents partition it, and memory extends it across sessions.
 - `INS-260605-2284` The hard problem in agents has shifted from writing good prompts to strategically choosing what the model sees.
 - `INS-260514-DFAE` Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors.
+- `INS-260627-21D0` Distrust of AI code is 80% a context problem, not a model problem — and the right context includes standards, PR history, and org logs, not just the current branch.
 - `INS-260410-37D5` Compaction preserves continuity but doesn't cure context anxiety; only a fresh agent with a handoff artifact does.
 - `INS-260410-0FC1` Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260625-1CB8` A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
@@ -45,6 +58,7 @@
 - `INS-260605-9276` Provide agents skills as plain version-controlled files containing examples of how to do a task, and let the project maintainers own those skills, so the agent goes from zero-shot to robust few-shot.
 - `INS-260627-D456` A skill's description field is the load trigger: agents pull a skill into context only when its description signals relevance, keeping the context window lean as the capability library grows.
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
+- `INS-260627-C3CE` Compress a 5M-token codebase into a 2,000-word spec via three validated phases — research, plan, implement — so review happens in minutes and the implementation phase becomes mechanical.
 - `INS-260626-40DF` Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
 - `INS-260605-C028` A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260410-EE37` Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
@@ -54,17 +68,6 @@
 - `INS-260605-3AB7` An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 - `INS-260410-9EFC` Context is not free real estate — every token spent depletes the model's attention budget, so curate aggressively.
 - `INS-260410-F259` System prompts fail at two extremes: brittle hardcoded if-else logic or vague high-level guidance — aim for the middle altitude.
-- `INS-260605-CF15` Unblocked cached high-quality answers for latency and learned that a correct answer is like freshly written docs — invalid the moment it's saved — so a cached reply re-served 24 hours later probably lies.
-- `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
-- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
-- `INS-260625-057C` In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
-- `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
-- `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
-- `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
-- `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
-- `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
-- `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
-- `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260625-9F65` Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
 - `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.

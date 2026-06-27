@@ -54,11 +54,11 @@ stance: >-
   models tuned only for human Q&A.
 related:
   - INS-260325-7FAF
+  - INS-260627-8B10
   - INS-260626-5037
   - PRI-260407-D1AD
   - INS-260404-6BD6
   - INS-260605-0C88
-  - PRI-260501-CD0C
   - INS-260405-1282
   - INS-260403-9E51
   - INS-260409-C158

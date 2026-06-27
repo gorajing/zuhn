@@ -1,13 +1,15 @@
 # Tag: code-quality
 
+- `INS-260627-1EF5` Even if AI generates code with no more bugs per line, 3x more code means roughly 3x more bugs and 3x more security incidents in absolute terms — and the review bottleneck makes them harder to catch.
 - `INS-260627-0C43` On brownfield codebases, agents do well exactly where humans do — high cohesion and clear module separation let the agent avoid holding 18 things in context — and tech debt that slows a human dev slows the agent identically.
-- `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
-- `INS-260625-868D` Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
-- `INS-260627-214C` A spec is simultaneously a set of versioned artifacts, a structured requirements-design-execution workflow, and a tooling layer (property tests, requirements verification) that delivers reproducible results.
-- `INS-260410-BDFF` Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260320-7379` A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
 - `INS-260625-78EC` Spend aggressively on tokens (fast mode, high effort, think-hard always) but treat lines of code as a cost to minimize, not a metric to maximize.
+- `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
+- `INS-260627-21D0` Distrust of AI code is 80% a context problem, not a model problem — and the right context includes standards, PR history, and org logs, not just the current branch.
+- `INS-260625-868D` Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
+- `INS-260627-214C` A spec is simultaneously a set of versioned artifacts, a structured requirements-design-execution workflow, and a tooling layer (property tests, requirements verification) that delivers reproducible results.
+- `INS-260410-BDFF` Assign a subset of parallel agents to cross-cutting concerns — dedup, perf, Rust idiom critique, docs — rather than putting all agents on the main task.
 - `INS-260605-402B` An 80%+ SWE-bench pass rate says nothing about the security, complexity, or tech debt of the code an LLM produces.
 - `INS-260605-89B0` AI raises output on clean codebases but multiplies entropy on dirty ones, so the gain hinges on existing code hygiene.
 - `INS-260626-F25E` AI performs dramatically better in well-structured codebases, so a hard-to-change codebase now caps your AI leverage and bad code becomes the most expensive it has ever been.

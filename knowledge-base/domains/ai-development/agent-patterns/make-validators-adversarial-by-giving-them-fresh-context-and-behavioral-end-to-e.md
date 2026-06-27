@@ -50,7 +50,6 @@ stance: >-
   behavior, not just whether the code looks right.
 related:
   - INS-260403-F7A9
-  - INS-260320-63D3
   - INS-260605-AD25
   - INS-260627-8B75
   - INS-260626-A2B9

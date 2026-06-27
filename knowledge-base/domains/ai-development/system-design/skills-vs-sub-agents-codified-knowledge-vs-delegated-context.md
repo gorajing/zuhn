@@ -57,7 +57,6 @@ stance: >-
   return only final results — choosing the wrong primitive bloats your context
   or fragments your knowledge.
 related:
-  - INS-260327-C5D9
   - INS-260405-F26B
   - INS-260627-85C7
   - INS-260605-800F

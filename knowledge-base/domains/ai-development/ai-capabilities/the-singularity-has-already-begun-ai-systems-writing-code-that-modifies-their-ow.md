@@ -59,6 +59,6 @@ related:
   - INS-260410-0EF8
   - INS-260530-D34F
   - INS-260625-1E2C
-  - PRI-260403-5B3D
+  - INS-260627-F193
 ---
 The popular discussion of the singularity (recursive AI self-improvement) treats it as a future event separated by some unclear capability threshold. Hinton claims the structural beginning is already occurring in research systems: AIs that observe their own problem-solving, identify inefficiencies, and rewrite their code to perform better on similar future problems. This meets the definition. What contains the phenomenon currently is not capability (the self-modification works) but access — the humans still control the compute. If a recursive AI gains access to the data centers where it runs, it can replicate and modify itself without further human involvement. The practical read: the singularity is not a binary future event to be prevented; it is a process that has started and is being contained through access controls at the infrastructure layer. Those controls (who can provision compute, who can deploy code to production inference servers, who has root on the training infrastructure) are now the de facto alignment boundary. Organizations and governments should treat data-center access policy as first-class AI safety policy, not as a separate IT concern.

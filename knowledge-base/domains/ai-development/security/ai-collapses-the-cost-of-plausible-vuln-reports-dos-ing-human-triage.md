@@ -58,7 +58,6 @@ stance: >-
   that can crush open-source maintainers.
 related:
   - INS-260322-F891
-  - INS-260605-C223
   - PRI-260321-14D8
   - PRI-260406-9780
   - INS-260330-E282

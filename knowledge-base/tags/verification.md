@@ -8,6 +8,7 @@
 - `INS-260627-9E3D` FastContext turns exploration quality into a measurable citation task separate from end-to-end task success.
 - `INS-260625-722D` Raw judge agreement is a weak certificate unless chance and bias are accounted for.
 - `INS-260625-77F8` For workflow agents, the answer is the mutated state, not the transcript.
+- `INS-260627-AEC2` Generating optimization candidates is cheap; the hard, decisive work is measuring them reliably and proving the agent didn't cheat.
 - `INS-260625-E3A2` Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-9E17` Final-state success needs a shortcut audit when agents can manufacture convincing artifacts.
 - `INS-260627-8318` Translate requirements into system invariants and use property-based testing (Hypothesis, fast-check) to try to falsify them — a passing suite ties the finished code back to the original requirements, defeating the agent's tendency to declare itself done.
@@ -15,6 +16,7 @@
 - `INS-260626-9155` Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260626-F6DA` If you trust the tests, you can trust the output without looking at the code — so the highest-leverage investment is building systems agents can use to verify their own work.
 - `INS-260625-EC9A` The evaluator needs its own evidence path, not just the agent's final artifact.
+- `INS-260627-82CC` Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
 - `INS-260627-0126` Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
 - `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
@@ -25,6 +27,8 @@
 - `INS-260403-C501` Verifiable tasks provide the training signal that lets AI master them first, creating a predictable sequence of capability unlocks.
 - `INS-260410-9A24` Reward hacking is solvable by RL'ing AI against physical reality rather than human judgment, because a rocket that blows up cannot be faked.
 - `INS-260411-7232` Pairing a generative model with an adversarial skeptic/critic model significantly enhances factual accuracy beyond what internal confidence calibration alone can achieve.
+- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260605-F5FB` On analytical queries the database tool wins and on quick lookups file/shell search wins, but a bash+database agent that queries then verifies with the shell scores highest.
 - `INS-260410-E977` Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260605-124F` Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
@@ -38,14 +42,13 @@
 - `INS-260410-85AD` Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
 - `INS-260625-A5E7` Speed requires safety: agents must verify their own work against explicit criteria using progressively stronger gates.
 - `INS-260605-1E04` Before the generator writes a line, the two agents negotiate what 'done' means via files on disk, and the evaluator grades against that contract rather than the planner's original spec.
+- `INS-260627-F9B1` Run verification in a sub-agent with a scoped fresh context, scratch that context, and inject only the last observation back — this is separation of concerns applied to context windows.
 - `INS-260626-AE04` NOVA's L3 task succeeds by coupling paper reproduction, solution design, production code edits, semantic gates, and offline/online validation.
 - `INS-260605-824F` Require tamper-proof evidence (e.g. SHA-256 of real test output) so the agent finds it easier to actually run the tests than to lie about it.
 - `INS-260410-545A` Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
 - `INS-260626-54A5` If a task is solvable and easy to verify, AI will solve it — verifiability, not solvability, is the gating factor.
 - `INS-260605-E516` Pick tasks with a built-in verifiable metric — training loss, kernel benchmark speedup — when designing autonomous agent loops, because the objective signal is what lets the agent iterate without a human in the loop.
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
-- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
-- `INS-260410-DABE` Always provide tests, example cases, screenshots, or a command Claude can run to verify its own output.
 - `INS-260626-739E` When agents can do the work cheaply, the scarce, expensive activities become specifying it up front and reviewing it afterward.
 - `INS-260626-484B` For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
@@ -59,6 +62,7 @@
 - `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
+- `INS-260627-6E58` Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - `INS-260626-FDFC` The first three layers are probabilistic instructions ('asking nicely and hoping'); add a fourth deterministic layer that reads actual output and rejects facts that aren't real.
 - `INS-260627-25FC` The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution.
 - `INS-260627-F5F2` If the simulator sees an unmapped device, unsupported method, or unreachable review host, the filter blocks and escalates rather than allowing the action.

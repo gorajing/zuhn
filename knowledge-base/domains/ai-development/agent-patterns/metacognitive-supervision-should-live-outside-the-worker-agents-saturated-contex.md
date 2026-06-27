@@ -50,10 +50,10 @@ stance: >-
   methods.
 related:
   - INS-260322-CCAA
+  - INS-260627-3D9A
   - INS-260605-27CC
   - INS-260605-74E8
-  - INS-260325-5B7F
-  - INS-260605-CE19
+  - INS-260627-AEC2
 ---
 In the magnetic-field compensation campaign, operator advice was not mainly adding missing domain knowledge; it redirected the agent when a parameterization, metric, or fit model had become exhausted. The authors attribute this to context saturation: the worker conversation reinforces the current method until a contradicting reframe becomes unlikely.
 

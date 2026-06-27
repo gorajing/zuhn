@@ -58,7 +58,6 @@ stance: >-
   task-specific.
 related:
   - INS-260322-AFE9
-  - INS-260330-EC22
   - INS-260403-63E6
   - INS-260410-4EB9
   - INS-260410-F167
@@ -67,6 +66,7 @@ related:
   - INS-260605-3E7F
   - INS-260605-B60D
   - INS-260625-DAE9
+  - INS-260625-79ED
 ---
 Public benchmarks (academic metrics, leaderboard ELO from human-preference arenas) tell you a model's general capabilities, but how good a model actually is depends on how well it does on your task and nobody else's. A model ranked highly in aggregate can still underperform on your specific document types, domain language, or agentic patterns — and a smaller, cheaper model can be more than adequate for them.
 

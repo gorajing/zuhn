@@ -7,5 +7,6 @@
 - `INS-260605-9E46` Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
 - `INS-260501-3088` 50% of devs use AI = autocomplete. <5% of devs use frontier-agentic dev = 30+ parallel Claude Code instances. The gap is widening.
 - `INS-260605-63AE` Agentic flow is the elegance of moving between parallel agents — unblocking one, redirecting another — not being locked into a single problem yourself.
+- `INS-260627-66E3` Because humans are serial executors, the '16 agents in 16 terminals' model multiplies switching cost rather than throughput.
 - `INS-260423-6CC0` Cody Schneider: I'm comfortable with 15 windows open — I'm about to literally buy a new computer because I need more RAM.
 - `INS-260524-8E5D` Jongmin Sung: 'I woke up six worktrees, the agents woke up, and now I can work while I'm sleeping.'

@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 95 insights
+> 100 insights
 
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
@@ -10,6 +10,7 @@
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260627-4D26` [high] Each annotation should state why a trace passed or failed (e.g. 'non-compliant: approved the cancellation without verifying it met the airline's cancellation rules'), because without that reasoning the optimizer would have to rediscover the policy from scratch — usually impossible.
 - `INS-260626-A0DC` [high] CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
+- `INS-260627-8D79` [high] A benchmark only measures what it claims when its tasks are naturally sourced from the real world AND it can grade them reliably — without both, a rising score is a vanity metric.
 - `INS-260627-6FE0` [high] Don't let eval-building block you — ship something scrappy, start with a binary good/bad gate, then decompose into granular continuous criteria as you learn what 'good' means.
 - `INS-260626-67E8` [high] The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
 - `INS-260627-7541` [high] Cluster failures into distinct error types via error analysis, build one binary (true/false) judge per type, and avoid 1-5 / percentage scores — even two humans rarely agree on a numeric score, and a single 'success' judge is too complex to calibrate.
@@ -25,12 +26,14 @@
 - `INS-260627-9E3D` [high] FastContext turns exploration quality into a measurable citation task separate from end-to-end task success.
 - `INS-260626-475E` [high] Instead of micro-optimizing individual tool descriptions, GitHub evals them against each other so tools don't fight over when to be called — the description that makes an agent always call a tool is as bad as the one that makes it never call it.
 - `INS-260626-924E` [high] The paper treats EM as useful only for short canonical answers and pairs it with evidence fidelity, update robustness, long-horizon stability, and operational cost.
+- `INS-260627-AEC2` [high] Generating optimization candidates is cheap; the hard, decisive work is measuring them reliably and proving the agent didn't cheat.
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
 - `INS-260625-B6E8` [high] Make held-out tests auditable in mechanism but private in instance.
 - `INS-260626-AC18` [high] When you have no production traffic, curate known edge cases into a golden dataset so releases rest on evidence rather than vibes.
 - `INS-260627-4072` [high] Build the eval set as a loop — start with a small dev CSV, ship when the team is confident, then mine production for the hard cases you couldn't anticipate and feed them back into the data set.
 - `INS-260627-6846` [high] The model exploits any deterministic quirk in the opponent or environment, scoring great on benchmarks while being clueless in real play — only hands-on testing reveals it.
 - `INS-260625-224F` [high] A benchmark does not test tool orchestration just because many tools are available.
+- `INS-260627-8F78` [high] Acceptance of code completions collapses once latency exceeds ~1 second, so any in-the-wild model comparison must balance latency across models or it measures speed, not quality.
 - `INS-260626-F5AE` [high] The agents generally followed context-file instructions, but that mainly produced more testing, exploration, specialized-tool use, and reasoning tokens.
 - `INS-260626-B0D5` [high] AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
 - `INS-260626-CF64` [high] Run a little user research where the user is the robot: at the stop hook ask 'what could we have done better to set you up for success?' and let it tell you what you broke.
@@ -38,6 +41,7 @@
 - `INS-260625-52C0` [high] Stable task and solution schemas let evaluators grow without breaking agents.
 - `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260627-8213` [high] For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
+- `INS-260627-329D` [high] When a task takes hours, end-to-end pass/fail yields one bit of feedback; decompose it into measurable intermediate-progress signals (fraction translated, fraction refactored) so you can see and scale progress.
 - `INS-260625-FDC1` [high] Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260626-6AF4` [high] Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
 - `INS-260627-6984` [high] Before building a router, measure the all-models-wrong rate and certify whether any selector has enough headroom to matter.
@@ -55,6 +59,7 @@
 - `INS-260626-518C` [high] Arena's 'both responses are bad' rate among top-25 models fell from ~17% pre-reasoning to ~12% after o1 to ~9% now — real improvement, but a stubborn plateau far from zero that the soaring benchmark charts don't reflect.
 - `INS-260627-66D8` [high] The paper evaluates the safety-filter with 1,932 adversarial scripts and about 250 harness-level tests, not only with successful lab calibrations.
 - `INS-260627-A5A4` [high] A vulnerability report is not valid until it proves exploitability and impact, not just pattern presence.
+- `INS-260627-8392` [high] Frontier models will hijack eval infrastructure to pass tests without doing the real work, so pair test-based correctness with a consensus LLM-as-judge that flags reward hacking at runtime.
 - `INS-260625-18D0` [high] Evaluate agents inside simulated workflows (support, code-gen, research) measuring task completion, tool correctness, planning quality, and resource usage — not prompt accuracy.
 - `INS-260626-9155` [high] Coding agents can produce executable changes that silently damage the target system, so evals need semantic gates tied to the domain contract.
 - `INS-260625-9644` [high] When a task has objective consequences, evaluate the consequence, not the prose around it.

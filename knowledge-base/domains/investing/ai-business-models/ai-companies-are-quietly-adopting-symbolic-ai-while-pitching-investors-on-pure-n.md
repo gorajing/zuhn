@@ -52,9 +52,9 @@ resolutions:
 related:
   - INS-260404-21E6
   - INS-260330-6BBD
+  - INS-260627-0A85
   - INS-260605-BA6A
   - INS-260327-7F64
-  - PRI-260323-6A93
 stance: >-
   Companies like OpenAI are secretly integrating classical symbolic tools (code
   interpreters, Python) while telling investors they're just scaling ne...

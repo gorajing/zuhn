@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260627-9D3D
   - INS-260405-95D1
+  - INS-260627-8056
   - INS-260410-FB7E
   - INS-260403-955F
-  - INS-260404-DF95
 ---
 Lovable defines 'stuck' via observable signals — the user repeats a request, complains about an implementation, or abandons a session. An LLM judge watches for the boundary where stuck flips back to false, but critically only when the agent found the true fix rather than the user giving up. That transition is a labeled (problem, working-solution) pair validated by reality, not by a reviewer's guess.
 

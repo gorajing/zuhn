@@ -53,10 +53,10 @@ stance: >-
   the wrong candidates would perform.
 related:
   - INS-260403-5C1D
+  - INS-260627-8392
   - INS-260330-D066
   - PRI-260406-0109
   - INS-260605-8E69
-  - INS-260423-8403
   - INS-260403-3E46
 evidence:
   - id: INS-260323-01F9

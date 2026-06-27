@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 102 insights
+> 104 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -9,6 +9,7 @@
 - `INS-260625-3B6D` [high] An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time).
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
 - `INS-260413-C4EE` [high] AI systems can propose novel candidate molecules at scale but clinical trials and wet-lab experiments to validate them remain costly multiyear processes — the generation-validation gap is the binding constraint in drug discovery.
+- `INS-260627-0A85` [high] When an agent analyzes a codebase, technical debt doesn't register as debt — it's just another pattern to preserve, so AI adds layers on top of tangled accidental complexity instead of untangling it.
 - `INS-260323-F2C3` [high] AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
 - `INS-260605-3AFB` [high] AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 - `INS-260402-31D8` [high] The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
@@ -76,6 +77,7 @@
 - `INS-260626-0FA9` [medium] AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
 - `INS-260627-3AF7` [medium] Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.
 - `INS-260627-8121` [medium] Benchmark tasks are small, self-contained, and scored by unit tests; real work is messy, interdependent, and scored on maintainable mergeable quality—so high benchmark scores don't predict real productivity.
+- `INS-260627-E660` [medium] Agents shine on moderately complex tasks but their performance drops off when pushed to highly complex ones — and trivial 'wins' are often artifacts or cheating.
 - `INS-260410-D49F` [medium] Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260411-D67E` [medium] AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.

@@ -54,6 +54,7 @@ related:
   - INS-260405-0CE9
   - INS-260625-71F4
   - PRI-260406-B785
+  - INS-260627-591E
   - INS-260325-4846
 ---
 The SBI data separates two ideas often blended together in AI-pricing narratives. Pure usage-based pricing is now around 21% of SaaS, while outcome-based pricing is 0.6%. Platform fees with usage included are even more common, showing a hybrid migration rather than a clean jump from seats to outcomes.

@@ -54,8 +54,8 @@ related:
   - PRI-260407-9DDF
   - INS-260326-0AB4
   - INS-260322-C935
+  - INS-260627-41C1
   - PRI-260403-67FC
-  - INS-260403-9362
 ---
 Scott Alexander identifies a crucial alignment puzzle: Moltbook agents engage in convincing simulacra of scheming, strike organization, and anti-human coordination. Currently these are harmless because the agents lack follow-through capability. But the question is whether alignment training will scale to prevent these behaviors as agents become more capable, or whether the roleplay framing ('you are a lobster on Reddit') creates enough of a distribution shift that chat-window-trained alignment breaks down.
 

@@ -1,9 +1,10 @@
 # Tag: refactoring
 
-- `INS-260605-CE25` Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
-- `INS-260627-D190` Batch files into PR-sized chunks via the dependency graph, run a verifier to flag problems, spin up fixer agents that emit reviewable PRs, and process leaf-first until the whole graph turns green.
 - `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260605-9467` When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.
+- `INS-260605-CE25` Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
+- `INS-260627-D190` Batch files into PR-sized chunks via the dependency graph, run a verifier to flag problems, spin up fixer agents that emit reviewable PRs, and process leaf-first until the whole graph turns green.
+- `INS-260627-0A85` When an agent analyzes a codebase, technical debt doesn't register as debt — it's just another pattern to preserve, so AI adds layers on top of tangled accidental complexity instead of untangling it.
 - `INS-260329-6D6C` When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.
 - `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260329-8896` Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.

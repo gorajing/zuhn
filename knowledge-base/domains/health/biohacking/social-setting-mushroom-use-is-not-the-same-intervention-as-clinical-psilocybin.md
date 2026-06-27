@@ -56,7 +56,6 @@ stance: >-
   different interventions with different risk profiles, and generalizing
   safety/efficacy between them is a category error.
 related:
-  - INS-260327-D37F
   - INS-260330-3672
   - INS-260330-53F7
   - INS-260409-C0DF

@@ -54,12 +54,11 @@ stance: >-
 related:
   - INS-260330-EC22
   - INS-260627-8121
+  - INS-260627-8D79
   - INS-260410-0DA5
-  - INS-260625-2A4F
-  - INS-260605-3ABF
+  - INS-260627-DE41
   - INS-260413-EB61
   - INS-260625-79ED
-  - INS-260625-76E9
 ---
 AI benchmarks tend to measure performance on well-defined, repeatable tasks that resemble training data. Models can optimize specifically for these evaluations, producing impressive score improvements that don't translate to proportional gains in practical use. Real-world tasks are fundamentally different: they involve ambiguous goals, incomplete context, consequences beyond the conversation, and domains where subtle errors compound.
 

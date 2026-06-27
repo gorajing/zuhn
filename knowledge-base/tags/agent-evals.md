@@ -21,6 +21,7 @@
 - `INS-260625-52C0` Stable task and solution schemas let evaluators grow without breaking agents.
 - `INS-260625-3162` For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260627-8213` For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
+- `INS-260627-329D` When a task takes hours, end-to-end pass/fail yields one bit of feedback; decompose it into measurable intermediate-progress signals (fraction translated, fraction refactored) so you can see and scale progress.
 - `INS-260625-FDC1` Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260626-6AF4` Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.
 - `INS-260627-9C1F` If production is open-ended, do not trust a multiple-choice eval to reveal shared model failure.

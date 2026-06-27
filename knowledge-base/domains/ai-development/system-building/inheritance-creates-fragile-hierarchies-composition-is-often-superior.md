@@ -51,7 +51,6 @@ stance: >-
   hard to modify — favor composition for most real-world designs.
 related:
   - INS-260329-40B6
-  - INS-260329-6A26
   - INS-260404-C7A1
   - INS-260330-CE2F
   - PRI-260406-F8E5

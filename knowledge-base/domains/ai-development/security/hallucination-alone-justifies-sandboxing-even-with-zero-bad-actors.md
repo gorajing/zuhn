@@ -58,8 +58,8 @@ related:
   - INS-260625-F62D
   - INS-260626-5671
   - INS-260605-3AB7
+  - INS-260627-1EF5
   - INS-260605-1C30
-  - INS-260410-7292
 ---
 The threat model has three tiers, and the most overlooked is the benign one. A model doing its best can still import a package that does not exist, write a recursive function with no base case, or emit a while-true loop because it misread the termination condition. None of this is adversarial, but an infinite loop eats compute, a bad import crashes processes, and runaway recursion blows the stack. This is the baseline threat that exists even in a world with no bad actors.
 

@@ -40,11 +40,11 @@ stance: >-
   Prompt similarity thresholds should remain operational heuristics until they
   are calibrated against measured changes in agent behavior.
 related:
+  - INS-260627-8392
+  - INS-260627-8530
   - INS-260605-DCE5
   - INS-260625-8EC6
   - INS-260605-72C4
-  - INS-260625-B4AC
-  - INS-260605-4D1D
 ---
 The paper uses normalized word-token Jaccard similarity to detect prompt drift and justifies it as deterministic, portable, and sensitive to additive policy changes. It also states that the 0.60 and 0.80 thresholds are operating defaults, not empirically validated behavioral boundaries.
 

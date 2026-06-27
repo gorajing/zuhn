@@ -53,10 +53,10 @@ related:
   - INS-260323-A1FE
   - PRI-260327-7A68
   - INS-260412-90AC
+  - INS-260627-3D9A
   - INS-260530-D34F
   - INS-260626-76B5
-  - INS-260321-18D0
-  - INS-260327-BF89
+  - INS-260627-6F57
 ---
 For two decades software orgs treated engineers as the bottleneck — hence Agile, craftsmanship culture, and lavish perks designed to keep scarce engineers productive. Once agents write most of the code, that premise breaks: the engineer is no longer the constraint, so optimizing for engineer comfort and velocity optimizes the wrong variable. Spitz's PFF case reframed the central question from 'how do we help engineers output more?' to 'how do we make the agents quicker?'
 

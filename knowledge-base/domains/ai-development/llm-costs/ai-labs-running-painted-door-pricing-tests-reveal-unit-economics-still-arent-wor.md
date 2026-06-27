@@ -57,7 +57,7 @@ related:
   - INS-260403-27A5
   - INS-260405-A22F
   - INS-260329-E86C
-  - INS-260329-8986
+  - INS-260627-82CC
 ---
 PrimeTime's read on Anthropic's pricing change: by removing Claude Code from the $20 plan, they trick a subset of users into paying $100/mo instead of churning. This is a classic painted-door test for pricing — see who would actually pay more. The argument that 'they're making money on inference' misses training cost amortization: if Opus 4.5 cost was never recouped before everyone migrated to 4.6, then 4.5 cost money. OpenAI's $120B investment buys 18-24 months at $5-7B/mo burn rate — that's why the pricing tests are happening.
 

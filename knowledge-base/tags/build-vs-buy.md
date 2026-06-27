@@ -1,7 +1,7 @@
 # Tag: build-vs-buy
 
-- `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260403-F68B` Tariffs on GPUs and server components create a cost advantage for AI startups using cloud APIs over those building owned inference infrastructure.
+- `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260626-76B5` The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers.
 - `INS-260320-922A` Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.

@@ -55,7 +55,7 @@ related:
   - INS-260501-06B1
   - INS-260501-2130
   - INS-260625-7592
+  - INS-260627-00BE
   - INS-260403-10CE
-  - INS-260626-5545
 ---
 McLean closes with a rule learned in a high-stakes, customer-facing advertising context: 'don't automate a job unless you can do it yourself.' He pairs it with an Adam-Smith pin-factory observation — capitalism (and effective agent design) naturally breaks tasks into small, repeatable chunks, and he has 'found workflows to be far more effective' than loosely structured autonomous agents. The underlying logic is that doing the task yourself gives you the decomposition, the quality bar, and the failure modes needed to specify, constrain, and audit the agent; without that hands-on grounding you can neither structure the workflow nor recognize when the agent is wrong. In a domain where a scaled bad asset is as damaging as a good one, this functions as a guardrail against delegating work you can't supervise.

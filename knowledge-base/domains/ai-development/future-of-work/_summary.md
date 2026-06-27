@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 155 insights
+> 158 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -81,6 +81,7 @@
 - `INS-260524-B783` [high] Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260423-7DC6` [high] Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7.
 - `INS-260530-D34F` [medium] Abhije: PMs now spin up an agent to make a code change without full code-base context, then hand the result to engineering for review — engineers are ironically doing more work reviewing PM-generated agent output than they were before AI.
+- `INS-260627-455A` [medium] Because agents do the deep-focus work asynchronously, technical leaders can investigate bugs and submit PRs in the gaps between meetings instead of needing a protected 3-4 hour block.
 - `INS-260605-4688` [medium] An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
 - `INS-260323-D2AA` [medium] AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260402-C98A` [medium] Cheaper AI produces more value, which drives up the price of AI's best uses, perpetually leaving room for human workers in lower-priority tasks.
@@ -99,6 +100,7 @@
 - `INS-260403-D5BB` [medium] AI labor debates are confused because participants argue from different layers of a $31T labor market without a shared framework.
 - `INS-260403-9A0C` [medium] European data shows AI adoption increases productivity without reducing employment, suggesting AI augments workers rather than replacing them.
 - `INS-260405-89E7` [medium] MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
+- `INS-260627-75D7` [medium] Top performers were 7x more likely to have AI-native workflows (scaling 4+ use cases across the SDLC) and 6x more likely to have AI-native roles — moving from quarterly to continuous planning, story-driven to spec-driven work, and two-pizza teams to one-pizza pods of 3-5 people.
 - `INS-260403-7DF4` [medium] AI coding assistants deliver 55-81% productivity gains but unlike Ford's assembly line, they democratize access rather than concentrating power.
 - `INS-260625-1520` [medium] Research is becoming 'mostly orchestration focused' — humans supply the ideas and taste, models do the implementation and execution — so the bottleneck moves from doing experiments to choosing the right ones.
 - `INS-260403-39CF` [medium] AI will reduce product team sizes by 25-50% (mainly fewer engineers) while PMs spend more time on discovery and go-to-market rather than building.
@@ -123,6 +125,7 @@
 - `INS-260330-B28C` [medium] Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.
 - `INS-260403-8874` [medium] AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
 - `INS-260626-C88F` [medium] The instinct to abandon math and CS once AI automates them is backwards — knowing how LLMs actually work is precisely what lets you wield and prompt them effectively.
+- `INS-260627-6F57` [medium] Zapier responded to AI-boosted engineer effectiveness by deciding to hire faster than ever, reasoning that more value per engineer means each new hire is worth more, not redundant.
 - `INS-260403-DC4A` [medium] Subsidizing hiring incentivizes companies to experiment with human-AI workflows rather than defaulting to pure automation.
 - `INS-260403-22C2` [medium] AI can render decades of painstakingly accumulated human expertise economically worthless in months, as demonstrated by the sudden devaluation of software engineering skills.
 - `INS-260403-3664` [medium] Figure's $39B valuation rests on the thesis that automating manual labor ($42T/yr, ~50% of GDP) creates shared abundance.

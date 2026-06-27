@@ -59,8 +59,8 @@ related:
   - INS-260410-85AD
   - INS-260413-AD37
   - INS-260321-2482
+  - INS-260627-82CC
   - INS-260410-9D86
-  - INS-260605-8D12
 ---
 Before tool calling and strong code-generation models, the plausible way to take actions was through the browser — a universal interface usable for almost any app. Viktor's JCAI took a lossless minified DOM snapshot plus the goal and decided the next step (type in the search bar, click login). It was genuinely state-of-the-art, topping the Web Arena benchmark.
 

@@ -57,9 +57,9 @@ related:
   - INS-260330-DA38
   - PRI-260328-8317
   - INS-260404-6BD6
+  - INS-260627-C559
   - PRI-260328-3094
   - INS-260626-1B29
-  - INS-260403-D090
 ---
 Scanlan grounds the disruption in lived precedent. As a former Unix sysadmin, he racked servers, cabled machines, and configured networks in data centers. Cloud came along and he 'moved up the stack' — sysadmins became SREs, the work shifted toward automation, and it became more impactful and higher-paid. He frames the AI transition as the same move, 'speed-running this 100 times faster on a full-industry scale.'
 

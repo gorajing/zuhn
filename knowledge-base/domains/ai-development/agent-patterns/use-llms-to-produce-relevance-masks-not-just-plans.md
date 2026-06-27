@@ -51,9 +51,9 @@ related:
   - INS-260627-0818
   - INS-260410-684D
   - INS-260626-3ACC
+  - INS-260627-8530
   - INS-260605-20C0
   - INS-260626-411D
-  - INS-260626-69EF
   - INS-260627-C26A
 ---
 The paper's useful architecture is not an end-to-end LLM robot controller. The LLM predicts which state dimensions matter for an instruction, then the reward learner uses those masks as supervision. This keeps the LLM in the semantic-disambiguation layer and leaves trajectory optimization to a domain model. The general design pattern is to make the language model produce a compact typed intermediate that a specialized optimizer can use.

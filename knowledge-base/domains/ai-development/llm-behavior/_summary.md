@@ -1,6 +1,6 @@
 # Topic: llm-behavior
 
-> 43 insights
+> 44 insights
 
 - `INS-260625-E1AA` [high] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260626-1759` [high] Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
@@ -45,3 +45,4 @@
 - `INS-260626-A499` [medium] Tell the agent 'this won't send automatically — there is a human in the loop' so a cautious model will actually call the gated tool.
 - `INS-260410-1248` [medium] Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260625-F573` [medium] Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.
+- `INS-260627-7441` [medium] Model behavior—turning principles into product requirements, prompts, and evals that shape an LLM's responses and personality—is maturing into a specialized function distinct from engineering.

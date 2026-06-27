@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 80 insights
+> 82 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -55,11 +55,13 @@
 - `INS-260530-B694` [medium] PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260405-00DE` [medium] Background noise carries exploitable signals about patient context that standard noise cancellation discards.
 - `INS-260505-4A52` [medium] Stop publishing PDFs. Publish paper agents — interactive AIs that explain themselves, apply themselves, and collaborate with other paper agents.
+- `INS-260627-4D17` [medium] Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - `INS-260624-A740` [medium] LLMs can help fuzzing at low, medium, and high usage levels, and the right level depends on the bottleneck.
 - `INS-260524-1A41` [medium] Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
 - `INS-260524-9100` [medium] Woosang: GNoME-style ML approximations of DFT predict stability cheaply, so you screen candidates computationally instead of running days-long simulations or experiments for each.
 - `INS-260605-4509` [medium] The browser already ships Web Speech, Animation, Audio, Canvas, WASM, and CSS as zero-dependency primitives — text-to-speech needs no inference call, it's just waiting to be used in agent experiences.
 - `INS-260514-8108` [medium] Open-source was a 2-minute decision for Hacker News launch. Retrospectively, it produced almost all the traction. The mechanism is distribution, not ideology.
+- `INS-260627-3D9A` [medium] Deploy optimization agents to get better-than-baseline across the many unglamorous workloads experts can't reach, freeing scarce experts for the few hardest problems.
 - `INS-260501-4903` [medium] Figma is for static handoff. Vibe coding loses iteration history. Paper.app gives you a canvas where you iterate visually and the code updates live.
 - `INS-260405-E4FC` [medium] Software AI is rapidly saturating knowledge work; physical AI in humanoid robots is where the next trillion-dollar value layer will form.
 - `INS-260505-A9BC` [medium] Asking an AI agent for a plan before it acts works for the same reason specific climate language predicts real reduction — intent + plan beats intent alone.

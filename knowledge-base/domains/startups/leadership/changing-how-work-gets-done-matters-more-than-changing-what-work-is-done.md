@@ -48,6 +48,7 @@ related:
   - INS-260626-3F6D
   - INS-260325-ADF5
   - INS-260329-FEBA
+  - INS-260627-3F18
 stance: >-
   When transforming a large organization, changing processes and tools (the
   'how') unlocks speed more effectively than simply demanding faster output.

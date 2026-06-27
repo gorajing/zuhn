@@ -53,10 +53,11 @@ stance: >-
 related:
   - INS-260605-51AE
   - INS-260605-0E19
+  - INS-260627-C559
   - INS-260626-F14C
   - INS-260627-9AF4
   - INS-260322-EAB6
   - PRI-260328-8317
-  - INS-260501-4C5E
+  - INS-260627-455A
 ---
 The most important shift once a factory is in place is mental: you go from worker to manager, doing way less of the work yourself and overseeing many agents instead. This forces sync-to-async, because most work happens in the background. Zakariasson maps it directly onto human org dynamics — small team, then managers, then managers of managers, then nested agents managing other agents up the abstraction ladder. The manager's new job is to scope and parallelize: one unit of work equals one agent, but two agents on the same part of the codebase produce merge conflicts, so planning still matters. Going async also demands trust, which you buy by frontloading context up front via a plan or long spec, then letting the agent go. He stresses preserving 'tribal knowledge' — how data flows, which parts are critical, what users want — rather than outsourcing understanding wholesale. There is no shortcut: you spawn a large number of agents, watch what happens, and develop intuition for the models' strengths and weaknesses, while never pushing straight to prod without safety guardrails.

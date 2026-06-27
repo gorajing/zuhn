@@ -66,7 +66,6 @@ related:
   - INS-260626-C4F7
   - PRI-260328-9F8C
   - INS-260403-A2E9
-  - INS-260625-224F
 ---
 Chen describes 'vibe researching' as the near-term analogue of vibe coding, and says OpenAI and other labs are moving toward it 'very quickly.' The work is becoming mostly orchestration: the researcher comes up with ideas and the model is 'great enough to do the implementation execution by itself.' This is a market shift — execution, historically the rate-limiter, is being commoditized, and the differentiator becomes the volume and quality of ideas a researcher can generate.
 

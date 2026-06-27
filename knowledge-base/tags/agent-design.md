@@ -3,12 +3,16 @@
 - `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260329-EAFD` Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
+- `INS-260421-7ADE` Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
+- `INS-260627-F9F3` Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.
+- `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
 - `INS-260627-578E` Reshape a task into a CLI/text interface the model has seen before, and capability that a GUI version blocks suddenly appears.
 - `INS-260627-0719` A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
 - `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.
 - `INS-260605-8109` Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.
 - `INS-260626-5545` Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
+- `INS-260627-2925` Map the human expert's loop — compile, run, check correctness, profile, optimize — and put the agent in that same loop rather than inventing a novel abstraction.
 - `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
 - `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
 - `INS-260626-BD97` The paper's component analysis finds that coverage-preserving extraction can beat more selective extraction for downstream answerability.
@@ -17,10 +21,12 @@
 - `INS-260327-D020` Goose's recipe-based approach, where successful workflows are baked into shareable scripts, outperforms pre-built tool integrations because agents find surprising solutions humans wouldn't encode.
 - `INS-260627-040E` Transform your data into something the model knows cold — SQL, XML, spreadsheet-range syntax — so an out-of-distribution problem becomes in-distribution and the agent's pretrained knowledge does the work.
 - `INS-260410-1A22` Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
+- `INS-260627-59CB` Optimize for 'reducible runtime' — the time a user makes zero technical decisions — rather than treating long runtime as a badge of honor.
 - `INS-260410-CD79` Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
 - `INS-260625-3EE6` Give a model a baseline set of tools and it will sensibly add or drop ones it under-uses; ask it to build its toolset from scratch and it over-engineers and fails to iterate.
 - `INS-260626-E803` Anyone selling a single solution to agent connectivity (just MCP, just CLI, just computer use) is wrong — each has a distinct best-fit job and good agents use all of them together.
 - `INS-260605-CE19` Personalization — feeding the agent your thoughts, systems, principles, and patterns — increases speed-to-understanding so it does the right thing rather than just something.
+- `INS-260627-453E` Proactivity is built from four hard ingredients — observation, personalization, timeliness, and seamless workflow integration — and missing any one breaks the 'magic'.
 - `INS-260626-2A5F` Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
 - `INS-260605-29BD` Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
 - `INS-260625-7592` If a task has an exact answer reach for code, if it needs interpretation reach for the agent, and if it needs authority reach for a human.
@@ -28,14 +34,13 @@
 - `INS-260626-9D78` Decompose an agent's behavior into four layers — immutable identity, situational mode, example-anchored voice, and a post-generation veto — assembled in a fixed order rather than crammed into one prompt.
 - `INS-260605-35D1` Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
 - `INS-260423-72D0` Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
+- `INS-260627-C559` Reactive async agents shift execution off the human but leave the monitoring load on them, capping the productivity gain.
 - `INS-260625-131D` The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
-- `INS-260421-7ADE` Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
-- `INS-260627-F9F3` Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.
-- `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-48F7` When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260626-9A39` When Kenton told a model to play tic-tac-toe by inspecting a canvas's array of strokes rather than generating a tic-tac-toe app, it recognized the board from raw state and played — with zero tic-tac-toe code anywhere in the system.
+- `INS-260627-7441` Model behavior—turning principles into product requirements, prompts, and evals that shape an LLM's responses and personality—is maturing into a specialized function distinct from engineering.
 - `INS-260627-8DF1` Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
 - `INS-260627-F2AE` An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
 - `INS-260627-F851` If you own the client (internal tools, your own mobile app), you can do progressive disclosure, custom doc placement, masking, and elicitation; if you don't, you must design for the worst-possible client.

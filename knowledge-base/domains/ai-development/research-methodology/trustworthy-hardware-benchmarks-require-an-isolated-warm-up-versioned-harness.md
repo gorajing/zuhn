@@ -57,11 +57,11 @@ stance: >-
   reproducible artifacts.
 related:
   - INS-260625-79ED
+  - INS-260627-8D79
+  - INS-260627-DE41
   - INS-260625-FFDF
   - INS-260605-3E7F
   - INS-260410-F167
-  - INS-260410-0DA5
-  - INS-260413-B79B
 ---
 Rather than presenting raw results, the speaker built an automated benchmarking harness that every model run (1.5B to 14B) passes through under a strict protocol: environment isolation via Docker, three mandatory warm-up runs before measurement, and background GPU-metrics logging at 1-second intervals. An orchestrator script generates a unique directory per run (precise timestamp + sanitized model ID) and captures the full endpoint response, metadata, and metrics as a clean, versioned artifact.
 

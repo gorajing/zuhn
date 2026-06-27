@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260403-BA81
   - INS-260403-0A97
+  - INS-260627-8B10
   - INS-260403-8C2D
   - PRI-260406-F51A
-  - INS-260409-FB26
 ---
 Most founders treat runway calculators as rearview mirrors — they check the number periodically to confirm they're still alive. The real leverage comes from using the tool as a decision gate: run a stress test before every new hire, ad campaign, or contract. A model that shows you have 14 months of runway before a hire and 9 months after changes the conversation entirely.
 

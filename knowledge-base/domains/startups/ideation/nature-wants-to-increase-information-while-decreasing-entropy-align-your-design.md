@@ -51,7 +51,6 @@ related:
   - INS-260501-BC7C
   - INS-260514-AE3A
   - INS-260330-697F
-  - INS-260326-2D41
 stance: >-
   Nature's fundamental drive is to increase information while decreasing entropy
   — this principle can guide product and system design.

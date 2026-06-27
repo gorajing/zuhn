@@ -19,22 +19,23 @@
 - `INS-260322-32E3` Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
 - `INS-260409-E776` Math olympiad AI scores jumped from ~65% to ~95% in a few months — the benchmark is saturating and will stop discriminating between frontier models soon.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
+- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
+- `INS-260626-4E80` The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
 - `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260625-6345` The study found GNNs better than alternative architectures, including an LLM, at finding active, drug-like, structurally novel molecules.
 - `INS-260605-2186` Treat evals as a self-optimizing growing solution, not a fixed dataset captured at a single point in time.
 - `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
-- `INS-260403-E6F0` Benchmark optimization produces models that score well on tests while serving rocks as hors d'oeuvres.
-- `INS-260626-4E80` The leverage moved from training compute to harness optimization — a 7-person team beat frontier models on ARC-AGI and HLE using cheaper base models for under $100k.
 - `INS-260409-ADD0` MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
 - `INS-260605-0C13` On benchmarks like MTEB, open-source models tuned for narrow tasks beat managed services, and low-parameter models (e.g. Gemma) post ELO scores above much larger models — so choosing open source is no longer a tradeoff against quality.
+- `INS-260627-DE41` Treat a benchmark as a continuously-updated stream of post-cutoff problems, not a frozen set, so you can both measure and combat contamination while recalibrating difficulty as models improve.
 - `INS-260627-D9CE` METR converts task difficulty into the human time-to-complete at which a model succeeds 50% of the time, yielding a remarkably straight exponential trend (doubling every 6-7 months).
 - `INS-260625-B9A5` Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters.
 - `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260605-B66C` For AI tutors, 10DS plans to set benchmarks and guardrails (e.g. cognitive load on students, classroom safety) so schools can adopt any vendor's product, rather than building a rival tutor.
-- `INS-260410-AF67` Benchmark progress tracks the bulls' timelines while economic impact tracks the bears' — both sides are partly right about different metrics.
 - `INS-260410-E042` On Anthropic's accelerator take-home, humans beat Claude only with unlimited time; inside a 2-hour window, Opus 4.5 matched the best humans.
 - `INS-260323-7424` The obsession with parameter counts mirrors the 1990s gigahertz race — what matters is end-user utility, not raw numbers.
+- `INS-260410-AF67` Benchmark progress tracks the bulls' timelines while economic impact tracks the bears' — both sides are partly right about different metrics.
 - `INS-260410-0DA5` Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 - `INS-260403-8302` Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
@@ -64,6 +65,6 @@
 - `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
 - `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
 - `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
-- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.
 - `INS-260403-F85C` A 5% annual churn rate can be excellent or fatal depending entirely on business model context.
 - `INS-260405-5755` 35 companies have now cracked $1B ARR, suggesting billion-dollar revenue follows replicable patterns worth studying.
+- `INS-260625-81D0` Put your product on a third-party competitive arena and win it; a leaderboard rank settles arguments that pitches can't.

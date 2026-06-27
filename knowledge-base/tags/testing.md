@@ -1,10 +1,13 @@
 # Tag: testing
 
+- `INS-260627-82CC` Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
 - `INS-260627-0BC1` Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
 - `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260330-FC4D` When agents produce 1,300 PRs weekly, CI pipelines and test coverage become the primary quality gate since human review alone cannot scale to verify correctness.
 - `INS-260330-D5CD` When agents write 1,300 PRs per week, CI and test infrastructure become the primary trust mechanism replacing the confidence that comes from knowing a human wrote the code.
+- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- `INS-260605-9467` When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260605-773B` Build evals high-level around specific failure modes a subject-matter expert identifies, not exhaustively like unit tests.
 - `INS-260605-6A32` At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.
@@ -12,8 +15,6 @@
 - `INS-260605-A3F4` Because users stay in one long chat, load 10 turns and test the 11th so context-management failures surface in evals instead of in user reports.
 - `INS-260605-824F` Require tamper-proof evidence (e.g. SHA-256 of real test output) so the agent finds it easier to actually run the tests than to lie about it.
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
-- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
-- `INS-260605-9467` When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.
 - `INS-260605-3AFB` AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.

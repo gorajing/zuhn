@@ -45,11 +45,10 @@ stance: >-
   because inter-component connections grow faster than components themselves
 related:
   - INS-260323-61CD
+  - INS-260627-1EF5
   - INS-260330-4C31
   - INS-260403-13E6
   - INS-260626-13FB
-  - INS-260605-A803
-  - INS-260514-E481
 evidence:
   - id: INS-260329-D2CA
     type: SUPPORTS

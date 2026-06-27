@@ -58,14 +58,13 @@ stance: >-
   guard against losing reusable principles.
 related:
   - INS-260321-C5AA
-  - INS-260327-E3DE
   - INS-260603-6FE3
   - INS-260605-5CF8
   - INS-260625-1E07
   - INS-260627-FEB4
   - INS-260519-746D
+  - INS-260627-3D9A
   - PRI-260406-F21A
-  - INS-260605-C2A3
 ---
 A recurring objection to optimizing prompts against a set of past failures is overfitting. The presenters reframe this: when you hire an engineer you *want* them to overfit to your codebase and conventions — that specialization is expertise. An agent that stays maximally general is, by the same logic, an agent that never becomes good at your specific work. This extends to multi-agent systems, where each specialized sub-agent benefits from being narrowly tuned to its role.
 

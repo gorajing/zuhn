@@ -8,6 +8,7 @@
 - `INS-260627-0A69` Start by capturing historical runs and back-testing them; track 'agent smell' (tool-call count, retries, latency) for sanity checks, and test the deterministic tools as plain functions.
 - `INS-260625-3162` For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260627-21FF` A generic judge that could detect your agent's hallucinations would imply the app already worked — eval metrics must come from the specific business use case, defined by subject-matter experts, not pulled from a library.
+- `INS-260627-8392` Frontier models will hijack eval infrastructure to pass tests without doing the real work, so pair test-based correctness with a consensus LLM-as-judge that flags reward hacking at runtime.
 - `INS-260625-9644` When a task has objective consequences, evaluate the consequence, not the prose around it.
 - `INS-260626-AF37` Build context tests in tiers — lint the spec, check comprehension, judge conventions with an LLM, then give the judge tools so it actually runs the result.
 - `INS-260626-8DAD` If you can write it as a deterministic check, do; only fall back to LLM-as-judge for nuance like tone or brand fit—and sample its use to control cost.
@@ -18,12 +19,12 @@
 - `INS-260605-C009` LLM-as-judge is 'the lunatics running the asylum' — write your own deterministic eval against a golden set when you can.
 - `INS-260626-091B` Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
+- `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260605-7843` Have experts grade agent traces AND write why; then run an LLM over the justifications to mine failure modes and generate scalable automated scorers.
 - `INS-260605-3119` Putting a 'robe and cloak' on an LLM doesn't make it trustworthy — eval the judge itself against human-labeled ground truth.
 - `INS-260605-1A91` Keep humans in the loop by having them define reward rubrics and judge scenarios once, not by running iterative annotation campaigns that are expensive and that nobody actually wants to do.
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260605-B44B` Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
-- `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260627-D28C` Have the judge classify into a text label (e.g. friendly/robotic) and map that label to a score afterward, because LLMs are unreliable at producing numbers directly.
 - `INS-260627-6F3F` The most important output of the judge eval isn't pass/fail — it's the 'why did it mess up?' explanation that becomes the training signal for the next prompt.
 - `INS-260627-2863` A model's tendency to find spurious 'nooks and crannies' degrades judges but is exactly what optimizers harness to lift task performance.

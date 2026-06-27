@@ -16,6 +16,8 @@
 - `INS-260625-C700` Models that validate and refine answers by executing code mid-reasoning outperform ones confined to pure internal reasoning on hard problems.
 - `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
+- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
+- `INS-260501-8A1F` AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
 - `INS-260626-DD33` Skills should carry high-level orientation plus a link to markdown docs the agent web-fetches, so capabilities update centrally instead of forcing every user to redistribute the skill.
 - `INS-260627-4946` Instead of one embed-search-top-K pass and hoping the answer is in the chunks, give the agent the query plus search tools and let it run as many searches as it needs.
@@ -43,8 +45,6 @@
 - `INS-260625-25BF` High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
 - `INS-260410-6ABA` Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
-- `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
-- `INS-260501-8A1F` AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI.
 - `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260410-3FB3` Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
 - `INS-260625-63AF` SWE-EVO's qualitative failure analysis suggests stronger models fail by misunderstanding release notes more than by broken syntax or tool use.

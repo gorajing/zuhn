@@ -47,10 +47,10 @@ stance: >-
   be a better automation primitive than maintaining separate specialized models
   for every entity.
 related:
+  - INS-260627-8B10
   - INS-260405-CA27
   - INS-260408-C572
   - INS-260605-A558
   - INS-260405-227C
-  - INS-260605-33C0
 ---
 Earlier transcription-factor binding approaches often trained separate binary classifiers per factor, which scales poorly across a genome. This work grouped binding data into 46 transcription-factor families and trained a single model to predict many family-level binding patterns at once. The automation lesson is to model the shared structure of the label space instead of multiplying isolated classifiers.

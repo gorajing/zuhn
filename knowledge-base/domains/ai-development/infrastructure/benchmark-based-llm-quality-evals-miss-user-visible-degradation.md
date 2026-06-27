@@ -55,10 +55,10 @@ stance: >-
   into user-visible bad experiences.
 related:
   - INS-260403-5F69
+  - INS-260627-DE41
   - INS-260625-FFDF
+  - INS-260627-8D79
   - INS-260625-ED7E
-  - INS-260605-B60D
-  - INS-260625-2A4F
   - INS-260410-9D04
   - INS-260412-1191
   - INS-260413-EB61

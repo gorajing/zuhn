@@ -60,6 +60,7 @@ related:
   - INS-260327-D5B5
   - INS-260327-E63E
   - INS-260327-37C8
+  - INS-260627-453E
 stance: >-
   At Palantir, each critical product was built by the one person in the world
   who could have done it

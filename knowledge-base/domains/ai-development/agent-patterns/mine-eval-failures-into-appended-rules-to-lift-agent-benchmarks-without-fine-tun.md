@@ -55,11 +55,11 @@ stance: >-
   appended system-prompt rules, with no model changes and only ~150 training
   examples.
 related:
+  - INS-260627-8530
   - INS-260605-B44B
   - INS-260605-5A8E
   - INS-260605-0D57
   - PRI-260321-14D8
-  - INS-260626-9B36
 ---
 The full loop: run the coding agent on a software-engineering problem, execute the generated patch against unit tests, pass the result plus context into an LLM-as-a-judge eval that explains the failure, then feed those explanations into a large meta-prompt that emits a set of rules to append to the previously-empty CLAUDE.md / Cline rules file. They then re-ran the benchmark with the augmented prompt and diffed against the vanilla baseline.
 

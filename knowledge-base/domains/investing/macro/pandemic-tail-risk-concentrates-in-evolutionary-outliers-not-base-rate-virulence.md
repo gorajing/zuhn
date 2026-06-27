@@ -67,7 +67,7 @@ related:
   - INS-260410-69C2
   - INS-260326-73C0
   - INS-260412-662C
-  - INS-260404-1B01
+  - INS-260627-29D9
 ---
 Harper makes two related points about pandemic risk that cut against intuitive reasoning. First, standard evolutionary theory says pathogens face a tradeoff: killing the host too fast destroys the transmission runway, so diseases should drift toward moderate virulence. Plague violates this spectacularly because it's vector-borne (fleas transmit even from corpses) and because humans are collateral damage — its real evolutionary niche is burrowing rodents in Central Asia, so it has zero incentive to be gentle with us. Any pathogen with a similar escape from the tradeoff is a tail-risk outlier.
 

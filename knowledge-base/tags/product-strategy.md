@@ -13,6 +13,7 @@
 - `INS-260605-4375` Like GPS and Wi-Fi before it, on-device inference has real battery cost — so the platform attributes it to the responsible app and lets users choose, rather than blocking the capability.
 - `INS-260626-3AD0` Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster.
 - `INS-260627-8CFF` Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year.
+- `INS-260627-00BE` Most coding agents are 'supervised autonomy' (Tesla FSD — you need a license and stay at the wheel); serving knowledge workers requires 'unsupervised autonomy' (Waymo — sit in the back, no license, all complexity hidden).
 - `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
 - `INS-260409-5CC6` Appleton predicts legal case-analysis platforms, scientific computational notebooks, design canvases, and other domain-specific interfaces will eventually supersede generic chatbots for serious work — each embedding domain-specific critical thinking directly into the workflow.
 - `INS-260626-4A96` Cursor accepted that the skill-based worktree feature is harder to discover because it serves power users, and minimizing maintenance on an advanced feature mattered more than surfacing it in the UI.
@@ -39,9 +40,9 @@
 - `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
 - `INS-260403-DC6C` Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
-- `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
 - `INS-260625-F9CD` Success for an agentic product isn't maximizing time spent in front of it — it's maximizing the outcome the customer wanted so they can go live their life.
+- `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260605-C699` Building on-device multimodal AI for a blind father in a low-connectivity region produced a general-purpose framework now used by frontier labs and thousands of developers.
 - `INS-260404-C501` Treat differentiation as a combinatorial selection from ~20 possible axes rather than finding one unique angle.
 - `INS-260409-6C62` Right-product-right-time requires simultaneous understanding of world, tech landscape, your tech, customers, market, and competition — one human must own all of it.
@@ -59,11 +60,11 @@
 - `INS-260405-28DF` Viability is table stakes; competitive differentiation must be designed in from day one.
 - `INS-260626-8727` Strong vertical AI wedges replace an expensive missing measurement with ranked, testable candidates.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
-- `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
 - `INS-260329-BB8F` When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260329-22A8` One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.
+- `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
+- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
-- `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.

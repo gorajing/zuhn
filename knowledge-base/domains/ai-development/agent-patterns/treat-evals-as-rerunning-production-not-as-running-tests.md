@@ -50,7 +50,6 @@ stance: >-
   testing.
 related:
   - INS-260322-D1AB
-  - INS-260322-24FB
   - INS-260329-3489
   - INS-260411-8034
   - INS-260501-3D33
@@ -59,6 +58,7 @@ related:
   - INS-260626-ECC7
   - INS-260625-25D6
   - INS-260625-D1F9
+  - INS-260625-9C3B
 ---
 Braintrust treats evals and observability as the same problem: evals build confidence before production, observability maintains it after. The unifying mental model is to stop thinking of evals as 'running tests' and start thinking of them as 'rerunning production.' Concretely, the eval dataset should be populated with real production or UAT traces rather than hand-written cases.
 

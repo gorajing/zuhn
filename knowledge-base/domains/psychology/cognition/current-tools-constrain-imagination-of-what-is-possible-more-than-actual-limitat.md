@@ -53,7 +53,6 @@ stance: >-
   formulations feel surprising rather than obvious.
 related:
   - INS-260321-9906
-  - INS-260325-CACA
   - INS-260326-97C9
   - INS-260329-EDA2
   - INS-260330-1FE9
@@ -62,6 +61,7 @@ related:
   - INS-260403-F9F0
   - INS-260403-D645
   - INS-260403-F100
+  - INS-260404-673B
 evidence:
   - id: INS-260326-97C9
     type: SUPPORTS

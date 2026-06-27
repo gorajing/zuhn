@@ -60,12 +60,11 @@ stance: >-
   high API bills because tokens replace 5-10x more expensive headcount.
 related:
   - INS-260405-4091
-  - INS-260409-665F
   - INS-260519-D007
   - INS-260403-7825
+  - INS-260409-665F
   - INS-260323-BF81
   - INS-260605-26AB
-  - INS-260514-8413
   - INS-260530-777B
 ---
 Hu's structural shift: in pre-AI companies, headcount was the dominant capital expense and limit on speed. In AI-native companies, tokens replace headcount at 5-10x cost reduction. The trade-off: be willing to run an uncomfortably high API bill because it's replacing what would have taken a far more expensive and inflated headcount. One person with AI tools is what used to take a large engineering team.

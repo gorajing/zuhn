@@ -58,7 +58,7 @@ related:
   - INS-260626-742C
   - INS-260403-F100
   - INS-260329-EDA2
-  - INS-260402-0D16
+  - INS-260627-90A8
 ---
 Agents are strongest when working with the tools and conventions that appear most often in their training data. A homegrown package manager, an exotic language, or an 'unholy' modification of standard developer tools forces the agent to fight its own priors — and while instruction files can partially compensate, you are working against the grain rather than with it. The recommendation is concrete: undo bespoke tooling, adopt mainstream tools in the standard way, and reserve enthusiast languages for hobby work rather than production agentic development.
 

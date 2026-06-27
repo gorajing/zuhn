@@ -1,5 +1,6 @@
 # Tag: experiment-design
 
+- `INS-260627-8F78` Acceptance of code completions collapses once latency exceeds ~1 second, so any in-the-wild model comparison must balance latency across models or it measures speed, not quality.
 - `INS-260505-D440` Old model: experiment, analyze later. New model: model adjusts experiment in real-time from in-flight data, before the first run completes.
 - `INS-260605-8F3D` Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
 - `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.

@@ -1,5 +1,6 @@
 # Tag: dogfooding
 
+- `INS-260627-CEC6` Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context.
 - `INS-260403-F100` The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 - `INS-260410-BCA3` Office was the first-party killer app that made Windows good, Outlook was the first-party app that made Exchange good — platforms without a great first-party driver don't develop the signal needed to become great.
 - `INS-260625-D510` When users demand configurability, earn conviction for opinionated defaults by using your own product every day and trusting gut feel.

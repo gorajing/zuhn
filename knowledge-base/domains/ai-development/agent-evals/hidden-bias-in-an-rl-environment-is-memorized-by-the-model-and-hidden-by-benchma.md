@@ -56,7 +56,6 @@ stance: >-
   real task to catch it.
 related:
   - INS-260323-01F9
-  - INS-260325-FD14
   - INS-260403-E6F0
   - INS-260410-F08E
   - INS-260410-E73E
@@ -65,6 +64,7 @@ related:
   - INS-260605-FE67
   - INS-260605-0BA3
   - INS-260625-13F0
+  - INS-260625-D5A7
 ---
 Fiorucci used a minimax opponent that, when several moves tied for optimal, always picked the first free cell. He treated this as an implementation detail. Benchmark results were excellent — but when he actually played the model, it was clueless. Over many games it had simply memorized the responses of that one deterministic opponent type rather than learning tic-tac-toe. The environment, not the metric, was the real curriculum, and its hidden bias became the model's policy.
 

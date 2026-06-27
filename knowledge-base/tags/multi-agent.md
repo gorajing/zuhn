@@ -8,11 +8,13 @@
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260524-2346` Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
+- `INS-260605-C965` Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
 - `INS-260627-9968` Choreography (agents coordinate via events on a message bus) scales and decouples but is a debugging nightmare without bulletproof event observability; orchestration (a central coordinator calls each agent, manages parallelism, state, retries, and logging) trades autonomy for debuggability and rollback — choose by workflow complexity vs. autonomy need.
+- `INS-260627-2925` Map the human expert's loop — compile, run, check correctness, profile, optimize — and put the agent in that same loop rather than inventing a novel abstraction.
 - `INS-260605-6CBF` Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260627-9EBD` An agent can't just throw arbitrary data at the next agent and hope; each handoff must declare and validate a schema-and-quality contract (e.g. reject if confidence < 0.7) so contract violations are caught at the boundary, not discovered downstream as garbage reports.
 - `INS-260326-9402` Andrew Ng identifies four core agentic design patterns — reflection, tool use, planning, and multi-agent collaboration — that when combined enable AI systems to iteratively solve problems far beyond zero-shot capability.
@@ -44,7 +46,6 @@
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
 - `INS-260627-E7AE` Circuit breakers (open after N consecutive failures, fail fast, half-open to retest, close on success) stop one flaky agent from cascading failures across the workflow; the saga/compensation pattern gives every agent an execute and a reversible compensate method so a mid-workflow failure walks backward and rolls the system to its initial state.
 - `INS-260605-D777` Author a validation contract of assertions during planning—before coding—and map each feature to the assertions it must satisfy.
-- `INS-260605-C965` Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260605-6A0A` Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
 - `INS-260625-3DDC` When agents converse for hours, the context fills with their own chatter and they revert to their underlying trained personality regardless of the system prompt.
 - `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.

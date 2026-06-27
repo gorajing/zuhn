@@ -8,4 +8,5 @@
 - `INS-260627-AA29` When a frontier model works but is too costly at scale, optimize the prompt for a cheaper model to claw performance back before reaching for fine-tuning.
 - `INS-260627-AD6B` Use the rich English explanations of why an output was wrong — not just a pass/fail score — to drive prompt rewrites.
 - `INS-260627-54A4` These optimizers don't work out of the box on real problems; you debug them like ML — run small iterations, read the generated candidates and reflection traces, hand-tune the reflection template, and aim to overfit the training data before scaling up.
+- `INS-260627-8530` GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - `INS-260627-335A` Two seed-prompt families were tried — one with the agent's full policy copy-pasted in, one without — and the policy-free seed optimized better, because starting with the complete policy locks you into a local minimum you can't improve on.

@@ -68,7 +68,7 @@ related:
   - INS-260625-B6E9
   - INS-260627-AA19
   - INS-260626-9732
-  - INS-260625-6127
+  - INS-260627-C559
 ---
 A core mental shift the talk advocates: stop reasoning about the physical process your agent runs in. Traditionally a developer worries 'what happens to this process if it crashes, scales, or has to wait?' With durable execution, you write the program against a logical process and let the runtime map it onto whatever physical processes exist. The hardest case this solves elegantly is human-in-the-loop: an agent that must wait hours or days for human input. Naively, you must decide what to do with a blocked process. Under this model the worker keeps the agent in memory briefly, then evicts it to cache, then drops it entirely — and when the human responds days later, it reconstitutes the in-memory state from event history and continues as if it had never stopped.
 

@@ -53,13 +53,13 @@ related:
   - INS-260327-E07C
   - INS-260501-3D33
   - INS-260530-C385
-  - INS-260605-4D1D
   - INS-260605-E2D9
   - INS-260605-2186
   - INS-260605-09E0
   - INS-260625-C08B
   - INS-260625-8A55
   - INS-260625-25D6
+  - INS-260625-D1F9
 ---
 Asked how many evals are 'enough,' Khan rejects a fixed number and describes a loop: start in development with a small, non-statistically-significant CSV (e.g. 10 examples), iterate on data sets and experiments until the whole team is confident, ship, then run the same evals on live production data and pull new failures back into development. The eval data set is a living asset that keeps changing over time.
 

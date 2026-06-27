@@ -51,10 +51,10 @@ stance: >-
   resets with structured handoff artifacts work better than in-place compaction.
 related:
   - INS-260627-3481
+  - INS-260627-F9B1
   - INS-260519-8748
   - PRI-260320-07A4
   - INS-260327-DC4C
-  - INS-260605-83DA
 ---
 Long-running agents lose coherence as context fills, and some models exhibit 'context anxiety' — wrapping up work prematurely as they sense their context limit approaching. Compaction (summarizing earlier conversation in place) preserves continuity but the same agent keeps believing it's near its limit, so the anxiety persists. Context resets clear the window entirely and start a fresh agent, paired with a structured handoff artifact carrying state and next steps.
 

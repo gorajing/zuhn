@@ -66,10 +66,10 @@ related:
   - INS-260320-1B10
   - INS-260323-4B4D
   - INS-260325-ADF5
-  - INS-260323-8555
   - INS-260320-4A82
   - INS-260327-3E23
   - INS-260403-30E5
+  - INS-260404-8E0D
 ---
 The hopeful framing of AI-in-product-management is 'PMs ship features themselves, engineers focus on harder problems.' The actual observed pattern is different: PMs ship attempts, engineers review them. Because the PM lacks code-base context (which dependency calls what, which feature flag gates what, which test catches what), the agent-generated change frequently has subtle errors that require an engineer to catch.
 

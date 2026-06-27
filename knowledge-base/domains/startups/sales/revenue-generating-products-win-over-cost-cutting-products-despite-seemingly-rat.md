@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260328-FFC3
   - INS-260403-39CF
+  - INS-260627-6F57
   - INS-260410-52C8
   - INS-260514-8413
-  - INS-260514-DFAE
 evidence:
   - id: INS-260405-FAE3
     type: TRANSFERS_TO

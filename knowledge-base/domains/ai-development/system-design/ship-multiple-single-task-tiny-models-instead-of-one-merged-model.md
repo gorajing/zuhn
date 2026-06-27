@@ -62,7 +62,6 @@ related:
   - INS-260605-AA90
   - INS-260605-FB4D
   - INS-260624-5ACA
-  - INS-260626-4320
 ---
 In AI Edge Eloquent, Google split dictation into a speech-recognition engine and a separate dedicated mini-LLM text-polishing engine, even though 'we could probably have built one LLM to do all of this.' The choice is a deliberate 'modularity playbook' emerging as they build more on-device apps, and it rests on two pragmatic advantages over a single merged model.
 

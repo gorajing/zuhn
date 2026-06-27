@@ -1,3 +1,4 @@
 # Tag: productivity-paradox
 
 - `INS-260413-9818` AI Index 2026 flags emerging evidence that heavy AI reliance may carry long-term learning penalties that slow skill development over time — the productivity-for-learning trade-off becomes structural.
+- `INS-260627-0D0C` Engineers report tasks dropping from days to minutes, yet enterprises average only 5-15% overall gains because workflows, review, and team structure inherited from human-paced development never changed.

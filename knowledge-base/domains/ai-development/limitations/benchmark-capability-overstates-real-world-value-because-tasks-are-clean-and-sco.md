@@ -62,9 +62,9 @@ related:
   - INS-260405-9760
   - INS-260403-5F69
   - INS-260514-3974
-  - INS-260605-3ABF
   - INS-260605-09B1
   - INS-260605-33B4
+  - INS-260627-8D79
   - INS-260625-1187
 ---
 Becker offers several structural reasons benchmark capability fails to translate. First, baseliners are 'low context' experts on their first week—the AI looks strong relative to them, but a developer deeply familiar with the codebase already knows the solution, so the AI offers less marginal value. Second, benchmark scoring (SWE-bench-style) is 'costless at the margin'—it only checks whether unit tests pass, ignoring whether code is maintainable, readable, and mergeable by others later. Real work is graded on this holistic quality. Third, benchmark tasks live in small contained environments where little can go wrong, lacking the coordination, scale, and messiness of million-line production repos.

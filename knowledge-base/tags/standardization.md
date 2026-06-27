@@ -1,6 +1,7 @@
 # Tag: standardization
 
 - `INS-260627-D515` Use industry-standard languages, package managers, and linters the way the outside world uses them, because that is what's in the model's training set.
+- `INS-260627-90A8` Skip stack standardization and let developers use whatever language they like, since AI can read any repo and translate a feature's approach into another framework on demand.
 - `INS-260605-EF3C` A company-curated baseline agent — approved MCP servers, sanctioned auth, team-specific skills, shared drive access — fanned out to every new hire turns agent onboarding into a reproducible, governed default.
 - `INS-260627-D692` Provide template GitHub repos with Docker, auth, cost tracking, and observability already wired in so developers start from production-ready scaffolding and only write the agent's actual value.
 - `INS-260325-5B7F` Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.

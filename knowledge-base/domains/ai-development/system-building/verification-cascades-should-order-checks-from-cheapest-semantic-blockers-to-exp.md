@@ -52,7 +52,7 @@ related:
   - INS-260626-ECC7
   - INS-260627-8F84
   - INS-260626-9155
-  - INS-260522-2CE8
+  - INS-260627-F457
 ---
 NOVA uses a progressive verification cascade: structure-semantic checking catches domain-invalid candidates before training, local executability tests catch implementation errors, offline evaluation measures AUC against the production baseline, and online A/B tests validate business impact. Each stage shrinks the candidate set before the next, more expensive gate.
 

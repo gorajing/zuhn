@@ -56,8 +56,8 @@ related:
   - INS-260605-0BD6
   - INS-260605-5983
   - PRI-260322-8FD4
+  - INS-260627-647D
   - PRI-260406-5BD0
   - PRI-260406-2D38
-  - PRI-260328-4CC0
 ---
 With AI services the product IS an operation, so founders must adopt an operations mindset: find the bottlenecks and build for the bottlenecks, and track throughput and cycle time the way a SaaS company tracks daily active users. The existential threat is variance — non-uniform outputs from your service. Inconsistency destroys trust, and lost trust causes churn; customers will fire you for variance faster than for being slightly slower or more expensive than the incumbent. Humans in the loop must scale non-linearly: if revenue grows only in lockstep with headcount, the model breaks — automating the process is the product. The humans in the loop are also your users, so they need to enjoy the software. It's fine to do things that don't scale at the very beginning, but eventually you genuinely must scale the process itself. Operational rigor (variance, throughput, cycle times, SOPs, shift work) is an unglamorous skill set founders must learn to respect and ideally enjoy, because the product is fundamentally a running operation.

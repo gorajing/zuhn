@@ -50,12 +50,11 @@ stance: >-
   productivity statistics remain too noisy and confounded to confirm a
   structural AI-driven boom.
 related:
+  - INS-260627-DD22
   - INS-260405-B204
   - INS-260627-8ED0
   - INS-260329-9D26
   - INS-260405-95A6
-  - INS-260409-1390
-  - INS-260403-2833
   - INS-260505-969C
   - INS-260626-4216
 ---

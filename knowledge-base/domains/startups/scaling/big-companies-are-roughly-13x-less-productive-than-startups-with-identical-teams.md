@@ -49,11 +49,11 @@ stance: >-
   people — reduces programmer productivity by approximately an order of
   magnitude.
 related:
+  - INS-260627-0D0C
   - INS-260404-1E35
   - INS-260405-8080
   - INS-260405-35DF
   - INS-260403-86C7
-  - PRI-260328-5CDE
 evidence:
   - id: INS-260327-D1B7
     type: TRANSFERS_TO

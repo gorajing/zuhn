@@ -52,8 +52,8 @@ related:
   - INS-260323-AF7B
   - INS-260323-E15F
   - PRI-260328-5CDE
+  - INS-260627-3D9A
   - INS-260626-1BB0
-  - INS-260329-4DBC
 ---
 Replit was dismissed for years as a beginner toy because professionals evaluated it against their existing local setups. This mirrors a recurring pattern in technology: markets overvalue tools that make the productive more productive, while undervaluing tools that expand participation. The former shows immediate ROI; the latter looks like a long tail of low-value users.
 

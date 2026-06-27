@@ -51,16 +51,16 @@ stance: >-
   dramatically for tiny models but offers diminishing returns as model
   capability grows.
 related:
-  - INS-260605-8E69
   - INS-260626-475E
   - INS-260626-485E
   - INS-260625-3EE6
   - INS-260626-AC8E
   - INS-260605-0312
   - INS-260605-1A2D
-  - INS-260624-B6EA
   - INS-260625-86CF
   - INS-260625-CC0F
+  - INS-260625-26FE
+  - INS-260627-08E7
 ---
 Because an edge runtime knows there is a finite, known set of tools the model may call, it can apply constrained decoding that is stronger than generic JSON-schema constraints — narrowing output to the particular tool expected at that step. Google applies this only when generating a tool call, not during free text, and reports it provides 'stronger guardrails' that raise quality enough to be production-useful.
 

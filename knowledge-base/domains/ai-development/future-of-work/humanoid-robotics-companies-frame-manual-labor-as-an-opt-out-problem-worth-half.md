@@ -59,7 +59,6 @@ related:
   - INS-260403-7825
   - INS-260402-C98A
   - INS-260404-29AF
-  - INS-260403-D227
 ---
 Figure closed a $1B Series C at a $39B post-money valuation, a 15x jump from its $2.6B Series B just 18 months prior. The company's master plan frames manual labor compensation as ~50% of global GDP (~$42 trillion/yr) and positions humanoid robots as the mechanism for humans to opt out of physical work while sharing in the resulting abundance.
 

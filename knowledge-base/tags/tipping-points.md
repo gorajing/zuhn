@@ -1,5 +1,6 @@
 # Tag: tipping-points
 
+- `INS-260627-591E` The payoff curve for AI adoption is a cliff at 100%, not a ramp, because a small holdout minority drags the entire org back into pre-AI ways of working.
 - `INS-260325-B882` AI, clean energy, and bioengineering are simultaneously hitting their technology adoption tipping points, creating a convergence that may produce civilizational-scale change.
 - `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
 - `INS-260327-C4AD` Suez didn't transfer power from Britain to America — it publicly revealed a transfer that had already happened, making it permanent and irreversible.

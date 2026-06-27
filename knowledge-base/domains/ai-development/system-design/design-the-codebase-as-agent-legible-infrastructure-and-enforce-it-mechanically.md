@@ -56,7 +56,6 @@ stance: >-
   legibility — modular, no hidden magic, conventional patterns — and enforced
   with linting rules rather than hoped for.
 related:
-  - INS-260605-8A88
   - INS-260626-5375
   - INS-260605-25B2
   - INS-260627-0C43

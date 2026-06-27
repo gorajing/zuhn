@@ -3,12 +3,21 @@
 - `INS-260625-869B` Budgeted ranked evidence is a stronger context gate than raw file-hit or token-count metrics.
 - `INS-260320-E6DD` Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
 - `INS-260320-5B49` Curated structured data enables REASONING about connections. Vector memory stores text blobs for retrieval. For business-ready context, structure wins.
+- `INS-260605-4860` MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
+- `INS-260410-D034` If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
+- `INS-260327-B539` Claude Code's AutoDream periodically consolidates memory files in the background -- merging, pruning, and compacting -- creating a sleep-like cycle that keeps sessions feeling sharp rather than cluttered.
+- `INS-260410-6B30` Treat CLAUDE.md like code — prune ruthlessly, and if Claude keeps violating a rule, the file is probably too long, not too short.
+- `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
+- `INS-260410-761B` Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
+- `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.
+- `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260605-672C` LLMs compact context and humans forget, so the 'why' behind every flow, feature, and architectural choice must live in durable records an agent can re-discover on demand.
 - `INS-260627-93C4` A full context makes the model 'stupider,' so fork work into sub-agents that feed back only results and instruct the agent to save state as markdown files for long-term memory.
 - `INS-260626-181F` Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260605-03A6` Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260410-B0D6` Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
+- `INS-260627-F9B1` Run verification in a sub-agent with a scoped fresh context, scratch that context, and inject only the last observation back — this is separation of concerns applied to context windows.
 - `INS-260605-2032` Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
 - `INS-260624-F048` A million-token window is not a substitute for a context manager.
 - `INS-260327-FDC1` Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.
@@ -20,14 +29,6 @@
 - `INS-260626-DA0A` Feeding an agent more context isn't the bottleneck — the bottleneck is being able to leverage what you gave it in future sessions.
 - `INS-260605-295D` Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
-- `INS-260605-4860` MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
-- `INS-260410-D034` If you've corrected Claude twice on the same issue, stop correcting — /clear and restart with a prompt that incorporates what you learned.
-- `INS-260327-B539` Claude Code's AutoDream periodically consolidates memory files in the background -- merging, pruning, and compacting -- creating a sleep-like cycle that keeps sessions feeling sharp rather than cluttered.
-- `INS-260410-6B30` Treat CLAUDE.md like code — prune ruthlessly, and if Claude keeps violating a rule, the file is probably too long, not too short.
-- `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
-- `INS-260410-761B` Most Claude Code best practices reduce to one principle: the context window fills fast and performance degrades as it fills.
-- `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.
-- `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260605-5CC7` When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
 - `INS-260626-A2B9` Centralize planning and decisions in one agent and expose capabilities as tools — each tool can carry its own system prompt, validation logic, and even its own LLM call — so the global context stays intact in the decision-maker.
 - `INS-260514-23D6` Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't.

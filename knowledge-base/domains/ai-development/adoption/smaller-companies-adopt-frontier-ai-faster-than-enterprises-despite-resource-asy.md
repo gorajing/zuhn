@@ -68,8 +68,8 @@ related:
   - INS-260424-4111
   - INS-260501-10B4
   - INS-260501-FBC6
-  - INS-260514-EE2E
   - INS-260626-13FB
+  - INS-260625-A4DE
 ---
 The conventional wisdom says enterprises adopt slowly because of compliance/legal/integration friction. The panel evidence suggests something stronger: enterprises are also self-bottlenecking on a stale mental model of what AI does — specifically, they're still in 'chat with our internal documents' deployment, which is a 2024-era use case.
 

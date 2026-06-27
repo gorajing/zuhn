@@ -50,10 +50,10 @@ stance: >-
   only during active request handling beats always-on provisioning.
 related:
   - INS-260412-06A1
+  - INS-260627-C559
   - INS-260327-5690
   - INS-260605-9A01
   - PRI-260411-9CB1
-  - INS-260625-6FC0
 ---
 RunPod's serverless product charges 'only while the worker is actually running and handling a request' — workers spin down when idle and cost nothing, versus an always-on container that bills continuously. The pricing in the demo was a fraction of a cent per second of active execution.
 

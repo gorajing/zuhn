@@ -44,10 +44,10 @@ resolutions:
     -> build minimal -> ship, not build -> ship -> hope.
 related:
   - INS-260329-500E
+  - INS-260627-9D9A
   - INS-260525-77FE
   - INS-260625-904E
   - INS-260403-A2E9
-  - INS-260501-70FE
   - INS-260327-2387
   - INS-260330-F125
   - INS-260409-21E0

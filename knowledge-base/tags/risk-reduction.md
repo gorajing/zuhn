@@ -1,5 +1,6 @@
 # Tag: risk-reduction
 
+- `INS-260627-4D17` Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - `INS-260330-A7CB` Overnight wear and inadequate cleaning of reusable contacts dramatically increases corneal infection risk; daily disposables eliminate the cleaning variable entirely.
 - `INS-260329-E86C` David Malan himself almost didn't take CS50 until he was allowed to enroll pass/fail, proving that stake reduction unlocks hidden talent.
 - `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 202 insights
+> 203 insights
 
 - `INS-260412-4FBF` [high] If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
@@ -157,6 +157,7 @@
 - `INS-260412-7512` [medium] Framing stakes as irreversible losses (life gone forever) drives urgency better than framing them as missed opportunities.
 - `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260514-0239` [medium] Game selection beats game excellence. Hedge funds, IB, big tech — crowded high-status games. Ambulance supply, specialty B2B, niche distribution — uncrowded with similar/better outcomes. Choose the game, then play it well.
+- `INS-260627-8378` [medium] When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
 - `INS-260410-BFA1` [medium] Bernard Arnault started accumulating Hermès shares through equity swaps specifically when he saw Jean-Louis Dumas's retirement coming and no clear single successor — the first separation of CEO and artistic-director roles was the opening.
 - `INS-260412-9270` [medium] Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
 - `INS-260405-690F` [medium] The gain of today is the expectation of tomorrow — adaptation collapses the distance between delight and neutral.

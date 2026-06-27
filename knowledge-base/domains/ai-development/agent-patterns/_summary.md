@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 450 insights
+> 460 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -75,6 +75,7 @@
 - `INS-260626-5545` [high] Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
 - `INS-260626-181F` [high] Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
 - `INS-260625-868D` [high] Mark parts of the codebase as human-read-only because AI that sees bad code writes more bad code in a vicious cycle.
+- `INS-260627-2925` [high] Map the human expert's loop — compile, run, check correctness, profile, optimize — and put the agent in that same loop rather than inventing a novel abstraction.
 - `INS-260410-0FC1` [high] Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
 - `INS-260410-A1E9` [high] Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
 - `INS-260410-F910` [high] Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
@@ -139,6 +140,7 @@
 - `INS-260626-A645` [high] Put the human-review step in the execution path as a brick wall the agent cannot route around, instead of trusting the model to ask first.
 - `INS-260605-E7AD` [high] Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260403-834C` [high] Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
+- `INS-260627-F9B1` [high] Run verification in a sub-agent with a scoped fresh context, scratch that context, and inject only the last observation back — this is separation of concerns applied to context windows.
 - `INS-260410-1B17` [high] Schemas express what is valid; examples express what is idiomatic — and models need the latter to call complex tools correctly.
 - `INS-260410-19DE` [high] Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
 - `INS-260626-057E` [high] The paper concludes that human-written context files should mostly encode specific extra requirements, not broad repository overviews.
@@ -158,6 +160,8 @@
 - `INS-260605-34B0` [high] Separate implementation and validation into different agents with different context, and validate behavior by actually running the app, not just linting and tests.
 - `INS-260605-B4B9` [high] Pick local agents for work you want to stay in the weeds on, background agents for 50/50 supervision, and cloud agents for work you don't care to watch.
 - `INS-260626-6E3B` [high] The paper finds no single memory system dominates; cross-session reasoning, coherent dialogue, and stateful execution each favor different memory structures.
+- `INS-260627-8B10` [high] Frontier models span a spectrum from one-shot output to multi-step agentic tool-calling; pick the mode that fits the task instead of forcing every job into the same pattern.
+- `INS-260627-59CB` [high] Optimize for 'reducible runtime' — the time a user makes zero technical decisions — rather than treating long runtime as a badge of honor.
 - `INS-260605-2AAF` [high] Track fuel efficiency (tokens per successful outcome) per user journey — but never optimize it at the expense of whether the agent actually finishes.
 - `INS-260501-247C` [high] Ask your agent every day: 'what's one task I'm doing repeatedly that you should automate?' That's the loop until proactive observation works.
 - `INS-260410-CD79` [high] Anthropic's SOTA SWE-bench agent used only a prompt plus a Bash tool and an edit tool, deliberately avoiding hardcoded step transitions.
@@ -223,6 +227,7 @@
 - `INS-260605-37DA` [high] Keep the first 100 and last 100 characters plus the system prompt and latest tool result, store the truncated middle in memory, and let the agent retrieve it on demand.
 - `INS-260501-C59A` [high] Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt.
 - `INS-260627-214C` [high] A spec is simultaneously a set of versioned artifacts, a structured requirements-design-execution workflow, and a tooling layer (property tests, requirements verification) that delivers reproducible results.
+- `INS-260627-C3CE` [high] Compress a 5M-token codebase into a 2,000-word spec via three validated phases — research, plan, implement — so review happens in minutes and the implementation phase becomes mechanical.
 - `INS-260626-9D78` [high] Decompose an agent's behavior into four layers — immutable identity, situational mode, example-anchored voice, and a post-generation veto — assembled in a fixed order rather than crammed into one prompt.
 - `INS-260625-35C5` [high] Let the latest reasoning model research 80% of the task, but route the final 20%—validation, summarization, next-action—through restricted, deterministic gates that don't need a high-reasoning model and stop the infinite loop.
 - `INS-260627-2524` [high] Keep the orchestration layer deterministic so it can be replayed, and confine all side effects to retryable steps.
@@ -240,6 +245,7 @@
 - `INS-260605-CEB5` [high] Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260423-72D0` [high] Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
 - `INS-260605-D3C7` [high] Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
+- `INS-260627-C559` [high] Reactive async agents shift execution off the human but leave the monitoring load on them, capping the productivity gain.
 - `INS-260605-A847` [high] Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
 - `INS-260626-2D64` [high] Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
 - `INS-260625-25BF` [high] High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
@@ -334,10 +340,12 @@
 - `INS-260605-A705` [medium] Always commit before an agent starts changing code, because it may not remember what the code looked like before.
 - `INS-260605-77EB` [medium] Agents are well-suited to compile, read the error, and fix — so a strict compiler converts each rejected compile into a bug that never reached production.
 - `INS-260626-23E7` [medium] Stop using AI as a co-pilot and make it the building layer: record all artifacts, then run a nightly loop that reads transcripts and rewrites skills until each skill beats the best human at that task.
+- `INS-260627-54E6` [medium] Run agent work as a plan-delegate-assess-codify loop whose payoff step is codifying tacit lessons into CLAUDE.md, sub-agents, and slash commands so the whole org compounds them.
 - `INS-260605-C513` [medium] You can define 80% of agent behavior statically and intentfully, but the ever-changing 20% is where the disasters live — so point your adaptive evals there.
 - `INS-260605-55A6` [medium] Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
 - `INS-260514-DFAE` [medium] Context engineering = coordinating intelligent actors (AI + human teammates) to build products. Subsumes product/design/engineering in 5 years. Engineering managers (already prompting humans for years) are best positioned, NOT individual contributors.
 - `INS-260605-C00C` [medium] Unlike an audit log that records what happened in time order, a context graph organizes decisions by entity and relationship and preserves why they were made — making agent decisions explainable and auditable.
+- `INS-260627-21D0` [medium] Distrust of AI code is 80% a context problem, not a model problem — and the right context includes standards, PR history, and org logs, not just the current branch.
 - `INS-260605-A803` [medium] When scaling coding-agent swarms, runtime, orchestration, and triggering are largely solved — coordination (agents picking up tasks from and collaborating with each other) is the actual bottleneck.
 - `INS-260627-CC45` [medium] Build one agentic loop that dispatches tool calls by name through a registry, so changing tools never means rewriting orchestration.
 - `INS-260605-EF23` [medium] Make the eval the end-state you want to reach, not the starting dataset of correct answers.
@@ -378,6 +386,7 @@
 - `INS-260626-88B8` [medium] Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - `INS-260405-8166` [medium] A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
 - `INS-260626-D8E6` [medium] Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.
+- `INS-260627-B244` [medium] Legacy modernization (high context, well-defined output) suits a 'factory of agents' where humans give a spec and final review; greenfield/new features suit an 'iterative loop' where agents are co-creators generating variation for fast feedback.
 - `INS-260410-1A22` [medium] Pick the tool-use feature that solves your actual bottleneck — definition bloat, intermediate data, or parameter errors — not all three by default.
 - `INS-260627-0503` [medium] The agent often knew the physics but needed humans to recognize when an optimization framing had saturated.
 - `INS-260627-4130` [medium] A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.
@@ -398,6 +407,7 @@
 - `INS-260627-E0AE` [medium] Look at the policy, not only the path it happened to take.
 - `INS-260627-0009` [medium] A week-long video task became a 5-minute afterthought not because of a smarter model but because the brand guide, live stats, dashboard, and Remotion skill were already wired into the system.
 - `INS-260626-43C9` [medium] Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
+- `INS-260627-453E` [medium] Proactivity is built from four hard ingredients — observation, personalization, timeliness, and seamless workflow integration — and missing any one breaks the 'magic'.
 - `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.
 - `INS-260626-2F2E` [medium] Record the exact code-execution tool version whenever an agent composes tools through code.
 - `INS-260626-78E6` [medium] CLI access, keyword tool-search, and code mode all solve the same problem — never load all tools at once — so choose by constraints, not as rival camps.

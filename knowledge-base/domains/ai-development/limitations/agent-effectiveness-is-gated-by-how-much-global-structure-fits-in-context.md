@@ -51,7 +51,6 @@ stance: >-
   the agent locally reasonable but globally demented.
 related:
   - INS-260330-C2C4
-  - INS-260625-E10F
   - INS-260626-057E
   - INS-260329-A461
   - INS-260403-2D99

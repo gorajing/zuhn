@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 80 insights
+> 85 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -34,6 +34,7 @@
 - `INS-260410-953E` [high] MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260322-3083` [high] Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
 - `INS-260403-EE02` [high] Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
+- `INS-260627-647D` [high] Bottom performers weren't even measuring speed and only 10% measured productivity; top performers build a holistic chain from inputs (tool spend, upskilling) through outputs (velocity, developer NPS, code resilience) to economic outcomes (time-to-revenue, cost per pod).
 - `INS-260323-282F` [high] Microsoft — the apex predator of enterprise software with 440M Office 365 users — has only 8M active paying AI Copilot users, generating roughly $2.9B/year against $200B+ in AI capex.
 - `INS-260403-BBCF` [high] McKinsey's 2025 State of AI shows the gap between AI leaders and laggards is driven by operational redesign willingness, not technology access.
 - `INS-260405-9285` [high] AI agent deployment now requires use case judgment, not engineering skill — the bottleneck has shifted from build to design.
@@ -50,17 +51,21 @@
 - `INS-260409-D012` [high] Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
 - `INS-260403-D540` [high] AI capability moves at research speed while economic adoption moves at institutional speed, and the gap between them is where fortunes are made.
 - `INS-260322-FD23` [high] Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
+- `INS-260627-DA32` [high] A '100% AI adoption' mandate just teaches engineers to game the metric ('I'll update my readme every morning and be compliant') without moving any real outcome.
 - `INS-260403-2A0F` [high] Effective AI adoption measurement pairs leading indicators like power-user counts with lagging indicators like hours saved or PRs merged.
 - `INS-260409-52CE` [high] If your AI output is slop, you probably asked it to 'write good copy' instead of giving it 12 rules and 16 samples — the feedback loop is the same as training a junior employee, just 100x faster.
 - `INS-260322-0812` [high] The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
 - `INS-260413-6CE0` [high] 58% of employees globally use AI at work regularly — but the share exceeds 80% in India, China, Nigeria, UAE, and Saudi Arabia, while North America/Europe sit at 40-48%, inverting the usual wealth-diffusion pattern.
+- `INS-260627-591E` [medium] The payoff curve for AI adoption is a cliff at 100%, not a ramp, because a small holdout minority drags the entire org back into pre-AI ways of working.
 - `INS-260403-E23C` [medium] An MIT study found 95% of companies investing in AI tools saw zero return, pointing to a gap between AI capability and organizational readiness to deploy it effectively.
 - `INS-260605-6DE5` [medium] Introduce agent patterns where they improve the product; do not start with a rewrite.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260514-A946` [medium] AI breaks the elite-tutor monopoly — Go mastery used to require entering an elite academy with a great master; now AI is the master, and non-elite learners can reach top levels without credential access.
 - `INS-260403-643A` [medium] AI tools generate code easily but debugging still requires technical intuition, creating a hidden cliff where non-coders get stuck.
 - `INS-260424-90E6` [medium] Jason Davenport (Google Cloud): I think we're in an efficiency phase of AI right now — I'm a little excited for when it's over and we start to think about business transformation as a result of AI, because that's where the next Googles, the next Ubers, the next yeah, they're going to come from.
+- `INS-260627-CCC6` [medium] The more use cases a person or organization deployed, the better their reported ROI — leaders win by treating AI as a comprehensive strategy, not a portfolio of one-off pilots.
 - `INS-260409-21E0` [medium] Becoming an architect rather than a mason in the AI era requires extreme environmental constraints to rewire patterns, not motivational self-talk, because the discipline gap is what separates the two groups.
+- `INS-260627-29D9` [medium] Production agents moved through the pilot phase faster than expected, so the live constraint is now the human side — enablement, sandboxes, and reduced resistance — not the technology.
 - `INS-260626-9A47` [medium] When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.

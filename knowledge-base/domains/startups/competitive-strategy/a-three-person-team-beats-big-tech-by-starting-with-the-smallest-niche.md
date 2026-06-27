@@ -52,6 +52,7 @@ related:
   - INS-260410-DF88
   - INS-260402-B42C
   - INS-260403-21A7
+  - INS-260627-DAF7
 ---
 Lang is blunt: it would be foolish to believe a 3-person team can just show up and be better than companies with thousands of employees after one year of work. The realistic path is starting with a very small, specific niche where you can deliver dramatically better value, then expanding over time.
 

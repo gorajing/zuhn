@@ -55,7 +55,6 @@ stance: >-
   copies and reabsorb their learnings, dissolving the boundary between
   individual workers.
 related:
-  - INS-260321-E9B7
   - INS-260330-1F41
   - INS-260402-91B5
   - INS-260330-E670
@@ -65,6 +64,7 @@ related:
   - INS-260410-7AF5
   - INS-260410-9AF4
   - INS-260325-502D
+  - INS-260410-8C24
 ---
 Dwarkesh's 'Mega Steve' thought experiment posits a central AI running a firm by spawning millions of distilled copies for specific tasks — customer conversations, engineering decisions, market research — then reabsorbing everything they learn. Unlike human organizations where knowledge flows are bottlenecked by language and meetings, these copies communicate through latent representations, similar to how layers in a neural network already interact.
 

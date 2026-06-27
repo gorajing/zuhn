@@ -64,6 +64,7 @@ related:
   - INS-260605-61D9
   - INS-260627-95CF
   - INS-260627-0126
+  - INS-260627-8674
 ---
 Traditional software engineering assumes failures can be retried cheaply from the start of a request. Agents violate this: they run for long stretches, maintain state across many tool calls, and errors compound — one bad tool call can send the agent down an entirely different trajectory. Restarting a 50-turn research session because turn 47 failed is both expensive and infuriating for users.
 

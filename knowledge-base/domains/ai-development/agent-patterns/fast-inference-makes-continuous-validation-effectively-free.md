@@ -51,11 +51,11 @@ stance: >-
   Validation steps should be baked into every step of the workflow rather than
   deferred to the end, because fast models eliminate their time cost.
 related:
+  - INS-260627-C3CE
   - INS-260626-A5CB
   - INS-260627-E257
   - INS-260627-B1B2
   - INS-260522-88E0
-  - INS-260626-E5E5
 ---
 Under slow generation, developers batched validation — tests, linting, QA, diff review — to the very end right before pushing, because each step added painful latency to an already slow loop. Chieng's claim is that fast inference flips the economics: validation that used to be too slow to run continuously is now effectively free, so it should be interleaved into every step rather than saved for the end.
 

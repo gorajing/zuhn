@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 116 insights
+> 120 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -29,6 +29,7 @@
 - `INS-260322-2B2D` [high] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
 - `INS-260328-5431` [high] AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
 - `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
+- `INS-260627-E4F9` [high] In the METR study every engineer felt more productive using AI assistance, yet the data showed a 19% productivity decrease.
 - `INS-260605-E490` [high] Half-duplex models that only listen OR speak break on the overlap, coughs, and 'mhm' backchanneling that make human talk human — up to 20% of a conversation is overlapping speech.
 - `INS-260411-E6BD` [high] AI can computationally monitor and regulate itself (functional self-awareness) but lacks subjective experience (phenomenal self-awareness), setting a hard epistemic boundary.
 - `INS-260501-A5F5` [high] Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
@@ -52,6 +53,7 @@
 - `INS-260403-7D7A` [high] Treating prompts as code-like instructions rather than search queries is the single highest-leverage shift for AI output quality.
 - `INS-260409-1E3C` [high] Asking users to write their own critical-thinking prompts (like Appleton's 'Scholarly Inquisitor' Claude style) is not a solution because most users don't realize the default is fawning and can't write the prompts that would override it — defaults are what ships to 99% of users.
 - `INS-260625-ACBC` [high] Pull requests exist to codify trust; when an agent writes and another agent reviews, trust becomes diffuse and tools only solve verification, not trust.
+- `INS-260627-F193` [high] 'It works' isn't enough — every time you skip thinking to keep up with generation speed, you don't just add code you don't understand, you lose the instinct that says 'this is getting complex.'
 - `INS-260329-EDA2` [high] It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
 - `INS-260329-500E` [high] AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
 - `INS-260322-30A0` [high] In the AGI era, the critical skill shifts from executing tasks to evaluating outputs — from doing the homework to grading it.
@@ -61,6 +63,7 @@
 - `INS-260413-6DBD` [high] US experts vs public AI optimism on jobs: 73% vs 23%. On economy: 69% vs 21%. On medical care: 84% vs 44%. The expert-public gap is 50 points on average and replicates across nearly every AI topic surveyed.
 - `INS-260322-F6B5` [high] A designer quit her job not because AI replaced her work, but because her boss's AI-generated feedback overwhelmed her judgment to the point where she feared losing her own creative identity.
 - `INS-260403-AB55` [high] The philosophical framework of evaluating AI behavior by external causes and effects rather than internal experience dissolves the reality/roleplay debate into something empirically testable.
+- `INS-260627-41C1` [high] Higher levels of agent capability raise the stakes of alignment and human oversight, not the case for removing the human.
 - `INS-260322-83D4` [high] The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260322-DAA1` [high] Using AI to do learning-stage work (writing, reasoning) destroys the cognitive development the work was designed to build, creating a generation that cannot think independently.
 - `INS-260501-D9D1` [high] Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why.
@@ -106,6 +109,7 @@
 - `INS-260403-529D` [medium] Telling the AI 'you are a clinical researcher' or 'you are a senior developer' shifts its entire output posture from generalist to specialist.
 - `INS-260505-4CDB` [medium] The doom isn't mushroom clouds — it's all of us getting lazy and stupid by outsourcing the muscle of actual thinking.
 - `INS-260323-DE7F` [medium] We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
+- `INS-260627-386E` [medium] Confidence labels plus rationale and code location turn agent suggestions into a triageable queue instead of a code-review burden.
 - `INS-260423-187E` [medium] Seth Godin: a brand's AI that has seen all my tools is a whole new level of permission — the more I teach it, the more their brand is worth to me.
 - `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.
 - `INS-260409-FEAE` [medium] Naming the field 'artificial intelligence' was a marketing choice that now distorts every public debate — evaluating systems by output and cost rather than by analogy to humans would be more honest.

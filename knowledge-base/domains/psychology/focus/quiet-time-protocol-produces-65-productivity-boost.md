@@ -54,12 +54,13 @@ stance: >-
   confetti — the fragmentation of meaningful work blocks into unusable
   micro-intervals.
 related:
+  - INS-260627-E4F9
+  - INS-260627-9D9A
   - INS-260626-BDAB
   - INS-260514-6EE6
   - INS-260501-0662
-  - INS-260412-7FF8
-  - PRI-260406-6531
   - INS-260330-ED04
+  - INS-260412-7FF8
   - INS-260524-8E5D
 evidence:
   - id: INS-260329-9D26

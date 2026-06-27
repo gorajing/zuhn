@@ -53,7 +53,7 @@ related:
   - INS-260329-06F2
   - PRI-260405-608A
   - INS-260409-D012
+  - INS-260627-3D9A
   - INS-260626-AC56
-  - PRI-260328-5CDE
 ---
 The article quantifies a common build-vs-buy tension: outsourcing system integration costs $10K one-time plus $2K/year maintenance, while doing it yourself takes 4x as long. For a fund where every hour of GP time has high opportunity cost in deal sourcing and relationship building, this is a straightforward arbitrage. The principle generalizes to any resource-constrained team — when your core competency isn't the integration work and the cost is bounded, outsourcing preserves optionality on what matters. The 4x multiplier is a useful heuristic for evaluating similar build-vs-buy decisions.

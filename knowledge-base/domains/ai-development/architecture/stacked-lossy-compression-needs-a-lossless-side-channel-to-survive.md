@@ -69,7 +69,7 @@ related:
   - INS-260410-85F5
   - INS-260603-6E59
   - INS-260605-48CA
-  - INS-260605-FC5B
+  - INS-260619-0770
 ---
 Interleaving Heavily Compressed and Compressed Sparse Attention across layers creates a real hazard: information that no single layer judged important enough to keep could be permanently lost between layers. DeepSeek-V4's answer is the residual stream — upgraded here to Manifold-Constrained Hyper-Connections (mHC) — which carries uncompressed representations directly past the attention and MoE modules. The compression layers operate on a reduced view, but the lossless residual path means anything dropped at layer N can still resurface at layer N+k.
 

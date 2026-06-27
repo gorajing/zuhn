@@ -1,10 +1,6 @@
 # Tag: state-management
 
 - `INS-260627-AA19` Persisting each step's output means a workflow can sleep indefinitely and resume by replaying the deterministic loop over cached state — no process stays alive.
-- `INS-260411-52C8` When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
-- `INS-260411-D060` Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
-- `INS-260627-95CF` Shared mutable state produces lost updates and stale reads when agents write concurrently; instead each agent seals an immutable, versioned state object and appends a new row (insert, never update), giving race-free handoffs, clear lineage, free rollback, and binary-searchable debugging through state evolution.
-- `INS-260605-9FCF` Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON.
 - `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260625-FA31` Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
 - `INS-260627-8BD6` Write agents against a logical process that the runtime maps onto physical processes — so a human-in-the-loop wait of days costs nothing and resumes intact.
@@ -12,6 +8,10 @@
 - `INS-260627-718B` Decouple the response stream from the API handler by storing it (Redis in prod, a file locally) under the workflow's run ID so any client can reconnect and resume.
 - `INS-260605-83DA` Treat an agent's context (append-only log of messages/tool calls) and its execution environment (files, memory, subprocesses) as two independently-durable halves.
 - `INS-260625-CC0F` A model's finite context forces you to compact the log, but compaction throws information away — so keep the raw log and treat each compaction as a disposable fork you can resume as a new branch.
+- `INS-260411-52C8` When running agents in parallel with shared session state, assign each agent a unique output_key to prevent data corruption.
+- `INS-260411-D060` Use session.state with descriptive output_key names as the shared whiteboard for agent coordination — it's simpler and more debuggable than message passing.
+- `INS-260627-95CF` Shared mutable state produces lost updates and stale reads when agents write concurrently; instead each agent seals an immutable, versioned state object and appends a new row (insert, never update), giving race-free handoffs, clear lineage, free rollback, and binary-searchable debugging through state evolution.
+- `INS-260605-9FCF` Default to a file system of state for long-running loops, and write to JSON rather than markdown because models overwrite markdown files but tend not to overwrite JSON.
 - `INS-260605-3206` The sandbox should be replaceable; the agent run should not be.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260605-A2AD` When agents call CRUD/context tools, evaluate the whole trace and cram external system state into the trace itself rather than rebuilding test infrastructure.
