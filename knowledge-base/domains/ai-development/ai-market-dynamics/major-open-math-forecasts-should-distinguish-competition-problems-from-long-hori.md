@@ -53,7 +53,7 @@ related:
   - INS-260524-9100
   - INS-260412-17AF
   - INS-260330-2F13
-  - PRI-260412-A404
+  - INS-260626-484B
 ---
 PRED-260325-5C39 is not directly falsified: the Apple tasks are puzzles, not theorem proving, and the paper still acknowledges a medium-complexity advantage for reasoning models. But the evidence is a warning against treating current reasoning traces as reliable long-horizon proof search.
 

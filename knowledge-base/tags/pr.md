@@ -1,4 +1,4 @@
-# Tag: pr
+# Tag: PR
 
-- `INS-260410-9A10` Lalit Modi explicitly called controversy 'a pillar of the IPL' and ran the player auction as a deliberately offensive 'cattle and sheep' spectacle because he knew the outrage cycle would generate more attention than any ad spend could.
-- `INS-260403-DEF6` PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
+- `INS-260403-963B` Package your message into a surprising public visual that journalists and audiences cannot ignore.
+- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.

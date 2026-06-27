@@ -52,10 +52,10 @@ related:
   - INS-260327-B72F
   - INS-260330-A3AF
   - INS-260330-579B
-  - INS-260330-C31B
   - INS-260403-875B
   - INS-260403-8402
   - INS-260530-A86A
   - INS-260327-CEE4
+  - INS-260412-3140
 ---
 Amodei's 2017 framing identified the core alignment challenge: encoding human preferences in a way that generalizes. The difficulty is not technical sophistication but the nature of values themselves — they are sparse (we can't enumerate all preferences), context-dependent (the same action may be right or wrong depending on situation), and often contradictory (privacy vs transparency, safety vs freedom). This explains why alignment remains hard even as raw model capability improves dramatically. RLHF and constitutional AI are engineering responses to this fundamental constraint, not solutions to it. The practical implication is that alignment work should be treated as ongoing engineering discipline (like security), not a problem to be 'solved' and shipped.

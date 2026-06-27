@@ -52,10 +52,10 @@ related:
   - PRI-260407-7FB7
   - INS-260514-8FC8
   - INS-260402-3FD8
-  - INS-260325-C6BB
   - INS-260326-E0CB
   - INS-260403-EF2C
   - INS-260329-71AB
+  - INS-260505-483B
 stance: >-
   LLMs match statistical patterns from human-generated text (wide, shallow),
   while formal computational systems like Wolfram Alpha build deep chains ...

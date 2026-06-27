@@ -58,6 +58,7 @@ related:
   - PRI-260406-263A
   - INS-260404-96CF
   - INS-260412-5768
+  - INS-260626-8727
 evidence:
   - id: INS-260322-EDC2
     type: EXTENDS

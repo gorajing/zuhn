@@ -1,6 +1,6 @@
 # Topic: biotechnology
 
-> 28 insights
+> 29 insights
 
 - `INS-260625-0F13` [high] The 83-of-213 validation hit rate is important because the source also reports structural dissimilarity, MDR potency, selectivity, and low resistance frequency for the lead compounds.
 - `INS-260505-D52C` [high] AI-generated phage cocktail beats natural phage cocktail at overcoming bacterial resistance.
@@ -26,6 +26,7 @@
 - `INS-260409-BDAC` [medium] Ovarian cancer is a fit-first indication: invasive implantation is already acceptable and local delivery has clear advantages over systemic.
 - `INS-260409-CFD0` [medium] Patient-derived iPSC organoids let you run a personalized phase-1 trial in a dish before taking the drug yourself.
 - `INS-260626-C3A9` [medium] Primary-care AI can be safe and useful while still needing trial sizes above 100,000 patients to detect modest patient-outcome effects.
+- `INS-260626-D553` [medium] A model trained on a data-rich organism can help annotate data-poor crops if it learns conserved structure.
 - `INS-260410-69C2` [medium] Evolution already solved body-wide targeted delivery — it's called the immune system; viral vectors and LNPs are interim workarounds that will lose to engineered T/B cells that live inside the patient for years and release medicines only when local conditions demand it.
 - `INS-260405-E8D8` [medium] Voice markers for anxiety, depression, and pain need fusion with other biometric signals and longitudinal context to avoid dangerous single-point-in-time misinterpretation.
 - `INS-260409-BC1E` [medium] Yamanaka-factor safety is a closed-loop feedback control problem at the single-cell level, not a systemic dosing problem.

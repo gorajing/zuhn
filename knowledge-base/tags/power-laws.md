@@ -1,6 +1,6 @@
 # Tag: power-laws
 
-- `INS-260626-5D91` Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul.
 - `INS-260321-B7CB` AI companies will be 'model busters' — growing faster and longer than any spreadsheet model predicts — just as iPhone caused consensus models to miss Apple's performance by 3x over four years despite being the most covered company in the world.
-- `INS-260412-640C` A star with 2x the Sun's mass is 25x brighter; at 10x the mass, it's 20,000x brighter — a relationship humans consistently fail to intuit.
+- `INS-260626-5D91` Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul.
 - `INS-260402-318B` Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
+- `INS-260412-640C` A star with 2x the Sun's mass is 25x brighter; at 10x the mass, it's 20,000x brighter — a relationship humans consistently fail to intuit.

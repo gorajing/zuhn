@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-27 | 3142 sources
+Generated on 2026-06-27 | 3143 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -83,9 +83,9 @@ Generated on 2026-06-27 | 3142 sources
 | How to Win With AI in 2026 | youtube | 11 | 2026-04-09 |
 | Inside the Mind of a Master Procrastinator | Tim Urban | TED | youtube | 11 | 2026-03-25 |
 | Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca | Lex Fridman Podcast #369 | youtube | 11 | 2026-03-30 |
+| ai agents 12 ai memory meetup 2026 04 20 | audio | 10 | 2026-04-21 |
 | article_measuringthemoat | pdf | 10 | 2026-04-12 |
 | ceo-letter-to-shareholders-2025 | pdf | 10 | 2026-04-12 |
-| ai agents 12 ai memory meetup 2026 04 20 | audio | 10 | 2026-04-21 |
 | Epistemology and Metacognition in Artificial Intelligence: Defining, Classifying, and Governing the Limits of AI Knowledge | blog | 10 | 2026-04-12 |
 | How can we develop transformative tools for thought? | blog | 10 | 2026-04-10 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
@@ -180,10 +180,10 @@ Generated on 2026-06-27 | 3142 sources
 | Why the body doesn't keep the score: the real science of trauma in 90 mins I George Bonanno | youtube | 9 | 2026-03-25 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents? | paste | 8 | 2026-06-26 |
-| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | From agentic AI to physical AI | audio | 8 | 2026-06-03 |
 | TQ era | audio | 8 | 2026-06-03 |
+| Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents? | paste | 8 | 2026-06-26 |
+| Stanford AI Agent Seminar Slide Notes And User Field Notes | paste | 8 | 2026-06-24 |
 | A Deterministic Control Plane for LLM Coding Agents | blog | 8 | 2026-06-26 |
 | A Treatise on AI Chatbots Undermining the Enlightenment | blog | 8 | 2026-04-10 |
 | Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae. | blog | 8 | 2026-06-25 |
@@ -249,6 +249,7 @@ Generated on 2026-06-27 | 3142 sources
 | Stanford Hospital at 300 Pasteur Drive | audio | 7 | 2026-06-24 |
 | Stanford Medical Center | audio | 7 | 2026-06-24 |
 | A practical guide to building agents | blog | 7 | 2026-06-05 |
+| AI decodes the language of genes: A new look inside the “control center” of plants | blog | 7 | 2026-06-27 |
 | AI support tool improved clinician decisions in real-world primary care trial | blog | 7 | 2026-06-26 |
 | How to Do Great Work | blog | 7 | 2026-03-31 |
 | The Interplay of Harness Design and Post-Training in LLM Agents | blog | 7 | 2026-06-25 |
@@ -341,7 +342,6 @@ Generated on 2026-06-27 | 3142 sources
 | Why fearlessness beats experience every time | Steve Stoute for Big Think+ | youtube | 6 | 2026-03-25 |
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 6 | 2026-03-25 |
-| SBI_Price_Intelligently_SaaSPricingReport_2025_Part1 | pdf | 5 | 2026-06-25 |
 | Andreas Tolias | audio | 5 | 2026-05-05 |
 | Anshul kundaje | audio | 5 | 2026-05-05 |
 | Brian Hie   Generative biology from molecular to genome scale | audio | 5 | 2026-05-05 |
@@ -357,6 +357,7 @@ Generated on 2026-06-27 | 3142 sources
 | Russ altman   panel | audio | 5 | 2026-05-05 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | The St. Regis San Francisco 2 | audio | 5 | 2026-06-19 |
+| SBI_Price_Intelligently_SaaSPricingReport_2025_Part1 | pdf | 5 | 2026-06-25 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 5 | 2026-03-30 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 5 | 2026-03-31 |
@@ -2248,8 +2249,8 @@ Generated on 2026-06-27 | 3142 sources
 | Will Superintelligent AI End the World? | Eliezer Yudkowsky | TED | youtube | 3 | 2026-03-27 |
 | Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI | Lex Fridman Podcast #416 | youtube | 3 | 2026-03-24 |
 | Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies | Lex Fridman Podcast #390 | youtube | 3 | 2026-03-24 |
-| openai codex remote ga june 25 2026 | paste | 2 | 2026-06-26 |
 | Digital Jungle 2 | audio | 2 | 2026-06-19 |
+| openai codex remote ga june 25 2026 | paste | 2 | 2026-06-26 |
 | AI SDK 7 is now available - Vercel | blog | 2 | 2026-06-26 |
 | Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents | blog | 2 | 2026-06-26 |
 | Cloud Environment Setup and Cloud Subagents in Agents Window · Cursor | blog | 2 | 2026-06-26 |
@@ -2638,8 +2639,8 @@ Generated on 2026-06-27 | 3142 sources
 | You’d Be Surprised How Bad of a Person You Are - Thought Experiments That Change the Way You Think | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How People Perceive You | youtube | 2 | 2026-03-26 |
 | You’d Be Surprised How Smart (Or Dumb) You Are | The Dunning-Kruger Effect | youtube | 2 | 2026-03-26 |
-| Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
 | The St. Regis San Francisco 4 | audio | 1 | 2026-06-19 |
+| Gemini API Computer Use public preview | paste | 1 | 2026-06-26 |
 | Agent finder for GitHub Copilot now available | blog | 1 | 2026-06-26 |
 | Agentic Resource Discovery: Let agents search | blog | 1 | 2026-06-26 |
 | GitHub Copilot app support for BYOK | blog | 1 | 2026-06-26 |
@@ -2845,12 +2846,12 @@ Generated on 2026-06-27 | 3142 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
-| s41746-026-02729-9 | pdf | 0 | 2026-06-25 |
 | AWS Builder Loft | audio | 0 | 2026-06-19 |
 | ​Manisha Gupta | audio | 0 | 2026-05-02 |
 | Panel #1 | audio | 0 | 2026-05-02 |
 | Product demo | audio | 0 | 2026-05-02 |
 | The St. Regis San Francisco | audio | 0 | 2026-06-19 |
+| s41746-026-02729-9 | pdf | 0 | 2026-06-25 |
 | can you look through everything in the codebase | session | 0 | 2026-05-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |

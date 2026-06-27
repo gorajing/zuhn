@@ -8,8 +8,8 @@
 - `INS-260323-CF30` Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260403-8155` Fully autonomous weapons remove the critical democratic safeguard of soldiers who can refuse to fire on their own citizens.
 - `INS-260410-A264` England, the US, and France installed their constitutional orders when only propertied men voted, giving the system breathing room to embed citizenship norms before democratizing — once you're already in the mass age, constitutional revolution reliably fails.
+- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
+- `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260403-FAC6` Just as capitalism incentivizes addictive products that exploit gaps between consumer desire and consumer welfare, democracy incentivizes destructive proposals that exploit gaps between voter perception and actual policy impact.
 - `INS-260330-03A9` When everyone believes all institutions are power conspiracies, the only institution that can survive is dictatorship, which explicitly runs on power.
 - `INS-260330-7711` Intelligence agencies surveilling journalists and selectively leaking information to media constitutes a structural threat to democracy more dangerous than overt censorship.
-- `INS-260404-8791` Democratic governance alignment between India and the US reduces political risk, regulatory unpredictability, and cultural friction for American entrepreneurs in ways that create durable structural advantages.
-- `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.

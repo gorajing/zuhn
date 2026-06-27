@@ -60,7 +60,6 @@ stance: >-
   qualitative reasoning improvements that researchers did not predict or
   engineer — the architecture did not change, only the scale.
 related:
-  - INS-260325-FA86
   - INS-260330-3260
   - INS-260403-F0DC
   - INS-260325-D037

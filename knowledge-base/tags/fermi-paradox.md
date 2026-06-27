@@ -6,6 +6,6 @@
 - `INS-260412-CC9E` At sufficient scale, not finding what you'd expect to find is itself strong evidence that it doesn't exist.
 - `INS-260412-4FBF` If something powerful enough would leave unmistakable traces and you find none, that silence is itself a strong signal.
 - `INS-260412-347D` When selection effects are at play, the intuitive valence of new evidence often inverts — finding what you hope for can be the worst signal.
-- `INS-260330-A516` Tyson argues that the tiny DNA gap between chimps and humans suggests even a slightly more advanced alien would find our greatest intellects as unimpressive as we find chimps stacking boxes.
 - `INS-260330-FFAB` Technological civilizations may last only thousands of years against billions of cosmic years, making simultaneous existence vanishingly rare.
 - `INS-260330-E990` High surface gravity on super-Earths may make rocket propulsion physically impossible, trapping intelligent civilizations forever.
+- `INS-260330-A516` Tyson argues that the tiny DNA gap between chimps and humans suggests even a slightly more advanced alien would find our greatest intellects as unimpressive as we find chimps stacking boxes.

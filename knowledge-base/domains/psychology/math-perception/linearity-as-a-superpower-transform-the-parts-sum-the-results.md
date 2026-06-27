@@ -50,10 +50,10 @@ stance: >-
   transforming a sum equals summing the transforms — and this property is what
   makes decomposition practical rather than theoretical
 related:
-  - INS-260322-3083
   - INS-260330-B50A
   - INS-260330-E8BD
   - INS-260330-1609
+  - INS-260626-7133
   - INS-260404-8908
   - INS-260330-3819
   - INS-260330-C8ED

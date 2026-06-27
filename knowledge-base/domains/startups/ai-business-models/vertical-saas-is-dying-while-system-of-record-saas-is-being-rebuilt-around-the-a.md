@@ -63,5 +63,6 @@ related:
   - INS-260330-3E6B
   - INS-260409-6611
   - INS-260405-FE74
+  - INS-260626-8727
 ---
 The aggregate 'SaaS is dying' narrative is too coarse. Replit's enterprise data reveals a more specific pattern: system-of-record SaaS (CRMs, ERPs, HRIS) survives because the data gravity is too expensive to migrate, but it gets augmented by AI agents that interact with it via APIs and MCPs. Vertical SaaS (single-purpose point solutions: surveys, deal-desk tools, configurators, niche reporting) gets replaced wholesale because AI-builders can replicate the functionality at near-zero marginal cost while owning their own data. The investment implication is straightforward: short vertical SaaS, long systems of record (or long Databricks-style data infrastructure as the new system of record). The product implication for SaaS founders: if your product is one feature wrapped in subscription billing, you are in the displacement zone; if your product holds the shared corporate truth and integrates everything else, you are in the augmentation zone. Founders should explicitly classify their product on this axis and price accordingly. Vertical SaaS at $50k ARR is being undercut by indie operators charging $5k for the same outcome built on Replit; system-of-record SaaS at $5M ARR is being augmented and the spend is increasing.

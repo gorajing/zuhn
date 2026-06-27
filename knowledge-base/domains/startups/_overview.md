@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4867 insights across 55 topics
+> 4868 insights across 55 topics
 
 ## Topics
 
@@ -48,7 +48,7 @@
 | product | 28 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 144 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-market-fit | 13 | AI PMF is a continuous recalibration process, not a one-time validation milestone. |
-| product-strategy | 101 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
+| product-strategy | 102 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 17 | Bugs arrive at a constant rate, so fixing them now versus later costs the same total effort — you just pay a one-time cost to drain the backlog to zero. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
 | sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |

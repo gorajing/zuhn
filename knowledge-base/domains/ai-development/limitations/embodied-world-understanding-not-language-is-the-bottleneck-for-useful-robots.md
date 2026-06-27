@@ -68,7 +68,6 @@ stance: >-
   language and generation but cannot represent touch, physical perception, or
   world dynamics, and that missing representation layer is the real gap
 related:
-  - INS-260321-B8E8
   - INS-260323-7A50
   - INS-260325-EF79
   - INS-260321-9906
@@ -78,6 +77,7 @@ related:
   - INS-260412-1A10
   - INS-260501-06B1
   - PRI-260407-1D23
+  - INS-260603-F0BE
 ---
 The framing inverts where most people assume the frontier is. Language-and-generation AI is already extraordinary — it writes code, generates video, composes stories. But drop that same intelligence into a robot that has to act in the physical world and it's suddenly inept: it can't represent touch, can't model how objects behave, can't perceive space the way humans do effortlessly.
 

@@ -65,6 +65,7 @@ related:
   - INS-260403-9A0F
   - INS-260329-3177
   - INS-260505-050B
+  - INS-260626-4320
 ---
 Netflix acquired InterPositive for up to $600M primarily for its architectural approach: ingesting raw production dailies and training a bespoke model on that specific film's footage before handing filmmakers an autonomous post-production engine. The result is 10x efficiency gains on VFX tasks (relighting, wire removal, background generation, continuity fixes) while staying stylistically consistent with the director's vision.
 

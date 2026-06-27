@@ -1,6 +1,6 @@
 # Topic: pipelines
 
-> 15 insights
+> 16 insights
 
 - `INS-260519-7744` [high] Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
 - `INS-260519-9732` [high] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
@@ -11,6 +11,7 @@
 - `INS-260514-A02E` [high] Carve repeated GTM logic into 'function tables' in Clay (f.cleanFullName, f.validateEmail) — callers write a row to the function table, wait for the LLM, then look up the cleaned output, so one prompt update propagates to all callers.
 - `INS-260625-D729` [high] Autonomous workflows become more useful when objectives match the field, not a toy proxy.
 - `INS-260404-3ABF` [high] Sequential pipelines need periodic energy re-injection to sustain throughput, not just extraction at each stage.
+- `INS-260626-4320` [high] Shared multi-label models can replace brittle one-model-per-target workflows.
 - `INS-260519-90E2` [high] Kyle Norton (Owner): start with the data — at $8–10k ACV, outbound only works if you obsess over lead quality and strip wasted rep motion.
 - `INS-260514-C51F` [high] One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables.
 - `INS-260514-2995` [high] Schedule local-AI indexing for 1-5am — 70GB+ RAM stacks can't share daytime resources without overheating, but unattended overnight processing keeps the wiki fresh and the laptop usable.

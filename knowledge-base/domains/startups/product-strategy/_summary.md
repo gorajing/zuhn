@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 101 insights
+> 102 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260626-04B1` [high] Kitze spent 3-4 years adding 60 features to Benji and never shipped it, while others took one of those features (photo-to-calorie tracking) and made millions.
@@ -101,5 +101,6 @@
 - `INS-260423-2C05` [medium] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
 - `INS-260625-0750` [medium] Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product.
 - `INS-260405-28DF` [medium] Viability is table stakes; competitive differentiation must be designed in from day one.
+- `INS-260626-8727` [medium] Strong vertical AI wedges replace an expensive missing measurement with ranked, testable candidates.
 - `INS-260330-2AA7` [medium] Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.
 - `INS-260402-142F` [medium] Web3 forces PMs to recombine user research, data analysis, design, BD, and marketing into one role because the tasks are too intertwined to specialize.

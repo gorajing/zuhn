@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 129 insights
+> 130 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -21,6 +21,7 @@
 - `INS-260505-33E6` [high] If you generate 'less aggressive' versions of public comments, the LLM also makes them more agreeable — residualize or you'll attribute the wrong cause.
 - `INS-260410-83CF` [high] Sandor Strauss's self-motivated project of ingesting, cleaning, and unifying tick data alongside 1800s-era historical pricing — years before anyone had models that could use it — is what made Medallion's later machine learning possible.
 - `INS-260410-303B` [high] Setting container guarantee and hard limit to the same value creates zero headroom for transient memory spikes, silently OOM-killing tasks that would otherwise succeed — so evals should specify both parameters separately.
+- `INS-260626-6CAE` [high] When symbols interact, the model must learn syntax rather than count motifs.
 - `INS-260605-9CE2` [high] Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - `INS-260410-5036` [high] Real deep-learning development is Jupyter-notebook shape debugging plus empirical verification of flaky framework docs, not the clean math suggested by papers and tutorials.
 - `INS-260514-BB1C` [high] Smaller team, fewer GPUs, no top chips, but they released the weights AND the paper AND the GPU kernels. And they beat the closed labs on Putnam.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 5927 actionable insights
+Generated on 2026-06-27 | 5928 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -766,6 +766,9 @@ Generated on 2026-06-27 | 5927 actionable insights
 - [INS-260625-1022] Semantic search gave Cursor 12.5–13.5% answer-accuracy gains across models (≈24% on the pre-Composer-2 model), yet online AB metrics looked small (2.6% retention, 2.2% fewer dissatisfied requests) only because most queries don't trigger the tool.
 - [INS-260625-3A20] Exact KNN works great for small corpora, highly-filtered result sets, and partitioned queries; reach for approximate (ANN) indexing only when vector search is your primary mechanism over a large corpus.
 - [INS-260625-3A4F] Run a keyword retriever and a vector retriever in parallel and merge their results with reciprocal rank fusion — keyword nails exact matches, vectors catch semantic neighbors, and fusion recovers what either misses alone.
+
+## ai-development/evals
+- [INS-260626-484B] For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.

@@ -50,10 +50,10 @@ stance: >-
   category assembled from many independent lines of evidence.
 related:
   - INS-260330-984C
+  - INS-260626-484B
   - INS-260330-7994
   - INS-260408-59B3
   - INS-260330-42DE
-  - INS-260323-B309
 evidence:
   - id: INS-260323-B309
     type: SUPPORTS
