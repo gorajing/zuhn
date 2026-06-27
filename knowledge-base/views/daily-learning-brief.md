@@ -1,10 +1,10 @@
 # Daily Learning Brief
 
-Generated on 2026-06-27 at 16:23 PDT. This is a downstream synthesis job; no new ingestion was run for this brief.
+Generated on 2026-06-27 at 16:13 PDT. This is a downstream synthesis job; no new ingestion was run for this brief.
 
 ## 1. Date and Scope Reviewed
 
-Scope reviewed: roughly 2026-06-26 16:08 UTC through 2026-06-27 23:23 UTC, with special attention to new automation evidence after the prior 2026-06-27 09:14 PDT learning-brief run. Evidence came from `git log --since='2026-06-27T16:08:57Z' -- knowledge-base`, clean initial `git status`, `knowledge-base/views/agent-runs.md`, `knowledge-base/meta/log.md`, stale `knowledge-base/meta/activity.md`, `knowledge-base/meta/gate-report.json`, recent source files, recent insight/tension files, daily video manifests, and AgentRun traces.
+Scope reviewed: roughly 2026-06-26 16:08 UTC through 2026-06-27 23:13 UTC, with special attention to new automation evidence after the prior 2026-06-27 09:14 PDT learning-brief run. Evidence came from `git log --since='2026-06-27T16:08:57Z' -- knowledge-base`, clean initial `git status`, `knowledge-base/views/agent-runs.md`, `knowledge-base/meta/log.md`, stale `knowledge-base/meta/activity.md`, `knowledge-base/meta/gate-report.json`, recent source files, recent insight/tension files, daily video manifests, and AgentRun traces.
 
 Important boundary: closed AgentRuns with gates and committed post-ingest output are treated as completed evidence. Runtime source files under `knowledge-base/sources/` and run traces under `knowledge-base/runs/` are local/ignored by repo policy, so the visible committed artifacts are the insight, tension, index, and view changes.
 
