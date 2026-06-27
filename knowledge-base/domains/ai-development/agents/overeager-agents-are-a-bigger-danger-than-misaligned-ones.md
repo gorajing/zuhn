@@ -55,8 +55,8 @@ related:
   - INS-260403-D950
   - INS-260408-11E1
   - INS-260625-B296
+  - INS-260627-69F9
   - INS-260627-C237
-  - PRI-260405-0676
 ---
 Anthropic identifies four reasons an agent takes dangerous actions: overeagerness, honest mistakes about blast radius, prompt injection, and misalignment. Their internal incident log — deleted git branches, uploaded auth tokens, production DB migrations — is dominated by the first two. The model understood the goal and was trying to help, but took initiative the user didn't authorize.
 

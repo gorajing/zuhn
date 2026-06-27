@@ -56,11 +56,11 @@ stance: >-
   protection, so the prompt-injection exfiltration risk is structural rather
   than a vendor bug.
 related:
-  - INS-260410-0A28
   - INS-260625-2ED0
+  - INS-260627-69F9
+  - INS-260627-22EC
   - INS-260627-1C20
-  - INS-260627-1B4D
-  - INS-260605-5CF8
+  - INS-260410-0A28
 ---
 When Invariant Labs published a working prompt-injection exfiltration attack that named GitHub's MCP server specifically, Morrow's framing was that it 'applies to almost every agent setup whether they use MCP or not.' The root cause is the lethal trifecta (per Simon Willison): an agent with access to private data, exposure to untrusted content, and the ability to exfiltrate. Any sufficiently capable agent that can both read private data and act in the world is exposed; the vulnerability is a property of agent utility, not of one server's tools.
 

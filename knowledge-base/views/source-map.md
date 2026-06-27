@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-27 | 3281 sources
+Generated on 2026-06-27 | 3282 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -498,6 +498,7 @@ Generated on 2026-06-27 | 3281 sources
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
 | Five Founders | blog | 5 | 2026-03-31 |
 | Five Questions about Language Design | blog | 5 | 2026-03-31 |
+| Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild | blog | 5 | 2026-06-27 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
 | From Outsider to $5B SPAC in 6 Years | blog | 5 | 2026-03-31 |

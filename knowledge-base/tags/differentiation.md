@@ -42,6 +42,6 @@
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
 - `INS-260327-575D` Feature comparison matrices are one-sided and savvy buyers ignore them -- instead, explain the specific architectural decisions you made and why they matter, like how Dropbox's delta sync technology became the headline that won NBC Universal.
+- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'
 - `INS-260403-FFD2` Your PMF story must show two clear fits: Feature A solves the customer's core problem, and Feature B addresses the specific shortcomings of dominant alternatives.
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
-- `INS-260519-F9D6` Nicolas Sharp (Attio): with AI making any GTM system buildable in days, the win moves from 'which playbook' to 'which bets, acted on fastest.'

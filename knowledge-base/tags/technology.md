@@ -13,8 +13,8 @@
 - `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
 - `INS-260405-4810` Like physical strength after industrialization, writing will persist only in those who choose to cultivate it, not those compelled by circumstance.
 - `INS-260404-A375` Technology should reinforce or transform your business model, not drive it — the business model question comes first.
-- `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
+- `INS-260405-F6A6` The two categories of programming languages are ones people complain about and ones nobody uses — complaints imply relevance.
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260325-F9CF` 19th-century optimists assumed technology would end war — the world wars shattered that illusion and fueled anti-progress backlash that persists today.
 - `INS-260403-924B` The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.

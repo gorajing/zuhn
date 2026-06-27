@@ -8,12 +8,12 @@
 - `INS-260625-B9A5` Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters.
 - `INS-260605-3DCD` The same phone defeated three senior engineers plus ChatGPT a year earlier; Claude refused to give up at the identical dead-end and found the VM man-in-the-middle workaround.
 - `INS-260626-BDAB` PR-level studies show engineers are only marginally faster with AI (the METER study even found them 20% slower while feeling 20% faster), but the organizational unlock comes from giving non-technical teammates coding agents so they stop waiting on engineers.
-- `INS-260410-43E4` GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
 - `INS-260403-F4C7` Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
+- `INS-260410-43E4` GPT-2 124M — a 2019 OpenAI release that took significant engineering effort at the time — can now be reproduced to equivalent quality on rented cloud GPUs for ~$10 in under an hour.
 - `INS-260627-95C2` The AI Studio principle is that users shouldn't think about implementation details — say 'I want a multiplayer app' and the platform knows to wire up Express; say 'e-commerce' and it adds payments and storage automatically.
 - `INS-260327-65F9` Digital fabrication is following the PC trajectory: from expensive institutional tools to community fab labs to eventually personal fabrication capability for everyone.
-- `INS-260605-7E75` Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company.
 - `INS-260412-4441` CRISPR's 99% cost reduction and timeline compression from years to weeks mirrors the computing revolution's democratization arc.
+- `INS-260605-7E75` Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company.
 - `INS-260403-087F` LLMs are eliminating the analytical quality gap between retail and institutional investors by making rigorous frameworks accessible at near-zero cost.
 - `INS-260402-B653` Fractionalization turns capital-gated asset classes into accessible markets by lowering the minimum ownership unit to near-zero.
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.

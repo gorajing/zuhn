@@ -52,7 +52,7 @@ related:
   - INS-260410-9B0E
   - INS-260530-69DC
   - INS-260327-C1A4
+  - INS-260627-22EC
   - INS-260404-6BD6
-  - INS-260403-8311
 ---
 Surveyed organizations in IBM's 2026 study experienced an average of 54 AI-agent incidents in the previous year requiring human correction, with 17% of reported incidents high severity. Among high-severity incidents, respondents attributed 37% to data exposure or security breaches, 33% to cascading system failures, and 17% to compliance issues. This is strong counterevidence to the simple version of 'humans shift to oversight' because oversight is not a passive supervisory role when agent incidents are frequent, cross-system, and operationally expensive.

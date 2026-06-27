@@ -51,9 +51,9 @@ related:
   - INS-260330-8A5C
   - INS-260501-6A56
   - INS-260605-FE67
+  - INS-260627-69F9
   - INS-260330-8BDA
   - INS-260605-C436
-  - INS-260625-26F5
 ---
 Lovable runs a lightweight model that injects relevant 'Stack Overflow' context into the main agent when it detects an applicable issue. The non-obvious move: for a small sample where injection WOULD fire, they deliberately inject a blank. This creates a clean holdout — the same trigger condition with and without the treatment — so they can measure causal lift rather than correlation.
 

@@ -1,7 +1,7 @@
 # Tag: physics
 
-- `INS-260409-E366` The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260627-1C9C` DeepMind's weather models beat gold-standard physics simulations — GenCast was more accurate 97% of the time and produced a 15-day forecast in 8 minutes on one chip instead of hours on a supercomputer.
+- `INS-260409-E366` The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260412-3252` The visible light spectrum has 10,000x the frequency range of radio waves, enabling vastly higher data throughput for Li-Fi.
 - `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
 - `INS-260325-CC49` The physical impossibility of infinite precision may be what prevents mathematical paradoxes from breaking reality.

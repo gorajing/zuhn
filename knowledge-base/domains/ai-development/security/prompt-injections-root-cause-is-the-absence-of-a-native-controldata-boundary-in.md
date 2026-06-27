@@ -55,11 +55,10 @@ stance: >-
   instructions and untrusted data are concatenated into a single
   undifferentiated context with no trust boundary.
 related:
-  - INS-260323-8D12
   - INS-260410-0A28
   - INS-260624-EA6B
   - INS-260625-2ED0
-  - INS-260626-3492
+  - INS-260323-8D12
   - PRI-260405-2A95
   - PRI-260403-9E80
 ---

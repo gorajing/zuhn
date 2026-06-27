@@ -52,5 +52,6 @@ related:
   - INS-260404-056D
   - INS-260405-809E
   - INS-260627-8121
+  - INS-260627-8B0B
 ---
 Demos and PoCs are cheap; the gap from PoC to production is enormous in Gen AI because you cannot know upfront how the system will behave on real-world complexity. Northwestern Mutual deliberately chose actual messy data from a 160-year-old company over synthesized or cleansed data, reasoning that confronting real complexity in the lab is the only way to gain confidence that lab success transfers to reality. The messiness is not an obstacle to route around — it is the validation environment. A system that performs on the genuinely hard data has earned the right to ship; one tuned on sanitized data has only proven it can pass a test it designed for itself.

@@ -46,10 +46,10 @@ stance: >-
 related:
   - INS-260410-9B0E
   - INS-260624-9A4B
+  - INS-260627-08FA
   - INS-260605-74E8
   - INS-260605-9276
   - INS-260605-C436
-  - INS-260423-FF52
 ---
 MalSkillBench's strongest measurement design choice is its Generate-Verify-Feedback loop: generated malicious skills are only admitted when behavior fires inside a Docker sandbox with system-call monitoring and judge review. That turns the benchmark from a taxonomy of scary-looking artifacts into a runtime-grounded reliability test.
 

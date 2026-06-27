@@ -8,9 +8,9 @@
 - `INS-260625-D148` Because DeepSeek-V4 interleaves lossy compressed-attention layers, it relies on the residual stream (mHC) to propagate uncompressed information forward, protecting against data a single layer discarded but a later layer needs.
 - `INS-260412-4493` Camera-model forensic signatures are destroyed by re-compression during internet sharing, eliminating the main technical detection method precisely where fakes circulate.
 - `INS-260605-3345` Compress snapshots seekably and decompress only the memory pages actually needed on restore, shrinking a 512MB VM snapshot to ~14MB and cutting restore to a few hundred milliseconds.
-- `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.
+- `INS-260325-6150` TurboQuant compresses LLM key-value caches to 3 bits with zero accuracy loss, achieving 6-8x memory reduction and 8x inference speedup.
 - `INS-260501-BCCB` Attention = perfect memory in context. Parametric memory = compression + abstraction. They lose and win at different things.
 - `INS-260605-F039` Audio carries ~200kbps versus ~15 bits/sec of semantic content in fluent speech, so neural codecs must compress it to a few thousand bits/sec while preserving acoustic features.
 - `INS-260412-9414` Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
@@ -21,9 +21,9 @@
 - `INS-260522-51E7` YC Root Access: 'if it is recorded, it happened to the AI; if it did not get recorded, it did not happen to your intelligence' — then diarize and synthesize down to breadcrumbs.
 - `INS-260403-8BF4` Cutting words isn't just style — it's how you discover what you actually mean.
 - `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.
-- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260404-C2BC` If you can't describe your startup in one sticky phrase, your plans may not be focused enough.
 - `INS-260404-96C6` A sticky descriptive phrase is a survival necessity in investor pitches because the first filter is simply being remembered.
 - `INS-260403-C5D8` If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
 - `INS-260412-3603` An 8-minute video conveying a complete philosophical worldview demonstrates that conceptual density, not runtime, drives content resonance.
+- `INS-260322-22D0` Learn your DAW's stock EQ, compression, synths, and spatial effects before buying any third-party plugins.

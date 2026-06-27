@@ -62,8 +62,8 @@ related:
   - INS-260627-FEB4
   - INS-260605-83DA
   - INS-260519-20E0
+  - INS-260627-08FA
   - INS-260410-9D86
-  - PRI-260407-D1AD
 ---
 Jeremy Lowin (Fast MCP) framed three dimensions where agents and humans diverge; the talk's contribution is showing each one is also a security surface. Discovery: a human reads API docs once and ignores them, but an agent re-enumerates every tool and reads every description on every connection, so each description is a surface for tool poisoning (hidden instructions invisible in the UI that the model obeys). More tools means more injection surface.
 

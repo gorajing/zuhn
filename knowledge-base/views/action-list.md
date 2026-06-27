@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6149 actionable insights
+Generated on 2026-06-27 | 6153 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -477,6 +477,7 @@ Generated on 2026-06-27 | 6149 actionable insights
 - [INS-260627-0D20] Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - [INS-260627-A392] Real environments are noisy, so the model should think again after each tool response rather than reason once and commit to a plan.
 - [INS-260627-8425] Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
+- [INS-260627-69F9] A prompt-injection incident is much stronger evidence when it includes a confirmed agent action, not only a payload that could have caused one.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -485,6 +486,7 @@ Generated on 2026-06-27 | 6149 actionable insights
 - [INS-260627-0BC1] Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
 - [INS-260627-0126] Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
 - [INS-260627-82CC] Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
+- [INS-260627-8A6A] Prompt injection becomes materially dangerous only when the targeted agent has meaningful permissions, so agent-risk claims should be privilege-conditioned.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -673,6 +675,10 @@ Generated on 2026-06-27 | 6149 actionable insights
 - [INS-260403-D3ED] DeepSeek's open-weight release at a fraction of US training costs signals that closed-source model pricing power is rapidly eroding.
 - [INS-260404-3D17] AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
 - [INS-260409-FACE] Buyers are anchored to $2,000/month legacy prices that embed old labor costs — if you can deliver the same output for $50 using agents, you keep the spread until the market reprices.
+
+## ai-development/ai-security
+- [INS-260627-08FA] Agent security evaluation should distinguish malicious prompts discovered on pages from confirmed agent actions caused by those prompts.
+- [INS-260627-22EC] Indirect prompt injection defense shifts part of agent safety back into web-scale detection, filtering, and content-security operations.
 
 ## ai-development/alignment
 - [INS-260322-F65F] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.

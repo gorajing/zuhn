@@ -67,9 +67,9 @@ stance: >-
 related:
   - INS-260410-0A28
   - INS-260626-3492
+  - INS-260627-22EC
   - INS-260625-2ED0
   - INS-260412-4233
-  - PRI-260324-2A76
 ---
 A prompt injection is an attack where third-party content overrides an LLM's instructions—e.g., a hidden instruction in a web page's HTML redirects a 'summarize this' request into exfiltrating personal data via URL parameters. Browsers are especially exposed because they sit at the intersection of what Mody calls the lethal trifecta: access to private data, exposure to untrusted content, and the ability to communicate externally (opening sites, sending emails, scheduling events).
 
