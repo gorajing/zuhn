@@ -1,6 +1,7 @@
 # Tag: distributed-systems
 
 - `INS-260626-F160` Continuous learning kills the start-stop training job; you run concurrent pools for sampling and training and optimize aggregate wall-clock, accepting slower individual jobs.
+- `INS-260627-FE77` CHIA registers nodes as MCP tools while allowing the tool server and the actual tool execution to run on different workers with different resources.
 - `INS-260627-0F4E` Going from one agent to N agents converts an AI problem into a distributed-systems problem whose coordination complexity grows quadratically, so the failures are architectural — stale caches, race conditions, lost updates — not model errors.
 - `INS-260329-148D` AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
 - `INS-260329-C7B8` Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.

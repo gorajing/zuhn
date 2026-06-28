@@ -1,5 +1,8 @@
 # Tag: systems
 
+- `INS-260627-9387` CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
+- `INS-260627-42EC` CHIA's discussion says agentic implementation accelerates idea-to-design, but evaluating performance, quality of result, and correctness becomes the dominant bottleneck.
+- `INS-260627-5976` CHIA treats agentic co-design flows as explicit CHIA loops, making workflow construction, deployment, and study a first-class artifact instead of a pile of bespoke scripts.
 - `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
 - `INS-260405-2688` C has no garbage collector by design — manual malloc/free gives programmers full control over when memory is allocated and released, enabling predictable performance that GC languages cannot guarantee.
 - `INS-260627-FFC8` KVarN's cache pipeline rotates and variance-normalizes each tile before low-bit rounding.

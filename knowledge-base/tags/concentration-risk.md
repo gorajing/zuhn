@@ -1,8 +1,8 @@
 # Tag: concentration-risk
 
 - `INS-260412-0BF3` Guam's economy depends on two concentrated pillars — US military (largest employer) and Asian tourism — making it prosperous but fragile to shifts in either.
-- `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260412-69E5` Swedish and French submarines 'sank' US aircraft carriers in war games (2005, 2015), proving that even the most defended concentrated assets can be defeated by cheaper, stealthier threats.
+- `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
 - `INS-260403-28AB` If OpenAI fails after absorbing $100B+, the resulting investor panic could hand AI leadership to Chinese competitors.
 - `INS-260412-907D` The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
 - `INS-260412-084F` SVB's 50% market share of US VC-backed startups meant a tech downturn simultaneously increased withdrawals while decreasing new deposits.

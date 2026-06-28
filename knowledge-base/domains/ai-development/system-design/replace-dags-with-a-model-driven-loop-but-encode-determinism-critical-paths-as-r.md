@@ -60,8 +60,8 @@ related:
   - INS-260626-AC8E
   - INS-260410-3271
   - INS-260625-36DF
+  - INS-260627-DF16
   - INS-260410-F5EC
-  - INS-260605-0819
 ---
 For two-plus years, teams built customer-support and routing agents as sprawling DAGs — hundreds of nodes of 'if user wants a refund, route to this prompt.' The benefit was guaranteed behavior and prompt-injection resistance (a node that only classifies X-or-Y can't be hijacked, especially if you discard context). The cost was a web of engineering madness. Zoneraich's claim is that capable models make the loop architecture roughly 10x easier to build, 10x more maintainable, and actually better-performing for general-purpose tasks where there is no fixed sequence of steps.
 

@@ -52,8 +52,8 @@ stance: >-
 related:
   - INS-260522-2CE8
   - INS-260625-FDA1
+  - INS-260627-B5F2
   - PRI-260426-890F
   - INS-260603-6B3D
-  - INS-260625-36DF
 ---
 Today's external validation — a human reviewer saying 'you used the wrong API, go change it' — forces the agent back into the loop on human latency. The proposed future moves external validation off humans and onto other agents: a security-focused LLM, an API-conformance LLM, each providing feedback within the loop that the main harness incorporates immediately. This is the multi-agent microservices pattern applied to validation: instead of one monolithic LLM doing everything, specialized critics run in parallel against the change. The constraint that makes this viable is speed — internal builds and tests must run in seconds, not the 15-45 minutes typical of CI, because every minute spent validating delays the entire loop. For teams, the immediate move is to start wrapping review criteria (security posture, conventions, conformance) as automated LLM evaluators rather than relying on overwhelmed human reviewers.

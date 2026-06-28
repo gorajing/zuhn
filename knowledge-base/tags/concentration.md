@@ -9,8 +9,8 @@
 - `INS-260329-0117` The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
 - `INS-260329-9A8B` Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
 - `INS-260410-0D0C` 85% of Novo Nordisk's revenue comes from metabolic disease — radical concentration, not diversification, produced Europe's most valuable company.
-- `INS-260325-195E` Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260410-F1F1` Genuinely great opportunities come five or six times in a lifetime — when you know you have an edge, the correct response is to bet heavily, not to diversify.
+- `INS-260325-195E` Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
 - `INS-260410-A544` Once Mao put all peasants on communes, the party controlled food distribution — which meant Beijing was literally choosing who ate and who died, and 40 million starved.
 
 

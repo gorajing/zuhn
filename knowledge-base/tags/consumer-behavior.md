@@ -30,7 +30,6 @@
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
-- `INS-260403-CBED` Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260410-50D7` Walmart and Target have tried for decades to build credit-card alternatives and keep failing because no single retailer can match the rewards Visa funnels to consumers from a pooled interchange take.
 - `INS-260327-77C7` When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
@@ -41,6 +40,7 @@
 - `INS-260327-0746` Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
 - `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
 - `INS-260327-9EE4` When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency 
+- `INS-260403-CBED` Creators are replacing traditional media as the primary channel through which consumer opinions, purchase decisions, and product discovery flow.
 - `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260327-B6D6` Frequent promotional events train consumers to never pay full price, permanently depressing margins and creating a depen
 - `INS-260327-65F6` Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any pric

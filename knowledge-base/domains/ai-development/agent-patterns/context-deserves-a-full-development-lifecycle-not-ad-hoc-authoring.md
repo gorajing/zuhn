@@ -57,6 +57,7 @@ related:
   - INS-260327-F625
   - INS-260603-DFA6
   - INS-260605-9900
+  - INS-260627-5976
 ---
 Debois maps the software development lifecycle onto context: you generate context (prompts, reusable instructions, pulled-in docs, specs), evaluate it with tests, distribute it (check into repo, package, publish to a registry), observe whether it works in production, then adapt and regenerate. The argument is that the artifact people now spend most of their leverage on has no engineering discipline around it — a two-line edit to a Claude.md ships on 'looks good to me' with no understanding of its blast radius.
 

@@ -16,8 +16,8 @@
 - `INS-260403-E16F` AI startups command ~$19M median seed valuations vs $15M for non-AI, but 41.7% of seed capital targeting AI means brutal competition within the category.
 - `INS-260403-83E0` Investors now treat pricing model design as a front-page due diligence item that signals founder sophistication about AI unit economics.
 - `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.
-- `INS-260405-D9DF` AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
 - `INS-260404-C1C1` NFX's AI Litmus Test asks founders how long it would take a user to do their core task with ChatGPT+, directly measuring defensibility.
+- `INS-260405-D9DF` AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
 - `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
 - `INS-260403-4AB2` A16Z reports 60% surge in AI-first startup funding while early-stage SaaS investment declines as investors chase automation leverage.
 - `INS-260403-1F6B` Just 11 AI startups absorbed a third of all 2025 VC funding, widening the gap between megadeals and the rest of the ecosystem.

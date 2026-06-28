@@ -26,8 +26,8 @@
 - `INS-260605-AEAC` For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
-- `INS-260403-268F` Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260404-EF52` Deep institutional domain experience signals irreplaceable problem understanding that de-risks the venture for investors.
+- `INS-260403-268F` Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260605-C632` Name one person ultimately responsible for AI quality and put them in the room where decisions are made.
 - `INS-260409-626E` Logo was a beautiful programming language for children but no professional differential geometer uses it — because Papert wasn't himself a differential geometer. Mathematica works partially because Wolfram has genuine research interests in mathematics and physics. Good tools emerge as byproducts of original work on serious problems.
 - `INS-260404-3BAB` YC W26 tilts heavily toward physical-world AI problems as the easy SaaS layer gets commoditized, signaling where defensible value is migrating.

@@ -4,10 +4,10 @@
 - `INS-260329-B011` People who stay poor consistently choose comfort today and push pain to tomorrow, then are surprised when today becomes yesterday's tomorrow and the deferred pain arrives.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-D4BC` Don't make your bank balance the goal — make your monthly income the goal, and reinvest excess into skills that increase that income.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260329-8443` At low savings levels, an extra $1K/month in income matters infinitely more than choosing the right index fund.
 - `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260329-89ED` Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
 - `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260327-FF64` Financial professionals used to agree that above a certain income you could brute-force your way through dumb financial decisions and still get richer - that threshold has risen beyond most high earners' reach.

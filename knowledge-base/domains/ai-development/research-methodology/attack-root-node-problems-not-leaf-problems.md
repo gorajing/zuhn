@@ -55,6 +55,7 @@ related:
   - INS-260421-CE27
   - INS-260325-898A
   - INS-260330-541B
+  - INS-260627-DF16
 ---
 Hadsell describes DeepMind's frontier-research approach as deliberately ignoring 'leaf' problems — surface-level, derivative work — in favor of 'root nodes': the deepest, hardest unsolved problems in a large space. Solving a root node enables broad downstream impact across all the leaves that depend on it, whereas solving leaves yields only local gains.
 

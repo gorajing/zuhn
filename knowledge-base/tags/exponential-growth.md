@@ -1,7 +1,7 @@
 # Tag: exponential-growth
 
-- `INS-260403-976C` Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260321-5DF8` OpenClaw became the most popular open-source project in history within weeks, surpassing Linux's 30-year adoption curve — each AI unhobbling stacks on prior ones and grows faster.
+- `INS-260403-976C` Current AI capabilities represent a fraction of what near-future compute investments will enable, creating an accelerating intelligence divergence.
 - `INS-260412-3FF0` A 2013 smartphone chip performed 28 billion calculations per second — 72 million times more than ENIAC, which filled an entire room in 1946.
 - `INS-260330-FF5B` Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - `INS-260412-41A5` Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.

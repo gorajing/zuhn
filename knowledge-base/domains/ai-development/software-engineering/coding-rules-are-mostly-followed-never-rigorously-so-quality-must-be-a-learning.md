@@ -59,11 +59,11 @@ stance: >-
   requires a workflow that records outcomes and adapts standards over time
   rather than a fixed rule list.
 related:
+  - INS-260627-B5F2
   - PRI-260403-9E80
   - INS-260605-77EB
   - PRI-260403-67FC
   - PRI-260405-6867
-  - INS-260501-3D33
 ---
 When surveyed, developers said their generation rules land somewhere in 'mostly followed' — not completely, not rigorously, not at the technical depth they intended. This is the core unreliability of declarative rules: they shape output probabilistically, not deterministically, so a rule like 'no nested ifs' still ships violations.
 

@@ -26,9 +26,9 @@
 - `INS-260625-FDA1` The moat in applied AI is often the proprietary loop between decisions and domain feedback.
 - `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - `INS-260626-8727` Strong vertical AI wedges replace an expensive missing measurement with ranked, testable candidates.
+- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
 - `INS-260530-A86A` Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
 - `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260626-147E` Like Netflix's questions becoming LA media questions rather than SF tech questions, what AI means for law, finance, or film is answered by people who deeply understand those industries.
-- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
 - `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
 - `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.

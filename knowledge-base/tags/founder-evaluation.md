@@ -1,8 +1,8 @@
 # Tag: founder-evaluation
 
 - `INS-260403-45D5` PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
-- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260403-71D1` YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
+- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260410-79C4` The Qualcomm pitch required threading 15+ needles in sequence — a prima facie auto-pass — but the team already knew, from information theory first principles, that each needle was threadable.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.

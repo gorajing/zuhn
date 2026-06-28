@@ -16,8 +16,8 @@
 - `INS-260404-AF54` Most investors' primary question is 'who else is investing?' — revealing that social proof, not independent analysis, drives the vast majority of investment decisions.
 - `INS-260412-1440` Mixing genuine credentials with fabricated ones creates a credibility halo that makes each element harder to independently question.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
-- `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260403-4788` If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
+- `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260327-212A` Stanley tumblers grew explosively not because they were better water bottles but because carrying one signaled membership in specific social tribes.
 - `INS-260329-F73D` Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260403-92E9` Use testimonials with full attribution and specific quantified outcomes that map to core product benefits, never generic praise.
@@ -32,7 +32,7 @@
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
-- `INS-260412-BA99` Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
 - `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
+- `INS-260412-BA99` Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
 - `INS-260412-F791` Bitcoin's first Reddit post was downvoted, its first TV mention came at $3.41, and conference talks about it at $100 drew empty rooms — none of this predicted its trajectory.
 - `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.

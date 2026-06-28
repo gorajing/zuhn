@@ -68,8 +68,8 @@ related:
   - INS-260329-6A60
   - INS-260627-90A8
   - INS-260330-AB62
+  - INS-260627-89AF
   - INS-260330-A370
-  - INS-260627-51BE
 ---
 Versioning is the hard part of durable execution and the usual pain point of event-sourced systems: when a workflow has been running for months and you ship new code, can the in-flight run adopt it? The traditional answer forces you to assume your code might run against any historical event log, accumulating version-branching cruft. This talk's approach pins each run to the deployment (version) it started on — new deploys are isolated, and existing runs continue to completion on their original code — so you never have to defensively branch.
 

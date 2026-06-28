@@ -8,8 +8,8 @@
 - `INS-260403-49EC` 65% of VC investments fail to return capital, fewer than 4% deliver 10x+, and in top funds the #1 exit often contributes over half the total value.
 - `INS-260409-B4D0` Barbell: AI-first disruption bets on one side, durable human-need verticals (health, food, entertainment) on the other — skip the middle.
 - `INS-260403-8FD7` Screen for sector exit precedent before investing — if the only exits in a space are distressed fire sales, that's a structural warning, not a timing issue.
-- `INS-260326-6B99` Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260409-F975` HALO (high asset, low obsolescence) businesses — physical experiences, LNG, mining, space — are the counter-AI portfolio that preserves durability while digital business models face rerating.
+- `INS-260326-6B99` Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260626-5D91` Never losing money on a deal is a venture anti-signal ('that's a PE firm'); the early-stage job is to back the market leader in every credible tailwind space and treat the spaces that fail with a good leader as no harm, no foul.
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
 - `INS-260404-FF8D` Chamath's $380M write-down on Relativity Space illustrates how deep-tech venture bets can produce catastrophic single-position losses.

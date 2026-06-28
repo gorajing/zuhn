@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260605-6CBF
   - INS-260627-2925
+  - INS-260627-5976
   - PRI-260328-B4BD
   - INS-260409-0DB0
-  - INS-260405-F1A2
 ---
 Citing the 'vibe coding our way to disaster' critique and Rich Hickey's simple-made-easy philosophy, Priscila accepts the three-phase research-planning-implementation structure (now built into tools like Claude Code's plan mode) but argues it omits a critical human checkpoint. After the agent explores the codebase, it may have understood the wrong thing; if you let it proceed straight to planning, the error compounds. The fix is to read and understand the agent's research yourself, confirm it matches reality, and steer it toward the correct path or toward exploring something it missed before authorizing a plan. Comprehension is not a passive output you skim past — it is the control surface for keeping the agent on track.

@@ -14,6 +14,6 @@
 - `INS-260412-8846` Financial communities that develop identity rituals and persecution narratives become self-policing systems that actively suppress fraud detection.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260403-BF83` VC due diligence is designed to confirm or deny an initial gut feeling about a startup rather than to objectively discover its merits.
-- `INS-260325-9AD4` Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
 - `INS-260403-96D7` Most founder-customer conversations generate false positives because the questions are designed to confirm, not challenge, existing assumptions.
+- `INS-260325-9AD4` Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
 - `INS-260403-BA81` Financial models used after decisions are made become confirmation tools rather than decision tools.

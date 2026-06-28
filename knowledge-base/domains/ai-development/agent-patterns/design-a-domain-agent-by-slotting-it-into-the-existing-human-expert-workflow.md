@@ -63,7 +63,6 @@ stance: >-
   copy the human expert's iterative loop and place the agent where the human
   would stand.
 related:
-  - INS-260409-E080
   - INS-260409-0DB0
   - INS-260603-6B3D
   - INS-260605-6CBF

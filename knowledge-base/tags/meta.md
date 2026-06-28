@@ -3,9 +3,9 @@
 - `INS-260514-5001` Meta announced mandatory key-logger + screen recorder on every US employee 9-5 in the same month they laid off 8,000 people.
 - `INS-260405-5E6B` Meta cut 600 AI roles to reduce decision layers, explicitly trading headcount for speed.
 - `INS-260405-B7C7` Meta giving away a $10B AI model forces the AI market toward commoditized model weights, undermining the subscription economics of closed competitors while costing Meta nothing since it doesn't sell AI.
-- `INS-260409-EA56` Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.
 - `INS-260410-8767` Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260410-DD0E` Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
+- `INS-260409-EA56` Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.
 - `INS-260323-23B9` Zuckerberg argues open source AI models become safer through increased scrutiny, faster bug discovery, and rapid version rollouts -- the same dynamic that made open source software more secure than proprietary alternatives.
 - `INS-260323-BC61` LeCun argues the biggest AI danger is not existential risk but concentration of power -- a future where all information is controlled by a few companies through proprietary AI systems, and open-source is the primary defense.
 - `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
@@ -19,5 +19,5 @@
 - `INS-260410-0F1C` Mark Zuckerberg set up Meta's supervoting structure specifically because in 2006 the board tried to fire him for refusing Yahoo's $1B offer — without that control, he could not have funded Reality Labs through a 50% market cap drawdown.
 - `INS-260410-49D7` Meta open-sources distributed computing infrastructure and AI models specifically because Google got there first — open-sourcing their own version commoditizes Google's proprietary moat and standardizes the supply chain around Meta's designs.
 - `INS-260405-35DF` Meta cut nearly 10% of staff and grew revenue 50%, demonstrating that smaller focused teams outperform larger unfocused ones.
-- `INS-260410-02EA` Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.
 - `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
+- `INS-260410-02EA` Treat company-building as a turn-based strategy game: optimize for getting more turns and learning more from each turn than any competitor.

@@ -1,7 +1,7 @@
 # Tag: information-theory
 
-- `INS-260326-E1A8` TurboQuant's core trick: rotate vectors randomly, coordinates become Beta-distributed and nearly independent, then optimal scalar quantizers handle each dimension separately.
 - `INS-260322-3537` The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
+- `INS-260326-E1A8` TurboQuant's core trick: rotate vectors randomly, coordinates become Beta-distributed and nearly independent, then optimal scalar quantizers handle each dimension separately.
 - `INS-260625-4027` Gemma 4 matches ~18-month-old SOTA on agentic capability (function calling, instruction-following) but Gemini stays far ahead on factual knowledge — a gap set by information theory, not training effort.
 - `INS-260323-9BAB` Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
 - `INS-260412-9414` Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.

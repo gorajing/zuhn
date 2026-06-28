@@ -8,5 +8,5 @@
 - `INS-260404-8C42` YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
 - `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
 - `INS-260403-615D` Karp argues expert classes have been wrong about every substantive question for 20 years because their models are calibrated to old paradigms.
-- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260327-8773` When everyone agrees AI is a bubble, people try to ride it and exit before the pop rather than avoiding it entirely, which paradoxically makes the eventual correction more violent.
+- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.

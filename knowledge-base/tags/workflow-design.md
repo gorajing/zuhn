@@ -1,5 +1,6 @@
 # Tag: workflow-design
 
+- `INS-260627-F575` CHIA distinguishes agentic edges from programmatic edges so designers can tune exactly which decisions belong to the model and which remain deterministic.
 - `INS-260605-0E19` Traditional software made you a traffic controller dictating every move; agents make you a dispatcher who states the destination and trusts the agent to find the route.
 - `INS-260627-B244` Legacy modernization (high context, well-defined output) suits a 'factory of agents' where humans give a spec and final review; greenfield/new features suit an 'iterative loop' where agents are co-creators generating variation for fast feedback.
 - `INS-260627-37AF` In contact centers the average call lasts 6.5 minutes but after-call work takes 6.3 minutes — a near 1:1 ratio — so AI's leverage is in mechanizing the admin tail, not the conversation.

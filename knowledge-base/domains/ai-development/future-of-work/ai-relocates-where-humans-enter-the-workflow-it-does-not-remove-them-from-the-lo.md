@@ -55,7 +55,7 @@ related:
   - INS-260627-3481
   - INS-260603-E224
   - INS-260603-6B3D
+  - INS-260627-B5F2
   - INS-260627-8EE7
-  - INS-260405-AF1E
 ---
 The binary framing of AI adoption (either AI does the work or humans do) misses the actual operational pattern inside enterprises. AI systems produce first drafts, candidate decisions, and aggregated analyses; humans review, approve, and intervene at specific points that are different from where they used to intervene. A legal professional who once reviewed every paragraph of a contract now reviews the changed sections after AI does initial redlining. A radiologist who once read every scan now reviews AI-flagged scans with second-opinion scrutiny. The total human labor involved drops for the specific task, but the loop itself remains. The implication for enterprise AI strategy: the question is not can AI do this but where is the right review point for a human given this AI capability. Firms that answer this question explicitly deploy AI successfully; firms that try to eliminate the human loop entirely hit regulatory, liability, and quality walls. The displacement anxiety is real for individual roles but the aggregate labor demand story is more nuanced than either AI-optimism or AI-doom narratives suggest.

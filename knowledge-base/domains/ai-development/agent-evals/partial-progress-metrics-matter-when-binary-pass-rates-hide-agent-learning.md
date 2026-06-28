@@ -48,12 +48,12 @@ related:
   - INS-260320-9D89
   - INS-260323-01F9
   - INS-260329-F84E
-  - INS-260329-D2CA
   - INS-260410-62E8
   - INS-260410-7ED2
   - INS-260501-3502
   - INS-260514-84FC
   - INS-260519-224B
+  - INS-260522-C5C2
 ---
 The contradiction scout should not simply downgrade agents from a binary success rate. SWE-EVO introduces Fix Rate because release-sized tasks can include hundreds or thousands of tests, making all-or-nothing resolved rate too coarse for comparing partial capability.
 

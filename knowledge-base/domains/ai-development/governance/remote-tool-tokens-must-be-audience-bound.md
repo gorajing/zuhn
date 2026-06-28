@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260605-52E4
   - INS-260627-B416
+  - INS-260627-FE77
   - INS-260627-3E71
   - INS-260605-35B4
-  - INS-260626-BC79
   - INS-260626-8A80
 ---
 The MCP Authorization spec requires resource indicators and server-side validation that access tokens were issued for the intended MCP server. This is not ceremonial OAuth compliance; it is the boundary that prevents a token for one service from becoming ambient authority in another.

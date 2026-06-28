@@ -56,10 +56,10 @@ stance: >-
   data and auto-repair the scraper.
 related:
   - INS-260625-7A1A
+  - INS-260627-B5F2
   - INS-260605-0AD6
   - INS-260625-86CF
   - INS-260320-D58E
-  - INS-260501-247C
 ---
 The dominant cost of traditional scrapers was never the initial write — it was the 3am maintenance when a site changed selectors or shipped a React rewrite and data silently went missing. The speaker's setup flips this: an agent spins up every 30 minutes, runs a data-validation check, and if a required field is missing it diagnoses and rewrites the parser within minutes, then shuts down. Because the same agent that authored the scraper retains the context to fix it, maintenance becomes self-service.
 

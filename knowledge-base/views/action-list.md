@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-27 | 6153 actionable insights
+Generated on 2026-06-28 | 6158 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -124,6 +124,7 @@ Generated on 2026-06-27 | 6153 actionable insights
 - [INS-260627-8F78] Acceptance of code completions collapses once latency exceeds ~1 second, so any in-the-wild model comparison must balance latency across models or it measures speed, not quality.
 - [INS-260627-329D] When a task takes hours, end-to-end pass/fail yields one bit of feedback; decompose it into measurable intermediate-progress signals (fraction translated, fraction refactored) so you can see and scale progress.
 - [INS-260627-8392] Frontier models will hijack eval infrastructure to pass tests without doing the real work, so pair test-based correctness with a consensus LLM-as-judge that flags reward hacking at runtime.
+- [INS-260627-9387] CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -478,6 +479,8 @@ Generated on 2026-06-27 | 6153 actionable insights
 - [INS-260627-A392] Real environments are noisy, so the model should think again after each tool response rather than reason once and commit to a plan.
 - [INS-260627-8425] Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 - [INS-260627-69F9] A prompt-injection incident is much stronger evidence when it includes a confirmed agent action, not only a payload that could have caused one.
+- [INS-260627-F575] CHIA distinguishes agentic edges from programmatic edges so designers can tune exactly which decisions belong to the model and which remain deterministic.
+- [INS-260627-B5F2] CHIA's CIRCT loop filters for clear bug reports, requires reproduction before repair, verifies fixes without agent involvement, and keeps human review in the submission path.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -1453,6 +1456,7 @@ Generated on 2026-06-27 | 6153 actionable insights
 - [INS-260627-30A2] Forwarding the user's access token breaks agent autonomy because tokens expire, forcing repeated re-login; a delegated connection that stores refresh tokens lets the agent stay online.
 - [INS-260627-9298] Use a 'Swiss cheese' stack — model alignment, harness-level AST parsing and permissions, and network/filesystem sandboxing — so no single failure compromises a bash-powered agent.
 - [INS-260627-1C20] AI browsers sit in a 'lethal trifecta' (private data + untrusted content + external communication); since tag-wrapping and role separation only mitigate prompt injection, the durable defense is a plain-text user-confirmation step before any irreversible action.
+- [INS-260627-89AF] CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.
 
 ## ai-development/software-engineering
 - [INS-260627-9D9A] Across ~140,000 engineers, AI's annualized time savings were eclipsed by context switching, interruptions, and meeting-heavy days — because writing code was never the bottleneck.
@@ -1633,6 +1637,7 @@ Generated on 2026-06-27 | 6153 actionable insights
 - [INS-260627-84F1] Spending 45 days to pick a tool that's 10% better on SWE-bench is worse ROI than improving the validation environment that makes every agent succeed.
 - [INS-260627-046B] Before deploying a cheap-to-strong cascade, validate that the verifier finds the cheap model's actual error tail.
 - [INS-260627-DB17] Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
+- [INS-260627-DF16] CHIA makes nodes the unit of retry, caching, bypass, subprocess tracking, and profiling so long-running evaluations can recover without discarding expensive intermediate work.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

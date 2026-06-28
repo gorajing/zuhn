@@ -1,6 +1,6 @@
 # Topic: security
 
-> 22 insights
+> 23 insights
 
 - `INS-260627-3E71` [high] Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution.
 - `INS-260627-1224` [high] The four pillars are: the agent must know who the user is, call APIs on the user's behalf, request the user's confirmation for risky actions, and access only finely-scoped resources.
@@ -24,3 +24,4 @@
 - `INS-260627-C36B` [high] Safety filtering is a binary safe/unsafe classification, so a fine-tuned encoder (35ms, self-hostable, retrainable in hours) beats an LLM-judge that compounds seconds of latency per checkpoint.
 - `INS-260626-F069` [medium] Approval records should include tool authority and runtime boundary.
 - `INS-260627-2FFE` [medium] Move MCP auth from long-lived shared keys (confused-deputy risk) to short-lived scoped OAuth 2.1 tokens, token exchange, and CIMD-based verifiable client identity.
+- `INS-260627-89AF` [medium] CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.

@@ -57,10 +57,10 @@ stance: >-
 related:
   - INS-260329-F688
   - INS-260605-3B8B
+  - INS-260627-B5F2
   - INS-260627-6BD0
   - PRI-260323-1CF9
   - INS-260625-E1AA
-  - INS-260329-9157
 ---
 Cichra's principle is blunt: 'You cannot keep finding them. You need to prevent them entirely.' His team enforces architecture by restricting which modules can import which others. The end-to-end BDD test suite is forbidden from importing any module that could touch the database, forcing those tests to exercise only real browser behavior. In the product itself, template-rendering code cannot talk to the database, which means N+1 queries are structurally impossible rather than something a reviewer must spot.
 

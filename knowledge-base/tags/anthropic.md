@@ -1,12 +1,12 @@
 # Tag: anthropic
 
 - `INS-260403-E78C` Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
-- `INS-260403-C584` Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260327-1D37` Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
 - `INS-260409-E44A` Code was the ideal wedge product for Anthropic because it opened enterprise IT budgets and because 'if you can generate code, you can generate anything else by generating the code that creates it.'
 - `INS-260409-7731` Frontier AI labs splinter because each billionaire wants to create AI in their own image — they can't share control, so collaboration always collapses into competing labs.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
+- `INS-260403-C584` Anthropic's Claude and other AI tools were operationally deployed in the Iran War for intelligence processing, target identification, and battle damage assessment at unprecedented speed.
 - `INS-260627-FEB4` Bash is the most powerful agent 'tool' because it is composable, low-context, and lets the agent reuse all existing software while checking its own work.
 - `INS-260626-2F2E` Record the exact code-execution tool version whenever an agent composes tools through code.
 - `INS-260402-4C4C` Jan Leike argues current alignment success can bootstrap superhuman alignment, but this assumes a golden middle of capability exists.

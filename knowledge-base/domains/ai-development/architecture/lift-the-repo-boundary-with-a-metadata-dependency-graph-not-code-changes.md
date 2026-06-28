@@ -52,7 +52,6 @@ stance: >-
   from all reachable repos into a unified dependency graph and wrapping the
   agent in a meta-harness — without touching a line of code in those repos.
 related:
-  - INS-260320-4DE2
   - INS-260320-0D43
   - INS-260404-07C3
   - INS-260410-01BC
@@ -62,5 +61,6 @@ related:
   - INS-260625-5351
   - INS-260625-08E5
   - INS-260605-6444
+  - INS-260627-D692
 ---
 The architectural move is to separate the dependency model from the code itself. Because a GitHub user already has read access to thousands of repos — some owned, many open source — you can analyze them on the side and extract metadata: what each project in each repo produces, what it consumes package-wise, what APIs it produces and consumes, and more. No line of code changes in those repos. That metadata is stitched into a unified dependency graph and fed to an agent-agnostic meta-harness, creating the illusion of one big codebase the agent can read and write anywhere. The harness then does the unglamorous coordination work: bring the relevant repos into a session, install dependencies, set up an agent per repo, wire them so they work together, and provide a GUI to make non-trivial changes without getting lost. Crucially, the meta-harness is *not* an agent — it sits around whatever agent you install (Claude, Cortex, etc.), making it more capable. The design lesson generalizes beyond this product: the leverage is in modeling how artifacts relate, and presenting that model to the agent as a single navigable surface, rather than trying to make a single agent session bigger.

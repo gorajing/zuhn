@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 323 insights
+> 324 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -284,6 +284,7 @@
 - `INS-260329-F66E` [medium] C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.
 - `INS-260602-1DF1` [medium] Mansi More: in the data-sources → ingestion → sub-agents → models stack, 'when one layer, one error comes, the whole agent is confined to it' — so it is critical to know exactly which layer produced an error, which only per-layer observability provides.
 - `INS-260409-5CF4` [medium] LLMs can keep index and summary files fresh well enough to replace a dedicated retrieval system.
+- `INS-260627-DF16` [medium] CHIA makes nodes the unit of retry, caching, bypass, subprocess tracking, and profiling so long-running evaluations can recover without discarding expensive intermediate work.
 - `INS-260627-3E8A` [medium] pi is a minimal core wired so the agent can write its own TypeScript extensions from shipped docs and code examples — and those extensions go on NPM, because 'we already have package managers' and don't need another silo called a marketplace.
 - `INS-260323-D8B9` [medium] Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
 - `INS-260321-801C` [medium] Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.

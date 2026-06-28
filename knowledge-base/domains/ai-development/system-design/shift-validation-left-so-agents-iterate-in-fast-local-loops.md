@@ -66,6 +66,7 @@ related:
   - INS-260626-0CFF
   - INS-260605-25B2
   - INS-260410-F910
+  - INS-260627-89AF
   - INS-260627-3481
 ---
 The talk notes that an agent is typically local to the developer's machine — the models run elsewhere, but the work the agent does happens locally. The design implication is 'shift left': if something is going to fail, it should fail as soon as possible, ideally before anything leaves the machine. The concrete anti-pattern is forcing the agent to commit and push to version control only to have a CI workflow fail several minutes later on something that could have been caught instantly.

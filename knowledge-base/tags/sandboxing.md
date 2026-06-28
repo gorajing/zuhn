@@ -30,5 +30,6 @@
 - `INS-260627-9478` Don't pass API keys into the sandbox as env vars; have the sandbox call a proxy endpoint in your own code that injects the real key, so the secret never enters the untrusted environment.
 - `INS-260627-9298` Use a 'Swiss cheese' stack — model alignment, harness-level AST parsing and permissions, and network/filesystem sandboxing — so no single failure compromises a bash-powered agent.
 - `INS-260627-6BD0` Don't enumerate what to block; enumerate what to allow, so there is nothing to exploit because the dangerous capability was never granted.
+- `INS-260627-89AF` CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.
 - `INS-260625-DA23` Persist a snapshot of the agent's sandbox so that when CI fails or a reviewer comments, you rehydrate and keep iterating until the PR turns green.
 - `INS-260625-1826` Do not rely on policy text to keep agents away from the oracle.

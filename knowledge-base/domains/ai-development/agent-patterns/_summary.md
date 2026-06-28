@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 468 insights
+> 471 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -312,6 +312,8 @@
 - `INS-260625-9BEB` [medium] OpenHands and SWE-agent with frontier models resolve only about 25% of SWE-EVO, so workflow scaffolding is not enough for broad autonomous software evolution.
 - `INS-260327-76B2` [medium] Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
 - `INS-260624-B6EA` [medium] Independent agent tool calls should run concurrently even if the model emits them sequentially.
+- `INS-260627-5976` [medium] CHIA treats agentic co-design flows as explicit CHIA loops, making workflow construction, deployment, and study a first-class artifact instead of a pile of bespoke scripts.
+- `INS-260627-F575` [medium] CHIA distinguishes agentic edges from programmatic edges so designers can tune exactly which decisions belong to the model and which remain deterministic.
 - `INS-260627-4946` [medium] Instead of one embed-search-top-K pass and hoping the answer is in the chunks, give the agent the query plus search tools and let it run as many searches as it needs.
 - `INS-260501-577A` [medium] Agents converge on humanoid roles for the same reason humanoid robots converge — the infrastructure was built for humans.
 - `INS-260605-27CC` [medium] Loop agents on mechanical, verifiable tasks (find shallow bugs, superficial refactors); escalate anything requiring fundamental design judgment to a human.
@@ -389,6 +391,7 @@
 - `INS-260605-2032` [medium] Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
 - `INS-260624-F048` [medium] A million-token window is not a substitute for a context manager.
 - `INS-260605-E230` [medium] Some harnesses must learn while the run is still alive.
+- `INS-260627-B5F2` [medium] CHIA's CIRCT loop filters for clear bug reports, requires reproduction before repair, verifies fixes without agent involvement, and keeps human review in the submission path.
 - `INS-260626-88B8` [medium] Instead of always keeping the most recent N messages, OpenGov maintains a rolling summary every N messages and lets the agent do recall over that summary.
 - `INS-260405-8166` [medium] A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
 - `INS-260626-D8E6` [medium] Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.

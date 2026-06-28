@@ -59,7 +59,7 @@ related:
   - INS-260605-D710
   - INS-260626-BC79
   - INS-260627-F1AF
-  - INS-260625-BBB1
+  - INS-260627-FE77
 ---
 Today's agentic browsers operate a site the way a human would: they screenshot or read the DOM, infer that a button exists, grab its coordinates, and click. That's brittle because the site was designed for humans, not agents. The Web MCP proposal flips this—the site hosts MCP tools (name, description, JSON schema, execute function) registered on navigator, so an agent invokes 'add to cart {item, quantity}' as a structured tool call it already knows how to use, rather than reverse-engineering the UI.
 

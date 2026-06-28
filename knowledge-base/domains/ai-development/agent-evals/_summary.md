@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 101 insights
+> 103 insights
 
 - `INS-260627-27E0` [high] A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
@@ -80,8 +80,10 @@
 - `INS-260627-A4DD` [high] Run two co-evolving loops — one optimizing the agent, one optimizing the evaluators — because the agent loop only works as well as the eval feeding it.
 - `INS-260625-029F` [medium] A reliable agent must be scored on knowing when not to continue.
 - `INS-260626-1673` [medium] LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
+- `INS-260627-9387` [medium] CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
 - `INS-260625-C1E8` [medium] AgentRun gates should distinguish fast blockers from slower calibration signals.
 - `INS-260625-6178` [medium] Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
+- `INS-260627-42EC` [medium] CHIA's discussion says agentic implementation accelerates idea-to-design, but evaluating performance, quality of result, and correctness becomes the dominant bottleneck.
 - `INS-260626-F694` [medium] Open user prompts give breadth no condensed benchmark can match, a 'both bad' vote captures absolute (not just relative) quality, and the benchmark never saturates because there's always a better possible answer.
 - `INS-260625-ED7E` [medium] METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260626-B149` [medium] A growing class of users ignores the eval UI entirely and just wants a coding agent (Claude Code, Codex) to run pure SQL on the trace backend, pull data into context, and improve their agent for them.
