@@ -52,6 +52,7 @@ stance: >-
   On-device LLMs should be shipped as a shared OS system service, not bundled
   per-app.
 related:
+  - INS-260628-4786
   - INS-260625-E04B
   - INS-260625-DD6B
   - INS-260605-F064

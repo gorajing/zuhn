@@ -6,6 +6,7 @@
 - `INS-260605-DB29` The instinct to 'prompt it harder' when an agent fails is usually wrong; reliability is engineered structurally through the harness surrounding the model.
 - `INS-260627-7076` A human-reviewed shared file (agents.md / micro-agent) is the practical sweet spot for inter-agent context sharing, between context-blowing full sharing and loop-prone agent-to-agent chat.
 - `INS-260627-A81B` Because LLMs are non-deterministic with an enormous state space, formal methods, model checking, and type systems have essentially no bearing on prompt-driven software — but LLMs' tolerance for unanticipated inputs creates a new resilience worth designing around.
+- `INS-260628-5DBC` Non-determinism is tamable with temperature zero; what actually breaks AI apps is that near-identical inputs produce wildly different outputs.
 - `INS-260605-365A` Measure agent accuracy with evals because non-deterministic systems hide regressions — Nisi only discovered a skill was lowering accuracy 97%→77% by measuring.
 - `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260625-9C3B` Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.

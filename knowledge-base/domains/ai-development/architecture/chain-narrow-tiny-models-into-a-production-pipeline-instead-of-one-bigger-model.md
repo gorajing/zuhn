@@ -51,11 +51,11 @@ stance: >-
   Chaining several specialized few-hundred-million-param models produces
   production-grade capability that a single tiny model cannot.
 related:
+  - INS-260628-4786
   - INS-260626-8DD1
   - INS-260605-33C0
   - INS-260325-175B
   - INS-260403-13AF
-  - INS-260626-AE04
 ---
 The Eloquent app is offered as a 'proof of life' that tiny-model pipelines work in production. Rather than one model doing everything, it runs an ASR engine for speech-to-text and a distinct polishing model that removes ums/ahs and applies a personalized keyword dictionary (jargon, names). Each model is small, but composed they deliver a compelling offline experience.
 

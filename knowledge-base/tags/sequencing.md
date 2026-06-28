@@ -2,8 +2,8 @@
 
 - `INS-260626-3AD0` Neuralink wins one beachhead (motor) with a deliberately generalizable system, then pipelines other products so the first, hardest FDA approval makes later ones (510k, PMA supplements) much faster.
 - `INS-260325-2B76` The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
-- `INS-260410-5075` Financial repression is bad, but suddenly removing it is worse — Japan's 1985 Plaza Accord deregulation led directly to their 1992 crisis because they 'didn't know what they were doing' yet.
 - `INS-260320-77C2` Sample analog synth sounds (like Moog DFAM) into a digital sampler/sequencer (like Elektron Digitakt) to get warm analog timbre with precise digital sequencing and pattern control.
+- `INS-260410-5075` Financial repression is bad, but suddenly removing it is worse — Japan's 1985 Plaza Accord deregulation led directly to their 1992 crisis because they 'didn't know what they were doing' yet.
 - `INS-260410-CBF9` Tocqueville's rule held for the USSR: 'the most dangerous moment for a bad government is when it begins to reform,' because Gorbachev gave away political power before fixing the economy while Deng held political power and fixed the economy.
 - `INS-260329-444F` Study what successful people did at your stage, not what they do now, to find the right playbook.
 - `INS-260330-E47D` Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
@@ -15,6 +15,6 @@
 - `INS-260412-2785` F1 priority pallets contain wall panels and electrical systems — not the most valuable items, but the ones needed first for assembly.
 - `INS-260403-30BF` Industry digitization follows a fixed sequence: information layer first, then transactions, then operations.
 - `INS-260519-2A13` Roniesha Copeland (Vercel): the teams that get outbound right build the system before they write the message.
-- `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260323-BEE6` GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
+- `INS-260405-0D9A` Structure your roadmap so each milestone lowers the cost or risk of the next, making progress compound rather than just accumulate.

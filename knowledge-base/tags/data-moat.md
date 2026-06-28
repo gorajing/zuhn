@@ -1,5 +1,6 @@
 # Tag: data-moat
 
+- `INS-260628-8FE6` Talk to anyone in the eval space and it's the dataset creation and environment creation that matters more than anything — expensive expert-validated environments are CapEx that becomes a defensible advantage.
 - `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
 - `INS-260627-AF32` Agent labs sit uniquely between real engineers and the models, holding the richest dataset of real engineering work — the only thing that actually moves the needle — and every major lab quietly captures it while sharing none of it.
 - `INS-260410-BB93` Whoever wins the scaffolding layer can vertically integrate downward into models because they have the data liquidity to fine-tune any capable open-source checkpoint.

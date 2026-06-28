@@ -16,6 +16,7 @@
 - `INS-260626-20B7` The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
 - `INS-260627-9E3D` FastContext turns exploration quality into a measurable citation task separate from end-to-end task success.
 - `INS-260625-1920` Model identity is not enough; the harness is part of the measured system.
+- `INS-260628-ACEA` Before agents, ML output was ingested into complex downstream systems that erased the need to scrutinize the model itself; agency makes the output consequential, which is what forces evaluation to the surface.
 - `INS-260625-77F8` For workflow agents, the answer is the mutated state, not the transcript.
 - `INS-260625-B6E8` Make held-out tests auditable in mechanism but private in instance.
 - `INS-260625-224F` A benchmark does not test tool orchestration just because many tools are available.

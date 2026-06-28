@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260409-086A
   - INS-260410-796F
+  - INS-260628-C374
   - INS-260626-A05F
   - INS-260627-F9B1
-  - INS-260627-85C7
 ---
 FastContext's key mechanism is not another general coding agent; it is a narrower exploration role. The explorer gets Read, Glob, and Grep-style tools, issues independent searches in parallel, and returns compact file-line citations instead of a long conversational trace. That makes repository search a bounded evidence-gathering step rather than part of the solver's permanent reasoning history.
 

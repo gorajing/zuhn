@@ -58,13 +58,13 @@ related:
   - INS-260320-63D3
   - INS-260410-37D5
   - INS-260605-AD25
-  - INS-260605-5078
   - INS-260605-CF2E
-  - INS-260605-4DB9
   - INS-260605-295D
   - INS-260626-59D9
   - INS-260627-A999
   - INS-260627-85C7
+  - INS-260628-C374
+  - INS-260627-8B75
 ---
 Catasta's strongest sub-agent argument comes from testing: when the main loop both writes code AND performs browser actions, feeding raw browser observations back into the main loop confuses it — there's too much noise relative to the coding actions it should attend to. Replit's fix was to move the entire testing architecture into sub-agents. A sub-agent is invoked from the core loop starting from a blank slate; the builder decides the minimal subset of context to inject, lets it run to completion, scratches its context window, and returns only the final observation to the main loop. This is the classic separation-of-concerns principle applied to context windows. 
 

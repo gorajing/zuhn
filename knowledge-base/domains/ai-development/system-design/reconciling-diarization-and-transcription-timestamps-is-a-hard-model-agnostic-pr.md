@@ -52,9 +52,9 @@ stance: >-
   dedicated orchestration layer rather than naive timestamp matching.
 related:
   - INS-260605-DDAB
+  - INS-260628-26C6
   - INS-260325-FDA9
   - INS-260627-682B
   - INS-260330-550F
-  - INS-260522-51E7
 ---
 Naively assigning each transcribed word to the active speaker breaks down in practice. The timestamps from the diarization model and the STT model disagree; STT doesn't transcribe overlapping speech well; and sometimes diarization detects speech the transcriber drops, or vice versa. Words landing on a speaker boundary are genuinely ambiguous (Bredin's 'oh hello' example), and segments where two speakers overlap may yield only one transcribed word. pyannoteAI's answer is a dedicated STT-orchestration step that reconciles the two streams, including 'exclusive diarization' that picks the single most-likely speaker during overlap to simplify alignment. Crucially they keep this reconciliation independent of the STT model itself, so it works with any transcriber — including privately fine-tuned ones. The design takeaway: treat diarization-STT fusion as its own component with its own logic, decoupled from the choice of transcription model.

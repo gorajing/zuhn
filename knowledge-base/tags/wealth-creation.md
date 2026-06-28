@@ -10,6 +10,6 @@
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
+- `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.
 - `INS-260403-8EFF` Startups represent a historic shift where deep intellectual curiosity increasingly leads to wealth, not just academic prestige.
 - `INS-260403-7C71` Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.
-- `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.

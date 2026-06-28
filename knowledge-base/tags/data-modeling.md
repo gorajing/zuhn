@@ -1,6 +1,7 @@
 # Tag: data-modeling
 
 - `INS-260421-43EC` mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history.
+- `INS-260628-789C` Cisco normalized heterogeneous network data (YANG, JSON, streaming telemetry) into OpenConfig specifically because it is heavily documented online, so LLMs already understand it well.
 - `INS-260329-2FB8` Composite primary keys (like employee_id + client_id in a Works_With table) enforce domain constraints at the database level that surrogate keys silently abandon.
 - `INS-260329-34EE` Junction tables with composite keys naturally prevent duplicate relationships and encode the semantics of entity interactions.
 - `INS-260329-8233` When two entities have a many-to-many relationship, a junction table with a composite key of both foreign keys is the only correct way to model it.

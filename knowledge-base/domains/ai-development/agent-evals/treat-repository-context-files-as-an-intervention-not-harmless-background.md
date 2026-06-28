@@ -51,7 +51,6 @@ related:
   - INS-260626-057E
   - INS-260626-F5AE
   - INS-260327-E016
-  - INS-260626-4564
 ---
 The evaluation compares coding agents on SWE-BENCH and CTX BENCH under no-context, LLM-generated-context, and developer-context conditions. LLM-generated context files reduce average resolution rate slightly while increasing average cost by about 20% on SWE-BENCH and 23% on CTX BENCH; developer-written context files perform better than LLM-generated ones but still increase steps and cost.
 

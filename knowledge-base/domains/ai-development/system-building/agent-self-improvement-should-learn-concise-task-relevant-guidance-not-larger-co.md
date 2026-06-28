@@ -46,10 +46,10 @@ stance: >-
   but measured distillation of concise guidance that changes outcomes.
 related:
   - INS-260626-057E
+  - INS-260628-3F43
   - INS-260626-43C9
+  - INS-260628-CB50
   - PRI-260406-1AC6
-  - INS-260626-983E
-  - PRI-260328-A65A
 ---
 The authors suggest future work on automatic context-file generation and connect it to planning and continual learning from prior tasks. Their empirical result narrows the target: generated guidance should not merely summarize the repository or add generic process advice, because those patterns increased cost without significant success gains.
 

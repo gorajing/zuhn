@@ -57,6 +57,7 @@ related:
   - INS-260625-02C7
   - PRI-260324-12CF
   - INS-260627-3D9A
+  - INS-260628-29DF
   - PRI-260406-8FDF
 ---
 OpenAI frames agent improvement as a strict hierarchy: prompt engineering first (steer behavior cheaply), then task optimization (simplify the task, add guardrails, add/subtract tools, change tool behavior), and only then reinforcement fine-tuning, which changes model weights. RFT is the most powerful lever but also the most expensive and operationally heavy, so it is positioned as the move you make only after you've 'squeezed all the juice out of the task' with the earlier techniques.

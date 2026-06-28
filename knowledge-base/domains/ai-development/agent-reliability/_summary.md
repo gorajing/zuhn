@@ -1,12 +1,13 @@
 # Topic: agent-reliability
 
-> 26 insights
+> 27 insights
 
 - `INS-260627-0444` [high] Below ~95-99% reliability, the cost of checking and fixing AI output exceeds the time the AI saves, producing a net slowdown.
 - `INS-260627-E230` [high] Verification is only as good as its specification — anything you forget to check is an opening for bugs — so as agents nail implementation, the spec becomes the bottleneck.
 - `INS-260627-AA19` [high] Persisting each step's output means a workflow can sleep indefinitely and resume by replaying the deterministic loop over cached state — no process stays alive.
 - `INS-260627-0C43` [high] On brownfield codebases, agents do well exactly where humans do — high cohesion and clear module separation let the agent avoid holding 18 things in context — and tech debt that slows a human dev slows the agent identically.
 - `INS-260627-82CC` [high] Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
+- `INS-260628-1B09` [high] BlackRock tried agentic systems for complex security setup and they 'don't quite work' given the domain complexity—so in regulated finance they design for human-in-the-loop and four-eyes checks first, resisting the temptation to go all-agent.
 - `INS-260627-0BC1` [high] Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
 - `INS-260627-1443` [high] Single-shot LLM calls don't need durable execution; long-running agents that have spent real time and money on intermediate steps do, because a crash forces a full restart.
 - `INS-260627-8B0B` [high] Real-world IDPI is active, but Unit 42 still sees a gap between lab severity and observed production impact.

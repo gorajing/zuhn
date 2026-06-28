@@ -59,7 +59,6 @@ related:
   - INS-260404-9004
   - INS-260409-003A
   - INS-260625-99AE
-  - INS-260627-CB5C
 ---
 Perplexity built a hybrid retrieval layer that pulls relevant documents before summarizing with an LLM, dramatically cutting token usage while delivering faster responses with better citations. Grammarly's incremental fine-tuning makes corrections cheaper over time. Canva treats AI tools as lightweight enhancements rather than cost-draining centerpieces. These aren't just engineering optimizations—they're strategic moats.
 

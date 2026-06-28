@@ -1,3 +1,4 @@
 # Tag: productionization
 
+- `INS-260628-4786` BlackRock's third takeaway: custom AI apps are great in experimentation, but before shipping you must evaluate ROI—spinning up an AI app (e.g., GPU inference clusters) may cost more than an off-the-shelf product that does it quicker and cheaper.
 - `INS-260626-B5A6` Demos succeed and production fails because operational workflows—not model quality—haven't kept pace with deterministic software engineering.

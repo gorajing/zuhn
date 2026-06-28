@@ -55,7 +55,6 @@ stance: >-
   good; treating yourself as 'just a platform' is a cultural pathology that
   kills product quality.
 related:
-  - INS-260329-180B
   - INS-260405-F705
   - INS-260404-A6D4
   - INS-260403-EAC6

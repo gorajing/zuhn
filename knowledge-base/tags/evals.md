@@ -4,6 +4,7 @@
 - `INS-260626-B149` A growing class of users ignores the eval UI entirely and just wants a coding agent (Claude Code, Codex) to run pure SQL on the trace backend, pull data into context, and improve their agent for them.
 - `INS-260626-67E8` The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
 - `INS-260626-32B6` Reasoning evals need controllable complexity and trace analysis, not just final accuracy on famous benchmark sets.
+- `INS-260628-BDB0` Judge your eval program by three concrete capabilities — 24-hour model adoption, complaint-to-eval pipeline, and pre-ship offense — not by whether evals exist.
 - `INS-260626-ECC7` Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
 - `INS-260627-0818` Masked IRL reports instruction accuracy and mask precision/recall/F1 before tying disambiguation to robot reward performance.
 - `INS-260627-0A69` Start by capturing historical runs and back-testing them; track 'agent smell' (tool-call count, retries, latency) for sanity checks, and test the deterministic tools as plain functions.
@@ -11,6 +12,7 @@
 - `INS-260627-6792` Give credit only when the real goal is met (tests pass), but make the surrounding signal continuous so the model has a gradient to climb.
 - `INS-260626-B0D5` AI Consult improved documentation and treatment planning but did not significantly reduce 14-day treatment failure, showing why proxy metrics need outcome checks.
 - `INS-260626-BF18` Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
+- `INS-260628-33E6` Build ambitious evals for features that don't work on today's models and keep model-swapping a few keystrokes away, so each new release is an immediate go/no-go on shipping.
 - `INS-260625-0E60` The best eval is an environment that can measure whether the decision worked.
 - `INS-260626-3105` Run each eval ~5 times, track its pass rate, and give the tests you care about a small failure budget — a single green run proves nothing.
 - `INS-260625-D1F9` Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
@@ -32,6 +34,7 @@
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
 - `INS-260605-5D14` If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
+- `INS-260628-8FE6` Talk to anyone in the eval space and it's the dataset creation and environment creation that matters more than anything — expensive expert-validated environments are CapEx that becomes a defensible advantage.
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260627-0F8C` Environments collapse evals, synthetic-data generation, RL/distillation training, and live agent deployment into a single reusable abstraction: harness + tasks + rewards.
 - `INS-260605-7843` Have experts grade agent traces AND write why; then run an LLM over the justifications to mine failure modes and generate scalable automated scorers.
@@ -53,11 +56,16 @@
 - `INS-260605-B44B` Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
 - `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
+- `INS-260628-F942` The 'year of evals' arrived only when CEOs/CFOs/CISOs could understand AI and connect it to dollars — adoption was gated by executive legibility plus budget dynamics, not by the maturity of the eval tools.
 - `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260627-CD65` Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.
+- `INS-260628-26C6` Engineer a dataset as a continuous reconciliation loop with reality; the real overfitting danger is a frozen dataset, and a human with taste — not automation — should select which user feedback enters it.
 - `INS-260627-1CD2` Colvin found Gemini was dramatically faster and cheaper in his eval only because it invented wrong answers that his eval wasn't checking — apparent efficiency was actually cheating.
+- `INS-260628-79DC` Treat scorers like a PRD for your AI app — generic scorers encode someone else's requirements, so write and keep revising your own.
+- `INS-260628-009E` When you tinker with a prompt to appease a model you're encoding criteria you never wrote down; evals externalize "here's what I actually care about" so the spec survives a model change.
 - `INS-260627-535C` Measure skill distillation as a delta, not as an isolated pass/fail run.
+- `INS-260628-337C` LLM-as-judge is a 'poor man's version' of a human judge that partially solves the dataset-creation problem, but it carries measurable biases (conciseness, helpfulness) versus humans, so you must validate it or risk drifting in a weird direction.
 - `INS-260627-01CF` Requiring tasks and rewards up front converts an agent harness into a proper eval, replacing 'build it, try it, ship it' with measurable experimentation across models and hyperparameters.
 - `INS-260627-068D` A pass/fail score is too thin; keep the artifacts needed to diagnose why.
 - `INS-260626-484B` For scientific AI, the strongest evaluation is whether predictions survive independent measurement.
@@ -65,11 +73,11 @@
 - `INS-260627-B6D9` Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 - `INS-260627-20D7` MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
-- `INS-260625-C08B` Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
-- `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260410-36E3` Above ~3x the baseline, extra memory stops fixing infra errors and starts enabling new solution strategies — letting agents that default to 'install the whole Python data science stack' succeed where leaner agents already win at tight limits.
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 - `INS-260627-7441` Model behavior—turning principles into product requirements, prompts, and evals that shape an LLM's responses and personality—is maturing into a specialized function distinct from engineering.
+- `INS-260625-C08B` Not every eval needs an LLM call or a human — deterministic checks (valid JSON, schema, non-null fields) are nearly free, so use the cheapest signal that works.
+- `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260605-4D1D` For models under ~500M parameters, fine-tune for the specific task — Google sees fine-tuning move the eval by 20-40 points, the difference between unusable and shippable.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
@@ -93,8 +101,8 @@
 - `INS-260605-0BA3` Because models are non-deterministic and agent behavior is emergent, delivery should mirror the data scientist's hypothesize-experiment-confidence loop rather than a Jira-board feature build with fixed milestones.
 - `INS-260625-8A55` Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
 - `INS-260625-2563` Zone 1 is obvious bugs, Zone 2 is nuanced per-model harness tuning where the real wins are, Zone 3 is overfitting to the benchmark—don't go there.
-- `INS-260627-47A6` An eval task is not just an intent; it is the runnable environment around the intent.
 - `INS-260522-C5C2` YC Root Access 'holy shit' moment: a monitoring agent watched every employee query, and when one failed it opened a merge request to fix the tools/skills/index, had an agent review and deploy it, so the query succeeded the next day.
 - `INS-260626-DCB8` Most companies get an agent working but never make it improve daily; the unlock is turning every human interaction the agent couldn't handle into an eval that triggers an agent to modify the codebase and prompts until it passes.
+- `INS-260627-47A6` An eval task is not just an intent; it is the runnable environment around the intent.
 - `INS-260627-115C` Antigravity's edge comes from DeepMind engineers and researchers using it daily, which exposes model gaps at a 'very real level that eval simply can't give you' and feeds research priorities back into the product.
 - `INS-260625-0750` Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product.

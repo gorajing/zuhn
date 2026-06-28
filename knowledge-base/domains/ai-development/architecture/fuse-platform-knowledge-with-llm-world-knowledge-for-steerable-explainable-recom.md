@@ -57,7 +57,7 @@ related:
   - INS-260327-5D5F
   - INS-260605-5A8E
   - INS-260322-3616
-  - PRI-260406-6123
+  - INS-260628-04B2
 ---
 Spotify distinguishes two knowledge sources: 'Spotify knowledge' (its own user and content vectors) and 'world knowledge' (from open-weight LLMs like Llama or Qwen). By fine-tuning open models on catalog data, it fuses the two, and language models bring capabilities that classical recommenders lack natively: steerability via natural language, better recommendations from world priors, and built-in explainability — described as things you get 'for free' once recommendations run through a language model.
 

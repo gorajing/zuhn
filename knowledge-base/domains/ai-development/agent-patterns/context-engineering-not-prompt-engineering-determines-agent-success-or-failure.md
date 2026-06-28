@@ -47,12 +47,11 @@ resolutions:
     is a product and UX problem, not just an engineering one.
 stance: 'Agents fail because of bad context selection, not bad prompts.'
 related:
+  - INS-260628-492E
   - INS-260326-2410
   - INS-260605-20DD
   - INS-260403-5F41
   - INS-260624-A121
-  - INS-260605-D659
-  - INS-260625-131D
 ---
 Delucia's central claim is that 'agents don't fail because of prompts, they fail because of context.' Early agent work fixated on prompt wording, but the Arize team found that what made Alex succeed or fail was the data it was shown — not how the instruction was phrased. Context engineering is the discipline of strategically choosing what the model sees, not merely fitting under a token limit.
 

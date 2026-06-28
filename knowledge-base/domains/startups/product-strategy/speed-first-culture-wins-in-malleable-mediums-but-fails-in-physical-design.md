@@ -40,7 +40,6 @@ stance: >-
   The just-do-it approach to building is a net advantage only in mediums where
   iteration is cheap and reversible, like software and film.
 related:
-  - INS-260320-6CCE
   - INS-260404-D147
   - INS-260403-76E4
   - PRI-260405-64B2
@@ -50,6 +49,7 @@ related:
   - INS-260404-8A18
   - INS-260501-EBDD
   - INS-260514-DDA9
+  - INS-260626-9141
 evidence:
   - id: INS-260320-6CCE
     type: TRANSFERS_TO

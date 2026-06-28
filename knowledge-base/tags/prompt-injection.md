@@ -8,6 +8,7 @@
 - `INS-260605-2D9B` In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260625-2ED0` Risk from prompt injection requires three things together — untrusted input, access to private data, and the ability to act/exfiltrate; remove any one and the risk collapses.
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
+- `INS-260628-516E` You can't scan a 128k-token-vocabulary input space by brute force, so treat finding jailbreaks as an optimization that drives the judge score down.
 - `INS-260627-22EC` Indirect prompt injection defense shifts part of agent safety back into web-scale detection, filtering, and content-security operations.
 - `INS-260626-1C28` Gemini 3.5 Flash Computer Use adds multi-environment GUI actions with intent fields, configurable safety policies, and screenshot prompt-injection detection.
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
@@ -22,9 +23,9 @@
 - `INS-260410-E233` Fewer approval prompts inside well-defined sandboxes produce safer outcomes than many prompts against a trust-nothing baseline.
 - `INS-260625-BEFE` Static yes/no per-tool permissions force a bad usability-vs-security tradeoff; tracking session state lets you block dangerous combinations (read confidential data AND publish externally) while allowing each action in isolation.
 - `INS-260423-1C4D` Google Cloud's Model Armor: filters prompt injection, jailbreaks, PII leaks, social security numbers, and harassment at the load balancer layer before requests reach the model.
-- `INS-260402-31D8` The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - `INS-260626-3492` A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved.
 - `INS-260627-A0EE` Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
+- `INS-260402-31D8` The AI security consulting industry sells prompt-level protections that cannot work because LLMs are fundamentally jailbreakable; only permission restriction provides real security.
 - `INS-260627-3E71` Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution.
 - `INS-260627-89F2` Strip away the AI framing and you are running untrusted code from the internet with your own credentials, file system, and network access.
 - `INS-260627-1C20` AI browsers sit in a 'lethal trifecta' (private data + untrusted content + external communication); since tag-wrapping and role separation only mitigate prompt injection, the durable defense is a plain-text user-confirmation step before any irreversible action.

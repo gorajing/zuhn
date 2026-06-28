@@ -60,8 +60,8 @@ related:
   - INS-260605-ECB0
   - INS-260626-A928
   - INS-260410-5D66
+  - INS-260628-492E
   - INS-260605-E1E2
-  - INS-260605-117F
 ---
 The team found that asking an LLM to summarize a call produces an unstructured narrative paragraph that is hard to consume downstream. Instead they orchestrate the prompt in layers: few-shot libraries instruct the model to emit separate bullet lists (one for customer inquiry, one for operator action); a reasoning layer classifies intent against a predefined enum of call reasons (cancellation, new application, claim status) rather than letting the model invent categories; and critically, the model must output the reason it chose a given classification, making the decision auditable.
 

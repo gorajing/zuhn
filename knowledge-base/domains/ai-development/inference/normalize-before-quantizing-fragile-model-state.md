@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260323-6761
   - INS-260326-E1A8
+  - INS-260628-BF6A
   - INS-260325-6150
   - INS-260605-5159
   - INS-260325-E62D
-  - INS-260329-4842
 ---
 KVarN's mechanism is not simply 'use fewer bits.' Each fixed-size KV tile is transformed through an orthonormal channel rotation, iterative row/column variance normalization, and then asymmetric round-to-nearest quantization with different key/value bit allocations. The architecture tries to make the state easier to quantize before discarding precision.
 

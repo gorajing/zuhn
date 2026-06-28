@@ -71,6 +71,7 @@ related:
   - PRI-260406-72B3
   - PRI-260328-B4BD
   - PRI-260403-67FC
+  - INS-260628-D947
 ---
 The 'governance paradox' the founders name is a real organizational tension: give developers full autonomy without shared alignment and you get architectural chaos; impose review gates without autonomy and you bottleneck delivery. Traditional architecture guilds sit on the gates side — biweekly reviews that are 'merit-worthy but very hard to execute' and that scale poorly. Most attempts to fix this just add more presentations and strategy meetings, which the founders describe as being met with 'crickets' because developers are heads-down shipping features.
 

@@ -27,8 +27,8 @@
 - `INS-260404-8750` Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
 - `INS-260626-7DF1` Every new tech starts by doing the old thing but more (more spreadsheets, more email); the important shift is the new thing you couldn't do before.
 - `INS-260403-E59C` Microsoft didn't lose the desktop — the desktop stopped mattering when software moved to the web.
+- `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
 - `INS-260402-9EBD` The biggest technology companies emerged during periods that combined platform innovation in both software and hardware with the operational discipline forced by higher interest rates.
 - `INS-260403-8DE1` Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
 - `INS-260403-D39A` Each major startup cohort — semiconductors, PCs, internet, mobile — was built on a platform-level technology breakthrough that enabled new business models.
 - `INS-260410-EF31` Meta survived nine existential threats by framing itself as a 'human connection company,' not a 'social network' or 'social app' — letting the product form change while the mission stayed fixed.
-- `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.

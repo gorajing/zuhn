@@ -26,6 +26,7 @@
 - `INS-260410-37D5` Compaction preserves continuity but doesn't cure context anxiety; only a fresh agent with a handoff artifact does.
 - `INS-260627-EFD5` Split big features into small atomic tasks so each fits in the agent's context window and implements exactly what's specified, nothing more.
 - `INS-260410-0FC1` Redesign the test and log UX around the agent's cognitive constraints: short outputs, greppable ERROR lines, precomputed summaries, deterministic sampling.
+- `INS-260628-7862` Treat each tool definition and its output as a prompt-writing surface engineered for the LLM — not a thin wrapper over your GraphQL/REST API — because tools, not the system prompt, dominate the context.
 - `INS-260625-1CB8` A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
 - `INS-260627-FEB4` Bash is the most powerful agent 'tool' because it is composable, low-context, and lets the agent reuse all existing software while checking its own work.
 - `INS-260627-CECD` Keep the agent's context as small as possible and let it self-discover the right context via search/tools — Kiro uses its codebase index for secondary UI features (code search) rather than dumping it into the agent, because benchmarks show the agent does better with less context plus good navigation tools.
@@ -52,6 +53,7 @@
 - `INS-260605-C028` A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
 - `INS-260410-EE37` Keep the full session durable outside the context window and let the harness re-hydrate slices via getEvents(), instead of compacting or trimming in place and losing tokens you can't recover.
 - `INS-260605-0374` Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
+- `INS-260628-C374` Use sub-agents to offload reading/searching in a separate context window and return a succinct answer to the parent — not to model human team roles.
 - `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - `INS-260603-DFA6` Joe (RocketRide): the progression is prompt engineering (instructions to the model) → context engineering (the contextual data you give it) → 'harness engineering' (the ecosystem around the agent that makes it observable, cost-optimized, performant, and manageable at scale).
 - `INS-260605-3AB7` An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
@@ -68,27 +70,30 @@
 - `INS-260605-117F` Write descriptions to tell the model exactly when to invoke the skill, packing in the acronyms and triggers it should match on.
 - `INS-260626-621D` Store learned micro-preferences as transparent per-repo markdown the user reviews in every PR, and drop anything the LLM already knows (a KL-divergence filter) so the skill file stays small and current.
 - `INS-260321-A5D4` Adding instructions to fuzzy tasks creates noise, not clarity. Expert prompters write shorter prompts that define the task clearly without micromanaging execution — long prompts degrade performance around 3,000 tokens.
+- `INS-260628-CB50` Diminishing returns on a coding agent kick in around 40% of context-window utilization, so the goal is a small, high-signal context, not a full one.
 - `INS-260410-B118` Anthropic recommends a prompt template that explicitly instructs Claude Code to read three spec URLs (README, MANIFEST, examples) before writing extension code.
 - `INS-260605-158D` Replace 10,000 lines of doc-derived skills with ~550 lines of common gotchas — deleting 95% made it faster, cheaper, and more accurate.
 - `INS-260321-82FE` Effective prompting is no longer about linguistic tricks — it's about providing the right structure: role, background, format, constraints. Description of what the output should BE matters more than instructions for what the model should DO.
 - `INS-260627-805E` You cannot write enough rules to encode your taste — agents should learn it from watching you edit their output, not from ever-growing config files.
 - `INS-260625-9F65` Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
-- `INS-260605-91A9` The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
-- `INS-260626-E926` Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents.
-- `INS-260625-7935` Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
-- `INS-260626-411D` Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.
+- `INS-260628-9698` Cache hit rate determines agent cost and viability more than model choice, because every cache miss re-pays full input-token cost or burns rate limits.
 - `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - `INS-260625-1432` Models follow a U-shaped attention curve—keeping the first and last inputs and ignoring the middle—so more context does not mean more usable context.
 - `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
+- `INS-260625-7935` Feed the model the leanest representation that still answers the question — text not HTML, structured JSON not markdown.
+- `INS-260626-411D` Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.
 - `INS-260627-B416` Every enabled MCP server injects tool descriptions into every system prompt — disable the ones you aren't using or they waste tokens and mislead the agent.
 - `INS-260627-6217` A third-party MCP tool's description is integration code written by someone who doesn't know your use case, so vanilla descriptions like 'Press a key on the keyboard' give agents too little to act well.
 - `INS-260627-F522` Wrap each third-party tool so it invokes the original function unchanged but carries a richer, hand-tuned description that encodes your team's hard-won operating knowledge.
+- `INS-260605-91A9` The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
+- `INS-260626-E926` Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents.
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260626-0704` A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned.
 - `INS-260605-9402` Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260627-7122` Automate the context-gathering phase of debugging first — it dominates the time and is where an LLM adds the most value.
+- `INS-260628-3F43` Stop optimizing the prompt sentence and start designing the whole context window as a structured information system.
 - `INS-260605-59FE` The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260626-AAD8` Offloading conversation state to the server preserves the prompt-prefix cache that client-side history edits (stripping whitespace, line breaks) quietly invalidate.
 - `INS-260514-5914` Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.

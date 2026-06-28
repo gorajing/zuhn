@@ -54,7 +54,6 @@ stance: >-
   Pure vector similarity retrieval systematically loses the background context
   that changes the correct answer, which graph traversal restores.
 related:
-  - INS-260327-73BE
   - INS-260329-61E5
   - INS-260402-5ACE
   - INS-260402-28BA
@@ -62,6 +61,8 @@ related:
   - INS-260409-8DA0
   - INS-260421-CE27
   - INS-260605-4C0A
+  - INS-260628-84C3
+  - INS-260628-06A6
   - INS-260626-BD97
 ---
 Chin walks a healthcare query — the care plan for a patient's emphysema — across three retrieval regimes. A baseline LLM gives textbook-generic advice. Adding vector RAG yields slightly more tailored but still generic medical advice. Only graph-grounded retrieval, which pulls in the patient's prior diagnoses and past operations, produces the specific plan (smoking-cessation counseling, pulmonary rehabilitation) — because the disqualifying or qualifying background facts were 'lost in the similarity search.'

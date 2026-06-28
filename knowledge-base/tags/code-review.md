@@ -17,6 +17,7 @@
 - `INS-260627-EB75` Agents give every engineer a multiple of their producing power but none of their reviewing power, so PRs pile up and reviews get rubber-stamped.
 - `INS-260626-CD36` Treat root AGENTS.md as a tested review-policy artifact.
 - `INS-260627-F457` Because a PR gate sits at the chokepoint of the SDLC, an AI code reviewer can enforce both code-level concerns (security, efficiency) and process-level requirements (block PRs below a coverage threshold) in one place.
+- `INS-260628-D947` Review exists mainly to keep everyone on the same page about how the system is evolving; reviewing AI-authored plans (plus the prompts and test steps) preserves that alignment when reviewing every line becomes impractical.
 - `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260625-4078` A measured slowdown in expert open-source work argues against retiring human review as a near-term stable bottleneck.
@@ -27,10 +28,10 @@
 - `INS-260625-ACBC` Pull requests exist to codify trust; when an agent writes and another agent reviews, trust becomes diffuse and tools only solve verification, not trust.
 - `INS-260627-386E` Confidence labels plus rationale and code location turn agent suggestions into a triageable queue instead of a code-review burden.
 - `INS-260627-9D3D` If you do anything important, write it by hand — the friction is what builds the understanding of the system in your head, and that understanding is exactly what agents can't give you.
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260627-11E7` Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet.
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260605-D1F0` LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.
-- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
 - `INS-260627-36AB` Cheap generated code can make review capacity the scarce resource.
 - `INS-260514-8424` Have one engineer write what 'good security review' looks like — now every agent gets that review on every push. The single review becomes durable infrastructure.
 - `INS-260605-C1A4` Run a panel of domain-focused LLMs (security, API conformance) that evaluate changes inside the inner loop and feed corrections back to the main harness in real time.

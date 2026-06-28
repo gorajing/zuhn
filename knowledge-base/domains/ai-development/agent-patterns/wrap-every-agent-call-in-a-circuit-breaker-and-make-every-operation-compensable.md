@@ -76,9 +76,9 @@ related:
   - INS-260403-77F4
   - INS-260625-FC2D
   - INS-260625-6127
-  - INS-260626-8F57
   - INS-260626-E0A7
   - INS-260626-8F3D
+  - INS-260627-E496
 ---
 Agents will fail — the LLM times out, the API rate-limits you, the agent crashes mid-workflow. You design for it with two distributed-systems patterns. The circuit breaker wraps each agent call: track failure count and state; if an agent fails repeatedly (say five in a row) the circuit opens and subsequent calls fail fast instead of waiting on timeouts and bombarding a downed dependency. After a timeout (e.g. 60s) the circuit goes half-open and tests one request — success closes it and normal operation resumes, failure reopens it and resets the timer. This prevents cascading failure: one agent going down doesn't crash the workflow; you gracefully degrade — skip the agent with reduced functionality, use cached results, or alert a human. The author calls circuit breakers the single most important failure-recovery pattern for multi-agent systems and says every agent call should be wrapped in one (enforced at the serving layer via model serving / AI Gateway, with every open↔closed transition logged in MLflow to spot agents flaking out).
 

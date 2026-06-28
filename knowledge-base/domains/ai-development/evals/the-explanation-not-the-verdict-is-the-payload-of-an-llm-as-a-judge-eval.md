@@ -57,11 +57,11 @@ related:
   - INS-260605-EC51
   - INS-260605-B44B
   - INS-260625-722D
-  - INS-260625-0E60
   - INS-260626-60C2
   - INS-260627-4D26
   - INS-260627-AD6B
   - INS-260625-8A55
+  - INS-260627-9981
 ---
 In the prompt-learning pipeline, the LLM-as-a-judge eval receives the problem statement, the agent's solution, the unit-test result, and the reference solution, and is asked not just to label pass/fail but to explain the failure: parsing errors, unhandled cases, library-specific mistakes, and other error categories. The presenter calls this 'the key part' — the explanation is what gets mined and fed into the meta-prompt that rewrites the rules.
 

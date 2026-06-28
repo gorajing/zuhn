@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 4881 insights across 55 topics
+> 4882 insights across 55 topics
 
 ## Topics
 
@@ -51,7 +51,7 @@
 | product-strategy | 103 | Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand. |
 | quality | 17 | Bugs arrive at a constant rate, so fixing them now versus later costs the same total effort — you just pay a one-time cost to drain the backlog to zero. |
 | resilience | 9 | Forces that maintain cohesion at small scale break down at larger scales, requiring different survival strategies at each phase. |
-| sales | 202 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
+| sales | 203 | Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume. |
 | scaling | 215 | Startups need 2-3x longer than founders expect to validate their market, and 70% scale prematurely — largely explaining the 90% failure rate. |
 | startup-ecosystem | 6 | Entrepreneurship programs designed around employment outcomes rather than viable business models systematically fail both goals. |
 | strategy | 283 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |

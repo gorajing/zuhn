@@ -54,11 +54,11 @@ stance: >-
   stitching capabilities into one model, trading theoretical elegance for
   reusability and debuggability.
 related:
+  - INS-260628-3E32
   - INS-260626-5A6D
   - INS-260605-8AEE
   - PRI-260320-BC72
   - INS-260627-6C9A
-  - INS-260410-3271
   - INS-260605-AA90
   - INS-260605-FB4D
   - INS-260624-5ACA

@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260320-9FD5
   - INS-260626-7EA8
+  - INS-260628-32EF
   - INS-260409-B15B
   - INS-260410-B8EB
-  - INS-260410-3F1A
 ---
 Two practical cost levers from the talk. First, the API's built-in context caching saves roughly 90% of cost when you load a long file once and run repeated queries against it — the canonical pattern for document/media Q&A. Second, modality token math sets your real capacity: one minute of audio is ~1920 tokens, so a 1M-token window holds more than 9 hours of audio (and ~1 hour of video), with configs to tweak the ratio and timestamp ranges to analyze only slices.
 

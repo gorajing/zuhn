@@ -42,6 +42,6 @@ related:
   - INS-260626-B449
   - INS-260625-814D
   - INS-260627-CECD
-  - INS-260605-6444
+  - INS-260628-CB50
 ---
 SWE-Explore decomposes issue repair into an upstream ranked-region task and downstream patch validation. AgentRun should adopt the same pattern for code tasks: log files/lines inspected, compare them to expected evidence when possible, and gate not only on final tests but also on whether the agent surfaced the decisive context before editing.

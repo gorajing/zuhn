@@ -62,8 +62,8 @@ related:
   - INS-260403-A70D
   - PRI-260328-2014
   - PRI-260406-901E
+  - INS-260628-33E6
   - INS-260625-99B0
-  - INS-260403-EC09
 ---
 OpenGov's eval philosophy is captured in their quote 'Shipping is the start, not the finish.' They combine two loops: a lightweight in-product thumbs-up/thumbs-down mechanism that captures user signal on every response, and automated evals that run in CI against real completions — testing whether a prompt hit the expected tools and did what it was supposed to do. Together these drive their accuracy improvements and let them 'iterate so fast.' They tie this to observability with 'You can't scale what you can't see,' getting tracing and span profiling out of the box.
 

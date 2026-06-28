@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 107 insights
+> 111 insights
 
 - `INS-260627-27E0` [high] A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
@@ -21,12 +21,14 @@
 - `INS-260625-13F0` [high] If a model refuses or underperforms a task it's actually capable of because it senses an evaluation, getting the real answer is an adversarial optimization problem.
 - `INS-260625-14F9` [high] Separate context discovery from patch generation when diagnosing coding-agent reliability.
 - `INS-260626-32B6` [high] Reasoning evals need controllable complexity and trace analysis, not just final accuracy on famous benchmark sets.
+- `INS-260628-BDB0` [high] Judge your eval program by three concrete capabilities — 24-hour model adoption, complaint-to-eval pipeline, and pre-ship offense — not by whether evals exist.
 - `INS-260626-ECC7` [high] Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
 - `INS-260626-33BE` [high] NOVA separates local pass rate, runnable-but-negative silent failure rate, and effective pass rate instead of collapsing them into one score.
 - `INS-260627-0818` [high] Masked IRL reports instruction accuracy and mask precision/recall/F1 before tying disambiguation to robot reward performance.
 - `INS-260626-20B7` [high] The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
 - `INS-260627-9E3D` [high] FastContext turns exploration quality into a measurable citation task separate from end-to-end task success.
 - `INS-260626-475E` [high] Instead of micro-optimizing individual tool descriptions, GitHub evals them against each other so tools don't fight over when to be called — the description that makes an agent always call a tool is as bad as the one that makes it never call it.
+- `INS-260628-ACEA` [high] Before agents, ML output was ingested into complex downstream systems that erased the need to scrutinize the model itself; agency makes the output consequential, which is what forces evaluation to the surface.
 - `INS-260626-924E` [high] The paper treats EM as useful only for short canonical answers and pairs it with evidence fidelity, update robustness, long-horizon stability, and operational cost.
 - `INS-260627-AEC2` [high] Generating optimization candidates is cheap; the hard, decisive work is measuring them reliably and proving the agent didn't cheat.
 - `INS-260625-78C1` [high] SkillOpt applies candidate edits, re-runs the agent on a validation set, and accepts the new skill only if performance actually improves — otherwise it reverts and records the failure.
@@ -41,6 +43,7 @@
 - `INS-260626-CF64` [high] Run a little user research where the user is the robot: at the stop hook ask 'what could we have done better to set you up for success?' and let it tell you what you broke.
 - `INS-260626-BF18` [high] Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
 - `INS-260625-52C0` [high] Stable task and solution schemas let evaluators grow without breaking agents.
+- `INS-260628-33E6` [high] Build ambitious evals for features that don't work on today's models and keep model-swapping a few keystrokes away, so each new release is an immediate go/no-go on shipping.
 - `INS-260625-3162` [high] For production agents, the key judge metric is missed defects, not judge-human agreement.
 - `INS-260627-8213` [high] For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
 - `INS-260627-329D` [high] When a task takes hours, end-to-end pass/fail yields one bit of feedback; decompose it into measurable intermediate-progress signals (fraction translated, fraction refactored) so you can see and scale progress.
@@ -103,6 +106,7 @@
 - `INS-260627-00E9` [medium] The second trapped-ion platform test validates the ARTIQ/MCP/safety-filter interface, while explicitly not claiming full closed-loop physical calibration.
 - `INS-260625-D8C4` [medium] A top benchmark ranking was achieved using only schema ontologies, but reaching the near-100% accuracy production needs requires two further context layers — query blueprints and value searches — that no benchmark captures.
 - `INS-260625-B296` [medium] A malicious agent skill is not a true positive until its side effect fires in a controlled runtime.
+- `INS-260628-1175` [medium] A GPT-4o-mini self-verified debate ensemble beat o1/o3-mini on expert QA grading at under a third the cost and latency.
 - `INS-260625-8EC6` [medium] Generated evals scale only when verification is generated and validated with the task.
 - `INS-260625-2B5A` [medium] Correctness gates should encode behavior, not proximity to one historical patch.
 - `INS-260626-8747` [medium] Starting evals in a spreadsheet is the right first move, but it's documenting, not experimenting — it can't compare experiments over time, run analytics, or bring non-technical SMEs into the loop.

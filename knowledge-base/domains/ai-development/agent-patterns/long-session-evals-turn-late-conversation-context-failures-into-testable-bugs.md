@@ -50,8 +50,8 @@ related:
   - INS-260605-DCE5
   - INS-260625-B4AC
   - INS-260625-C69F
+  - INS-260628-BDB0
   - INS-260626-B149
-  - INS-260605-90CF
 ---
 Users rarely restart their chats — they travel across the application within a single growing conversation, pushing from under 10 turns to 20-plus. This means context-management failures appear late, and the team initially only discovered them when a user complained or Delucia happened to spot it in the data.
 

@@ -6,6 +6,7 @@
 - `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260627-4946` Instead of one embed-search-top-K pass and hoping the answer is in the chunks, give the agent the query plus search tools and let it run as many searches as it needs.
+- `INS-260628-1AF8` Fixed two-pass retrieval is fast but shallow; letting an agent iteratively traverse the source is slow but far more complete.
 - `INS-260625-211E` Models excel at selecting the right rows from a large input but are weak at producing the precise query that fetches only those rows, so give them broad-recall tools (vector + hybrid search) and let them do the final selection.
 - `INS-260605-4C0A` Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
 - `INS-260409-7C62` CLAUDE.md teaches the agent how to traverse the vault — it is the retrieval system.
@@ -15,6 +16,7 @@
 - `INS-260625-0141` Traditional RAG routes known relationships through the embedding model as a bottleneck; graph RAG models those relationships explicitly as a knowledge graph and expands context by traversal after a vector seed, improving recall and precision.
 - `INS-260605-FE8E` Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.
 - `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
+- `INS-260628-5BC9` Cisco's network knowledge graph is layered (raw config → data plane → control plane) so an agent runs a config-drift test by hitting only the raw-config layer, while a reachability test pulls multiple layers.
 - `INS-260626-9A2A` A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
 - `INS-260605-37DA` Keep the first 100 and last 100 characters plus the system prompt and latest tool result, store the truncated middle in memory, and let the agent retrieve it on demand.
 - `INS-260605-2A64` Vector RAG returns plausible-but-generic answers because similarity search drops connected facts like prior diagnoses or operations; graph traversal pulls those linked records and changes the recommendation.
@@ -24,6 +26,7 @@
 - `INS-260605-4B12` Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.
 - `INS-260626-407C` Forget the vector-DB/knowledge-graph infrastructure you think you need; a personal research OS works better as plain files plus a reference-based index.
 - `INS-260627-0691` The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project.
+- `INS-260628-06A6` If a single similarity search answers the question, use vector RAG; switch to graph RAG when the answer requires joining multiple related facts.
 - `INS-260627-3D38` ColPali-style retrieval embeds whole pages as images, avoiding the lossy step of segregating text, tables, and images that fails on scanned forms, IKEA-style manuals, and image-embedded PDFs.
 - `INS-260409-3602` Jerry Liu: 'The chunking algorithm, how you define metadata will bias your embedding representations' — no universal chunking rule works across PDFs, Slack messages, SEC filings, and code. Chunking is a domain-specific decision that dramatically shapes retrieval quality.
 - `INS-260625-06B3` When clustering mixed-format data, embed LLM-generated descriptions of each item rather than the raw item, or you'll group by format instead of meaning.
@@ -33,14 +36,18 @@
 - `INS-260627-30CD` Matryoshka representation learning produces nested embeddings so you can retrieve with 256 dims cheaply, then expand to more dimensions for precision — one network, many operating points.
 - `INS-260409-ADD0` MemPalace's wing+room metadata filtering takes 60.9% flat semantic R@10 to 94.8% on 22k real conversation memories — a 34-point lift from trivial structure the maintainers honestly note is standard ChromaDB filtering.
 - `INS-260627-41BE` Encoding text, video, audio, and PDFs through one omnimodal model into a unified semantic vector preserves cross-modal information that separate encoders lose when merged.
+- `INS-260628-5521` On the Weights & Biases chatbot, the originally-chosen text-embedding-3-small ranked worst and MTEB-leading Jina v3 underperformed, while Voyage-3-large won — none of which the public leaderboard predicted.
 - `INS-260625-CF5E` The 'RAG is dead' claim conflates RAG with simple vector search; retrieval-augmented generation actually spans vector search, BM25 full-text, grep/glob/regex, and filters — so 'agentic search' is a richer form of RAG, not its replacement.
 - `INS-260409-8DA0` Jerry Liu: 'If you're just doing top-k similarity... you might not be able to be fetching the right information from the documents' — meaning the retrieval step is where most RAG systems fail, not the synthesis step, and naive cosine similarity over embeddings is structurally insufficient for complex queries.
 - `INS-260410-4D86` RAG chunks lose the document-level context that determines whether they're relevant to a query, which is why retrieval fails even when the right chunk exists.
+- `INS-260628-0AC7` A fast eval is a set of query-document pairs you measure by checking whether the right docs come back in the top-k, and it should run in seconds for pennies.
+- `INS-260628-1AF2` You can bootstrap a golden dataset by teaching an LLM to write queries, but only if you semantically align their specificity to real queries — naive 'write a question for this doc' produces overly-specific queries that overstate your success rate.
+- `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
+- `INS-260628-28B0` Models have huge context windows but weak attention focus, so move the most relevant context high in the window and cut the noise.
+- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260605-0E65` Constant-information tasks (needle-in-haystack, O(1)) survive a full context window, but linear or quadratic information demands degrade accuracy to 30-60% even at low occupancy.
 - `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - `INS-260625-BF8B` DeepSeek-V4's multi-needle retrieval stays stable to ~128k tokens, then degrades — still impressive at 1M but no longer reliable — showing that mechanical capacity to process a context outruns the ability to recall from it.
-- `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
-- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260625-4248` The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.
 - `INS-260605-9402` Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - `INS-260627-CFA6` The PoisonedRAG result: five malicious chunks in an 8-million-document corpus suffice to make an LLM emit an attacker-chosen answer for a target query.
@@ -49,6 +56,7 @@
 - `INS-260605-D404` Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
 - `INS-260627-C258` Nano Banana Pro is powered by Google Search, so it can pull current sources and recent events into outputs rather than being limited to the model's knowledge cutoff.
 - `INS-260626-B94C` Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
+- `INS-260628-930A` You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
 - `INS-260409-430B` Explicit folder hierarchies pre-encode retrieval paths so the agent follows, rather than searches.
 - `INS-260409-BA55` RAG rediscovers connections on every query; a maintained wiki preserves them so knowledge compounds.
 - `INS-260625-99AE` Context engines, hierarchical summarization, knowledge graphs, iterative retrieval, and self-correction each trade upfront engineering against scaling cost—iterative retrieval is the best default when you're building agents for yourself rather than as a product.

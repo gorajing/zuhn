@@ -66,6 +66,7 @@ related:
   - INS-260625-C697
   - INS-260625-B6E9
   - INS-260626-D14F
+  - INS-260628-5DBC
 ---
 Karpathy's 'software 3.0' frames prompts as programs: we now program through LLMs, whether the model solves the problem directly, generates code, or loops with tools. This opens a large gap in assurance, because LLMs are fundamentally non-deterministic and their state space is astronomically large — so all the verification machinery discussed (formal methods, model checking, type systems) has basically no bearing on this form of software. New assurance techniques are needed.
 

@@ -6,6 +6,7 @@
 - `INS-260626-6F8E` Agent traces should record the scope that supplied each active capability: user, team, workspace, or run-local.
 - `INS-260626-7C7B` Zuhn should prefer search-before-install for skills and tools, with explicit approval before wiring anything in.
 - `INS-260625-E04B` MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
+- `INS-260628-1AF8` Fixed two-pass retrieval is fast but shallow; letting an agent iteratively traverse the source is slow but far more complete.
 - `INS-260627-F5A8` Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260625-0A7D` MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
@@ -49,6 +50,7 @@
 - `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260625-2439` MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
+- `INS-260628-CB50` Diminishing returns on a coding agent kick in around 40% of context-window utilization, so the goal is a small, high-signal context, not a full one.
 - `INS-260605-0C56` VS Code is positioning itself as one entry point where you launch and monitor local, background, and cloud agents — plus instructions, custom agents, skills, prompts, hooks, and MCP servers — from a single control modal.
 - `INS-260626-FEA0` Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns.
 - `INS-260626-57BA` Under XAA you log into the downstream app as yourself with your full existing permissions — the IDP brokers identity but does not attenuate scope, and scoped delegation is not in the spec.

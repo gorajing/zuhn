@@ -64,7 +64,6 @@ stance: >-
   best freeform prompt — because the skill encodes the configuration logic that
   non-designers don't know to specify.
 related:
-  - INS-260409-A0B4
   - INS-260627-D042
   - INS-260605-90E5
   - INS-260626-A08F

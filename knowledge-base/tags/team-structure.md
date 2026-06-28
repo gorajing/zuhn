@@ -2,6 +2,7 @@
 
 - `INS-260405-5E6B` Meta cut 600 AI roles to reduce decision layers, explicitly trading headcount for speed.
 - `INS-260627-75D7` Top performers were 7x more likely to have AI-native workflows (scaling 4+ use cases across the SDLC) and 6x more likely to have AI-native roles — moving from quarterly to continuous planning, story-driven to spec-driven work, and two-pizza teams to one-pizza pods of 3-5 people.
+- `INS-260628-72F5` Let one person reason about the intelligent agentic workflow and another reason about scaling to 100M docs/day — keep the two concerns distinct.
 - `INS-260327-8F76` When two partners with strong opinions disagree, a third co-founder provides the tiebreaker perspective that prevents gridlock.
 - `INS-260410-7875` Facebook's growth team — the first of its kind, formed in 2008 after user growth stalled — proved that the product is a better growth lever than any marketing spend, and the function must live inside engineering with data obsession as its defining trait.
 - `INS-260626-3396` ElevenLabs puts an engineer inside every team — people, go-to-market, legal — because as non-engineers 'vibe code' their own tools, the scarce skill shifts from producing output to reviewing it for security and correctness.

@@ -58,7 +58,6 @@ stance: >-
   on the local machine and iterate fastest against immediate feedback rather
   than slow remote pipelines.
 related:
-  - INS-260410-1ED3
   - INS-260605-683B
   - INS-260605-34B0
   - INS-260625-78C1

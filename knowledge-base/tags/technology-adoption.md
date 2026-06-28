@@ -15,9 +15,9 @@
 - `INS-260403-35E7` Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260625-57B0` The minor warlord who systematized warfare and used the latest guns beat the famously invincible cavalry — bet on systematized adoption of new tech over inherited prestige.
 - `INS-260405-911F` Newton described the Magnus effect in the 1600s; Flettner rotors only reached commercial shipping in the 21st century — a 400-year lag from observation to deployment.
+- `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
+- `INS-260412-A4DB` Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.
 - `INS-260330-EFFB` The 2007-2017 era of annual smartphone upgrades was an anomaly of rapid technological improvement, not a sustainable norm—average upgrade cycles stretched from 2 to 4 years as the market matured.
 - `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260403-B835` Young founders use the latest technology first, positioning them to discover fixable brokenness before older, more experienced operators.
-- `INS-260330-BF8F` Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
-- `INS-260412-A4DB` Quantum computers will likely start as specialized tools for cryptography, simulation, and search before potentially becoming general-purpose.

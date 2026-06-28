@@ -36,22 +36,22 @@
 - `INS-260330-B71B` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
 - `INS-260403-F68A` RuBisCo is a terrible enzyme that won evolution because it was first, and now 40 billion tons of it run the planet.
 - `INS-260330-6B7F` Vanilla JS forces imperative DOM manipulation where state and UI are completely decoupled, and any attempt to manage that complexity at scale recreates framework patterns — just without the community, testing, and documentation.
+- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
+- `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260403-5A88` The gap between high and low performing teams is defined by speed from idea to deployment, not by budget or headcount.
 - `INS-260403-532D` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
-- `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
-- `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260412-F5CF` Deferred maintenance on critical systems creates self-reinforcing degradation spirals that eventually outpace any remediation effort.
 - `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
 - `INS-260329-BE35` Your sharding key is a frozen prediction about usage patterns — choose wrong, and resharding a live database is one of the hardest problems in production engineering.
-- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260626-18F5` Bugs arrive at a constant rate, so fixing them now versus later costs the same total effort — you just pay a one-time cost to drain the backlog to zero.
-- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
+- `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260330-C658` Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
 - `INS-260404-5E8F` RuBisCo is terrible at its job but plants scaled it to 40 billion tons and dominated Earth, proving that volume compensates for per-unit inefficiency.
+- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.

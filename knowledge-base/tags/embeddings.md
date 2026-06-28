@@ -17,6 +17,7 @@
 - `INS-260410-72EC` A one-hot vector at index i times matrix W selects row i of W — so the fancy 'input layer' of a character-level neural net is mechanically the same operation as row indexing into a count table.
 - `INS-260627-41BE` Encoding text, video, audio, and PDFs through one omnimodal model into a unified semantic vector preserves cross-modal information that separate encoders lose when merged.
 - `INS-260605-0C13` On benchmarks like MTEB, open-source models tuned for narrow tasks beat managed services, and low-parameter models (e.g. Gemma) post ELO scores above much larger models — so choosing open source is no longer a tradeoff against quality.
+- `INS-260628-5521` On the Weights & Biases chatbot, the originally-chosen text-embedding-3-small ranked worst and MTEB-leading Jina v3 underperformed, while Voyage-3-large won — none of which the public leaderboard predicted.
 - `INS-260627-A7F8` Embeddings are not anonymized text — Morris's research recovered ~90% of source text exactly from stored vectors, so treat a vector DB as sensitive as the raw documents.
 - `INS-260627-FC86` Because embeddings keep improving and last year's model goes stale, design the index to do vector search over multiple embedding models so migration is gradual, not a hard cutover.
 - `INS-260625-89B3` Because a 100-engineer team mostly opens the same few codebases, Cursor uses Merkle (crypto hash) trees to detect near-identical indexes, copies the shared embedding data, and only re-chunks/re-embeds the changed files.

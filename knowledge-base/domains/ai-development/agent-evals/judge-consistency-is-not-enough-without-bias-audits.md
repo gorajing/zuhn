@@ -44,9 +44,9 @@ stance: >-
 related:
   - INS-260625-722D
   - INS-260605-EC51
+  - INS-260628-337C
   - INS-260404-5365
   - PRI-260405-ADEA
-  - INS-260405-D3D7
 ---
 The paper's consistency-bias paradox is directly relevant to agent verification: some judges can produce stable results while still favoring a position or presentation format. That means repeatability is a necessary diagnostic, not a sufficient validation protocol.
 

@@ -44,7 +44,7 @@ related:
   - INS-260627-B072
   - INS-260501-4903
   - INS-260627-8056
+  - INS-260628-26C6
   - PRI-260405-2A95
-  - INS-260329-CF48
 ---
 SoundThread lets you right-click a slider, add automation, and draw a curve that the process will sweep through across the render's full duration. The demonstration sweeps a MIDI note parameter low-high-low-high and the single process becomes a melodic statement. This is a general sound-design principle: most DSP parameters have a huge timbral range between their extremes, and the gesture of moving through that range is frequently more interesting than any static point in it. Default to automating before you default to layering.

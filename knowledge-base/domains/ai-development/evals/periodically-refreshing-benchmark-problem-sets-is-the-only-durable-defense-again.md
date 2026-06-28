@@ -59,12 +59,12 @@ related:
   - INS-260405-1D7B
   - INS-260405-5E18
   - INS-260410-0DA5
-  - INS-260410-4EB9
   - INS-260410-F167
   - INS-260413-B79B
   - INS-260514-3974
   - INS-260514-5AEF
   - INS-260605-2A01
+  - INS-260605-3E7F
 ---
 Frontier models are trained on most of the public internet, so any fixed benchmark is partly contaminated and its scores conflate memorization with capability. LiveCodeBench pioneered 'dynamic evaluation': automatically curating new problems released after a model's training cutoff and generating their test cases via LLM-driven fuzzing. Because problems carry release dates, time becomes a control knob — plotting pass@1 across release months reveals a stark drop in performance on problems published after the model's cutoff, which both detects and quantifies contamination.
 

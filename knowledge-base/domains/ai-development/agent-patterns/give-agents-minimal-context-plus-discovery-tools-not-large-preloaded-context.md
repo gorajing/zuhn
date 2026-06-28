@@ -55,7 +55,6 @@ stance: >-
   Agents produce better results when given minimal context and tools to
   self-discover what they need than when given large preloaded context.
 related:
-  - INS-260514-F58B
   - INS-260605-CEB5
   - INS-260605-4DB9
   - INS-260605-295D
@@ -65,6 +64,7 @@ related:
   - INS-260625-E10F
   - INS-260626-F5AE
   - INS-260626-FFE2
+  - INS-260626-78E6
 ---
 Asked about codebase indexing, Harris distinguishes between stuffing context and enabling discovery. Kiro deliberately does not feed the index to the agent; the index powers secondary UI effects like code search, while the agent is kept on a small context budget and given tools to figure out where to go find things. This is framed as anecdotal-but-benchmark-backed: 'the agent does better when given less context but given the tools to understand where to go find things.'
 

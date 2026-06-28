@@ -57,10 +57,10 @@ stance: >-
 related:
   - INS-260410-8092
   - INS-260625-E1AA
+  - INS-260628-930A
   - INS-260605-1523
   - INS-260424-BC8F
   - INS-260626-9AEB
-  - INS-260424-9760
 ---
 The speaker's worst-case is not an empty answer but a stale one. When current-data retrieval is blocked, the model fills the gap from its parametric memory—data frozen at the training cutoff—and frames it as the current situation. The user asking about 'now' gets answers about two years ago, with no flag that the temporal context is wrong.
 

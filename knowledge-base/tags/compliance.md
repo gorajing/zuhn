@@ -2,6 +2,7 @@
 
 - `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260403-1106` ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
+- `INS-260628-1B09` BlackRock tried agentic systems for complex security setup and they 'don't quite work' given the domain complexity—so in regulated finance they design for human-in-the-loop and four-eyes checks first, resisting the temptation to go all-agent.
 - `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260330-5DCA` The vine robot intubation device finds the trachea not through sensors or cameras but through passive compliance — its softness lets it naturally follow the correct anatomical path.
 - `INS-260627-C750` A SOC 2 report is a snapshot; the federal direction — new FedRAMP, NIST 800-53's 1000+ controls, SBOMs — is toward continuous monitoring and continuous security posture, because trusting an agent's outcomes requires ongoing accountability, not a certificate.

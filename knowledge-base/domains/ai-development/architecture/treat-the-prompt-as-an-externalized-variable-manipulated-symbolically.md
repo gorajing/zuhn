@@ -53,11 +53,11 @@ stance: >-
   REPL beats loading everything into the context window.
 related:
   - INS-260409-533A
+  - INS-260628-3F43
   - INS-260627-21D0
+  - INS-260628-492E
+  - INS-260628-E0D2
   - INS-260321-82FE
-  - INS-260501-C59A
-  - PRI-260406-1AC6
-  - INS-260329-8DC5
 ---
 The defining move of an RLM is that 'the context itself is the object of computation.' Rather than reading a large corpus into the context window, the agent treats the full prompt as a variable — a file or many files — and operates on it symbolically through a read-evaluate-print loop (Python in the original paper, but it can be bash over a Linux filesystem, as in OpenProse's Unix RLM). The agent pokes around symbolically and dispatches sub-agents to manipulate slices of the prompt, then works back up to a final answer.
 

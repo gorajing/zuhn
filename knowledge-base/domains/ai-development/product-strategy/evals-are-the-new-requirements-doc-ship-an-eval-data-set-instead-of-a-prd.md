@@ -54,9 +54,9 @@ related:
   - INS-260605-3B8B
   - INS-260625-8EC6
   - INS-260626-1673
-  - INS-260626-60C2
   - INS-260627-4072
-  - INS-260625-8A55
+  - INS-260626-60C2
+  - INS-260628-BDB0
 ---
 Khan frames eval as 'the new type of requirement doc.' Instead of giving engineers a Google Doc of requirements, the AI PM delivers an eval data set and the eval(s) the system must satisfy, which function as acceptance criteria. This shifts the PM's deliverable from describing desired behavior in prose to specifying it as testable data, and gives the whole team a shared check-and-balance.
 

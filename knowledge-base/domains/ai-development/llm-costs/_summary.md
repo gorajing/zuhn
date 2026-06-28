@@ -1,6 +1,6 @@
 # Topic: llm-costs
 
-> 62 insights
+> 63 insights
 
 - `INS-260605-2531` [high] Editing earlier messages to keep token usage between 40-60% of the window invalidates the input cache on every prune, killing the cache-read ratio that drives speed, cost, and performance.
 - `INS-260403-FF45` [high] Unlike SaaS where marginal cost per user approaches zero, every AI query carries real token and compute costs that can destroy margins at scale.
@@ -53,6 +53,7 @@
 - `INS-260619-AD94` [medium] At agent scale, model choice is a unit-economics decision: reserve frontier calls for hard reasoning and route routine steps to cheaper models and deterministic modules.
 - `INS-260404-CE26` [medium] Nvidia's CUDA monopoly on AI training becomes less relevant when models can be trained efficiently on modest hardware.
 - `INS-260605-D33F` [medium] Specialized fine-tuned models reportedly beat frontier APIs at ~1/5 the cost (Intercom) or orders of magnitude cheaper, because they only need to win at one task.
+- `INS-260628-32EF` [medium] Providers rate-limit to keep each user within a cache-hit-rate band that keeps GPUs efficient, so a token subscription is really a purchase of cache KB slots in token storage.
 - `INS-260320-D972` [medium] Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
 - `INS-260626-01AD` [medium] Do not hard-code provider speed knobs without a capability check and migration path.
 - `INS-260626-411D` [medium] Everyone optimizes input tokens, but experiments show output tokens drag down performance — so it pays to spend extra time supplying tight, correct context that shortens the agent's output loop.

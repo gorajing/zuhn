@@ -62,16 +62,16 @@ stance: >-
   When a multi-agent system breaks in production, the root cause is almost
   always missing distributed-systems engineering, not a bad model or prompt.
 related:
-  - INS-260410-77E5
   - INS-260410-7ED2
   - INS-260410-1ED3
   - INS-260411-BCB0
   - PRI-260411-78CD
   - INS-260605-5404
+  - INS-260628-A92C
   - PRI-260328-1ED1
   - INS-260605-A803
   - INS-260625-0021
-  - INS-260327-C1A4
+  - INS-260627-899A
 ---
 A single agent — LLM, prompts, RAG, a few tool calls — demos beautifully and runs clean. The moment product asks for five more agents, you inherit coordination: Agent A produces what B needs, C waits on both, D mutates shared state B is reading, E crashes and takes the workflow down. The number of potential connections grows like N(N-1)/2, so five agents is not 5x harder than one, it's roughly 25x — each connection is a failure point, a race condition, a state-sync problem.
 

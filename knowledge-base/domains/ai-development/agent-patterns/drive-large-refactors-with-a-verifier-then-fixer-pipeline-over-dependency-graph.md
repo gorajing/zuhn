@@ -69,10 +69,10 @@ stance: >-
   Large refactors should run as a verifier-then-fixer pipeline over PR-sized
   dependency-graph batches, processed leaf-first until every node passes.
 related:
-  - INS-260605-434D
   - INS-260605-CE25
   - INS-260625-EF29
   - INS-260625-DA23
+  - INS-260628-4E8F
   - INS-260627-B5F2
   - INS-260627-5F5A
   - INS-260627-DF16

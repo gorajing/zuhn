@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 193 insights
+> 194 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260627-8781` [high] Agent operating systems need embedded control before workflow replacement scales.
@@ -50,6 +50,7 @@
 - `INS-260328-F05E` [high] Zuckerberg argues that gigawatt-scale datacenters are technically feasible but energy permitting creates multi-year delays that capital alone cannot solve.
 - `INS-260325-3B58` [high] B2B AI deployment is bottlenecked by accuracy needs; B2C by GPU capacity during peak demand.
 - `INS-260410-8E02` [high] Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
+- `INS-260628-F942` [high] The 'year of evals' arrived only when CEOs/CFOs/CISOs could understand AI and connect it to dollars — adoption was gated by executive legibility plus budget dynamics, not by the maturity of the eval tools.
 - `INS-260327-7C69` [high] Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260409-7731` [high] Frontier AI labs splinter because each billionaire wants to create AI in their own image — they can't share control, so collaboration always collapses into competing labs.
 - `INS-260322-AFE9` [high] AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.

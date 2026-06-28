@@ -56,7 +56,6 @@ stance: >-
   ones.
 related:
   - INS-260329-8D70
-  - INS-260402-1D32
   - INS-260404-A9D0
   - INS-260330-FF94
   - INS-260605-77E5
@@ -65,6 +64,7 @@ related:
   - INS-260627-D28C
   - INS-260627-8121
   - INS-260625-A53F
+  - INS-260627-1589
 ---
 Ranking eight image models by CLIP score across three datasets, Charpentier finds the order changes every time and the inter-model differences are vanishingly small on a 0–1 scale—so the metric can't actually tell you which model is best. The problem isn't that automated metrics are useless; it's that a generic metric weakly correlated with your goal produces noise.
 

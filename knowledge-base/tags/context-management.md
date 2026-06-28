@@ -10,6 +10,7 @@
 - `INS-260605-03A6` Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260410-B0D6` Every harness workaround encodes an assumption about what the model can't do; those assumptions decay fast and need to be re-tested on each model upgrade.
 - `INS-260627-F9B1` Run verification in a sub-agent with a scoped fresh context, scratch that context, and inject only the last observation back — this is separation of concerns applied to context windows.
+- `INS-260628-5BC9` Cisco's network knowledge graph is layered (raw config → data plane → control plane) so an agent runs a config-drift test by hitting only the raw-config layer, while a reachability test pulls multiple layers.
 - `INS-260605-2032` Google's on-device skill harness exposes only skill descriptions in the system prompt and uses a load-skill tool call to selectively pull in a skill's functions only when the model decides to use it.
 - `INS-260624-F048` A million-token window is not a substitute for a context manager.
 - `INS-260327-FDC1` Chase argues that file system access is a non-negotiable primitive for long-horizon agents because it enables critical context management strategies: storing summarized context for later retrieval, handling large tool results, and maintaining state across compaction boundaries.

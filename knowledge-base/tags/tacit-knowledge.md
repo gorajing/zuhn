@@ -7,8 +7,8 @@
 - `INS-260410-9AF4` AI's collective edge over human labor isn't intelligence — it's that you can copy a trained worker millions of times with all their skills and judgment intact.
 - `INS-260325-ADF3` Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260626-7A54` Business context, political dynamics, product vision, and org history decide the right thing to build — and none of it is in the repo for an agent to read.
-- `INS-260627-3AF7` Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.
 - `INS-260626-D9CD` Deploy LLMs where 'what anyone would do' is the goal; the human-held value is where you want a different answer or can't articulate why you did it that way.
+- `INS-260627-3AF7` Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.
 - `INS-260626-81BB` Unlike compilers or assembly — where knowing the mechanism makes you more effective — knowing attention and token probabilities won't improve your AI workflow; it's a tacit skill earned only by continuously using the tools and revising your approach.
 - `INS-260327-5A72` With 25% of US physicians as monthly active users, Open Evidence can now aggregate distributed clinical wisdom that exists only in doctors' heads -- knowledge not found in any published literature.
 - `INS-260409-6236` Daily hands-on AI usage builds usable intuition that content consumption cannot replace.

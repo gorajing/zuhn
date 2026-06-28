@@ -74,8 +74,8 @@ related:
   - INS-260605-EC51
   - INS-260605-EF23
   - INS-260605-B44B
-  - INS-260625-B4AC
   - INS-260625-C08B
+  - INS-260627-6F3F
 ---
 Paul's strongest claim about evaluation is that everything starts from the eval dataset — it's a data problem, and you are effectively building a small ML model. He built one for the LinkedIn writer by taking 20 real posts (noting you'd realistically want at least 100), reverse-engineering the guideline and research that would have produced each, generating new outputs from the real workflow, then labeling each output with a binary pass/fail plus a two-to-three-sentence critique (stopping at the first error). Given that dataset, creating the LLM judge is easy: the system prompt can be extremely simple if the right few-shot examples (input, output, label, critique) are in place.
 

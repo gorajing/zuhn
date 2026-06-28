@@ -4,6 +4,7 @@
 - `INS-260625-1830` Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260627-9387` CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
 - `INS-260626-ECC7` Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
+- `INS-260628-ACEA` Before agents, ML output was ingested into complex downstream systems that erased the need to scrutinize the model itself; agency makes the output consequential, which is what forces evaluation to the surface.
 - `INS-260627-8213` For routing evals, store the prompt/features with every model outcome, or you cannot test the actual router.
 - `INS-260625-99B0` SkillOpt passes the whole rollout — tool usage, intermediate steps, and final output — to the optimizer, not just a pass/fail correctness signal.
 - `INS-260625-25D6` Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
@@ -42,8 +43,8 @@
 - `INS-260423-2B80` Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
 - `INS-260605-44E5` When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.
 - `INS-260627-3251` Make a single AI gateway the only path to models so that unified access, identity-based auth, per-use-case budgets, and central auditing are enforced structurally rather than per-team.
-- `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260626-6F00` Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security.
+- `INS-260602-E2BD` Mansi More: 'Every time only AI went wrong or LLM, selection of LLM was not good — it's not the answer.' Production AI fails through a structured set of operational modes, and the reflex to swap models instead of fixing the pipeline is a misdiagnosis.
 - `INS-260625-6E19` Reframe the developer's job from interpreting analytics dashboards to reviewing agent-generated PRs — the signal-to-fix loop collapses from days to overnight.
 - `INS-260626-D768` When anyone can spin up an agent, the winners are the platforms that make agent behavior visible, debuggable, and editable.
 - `INS-260627-34A1` Show the 'how,' not just the numbers: Docker isolation, three mandatory warm-up runs, 1-second GPU metric logging, and timestamped per-run artifacts make a benchmark verifiable.

@@ -51,8 +51,9 @@ related:
   - INS-260625-25D6
   - INS-260627-FEBB
   - INS-260626-67E8
-  - INS-260627-6F3F
+  - INS-260628-8FE6
   - INS-260626-B04D
   - INS-260627-47A6
+  - INS-260628-0AC7
 ---
 The source reports three optimization campaigns, measured product selectivity and turnover frequency, condition-programmable ligands, and validation of top candidates at 20 mL scale. Those claims are anchored in physical outcomes, not in the persuasiveness of generated explanations. For AI systems, this is the cleanest pattern: let the environment score actions whenever possible.

@@ -1,8 +1,8 @@
 # Tag: demographics
 
 - `INS-260403-8874` AI fully replacing human labor would create mass displacement and resource competition severe enough to destabilize every political system, making it a different crisis rather than a solution.
-- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
 - `INS-260403-687E` Male testosterone is declining ~1% per year independent of age and lifestyle, meaning today's 30-year-old has 20% less than his father did at the same age.
+- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
 - `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
 - `INS-260327-9560` Nobody wants to have kids because the economic conditions that enabled the baby boom (cheap homes, stable jobs, affordable childcare) have been systematically dismantled.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.

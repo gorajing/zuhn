@@ -1,6 +1,7 @@
 # Tag: coupling
 
 - `INS-260330-D7CA` A shear transformation has too few eigenvectors to form an eigenbasis, meaning it cannot be decomposed into independent scaling operations along any set of axes.
+- `INS-260628-492E` A prompt is a stringly-typed canvas that couples what you're solving with overfitted model tricks, the inference strategy, and formatting — fine for managing an agent, terrible for engineering a system.
 - `INS-260329-BA12` Inheritance (Chef is-a subclass of Person) seems elegant but creates rigid hierarchies — in practice, composition ('has-a') produces more flexible systems.
 - `INS-260329-F66E` C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.
 - `INS-260329-0EAC` Static members share state across all instances, creating implicit coupling that must be used deliberately.

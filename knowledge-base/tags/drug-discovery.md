@@ -16,5 +16,5 @@
 - `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
 - `INS-260625-8CE3` The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing.
 - `INS-260410-9D16` TFs are queries, their binding motifs are keys, downstream genes are values — and like attention, small edits to the embedding vector produce dramatically different outputs, which is why Yamanaka flipped adult cells to stem cells using just four TFs out of 20,000 genes.
-- `INS-260404-16FB` Dedicated funds like Menlo-Anthropic's $100M signal that AI-longevity convergence is becoming a distinct investment category.
 - `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
+- `INS-260404-16FB` Dedicated funds like Menlo-Anthropic's $100M signal that AI-longevity convergence is becoming a distinct investment category.

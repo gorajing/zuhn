@@ -3,6 +3,7 @@
 - `INS-260627-21D0` Distrust of AI code is 80% a context problem, not a model problem — and the right context includes standards, PR history, and org logs, not just the current branch.
 - `INS-260627-0D57` Autonomy without alignment creates chaos and gates without autonomy kill productivity; embedding standards into the AI that advises developers makes output compliant by construction instead of by review.
 - `INS-260410-4F43` Anthropic open-sourced the full MCPB specification, toolchain, and schemas so that the format can become a cross-application standard rather than a Claude-only feature.
+- `INS-260628-789C` Cisco normalized heterogeneous network data (YANG, JSON, streaming telemetry) into OpenConfig specifically because it is heavily documented online, so LLMs already understand it well.
 - `INS-260410-8B61` Each cellular generation (2G, 3G, 4G, 5G) expires just as the next one arrives — so Qualcomm's CDMA patents expired worthless, but by then 4G patents had replaced them in the licensing stack.
 - `INS-260330-9EBA` The kilogram's name exists because 'grave' sounded too aristocratic during the French Revolution — supposedly objective standards are shaped by politics.
 - `INS-260330-DBAD` The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.

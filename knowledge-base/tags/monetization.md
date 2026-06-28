@@ -2,8 +2,8 @@
 
 - `INS-260403-EE02` Menlo Ventures finds 61% of US adults use AI but only 3% pay, revealing an enormous monetization gap that defines the AI business model challenge.
 - `INS-260627-9B00` Amp ships subtle developer-tool ads in the terminal and editor to sponsor cheap-tier inference, betting that cost — not interest — is what keeps students and hobbyists from using agents.
-- `INS-260327-C7D5` One 60-minute daily workflow — script rewrite, AI voiceover, AI image generation, AI video conversion, CapCut editing — produces Shorts that earn $2K+ on good days.
 - `INS-260321-F0DF` TikTok Live has massive viewer supply but low creator supply — musicians going live regularly earn $10K+/month from TikTok payments while building thousands of followers per week.
+- `INS-260327-C7D5` One 60-minute daily workflow — script rewrite, AI voiceover, AI image generation, AI video conversion, CapCut editing — produces Shorts that earn $2K+ on good days.
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
 - `INS-260403-2E0F` The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.

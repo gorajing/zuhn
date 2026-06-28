@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 117 insights
+> 121 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -11,6 +11,7 @@
 - `INS-260412-B89F` [high] At planetary construction scale, humans become controllers overseeing autonomous machine armies rather than direct operators.
 - `INS-260626-F25E` [high] AI performs dramatically better in well-structured codebases, so a hard-to-change codebase now caps your AI leverage and bad code becomes the most expensive it has ever been.
 - `INS-260605-7711` [high] Build bespoke tracing that structures the data your way and serves product/data/CX — not just engineers — because LLMs make such internal tools cheap to one-shot.
+- `INS-260628-3F43` [high] Stop optimizing the prompt sentence and start designing the whole context window as a structured information system.
 - `INS-260514-8413` [high] Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
 - `INS-260605-A8A9` [high] Turn the repeated 'find intent, judge implementation, check conflicts, make CI pass' supervision loop into a programmatic workflow that emits structured JSON, so only genuine decisions reach you.
 - `INS-260625-2088` [high] Autonomy improves when the environment exposes a bounded action space with reliable execution.
@@ -72,11 +73,13 @@
 - `INS-260605-780C` [high] Fan out ~25 subagents to analyze each backtest case in parallel, then cluster the failures into cohorts so the aggregate metric becomes an actionable 'why.'
 - `INS-260410-71B9` [high] Design agent platforms the way OSes were designed: pick opinionated interfaces for the components you expect to persist, and make no commitments about the implementations behind them.
 - `INS-260605-D912` [high] Voice agents must simultaneously hit sub-500ms response latency, baseline tool-calling intelligence, natural-sounding speech, and reliability across thousands of concurrent calls — failing any one breaks the product.
+- `INS-260628-4BA2` [medium] Cisco defines its digital twin as a knowledge graph (state) plus a set of tools like Batfish or RouteNet (execution), so agents can run real tests against a snapshot before changes hit production.
 - `INS-260625-5124` [medium] The electric grid's history shows that the most enduring coordinators never owned their own generation — they pooled uncorrelated anchor demand and let participants share base load while scheduling their spikes.
 - `INS-260625-DAE9` [medium] Do not optimize the model, scaffold, and eval suite as independent tracks.
 - `INS-260619-CBFA` [medium] Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 - `INS-260627-7D01` [medium] The HER2 paper treats color channels, propagation distance, ensemble size, and abstention thresholds as knobs in one measurement system.
 - `INS-260605-8F3D` [medium] Structure ML data pipelines as JSONL where each stage only appends fields, so expensive upstream stages can be cached and reused across experiments.
+- `INS-260628-789C` [medium] Cisco normalized heterogeneous network data (YANG, JSON, streaming telemetry) into OpenConfig specifically because it is heavily documented online, so LLMs already understand it well.
 - `INS-260514-0226` [medium] Code is the compiled artifact. The spec + harness is the source. LLM is the fuzzy compiler. Swap models = swap compiler backend.
 - `INS-260605-59FE` [medium] The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260625-BBB1` [medium] Add attributes to an HTML form and the browser auto-generates the JSON schema; for complex multi-step UI, manually register custom tools with hand-written schemas and execute blocks.
@@ -94,6 +97,7 @@
 - `INS-260412-9414` [medium] Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.
 - `INS-260605-E706` [medium] Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 - `INS-260626-8660` [medium] Treat your personal notes as an immutable snapshot the LLM never touches; agent-generated concepts, comparisons, and summaries live in a separate derivative layer that references it.
+- `INS-260628-72F5` [medium] Let one person reason about the intelligent agentic workflow and another reason about scaling to 100M docs/day — keep the two concerns distinct.
 - `INS-260626-5882` [medium] Local-first and file-over-app architectures gain new justification as the only way to expose the live browser state agents need to observe and script against.
 - `INS-260625-3464` [medium] Rather than reverse-engineering how Cloudflare detects bots, make the agent emit human-like signals (mouse movement, typing cadence) so detection never triggers in the first place.
 - `INS-260624-A121` [medium] Cybersecurity agents improve from both stronger models and better scaffolding.

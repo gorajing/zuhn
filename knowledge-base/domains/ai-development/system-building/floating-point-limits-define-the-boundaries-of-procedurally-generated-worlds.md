@@ -45,9 +45,9 @@ resolutions:
 related:
   - PRI-260403-9E80
   - PRI-260407-69A9
+  - INS-260628-26C6
   - PRI-260405-2A95
   - INS-260330-3B0B
-  - INS-260514-C4CF
   - INS-260410-8243
 stance: Minecraft's world ends at 1.8e308 blocks
 ---

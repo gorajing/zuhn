@@ -58,7 +58,7 @@ related:
   - INS-260605-A803
   - INS-260626-2D64
   - INS-260626-2170
-  - INS-260626-9732
+  - INS-260628-72F5
   - INS-260605-AE67
 ---
 Solmaz's enterprise orchestrator spins up a full Kubernetes pod per agent task rather than a lighter sandbox. He concedes this is wasteful, but argues it's the better abstraction: OpenClaw demonstrated that giving an agent a full computer makes it dramatically more powerful than confining it to a narrow tool surface. The model is on-demand, disposable agents — one per task — that create and edit files with state synchronized (he gestures at rsync/Dropbox-style sync) and full read-write access.

@@ -43,10 +43,10 @@ stance: >-
   signal.
 related:
   - INS-260322-58B7
-  - INS-260329-AA76
+  - INS-260628-4786
   - INS-260514-F073
   - INS-260323-DE2B
-  - INS-260410-BCA3
+  - INS-260329-AA76
   - INS-260403-F0C3
 evidence:
   - id: INS-260329-200A

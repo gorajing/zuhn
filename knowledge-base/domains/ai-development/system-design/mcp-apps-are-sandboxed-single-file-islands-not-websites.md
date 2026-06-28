@@ -53,7 +53,6 @@ stance: >-
   MCP interactive apps must be built as self-contained sandboxed bundles because
   they get none of the browser conveniences a website assumes.
 related:
-  - INS-260403-F7A9
   - INS-260501-52B5
   - INS-260501-7726
   - INS-260625-4559

@@ -1,11 +1,11 @@
 # Tag: cursor
 
-- `INS-260501-DAD0` Cursor's $3B ARR but bad margins is the structural picture of every vertical AI app without its own model — a sale to a model owner is the inevitable destination.
 - `INS-260403-4819` Cursor and Replit have crossed $500M+ ARR in under four years, setting a new speed record for developer tool commercialization.
 - `INS-260626-E56B` Popularity should help discover capabilities, not substitute for provenance and permission review.
 - `INS-260626-6F8E` Agent traces should record the scope that supplied each active capability: user, team, workspace, or run-local.
 - `INS-260626-3796` AgentRun should model cloud subagents as child runs with their own branch, VM, and verification gates.
 - `INS-260626-FF79` Agent-ready environment files should be treated as executable infrastructure, not editor preferences.
+- `INS-260501-DAD0` Cursor's $3B ARR but bad margins is the structural picture of every vertical AI app without its own model — a sale to a model owner is the inevitable destination.
 - `INS-260329-9115` Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
 - `INS-260605-8109` Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.

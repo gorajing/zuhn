@@ -59,7 +59,7 @@ related:
   - INS-260627-6217
   - INS-260410-60C8
   - INS-260626-475E
-  - INS-260627-A0EE
+  - INS-260628-7862
 ---
 The wrapping pattern creates a new tool whose implementation simply calls the original tool — identical behavior — but swaps in an enhanced description tailored to your workflow. This lets you encode experiential knowledge directly into the agent's decision surface: 'before calling click or hover, first call the accessibility snapshot tool,' or 'always prefer the accessibility snapshot over the visual snapshot.' The agent now knows your preferred sequencing and tool preferences without any prompt-level reminders or code changes to the upstream MCP.
 

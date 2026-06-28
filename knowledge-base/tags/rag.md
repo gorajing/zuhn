@@ -3,6 +3,7 @@
 - `INS-260627-1D6C` What limits enterprise deep research is how well-grounded and hallucination-resistant the retrieval is, not how clever the multi-agent loop is.
 - `INS-260605-72C4` A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.
 - `INS-260627-4B83` Feed coding agents an LLMs-full.txt containing your entire current docs so they stop generating code against the stale framework version baked into their training cutoff.
+- `INS-260628-0DCE` Because you can see exactly which subgraph was passed to the model, graph RAG enables explainable answers and role-based access control overlaid on nodes.
 - `INS-260627-4946` Instead of one embed-search-top-K pass and hoping the answer is in the chunks, give the agent the query plus search tools and let it run as many searches as it needs.
 - `INS-260605-4C0A` Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
 - `INS-260627-21D0` Distrust of AI code is 80% a context problem, not a model problem — and the right context includes standards, PR history, and org logs, not just the current branch.
@@ -13,8 +14,11 @@
 - `INS-260605-014F` A RAG knowledge base helps an agent answer correctly; a context graph storing past decisions and why they were made lets the agent decide and justify.
 - `INS-260605-CEB5` Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
+- `INS-260628-47B1` A vanilla corporate bond extracts fine with an in-context model on a small document, but 10,000-page prospectuses blow past million-token limits—so BlackRock chooses and mixes strategies (in-context, RAG, chain-of-thought) per instrument rather than standardizing on one.
+- `INS-260628-DD9D` Cisco's team replaced RAG-based knowledge-graph querying with a fine-tuned query agent and saw a drastic drop in tokens burned and time-to-result.
 - `INS-260627-0691` The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project.
 - `INS-260627-3410` Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
+- `INS-260628-84C3` Vector RAG excels at semantic similarity but fails at exact arithmetic, so route quantitative questions to a graph query engine plus function call for evidence-grade answers.
 - `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
 - `INS-260627-3D38` ColPali-style retrieval embeds whole pages as images, avoiding the lossy step of segregating text, tables, and images that fails on scanned forms, IKEA-style manuals, and image-embedded PDFs.
 - `INS-260409-384A` Jerry Liu: even with a hypothetically infinite context window, dumping enterprise data (gigabytes to terabytes) into every model call is 'very inefficient... you have these network transfer costs' — long context helps at personal scale but does not obsolete retrieval at enterprise scale.
@@ -25,12 +29,15 @@
 - `INS-260627-FC86` Because embeddings keep improving and last year's model goes stale, design the index to do vector search over multiple embedding models so migration is gradual, not a hard cutover.
 - `INS-260409-8DA0` Jerry Liu: 'If you're just doing top-k similarity... you might not be able to be fetching the right information from the documents' — meaning the retrieval step is where most RAG systems fail, not the synthesis step, and naive cosine similarity over embeddings is structurally insufficient for complex queries.
 - `INS-260410-4D86` RAG chunks lose the document-level context that determines whether they're relevant to a query, which is why retrieval fails even when the right chunk exists.
+- `INS-260628-0AC7` A fast eval is a set of query-document pairs you measure by checking whether the right docs come back in the top-k, and it should run in seconds for pennies.
+- `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
+- `INS-260628-28B0` Models have huge context windows but weak attention focus, so move the most relevant context high in the window and cut the noise.
+- `INS-260410-3F1A` Loading a document once into the prompt cache and referencing it across many chunk-context calls drops the cost of LLM-generated chunk annotations to roughly $1 per million document tokens.
 - `INS-260627-E257` There's a gap between a model not breaking at a million tokens and actually reasoning across them — performance degrades sharply (Chroma's 'context rot') well before the limit.
 - `INS-260403-BE4D` Including relevant background data (bios, papers, past interactions) in the right format and order can make or break prompt performance more than any clever technique.
-- `INS-260410-3F1A` Loading a document once into the prompt cache and referencing it across many chunk-context calls drops the cost of LLM-generated chunk annotations to roughly $1 per million document tokens.
-- `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - `INS-260625-4248` The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.
 - `INS-260627-CFA6` The PoisonedRAG result: five malicious chunks in an 8-million-document corpus suffice to make an LLM emit an attacker-chosen answer for a target query.
+- `INS-260628-3F43` Stop optimizing the prompt sentence and start designing the whole context window as a structured information system.
 - `INS-260605-59FE` The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260605-C37E` When your injector detects a relevant answer, sometimes inject nothing — then compare success rates between injected and would-have-injected cohorts.
 - `INS-260605-9925` Don't let plugins block before an event/LLM call; instead wait a bounded window (~200ms) for optional enrichment and proceed regardless, so a slow plugin degrades quality rather than breaking the system.

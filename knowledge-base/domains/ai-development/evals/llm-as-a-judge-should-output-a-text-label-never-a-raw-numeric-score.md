@@ -54,10 +54,10 @@ related:
   - INS-260605-BEA5
   - INS-260605-33B4
   - INS-260605-EC51
-  - INS-260605-B44B
-  - INS-260625-3162
   - INS-260627-7541
   - INS-260627-9981
+  - INS-260628-337C
+  - INS-260628-516E
 ---
 A recurring request is to ask an LLM judge to 'just give me a 1–5 score.' Khan argues this produces unreliable results because of how tokens are represented — even PhD-level models are bad at numbers. The fix is to ground the judge in a categorical decision: give it a role, context, a goal, and a label set (e.g. toxic/not-toxic, friendly/robotic), and have it select a label. If your system needs a numeric score, map the label to a number after the fact, which is exactly what Arize does internally.
 

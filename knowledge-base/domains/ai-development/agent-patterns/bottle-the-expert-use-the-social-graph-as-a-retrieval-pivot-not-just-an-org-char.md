@@ -60,16 +60,16 @@ stance: >-
   distilled expert context into the agent, which steers the rest of agentic
   retrieval directionally.
 related:
-  - INS-260327-73BE
   - INS-260325-E23D
-  - INS-260409-1E5E
   - INS-260423-FB36
   - INS-260605-B176
-  - INS-260605-014F
   - INS-260605-C028
-  - INS-260625-99AE
   - INS-260625-0141
-  - INS-260626-407C
+  - INS-260628-ECEB
+  - INS-260628-DD24
+  - INS-260605-014F
+  - INS-260628-5BC9
+  - INS-260628-0DCE
 ---
 Unblocked builds a social graph of who reviews and contributes to which code, but its real purpose inside the context engine is as a retrieval pivot. They 'bottle the expert' — distilling what an individual has worked on, where they sit in the org, and the decisions they've made from PR comments and Slack — and unbottle it as seed context when a new engineer works in that expert's area. This layered approach stacks semantic vector search, pre-built memories, and the unbottled expert; the expert layer is the powerful one because it gives the agent directional guidance on where to look next in the agentic loop.
 

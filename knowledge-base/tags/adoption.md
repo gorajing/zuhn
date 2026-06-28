@@ -12,15 +12,16 @@
 - `INS-260605-7747` Don't hand everyone Claude Code and a hackathon — phase it in via your most curious senior engineers on non-critical systems first.
 - `INS-260625-464B` Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
 - `INS-260409-D012` Proficiency takes ~20 hours; people delay the first hour for decades because the cost of starting is visible and the cost of not starting is invisible.
-- `INS-260627-9B00` Amp ships subtle developer-tool ads in the terminal and editor to sponsor cheap-tier inference, betting that cost — not interest — is what keeps students and hobbyists from using agents.
 - `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
 - `INS-260403-AC2D` 68% of large enterprises are already deploying AI agents, collapsing a timeline most predicted would take until 2030.
+- `INS-260627-9B00` Amp ships subtle developer-tool ads in the terminal and editor to sponsor cheap-tier inference, betting that cost — not interest — is what keeps students and hobbyists from using agents.
 - `INS-260325-4C92` Almost everything AI can do is underestimated because users discover unimaginable use cases.
 - `INS-260603-D44B` Rona Shah (Walmart): audiences trust an agent to reorder milk but not to pick a new brand, and trust drops further for fully autonomous purchase — the pattern that works in practice is trust-but-verify: show the reasoning and the source links the user can click and check.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
 - `INS-260627-8425` Tie individual tools together under an orchestrating agent instead of leaving users to assemble them.
 - `INS-260404-116E` When a cheaper AI model launches, the demand expansion from lower costs outweighs the margin compression investors fear.
+- `INS-260628-F942` The 'year of evals' arrived only when CEOs/CFOs/CISOs could understand AI and connect it to dollars — adoption was gated by executive legibility plus budget dynamics, not by the maturity of the eval tools.
 - `INS-260321-2241` Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks 20th — driven primarily by cultural trust differentials (32% US trust vs 50-70% in leading countries) rather than technology availability.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
@@ -53,6 +54,6 @@
 - `INS-260403-1269` The best business tools are conceptually sound, simple, practical, visual, and have great UX — adoption depends on usability, not just correctness.
 - `INS-260605-3D21` When Viktor proactively DMed everyone on day one, security teams panicked — proactivity has to be earned with a few users first, then expanded slowly.
 - `INS-260412-A2FE` Real Graphene's batteries succeed commercially because the graphene sheet is 1-5 atoms thick and doesn't change cell dimensions, making it plug-and-play for phone manufacturers.
+- `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260403-CB33` Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
-- `INS-260405-7DC3` E-Ship 1 added four Flettner rotors to reduce diesel consumption — not to replace diesel, making the economics and risk profile of adoption far more tractable.

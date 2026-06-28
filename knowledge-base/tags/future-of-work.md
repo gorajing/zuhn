@@ -1,6 +1,7 @@
 # Tag: future-of-work
 
 - `INS-260405-CD42` Not learning AI is not a neutral stance—it is slow-motion failure as the competency floor rises.
+- `INS-260628-D947` Review exists mainly to keep everyone on the same page about how the system is evolving; reviewing AI-authored plans (plus the prompts and test steps) preserves that alignment when reviewing every line becomes impractical.
 - `INS-260605-4688` An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
 - `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.

@@ -9,6 +9,7 @@
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
 - `INS-260605-1A50` Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
+- `INS-260628-E0D2` System prompt plus user text is a sliver of agentic-coding context; the bulk is tool use and tool responses (bash, grep, file reads), most of which is cacheable but often re-prefilled.
 - `INS-260410-19DE` Smart agents use file paths, queries, and links to fetch data on demand — like humans use file systems and bookmarks rather than memorizing everything.
 - `INS-260625-3866` Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
 - `INS-260627-4130` A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.

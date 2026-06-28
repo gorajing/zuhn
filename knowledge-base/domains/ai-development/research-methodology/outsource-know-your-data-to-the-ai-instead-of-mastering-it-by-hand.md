@@ -58,8 +58,8 @@ stance: >-
   Letting the system discover its own failure modes and reasoning strategies
   outperforms the ML tradition of manually mastering your dataset.
 related:
-  - INS-260322-C0D3
   - INS-260505-4E44
+  - INS-260628-26C6
   - INS-260627-040E
   - INS-260603-6FE3
   - INS-260625-3768

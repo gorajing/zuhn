@@ -8,6 +8,7 @@
 - `INS-260413-11C9` Microsoft's AI Diagnostic Orchestrator + OpenAI o3 scored 85.5% on complex case studies vs 20% for unaided physicians, and multi-agent frameworks show 7% to over 60% gains over single-agent baselines.
 - `INS-260627-846D` M2's 10B active parameters make it cheap enough to spin up many parallel copies, turning model size into a multi-agent scalability feature.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
+- `INS-260628-CBB0` Map a state diagram onto a supervisor agent that controls each sub-agent's visibility based on the current situation, while sub-agents each write their perspective into a centralized unified graph.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
@@ -59,3 +60,4 @@
 - `INS-260626-A45A` Map directories and files to a visual space where agents appear as units, giving lineage tracking and a collision heat map instead of an opaque list of running sessions.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260320-336E` Chain specialized AI agents in n8n -- scraper (Firecrawl) feeds analyst (Perplexity) feeds formatter (Gemini) -- each agent does one job well, keeping the pipeline modular and cheap.
+- `INS-260628-58B2` n8n's AI-agent nodes let you implement and prove a complicated state-diagram design fast, deferring the move to LangChain or a lighter framework until the client actually needs it.

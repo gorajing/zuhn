@@ -51,10 +51,10 @@ related:
   - INS-260325-206C
   - INS-260329-C092
   - INS-260409-175D
+  - INS-260628-32EF
   - INS-260626-DC1B
   - PRI-260406-6E0F
   - PRI-260406-B785
-  - PRI-260405-548B
 ---
 DeepMind's own power users get throttled by brute-force quota caps — at some point an SRE literally tells them to stop a job. The panelists tie this directly to Anthropic's move to block reseller/'open-claw' arrangements: agentic systems are so token-hungry that a fixed monthly fee can't cover a user spawning 100 agents. The economic mismatch is structural, not a tuning problem.
 

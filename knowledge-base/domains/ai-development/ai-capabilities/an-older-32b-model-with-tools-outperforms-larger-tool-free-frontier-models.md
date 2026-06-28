@@ -56,6 +56,7 @@ related:
   - PRI-260323-8E89
   - PRI-260321-14D8
   - INS-260626-66DC
+  - INS-260628-1175
 ---
 On pass@1 across PhD-level GPQA plus math and coding benchmarks, START consistently improves over its QwQ-32B base and, across all benchmarks, either outperforms similar-size or similar-rank baselines (including the distilled R1 model and Stanford's S1) or comes second when it doesn't. In most cases it even beats o1-preview and o1-mini — and it achieves this using the older 2024 version of QwQ, not the newer release that landed days before the paper.
 

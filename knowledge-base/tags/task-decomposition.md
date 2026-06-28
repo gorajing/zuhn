@@ -1,6 +1,7 @@
 # Tag: task-decomposition
 
 - `INS-260627-69ED` Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order.
+- `INS-260628-E265` Extract 'parties' and their 'addresses' in the same grouped query — split them naively and you get three parties with two mismatched addresses.
 - `INS-260627-EFD5` Split big features into small atomic tasks so each fits in the agent's context window and implements exactly what's specified, nothing more.
 - `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
 - `INS-260626-D7AE` Move a task down the verifiability spectrum with golden examples, decomposition, and guardrails so agents can run effectively against a stand-in for truth.

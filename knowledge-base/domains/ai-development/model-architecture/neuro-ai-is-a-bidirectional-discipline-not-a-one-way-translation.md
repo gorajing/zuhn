@@ -46,10 +46,10 @@ stance: >-
 related:
   - INS-260404-1E65
   - INS-260505-82B8
+  - INS-260628-4BA2
   - INS-260327-E41B
   - INS-260410-AA40
   - INS-260330-CCF0
-  - INS-260405-1C8D
 ---
 Tolias's closing argument: neuro-AI is unique among AI-for-science fields because the technology being studied (intelligence) is the same technology being built. Brain digital twins simultaneously serve neuroscience (understand and treat brains) and AI development (extract architectural insights). His Stanford spinoff is structured around this — brain-inspired models that may address the physics problem and out-of-distribution failure modes that current LLMs exhibit.
 

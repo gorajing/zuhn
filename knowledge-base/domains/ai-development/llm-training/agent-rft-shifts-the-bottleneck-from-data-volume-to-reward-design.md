@@ -60,6 +60,7 @@ related:
   - INS-260410-684D
   - INS-260627-8A88
   - INS-260514-3A62
+  - INS-260628-1AF2
 ---
 Agent RFT is strikingly sample-efficient: OpenAI reports success from as few as 10 examples, and Macco trained GPT-5 to write fast GPU kernels — a domain with almost no training data, especially on new hardware like Nvidia B200s — using only about 100 PyTorch prompts. This inverts the usual ML constraint where you need thousands of labeled examples; here a small set of authentic, production-matching examples plus a well-specified reward function is enough. The reward is what carries most of the signal.
 

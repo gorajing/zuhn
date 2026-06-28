@@ -61,8 +61,8 @@ related:
   - INS-260626-BAE9
   - INS-260626-3796
   - INS-260627-7648
+  - INS-260628-3E32
   - INS-260423-85B3
-  - INS-260605-0748
   - INS-260627-8F84
 ---
 Grondin notes that LM Studio (which acquired his Locally AI) lets you download any Hugging Face model, run it on either Llama.cpp or MLX, and expose it through a local server that speaks OpenAI- or Anthropic-compatible response types, including streaming. An application written against a cloud LLM API can therefore point at localhost and run fully offline with no code changes.

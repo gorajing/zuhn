@@ -2,6 +2,7 @@
 
 - `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
+- `INS-260628-8FE6` Talk to anyone in the eval space and it's the dataset creation and environment creation that matters more than anything — expensive expert-validated environments are CapEx that becomes a defensible advantage.
 - `INS-260625-1F93` Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
 - `INS-260627-FAEC` The Los Alamos fusion-capsule agent is powerful because it executes 50–60 years of validated physics code on HPC, not because the LLM is smart — the shift is from 'what a model knows' to 'what we can let a model know.'
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
@@ -27,11 +28,11 @@
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
+- `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
 - `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
 - `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
 - `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
-- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
-- `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
 - `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
@@ -114,9 +115,9 @@
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
-- `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
+- `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260625-6C97` Pick markets that are (1) low trust / already outsourced, (2) low judgment at the task level, (3) high overall intelligence threshold, and (4) regulated — because regulation raises expectations and accountability, deepening the moat.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.

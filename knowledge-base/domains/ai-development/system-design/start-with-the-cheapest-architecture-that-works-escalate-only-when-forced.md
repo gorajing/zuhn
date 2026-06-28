@@ -55,11 +55,11 @@ stance: >-
   architecture and adopt heavier techniques only when their specific data
   demonstrably breaks the cheaper one.
 related:
+  - INS-260628-930A
   - INS-260327-3A71
   - INS-260403-B53B
   - INS-260403-5F41
   - INS-260330-4AD5
-  - INS-260403-26D4
 ---
 Despite the talk being a showcase for ColPali, the presenter's clearest piece of advice is to not reach for it first. His default heuristic when handed any problem is to solve it the most cost-effective and least heavy way available, then escalate only if the data forces it. Vision retrieval stores many vectors per page and is computationally heavy, so it is the wrong starting point.
 

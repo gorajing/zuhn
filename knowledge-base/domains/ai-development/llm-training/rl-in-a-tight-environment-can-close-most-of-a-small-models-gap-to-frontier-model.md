@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260330-77E2
   - INS-260409-17E9
-  - INS-260410-87B5
   - INS-260514-9281
   - INS-260625-1022
   - INS-260625-5184
@@ -62,6 +61,7 @@ related:
   - INS-260626-9B36
   - INS-260408-C572
   - INS-260605-33FA
+  - INS-260627-C70B
 ---
 Brown's wiki-search walkthrough is the concrete proof point: a small 4B model, after RL training in a purpose-built environment, jumped from 55% to 89% on the task — on par with much larger general models. The principle is that narrow, well-specified tasks are exactly where task-specific RL pays off most, because the small model only has to be excellent at one thing rather than broadly capable.
 

@@ -4,6 +4,7 @@
 - `INS-260625-D1F9` Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
 - `INS-260627-5004` Reframe 'overfitting to your data' as building expertise — you want an agent that is specialized to your repo, not one so generalized it is mediocre everywhere.
 - `INS-260605-B1FC` An optimizer that hit 96% accuracy still wrongly excluded aunts and uncles because its training subset never showed them — classic overfitting.
+- `INS-260628-26C6` Engineer a dataset as a continuous reconciliation loop with reality; the real overfitting danger is a frozen dataset, and a human with taste — not automation — should select which user feedback enters it.
 - `INS-260627-C112` Don't fine-tune on your raw documents — generate a large synthetic dataset that describes them and train on that, or the model just memorizes and breaks.
 - `INS-260329-5F96` Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
 - `INS-260405-57D6` OpenAI accidentally discovered that training transformers well past the overfitting threshold triggers a 'grokking zone' where genuine understanding and emergent behaviors emerge.

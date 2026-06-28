@@ -46,10 +46,10 @@ stance: >-
   and selectivity, not just raw hit rate from virtual screening.
 related:
   - INS-260409-13A5
+  - INS-260628-9698
   - INS-260327-61F5
   - INS-260330-BEF8
   - INS-260402-1D32
-  - INS-260405-DFBC
 ---
 The validation result is not merely that 83 of 213 tested candidates inhibited growth. The source highlights that two compounds were structurally dissimilar to existing antibiotics, potent against multidrug-resistant strains, selective, rapidly bactericidal, and associated with low frequencies of resistance.
 

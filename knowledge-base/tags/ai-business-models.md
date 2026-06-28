@@ -1,6 +1,7 @@
 # Tag: ai-business-models
 
 - `INS-260424-90E6` Jason Davenport (Google Cloud): I think we're in an efficiency phase of AI right now — I'm a little excited for when it's over and we start to think about business transformation as a result of AI, because that's where the next Googles, the next Ubers, the next yeah, they're going to come from.
+- `INS-260628-8FE6` Talk to anyone in the eval space and it's the dataset creation and environment creation that matters more than anything — expensive expert-validated environments are CapEx that becomes a defensible advantage.
 - `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
 - `INS-260410-069C` When labs split compute ~50/50 between training and inference with >50% gross margins, profit or loss each year is basically whether they bought ahead of or behind the next year's demand.
 - `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.

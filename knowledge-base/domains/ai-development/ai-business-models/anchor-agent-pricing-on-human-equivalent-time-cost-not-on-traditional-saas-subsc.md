@@ -58,7 +58,7 @@ related:
   - INS-260410-C022
   - INS-260522-88E0
   - INS-260325-206C
-  - INS-260327-A22D
+  - INS-260628-32EF
 ---
 Liu's framing: a recent Hyper Agent-generated board memo cost ~$150 in tokens to produce. Investors said it was the best memo Liu had ever written. The opportunity-cost calculation is obvious — 20 hours of CEO time at any reasonable rate is far more than $150. But many users haven't made the mental shift from 'subscription anchored' ($20/month feels expensive!) to 'value anchored' ($150 for a 20-hour task is cheap).
 

@@ -20,6 +20,7 @@
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
 - `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
+- `INS-260628-4BA2` Cisco defines its digital twin as a knowledge graph (state) plus a set of tools like Batfish or RouteNet (execution), so agents can run real tests against a snapshot before changes hit production.
 - `INS-260410-A27C` Because agents are non-deterministic across runs, grade final outputs with an LLM judge on a rubric and start with ~20 real queries — not hundreds of rigid test cases.
 - `INS-260605-BDFF` A skill is a markdown file you can now unit-test by running evals that score the agent's behavior, tool calls, and reasoning across scenarios.
 - `INS-260320-10CC` 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.

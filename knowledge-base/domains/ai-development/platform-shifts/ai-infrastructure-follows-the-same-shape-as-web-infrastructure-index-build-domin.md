@@ -61,6 +61,5 @@ related:
   - PRI-260328-A82C
   - INS-260424-2F93
   - INS-260626-742C
-  - INS-260625-5EEE
 ---
 The compute economics of web search infrastructure followed a clear pattern: 2000-2005 was index-construction dominant (training-analog), 2005-2010 transitioned to serving-dominant, and by 2010+ the vast majority of compute was query serving. The same pattern is playing out in AI infrastructure with compressed timescales: 2022-2024 was training-dominant, 2024-2026 is the transition, and 2026+ is increasingly inference-dominant. The implication is not just predictive — it gives current AI investment decisions an analytical anchor. AI infrastructure investments made on the assumption that training will remain dominant are stranded. Investments made on the assumption that serving (inference, agentic compute, real-time interaction) will dominate are well-positioned. The deeper lesson is about studying historical analogs as a discipline: the speaker explicitly cites Google's web infrastructure history as the basis for the 2024 decision to split TPU V8 into training and inference variants. Institutions that study the relevant historical analogs gain compounding advantages over institutions that try to reason from first principles each cycle, because the historical analog supplies decision frameworks faster than first-principles reasoning produces them.

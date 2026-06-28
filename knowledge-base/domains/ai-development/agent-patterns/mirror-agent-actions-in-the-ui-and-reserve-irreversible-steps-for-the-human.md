@@ -56,7 +56,7 @@ related:
   - INS-260403-00D7
   - INS-260403-BA81
   - INS-260625-26FE
-  - INS-260605-988D
+  - INS-260628-41B3
   - INS-260627-F2AE
 ---
 In the ticketing demo, each tool call the agent makes — searching concerts, opening a concert page, selecting VIP and quantity — visibly updates the page so the user can watch the agent's progress. Agyemang stresses keeping the UI in sync with tool calls as a core obligation, not a nicety: it preserves the user's mental model and their ability to retake control at any moment in the browse-then-handoff-then-browse loop that WebMCP enables.

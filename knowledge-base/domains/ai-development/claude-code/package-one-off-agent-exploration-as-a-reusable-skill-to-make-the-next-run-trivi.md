@@ -54,6 +54,6 @@ related:
   - INS-260605-4CED
   - INS-260325-BB13
   - INS-260627-C87B
-  - INS-260412-846C
+  - INS-260628-08FB
 ---
 The multi-day effort produced two artifacts, not one: a working demo and a reusable skill. Once the protocol was understood, the elaborate scaffolding — the Windows VM, the proxy, the brute-forcing — became unnecessary; Starkov could program the phone directly. He captured that distilled knowledge as a skill and open-sourced it, collapsing the next person's cost from days of discovery to handing the skill to Claude Code. This is the compounding move in agentic work: the expensive exploration phase is a one-time tax, and the right response is to externalize the result into a portable, executable artifact rather than leaving it locked in a chat transcript. It also gestures at a community flywheel — every cracked device becomes a skill that lowers the barrier for the next person and the next class of hardware.

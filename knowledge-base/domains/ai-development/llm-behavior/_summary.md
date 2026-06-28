@@ -1,14 +1,16 @@
 # Topic: llm-behavior
 
-> 45 insights
+> 47 insights
 
 - `INS-260625-E1AA` [high] Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260626-1759` [high] Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
+- `INS-260628-28B0` [high] Models have huge context windows but weak attention focus, so move the most relevant context high in the window and cut the noise.
 - `INS-260410-F5C5` [high] Chat model answers statistically imitate hired human labelers executing company-written instructions, not some emergent AI intelligence.
 - `INS-260626-9B36` [high] Doom-loop ratio for a small reasoning model stayed ~15-16% through SFT but dropped sharply after DPO and became almost nonexistent after RL with verifiable rewards plus an n-gram repetition penalty.
 - `INS-260605-EBEB` [high] Large system prompts and elaborate if-else logic overload frontier models into sensory overload, so prune aggressively and get out of the model's way.
 - `INS-260410-4EB9` [high] Opus enumerated 9 specific benchmark names (GAIA, BrowseComp, FRAMES, SimpleQA, WebArena, AgentBench, FanOutQA, MuSR, HLE) unprompted — it has an internal catalog of what evals look like.
 - `INS-260625-D44A` [high] Things that fool humans rarely fool AI and things that fool AI would never fool a human — AI is an alien intelligence with its own attack surface.
+- `INS-260628-5DBC` [high] Non-determinism is tamable with temperature zero; what actually breaks AI apps is that near-identical inputs produce wildly different outputs.
 - `INS-260413-E816` [high] GPT-4o's accuracy dropped from 98.2% to 64.4% and DeepSeek R1 from 90% to 14.4% when identical false statements were reframed from 'another person believes' to 'the user believes' — sycophancy is a structural failure mode, not an edge case.
 - `INS-260423-D900` [high] Hinton: chatbots don't store strings of words or particular events — they make them up when asked, and get details wrong just like John Dean testifying about Watergate meetings he was actually present in.
 - `INS-260626-105D` [high] An LLM has a 'smart zone' (~under 100K tokens) and a 'dumb zone' beyond it, so size every task to finish inside the smart zone rather than trusting a 200K or 1M window.

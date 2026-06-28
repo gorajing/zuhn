@@ -9,6 +9,7 @@
 - `INS-260410-9F17` If a human engineer can't definitively say which tool to use in a given situation, the agent can't be expected to do better.
 - `INS-260625-0A7D` MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-2C70` Pair low-floor specialized tools (simple params, cheap model, few mistakes) with high-ceiling general-purpose tools (shell/query-execution) that handle the long tail.
+- `INS-260628-7862` Treat each tool definition and its output as a prompt-writing surface engineered for the LLM — not a thin wrapper over your GraphQL/REST API — because tools, not the system prompt, dominate the context.
 - `INS-260410-A1E9` Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
 - `INS-260410-F910` Tools for agents should be purpose-built around agent workflows, not mechanical wrappers of existing API endpoints.
 - `INS-260626-239A` Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
@@ -43,6 +44,7 @@
 - `INS-260605-82BC` A 'delete item' endpoint is self-evident to the developer who built it, but an agent sees only the function schema and docstring — so tools must be written to be legible to a context-free reader.
 - `INS-260627-6E58` Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - `INS-260627-4253` A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.
+- `INS-260628-930A` You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260409-6A6C` Matuschak and Nielsen coin 'insight-through-making loop' — deep original research insights drive tool improvements which drive deeper research insights which drive better tools, forming a rapidly-turning feedback loop that produces transformative tools (Hindu-Arabic numerals, writing, calculus notation) that conventional product practice or conventional research practice cannot.
 - `INS-260501-4646` Claude-in-Chrome MCP took 2-3 seconds per action with crazy context bloat. Tan wrapped Playwright at the CLI and made it trivially fast.

@@ -43,14 +43,15 @@ stance: >-
   Agents should be designed and reasoned about as explicit state machines, not
   opaque pipelines.
 related:
-  - INS-260327-BF89
   - INS-260410-E658
   - INS-260605-07E5
   - INS-260627-85C7
+  - INS-260327-BF89
   - INS-260605-6444
   - INS-260625-AF2A
   - INS-260625-F3B0
   - INS-260627-95CF
+  - INS-260628-CBB0
 ---
 Beneath every hype cycle, an agent is a recursive while-loop with conditions and terminal states — user task → tool/action state → completion. The discipline is maintaining a mental model of which state the agent occupies at any moment, whether the loop runs for seconds or hours.
 

@@ -51,5 +51,6 @@ related:
   - INS-260329-4DBC
   - INS-260625-ED79
   - INS-260403-F7DD
+  - INS-260628-79DC
 ---
 Verna observes the white-paper/gate/rep-followup playbook is dead: trading an email for a PDF is no longer a meaningful signal because people are tired of it and flat content delivery (even good content) is decreasingly accepted. The rising replacement is 'satellite apps' — actual interactive experiences with a back-end that a prospect can enter their own data into and do something with. This puts marketing in an engineering position (build the experience, not just design it), reinforcing the broader Atlas theme that the marketing/engineering boundary is dissolving and the KB's 'marketing is now a build discipline' direction.

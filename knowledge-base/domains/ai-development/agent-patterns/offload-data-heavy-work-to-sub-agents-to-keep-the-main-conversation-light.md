@@ -54,8 +54,8 @@ related:
   - INS-260514-5914
   - INS-260605-5078
   - INS-260627-85C7
+  - INS-260628-C374
   - INS-260627-CECD
-  - INS-260627-F9B1
 ---
 The Arize team realized 'not all context belongs in the same agent.' Their search task — querying across Arize trace data, with hundreds of spans, multiple queries, and lots of step-to-step intermediate reasoning — was overwhelming a single agent that held chat history, heavy data, and search all in one context.
 

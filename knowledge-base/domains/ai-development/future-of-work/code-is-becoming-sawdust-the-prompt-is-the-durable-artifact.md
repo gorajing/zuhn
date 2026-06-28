@@ -41,7 +41,6 @@ resolutions:
     reframes where engineering effort and IP actually live.
 stance: 'Prompts, not code, are becoming the durable artifact of software development.'
 related:
-  - INS-260327-0B69
   - INS-260514-AC43
   - PRI-260320-6847
   - INS-260626-48F7

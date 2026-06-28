@@ -51,9 +51,10 @@ stance: supported
 related:
   - INS-260330-8F07
   - INS-260410-25AC
+  - INS-260628-A92C
   - INS-260605-A803
   - INS-260326-7F79
   - INS-260327-33FA
-  - PRI-260328-F723
+  - INS-260628-58B2
 ---
 The paper's future-work section observes that once agents speed up preliminary implementation, verification and QoR evaluation take most of the time. Parallelism helps, but the authors argue that shorter representative benchmarks, faster simulation, PPA estimation, and rapid verification are needed without sacrificing fidelity. The broader implication is that agent progress should be measured by verified throughput, not raw artifact generation speed.

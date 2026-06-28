@@ -62,8 +62,8 @@ related:
   - INS-260626-4BC2
   - INS-260627-85C7
   - INS-260410-796F
+  - INS-260628-C374
   - INS-260625-7A1A
-  - INS-260410-A27C
 ---
 peerd's strongest reusable pattern is the do/get/check boundary: the main agent plans and dispatches, but a clean-context runner with no keys, narrowed tools, and no independent network reads or drives the page. The runner wraps page content as untrusted, performs the browser action or observation, and returns a constrained summary that is wrapped again before re-entering the main conversation.
 

@@ -50,11 +50,11 @@ stance: >-
   outperform those optimizing for externally defined milestones
 related:
   - INS-260328-2CFF
+  - INS-260628-79DC
   - INS-260403-5788
   - INS-260330-E8C6
   - PRI-260407-7D5E
   - INS-260402-D739
-  - INS-260330-BEE7
 ---
 Startup culture is saturated with externally defined success metrics: ARR milestones, fundraising rounds, headcount, TechCrunch coverage. Optimistic nihilism applied to entrepreneurship suggests these are arbitrary constructs, and founders who explicitly define their own success criteria are more resilient to the inevitable periods where external metrics look bad.
 

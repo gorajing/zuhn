@@ -52,6 +52,6 @@ related:
   - INS-260330-FBC0
   - INS-260404-6BD6
   - INS-260403-4A16
-  - INS-260403-0350
+  - INS-260628-A92C
 ---
 Sequoia's framing of AGI as long-horizon agents shifts the definition from abstract benchmarks to practical capability: systems that can reason through multi-step problems, iterate on their own outputs, and execute autonomously. This means founders can effectively 'hire AI teammates' that compress what previously took years of iterative work into minutes. The implication for builders is that the competitive advantage shifts from having AI features to having AI that can sustain autonomous work over extended periods — and the companies that figure out reliable long-horizon agency first will capture outsized value.

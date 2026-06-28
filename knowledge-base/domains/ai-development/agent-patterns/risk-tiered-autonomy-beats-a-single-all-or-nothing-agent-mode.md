@@ -47,7 +47,7 @@ related:
   - INS-260327-439A
   - INS-260403-5554
   - INS-260325-922D
-  - INS-260403-D36D
+  - INS-260628-D947
 ---
 NOVA classifies tasks by complexity level and execution mode. Covered low-risk changes can run in AutoRun, while uncovered or high-risk decisions are routed through Copilot for human confirmation. The paper stresses that mode depends on skill-specification coverage, not merely on task level.
 

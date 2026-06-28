@@ -7,6 +7,7 @@
 - `INS-260409-3C6A` Non-developers who push tools like Airtable and Notion to their limits hit a 'command line wall' — the terminal is a huge jump in complexity, usability, and frustration from no-code tools, and almost no one crosses it without becoming a full-time programmer.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260329-5B7B` Pivot tables let non-programmers perform GROUP BY aggregations on business data that would otherwise require SQL or programming knowledge.
+- `INS-260628-58B2` n8n's AI-agent nodes let you implement and prove a complicated state-diagram design fast, deferring the move to LangChain or a lighter framework until the client actually needs it.
 - `INS-260403-CAB4` One or two founders can now handle the workload that previously required a five-person team by combining AI, no-code, and on-demand freelancers.
 - `INS-260403-E662` A minimal launch in a crowded market gives competitors a clear template to copy and outexecute with AI and no-code tools.
 - `INS-260329-917B` Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.

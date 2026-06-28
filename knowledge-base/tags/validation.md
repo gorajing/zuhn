@@ -5,6 +5,7 @@
 - `INS-260627-0126` Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
 - `INS-260627-9EBD` An agent can't just throw arbitrary data at the next agent and hope; each handoff must declare and validate a schema-and-quality contract (e.g. reject if confidence < 0.7) so contract violations are caught at the boundary, not discovered downstream as garbage reports.
 - `INS-260605-3119` Putting a 'robe and cloak' on an LLM doesn't make it trustworthy — eval the judge itself against human-labeled ground truth.
+- `INS-260628-2FE3` Most extraction tools do extraction well but dump a CSV/JSON, forcing operators to manually transform and push downstream—BlackRock's template engine instead encodes interfield dependencies (a callable bond requires call date and call price), QC checks, and a low-code transform/execute workflow so the pipeline runs end-to-end.
 - `INS-260605-6A32` At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.
 - `INS-260605-34B0` Separate implementation and validation into different agents with different context, and validate behavior by actually running the app, not just linting and tests.
 - `INS-260605-AD25` Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back.
@@ -13,6 +14,7 @@
 - `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
 - `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
 - `INS-260627-00B7` Masked IRL is stronger because it reports real Franka arm transfer, not only simulation metrics.
+- `INS-260628-337C` LLM-as-judge is a 'poor man's version' of a human judge that partially solves the dataset-creation problem, but it carries measurable biases (conciseness, helpfulness) versus humans, so you must validate it or risk drifting in a weird direction.
 - `INS-260329-3489` Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260329-5F96` Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
 - `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
@@ -37,29 +39,29 @@
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260404-393A` Strategy is a hypothesis, not a plan — its value is only realized through execution that tests, validates, and iterates on strategic choices.
+- `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
+- `INS-260403-A08A` Ask potential buyers four questions about price perception — too cheap, getting expensive, too expensive, and bargain — to find your data-backed pricing window.
 - `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
-- `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
-- `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
-- `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
-- `INS-260405-7CF9` Pitch only after confirming scalability, large market, and real customer signals — pitching before this burns credibility.
-- `INS-260403-6F75` Founders who equate raising money with product validation often build investor-pleasing businesses instead of customer-pleasing ones.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
-- `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
-- `INS-260403-A08A` Ask potential buyers four questions about price perception — too cheap, getting expensive, too expensive, and bargain — to find your data-backed pricing window.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-BD46` Unproven business models should be validated through many small experiments rather than detailed business plans.
+- `INS-260404-5D18` Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
+- `INS-260405-E7FB` Sequoia calls it 'proxy for demand' — what are people doing right now with inadequate tools that proves they need what you're building?
+- `INS-260405-4B31` What are people doing right now with inadequate tools? That story is worth more than any market size number.
+- `INS-260405-7CF9` Pitch only after confirming scalability, large market, and real customer signals — pitching before this burns credibility.
+- `INS-260403-6F75` Founders who equate raising money with product validation often build investor-pleasing businesses instead of customer-pleasing ones.
 - `INS-260405-45E0` PMF is the primary predictor of startup success because it confirms that value creation and capture are aligned.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
+- `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260405-839E` AI routinely surfaces more valuable use cases than the ones founders set out to solve.
 - `INS-260405-0E05` In early stage, the depth of user love is a better signal than any metric you can count.
-- `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
 - `INS-260405-F9E4` Customers who help design your experiments become invested in your success rather than just subjects of your research.
-- `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
 - `INS-260405-36AF` Free pilots measure curiosity; paid pilots measure desire.
+- `INS-260405-F378` Searching for a technical cofounder before validating demand is backwards — demand attracts technical talent.
 - `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.

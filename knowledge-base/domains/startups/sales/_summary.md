@@ -1,6 +1,6 @@
 # Topic: sales
 
-> 202 insights
+> 203 insights
 
 - `INS-260329-7B47` [high] Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260327-1B7C` [high] Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
@@ -121,6 +121,7 @@
 - `INS-260410-126F` [high] James Hamilton's first S3 dev/test bill was $3.08, then $0.07 the next month — an economic event impossible under any traditional enterprise sales motion, and the reason Dropbox, Instagram, Airbnb, and Uber were all born on AWS.
 
 
+- `INS-260628-41B3` [high] CISOs write smaller checks more quickly and with less process than CIOs, so framing AI tooling as a security concern (hallucination detection, prompt injection) opens a faster sales motion for startups.
 - `INS-260329-75B6` [high] Keep your sales pitch under 3 minutes and describe only what the customer will experience, not how you'll deliver it.
 - `INS-260329-D159` [high] Hormozi argues you should never sell tutoring hours — you sell the score increase and the downstream earning premium of attending a better school.
 - `INS-260329-B194` [high] Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.

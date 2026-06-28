@@ -51,13 +51,13 @@ stance: >-
 related:
   - INS-260410-2307
   - INS-260410-09B4
-  - INS-260410-B3C4
   - INS-260627-6C9A
   - INS-260501-2A52
+  - INS-260628-A92C
   - INS-260501-E377
   - INS-260627-AF4E
-  - PRI-260426-890F
   - INS-260605-7125
   - INS-260605-4509
+  - INS-260605-7FEA
 ---
 Agent frameworks fall on a spectrum from model-tied (LangChain circa 2023 with OpenAI-specific assumptions) to model-agnostic (ADK with LiteLLM, any framework that treats the model as an injectable provider). The lock-in cost of model-tied frameworks compounds: when you switch models (cost, capability, availability, geopolitical), you rewrite agent logic. With model-agnostic frameworks you swap one import. Over a 2-3 year system lifespan, model-agnostic frameworks pay for themselves the first time a model gets deprecated, a new model outperforms on your workload, or a jurisdiction requires local models. The practical principle for new agent projects in 2026: assume you will switch model families at least once during the project lifetime, and pick a framework that makes that switch cheap. Framework choice is an insurance decision, not a capability decision.

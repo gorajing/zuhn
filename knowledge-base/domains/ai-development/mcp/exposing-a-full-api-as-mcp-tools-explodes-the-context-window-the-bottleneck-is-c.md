@@ -54,7 +54,7 @@ related:
   - INS-260505-347C
   - INS-260626-2727
   - INS-260626-181F
+  - INS-260628-7862
   - INS-260626-7F76
-  - INS-260325-EE14
 ---
 Cloudflare's OpenAPI spec is ~2.3M tokens, which compiles to ~1.1M tokens of tool definitions across ~2,600 endpoints — more than even the largest foundation models can hold, before a single tool is called. The common workarounds (splitting into 16 product-specific MCP servers, forcing users to pick the right one) trade context bloat for incomplete coverage and selection friction: a product suite might expose 6 tools while its API has 30 endpoints. Carey's key reframing is that this is not an MCP failure — MCP is just a protocol, and CLIs, tool-search, and code mode can all be exposed over it. The actual mistake is loading all capabilities into context at once. The design principle is progressive discovery: surface only the tools relevant to the current request rather than the full catalog. Treat any 'expose the whole API as tools' plan as a context-budget red flag from the start.

@@ -57,9 +57,9 @@ related:
   - INS-260411-E951
   - INS-260501-06B1
   - INS-260514-2E48
-  - INS-260605-AFCF
   - INS-260625-1654
   - INS-260626-8080
+  - INS-260626-763B
 ---
 When Claude Code runs locally it borrows your machine as its computer. Moving it to web and mobile — where a user starts a session and walks away — exposed the real obstacles: a secure environment to write and run un-reviewed code, container orchestration at scale, and session persistence so results are ready when the user returns. These are infrastructure problems, and Anthropic frames them as the biggest barriers to the 'just let Claude have a computer' vision, the area they plan to keep leaning into.
 

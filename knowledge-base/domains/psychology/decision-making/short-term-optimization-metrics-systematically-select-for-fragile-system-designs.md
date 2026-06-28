@@ -52,7 +52,6 @@ stance: >-
   consistently strip resilience mechanisms that have no visible payoff until a
   disruption occurs.
 related:
-  - INS-260329-F886
   - INS-260404-9D4E
   - INS-260325-5C03
   - INS-260412-EB1F

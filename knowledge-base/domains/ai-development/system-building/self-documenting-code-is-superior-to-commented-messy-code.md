@@ -52,7 +52,6 @@ related:
   - INS-260501-A5F5
   - INS-260321-703F
   - INS-260330-2C97
-  - INS-260409-DBCF
 evidence:
   - id: INS-260330-2C97
     type: TRANSFERS_TO

@@ -62,7 +62,6 @@ stance: >-
   SaaS revenue growth that comes from reselling LLM tokens is not genuine
   re-acceleration and the premium the market assigns it will collapse.
 related:
-  - INS-260325-206C
   - INS-260325-4FF3
   - INS-260321-3BA8
   - INS-260327-A22D
@@ -72,6 +71,7 @@ related:
   - INS-260403-5D89
   - INS-260403-81BD
   - INS-260403-EFFB
+  - INS-260403-1F97
 ---
 Burazin's contrarian take: the market is 'adding premium to SaaS vendors that are reselling tokens,' treating that growth as revenue re-acceleration equal to old SaaS revenue. He argues this is wrong on the makeup of the revenue — classic SaaS had high software margins and stickiness, whereas an agent reselling Anthropic/OpenAI tokens has structurally worse margins. Counting it as re-acceleration conflates two economically different things, and he predicts a 'cold shower' when people realize nobody is going to keep paying for these agents-as-tokens and the premium drops back down.
 

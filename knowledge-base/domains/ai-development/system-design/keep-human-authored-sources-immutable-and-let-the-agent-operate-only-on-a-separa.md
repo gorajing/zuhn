@@ -60,7 +60,7 @@ related:
   - INS-260322-22B3
   - INS-260524-D5DB
   - INS-260625-0A79
-  - INS-260625-4DDB
+  - INS-260628-4BA2
 ---
 The architecture splits cleanly: a 'raw' folder holds immutable source data ('you don't want to touch that'), and a separate 'wiki' folder holds LLM-generated derivatives — comparisons, concepts, entities, and notes — that point back to the raw sources through references. Bouchard keeps personal notes in Obsidian as 'an immutable snapshot that the LLM never touches… I don't really want the LLM to touch my personal notes that I manually write.' The wiki also scopes to a specific project rather than sitting on top of the entire second brain.
 

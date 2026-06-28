@@ -50,8 +50,8 @@ related:
   - INS-260605-9900
   - INS-260410-60C8
   - INS-260605-7B4C
+  - INS-260628-7862
   - INS-260603-DFA6
-  - INS-260327-F625
 ---
 Context engineering is usually framed as the 'arrow' from many context sources into the context window, with attention paid to curation. Monigatti's hot take is that this framing under-credits what actually powers that arrow: the search tool(s) that decide what gets pulled in the first place. She estimates context engineering is roughly 80% agentic search.
 

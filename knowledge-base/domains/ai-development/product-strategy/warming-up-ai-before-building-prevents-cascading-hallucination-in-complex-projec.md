@@ -53,7 +53,6 @@ related:
   - INS-260329-693E
   - INS-260329-EAFD
   - INS-260605-90CF
-  - INS-260625-057C
 evidence:
   - id: INS-260329-693E
     type: CHALLENGES

@@ -12,6 +12,7 @@
 - `INS-260627-9D9A` Across ~140,000 engineers, AI's annualized time savings were eclipsed by context switching, interruptions, and meeting-heavy days — because writing code was never the bottleneck.
 - `INS-260627-A7F4` Shifting decision-making left empowered developers to make architectural choices, but the expertise and review capacity to guide those choices never scaled with the empowerment.
 - `INS-260627-AF4E` You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
+- `INS-260628-930A` You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
 - `INS-260323-DC99` As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
 - `INS-260403-6016` US electricity generation has flatlined at ~4,000-4,200 TWh since 2000 after a century of exponential growth, creating the decade's biggest infrastructure bottleneck.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.

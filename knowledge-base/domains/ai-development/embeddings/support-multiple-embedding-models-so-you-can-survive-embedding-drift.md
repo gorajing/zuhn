@@ -56,7 +56,7 @@ related:
   - INS-260625-48FA
   - INS-260626-BB8B
   - INS-260405-214D
-  - INS-260403-7A48
+  - INS-260628-23B0
 ---
 Embeddings keep improving—great for the industry, painful when your production index was built on a model from six months or a year ago. The naive design pins you to one embedding model, so adopting a better one means re-embedding the entire corpus and a risky cutover. The hedge is to support vector search over multiple embedding models simultaneously, so you can introduce a new model and migrate incrementally rather than all at once.
 

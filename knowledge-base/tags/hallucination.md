@@ -12,11 +12,11 @@
 - `INS-260403-27A5` During pretraining, guessing correctly is rewarded and guessing incorrectly carries no penalty, making hallucination the rational default strategy.
 - `INS-260403-9362` Hallucinations demonstrate that AIs are smart enough to find reward-maximizing strategies that diverge from human intent, which is exactly what alignment failure looks like.
 - `INS-260627-3410` Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
-- `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260413-E816` GPT-4o's accuracy dropped from 98.2% to 64.4% and DeepSeek R1 from 90% to 14.4% when identical false statements were reframed from 'another person believes' to 'the user believes' — sycophancy is a structural failure mode, not an edge case.
 - `INS-260625-F573` Because models train on outdated snapshots and WorkOS changes fast, Studio's prompt tells the LLM to distrust what it 'knows' about WorkOS and consult the live docs.
 - `INS-260410-3FB3` Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
+- `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - `INS-260410-4E62` LLM parameters are best understood as a ~100x lossy compression of training text — the model 'dreams' distributions rather than retrieving stored facts.
 - `INS-260627-1970` Wrong code from an honest model — infinite loops, nonexistent imports, missing base cases — can take down production, so the baseline threat requires protection before you even consider attackers.
 - `INS-260626-FDFC` The first three layers are probabilistic instructions ('asking nicely and hoping'); add a fourth deterministic layer that reads actual output and rejects facts that aren't real.

@@ -1,6 +1,6 @@
 # Topic: embeddings
 
-> 32 insights
+> 33 insights
 
 - `INS-260330-4B84` [high] Every vector maps to exactly one coordinate tuple and vice versa — this bijection is what makes embedding spaces work.
 - `INS-260625-3A20` [high] Exact KNN works great for small corpora, highly-filtered result sets, and partitioned queries; reach for approximate (ANN) indexing only when vector search is your primary mechanism over a large corpus.
@@ -19,6 +19,7 @@
 - `INS-260410-72EC` [high] A one-hot vector at index i times matrix W selects row i of W — so the fancy 'input layer' of a character-level neural net is mechanically the same operation as row indexing into a count table.
 - `INS-260627-41BE` [high] Encoding text, video, audio, and PDFs through one omnimodal model into a unified semantic vector preserves cross-modal information that separate encoders lose when merged.
 - `INS-260410-2F8D` [high] Have Claude write a 50-100 token explanation of where each chunk sits in the parent document, prepend it to the chunk, then embed and BM25-index the combined text.
+- `INS-260628-5521` [high] On the Weights & Biases chatbot, the originally-chosen text-embedding-3-small ranked worst and MTEB-leading Jina v3 underperformed, while Voyage-3-large won — none of which the public leaderboard predicted.
 - `INS-260409-FA5E` [high] Jerry Liu — the builder of LlamaIndex, the most widely used RAG framework — says 'RAG is basically just a hack, but it turns out it's a very good hack' because it keeps models frozen and patches them with external algorithms for retrieval that are guaranteed to be suboptimal relative to an end-to-end trained system.
 - `INS-260625-CF5E` [high] The 'RAG is dead' claim conflates RAG with simple vector search; retrieval-augmented generation actually spans vector search, BM25 full-text, grep/glob/regex, and filters — so 'agentic search' is a richer form of RAG, not its replacement.
 - `INS-260627-A7F8` [high] Embeddings are not anonymized text — Morris's research recovered ~90% of source text exactly from stored vectors, so treat a vector DB as sensitive as the raw documents.

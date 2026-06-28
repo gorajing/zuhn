@@ -55,8 +55,8 @@ related:
   - INS-260410-2067
   - INS-260605-FE8E
   - INS-260402-28BA
+  - INS-260628-06A6
   - INS-260405-214D
-  - INS-260625-3A20
 ---
 Full-text search matches tokens precisely but misses semantically related items — a query for 'space themed' won't surface 'Star Trek' or 'Star Wars' toys that lack the literal words. Vector search captures that meaning but drifts (the demo returned an age-4-to-7 item for an '8 plus' query). The strongest results come from running both retrievers and merging: reciprocal rank fusion (RRF) combines the two ranked lists so items strong in either modality rise to the top.
 

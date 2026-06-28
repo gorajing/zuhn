@@ -25,15 +25,18 @@
 - `INS-260627-09DE` Coding copilots multiply output along whatever direction is already chosen, so the higher-leverage tool is the one that chooses the direction — architecture.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
 - `INS-260627-B10A` KVarN leaves non-KV recurrent state alone and compresses only full-attention KV layers.
+- `INS-260628-3E32` Invest in what models won't do for you — reading the spec off your mind and collecting your app's structure and tools — and ride the wave of swappable models, modules, and optimizers.
 - `INS-260405-64C5` Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260405-06B0` Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
 - `INS-260605-59AE` Keep deterministic code thin (bookkeeping only) and express decomposition, failure-handling, and worker behavior in prompts and skills that ride the model's improvement curve.
 - `INS-260421-8004` 4 of 6 speakers at AI Agents SF #12 use graph primitives (Neo4j, FalkorDB, Cognee's own) with vector embeddings layered inside graph nodes rather than as the top-level store.
+- `INS-260628-23B0` Once the graph structure is right, the system keeps improving and swapping models matters less, so invest in taxonomy design before model selection.
 - `INS-260627-79FC` Trust-sensitive agent systems should make dependency direction match authority boundaries.
 - `INS-260605-988D` Use MCP to provide the authenticated, environment-independent action (the tool) and a skill to describe the intent and workflow for using it.
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260501-DF06` RevNets are Feistel ciphers; adversarial attacks are differential cryptanalysis — neural nets and crypto have been borrowing from each other.
 - `INS-260627-05AD` If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps.
+- `INS-260628-06A6` If a single similarity search answers the question, use vector RAG; switch to graph RAG when the answer requires joining multiple related facts.
 - `INS-260627-3410` Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
 - `INS-260626-93C7` Cross-App Access uses the ID-JAG flow so the IDP, which both the MCP client and server already trust, mints a cross-app token the client exchanges for a normal access token — removing manual consent entirely.
 - `INS-260605-4860` MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
@@ -45,17 +48,17 @@
 - `INS-260605-0D57` Frontier gains like Gemini 3 to 3.1 doubling some benchmarks come from better reasoning/fine-tuning data on a near-identical base, not from reinventing the transformer.
 - `INS-260412-8396` ARM's reduced instruction set approach, initially dismissed as underpowered, became decisive when desktop CPUs hit power and thermal limits that simpler architectures inherently avoid.
 - `INS-260605-4AF8` Splitting LLM inference onto its own scalable tier saves resources because a node of chatty users and a node of silent users consume wildly different LLM compute.
+- `INS-260410-0EFE` A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
+- `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
+- `INS-260627-ADB1` Auth0 maps the agent as a client and APIs as traditional OAuth resource servers; the MCP server is itself a client, and Dynamic Client Registration lets agents register against it automatically.
+- `INS-260627-F851` If you own the client (internal tools, your own mobile app), you can do progressive disclosure, custom doc placement, masking, and elicitation; if you don't, you must design for the worst-possible client.
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260410-D49F` Continual learning is LLMs' most obvious gap, but SFT-as-tool-call and meta-learned across-window memory may replicate it without a paradigm shift.
-- `INS-260405-DA33` DeepSeek's mHC demonstrates that structural improvements to information flow yield real capability gains without added cost.
-- `INS-260410-0EFE` A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
 - `INS-260327-1631` KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.
 - `INS-260321-B014` Bayesian wind tunnel experiments prove transformers perform exact Bayesian posterior updating to 10^-3 bits accuracy, but this mechanism is purely correlational — not causal.
 - `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
 - `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
-- `INS-260627-ADB1` Auth0 maps the agent as a client and APIs as traditional OAuth resource servers; the MCP server is itself a client, and Dynamic Client Registration lets agents register against it automatically.
-- `INS-260627-F851` If you own the client (internal tools, your own mobile app), you can do progressive disclosure, custom doc placement, masking, and elicitation; if you don't, you must design for the worst-possible client.
 - `INS-260410-5EC3` Think of an LLM as a kernel process coordinating memory (context window), disk (retrieval), peripherals (tools, vision, audio), and user space — not as a chatbot.
 - `INS-260405-1F0B` Each biological neuron runs its own learning mechanisms and maintains state; each artificial neuron is just y = Wx + b, making raw neuron-count comparisons between brains and AI models deeply misleading.
 - `INS-260405-547E` AMI's $1.03B bet is that grounded, causal world models beat next-token scaling for real-world AI.

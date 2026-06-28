@@ -5,3 +5,4 @@
 - `INS-260626-CC4A` Record harness adapter identity whenever comparing agent runs.
 - `INS-260403-F7A9` Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
 - `INS-260605-1BBF` An MCP app is a single sandboxed HTML file in an iframe with no local storage, no network access, and CSP/CORS-blocked external resources — so everything must be embedded and a shared design system becomes essential.
+- `INS-260628-62C4` BlackRock cut complex-app build time from 3–8 months to a couple of days by exposing prompt/template/strategy/transform components in a sandbox that domain experts operate themselves, then auto-spinning the result into an app via a cloud-native 'app factory.'

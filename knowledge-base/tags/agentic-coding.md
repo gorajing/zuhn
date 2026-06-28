@@ -6,6 +6,7 @@
 - `INS-260605-672C` LLMs compact context and humans forget, so the 'why' behind every flow, feature, and architectural choice must live in durable records an agent can re-discover on demand.
 - `INS-260605-A705` Always commit before an agent starts changing code, because it may not remember what the code looked like before.
 - `INS-260627-EFD5` Split big features into small atomic tasks so each fits in the agent's context window and implements exactly what's specified, nothing more.
+- `INS-260628-E0D2` System prompt plus user text is a sliver of agentic-coding context; the bulk is tool use and tool responses (bash, grep, file reads), most of which is cacheable but often re-prefilled.
 - `INS-260627-214C` A spec is simultaneously a set of versioned artifacts, a structured requirements-design-execution workflow, and a tooling layer (property tests, requirements verification) that delivers reproducible results.
 - `INS-260627-D043` High-assurance systems use separate teams to write and verify code; the agentic analog is separate prompts for writing vs testing, and using a different foundation model for each to break correlated failures.
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.

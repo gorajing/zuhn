@@ -58,8 +58,8 @@ related:
   - INS-260625-9644
   - INS-260627-8121
   - INS-260327-CEE4
+  - INS-260628-4E8F
   - INS-260322-C6CE
-  - INS-260327-7581
 ---
 A direct benefit of atomic tasks that the demo highlights: when something goes wrong with any single task, you can roll back the change, edit the specs (acceptance criteria, description), and ask the agent to start again from the implementation plan. Failure recovery becomes bounded to one small unit of work instead of an entanglement spread across a sprawling change set.
 

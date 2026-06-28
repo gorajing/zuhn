@@ -37,6 +37,7 @@
 - `INS-260605-0126` The voice agent is architecturally three decoupled systems (speech-to-text, central LLM, text-to-speech) presented to the user as one — and that decoupling is a feature.
 - `INS-260627-2524` Keep the orchestration layer deterministic so it can be replayed, and confine all side effects to retryable steps.
 - `INS-260605-C536` Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not.
+- `INS-260628-C374` Use sub-agents to offload reading/searching in a separate context window and return a succinct answer to the parent — not to model human team roles.
 - `INS-260627-85C7` Sub-agents are the subroutine analog for agents — they run a subtask in a separate context window and return only the relevant results, conserving the main agent's context.
 - `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - `INS-260626-158E` Don't rebuild the core LLM loop — reuse a strong harness and spend your time deciding which work belongs in markdown (LLM judgment) versus brittle deterministic code.
@@ -62,5 +63,6 @@
 - `INS-260626-5882` Local-first and file-over-app architectures gain new justification as the only way to expose the live browser state agents need to observe and script against.
 - `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
 - `INS-260605-4AB0` Build systems that are accessible and easy for coding agents to operate, rather than complex feature-rich interfaces designed for humans.
+- `INS-260628-930A` You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260603-1BC0` Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.

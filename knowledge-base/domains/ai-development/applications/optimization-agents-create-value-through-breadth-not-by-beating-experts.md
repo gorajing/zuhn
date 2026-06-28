@@ -65,12 +65,12 @@ related:
   - INS-260327-BE4E
   - INS-260327-E3DE
   - INS-260329-BC6C
-  - INS-260405-3B54
   - INS-260403-C709
   - INS-260403-A3E4
   - INS-260403-AC01
   - INS-260403-B89E
   - INS-260403-3291
+  - INS-260410-D92A
 ---
 Kernel experts are scarce and overtaxed — 'not enough experts to solve every problem.' Serrino frames agents as a complement: they are good at cheaply generating many candidate ideas, slurping in large context, and running many experiments fast. The best applications are searching across a known 'bag of tricks' (fusion, tiling) to see what actually performs on a given workload, porting existing implementations to new hardware by specializing their insights to the target's features, and translating optimizations to new scenarios (e.g., a different quantization).
 

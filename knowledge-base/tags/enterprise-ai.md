@@ -11,10 +11,10 @@
 - `INS-260627-647D` Bottom performers weren't even measuring speed and only 10% measured productivity; top performers build a holistic chain from inputs (tool spend, upskilling) through outputs (velocity, developer NPS, code resilience) to economic outcomes (time-to-revenue, cost per pod).
 - `INS-260403-BBCF` McKinsey's 2025 State of AI shows the gap between AI leaders and laggards is driven by operational redesign willingness, not technology access.
 - `INS-260322-FD23` Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
-- `INS-260627-3207` Customer commitments depend on predictable delivery, so low-variance training-time estimates are as business-critical as raw speed — and that constraint defines which research problems are worth solving.
 - `INS-260405-1A3C` 2026 marks the transition from AI agent experiments to accountable production deployments with real governance requirements.
 - `INS-260627-6C1E` When use cases explicitly mention automation or agents, their self-reported ROI wildly outperforms the first-tier productivity use cases that dominate by count.
 - `INS-260626-091B` Tool-call restrictions leak because an agent can just make an HTTP request wrong; the right control point is an HTTP proxy on the agent's whole network boundary, with an LLM judging ambiguous traffic against a policy learned from a day of recorded activity.
+- `INS-260627-3207` Customer commitments depend on predictable delivery, so low-variance training-time estimates are as business-critical as raw speed — and that constraint defines which research problems are worth solving.
 - `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
 - `INS-260327-76B2` Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
 - `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
@@ -34,6 +34,7 @@
 - `INS-260530-B694` PayPal chose to build their incident-agent platform rather than buy an SRE-AI vendor, explicitly because their proprietary data lakes, MCP servers, and Cortex Engine integration make vendor integration the dominant cost — not the agent loop itself.
 - `INS-260627-4D17` Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - `INS-260605-0436` An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
+- `INS-260628-A92C` If a problem is plausibly solvable by AI, build the agentic architecture early instead of patching single-shot calls or waiting for a smarter model.
 - `INS-260627-91B3` Agent systems need spend control as much as capability control.
 - `INS-260530-777B` Coco (Blueprints AI): AutoCAD seats cost $3K/year, so enterprises see an AI tool at $20K and call it expensive — but AutoCAD only digitizes the engineer's line-by-line drawing; the AI replaces the engineer's hours, so the real comparison is salary, not seat license.
 - `INS-260423-3AC1` Aaron Levie: we haven't removed humans from the loop — we've just changed where they enter the loop.
@@ -60,8 +61,8 @@
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260603-E224` William Santana Lee: 'the gap is humans. Humans don't want to change. Large organizations don't want to change.' You can't drop an agent on a Fortune 1000 process designed around humans and expect legal/purchasing/finance/accounting to sign off — only companies where the CEO can redesign the org around the agent will pull it off.
-- `INS-260404-48D1` VC funding for AI visual media surged 90%, driven by enterprise demand and big tech validation from Apple and Alphabet.
 - `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
+- `INS-260404-48D1` VC funding for AI visual media surged 90%, driven by enterprise demand and big tech validation from Apple and Alphabet.
 - `INS-260327-C99D` Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260327-73BE` Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.
 - `INS-260627-8867` Enterprise deep research is just consumer deep research aimed at private data — a template for spotting enterprise opportunities by re-pointing validated consumer capabilities inward.

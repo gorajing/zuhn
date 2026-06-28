@@ -1,9 +1,9 @@
 # Tag: market-dynamics
 
 - `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260403-2183` Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
 - `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
-- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260605-083B` The home PC and work PC converged, but personal and enterprise agents will not — enterprise workloads consume far more inference, so that's where the value pools.
 - `INS-260625-0A3D` RunPod frames the 2026 GPU shortage as COVID-toilet-paper-style hoarding that will recover as companies get better at estimating compute needs.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
@@ -55,16 +55,16 @@
 - `INS-260327-4233` Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
 - `INS-260402-3134` Uber became profitable not by solving its unit economics problem but by preventing regulatory crackdown and bullying competitors until only Lyft remained as a cooperative duopolist.
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
+- `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
+- `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
 - `INS-260403-F327` Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260403-1EE4` Shrinking exit multiples pressure the entire venture ecosystem to recalibrate entry valuations, ownership targets, and growth expectations.
 - `INS-260404-64EC` Startups should keep round sizes flexible because optimal fundraising amounts depend on investor reactions that cannot be predicted in advance.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
 - `INS-260403-3BBB` Carta data shows longer gaps between rounds, record seed valuations, and smaller teams — investors are permanently rewarding efficiency over burn.
-- `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
-- `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
-- `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
-- `INS-260403-5C83` A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.
 - `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
 - `INS-260412-4162` In resistant markets, disruptive entrants oscillate between expansion and recompression before either finding equilibrium or being absorbed.
+- `INS-260403-5C83` A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.

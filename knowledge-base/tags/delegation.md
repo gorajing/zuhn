@@ -8,6 +8,7 @@
 - `INS-260626-D8E6` Use a work-type matrix: front-end features are too stateful to spec, so stay in the loop; everything else can be plan-heavy and test-driven.
 - `INS-260605-4DB9` Not all context belongs in the same agent — delegate searches and intermediate reasoning to sub-agents and pass only results back to the main conversation.
 - `INS-260626-7681` Kitze rejects opaque agent 'memory' in favor of nested topics where each conversation deterministically injects its parent topics' descriptions, and argues you shouldn't load one mega-agent with your entire life any more than you'd load one employee with everything.
+- `INS-260628-C374` Use sub-agents to offload reading/searching in a separate context window and return a succinct answer to the parent — not to model human team roles.
 - `INS-260411-5478` Use AgentTool to wrap a sub-agent hierarchy as a callable function, letting parent agents delegate without managing internals.
 - `INS-260405-86BB` Writing is thinking, so AI-generated writing is AI-generated thinking — not your thinking polished.
 - `INS-260626-7AB8` Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
@@ -43,10 +44,10 @@
 - `INS-260325-6F89` The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
-- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260329-88A4` Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260403-185D` The shift from founder hustle to systematic operations is the make-or-break transition for scaling startups.
 - `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
+- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.

@@ -68,10 +68,11 @@ related:
   - INS-260409-8DA0
   - INS-260421-E9FC
   - INS-260403-26D4
+  - INS-260628-930A
   - INS-260626-5037
   - INS-260327-A9D5
-  - INS-260626-78D1
   - INS-260626-43A1
+  - INS-260628-1AF8
 ---
 Qodo lays out a menu of context-optimization strategies, each acting as a 'bouncer' that ranks what reaches the model. A context engine builds search and ranking over a messy codebase but its indexing slows down unpredictably at 600-700 repositories. Hierarchical summarization (a summary per file/folder) reads cheaply at query time but demands heavy upfront LLM processing on every file change. Knowledge graphs work wonderfully for logical cross-file and cross-repo dependencies but require very high initial developer investment to construct the graph DB.
 

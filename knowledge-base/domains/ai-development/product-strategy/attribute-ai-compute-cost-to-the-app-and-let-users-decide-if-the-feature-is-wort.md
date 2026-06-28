@@ -59,6 +59,7 @@ related:
   - INS-260605-0748
   - INS-260605-F064
   - INS-260325-BEAC
+  - INS-260628-4786
 ---
 On-device inference has a genuine battery cost, and running it non-stop drains a phone quickly. Rather than gatekeeping the capability, the platform's strategy mirrors how Android already handles GPS and Wi-Fi: make the capability freely available, attribute its consumption to the specific app, and trust that users will happily spend battery on features they find valuable while abandoning apps that waste it. Real-world usage (10-20 inferences a day in interactive flows) turns out not to be a battery concern; heavy batch workloads are pushed to background/overnight-charging windows and queued by the system.
 

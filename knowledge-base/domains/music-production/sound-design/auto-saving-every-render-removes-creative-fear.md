@@ -40,10 +40,10 @@ stance: >-
   When a sound-design tool persists every output to disk by default, the
   producer stops second-guessing experiments and plays more freely.
 related:
+  - INS-260628-009E
   - INS-260403-9F78
   - INS-260325-55D8
   - INS-260404-6DA9
   - INS-260410-0855
-  - INS-260514-00D3
 ---
 SoundThread writes a file every time you run the graph, so there's no 'did I just lose that?' friction. The psychological shift is significant: instead of auditioning with the anxiety that a good tone might disappear, you treat every run as a seed deposit into a sample folder. This is the same principle that makes git a better thinking tool than raw editing — commitment is cheap, so experimentation is cheap. Any tool where you catch yourself hesitating before trying a wild setting should probably be configured to autosave.

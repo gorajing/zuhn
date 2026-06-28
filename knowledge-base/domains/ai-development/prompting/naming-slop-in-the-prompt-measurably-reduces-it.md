@@ -57,6 +57,7 @@ related:
   - INS-260514-AC43
   - INS-260423-B01D
   - INS-260605-3899
+  - INS-260628-492E
 ---
 swyx cites a skill set (from speakers Mahesh and Barry) whose prompt explicitly acknowledges slop and instructs Claude not to produce it, and reports the output 'improves significantly from left to right' as a result. The counterintuitive part is that 'slop' is vague human shorthand, yet naming it in the prompt still steers the model toward higher-quality output — the concept is apparently well enough represented in the model's training to act on.
 

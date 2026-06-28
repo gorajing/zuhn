@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260627-8738
   - INS-260627-85C7
+  - INS-260628-CB50
   - INS-260625-447A
   - INS-260605-9976
   - INS-260627-CECD
-  - INS-260605-83DA
 ---
 The pain that motivated Backlog.md is the agent that works for an hour and then either runs out of context window mid-task or discovers it went in the wrong direction. The fix is to break a large feature into small markdown tasks, each with a bounded description and acceptance criteria. This is framed explicitly as context engineering: you decide how much an agent should implement in a single task so it never exhausts its context, and you know precisely what will be built.
 

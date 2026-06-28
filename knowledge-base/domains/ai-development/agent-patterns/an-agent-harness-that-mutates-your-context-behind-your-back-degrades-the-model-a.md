@@ -62,10 +62,10 @@ stance: >-
   of the context window rather than silently rewriting it.
 related:
   - INS-260625-0DD6
+  - INS-260628-7862
   - INS-260605-2032
   - PRI-260426-890F
   - INS-260626-485E
-  - INS-260410-B0D6
 ---
 Zechner's core grievance with Claude Code and similar harnesses is not their bugs but their opacity: the harness controls the context window and mutates it without the user's knowledge or consent. System prompts and tool definitions change on every release; tools get added, removed, or modified; system reminders are injected at inopportune positions telling the model 'here's some information, it may or may not be relevant' — wording that actively confuses the model and breaks established workflows. On top of that there is near-zero observability into what the agent is actually doing.
 

@@ -71,7 +71,7 @@ related:
   - INS-260327-956D
   - INS-260530-E6AA
   - INS-260625-C6F4
-  - INS-260322-F46F
+  - INS-260628-1AF2
 ---
 Models have become genuinely good at writing SQL and Pandas/Polars, so the naive expectation is that AI should massively accelerate data scientists. The discussion argues the opposite: AI fails on essentially all complex data-analysis tasks because the bottleneck was never query syntax — it's the catastrophic state of underlying enterprise data. The concrete example: LinkedIn has roughly 5,000 tables containing a column named 'impressions,' and an analyst asking 'how many impressions happened on a page' has no way to know which one is authoritative.
 

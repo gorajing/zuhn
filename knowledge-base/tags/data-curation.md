@@ -1,6 +1,7 @@
 # Tag: data-curation
 
 - `INS-260627-4D26` Each annotation should state why a trace passed or failed (e.g. 'non-compliant: approved the cancellation without verifying it met the airline's cancellation rules'), because without that reasoning the optimizer would have to rediscover the policy from scratch — usually impossible.
+- `INS-260628-26C6` Engineer a dataset as a continuous reconciliation loop with reality; the real overfitting danger is a frozen dataset, and a human with taste — not automation — should select which user feedback enters it.
 - `INS-260626-408A` The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - `INS-260410-AA93` Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
 - `INS-260625-0D5D` Keep a training sample only when tool-augmented inference solves it AND standard tool-free inference fails — this teaches the model to use tools precisely where they make the difference, not where it could have answered unaided.

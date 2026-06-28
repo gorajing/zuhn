@@ -65,6 +65,7 @@ related:
   - INS-260626-2727
   - INS-260626-B983
   - INS-260627-B2C4
+  - INS-260628-7862
 ---
 A protocol like MCP only puts information across the wire; the client/harness is responsible for what it does with that information. The naive pattern everyone adopted during the early experimentation phase was to stuff every tool from every connected server into the context window, then act surprised when the context window blows up. Soria Parra names this as the number-one thing client/harness builders must fix.
 

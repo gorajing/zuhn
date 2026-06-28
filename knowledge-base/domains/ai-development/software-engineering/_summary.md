@@ -1,12 +1,14 @@
 # Topic: software-engineering
 
-> 13 insights
+> 15 insights
 
 - `INS-260627-CC85` [high] AI coding tools shift leverage from writing code to governing generated code.
 - `INS-260627-9D9A` [high] Across ~140,000 engineers, AI's annualized time savings were eclipsed by context switching, interruptions, and meeting-heavy days — because writing code was never the bottleneck.
 - `INS-260627-7122` [high] Automate the context-gathering phase of debugging first — it dominates the time and is where an LLM adds the most value.
 - `INS-260627-340A` [high] The 1950s-1980s abstractions — high-level languages, structured programming, modularity — exist to manage scarce working memory, and an LLM's context window is the same scarce resource, so the same disciplines pay off identically.
 - `INS-260627-0EFC` [high] AI-generated code needs provenance and ownership, not just good prompts.
+- `INS-260628-29DF` [high] Premature optimization is happening if and only if you hard-code at a lower level of abstraction than you can justify; ask for a square root, don't write the bit-shift hack.
+- `INS-260628-08FB` [high] Break AI coding into research (compress truth from the code), plan (compress intent into explicit steps with file names and code snippets), and implement — staying in the smart zone at every phase.
 - `INS-260627-A7F4` [high] Shifting decision-making left empowered developers to make architectural choices, but the expertise and review capacity to guide those choices never scaled with the empowerment.
 - `INS-260627-3F18` [high] The largest agent speedups came not from new kernels but from rewriting the problem to call faster existing operations.
 - `INS-260627-8674` [high] The authorization refactor only became automatable after the team did one migration entirely by hand — reading code, breaking things, surfacing hidden invariants — then fed that pull request to the agent as a seed.

@@ -50,12 +50,12 @@ related:
   - INS-260322-24FB
   - INS-260326-8217
   - INS-260327-98F7
-  - INS-260329-8226
   - INS-260330-C13A
   - INS-260627-8A88
   - PRI-260405-6867
   - INS-260627-8EE7
   - INS-260409-171C
+  - INS-260626-A928
 ---
 Granola's core lesson is that an LLM feature feels like magic not because of a perfect prompt but because of the loop around it — Hassan describes it as 'playing a tennis game with the LLM.' Teams that treat the model as a black box and hope their one-shot feature lands ship with low conviction. Teams that build the machinery to see exactly what failed, change one thing, and feel the result in practice ship with conviction that the output connects to users.
 

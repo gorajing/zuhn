@@ -51,8 +51,6 @@ related:
   - INS-260423-FB98
   - INS-260329-FAE2
   - INS-260501-8A1F
-  - INS-260625-CC7C
-  - INS-260627-3AF7
 stance: >-
   AI works with data -- if you don't have complete data architecture in place,
   there's nothing for AI to operate on.

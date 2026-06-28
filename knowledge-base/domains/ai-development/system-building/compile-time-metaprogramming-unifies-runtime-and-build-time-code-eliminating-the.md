@@ -50,9 +50,10 @@ related:
   - INS-260402-2879
   - INS-260403-7D7A
   - PRI-260407-5465
+  - INS-260628-29DF
   - INS-260402-06DB
-  - INS-260627-54A4
   - INS-260410-B118
+  - INS-260628-2FE3
 stance: >-
   Running the same interpreter at compile time and runtime lets you express
   C++-template-level optimizations using normal Python-style code.

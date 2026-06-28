@@ -8,11 +8,11 @@
 - `INS-260409-384A` Jerry Liu: even with a hypothetically infinite context window, dumping enterprise data (gigabytes to terabytes) into every model call is 'very inefficient... you have these network transfer costs' — long context helps at personal scale but does not obsolete retrieval at enterprise scale.
 - `INS-260627-3D0E` DMP-SNN shows that explicit low-dimensional temporal memory can preserve long context while avoiding the hardware costs of dense recurrence or long delay buffers.
 - `INS-260627-13BF` Treat the KV cache as an infrastructure contract where capacity can improve without changing agent code.
+- `INS-260605-13F9` Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 - `INS-260627-E257` There's a gap between a model not breaking at a million tokens and actually reasoning across them — performance degrades sharply (Chroma's 'context rot') well before the limit.
 - `INS-260626-E926` Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents.
 - `INS-260605-0E65` Constant-information tasks (needle-in-haystack, O(1)) survive a full context window, but linear or quadratic information demands degrade accuracy to 30-60% even at low occupancy.
 - `INS-260625-BF8B` DeepSeek-V4's multi-needle retrieval stays stable to ~128k tokens, then degrades — still impressive at 1M but no longer reliable — showing that mechanical capacity to process a context outruns the ability to recall from it.
-- `INS-260605-13F9` Cache long files for repeated queries to save ~90%, and budget ~1920 tokens per minute of audio (~9 hours in a 1M window).
 - `INS-260625-E500` Even after sharding all parameters with FSDP across 8 GPUs, long-context training still OOMs because attention activations — not weights — dominate memory.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260327-1631` KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.

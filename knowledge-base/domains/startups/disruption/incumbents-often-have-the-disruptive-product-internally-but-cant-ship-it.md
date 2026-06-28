@@ -62,10 +62,10 @@ stance: >-
   revenue.
 related:
   - INS-260409-A4F0
+  - INS-260628-5521
   - INS-260323-9492
   - INS-260626-45E4
   - INS-260328-0DFE
-  - INS-260322-D7B1
 ---
 The standard narrative of the innovator's dilemma implies incumbents miss disruptive technologies. Google's story shows a sharper version: the incumbent invents the technology, builds the product, demos it internally, and still cannot ship it. Noam Shazeer was advocating inside Google to 'throw out the search index and go all in on a transformer' years before ChatGPT. A working chatbot interface to a large transformer model existed inside Google. It wasn't shipped because providing direct answers instead of ten blue links would have cannibalized search ad revenue, because Google's brand carried an accuracy expectation the raw model couldn't meet, and because without RLHF the model would produce unsafe outputs an incumbent couldn't defend. OpenAI as a startup had none of these constraints — no revenue to protect, no brand to tarnish, no established user expectation — and shipped anyway.
 

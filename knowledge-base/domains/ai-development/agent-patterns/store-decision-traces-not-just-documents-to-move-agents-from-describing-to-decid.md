@@ -57,7 +57,6 @@ stance: >-
   Agents that retrieve past decision traces and their reasoning make better
   autonomous decisions than agents retrieving only facts and documents.
 related:
-  - INS-260409-1E5E
   - INS-260605-C00C
   - INS-260605-44E2
   - INS-260605-C028
@@ -66,6 +65,7 @@ related:
   - INS-260626-F01D
   - INS-260626-B94C
   - INS-260626-78D1
+  - INS-260628-0DCE
 ---
 Standard retrieval augments an agent with facts, entities, and current state — enough to answer a question correctly. But answering correctly is not the same as deciding well. The gap is the reasoning that produced past outcomes: why a loan was rejected, which risk factors dominated, what precedent the decision followed.
 

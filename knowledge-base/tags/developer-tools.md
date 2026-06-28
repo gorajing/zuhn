@@ -1,9 +1,9 @@
 # Tag: developer-tools
 
-- `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
 - `INS-260403-4819` Cursor and Replit have crossed $500M+ ARR in under four years, setting a new speed record for developer tool commercialization.
 - `INS-260404-177F` Companies adopting AI engineers like Devin measure success by merged PRs and contributor rankings rather than benchmark scores.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
+- `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
 - `INS-260627-F5A8` Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.

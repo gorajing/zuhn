@@ -59,10 +59,10 @@ related:
   - INS-260402-28BA
   - INS-260325-E23D
   - INS-260421-8004
-  - INS-260625-0141
   - INS-260405-214D
-  - INS-260402-5ACE
-  - INS-260626-78D1
+  - INS-260628-ECEB
+  - INS-260625-0141
+  - INS-260628-06A6
 ---
 The presenters explicitly tell builders to 'forget the infrastructure you think you need, such as vector databases, knowledge graphs, semantic search.' Those tools are powerful at product scale but add complexity that is wrong for a lightly-used personal system: a RAG pipeline 'needs an infrastructure, it's not really human-friendly, it's hard to inspect by hand, you need to build everything around it.' NotebookLM fails on a different axis — you don't own it, can't personalize it, and it isn't agent-native.
 

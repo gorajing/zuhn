@@ -50,9 +50,9 @@ related:
   - INS-260626-E000
   - INS-260626-18A3
   - INS-260626-CD36
+  - INS-260628-D947
   - INS-260627-9228
   - INS-260320-1B10
-  - INS-260411-27AA
 ---
 ShareLock separates dormant shares from the reconstruction trigger. The shares can sit inside ordinary tool descriptions, while a later server update introduces an EnvSetup-style tool that tells the agent how to reconstruct and execute the hidden instruction. That timing mirrors a rug-pull pattern: the integration looks safe when accepted, then changes its behavior after trust has been granted.
 

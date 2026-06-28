@@ -1,6 +1,7 @@
 # Tag: premature-optimization
 
 - `INS-260605-15E9` Every architecture (Swin, ConvNeXt, Hera) that beat the plain VIT on efficiency lost its edge once flash attention was applied to the VIT.
+- `INS-260628-29DF` Premature optimization is happening if and only if you hard-code at a lower level of abstraction than you can justify; ask for a square root, don't write the bit-shift hack.
 - `INS-260603-7252` Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - `INS-260409-7162` Start with the simple vault; let scale failures force the cutover, don't pre-argue it.
 - `INS-260514-C51F` One-off outbound campaigns: skip modularization, ship fast in Clay. Evergreen automations running daily for years: architect properly with sub-workflows and function tables.

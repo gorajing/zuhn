@@ -48,7 +48,6 @@ stance: >-
   themselves, they will automatically believe you can solve it — no additional
   proof required.
 related:
-  - INS-260329-BE8E
   - INS-260404-405A
   - PRI-260406-B314
   - PRI-260323-8EEA

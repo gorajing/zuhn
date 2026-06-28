@@ -62,12 +62,12 @@ stance: >-
   operations is inefficient regardless of model quality because the AI has no
   signal of what 'good' looks like in that organization's context
 related:
-  - INS-260403-3705
   - INS-260409-9E95
   - INS-260410-410E
   - INS-260410-AAFE
   - INS-260625-C6F4
   - INS-260603-6FE3
+  - INS-260628-930A
   - INS-260627-3AF7
   - INS-260627-C112
 ---

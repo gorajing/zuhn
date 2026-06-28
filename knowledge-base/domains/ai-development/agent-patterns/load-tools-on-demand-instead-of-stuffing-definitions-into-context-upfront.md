@@ -51,14 +51,14 @@ stance: >-
 related:
   - INS-260320-A4BF
   - INS-260410-D250
+  - INS-260628-7862
   - INS-260626-B983
   - PRI-260411-9CB1
   - INS-260626-181F
   - INS-260627-B2C4
-  - INS-260327-F625
-  - INS-260514-2C6C
   - INS-260605-59FE
   - INS-260605-82BC
+  - INS-260626-7F76
 ---
 Anthropic measured 58 tools across five MCP servers consuming ~55K tokens before any conversation starts, and internally saw 134K tokens of tool definitions before optimization. The Tool Search Tool inverts this: only a tiny search tool loads upfront (~500 tokens), and Claude fetches 3-5 relevant definitions on-demand (~3K tokens), an 85% reduction.
 

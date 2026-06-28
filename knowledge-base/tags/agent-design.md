@@ -4,6 +4,7 @@
 - `INS-260404-AD45` Game theory provides the necessary framework for understanding how AI agents will behave when they interact strategically with other agents and humans.
 - `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
+- `INS-260628-4E8F` Once work is a directed graph of AI-powered steps, you fix new problems by tweaking a prompt or adding a double-check node — not by rethinking everything.
 - `INS-260627-578E` Reshape a task into a CLI/text interface the model has seen before, and capability that a GUI version blocks suddenly appears.
 - `INS-260627-0719` A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
 - `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.

@@ -40,8 +40,8 @@ related:
   - INS-260403-C05F
   - PRI-260406-CBC2
   - PRI-260406-5F31
+  - INS-260628-9705
   - PRI-260324-12CF
-  - PRI-260407-5465
   - INS-260403-6AB5
 stance: >-
   A research organization is described by its program.md — you can imagine

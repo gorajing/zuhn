@@ -63,6 +63,7 @@ related:
   - INS-260625-E1CB
   - INS-260626-2727
   - INS-260626-5D7C
+  - INS-260628-516E
 ---
 Cloudflare's API surface is about 2,600 endpoints. Exposing one MCP tool per endpoint would cost roughly 1.2 million tokens on the very first call — there is simply no way to build an MCP server for the entire surface that way. Matt Carey's solution was to expose only two tool calls, both of which accept a string of code as input: 'search,' whose input is the full OpenAPI JSON spec, and 'execute,' which returns callable functions for whatever search surfaced.
 

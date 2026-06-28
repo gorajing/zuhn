@@ -42,8 +42,8 @@ stance: >-
 related:
   - INS-260605-8AFF
   - INS-260625-3EE6
+  - INS-260628-7862
+  - INS-260628-009E
   - INS-260603-DFA6
-  - INS-260605-A2AD
-  - INS-260403-BA81
 ---
 The paper's central distinction maps directly to AgentRun: a run should not record only the model and final result. It should preserve the task decomposition, executor configuration, loaded context, tool surface, environment state, and gate stack so later reliability claims can distinguish model capability from harness design.

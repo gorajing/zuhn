@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260329-3FC9
   - INS-260605-35B4
+  - INS-260628-492E
   - PRI-260406-FB98
   - INS-260514-6DF3
   - INS-260605-8109
-  - INS-260530-D34F
   - INS-260627-AD6B
 ---
 A raw 400 error or Python traceback is wasted context. A good error response tells the agent exactly what was wrong and shows an example of correct input. Similarly, when truncating a large response, include instructions that encourage better behavior — like 'making many small targeted searches instead of one broad search.'

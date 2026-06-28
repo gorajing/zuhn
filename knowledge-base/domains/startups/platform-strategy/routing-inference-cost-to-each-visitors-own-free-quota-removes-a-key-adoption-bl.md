@@ -54,10 +54,10 @@ related:
   - INS-260403-FCA6
   - INS-260404-B475
   - INS-260625-5BF4
+  - INS-260628-4786
   - PRI-260406-806C
   - INS-260501-10A0
   - INS-260323-DE2B
-  - INS-260330-178D
 ---
 A recurring fear that stops people from publicly sharing AI-powered apps is the unbounded, pay-per-use bill: if the app goes viral, the builder eats the inference cost. AI Studio inverts this by having each visitor's usage draw on that visitor's own free quota, so the builder can share widely without exposure to a runaway bill.
 

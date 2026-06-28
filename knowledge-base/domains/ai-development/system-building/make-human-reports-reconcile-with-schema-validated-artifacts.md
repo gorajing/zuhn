@@ -49,11 +49,11 @@ stance: >-
   structured outputs, then reconcile them after independent verification so the
   two cannot drift.
 related:
+  - INS-260628-D947
   - INS-260627-699E
   - INS-260627-9E58
   - INS-260626-14AE
   - INS-260320-6F8E
-  - INS-260325-FDA9
 ---
 Cloudflare's audit skill writes human-readable findings and a `findings.json` artifact validated against `report-schema.json`, then uses independent verification to correct, reject, or confirm each structured claim and reconcile the prose report afterward. This prevents the common agent failure where the polished narrative says more than the checked artifact supports.
 

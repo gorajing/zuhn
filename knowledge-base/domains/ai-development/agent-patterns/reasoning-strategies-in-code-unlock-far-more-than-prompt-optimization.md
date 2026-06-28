@@ -60,11 +60,12 @@ related:
   - INS-260403-F400
   - INS-260403-7D7A
   - INS-260403-F664
-  - PRI-260406-1AC6
   - INS-260410-F259
   - INS-260410-87B5
   - INS-260625-C700
   - INS-260626-613C
+  - PRI-260406-1AC6
+  - INS-260628-492E
 ---
 A harness is more than a better prompt — it is code, prompts, and data wrapping the model. Fischer reports that on their hardest task, manually optimizing prompts hard got them to about 5% with Gemini 1.5 Flash, and adding reasoning strategies took them from 5% to 95%. The structure around the model, not the wording fed into it, was the dominant lever.
 

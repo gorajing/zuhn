@@ -60,7 +60,7 @@ related:
   - INS-260627-44FD
   - INS-260327-4CB3
   - INS-260328-A46F
-  - INS-260627-E496
+  - INS-260628-4BA2
 ---
 Graph-based agent frameworks are often adopted to get state snapshotting and the ability to resume long runs. Colvin's claim is that durable execution gives you 'much more granular support' for exactly that, without forcing your logic into nodes and edges. Inside a durable workflow, parallelism is just a Python task group or asyncio.gather, a week-long pause is just sleep(7 days) with the framework handling the suspension, and retries on flaky endpoints happen automatically — all while the code reads like the imperative program you'd write anyway. Resumption needed zero resume-specific code in the agent itself.
 

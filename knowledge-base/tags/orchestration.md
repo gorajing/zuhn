@@ -5,6 +5,7 @@
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
 - `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
+- `INS-260628-CBB0` Map a state diagram onto a supervisor agent that controls each sub-agent's visibility based on the current situation, while sub-agents each write their perspective into a centralized unified graph.
 - `INS-260627-3481` In the OpenAI Agents SDK, a handoff doesn't spin up a fresh agentic loop — it swaps the active context/persona of the one running loop.
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
 - `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
@@ -29,12 +30,12 @@
 - `INS-260626-2D64` Spinning up many agents is trivial; the binding constraint on parallel agent productivity is the human's capacity to track, steer, and unblock them.
 - `INS-260625-25BF` High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
 - `INS-260603-23B1` Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
-- `INS-260627-0B68` Engineers must move from writing code to orchestrating agents and dividing up work, but ~70% of surveyed companies haven't changed any role definitions — they assume people will 'just do things differently' while the formal role stays identical to two years ago.
 - `INS-260524-2346` Jongmin Sung: a hackathon multi-agent team (genomics + doctor + pharmacologist + transcriptomics agents) ran a diabetes risk pipeline end-to-end from ~10am to 4pm and worked.
 - `INS-260605-C965` Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260605-DC65` Coupling tightly to one provider's API is dangerous; true model sovereignty means you can change models in a day without touching the codebase.
 - `INS-260627-E0C0` Treat agent optimization as a multi-dimensional allocation problem orchestrated by a meta-layer, not a single knob like context.
+- `INS-260627-0B68` Engineers must move from writing code to orchestrating agents and dividing up work, but ~70% of surveyed companies haven't changed any role definitions — they assume people will 'just do things differently' while the formal role stays identical to two years ago.
 - `INS-260625-E696` Channel AI treats coding as an RTS: an orchestrator plus many parallel workers in git worktrees, 'low premium on agent time, high premium on yours,' macro-by-default, satisficing, and tool-calls-per-minute as an APM metric — yielding 3.5x PRs per engineer and another +60%.
 - `INS-260625-1520` Research is becoming 'mostly orchestration focused' — humans supply the ideas and taste, models do the implementation and execution — so the bottleneck moves from doing experiments to choosing the right ones.
 - `INS-260403-08D7` Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.

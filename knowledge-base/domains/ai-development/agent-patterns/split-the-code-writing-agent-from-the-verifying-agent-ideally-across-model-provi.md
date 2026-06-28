@@ -65,6 +65,7 @@ related:
   - INS-260627-AC65
   - INS-260501-3CAA
   - INS-260603-6B3D
+  - INS-260628-1B09
 ---
 The Airbus A320 used N-version programming (different processors, different operating systems, separate teams) and fully independent verification teams — the people writing code and the people checking it were completely separate. The redundancy guards against the correlated mistakes a single author cannot catch in their own work.
 

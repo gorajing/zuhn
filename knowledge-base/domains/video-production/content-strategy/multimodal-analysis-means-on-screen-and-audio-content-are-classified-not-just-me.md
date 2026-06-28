@@ -60,7 +60,6 @@ related:
   - INS-260322-F65F
   - INS-260410-4CE7
   - INS-260605-9F3D
-  - INS-260605-83A7
 ---
 A video is classified through three parallel channels: computer vision on the frames (what objects, faces, scenes, text-on-screen appear), audio fingerprinting on the speech (what words are spoken, in what context), and metadata parsing (caption, hashtags, creator history, location). These signals combine into a single contextual topic mapping.
 

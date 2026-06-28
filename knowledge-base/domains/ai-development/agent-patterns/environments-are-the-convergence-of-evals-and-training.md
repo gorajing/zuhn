@@ -55,7 +55,7 @@ related:
   - INS-260625-D1F9
   - INS-260626-60C2
   - INS-260627-4072
-  - INS-260605-2186
+  - INS-260628-BDB0
 ---
 Prime Intellect argues that the separation between evals (static question-answer benchmarks) and RL environments (stateful interaction loops) is collapsing. Modern evals like SWE-Bench and Terminal-Bench already involve complex state, simulated applications, and multi-step agent interactions. They have defined goals and reward functions. This makes them directly usable as reinforcement learning training environments.
 

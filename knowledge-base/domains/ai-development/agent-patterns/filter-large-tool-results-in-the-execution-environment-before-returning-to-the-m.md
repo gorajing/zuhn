@@ -52,7 +52,6 @@ stance: >-
   to the model is strictly more token-efficient than piping raw results through
   the context window.
 related:
-  - INS-260329-E4F6
   - INS-260501-BA23
   - INS-260626-2F2E
   - INS-260625-EF29

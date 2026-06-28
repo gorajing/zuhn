@@ -5,7 +5,6 @@
 - `INS-260405-CA27` Agents optimize across multi-step workflows, making open-source models more valuable because enterprises need control over each step's behavior.
 - `INS-260626-67E8` The best evals are scoring functions built around the concrete failure modes your agent actually falls into, and the only reliable way to find those modes is production trace data.
 - `INS-260626-ECC7` Treat production observability and offline evals as the same flywheel: production traffic surfaces failure modes, offline evals fix them, and the improved agent generates new traffic.
-- `INS-260410-F3D8` Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent.
 - `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
@@ -33,6 +32,7 @@
 - `INS-260405-E8A1` When agents can monetize their own outputs and spend autonomously, they become economic actors, not just tools — blurring the line between software and economic agent.
 - `INS-260605-1A2D` Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
+- `INS-260410-F3D8` Microsoft is seeing strong demand for Windows 365 instances provisioned for autonomous agents that need their own machine — the per-seat business is becoming per-user-plus-per-agent.
 - `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
 - `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
 - `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
@@ -56,6 +56,7 @@
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
 - `INS-260320-1B10` Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
 - `INS-260626-F14C` Coding agents are 'breaking containment' beyond software into CMS management, ETL syncs, speaker research, and even buying a lobster — any knowledge work an assistant or junior could do.
+- `INS-260628-7862` Treat each tool definition and its output as a prompt-writing surface engineered for the LLM — not a thin wrapper over your GraphQL/REST API — because tools, not the system prompt, dominate the context.
 - `INS-260410-2C51` Constrain agents to one feature per session and require a git commit plus progress-file update before stopping, so the next session inherits a clean baseline.
 - `INS-260624-223D` The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
 - `INS-260409-0DB0` Jerry Liu on the 'additional complexity of evaluating agent loops' — unlike single-shot RAG where you measure retrieval@K and answer correctness, agent loops require tracking state transitions, intermediate decisions, and how errors propagate across steps.
@@ -65,6 +66,7 @@
 - `INS-260410-095B` Add a think tool (a no-op that just logs a thought) so the agent can stop and reason about tool outputs before acting again.
 - `INS-260320-9D89` Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
 - `INS-260605-2795` Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
+- `INS-260628-5BC9` Cisco's network knowledge graph is layered (raw config → data plane → control plane) so an agent runs a config-drift test by hitting only the raw-config layer, while a reachability test pulls multiple layers.
 - `INS-260627-6418` If a model can predict execution traces, an agent can 'imagine' the result of an action and get feedback in a simulated environment, reserving real execution for when it actually matters.
 - `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
@@ -91,15 +93,16 @@
 - `INS-260619-6E08` Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
+- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
+- `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260321-C5AA` Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
 - `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
-- `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
-- `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
 - `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
+- `INS-260628-DD9D` Cisco's team replaced RAG-based knowledge-graph querying with a fine-tuned query agent and saw a drastic drop in tokens burned and time-to-result.
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
 - `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260626-5B28` Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
@@ -111,11 +114,12 @@
 - `INS-260625-9F65` Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
 - `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260626-A027` When a machine is compromised or a user offboards, IDP revocation does not kill the long-lived OAuth access and refresh tokens MCP servers hold locally, leaving days-to-months of invisible standing access.
+- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
+- `INS-260628-9698` Cache hit rate determines agent cost and viability more than model choice, because every cache miss re-pays full input-token cost or burns rate limits.
+- `INS-260627-13BF` Treat the KV cache as an infrastructure contract where capacity can improve without changing agent code.
 - `INS-260625-ACBC` Pull requests exist to codify trust; when an agent writes and another agent reviews, trust becomes diffuse and tools only solve verification, not trust.
 - `INS-260627-5447` Agents 'can do anything except know what you value,' so your leverage shifts entirely to articulating preferences, brand, and quality bars.
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
-- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
-- `INS-260627-13BF` Treat the KV cache as an infrastructure contract where capacity can improve without changing agent code.
 - `INS-260625-6127` When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
 - `INS-260619-C9B1` AI app infrastructure cannot assume a fixed deployment shape; the application itself increasingly decides what compute it needs per request.
@@ -123,18 +127,18 @@
 - `INS-260605-5EE0` Because a containerized agent is just another application, you can prototype it locally and lift the identical artifact to Kubernetes/OpenShift when you need security and scale.
 - `INS-260625-DD6D` Hand agents a token scoped to a specific seller, amount, currency, and time window — enforced by the platform — instead of a card number with no controls.
 - `INS-260605-74CC` Containerizing an AI agent gives reproducibility, secret isolation, infra portability, volume-backed backup, and a natural host sandbox that native installs lack.
-- `INS-260625-3B6D` An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time).
-- `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
-- `INS-260410-B224` Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
+- `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
 - `INS-260625-279D` High-token-volume agentic tasks reframe inference cost from per-token API billing to fixed energy and utilization, making owned hardware economical past a volume threshold.
 - `INS-260625-2906` Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
 - `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
-- `INS-260625-E1AA` Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents.
+- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
+- `INS-260627-FE77` CHIA registers nodes as MCP tools while allowing the tool server and the actual tool execution to run on different workers with different resources.
+- `INS-260625-3B6D` An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time).
+- `INS-260410-B3D7` LLMs have total recall but can't synthesize across fields because pre-training doesn't teach the active exploration loop that PhDs learn.
+- `INS-260410-B224` Models struggle on real work because they lack context and can't handle amorphous multi-file scope, not because they need another 9 of reliability.
 - `INS-260626-408A` The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - `INS-260605-C627` You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
 - `INS-260625-84D0` If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
-- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
-- `INS-260627-FE77` CHIA registers nodes as MCP tools while allowing the tool server and the actual tool execution to run on different workers with different resources.
 - `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
 - `INS-260625-ADEA` Models, APIs, and tools can be swapped, wrapped, or adapted — but the log is the irreplaceable part that persists, so the provider who hosts your log effectively owns your agent.
 - `INS-260619-4ADA` The durable artifact of AI-assisted engineering is not just the shipped feature; it is the captured learning that makes the next feature easier.
@@ -144,13 +148,14 @@
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260625-16EC` Frontier models are already smart enough; the gating factor is baking each user's new and evolving context deeply into weights the way pre-training bakes in general knowledge.
 - `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
-- `INS-260627-89AF` CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.
 - `INS-260605-2D9F` Enterprises hesitate to deploy agents in high-stakes settings because measurement has fallen behind capability, not because the capability is absent.
 - `INS-260410-F167` Unlike static benchmarks that score a model's output directly, agentic evals give the model a full runtime environment — so CPU, RAM, time limits, API latency, cluster health, and even egress bandwidth all become part of what gets measured.
 - `INS-260514-791A` Narrow AI: PhD data scientist required. Generative AI agents: any scientist can use them like spoken language.
 - `INS-260625-801B` RL has headwinds in subjective fields where two experts disagree; it takes off where implementation is provably correct or wrong, which predicts which jobs agents automate first.
 - `INS-260605-FCDA` Tau-Bench fails an agent that books the right flight but violates fare-class rules, because robust evals must score policy adherence and real-world dimensions, not accuracy alone.
 - `INS-260605-4856` Frontier models cluster within a few points on SWE-bench Pro while the harness alone swings results ~22%, so you may be measuring the harness, not the model.
+- `INS-260627-89AF` CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.
+- `INS-260628-4BA2` Cisco defines its digital twin as a knowledge graph (state) plus a set of tools like Batfish or RouteNet (execution), so agents can run real tests against a snapshot before changes hit production.
 - `INS-260605-AABE` ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
 - `INS-260619-CBFA` Do not make the agent responsible for remembering every operational step; put stable steps in the workflow and reserve model calls for judgment.
 - `INS-260625-A281` Like a database where the write-ahead log is durable and tables are views, an agent's context window, UI, debugging trace, and compaction should all be projections derived from one primary log.

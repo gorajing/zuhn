@@ -51,8 +51,8 @@ related:
   - PRI-260403-6DD6
   - PRI-260328-30C2
   - PRI-260406-DC9B
+  - INS-260628-D947
   - INS-260402-300A
-  - INS-260325-75EA
 stance: Culture is not what you write on the wall
 evidence:
   - id: INS-260403-0218

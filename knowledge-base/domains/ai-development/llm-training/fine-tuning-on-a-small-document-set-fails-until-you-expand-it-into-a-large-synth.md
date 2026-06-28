@@ -65,9 +65,9 @@ related:
   - INS-260514-23D6
   - INS-260530-E6AA
   - INS-260605-738E
-  - INS-260605-278E
   - INS-260605-E7F2
   - INS-260625-B09C
+  - INS-260626-9A2A
 ---
 When Morris fine-tuned a model directly on a 3M 10-K report with next-token prediction, it achieved zero loss (perfect memorization) but produced gibberish on any question not verbatim in the document ('the passage of a passage is a poem'). The model overwrites its general knowledge and becomes obsessed with reproducing exact source sentences. The fix, validated by Stanford's 'synthetic continued pre-training' paper and Karpathy's nanochat experiment, is to take the small source corpus and generate a much larger, more diverse synthetic dataset — Q&A pairs, rephrasings, entity-extracted variations — that contains only the facts in the original but is large enough to train on without overfitting.
 

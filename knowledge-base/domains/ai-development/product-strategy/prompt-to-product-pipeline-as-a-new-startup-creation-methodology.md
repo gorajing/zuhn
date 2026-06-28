@@ -53,10 +53,10 @@ stance: >-
 related:
   - INS-260403-2A44
   - INS-260625-BD36
+  - INS-260628-492E
   - INS-260627-FBF3
   - INS-260403-7D7A
   - PRI-260406-1AC6
-  - INS-260403-F400
   - INS-260403-902F
 ---
 The article introduces a new product discovery methodology: observing what prompts people repeatedly use with ChatGPT, recognizing that each repeated prompt represents an unmet need, and building a dedicated tool that solves that specific job better than the general-purpose AI. The fashion-assistant example shows this pipeline—someone prompts ChatGPT for personalized style advice, recognizes the pattern has broad appeal, and builds Style DNA as a dedicated product.

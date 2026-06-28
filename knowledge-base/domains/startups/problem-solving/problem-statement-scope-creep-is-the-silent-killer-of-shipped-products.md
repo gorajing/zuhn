@@ -49,11 +49,11 @@ stance: >-
   during execution will inevitably expand scope until the product solves nothing
   well
 related:
+  - INS-260628-D947
   - INS-260530-C385
   - PRI-260328-0BE1
   - PRI-260403-5B3D
   - PRI-260406-874A
-  - INS-260627-B5F2
 ---
 Rachitsky describes building an Airbnb host dashboard where the original problem — reducing host response time — kept getting lost as scope expanded. The solution was ritualistic re-anchoring: every design review starts with the problem statement, every stakeholder update reviews it, and before finalizing designs you explicitly ask whether the current direction solves the original problem.
 

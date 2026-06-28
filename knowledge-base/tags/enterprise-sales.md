@@ -1,5 +1,6 @@
 # Tag: enterprise-sales
 
+- `INS-260628-F942` The 'year of evals' arrived only when CEOs/CFOs/CISOs could understand AI and connect it to dollars — adoption was gated by executive legibility plus budget dynamics, not by the maturity of the eval tools.
 - `INS-260421-536F` MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - `INS-260410-6159` Start meetings in the kiddie pool: something you researched about the person's human life, not the capital interest that brought you there.
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
@@ -12,6 +13,8 @@
 - `INS-260403-18F7` Startups that automate compliance (like Delve doing SOC 2 in 15 hours vs. months) win by directly unblocking stalled enterprise sales pipelines.
 - `INS-260625-63D7` Focusing on enterprise from the start gives depth, focus, and consistency and reveals problems that only appear at scale, but a pure-enterprise customer base cuts you off from learning at the frontier, so you need both.
 - `INS-260327-4754` Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
+- `INS-260424-B404` Ben Gilbert: Thomas came in surveying the org and said 'how many salespeople do we have?' He looked and said 'we need 1000 times more salespeople to run an effective customer-focused enterprise organization' — and Google literally 1000x'd the headcount.
+- `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.
 - `INS-260327-1B7C` Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
 - `INS-260327-FA43` Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).
 - `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.
@@ -37,11 +40,10 @@
 - `INS-260327-AEC2` Michelangelo painting your house is a 7-year masterpiece that can never be replicated; Thomas Kincaid mass-produces paintings with standard pricing and distribution — only Kincaid's model creates investable leverage.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
 - `INS-260327-088E` OpenAI's dedicated pilot team found that intensive, well-structured pilots increased deal sizes by ~5x, but only work when there's executive buy-in, a repeatable playbook, clear success metrics, and executive awareness.
+- `INS-260628-41B3` CISOs write smaller checks more quickly and with less process than CIOs, so framing AI tooling as a security concern (hallucination detection, prompt injection) opens a faster sales motion for startups.
 - `INS-260327-1573` Resist the urge to show 'one more thing' -- enterprise sales is about selling the engagement, and getting call #2 is more important than cramming everything into call #1.
 - `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
 - `INS-260327-538E` Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
 - `INS-260330-C095` Get into enterprises through individual users bringing in consumer-quality tools, then sell to the organization for security, control, and scalability — but you still need salespeople to navigate that conversion.
 - `INS-260327-0F42` A 30-year-old trying to make a name for themselves who has never bought software at the organization can tank your deal: they demo without security approval, go to leadership without political cover, and get shut down by their CTO.
 - `INS-260410-BC66` Never take an enterprise meeting without a specific hypothesis about the job the customer would hire your product for — delay until you have one.
-- `INS-260424-B404` Ben Gilbert: Thomas came in surveying the org and said 'how many salespeople do we have?' He looked and said 'we need 1000 times more salespeople to run an effective customer-focused enterprise organization' — and Google literally 1000x'd the headcount.
-- `INS-260625-2A56` Simile lands customers on concept testing (test thousands of ideas instantly vs. 5-10 a month) and only then expands them into temporal, multi-agent, second-order simulations like earnings-call rehearsals.

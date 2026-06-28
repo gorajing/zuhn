@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-A3B7
   - INS-260605-DCE5
+  - INS-260628-492E
   - INS-260325-5023
   - INS-260605-726C
-  - INS-260627-E7AE
 ---
 The same instinct that drives software engineers to break a monolith into microservices applies to agents: rather than one prompt doing everything, decompose the work into explicit specialist stages—a deterministic context-collection step, then triage, a brand/policy review, a customer-facing reply writer, and a finalization step that decides escalation. Each stage has its own prompt and narrow responsibility, so when output is wrong you can pinpoint which stage broke instead of debugging one opaque call.
 

@@ -1,15 +1,15 @@
 # Tag: training-data
 
 - `INS-260627-D515` Use industry-standard languages, package managers, and linters the way the outside world uses them, because that is what's in the model's training set.
+- `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260410-86B0` Shih uses DeepSeek over American models for China research because it returns high-quality policy document links even from naive prompts — likely because its hedge-fund parent trained it to detect CCP policy signals.
 - `INS-260327-5E40` Prompts reset every session; training data compounds institutional knowledge over time, creating a moat that deepens with each iteration.
 - `INS-260627-AF32` Agent labs sit uniquely between real engineers and the models, holding the richest dataset of real engineering work — the only thing that actually moves the needle — and every major lab quietly captures it while sharing none of it.
-- `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260403-9774` Combining text, image, and audio inputs during training enables models to build more nuanced representations of meaning than any single modality alone.
 - `INS-260410-56B4` If a problem lives in well-documented territory (bank conflicts, SIMD, common compiler tricks), a frontier model will likely outperform humans on it within hours.
-- `INS-260605-3088` Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260405-C17A` Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
 - `INS-260625-C4AE` Auto-regressive prediction has no architectural capacity to distinguish a 1789 letter from a 2019 viral tweet, so it collapses both into a single composite weighted by corpus salience.
+- `INS-260605-3088` Models trained on open-source code inherit its built-in security flaws and subtle logic errors.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260605-B405` Treat frontier-model labels as noisy: run heuristic checks and send failures back to a second model to repair before training.
 - `INS-260323-47D8` Conversations with jailbroken LLMs like Dan and Sydney become part of future training data, meaning each LLM's personality becomes immortal — reincarnatable by any future model trained on internet data.

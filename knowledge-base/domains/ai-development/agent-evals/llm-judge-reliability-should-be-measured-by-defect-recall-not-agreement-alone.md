@@ -48,8 +48,8 @@ related:
   - INS-260519-224B
   - INS-260605-D3C7
   - INS-260625-722D
+  - INS-260628-337C
   - INS-260605-EC51
-  - INS-260627-D28C
 ---
 The transaction-agent study shows a deployed judge catching only 2 of 9 human-confirmed systematic patterns in one batch and flagging zero operational failures in another batch where human review found 23 distinct defects. The point is not merely that the judge disagreed with humans; it failed to surface defects that should have affected release confidence.
 

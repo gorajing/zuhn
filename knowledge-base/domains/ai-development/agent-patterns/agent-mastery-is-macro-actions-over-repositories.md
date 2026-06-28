@@ -39,6 +39,7 @@ related:
   - INS-260410-1030
   - INS-260410-E658
   - INS-260605-9E46
+  - INS-260628-08FB
 stance: >-
   Stop thinking in lines of code — think in macro actions: 'agent 1 builds
   feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.

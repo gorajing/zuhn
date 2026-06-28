@@ -57,10 +57,10 @@ stance: >-
   contract.
 related:
   - INS-260329-C1A4
+  - INS-260628-BF6A
   - INS-260625-3866
   - INS-260329-4842
   - PRI-260406-8B75
-  - INS-260625-96AA
 ---
 KVarN exposes the optimization as a vLLM `kv_cache_dtype` and block-size choice, so callers still use normal vLLM serving and generation APIs. That matters for agent systems because long trajectories and multi-user context pressure often fail at runtime capacity before they fail at model capability.
 

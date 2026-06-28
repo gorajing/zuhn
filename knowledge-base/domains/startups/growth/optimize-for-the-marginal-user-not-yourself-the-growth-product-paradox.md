@@ -49,7 +49,6 @@ stance: >-
   churning, not power users, even though great product building optimizes for
   the most-engaged users.
 related:
-  - INS-260323-8897
   - PRI-260406-818D
   - INS-260330-21CC
   - INS-260403-9482

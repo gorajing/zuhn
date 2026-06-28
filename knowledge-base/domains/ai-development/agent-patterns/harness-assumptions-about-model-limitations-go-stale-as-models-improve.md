@@ -52,7 +52,6 @@ stance: >-
   dead weight — and sometimes active liabilities — once the next model fixes the
   underlying behavior.
 related:
-  - INS-260410-09B4
   - INS-260410-9DB0
   - PRI-260426-890F
   - INS-260605-0312
@@ -62,6 +61,7 @@ related:
   - INS-260605-320E
   - INS-260605-C33F
   - INS-260605-15B8
+  - INS-260625-2563
 ---
 Anthropic addressed Sonnet 4.5's 'context anxiety' (wrapping up prematurely as the context window filled) by adding context resets to the harness. When they tested the same harness on Opus 4.5, the behavior was gone — the resets had become dead weight. This generalizes: harnesses encode assumptions about what the model can't do on its own, and each model improvement can silently invalidate those assumptions.
 

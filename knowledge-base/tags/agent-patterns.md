@@ -9,6 +9,7 @@
 - `INS-260625-00A6` The wet-lab assays, proteomics, tissue chip, and mouse model remained the truth sources; AI changed which experiments were worth running first.
 - `INS-260625-0492` Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
 - `INS-260605-55A6` Gate execution on a self-assessed confidence threshold so the agent extracts requirements from you before it starts work.
+- `INS-260628-E265` Extract 'parties' and their 'addresses' in the same grouped query — split them naively and you get three parties with two mismatched addresses.
 - `INS-260627-BBCE` Spend your scarce human thinking on research and planning; by the time you implement, all the hard decisions should already be made.
 - `INS-260605-6722` Hand the agent the problem and let it figure out which skills to invoke, rather than spelling out 'run skill X to do Y.'
 - `INS-260605-FE8E` Semantic search wins at finding behavior-adjacent files that share no keywords; grep wins at tracing imports and exact-symbol lookups — so provide both.

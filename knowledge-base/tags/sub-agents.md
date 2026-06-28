@@ -11,6 +11,7 @@
 - `INS-260627-E3EC` Greg Brockman's modularity principle — humans set clear boundaries on what is human-designed and let AI code everything in between — is swyx's frame for keeping AI-scale code from degenerating into slop.
 - `INS-260605-4DB9` Not all context belongs in the same agent — delegate searches and intermediate reasoning to sub-agents and pass only results back to the main conversation.
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
+- `INS-260628-C374` Use sub-agents to offload reading/searching in a separate context window and return a succinct answer to the parent — not to model human team roles.
 - `INS-260627-85C7` Sub-agents are the subroutine analog for agents — they run a subtask in a separate context window and return only the relevant results, conserving the main agent's context.
 - `INS-260605-5078` Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
 - `INS-260605-AD25` Move the validation step into a fresh sub-agent — an agent checking its own work in the same context just pats itself on the back.

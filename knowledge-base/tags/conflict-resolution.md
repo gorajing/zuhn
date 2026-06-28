@@ -2,12 +2,12 @@
 
 - `INS-260605-B176` The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
 - `INS-260626-8D05` Don't resolve every conflict with a heuristic and bury the ones you got wrong — surface unresolvable conflicts to the human and capture their correction as weighted memory.
-- `INS-260410-11F3` When two factions are primary adversaries, every Western push to form a coalition government only delays the inevitable showdown and wastes the stronger side's advantage.
-- `INS-260323-C304` In debates on deeply emotional geopolitical topics, the anger and frustration themselves are data — suppressing emotion loses important information about the stakes.
-- `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-F140` Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
+- `INS-260410-11F3` When two factions are primary adversaries, every Western push to form a coalition government only delays the inevitable showdown and wastes the stronger side's advantage.
+- `INS-260323-C304` In debates on deeply emotional geopolitical topics, the anger and frustration themselves are data — suppressing emotion loses important information about the stakes.
+- `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
 - `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260410-8C5F` Paine's framing: limited objectives ('you lose a province but stay in power') create settlement space, while unlimited objectives ('you're out of power') eliminate it entirely.

@@ -61,6 +61,7 @@ related:
   - INS-260627-046B
   - INS-260627-109F
   - INS-260409-6833
+  - INS-260628-1175
 ---
 ACE degrades badly when ground-truth signals are weak or absent, reinforcing incorrect behavior. The proposed fix is a hierarchical verification cascade with three tiers: tier 1 is self-verification used as a fast filter (accept if confidence exceeds a threshold); tier 2 is multi-model consensus with confidence-weighted voting across diverse models (e.g. GPT-4, Claude, DeepSeek); tier 3 is execution-based verification via code sandboxes, API validation, and schema compliance. The claim is a 50-60% reduction in errors from poor feedback.
 

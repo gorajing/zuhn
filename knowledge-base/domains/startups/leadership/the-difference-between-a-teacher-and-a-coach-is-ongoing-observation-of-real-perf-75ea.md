@@ -51,12 +51,11 @@ stance: >-
   iterative improvement — this distinction matters more than the content they
   teach.
 related:
-  - INS-260323-53BF
-  - INS-260327-1787
   - INS-260327-98F7
   - PRI-260328-0F0D
   - INS-260330-C13A
   - INS-260330-0102
+  - INS-260327-1787
   - PRI-260405-6867
 evidence:
   - id: INS-260329-D48B

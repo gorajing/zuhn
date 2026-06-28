@@ -57,7 +57,6 @@ stance: >-
   ambiguous specifications become the dominant remaining source of bugs.
 related:
   - INS-260320-4B31
-  - INS-260327-FFA7
   - PRI-260403-5B3D
   - INS-260410-A1E9
   - INS-260603-6FE3
@@ -66,6 +65,7 @@ related:
   - INS-260626-73D4
   - PRI-260405-3080
   - INS-260605-BAB5
+  - INS-260626-DA0A
 ---
 A bug is best defined by outcome: the program's behavior doesn't match the end user's expectations. The user doesn't care whether it was a flawed product spec or a forgotten null check — it just doesn't matter. This reframes verification: proving code correct only proves it correct against what you specified.
 

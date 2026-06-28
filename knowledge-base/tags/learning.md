@@ -11,8 +11,8 @@
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260410-CD15` Paste the chapter you're currently reading into Claude/ChatGPT, ask for a summary first, then ask questions as you read — retention and cross-domain access both jump.
 - `INS-260627-9D3D` If you do anything important, write it by hand — the friction is what builds the understanding of the system in your head, and that understanding is exactly what agents can't give you.
-- `INS-260410-D082` Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
 - `INS-260405-A5C8` In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
+- `INS-260410-D082` Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
 - `INS-260405-75C4` Watching someone use AI live is more instructive than reading or hearing about it.
 - `INS-260405-7C86` Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
 - `INS-260409-6236` Daily hands-on AI usage builds usable intuition that content consumption cannot replace.
@@ -23,8 +23,8 @@
 - `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.
 - `INS-260412-4DC7` Memory T cells and B cells persist after infection, enabling near-instant response to future encounters and effectively converting a costly first battle into permanent low-cost protection.
 - `INS-260514-4E9A` Find things mentally challenging but not too difficult. Train the brain, don't strain it.
-- `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260410-734F` In hunter-gatherer environments the best hunters are 36-40; in Silicon Valley the best founders are often 25 — because the rate of change determines how long a previous generation's knowledge stays useful.
+- `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260329-5C65` Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
@@ -80,6 +80,7 @@
 - `INS-260625-074C` Build core skills by hand first; only delegate to AI the things you already know how to do.
 - `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-FCBB` Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20 with no structured plan -- building compilers, databases, bulletin boards -- and every one of those skills became essential when building Unreal Engine years later.
 - `INS-260404-A46A` Treating projects as experiments ensures you gain knowledge even if the project itself fails.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
@@ -90,7 +91,6 @@
 - `INS-260410-419F` Amazon's success was a philosophically straight line, a strategically squiggly line, and a tactically random set of dots through a maze of failed bets.
 - `INS-260405-AC3E` The insight from a customer conversation degrades with every layer of intermediary between the customer and the decision-maker.
 - `INS-260402-27A1` A failed startup teaches more founder skills in one year than several years at a big company.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260403-872C` Treating new projects as experiments means even failure produces knowledge, removing the psychological barrier to starting.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.

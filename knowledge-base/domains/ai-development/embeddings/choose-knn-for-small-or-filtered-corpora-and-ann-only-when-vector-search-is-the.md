@@ -62,7 +62,6 @@ related:
   - INS-260605-B8D3
   - INS-260625-CF5E
   - INS-260625-211E
-  - INS-260625-3A4F
   - INS-260627-CFA6
 ---
 Vectorizing a problem turns text matching into distance computation, but how you compute that distance should depend on the candidate set size. Exact KNN scans every row's embedding — perfectly fine when another filter has already shrunk the set (the example given: Gmail searching one user's mail is a small, partitioned result set). Building and maintaining an ANN index there is wasted complexity.

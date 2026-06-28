@@ -51,12 +51,11 @@ stance: >-
   confirmation solve this
 related:
   - INS-260402-5CF0
+  - INS-260628-9698
   - INS-260625-1022
   - PRI-260413-A957
+  - INS-260628-BF6A
   - INS-260325-6150
-  - INS-260409-8DA0
-  - INS-260605-33B4
-  - INS-260501-E26C
   - INS-260625-0F13
 evidence:
   - id: INS-260329-4842

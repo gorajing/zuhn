@@ -58,11 +58,11 @@ related:
   - INS-260410-F5C5
   - INS-260514-F58B
   - INS-260605-0C5C
-  - INS-260605-0BA3
   - INS-260605-FC00
   - INS-260625-1830
   - INS-260625-FA31
   - INS-260625-DF35
+  - INS-260627-25FC
 ---
 In a typical agentic loop, the model proposes an action, takes it in the real environment (e.g., executing code), gets feedback, and iterates — every think-act-feedback cycle pays the full cost of real execution. Kahn argues that a world model breaks this dependency: because the model can generate execution traces for a program without executing it, the agent can simulate the action, observe imagined feedback, and only interact with the real world once it is ready to commit.
 

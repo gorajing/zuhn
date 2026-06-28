@@ -13,6 +13,7 @@
 - `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
 - `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
 - `INS-260605-C132` Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
+- `INS-260628-23B0` Once the graph structure is right, the system keeps improving and swapping models matters less, so invest in taxonomy design before model selection.
 - `INS-260625-EF29` Polygraph analyzes every repo a user can reach (owned + open source), extracts what each produces and consumes, and feeds that graph to a harness so an agent reads/writes 'one big codebase.'
 - `INS-260627-2DE7` An LLM tracer hit ~100% accuracy but was too slow for the runtime path, so it was replaced with deterministic AST analysis — while LLMs were retained to mass-produce operation translations offline.
 - `INS-260627-0691` The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project.
@@ -24,15 +25,18 @@
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260325-19E9` Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
 - `INS-260627-F851` If you own the client (internal tools, your own mobile app), you can do progressive disclosure, custom doc placement, masking, and elicitation; if you don't, you must design for the worst-possible client.
+- `INS-260628-84F8` Sutton's Bitter Lesson is about maximizing intelligence; engineering AI systems is about subtracting agency in the right places to get reliability, a different axis entirely.
 - `INS-260330-4C31` Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260625-DAE9` Do not optimize the model, scaffold, and eval suite as independent tracks.
 - `INS-260627-7D01` The HER2 paper treats color channels, propagation distance, ensemble size, and abstention thresholds as knobs in one measurement system.
+- `INS-260628-3F43` Stop optimizing the prompt sentence and start designing the whole context window as a structured information system.
 - `INS-260625-2088` Autonomy improves when the environment exposes a bounded action space with reliable execution.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260627-30F9` Treat your codebase as infrastructure designed for the agent: modularize, follow known patterns, remove hidden magic, and enforce it all with linting so the agent's strengths compound.
 - `INS-260404-F7C5` Chloroplasts charge thylakoids like batteries using proton gradients, decoupling photon arrival from ATP production.
 - `INS-260405-C497` RuBisCo is wrong about half the time in oxygen-rich conditions, yet plants compensate by making it the most abundant protein on Earth — roughly 40 billion tons — making photosynthesis viable despite terrible per-reaction accuracy.
+- `INS-260628-72F5` Let one person reason about the intelligent agentic workflow and another reason about scaling to 100M docs/day — keep the two concerns distinct.
 - `INS-260625-A281` Like a database where the write-ahead log is durable and tables are views, an agent's context window, UI, debugging trace, and compaction should all be projections derived from one primary log.
 - `INS-260605-8AEE` A modular speech pipeline lets you swap individual ASR, language, and TTS models to fit any device from a first-gen M1 to the latest chip — flexibility a monolithic speech-to-speech model can't match.
 - `INS-260410-31AA` Nadella frames AI as an emulator of a simulator and quantum as a simulator of nature, arguing the future stack uses quantum to generate synthetic training data that trains AI models for chemistry, physics, and biology.

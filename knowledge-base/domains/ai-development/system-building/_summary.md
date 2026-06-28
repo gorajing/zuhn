@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 326 insights
+> 328 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -91,11 +91,13 @@
 - `INS-260329-9010` [high] Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
 - `INS-260329-3441` [high] Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260409-156A` [high] Markdown files beat embeddings for personal KBs because you can navigate, audit, and grep what the AI actually believes.
+- `INS-260628-62C4` [high] BlackRock cut complex-app build time from 3–8 months to a couple of days by exposing prompt/template/strategy/transform components in a sandbox that domain experts operate themselves, then auto-spinning the result into an app via a cloud-native 'app factory.'
 - `INS-260626-287B` [high] Bad codebases make bad agents — if AI output is poor, raise the quality of your feedback loops (tests, type checks); enforce TDD red-green so the agent writes a failing test first and can't retro-fit tests to whatever it built.
 - `INS-260605-D895` [high] Stop trying to one-shot a better prompt; invest in the feedback loop that lets you observe, diagnose, and iterate on LLM behavior.
 - `INS-260320-0F7C` [high] Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260329-2F63` [high] File I/O transforms programming from abstract exercises into tools that interact with the real world.
 - `INS-260329-BD83` [high] File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
+- `INS-260628-930A` [high] You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
 - `INS-260605-C33F` [high] Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - `INS-260323-DB7B` [high] Minecraft's world ends at 1.8e308 blocks — the maximum value of a 64-bit double — showing how implementation-level data type choices create hard boundaries in procedural systems.
 - `INS-260329-6286` [high] Circular foreign key references between tables force a multi-step insertion pattern: insert with NULLs first, create the referenced row, then update back.

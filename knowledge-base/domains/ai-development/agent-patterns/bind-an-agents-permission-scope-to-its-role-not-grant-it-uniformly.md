@@ -53,7 +53,6 @@ stance: >-
   A coding agent's sandbox permissions should be fixed by its role — review and
   security agents must be read-only by construction and never able to execute.
 related:
-  - INS-260410-796F
   - INS-260605-41AE
   - INS-260625-DA23
   - INS-260625-52B6

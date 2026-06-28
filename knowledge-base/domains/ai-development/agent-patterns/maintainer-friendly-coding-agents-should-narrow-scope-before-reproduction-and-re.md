@@ -54,11 +54,11 @@ related:
   - INS-260329-F84E
   - INS-260404-2365
   - INS-260329-D2CA
-  - INS-260403-E09E
   - INS-260409-E080
   - INS-260423-81B6
   - INS-260423-3AC1
   - INS-260501-AE73
   - INS-260605-683B
+  - INS-260605-C1A4
 ---
 The CIRCT case study is a concrete pattern for reducing maintainer burden from agentic contributions. The loop filters out feature requests, issues with existing PRs, good-first issues, and ambiguous fixes; asks the model to classify whether there is a single clear solution; requires a reproduction script; then lets another agent fix the bug; finally a non-agentic verifier runs full regression tests and the reproduction. This yielded five fixes from sixteen sampled issues, with three merged PRs after human review.

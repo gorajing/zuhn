@@ -1,5 +1,6 @@
 # Tag: ai-economics
 
+- `INS-260628-4786` BlackRock's third takeaway: custom AI apps are great in experimentation, but before shipping you must evaluate ROI—spinning up an AI app (e.g., GPU inference clusters) may cost more than an off-the-shelf product that does it quicker and cheaper.
 - `INS-260625-71F4` More than 80% of surveyed SaaS companies still use seats somewhere in pricing, warning that simplicity can slow migration to usage or outcome metrics.
 - `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
 - `INS-260327-1D37` Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.

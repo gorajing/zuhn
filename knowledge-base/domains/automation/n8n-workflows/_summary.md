@@ -1,6 +1,6 @@
 # Topic: n8n-workflows
 
-> 10 insights
+> 11 insights
 
 - `INS-260320-D3D5` [high] Process items sequentially in n8n batch loops to respect API rate limits -- pull from a queue (e.g., Google Sheets rows), process one at a time, and skip already-completed items.
 - `INS-260320-C9B1` [high] An n8n workflow scrapes any business URL and generates a full analysis report (overview, audience personas, brand analysis, customer journey, E-E-A-T) for approximately $0.20 per run.
@@ -11,4 +11,5 @@
 - `INS-260320-6845` [high] An n8n workflow pulls YouTube links from Google Sheets, extracts transcripts via Dumpling AI, transforms them into newsletter drafts with GPT-4o, and logs results back to Sheets.
 - `INS-260320-71C1` [medium] Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
 - `INS-260320-CEBE` [medium] A single YouTube transcript can feed newsletter drafts, social media posts, blog articles, and email campaigns -- extend the base n8n workflow with parallel output branches.
+- `INS-260628-58B2` [medium] n8n's AI-agent nodes let you implement and prove a complicated state-diagram design fast, deferring the move to LangChain or a lighter framework until the client actually needs it.
 - `INS-260320-B8B0` [medium] Use Linkfinder AI as a proxy for LinkedIn scraping — no direct LinkedIn API connection means zero ban risk for your personal account.

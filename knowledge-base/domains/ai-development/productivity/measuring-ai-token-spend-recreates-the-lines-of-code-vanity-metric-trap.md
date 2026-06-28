@@ -56,7 +56,6 @@ stance: >-
   junk work rather than measuring real productivity.
 related:
   - INS-260404-177F
-  - INS-260410-B3C2
   - INS-260501-033E
   - INS-260625-78EC
   - INS-260603-50B1

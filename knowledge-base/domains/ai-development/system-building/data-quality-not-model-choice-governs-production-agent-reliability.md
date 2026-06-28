@@ -76,8 +76,8 @@ related:
   - INS-260409-C758
   - INS-260424-F8BB
   - INS-260530-E6AA
-  - INS-260603-6FE3
-  - INS-260605-278E
+  - INS-260605-CF15
+  - INS-260605-124F
 ---
 Bhaumik reports spending roughly 60% of project time on the data foundation, and identifies it as the most important and most underestimated pillar. The reason is a behavioral asymmetry between humans and agents: enterprise data was always built for humans, and humans are forgiving — spot a wrong figure in a report and you ask someone to correct it. Agents are not forgiving. They find the wrong data, give the wrong answer, and deliver it with full confidence, so the error propagates silently to the customer.
 

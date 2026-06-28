@@ -1,6 +1,7 @@
 # Tag: venture-capital
 
 - `INS-260405-6FE3` Bay Area AI companies raised $27B in 2023 (up from $14B in 2022), representing 29% of all global AI funding — concentration is increasing, not decreasing.
+- `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
 - `INS-260619-675F` Self-improving software may be real while still being hard to productize as its own startup.
 - `INS-260403-7C8F` When an entire asset class systematically underfunds higher-performing founders due to demographic pattern-matching, the resulting mispricing is a textbook arbitrage opportunity for contrarian investors.
 - `INS-260327-4434` Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
@@ -130,7 +131,6 @@
 - `INS-260322-3646` In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is dangerously slow — judge by deal-sourcing quality, win rate, and investment quality at the time of decision.
 - `INS-260405-6EE5` Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
-- `INS-260405-4053` $300M flowed into longevity tech in one quarter, backed by Bezos and Altman, even as the underlying science remains early-stage.
 - `INS-260403-E419` Harvard research found investors ask men promotion-oriented questions about scaling and growth while asking women prevention-oriented questions about risks and challenges, directly shaping funding outcomes.
 - `INS-260403-A07A` Investors psychologically resist paying higher prices for companies they already own, even when new information strongly supports the higher valuation.
 - `INS-260405-9C70` Bootstrapping and VC-backing are different contracts with different incentives — the right one depends on what the founder actually wants to build and own.
@@ -148,6 +148,8 @@
 - `INS-260410-320A` Zuckerberg's retained control through Peter Thiel's and Accel's unprecedented founder-friendly terms is what allowed Meta to survive IPO, mobile, Instagram, Oculus, and reality-labs bets that a standard board would have blocked.
 - `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260404-86D3` Health tech funding remains robust across stages (Series B through growth) and geographies, suggesting structural rather than cyclical demand.
+- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
+- `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260404-620D` AI-native positioning dominates successful seed-stage pitch decks in 2024, appearing in the majority of funded companies across the sample.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
@@ -191,12 +193,14 @@
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260403-2936` Strong teams with clear pitches can raise from anywhere because VCs now allocate by sector and quality, not geography.
-- `INS-260405-3554` Founders misunderstand what VCs are optimized for, and VCs misunderstand how founders emotionally relate to their company — this mutual misreading creates predictable friction at board level.
-- `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
 - `INS-260403-8FC1` The creator economy startup field is shrinking but surviving companies are in a healthier competitive position than during the boom.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.
+- `INS-260403-16EA` True scalability means growing revenue exponentially while costs grow linearly, best demonstrated through LTV/CAC ratios and declining marginal costs.
 - `INS-260405-6342` Pitchbook data from Q1 2024 shows the US has more startups than VCs can realistically fund, meaning competition for capital has intensified beyond what deal quality alone explains.
+- `INS-260619-3AED` In AI, thematic conviction has to be re-underwritten repeatedly because product-market windows are narrower and move faster.
+- `INS-260328-A417` PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
+- `INS-260403-D5DC` Choose your startup location based on what fuels your business, not who funds it.
 - `INS-260404-6FFF` Consumer-focused startups are making a comeback, following a historical pattern where new technology waves re-open B2C opportunity windows.
 - `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
 - `INS-260524-0515` Z Venture Capital CEO: opened a US office for seed/early because the AI alliance's most active part is the US; in Asia only Korea/Japan have a deep-tech base, and SE Asia has 'nothing to invest in.'
@@ -207,7 +211,3 @@
 - `INS-260405-7A41` VCs who need founders to like them end up softening feedback, creating a 'trough' where founders receive pleasant noise instead of useful signal.
 - `INS-260409-AB8D` VC-backed industrial software must chase hockey stick growth, which means every feature decision optimizes for 'biggest problems for the most people, ideally wealthy people with disposable income' — leaving a nearly infinite long tail of niche and local needs permanently out of scope.
 - `INS-260405-AA3C` A VC's internal portfolio study is a mirror of their own biases, not a market study.
-- `INS-260403-16EA` True scalability means growing revenue exponentially while costs grow linearly, best demonstrated through LTV/CAC ratios and declining marginal costs.
-- `INS-260619-3AED` In AI, thematic conviction has to be re-underwritten repeatedly because product-market windows are narrower and move faster.
-- `INS-260328-A417` PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
-- `INS-260403-D5DC` Choose your startup location based on what fuels your business, not who funds it.

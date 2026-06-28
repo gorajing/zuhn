@@ -57,7 +57,7 @@ related:
   - INS-260625-1187
   - INS-260625-ED7E
   - INS-260625-43B3
-  - INS-260605-44E5
+  - INS-260605-9CE2
 ---
 Comparing benchmarks like Terminal Bench v1 versus v2 and other variants, Snorkel found that some tasks never get completed — not because models are weak, but because the tasks are literally unsolvable. This persistent floor of impossible tasks acts as measurement noise: it muddies whether falling failure rates reflect real model gains or just the immovable residue, and it makes benchmarks appear to saturate faster than warranted.
 

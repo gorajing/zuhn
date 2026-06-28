@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 99 insights
+> 100 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -88,6 +88,7 @@
 - `INS-260605-B794` [medium] When every network connection already carries the verified user, groups, and tags, an internal MCP server or API can authorize requests without implementing its own OAuth flow.
 - `INS-260501-B1AA` [medium] iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL.
 - `INS-260624-6B2C` [medium] Numerical mismatch between serving and training kernels can destabilize large RL loops.
+- `INS-260628-F195` [medium] Holding large KV caches for long TTLs needs a fast dedicated tier (e.g. NVMe-backed) because DRAM is size-limited and compute-coupled, and any tier too slow to feed the GPU yields cache hits that arrive too late to matter.
 - `INS-260423-FB98` [medium] Cody: I created a Postgres database on the fly using the Railway API, pumped the data in, did the analysis with Claude, pushed the outputs out, and spun the database down.
 - `INS-260605-A4F1` [medium] A unified model file format that runs unchanged on Android, iOS, macOS, Linux, Windows, web, and IoT collapses the cost of supporting many devices.
 - `INS-260605-44E5` [medium] When everything is open, nothing changes without you knowing—no performance degradation, no quiet model swaps behind an API.

@@ -63,6 +63,7 @@ related:
   - PRI-260328-EE02
   - INS-260625-26F5
   - INS-260626-AC18
+  - INS-260628-7A77
 ---
 Traditional eval setups assume a finite golden dataset of input/output pairs. But modern agents call from exponentially growing tool sets, multiple memory sources, and recursively-spawned sub-agents that each carry their own tools and memory. This combinatorial explosion means no fixed test suite can hit the edge cases that matter. The argument mirrors pre-agent software: unit tests were always useful, but production monitoring was 'infinitely more important' for moving fast and catching the long tail. The shift is from a testing/evals paradigm to a monitoring paradigm.
 

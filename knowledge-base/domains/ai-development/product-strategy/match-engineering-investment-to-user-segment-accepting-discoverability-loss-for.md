@@ -59,7 +59,7 @@ related:
   - INS-260626-E45C
   - INS-260329-9115
   - INS-260530-A86A
-  - INS-260404-D6F7
+  - INS-260628-4E8F
 ---
 Worktrees are explicitly not a feature used by most of Cursor's users — only power users who love parallelizing grids of agents. Gomes frames the whole refactor through that lens: it is not the kind of feature worth spending lots of maintenance time on, so collapsing it to markdown is selfishly worth it even at some cost to capability. The skill version removed the UI dropdown that previously advertised the local/cloud/worktree choice, so users must now know to type /worktree. Discoverability got worse, and Cursor says it is fine with that for an advanced feature.
 

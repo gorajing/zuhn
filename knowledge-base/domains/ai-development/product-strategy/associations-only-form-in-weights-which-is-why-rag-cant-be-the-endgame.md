@@ -58,11 +58,11 @@ stance: >-
   substitutes, for continual learning.
 related:
   - INS-260410-4D86
-  - INS-260409-8DA0
   - INS-260625-211E
+  - INS-260628-930A
+  - INS-260409-8DA0
   - INS-260524-8320
   - INS-260409-3602
-  - INS-260409-2A51
 ---
 The founders argue the core limitation of retrieval systems isn't storage or where to put things — it's addressing: knowing what to look for in the first place. Models often don't have the intuition for what to search, especially when constrained to keyword search (which is easier to scale in RL and cheaper on infra than embeddings). That intuition lives in weights.
 

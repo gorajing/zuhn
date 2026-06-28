@@ -62,9 +62,9 @@ related:
   - INS-260329-1075
   - INS-260409-1E5E
   - INS-260421-8004
-  - INS-260605-DB79
   - INS-260626-78D1
   - INS-260402-28BA
+  - INS-260628-DD24
 ---
 Vanilla RAG relies on the embedding model to encode every relationship in your data — the LLM must understand how documents relate, compress that into vectors, and you then try to pull it back out with a similarity query. That routes structure you already know through the model as a lossy bottleneck. If you already know a set of documents all describe one product or feature, making the embedding model rediscover that linkage is wasted effort and a source of error.
 

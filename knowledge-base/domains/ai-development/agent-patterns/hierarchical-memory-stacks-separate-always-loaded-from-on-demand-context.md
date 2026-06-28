@@ -48,10 +48,10 @@ stance: >-
   loading policies rather than stuffing all context into the prompt.
 related:
   - INS-260627-2FFE
+  - INS-260628-32EF
   - INS-260625-BF8B
   - INS-260626-AD63
   - INS-260626-69EF
-  - INS-260327-E18C
   - INS-260625-BAE7
   - INS-260626-2133
 ---

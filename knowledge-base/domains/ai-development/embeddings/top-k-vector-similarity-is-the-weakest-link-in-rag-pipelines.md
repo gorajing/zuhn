@@ -51,12 +51,12 @@ stance: >-
   the model would answer correctly given it.
 related:
   - INS-260326-AE6C
-  - INS-260402-1D32
   - INS-260410-C5A4
   - INS-260605-2A64
   - INS-260409-2A51
+  - INS-260628-06A6
+  - INS-260628-84C3
   - INS-260625-99AE
-  - INS-260409-3230
   - INS-260625-4248
   - INS-260627-3D38
 ---

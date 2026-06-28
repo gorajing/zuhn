@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 140 insights
+> 147 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -13,6 +13,7 @@
 - `INS-260625-25AC` [high] The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
 - `INS-260626-E7C4` [high] Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
 - `INS-260605-7B83` [high] A useful on-device model is 3-4GB, so shipping it once at the system level and letting every app share it is the only way the economics work.
+- `INS-260628-47B1` [high] A vanilla corporate bond extracts fine with an in-context model on a small document, but 10,000-page prospectuses blow past million-token limits—so BlackRock chooses and mixes strategies (in-context, RAG, chain-of-thought) per instrument rather than standardizing on one.
 - `INS-260605-C965` [high] Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260409-C1B2` [high] Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
@@ -23,6 +24,7 @@
 - `INS-260514-37AA` [high] Optimal complex systems live at the critical point between order and chaos — scale-free hub-and-spoke organization at every scale. Too ordered = unresponsive (depression, ossified org). Too chaotic = falls apart (psychosis, chaos).
 - `INS-260627-CD65` [high] Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.
 - `INS-260501-835A` [high] Decode amortizes weights across one token; prefill amortizes them across many — flipping which bottleneck dominates.
+- `INS-260628-3E32` [high] Invest in what models won't do for you — reading the spec off your mind and collecting your app's structure and tools — and ride the wave of swappable models, modules, and optimizers.
 - `INS-260405-64C5` [high] Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260626-7AB8` [high] Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
 - `INS-260405-06B0` [high] Deep inheritance hierarchies create refactoring traps that compound over time, not just stylistic inconvenience.
@@ -61,10 +63,12 @@
 - `INS-260410-0B73` [high] Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
 - `INS-260627-2DE7` [high] An LLM tracer hit ~100% accuracy but was too slow for the runtime path, so it was replaced with deterministic AST analysis — while LLMs were retained to mass-produce operation translations offline.
 - `INS-260627-0691` [high] The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project.
+- `INS-260628-06A6` [high] If a single similarity search answers the question, use vector RAG; switch to graph RAG when the answer requires joining multiple related facts.
 - `INS-260625-07CB` [high] ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.
 - `INS-260627-3410` [high] Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
 - `INS-260605-90CF` [high] Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
 - `INS-260626-93C7` [high] Cross-App Access uses the ID-JAG flow so the IDP, which both the MCP client and server already trust, mints a cross-app token the client exchanges for a normal access token — removing manual consent entirely.
+- `INS-260628-84C3` [high] Vector RAG excels at semantic similarity but fails at exact arithmetic, so route quantitative questions to a graph query engine plus function call for evidence-grade answers.
 - `INS-260605-4860` [high] MCP Apps standardize that UI widgets message the host (not the server backend directly), keeping every user action in the model's context.
 - `INS-260625-EC7C` [high] Keep the agent's brain in a worker/control plane and use the sandbox only as 'hands,' so an unpredictable AI can't exfiltrate the secrets it would need if it ran inside the box.
 - `INS-260625-3FBF` [high] Render untrusted server-supplied HTML in a sandboxed iframe so it cannot touch the host's settings, APIs, or environment.
@@ -91,6 +95,7 @@
 - `INS-260409-AB32` [high] Two's complement turns subtraction into addition-of-a-negative, collapsing two circuits into one and revealing that smart representations beat smart algorithms.
 - `INS-260625-2439` [high] MCP connects agents to server-side services anywhere/anytime; WebMCP implements the tools part of MCP for agents running inside an open browser window.
 - `INS-260605-D710` [high] WebMCP turns every HTML page into a mini MCP tool server, so agents call existing JS functions and links directly rather than burning compute on screenshots or XML DOM traversal.
+- `INS-260628-A92C` [high] If a problem is plausibly solvable by AI, build the agentic architecture early instead of patching single-shot calls or waiting for a smarter model.
 - `INS-260421-43EC` [medium] mem0's new algorithm replaced add/delete/update operations with single-pass add-only extraction; recency-weighted scoring surfaces current truth without losing history.
 - `INS-260626-3ACC` [medium] Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
 - `INS-260605-61D9` [medium] The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
@@ -105,11 +110,13 @@
 - `INS-260605-0436` [medium] An agent's decision quality is bounded by how much of the relevant enterprise context it can actually reach, so unifying siloed data into a graph matters more than upgrading the model.
 - `INS-260625-AACE` [medium] Agentic workflows reasoning over long contexts and reasoning models spending test-time compute both demand ultra-long contexts, making the quadratic scaling of standard attention — not model quality — the dominant constraint on progress.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.
+- `INS-260628-DD9D` [medium] Cisco's team replaced RAG-based knowledge-graph querying with a fine-tuned query agent and saw a drastic drop in tokens burned and time-to-result.
 - `INS-260626-407C` [medium] Forget the vector-DB/knowledge-graph infrastructure you think you need; a personal research OS works better as plain files plus a reference-based index.
 - `INS-260605-3DBF` [medium] Embedding Spotify's catalog knowledge into an open-weight LLM (Llama, Qwen) via fine-tuning combines world knowledge with platform knowledge, yielding steerability and explainability for free — but the model forgets.
 - `INS-260626-7D73` [medium] OpenGov moved off LangGraph to a custom agent loop to gain full control once their use cases got complex.
 - `INS-260421-7ADE` [medium] Semiont's foundational axiom: every operation the system can do is equivalent between humans and agents via a unified event bus with a sliding scale of automation.
 - `INS-260627-6E3C` [medium] A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
+- `INS-260628-23B0` [medium] Once the graph structure is right, the system keeps improving and swapping models matters less, so invest in taxonomy design before model selection.
 - `INS-260627-F9F3` [medium] Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.
 - `INS-260605-8489` [medium] Graphs sit at a sweet spot where LLMs can write Cypher and extract structure from unstructured docs, while humans read the same node-edge structure as the whiteboard diagrams they already draw.
 - `INS-260625-EF29` [medium] Polygraph analyzes every repo a user can reach (owned + open source), extracts what each produces and consumes, and feeds that graph to a harness so an agent reads/writes 'one big codebase.'

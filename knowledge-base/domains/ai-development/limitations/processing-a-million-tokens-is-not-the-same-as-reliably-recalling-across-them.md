@@ -67,7 +67,7 @@ related:
   - INS-260625-05FF
   - INS-260627-E257
   - INS-260626-20B7
-  - INS-260409-1078
+  - INS-260628-930A
 ---
 DeepSeek-V4 can computationally handle a 1-million-token context, but its multi-needle retrieval results reveal a separate, weaker curve: accuracy holds stable up to about 128k tokens, then declines as the context grows toward 1M. Performance remains better than predecessors at the extreme, but the degradation is real. The headline 'million-token context' describes what the architecture can ingest, not what it can dependably remember.
 

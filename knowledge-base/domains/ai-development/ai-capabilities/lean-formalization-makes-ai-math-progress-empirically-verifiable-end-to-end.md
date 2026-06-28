@@ -52,7 +52,7 @@ related:
   - INS-260323-7A11
   - INS-260605-77EB
   - INS-260330-09BB
-  - INS-260329-500E
+  - INS-260628-5DBC
 ---
 Carina Hong: a category of recent AI math results uses Lean (formal theorem proving system) for end-to-end verification. AlphaProof is built around Lean. The output isn't natural-language proof requiring human consensus on whether it 'feels right' — it's formally verified. You either get a binary 'this proof type-checks against the axioms' or 'it doesn't.' This makes AI math one of the cleanest domains for measuring real progress: zero false positives possible at the verification layer. Recent partial results: progress on Manin-Mumford conjecture (almost-all rational points), Ramanujan tau function results assuming the ABC conjecture — both end-to-end Lean-verified.
 

@@ -17,6 +17,7 @@
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.
 - `INS-260626-81BB` Unlike compilers or assembly — where knowing the mechanism makes you more effective — knowing attention and token probabilities won't improve your AI workflow; it's a tacit skill earned only by continuously using the tools and revising your approach.
 - `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
+- `INS-260628-4BA2` Cisco defines its digital twin as a knowledge graph (state) plus a set of tools like Batfish or RouteNet (execution), so agents can run real tests against a snapshot before changes hit production.
 - `INS-260605-E706` Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 - `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.

@@ -47,9 +47,9 @@ related:
   - INS-260505-1684
   - INS-260625-3768
   - INS-260625-43B3
+  - INS-260628-3E32
   - INS-260322-B641
-  - INS-260625-C3B0
-  - INS-260625-E02C
+  - INS-260628-23B0
 ---
 The speaker contrasted a synchronous rollout-then-train loop, where either inference GPUs or trainer GPUs sit idle, with an asynchronous design that writes rollouts into a buffer while training continues. The systems win is higher utilization and potentially near-2x throughput in simple cases.
 

@@ -67,11 +67,11 @@ related:
   - INS-260409-95C8
   - INS-260409-5CF4
   - INS-260409-BA55
-  - INS-260409-6656
   - PRI-260409-0156
   - INS-260410-CD15
   - INS-260409-2A51
   - INS-260626-BE0D
   - INS-260530-AA02
+  - INS-260625-355D
 ---
 Architectural detail from Kim Moon-jeong's Alda setup: when she asks a question of her personal LM Wiki (e.g., 'NVIDIA's competitiveness in the AI era, with web search supplementation'), the answer plus the web-search supplement gets auto-saved back into the indexed Obsidian folder as a new note. In the next nightly indexing cycle (1am), that new note is processed: entities extracted, embeddings computed, connections to existing notes drawn. The wiki page for NVIDIA gets new facts appended. So every question generates new indexed content. The compounding effect: over months of daily use, the wiki accumulates not just notes she explicitly wrote but also the synthesized answers across hundreds of questions she's asked. The wiki becomes smarter the more she uses it, not the same. This is structurally different from a static knowledge base (which is fixed at construction) and from a memory-less chat (which forgets after the session). The pattern generalizes: any AI system handling personal knowledge should write its outputs back into the input store. Coding agents should commit their explanations and decisions as comments. Research agents should append their synthesis as new notes. Email-summary agents should save their summaries back into the email archive. The implementation simplicity hides the leverage: writing a question-answer pair to a markdown file is trivial; the compounding effect over years is enormous. The corollary: the architecture of personal AI is not 'one big model that knows everything' but 'a write-back loop where every interaction enriches the store the next interaction will draw from.'

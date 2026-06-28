@@ -50,12 +50,12 @@ related:
   - INS-260321-7D76
   - PRI-260323-ADA4
   - INS-260327-DECA
-  - INS-260329-4109
   - INS-260403-0902
   - INS-260403-7F89
   - INS-260405-A1E6
-  - INS-260402-3C79
   - INS-260409-F9D5
+  - INS-260410-022B
+  - INS-260410-7292
 ---
 A weaker version of the RLVR optimism could argue that models fail because they have not discovered the right strategy. Apple tests that escape hatch by appending explicit algorithms for puzzle solving and finds that collapse occurs at roughly the same points.
 

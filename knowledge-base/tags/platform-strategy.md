@@ -75,7 +75,7 @@
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260410-277B` Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
-- `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
+- `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.

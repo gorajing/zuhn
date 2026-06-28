@@ -55,7 +55,7 @@ related:
   - INS-260605-DC65
   - INS-260405-B7C7
   - INS-260625-3768
-  - INS-260626-763B
+  - INS-260627-89F2
 ---
 The panel relays an Anthropic-flavored design principle (attributed to Boris and echoed about Tom Brown's view of Claude): treat the model like a smart, eager colleague and support what it naturally wants to do rather than fighting it. Applied to tooling, agents 'hate using websites — they want to use APIs' and they want everything open and open-source so they can read and write code directly.
 

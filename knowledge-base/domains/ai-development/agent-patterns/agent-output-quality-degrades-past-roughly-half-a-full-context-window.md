@@ -63,6 +63,7 @@ related:
   - INS-260627-0691
   - INS-260605-295D
   - INS-260626-FFE2
+  - INS-260628-28B0
 ---
 The counterintuitive claim is that context has two costs, not one. The obvious cost is money: the entire chat history is re-sent as input tokens on every turn, so it compounds. The non-obvious cost is quality — O'Leary cites a tipping point around 50% window fill where the model effectively gets dumber, suffering 'lost in the middle' effects and re-surfacing earlier wrong turns it should have abandoned. Worse than too much context is bad context: mixing two unrelated tasks, stale comments, or trying to steer an agent back after it went down a wrong path, because the agent re-reads the poisoned history every turn rather than reasoning fresh like a human would.
 

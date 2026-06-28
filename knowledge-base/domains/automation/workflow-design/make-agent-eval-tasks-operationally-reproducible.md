@@ -45,11 +45,10 @@ stance: >-
   verification, teardown, and grading criteria so failures are reproducible
   outside the original conversation.
 related:
-  - INS-260323-8555
   - INS-260605-A8A9
   - INS-260625-9644
-  - INS-260626-B04D
   - INS-260627-D21B
+  - INS-260626-B04D
   - INS-260625-0E60
   - INS-260625-8A55
 ---

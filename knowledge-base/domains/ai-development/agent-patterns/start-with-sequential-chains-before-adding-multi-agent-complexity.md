@@ -49,9 +49,10 @@ stance: >-
 related:
   - INS-260605-A847
   - INS-260627-0F4E
+  - INS-260628-A92C
   - INS-260321-18D0
   - INS-260626-B614
-  - PRI-260411-78CD
+  - INS-260628-58B2
 ---
 Google's final pro-tip mirrors Anthropic's core guidance on agent architecture: 'Do not build a nested loop system on day one. Start with a sequential chain, debug it, and then add complexity.' This is the agent equivalent of premature optimization — adding coordination overhead before the individual agent tasks are validated.
 

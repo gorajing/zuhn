@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260626-BE0D
   - INS-260514-00D3
+  - INS-260628-930A
   - INS-260403-7D7A
   - INS-260524-8320
-  - PRI-260406-88DD
 ---
 Human search tolerates lag: a user rarely writes data and re-queries it within milliseconds. Agentic workloads do exactly that — an agent makes a change via one API call, then issues another that depends on the result being searchable. If the search and vector indexes are fed by an eventually-consistent ETL pipeline, the agent queries a stale index and reasons over data that no longer matches reality, a failure mode that is hard to detect because it's intermittent and timing-dependent.
 

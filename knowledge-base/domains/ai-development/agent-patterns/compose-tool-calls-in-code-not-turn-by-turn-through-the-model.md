@@ -60,12 +60,12 @@ stance: >-
   environment beats orchestrating tools one inference at a time.
 related:
   - INS-260605-05F4
-  - INS-260626-15F3
   - INS-260626-2F2E
   - INS-260626-AC8E
   - INS-260627-8B10
   - INS-260627-37CC
   - INS-260605-0C88
+  - INS-260628-2FE3
 ---
 The default agent loop has the model call a tool, read the result, reason, call another tool, read that result, and so on. Every hop through that chain consumes inference and is latency-sensitive — yet most of the orchestration logic could be expressed far more efficiently as a script. Soria Parra calls the fix 'programmatic tool calling' (a.k.a. 'code mode'): provide the model an execution environment such as a V8 isolate or a Lua interpreter, and have it write code that composes the tools, then execute that code.
 
