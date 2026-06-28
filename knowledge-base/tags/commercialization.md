@@ -6,7 +6,7 @@
 
 
 - `INS-260412-C217` Graphene's 16-year gap between Nobel-Prize-winning discovery and first consumer product was entirely a manufacturing cost problem, not a science problem.
-- `INS-260626-3DE4` The AI Consult trial supports a narrower commercialization claim: safe workflow support with documentation and cost signals, not proven patient-outcome transformation.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
+- `INS-260626-3DE4` The AI Consult trial supports a narrower commercialization claim: safe workflow support with documentation and cost signals, not proven patient-outcome transformation.
 - `INS-260412-AB46` Edison was the 'Steve Jobs of the light bulb' — he improved and sold ideas from 22 prior inventors rather than inventing from scratch.
 - `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.

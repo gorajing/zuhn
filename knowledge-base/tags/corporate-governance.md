@@ -6,8 +6,8 @@
 - `INS-260412-29B6` Samsung's chaebol structure creates a pattern where every generation of leadership faces legal prosecution yet retains control because the company is deemed too important to the national economy.
 - `INS-260412-1038` The Lee family controls Samsung's 59 affiliates through cascading cross-ownership where each entity's operating profits buy controlling stakes in the next, amplifying control geometrically beyond actual capital invested.
 - `INS-260327-7F73` When PE firms borrow billions to acquire companies, the debt goes on the acquired company's books - the PE firm collects fees regardless while employees bear the bankruptcy risk.
-- `INS-260412-5BBA` Firms allowing executive personal use of corporate jets underperform the market by ~4% annually — the people deciding to buy jets are the ones who fly them.
 - `INS-260327-812B` Boeing's board includes a former Vanguard CEO who also sits on Pfizer's board with Coca-Cola's CEO who sits on Netflix's board - it's an interconnected club providing the illusion of independent oversight.
 - `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-3084` Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260412-4FE6` Cynthia Cooper uncovered WorldCom's fraud not because she had special access, but because she kept investigating after being actively discouraged by the CFO and encountering institutional resistance.
+- `INS-260412-5BBA` Firms allowing executive personal use of corporate jets underperform the market by ~4% annually — the people deciding to buy jets are the ones who fly them.

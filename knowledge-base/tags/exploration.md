@@ -5,19 +5,10 @@
 - `INS-260628-252F` AdsMind's FORBID and termination mechanisms reduce wasted relaxations but can converge to local basins or over-prune site families in edge cases.
 - `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it.
 - `INS-260627-EEDE` SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided.
-- `INS-260628-E27B` When you only automate the tedious things you already understand, you miss emergence; playing with the model surfaces capabilities you couldn't have specified — including an agent that delegates to a human when it can't do the job itself.
 - `INS-260605-6C0C` Have a fast model generate 15 (or 75 via parallel sub-agents) versions in the time one used to take, then pick the best — selection substitutes for the model's missing taste.
+- `INS-260628-E27B` When you only automate the tedious things you already understand, you miss emergence; playing with the model surfaces capabilities you couldn't have specified — including an agent that delegates to a human when it can't do the job itself.
 - `INS-260626-D7F3` Radical's AI scientist moved into elemental-alloy families no human had ever published on, because human experts carried an 'unknowing bias' against them, and it can compare 100k papers to 100k images in parallel.
 - `INS-260627-699E` RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
-- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
-- `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
-- `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
-- `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
-- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
-- `INS-260330-1E5E` On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
-- `INS-260330-5641` The importance of a mathematical fact is proportional to how many other topics it connects to, making it discoverable from many starting points.
-- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
-- `INS-260323-A52F` The simplest solution to Einstein's equations already contained black holes, white holes, and parallel universes -- but only after mathematicians pushed the coordinate map to its full extent.
 - `INS-260403-5D18` Some people converge on their life's work early like Mozart, while others like Newton restlessly explore multiple fields — both paths can produce great work, and the 'single calling' narrative is often hindsight bias.
 - `INS-260403-0406` Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - `INS-260402-1414` Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
@@ -28,3 +19,12 @@
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
 - `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
 - `INS-260412-A1F4` Historical colonization always followed three phases — exploration, dependent outpost, self-sufficient colony — and this pattern maps directly to entering new markets.
+- `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
+- `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
+- `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
+- `INS-260330-5641` The importance of a mathematical fact is proportional to how many other topics it connects to, making it discoverable from many starting points.
+- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
+- `INS-260330-1E5E` On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
+- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
+- `INS-260323-A52F` The simplest solution to Einstein's equations already contained black holes, white holes, and parallel universes -- but only after mathematicians pushed the coordinate map to its full extent.
