@@ -1,9 +1,9 @@
 # Tag: safety
 
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
+- `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260410-F0EF` Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260605-310E` Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
-- `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260627-0719` A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
 - `INS-260605-A705` Always commit before an agent starts changing code, because it may not remember what the code looked like before.

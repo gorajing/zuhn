@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 487 insights
+> 489 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -229,6 +229,7 @@
 - `INS-260627-20F9` [high] Let the agent compose rich programs, but make execution depend on a separate policy boundary that checks effects rather than trusting the generated code.
 - `INS-260410-AA6E` [high] A separate evaluator agent is far more tractable to tune toward skepticism than convincing a generator to be critical of its own output.
 - `INS-260625-C697` [high] Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
+- `INS-260628-94A8` [high] MCP update review matters as much as initial approval because ShareLock hides activation in a later initialization tool.
 - `INS-260327-26BF` [high] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
 - `INS-260626-5053` [high] A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260605-BAB5` [high] MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
@@ -393,6 +394,7 @@
 - `INS-260410-358E` [medium] Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260627-6744` [medium] Put raw DOM/page interaction in a disposable runner and return only fenced, untrusted summaries to the main agent.
 - `INS-260321-E59A` [medium] Donald Knuth's viral LLM math result was achieved by making the LLM update its memory after each solution — a hack simulating plasticity — but Knuth himself still had to create the final proof manifold.
+- `INS-260628-3C54` [medium] The paper's failure modes imply that consent friction and interaction checkpoints are security controls, not mere UX costs.
 - `INS-260625-3866` [medium] Give the main agent a coding sub-agent as a CLI so it can code missing capabilities into existence and keep them permanently.
 - `INS-260327-D020` [medium] Goose's recipe-based approach, where successful workflows are baked into shareable scripts, outperforms pre-built tool integrations because agents find surprising solutions humans wouldn't encode.
 - `INS-260627-6418` [medium] If a model can predict execution traces, an agent can 'imagine' the result of an action and get feedback in a simulated environment, reserving real execution for when it actually matters.

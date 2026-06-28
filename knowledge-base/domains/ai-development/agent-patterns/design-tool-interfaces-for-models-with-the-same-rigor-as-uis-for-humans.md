@@ -61,6 +61,7 @@ related:
   - INS-260605-92FF
   - INS-260626-9A47
   - INS-260627-4253
+  - INS-260628-2CF1
 ---
 The post explicitly argues that much more attention should go into designing tool interfaces for models, in the same way that attention goes into designing tool interfaces for humans. The team tested their tool specs across a wide variety of agentic tasks to uncover ways the model might misunderstand them, then rewrote the descriptions to preempt those problems. The Bash tool's schema is trivial (one `command` parameter), but its description is a multi-bullet guide that warns about internet access, output size, long-running commands, and persistent state.
 

@@ -1,6 +1,7 @@
 # Tag: entropy
 
 - `INS-260410-66C6` Ask ChatGPT for ten jokes and you'll notice it only knows three — models are silently collapsed into a narrow output manifold, which poisons any attempt to train on their own generations.
+- `INS-260628-C5AC` Entropy spikes in MCP descriptions deserve review, but benign hashes and IDs make entropy a triage signal rather than a verdict.
 - `INS-260501-5582` AI lets you ship 80% of a feature fast, then security review + code review + integration becomes the rate-limiter, and the entropy you introduced compounds over time.
 - `INS-260412-762C` Entropy dictates that all structures — physical, economic, organizational — decay without continuous energy input.
 - `INS-260412-B26A` Black holes lose mass through Hawking radiation — virtual particle pairs at the event horizon boundary where one escapes — proving even the most powerful gravitational structures eventually evaporate.

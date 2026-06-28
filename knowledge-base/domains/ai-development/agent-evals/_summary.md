@@ -1,12 +1,13 @@
 # Topic: agent-evals
 
-> 105 insights
+> 107 insights
 
 - `INS-260627-27E0` [high] A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
 - `INS-260627-8B75` [high] Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260625-1830` [high] Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
+- `INS-260628-AF81` [high] Measure security attacks by both compromise and normal task completion; a stealthy agent exploit succeeds because the user still gets the expected answer.
 - `INS-260625-0021` [high] Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.
 - `INS-260625-0148` [high] Treat model, tools, context, environment, and feedback as explicit evaluation variables.
 - `INS-260627-4D26` [high] Each annotation should state why a trace passed or failed (e.g. 'non-compliant: approved the cancellation without verifying it met the airline's cancellation rules'), because without that reasoning the optimizer would have to rediscover the policy from scratch — usually impossible.
@@ -106,4 +107,5 @@
 - `INS-260625-2B5A` [medium] Correctness gates should encode behavior, not proximity to one historical patch.
 - `INS-260626-8747` [medium] Starting evals in a spreadsheet is the right first move, but it's documenting, not experimenting — it can't compare experiments over time, run analytics, or bring non-technical SMEs into the loop.
 - `INS-260625-FFDF` [medium] SWE-EVO shows that benchmark saturation on isolated tasks can hide a large capability gap on release-sized work.
+- `INS-260628-573E` [medium] ShareLock evaluates both models and MCP clients, which is the right shape for agent security because orchestration behavior is part of the attack surface.
 - `INS-260627-CFAC` [medium] Structure verification as an escalating cascade — cheap self-check, then model consensus, then execution validation — so cost scales with doubt.

@@ -10,10 +10,10 @@
 - `INS-260625-5694` World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
 - `INS-260323-36A8` The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
-- `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
-- `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260405-0D9F` Doing diligence well means returning to fundamental analysis — market size, unit economics, team quality — rather than momentum-chasing.
+- `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
+- `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
 - `INS-260412-491A` Neutron star cores recreate Big Bang conditions, letting physicists study the universe's founding rules — extremes are windows to origins.
 - `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
 - `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
@@ -73,8 +73,8 @@
 - `INS-260322-3CFB` Optimizing for stewardship (what you do and serve) rather than status (titles and positions) produces both deeper fulfillment and better career outcomes.
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - `INS-260405-6F8C` Returning to first principles in noisy domains is how you separate genuine breakthroughs from headline-driven hype.
-- `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
 - `INS-260323-7DAE` Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
 - `INS-260330-8F0F` Vuitton's breakthrough was replacing dome-top leather trunks with flat-top canvas ones that could stack — a logistics fix, not an aesthetic one.
+- `INS-260402-3A0D` Simplicity forces you to face the real problem because you can't hide behind ornament.
 - `INS-260403-7219` The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - `INS-260323-9BC8` Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.

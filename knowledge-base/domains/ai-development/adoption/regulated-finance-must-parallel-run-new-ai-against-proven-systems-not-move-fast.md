@@ -64,7 +64,6 @@ related:
   - INS-260625-E04B
   - INS-260321-1A0B
   - INS-260626-0D50
-  - INS-260626-E000
   - INS-260627-DA32
 ---
 Blankfein draws a sharp schism between 'the valley' and finance: a startup like Robin Hood could mis-state that accounts were government-insured, issue apologies, and survive, but a regulated firm 'wasn't allowed to do that.' Goldman's pattern was to keep the inefficient system it was confident in running while simultaneously beta-testing the promising new one — 'we had to run things 50 times and to be perfect the last 49 times before we could go that way.' Only after the new system earned confidence did it replace the old, and even then a newer system was already being tested.

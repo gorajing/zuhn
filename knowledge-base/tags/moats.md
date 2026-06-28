@@ -3,11 +3,11 @@
 - `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
 - `INS-260625-1F93` Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
+- `INS-260627-FAEC` The Los Alamos fusion-capsule agent is powerful because it executes 50–60 years of validated physics code on HPC, not because the LLM is smart — the shift is from 'what a model knows' to 'what we can let a model know.'
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
 - `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
 - `INS-260603-B7BA` Harvey (keynote, ~30yr enterprise software): no Fortune 500 switches off Salesforce despite bad UX because switching cost is enormous — but swapping Anthropic→OpenAI→Google is cheap (not zero, but low), so when Codex pushed hard on price/perf, 'many companies switched in a split second' as a top-down decision.
 - `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
-- `INS-260627-FAEC` The Los Alamos fusion-capsule agent is powerful because it executes 50–60 years of validated physics code on HPC, not because the LLM is smart — the shift is from 'what a model knows' to 'what we can let a model know.'
 - `INS-260626-136F` Most models now accept many input modalities, so the real competitive gap is which models can natively emit audio, images, and video — not just text and code.
 - `INS-260410-D0F5` AI lab competition has so far neutralized every supposed flywheel, with talent flow and reverse-engineering keeping rivals close.
 - `INS-260404-CAD5` AI competitive advantage has migrated from model performance to distribution, ecosystems, and differentiation.
@@ -114,9 +114,9 @@
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
+- `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 - `INS-260402-B743` Copying a competitor's growth loop features without understanding the underlying system mechanics and timing conditions produces poor results.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
-- `INS-260626-526E` A product advantage is copyable overnight, so the durable edge is understanding what customers want better than anyone — earn it by living in their channels.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260625-6C97` Pick markets that are (1) low trust / already outsourced, (2) low judgment at the task level, (3) high overall intelligence threshold, and (4) regulated — because regulation raises expectations and accountability, deepening the moat.
 - `INS-260405-DADB` VCs explicitly screen for network effects because they are the strongest defensibility mechanism in software — each new user increases value for all users.

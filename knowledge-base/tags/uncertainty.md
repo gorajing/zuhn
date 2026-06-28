@@ -8,11 +8,12 @@
 - `INS-260505-4351` If a new clinical policy takes an action your offline data never saw, off-policy evaluation can't bound its value — synthetic data fills the gap.
 - `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
-- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
 - `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
-- `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
+- `INS-260404-4E1A` Human optimism is fueled by narrative continuity about the future, not by present comfort.
+- `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
+- `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
 - `INS-260409-F93A` Galef argues accurate maps of the world should include explicit uncertainty markers and remain provisional — 'drawn in pencil, not pen' — because false precision creates psychological resistance to updating when better evidence arrives.
 - `INS-260412-4AC2` We've catalogued millions of stars but have good data on only about two dozen black holes, with each measurement carrying large error bars from indirect observation and simplifying assumptions.
 - `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
@@ -25,7 +26,6 @@
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260405-7DD7` When you can't predict who matters, you must treat everyone as if they matter — which only genuinely good people can sustain.
 - `INS-260403-E554` Top VCs make decisions by thinking in probabilities and leaning into uncertainty rather than relying on gut instinct.
-- `INS-260403-AEA3` Critics used Bio Anchors' acknowledged uncertainty to conclude 'things are fine and normal' rather than recognizing that uncertainty cuts both ways and timelines could be shorter.
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260412-C37A` The Heisenberg uncertainty principle shows that seeing is touching — observing particles with enough energy to detect them inevitably alters them, establishing a hard limit on simultaneous knowledge.

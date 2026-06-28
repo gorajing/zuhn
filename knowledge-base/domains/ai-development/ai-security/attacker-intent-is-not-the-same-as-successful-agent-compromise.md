@@ -56,6 +56,7 @@ related:
   - INS-260627-1CF9
   - INS-260627-B7F7
   - INS-260627-69F9
-  - INS-260627-22EC
+  - INS-260628-573E
+  - INS-260628-AF81
 ---
 Unit 42's taxonomy grades web-based IDPI by attacker intent, not by verified successful compromise, because defensive visibility into execution is limited. This distinction matters for Zuhn's contradiction scout: a hidden prompt asking an agent to buy shoes, delete data, leak contacts, or approve a scam proves attacker interest and payload diversity; it does not by itself prove deployed agents are executing those actions. Production agent risk tracking should therefore separate exposure, attempted instruction, model compliance, tool permission, and completed side effect.

@@ -1,6 +1,6 @@
 # Topic: security
 
-> 23 insights
+> 24 insights
 
 - `INS-260627-3E71` [high] Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution.
 - `INS-260627-1224` [high] The four pillars are: the agent must know who the user is, call APIs on the user's behalf, request the user's confirmation for risky actions, and access only finely-scoped resources.
@@ -15,6 +15,7 @@
 - `INS-260627-5EB3` [high] Going from local stdio to remote HTTP MCP flips you from zero security surface to OAuth, tokens, CORS, TLS, and rate limiting all at once, with no halfway house.
 - `INS-260627-30A2` [high] Forwarding the user's access token breaks agent autonomy because tokens expire, forcing repeated re-login; a delegated connection that stores refresh tokens lets the agent stay online.
 - `INS-260627-9298` [high] Use a 'Swiss cheese' stack — model alignment, harness-level AST parsing and permissions, and network/filesystem sandboxing — so no single failure compromises a bash-powered agent.
+- `INS-260628-278D` [high] If a detector only classifies visible tool text, threshold-obfuscated tool poisoning can make the malicious instruction absent at scan time.
 - `INS-260627-1B4D` [high] LLMs have no native separation between trusted developer instructions and untrusted data, so injection is a structural property, not a patchable bug.
 - `INS-260627-CFA6` [high] The PoisonedRAG result: five malicious chunks in an 8-million-document corpus suffice to make an LLM emit an attacker-chosen answer for a target query.
 - `INS-260627-5A21` [high] The worst security posture is the one you haven't examined — read-only shrinks the attack surface but the same cross-referencing that makes it useful makes it a devastating target.

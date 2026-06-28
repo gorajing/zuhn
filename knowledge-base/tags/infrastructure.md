@@ -1,17 +1,17 @@
 # Tag: infrastructure
 
-- `INS-260410-E73E` Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
-- `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260330-77BB` Running multiple AI agents locally hits machine limits at 3-4 worktrees; cloud dev environments remove this ceiling entirely.
 - `INS-260330-7E4F` Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
+- `INS-260410-E73E` Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
+- `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260410-9425` Zuckerberg argues fast-takeoff AGI scenarios underweight how much of the stack is gated by physical-world timelines — gigawatt clusters, permitting, energy supply chains, and users learning to use the tools.
 - `INS-260323-4D13` Zuckerberg identifies the scaling question as the single highest-stakes bet in AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundreds of billions in infrastructure riding on continued returns.
+- `INS-260605-A803` When scaling coding-agent swarms, runtime, orchestration, and triggering are largely solved — coordination (agents picking up tasks from and collaborating with each other) is the actual bottleneck.
 - `INS-260404-CC8B` Musk's orbital compute thesis rests on the claim that electricity and cooling requirements are becoming the binding constraint on AI progress, not algorithms.
 - `INS-260327-F50E` Sequoia portfolio companies forecast minimum 10x increase in flops per knowledge worker; optimistic scenarios project 1,000-10,000x as workers manage hundreds of AI agents.
 - `INS-260323-8637` Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
 - `INS-260403-64F4` While AI models commoditize, proprietary data for training and low-latency inference infrastructure will capture disproportionate value.
 - `INS-260403-CEAD` Bio Anchors accurately predicted willingness-to-spend and cost-per-FLOP trends through 2025, correctly forecasting the massive data center buildout from observable investment patterns.
-- `INS-260605-A803` When scaling coding-agent swarms, runtime, orchestration, and triggering are largely solved — coordination (agents picking up tasks from and collaborating with each other) is the actual bottleneck.
 - `INS-260605-61D9` The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
 - `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
@@ -68,6 +68,11 @@
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
 - `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-6DD9` Heathrow's $19 per-passenger cost is covered by $29 in airline fees plus $13.32 in retail, but retail is where the margin lives.
+- `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
+- `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
+- `INS-260412-3713` Anchorage went from one of the world's most connected airports to near-abandonment within a decade when Russia opened its airspace after the Soviet collapse.
+- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
+- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
 - `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.
 - `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
@@ -76,11 +81,6 @@
 - `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
 - `INS-260322-B8E6` Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
 - `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
-- `INS-260412-80AB` Panama's $5.4B lock expansion forced New Jersey to spend $1.7B raising a single bridge, plus billions more in port upgrades coast-wide.
-- `INS-260412-12A5` Governments offer EV purchase tax credits but neglect charging infrastructure, putting the cart before the horse.
-- `INS-260412-3713` Anchorage went from one of the world's most connected airports to near-abandonment within a decade when Russia opened its airspace after the Soviet collapse.
-- `INS-260405-B6CB` China's post-2008 infrastructure investment produced not just recovery but a transportation, energy, and digital backbone that now underpins its manufacturing dominance.
-- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260412-F17D` Russia's Siberian airspace control lets it extract ~$100/ticket on Europe-Asia routes by being the only direct path between $20T+ economies.
@@ -124,17 +124,17 @@
 - `INS-260403-F4D3` Plausible alternatives erode incumbent control more effectively than head-on competition because they expand buyer optionality without triggering defensive responses.
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260412-D103` Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
-- `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260412-F93A` F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260412-8780` China built more high-speed rail than the rest of the world combined not through superior technology but by making it the government's top priority.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
+- `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
-- `INS-260626-A922` Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses.
 - `INS-260405-EAF3` Cloud providers offer $150K–$350K each in startup credits, and most founders apply to only one of the three.
 - `INS-260404-1DDB` The most successful pitch decks in this collection target specific verticals (grocery, legal, women's health) or build infrastructure layers (billing, banking-as-a-service, payments).
+- `INS-260626-A922` Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses.
 - `INS-260412-9DC8` Vannevar Bush's 1945 Memex concept directly inspired the internet, hyperlinks, the mouse, and the GUI, yet he remains virtually unknown compared to the product builders who implemented his vision.
 - `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
 - `INS-260412-2551` Three GDS providers (Amadeus, Sabre, Travelport) suspending Aeroflot's access was a 'death blow' because no alternative booking infrastructure existed.
@@ -148,16 +148,16 @@
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260412-6F4D` St Helena's airport worked technically but didn't transform the economy because the island lacked the marketing, investment attraction, and route development to exploit it.
 - `INS-260403-8793` Replit's decade of integrating editor, database, and hosting into one container was the only reason AI agents could autonomously write, test, and deploy code — a moat competitors cannot quickly replicate.
+- `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
+- `INS-260403-8DE1` Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
+- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
+- `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260412-7FC0` China's mass-production approach to viaducts and tunnels cut high-speed rail costs to $30M/mile vs California's $148M/mile.
 - `INS-260330-B437` Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
 - `INS-260626-BD6A` Neuralink designed surgical robots, factories, and deployment infrastructure on day one — building 'under the waterline' looks slow until the iceberg breaches and growth becomes massive fast.
 - `INS-260625-15FB` Keep training on one tight cluster but globally distribute the inference half of RL across smaller, cheaper, heterogeneous clusters—even borrowing idle production GPUs off-peak.
 - `INS-260412-907D` The top 10 shipping lines controlling 85% of the market and the US relying on just 5 Pacific deepwater ports shows how scale optimization concentrates risk.
 - `INS-260412-B416` The Panama Canal's lock dimensions literally determine what size 50% of the world's cargo ships are built to be.
-- `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
-- `INS-260403-8DE1` Disruption requires not just the right insight but the right infrastructure moment — the same idea fails or succeeds based on what enabling platforms exist.
-- `INS-260410-111A` Gutenberg went bankrupt because his small German town had only seven legal buyers for 300 Bibles — the press worked, the distribution didn't.
-- `INS-260403-8176` Groq's value was not in customer count but in forcing the assumption that GPUs were the only sensible way to run large models at scale to become questionable.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260412-EDBF` Upgrading existing Northeast Corridor track to sustain 125mph would cut DC-to-NYC to ~2 hours at a fraction of the $151B high-speed rebuild cost.
 - `INS-260403-5DF2` Using AWS credits year one, shifting to GCP year two, and testing Scaleway GPU pricing creates years of subsidized infrastructure through provider arbitrage.

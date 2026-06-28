@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260403-6424
   - INS-260410-264E
-  - INS-260605-75B7
   - INS-260322-2E33
+  - INS-260628-AF81
+  - INS-260605-75B7
   - INS-260625-3A20
-  - INS-260625-E1AA
 ---
 The attack needs only two conditions met. Retrieval: the malicious chunk must be semantically similar to the user query — trivially satisfied by appending a likely user query to the attacker's target answer so it ranks high. Generation: the chunk must read as a convincing answer once retrieved. With both met, five poisoned chunks out of eight million documents controlled the output.
 

@@ -50,10 +50,10 @@ stance: >-
   official access
 related:
   - INS-260411-27AA
+  - INS-260628-94A8
   - INS-260625-BEFE
   - INS-260626-FC7A
   - INS-260605-683B
-  - INS-260325-5CA5
   - INS-260626-8B56
 ---
 Every company in the study found that procurement bottlenecks were silently undermining their AI strategy. Employees who hit approval walls didn't stop using AI — they used personal ChatGPT accounts, which means company data flowing through unmonitored channels with no governance.

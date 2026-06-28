@@ -2,10 +2,10 @@
 
 - `INS-260627-82CC` Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
 - `INS-260627-0BC1` Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
-- `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
-- `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260330-FC4D` When agents produce 1,300 PRs weekly, CI pipelines and test coverage become the primary quality gate since human review alone cannot scale to verify correctness.
 - `INS-260330-D5CD` When agents write 1,300 PRs per week, CI and test infrastructure become the primary trust mechanism replacing the confidence that comes from knowing a human wrote the code.
+- `INS-260410-AF66` Bootstrap agent evals from 20-50 real failure cases; effect sizes are large early so small samples suffice.
+- `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260605-773B` Build evals high-level around specific failure modes a subject-matter expert identifies, not exhaustively like unit tests.
 - `INS-260605-6A32` At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.

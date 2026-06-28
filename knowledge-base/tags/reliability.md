@@ -5,8 +5,8 @@
 - `INS-260626-3105` Run each eval ~5 times, track its pass rate, and give the tests you care about a small failure budget — a single green run proves nothing.
 - `INS-260627-0444` Below ~95-99% reliability, the cost of checking and fixing AI output exceeds the time the AI saves, producing a net slowdown.
 - `INS-260627-82CC` Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
-- `INS-260410-B3C2` pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
+- `INS-260410-B3C2` pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
 - `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260625-0492` Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.

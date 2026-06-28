@@ -62,11 +62,11 @@ stance: >-
   base model.
 related:
   - INS-260404-2365
+  - INS-260628-573E
   - INS-260403-2FAE
   - INS-260619-F7E3
   - INS-260423-1C4D
   - INS-260605-295D
-  - INS-260625-386B
 ---
 General-purpose base models specialize via prompting, but prompting is exactly what adversarial attacks exploit — injections work by creating ambiguity about which context and policies apply, and a base model juggling a hard task plus a side-list of policies is easy to trip up. Enterprise policies are also too amorphous to encode as hard access rules ('this agent should never touch these things') yet too specific to expect from a general model. Gray Swan's answer is Cygnal: a filter model that sits between user, LLM, and tool calls and inspects both directions — scanning inbound untrusted content for injections and outbound tool calls for policy violations (e.g. sending an API key to an untrusted location).
 

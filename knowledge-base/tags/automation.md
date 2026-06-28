@@ -5,17 +5,17 @@
 - `INS-260404-B18A` Nubank used Devin to migrate a 6-million-line ETL monolith in weeks instead of the estimated 18 months with 1,000 engineers.
 - `INS-260403-2EE2` Automation shifts scarcity rather than eliminating it — the last unautomated role in any system captures disproportionate value.
 - `INS-260403-E78C` Claude Sonnet completing multi-page workflows at 94% accuracy for $0.30 creates a 100x cost gap that makes human contractors economically irrational for routine tasks.
-- `INS-260627-6C1E` When use cases explicitly mention automation or agents, their self-reported ROI wildly outperforms the first-tier productivity use cases that dominate by count.
-- `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260405-8649` Sophisticated hedging requires sculpting portfolios against hundreds of scenario-specific risks—currently impractical, but trivial once AI agents handle the intellectual labor
 - `INS-260405-5222` Jensen Huang described a future NVIDIA with 75,000 humans and 7.5 million AI agents—a 100:1 agent-to-employee ratio that defines what 'agent-era enterprise' actually means.
 - `INS-260322-B6DE` Every AI employee should map to one of seven business operations stages: outreach, discovery, proposal, sales, onboarding, retention, and competitive intelligence.
 - `INS-260322-3010` Upload bank and credit card statements to an AI agent to identify SaaS subscriptions that can be replaced with custom AI-built modules — one audit revealed $1000/month in replaceable subscriptions.
+- `INS-260627-6C1E` When use cases explicitly mention automation or agents, their self-reported ROI wildly outperforms the first-tier productivity use cases that dominate by count.
+- `INS-260514-EE2E` Skills = on-demand reusable behaviors (branded report formatter); agents = autonomous chained tool-calls (news → score → resume tailor); automations = pre-AI pattern-matching (RPA). Pick the smallest unit that solves the job.
 - `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
 - `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
-- `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260626-F14C` Coding agents are 'breaking containment' beyond software into CMS management, ETL syncs, speaker research, and even buying a lobster — any knowledge work an assistant or junior could do.
 - `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
+- `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260405-945B` AI removes pressure to develop mid-tier skills, leaving only the highly capable and the completely incapable.
 - `INS-260329-ED44` File I/O and modules transform Python from a calculator into an automation tool — this is the critical capability threshold for practical value.
 - `INS-260329-4751` Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -26,8 +26,6 @@
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260321-E9B7` If you're copying the same instructions into multiple projects, that's a signal to create a Skill instead — Skills work across ALL conversations while Projects only work within one.
 - `INS-260320-DC3C` Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
-- `INS-260605-683B` Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
-- `INS-260605-0266` An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - `INS-260627-4562` Anthropic usage data shows concentrated AI usage, especially in coding-like work, but Yale finds no corresponding employment disruption yet.
 - `INS-260323-D2AA` AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.
@@ -44,6 +42,8 @@
 - `INS-260410-D834` People who imagine fast automation are mentally modeling jobs as one simple task, but real jobs are bundles of many competences—automating the headline task barely moves the needle.
 - `INS-260405-B204` Slow job growth plus fast productivity growth looks like automation displacement, but may actually reflect a capital investment cycle.
 - `INS-260403-DED4` The economics of software will shift from 'AI writes, humans review' to fully autonomous AI development as quality improvements make human oversight cost-prohibitive.
+- `INS-260605-683B` Humans-in-the-loop aren't required for SOC 2 / ISO 27001 / HIPAA — agent-based approval with strong audit controls can remove risk rather than add it.
+- `INS-260605-0266` An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
@@ -70,21 +70,22 @@
 - `INS-260330-7DCF` Filling a scene with randomly positioned objects via a simple loop creates richer environments than manual placement.
 - `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
 - `INS-260405-A309` The length of tasks AI can perform autonomously doubles roughly every seven months, accelerating exposure of knowledge work.
+- `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
+- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
 - `INS-260519-9732` Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
 - `INS-260626-B09B` AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax.
 - `INS-260625-D729` Autonomous workflows become more useful when objectives match the field, not a toy proxy.
 - `INS-260626-4320` Shared multi-label models can replace brittle one-model-per-target workflows.
 - `INS-260627-5B61` The HER2 ensemble favored high-confidence positive calls because false negatives can deny targeted therapy.
-- `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
-- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
 - `INS-260627-110A` Masked IRL matched or beat baselines with up to 4.7x fewer demonstrations by using language to constrain which state features mattered.
 - `INS-260627-8738` A well-shaped task field can coordinate simple agents without messaging.
 - `INS-260405-E34C` Doorways, staircases, and tools are built for human dimensions — a humanoid robot inherits compatibility with all existing infrastructure at no cost.
+- `INS-260627-47A6` An eval task is not just an intent; it is the runnable environment around the intent.
 - `INS-260626-E990` Most RSI proposals require training a new model per improvement step (hundreds of millions, months); doing it at the harness level skips the weights entirely and runs in days for under six figures.
 - `INS-260412-662C` After infection clearance, a few helper T cells and B cells persist as memory cells that guard tissue for years and maintain low-level antibody production, making reinfection nearly impossible.
 - `INS-260626-B38C` Mine your own chat transcripts for repetitive tasks and copy-paste loops, then codify them into skills, automations, and emergent rules — storing context for agents matters more than doing the work yourself.
-- `INS-260627-47A6` An eval task is not just an intent; it is the runnable environment around the intent.
 - `INS-260403-13AF` Healthcare's $1T/year administrative layer — 185,000 coders translating across 70,000+ diagnosis codes — represents exactly the kind of repetitive translation work AI automates first.
+- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.
 - `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
@@ -101,4 +102,3 @@
 - `INS-260403-7825` Hyperliquid's 11-person team generating massive revenue demonstrates that AI-era automation can replace headcount with code, concentrating both value and risk.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260402-F62B` Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
-- `INS-260409-4290` A parameter that sounds boring when static often becomes a full arrangement element once an automation curve runs through its range over the file's duration.

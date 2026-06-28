@@ -1,9 +1,9 @@
 # Tag: orchestration
 
 - `INS-260327-C1A4` Managing multiple agents individually recreates the human bottleneck -- the solution is orchestrator agents (like Poya managing Ppojjak) that handle agent supervision, freeing humans for higher-level direction.
-- `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 - `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
+- `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 - `INS-260327-EDF0` Training agent swarms requires three reward functions -- instantiation, finish, and outcome -- to prevent agents from defaulting to serial single-agent behavior.
 - `INS-260627-3481` In the OpenAI Agents SDK, a handoff doesn't spin up a fresh agentic loop — it swaps the active context/persona of the one running loop.
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.

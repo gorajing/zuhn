@@ -7,9 +7,9 @@
 - `INS-260627-0E46` Instead of showing a diff, Antigravity's agent drives a real browser and returns a screen recording of the feature working, giving both the human and the model verifiable, iterable evidence.
 - `INS-260627-0444` Below ~95-99% reliability, the cost of checking and fixing AI output exceeds the time the AI saves, producing a net slowdown.
 - `INS-260627-0BC1` Give agents deterministic validation that produces specific, actionable error messages — vague failures like '500 internal error' cripple their ability to self-correct.
-- `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 - `INS-260524-0DC3` Woosang: getting agents to run molecular dynamics succeeded only ~20% of the time — inputs are scientific and finicky, so he analyzes the 'failure tax' per component.
 - `INS-260625-8DF3` METR pressures the 'DX pays double' principle by showing that better shared tooling does not guarantee speedup when AI reliability is still low.
+- `INS-260625-BCD8` Today's agents are 'mismanaged geniuses' — the missing layer is how to specify, manage, reuse, and verify work, not more IQ.
 - `INS-260602-EA48` Mansi More: when an agent picks a wrong tool, gets a wrong answer, goes back and picks another wrong tool, 'there is no way for the agent to tell that hey it's breaking, stop' — so you must curate the tool list (e.g. an allowlist config) before the agent runs, not rely on it to self-correct.
 - `INS-260605-2284` The hard problem in agents has shifted from writing good prompts to strategically choosing what the model sees.
 - `INS-260625-86CF` Replace the brittle parse-DOM, read-a11y-tree, screenshot, measure-and-click loop with declared tools the agent can call directly.

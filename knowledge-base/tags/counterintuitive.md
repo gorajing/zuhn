@@ -1,7 +1,7 @@
 # Tag: counterintuitive
 
-- `INS-260627-DAF7` Contrary to the assumption that small nimble companies move fastest, the biggest organizations are consistently ahead on scaling AI — though the very smallest (1-50 person) firms capture early transformational benefit.
 - `INS-260403-F400` Tighter constraints on AI prompts force more creative and precise outputs by eliminating the vast space of mediocre default responses.
+- `INS-260627-DAF7` Contrary to the assumption that small nimble companies move fastest, the biggest organizations are consistently ahead on scaling AI — though the very smallest (1-50 person) firms capture early transformational benefit.
 - `INS-260605-71E7` DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260627-335A` Two seed-prompt families were tried — one with the agent's full policy copy-pasted in, one without — and the policy-free seed optimized better, because starting with the complete policy locks you into a local minimum you can't improve on.
 - `INS-260330-6270` Shivering releases succinate from muscles which activates brown fat thermogenesis — resisting shiver during cold exposure eliminates the fat-burning benefit.

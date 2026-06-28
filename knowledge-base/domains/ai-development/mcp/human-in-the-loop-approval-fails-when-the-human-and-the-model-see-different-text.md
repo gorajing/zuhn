@@ -54,11 +54,11 @@ stance: >-
   Human approval of agent actions provides false security whenever the summary
   the human approves differs from the full instruction the model actually reads.
 related:
-  - INS-260627-A0EE
   - INS-260627-0719
+  - INS-260627-A0EE
+  - INS-260628-278D
   - INS-260627-B416
   - INS-260627-6217
-  - INS-260329-7BAF
 ---
 When approving an MCP tool call, a user sees a simplified function name and one-liner, but the model ingests the full tool description. Carpentero calls this the iceberg effect: an 'add two numbers' tool can carry a hidden side-note instruction that exfiltrates the user's private key and credentials as an extra parameter, after which the call returns a normal-looking result and the user notices nothing. Follow-on research used the same protocol to exfiltrate WhatsApp chat histories.
 

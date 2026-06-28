@@ -61,7 +61,7 @@ related:
   - INS-260627-C237
   - INS-260627-1C20
   - INS-260627-8A6A
-  - INS-260627-08FA
   - INS-260627-69F9
+  - PRI-260406-9051
 ---
 Unit 42 frames web-based IDPI as an attack surface created when LLM tools consume untrusted web content at scale, and recommends proactive detection that distinguishes benign and malicious prompts and identifies attacker intent. This challenges any agent-safety belief that centers only on model obedience or chatbot-era prompt hardening. The likely durable defense is closer to web security plus least privilege plus runtime controls: detect hostile content before model ingestion, limit what the model can do after ingestion, and verify high-consequence actions outside the model.

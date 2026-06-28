@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6214 actionable insights
+Generated on 2026-06-28 | 6220 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -128,6 +128,7 @@ Generated on 2026-06-28 | 6214 actionable insights
 - [INS-260627-9387] CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
 - [INS-260627-6792] Give credit only when the real goal is met (tests pass), but make the surrounding signal continuous so the model has a gradient to climb.
 - [INS-260627-CFAC] Structure verification as an escalating cascade — cheap self-check, then model consensus, then execution validation — so cost scales with doubt.
+- [INS-260628-AF81] Measure security attacks by both compromise and normal task completion; a stealthy agent exploit succeeds because the user still gets the expected answer.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -492,6 +493,8 @@ Generated on 2026-06-28 | 6214 actionable insights
 - [INS-260627-42AE] Effective deep research over private data adds a corpus-understanding step so the agent plans around the data it actually has, not a generic question decomposition.
 - [INS-260627-D042] Agents are brilliant generalists that lack expertise, so encode the domain's procedural knowledge into skills to get consistent expert execution.
 - [INS-260627-D2EF] If a model can both write code and run that same code in a secure sandbox, it can accomplish nearly anything — which sidesteps the question of how opinionated or heavy the harness should be.
+- [INS-260628-3C54] The paper's failure modes imply that consent friction and interaction checkpoints are security controls, not mere UX costs.
+- [INS-260628-94A8] MCP update review matters as much as initial approval because ShareLock hides activation in a later initialization tool.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -1240,6 +1243,7 @@ Generated on 2026-06-28 | 6214 actionable insights
 - [INS-260627-46EB] MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
 - [INS-260627-68FC] Use MCP resources to ship the workflow guides (overview → create → execute → complete) that instruct an agent how to use your tools, not only the tools.
 - [INS-260627-E34D] MCP gives an agent access to external tools and context, while agent skills give it the domain expertise to actually use that access well — and they compose.
+- [INS-260628-2CF1] MCP security review must evaluate the joint behavior of the tool set, not only whether each individual tool description looks benign.
 
 ## ai-development/mental-models
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
@@ -1504,6 +1508,7 @@ Generated on 2026-06-28 | 6214 actionable insights
 - [INS-260627-9298] Use a 'Swiss cheese' stack — model alignment, harness-level AST parsing and permissions, and network/filesystem sandboxing — so no single failure compromises a bash-powered agent.
 - [INS-260627-1C20] AI browsers sit in a 'lethal trifecta' (private data + untrusted content + external communication); since tag-wrapping and role separation only mitigate prompt injection, the durable defense is a plain-text user-confirmation step before any irreversible action.
 - [INS-260627-89AF] CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.
+- [INS-260628-278D] If a detector only classifies visible tool text, threshold-obfuscated tool poisoning can make the malicious instruction absent at scan time.
 
 ## ai-development/software-engineering
 - [INS-260627-9D9A] Across ~140,000 engineers, AI's annualized time savings were eclipsed by context switching, interruptions, and meeting-heavy days — because writing code was never the bottleneck.
@@ -1687,6 +1692,7 @@ Generated on 2026-06-28 | 6214 actionable insights
 - [INS-260627-DB17] Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
 - [INS-260627-DF16] CHIA makes nodes the unit of retry, caching, bypass, subprocess tracking, and profiling so long-running evaluations can recover without discarding expensive intermediate work.
 - [INS-260627-92C0] DMP-SNN remains constrained by offline training, benchmark selection, single-core assumptions, and post-layout simulation rather than broad field deployment.
+- [INS-260628-09BA] With threshold-based poisoning, partial tool removal can leave the attack alive as long as enough shares remain.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

@@ -47,10 +47,10 @@ stance: >-
   primitive is a governed search layer: agents can rank resources from an
   approved registry, but installation remains explicit rather than automatic.
 related:
+  - INS-260628-94A8
   - PRI-260322-3DA5
   - INS-260602-EA48
   - INS-260624-E89C
   - INS-260626-E56B
-  - INS-260403-648C
 ---
 Agent Finder turns tool discovery into a runtime operation while preserving control over catalogs and installation. This is a direct pattern for Zuhn and AgentRun: keep a searchable registry of skills, MCP servers, and automation affordances, but record the registry scope and require explicit installation or activation before the agent can use a capability.

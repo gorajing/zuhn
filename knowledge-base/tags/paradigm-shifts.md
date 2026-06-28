@@ -4,12 +4,12 @@
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260412-B805` Quantum mechanics and general relativity both work brilliantly in isolation but break when combined, indicating the solution isn't fixing either but finding a deeper framework that subsumes both.
 - `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
+- `INS-260330-8625` Eddington's insistence that 'there should be a law of nature to prevent a star from behaving this absurdly' delayed black hole acceptance by decades.
 - `INS-260409-1652` The Weismann Barrier stood unchallenged for 100 years until RNA sequencing and extracellular vesicle biology gave researchers the tools to see the mechanism — dogmas break when you can measure their violation.
 - `INS-260410-3697` Michelson kept believing in the ether until his death in 1929; Poincaré had all the mathematical pieces for special relativity but couldn't let go of a dynamical interpretation of length contraction.
 - `INS-260403-222E` Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
-- `INS-260330-8625` Eddington's insistence that 'there should be a law of nature to prevent a star from behaving this absurdly' delayed black hole acceptance by decades.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-8EC6` The transition from OOP to functional programming fails not because FP is harder, but because existing OOP mental models must be actively dismantled first.
 - `INS-260330-F183` The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.

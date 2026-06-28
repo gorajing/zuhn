@@ -15,6 +15,6 @@
 - `INS-260330-EC7C` Britain's enclosure movement privatized common fields, boosting agricultural output but impoverishing tenant farmers — a pattern that repeats in every platform economy shift.
 - `INS-260627-3311` AI Studio lets shared apps run on each visitor's free quota, so a builder never fears a 'crazy surprise API bill' when their app goes viral — removing a hidden friction that blocks people from shipping.
 - `INS-260410-F455` Bill Gates accepted a $430K flat fee from IBM for DOS instead of per-copy royalties — but kept the right to license DOS to every other PC maker, which became the foundation of Microsoft's empire.
-- `INS-260403-85BB` Revenue diversification across multiple financial product categories signals a company has become infrastructure rather than a point solution.
 - `INS-260410-1996` Facebook at one point employed ~100k content moderators — costs that look fixed but behave variably and grow with sophistication of both platform and adversaries.
+- `INS-260403-85BB` Revenue diversification across multiple financial product categories signals a company has become infrastructure rather than a point solution.
 - `INS-260330-9DCD` Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.

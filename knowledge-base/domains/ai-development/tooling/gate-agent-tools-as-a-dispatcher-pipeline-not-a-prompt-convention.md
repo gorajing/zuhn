@@ -55,10 +55,10 @@ stance: >-
   carefully.
 related:
   - INS-260625-A5E7
+  - INS-260628-278D
+  - INS-260628-2CF1
   - INS-260627-A0EE
   - INS-260605-98BD
-  - INS-260626-9155
-  - INS-260626-DB00
 ---
 peerd describes a six-gate dispatcher for tool calls: persona or mode policy, exposure filtering, origin/denylist checks, confirmation policy, egress control, and audit logging. This is a reusable harness design because each gate has a specific failure mode and can be tested independently; the model does not get to self-certify that an action is safe.
 

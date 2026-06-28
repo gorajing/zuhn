@@ -12,6 +12,7 @@
 - `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
+- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260405-B8BE` Sounds, sensations, and thoughts arise in consciousness automatically — only the act of selecting and holding an object of attention requires cognitive effort.
 - `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
 - `INS-260412-6318` The UK's 'letters of last resort' model — where PMs pre-commit nuclear retaliation decisions at the start of their term — shows that separating decision-making from decision-execution improves outcomes under extreme stress.
@@ -19,7 +20,6 @@
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260329-565E` Hormozi ate the same lunch every day for 2 years, treating meal selection as a solved problem to eliminate daily decision fatigue and preserve cognitive bandwidth for business.
 - `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
-- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260329-975C` Granular chapter structure gives learners constant progress signals and easy re-entry points, reducing the intimidation of long-form content.
 - `INS-260329-CC79` Automating fundamental operations frees working memory for complex abstractions, making advanced concepts stick rather than crumble.
 - `INS-260329-9AE9` A single continuous learning resource from basics to advanced topics exploits completion bias to push learners further than multi-resource paths.

@@ -3,11 +3,11 @@
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260627-8B0B` Real-world IDPI is active, but Unit 42 still sees a gap between lab severity and observed production impact.
 - `INS-260627-8A6A` Prompt injection becomes materially dangerous only when the targeted agent has meaningful permissions, so agent-risk claims should be privilege-conditioned.
+- `INS-260403-8311` AI agents that book flights, send emails, and interact with real systems multiply prompt injection risks far beyond what chatbot-era defenses can handle.
 - `INS-260410-4067` Strip assistant text and tool outputs from the classifier's view so it judges actions, not rationalizations.
 - `INS-260605-2D9B` In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260625-2ED0` Risk from prompt injection requires three things together — untrusted input, access to private data, and the ability to act/exfiltrate; remove any one and the risk collapses.
 - `INS-260605-80DC` Bracket the agent with a prompt-injection/regulatory input guardrail and a compliance output guardrail, scope its tools, and require human approval on high-risk actions.
-- `INS-260403-8311` AI agents that book flights, send emails, and interact with real systems multiply prompt injection risks far beyond what chatbot-era defenses can handle.
 - `INS-260627-22EC` Indirect prompt injection defense shifts part of agent safety back into web-scale detection, filtering, and content-security operations.
 - `INS-260626-1C28` Gemini 3.5 Flash Computer Use adds multi-environment GUI actions with intent fields, configurable safety policies, and screenshot prompt-injection detection.
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
@@ -28,6 +28,7 @@
 - `INS-260627-3E71` Scopes not bound to the connection can never enter the access token because the SDK—not the LLM—runs the authorization request before tool execution.
 - `INS-260627-89F2` Strip away the AI framing and you are running untrusted code from the internet with your own credentials, file system, and network access.
 - `INS-260627-1C20` AI browsers sit in a 'lethal trifecta' (private data + untrusted content + external communication); since tag-wrapping and role separation only mitigate prompt injection, the durable defense is a plain-text user-confirmation step before any irreversible action.
+- `INS-260628-278D` If a detector only classifies visible tool text, threshold-obfuscated tool poisoning can make the malicious instruction absent at scan time.
 - `INS-260627-1B4D` LLMs have no native separation between trusted developer instructions and untrusted data, so injection is a structural property, not a patchable bug.
 - `INS-260627-8ADF` The real agent risk isn't bugs in one product — it's the inherent combination of data access, untrusted input, and outbound communication, which is irreducible and grows with capability.
 - `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.

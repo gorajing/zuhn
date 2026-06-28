@@ -53,7 +53,6 @@ stance: >-
   Default-deny capability-based security beats trying to enumerate and block
   every dangerous operation in AI code execution.
 related:
-  - INS-260320-DDFE
   - INS-260330-AC7F
   - INS-260412-4233
   - INS-260514-FEC8

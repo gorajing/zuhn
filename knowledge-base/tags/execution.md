@@ -14,7 +14,6 @@
 - `INS-260403-9020` When AI commoditizes execution, the quality of what you decide to build matters far more than how fast you build it.
 - `INS-260403-2074` If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260423-787D` Jason Lemkin: right now most of the deals you look at have low barriers to entry — if you stumble, you lose. If there's five of you going out of the gates, one won't stumble and they'll win.
-- `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260625-BBE4` Databricks debated for many meetings whether they could write Postgres pages as columnar Parquet; the debate ended when an engineer simply prototyped it overnight and reported 'it works' — no kickoff, no design doc.
 - `INS-260410-7224` Dee Hock insisted on 9-month deadlines for Visa's entire authorization and settlement systems because he believed engineers will always consume whatever time you give them.
@@ -71,11 +70,12 @@
 - `INS-260403-0C1D` Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
+- `INS-260402-8F67` Most marketplace supply tactics fail individually, but cumulative small wins across many channels compound into massive growth.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
 - `INS-260409-8438` There are no ideas, only the idea maze — founders navigate walls, not pick concepts.
-- `INS-260402-C2BA` F&F capital works when tied to a specific unlockable milestone like an MVP or pilot launch, not when used to buy time while figuring things out.
 - `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.

@@ -12,12 +12,12 @@
 - `INS-260410-A264` England, the US, and France installed their constitutional orders when only propertied men voted, giving the system breathing room to embed citizenship norms before democratizing — once you're already in the mass age, constitutional revolution reliably fails.
 - `INS-260410-67EE` Paine's concept of a 'cooperative adversary' — a rival so institutionally weak that you can script-write it into self-harming moves — explains why Russia could manipulate Qing and early-republican China repeatedly while failing with Hitler's Germany.
 
-- `INS-260410-5437` Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.
 - `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
 - `INS-260330-BBDA` Modern conservative parties mirror Bolshevism's structure: declaring all institutions rotten and demanding total destruction rather than incremental reform.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
+- `INS-260410-5437` Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.
 - `INS-260323-E1B6` Both liberal and conservative Supreme Courts agree on free speech because each recognizes they may be in the minority tomorrow and will need speech protections.
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.

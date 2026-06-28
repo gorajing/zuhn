@@ -60,7 +60,7 @@ related:
   - INS-260605-19B4
   - INS-260627-962C
   - INS-260410-3043
-  - INS-260330-BA13
+  - INS-260628-2CF1
 ---
 Podhajský refuses to overclaim security. He invokes the 'mosaic effect': the cross-referencing that makes the system valuable also makes it a devastating target, because many small pieces assembled together paint a complete picture. He maps the design against Simon Willison's lethal trifecta — private data, untrusted content, and external communication. Read-only removes the natural exfiltration channels, but it does not fully break the trifecta: shell access still grants the ability to communicate externally, and data is still sent to a third-party API over a mostly-open network.
 

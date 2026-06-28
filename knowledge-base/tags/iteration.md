@@ -2,9 +2,9 @@
 
 - `INS-260627-4072` Build the eval set as a loop — start with a small dev CSV, ship when the team is confident, then mine production for the hard cases you couldn't anticipate and feed them back into the data set.
 - `INS-260626-F335` OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
+- `INS-260627-3053` With strong validators in place, you stop hand-coding and instead specify constraints, let agents generate, then verify against automation plus intuition and iterate.
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
-- `INS-260627-3053` With strong validators in place, you stop hand-coding and instead specify constraints, let agents generate, then verify against automation plus intuition and iterate.
 - `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
 - `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
 - `INS-260627-4E4A` You can parallelize and pipeline agents, but you can't fully automate building good software, because the path to a good product is curved and only walkable by iterating with taste.
@@ -51,16 +51,14 @@
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
 - `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260412-8E7E` Samsung repeatedly entered established markets late, then iterated until they became market leaders — memory chips, TVs, smartphones, displays.
-- `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260402-3866` Prepare materials to 70% completeness, then test with 4-6 people who've fundraised or invested before iterating to final form.
+- `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260410-6286` Kelly Johnson insisted Skunk Works engineers sit only steps from the shop floor because 'a stone's throw was too far away' — the shortest design-to-build feedback loop wins.
 - `INS-260404-8256` Plants produce 40 billion tons of inefficient RuBisCo rather than evolving one perfect enzyme—volume compensates for individual mediocrity.
 - `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260405-5E18` AI PMF is a continuous recalibration process, not a one-time validation milestone.
-- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
-- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260403-B448` An effective MVP delivers one complete, polished workflow rather than a broad but half-baked product, because user conviction requires depth over breadth.
 - `INS-260405-64FA` The AI era simultaneously lowers the cost of building and raises the bar for what satisfies users.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
@@ -82,6 +80,8 @@
 - `INS-260323-C5D3` Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
 - `INS-260405-0010` PMF is a dynamic equilibrium that degrades without continuous customer feedback loops.
 - `INS-260626-B77F` Ship a price point as a testable hypothesis instead of agonizing toward a 'right' price, then iterate via churn interviews and A/B tests — knowing your billing infra determines whether each change takes a day or three months.
+- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
 - `INS-260403-0C2E` China's pattern of dramatic action followed by rapid reversal — '30-year oversteering' — produces worse outcomes than incremental course correction.

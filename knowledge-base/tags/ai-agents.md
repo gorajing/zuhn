@@ -41,23 +41,23 @@
 - `INS-260405-6A6F` AI agents that can code and reason may nullify the workforce scale advantage that underpins China's tech sector.
 - `INS-260410-BD9D` AGI was supposed to chisel away at every knowledge-work task; instead API revenue is overwhelmingly coding because decades of text-based developer tooling happened to be exactly what text-processing LLMs need.
 - `INS-260505-709C` Terminal-Bench scores went 20%→80% in 18 months once it became standard. Terminal-Bench Science aims to do the same for science.
-- `INS-260627-8781` Agent operating systems need embedded control before workflow replacement scales.
-- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
-- `INS-260409-F0F5` Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
-- `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - `INS-260404-34DB` CMU's Zico Kolter argues AI agents must be designed to cooperate via game theory, not just optimize individual goals.
 - `INS-260605-077D` A company agent only needs one person to connect each integration, giving the whole team shared context that per-user personal agents can never assemble.
 - `INS-260327-368D` Just as security changed fundamentally when economic activity moved from physical to digital, it must change again as it moves from digital to autonomous AI interactions.
 - `INS-260405-A992` Embed AI agents where people already communicate rather than asking them to adopt new interfaces.
+- `INS-260627-8781` Agent operating systems need embedded control before workflow replacement scales.
+- `INS-260403-C1EB` AI agents dissolve switching costs by automating migrations, making data and trust the last real moats.
+- `INS-260409-F0F5` Google can ship personal AI agents without the trust onboarding problem because it already has calendar, email, and document access — the hardest earned privilege for new agentic products.
+- `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - `INS-260624-A338` Security agents need executable proof paths, not just plausible reports.
 - `INS-260505-A9BC` Asking an AI agent for a plan before it acts works for the same reason specific climate language predicts real reduction — intent + plan beats intent alone.
 - `INS-260627-05AD` If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps.
 - `INS-260405-1951` Claude Code built the entire Claude Cowork product with humans providing only planning and oversight, not code.
 - `INS-260627-91B3` Agent systems need spend control as much as capability control.
-- `INS-260627-B89C` CIOs cannot govern agent work they cannot see.
 - `INS-260519-20E0` Elena Verna (Lovable): humans will own the agent interface and the agent will perform the tasks — your future ICP profile includes machines.
 - `INS-260625-6A67` When agents do the coding and even some design, teams stop needing an army of juniors and become top-heavy with people who understand what and how to build.
 - `INS-260403-08D7` Top developers now orchestrate multiple AI agents in parallel, elevating strategic direction over line-by-line coding.
+- `INS-260627-B89C` CIOs cannot govern agent work they cannot see.
 - `INS-260625-D73A` Agents run many parallel experiments that mostly fail, so infra must be dirt-cheap to start and able to autoscale to production only for the few that take off.
 - `INS-260627-E1BD` Agents can't walk to another floor or ping a teammate to unblock a deploy, so the human workarounds that hid bad platform design become impossible and expose every friction point.
 - `INS-260627-102F` Prioritize DevEx investments that help humans and agents equally — they are guaranteed to pay off no matter how AI evolves.

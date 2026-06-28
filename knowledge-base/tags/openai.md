@@ -1,6 +1,7 @@
 # Tag: openai
 
 - `INS-260403-2115` McKinsey and OpenAI have both released practical frameworks for enterprise agent deployment, signaling agentic AI is entering mainstream adoption.
+- `INS-260627-4CF5` Building the model and the harness together gives you tacit knowledge of the model's habits that an external harness-builder has to reverse-engineer.
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260404-02C8` OpenAI's $3.4B in ChatGPT subscription revenue demonstrates massive consumer demand for AI tools.
 - `INS-260409-8181` Frontier AI labs are empires, not businesses — they extract more value than they return across data, labor, knowledge production, and environmental impact.
@@ -12,10 +13,9 @@
 - `INS-260403-6705` OpenAI's 2019 restructuring to attract Microsoft's $1B investment made rapid commercialization a structural inevitability, not a choice individual leaders could resist.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
-- `INS-260627-4CF5` Building the model and the harness together gives you tacit knowledge of the model's habits that an external harness-builder has to reverse-engineer.
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
-- `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260627-E4CC` Occupations with higher modeled AI exposure have not yet lost employment share or appeared disproportionately among the unemployed.
+- `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260501-4B6F` Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since.
 - `INS-260413-07F2` OpenAI, SoftBank, Oracle, and MGX announced the $500B Stargate Project at the White House in Jan 2025 and by September locked in a $300B 5-year Oracle cloud contract delivering 4.5 GW of compute.
 - `INS-260322-CCE8` Even within OpenAI, the original belief was one AGI model that subsumes everything — that's completely changed, and the future is a portfolio of specialized models for different use cases.

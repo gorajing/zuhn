@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 325 insights
+> 326 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -226,6 +226,7 @@
 - `INS-260626-B5A6` [high] Demos succeed and production fails because operational workflows—not model quality—haven't kept pace with deterministic software engineering.
 - `INS-260329-5F19` [high] AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
 - `INS-260321-167A` [high] Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
+- `INS-260628-09BA` [high] With threshold-based poisoning, partial tool removal can leave the attack alive as long as enough shares remain.
 - `INS-260626-F3AC` [high] If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 - `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260627-B093` [high] Reward peaks and deployment success peaks are not the same surface.

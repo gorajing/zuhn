@@ -58,7 +58,6 @@ stance: >-
   visits — agentic commerce is real as a trajectory but not yet as a volume
   channel
 related:
-  - INS-260322-2E33
   - INS-260410-9A20
   - INS-260627-2E48
   - INS-260603-15F4

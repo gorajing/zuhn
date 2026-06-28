@@ -94,9 +94,9 @@
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
 - `INS-260410-67EE` Paine's concept of a 'cooperative adversary' — a rival so institutionally weak that you can script-write it into self-harming moves — explains why Russia could manipulate Qing and early-republican China repeatedly while failing with Hitler's Germany.
 
-- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260405-BBC9` The most compelling recent evidence for a trend is often a leading indicator of its reversal, not its continuation.
 - `INS-260403-F653` Stories we tell about competitors often reveal what we wish we were, not what they actually are.
+- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
 - `INS-260412-FD55` Russia threatened to close its airspace over EU sanctions (2014), Dutch landing slot disputes (2017), and US military action in Syria (2018)—using one asset as leverage across completely unrelated conflicts.
 - `INS-260412-0275` The US engineered the Plaza Accord to force Japan to appreciate the yen and handicap its own exporters, despite being Japan's closest ally.
 - `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.

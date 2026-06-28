@@ -3,6 +3,7 @@
 - `INS-260327-E41B` When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260403-AFBB` AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 - `INS-260325-803C` Financial media does not sell content to viewers — it sells viewers to advertisers — which is why everything is presented as an existential threat designed to capture attention rather than inform decisions.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260327-1B60` Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
 - `INS-260423-CA05` Daniel Schmachtenberger (via Dan Koe): substrate is what something needs to exist — soil for plants, attention for media, trust for markets; when systems consume their foundation faster than it can regenerate, collapse follows.
 - `INS-260409-56E5` The ancient prescription for clarity (stillness, presence, silence) is actively opposed by the default modern attention environment.
@@ -14,4 +15,3 @@
 - `INS-260626-D65F` When money and intelligence are cheap and plentiful, the binding constraint — and therefore the moat — becomes attention and the ability to control mind-share.
 - `INS-260410-9A10` Lalit Modi explicitly called controversy 'a pillar of the IPL' and ran the player auction as a deliberately offensive 'cattle and sheep' spectacle because he knew the outrage cycle would generate more attention than any ad spend could.
 - `INS-260603-2F7E` Harvey (keynote): AI infinitely increases supply (gazillion units of code/content/video) but human consumption didn't change — 'my eyeball time, my attention is still limited' — so you produce in 2 days what took 2 months, but so does the person next to you, and you're all competing for the same fixed attention.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

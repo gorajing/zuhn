@@ -60,10 +60,8 @@ related:
   - INS-260330-BA13
   - INS-260603-6C2A
   - INS-260605-19B4
-  - INS-260625-D943
+  - INS-260628-573E
   - INS-260627-08FA
-  - INS-260605-BC6F
-  - INS-260625-BEFE
 ---
 The text-to-SQL demo deliberately did not reference the underlying user_charges table; it queried a parameterized secure view that returns only the current end user's data. The reasoning is explicit: a smart attacker could manipulate the generated query to reach other users' data, so the security boundary must be deterministic, not probabilistic. The view is virtual (cheap) and the scoping happens below the agent, where the agent cannot override it.
 

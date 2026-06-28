@@ -62,11 +62,11 @@ stance: >-
 related:
   - INS-260330-4370
   - INS-260501-5582
+  - INS-260628-2CF1
   - INS-260627-765B
   - INS-260320-1B10
   - INS-260627-EB75
   - INS-260530-D34F
-  - PRI-260406-3EF8
 ---
 Lopopolo's leverage pattern: each team member is an expert in some non-functional dimension (frontend architecture, backend scalability, product-minded UX, security, reliability). Get them to write down what 'good' looks like in their persona. Then deploy a reviewer agent per persona that runs on every push, reviews the diff through that persona's lens, surfaces P2+ concerns. This converts one engineer's review expertise into infrastructure that every agent trajectory benefits from, not a synchronous human gate. Bonus: the agent has a 'right to address feedback' but isn't bullied into accepting every comment — bias toward 'code accepted, not perfect, not drowning in minutia.' The pattern stacks: write the persona doc once, generate reviews forever.
 

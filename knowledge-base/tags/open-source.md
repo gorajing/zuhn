@@ -6,6 +6,10 @@
 - `INS-260625-EFCC` Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.
 - `INS-260328-60C7` Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers.
 - `INS-260403-58DA` Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
+- `INS-260626-239A` Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
+- `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
+- `INS-260625-1E07` Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
+- `INS-260627-B5F2` CHIA's CIRCT loop filters for clear bug reports, requires reproduction before repair, verifies fixes without agent involvement, and keeps human review in the submission path.
 - `INS-260403-36F4` AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access.
 - `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260327-1652` Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
@@ -21,10 +25,6 @@
 - `INS-260627-AF32` Agent labs sit uniquely between real engineers and the models, holding the richest dataset of real engineering work — the only thing that actually moves the needle — and every major lab quietly captures it while sharing none of it.
 - `INS-260327-BEFF` There is no internet-scale robot action data; community platforms that aggregate diverse robotic datasets from thousands of contributors will be the critical enabler for physical AI scaling.
 - `INS-260626-2B7F` Whether there are a couple or five frontier labs sets token prices, and token prices in turn govern how value is split between labs, applications, and labor — making lab market structure the biggest knowable-unknown in AI.
-- `INS-260626-239A` Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
-- `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
-- `INS-260625-1E07` Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
-- `INS-260627-B5F2` CHIA's CIRCT loop filters for clear bug reports, requires reproduction before repair, verifies fixes without agent involvement, and keeps human review in the submission path.
 - `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260605-8664` A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.
 - `INS-260605-AA90` An open-source playground app where users author and share skills lets developers discover what small models can do by building, not just watching.

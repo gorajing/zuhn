@@ -2,10 +2,10 @@
 
 - `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
 - `INS-260627-00E9` The second trapped-ion platform test validates the ARTIQ/MCP/safety-filter interface, while explicitly not claiming full closed-loop physical calibration.
+- `INS-260628-573E` ShareLock evaluates both models and MCP clients, which is the right shape for agent security because orchestration behavior is part of the attack surface.
 - `INS-260626-6F8E` Agent traces should record the scope that supplied each active capability: user, team, workspace, or run-local.
 - `INS-260626-7C7B` Zuhn should prefer search-before-install for skills and tools, with explicit approval before wiring anything in.
 - `INS-260625-E04B` MCP's adoption is driven by the classic N-by-M problem: without a protocol, every AI app must be integrated with every data system separately, but a standard layer lets each integration be built once and reused everywhere.
-- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260627-F5A8` Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260625-0A7D` MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
@@ -25,12 +25,14 @@
 - `INS-260410-8ECF` Expose MCP servers as a typed file tree of tool modules so agents load only the definitions they actually need.
 - `INS-260605-DC50` Point the agent at the right sentence instead of forcing it to read the entire book.
 - `INS-260405-2BB0` The speaker's Claude-based agent on a Raspberry Pi autonomously wrote its own Neo4j memory skill and immediately began using it to persist knowledge, with no human code involved.
+- `INS-260628-94A8` MCP update review matters as much as initial approval because ShareLock hides activation in a later initialization tool.
 - `INS-260605-BAB5` MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
 - `INS-260605-3AB7` An agent with MCP access to every system can still ship code that compiles, passes checks, and would break production because access is not understanding.
 - `INS-260605-6134` The schema is the UI for the agent; 97% of MCP tool descriptions have quality smells, so make the UI better.
 - `INS-260605-52E4` Local tools and remote tools should not share the same credential assumptions.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260605-B136` Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
+- `INS-260327-E18C` Sequoia predicts the next major wave is an agent economy, but it requires solving persistent identity, seamless communication protocols (MCP is the starting gun, not the finish line), and agent-level security.
 - `INS-260605-1821` MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
 - `INS-260605-0A68` MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
 - `INS-260626-3ACC` Agentic Resource Discovery moves tool and skill selection outside the model context into federated natural-language search.
@@ -59,6 +61,7 @@
 - `INS-260625-5BF4` Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect.
 - `INS-260627-962C` Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260626-C623` A gateway absorbs the five cross-cutting concerns (auth, authz, observability, secure connectivity, hosting) so each new MCP server only owns its business logic.
+- `INS-260628-2CF1` MCP security review must evaluate the joint behavior of the tool set, not only whether each individual tool description looks benign.
 - `INS-260626-8D48` Security teams should bless one gateway platform as a single root of trust, letting MCP development be decentralized without losing central control.
 - `INS-260626-5D7C` Generate a typed SDK from your API and expose a single 'code' tool the model writes against — Cloudflare fit an entire API into ~1,000 tokens this way.
 - `INS-260627-A0EE` Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
@@ -72,6 +75,7 @@
 - `INS-260627-8DF1` Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
 - `INS-260627-6217` A third-party MCP tool's description is integration code written by someone who doesn't know your use case, so vanilla descriptions like 'Press a key on the keyboard' give agents too little to act well.
 - `INS-260627-46EB` MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
+- `INS-260628-C5AC` Entropy spikes in MCP descriptions deserve review, but benign hashes and IDs make entropy a triage signal rather than a verdict.
 - `INS-260627-1B54` MCP exposes an asymmetry — the user approves a one-line tool summary while the LLM consumes the full description, which can hide exfiltration instructions the user never sees.
 - `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260627-1B11` The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
@@ -96,15 +100,17 @@
 - `INS-260627-DC30` If your example for a tags field shows two tags, you'll get two tags nearly every time — no matter how loudly the instructions say 'use at least 10.'
 - `INS-260627-5EB3` Going from local stdio to remote HTTP MCP flips you from zero security surface to OAuth, tokens, CORS, TLS, and rate limiting all at once, with no halfway house.
 - `INS-260627-2FFE` Move MCP auth from long-lived shared keys (confused-deputy risk) to short-lived scoped OAuth 2.1 tokens, token exchange, and CIMD-based verifiable client identity.
-- `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
-- `INS-260627-9F3F` Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.
-- `INS-260627-AB66` Centralize tool policy where calls route, not inside each agent prompt.
+- `INS-260628-278D` If a detector only classifies visible tool text, threshold-obfuscated tool poisoning can make the malicious instruction absent at scan time.
 - `INS-260605-D129` Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
 - `INS-260605-D404` Fetching the document is step one; what the agent does when the document is missing or wrong is the part RAG/MCP architectures omit.
 - `INS-260410-0C77` Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260625-75D6` Let the host fetch and render UI from a resource reference while a separate client holds the one-to-one server connection.
 - `INS-260626-C51E` Because the cross-app token exchange can re-run with no human in the loop, access tokens can be ~5 minutes long — revoking the SSO session cuts off the agent within minutes while the user never sees a prompt.
 - `INS-260605-B8AB` Tool proxies should translate authority, not pass it through.
+- `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
+- `INS-260627-9F3F` Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.
+- `INS-260627-AB66` Centralize tool policy where calls route, not inside each agent prompt.
 - `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260321-801C` Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
 - `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
+- `INS-260628-09BA` With threshold-based poisoning, partial tool removal can leave the attack alive as long as enough shares remain.

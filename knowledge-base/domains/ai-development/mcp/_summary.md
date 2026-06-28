@@ -1,9 +1,10 @@
 # Topic: mcp
 
-> 30 insights
+> 32 insights
 
 - `INS-260627-962C` [high] Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260626-3492` [high] A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved.
+- `INS-260628-2CF1` [high] MCP security review must evaluate the joint behavior of the tool set, not only whether each individual tool description looks benign.
 - `INS-260626-5D7C` [high] Generate a typed SDK from your API and expose a single 'code' tool the model writes against — Cloudflare fit an entire API into ~1,000 tokens this way.
 - `INS-260626-7359` [high] Stop building REST-to-MCP conversion tools — design the server for the agent (start from how a human would want to interact) and use MCP's rich primitives rather than flattening endpoints into tools.
 - `INS-260627-B416` [high] Every enabled MCP server injects tool descriptions into every system prompt — disable the ones you aren't using or they waste tokens and mislead the agent.
@@ -26,6 +27,7 @@
 - `INS-260626-C623` [medium] A gateway absorbs the five cross-cutting concerns (auth, authz, observability, secure connectivity, hosting) so each new MCP server only owns its business logic.
 - `INS-260626-8D48` [medium] Security teams should bless one gateway platform as a single root of trust, letting MCP development be decentralized without losing central control.
 - `INS-260627-A0EE` [medium] Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
+- `INS-260628-C5AC` [medium] Entropy spikes in MCP descriptions deserve review, but benign hashes and IDs make entropy a triage signal rather than a verdict.
 - `INS-260626-13FB` [medium] Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260627-1B11` [medium] The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
 - `INS-260627-68FC` [medium] Use MCP resources to ship the workflow guides (overview → create → execute → complete) that instruct an agent how to use your tools, not only the tools.

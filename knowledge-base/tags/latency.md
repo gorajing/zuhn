@@ -8,6 +8,7 @@
 - `INS-260625-6FC0` Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
 - `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
 - `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
+- `INS-260628-3C54` The paper's failure modes imply that consent friction and interaction checkpoints are security controls, not mere UX costs.
 - `INS-260410-CD01` Code-driven orchestration unlocks asyncio.gather across independent tool calls, collapsing sequential round-trips into one concurrent batch.
 - `INS-260627-24EB` RL taught Composer to call tools in parallel (read 10 files at once instead of one-by-one) and to search/read before editing rather than over-editing — behavioral changes that make the agent feel much faster and act more effectively, independent of token throughput.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.

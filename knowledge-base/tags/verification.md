@@ -67,8 +67,8 @@
 - `INS-260524-78D0` Woosang: left alone the model 'hacks' a quick buggy answer; forcing it to plan, verify, and explore multi-stage — then combining its idea with the human's — is what solved hard problems.
 - `INS-260409-E080` Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
-- `INS-260627-6E58` Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - `INS-260626-FDFC` The first three layers are probabilistic instructions ('asking nicely and hoping'); add a fourth deterministic layer that reads actual output and rejects facts that aren't real.
+- `INS-260627-6E58` Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - `INS-260627-25FC` The paper's strongest engineering move is to simulate the proposed script and check the resulting hardware-operation trace before live execution.
 - `INS-260627-F5F2` If the simulator sees an unmapped device, unsupported method, or unreachable review host, the filter blocks and escalates rather than allowing the action.
 - `INS-260325-FDA9` Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.

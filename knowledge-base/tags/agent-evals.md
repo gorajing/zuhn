@@ -4,6 +4,7 @@
 - `INS-260625-029F` A reliable agent must be scored on knowing when not to continue.
 - `INS-260626-1673` LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260627-9387` CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
+- `INS-260628-AF81` Measure security attacks by both compromise and normal task completion; a stealthy agent exploit succeeds because the user still gets the expected answer.
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260627-42EC` CHIA's discussion says agentic implementation accelerates idea-to-design, but evaluating performance, quality of result, and correctness becomes the dominant bottleneck.
 - `INS-260626-A0DC` CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
@@ -40,6 +41,7 @@
 - `INS-260625-9644` When a task has objective consequences, evaluate the consequence, not the prose around it.
 - `INS-260625-B096` Retry provider faults, not poor answers.
 - `INS-260625-FFDF` SWE-EVO shows that benchmark saturation on isolated tasks can hide a large capability gap on release-sized work.
+- `INS-260628-573E` ShareLock evaluates both models and MCP clients, which is the right shape for agent security because orchestration behavior is part of the attack surface.
 - `INS-260625-EC9A` The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260626-983E` The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260625-2A4F` Shared failures are often benchmark QA signals before they are leaderboard facts.

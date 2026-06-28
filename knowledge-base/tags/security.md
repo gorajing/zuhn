@@ -15,6 +15,7 @@
 - `INS-260320-1B10` Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260627-6744` Put raw DOM/page interaction in a disposable runner and return only fenced, untrusted summaries to the main agent.
+- `INS-260628-3C54` The paper's failure modes imply that consent friction and interaction checkpoints are security controls, not mere UX costs.
 - `INS-260605-8C71` Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
 - `INS-260624-E89C` Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
 - `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
@@ -61,11 +62,12 @@
 - `INS-260627-BEEB` Apply PII masking with buffer management early in the pipeline so credit card numbers, passwords, and personal data never hit the LLM's memory banks or cloud endpoint.
 - `INS-260627-5EB3` Going from local stdio to remote HTTP MCP flips you from zero security surface to OAuth, tokens, CORS, TLS, and rate limiting all at once, with no halfway house.
 - `INS-260627-2FFE` Move MCP auth from long-lived shared keys (confused-deputy risk) to short-lived scoped OAuth 2.1 tokens, token exchange, and CIMD-based verifiable client identity.
+- `INS-260628-278D` If a detector only classifies visible tool text, threshold-obfuscated tool poisoning can make the malicious instruction absent at scan time.
 - `INS-260627-89AF` CHIA uses containerization and workflow structure to keep agents from reading or modifying reference implementations, privileged PDKs, and verification infrastructure.
-- `INS-260627-AB66` Centralize tool policy where calls route, not inside each agent prompt.
 - `INS-260410-1430` Structurally isolate credentials from Claude's execution environment rather than relying on narrow token scopes, because scope-based mitigations depend on assumptions about model capability that get weaker over time.
 - `INS-260410-0C77` Desktop Extensions declare user_config with a 'sensitive: true' flag, and Claude Desktop stores those values in the OS keychain rather than leaving them in JSON files.
 - `INS-260626-C51E` Because the cross-app token exchange can re-run with no human in the loop, access tokens can be ~5 minutes long — revoking the SSO session cuts off the agent within minutes while the user never sees a prompt.
+- `INS-260627-AB66` Centralize tool policy where calls route, not inside each agent prompt.
 - `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
 - `INS-260329-8C14` The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
