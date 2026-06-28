@@ -56,11 +56,11 @@ stance: >-
   Maintaining a dedicated search engine fed by ETL from the primary database is
   a net liability that should be collapsed into the operational store.
 related:
+  - INS-260628-E857
   - INS-260625-A741
   - INS-260625-E98C
   - INS-260409-2A51
   - INS-260320-71C1
-  - INS-260404-573C
 ---
 The traditional pattern is a primary database replicating into a dedicated search service (Algolia, Elasticsearch). This introduces ETL pipelines, data duplication, and materialization lag — Attio's largest customers hit significant indexing delays as the push-based pipeline buffered in hot spots, meaning searches returned stale data. Folding full-text and vector indexes into the same store that serves the transactional workload removes the copy step entirely: indexes are transactionally consistent with writes, inheriting the primary's availability and uptime rather than requiring their own.
 

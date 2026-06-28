@@ -61,6 +61,7 @@ related:
   - INS-260627-41C2
   - INS-260410-F40F
   - INS-260605-6444
+  - INS-260628-9115
 ---
 Because prompt learning uses eval output as its training signal, the quality of that signal caps the quality of the result. The presenters stress a point teams routinely skip: people grab an off-the-shelf evaluator or write one once and forget it, but if you do not trust your eval you cannot trust any optimization built on it. Their benchmark advantage over GEPA was attributed partly to eval engineering — making the judge itself high quality.
 

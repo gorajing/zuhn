@@ -1,5 +1,6 @@
 # Tag: cost
 
+- `INS-260628-4B02` AdsMind reaches high reliability with 4.11 and 4.67 MLFF relaxations per case, roughly a 14-fold reduction versus heuristic enumeration baselines.
 - `INS-260626-F5AE` The agents generally followed context-file instructions, but that mainly produced more testing, exploration, specialized-tool use, and reasoning tokens.
 - `INS-260625-FDC1` Long-running agent gates should report success, reaction latency, and resource use together.
 - `INS-260626-6AF4` Context files increase steps, inference cost, and reasoning tokens, so a flat success rate is already a regression in efficiency.

@@ -1,8 +1,8 @@
 # Tag: ai-ux
 
 - `INS-260322-68FE` The next generation of AI apps will observe user behavior and proactively suggest actions rather than waiting for prompts.
-- `INS-260505-F164` Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
 - `INS-260329-EAFD` Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
+- `INS-260505-F164` Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
 - `INS-260628-17BE` Giving an AI a single cursor felt like 'putting a Formula 1 driver in a Prius'; the model has presence and can read many files while writing another, so the form factor should let it work in parallel.
 - `INS-260326-E7BE` Humans cannot process raw probabilistic truth — AI interfaces that present unfiltered reality will be rejected, not because users are stupid but because perception is architecturally a survival renderer.
 - `INS-260628-AF2E` Stop being a 'helicopter parent' correcting an agent word by word; become a 'character coach' who builds the nature you want the agent to have.

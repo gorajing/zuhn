@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6288 actionable insights
+Generated on 2026-06-28 | 6294 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -132,6 +132,7 @@ Generated on 2026-06-28 | 6288 actionable insights
 - [INS-260628-BDB0] Judge your eval program by three concrete capabilities — 24-hour model adoption, complaint-to-eval pipeline, and pre-ship offense — not by whether evals exist.
 - [INS-260628-33E6] Build ambitious evals for features that don't work on today's models and keep model-swapping a few keystrokes away, so each new release is an immediate go/no-go on shipping.
 - [INS-260628-2043] Build agent benchmarks on top of a real agent harness (e.g., Claude Code) across realistic end-to-end tasks and open-source the full trajectories so the scores are auditable.
+- [INS-260628-4B02] AdsMind reaches high reliability with 4.11 and 4.67 MLFF relaxations per case, roughly a 14-fold reduction versus heuristic enumeration baselines.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -509,6 +510,7 @@ Generated on 2026-06-28 | 6288 actionable insights
 - [INS-260628-34CF] Implement a subagent as a small wrapper script that launches a fresh child instance of the same agent, captures its file output, and prints it to stdout.
 - [INS-260628-EBB4] The consistent lesson from frontier labs is to stop over-complicating agents — the SOTA results come from very simple scaffolds.
 - [INS-260628-0EB2] Delegate context-heavy work to a subagent so the exploration tokens stay in its window and only the distilled answer returns to the parent.
+- [INS-260628-9115] AdsMind improves on open-loop adsorption agents by feeding each MLFF relaxation back into the planner as a correction signal.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -989,6 +991,7 @@ Generated on 2026-06-28 | 6288 actionable insights
 
 ## ai-development/evaluation
 - [INS-260627-20D7] MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
+- [INS-260628-9010] AdsMind reports success while counting dissociation, rearrangement, and missing molecular products as failures instead of filtering them away.
 
 ## ai-development/foundation-models
 - [INS-260628-04B2] Box is 'pretty anti-fine-tuning' — supporting Gemini/Llama/OpenAI/Anthropic plus constant model churn makes tuning a treadmill; prompts, cached prompts, and agentic structure win.
@@ -1178,6 +1181,7 @@ Generated on 2026-06-28 | 6288 actionable insights
 - [INS-260626-E926] Treat the context window as a budget that rots long before its nominal limit, and keep it lean and relevant via trimming, summarization, selective retrieval, compaction, and delegation to tools or sub-agents.
 - [INS-260627-11E7] Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet.
 - [INS-260627-E257] There's a gap between a model not breaking at a million tokens and actually reasoning across them — performance degrades sharply (Chroma's 'context rot') well before the limit.
+- [INS-260628-252F] AdsMind's FORBID and termination mechanisms reduce wasted relaxations but can converge to local basins or over-prune site families in edge cases.
 
 ## ai-development/llm-behavior
 - [INS-260410-0EFE] A forward pass through ~100 transformer layers is the compute budget per token, so any answer that requires real work must be spread across many intermediate tokens or offloaded to a tool.
@@ -1756,6 +1760,7 @@ Generated on 2026-06-28 | 6288 actionable insights
 - [INS-260628-930A] You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
 - [INS-260628-332A] Like a woodworker feeling the grain, you have to build directly with the model to understand its properties — layers of mockups and prototypes no longer tell you what's true.
 - [INS-260628-DA8F] Failures that look like a bad policy are usually in the infrastructure between controller and actuator — diagnose the system before retraining the model.
+- [INS-260628-0DE5] AdsMind's Analyzer turns relaxed trajectories into site types, slip events, dissociation flags, adsorption energies, and bond-integrity diagnostics.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1930,6 +1935,7 @@ Generated on 2026-06-28 | 6288 actionable insights
 ## automation/workflow-design
 - [INS-260627-E3D2] Do not accept agent-infra savings unless task correctness survives the optimization.
 - [INS-260627-47A6] An eval task is not just an intent; it is the runnable environment around the intent.
+- [INS-260628-E857] AdsMind uses MLFF relaxations to reduce search cost but still checks representative outputs against DFT/PBE.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.

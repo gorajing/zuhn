@@ -62,6 +62,7 @@ related:
   - INS-260326-DBEF
   - PRI-260328-A805
   - PRI-260328-39FA
+  - INS-260628-0DE5
 ---
 Ontological drift occurs when repeated fine-tuning — especially reinforcement learning from human feedback — gradually alters the internal definitions and boundaries of concepts within a model. The model may appear to improve on benchmarks and user satisfaction while its underlying conceptual framework slowly loses coherence. This is particularly dangerous in domains requiring precise terminology: medical diagnoses, legal language, scientific definitions, or financial instruments.
 

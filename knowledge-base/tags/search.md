@@ -1,5 +1,6 @@
 # Tag: search
 
+- `INS-260628-4B02` AdsMind reaches high reliability with 4.11 and 4.67 MLFF relaxations per case, roughly a 14-fold reduction versus heuristic enumeration baselines.
 - `INS-260625-355D` Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
 - `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.

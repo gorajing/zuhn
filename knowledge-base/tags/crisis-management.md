@@ -1,5 +1,9 @@
 # Tag: crisis-management
 
+- `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
+- `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
+- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
+- `INS-260330-7A80` Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.
 - `INS-260403-F2BF` Founders must distinguish between strategic messaging and keyboard venting before hitting send.
 - `INS-260329-409F` You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations.
 - `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
@@ -9,9 +13,9 @@
 - `INS-260404-8394` Categorize any crisis as either cash or PMF before acting, because the response strategies are fundamentally different.
 - `INS-260405-2299` Using available low-tech tools beats waiting for proper systems when speed of alignment matters.
 - `INS-260405-2C44` Visual alignment tools compress weeks of planning into hours by forcing concrete commitments.
+- `INS-260322-D69E` When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
 - `INS-260405-9015` Anthropic's Pentagon conflict drove it from #120 to #1 on the App Store—an outcome no ad campaign had achieved
 - `INS-260330-242D` Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
-- `INS-260322-D69E` When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
 - `INS-260327-B45A` When COVID cut Bolt's revenue by 85%, they chose salary cuts over layoffs, keeping the team intact and tripling market share while paralyzed competitors recovered.
 - `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260405-CADE` Crisis coordination works through distributed decision-makers with explicit commitment chains, not centralized command.
@@ -23,7 +27,3 @@
 - `INS-260327-0C56` NPS can drop 30 points overnight but takes 12-18 months of sustained product improvement to recover; there are no magic blog posts or gestures that shortcut the process.
 - `INS-260403-7CAA` Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260412-FEFA` British tabloids branded St Helena's airport 'the world's most useless airport' based on a single aborted landing, and years of successful operations couldn't undo the damage.
-- `INS-260404-B6B1` Taking full responsibility during a crisis isn't just virtuous — it functionally increases survival odds by keeping the founder in problem-solving mode rather than blame mode.
-- `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
-- `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
-- `INS-260330-7A80` Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.

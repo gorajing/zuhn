@@ -16,7 +16,7 @@
 - `INS-260325-B1D8` Sequoia-backed founder Kisson Lin: memory is to AI what data was to internet — the next moat is context accumulation, not intelligence.
 - `INS-260626-6CAE` When symbols interact, the model must learn syntax rather than count motifs.
 - `INS-260605-9362` LLMs let you preserve semantic meaning in text, so state and preferences no longer have to be flattened into flags that can't capture nuance.
-- `INS-260323-FEDF` You will never build better AI than OpenAI or Anthropic, but you can win with better contextual knowledge of a specific workflow or market.
 - `INS-260404-36F1` Technically accurate quotes stripped of context can produce a more misleading picture than outright fabrication.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
+- `INS-260323-FEDF` You will never build better AI than OpenAI or Anthropic, but you can win with better contextual knowledge of a specific workflow or market.

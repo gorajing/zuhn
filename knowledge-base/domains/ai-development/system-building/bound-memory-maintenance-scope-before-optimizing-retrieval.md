@@ -48,7 +48,7 @@ related:
   - INS-260625-99AE
   - INS-260325-9C89
   - INS-260626-1012
-  - INS-260626-A927
+  - INS-260628-E857
 ---
 In RQ5, the authors compute amortized operation latency using construction plus query time and compare it with normalized utility. Their operational rule is that localized maintenance to bounded memory regions is cost-efficient, while repeated reorganization of large global state is expensive as memory grows.
 

@@ -47,12 +47,11 @@ related:
   - INS-260321-B014
   - INS-260329-CCDE
   - INS-260329-3CB6
-  - INS-260330-033A
   - INS-260330-3AF7
   - INS-260330-73F3
   - INS-260330-B7AB
   - INS-260627-899A
+  - INS-260628-9010
   - PRI-260407-68B9
-  - PRI-260328-36C3
 ---
 Cells are complex chemical machines running billions of reactions across thousands of interlinked pathways. Mistakes are inevitable, and they accumulate — corrupting the machinery until kill switches (apoptosis) themselves fail. This reframes cancer not as a dramatic biological malfunction but as the statistical endpoint of any sufficiently complex system running long enough. The implication is that cancer prevention strategies should focus on error-rate reduction and early detection rather than expecting to eliminate the phenomenon entirely, since it's baked into the mathematics of multicellular life.

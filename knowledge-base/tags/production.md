@@ -11,6 +11,6 @@
 - `INS-260624-5865` A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260410-1ED3` In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
 - `INS-260627-0F4E` Going from one agent to N agents converts an AI problem into a distributed-systems problem whose coordination complexity grows quadratically, so the failures are architectural — stale caches, race conditions, lost updates — not model errors.
-- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260410-E47B` The Battle of the Atlantic turned not on brilliant tactics but on the moment US shipyards started building merchantmen faster than U-boats could sink them.
 - `INS-260327-D1B7` The Entente won WW1 primarily because its combined industrial output (including American manufacturing) vastly exceeded the Central Powers', allowing it to absorb losses and maintain operations indefinitely.
+- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.

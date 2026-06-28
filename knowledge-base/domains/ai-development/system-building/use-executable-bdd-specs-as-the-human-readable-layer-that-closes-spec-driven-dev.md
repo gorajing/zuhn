@@ -64,6 +64,7 @@ related:
   - INS-260627-C3CE
   - INS-260320-1B10
   - INS-260626-621D
+  - INS-260628-940A
 ---
 Cichra names the unsolved problem in spec-driven development: the spec is a markdown document describing how something should work, but nothing proves the product actually behaves that way. And verification by reading AI-generated tests is worse than reading AI-generated code — 'one thing harder than reading AI code is reading AI tests.'
 

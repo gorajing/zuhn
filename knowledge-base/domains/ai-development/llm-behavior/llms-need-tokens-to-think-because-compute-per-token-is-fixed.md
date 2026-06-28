@@ -65,7 +65,6 @@ related:
   - INS-260605-FE37
   - INS-260626-09B3
   - INS-260410-3E86
-  - INS-260410-C5A4
 ---
 A transformer's forward pass has a fixed depth — roughly 100 layers in a modern model — and that is the entire amount of computation available to produce each next token. This means you cannot expect a model to solve a multi-step problem in one token, no matter how capable the model is overall. Karpathy demonstrates this by asking a model to answer 'Emily buys 23 apples and 177 oranges...' in a single token and watching it fail, then getting the correct answer when allowed to show intermediate steps.
 

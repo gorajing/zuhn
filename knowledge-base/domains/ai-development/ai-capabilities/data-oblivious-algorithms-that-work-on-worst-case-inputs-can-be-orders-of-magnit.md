@@ -49,11 +49,11 @@ stance: >-
   guarantees come from mathematical structure rather than learning data
   statistics
 related:
-  - INS-260325-E652
   - INS-260329-7A6A
+  - INS-260325-E652
   - INS-260625-3A20
+  - INS-260628-4B02
   - INS-260409-C768
-  - INS-260603-6E59
   - INS-260410-72EC
   - INS-260410-351E
 evidence:

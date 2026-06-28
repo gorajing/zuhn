@@ -55,9 +55,9 @@ related:
   - INS-260404-9D4E
   - INS-260325-5C03
   - INS-260412-EB1F
+  - INS-260628-9010
   - PRI-260328-935B
   - PRI-260328-A4AC
-  - PRI-260328-7E58
   - INS-260412-DC05
 ---
 The global misimplementation of JIT reveals a deep incentive problem: resilience is invisible during normal operations. A manager who cuts inventory shows immediate cost savings on the quarterly report. A manager who maintains strategic buffers shows higher costs with no visible benefit — until a disruption hits. Over years of undisrupted operations, organizations systematically select for the first type of manager and against the second.

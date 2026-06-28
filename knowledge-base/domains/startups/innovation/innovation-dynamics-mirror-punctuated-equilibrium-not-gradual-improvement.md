@@ -67,6 +67,7 @@ related:
   - PRI-260323-0F93
   - PRI-260406-3AE8
   - INS-260514-DDA9
+  - INS-260628-252F
 ---
 Douglas's 2025 model found saltative branching in systems as different as enzymes and Indo-European language trees, suggesting a universal pattern: stability for long stretches, then rapid reorganization when a system hits a branch point. Technology and market evolution arguably show the same shape — smartphones, cloud computing, transformers, each a multi-year quiet period followed by an explosive transition window.
 

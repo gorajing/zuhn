@@ -47,10 +47,10 @@ stance: >-
   compute scaling.
 related:
   - INS-260321-BFA3
+  - INS-260628-E857
   - INS-260404-573C
   - INS-260410-022B
   - INS-260329-8D70
-  - INS-260329-CBF6
   - INS-260329-01F2
   - INS-260329-A86F
   - INS-260329-4986

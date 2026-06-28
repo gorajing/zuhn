@@ -46,7 +46,6 @@ stance: >-
   X-ray crystallography era look like manual transcription before the printing
   press.
 related:
-  - INS-260405-0AE7
   - INS-260505-A38E
   - INS-260505-02F8
   - PRI-260411-FB73

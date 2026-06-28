@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-28 | 3368 sources
+Generated on 2026-06-28 | 3369 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -255,6 +255,7 @@ Generated on 2026-06-28 | 3368 sources
 | Stanford Medical Center | audio | 7 | 2026-06-24 |
 | Automated HER2 scoring with uncertainty quantification using lensfree holography and deep learning | paste | 7 | 2026-06-27 |
 | A practical guide to building agents | blog | 7 | 2026-06-05 |
+| AdsMind: A Physics-Grounded Multi-Agent System for Self-Correcting Discovery of Adsorption Configurations on Heterogeneous Catalyst Surfaces | blog | 7 | 2026-06-28 |
 | AI decodes the language of genes: A new look inside the “control center” of plants | blog | 7 | 2026-06-27 |
 | AI support tool improved clinician decisions in real-world primary care trial | blog | 7 | 2026-06-26 |
 | Algorithm-hardware co-design of neuromorphic networks with dual memory pathways | blog | 7 | 2026-06-28 |

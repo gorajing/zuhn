@@ -3,6 +3,7 @@
 - `INS-260627-8B75` Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260625-029F` A reliable agent must be scored on knowing when not to continue.
 - `INS-260626-1673` LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
+- `INS-260628-4B02` AdsMind reaches high reliability with 4.11 and 4.67 MLFF relaxations per case, roughly a 14-fold reduction versus heuristic enumeration baselines.
 - `INS-260627-9387` CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
 - `INS-260628-AF81` Measure security attacks by both compromise and normal task completion; a stealthy agent exploit succeeds because the user still gets the expected answer.
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.

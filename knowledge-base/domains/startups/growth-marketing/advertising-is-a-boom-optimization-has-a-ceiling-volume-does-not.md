@@ -47,7 +47,6 @@ stance: >-
   optimization because optimization is capped at 100% while advertising reach
   can scale 100x.
 related:
-  - INS-260325-9C89
   - INS-260327-F8EB
   - INS-260329-49A4
   - INS-260329-6859
@@ -57,6 +56,7 @@ related:
   - INS-260329-F2E1
   - PRI-260328-C918
   - INS-260403-9482
+  - INS-260412-021A
 evidence:
   - id: INS-260325-9C89
     type: TRANSFERS_TO

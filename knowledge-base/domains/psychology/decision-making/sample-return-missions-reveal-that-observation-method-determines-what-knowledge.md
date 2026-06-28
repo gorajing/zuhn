@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-1709
   - INS-260330-FEDD
+  - INS-260628-9010
   - INS-260325-5ACA
   - INS-260412-3090
-  - INS-260403-637C
 ---
 The OSIRIS-REx mission's pristine asteroid samples revealed ribose, glucose, and a novel gum-like polymer—compounds that don't survive atmospheric entry and therefore never appear in meteorite studies. Scientists had been analyzing meteorites for decades without finding these molecules, not because they weren't looking, but because their collection method made discovery impossible.
 

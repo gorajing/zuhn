@@ -1,11 +1,12 @@
 # Topic: agent-evals
 
-> 112 insights
+> 113 insights
 
 - `INS-260627-27E0` [high] A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
 - `INS-260625-D842` [high] Detection does not count unless it changes the gate outcome.
 - `INS-260627-8B75` [high] Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
+- `INS-260628-4B02` [high] AdsMind reaches high reliability with 4.11 and 4.67 MLFF relaxations per case, roughly a 14-fold reduction versus heuristic enumeration baselines.
 - `INS-260625-1830` [high] Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260628-AF81` [high] Measure security attacks by both compromise and normal task completion; a stealthy agent exploit succeeds because the user still gets the expected answer.
 - `INS-260625-0021` [high] Agentic systems introduce a stacked hierarchy of failure modes — memory/retrieval/safety at the base, reasoning/planning/tool errors in the middle, multi-agent coordination at the top — so evaluating only model output misses most production risk.

@@ -56,6 +56,7 @@ related:
   - INS-260412-DD79
   - INS-260412-0540
   - PRI-260323-0F93
+  - INS-260628-0DE5
 ---
 In the Big Rip scenario, gravity holds galaxies together even as intergalactic space expands — until expansion accelerates past the threshold where gravity can compensate. Then galaxies tear apart, then solar systems, then atoms. The binding force that works at one scale becomes irrelevant at the next.
 

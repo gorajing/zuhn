@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 45 insights
+> 46 insights
 
 - `INS-260403-3852` [high] Nearly every startup in the Speedrun batch frames itself as an AI agent or autonomous worker for a specific industry vertical rather than a horizontal platform.
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
@@ -29,6 +29,7 @@
 - `INS-260403-EBC3` [medium] Andreessen Horowitz's AI x Commerce thesis argues AI will reshape how consumers discover and purchase products, creating massive startup opportunities.
 - `INS-260405-615E` [medium] Platform companies are acquiring agentic workflow capability to embed automation into existing distribution, not to win on model benchmarks.
 - `INS-260322-88C3` [medium] AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
+- `INS-260628-940A` [medium] AdsMind's reusable value comes from structured chemical-slip histories, benchmark manifests, frozen runtime settings, and DFT validation, not from any single hosted LLM backend.
 - `INS-260403-7B3B` [medium] AI influencer agencies eliminate talent management costs while capturing the full revenue stream that traditionally splits between creator and agency.
 - `INS-260405-CF27` [medium] Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.
 - `INS-260405-D098` [medium] AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
