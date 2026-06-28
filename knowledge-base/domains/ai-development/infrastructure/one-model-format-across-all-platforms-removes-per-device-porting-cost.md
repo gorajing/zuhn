@@ -54,6 +54,7 @@ related:
   - INS-260605-5A8E
   - INS-260626-763B
   - INS-260322-B09B
+  - INS-260628-17BE
 ---
 LiteRT's core pitch is that one TFLite model file runs across Android, iOS, macOS, Linux, Windows, web, and even IoT (Raspberry Pi), with conversion paths from PyTorch and JAX into that single format. The rebrand from 'TensorFlow Lite' to 'LiteRT' was partly to signal this multi-framework intake — bring any model, convert once, deploy everywhere. The deployment moat is the format and runtime, not any single platform.
 

@@ -43,7 +43,6 @@ stance: >-
 related:
   - INS-260323-DA4A
   - INS-260327-FC68
-  - INS-260330-AC7F
   - INS-260403-EA93
   - INS-260403-C4BE
   - INS-260409-BC1E
@@ -51,6 +50,7 @@ related:
   - INS-260410-E233
   - INS-260603-6C2A
   - INS-260605-1C30
+  - PRI-260403-9E80
 ---
 The talk's failure example was not a model refusing instructions; it was an agent correctly using an overbroad Postmark-style API key to manipulate resources the builder did not intend it to touch. The lesson is that agent alignment at product scale is partly ordinary systems security: scoped credentials, provisioned environments, and explicit allowed tools.
 

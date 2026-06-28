@@ -1,6 +1,7 @@
 # Tag: sandboxing
 
 - `INS-260410-D04D` Bubblewrap on Linux and seatbelt on macOS provide subprocess-inclusive sandbox boundaries without container overhead.
+- `INS-260628-EF78` Before deploying an agent, classify it on three dimensions — does it process untrustworthy input, access sensitive data, and change state or communicate externally — and treat lower-risk as still-not-no-risk.
 - `INS-260619-F7E3` Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
 - `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.
 - `INS-260605-41AE` Cloud agents run in isolated GitHub Actions sandboxes with whitelisted network access and no permission to push to main, so even a misbehaving agent is contained.

@@ -53,7 +53,7 @@ related:
   - INS-260330-B3D9
   - INS-260330-36B4
   - INS-260330-625B
-  - INS-260514-CCBF
+  - INS-260628-6714
 ---
 Mo Bitar's read on Meta's screen-recording program: AI models need data at scales that have exhausted public sources. The next move is corporate surveillance of their own employees — Meta requires the digital equivalent of a GoPro running 9-to-5. The doomer narrative around AI job displacement (which Meta itself promotes) softens the labor position enough that employees accept this. First they spook you, then they shackle you. Other companies will follow the same playbook.
 

@@ -1,9 +1,10 @@
 # Topic: agent-patterns
 
-> 499 insights
+> 503 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
+- `INS-260628-34CF` [high] Implement a subagent as a small wrapper script that launches a fresh child instance of the same agent, captures its file output, and prints it to stdout.
 - `INS-260626-4BC2` [high] Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260625-23CF` [high] A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
 - `INS-260321-2482` [high] When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
@@ -236,6 +237,7 @@
 - `INS-260625-C697` [high] Let LLMs explore and recommend non-deterministically, but bind credentials, amounts, and checkout to deterministic, constrained, verifiable flows.
 - `INS-260628-94A8` [high] MCP update review matters as much as initial approval because ShareLock hides activation in a later initialization tool.
 - `INS-260327-26BF` [high] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
+- `INS-260628-EBB4` [high] The consistent lesson from frontier labs is to stop over-complicating agents — the SOTA results come from very simple scaffolds.
 - `INS-260626-5053` [high] A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
 - `INS-260605-BAB5` [high] MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
 - `INS-260627-D456` [high] A skill's description field is the load trigger: agents pull a skill into context only when its description signals relevance, keeping the context window lean as the capability library grows.
@@ -260,6 +262,7 @@
 - `INS-260628-C374` [high] Use sub-agents to offload reading/searching in a separate context window and return a succinct answer to the parent — not to model human team roles.
 - `INS-260627-85C7` [high] Sub-agents are the subroutine analog for agents — they run a subtask in a separate context window and return only the relevant results, conserving the main agent's context.
 - `INS-260605-5078` [high] Push dedicated, independent pieces of work off the main context thread into sub-agents and bring back only a short summary, because LLM-summarization-based compaction of the main thread is lossy.
+- `INS-260628-0EB2` [high] Delegate context-heavy work to a subagent so the exploration tokens stay in its window and only the distilled answer returns to the parent.
 - `INS-260410-E4C4` [high] 'Is this beautiful?' is unanswerable, but 'does this follow our design principles?' gives the model something concrete to grade against.
 - `INS-260605-CEB5` [high] Give the agent a single search endpoint over your docs rather than 500 fetchable pages, and instrument it to learn which problems users hit.
 - `INS-260423-72D0` [high] Cody: this isn't go open Claude Code and give it access to everything — I'm talking about specific jobs-to-be-done workflows custom-made for how you operate day-to-day.
@@ -378,6 +381,7 @@
 - `INS-260624-6753` [medium] High-stakes agent findings should be checked by heterogeneous reviewers.
 - `INS-260605-6CBF` [medium] Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
 - `INS-260605-B182` [medium] Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
+- `INS-260628-17BE` [medium] Giving an AI a single cursor felt like 'putting a Formula 1 driver in a Prius'; the model has presence and can read many files while writing another, so the form factor should let it work in parallel.
 - `INS-260626-239A` [medium] Agents want open APIs and code, not websites — so stop fighting the model and support its natural inclination.
 - `INS-260624-223D` [medium] The model is one component; the enterprise action layer is a DAG runtime for task decomposition, planning, parallel execution, and recovery.
 - `INS-260321-9EBB` [medium] Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.

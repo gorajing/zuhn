@@ -51,7 +51,6 @@ stance: >-
   checklists close deals faster and with fewer post-term-sheet surprises than
   those who go deeper but ad hoc.
 related:
-  - INS-260328-A46F
   - INS-260403-082C
   - PRI-260406-DA72
   - INS-260405-0D9F

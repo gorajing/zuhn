@@ -57,7 +57,7 @@ related:
   - INS-260605-D055
   - INS-260330-7E4F
   - INS-260424-7A03
-  - PRI-260406-E5FB
+  - INS-260628-16B9
 ---
 The obvious framing of sub-agents is decomposition for throughput: split a master task into independent slices, run them in parallel, collate. But the speaker's most valuable examples are divergent rather than decompositional. For security, you point many agents at the same diff or repo and ask each to pursue a different hypothesis, producing a 'vulnerability map' from multiple points of view. For feature work, he asks Codex to enumerate five-to-ten different ways a feature could be implemented and then spins up sub-agents to explore each. The cloud 'best of N' feature runs the same task four times in parallel and lets you pick the best output.
 

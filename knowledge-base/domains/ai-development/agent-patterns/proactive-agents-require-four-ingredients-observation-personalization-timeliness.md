@@ -57,9 +57,9 @@ related:
   - INS-260327-F7BD
   - INS-260403-D2A5
   - INS-260501-22AD
+  - INS-260628-6420
   - PRI-260328-AC85
   - INS-260321-33FC
-  - INS-260403-E099
 ---
 Korevec decomposes proactive systems into four essential ingredients. Observation: the agent must continually understand code changes, patterns, and workflow to hold context on the whole project. Personalization (the hardest): it must learn how you work, what you care about, what you ignore, and the code you never want touched. Timeliness: intervene too soon and it interrupts; too late and the moment is lost. Seamless integration: it must live where you already work — terminal, repo, IDE — not in a separate app you have to remember.
 

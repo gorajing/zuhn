@@ -59,6 +59,7 @@ related:
   - INS-260627-F805
   - INS-260627-8392
   - INS-260625-D1F9
+  - INS-260628-C95B
   - INS-260627-DB17
 ---
 A query-by-model correctness matrix is enough to measure co-failure and oracle disagreement, but not enough to prove a router can act. The router needs pre-answer features: prompt text, task type, available tools, budget constraints, and any metadata visible at dispatch time. Agent eval infrastructure should therefore log both the state the router sees and each candidate model's outcome. Without that, the honest claim is only a ceiling certificate, not an end-to-end routing result.

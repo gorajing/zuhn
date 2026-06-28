@@ -57,7 +57,7 @@ related:
   - INS-260627-21D0
   - INS-260628-492E
   - INS-260628-E0D2
-  - INS-260321-82FE
+  - INS-260628-0EB2
 ---
 The defining move of an RLM is that 'the context itself is the object of computation.' Rather than reading a large corpus into the context window, the agent treats the full prompt as a variable — a file or many files — and operates on it symbolically through a read-evaluate-print loop (Python in the original paper, but it can be bash over a Linux filesystem, as in OpenProse's Unix RLM). The agent pokes around symbolically and dispatches sub-agents to manipulate slices of the prompt, then works back up to a final answer.
 

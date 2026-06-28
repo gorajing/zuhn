@@ -43,7 +43,6 @@ stance: >-
   build, not just design.
 related:
   - INS-260329-808C
-  - INS-260330-3257
   - INS-260403-4D4D
   - INS-260409-6AEB
   - INS-260501-52B5

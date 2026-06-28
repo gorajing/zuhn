@@ -49,11 +49,11 @@ stance: >-
   Using weighted factor analysis in spreadsheets for major decisions like career
   choice produces more rational outcomes than intuitive gut-feel deliberation
 related:
+  - INS-260628-2C38
   - INS-260627-915A
   - INS-260409-4FEB
   - INS-260402-CCC3
   - INS-260329-89E9
-  - INS-260404-4D7F
 evidence:
   - id: INS-260402-CCC3
     type: CONTRADICTS

@@ -52,7 +52,6 @@ stance: >-
   LLM writes on the fly is no more trustworthy than untrusted third-party code.
 related:
   - INS-260403-2FAE
-  - INS-260410-D04D
   - INS-260626-E7C4
   - INS-260625-DCE4
   - INS-260619-F7E3

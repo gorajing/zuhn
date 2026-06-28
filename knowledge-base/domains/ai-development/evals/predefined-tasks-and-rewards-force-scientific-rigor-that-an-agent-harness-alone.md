@@ -59,6 +59,7 @@ related:
   - INS-260627-0F8C
   - INS-260605-6444
   - INS-260625-D1F9
+  - INS-260628-8DD0
 ---
 Brown draws a sharp line between an agent harness and an agent environment: the environment additionally demands predefined tasks and a reward/measurement rubric. That one requirement is what forces discipline. With a bare harness you can 'vibe check' — run it a few times, decide it looks good, and ship. With an environment you are compelled to ask the scientific questions: try different models, sweep hyperparameters, inspect the data, define what 'good' actually means as a measurable signal.
 

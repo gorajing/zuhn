@@ -60,10 +60,10 @@ stance: >-
   structurally cannot.
 related:
   - INS-260627-1EC5
+  - INS-260628-9D66
   - INS-260423-2B80
   - INS-260626-A893
   - INS-260322-A36C
-  - PRI-260323-2E5A
 ---
 Fidelity is not a property of the output alone — it is a relation between the output and the documentary record. You cannot evaluate a relation to a record using something that has not read the record. An automated metric or LLM-as-judge operates on the model alone, so it can only report fluency and personality; it structurally cannot adjudicate fidelity, because fidelity lives in the gap between the text and the archive and the metric cannot see the archive. Hence the slogan: a persona system without a domain expert in its evaluation loop is a thermometer that cannot read temperature.
 

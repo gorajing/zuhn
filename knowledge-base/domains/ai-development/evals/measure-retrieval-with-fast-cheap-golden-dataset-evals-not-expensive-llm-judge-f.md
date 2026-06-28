@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260625-0E60
   - INS-260625-8A55
+  - INS-260628-A747
   - INS-260626-8747
-  - INS-260627-D21B
-  - INS-260605-2186
+  - INS-260628-C95B
 ---
 Huber's core contention is that you can only manage what you measure, and the binding constraint on improving a retrieval system is experimentation velocity. The dominant alternatives are bad: guessing, public benchmarks, or LLM-as-judge frameworks that 'cost $600 and take three hours to run.' When an eval takes six hours, you stop experimenting.
 

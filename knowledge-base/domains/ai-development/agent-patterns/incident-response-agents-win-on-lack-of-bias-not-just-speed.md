@@ -56,10 +56,10 @@ related:
   - INS-260403-C584
   - INS-260402-CC68
   - INS-260627-02E1
+  - INS-260628-EF78
   - INS-260625-019F
   - INS-260327-E0B0
   - PRI-260406-F95C
-  - INS-260625-A4DE
 ---
 Bloomberg is building incident-response agents because instance handling is a place where productivity and stability take a real hit. The obvious benefit is speed: an agent can sweep the codebase, telemetry, feature flags, and distributed traces far faster than a human. But Zhang highlights a less obvious advantage — the agent is unbiased. Human troubleshooters carry confirmation bias ('it must be this'), which frequently turns out to be wrong; an AI approaches the evidence with a fresh, unbiased lens each time.
 

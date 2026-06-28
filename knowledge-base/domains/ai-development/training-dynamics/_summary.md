@@ -1,6 +1,6 @@
 # Topic: training-dynamics
 
-> 30 insights
+> 32 insights
 
 - `INS-260627-AF4E` [high] You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
 - `INS-260410-78D3` [high] For composed operations like softmax+cross-entropy, pen-and-paper differentiation produces gradient expressions vastly shorter than autograd's atomic chain — which is why every serious framework ships fused backward kernels for them.
@@ -25,6 +25,7 @@
 - `INS-260410-6FA3` [high] Track log10(std(lr * grad) / std(param)) per layer during training and aim for roughly -3 — if it's much lower the network trains too slowly, if higher it's likely unstable, and per-layer asymmetry reveals miscalibrated initialization.
 - `INS-260627-AFD7` [medium] The meta-controller's value depends entirely on training it well under sparse rewards — that training, not the strategies it picks, is where the difficulty moves.
 - `INS-260627-FCAE` [medium] Small batch sizes let environment randomness and a narrow slice of opponents dominate each weight update, reinforcing suboptimal strategies and causing unstable training or collapse.
+- `INS-260628-EBA5` [medium] Stage RL by problem difficulty (medium then hard) for steady gains, but never stage by context length—progressive context curricula make a long-context model forget its long-context ability irrecoverably.
 - `INS-260605-5CCC` [medium] For a character-level Shakespeare model, loss falls through known milestones — ~4.17 (random) to 3.3 (char frequencies) to 2.5 (common words like 'th'/'in') to 1.5-2 (real words) to 1.0-1.2 (names and sense) to <1.0 (overfitting).
 - `INS-260627-63F2` [medium] CWM's async RL eliminates pipeline stalls by queuing many checkpoints into samplers and many trajectories into trainers, so neither side waits — and it stays near-on-policy because high data volume absorbs the staleness.
 - `INS-260624-37C3` [medium] Long agent rollouts make inference speed a core training-system constraint.
@@ -32,3 +33,4 @@
 - `INS-260627-6A8B` [medium] Because an RL reward is just one bit (right/wrong) while SFT supervises every token, RL can reach the same accuracy with vastly fewer trainable parameters — even single digits.
 - `INS-260627-699E` [medium] RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
 - `INS-260625-B5A8` [medium] Across single-table-only, mixed, and curriculum (single-then-multi) training regimes, single-table-only gave the greatest uplift — and still produced a similar ~2x jump (13.9% to 26.6%) on the harder multi-table benchmark it never trained on.
+- `INS-260628-3B84` [medium] Compute code-RL loss as a per-token average rather than per-sequence to converge faster and remove the incentive to generate very short template answers that game the reward.

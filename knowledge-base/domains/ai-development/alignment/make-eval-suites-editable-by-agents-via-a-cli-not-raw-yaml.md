@@ -53,9 +53,10 @@ related:
   - INS-260410-AF66
   - INS-260627-D21B
   - INS-260627-4072
+  - INS-260628-8649
+  - INS-260628-C95B
   - INS-260626-B149
-  - INS-260626-60C2
-  - INS-260625-D1F9
+  - INS-260628-8DD0
 ---
 incident.io treats evals as AI unit tests: each takes input data, runs a prompt, and grades the output against criteria, living in YAML files next to the Go prompts. The problem is realistic production evals can embed an entire incident report — multi-megabyte YAML that becomes unmaintainable and immediately exhausts a coding agent's context limit when read directly. A 'steal an eval from production' button made capture easy but produced unwieldy, unfocused test cases.
 

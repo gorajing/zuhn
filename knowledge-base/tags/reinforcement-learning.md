@@ -15,15 +15,17 @@
 - `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
 - `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
+- `INS-260628-16B9` Different RL task types demand different system designs—co-locate training and inference for short reasoning, decouple them for slow agent rollouts so stragglers don't stall the pipeline.
 - `INS-260627-FF6C` In synchronous RL, step time is dictated by the longest sample, so a heavy completion-time tail leaves most GPUs idle.
-- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
-- `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it.
 - `INS-260410-9FE6` Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
+- `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
+- `INS-260628-7548` On scientific reasoning, training on a small clean set of expert-verified questions beats a larger mixed-quality set—data quality matters more than raw size.
 - `INS-260410-E1D9` Imitation learning is RL where the episode is one token long and reward is how well the next token was predicted.
 - `INS-260627-899A` The DAgger/out-of-distribution problem from robotics explains why a browser agent that meets an unseen pop-up gets catastrophically confused: small deviations compound because actions change future states.
 - `INS-260627-D73F` Pipeline RL dedicates separate GPU pools to sampling and training and pushes new weights to samplers mid-sample, so GPUs never wait.
@@ -47,6 +49,7 @@
 - `INS-260626-BA05` RL crushes a whole trajectory of real-world correction into one reward scalar; SDPO instead gives a teacher privileged hints and matches the student to it, training on actual text guidance.
 - `INS-260625-801B` RL has headwinds in subjective fields where two experts disagree; it takes off where implementation is provably correct or wrong, which predicts which jobs agents automate first.
 - `INS-260627-AF4E` You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment.
+- `INS-260628-EBA5` Stage RL by problem difficulty (medium then hard) for steady gains, but never stage by context length—progressive context curricula make a long-context model forget its long-context ability irrecoverably.
 - `INS-260627-63F2` CWM's async RL eliminates pipeline stalls by queuing many checkpoints into samplers and many trajectories into trainers, so neither side waits — and it stays near-on-policy because high data volume absorbs the staleness.
 - `INS-260627-6A8B` Because an RL reward is just one bit (right/wrong) while SFT supervises every token, RL can reach the same accuracy with vastly fewer trainable parameters — even single digits.
 - `INS-260625-D790` The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
@@ -55,8 +58,9 @@
 - `INS-260627-699E` RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
 - `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - `INS-260627-C70B` Cursor's RL goal was to mirror the production cursor environment 'as close as we possibly can' — same tools, same tool format, same tool responses — and the payoff is a model that becomes a 'power user' of tools like semantic search because it trained in exactly the environment it runs in.
+- `INS-260628-3B84` Compute code-RL loss as a per-token average rather than per-sequence to converge faster and remove the incentive to generate very short template answers that game the reward.
 - `INS-260627-01E1` Microrobot autonomy improves when RL is trained against the deployment physics, not toy channels.
+- `INS-260327-7B0C` AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
+- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260410-8F8C` Humans learn through a blend of imitation and reward-seeking, so ML paradigms that insist on purity are chasing an idealization biology never honored.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
-- `INS-260327-94FE` Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
-- `INS-260327-7B0C` AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.

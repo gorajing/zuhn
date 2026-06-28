@@ -69,8 +69,8 @@ related:
   - INS-260321-F864
   - INS-260403-36EC
   - INS-260409-4719
+  - INS-260628-302C
   - PRI-260328-C006
-  - INS-260625-50A0
 ---
 Origin: John McCarthy rejected his earlier name 'automata studies' for 'artificial intelligence' in 1956 specifically because pegging the field to recreating human intelligence was ambitious and mobilizing. Some of his colleagues were concerned about this choice precisely because human intelligence has no scientific definition.
 

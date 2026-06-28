@@ -67,6 +67,7 @@ related:
   - INS-260505-A0F7
   - INS-260625-E500
   - INS-260403-9774
+  - INS-260628-BEC2
   - INS-260625-DF0F
 ---
 Text prompts are the canonical control signal, but users increasingly want more than text can express: reference-based generation (put yourself in a video by conditioning on a photo, not by describing your appearance), explicit camera-motion control, and precise event timing — things you shouldn't 'shoehorn into a textual representation.' The structural problem is that you don't have this conditioning information for most of your pre-training corpus.

@@ -15,5 +15,7 @@
 - `INS-260627-9298` Use a 'Swiss cheese' stack — model alignment, harness-level AST parsing and permissions, and network/filesystem sandboxing — so no single failure compromises a bash-powered agent.
 - `INS-260626-FC7A` AI SDK 7 turns per-tool context, approval policies, HMAC-bound approval replay, and timeouts into explicit runtime controls.
 - `INS-260627-9F3F` Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.
+- `INS-260628-1610` Write the agent name and query to files and run a constant command, rather than passing them as CLI arguments, so the permission system sees the same command every time.
+- `INS-260628-8C7D` Expect the bulk of the effort in sandboxed subagents to be discovering the minimum permissions, since the sandbox blocks child processes from credentials, file writes, and logging outside the workspace.
 - `INS-260626-9BC5` A canonical agent manifest can preserve declarations across tools, but each harness still needs an enforcement audit.
 - `INS-260330-4E68` Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.

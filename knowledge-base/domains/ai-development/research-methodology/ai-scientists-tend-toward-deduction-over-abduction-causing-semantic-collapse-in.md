@@ -64,7 +64,7 @@ related:
   - PRI-260413-B2FF
   - INS-260330-B5D2
   - PRI-260323-A33E
-  - INS-260410-4E62
+  - INS-260628-BEC2
 ---
 James Evans's analysis: looking at the space of all scientific papers, a model that predicts 95% of next-year paper production also predicts most of NEXT YEAR's papers. But it does NOT predict the BEST papers — unpredictability of important papers is the best ex-ante predictor of importance, in physical and biological sciences. Real science operates by abduction (surprising claims that violate expectations), not deduction (inference from established axioms). AI systems are compression engines that operate by deduction by construction. Result: when AI does science, the output systematically clusters in the predictable, deductive zone. Run AI-generated papers (millions of them now from research startup agents) and Evans's group finds 'massive increase in syntactic diversity' but 'collapse in semantic and conceptual diversity' — they say things in different ways but say similar things.
 

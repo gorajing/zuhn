@@ -50,8 +50,8 @@ related:
   - INS-260410-B3C2
   - INS-260627-068D
   - INS-260410-E3BB
+  - INS-260628-3746
   - INS-260627-7541
-  - INS-260605-4A94
 ---
 In NOVA's experiments, LPR measures locally valid candidates, SFR measures runnable candidates that are negative or ineffective, and EPR measures end-to-end effective candidates. This decomposition exposes whether a method fails by generating invalid code, by generating valid but useless changes, or by failing to produce production-positive modifications.
 

@@ -54,9 +54,9 @@ related:
   - INS-260410-F682
   - INS-260505-3608
   - INS-260627-A81B
+  - INS-260628-5ACA
   - INS-260625-9C3B
   - INS-260514-3A62
-  - INS-260627-6846
 ---
 The common diagnosis 'AI is non-deterministic' misidentifies the real problem. Non-determinism is largely controllable — set temperature to zero, constrain outputs through a workflow, and it stops biting you in practice. The property that genuinely makes building with LLMs hard is brittleness, or technically Lipschitz discontinuity: two inputs that differ only slightly in syntax, semantics, or surface form can yield dramatically divergent outputs. Public failures (Air Canada's hallucinating support bot, a Chevy portal selling a truck for $1) are all manifestations of this input-space sensitivity, and they recur weekly.
 

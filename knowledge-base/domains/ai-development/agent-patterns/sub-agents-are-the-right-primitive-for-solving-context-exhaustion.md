@@ -51,10 +51,10 @@ related:
   - INS-260327-FE24
   - PRI-260328-A65A
   - INS-260405-8166
-  - INS-260320-63D3
-  - INS-260409-086A
   - INS-260410-E977
   - INS-260410-D92A
   - INS-260410-796F
+  - INS-260514-F58B
+  - INS-260514-5914
 ---
 Every good coding agent hits context exhaustion: it greps and reads files to gather context first, leaving little window left for editing, so it stops prematurely. The naive fix — prompt it to read less so it can iterate more on edits — triggers the opposite failure, a 'doom loop' where it never gathers enough context, never figures out what to do, and retries the same thing endlessly. The real fix is sub-agents, which are the agentic analog of subroutine calls: a subtask runs in its own separate context window, does all its reading and grepping there, and returns only the relevant results to the main window. This factors out the context cost of subtasks, effectively conserving and extending the main agent's usable context. The pattern reframes context management from a single-window budgeting problem into a call-stack design problem.

@@ -8,6 +8,7 @@
 - `INS-260625-6178` Hybrid agent artifacts need hybrid evaluators, not separate code and prompt checks.
 - `INS-260627-42EC` CHIA's discussion says agentic implementation accelerates idea-to-design, but evaluating performance, quality of result, and correctness becomes the dominant bottleneck.
 - `INS-260626-A0DC` CTX BENCH exists because standard popular-repo coding benchmarks do not contain many developer-committed context files.
+- `INS-260628-2043` Build agent benchmarks on top of a real agent harness (e.g., Claude Code) across realistic end-to-end tasks and open-source the full trajectories so the scores are auditable.
 - `INS-260625-ED7E` METR's realistic PR tasks produced slowdown even while benchmark tasks can show impressive model success.
 - `INS-260627-6FE0` Don't let eval-building block you — ship something scrappy, start with a binary good/bad gate, then decompose into granular continuous criteria as you learn what 'good' means.
 - `INS-260625-4D09` METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.

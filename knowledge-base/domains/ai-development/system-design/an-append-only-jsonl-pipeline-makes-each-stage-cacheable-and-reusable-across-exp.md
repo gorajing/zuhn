@@ -52,6 +52,6 @@ related:
   - INS-260605-EF9D
   - PRI-260411-D39C
   - PRI-260328-DF2D
-  - INS-260409-A0B4
+  - INS-260628-9322
 ---
 Zed's whole pipeline is JSONL — each line is one giant JSON object, and each stage simply adds or rearranges fields rather than rewriting the record. The payoff is that the expensive upstream work (distilling and repairing teacher predictions) is identical across experiments and can be cached once, then many student-training experiments run on top of it. The experiment-specific divergence happens late, at a 'prompt formatting' stage that decides whether to include diagnostics, how much edit history to include, and so on. The design lesson generalizes beyond ML: when you have a costly deterministic prefix and many cheap variant tails, push the variation as late as possible and make the shared prefix a cached artifact.

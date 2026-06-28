@@ -67,6 +67,7 @@ related:
   - INS-260625-6127
   - INS-260625-E7CD
   - INS-260626-A027
+  - INS-260628-6714
 ---
 Execution state—open files, in-memory datasets, running dev servers, subprocesses—can't be reconstructed from an append-only log, and keeping the machine running while the user is at lunch is too expensive. The answer is snapshot-and-restore: capture the machine to disk, shut it down, and restore it when the next message comes in. This also enables targeted error recovery: if the LLM provider tells you to retry in 15 minutes, you snapshot rather than wait in memory; if the machine itself crashes or you shipped a bug, you fall back to rebuilding from the context log.
 

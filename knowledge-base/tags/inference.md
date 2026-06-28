@@ -29,7 +29,7 @@
 - `INS-260624-37C3` Long agent rollouts make inference speed a core training-system constraint.
 - `INS-260624-93AC` Train/inference mismatch is not one bug class; it decomposes into temporal, precision, and kernel mismatch.
 - `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
-- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
 - `INS-260409-4CBB` Convergent evolution of intelligence in birds and mammals, winged flight in birds and bats, and camera-eyes in octopuses and mammals is cumulative evidence that these functions have narrow optimal solutions that any sufficient search process will find.
 - `INS-260409-A8F4` You cannot infer velocity from one photograph, no matter how good the shutter metadata is.
 - `INS-260409-0206` The gap between 'unexplained' and 'aliens' is a logical leap people make far too quickly.
+- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.

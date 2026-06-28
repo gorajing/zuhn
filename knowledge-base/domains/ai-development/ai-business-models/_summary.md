@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 24 insights
+> 25 insights
 
 - `INS-260424-E832` [high] Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business?
 - `INS-260423-B612` [high] Rory: what do you do when you can sell more if you had more, but you can't make more? You start allocating capacity based on money — exactly what anyone in economics would say to do.
@@ -12,6 +12,7 @@
 - `INS-260628-8FE6` [high] Talk to anyone in the eval space and it's the dataset creation and environment creation that matters more than anything — expensive expert-validated environments are CapEx that becomes a defensible advantage.
 - `INS-260625-1F93` [high] Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
 - `INS-260625-1D82` [high] Usage-based pricing is materially adopted while outcome pricing remains tiny, so treating both as the same anti-seat shift hides the real adoption curve.
+- `INS-260628-3C3D` [high] LLMs, monitoring, and RAG are trending to free-tier commodity; you start making real money — and doing real engineering — at evals, security, and orchestration.
 - `INS-260423-81C4` [high] Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
 - `INS-260625-2777` [medium] SBI reports that AI add-ons reach only a small share of net-new customers, so add-on monetization can block the adoption loop AI products need.
 - `INS-260514-5001` [medium] Meta announced mandatory key-logger + screen recorder on every US employee 9-5 in the same month they laid off 8,000 people.

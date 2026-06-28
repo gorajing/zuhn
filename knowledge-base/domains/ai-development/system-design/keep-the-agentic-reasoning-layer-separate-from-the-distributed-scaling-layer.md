@@ -55,8 +55,8 @@ related:
   - INS-260626-05D4
   - INS-260326-7F79
   - PRI-260407-D1AD
+  - INS-260628-302C
   - INS-260326-2410
-  - INS-260626-2170
 ---
 Kus stresses that the agentic framework (an intelligent directed graph where models power each step toward a task) is independent of high-scale distributed-system design — and that both matter. At one moment you process a single document with maximum care; at another you process 100 million documents in a day. He found it 'very helpful' to keep these distinct: someone who thinks about the agentic framework, and someone who thinks about how to scale a generic process.
 

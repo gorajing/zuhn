@@ -58,8 +58,8 @@ related:
   - INS-260410-E8A8
   - INS-260605-288D
   - INS-260404-83C6
+  - INS-260628-EBB4
   - INS-260627-D580
-  - INS-260404-CCE7
 ---
 The founders close the talk by highlighting that their team is 'a little unusual': a subset of people deeply expert in LLMs—who have worked on Claude, Gemini, and Grok—put together with experts in chip design. They frame this 'very great mix' not as a staffing footnote but as central to why the company can do what it does, given that their entire thesis is co-designing AI and the silicon it runs on.
 

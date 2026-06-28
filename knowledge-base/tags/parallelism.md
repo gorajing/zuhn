@@ -7,6 +7,7 @@
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260626-C4F7` Each rung of orchestration extracts the human from a tighter loop — first stop doing, then stop babysitting, then let agents decompose and plan, until your only job is reviewing outcomes.
 - `INS-260605-6CBF` Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
+- `INS-260628-17BE` Giving an AI a single cursor felt like 'putting a Formula 1 driver in a Prius'; the model has presence and can read many files while writing another, so the form factor should let it work in parallel.
 - `INS-260410-62E8` Each agent claims a task by writing a lockfile to current_tasks/ and pushes via git; git's atomicity handles races and Claude handles merge conflicts.
 - `INS-260605-D055` Agent work is inference-bound, so run several agents in parallel on isolated cloud machines and supervise them through a Kanban board like an engineering manager over ICs.
 - `INS-260410-7ED2` When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.

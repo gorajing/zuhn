@@ -57,11 +57,11 @@ stance: >-
   Autonomous agent research and optimization loops are easy to build only when
   the task has a cheap, objective verification signal.
 related:
-  - INS-260410-F167
   - INS-260323-4D8D
+  - INS-260410-F167
+  - INS-260628-2043
   - PRI-260328-1ED1
   - INS-260409-0DB0
-  - INS-260323-8AEC
 ---
 Across all three of Burtenshaw's escalating examples — CUDA kernels, fine-tuning, and the multi-agent auto-research lab — the common enabling condition is a verifiable experiment. Kernels are benchmarked for measured speedup (a 94% gain on Qwen3-8B for H100). Fine-tuning improves a measurable chain-of-thought score. The auto-research lab measures training efficiency in bits-per-byte and watches it improve across experiments.
 

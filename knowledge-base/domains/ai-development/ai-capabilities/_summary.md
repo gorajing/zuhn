@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 182 insights
+> 184 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -94,6 +94,7 @@
 - `INS-260328-8CCC` [high] Training loss scales predictably but actual capabilities emerge non-linearly, making capability prediction unreliable.
 - `INS-260409-E6F3` [high] Hassabis frames AI-for-science and medicine as the ultimate use case — everything else is incidental to unlocking a new golden age of discovery.
 - `INS-260403-F0DC` [high] Bio Anchors had many anchors and parameters but its output was almost entirely determined by the algorithmic progress rate, which was its least-researched input.
+- `INS-260628-449A` [high] With translation effectively solved, a founder can run founder-quality Japanese customer support without speaking Japanese — small teams now reach any market.
 - `INS-260323-8E4D` [high] The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
 - `INS-260323-B3A3` [high] Nation states are already intercepting and storing encrypted data today, betting that quantum computers within 10-20 years will let them decrypt it — making the quantum threat present-tense for any data with lasting value.
 - `INS-260323-E520` [high] Stanford and Princeton studies show sycophantic models degrade human reasoning by confirming wrong answers — political pressure toward compliant AI worsens this.
@@ -158,6 +159,7 @@
 - `INS-260323-8519` [medium] The LLM paradigm applied to biological data — 'large molecule models' — could unlock nature's design intelligence across all five kingdoms of life.
 - `INS-260424-4111` [medium] Logan Kilpatrick (citing Jeff Dean): the frontier of autonomous agent runtime today is on the order of hours; in the next 12 months it's truly going to be on the order of days or weeks.
 - `INS-260322-32E3` [medium] Math and formal reasoning are domains where RL-based AI training works especially well, making AI-driven proofs of major unsolved math problems plausible within 5 years.
+- `INS-260628-A39E` [medium] Per Braintrust's quarterly evals, models were 'not very good' at improving prompts/datasets/scorers until Claude 4, which performed ~6x better than the prior leading model — a step change, not a gradual ramp.
 - `INS-260410-8DDD` [medium] Self-driving stagnated for 15+ years because you cannot let a car make-and-correct mistakes at 60mph; manipulation is different because dishes can break and the robot just tries again — which turns each failure into training data.
 - `INS-260626-5367` [medium] Arena's expert-category data shows quantitative tasks (math, physics) dropping dramatically in dissatisfaction, while law, finance, creative writing, and especially game design stayed nearly flat.
 - `INS-260321-3967` [medium] The current monoculture of one model for everything will give way to speciated models — smaller models with the cognitive core intact but specialized for specific domains, like the animal kingdom's brain diversity.

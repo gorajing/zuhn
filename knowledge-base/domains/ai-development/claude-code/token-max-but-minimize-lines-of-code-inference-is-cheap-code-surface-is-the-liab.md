@@ -49,6 +49,6 @@ related:
   - INS-260626-411D
   - INS-260626-EAD3
   - INS-260603-915A
-  - INS-260625-E696
+  - INS-260628-3B84
 ---
 Holtz separates two things people conflate: token spend and code volume. He is 'very big' on token-maxing — always fast mode, high effort, think-extra-hard all the time — and once spent $22,000 on tokens in a single month (July 2025) bootstrapping Conductor. But he is explicitly not big on lines of code; the team works to keep LoC minimal because a codebase can 'spiral out of control' if you aren't careful about additions. The mental model: inference is a cheap, renewable input you should pour on; lines of code are durable liability that accrues maintenance burden and (per the slop-free-zone logic) degrades agent output. He notes the calculus differs by context — generating volume is more acceptable when spinning up a brand-new app than when working in an established codebase like Conductor.

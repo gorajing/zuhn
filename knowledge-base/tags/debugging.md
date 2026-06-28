@@ -19,6 +19,7 @@
 - `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260605-DFF5` Two standing instructions — one file per feature, and add logging everywhere — turn opaque AI-generated apps into reviewable, debuggable code.
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
+- `INS-260628-3746` Lean toward deterministic pass/fail scores so debugging stays tractable and teammates can actually understand and trust the results.
 - `INS-260627-068D` A pass/fail score is too thin; keep the artifacts needed to diagnose why.
 - `INS-260627-1297` Empower support to ship fixes with AI codegen — they hold three structural advantages engineers lack, and it doubles as an engineering pipeline.
 - `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
@@ -48,7 +49,11 @@
 - `INS-260625-81E1` The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
 - `INS-260410-351E` sum(dim=1) without keepdim=True returns a 1D vector that broadcasting silently treats as a row vector, which normalizes columns instead of rows — producing garbage with no error.
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
+- `INS-260628-DA8F` Failures that look like a bad policy are usually in the infrastructure between controller and actuator — diagnose the system before retraining the model.
 - `INS-260329-02B3` String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
+- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
+- `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
 - `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.
@@ -56,6 +61,3 @@
 - `INS-260329-F892` Letting learners encounter predictable errors (negative overtime, wrong relative references) before introducing the fix creates deeper understanding than presenting the correct solution first.
 - `INS-260330-FA2D` The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
 - `INS-260330-13A8` High-speed cameras reveal the arrow's mid-flight flex that explains how it navigates around the bow — without this visibility, the outcome seems impossible.
-- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
-- `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
-- `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.

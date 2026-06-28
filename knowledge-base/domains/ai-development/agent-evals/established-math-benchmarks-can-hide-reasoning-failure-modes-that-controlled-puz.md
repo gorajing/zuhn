@@ -52,12 +52,12 @@ related:
   - INS-260410-F5EC
   - INS-260530-C385
   - INS-260605-E18B
-  - INS-260625-C69F
   - INS-260625-CD66
   - INS-260625-8EC6
+  - INS-260628-A747
   - INS-260625-D1F9
-  - INS-260626-B04D
-  - INS-260605-2186
+  - INS-260628-C95B
+  - INS-260625-C69F
   - INS-260627-2DE7
 ---
 The paper argues that common math benchmarks overemphasize final-answer accuracy and make it hard to distinguish memorized exposure, more inference compute, and actual reasoning improvement. Its controlled puzzle setup preserves consistent rules while varying complexity, then validates intermediate and final move sequences with simulators.

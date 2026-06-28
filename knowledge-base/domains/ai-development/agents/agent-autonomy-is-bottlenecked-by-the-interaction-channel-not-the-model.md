@@ -53,7 +53,7 @@ related:
   - INS-260408-C572
   - INS-260501-E377
   - INS-260501-FDF0
-  - INS-260626-5037
+  - INS-260628-E27B
 ---
 The common framing is that agents aren't autonomous enough because the models can't yet run unsupervised. Richman reframes the bottleneck as the interaction surface: agents 'are not yet' maximally autonomous 'especially not if you're limited to how you can interact with them to their native environments.' An agent that blocks for input two minutes into a 30-minute task and waits idle is not failing on capability — it's failing on reachability.
 

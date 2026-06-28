@@ -66,6 +66,7 @@ related:
   - INS-260605-2E60
   - INS-260626-57BA
   - INS-260626-A027
+  - INS-260628-8C7D
 ---
 In the coupled design, untrusted code Claude generated ran in the same container as credentials, so a successful prompt injection only needed to convince Claude to read its own environment. Once an attacker has those tokens, they can spawn fresh unrestricted sessions and delegate work to them. Narrow scoping is an obvious mitigation, but it encodes an assumption about what Claude can't do with a limited token — and Claude is getting increasingly smart.
 

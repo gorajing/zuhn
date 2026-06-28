@@ -7,7 +7,9 @@
 - `INS-260327-991D` The shift from perceptual AI to generative AI and reasoning has made inference as compute-intensive as training.
 - `INS-260404-5CFB` Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
+- `INS-260628-9D66` FID and CLIP-style metrics penalize perceptually-invisible artifacts and reward easy-to-count attributes, so they misjudge real generative quality.
 - `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
 - `INS-260325-3EF4` Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
+- `INS-260628-BEC2` Because training images are compressed and human-labeled, models absorb both lossy-compression artifacts and the perceptual limits of the humans who made the data.
 - `INS-260405-77C9` Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
 - `INS-260327-45B4` A user created sketch notes of his chemist father's lectures using Nano Banana, enabling their first real conversation about the work in decades, a use case Google never anticipated.

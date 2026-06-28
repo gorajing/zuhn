@@ -47,6 +47,7 @@ related:
   - INS-260403-5683
   - INS-260330-F268
   - INS-260403-AFBB
+  - INS-260628-6420
 evidence:
   - id: INS-260330-550F
     type: TRANSFERS_TO

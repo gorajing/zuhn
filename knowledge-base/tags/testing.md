@@ -16,6 +16,7 @@
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260605-9467` When a million-line refactor touched 82% of the core, the over-fitting unit tests AI had written acted as a green/red signal that the rebuilt code was close.
 - `INS-260627-535C` Measure skill distillation as a delta, not as an isolated pass/fail run.
+- `INS-260628-5ACA` Roughly 95% of an AI app is deterministic and unit-testable, but the crucial ~5% LLM core fails non-deterministically and requires evals.
 - `INS-260605-3AFB` AI tends to write tests that affirm whatever the code already does, so a fully green suite can still mean zero behavioral validation.
 - `INS-260605-FD3D` Tests only prove incorrectness when they fail; LLMs that write the tests (or reviews) can be wrong in the same direction as the code.
 - `INS-260410-8019` Comparing hand-derived gradients to a finite-difference numerical estimate (or to PyTorch's autograd) catches the subtle sign flips, missing scale factors, and shape mismatches that plague manual backprop — and was standard practice before autograd existed.
@@ -29,10 +30,10 @@
 - `INS-260605-3B8B` Write a behavioral test when a feature request arrives, not when you add a method to a class.
 - `INS-260605-C436` Input A no longer reliably yields output C, so you must measure how OFTEN an agent succeeds rather than asserting it always does.
 - `INS-260605-C223` A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
-- `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260322-A61A` Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.
 - `INS-260409-FC9A` Name and package the lead magnet before polishing its content — the wrapper moves the needle far more.
 - `INS-260405-9DF5` Early testing is habit-forming — the first win creates momentum that refinement-first teams never build.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260403-B32D` Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
+- `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.

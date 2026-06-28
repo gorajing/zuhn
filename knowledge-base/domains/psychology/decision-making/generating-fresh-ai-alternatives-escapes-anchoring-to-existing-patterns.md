@@ -56,8 +56,8 @@ related:
   - INS-260404-6A15
   - INS-260403-F400
   - PRI-260501-1E66
+  - INS-260628-E27B
   - INS-260627-EEDE
-  - INS-260403-7A48
 ---
 Asked to design a new export flow, the team observed that had they designed it by hand they 'would have constrained ourselves to existing patterns.' Instead they fed a screenshot and instructed the model to be creative, and it returned options outside their default vocabulary — sometimes a command-line export, sometimes a status view — ideas anchored neither to their prior UI nor to each other.
 

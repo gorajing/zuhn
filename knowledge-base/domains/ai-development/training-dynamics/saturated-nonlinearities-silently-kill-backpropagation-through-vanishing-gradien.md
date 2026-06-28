@@ -62,11 +62,11 @@ stance: >-
   is invisible from loss curves alone — you must inspect activation histograms
   to detect it.
 related:
+  - INS-260628-BEC2
   - INS-260410-5F60
   - INS-260605-9CE2
   - INS-260330-2154
   - PRI-260407-7FB7
-  - INS-260403-141E
 ---
 The local gradient of tanh is (1 - t²), which approaches zero whenever the output is near ±1. Backprop multiplies by this local gradient, so saturated tanh neurons effectively sever the gradient path. Sigmoid behaves identically. ReLU has a related pathology: any neuron whose preactivation is always negative for every example in the dataset is a 'dead neuron' that will never receive a gradient and never learn — a form of permanent brain damage that can be triggered at initialization or by a single high-learning-rate update.
 

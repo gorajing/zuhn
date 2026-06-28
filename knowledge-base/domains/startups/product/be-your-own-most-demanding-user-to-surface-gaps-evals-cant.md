@@ -58,7 +58,7 @@ related:
   - INS-260403-B2A5
   - INS-260626-EDB3
   - INS-260625-D1F9
-  - INS-260405-880C
+  - INS-260628-C95B
 ---
 Hou's stated secret after three years in codegen is to 'be your own biggest user.' Giving Google engineers and DeepMind researchers internal access means the people improving the models also experience the model's gaps in real workflows — slow pages, weak computer-use behavior, poor artifact handling — at a fidelity that aggregate eval metrics cannot capture. An infra engineer who feels a slow page just fixes it; a researcher who sees computer-use fail in context knows exactly what to train against.
 

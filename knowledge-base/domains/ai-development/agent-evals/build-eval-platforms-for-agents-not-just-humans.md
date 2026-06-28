@@ -62,6 +62,7 @@ related:
   - INS-260625-7926
   - INS-260626-8747
   - INS-260627-4072
+  - INS-260628-8DD0
 ---
 Hetzel reports an emerging 'headless' usage pattern: customers who don't care about the eval platform's UI at all, and instead want to point a coding agent like Codex or Claude Code at it to increase their agent's quality. The enabling requirement is concrete — the data backend must let you run a lot of pure SQL — so a coding agent can grab evals data in aggregate, pull it into context, and change the agent within the same coding session, becoming somewhat self-healing.
 

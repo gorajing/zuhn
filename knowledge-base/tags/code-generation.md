@@ -10,3 +10,4 @@
 - `INS-260625-E1CB` Don't run 10,000 pages through an LLM to extract fields—have the LLM write a parser once, then execute the script, cutting roughly 99% of tokens while gaining determinism.
 - `INS-260627-9F46` Each generation tier (autocomplete, agentic codegen, agentic quality workflows) has a higher productivity ceiling, but you only reach the promised 2x by investing in the quality layer, not by generating code faster.
 - `INS-260626-715B` Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
+- `INS-260628-3B84` Compute code-RL loss as a per-token average rather than per-sequence to converge faster and remove the incentive to generate very short template answers that game the reward.

@@ -49,7 +49,6 @@ stance: >-
   technical projects are often stronger hires than conventional high-performers,
   because their obsession signals genuine builder instinct.
 related:
-  - INS-260321-8382
   - INS-260403-B7FA
   - PRI-260406-59C8
   - INS-260403-4F4B

@@ -61,7 +61,7 @@ related:
   - INS-260409-667F
   - INS-260625-DF0F
   - INS-260403-141E
-  - INS-260323-584D
+  - INS-260628-2C38
 ---
 Greedy-coordinate-gradient attacks initialize placeholder tokens (e.g. 20 exclamation marks for exploratory space) and iteratively minimize the loss of the model *not* opening with an affirmation. Once the model emits 'Sure, here's how,' auto-completion carries it through a harmful response. This works because alignment is a learned probabilistic boundary, not a hard constraint.
 

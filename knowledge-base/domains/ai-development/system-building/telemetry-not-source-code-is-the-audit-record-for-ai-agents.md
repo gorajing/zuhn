@@ -57,7 +57,6 @@ stance: >-
   the only faithful record of what the system actually did.
 related:
   - INS-260327-5EEA
-  - INS-260423-FF52
   - INS-260605-E9A6
   - INS-260605-809A
   - INS-260605-8B25
@@ -66,6 +65,7 @@ related:
   - INS-260627-02E1
   - INS-260626-6F8E
   - INS-260626-8A80
+  - INS-260627-AA4B
 ---
 In deterministic software, you can often reason about what a program did by reading its code, because the same inputs reliably produce the same path. Agents break this: the LLM decides which branches, tool calls, and loops to take at runtime, so the code describes the space of possibilities but not the actual execution. Ngo's framing is that 'code doesn't audit agents or harnesses — it's the telemetry that does that.' A trace/span is the audit record of what the agent actually did on a given run.
 

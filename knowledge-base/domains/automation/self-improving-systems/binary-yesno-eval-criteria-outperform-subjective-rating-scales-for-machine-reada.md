@@ -49,13 +49,13 @@ resolutions:
 related:
   - INS-260625-8A55
   - INS-260625-D1F9
+  - INS-260628-A747
   - INS-260627-6FE0
   - INS-260530-C385
-  - INS-260626-60C2
   - INS-260605-2A01
   - INS-260626-A928
-  - INS-260627-41C2
   - INS-260628-30C0
+  - INS-260628-2C38
 stance: >-
   Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does
   the hook describe a result, not a feature?') to make optimization ma...

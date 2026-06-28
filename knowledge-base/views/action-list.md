@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6264 actionable insights
+Generated on 2026-06-28 | 6288 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -131,6 +131,7 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260628-AF81] Measure security attacks by both compromise and normal task completion; a stealthy agent exploit succeeds because the user still gets the expected answer.
 - [INS-260628-BDB0] Judge your eval program by three concrete capabilities — 24-hour model adoption, complaint-to-eval pipeline, and pre-ship offense — not by whether evals exist.
 - [INS-260628-33E6] Build ambitious evals for features that don't work on today's models and keep model-swapping a few keystrokes away, so each new release is an immediate go/no-go on shipping.
+- [INS-260628-2043] Build agent benchmarks on top of a real agent harness (e.g., Claude Code) across realistic end-to-end tasks and open-source the full trajectories so the scores are auditable.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -505,6 +506,9 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260628-E0D2] System prompt plus user text is a sliver of agentic-coding context; the bulk is tool use and tool responses (bash, grep, file reads), most of which is cacheable but often re-prefilled.
 - [INS-260628-5BC9] Cisco's network knowledge graph is layered (raw config → data plane → control plane) so an agent runs a config-drift test by hitting only the raw-config layer, while a reachability test pulls multiple layers.
 - [INS-260628-C374] Use sub-agents to offload reading/searching in a separate context window and return a succinct answer to the parent — not to model human team roles.
+- [INS-260628-34CF] Implement a subagent as a small wrapper script that launches a fresh child instance of the same agent, captures its file output, and prints it to stdout.
+- [INS-260628-EBB4] The consistent lesson from frontier labs is to stop over-complicating agents — the SOTA results come from very simple scaffolds.
+- [INS-260628-0EB2] Delegate context-heavy work to a subagent so the exploration tokens stay in its window and only the distilled answer returns to the parent.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -679,6 +683,7 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260410-38C9] No amount of pre-training can encode the idiosyncrasies of a specific job, client, or environment — the world is too big, so on-the-job learning into the weights is unavoidable.
 - [INS-260501-E843] Karpathy stopped correcting agent-generated chunks in December 2025 — the inflection is real and most people's priors are stale.
 - [INS-260501-0662] Greg Brockman: a systems engineer prepared a design document, handed it to the model, went to sleep — woke up to find the model had implemented the spec, seen it was slow, added instrumentation, run a profiler, and iterated multiple times until it got an optimized result.
+- [INS-260628-449A] With translation effectively solved, a founder can run founder-quality Japanese customer support without speaking Japanese — small teams now reach any market.
 
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
@@ -972,6 +977,15 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260628-DFA3] Before you iterate your app against a judge, judge the judge — raw LLM-as-judge calls hallucinate, are uncalibrated, and flip on input order.
 - [INS-260628-7A77] Scoring 100% on a finite golden set tells you nothing about the inputs 'around the corner' that you never tested.
 - [INS-260628-1AF2] You can bootstrap a golden dataset by teaching an LLM to write queries, but only if you semantically align their specificity to real queries — naive 'write a question for this doc' produces overly-specific queries that overstate your success rate.
+- [INS-260628-3746] Lean toward deterministic pass/fail scores so debugging stays tractable and teammates can actually understand and trust the results.
+- [INS-260628-2C38] Train a continuous classifier on labeled human preferences so the eval learns what 'good' means perceptually, instead of relying on hand-built metrics.
+- [INS-260628-6F97] Put unchanging user queries in 'data' and the things you're experimenting on — prompts, RAG, preprocessing, models — in the 'task', so you can swap variables without redoing your dataset.
+- [INS-260628-A747] An eval is only as good as the weakest of its three legs — the prompt, the dataset, and the scorer — so improve all three together, not just the prompt.
+- [INS-260628-C95B] Good evals require mapping the full domain of real user queries — including hard edge cases and boundaries — and avoiding wasted effort on out-of-bounds inputs.
+- [INS-260628-8649] Run the full eval suite on every PR (and on a daily schedule) so you can see whether a change flips tiles from red to blue without breaking others.
+- [INS-260628-F01C] Braintrust ran evals every quarter for two years on frontier models' ability to improve prompts/datasets/scorers, and only built Loop once the eval said the models had crossed the threshold.
+- [INS-260628-9D66] FID and CLIP-style metrics penalize perceptually-invisible artifacts and reward easy-to-count attributes, so they misjudge real generative quality.
+- [INS-260628-5ACA] Roughly 95% of an AI app is deterministic and unit-testable, but the crucial ~5% LLM core fails non-deterministically and requires evals.
 
 ## ai-development/evaluation
 - [INS-260627-20D7] MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
@@ -1114,6 +1128,8 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260627-9D3D] If you do anything important, write it by hand — the friction is what builds the understanding of the system in your head, and that understanding is exactly what agents can't give you.
 - [INS-260627-E4F9] In the METR study every engineer felt more productive using AI assistance, yet the data showed a 19% productivity decrease.
 - [INS-260627-386E] Confidence labels plus rationale and code location turn agent suggestions into a triageable queue instead of a code-review burden.
+- [INS-260628-AF2E] Stop being a 'helicopter parent' correcting an agent word by word; become a 'character coach' who builds the nature you want the agent to have.
+- [INS-260628-E55B] Loop shows every suggested edit to data, scorers, or prompts side-by-side so humans keep looking at their data while automating, with full autonomy as an opt-in toggle rather than the default.
 
 ## ai-development/inference
 - [INS-260627-458A] Route each task to a compute budget matched to its profiled complexity rather than running one heavy pipeline for everything.
@@ -1289,6 +1305,7 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260627-79F6] Model the agent as a fast, well-read, confidently-wrong junior dev that has breadth of knowledge but zero judgment about your context.
 - [INS-260627-102F] Prioritize DevEx investments that help humans and agents equally — they are guaranteed to pay off no matter how AI evolves.
 - [INS-260628-9705] A bad line of code is one bad line; a bad line of plan is a hundred bad lines; a bad line of research sends the whole effort in the wrong direction — so move human focus upstream.
+- [INS-260628-302C] Stop debating 'how agentic is it' — instead track how much valuable AI output you get per unit of human input, and push that ratio up.
 
 ## ai-development/model-architecture
 - [INS-260605-B82E] When a model must respond on every keystroke, fine-tune a small specialized model rather than reaching for a general frontier model.
@@ -1424,6 +1441,8 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260627-A842] Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 - [INS-260627-73B8] Every major consumer provider already ships a deep-research loop, so enterprise defensibility comes from grounding accuracy plus enterprise-grade deployment, not from the agent loop itself.
 - [INS-260628-30C0] Like a marketing KPI of 0.5 that only becomes actionable once you segment users by age, an eval score only drives decisions once you cluster conversations and compare the metric across clusters.
+- [INS-260628-D806] AI News is 'three scripts in a trench coat' — a workflow, not an agent — and it serves 70,000+ readers, which is the only thing that matters.
+- [INS-260628-E27B] When you only automate the tedious things you already understand, you miss emergence; playing with the model surfaces capabilities you couldn't have specified — including an agent that delegates to a human when it can't do the job itself.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1735,6 +1754,8 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260628-09BA] With threshold-based poisoning, partial tool removal can leave the attack alive as long as enough shares remain.
 - [INS-260628-62C4] BlackRock cut complex-app build time from 3–8 months to a couple of days by exposing prompt/template/strategy/transform components in a sandbox that domain experts operate themselves, then auto-spinning the result into an app via a cloud-native 'app factory.'
 - [INS-260628-930A] You earn the right to tinker with the LLM by having good retrieval first, because LLMs keep improving on their own but a better model won't fix bad retrieval — and most fixes are infrastructure (a missing time filter, one more OCR step), not intelligence.
+- [INS-260628-332A] Like a woodworker feeling the grain, you have to build directly with the model to understand its properties — layers of mockups and prototypes no longer tell you what's true.
+- [INS-260628-DA8F] Failures that look like a bad policy are usually in the infrastructure between controller and actuator — diagnose the system before retraining the model.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.
@@ -1819,6 +1840,7 @@ Generated on 2026-06-28 | 6264 actionable insights
 - [INS-260627-C258] Nano Banana Pro is powered by Google Search, so it can pull current sources and recent events into outputs rather than being limited to the model's knowledge cutoff.
 - [INS-260627-4253] A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.
 - [INS-260627-A37B] Persist tasks as markdown-with-frontmatter in the repo so you need no APIs, databases, or accounts, and get versioning, branch-sync, and sharing from git itself.
+- [INS-260628-1610] Write the agent name and query to files and run a constant command, rather than passing them as CLI arguments, so the permission system sees the same command every time.
 
 ## ai-development/training-dynamics
 - [INS-260410-D3A7] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
@@ -1882,6 +1904,8 @@ Generated on 2026-06-28 | 6264 actionable insights
 
 ## automation/robotics
 - [INS-260405-F05B] Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
+- [INS-260628-6714] A log flush to disk froze the robot for 30 ms on a Raspberry Pi SD card, and log-on-drop can cascade into a total bus blackout — isolate logging onto its own CPU.
+- [INS-260628-DCE4] Parallelizing TX/RX/policy hides bus latency but creates stale-data, queued-double-message, and overcompensation failures that sound like a broken motor.
 
 ## automation/self-improving-systems
 - [INS-260322-D6D7] Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does the hook describe a result, not a feature?') to make optimization machine-readable and eliminate subjectivity.

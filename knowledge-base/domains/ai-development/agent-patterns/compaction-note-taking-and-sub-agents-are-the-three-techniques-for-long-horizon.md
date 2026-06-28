@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260404-9E11
   - INS-260403-F6F6
+  - INS-260628-16B9
   - INS-260627-3D9A
   - INS-260627-85C7
   - INS-260501-91C2
-  - PRI-260328-F723
 ---
 Three techniques address context-window limits for tasks spanning hours. Compaction summarizes the message history and reinitiates a new context window with the summary plus most recent state — best for tasks requiring conversational continuity. Structured note-taking (agentic memory) writes to a persisted file like NOTES.md outside the context window, retrieved on demand — best for iterative development with clear milestones. Sub-agent architectures dispatch focused tasks to specialized agents with clean context windows that return condensed 1-2k token summaries — best for parallel research where the main agent synthesizes results. The three are complementary rather than competing; pick by task characteristics.

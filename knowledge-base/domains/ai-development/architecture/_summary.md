@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 147 insights
+> 148 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -141,6 +141,7 @@
 - `INS-260626-5B28` [medium] Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
 - `INS-260627-E0C0` [medium] Treat agent optimization as a multi-dimensional allocation problem orchestrated by a meta-layer, not a single knob like context.
 - `INS-260627-A81B` [medium] Because LLMs are non-deterministic with an enormous state space, formal methods, model checking, and type systems have essentially no bearing on prompt-driven software — but LLMs' tolerance for unanticipated inputs creates a new resilience worth designing around.
+- `INS-260628-0167` [medium] Sync the data, Plan and parallel-process, Analyze (reduce many to one), Deliver to the user, then Evaluate — a repeatable shape for apps making thousands of AI calls.
 - `INS-260605-E174` [medium] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - `INS-260404-E91F` [medium] Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260625-057C` [medium] In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.

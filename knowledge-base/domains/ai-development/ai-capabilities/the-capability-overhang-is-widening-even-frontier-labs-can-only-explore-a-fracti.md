@@ -46,7 +46,6 @@ stance: >-
   them is getting bigger, not smaller, because release cycles are accelerating
   faster than application discovery.
 related:
-  - INS-260404-83C6
   - INS-260405-82F3
   - INS-260403-5616
   - PRI-260406-08E9

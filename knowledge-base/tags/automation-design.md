@@ -1,3 +1,3 @@
 # Tag: automation-design
 
-- `INS-260330-49C8` DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
+- `INS-260628-E55B` Loop shows every suggested edit to data, scorers, or prompts side-by-side so humans keep looking at their data while automating, with full autonomy as an opt-in toggle rather than the default.

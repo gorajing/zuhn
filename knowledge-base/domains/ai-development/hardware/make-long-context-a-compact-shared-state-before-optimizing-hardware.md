@@ -53,7 +53,7 @@ related:
   - INS-260625-8319
   - PRI-260406-8B75
   - INS-260605-BB4B
-  - INS-260409-6DBE
+  - INS-260628-EBA5
 ---
 The paper frames the field bottleneck clearly: spiking neural networks can exploit sparse event-driven sensing, but long temporal context usually comes from recurrence or programmable delays that create memory traffic, buffers, and quadratic or deep-buffer hardware costs. DMP-SNN instead gives each layer a low-dimensional slow state, typically 5-10% of hidden width, that summarizes recent activity and modulates the fast spiking path.
 

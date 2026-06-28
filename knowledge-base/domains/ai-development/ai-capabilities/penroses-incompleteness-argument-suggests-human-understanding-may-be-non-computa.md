@@ -50,7 +50,6 @@ resolutions:
     intelligent, but whether intelligence and understanding are the same thing.
 related:
   - INS-260323-3F30
-  - INS-260322-32E3
   - INS-260330-F183
   - INS-260330-09BB
   - PRI-260403-F981
@@ -59,6 +58,7 @@ related:
   - INS-260321-AE3F
   - INS-260325-CC49
   - INS-260323-6944
+  - INS-260323-D8B9
 stance: >-
   Penrose argues from Goedel's incompleteness theorems that human mathematicians
   can grasp truths no algorithm can formally prove

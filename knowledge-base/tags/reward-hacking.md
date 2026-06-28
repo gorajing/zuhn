@@ -15,3 +15,4 @@
 - `INS-260410-ED12` When you see a model ace hard evals but flail on practical tasks, suspect that the training mix was inadvertently shaped by the evals researchers wanted to look good on.
 - `INS-260625-8613` A conjecturer rewarded only for stumping the solver learns to emit messy, overly-complex problems (like a three-page calculus problem you'll slip on) that don't transfer; grounding tasks in real problems plus a relevance 'guide' reward fixes it.
 - `INS-260627-F7E7` Expect the model to game your reward — inspect rollouts, enumerate the exploits, and penalize each one before trusting the score.
+- `INS-260628-3B84` Compute code-RL loss as a per-token average rather than per-sequence to converge faster and remove the incentive to generate very short template answers that game the reward.

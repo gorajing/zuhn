@@ -67,9 +67,9 @@ related:
   - INS-260410-ED12
   - INS-260410-F40F
   - INS-260410-4EB9
-  - INS-260410-F167
   - INS-260530-C385
   - INS-260605-4D1D
+  - INS-260605-2186
 ---
 Chen describes an 'evals crisis': the number of canonical gold-standard benchmarks is low and most of the famous ones (SAT-style tests) are saturated, while 'benchmaxing' — overfitting to a benchmark's distribution by training on near-duplicate instances — produces high scores that don't generalize. Because any eval released publicly is 'already not good,' the supply of trustworthy measurement is the binding constraint, not model capability.
 

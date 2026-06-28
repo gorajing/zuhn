@@ -34,18 +34,23 @@
 - `INS-260625-6E92` Model-based agents spike their error signal the moment the world violates their expectations — a self-awareness of being wrong that model-free policies don't natively provide.
 - `INS-260321-9906` Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
 - `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
+- `INS-260628-DA8F` Failures that look like a bad policy are usually in the infrastructure between controller and actuator — diagnose the system before retraining the model.
 - `INS-260627-53EF` Masked IRL clarifies underspecified commands by asking what the demonstration changed relative to a shortest-path trajectory.
 - `INS-260605-7E75` Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company.
 - `INS-260626-56AC` An automated lab does high-throughput experiments you direct; a self-driving lab runs the whole research campaign for you, the difference between lane-keeping cruise control and a Waymo.
 - `INS-260625-1654` Scientific autonomy is a cyber-physical stack, not just a model call.
+- `INS-260628-265C` Bus transmission time is on the same order as compute time, so even a handful of messages can saturate the bus and dominate loop period.
 - `INS-260625-017C` Because DMPC keeps the action proposal and the dynamics model separate, you can re-adapt only the dynamics on a broken-ankle robot and recover performance the monolithic policy can't.
 - `INS-260627-110A` Masked IRL matched or beat baselines with up to 4.7x fewer demonstrations by using language to constrain which state features mattered.
+- `INS-260628-6714` A log flush to disk froze the robot for 30 ms on a Raspberry Pi SD card, and log-on-drop can cascade into a total bus blackout — isolate logging onto its own CPU.
+- `INS-260628-9322` If you boost your user process so high it blocks the kernel, you block the very thing that feeds you data — fix priorities per pipeline stage, not uniformly.
 - `INS-260603-DDE4` William Santana Lee (Knightscope, 13yr autonomous): physical AI is 'pain, suffering, and tears' — the reality check where everything that worked in the conference room fails in the real world; the only way to make it work is to deploy and bump your head until you figure it out, not to perfect it in code/simulation.
+- `INS-260628-DCE4` Parallelizing TX/RX/policy hides bus latency but creates stale-data, queued-double-message, and overcompensation failures that sound like a broken motor.
 - `INS-260627-A7A6` Robot demonstrations show how to act, but they do not identify the relevant state features behind the human preference.
-- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
-- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
-- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.
 - `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260403-215E` Humanoid robots lead Q3 2025 deal count while AI leads dollar volume, revealing a hardware-many-bets vs software-mega-bet divergence.
 - `INS-260323-7DAE` Boston Dynamics' breakthrough approach was reducing complex locomotion to a bouncing pogo stick — solve the simplified version first, then extrapolate.
 - `INS-260323-F7DB` Boston Dynamics' breakthrough came from rejecting the safe, slow, static approach to robotics in favor of aggressive dynamic movement — bouncing, running, and predicting rather than always maintaining perfect stability.
+- `INS-260405-ADCE` US and China are pursuing humanoid robotics through different incentive structures and deployment contexts, making a single global market unlikely.
+- `INS-260405-C673` SpaceX, Tesla, and xAI are modules of one integrated long-term mission — the biggest bets of the next decade will be at places where disciplines collide, not inside single categories.
+- `INS-260405-FC36` Labor scarcity from aging populations is the demand-side forcing function that makes the humanoid robot market thesis structurally sound.

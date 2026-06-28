@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 176 insights
+> 179 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -85,6 +85,7 @@
 - `INS-260327-63B5` [high] Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
 - `INS-260625-DE8E` [high] Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260325-5CA5` [high] 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
+- `INS-260628-D806` [high] AI News is 'three scripts in a trench coat' — a workflow, not an agent — and it serves 70,000+ readers, which is the only thing that matters.
 - `INS-260327-9816` [high] Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
 - `INS-260625-DD6B` [high] A model has finite capacity, so dedicating all of it to your one task lets you ship a smaller, cheaper, faster model than a general frontier model.
 - `INS-260627-7FE2` [high] Release first to experts who know what 'good' looks like; reach executives last, maybe never.
@@ -145,6 +146,7 @@
 - `INS-260626-ECA6` [medium] LM Studio can serve local models over an OpenAI- or Anthropic-compatible endpoint, letting apps swap cloud APIs for on-device inference with no client changes.
 - `INS-260626-4A96` [medium] Cursor accepted that the skill-based worktree feature is harder to discover because it serves power users, and minimizing maintenance on an advanced feature mattered more than surfacing it in the UI.
 - `INS-260626-ACD0` [medium] For local, file-based tools, you can unlock far more agent capability by giving users sharp tools and owning the risk rather than sandboxing the agent.
+- `INS-260628-6420` [medium] AI shows up in products in four shapes — invisible (background work), ambient (in the space, not directly worked with), inline (inside your workflow), and conversational — and each warrants its own design.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
 - `INS-260627-B3FF` [medium] The old 'the model is the product' is inverting into 'the product is the model' — and the option to customize a model where it matters is the durable differentiator.
 - `INS-260624-5865` [medium] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
@@ -165,6 +167,7 @@
 - `INS-260409-9851` [medium] Matuschak and Nielsen argue that tools-for-thought work has historically been 'stuck in Spock-space,' designing for cognition alone, while movies, music, and video games take emotional response seriously — the best tools for thought must blend the emotional range of video with the intellectual depth of text.
 - `INS-260626-D768` [medium] When anyone can spin up an agent, the winners are the platforms that make agent behavior visible, debuggable, and editable.
 - `INS-260410-6F67` [medium] Fast exponential capability growth continuously generates new use cases that require bare-metal API access, so the API is the one surface that stays relevant across capability generations.
+- `INS-260628-E27B` [medium] When you only automate the tedious things you already understand, you miss emergence; playing with the model surfaces capabilities you couldn't have specified — including an agent that delegates to a human when it can't do the job itself.
 - `INS-260627-73B8` [medium] Every major consumer provider already ships a deep-research loop, so enterprise defensibility comes from grounding accuracy plus enterprise-grade deployment, not from the agent loop itself.
 - `INS-260424-273F` [medium] Ben Gilbert: I'm not really sure we're seeing the killer native app of the agentic AI era — we don't even know what it looks like; we're trying to make all of our existing stuff more efficient and put it into this AI modality, but I don't think there's…
 - `INS-260327-9C56` [medium] Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.

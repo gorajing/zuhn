@@ -59,11 +59,11 @@ stance: >-
   it and tie it to business KPIs, not when the tooling becomes technically
   mature.
 related:
+  - INS-260628-F01C
   - INS-260605-2186
   - INS-260626-8747
   - INS-260627-D21B
   - INS-260628-BDB0
-  - INS-260625-8A55
 ---
 Eval and ML-monitoring tooling existed and matured for over a decade (H2O, Algorithmia, Seldon from ~2012 onward), yet every year's claim of 'this is the year of evals' fell flat. Dickerson's thesis is that the bottleneck was never technical — it was that AI/ML lived inside an opaque box that never bubbled above the CIO, so the people controlling real budget (CEO, CFO, CISO) had no reason to care.
 

@@ -70,7 +70,7 @@ related:
   - INS-260626-9BC5
   - INS-260603-6FE3
   - INS-260626-9AEB
-  - PRI-260406-788D
+  - INS-260628-EF78
 ---
 State management is only half the battle; data contracts are the other half. Without them, Agent A throws arbitrary output at Agent B and hopes it works — and failures surface far from their cause. In the example, the research agent's contract promises to output findings, a confidence score, sources, and a timestamp; the analysis agent declares it requires that output with specific types and, critically, validates quality — if confidence is below 0.7 it rejects the handoff outright.
 

@@ -52,6 +52,7 @@ stance: >-
   design, documented and controlled like sampling temperature or prompt format.
 related:
   - INS-260402-CC68
+  - INS-260628-EF78
   - INS-260411-F649
   - INS-260327-BF89
   - INS-260626-67E8

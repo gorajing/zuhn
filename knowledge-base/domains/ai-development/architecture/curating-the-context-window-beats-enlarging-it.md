@@ -50,10 +50,10 @@ stance: >-
   than simply growing the context window.
 related:
   - INS-260530-C385
+  - INS-260628-C95B
+  - INS-260628-A747
   - INS-260625-D1F9
   - INS-260626-2727
-  - PRI-260321-14D8
-  - INS-260627-84F1
 ---
 The talk's most concrete claim is that combining a memory tool (which keeps context outside the window and pulls it back only when relevant) with context editing (which strips out old, large tool results that are no longer useful) produced a 39% improvement on Anthropic's internal evals. The lesson is that what is in the window at any given moment matters more than how big the window is. Past tool results in particular consume space without improving later responses, so clearing them is nearly free performance.
 

@@ -59,7 +59,7 @@ related:
   - INS-260410-AC0B
   - INS-260628-3E32
   - INS-260625-E04B
-  - INS-260605-8F3D
   - INS-260626-7AB8
+  - INS-260628-6F97
 ---
 The temptation when building a RAG system is to ship a single optimized pipeline: our loader, our chunker, our embedder, our retriever, our synthesizer. Jerry Liu's contrary design philosophy for LlamaIndex: expose every layer as a swappable component. This is because no single choice is optimal across data types and use cases. A user loading PDFs wants a different parser than a user loading Slack. A user with a million documents wants a different retriever than a user with a thousand. A user doing technical question-answering wants a different synthesizer than a user doing open-ended exploration. A monolithic pipeline forces users into compromises; a modular pipeline lets users customize the layer that needs customizing while keeping the others at good defaults. The design lesson generalizes: any system where the optimal configuration depends on data and use case should expose modular swappable layers, not a single blessed pipeline. This is also why Zuhn exposes scripts as composable pieces (ingest, extract, post-ingest, learn, view) rather than a single black-box command.

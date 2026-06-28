@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 328 insights
+> 330 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -211,6 +211,7 @@
 - `INS-260320-26B1` [high] Use SuperWhisper for voice-to-text prompting when your hands are tired from typing all day.
 - `INS-260323-A8B5` [high] Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260329-D297` [high] Using arbitrary surrogate keys rather than business-meaningful natural keys as primary keys prevents breakage when business rules change.
+- `INS-260628-DA8F` [high] Failures that look like a bad policy are usually in the infrastructure between controller and actuator — diagnose the system before retraining the model.
 - `INS-260323-813B` [high] The key to making knowledge computable is finding symbolic representations that match how humans conceptualize things while remaining formally manipulable by machines.
 - `INS-260330-EC22` [high] Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - `INS-260323-1811` [high] Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
@@ -274,6 +275,7 @@
 - `INS-260626-B94C` [medium] Agents answer arbitrary questions only when all the important context lives in one denormalized, agent-shaped store — like Google's BigTable move applied to organizational knowledge.
 - `INS-260603-7252` [medium] Brad (Bedrock, lots of coding-agent time): 'be cautious of over-engineering to the current capabilities of the current generation' — a new model comes out in three months without any of the same problems and a whole bunch of new ones, so you have to evolve your system rapidly.
 - `INS-260605-BBCF` [medium] Treat the dev lifecycle like a factory line and turn each repeatable step into a skill that encodes your house patterns.
+- `INS-260628-332A` [medium] Like a woodworker feeling the grain, you have to build directly with the model to understand its properties — layers of mockups and prototypes no longer tell you what's true.
 - `INS-260409-654B` [medium] After a wiki is mature, fine-tune a model on it so the knowledge lives in weights, not just context.
 - `INS-260605-CF2E` [medium] Run a scanner over archived tickets to repair context as a one-time scoped pass, rather than making humans answer agent questions live during every operation.
 - `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.

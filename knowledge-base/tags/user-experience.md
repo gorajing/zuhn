@@ -4,9 +4,9 @@
 - `INS-260627-B1B2` Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency.
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260403-F5EE` People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
+- `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260327-099A` 95% of music downloads were pirated at peak, not because people refused to pay but because piracy was easier - streaming killed piracy by being more convenient, not cheaper.
 - `INS-260626-A893` Quality has no measurable metric and doesn't move revenue until it does, so it gets neglected — then a higher-quality competitor slowly drains your users with no AB test to warn you.
-- `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260403-1D92` When AI makes building cheap, taste and design become the scarce differentiator.
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260330-1282` Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.

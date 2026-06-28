@@ -51,8 +51,8 @@ related:
   - INS-260626-E7C4
   - INS-260625-DCE4
   - INS-260627-C0F1
+  - INS-260628-8C7D
   - INS-260619-F7E3
-  - INS-260605-1C30
 ---
 Anthropic chose Linux bubblewrap and macOS seatbelt over Docker/container approaches. The advantage: these primitives enforce restrictions at the OS level across not just the agent's direct tool calls but any subprocess, script, or program the agent spawns. A container approach would require spinning up and managing the container per session, adding latency and operational complexity for a developer tool that must feel instant.
 

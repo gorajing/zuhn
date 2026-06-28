@@ -23,11 +23,11 @@
 - `INS-260627-CD65` Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.
 - `INS-260501-A5F5` Greg Brockman: you spend so much of your effort right now just explaining to your computer what's going on — like, why are you explaining to your computer what's going on? That makes no sense.
 - `INS-260405-A4DB` AI workloads depend on HBM as the data conduit to GPUs, but HBM is harder to manufacture, lower yield, and supply is concentrated in three players.
-- `INS-260423-D900` Hinton: chatbots don't store strings of words or particular events — they make them up when asked, and get details wrong just like John Dean testifying about Watergate meetings he was actually present in.
 - `INS-260625-3B6D` An agent is a genius with amnesia: brilliant in the small slice it sees, but repo-bound (space) and blank-slate every session (time).
 - `INS-260409-2B5F` Hassabis identifies continual learning as an unsolved bottleneck; brains solve it via sleep-driven memory consolidation that AI labs have not yet replicated.
 - `INS-260410-988F` AI problem-solving is trial-and-error at scale, not cumulative — it can jump and fail repeatedly, but it can't reach a handhold, stay there, and climb from it.
 - `INS-260605-DF08` When the important rules live in documents the agent always re-fetches, a multi-hour session can survive 20-50 context compactions because what matters is reconstructed on demand.
+- `INS-260423-D900` Hinton: chatbots don't store strings of words or particular events — they make them up when asked, and get details wrong just like John Dean testifying about Watergate meetings he was actually present in.
 - `INS-260325-5B28` Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
 - `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260626-BCC7` Gemma 4's 'effective' small models gain capacity by keeping a small (256-dim) per-layer embedding table in flash memory rather than VRAM, since VRAM is the binding on-device constraint.
@@ -41,6 +41,7 @@
 - `INS-260410-B501` view() just rewrites stride/shape metadata on the same storage; cat() allocates — so prefer view whenever possible.
 - `INS-260409-B13F` MemPalace stores conversations verbatim and uses structure plus semantic search to find what matters at query time, rather than extracting 'user prefers Postgres' and discarding the conversation that explained why.
 - `INS-260514-7546` Forgetting where the keys are = normal aging. Forgetting that you wear keys (or glasses) = dementia. The categories are different.
+- `INS-260405-5BD3` After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.
 - `INS-260404-A526` Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 - `INS-260405-8412` Your mind is a compiled program whose source code you've lost — the program still runs correctly.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
@@ -48,4 +49,3 @@
 - `INS-260330-B784` Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
-- `INS-260405-5BD3` After seeing hundreds of pitches, investors' first filter is memory — a single sticky phrase ('the X of Y') determines whether you clear that bar.

@@ -56,7 +56,6 @@ stance: >-
   24 hours, convert any user complaint into an eval, and use evals offensively
   to scope what it can ship before shipping it.
 related:
-  - INS-260322-D1AB
   - INS-260327-E07C
   - INS-260410-4EB9
   - INS-260605-A3F4
@@ -66,6 +65,7 @@ related:
   - INS-260625-8A55
   - INS-260625-D1F9
   - INS-260627-4072
+  - INS-260628-A747
 ---
 Most teams treat 'we have evals' as a binary milestone. Goyal reframes eval maturity as three observable behaviors. First, when a new frontier model drops, a mature team launches a product update incorporating it within 24 hours (he cites Notion doing this every release); inability to do so means the eval harness isn't actually decoupled from the model. Second, when a user complains, there is a clear, low-friction path to fold that complaint into the eval set — otherwise valuable signal leaks 'into the ether.' Third, and most distinctively, evals are played on offense: unlike unit tests that only catch regressions, good evals tell you which use cases you can solve, and how well, before you ship anything.
 

@@ -5,6 +5,7 @@
 - `INS-260625-131D` The giant prompt is the agentic version of the god class — decompose the distinct jobs hiding inside it and put each responsibility where it belongs.
 - `INS-260627-FAFC` The field has shifted from 'one LLM-calling-tools loop per microservice' to treating each such loop as a micro-task you compose into a larger system that users would recognize as 'the agent.'
 - `INS-260626-8F3D` Treat a 10-step automation as guaranteed to fail eventually: break it into simpler pieces or add real guardrails, and clean noisy nodes and bloated memory regularly.
+- `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
 - `INS-260514-EE1F` Western culture is excellent at decomposing problems (Descartes), structurally weak at synthesis. AI era requires synthesis: curate AI outputs, juxtapose recombinant content, integrate across silos. Synthesis skill = disproportionate advantage.
 - `INS-260330-BEAD` Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
@@ -21,4 +22,3 @@
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-1519` The Banach-Tarski proof works by naming every point on a sphere after the rotation sequence that reaches it, then showing that rotating one directional subset 'cancels' its prefix and regenerates the others.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
-- `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.

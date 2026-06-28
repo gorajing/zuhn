@@ -58,7 +58,7 @@ related:
   - INS-260404-AE27
   - INS-260409-0A28
   - INS-260501-B6EE
+  - INS-260628-52EA
   - INS-260627-2EB8
-  - INS-260330-80A2
 ---
 The human cognitive apparatus is tuned for linear and quadratic change. We extrapolate naturally from the last N years into the next N years. This works in inverse-square domains (driving at night, diminishing radio signal) because the change is well-behaved. It fails catastrophically in exponential domains (driving in fog, compound interest, epidemic growth) because the extrapolation understates the magnitude at the forecast horizon by orders. Hinton argues AI capability is exponential and linear extrapolation produces reasonable 2-year forecasts and completely hopeless 10-year forecasts. The practical consequence: any strategy document predicting what AI will or will not do by 2035 is almost certainly wrong at the qualitative level, not just wrong at the quantitative level. Planners should operate with short planning horizons (months), frequent re-evaluation, and explicit acknowledgment that their forecasts beyond 3-5 years are essentially guessing. Organizations that commit to 10-year capital investments based on AI forecasts should price in very large uncertainty bands or accept they are gambling.

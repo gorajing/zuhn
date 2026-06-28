@@ -44,11 +44,11 @@ stance: >-
 related:
   - INS-260325-F981
   - INS-260403-402A
+  - INS-260628-16B9
   - INS-260405-567D
   - INS-260423-6172
   - INS-260323-8AEC
   - INS-260405-3B54
-  - INS-260327-991D
 ---
 The talk framed RL for agent models as a pipeline of rollout generation, reward scoring, and trainer updates. In short-output settings, the trainer can dominate, but in long-horizon agent work the rollout engine can consume most wall-clock time because each sample may require long generation. This means vLLM-style inference optimization, speculative decoding, quantization, and scheduling are no longer serving-only concerns; they directly determine how much training signal reaches the model per unit time.
 

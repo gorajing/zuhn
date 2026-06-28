@@ -63,6 +63,7 @@ related:
   - INS-260403-0350
   - PRI-260328-8317
   - INS-260626-83D7
+  - INS-260628-302C
 ---
 On the cannibalization fear — that agents doing tasks (answering email, searching) reduce human eyeball-hours on your products — Kilpatrick argues the goal of the technology is 'so it can go and do stuff for you.' Success for Google 'probably doesn't look like maximizing eyeball time in front of our products; it's maximizing outcome for customers to do the thing they want so they can go and live their life.' He expects Google to deliberately go 'down the route of maximizing outcomes for customers and not maximizing eyeballs.'
 

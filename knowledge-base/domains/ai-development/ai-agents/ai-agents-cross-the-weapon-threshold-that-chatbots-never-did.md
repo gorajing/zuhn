@@ -54,6 +54,7 @@ related:
   - INS-260605-27CC
   - INS-260410-9B0E
   - INS-260624-595D
+  - INS-260628-EF78
   - INS-260408-11E1
 ---
 Chatbot-era AI risk was fundamentally about information — teaching humans how to do harmful things. Agent-era AI risk is about execution capability. An AI agent that can find a lab, commission synthesis of a pathogen, and arrange delivery has collapsed the entire skill barrier that previously protected society from bioterror attacks by lone actors.

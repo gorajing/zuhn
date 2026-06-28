@@ -1,3 +1,4 @@
 # Tag: capability-tracking
 
 - `INS-260625-4D09` METR explicitly treats the RCT as a snapshot and says newer late-2025 results may no longer match the early-2025 slowdown.
+- `INS-260628-F01C` Braintrust ran evals every quarter for two years on frontier models' ability to improve prompts/datasets/scorers, and only built Loop once the eval said the models had crossed the threshold.

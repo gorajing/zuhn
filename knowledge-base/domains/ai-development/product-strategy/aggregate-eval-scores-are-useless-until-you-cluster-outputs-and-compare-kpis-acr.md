@@ -64,11 +64,11 @@ stance: >-
   across segments to know what to build, fix, or ignore.
 related:
   - INS-260329-BE8E
+  - INS-260628-A747
   - INS-260322-D6D7
   - INS-260625-8A55
   - INS-260322-5CBF
   - PRI-260323-2E5A
-  - INS-260625-D1F9
 ---
 Liu's argument is that an aggregate score ('factuality is 0.6') gives you nothing to act on — the same way a marketing KPI of 0.5 is inert until you discover that under-35 users convert well and over-35 users don't. Segmentation 'draws a line in the sand' that converts a number into a decision.
 

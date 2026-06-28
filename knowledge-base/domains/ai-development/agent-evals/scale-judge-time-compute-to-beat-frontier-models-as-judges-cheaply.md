@@ -58,7 +58,7 @@ related:
   - INS-260605-8789
   - INS-260627-CFAC
   - INS-260625-FC64
-  - PRI-260321-14D8
+  - INS-260628-7548
 ---
 The same inference-time-compute scaling that boosts reasoning models can be redirected to the judging stage — 'scaling judge-time compute.' There are two poles. The structured pole uses off-the-shelf models with strong inductive priors, wired into agent architectures borrowed from the scalable-oversight subfield of AI safety: weaker models debating each other about a stronger model's output, self-verification (an LLM critiquing its own reasoning), and ensembling. Haize's 'verdict' library, running a GPT-4o-mini backbone in a self-verified debate ensemble, reportedly beat o1, o3-mini, and Sonnet on expert-domain QA verification at less than a third of the cost and latency.
 

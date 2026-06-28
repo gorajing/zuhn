@@ -65,7 +65,7 @@ related:
   - INS-260627-E257
   - INS-260328-8CCC
   - INS-260325-EF66
-  - PRI-260403-EA13
+  - INS-260628-3B84
 ---
 The speaker gives a concrete decoder for what each loss level *means* in capability terms, which turns an opaque number into a diagnostic. A model trained from scratch starts at the natural log of the vocabulary size — ln(65) ≈ 4.17 — which is the loss of pure random guessing and confirms the model 'knows nothing.' As loss drops to ~3.3 it learns character frequencies; ~2.5 it forms common fragments like 'th' and the word 'in'; 1.5-2.0 it produces real words; 1.0-1.2 it generates names and locally coherent text; below 1.0 on this dataset it begins overfitting and gets *less* creative without getting better.
 

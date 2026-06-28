@@ -8,6 +8,7 @@
 - `INS-260330-6D43` Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
 - `INS-260605-B136` Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
 - `INS-260627-F457` Because a PR gate sits at the chokepoint of the SDLC, an AI code reviewer can enforce both code-level concerns (security, efficiency) and process-level requirements (block PRs below a coverage threshold) in one place.
+- `INS-260628-8649` Run the full eval suite on every PR (and on a daily schedule) so you can see whether a change flips tiles from red to blue without breaking others.
 - `INS-260605-0266` An agentic app that took 2 weeks to build took 12 more months to reach production because every governance layer — security, AI gateway, data, infra, app teams — ran at human speed.
 - `INS-260625-7996` GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
 - `INS-260605-0C5C` The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches.

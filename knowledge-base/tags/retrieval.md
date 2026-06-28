@@ -42,12 +42,12 @@
 - `INS-260410-4D86` RAG chunks lose the document-level context that determines whether they're relevant to a query, which is why retrieval fails even when the right chunk exists.
 - `INS-260628-0AC7` A fast eval is a set of query-document pairs you measure by checking whether the right docs come back in the top-k, and it should run in seconds for pennies.
 - `INS-260628-1AF2` You can bootstrap a golden dataset by teaching an LLM to write queries, but only if you semantically align their specificity to real queries — naive 'write a question for this doc' produces overly-specific queries that overstate your success rate.
-- `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
-- `INS-260628-28B0` Models have huge context windows but weak attention focus, so move the most relevant context high in the window and cut the noise.
-- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260605-0E65` Constant-information tasks (needle-in-haystack, O(1)) survive a full context window, but linear or quadratic information demands degrade accuracy to 30-60% even at low occupancy.
 - `INS-260625-5EEE` A blocked web fetch causes the model to fall back to its 2024 training data and report it as the 2026 present, hiding a temporal-grounding failure behind a confident answer.
 - `INS-260625-BF8B` DeepSeek-V4's multi-needle retrieval stays stable to ~128k tokens, then degrades — still impressive at 1M but no longer reliable — showing that mechanical capacity to process a context outruns the ability to recall from it.
+- `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
+- `INS-260628-28B0` Models have huge context windows but weak attention focus, so move the most relevant context high in the window and cut the noise.
+- `INS-260626-CE12` You have no sense of how much training data a model has seen for the exact thing you're asking — so out-of-distribution answers arrive as confidently as well-grounded ones, and your job is to detect and fill those gaps.
 - `INS-260625-4248` The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.
 - `INS-260605-9402` Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - `INS-260627-CFA6` The PoisonedRAG result: five malicious chunks in an 8-million-document corpus suffice to make an LLM emit an attacker-chosen answer for a target query.

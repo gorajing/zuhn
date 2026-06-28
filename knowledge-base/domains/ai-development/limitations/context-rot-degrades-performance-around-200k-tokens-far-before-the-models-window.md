@@ -71,6 +71,7 @@ related:
   - INS-260625-1CB8
   - INS-260626-59D9
   - INS-260627-266C
+  - INS-260628-0EB2
 ---
 As an agent's context accumulates — system prompt, tool definitions and schemas, few-shot examples, retrieved data, conversation history — performance degrades in a way the speakers call 'context rot.' Critically, this happens much earlier than the headline limit: not at 1M tokens but worsening fast after roughly 200k. The cause is rooted in how long-context models are trained: they're taught to retrieve a single random fact inserted into a large corpus (the needle-in-a-haystack setup), which optimizes for pinpoint retrieval but never teaches the model to leverage the whole context to answer a question — the 'lost in the middle' problem. Building a training set that does teach whole-context reasoning would be prohibitively expensive, so the limitation persists.
 

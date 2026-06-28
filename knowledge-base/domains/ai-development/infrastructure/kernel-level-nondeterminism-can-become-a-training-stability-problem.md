@@ -44,11 +44,11 @@ stance: >-
   can accumulate into policy mismatch, making deterministic or matched kernels a
   reliability tool rather than a purity preference.
 related:
+  - INS-260628-9322
   - INS-260624-02AB
   - INS-260627-FCAE
   - INS-260605-C873
   - INS-260404-CE26
-  - INS-260410-699C
 ---
 The talk argued that inference and training engines may produce slightly different outputs even with the same nominal model because floating-point addition is not associative and GPU kernels partition matrix operations differently. Quantization, kernel fusion, MoE routing, sampling, and async weight updates can widen this gap.
 

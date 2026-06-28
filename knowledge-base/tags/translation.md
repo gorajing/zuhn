@@ -1,5 +1,6 @@
 # Tag: translation
 
+- `INS-260628-449A` With translation effectively solved, a founder can run founder-quality Japanese customer support without speaking Japanese — small teams now reach any market.
 - `INS-260605-1C4E` Treat structure as a viewing choice: the same content can be projected into markdown, graphs, clusters, folders, or timelines depending on what you need, so pick multiple representations deliberately.
 - `INS-260330-81A7` Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified

@@ -50,9 +50,9 @@
 - `INS-260626-A3E4` Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours.
 - `INS-260410-8767` Zuckerberg predicts most Meta AI-research code will be written by goal-driven AI agents within 12-18 months, replacing human-authored code rather than just augmenting it.
 - `INS-260626-BDAB` PR-level studies show engineers are only marginally faster with AI (the METER study even found them 20% slower while feeling 20% faster), but the organizational unlock comes from giving non-technical teammates coding agents so they stop waiting on engineers.
-- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260627-E660` Agents shine on moderately complex tasks but their performance drops off when pushed to highly complex ones — and trivial 'wins' are often artifacts or cheating.
 - `INS-260325-3F86` AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
+- `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260627-C7D2` Treat the vendor's harness as a new abstraction layer so model upgrades stop forcing prompt and tool rewrites, and spend the saved effort on your product.
 - `INS-260627-A842` Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.

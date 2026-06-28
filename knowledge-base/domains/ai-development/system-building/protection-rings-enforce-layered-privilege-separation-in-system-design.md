@@ -48,11 +48,11 @@ stance: >-
   explicit escalation for kernel access prevents cascading failures and security
   breaches.
 related:
+  - INS-260628-9322
   - INS-260329-90F4
   - PRI-260403-9E80
   - INS-260603-6B3D
   - INS-260627-6BD0
-  - INS-260619-F7E3
 evidence:
   - id: INS-260329-90F4
     type: CHALLENGES

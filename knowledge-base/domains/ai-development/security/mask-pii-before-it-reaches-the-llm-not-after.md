@@ -52,11 +52,11 @@ stance: >-
   Sensitive data must be masked at ingestion before it ever reaches the LLM,
   because masking downstream is already too late.
 related:
+  - INS-260628-9322
   - INS-260625-027A
+  - INS-260628-6714
   - INS-260603-6C2A
   - INS-260329-818A
-  - INS-260421-665D
-  - INS-260625-D148
 ---
 Raw call audio routinely contains credit card numbers, passwords, and other PII. The architecture masks this at the earliest stage — using buffer management and early-stage PII masking — specifically so the sensitive data never enters the LLM's context or reaches the cloud endpoint at all. The security boundary is placed before the model, not after its output.
 

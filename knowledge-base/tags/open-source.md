@@ -61,8 +61,6 @@
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260320-0063` n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
 - `INS-260605-7E75` Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company.
-- `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
-- `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.
 - `INS-260405-94A0` OSS is not free software without monetization — it is a distribution and ecosystem strategy that enables diverse commercial models on top.
 - `INS-260405-ABCF` Every closed project depends on OSS components, and OSS projects depend on closed companies funding them.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
@@ -79,3 +77,5 @@
 - `INS-260410-49D7` Meta open-sources distributed computing infrastructure and AI models specifically because Google got there first — open-sourcing their own version commoditizes Google's proprietary moat and standardizes the supply chain around Meta's designs.
 - `INS-260405-B76E` Open source handles large-scale universal problems; closed software refines and distributes those solutions to specific users.
 - `INS-260323-CD28` Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
+- `INS-260409-3FDE` Contributor gizmax reproduced MemPalace's 96.6% LongMemEval R@5 on M2 Ultra in under 5 minutes using the public benchmark scripts — that reproduction is exactly what forced the retraction of the other overclaims by making ground truth reviewable.
+- `INS-260409-42F7` Within 48 hours of the MemPalace launch, maintainers Milla Jovovich and Ben Sigman wrote a public 'What we got wrong' section admitting four specific overclaims and shipped fixes — a level of intellectual honesty that product marketing incentives rarely allow.

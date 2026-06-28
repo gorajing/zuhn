@@ -64,6 +64,7 @@ related:
   - PRI-260411-9CB1
   - INS-260323-AF7B
   - INS-260627-FEB4
+  - INS-260628-17BE
 ---
 The central design principle behind Composer's RL is train-inference parity. The team runs rollouts that pretend to be real cursor queries, using exactly the same ~10 tools (read files, edit files, codebase search, lints, shell), the same tool format, and the same tool responses the model will see in production. Any drift between the training environment and production degrades the transfer.
 

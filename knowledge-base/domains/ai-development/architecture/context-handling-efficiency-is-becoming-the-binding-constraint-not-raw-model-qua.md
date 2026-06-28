@@ -65,8 +65,8 @@ related:
   - INS-260625-35C5
   - PRI-260403-7585
   - INS-260627-6031
+  - INS-260628-EBA5
   - INS-260625-25BF
-  - INS-260409-04C8
 ---
 DeepSeek-V4 frames the motivation explicitly: two trends are converging to push contexts longer than ever. Agentic workflows are scaling up and require reasoning over longer and longer contexts, while reasoning models and test-time scaling push models to spend more compute verifying and refining their own outputs. Both make efficient ultra-long-context handling the priority — and standard attention scales quadratically with sequence length, making it the bottleneck that gates the whole direction.
 

@@ -12,6 +12,7 @@
 - `INS-260626-5545` Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
 - `INS-260627-2925` Map the human expert's loop — compile, run, check correctness, profile, optimize — and put the agent in that same loop rather than inventing a novel abstraction.
 - `INS-260605-B182` Earn the right to automate by being able to do the task by hand first — otherwise you can't structure, verify, or correct the agent.
+- `INS-260628-17BE` Giving an AI a single cursor felt like 'putting a Formula 1 driver in a Prius'; the model has presence and can read many files while writing another, so the form factor should let it work in parallel.
 - `INS-260605-C775` Build agent-facing systems by exposing open, controllable primitives instead of clean abstracted APIs, because any layer the agent can't get behind becomes a hard ceiling.
 - `INS-260626-BD97` The paper's component analysis finds that coverage-preserving extraction can beat more selective extraction for downstream answerability.
 - `INS-260627-FEB4` Bash is the most powerful agent 'tool' because it is composable, low-context, and lets the agent reuse all existing software while checking its own work.
@@ -29,6 +30,7 @@
 - `INS-260626-2A5F` Optimizing prompts gets you a slice of the gains; encoding reasoning strategies in code is what takes a hard task from a few percent to near-saturation.
 - `INS-260605-29BD` Easy undo bounds the downside cost of agent actions, simplifying the user's ROI calculation and encouraging them to attempt bolder, higher-value tasks.
 - `INS-260625-7592` If a task has an exact answer reach for code, if it needs interpretation reach for the agent, and if it needs authority reach for a human.
+- `INS-260628-EBB4` The consistent lesson from frontier labs is to stop over-complicating agents — the SOTA results come from very simple scaffolds.
 - `INS-260605-C86D` A skill loads only its front-matter description into context up front; the full SKILL.md body and any referenced files are pulled in lazily, only once the agent's description-match tells it the skill is relevant.
 - `INS-260626-9D78` Decompose an agent's behavior into four layers — immutable identity, situational mode, example-anchored voice, and a post-generation veto — assembled in a fixed order rather than crammed into one prompt.
 - `INS-260605-35D1` Picasso's 'good artists copy, great artists steal' applied to agents: study the best ones deeply, internalize their patterns, and build something better and unique.
@@ -39,6 +41,7 @@
 - `INS-260627-F9F3` Define the A2A blueprint as interfaces and ports rather than tying it to LangChain/Agno, so each team implements in its preferred framework but every agent exposes the same contract.
 - `INS-260514-4FDC` Codex harness = 6 components in 3 layers: STANDARDS (agent.md + memory), PROCEDURES (skills + MCP), EXECUTION (hooks + sub-agents). Each layer answers a distinct question — confusing them produces broken harnesses.
 - `INS-260626-48F7` When a new model drops, the code you wrote is worth the same or less, but the prose you wrote can be put to even greater use — so build agents out of markdown, not scaffolding.
+- `INS-260628-AF2E` Stop being a 'helicopter parent' correcting an agent word by word; become a 'character coach' who builds the nature you want the agent to have.
 - `INS-260605-3AAF` Surfacing an agent's plan, tool calls, inputs/outputs, and uncertainties shifts the user from passive delegator to active collaborator, building trust and enabling early intervention.
 - `INS-260421-CE27` MemMachine demonstrated that single-node retrieval of 'suggest dessert' could miss a stored 'allergic to peanuts' fact; expanding to ±2 neighbor nodes catches the constraint.
 - `INS-260626-9A39` When Kenton told a model to play tic-tac-toe by inspecting a canvas's array of strokes rather than generating a tic-tac-toe app, it recognized the board from raw state and played — with zero tic-tac-toe code anywhere in the system.

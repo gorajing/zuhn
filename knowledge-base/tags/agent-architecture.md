@@ -3,6 +3,7 @@
 - `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 - `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260625-D943` Keeping policies in the base model's context is fragile under attack; a separate small filter model checking inbound content and outbound tool calls gives a far better usability-vs-security trade-off.
+- `INS-260628-34CF` Implement a subagent as a small wrapper script that launches a fresh child instance of the same agent, captures its file output, and prints it to stdout.
 - `INS-260410-315B` E-commerce long-tail SEO creates persistent URL slugs from agent queries, turning the public web into an unintentional scratchpad shared across every agent run.
 - `INS-260327-DC4C` AI agents are like the character in Memento -- highly capable but amnesiac each session, requiring deliberate external context systems to function coherently.
 - `INS-260627-0D20` Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.

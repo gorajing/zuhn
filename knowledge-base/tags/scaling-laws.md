@@ -20,6 +20,7 @@
 - `INS-260625-2F7C` When you are unconstrained by compute but constrained by data, the optimal training recipe inverts — old-school regularization and ensembling deliver 5–17x data-efficiency wins.
 - `INS-260410-AA93` Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
 - `INS-260403-1F1B` More training data produces diminishing performance improvements, forcing differentiation through data quality and architecture innovation.
+- `INS-260628-7548` On scientific reasoning, training on a small clean set of expert-verified questions beats a larger mixed-quality set—data quality matters more than raw size.
 - `INS-260501-31E1` Cost minimization heuristic: when summed costs follow power laws, the optimum is where each term is equal — apply this to pretraining/RL/inference.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260403-B73D` RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.

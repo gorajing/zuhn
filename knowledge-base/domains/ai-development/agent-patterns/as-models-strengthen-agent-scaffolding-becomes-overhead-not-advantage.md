@@ -63,7 +63,7 @@ related:
   - INS-260624-A121
   - INS-260625-9BEB
   - INS-260626-48F7
-  - PRI-260426-890F
+  - INS-260628-EBB4
 ---
 For years, builders compensated for weak models with clever scaffolds — RAG indexing, search trees, tool-calling abstractions, context-engineering tricks. Pash argues these were coping mechanisms for model weakness, and frontier models now plow straight through them: the scaffolding mostly just gets in the way. His proof point is Gemini 3.0 topping Terminal-Bench leaderboards through Terminus, a deliberately unopinionated, stripped-down harness with no graph search, no RAG, no indexing — 'here's a terminal, go figure it out' — beating the vast majority of model-plus-agent combinations out of the box.
 

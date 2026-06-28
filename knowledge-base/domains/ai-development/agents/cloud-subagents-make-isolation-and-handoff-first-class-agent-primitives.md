@@ -50,7 +50,7 @@ related:
   - INS-260605-738E
   - INS-260605-D055
   - INS-260322-A367
+  - INS-260628-34CF
   - INS-260605-0C56
-  - INS-260626-ECA6
 ---
 Cloud subagents change parallel agent work from an ad hoc process into a product primitive. This unlocks long-running CI fixes, PR babysitting, and broad exploration without blocking the local workspace. The tradeoff is provenance: final changes may come from a separate VM and branch. AgentRun should preserve child_run_id, branch, workspace, parent instruction, and merge/handback evidence.

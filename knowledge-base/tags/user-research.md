@@ -1,5 +1,6 @@
 # Tag: user-research
 
+- `INS-260628-C95B` Good evals require mapping the full domain of real user queries — including hard edge cases and boundaries — and avoiding wasted effort on out-of-bounds inputs.
 - `INS-260327-89E4` Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260320-080B` Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.

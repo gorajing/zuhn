@@ -7,3 +7,4 @@
 - `INS-260501-D360` LLMs have anterograde amnesia: they can use what they learned in pretraining and what's in context, but cannot consolidate new learning into persistent memory.
 - `INS-260410-F436` Gradient descent makes you solve the training problem, not generalize well — catastrophic forgetting is the natural default and good transfer happens only when researchers iterate until they find a representation that transfers.
 - `INS-260505-4426` Take the model at every training checkpoint, not just the final one — extreme events are often learned at step 50K, then forgotten by step 500K.
+- `INS-260628-EBA5` Stage RL by problem difficulty (medium then hard) for steady gains, but never stage by context length—progressive context curricula make a long-context model forget its long-context ability irrecoverably.

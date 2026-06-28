@@ -50,7 +50,6 @@ stance: >-
   difficult-but-correct choices, not by a single pivotal moment or brilliant
   strategic insight.
 related:
-  - INS-260329-FEA6
   - INS-260329-59A5
   - INS-260329-2865
   - INS-260329-9A5A
@@ -60,6 +59,7 @@ related:
   - INS-260330-9931
   - INS-260402-33CA
   - INS-260403-99FE
+  - INS-260403-D0EE
 ---
 Horowitz challenges the narrative that startups succeed through one big bet or pivotal moment. Instead, he argues that outcomes are the compound result of getting many small decisions right—each feeling insignificant in isolation but devastating in aggregate when consistently wrong. This reframes founder work from 'find the one big insight' to 'build a system for making many good small calls.'
 

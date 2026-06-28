@@ -52,10 +52,10 @@ stance: >-
   pairs upfront.
 related:
   - INS-260605-2186
+  - INS-260628-A747
   - INS-260625-0E60
   - INS-260625-8A55
   - INS-260627-D21B
-  - INS-260626-60C2
   - INS-260626-8747
   - INS-260627-FEBB
 ---

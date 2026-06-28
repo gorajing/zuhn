@@ -1,5 +1,6 @@
 # Tag: agentic-coding
 
+- `INS-260628-2043` Build agent benchmarks on top of a real agent harness (e.g., Claude Code) across realistic end-to-end tasks and open-source the full trajectories so the scores are auditable.
 - `INS-260627-9228` Insert review checkpoints after task creation and after the implementation plan — not just after the code — to catch a drifting agent early.
 - `INS-260501-FD20` Greg Brockman: over the course of December, agentic coding tools went from writing 20% of your code to writing 80% — they went from sideshow to main thing.
 - `INS-260605-CE25` Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.

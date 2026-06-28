@@ -53,11 +53,10 @@ stance: >-
   text rather than a retrievable database of facts.
 related:
   - INS-260409-6560
+  - INS-260628-BEC2
   - PRI-260407-7FB7
   - INS-260403-64F4
   - INS-260327-5D5F
-  - INS-260626-CE12
-  - INS-260505-D1E9
 ---
 Karpathy reframes a 140GB Llama-2-70B checkpoint as a ~100x lossy compression of ~10TB of internet text, contrasted explicitly against lossless zip. This mental model explains why LLM knowledge is simultaneously vast and unreliable: the model captures the gist and approximate form of documents without preserving identity. Hallucinations aren't bugs layered on top of a lookup system — they are the default mode of operation, since inference is always generative sampling from a compressed distribution.
 

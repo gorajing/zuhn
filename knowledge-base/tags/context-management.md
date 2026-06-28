@@ -19,6 +19,7 @@
 - `INS-260627-DF4B` Treat third-party tools as ordinary callable functions and run the predictable, always-on parts of a workflow (e.g. login) outside the agent, only handing control to the agent once the deterministic setup is done.
 - `INS-260605-37DA` Keep the first 100 and last 100 characters plus the system prompt and latest tool result, store the truncated middle in memory, and let the agent retrieve it on demand.
 - `INS-260627-A999` A read-only explorer subagent protects the solver from context pollution while still giving it precise evidence.
+- `INS-260628-0EB2` Delegate context-heavy work to a subagent so the exploration tokens stay in its window and only the distilled answer returns to the parent.
 - `INS-260626-DA0A` Feeding an agent more context isn't the bottleneck — the bottleneck is being able to leverage what you gave it in future sessions.
 - `INS-260605-295D` Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.

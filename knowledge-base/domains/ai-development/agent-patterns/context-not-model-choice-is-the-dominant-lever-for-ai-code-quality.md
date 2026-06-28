@@ -61,6 +61,7 @@ related:
   - INS-260626-A0DC
   - INS-260626-057E
   - INS-260627-E257
+  - INS-260628-EBA5
 ---
 When asked why they don't trust AI generated code, developers attributed it to bad context 80% of the time, and ranked 'better context' as the #1 desired improvement (33%) across all options. Friedman's framing: 'better context, better quality across the board, wherever you're using AI' — context improvements compound across generation, review, and testing simultaneously, whereas a model swap helps one call at a time.
 

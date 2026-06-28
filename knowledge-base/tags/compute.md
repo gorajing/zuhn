@@ -22,8 +22,8 @@
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260403-B73D` RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.
 - `INS-260410-DD35` From 2012-2020 was research, 2020-2025 was scaling, and now we're back to research with big computers because 100x more scale would not transform outcomes.
+- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
+- `INS-260626-D8AE` ElevenLabs built a frontier audio model on a fraction of the capital because audio models are smaller, were a niche with few researchers, and the bottleneck was solvable (transcription/annotation) rather than raw compute.
 - `INS-260403-FCB6` AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
 - `INS-260626-6E01` Classic bubbles form when excess supply destroys economics; AI today is supply-constrained (no data-center capacity until late '28–'29), which makes a near-term bubble structurally unlikely even if a longer-term one remains possible.
 - `INS-260402-F833` The U.S. leads in advanced chips while China leads in energy production — whoever integrates both first wins the AI race.
-- `INS-260404-5AC8` AI infrastructure companies benefit from booming demand regardless of which AI models or applications ultimately dominate.
-- `INS-260626-D8AE` ElevenLabs built a frontier audio model on a fraction of the capital because audio models are smaller, were a niche with few researchers, and the bottleneck was solvable (transcription/annotation) rather than raw compute.

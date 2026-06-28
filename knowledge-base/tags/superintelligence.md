@@ -6,5 +6,5 @@
 - `INS-260410-91A1` Imagine a superintelligent 15-year-old that's very eager to learn — you deploy it as a programmer, doctor, etc., and the deployment itself is a learning process, not a finished product release.
 - `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
 - `INS-260403-7089` The power structure emerging from AI development converges to either state control or corporate warlordism, with no viable middle ground.
-- `INS-260412-D016` An ant cannot understand why humans build roller coasters — similarly, we cannot reliably predict what posthuman intelligences would want or do.
 - `INS-260327-7F64` Reflection AI bets that autonomous coding is the gateway to superintelligence.
+- `INS-260412-D016` An ant cannot understand why humans build roller coasters — similarly, we cannot reliably predict what posthuman intelligences would want or do.

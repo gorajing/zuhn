@@ -58,9 +58,9 @@ related:
   - INS-260409-52CE
   - INS-260514-9D51
   - INS-260627-A4DD
+  - INS-260628-A747
   - PRI-260405-0AC6
   - INS-260625-D1F9
-  - INS-260322-D6D7
 ---
 Asked how prompt learning differs from GEPA (DSPy's prompt optimizer, which also injects English feedback into the prompt), the presenter ran a side-by-side benchmark. GEPA required many loops and rollouts; their approach converged in a fraction of that. The underlying mechanism — use natural-language critique to revise the prompt — was identical. The decisive variable was that they invested heavily in 'eval engineering': writing judge prompts that returned high-quality, specific explanations of failure.
 

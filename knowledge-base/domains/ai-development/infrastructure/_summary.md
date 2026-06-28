@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 100 insights
+> 101 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -34,6 +34,7 @@
 - `INS-260501-E26C` [high] Cache hit price = HBM storage cost; cache miss price = full forward-pass recomputation; the ratio tells you provider's caching strategy.
 - `INS-260625-6E01` [high] Cluster utilization collapses because every degree of separation between the people funding compute and the people running it compounds misalignment at scale.
 - `INS-260605-3345` [high] Compress snapshots seekably and decompress only the memory pages actually needed on restore, shrinking a 512MB VM snapshot to ~14MB and cutting restore to a few hundred milliseconds.
+- `INS-260628-16B9` [high] Different RL task types demand different system designs—co-locate training and inference for short reasoning, decouple them for slow agent rollouts so stragglers don't stall the pipeline.
 - `INS-260423-2B80` [high] Annie: metrics shows what is going on — GPU utilization, current token usage, like a dashboard in your car; tracing shows why a 2.5-second request broke down as it did, the detail behind the scenes.
 - `INS-260423-1C4D` [high] Google Cloud's Model Armor: filters prompt injection, jailbreaks, PII leaks, social security numbers, and harassment at the load balancer layer before requests reach the model.
 - `INS-260501-814C` [high] Physical machines today = 50 different OSes per industry. AI can't deploy until someone builds the Android. That's Applied Intuition.

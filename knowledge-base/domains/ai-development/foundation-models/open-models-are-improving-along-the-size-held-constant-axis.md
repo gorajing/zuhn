@@ -63,9 +63,9 @@ related:
   - INS-260625-A53F
   - INS-260625-FC64
   - INS-260625-B9A5
+  - INS-260628-A39E
   - PRI-260323-8E89
   - INS-260413-C040
-  - INS-260409-E776
 ---
 The talk's central trajectory claim is that open models 'have kept getting better and better without going bigger.' Gemma 3 from a year prior already topped the LM Arena charts among models that fit a single consumer GPU; Gemma 4 pushes the frontier further while still spanning 2B–32B, with even the 31B running on a consumer GPU and the smallest models running on an Android phone, an iPhone, or a Raspberry Pi.
 

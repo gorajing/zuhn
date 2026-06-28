@@ -49,10 +49,10 @@ stance: >-
   a separate AI task loop.
 related:
   - INS-260403-D16C
+  - INS-260628-6420
   - INS-260402-B36F
   - INS-260605-3B06
   - PRI-260323-49F8
-  - INS-260403-008F
 ---
 AI Consult did not ask clinicians to leave the clinical workflow and consult a separate chatbot. It analyzed information entered into the medical record, produced guideline-aligned suggestions, and flagged potential concerns with a green, yellow, or red alert structure while staying invisible to patients.
 

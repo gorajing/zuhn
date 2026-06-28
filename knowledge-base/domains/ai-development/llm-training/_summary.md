@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 108 insights
+> 109 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -92,6 +92,7 @@
 - `INS-260403-F4C7` [medium] Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 - `INS-260625-B5AD` [medium] Partners increasingly find base models 'work too well out of the box' for general tasks, so fine-tuning excitement has shifted from behavior-shaping to injecting domain data the model lacks.
 - `INS-260605-C627` [medium] You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
+- `INS-260628-7548` [medium] On scientific reasoning, training on a small clean set of expert-verified questions beats a larger mixed-quality set—data quality matters more than raw size.
 - `INS-260501-8B78` [medium] GPT-5 is reportedly trained on ~150T tokens; over its 2-month life it generates ~200T tokens — pretraining ≈ lifetime inference, by design.
 - `INS-260410-D082` [medium] Humans generalize dramatically better than models in domains that didn't exist in our evolutionary past (coding, math), which rules out 'evolution gave us a strong prior' as the explanation.
 - `INS-260402-5034` [medium] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.

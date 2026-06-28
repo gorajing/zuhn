@@ -59,8 +59,8 @@ related:
   - INS-260605-36E9
   - INS-260605-A3F4
   - INS-260626-B149
+  - INS-260628-2043
+  - INS-260628-C95B
   - INS-260625-BB42
-  - INS-260530-C385
-  - INS-260626-32B6
 ---
 A single-turn LLM eval is easy because the answer space is tiny and binary ('how many toes does a cat have'). An agentic task is the opposite: given 'this MCP server isn't working, make it work,' the agent reads files, searches docs, installs an environment, runs scripts, then tests—an effectively infinite search space where success also means not breaking other things. Because the search space can't be approximated cheaply, the eval problems themselves must approximate the real distribution of work. Cline solved this by paying users who opted in to share their actual coding sessions, parsing that dataset to find the problems people genuinely solve, then doing hard manual labor to clean it into runnable tasks. Stanford's Terminal-Bench did the analogous thing—89 tasks (race conditions, database issues, infra problems) that take a real agent 30–40 minutes, which is precisely the signal that they're legitimate. The principle: the validity of an agent eval lives in the provenance of its problems, so source them from reality and curate by hand rather than generating them.

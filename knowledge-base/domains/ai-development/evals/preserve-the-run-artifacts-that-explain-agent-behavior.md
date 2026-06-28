@@ -45,9 +45,9 @@ stance: >-
   evidence.
 related:
   - INS-260626-33BE
+  - INS-260628-3746
   - INS-260627-7541
   - INS-260627-AD6B
   - INS-260627-E660
-  - INS-260625-FC2D
 ---
 Cultivar writes structured JSON, readable markdown conversations, raw JSONL event streams, setup/verify/teardown logs, captured workdirs, and grader output per variant. This makes the eval inspectable after the sandbox disappears and supports cost/duration analysis alongside correctness. AgentRun should continue pushing toward artifact completeness, especially for automation runs that may be inspected days later.

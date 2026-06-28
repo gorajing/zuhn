@@ -62,6 +62,7 @@ related:
   - INS-260627-85C7
   - INS-260627-6744
   - INS-260627-F9B1
+  - INS-260628-0EB2
   - INS-260627-CECD
 ---
 A common anti-pattern is building a 'frontend sub-agent,' a 'backend sub-agent,' a 'QA sub-agent,' and a 'data scientist sub-agent' — anthropomorphizing org roles. Horthy argues this misunderstands what sub-agents are for. Their real value is context control: a sub-agent forks a fresh context window, does the expensive work of reading entire files, tracing code flow, and understanding the codebase, then returns a single succinct message ('the file you want is here') back to the parent.

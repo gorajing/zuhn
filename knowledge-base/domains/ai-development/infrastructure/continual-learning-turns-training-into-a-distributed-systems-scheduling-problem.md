@@ -70,10 +70,10 @@ related:
   - INS-260410-38C9
   - INS-260625-15FB
   - INS-260626-BF48
+  - INS-260628-16B9
   - INS-260330-0102
   - INS-260627-D73F
   - INS-260423-6172
-  - PRI-260407-2ACF
 ---
 Traditional training is linear: you kick off a Slurm-style job, spin up GPUs, run sampling and training through one lifecycle, then spin everything down. Malde argues this paradigm falls apart under continual learning, where training never explicitly starts or stops — new data arrives from production in batches, multiple jobs run concurrently, and one run may suddenly need more resources than another. Training stops being a discrete event and becomes an ongoing, dynamic workload.
 

@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 105 insights
+> 106 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260605-91A9` [high] The 1M-token window arrived, but cramming it full leaves the agent unable to reason — there are no entities or relationships, just a haystack good only for needle-search.
@@ -73,6 +73,7 @@
 - `INS-260627-11E7` [medium] Agents compound 'booboos' with zero learning, no bottleneck, and pain that's delayed onto you — and since a sufficiently detailed spec is just a program, every blank you leave gets filled with the garbage code that dominates the internet.
 - `INS-260403-8302` [medium] Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
 - `INS-260403-0A83` [medium] AI that replaces human learning effort may destroy the byproduct discoveries that grow humanity's total knowledge stock.
+- `INS-260628-BEC2` [medium] Because training images are compressed and human-labeled, models absorb both lossy-compression artifacts and the perceptual limits of the humans who made the data.
 - `INS-260514-8FC8` [medium] Modern 'AI' = supervised machine learning + back-propagation, both invented 40+ years ago. The fancy names ('deep learning', 'neural networks', 'AI') exist to create religious aura, not technical precision. Demystifying clarifies both capabilities and limits.
 - `INS-260626-0FA9` [medium] AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
 - `INS-260627-3AF7` [medium] Models write SQL well but fail at real data-science tasks because the underlying enterprise data is a contradictory, undocumented mess.

@@ -59,12 +59,14 @@ stance: >-
   environment creation, not the scoring algorithm or eval method itself.
 related:
   - INS-260625-25D6
-  - INS-260625-0E60
   - INS-260626-EDB3
   - INS-260626-B04D
   - INS-260625-D1F9
   - INS-260605-2186
   - INS-260627-4072
+  - INS-260625-0E60
+  - INS-260628-A747
+  - INS-260628-C95B
 ---
 When asked how domain-heavy evals (e.g., judging whether an agent built a correct discounted-cash-flow model) get solved, Dickerson points to expensive human-in-the-loop validation: companies pay experts $50–$200/hour to sit in lockstep with multi-agent systems on high-stakes work where you can make or lose a lot of money. That expense is justified precisely because the downstream KPI is large.
 

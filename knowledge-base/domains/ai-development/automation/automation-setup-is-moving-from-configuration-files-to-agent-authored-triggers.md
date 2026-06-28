@@ -54,6 +54,7 @@ related:
   - INS-260403-10CE
   - INS-260404-6BD6
   - INS-260404-29AF
+  - INS-260628-E27B
 ---
 Cursor Automations now let a local session describe a recurring task and have the agent configure triggers, instructions, and tools. The trigger surface also widened to Slack emoji reactions and specific GitHub events such as PR review comments, review submissions, review-thread state changes, and workflow-run completion. Cloud agents can then use computer use to produce demos or artifacts.
 

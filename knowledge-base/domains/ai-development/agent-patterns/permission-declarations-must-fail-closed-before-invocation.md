@@ -47,8 +47,8 @@ related:
   - INS-260625-1826
   - INS-260625-BEFE
   - INS-260626-656C
+  - INS-260628-1610
   - INS-260625-ACBC
-  - INS-260602-EA48
 ---
 Rel(AI)Build assigns each agent a single permission tier and checks tool allowlists before the definition reaches the IDE execution context. The paper reports that injected over-privileged tool declarations for low-privilege agents failed under fail-closed tier checks in conformance testing.
 

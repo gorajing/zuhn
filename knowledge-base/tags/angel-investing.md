@@ -1,12 +1,5 @@
 # Tag: angel-investing
 
-- `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
-- `INS-260403-ECB2` Over two-thirds of the best angel outcomes came from deals that were already 'hot' at the time of investment, making access the binding constraint.
-- `INS-260403-1D6E` Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
-- `INS-260404-2250` High-resolution fundraising rewards bold investors with better prices and deal access while penalizing passive 'who else is investing?' followers.
-- `INS-260403-735E` Only one-third of an experienced angel's top performers were rated high-conviction at investment time.
-- `INS-260403-3122` The most effective deal-flow strategy is building a small circle of active angels and sharing every deal you invest in with them.
-- `INS-260403-AB11` Major VC firms are shifting toward later-stage de-risked investments, making micro-VCs and operator-angels the fastest path to early-stage capital in 2026.
 - `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
@@ -15,3 +8,10 @@
 - `INS-260405-95CB` Lenny admits passing on PostHog early because he didn't believe the all-in-one platform strategy would work—a classic case of conventional wisdom blocking a contrarian bet.
 - `INS-260403-EE10` New investor archetypes will fill the early-stage vacuum because existing VCs cannot change their embedded risk profiles.
 - `INS-260403-0680` There's a massive gap between $20K seed checks and $2M Series A rounds where promising startups can't find capital, creating opportunity for new investor classes.
+- `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
+- `INS-260403-ECB2` Over two-thirds of the best angel outcomes came from deals that were already 'hot' at the time of investment, making access the binding constraint.
+- `INS-260403-1D6E` Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
+- `INS-260404-2250` High-resolution fundraising rewards bold investors with better prices and deal access while penalizing passive 'who else is investing?' followers.
+- `INS-260403-735E` Only one-third of an experienced angel's top performers were rated high-conviction at investment time.
+- `INS-260403-3122` The most effective deal-flow strategy is building a small circle of active angels and sharing every deal you invest in with them.
+- `INS-260403-AB11` Major VC firms are shifting toward later-stage de-risked investments, making micro-VCs and operator-angels the fastest path to early-stage capital in 2026.

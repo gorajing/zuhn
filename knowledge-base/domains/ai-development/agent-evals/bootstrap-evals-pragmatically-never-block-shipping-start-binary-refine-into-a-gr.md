@@ -65,9 +65,10 @@ related:
   - INS-260322-D6D7
   - INS-260625-F62D
   - INS-260625-8A55
+  - INS-260628-A747
   - INS-260627-4072
   - INS-260626-60C2
-  - INS-260530-C385
+  - INS-260628-2C38
 ---
 Two complementary heuristics for getting evals off the ground. First, evals should never block you from building: pull an out-of-the-box evaluator (QA correctness, task adherence) to avoid the pain of manually combing through early data, but treat it as a starting point you refine as you discover where the agent actually fails — not a prerequisite gate before any code exists.
 

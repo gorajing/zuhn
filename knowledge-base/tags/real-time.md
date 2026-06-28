@@ -11,3 +11,7 @@
 - `INS-260605-204E` Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
 - `INS-260329-85E9` HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.
 - `INS-260329-C7B8` Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
+- `INS-260628-265C` Bus transmission time is on the same order as compute time, so even a handful of messages can saturate the bus and dominate loop period.
+- `INS-260628-6714` A log flush to disk froze the robot for 30 ms on a Raspberry Pi SD card, and log-on-drop can cascade into a total bus blackout — isolate logging onto its own CPU.
+- `INS-260628-9322` If you boost your user process so high it blocks the kernel, you block the very thing that feeds you data — fix priorities per pipeline stage, not uniformly.
+- `INS-260628-DCE4` Parallelizing TX/RX/policy hides bus latency but creates stale-data, queued-double-message, and overcompensation failures that sound like a broken motor.

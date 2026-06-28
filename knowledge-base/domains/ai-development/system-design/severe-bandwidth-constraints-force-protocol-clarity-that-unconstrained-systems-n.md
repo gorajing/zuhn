@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260321-E4EB
   - INS-260519-C808
+  - INS-260628-265C
   - INS-260605-F039
   - INS-260410-E660
-  - INS-260327-E75F
 ---
 Submarines communicate via Very Low Frequency radio that penetrates seawater but maxes out at ~700 words per minute of text — no audio, no video, no back-and-forth. This extreme constraint means every message must be self-contained, unambiguous, and pre-structured. There's no room for clarifying questions or casual context.
 
