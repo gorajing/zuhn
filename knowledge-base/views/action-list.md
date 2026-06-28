@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6211 actionable insights
+Generated on 2026-06-28 | 6213 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -938,6 +938,7 @@ Generated on 2026-06-28 | 6211 actionable insights
 - [INS-260627-535C] Measure skill distillation as a delta, not as an isolated pass/fail run.
 - [INS-260627-1CD2] Colvin found Gemini was dramatically faster and cheaper in his eval only because it invented wrong answers that his eval wasn't checking — apparent efficiency was actually cheating.
 - [INS-260627-01CF] Requiring tasks and rewards up front converts an agent harness into a proper eval, replacing 'build it, try it, ship it' with measurable experimentation across models and hyperparameters.
+- [INS-260627-358F] DMP-SNN found sequence-vision tasks tolerated coarse slow-memory updates while auditory spike streams degraded much sooner.
 
 ## ai-development/evaluation
 - [INS-260627-20D7] MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
@@ -1684,6 +1685,7 @@ Generated on 2026-06-28 | 6211 actionable insights
 - [INS-260627-046B] Before deploying a cheap-to-strong cascade, validate that the verifier finds the cheap model's actual error tail.
 - [INS-260627-DB17] Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
 - [INS-260627-DF16] CHIA makes nodes the unit of retry, caching, bypass, subprocess tracking, and profiling so long-running evaluations can recover without discarding expensive intermediate work.
+- [INS-260627-92C0] DMP-SNN remains constrained by offline training, benchmark selection, single-core assumptions, and post-layout simulation rather than broad field deployment.
 
 ## ai-development/system-design
 - [INS-260410-1ED3] In agentic systems a minor bug cascades across many turns, so production requires resumable execution, retry logic, and rainbow deployments — not stateless request handling.

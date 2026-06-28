@@ -3,6 +3,7 @@
 - `INS-260626-9E65` Beyond fan-out for speed, spin up N sub-agents to generate divergent hypotheses on the same target — different vulnerability angles on one diff, several implementation approaches for one feature, best-of-N cloud runs.
 - `INS-260627-846D` M2's 10B active parameters make it cheap enough to spin up many parallel copies, turning model size into a multi-agent scalability feature.
 - `INS-260330-77BB` Running multiple AI agents locally hits machine limits at 3-4 worktrees; cloud dev environments remove this ceiling entirely.
+- `INS-260410-ED68` Human science is optimized for depth because that's all humans can do; AI unlocks a parallel breadth-first mode that requires restructuring how science is practiced.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
 - `INS-260626-C4F7` Each rung of orchestration extracts the human from a tighter loop — first stop doing, then stop babysitting, then let agents decompose and plan, until your only job is reviewing outcomes.
 - `INS-260605-6CBF` Decompose an autonomous research loop into a literature-scout researcher, a hypothesis-queuing planner, parallel implementation workers, and a monitoring reporter rather than running one agent that does all steps serially.
@@ -13,7 +14,6 @@
 - `INS-260627-5F5A` If you're tempted to adopt a graph framework mainly to get snapshotting and resumption, durable execution offers finer-grained recovery while letting you keep writing ordinary imperative code.
 - `INS-260605-2D70` Default to one worker/validator at a time and parallelize only read-only work like code search, API research, and code review.
 - `INS-260605-A847` Start with a single sequential agent loop and forget parallelism — you will become the bottleneck on review long before agent throughput does.
-- `INS-260410-ED68` Human science is optimized for depth because that's all humans can do; AI unlocks a parallel breadth-first mode that requires restructuring how science is practiced.
 - `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 - `INS-260410-2383` Ten Napoleons are not worth 400,000 soldiers — parallelizing AI researchers hits diminishing returns fast, and the binding constraints become taste and compute.
 - `INS-260626-5A6D` Frontier models handle long-running complex tasks, but mini/nano models are deliberately positioned to power short-running sub-agents at low enough cost that spinning up many of them in parallel makes economic sense.

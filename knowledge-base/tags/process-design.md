@@ -1,8 +1,8 @@
 # Tag: process-design
 
+- `INS-260514-6EE6` One day a week, every engineer's job is to take every bit of weekly slop and categorically eliminate it from happening again. Compounds dramatically.
 - `INS-260403-082C` Disorganized diligence processes cause more deal failures than actual red flags in the company.
 - `INS-260403-867B` Structured, repeatable diligence processes outperform deeper but disorganized investigation.
-- `INS-260514-6EE6` One day a week, every engineer's job is to take every bit of weekly slop and categorically eliminate it from happening again. Compounds dramatically.
 - `INS-260403-648C` Before reaching for any tool, ask whether the task should exist at all — only then design the system, then automate.
 - `INS-260404-BFAB` Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 - `INS-260403-3A34` Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.

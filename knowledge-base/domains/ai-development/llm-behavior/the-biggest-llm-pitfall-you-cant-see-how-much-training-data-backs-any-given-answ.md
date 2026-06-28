@@ -72,6 +72,7 @@ related:
   - INS-260625-0D5D
   - INS-260625-D790
   - INS-260627-040E
+  - INS-260627-92C0
 ---
 Franceschi frames the central LLM pitfall as a hidden distribution problem: 'imagine if every time you asked an LLM a question it gave you the sampling frequency of this in my dataset.' One answer might be backed by frequency X and another by 0.00001X, and you'd trust them completely differently — but the model surfaces neither, so confidence is decoupled from how much evidence the model actually saw. He notes the models are also more biased than we credit, because their builders' defaults leak in (his example: an accounting-categorization model that reaches for 'AI capex' as its first example, because that's what the model-builders think about).
 

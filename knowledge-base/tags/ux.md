@@ -1,39 +1,4 @@
-# Tag: ux
+# Tag: UX
 
-- `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
-- `INS-260410-953E` MCP servers remained inaccessible not because they lacked power, but because installation required Node.js, manual JSON config editing, and dependency resolution.
-- `INS-260625-464B` Bring the agent to where users already are instead of asking them to go elsewhere — Carrefour plugged its agent into the Google Chat space users already used and got immediate adoption.
-- `INS-260619-B1A8` An agent loop becomes a harness when it exposes the controls humans need to supervise long-running work.
-- `INS-260410-F0EF` Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
-- `INS-260410-14E5` Return denials as tool results so false positives cost a single retry instead of killing the session.
-- `INS-260605-1A2D` Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
-- `INS-260405-1282` The ceiling for AI service replacement is set not by task automation but by whether the agent can handle the disorder, ambiguity, and emotional texture of complex human interactions.
-- `INS-260323-48AF` OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
-- `INS-260321-8382` Agent personality matters more than most tool builders realize — Claude feels like a teammate who cares about your project; Codex feels dry and transactional.
-- `INS-260321-8414` The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
-- `INS-260605-8109` Narrowing an agent's action and input space into explicit modes lets engineers optimize prompts and evals on a small surface while aligning user expectations.
-- `INS-260410-A1E9` Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
-- `INS-260605-D055` Agent work is inference-bound, so run several agents in parallel on isolated cloud machines and supervise them through a Kanban board like an engineering manager over ICs.
-- `INS-260625-CF6B` Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.
-- `INS-260605-320E` The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
-- `INS-260322-191F` Some voice AI companies intentionally add latency and background noise to make agents sound more human, revealing that performance has outpaced user comfort.
-- `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
-- `INS-260627-718B` Decouple the response stream from the API handler by storing it (Redis in prod, a file locally) under the workflow's run ID so any client can reconnect and resume.
-- `INS-260605-F8EF` Putting a slow, powerful agent in Slack reframes 10-minute latency as impressively fast, because the comparison class is a human teammate, not ChatGPT.
-- `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
-- `INS-260627-00BE` Most coding agents are 'supervised autonomy' (Tesla FSD — you need a license and stay at the wheel); serving knowledge workers requires 'unsupervised autonomy' (Waymo — sit in the back, no license, all complexity hidden).
-- `INS-260403-990E` AI embedded in existing workflows like email gets adopted faster than AI requiring new habits.
-- `INS-260605-C122` Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
-- `INS-260625-4DE2` Embed interactive UI in the chat so users click instead of re-typing and never have to leave for a browser.
-- `INS-260605-75BB` Clients hold a continuously maintained connection to a shared session so a second tab or phone has instant visibility and an upstream channel to the working agent.
-- `INS-260605-48CA` Put a persistent, stateful shared resource between agents and clients so stream health no longer depends on any one connection.
-- `INS-260605-204E` Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
-- `INS-260410-A18B` Claude Desktop ships its own Node.js runtime so extensions never fail on 'user doesn't have Node installed' or version mismatches.
-- `INS-260405-A9B2` Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.
-- `INS-260403-66AE` User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed.
-- `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
-- `INS-260525-63C8` Both speakers: the agent builds, but product intent, the emotional 'step' of design, UX consistency, and knowing the market stay human.
-- `INS-260329-7F3D` Telling users 'the system is confused' instead of 'you made an error' prevents the emotional shutdown that causes abandonment.
-- `INS-260403-C752` Even early adopters now expect a baseline of design quality, so MVPs that look half-baked get abandoned before they can generate useful feedback.
-- `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
-- `INS-260405-E353` Costco's maze-like layout and IKEA's self-assembly both work because they make customers feel like active participants who earned their reward rather than passive consumers.
+- `INS-260323-1B0B` The sense of presence in AR/VR is less about any single feature being great and more about no single flaw breaking the illusion.
+- `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.

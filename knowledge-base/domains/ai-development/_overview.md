@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 3825 insights across 52 topics
+> 3831 insights across 52 topics
 
 ## Topics
 
@@ -19,22 +19,22 @@
 | ai-security | 3 | Agent security evaluation should distinguish malicious prompts discovered on pages from confirmed agent actions caused by those prompts. |
 | alignment | 114 | Accidental misalignment in automated workflows is more dangerous than deliberate misuse because it cascades silently at scale. |
 | applications | 86 | Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms. |
-| architecture | 139 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
+| architecture | 140 | The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read. |
 | automation | 14 | Blockade → commerce raiding → convoying is the same pattern as every firewall → exploit → intrusion detection cycle; the ladder is older than it looks. |
 | career-strategy | 2 | Engineers must move from writing code to orchestrating agents and dividing up work, but ~70% of surveyed companies haven't changed any role definitions — they assume people will 'just do things differently' while the formal role stays identical to two years ago. |
 | claude-code | 81 | Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer. |
 | code-review | 6 | Writing code has become reading code, so every engineer is now a reviewer — distribute the exploding PR load with assignment and SLOs, and optimize per-response latency, not total review time. |
 | economics | 22 | Agent systems need spend control as much as capability control. |
 | embeddings | 32 | Different basis choices make different operations trivial or impossible in vector spaces. |
-| evals | 16 | Colvin found Gemini was dramatically faster and cheaper in his eval only because it invented wrong answers that his eval wasn't checking — apparent efficiency was actually cheating. |
+| evals | 17 | Colvin found Gemini was dramatically faster and cheaper in his eval only because it invented wrong answers that his eval wasn't checking — apparent efficiency was actually cheating. |
 | evaluation | 1 | MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome. |
 | foundation-models | 29 | Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters. |
 | future-of-work | 159 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | governance | 59 | 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real. |
-| hardware | 31 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
+| hardware | 32 | An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead. |
 | human-ai-relationship | 120 | Ben Gilbert: most people for most tasks throughout the day, it still doesn't occur to you even if you're an AI maximalist trying to lean into the tools — there's just not the muscle memory yet, and most people 99-plus-percent still don't think 'I should create an agent to do that on my behalf.' |
 | industry-trends | 26 | If agents were really delivering full value, a kid would have vibe-coded a hit game by now — that we haven't seen it suggests we're still in experimentation. |
-| inference | 4 | Expect smaller models close to users (on-device or edge) collaborating with larger cloud models, which forces a move away from Python-and-Docker toward lower-level, hardware-close runtimes. |
+| inference | 5 | DMP-SNN's gains came from matching the algorithm to near-memory compute, operator fusion, dependency breaking, and separate sparse/dense dataflows. |
 | infrastructure | 99 | A 128GB M5 Pro Max + 3-model local stack (~71GB RAM) now runs a 9,700-note personal AI wiki without cloud — the hardware floor for serious local knowledge work has dropped to single-laptop. |
 | limitations | 105 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-behavior | 45 | Because models are trained to please, a CAPTCHA or empty page produces a made-up answer instead of an error, making blocked retrieval the dominant hallucination source in agents. |
@@ -50,10 +50,10 @@
 | product-strategy | 175 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | productivity | 30 | swyx's biggest aha was getting work he'd never gotten before from employees — animations, polish, throwaway-fun projects — because agents removed the feedback-cycle bottleneck of waiting on him or a contractor. |
 | prompting | 40 | Hoist must-follow rules into their own critical-rules file positioned high in the agent file, because rules scattered in agent.md/soul.md still get forgotten. |
-| research-methodology | 136 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
+| research-methodology | 137 | Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless). |
 | security | 23 | Approval records should include tool authority and runtime boundary. |
 | software-engineering | 13 | AI coding tools shift leverage from writing code to governing generated code. |
-| system-building | 324 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
+| system-building | 325 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 117 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
 | tooling | 8 | Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context. |

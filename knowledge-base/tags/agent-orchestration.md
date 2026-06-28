@@ -3,6 +3,7 @@
 - `INS-260627-D35C` Aim for ~90% automation with human review of each agent's intermediate output; partial completion (90-95% solved) still delivers an order-of-magnitude lift.
 - `INS-260627-9AF4` Orchestrating fleets of agents pays off enormously on repeatable maintenance toil (CVE remediation, migrations, type annotations), not on everyday feature work.
 - `INS-260605-46A8` For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
+- `INS-260327-7299` Paperclip's bring-your-own-bot approach reflects the reality that different AI models have distinct strengths and personalities, making model-agnostic orchestration the optimal architecture.
 - `INS-260525-4D80` Korean engineer: 'I need someone who can play the role of an engineering manager' — not because the agent is stupid, but because intent has to be translated into what the agent should build.
 - `INS-260327-77E7` Sustained quality from AI agents comes from organizational design patterns (QA loops, approval gates, role specialization) rather than model selection.
 - `INS-260627-69ED` Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order.
@@ -16,7 +17,6 @@
 - `INS-260605-9E46` Hampton solves three problems in one codebase concurrently — local agent writing tests, background agent building the UI, cloud agent writing docs — by varying autonomy so each needs a different slice of his attention.
 - `INS-260627-A999` A read-only explorer subagent protects the solver from context pollution while still giving it precise evidence.
 - `INS-260605-0374` Give each customer its own agent built from a shared role harness (AGENT.md) plus a customer-specific context file (CUSTOMER.md), with persistent sessions per case.
-- `INS-260327-7299` Paperclip's bring-your-own-bot approach reflects the reality that different AI models have distinct strengths and personalities, making model-agnostic orchestration the optimal architecture.
 - `INS-260501-EC31` Tan runs 10-15 parallel Claude Code sessions per day, each in its own work-tree, shipping 10-50 PRs daily as orchestrator rather than implementer.
 - `INS-260514-2E48` AI runs 24/7. Humans don't. In Amazon warehouses, AI already dispatches humans via headsets. The roles invert.
 - `INS-260424-7A03` Google Cloud lead: CPUs are going to make a comeback — there's a lot of general-purpose compute involved in running these agents, orchestrating inference, creating sandboxes, virtual machines to build code, run it, check results.

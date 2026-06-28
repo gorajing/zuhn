@@ -1,12 +1,12 @@
 # Tag: search
 
 - `INS-260625-355D` Agents that make a change and then immediately query must see that change reflected in the indexes — eventual-consistency search pipelines silently break this read-after-write expectation.
-- `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top.
+- `INS-260624-595D` Security automation benefits from specialist agents that pursue different attack surfaces in parallel.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
+- `INS-260412-9B00` At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260626-1759` Agents exhibit 'satisfaction of search' — they latch onto the first thing that resembles the answer and stop, missing the real golden nuggets in places they wouldn't think to look.
 - `INS-260405-C17A` Once an AI cites a source, it tends to return to it — making first-mover citation advantage self-reinforcing.
-- `INS-260412-9B00` At launch, a single ChatGPT response cost ~5 cents vs fractions of a cent for Google search, making Google-scale AI deployment cost $425M/day.
 - `INS-260403-05EB` Gartner's prediction that 90% of B2B purchases will flow through AI agents means product quality replaces marketing spend as the primary growth lever.
 - `INS-260323-89C2` The 10 Blue Links was always a compromise — if the Google founders had LLMs from the start, they would have gone straight to direct answers, making the current AI transition an inevitability, not a disruption.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.

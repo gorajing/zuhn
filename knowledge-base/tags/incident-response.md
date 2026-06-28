@@ -1,7 +1,7 @@
 # Tag: incident-response
 
-- `INS-260627-AA4B` Bloomberg deploys incident-response agents because AI scans code, telemetry, feature flags, and traces both very fast AND without the 'it must be this' confirmation bias that misleads human responders.
 - `INS-260627-08FA` Agent security evaluation should distinguish malicious prompts discovered on pages from confirmed agent actions caused by those prompts.
+- `INS-260627-AA4B` Bloomberg deploys incident-response agents because AI scans code, telemetry, feature flags, and traces both very fast AND without the 'it must be this' confirmation bias that misleads human responders.
 - `INS-260410-B3C4` When you serve one model across AWS Trainium, NVIDIA GPUs, and Google TPUs, each bug surfaces differently on each platform and masquerades as random variation rather than a coherent issue.
 - `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.
 - `INS-260410-ED34` When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.

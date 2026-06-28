@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 136 insights
+> 137 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -109,6 +109,7 @@
 - `INS-260505-4E44` [medium] PINNs were going to beat data-driven, then ChatGPT happened, then weather models happened — pure data-driven won most of these fights.
 - `INS-260410-F436` [medium] Gradient descent makes you solve the training problem, not generalize well — catastrophic forgetting is the natural default and good transfer happens only when researchers iterate until they find a representation that transfers.
 - `INS-260505-969C` [medium] Don't double the number of papers — accelerate fusion energy by 3 years. The metric is mission-level outcome, not output count.
+- `INS-260627-F6BD` [medium] The paper layers evidence from model benchmarks, gradient analysis, dataflow ablations, and post-layout simulations rather than relying only on accuracy.
 - `INS-260409-E080` [medium] Generator-verifier loops are easy to describe and almost impossible to execute because the verifier must be protected from the generator's influence.
 - `INS-260505-864E` [medium] Same scaling law that took models from Olympiad silver to gold also applies to research-grade problems — just with much longer proof traces.
 - `INS-260627-0C9E` [medium] Business KPIs (revenue, NRR) are too confounded by sales, macro, and product strategy to attribute to AI; engineering outcomes give a clean signal — and can be measured retroactively from git history.

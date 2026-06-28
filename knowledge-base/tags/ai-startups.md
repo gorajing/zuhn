@@ -1,12 +1,12 @@
 # Tag: ai-startups
 
+- `INS-260405-7838` In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
+- `INS-260404-A0C2` AI slashes startup operating costs so dramatically that the resulting margin expansion drives higher valuations independent of revenue growth.
+- `INS-260404-9B51` Mapping newly funded AI startups (2013-2023, >$1.5M raised) shows extreme geographic concentration despite widespread AI adoption narratives.
 - `INS-260405-D9DF` AI bubble concerns are the market's early signal that expectation-to-delivery gaps are becoming too large to ignore.
 - `INS-260403-9FEB` 46% of new creator economy unicorns since 2020 are AI-based platforms, and AI-related startups captured the majority of new funding in 2024.
 - `INS-260403-4AB2` A16Z reports 60% surge in AI-first startup funding while early-stage SaaS investment declines as investors chase automation leverage.
 - `INS-260403-1F6B` Just 11 AI startups absorbed a third of all 2025 VC funding, widening the gap between megadeals and the rest of the ecosystem.
-- `INS-260405-7838` In AI markets, how fast you deliver value matters more than how much value you eventually deliver.
-- `INS-260404-A0C2` AI slashes startup operating costs so dramatically that the resulting margin expansion drives higher valuations independent of revenue growth.
-- `INS-260404-9B51` Mapping newly funded AI startups (2013-2023, >$1.5M raised) shows extreme geographic concentration despite widespread AI adoption narratives.
 - `INS-260409-175D` Pick markets for willingness-to-pay density, not total addressable users.
 - `INS-260404-63F0` 75% of YC's latest batch focusing on AI suggests dangerous herd behavior that will produce many undifferentiated startups competing for the same markets.
 - `INS-260403-7841` AI companies that embed into workflows and build network effects create durable moats beyond mere execution speed.

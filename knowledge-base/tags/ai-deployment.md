@@ -1,7 +1,5 @@
 # Tag: ai-deployment
 
-- `INS-260413-3860` China accounted for 54% of industrial robots installed globally in 2024 (up from 51.1% in 2023) while US, Germany, and Italy declined — pairing AI capability with the manufacturing base to deploy it.
-- `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
 - `INS-260409-8DDA` Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260530-E6AA` Coco: companies spend a week to a month cleaning data before AI fine-tuning is even possible — and even then, AI without documented SOPs cannot reliably reproduce 'how this company does it' because there's no canonical reference.
 - `INS-260626-AE0C` Finance adopts AI by running the new system alongside the proven one until it's verified, because unlike consumer tech it isn't allowed to make mistakes.
@@ -14,4 +12,6 @@
 - `INS-260410-CDDD` You cannot deploy powerful AI systems until a human indemnifies their actions — the legal infrastructure of liability, property, and rights is the real deployment bottleneck, not compute or alignment research.
 - `INS-260627-A751` When you peel back the hype, what engineering teams actually struggle with is using more models in more places without rebuilding infrastructure every time.
 - `INS-260505-03F6` Engineering is happy with weird-looking optimal antennas; mathematicians need to understand the proof's journey. AI deployment should match the field.
+- `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
+- `INS-260413-3860` China accounted for 54% of industrial robots installed globally in 2024 (up from 51.1% in 2023) while US, Germany, and Italy declined — pairing AI capability with the manufacturing base to deploy it.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.

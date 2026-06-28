@@ -49,7 +49,6 @@ stance: >-
   product changes, so a self-improving system must throw knowledge away as fast
   as it adds it.
 related:
-  - INS-260421-43EC
   - INS-260501-E843
   - INS-260603-6FE3
   - INS-260501-E377

@@ -1,10 +1,5 @@
 # Tag: latency
 
-- `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
-- `INS-260329-AA2C` FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
-- `INS-260329-CD02` FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
-- `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
-- `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260627-8F78` Acceptance of code completions collapses once latency exceeds ~1 second, so any in-the-wild model comparison must balance latency across models or it measures speed, not quality.
 - `INS-260627-D03E` RFT tightens the distribution of tool-call counts, killing the slow, erratic long-tail runs that dominate production pain.
 - `INS-260605-1A2D` Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
@@ -55,7 +50,12 @@
 - `INS-260330-D483` Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
 - `INS-260329-C1A4` Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260330-C06E` Real-time AI latency is solved in the serving infrastructure (caching, batching), not in the model architecture
+- `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
+- `INS-260329-AA2C` FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
+- `INS-260329-CD02` FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
+- `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
+- `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
-- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
+- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).

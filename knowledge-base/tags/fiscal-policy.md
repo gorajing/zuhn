@@ -1,5 +1,6 @@
 # Tag: fiscal-policy
 
+- `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.
 - `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
 - `INS-260405-397C` A continuing resolution ending January 30 means the same fight resumes in six weeks with even less goodwill.
 - `INS-260410-AC50` The US has four ways out of its debt — default, austerity, financial repression, or inflation — and inflation is both politically easiest and historically how the US handled WWII debt.
@@ -14,4 +15,3 @@
 - `INS-260403-9897` Japan's inflation return forces a fiscal reckoning where higher rates to control inflation make government debt vastly more expensive, with elderly benefit cuts as the only viable escape.
 - `INS-260403-8DD4` With rates near zero in 2021, the U.S. could have refinanced its national debt cheaply but didn't, now facing 5%+ rates on trillions in rolling maturities.
 - `INS-260409-1210` Massachusetts' millionaire tax survives because voters see free breakfast, free community college, and better transit — a broad beneficiary constituency offsets the concentrated opposition.
-- `INS-260405-844D` A 43-day shutdown forcing unpaid essential workers illustrates the brittleness of government services reliant on continuous human labor.

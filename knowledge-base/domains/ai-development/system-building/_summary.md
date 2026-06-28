@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 324 insights
+> 325 insights
 
 - `INS-260625-9C3B` [high] Because outputs are non-deterministic, a change you think fixed one thing can quietly break two or three others — eval coverage is the prerequisite for safe iteration.
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -279,6 +279,7 @@
 - `INS-260605-9A92` [medium] Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260605-3B8B` [medium] Write a behavioral test when a feature request arrives, not when you add a method to a class.
 - `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
+- `INS-260627-92C0` [medium] DMP-SNN remains constrained by offline training, benchmark selection, single-core assumptions, and post-layout simulation rather than broad field deployment.
 - `INS-260320-4BA8` [medium] Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260410-25AC` [medium] Constrain planner agents to deliverables and high-level design — granular technical decisions made upfront propagate errors into the implementation.
 - `INS-260329-F66E` [medium] C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.

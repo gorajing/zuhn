@@ -2,9 +2,9 @@
 
 - `INS-260627-27E0` A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260627-6846` The model exploits any deterministic quirk in the opponent or environment, scoring great on benchmarks while being clueless in real play — only hands-on testing reveals it.
+- `INS-260501-A550` If you're in the RL circuits, you fly; if you're not, you struggle — and the labs decide which circuits exist.
 - `INS-260627-0F8C` Environments collapse evals, synthetic-data generation, RL/distillation training, and live agent deployment into a single reusable abstraction: harness + tasks + rewards.
 - `INS-260626-54A5` If a task is solvable and easy to verify, AI will solve it — verifiability, not solvability, is the gating factor.
-- `INS-260501-A550` If you're in the RL circuits, you fly; if you're not, you struggle — and the labs decide which circuits exist.
 - `INS-260627-01CF` Requiring tasks and rewards up front converts an agent harness into a proper eval, replacing 'build it, try it, ship it' with measurable experimentation across models and hyperparameters.
 - `INS-260627-B6D9` Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 - `INS-260501-B1AA` iPhone scan → 3D objects → drop into simulator → augment infinitely. The pocket world-scanner unlocks million-environment-scale RL.

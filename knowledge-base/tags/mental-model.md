@@ -1,7 +1,5 @@
 # Tag: mental-model
 
-- `INS-260409-3138` Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
-- `INS-260330-CAB3` Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.
 - `INS-260323-1720` Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
 - `INS-260505-7EF5` Telescopes opened the cosmos, microscopes opened cells; AI opens patterns in high-dimensional data that human minds cannot grasp.
 - `INS-260625-0A79` Separate an agent's memory into factual (codebase + database), behavioral (editable instructions file), and procedural (self-authored tools).
@@ -15,3 +13,5 @@
 - `INS-260605-1C4E` Treat structure as a viewing choice: the same content can be projected into markdown, graphs, clusters, folders, or timelines depending on what you need, so pick multiple representations deliberately.
 - `INS-260410-78F4` Treat weight-stored knowledge as a hazy recollection and the context window as working memory — paste the source material in rather than relying on recall.
 - `INS-260329-5F19` AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
+- `INS-260409-3138` Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
+- `INS-260330-CAB3` Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.

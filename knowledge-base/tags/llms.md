@@ -1,6 +1,5 @@
 # Tag: llms
 
-- `INS-260411-8AEF` AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.
 - `INS-260505-2467` LLMs ship with Silicon Valley's logic baked in: opacity over openness, efficiency over journey, cost-cutting over apprenticeship. Academia gets that logic when it adopts the tools.
 - `INS-260323-2C19` A leading psycholinguist confirms that LLMs have mastered the form (syntax, grammar, patterns) of language but not its meaning — and the gap between form and meaning may be much larger than assumed.
 - `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
@@ -10,3 +9,4 @@
 - `INS-260627-8C59` A world model is a parameterization of state-action-transition; an LLM is a mechanism that consumes that parameterization, so treating them as competing paradigms is a category error.
 - `INS-260410-0430` The printing press kept firing off new revolutionary applications — pamphlets enabling the Reformation, newspapers, magazines — for 150 years; the computer is doing the same thing now.
 - `INS-260405-880C` Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+- `INS-260411-8AEF` AI 'knowledge' is statistical likelihood rather than justified belief, requiring a Bayesian rather than classical epistemic framework.

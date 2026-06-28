@@ -1,11 +1,5 @@
 # Tag: drug-discovery
 
-- `INS-260405-0AE7` IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
-- `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
-- `INS-260625-8CE3` The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing.
-- `INS-260410-9D16` TFs are queries, their binding motifs are keys, downstream genes are values — and like attention, small edits to the embedding vector produce dramatically different outputs, which is why Yamanaka flipped adult cells to stem cells using just four TFs out of 20,000 genes.
-- `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
-- `INS-260404-16FB` Dedicated funds like Menlo-Anthropic's $100M signal that AI-longevity convergence is becoming a distinct investment category.
 - `INS-260403-6632` Google DeepMind's model generated a novel cancer immunotherapy hypothesis that was experimentally validated, marking AI's shift from analysis to discovery.
 - `INS-260408-306A` AlphaFold predicts protein 3D structure in seconds where wet lab took years and hundreds of thousands of dollars per protein.
 - `INS-260409-F90C` Hassabis predicts Isomorphic's drug design engine ready in 5-10 years, then regulatory reform of trials is the second act.
@@ -18,3 +12,9 @@
 - `INS-260501-1608` Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today.
 - `INS-260408-F58E` Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
 - `INS-260625-6482` Proteomic studies identified alanine racemase as one compound's target, connecting the AI-nominated hit to bacterial cell-wall biology.
+- `INS-260405-0AE7` IsoDDE moves beyond AlphaFold's static structure prediction to simulate molecular motion, unlocking binding sites on proteins previously labeled 'undruggable.'
+- `INS-260505-AA8C` AI-generated anti-CRISPR genes with no sequence similarity to anything humans have ever discovered — and they still work.
+- `INS-260625-8CE3` The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing.
+- `INS-260410-9D16` TFs are queries, their binding motifs are keys, downstream genes are values — and like attention, small edits to the embedding vector produce dramatically different outputs, which is why Yamanaka flipped adult cells to stem cells using just four TFs out of 20,000 genes.
+- `INS-260410-D75D` If there were a single upstream 'aging gene,' evolution would have found it when competing against longer-lived cousins; the absence of such a target means aging is layered and medicines will arrive as incremental additions of healthy years.
+- `INS-260404-16FB` Dedicated funds like Menlo-Anthropic's $100M signal that AI-longevity convergence is becoming a distinct investment category.

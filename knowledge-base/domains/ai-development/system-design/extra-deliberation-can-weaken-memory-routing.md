@@ -47,8 +47,8 @@ related:
   - INS-260403-D970
   - INS-260403-D4EA
   - INS-260323-0B5E
+  - INS-260627-F6BD
   - PRI-260406-D9D6
-  - PRI-260406-6CA8
 ---
 The retrieval/routing component analysis compares variants over scattered-history retrieval relevance and provenance-sensitive access. The authors find that explicit planning improves over direct retrieval and that balanced fusion helps, but adding reflection on top of planning does not yield further gains.
 

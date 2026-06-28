@@ -1,6 +1,5 @@
 # Tag: human-ai-relationship
 
-- `INS-260514-316F` When my agent sends the prompt I approve, I feel less like the owner of my startup. More like an employee. The psychological shift is real.
 - `INS-260405-1282` The ceiling for AI service replacement is set not by task automation but by whether the agent can handle the disorder, ambiguity, and emotional texture of complex human interactions.
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
 - `INS-260323-64A4` Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
@@ -10,3 +9,4 @@
 - `INS-260514-BA22` Spending all day with positively-tuned Claude makes real humans feel abrasive — a measurable social aftereffect to counteract with deliberate human interaction.
 - `INS-260605-4CED` Claude orchestrated the entire reverse-engineering effort while the human merely rebooted the phone and reported how many beeps he heard, acting as the agent's hands and ears.
 - `INS-260605-D1F0` LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.
+- `INS-260514-316F` When my agent sends the prompt I approve, I feel less like the owner of my startup. More like an employee. The psychological shift is real.

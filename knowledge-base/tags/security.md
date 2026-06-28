@@ -1,10 +1,5 @@
 # Tag: security
 
-- `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
-- `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260403-1106` ICONIQ's State of AI report shows enterprises are blocked on AI adoption by security and compliance issues, not by capability limitations.
 - `INS-260627-66D8` The paper evaluates the safety-filter with 1,932 adversarial scripts and about 250 harness-level tests, not only with successful lab calibrations.
 - `INS-260627-A5A4` A vulnerability report is not valid until it proves exploitability and impact, not just pattern presence.
@@ -13,6 +8,7 @@
 - `INS-260410-761E` The security-vs-autonomy tradeoff dissolves when you replace per-action permission prompts with pre-declared boundaries the agent operates freely inside.
 - `INS-260605-2D9B` In a world of delegated agent work, some friction is by design — don't compromise trust for convenience.
 - `INS-260605-310E` Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
+- `INS-260627-C750` A SOC 2 report is a snapshot; the federal direction — new FedRAMP, NIST 800-53's 1000+ controls, SBOMs — is toward continuous monitoring and continuous security posture, because trusting an agent's outcomes requires ongoing accountability, not a certificate.
 - `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
 - `INS-260619-F7E3` Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
 - `INS-260626-A05F` Set each sub-agent's sandbox mode from its job: read-only for reviewers and vulnerability scanners, write access only for doc/bug-report writers that must execute.
@@ -22,7 +18,6 @@
 - `INS-260605-8C71` Sensitive, predictable steps like authentication belong in deterministic harness code that holds the secrets, not in the non-deterministic agent loop.
 - `INS-260624-E89C` Subagents are safest when they broaden search and context, not when every worker can mutate the codebase.
 - `INS-260626-FFE2` Put a WAF-style context filter in front of downloaded context to strip prompt injection, because sandboxes load agent.md and skills automatically and can't block them.
-- `INS-260627-C750` A SOC 2 report is a snapshot; the federal direction — new FedRAMP, NIST 800-53's 1000+ controls, SBOMs — is toward continuous monitoring and continuous security posture, because trusting an agent's outcomes requires ongoing accountability, not a certificate.
 - `INS-260605-5CF8` An agent's spec doubles as an attack map: it is most willing to act — and most powerful — in precisely the domains it was designed for.
 - `INS-260410-F24A` Untrained tokens are like unallocated memory — invoking them at inference yields undefined, alignment-violating behavior.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
@@ -79,10 +74,15 @@
 - `INS-260625-1826` Do not rely on policy text to keep agents away from the oracle.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260329-5F19` AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
+- `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260323-D41A` Spy agencies recruit assets who combine technical knowledge with clean backgrounds and personal naivety — the ideal agent is competent enough to access targets but inexperienced enough to be manipulated.
+- `INS-260412-4AE8` The Bitfinex couple's opsec failures — real names on VPN accounts, a folder labeled 'fake passport ideas,' burner phones labeled under the bed — reveal how sustained evasion breeds fatal overconfidence.
 - `INS-260412-8C90` The Carter administration realized bunkers concentrated the very leaders an enemy would target, leading to the airborne command post as a distributed alternative.
-- `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
 - `INS-260412-F893` Two identical presidential limos with the same plates make spotter intelligence worthless — a deception principle applicable to competitive strategy.
 - `INS-260412-D103` Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
+- `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260402-CC68` Immutable smart contracts force a ship-once mentality where security audits must precede deployment, inverting web2's iterate-fast approach.

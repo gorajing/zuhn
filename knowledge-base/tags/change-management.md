@@ -1,6 +1,5 @@
 # Tag: change-management
 
-- `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
 - `INS-260409-8DDA` Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
 - `INS-260322-3D21` AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
@@ -16,6 +15,7 @@
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260625-B4AC` Version prompts with disciplined commit messages that record what failure each change addresses, and gate model upgrades behind re-running your own eval dataset rather than trusting public benchmarks.
 - `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions.
+- `INS-260409-AC28` Top VCs (Josh Kushner, General Catalyst's Hemant) are buying accounting firms, hospitals, and BPO businesses and running them with AI because owning the change management is the only reliable way to capture AI value.
 - `INS-260403-97F5` When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-F590` The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260605-BA63` A 'big enough stick from ministers' lets you in the door, but breaking silos and shipping is far harder than outsiders assume — otherwise everyone would do it.
@@ -24,5 +24,5 @@
 - `INS-260626-1745` Stop building for permanence; build to be rebuilt, and make the willingness to uproot proven beliefs an explicit leadership norm.
 - `INS-260323-7D01` Leaders should shape the belief systems of employees, board, partners, and customers gradually over months so that by the time a major strategic decision is announced, it feels obvious and inevitable rather than shocking.
 - `INS-260605-B7A2` Rather than reform a slow institution wholesale, create a small central unit operating under different rules (autonomy, market pay, own hiring) as a proof point.
-- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260327-C464` Entire departments at enterprise accounts have staked their careers on being experts in legacy systems -- even with a clear ROI case for modernization, the VP of IT who only knows on-premise systems sees your cloud solution as a career threat.
+- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.

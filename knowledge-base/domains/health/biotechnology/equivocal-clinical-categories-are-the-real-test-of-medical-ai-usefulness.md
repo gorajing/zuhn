@@ -47,8 +47,8 @@ related:
   - INS-260403-E21C
   - INS-260626-20B7
   - INS-260410-C045
+  - INS-260627-F6BD
   - INS-260403-615D
   - INS-260409-BF3F
-  - INS-260605-365A
 ---
 The source reports that HER2 2+ cores were the most challenging: a single model scored only 57.3% on the equivocal class while other classes were at least 80%. The five-model, HER2-positive-sensitive ensemble improved the 2+ class to 68.0% and raised the 2+ AUC from 0.895 to 0.935. That matters because 2+ is not just a label in a benchmark; it is a clinically ambiguous state where subtle or heterogeneous membranous staining affects downstream testing and treatment routing. For medical AI and agent evaluation, aggregate accuracy can hide whether the system helps where the workflow is actually stuck. Score the ambiguous bins separately.

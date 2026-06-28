@@ -1,5 +1,6 @@
 # Tag: perspective
 
+- `INS-260327-8936` Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.
 - `INS-260330-F889` Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260410-0857` Travel's epistemic value is in surfacing new questions about home, not in producing reliable answers about the destination.
 - `INS-260412-6FB8` Modern life represents less than 0.001% of human history, yet we treat it as the natural baseline.
@@ -14,4 +15,3 @@
 - `INS-260330-B69C` Earth simultaneously spins at 1,670 km/h, orbits at 108,000 km/h, drifts at 70,000 km/h with the solar system, races at 792,000 km/h around the galaxy, and hurtles at 2.1M km/h toward the Great Attractor.
 - `INS-260330-DFA4` Tyson's experiment at Princeton showed astrophysical publications double every 15-18 years, meaning every generation on the exponential curve genuinely feels like they're living in special times.
 - `INS-260412-DABC` The impossibility of permanent failure in a finite existence removes the rational basis for paralyzing fear.
-- `INS-260327-8936` Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.

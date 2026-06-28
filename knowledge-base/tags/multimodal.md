@@ -1,6 +1,5 @@
 # Tag: multimodal
 
-- `INS-260409-BE39` Topic classification draws from visual, audio, and text signals together, so off-topic visuals or transcripts will contradict on-topic captions and confuse the fit score.
 - `INS-260322-B09B` Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260627-0E46` Instead of showing a diff, Antigravity's agent drives a real browser and returns a screen recording of the feature working, giving both the human and the model verifiable, iterable evidence.
 - `INS-260605-05F4` Let a reasoning model loop and decide which specialized generators to call rather than hardcoding the asset pipeline.
@@ -28,3 +27,4 @@
 - `INS-260410-4CE7` For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.
 - `INS-260605-D659` Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
 - `INS-260626-66DC` Gemma 4 replaces Gemma 3's fixed pan-and-scan tiling with variable aspect ratios and five selectable resolutions, so developers allocate a high image-token budget for OCR/object detection and a low one for text-heavy tasks.
+- `INS-260409-BE39` Topic classification draws from visual, audio, and text signals together, so off-topic visuals or transcripts will contradict on-topic captions and confuse the fit score.

@@ -1,6 +1,5 @@
 # Tag: model-selection
 
-- `INS-260327-A22D` After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.
 - `INS-260626-BF18` Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
 - `INS-260605-AE67` The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
@@ -14,9 +13,6 @@
 - `INS-260501-22AD` Opus 4.6 is the beer-with-you ADHD CEO with a billion ideas. Codex is the autistic CTO who debugs the impossible. Use both, in sequence.
 - `INS-260605-A0BC` The old 'open models aren't as good as closed' argument no longer holds—GLM 5.1 currently tops SWE-Bench among open models and the AI Index shows open and closed converging.
 - `INS-260625-0297` Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
-- `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
-- `INS-260410-939B` Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
-- `INS-260410-3FB3` Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
 - `INS-260626-5A6D` Frontier models handle long-running complex tasks, but mini/nano models are deliberately positioned to power short-running sub-agents at low enough cost that spinning up many of them in parallel makes economic sense.
 - `INS-260626-FBB1` A flyweight model with code execution drew correct Lego-brick bounding boxes 'right out of the gate' for a fraction of a penny — faster and cheaper than the larger model that reached the same answer.
 - `INS-260605-E4BB` Cheap models (Flash-Lite, VO Light) and low-priority service tiers exist to prototype and validate prompts inexpensively before paying for premium quality or priority latency.
@@ -24,6 +20,9 @@
 - `INS-260605-A558` Optimize model cost only after a strong-model baseline proves the workflow can work.
 - `INS-260320-EF3A` Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
 - `INS-260627-F805` A model router should optimize quality per constrained resource, not simply call the highest-ranked model more often.
+- `INS-260605-1420` Viktor's users raged during an A/B test that swapped Opus for a cheaper, equally capable model — personality, not benchmarks, drove their attachment.
+- `INS-260410-939B` Default to fast non-thinking models; switch to a thinking model only when you suspect the first answer is wrong on a genuinely hard math/code/logic problem.
+- `INS-260410-3FB3` Before trusting an LLM on math or recent facts, check whether that specific app has wired in a Python interpreter and web search — models without them will confidently hallucinate numerically-close but wrong answers.
 - `INS-260329-7F02` On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
 - `INS-260605-77E5` Different leaderboards rank the same models differently and use incomparable Elo ranges, so disagreement signals which models are actually near-equivalent.
@@ -33,3 +32,4 @@
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260627-DB17` Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
+- `INS-260327-A22D` After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.

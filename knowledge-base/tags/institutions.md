@@ -1,5 +1,7 @@
 # Tag: institutions
 
+- `INS-260325-24D1` Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
+- `INS-260325-9A0F` What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260410-3A64` The 'insurance policy' on American Maritime order is its allies and institutions (UN, EU, NATO); China's lonely roster of North Korea and Iran reveals how little of this insurance it actually holds.
 - `INS-260323-6357` Much of democracy's stability relies on unwritten norms rather than enforceable laws — a shameless norm-violator reveals how fragile the system really is.
 - `INS-260323-CF30` Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
@@ -18,8 +20,6 @@
 - `INS-260410-5437` Gorbachev assumed that if the Warsaw Pact dissolved then NATO would dissolve too, and if Comecon went away the European Community would follow — but NATO and the EC grew stronger because their members had chosen them, while the Warsaw Pact had only ever held together under threat of Soviet tanks.
 - `INS-260323-E1B6` Both liberal and conservative Supreme Courts agree on free speech because each recognizes they may be in the minority tomorrow and will need speech protections.
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
-- `INS-260325-24D1` Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
-- `INS-260325-9A0F` What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - `INS-260405-10A5` Union strength tracked manufacturing growth rates, not organizing strength — making its decline structural, not moral.
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260410-54CB` Rome had advanced trade, finance, and institutions but no industrial takeoff because it never coupled basic science with applied engineering.

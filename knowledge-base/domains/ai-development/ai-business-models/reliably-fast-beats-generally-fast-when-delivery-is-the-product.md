@@ -59,8 +59,8 @@ related:
   - PRI-260328-A82C
   - INS-260625-4D1D
   - INS-260627-DC49
+  - INS-260627-92C0
   - PRI-260407-AF64
-  - PRI-260328-4CC0
 ---
 Applied Compute's stated requirements for their RL runs are fast (deliver a model in days), cheap (unit costs work so the business scales), and — the easy-to-miss one — low variance in how long jobs take. As they put it, the goal is not to be 'generally fast' but 'reliably fast,' because they make delivery commitments to customers. Variance in delivery time is a business liability even when average speed is good, the same way a restaurant that is usually quick but occasionally an hour late loses bookings.
 

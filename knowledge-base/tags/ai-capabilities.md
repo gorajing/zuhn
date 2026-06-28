@@ -1,6 +1,5 @@
 # Tag: ai-capabilities
 
-- `INS-260329-FCD3` What appears as computer intelligence is actually extreme speed compensating for complete lack of understanding — the CPU asks 'what next' three billion times per second without comprehending any of it.
 - `INS-260329-C34B` Beginner tutorial content has orders-of-magnitude lower insight density than expert-level discourse.
 - `INS-260321-7D7C` AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
 - `INS-260505-3333` July 2024: DeepMind almost gold. By summer 2025: multiple labs at gold including perfect scores on the hardest exams.
@@ -11,3 +10,4 @@
 - `INS-260403-841F` Superintelligence emerged from combining human-equivalent reasoning with computers' pre-existing superhuman memory, speed, and processing power.
 - `INS-260423-E64B` Hinton: I had a researcher tell me last year they have a system that looks at what it itself is doing and figures out how to change its own code so it'll be more efficient next time — that's already the beginning of the singularity.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
+- `INS-260329-FCD3` What appears as computer intelligence is actually extreme speed compensating for complete lack of understanding — the CPU asks 'what next' three billion times per second without comprehending any of it.

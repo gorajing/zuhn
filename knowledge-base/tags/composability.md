@@ -1,7 +1,5 @@
 # Tag: composability
 
-- `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
-- `INS-260330-628D` Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
 - `INS-260625-AB58` Build tiny single-purpose skills and compose them, rather than one mega-skill that does an entire workflow.
 - `INS-260514-EA9E` A 5-narrow-agent chain (news → researcher → career-page poller → scorer → resume writer) is more reliable than one general agent — narrow agents with single jobs chain better and are easier to debug.
 - `INS-260625-EDA3` Free-form text is fine when a human is the only reader, but the moment another system consumes the output it needs an agreed-upon shape — a contract.
@@ -17,5 +15,7 @@
 - `INS-260329-C33B` JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
 - `INS-260329-075C` OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
+- `INS-260404-C7A1` Making everything an expression rather than mixing expressions with statements enables arbitrary composition — a multiplicative increase in what you can express.
+- `INS-260330-628D` Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
 - `INS-260402-97AF` Open-source code plus portable user data means web3 projects cannot rely on IP or lock-in—only ongoing community value sustains them.
 - `INS-260514-DE49` All-in-one platforms force their workflow on you; primitive-based platforms let you build YOUR workflow. As GTM gets more specialized, primitives win. The right question isn't 'does this tool have feature X' but 'can I compose X from the primitives'.

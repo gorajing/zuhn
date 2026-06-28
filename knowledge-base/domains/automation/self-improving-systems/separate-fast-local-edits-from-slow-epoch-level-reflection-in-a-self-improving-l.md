@@ -65,6 +65,7 @@ related:
   - INS-260627-8530
   - INS-260323-AF7B
   - INS-260626-F01D
+  - INS-260627-8C08
 ---
 SkillOpt runs two distinct update pathways. The fast path runs every iteration, making small, validation-gated local edits. The slow path runs once per epoch: it re-runs the agent on the same samples with the start-of-epoch and end-of-epoch skills, sorts results into Improvements, Regressions, Persistent Failures, and Stable Successes, and feeds those buckets to an 'epoch-wise reflection' step. Reflection does not make another tiny edit — it looks for higher-level patterns about what kinds of changes help versus hurt and which failure modes remain, and it edits a dedicated region of the skill that the fast path is forbidden to touch. A separate meta-skill stores a running memory of which edits worked, which failed, and which challenges are unresolved, guiding the next epoch.
 

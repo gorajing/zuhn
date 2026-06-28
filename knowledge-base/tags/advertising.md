@@ -1,8 +1,8 @@
 # Tag: advertising
 
-- `INS-260410-91A6` Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
 - `INS-260627-9B00` Amp ships subtle developer-tool ads in the terminal and editor to sponsor cheap-tier inference, betting that cost — not interest — is what keeps students and hobbyists from using agents.
 - `INS-260409-665F` Because AI tooling is available to everyone, cutting headcount doesn't create a moat — it creates an output deficit relative to competitors who kept headcount and also got the tools.
+- `INS-260410-91A6` Every generational operator — Buffett, Carnegie, Rockefeller, Izzy Sharp, Ogilvy — grew fastest during downturns by deploying capital into advertising, acquisitions, and hiring while panicked competitors cut back.
 - `INS-260324-C496` BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that millions of views and hit shows are worth almost nothing without subscription revenue.
 - `INS-260412-3506` Meta's ad revenue decline was partly caused by Apple's privacy changes, showing that even dominant companies face existential risk from upstream platform decisions.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.

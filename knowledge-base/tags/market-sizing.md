@@ -1,9 +1,9 @@
 # Tag: market-sizing
 
-- `INS-260322-BBED` AI's economic impact and design space exceeds the internet era, meaning more companies will reach $1B+ and $10B+ valuations than in previous technology cycles.
-- `INS-260405-2703` Niche markets look small on paper but often yield outsized returns when a startup owns the vertical completely.
 - `INS-260423-F124` Aaron Levie on services: 100 percent — these spaces are going to be bigger and more sustainable than people realize, because we're nowhere near eliminating the human from the workflow.
 - `INS-260327-85E2` Cloud replaced software with software ($350B to $650B TAM); AI replaces services with software, starting from a tens-of-trillions base.
+- `INS-260322-BBED` AI's economic impact and design space exceeds the internet era, meaning more companies will reach $1B+ and $10B+ valuations than in previous technology cycles.
+- `INS-260405-2703` Niche markets look small on paper but often yield outsized returns when a startup owns the vertical completely.
 - `INS-260403-101D` The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260405-B4D4` The 100x unit-economics threshold — cost savings plus revenue uplift — is the practical filter for identifying which AI workforce opportunities will achieve durable adoption.
 - `INS-260409-C768` Problem precision beats market size — a small market solved precisely outperforms a big market solved approximately.

@@ -53,8 +53,8 @@ related:
   - INS-260421-E9FC
   - INS-260421-665D
   - INS-260625-4AB6
+  - INS-260627-6C2C
   - INS-260626-E255
-  - INS-260605-E06C
 ---
 Ellen (mem0) framed the principle around her own biography: 'I used to live in Riyadh and now I live in San Francisco. Both of these memories are equally important. I cannot just delete the memory that I used to live in Riyadh — that fact is true. However, there are memories that have more weight when it comes to time.'
 

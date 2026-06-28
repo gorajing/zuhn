@@ -1,8 +1,5 @@
 # Tag: platform-strategy
 
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
-- `INS-260404-78E0` Coinbase's simultaneous launch of stocks, prediction markets, futures, and DeFi trading signals a shift from crypto brokerage to full financial platform.
 - `INS-260605-82BD` Pick one agent platform and optimize it deeply rather than chasing the best model across many tools — the compounding benefits come from concentration, not coverage.
 - `INS-260524-E2C4` Z Venture Capital CEO (ex-Naver/LINE CFO): Naver could chase frontier parity to ~1 trillion won, but at 10-100 trillion it's pointless — keep the service, use others' LLMs, and the foreign models now speak Korean fine anyway.
 - `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
@@ -28,6 +25,9 @@
 - `INS-260625-03A6` RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
 - `INS-260410-6F67` Fast exponential capability growth continuously generates new use cases that require bare-metal API access, so the API is the one surface that stays relevant across capability generations.
 - `INS-260625-5124` The electric grid's history shows that the most enduring coordinators never owned their own generation — they pooled uncorrelated anchor demand and let participants share base load while scheduling their spikes.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
+- `INS-260404-78E0` Coinbase's simultaneous launch of stocks, prediction markets, futures, and DeFi trading signals a shift from crypto brokerage to full financial platform.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260410-9246` Visa's interchange is not a fee — it's an envelope of value the network can redistribute to issuing banks, acquiring banks, co-brand merchants, and rewards programs as needed to align behavior.
 - `INS-260322-AABB` The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
@@ -75,7 +75,7 @@
 - `INS-260404-68EE` 78% of public software companies above $5B market cap are multi-product, making it effectively mandatory for outsized outcomes.
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260410-277B` Spotify realized it could own audiobooks and podcasts because German labels had already started quietly uploading audiobooks to its music platform.
+- `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260626-989F` Recursive frames its company in three explicit phases: accelerate existing chipmakers, then become a platform that democratizes chip design, then vertically integrate to build and serve its own chips and models.
 - `INS-260405-2422` All-in-one platforms that actually work create moats through workflow integration that point solutions can't replicate.
-- `INS-260410-1626` Horizontal platforms that span functional silos must be sold to the CEO — every executive below has a silo to defend and can't authorize cross-silo change.

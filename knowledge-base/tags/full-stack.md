@@ -1,9 +1,9 @@
 # Tag: full-stack
 
-- `INS-260327-33E0` Bezos' $100B fund is the 'buy Walmart' play of the AI era — lower upside than building from zero but accessible to billionaires who have more money than time.
-- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
 - `INS-260525-9B7B` Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 - `INS-260627-95C2` The AI Studio principle is that users shouldn't think about implementation details — say 'I want a multiplayer app' and the platform knows to wire up Express; say 'e-commerce' and it adds payments and storage automatically.
+- `INS-260327-33E0` Bezos' $100B fund is the 'buy Walmart' play of the AI era — lower upside than building from zero but accessible to billionaires who have more money than time.
+- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
 - `INS-260514-7628` Engineers understand every layer. Coders assemble abstractions. The distinction matters: engineers diagnose from first principles and design new systems; coders only output what AI already outputs. AI is hollowing out the coder rung.
 - `INS-260402-91B5` Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260327-500C` Zipline's biggest realization was that designing a cool autonomous aircraft was only 15% of building a national-scale delivery system.

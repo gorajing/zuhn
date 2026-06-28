@@ -49,9 +49,9 @@ stance: >-
   effects early.
 related:
   - INS-260626-5E7E
+  - INS-260627-358F
   - INS-260330-E4AD
+  - INS-260627-1C6D
   - INS-260403-28C7
-  - INS-260403-CAAB
-  - INS-260330-3879
 ---
 The ANU team describes running thousands of experimental cycles per day for several weeks, watching coincidence counts slowly accumulate into a statistically significant signal. They explicitly note their reluctance to 'count chickens before they hatched' even as the signal was growing. This is a posture that generalizes to anything measured against thin base rates: rare-event detection, A/B tests on low-conversion funnels, clinical trials of rare outcomes, anomaly detection in monitoring. Two failure modes bracket the right behavior: declaring victory after the first suggestive wiggle, or abandoning a real effect because it hasn't hit p<0.05 by week two. The correct move is to pre-register the integration time, commit to running to completion, and let the signal-to-noise ratio grow monotonically — resisting both euphoria and despair along the way.

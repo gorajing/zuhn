@@ -1,10 +1,10 @@
 # Tag: active-learning
 
+- `INS-260524-1A41` Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
+- `INS-260505-9723` Train the model, see what it doesn't know, do targeted experiments to fill those holes.
 - `INS-260524-5173` Woosang: ML recommends a recipe -> a robot synthesizes it -> the result feeds back; active learning plus robotic synthesis is the autonomous-lab loop.
 - `INS-260404-023C` Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
 - `INS-260403-F9EE` Writing short essays forces you to form and articulate a point of view, which passive reading and watching cannot accomplish regardless of volume.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-9033` Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
 - `INS-260329-023F` Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
-- `INS-260524-1A41` Jongmin Sung: embed protein sequences via a protein language model, regress on assay values, predict the top mutants, test only those, then iterate — improving each round.
-- `INS-260505-9723` Train the model, see what it doesn't know, do targeted experiments to fill those holes.

@@ -1,8 +1,5 @@
 # Tag: vertical-ai
 
-- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
-- `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
-- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
 - `INS-260403-4D80` Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
 - `INS-260327-89AE` Doug Leone argues AI value will accrue to companies solving domain-specific last-mile problems in the application layer, not to foundation models or infrastructure tooling.
 - `INS-260403-FF65` The generative AI landscape is splitting between dominant horizontal players like OpenAI/Anthropic and specialized vertical startups in legal, medical, and other domains.
@@ -19,6 +16,9 @@
 - `INS-260627-FC83` The durable vertical-AI moat is domain expertise plus accountable operations.
 - `INS-260605-4FE3` Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260605-BFBE` An oracle directly tweaks the product, an evaluator defines and measures quality, an architect builds a self-improving system.
+- `INS-260327-DBAD` A vertical AI voice agent for dentists is a small business; owning all 30+ products a dental practice needs is a potential $10B company.
+- `INS-260404-EA1D` Niche-focused VCs with deep domain expertise are outcompeting generalist funds in vertical AI because founders need investors who understand their specific market.
+- `INS-260405-3046` Euclid Ventures argues TAM-first VC filters are lazy and that multivariate risk assessment finds better Vertical AI winners.
 - `INS-260403-EDFB` Generic AI tools are commoditized, but deep vertical AI products for specific industries and workflows still have massive untapped opportunity.
 - `INS-260409-6611` Big AI labs build horizontal tools — vertical industry problems are where the unclaimed value lives.
 - `INS-260404-8CA8` Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.

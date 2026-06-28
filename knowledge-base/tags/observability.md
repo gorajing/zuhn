@@ -1,7 +1,5 @@
 # Tag: observability
 
-- `INS-260619-F1E3` Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
-- `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260626-1673` LangSmith's changelog shows eval infrastructure converging on trace-aware progress, assertion, retention, and alert controls.
 - `INS-260625-1830` Treat agent logs as first-class as agent code: you cannot know what an agent did without its execution trace, and those traces feed evaluation, not just debugging.
 - `INS-260627-9387` CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
@@ -61,3 +59,5 @@
 - `INS-260605-0819` Begin general-purpose, log every tool call, and treat 4-5 tool calls per question as a signal the agent needs a more specialized tool for that pattern.
 - `INS-260625-019F` Code no longer documents agent behavior at runtime — only telemetry (traces/spans) does, so observability must be instrumentation-first.
 - `INS-260626-B5A6` Demos succeed and production fails because operational workflows—not model quality—haven't kept pace with deterministic software engineering.
+- `INS-260619-F1E3` Give agents a first-class path to report bugs and feature gaps, then rank those reports across users to drive product improvement.
+- `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.

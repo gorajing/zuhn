@@ -1,8 +1,8 @@
 # Tag: conversion
 
+- `INS-260519-08E0` Rati Zvirawa (Intercom): not assist, not augment — own; an owning agent needs a playbook (strategy in natural language), knowledge (grounded truth), and data flowing both ways.
 - `INS-260412-0540` The most stable configuration doesn't just persist — it actively recruits surrounding matter into its own state.
 - `INS-260403-2385` Structure landing page narratives as Problem → Agitation (real business cost) → Transformation (quantified outcome) using customers' exact language.
-- `INS-260519-08E0` Rati Zvirawa (Intercom): not assist, not augment — own; an owning agent needs a playbook (strategy in natural language), knowledge (grounded truth), and data flowing both ways.
 - `INS-260329-BE8E` Simplify all marketing language to a third-to-fifth grade reading level to maximize comprehension and conversion rates.
 - `INS-260409-01E7` Write for the buyer and the broadcaster in the same post — the broadcaster gives you reach, the buyer gives you revenue.
 - `INS-260405-A9B2` Costco's confusing warehouse layout forces customers to traverse most aisles, increasing exposure to products they didn't plan to buy.

@@ -1,6 +1,6 @@
 # Topic: pipelines
 
-> 17 insights
+> 18 insights
 
 - `INS-260519-7744` [high] Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain.
 - `INS-260519-9732` [high] Kyle Norton (Owner): 'AI PCR' (pre-call research) took average closed-won from ~$72k to ~$120k per BDR/month; the top BDR did $174k cold in a month.
@@ -19,3 +19,4 @@
 - `INS-260626-B09B` [medium] AI Consult's background EMR integration and color-coded alerts show a practical pattern for minimizing AI workflow tax.
 - `INS-260624-5ACA` [medium] Cache reusable sub-workflows as code instead of repeatedly asking the model to click through them.
 - `INS-260619-16EF` [medium] The promise of managed workflows is collapsing queue-plus-worker architecture into observable, retryable task runs with preserved state.
+- `INS-260627-1C6D` [medium] The low-rank slow state is valuable because it targets the memory-traffic and buffering bottleneck, not because it is the most biologically detailed abstraction.

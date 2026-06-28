@@ -1,5 +1,12 @@
 # Tag: market-dynamics
 
+- `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
+- `INS-260403-2183` Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
+- `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
+- `INS-260605-083B` The home PC and work PC converged, but personal and enterprise agents will not — enterprise workloads consume far more inference, so that's where the value pools.
+- `INS-260625-0A3D` RunPod frames the 2026 GPU shortage as COVID-toilet-paper-style hoarding that will recover as companies get better at estimating compute needs.
+- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260405-DDC2` Global VC funding settled near $20B/month in early 2024 but AI's share kept growing, compressing available capital for other sectors.
 - `INS-260404-D5B5` Q2 2024 venture trends show capital concentrating at extremes — large late-stage rounds and small seeds — while mid-stage funding gets squeezed.
@@ -18,13 +25,6 @@
 - `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
 - `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
 - `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
-- `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
-- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
-- `INS-260403-2183` Top AI leaders have shifted repeatedly in just 2.5 years, proving that execution speed matters more than any single breakthrough.
-- `INS-260404-0153` Accenture's generative AI revenue surpasses all VC-backed AI startups combined, showing incumbents capture value faster than disruptors.
-- `INS-260605-083B` The home PC and work PC converged, but personal and enterprise agents will not — enterprise workloads consume far more inference, so that's where the value pools.
-- `INS-260625-0A3D` RunPod frames the 2026 GPU shortage as COVID-toilet-paper-style hoarding that will recover as companies get better at estimating compute needs.
-- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260327-4F8C` Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260412-DB01` SpaceX's pivot to Starlink internet illustrates that price-inelastic core markets (government launches) require adjacent elastic consumer businesses to generate growth revenue.
 - `INS-260327-0710` Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys

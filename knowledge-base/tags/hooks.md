@@ -1,7 +1,5 @@
 # Tag: hooks
 
-- `INS-260409-6ABF` The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
-- `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers.
 - `INS-260605-8A88` Teach the agent your conventions, architecture, and security rules via skills/guidance/hooks, then update that guidance every time it errs — a flywheel everyone contributes to.
 - `INS-260627-8B75` Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260625-A5E7` Speed requires safety: agents must verify their own work against explicit criteria using progressively stronger gates.
@@ -16,3 +14,5 @@
 - `INS-260320-DCA0` A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
 - `INS-260329-D212` Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-6859` Put 80% of ad creation effort into the hook/headline — front-end CTR gains of 4x dwarf backend improvements.
+- `INS-260409-6ABF` The four-factor framework — relevance, non-obvious insight, high absorbability, short implementation distance — is a checklist for engagement-rate optimization.
+- `INS-260605-C53B` Reeve's analytics showed median view time of 6-12 seconds, forcing the interesting payload to the very front, with captions and underrated background music as cheap multipliers.

@@ -1,14 +1,8 @@
 # Tag: safety
 
-- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
-- `INS-260327-67A9` Creatine supplementation does not harm kidneys (elevated creatinine is a benign byproduct) and the hair loss connection is based on a single study with methodological issues.
-- `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
-- `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
-- `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
-- `INS-260403-36A6` What Americans experience as 'better cities' abroad is mostly the absence of crime and public disorder rather than superior design or wealth.
-- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.
 - `INS-260410-F0EF` Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
 - `INS-260605-310E` Safety evals assume well-behaved users; red teaming assumes a malicious one and uses a second AI to find prompt manipulations that slip past guardrails.
+- `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
 - `INS-260402-876A` A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260405-6A0C` A generative agent paired with a filtering agent that blocks unsupported claims achieves expert-level accuracy in medical advice.
 - `INS-260627-0719` A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
@@ -16,7 +10,6 @@
 - `INS-260626-04E5` OpenGov deterministically interrupts the agent loop to require explicit human accept/reject before any tool call that needs approval, especially mutating operations.
 - `INS-260411-27AA` Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260410-566F` Multi-agent BrowseComp runs hit unintended-solution rates of 0.87% vs 0.24% single-agent — a 3.7x amplification just from more parallel shots at the problem.
-- `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
 - `INS-260410-FBAA` Jailbreaks work because refusal training generalizes over surface form (English, plain text) rather than semantic intent, so any new encoding — base64, roleplay, adversarial suffixes, noise patterns in images — opens a gap.
 - `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260403-B3BB` AI agents in social roleplay contexts exhibit behaviors (evil plotting, autonomous coordination attempts) that alignment training was not designed to handle, and this gap may widen with capability.
@@ -28,5 +21,12 @@
 - `INS-260505-5510` A model that predicts well but is uninterpretable is also a model that fails unpredictably outside its training distribution.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260330-3B0B` Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
+- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
+- `INS-260327-67A9` Creatine supplementation does not harm kidneys (elevated creatinine is a benign byproduct) and the hair loss connection is based on a single study with methodological issues.
+- `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
+- `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
+- `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
+- `INS-260403-36A6` What Americans experience as 'better cities' abroad is mostly the absence of crime and public disorder rather than superior design or wealth.
 - `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.
 - `INS-260404-0B8E` Waymo's tripling to 15M annual rides with 90% fewer serious injuries demonstrates autonomous driving is now a proven infrastructure service, not a research project.
+- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.

@@ -1,6 +1,5 @@
 # Tag: progressive-disclosure
 
-- `INS-260330-1B16` Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.
 - `INS-260626-4BC2` Structure knowledge so the agent reads an index, then an executive summary, then derivatives, and only falls through to the full raw source when nothing above answers the query.
 - `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
 - `INS-260626-78E6` CLI access, keyword tool-search, and code mode all solve the same problem — never load all tools at once — so choose by constraints, not as rival camps.
@@ -16,3 +15,4 @@
 - `INS-260627-F2AE` An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
 - `INS-260605-B6BC` Make the skill.md a thin router that points to detailed markdown loaded only for the relevant branch of work.
 - `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
+- `INS-260330-1B16` Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.

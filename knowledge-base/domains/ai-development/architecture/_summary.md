@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 139 insights
+> 140 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -130,6 +130,7 @@
 - `INS-260627-718B` [medium] Decouple the response stream from the API handler by storing it (Redis in prod, a file locally) under the workflow's run ID so any client can reconnect and resume.
 - `INS-260605-BECA` [medium] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - `INS-260605-D0C0` [medium] Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
+- `INS-260627-8C08` [medium] The fast spiking path and slow memory path play different roles, and removing the feedforward path collapses performance to chance.
 - `INS-260626-5B28` [medium] Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
 - `INS-260627-E0C0` [medium] Treat agent optimization as a multi-dimensional allocation problem orchestrated by a meta-layer, not a single knob like context.
 - `INS-260627-A81B` [medium] Because LLMs are non-deterministic with an enormous state space, formal methods, model checking, and type systems have essentially no bearing on prompt-driven software — but LLMs' tolerance for unanticipated inputs creates a new resilience worth designing around.

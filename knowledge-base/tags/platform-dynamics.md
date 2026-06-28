@@ -1,6 +1,5 @@
 # Tag: platform-dynamics
 
-- `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.
 - `INS-260325-DE23` As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
 - `INS-260404-573C` Despite AI advances, Google's structural advantages in data, distribution, and advertising make search displacement extremely unlikely.
 - `INS-260405-FAA3` Apple licensing Gemini for ~$1B/year shows foundation model capability is now a moat even Apple can't bridge alone.
@@ -11,6 +10,7 @@
 - `INS-260412-C0B4` Sam Altman's three-layer AI stack thesis predicts base model oligopoly with massive value creation in domain-specific fine-tuning.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260329-7BA7` Internet value accrues to those who control the user relationship while commoditizing supply — now playing out in AI
+- `INS-260403-56D7` Moderate users leaving social media doesn't reduce polarization — it concentrates extremist influence by removing the moderating majority.
 - `INS-260524-3793` Z Venture Capital CEO: the language barrier is becoming meaningless and the proprietary-data advantage is going away — everyone now competes globally.
 - `INS-260330-7FFE` ShadowCrew's real innovation was building review, escrow, and vouching systems that let criminals trust each other — the same platform trust problems legitimate marketplaces solve.
 - `INS-260412-3EBB` Caribbean transshipment hubs emerged because many US east coast ports can't handle the larger post-expansion ships, creating a new intermediary logistics layer.

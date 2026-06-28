@@ -1,6 +1,6 @@
 # Topic: hardware
 
-> 31 insights
+> 32 insights
 
 - `INS-260410-4696` [high] An H100 is worth more today than three years ago because the models it runs generate far more value per token than GPT-4 did, and you can't just buy a Rubin instead.
 - `INS-260605-4835` [high] MLX deliberately runs on the GPU rather than the Neural Engine because reaching the Neural Engine requires Core ML, whose private-API friction makes it impractical for developers today.
@@ -28,6 +28,7 @@
 - `INS-260605-6A0A` [medium] Homogeneous scaling (one model, identical chips) was a training-era artifact; the inference era rewards heterogeneity across architectures and silicon.
 - `INS-260410-D593` [medium] Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
 - `INS-260410-2307` [medium] There are ~10M H100-equivalents today and ~100M projected by 2028, which caps how many AGI-agents can run in parallel regardless of whether the models exist.
+- `INS-260627-3D0E` [medium] DMP-SNN shows that explicit low-dimensional temporal memory can preserve long context while avoiding the hardware costs of dense recurrence or long delay buffers.
 - `INS-260605-C0B2` [medium] An expressive non-humanoid robot puts the user's mind in a creative space rather than treating the machine as a human replacement.
 - `INS-260605-6423` [medium] NPUs give roughly 3-13x speed and major energy savings, making them the enabler for real-time AR/TTS/camera workloads on the edge.
 - `INS-260605-6588` [medium] 100B+ parameter and omni models now run at usable speeds on consumer Macs and iPhones, turning cloud subscriptions into a choice rather than a necessity.

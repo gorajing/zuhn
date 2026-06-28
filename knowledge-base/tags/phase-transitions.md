@@ -1,7 +1,7 @@
 # Tag: phase-transitions
 
-- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
 - `INS-260412-DE2D` Under neutron star pressures, electrons and protons fuse into neutrons, and nuclei deform into pasta-like structures that may be the strongest material in the universe.
+- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
 - `INS-260412-E82B` Stars appear stable for billions of years because fusion pressure balances gravity, but once iron accumulates and fusion stops, collapse happens in seconds.
 - `INS-260330-4C26` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — skill acquisition followed a step-function, not a gradient.
 - `INS-260330-0B0B` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.

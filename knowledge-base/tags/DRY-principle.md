@@ -1,4 +1,3 @@
-# Tag: DRY-principle
+# Tag: dry-principle
 
-- `INS-260329-8896` Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
-- `INS-260329-9074` Variables create single points of change that prevent linear maintenance scaling in growing codebases.
+- `INS-260514-A02E` Carve repeated GTM logic into 'function tables' in Clay (f.cleanFullName, f.validateEmail) — callers write a row to the function table, wait for the LLM, then look up the cleaned output, so one prompt update propagates to all callers.

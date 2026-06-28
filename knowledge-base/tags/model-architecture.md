@@ -7,6 +7,7 @@
 - `INS-260403-2138` DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
 - `INS-260403-EA93` Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation.
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
+- `INS-260627-8C08` The fast spiking path and slow memory path play different roles, and removing the feedforward path collapses performance to chance.
 - `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
 - `INS-260403-B16E` DeepSeek's MoE architecture activates only relevant neurons per task, slashing compute costs while maintaining competitive performance.
 - `INS-260605-82C6` The single 'any-to-any' model is a vision; in practice a reasoning model routes to separate image and speech generators.

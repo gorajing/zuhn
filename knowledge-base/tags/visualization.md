@@ -1,5 +1,7 @@
 # Tag: visualization
 
+- `INS-260626-A45A` Map directories and files to a visual space where agents appear as units, giving lineage tracking and a collision heat map instead of an opaque list of running sessions.
+- `INS-260323-E0B5` Text-only planning (markdown PRDs) is insufficient for vibe coding — parallel visual artifacts like user flows and tree views of functional specs provide the contextual consistency AI agents need.
 - `INS-260409-A1B2` Three-column exercise: write the emotions/thoughts/actions of your future self who achieved the goal, contrast with today's, then practice the future-self column as daily behavior.
 - `INS-260325-C884` A Life Calendar — one box per week of a 90-year life — makes finite time concrete enough to function as an artificial Panic Monster for non-deadline goals.
 - `INS-260330-BFA1` The Basel Problem proof works by treating 1/n² terms as lighthouse brightness, making the inverse square law a physical representation of the series.
@@ -12,5 +14,3 @@
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
 - `INS-260325-48E4` Drawing the right picture turns abstract formulas from arbitrary rules into obvious geometric facts.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
-- `INS-260626-A45A` Map directories and files to a visual space where agents appear as units, giving lineage tracking and a collision heat map instead of an opaque list of running sessions.
-- `INS-260323-E0B5` Text-only planning (markdown PRDs) is insufficient for vibe coding — parallel visual artifacts like user flows and tree views of functional specs provide the contextual consistency AI agents need.

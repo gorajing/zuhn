@@ -54,10 +54,11 @@ stance: >-
   supply directly.
 related:
   - INS-260329-3C75
-  - INS-260409-ADD0
   - INS-260410-4D86
   - INS-260625-81E1
   - INS-260409-3602
+  - INS-260409-ADD0
+  - INS-260627-6C2C
 ---
 When the speaker asked Claude why semantic search performed well in some directories and poorly in others, the recurring answer was inline documentation. Code with good comments — especially descriptions above functions — gives the embedding model human-level context about intent, so it can locate the chunk by behavior rather than just tokens. The embedding step itself is not the hard part; figuring out what a chunk actually means is, and comments collapse that gap.
 

@@ -1,5 +1,5 @@
 # Tag: data-sovereignty
 
+- `INS-260626-763B` The talk frames open on-device models around scenarios an API cannot serve — fully offline operation (airplane, subway), data that must never leave your servers, national 'sovereign AI' language models, and regulated domains like medical, legal, and finance.
 - `INS-260413-5622` Data localization measures by region (cumulative): East Asia Pacific 77, Sub-Saharan Africa 71, Europe/Central Asia 66, MENA 44, LATAM 36, South Asia 24, and North America just 3 — the splits are structural, not cyclical.
 - `INS-260403-97FD` Oracle's dual role as TikTok investor and U.S. data host under Project Texas makes it a de facto enforcement arm of PAFACAA divestment law.
-- `INS-260626-763B` The talk frames open on-device models around scenarios an API cannot serve — fully offline operation (airplane, subway), data that must never leave your servers, national 'sovereign AI' language models, and regulated domains like medical, legal, and finance.
