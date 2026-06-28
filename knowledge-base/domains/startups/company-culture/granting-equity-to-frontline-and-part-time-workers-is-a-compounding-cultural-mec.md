@@ -72,6 +72,7 @@ related:
   - INS-260627-0B68
   - INS-260410-9D9C
   - INS-260412-35AC
+  - INS-260627-374C
 ---
 In 1991, one year before IPO, Schultz fought his two VC board members to create 'Bean Stock': 14% of every employee's base pay granted as stock options to anyone working 20+ hours a week — including every barista. The VCs said 'we're not doing that.' Schultz insisted it had to happen before the IPO so nobody would miss the initial strike price ($6, which is now ~$4,800 adjusted for splits per original share — an 800x return to the early part-timers).
 

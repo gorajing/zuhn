@@ -54,10 +54,10 @@ stance: >-
   anchor monetary policy timing.
 related:
   - PRI-260328-D68F
+  - INS-260627-41D0
   - INS-260330-4E01
   - INS-260403-7943
   - INS-260403-3223
-  - INS-260327-A70C
 ---
 The Bureau of Labor Statistics' preliminary benchmark revision showed that nonfarm employment from April 2024 to March 2025 was 911,000 jobs fewer than previously reported. While annual benchmark revisions are standard (reconciling survey data with administrative records), this scale is unusually large and suggests the labor market was materially weaker than policymakers believed during a critical transition period.
 

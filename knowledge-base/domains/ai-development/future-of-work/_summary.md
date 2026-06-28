@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 159 insights
+> 163 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -19,6 +19,7 @@
 - `INS-260404-5628` [high] Predicting AI will disrupt specific jobs does not automatically mean the overall economy crashes — these are separate analytical questions requiring different frameworks.
 - `INS-260626-A3E4` [high] Time AI saves on writing code is displaced into planning and reviewing, not returned as free hours.
 - `INS-260501-20F9` [high] Engineering hiring is now bimodal — AI-fluent vs not. The productivity gap is enormous and we hire only for the fluent group.
+- `INS-260627-E4CC` [high] Occupations with higher modeled AI exposure have not yet lost employment share or appeared disproportionately among the unemployed.
 - `INS-260327-C962` [high] Running AI for millions of daily users will consume far more compute than training the models themselves.
 - `INS-260405-FCBE` [high] AI automates volume in sales, making precision the only remaining differentiator.
 - `INS-260404-6BD6` [high] AI agents are moving beyond task-level automation to reshape how entire workforces are structured.
@@ -30,6 +31,7 @@
 - `INS-260514-8283` [high] AI substitutes 80% of cases; value moves to the 20% — edge cases, novel situations, high-stakes judgment, deep expertise. Invest in being valuable in the 20% AI can't reach; don't compete on the 80%.
 - `INS-260321-4178` [high] AI doesn't just automate procedures — it automates judgment calls. The person who deeply understands insurance underwriting and can talk an AI into building a tool is now more dangerous than the engineer who can build anything but doesn't know what to build.
 - `INS-260325-DA83` [high] Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
+- `INS-260627-41D0` [high] As of 33 months after ChatGPT, broad U.S. labor-market data shows stability, not clear economy-wide AI displacement.
 - `INS-260327-4F3D` [high] True career fulfillment requires firing on all four Ikigai cylinders simultaneously: passion (what you love), prowess (what you're good at), purpose (what the world needs), and profit (what sustains you).
 - `INS-260320-DEAF` [high] Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260320-E683` [high] Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
@@ -80,6 +82,7 @@
 - `INS-260402-1FE9` [high] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
 - `INS-260524-B783` [high] Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
 - `INS-260423-7DC6` [high] Dan Koe: AI doesn't have access to your point of view because every passing moment influences it — and in order to have a meaningful point of view worth writing about, you can't be sitting at your desk on Claude 24/7.
+- `INS-260627-4562` [medium] Anthropic usage data shows concentrated AI usage, especially in coding-like work, but Yale finds no corresponding employment disruption yet.
 - `INS-260530-D34F` [medium] Abhije: PMs now spin up an agent to make a code change without full code-base context, then hand the result to engineering for review — engineers are ironically doing more work reviewing PM-generated agent output than they were before AI.
 - `INS-260627-455A` [medium] Because agents do the deep-focus work asynchronously, technical leaders can investigate bugs and submit PRs in the gaps between meetings instead of needing a protected 3-4 hour block.
 - `INS-260605-4688` [medium] An Nvidia team of 10 engineers each ran an OpenClaw agent in Kubernetes to run model evals continuously, reportedly doing 'the job of six engineers' while freeing humans for creative work.
@@ -117,6 +120,7 @@
 - `INS-260410-DD0E` [medium] Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
 - `INS-260525-1CE3` [medium] Both speakers: 'anyone can build, but there aren't many high-quality products' — domain knowledge plus conviction (keep asking) is what closes the gap, and maintainability still needs real knowledge.
 - `INS-260410-204E` [medium] Cognitive labor is not static — as AI automates triaging email, the new cognitive labor becomes reviewing the three drafts the agent selected, and the pattern continues up the abstraction ladder.
+- `INS-260627-752D` [medium] Yale's recent-graduate checks weaken but do not eliminate the junior-labor displacement thesis.
 - `INS-260402-1640` [medium] AI threatens humans not by replacing their jobs but by competing for shared resources like energy and land.
 - `INS-260605-51AE` [medium] The agent shift mirrors cloud's sysadmin-to-SRE transition — work becomes more automation-oriented, more impactful, and higher-paid — only compressed dramatically in time.
 - `INS-260605-083B` [medium] The home PC and work PC converged, but personal and enterprise agents will not — enterprise workloads consume far more inference, so that's where the value pools.

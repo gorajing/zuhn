@@ -1,6 +1,6 @@
 # Topic: research-methodology
 
-> 137 insights
+> 138 insights
 
 - `INS-260605-FE67` [high] Capable AI tools let anyone 'run an experiment' and an LLM will happily tell them they made a breakthrough — but without a reasoned hypothesis and controlled tests, the result is usually a hidden quality regression (e.g. a 1-bit, expert-pruned model that 'runs' but is useless).
 - `INS-260625-A53F` [high] A single leaderboard score cannot separate model capability, harness knowledge, and robustness to deployment drift.
@@ -13,6 +13,7 @@
 - `INS-260625-273E` [high] A discovery system is more valuable when it returns an explorable landscape, not only a winner.
 - `INS-260505-5A06` [high] Prediction: AI guesses, formal verification confirms. Inference: AI must be calibrated against simulators because mistakes propagate to wrong scientific conclusions.
 - `INS-260505-347C` [high] When you switch to AI tools, your citations move toward big-data central topics — AI is closing fields faster than it's opening them.
+- `INS-260627-374C` [high] The right AI-labor method is monthly preregistered monitoring across exposure, usage, employment, unemployment, and cohort slices.
 - `INS-260410-5740` [high] AI has driven the cost of idea generation to near-zero, making verification and evaluation the new bottleneck in science.
 - `INS-260501-1608` [high] Pick a domain with combinatorial search + clear objective + simulator-or-data — that's where AI breakthroughs are tractable today.
 - `INS-260409-004E` [high] Douglas's enzyme-trained phylogenetic model successfully detected evolutionary bursts in 13 biological systems plus Indo-European languages, demonstrating that branching-system mathematics is substrate-agnostic.

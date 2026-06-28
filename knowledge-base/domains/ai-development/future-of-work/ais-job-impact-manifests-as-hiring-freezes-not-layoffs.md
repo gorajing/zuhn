@@ -47,5 +47,6 @@ related:
   - INS-260330-5747
   - INS-260403-1DDC
   - INS-260329-B062
+  - INS-260627-752D
 ---
 Data shows entry-level roles have dropped 14% since ChatGPT launched, with recent graduates hit far harder than experienced workers. This pattern is politically invisible compared to layoffs — no one protests jobs that were never created. The observed exposure metric reveals a large gap between what AI can theoretically automate and how workers actually use it, suggesting the real disruption pathway is gradual role elimination through attrition and hiring freezes rather than dramatic displacement events. For anyone entering the workforce or advising those who are, this means the traditional entry-level pipeline is quietly narrowing in AI-exposed fields.

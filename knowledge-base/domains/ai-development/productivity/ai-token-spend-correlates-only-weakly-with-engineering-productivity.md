@@ -56,6 +56,7 @@ related:
   - INS-260627-B34D
   - INS-260603-50B1
   - INS-260627-8F2A
+  - INS-260627-4562
 ---
 In the Stanford data, plotting productivity lift against token usage per engineer per month (log scale) yields only a loose ~0.20 linear correlation, and a counterintuitive 'death valley' appears around the 10-million-token mark where the heaviest-consuming teams actually underperform teams using somewhat fewer tokens. The implication is that AI usage *quality* matters more than AI usage *volume* — pouring more tokens at a problem is not the lever.
 

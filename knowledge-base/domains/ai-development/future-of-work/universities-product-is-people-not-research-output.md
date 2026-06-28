@@ -50,10 +50,10 @@ stance: >-
   the university's actual product (people).
 related:
   - INS-260323-DA85
+  - INS-260627-752D
   - INS-260403-3223
   - INS-260514-70CB
   - PRI-260406-25D0
-  - INS-260423-E12B
 ---
 James Landay's framing in the closing exchange: when people argue 'with agents, professors don't need grad students anymore,' they're confusing university research output with university product. Research is what universities do; people (next-generation researchers) are what universities make. Companies develop and enhance researchers but don't produce them from scratch. AI agents may automate components of research workflow, but they don't automate the apprenticeship through which researchers become researchers. Eliminating grad students because 'agents do their work' would eliminate the university's actual product, not its byproduct.
 

@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-28 | 3326 sources
+Generated on 2026-06-28 | 3327 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -495,6 +495,7 @@ Generated on 2026-06-28 | 3326 sources
 | Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 5 | 2026-03-30 |
 | Europe to US: The Expansion Playbook Every Founder Needs | blog | 5 | 2026-03-30 |
 | Eval awareness in Claude Opus 4.6’s BrowseComp performance | blog | 5 | 2026-04-10 |
+| Evaluating the Impact of AI on the Labor Market: Current State of Affairs | blog | 5 | 2026-06-28 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |

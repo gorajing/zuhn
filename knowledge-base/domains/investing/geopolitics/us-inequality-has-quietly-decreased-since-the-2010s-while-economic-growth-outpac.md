@@ -62,6 +62,7 @@ related:
   - INS-260327-F93A
   - PRI-260328-D68F
   - INS-260403-420A
+  - INS-260627-41D0
 ---
 The Congressional Budget Office published analysis showing that after accounting for the increasing generosity of the American welfare state, inequality in the US hasn't increased much since the 1980s—contradicting one of the most persistent narratives in progressive economics. Additionally, economist Arin Dube finds that the compression of American wages—strong rise at the low end since the early 2010s coupled with anemic growth at the top post-pandemic—appears to be persistent rather than temporary.
 

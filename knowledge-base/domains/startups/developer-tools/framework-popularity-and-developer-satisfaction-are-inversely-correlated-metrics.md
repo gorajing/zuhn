@@ -48,11 +48,12 @@ stance: >-
   and developer happiness measure fundamentally different things that lead to
   different adoption decisions.
 related:
-  - INS-260322-A36C
   - INS-260403-1DC9
+  - INS-260322-A36C
   - INS-260328-E410
   - INS-260330-1A63
   - PRI-260405-608A
+  - INS-260627-374C
 evidence:
   - id: INS-260322-A36C
     type: SUPPORTS

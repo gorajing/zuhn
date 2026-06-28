@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6213 actionable insights
+Generated on 2026-06-28 | 6214 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1486,6 +1486,7 @@ Generated on 2026-06-28 | 6213 actionable insights
 - [INS-260626-21B7] Curating the training data is frequently a better investment of effort than tuning the model, but academic incentives train researchers to ignore data.
 - [INS-260627-34A1] Show the 'how,' not just the numbers: Docker isolation, three mandatory warm-up runs, 1-second GPU metric logging, and timestamped per-run artifacts make a benchmark verifiable.
 - [INS-260627-3F9B] A case-study team saw PRs rise 14% after AI adoption while code quality fell 9%, rework rose 2.5×, and effective output stayed flat — measuring PR counts alone would have falsely declared a win.
+- [INS-260627-374C] The right AI-labor method is monthly preregistered monitoring across exposure, usage, employment, unemployment, and cohort slices.
 
 ## ai-development/security
 - [INS-260626-F069] Approval records should include tool authority and runtime boundary.

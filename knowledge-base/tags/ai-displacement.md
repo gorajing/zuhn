@@ -4,6 +4,7 @@
 - `INS-260411-CF02` Unlike electricity or the internet where adoption took decades, AI deployment will be far faster — and the gap between job displacement and new job creation may require unprecedented government and corporate intervention.
 - `INS-260329-6CE8` AI replaced creative and white-collar jobs first, not physical labor as universally predicted.
 - `INS-260403-287B` AI is reducing new job creation for junior roles rather than eliminating existing positions.
+- `INS-260627-41D0` As of 33 months after ChatGPT, broad U.S. labor-market data shows stability, not clear economy-wide AI displacement.
 - `INS-260323-DA85` When companies replace interns and junior staff with AI, they destroy the training ground that produces the next generation of senior experts.
 - `INS-260403-6691` The pandemic proved many coordination-heavy roles only existed because of physical office culture, not because they produced real output.
 - `INS-260322-D2E9` Neither white-collar nor blue-collar jobs are safe from AI — the only lasting career security comes from being the kind of person others actively want to collaborate with.
