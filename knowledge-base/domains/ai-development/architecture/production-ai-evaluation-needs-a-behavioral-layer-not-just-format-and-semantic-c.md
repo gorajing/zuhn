@@ -73,12 +73,12 @@ related:
   - INS-260410-F5EC
   - INS-260410-5D66
   - INS-260605-59AE
-  - INS-260605-A8A9
   - INS-260627-0A69
   - INS-260625-9C3B
   - INS-260625-C08B
   - INS-260522-2CE8
   - INS-260626-8DAD
+  - INS-260626-158E
 ---
 Bhaumik frames evaluation as the *specification* for an AI system and decomposes it into three architectural layers. The first is deterministic and cheap: regex format checks (email, phone), and classic ML for intent classification, named-entity recognition, and PII detection — the things engineering has done for years. The second is non-deterministic semantic evaluation: LLM-as-judge, where a separate model scores the primary model's output for groundedness, safety, and relevance, ideally against the golden dataset. These two are widely understood.
 

@@ -1,7 +1,7 @@
 # Tag: purpose
 
-- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
 - `INS-260329-6BFC` Full passive income without engaging work produces boredom and depression, not the freedom people imagine.
+- `INS-260412-C996` Sakichi Toyoda invented the power loom because he watched his mother struggle with manual textile weaving — that empathy-driven origin anchored Toyota's culture for over a century.
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260330-487E` Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter.
 - `INS-260327-4739` Meaningful work exists at the intersection of what you love, what you're good at, what the world needs, and what you can be paid for - missing any one creates imbalance.

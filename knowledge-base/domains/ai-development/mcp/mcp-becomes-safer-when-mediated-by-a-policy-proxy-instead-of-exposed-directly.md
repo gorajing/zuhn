@@ -48,8 +48,8 @@ related:
   - INS-260626-091B
   - INS-260626-A499
   - INS-260605-41AE
+  - INS-260627-AB66
   - INS-260625-DD6D
-  - INS-260627-35B1
 ---
 The paper's artiq-mcp server wraps ARTIQ functions as normal agent-callable tools, while a separate safety-filter MCP proxy is the exclusive path between the agent and backend tools. That proxy binds approval tokens to call contents, enforces block-by-default behavior, and keeps audit logs.
 

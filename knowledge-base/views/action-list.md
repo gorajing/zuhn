@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6158 actionable insights
+Generated on 2026-06-28 | 6161 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -905,6 +905,7 @@ Generated on 2026-06-28 | 6158 actionable insights
 - [INS-260627-1EC5] Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
 - [INS-260627-36DE] High-benchmark models often 'suck' when plugged into a real environment, so MiniMax watches downloads and OpenRouter token usage as the truer quality signal.
 - [INS-260627-B6D9] Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
+- [INS-260627-535C] Measure skill distillation as a delta, not as an isolated pass/fail run.
 
 ## ai-development/evaluation
 - [INS-260627-20D7] MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
@@ -1797,6 +1798,10 @@ Generated on 2026-06-28 | 6158 actionable insights
 - [INS-260626-B38C] Mine your own chat transcripts for repetitive tasks and copy-paste loops, then codify them into skills, automations, and emergent rules — storing context for agents matters more than doing the work yourself.
 - [INS-260627-2B13] If you keep telling agents 'cuts should be 2 seconds not 6,' that pattern is a signal to fork a generic skill into an org-specific one that bakes in your preferences.
 - [INS-260627-A971] 'A slop test is better than no test' — once validation exists, agents follow its patterns and humans upgrade it, so the loop compounds.
+
+## automation/workflow-design
+- [INS-260627-E3D2] Do not accept agent-infra savings unless task correctness survives the optimization.
+- [INS-260627-47A6] An eval task is not just an intent; it is the runnable environment around the intent.
 
 ## health/biohacking
 - [INS-260323-7D2E] Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the nervous system and produces deep relaxation comparable to a muscle relaxant.

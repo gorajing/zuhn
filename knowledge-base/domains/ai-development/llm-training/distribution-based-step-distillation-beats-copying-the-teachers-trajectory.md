@@ -51,6 +51,6 @@ related:
   - INS-260410-F053
   - INS-260625-E464
   - INS-260625-D772
-  - INS-260410-3271
+  - INS-260627-535C
 ---
 There are two families of diffusion step-distillation. Trajectory-based distillation teaches the student to reproduce the teacher's path through the denoising steps. Distribution-based distillation only constrains the final output distribution — the student must arrive at the same endpoint but is free to find its own route there. The latter is the more common and higher-quality approach in current practice, because over-constraining the intermediate trajectory wastes the student's freedom to find a shorter path. The frontier is hybrid methods: recent releases (e.g. a FastGen video release) combine both to keep distribution-level quality while gaining more stable training. The general lesson, applicable beyond diffusion, is that distillation objectives should constrain outcomes rather than process when the goal is to let the student compress the computation.

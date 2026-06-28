@@ -53,8 +53,8 @@ stance: >-
 related:
   - INS-260626-14AE
   - INS-260605-A2AD
+  - INS-260627-AB66
   - INS-260605-3588
   - INS-260625-019F
-  - INS-260627-3481
 ---
 The A2A duplicate risk is real because Zuhn already knows about Agent Cards. The new operational detail worth preserving is the wrapper-plus-state pattern: a Python orchestrator can treat a Go A2A service as a local subagent, while the workflow stores checkpoints like INGESTED, EXTRACTED, COMPLIANCE_PENDING, MANUAL_REVIEW, and APPROVED. For AgentRun, remote child work should record the agent card URL, protocol, task id, state transition, timeout policy, and fallback path.

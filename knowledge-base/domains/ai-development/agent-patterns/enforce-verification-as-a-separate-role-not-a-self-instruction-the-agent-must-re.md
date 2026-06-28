@@ -66,7 +66,7 @@ related:
   - INS-260605-25B2
   - INS-260626-287B
   - INS-260627-79E3
-  - INS-260627-1B11
+  - INS-260627-F756
 ---
 The demo names the failure mode directly: you tell your coding agent 'please test this in the browser before you send it back to me,' and 'what happens? It doesn't do it.' The agent treats self-verification as optional because it is just one more instruction competing for attention inside its loop. People respond by building 'complicated hooks and harnesses,' but hooks behave differently across Claude and Codex, so the fix doesn't generalize.
 

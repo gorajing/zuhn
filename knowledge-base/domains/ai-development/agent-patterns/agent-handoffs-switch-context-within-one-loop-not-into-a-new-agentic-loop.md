@@ -63,9 +63,8 @@ related:
   - INS-260410-37D5
   - INS-260423-3AC1
   - INS-260501-4903
-  - INS-260605-0C5C
-  - INS-260626-8A80
   - INS-260627-CC45
+  - INS-260605-0C5C
   - INS-260627-F3B6
 ---
 There are two distinct ways to orchestrate multiple agents, and conflating them causes confusion about cost and control flow. The first is 'just code': run agent A, take its result, pass it to agent B — each is its own independent agentic loop (its own runner.run), and you orchestrate them with ordinary code (sequential, parallel, looping). The second is 'handoffs,' where one agent declares other agents as handoff targets.

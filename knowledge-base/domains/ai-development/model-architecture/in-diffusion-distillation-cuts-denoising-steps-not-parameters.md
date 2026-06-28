@@ -54,5 +54,6 @@ related:
   - INS-260625-57C1
   - INS-260625-D772
   - INS-260410-F053
+  - INS-260627-535C
 ---
 People import the word 'distillation' from the LLM world — where DeepSeek famously distilled a huge model into much smaller ones — but in diffusion the goal is fundamentally different. The student keeps the same number of parameters as the teacher; what gets compressed is the number of iterative denoising steps. Instead of 50 steps, a well-distilled student can produce comparable image or video quality in 4 or 8 steps, sometimes a single one-shot pass. Because diffusion latency scales with step count, collapsing 50 steps to a handful delivers order-of-magnitude (10x to 200x) performance gains. This makes step distillation the only technique that currently bridges the gap to real-time image and video generation — the 'holy grail' that unlocks world models for robotics, games, and streaming content. The catch is that it is a post-training technique requiring real compute, time, and proficiency to make the student converge without quality collapse.

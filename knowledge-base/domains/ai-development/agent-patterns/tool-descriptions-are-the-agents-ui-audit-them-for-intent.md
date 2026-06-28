@@ -61,7 +61,6 @@ related:
   - INS-260625-BBB1
   - PRI-260411-64C7
   - INS-260605-6591
-  - INS-260625-73BD
 ---
 When Chrome DevTools decomposed one monolithic 'debug webpage' tool into 25 specialized tools, it traded a capability problem for a discoverability problem: with 25 tools, how does the agent know which to use when? Hablich cites research finding 97% of MCP tool descriptions have quality smells, and reframes the fix — the schema *is* the agent's UI.
 

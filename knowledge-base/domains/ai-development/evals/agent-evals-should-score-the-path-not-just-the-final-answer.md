@@ -48,13 +48,13 @@ stance: >-
   should measure how much work the agent needed to succeed, because final-answer
   pass rates hide API friction, stale docs, and expensive detours.
 related:
-  - INS-260625-0E60
   - INS-260626-1673
   - INS-260626-3105
   - INS-260626-32B6
   - INS-260625-D1F9
   - INS-260625-8A55
+  - INS-260625-0E60
   - INS-260530-C385
-  - INS-260605-2186
+  - INS-260627-47A6
 ---
 The primitive change is an eval harness that treats the agent's trajectory as the object of measurement. A library revision can be better for agents even if final success is unchanged, because it reduces retries, bypasses, tool misuse, and custom reimplementation. For Zuhn/AgentRun, this supports storing process metrics such as commands run, files touched, failed attempts, tool detours, wall time, model id, library revision, and hardware substrate.

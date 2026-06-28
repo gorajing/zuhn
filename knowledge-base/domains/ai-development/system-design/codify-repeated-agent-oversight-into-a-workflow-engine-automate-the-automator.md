@@ -59,7 +59,7 @@ related:
   - INS-260605-EC51
   - PRI-260403-67FC
   - INS-260626-E00F
-  - INS-260625-36DF
+  - INS-260627-47A6
 ---
 Faced with 300-500 open PRs per day on OpenClaw, Solmaz noticed his review process was mechanical and repetitive: read the PR, find the intent, judge whether it's the best fix, check for conflicts, resolve review issues, make CI pass. The insight is that the moment a human oversight process becomes this mechanical, it is a candidate for programming — 'you're automating the automator.' He calls the result a standard operating procedure for agents, which is just a fancy word for a workflow.
 

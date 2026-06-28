@@ -1,6 +1,6 @@
 # Topic: evals
 
-> 12 insights
+> 14 insights
 
 - `INS-260627-D28C` [high] Have the judge classify into a text label (e.g. friendly/robotic) and map that label to a score afterward, because LLMs are unreliable at producing numbers directly.
 - `INS-260627-1EC5` [high] Touting that a model ran 30-60 hours autonomously says nothing about whether the code was good; autonomy metrics are meaningless unless paired with a quality and accountability metric.
@@ -13,4 +13,6 @@
 - `INS-260627-B6D9` [high] Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 - `INS-260627-9981` [high] Treat the judge as a hallucinating component too — label a data set by hand, then run a code/match eval that measures whether the judge's labels agree with the human labels, and improve the judge where they diverge.
 - `INS-260626-B04D` [medium] AgentRun evals should include effort metrics, detours, and environment revisions.
+- `INS-260627-535C` [medium] Measure skill distillation as a delta, not as an isolated pass/fail run.
+- `INS-260627-068D` [medium] A pass/fail score is too thin; keep the artifacts needed to diagnose why.
 - `INS-260627-2863` [medium] A model's tendency to find spurious 'nooks and crannies' degrades judges but is exactly what optimizers harness to lift task performance.

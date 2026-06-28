@@ -70,6 +70,7 @@ related:
   - PRI-260411-9CB1
   - INS-260402-9676
   - INS-260326-2410
+  - INS-260627-B2C4
 ---
 Flappy's methodology is a transferable founder heuristic: to find genuinely new capabilities, deliberately look where existing abstractions can't go. The Spectors describe three nested sets — what a GPU can physically do efficiently, the smaller set that current frameworks like PyTorch can express efficiently, and the even smaller, heavily-researched region inside that where the community already knows which algorithms work. Almost all research crowds into that innermost 'gray circle.'
 

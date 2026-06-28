@@ -57,7 +57,7 @@ related:
   - INS-260625-D73A
   - INS-260323-D2AA
   - INS-260410-BD9D
-  - INS-260605-A803
+  - INS-260627-E3D2
 ---
 Xin argues that infrastructure became heavyweight mostly because it was originally designed to serve a small number of high-value services — not because of any fundamental technical limitation. The word 'infrastructure' itself evokes PG&E and oil pipelines: durable, expensive, mission-critical. Cloud and agent architectures now make it possible to rethink that assumption.
 

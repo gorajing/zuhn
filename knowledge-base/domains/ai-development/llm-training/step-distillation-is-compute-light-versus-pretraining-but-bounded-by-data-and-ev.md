@@ -57,5 +57,6 @@ related:
   - PRI-260411-56D8
   - INS-260625-57C1
   - INS-260625-E464
+  - INS-260627-535C
 ---
 Distillation is a post-training technique, which makes it far cheaper than pretraining: you do not need scarce GB200s — Hopper-class H100/H200 or B200/B300 GPUs work, and small (2B–4B parameter) video models need very little compute. But 'cheaper than pretraining' is not 'free or trivial.' Two constraints bind real results. First, data: general-purpose open-source data distills fine for general demos, but specialized distributions (the example given was protein generation) require your own data, or the student converges to the wrong target — garbage in, garbage out. Second, evaluation: you must be able to measure quality so you can detect when a general-purpose dataset underperforms your domain-specific need. Tooling like Nvidia's open-source FastGen exists to structure the post-training and sharding mechanics so teams can focus their effort on data quality, recipe tuning, and evaluation rather than infrastructure plumbing.

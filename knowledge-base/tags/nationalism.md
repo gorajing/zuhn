@@ -1,6 +1,6 @@
 # Tag: nationalism
 
-- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
-- `INS-260410-43F6` Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.
 - `INS-260410-EA78` When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.
 - `INS-260323-DF0F` The Soviet Union didn't collapse primarily from ideological or economic failure — it was the last major European empire to disintegrate, driven by the rise of constituent nationalisms including Russian nationalism itself.
+- `INS-260403-69C3` National security framing activates fear circuits that override the capacity for nuanced policy engagement.
+- `INS-260410-43F6` Xi Jinping personally suffered during the Cultural Revolution — his father was purged, his mother turned him away starving — yet he reveres Mao and is recentralizing the system that harmed him.

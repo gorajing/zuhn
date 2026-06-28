@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 3726 insights across 52 topics
+> 3730 insights across 52 topics
 
 ## Topics
 
@@ -26,7 +26,7 @@
 | code-review | 5 | Writing code has become reading code, so every engineer is now a reviewer — distribute the exploding PR load with assignment and SLOs, and optimize per-response latency, not total review time. |
 | economics | 21 | Agent systems need spend control as much as capability control. |
 | embeddings | 31 | Different basis choices make different operations trivial or impossible in vector spaces. |
-| evals | 12 | AgentRun evals should include effort metrics, detours, and environment revisions. |
+| evals | 14 | AgentRun evals should include effort metrics, detours, and environment revisions. |
 | evaluation | 1 | MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome. |
 | foundation-models | 29 | Llama-3-SWE-RL-70B scores 41% pass@1 on SWE-bench Verified, a new SOTA for open models under 100B parameters. |
 | future-of-work | 159 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
@@ -56,5 +56,5 @@
 | system-building | 324 | Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for. |
 | system-design | 115 | AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level. |
 | systems-design | 1 | Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs. |
-| tooling | 4 | Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context. |
+| tooling | 6 | Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context. |
 | training-dynamics | 26 | You can build the cleanest agent in the world and it won't raise model capability at all — every jump in reasoning came from a benchmark, every jump in agent reliability came from an RL environment. |

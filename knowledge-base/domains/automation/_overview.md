@@ -1,6 +1,6 @@
 # Domain: automation
 
-> 97 insights across 8 topics
+> 99 insights across 9 topics
 
 ## Topics
 
@@ -14,3 +14,4 @@
 | pipelines | 17 | Maja Voje (The GTM Strategist): a team still prompting is running a chatbot; a team doing context engineering is running a brain. |
 | robotics | 13 | Shipping robots unassembled and fully repairable at hacker prices is a deliberate strategy to keep the robotic future from being owned by one company. |
 | self-improving-systems | 31 | YC Root Access: 2,000 hours of office-hour recordings, diarized and categorized, regenerated their 5-10-year-old user manual into a better 150-page one in a weekend — and now it updates monthly, incorporating or discarding each new piece of advice. |
+| workflow-design | 2 | Do not accept agent-infra savings unless task correctness survives the optimization. |

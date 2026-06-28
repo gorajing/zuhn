@@ -52,9 +52,9 @@ related:
   - INS-260330-14CA
   - INS-260403-9DE0
   - INS-260403-C7D8
+  - INS-260627-47A6
   - INS-260625-7592
   - PRI-260405-0676
-  - INS-260329-7A7F
   - INS-260627-9E3D
 ---
 Power Systems Agent Benchmark makes agents return structured solutions that are recomputed by deterministic evaluators against physical constraints, while natural-language rationales are retained only for diagnosis. The paper explicitly argues that QA-style references and LLM judges are weak in domains where many answers can be admissible and where a fluent explanation can still violate network physics or operating limits.

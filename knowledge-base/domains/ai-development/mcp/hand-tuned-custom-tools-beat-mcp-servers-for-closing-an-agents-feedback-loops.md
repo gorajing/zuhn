@@ -45,7 +45,6 @@ stance: >-
   Coding-agent builders should invest in a refined custom tool set rather than
   generic MCP integrations.
 related:
-  - INS-260410-60C8
   - INS-260410-8ECF
   - INS-260627-B416
   - INS-260605-6591

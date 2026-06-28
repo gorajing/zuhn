@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260605-0819
   - INS-260627-8B10
+  - INS-260627-AB66
   - INS-260626-475E
   - INS-260626-BC79
-  - INS-260605-0C88
 ---
 The talk used function calling to show a common inefficiency: the model emits one search or lookup, waits for it, then emits another even when the two calls are independent. A harness can treat tasks as a dependency graph and dispatch independent calls in parallel.
 
