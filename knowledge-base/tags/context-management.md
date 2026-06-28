@@ -30,9 +30,9 @@
 - `INS-260410-796F` Use subagents for any task that reads many files — they run in their own context window and return only summaries.
 - `INS-260320-04A2` Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
 - `INS-260605-5CC7` When the model responds in real time, the right mental model is sitting beside it as a pair programmer — staying in the driver's seat, steering with specific constraints — rather than spawning a session and scrolling Twitter until it finishes.
+- `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
 - `INS-260626-A2B9` Centralize planning and decisions in one agent and expose capabilities as tools — each tool can carry its own system prompt, validation logic, and even its own LLM call — so the global context stays intact in the decision-maker.
 - `INS-260514-23D6` Don't index raw long-form documents in your LLM-backed knowledge base — write a concise markdown summary per item and index THOSE. 100 hour-long transcripts overwhelm the LLM; 100 markdown summaries don't.
 - `INS-260514-F74B` Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain.
-- `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
 - `INS-260605-9A92` Model each pipeline element as a collaborator in a shared workspace, the way humans researching together would.
 - `INS-260320-63D3` Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.

@@ -5,6 +5,11 @@
 - `INS-260404-F0C3` Google and Meta's TorchTPU collaboration attacks NVIDIA's software moat by eliminating the code-rewrite barrier to switching from GPUs to TPUs.
 - `INS-260322-A367` Unlike traditional cloud infrastructure that gets abstracted away, AI models resist disintermediation because users and developers form both emotional and technical relationships with specific models.
 - `INS-260626-ECA6` LM Studio can serve local models over an OpenAI- or Anthropic-compatible endpoint, letting apps swap cloud APIs for on-device inference with no client changes.
+- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
+- `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
+- `INS-260410-D42F` Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
+- `INS-260410-6E43` Epic captures only ~$10M per year per hospital system despite being the central nervous system those hospitals cannot function without—and that underpricing is precisely why they have never lost a customer in 47 years.
 - `INS-260405-8469` RuBisCo is a mediocre enzyme that became the planet's most abundant protein precisely because all life built its infrastructure around it before better options could evolve.
 - `INS-260412-8A13` Washington state was renamed from Columbia specifically to avoid confusion with DC, yet the confusion persisted and worsened — demonstrating that naming collisions are structurally unfixable once established.
 - `INS-260412-4127` Customers with 10,000 miles will pay 5% more for an American flight rather than start from zero with United — sunk cost fallacy becomes a designed moat.
@@ -36,8 +41,3 @@
 - `INS-260403-008F` Horizontal tools with light integration face multiple compression as AI features become table stakes, while mission-critical workflow platforms maintain 120%+ NRR and premium valuations.
 - `INS-260625-1651` Of Hamilton Helmer's seven powers, switching costs and process power erode under AI, while network effects, scale economies, and cornered resources endure.
 - `INS-260405-95AE` RuBisCo became the most abundant enzyme on Earth despite a ~50% error rate in oxygen-rich air, because plants had already built everything around it and could only compensate, not replace.
-- `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
-- `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
-- `INS-260410-D42F` Enterprises re-architect data centers at most once a decade — whoever wins the current AI transition locks in revenue for 5-10 years regardless of whether the hype holds.
-- `INS-260410-6E43` Epic captures only ~$10M per year per hospital system despite being the central nervous system those hospitals cannot function without—and that underpricing is precisely why they have never lost a customer in 47 years.

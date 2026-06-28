@@ -3,6 +3,11 @@
 - `INS-260626-9A47` When pushing AI (e.g. replacing a SaaS tool with a self-built one), identify employees' top three concerns and systematically reduce them — because the skeptics are exactly the people who'll clean up when you get it wrong.
 - `INS-260627-6065` Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
 - `INS-260627-DA32` A '100% AI adoption' mandate just teaches engineers to game the metric ('I'll update my readme every morning and be compliant') without moving any real outcome.
+- `INS-260625-5972` Reaching the top of a scientific discipline requires the same human leadership — earning trust, marshaling resources, confrontational conviction — that makes a great CEO, so 'he's just a researcher' is a category error.
+- `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
+- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
+- `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
+- `INS-260330-51B1` States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
 - `INS-260403-497B` Leadership titles are stepping stones to career optionality, not end destinations — optionality enables you to craft work on your own terms.
 - `INS-260410-0735` Mao was a military genius who reunified a shattered China after 40 years of civil war, and the same person then caused the largest peacetime famine in Chinese history — because the skills that win wars are not the skills that run economies.
 - `INS-260412-9270` Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
@@ -26,17 +31,17 @@
 - `INS-260412-98B1` Neumann's personal habits — tequila retreats, barefoot offices, impulsive bans — became WeWork's culture, making the company inseparable from his increasingly erratic behavior.
 - `INS-260625-11A3` Culture is not what you believe but what you repeatedly do; it compounds into a moat competitors can't catch, yet frays instantly when leaders stop acting on stated commitments.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
-- `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
-- `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260323-F853` Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
+- `INS-260327-8AE7` Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
+- `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
+- `INS-260330-8048` Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
+- `INS-260330-2347` When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
 - `INS-260404-DF88` In a startup crisis, waiting for perfect information narrows your options faster than making an imperfect early decision.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260403-8B26` The founder's personal speed of decision-making and unblocking directly determines the company's overall execution velocity.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
-- `INS-260330-8048` Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
-- `INS-260330-2347` When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
 - `INS-260323-E874` The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260321-13C6` Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260323-2CCA` Musk's WWII veteran grandfather had next-level PTSD but never bragged about his medals — the generation that viscerally understood war is gone, leaving decision-makers without that embodied knowledge.
@@ -51,9 +56,9 @@
 - `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
-- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260404-56C1` Vasco Pedro's top criterion for Halo's first CEO is someone who cares so deeply that others might think they're 'a bit weird' — prioritizing missionary zeal over mercenary polish.
+- `INS-260403-F554` 92% of VCs say the team is the most important element, valuing complementary skills and pivot capability over raw individual talent.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260329-5A24` Declaring amnesty for past failures lets teams diagnose the real problem instead of defending their territory.
@@ -122,8 +127,3 @@
 - `INS-260403-272C` A leader who outworks the entire organization removes the moral ground on which resistance to high standards usually stands.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
 - `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
-- `INS-260625-5972` Reaching the top of a scientific discipline requires the same human leadership — earning trust, marshaling resources, confrontational conviction — that makes a great CEO, so 'he's just a researcher' is a category error.
-- `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
-- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
-- `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
-- `INS-260330-51B1` States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.

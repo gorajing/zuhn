@@ -5,8 +5,8 @@
 - `INS-260627-66D8` The paper evaluates the safety-filter with 1,932 adversarial scripts and about 250 harness-level tests, not only with successful lab calibrations.
 - `INS-260625-B985` Voice agents fail in egregious ways humans never do (screaming, whispering, voice-swapping mid-call), making QA mandatory, and the three things worth evaluating are goal completion, correct workflow steps, and audio quality — not word error rate.
 - `INS-260627-A5D1` Don't let one reflector gate your agent's learning; add quality gates, ensemble reflection, and a fallback route when reflection degrades.
-- `INS-260625-CBC7` A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
+- `INS-260625-CBC7` A higher in-distribution agent score can hide learned dependence on obsolete tool syntax.
 - `INS-260602-EA48` Mansi More: when an agent picks a wrong tool, gets a wrong answer, goes back and picks another wrong tool, 'there is no way for the agent to tell that hey it's breaking, stop' — so you must curate the tool list (e.g. an allowlist config) before the agent runs, not rely on it to self-correct.
 - `INS-260605-4C0A` Like a radiologist who finds one lung nodule and stops scanning, an agent grabs the first matching pattern from a data store and quits, so retrieval that isn't exhaustive surfaces wrong implementations.
 - `INS-260605-F5F7` The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
@@ -21,8 +21,8 @@
 - `INS-260605-D1F0` LLMs think by predicting token streams, not as humans do, so their bugs appear in code that looks sensible — good names, good comments — while hiding subtle errors or unreliable heuristics.
 - `INS-260605-705B` Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260626-B833` The old rule was 'know your dataset cold'; the new move is to let the meta-system analyze the data, find failure modes, and generate strategies — even when its outputs look nothing like what a human would write.
-- `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
 - `INS-260404-C663` Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
+- `INS-260514-08E3` If you approve plans without reading them, you're authorizing a multi-hour rollout of instructions you don't know. Push plans as separate PRs.
 - `INS-260329-3FC9` Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
 - `INS-260323-1811` Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
 - `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.

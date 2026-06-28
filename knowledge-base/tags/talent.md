@@ -15,7 +15,6 @@
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-A64F` Talent only reveals itself when the environment activates it — a person can go their whole life without entering the domain that would unlock their natural ability.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
-- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
 - `INS-260627-0838` AI acts like a funhouse mirror that makes any one attribute 10x larger, so it widens the gap between great and weak hires instead of leveling it.
 - `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - `INS-260605-AEAC` For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
@@ -28,6 +27,7 @@
 - `INS-260410-E076` Dwarkesh received ~1000 applications for a chief-of-staff role through his large platform, but ended up hiring (and finding top contenders) via mutual friends — evidence that elite generalists don't self-apply.
 - `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies.
 - `INS-260627-FBF3` At The Browser Company, a strategy-and-ops employee used self-serve prompt tools one weekend to rewrite all the prompts, unlocking a step-change in product quality and seeding the model-behavior team.
+- `INS-260405-093F` Offshore accounting and specialized talent from Philippines and Latin America can cut labor costs by up to 80% vs. equivalent US hires.
 - `INS-260330-9B7B` Hire geniuses when you find them regardless of whether you have a defined role, because great people create their own value.
 - `INS-260626-35CB` Neuralink's saying is 'you don't have to be a brain surgeon to work here' — the best people are hardcore engineers who learn neuroscience as they go, because the hard problems are manufacturing and robotics, not biology credentials.
 - `INS-260330-D661` Toussaint made conquered French, Spanish, and British officers into his own generals because he recognized slave culture alone couldn't produce the world-class country he envisioned.

@@ -44,12 +44,12 @@
 - `INS-260627-D692` Provide template GitHub repos with Docker, auth, cost tracking, and observability already wired in so developers start from production-ready scaffolding and only write the agent's actual value.
 - `INS-260329-B2F4` Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
-- `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
 - `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260410-84DA` Facebook's internal tooling — monolithic codebase with portable engineers, feature flags with auto-rollback, HipHop compiler, Hack language, real-time experimentation — produced a decade of shipping velocity that competitors could not replicate, and it exists because the company built for itself rather than buying off-the-shelf.
+- `INS-260403-2152` Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260627-3311` AI Studio lets shared apps run on each visitor's free quota, so a builder never fears a 'crazy surprise API bill' when their app goes viral — removing a hidden friction that blocks people from shipping.
 - `INS-260627-9FDC` Anthropic's platform philosophy is a tight loop: research trains Claude to be good at something, then the platform exposes that something as a tunable API feature so developers can harness it.
 - `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.

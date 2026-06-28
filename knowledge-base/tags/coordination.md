@@ -10,6 +10,9 @@
 - `INS-260412-B252` Eurocontrol distributes flight plans to all downstream control centers before takeoff, ensuring each controller has context before receiving the aircraft.
 - `INS-260627-8738` A well-shaped task field can coordinate simple agents without messaging.
 - `INS-260330-B711` Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
+- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
+- `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
+- `INS-260327-3F8B` At Leipzig, Napoleon faced four converging armies and could no longer use his signature move of defeating each in isolation.
 - `INS-260410-AF9A` Imperial Japan's army and navy kept their war plans secret from each other, didn't hold liaison meetings until 1944, and hid the loss of four carriers at Midway for months — individual samurai excellence couldn't overcome structural stovepiping.
 - `INS-260412-1773` Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
 - `INS-260412-F07F` Lovell and Swigert split attitude control axes between them because neither could manage all three alone under pressure.
@@ -34,6 +37,3 @@
 - `INS-260330-2E1E` The Assyrians extended their empire beyond their road network, making administration impossible and contributing to collapse.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260412-0EF9` To move a solar system, you only move the Sun — everything else follows via gravity.
-- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
-- `INS-260327-B9BA` The Mamluks were individually the finest cavalry in the world, but they shattered against French infantry squares because organized discipline defeated individual prowess.
-- `INS-260327-3F8B` At Leipzig, Napoleon faced four converging armies and could no longer use his signature move of defeating each in isolation.

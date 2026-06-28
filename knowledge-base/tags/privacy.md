@@ -3,9 +3,9 @@
 - `INS-260514-5001` Meta announced mandatory key-logger + screen recorder on every US employee 9-5 in the same month they laid off 8,000 people.
 - `INS-260410-358E` Have the MCP client replace sensitive fields with opaque tokens before the agent sees them, then substitute real values on downstream tool calls.
 - `INS-260405-8166` A master agent holds your full private context locally while spawning persona-limited sub-agents for different environments — work, social, dating — each with different data access and communication styles.
+- `INS-260325-042A` All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
 - `INS-260605-0748` On-device inference fits sensitive data, personalization, offline use, and short-context tasks like translation — because prompts never leave the device, work offline, and carry no inference cost.
 - `INS-260626-763B` The talk frames open on-device models around scenarios an API cannot serve — fully offline operation (airplane, subway), data that must never leave your servers, national 'sovereign AI' language models, and regulated domains like medical, legal, and finance.
-- `INS-260325-042A` All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
 - `INS-260627-A7F8` Embeddings are not anonymized text — Morris's research recovered ~90% of source text exactly from stored vectors, so treat a vector DB as sensitive as the raw documents.
 - `INS-260605-D430` Choose on-device inference when latency, privacy, offline operation, or per-token cost dominate — not when you need maximum capability.
 - `INS-260410-A1CA` Anthropic's privacy controls prevented engineers from examining unreported problematic interactions, which lengthened the time needed to identify and reproduce the three infrastructure bugs.

@@ -7,6 +7,8 @@
 - `INS-260627-82CC` Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
 - `INS-260410-B3C2` pass@k rewards 'shots on goal' and rises with k; pass^k measures consistency and collapses with k — use pass^k for production reliability.
 - `INS-260404-6398` Agentic AI's path to mainstream adoption is blocked by unresolved reliability and accountability challenges.
+- `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
+- `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260625-0492` Studio's agent builds reusable 'widgets' — sandboxed JavaScript with embedded queries — so once created, refreshing the dashboard re-runs deterministic code, not the LLM.
 - `INS-260626-5545` Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
 - `INS-260605-07E5` Build a state machine with gates between agents so steps can't be skipped, instead of trusting prompt instructions the model can ignore.
@@ -25,8 +27,6 @@
 
 - `INS-260410-199B` pass@k rewards capability ceiling; pass^k rewards floor consistency — the metric that actually matters for production agents.
 - `INS-260627-E7AE` Circuit breakers (open after N consecutive failures, fail fast, half-open to retest, close on success) stop one flaky agent from cascading failures across the workflow; the saga/compensation pattern gives every agent an execute and a reversible compensate method so a mid-workflow failure walks backward and rolls the system to its initial state.
-- `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
-- `INS-260403-5F69` Rising benchmark scores mask the gap between test performance and messy real-world reliability.
 - `INS-260625-FA31` Design agentic systems for idempotency in the system layer — logging every side-effecting action to memory — because a retry can cause a model to reword the request enough to look like a fresh task.
 - `INS-260410-346B` If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260625-8E60` Take a 'golden session' where the agent performed well, have an agent deconstruct it into a declarative prose workflow, and re-run that workflow to get the good outcome repeatably.

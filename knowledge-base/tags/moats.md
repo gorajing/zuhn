@@ -22,6 +22,20 @@
 - `INS-260626-80F1` Static models make the same mistakes tomorrow they made today; products that learn from user signal compound a flywheel competitors can't replicate.
 - `INS-260625-1B69` Scaffolding runs a step ahead of the model, but the model keeps digesting it and upstreaming it natively, so today's harness alpha evaporates within about a year.
 - `INS-260626-E253` ElevenLabs' moat is layered: model quality earned by getting in front of users and tuning per-domain, plus an ecosystem — telephony integration, evaluation tooling, 20,000+ shared voices, templates, and trusted brand — because the model itself is only a small part of any customer's stack.
+- `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
+- `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.
+- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
+- `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
+- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
+- `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
+- `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
+- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
+- `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
+- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
+- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
+- `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
+- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260405-D098` AI startups must develop new strategic frameworks because SaaS assumptions about moats, margins, and customer acquisition no longer hold.
 - `INS-260405-70D4` Shield AI's 140% valuation jump in one year reflects that government defense AI contracts produce lock-in dynamics more durable than most commercial software.
@@ -113,17 +127,3 @@
 - `INS-260404-7A5B` Costco turns every seeming disadvantage — fees, sparse selection, warehouse aesthetics — into a structural competitive advantage.
 - `INS-260403-1636` Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.
 - `INS-260412-48E7` Communities built around a single extractive resource face existential decline when that resource runs out, and pivoting to tourism requires infrastructure that resource towns rarely build.
-- `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
-- `INS-260626-ACE3` The single best predictor of who captures AI value is whether the company sits in the token path; everything reactive and previous-generation gets squeezed by cost pressure.
-- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
-- `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
-- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
-- `INS-260410-DA0E` Amazon used the 2000-2007 dot-com winter—when everyone else was retrenching—to build the fulfillment, Prime, and Marketplace infrastructure that became its permanent moat.
-- `INS-260412-132B` Purdue corrupted doctors, distributors, pharmacists, politicians, and the FDA simultaneously, creating a self-reinforcing system that resisted correction for over two decades.
-- `INS-260410-D5FC` Costco's hard 14% markup ceiling (11% target) converts every operational improvement into customer value, which compounds into trust, retention, and supplier leverage no competitor can match.
-- `INS-260410-F8B9` Moats are only sufficient if the castle is too unattractive to invade — once the prize gets big enough, attackers arrive regardless.
-- `INS-260410-E3E0` TSMC's moat isn't the machines — everyone can buy ASML — it's 40 years of uninterrupted learning-curve compounding that cannot be replicated by throwing money at the problem.
-- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
-- `INS-260403-41C8` Venture firms that think like product companies building systems outlast those optimizing per-fund carry.
-- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
-- `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.

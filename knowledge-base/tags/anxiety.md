@@ -6,8 +6,8 @@
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260327-E7B8` Rumination feels like problem-solving but it's actually the same thoughts cycling without resolution - it creates the illusion of work while deepening the problem.
-- `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
+- `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
 - `INS-260327-48BA` Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen.
 - `INS-260412-DABC` The impossibility of permanent failure in a finite existence removes the rational basis for paralyzing fear.
 - `INS-260403-C55F` When people sever their connection to bodily experience, unfamiliar physical sensations start triggering anxiety because they've lost the calibration to interpret them.

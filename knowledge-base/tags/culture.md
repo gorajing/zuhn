@@ -16,11 +16,11 @@
 - `INS-260410-3B42` Rentech's location in East Setauket — a wooded Long Island town of 10,000 — is a load-bearing cultural feature, not an accident: employees don't grab drinks with Two Sigma counterparts because those counterparts aren't within reach.
 - `INS-260405-AC40` Costco pays double the retail average wage and reports three times the productivity, suggesting high wages are a competitive lever rather than a constraint.
 - `INS-260410-C56B` Conflict-averse CEOs systematically transfer shareholder value to anyone willing to make a fuss, because the path of least resistance is always to pay them off.
+- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260323-3BA4` OpenClaw beat every well-funded agentic AI startup because competitors 'all take themselves too seriously' — it's hard to compete against someone who's just there to have fun, with lobster memes, weird branding, and a soul.md that gives agents personality.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260330-BE78` Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
 - `INS-260330-59FD` Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
-- `INS-260405-F06C` Dismissing new ideas is not human nature — it's a cultural habit that formed when innovation happened too slowly to develop better customs, and it can change.
 - `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260403-14F4` Phrases like 'let's revisit later' and 'we need more data' feel reasonable but systematically introduce hesitation that calcifies into slow-moving culture.
 - `INS-260330-39D7` Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
@@ -83,8 +83,8 @@
 - `INS-260410-AFB9` Benchmark commissioned a custom round table where no sidebar conversation is possible because everyone hears everything — destroying the hierarchy a rectangular table embeds and the atomization a circular table creates.
 - `INS-260410-DB84` Dismantle comp structures that pay people for outcomes you'd regret — expect attrition, and treat that attrition as a feature.
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
-- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
+- `INS-260405-339F` Idea-friendly cultures are not values-based — they're incentive-selected, which means they're replicable wherever the incentives align.
 - `INS-260330-D272` Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260403-FD6A` In lean teams, culture (shared values + async transparency + clear goals) must do the coordination work that hierarchy handles in larger organizations.

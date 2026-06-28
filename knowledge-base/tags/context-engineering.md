@@ -87,8 +87,8 @@
 - `INS-260328-4A93` AI product orgs need three new capabilities: unit economics dashboarding, context/retrieval quality ownership, and eval-based QA for non-deterministic outputs.
 - `INS-260626-0704` A domain-driven-design ubiquitous-language file — a markdown glossary of terms you and the AI agree on — closes the language gap that makes AI verbose and misaligned.
 - `INS-260605-9402` Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
-- `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260627-7122` Automate the context-gathering phase of debugging first — it dominates the time and is where an LLM adds the most value.
+- `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260605-59FE` The under-credited lever in context engineering is the search tool deciding what enters the window, not the curation arrow afterward.
 - `INS-260626-AAD8` Offloading conversation state to the server preserves the prompt-prefix cache that client-side history edits (stripping whitespace, line breaks) quietly invalidate.
 - `INS-260514-5914` Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.

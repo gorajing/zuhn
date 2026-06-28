@@ -11,7 +11,7 @@
 - `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
 - `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260410-9120` Google One has over 150 million paying subscribers growing ~50% year-over-year, which gives Google a realistic path to monetize AI through bundle economics that pure standalone AI subscriptions cannot replicate.
 - `INS-260403-501D` Consumer AI apps achieve >100% revenue retention through usage-based pricing and enterprise adoption, breaking traditional SaaS churn assumptions.
 - `INS-260322-B450` The best consumer AI companies achieve over 100% net revenue retention through usage-based pricing on top of subscriptions — something never seen before in consumer software.
-- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.

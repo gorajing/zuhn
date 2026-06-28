@@ -1,5 +1,6 @@
 # Tag: crisis-response
 
+- `INS-260403-4B3D` The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.
 - `INS-260404-2F16` Psychopaths' ability to act on utilitarian logic without emotional interference makes them more effective decision-makers in specific high-stakes personal scenarios.
 - `INS-260330-D0B4` Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
 - `INS-260412-1773` Leafcutter ants respond to army ant attacks with instant role-based mobilization — soldiers to frontline, workers to barricades, small teams to flanking — all without central coordination.
@@ -9,4 +10,3 @@
 - `INS-260412-2948` Slow steaming — running ships at 14-18 knots instead of 22 — was a desperate 2008 crisis response that became permanent industry standard, saving 10-25% on fuel.
 - `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
-- `INS-260403-4B3D` The Fed's pattern of letting bubbles inflate then responding with emergency measures has escalated intervention scale at each crisis.

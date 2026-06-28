@@ -1,9 +1,9 @@
 # Tag: agent-orchestration
 
 - `INS-260627-D35C` Aim for ~90% automation with human review of each agent's intermediate output; partial completion (90-95% solved) still delivers an order-of-magnitude lift.
+- `INS-260327-7299` Paperclip's bring-your-own-bot approach reflects the reality that different AI models have distinct strengths and personalities, making model-agnostic orchestration the optimal architecture.
 - `INS-260627-9AF4` Orchestrating fleets of agents pays off enormously on repeatable maintenance toil (CVE remediation, migrations, type annotations), not on everyday feature work.
 - `INS-260605-46A8` For multi-hour agent tasks, replace 'check back in a bit' with push notifications that fire when the agent needs you or finishes.
-- `INS-260327-7299` Paperclip's bring-your-own-bot approach reflects the reality that different AI models have distinct strengths and personalities, making model-agnostic orchestration the optimal architecture.
 - `INS-260525-4D80` Korean engineer: 'I need someone who can play the role of an engineering manager' — not because the agent is stupid, but because intent has to be translated into what the agent should build.
 - `INS-260327-77E7` Sustained quality from AI agents comes from organizational design patterns (QA loops, approval gates, role specialization) rather than model selection.
 - `INS-260627-69ED` Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order.

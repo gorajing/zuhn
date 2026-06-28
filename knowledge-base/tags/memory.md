@@ -1,13 +1,14 @@
 # Tag: memory
 
 - `INS-260626-20B7` The paper's retrieval-fidelity analysis shows that early-hit precision can diverge from the ability to recover old, scattered, multi-turn evidence.
+- `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260405-F26B` ReAct is an introduction to agent reasoning, not a complete architecture for production systems.
 - `INS-260626-8EAC` Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
-- `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260524-2C7C` Woosang: 'we don't make an AI agent to just do something — we need a harness'; orchestration (tool-call -> verify -> reflect -> cycle) and memory drive performance.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
 - `INS-260322-E4D8` AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
+- `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency.
 - `INS-260410-D92A` Long-horizon agents need compaction (for back-and-forth flow), note-taking (for iterative milestones), or sub-agents (for parallel research) — pick by task shape.
 - `INS-260626-BD97` The paper's component analysis finds that coverage-preserving extraction can beat more selective extraction for downstream answerability.
 - `INS-260605-E230` Some harnesses must learn while the run is still alive.
@@ -17,7 +18,6 @@
 - `INS-260605-2ECD` Don't store traces as memory; distill traces into navigable evidence.
 - `INS-260409-6560` MemPalace's 96.6% LongMemEval R@5 comes from raw verbatim ChromaDB storage; their own AAAK lossy compression scores only 84.2% — a 12.4 point regression that inverts the expected efficiency-quality trade-off at small scales.
 - `INS-260605-C028` A 'context graph' adds the why — the rules and policies governing decisions — on top of the what an agent already knows.
-- `INS-260501-9C3F` Hassabis pegs ~50/50 odds AGI needs 1-2 more big breakthroughs beyond what we already have — primarily in continual learning, long-term reasoning, and consistency.
 - `INS-260619-0770` The durable layer for video AI is a corpus memory with grounded primitives and citations back to source footage.
 - `INS-260409-C1B2` Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260627-CD65` Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.

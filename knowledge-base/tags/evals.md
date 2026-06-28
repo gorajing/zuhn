@@ -51,10 +51,10 @@
 - `INS-260605-D3C7` Define metrics first, write the skill, then run with-skill vs without-skill conditions in a headless agent; assert on whether the expected tool was called or use an LLM-as-judge, knowing the judge itself can hallucinate.
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - `INS-260605-B44B` Begin with human thumbs-up/down on ~10 example outputs, but force a written justification so you can later mine those reasons into an LLM-as-judge.
-- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
-- `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260605-DCE5` Codify prompt changes as TDD: add an eval that proves the failure, fix the prompt to pass it, re-run all evals to catch regressions, then consolidate the prompt to fight bloat.
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
+- `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
+- `INS-260619-BF47` Human-sounding voice agents are full lifecycle systems: model selection is only the first layer.
 - `INS-260627-CD65` Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.
 - `INS-260627-1CD2` Colvin found Gemini was dramatically faster and cheaper in his eval only because it invented wrong answers that his eval wasn't checking — apparent efficiency was actually cheating.
 - `INS-260627-535C` Measure skill distillation as a delta, not as an isolated pass/fail run.

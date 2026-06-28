@@ -18,6 +18,7 @@
 - `INS-260325-6088` Legs fail first because they are furthest from the heart — leg weakness is the earliest warning of systemic health decline.
 - `INS-260327-52AA` Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.
 - `INS-260327-D19D` Bryan Johnson's vegan longevity protocol requires 100+ daily supplements to compensate for nutrients naturally abundant in meat and organs, yet still misses key compounds.
+- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-1B96` AI founders face a personal expected-value calculation where certain death in decades vs. a chance at immortality makes even a 25% extinction risk individually rational.
 - `INS-260410-35F5` Every super-successful person Munger knows had three things — high intelligence, hard work, and good luck — and the only way to get lucky two or three times is to start early and keep trying for a long time.
 - `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
@@ -29,4 +30,3 @@
 - `INS-260410-EA73` Benchmark's partners explicitly reject words like 'institution' and 'franchise' because their job is killing incumbents, so they've built a culture where every partner who has ever left fired themselves before peer pressure had to.
 - `INS-260412-9300` The Caplan thruster harvests mass from the Sun to fuel itself, yet this actually extends the Sun's lifespan because lower-mass stars burn slower.
 - `INS-260409-9E95` Academic DSP archives like CDP contain unique processes that commercial plugin vendors never replicated, making them permanently worth searching.
-- `INS-260403-B9E6` Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.

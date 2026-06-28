@@ -4,6 +4,10 @@
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
+- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
+- `INS-260626-EC65` Genie 3 generates each frame dynamically pixel-by-pixel with no physics engine or game engine behind it — it is a navigable video, not a 3D mesh you can extract as a game asset.
+- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
+- `INS-260409-1D91` Birds achieving cognitive parity with mammals via a completely different pallial architecture is biological proof that intelligence doesn't require a specific substrate — relevant analogy for AI systems that differ structurally from brains.
 - `INS-260605-0628` Run a lightweight daemon next to each agent platform that reports lifecycle to a central control plane, so all sessions are reachable through one UI regardless of tool or location.
 - `INS-260625-08E5` The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
 - `INS-260627-5482` Because architecture is interconnected and not a one-shot decision, decomposing it across collaborating agents that each own part of the problem mirrors human design review at higher computational intensity.
@@ -18,10 +22,6 @@
 - `INS-260405-F3C0` Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
 - `INS-260626-65D6` Klook used an orchestrator/sub-agent pattern with standalone agents — not inlined skills — because each platform analyzer needed its own context and had to run in parallel.
 - `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
-- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
-- `INS-260626-EC65` Genie 3 generates each frame dynamically pixel-by-pixel with no physics engine or game engine behind it — it is a navigable video, not a 3D mesh you can extract as a game asset.
-- `INS-260409-5975` LLM self-verifiers that see the reasoning trace rubber-stamp it; hiding the trace and showing only the final claim forces a fresh evaluation.
-- `INS-260409-1D91` Birds achieving cognitive parity with mammals via a completely different pallial architecture is biological proof that intelligence doesn't require a specific substrate — relevant analogy for AI systems that differ structurally from brains.
 - `INS-260627-09DE` Coding copilots multiply output along whatever direction is already chosen, so the higher-leverage tool is the one that chooses the direction — architecture.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
 - `INS-260627-B10A` KVarN leaves non-KV recurrent state alone and compresses only full-attention KV layers.
@@ -66,8 +66,8 @@
 - `INS-260327-7214` Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
 - `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
-- `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260627-A7F4` Shifting decision-making left empowered developers to make architectural choices, but the expertise and review capacity to guide those choices never scaled with the empowerment.
+- `INS-260409-6833` Formal proof verification (Lean, Coq) doesn't generalize to real research — agents need natural-language verification that resists self-agreement.
 - `INS-260405-8E85` Photosynthesis converts sunlight into ATP and NADPH as intermediate currencies, then spends those currencies in the Calvin Cycle—never coupling capture and use directly.
 - `INS-260626-0B2E` Per Ousterhout, prefer deep modules (simple interface over rich internals) to many shallow modules: deep modules give one clean test boundary the AI can exercise end-to-end, and you stay oriented by designing the interfaces while treating module internals as delegatable gray boxes.
 - `INS-260605-D129` Choose declarative UI (LLM generates a descriptor, not the component) to keep your design system, predictability, speed, and lower token cost while gaining personalization.
@@ -103,14 +103,15 @@
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
+- `INS-260412-4516` Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260405-C780` Photosynthesis runs as two completely separate stages—light reactions convert photons into ATP and NADPH, then the Calvin cycle spends that stored currency to fix carbon—allowing each stage to be optimized, timed, and regulated independently.
-- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260412-454A` Christensen's disruption framework played out precisely with ARM chips moving from mobile into desktop computing over three decades.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260404-673B` When language and program evolve together, the architecture naturally aligns with the problem's real structure.
 - `INS-260404-1455` Plants evolved entire secondary metabolic pathways just to cope with RuBisCo's oxygen-binding error, illustrating how foundational flaws propagate systemic complexity.
+- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
@@ -123,4 +124,3 @@
 - `INS-260404-B7B6` RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260404-9229` When redesign costs exceed the cost of brute-forcing volume, systems evolve to produce massive quantities of a flawed component rather than fix the flaw — plants maintain 40 billion tons of RuBisCo rather than evolve a better enzyme.
-- `INS-260412-4516` Embassy building design is a deliberate projection of national identity and strategic narrative to foreign audiences.

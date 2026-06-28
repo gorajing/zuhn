@@ -16,7 +16,7 @@
 - `INS-260501-3D0C` Greg Brockman: we have small dedicated teams who deeply understand the domain — finance, sales, IT — building skills, modifying the codecs UI, getting it to be good. Once we have it in good shape, we externalize.
 - `INS-260325-5CA5` 90% of workers use personal AI tools at work despite low corporate adoption — they know what good AI feels like and are actively rejecting static enterprise solutions.
 - `INS-260325-FC07` MIT found the 5% of organizations reaching production AI deploy through distributed experimentation with vendor accountability, not centralized approval processes.
+- `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
 - `INS-260524-110F` Z Venture Capital CEO: SaaS is saturated, so SaaS firms bolt on AI; meanwhile manufacturing-heavy Asia has surprisingly large unmet demand for 'where do we apply AI' consulting.
 - `INS-260327-5661` Customers will pay dramatically more for software bundled with human support services, especially for high-stakes use cases.
 - `INS-260403-63F9` A survey of 500 executives shows enterprises overwhelmingly buying AI tools rather than building, with startups dominating application layers.
-- `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.

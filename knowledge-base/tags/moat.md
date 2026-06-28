@@ -12,6 +12,11 @@
 - `INS-260625-DD6B` A model has finite capacity, so dedicating all of it to your one task lets you ship a smaller, cheaper, faster model than a general frontier model.
 - `INS-260627-73B8` Every major consumer provider already ships a deep-research loop, so enterprise defensibility comes from grounding accuracy plus enterprise-grade deployment, not from the agent loop itself.
 - `INS-260625-4B92` The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
+- `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
+- `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
+- `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
+- `INS-260412-3829` Airline points are tax-free because governments classify them as purchase rebates rather than income — a classification that enables the entire multi-billion dollar points economy.
+- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
 - `INS-260409-003A` The compiled knowledge is the moat; the retrieval layer is commodity and replaceable.
 - `INS-260403-0414` Durable competitive advantage comes from business model design, not product or technology superiority alone.
 - `INS-260405-9EE6` Costco's deliberate obstacles — confusing layout, membership fee, crowded aisles — select for the right customers and increase per-visit spend.
@@ -28,8 +33,3 @@
 - `INS-260625-6042` There is consistently a 3-6 month frontier where bespoke tasks aren't yet well-served by base models; a system that autonomously learns in a lightweight way delivers value in that gap, and the gap keeps reappearing.
 - `INS-260530-A86A` Abhije: 'The difficulty is not in building. The difficulty is in understanding these legacy systems on what's breaking for them and solving it for one enterprise in this industry, which you hope is largely untouched by Open AI and Anthropic and other big players.'
 - `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
-- `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
-- `INS-260412-FEA0` VW survived Dieselgate's $30B market cap hit because its manufacturing scale, dealer networks, and brand portfolio created switching costs that exceeded customer outrage.
-- `INS-260411-CCB2` Value creation requires ROIC above WACC; a positive ROIC that falls below the cost of capital actually destroys shareholder value.
-- `INS-260412-3829` Airline points are tax-free because governments classify them as purchase rebates rather than income — a classification that enables the entire multi-billion dollar points economy.
-- `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.

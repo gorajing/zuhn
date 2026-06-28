@@ -33,6 +33,9 @@
 - `INS-260325-E62D` Agentic inference shifts compute from decode-heavy to prefill-heavy with larger shared cache needs.
 - `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
 - `INS-260323-48AF` OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
+- `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
+- `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
+- `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
 - `INS-260321-C5AA` Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
 - `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
@@ -91,13 +94,10 @@
 - `INS-260619-6E08` Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
 - `INS-260410-1030` Workflows orchestrate LLMs through predefined code paths; agents let LLMs dynamically direct their own process and tool use — pick deliberately based on whether you need predictability or flexibility.
-- `INS-260410-E660` The internet gave LLMs a massive free pretraining corpus for text; for computer use there is no equivalent, and longer rollouts plus image/video processing slow progress further.
-- `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
-- `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
-- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
-- `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260605-86F6` People build autonomous agents to run their inbox and Amazon accounts but, unlike research labs, almost never test them before sending them into the real world.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
+- `INS-260624-EA6B` A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
+- `INS-260619-8D68` PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
 - `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
 - `INS-260605-E1E2` Prefer models with built-in function calling and structured JSON support over coaxing the same behavior via prompts.
@@ -111,11 +111,11 @@
 - `INS-260625-6C29` Cooper believes the pull request and human code review are dying in favor of agents iterating directly in production — but only if the platform first provides copy-on-write forks and read-only prod clones, otherwise an unleashed AI SRE will inevitably destroy a production database.
 - `INS-260625-9F65` Coding is never a single-lane task — the win is an agent that knows every spec, email, and conversation, not another agent per SDLC step.
 - `INS-260524-B783` Jongmin Sung: 'If we decide what and why, we solve all the problems' — like self-driving, the agent handles execution but a human still sets the goal and picks the route.
+- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
+- `INS-260627-13BF` Treat the KV cache as an infrastructure contract where capacity can improve without changing agent code.
 - `INS-260625-ACBC` Pull requests exist to codify trust; when an agent writes and another agent reviews, trust becomes diffuse and tools only solve verification, not trust.
 - `INS-260627-5447` Agents 'can do anything except know what you value,' so your leverage shifts entirely to articulating preferences, brand, and quality bars.
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
-- `INS-260627-13BF` Treat the KV cache as an infrastructure contract where capacity can improve without changing agent code.
-- `INS-260405-2DCC` Each AI capability phase — transformers, LLMs, reasoning, agents — requires discarding the mental models built in the previous phase.
 - `INS-260625-6127` When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
 - `INS-260619-C9B1` AI app infrastructure cannot assume a fixed deployment shape; the application itself increasingly decides what compute it needs per request.

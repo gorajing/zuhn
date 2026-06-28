@@ -11,6 +11,10 @@
 - `INS-260625-FACB` Changing tool names, parameters, or grouping can be as consequential as changing task inputs.
 - `INS-260625-2DA2` A frontier reasoning model that calls a video generator plus deterministic editing tools (ffmpeg, Photoshop) in a long iterative loop can produce production-grade long-form video that no single video model can.
 - `INS-260524-0DC3` Woosang: getting agents to run molecular dynamics succeeded only ~20% of the time — inputs are scientific and finicky, so he analyzes the 'failure tax' per component.
+- `INS-260625-FC64` Built on the 2024 QwQ-32B, START consistently beats similarly-sized baselines and even outperforms o1-preview and o1-mini on most math and coding benchmarks — capability bought through tooling, not scale.
+- `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
+- `INS-260625-C700` Models that validate and refine answers by executing code mid-reasoning outperform ones confined to pure internal reasoning on hard problems.
+- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260605-B8D3` Cursor's composer sees ~23% gains from native semantic search while Claude Code sees less, because Anthropic built Claude to grep and the vector tool is merely appended.
 - `INS-260626-DD33` Skills should carry high-level orientation plus a link to markdown docs the agent web-fetches, so capabilities update centrally instead of forcing every user to redistribute the skill.
 - `INS-260627-F575` CHIA distinguishes agentic edges from programmatic edges so designers can tune exactly which decisions belong to the model and which remain deterministic.
@@ -43,10 +47,6 @@
 - `INS-260625-25BF` High-reasoning models like Opus tend to enter a research loop—hopping between methods and second-guessing themselves—so most API tokens are spent on finding a way to do the task rather than doing it.
 - `INS-260410-6ABA` Only add the think tool where mistakes compound across sequential decisions — otherwise you're paying tokens for nothing.
 - `INS-260625-E9A9` A 235B reasoning model failed a financial tool-use task by guessing at non-existent tables and hallucinating an answer, while a 4B model trained for tool discipline first discovered the tables, inspected the schema, and self-corrected — the bottleneck was behavior, not brains.
-- `INS-260625-FC64` Built on the 2024 QwQ-32B, START consistently beats similarly-sized baselines and even outperforms o1-preview and o1-mini on most math and coding benchmarks — capability bought through tooling, not scale.
-- `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
-- `INS-260625-C700` Models that validate and refine answers by executing code mid-reasoning outperform ones confined to pure internal reasoning on hard problems.
-- `INS-260409-60C2` Search is easy to bolt on; heavy training to synthesize dozens of papers without drift is what actually stopped Aletheia from fabricating references.
 - `INS-260410-0A28` Prompt injection is fundamentally a trust-boundary failure: retrieved web pages, shared docs, and images are parsed as instructions when they should be treated as untrusted data.
 - `INS-260625-73BD` WorkOS runs its internal data agent with zero RAG — just direct tool calls plus schema context injected at the moment each tool is called.
 - `INS-260501-8A1F` AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI.
@@ -65,7 +65,7 @@
 - `INS-260410-5D71` Tool descriptions should be short and functional; complex 'how to use this well' guidance belongs in the system prompt.
 - `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
 - `INS-260626-9141` The paper's routing ablations find explicit planning and moderate fusion helpful, while extra reflection does not add gains over planning.
+- `INS-260627-C70B` Cursor's RL goal was to mirror the production cursor environment 'as close as we possibly can' — same tools, same tool format, same tool responses — and the payoff is a model that becomes a 'power user' of tools like semantic search because it trained in exactly the environment it runs in.
 - `INS-260626-73D4` Sparse or outdated API specs cause agents to hallucinate or fail calls, so spec quality becomes a hard prerequisite for agentic systems.
 - `INS-260625-93FC` A richer harness is not free performance; it embeds environment knowledge that must be paid for and measured.
 - `INS-260625-1826` Do not rely on policy text to keep agents away from the oracle.
-- `INS-260627-C70B` Cursor's RL goal was to mirror the production cursor environment 'as close as we possibly can' — same tools, same tool format, same tool responses — and the payoff is a model that becomes a 'power user' of tools like semantic search because it trained in exactly the environment it runs in.

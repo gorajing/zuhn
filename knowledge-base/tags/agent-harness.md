@@ -16,6 +16,6 @@
 - `INS-260627-01CF` Requiring tasks and rewards up front converts an agent harness into a proper eval, replacing 'build it, try it, ship it' with measurable experimentation across models and hyperparameters.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260625-1B69` Scaffolding runs a step ahead of the model, but the model keeps digesting it and upstreaming it natively, so today's harness alpha evaporates within about a year.
-- `INS-260605-EA2E` Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - `INS-260627-9F3F` Model-facing tool descriptors should be backed by enforced gates for persona, exposure, origin, confirmation, egress, and audit.
+- `INS-260605-EA2E` Start from a written spec (intent + plan), feed it to an agent harness that checks out a known commit, validates internally each iteration, and only surfaces to a human for continue/stop.
 - `INS-260501-2A52` If you own the agent, you own which model the agent picks. That's why Sam, Dario, and Marc Benioff are all racing to win the agent layer.

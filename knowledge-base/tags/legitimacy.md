@@ -1,5 +1,10 @@
 # Tag: legitimacy
 
+- `INS-260327-64A5` Napoleon's empire required continuous military victories to maintain legitimacy — the moment he suffered a major defeat (Russia 1812), the entire system began to unravel because it had no other foundation.
+- `INS-260410-009B` The Chinese, Vietnamese, and Korean civil wars all turned on which side distributed land to peasants first — a political act that glued loyalty more firmly than any military campaign.
+
+- `INS-260327-F389` Napoleon's coup succeeded because he had both the popular fame that made opposition politically costly and enough insiders (Sieyes, Talleyrand) to open the institutional doors.
+- `INS-260410-EA78` When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.
 - `INS-260412-CCB6` The video argues that after doomsday, if survivors in Texas or Alaska don't believe they're still in the United States, they aren't — nations exist in collective belief, not in bunkers.
 - `INS-260410-F82F` Many Han Chinese still revere Mao despite 40M deaths because in their narrative he ended the 'century of humiliations' by reunifying China and fighting the Western coalition to a stalemate in Korea.
 - `INS-260412-BE19` The Rajapaksas' legitimacy from ending a 26-year civil war shielded them from accountability for corruption and debt accumulation — until citizens literally could not buy food or fuel.
@@ -12,8 +17,3 @@
 - `INS-260403-C6A6` Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - `INS-260330-FA07` Mesopotamian power shifted from temple priests who interpreted gods to kings who delivered military protection and economic stability.
 - `INS-260329-34A9` Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
-- `INS-260327-64A5` Napoleon's empire required continuous military victories to maintain legitimacy — the moment he suffered a major defeat (Russia 1812), the entire system began to unravel because it had no other foundation.
-- `INS-260410-009B` The Chinese, Vietnamese, and Korean civil wars all turned on which side distributed land to peasants first — a political act that glued loyalty more firmly than any military campaign.
-
-- `INS-260327-F389` Napoleon's coup succeeded because he had both the popular fame that made opposition politically costly and enough insiders (Sieyes, Talleyrand) to open the institutional doors.
-- `INS-260410-EA78` When ethical rule and economic prosperity fail as legitimacy pillars, authoritarian regimes default to jingoistic nationalism and territorial expansion — a last-resort card that clouds judgment and catalyzes counter-coalitions.

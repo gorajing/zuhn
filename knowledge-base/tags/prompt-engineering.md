@@ -1,9 +1,9 @@
 # Tag: prompt-engineering
 
 - `INS-260626-475E` Instead of micro-optimizing individual tool descriptions, GitHub evals them against each other so tools don't fight over when to be called — the description that makes an agent always call a tool is as bad as the one that makes it never call it.
+- `INS-260403-7AD0` Prompts that specify role, output structure, and analytical framework can match institutional analyst output quality.
 - `INS-260605-0DB3` One judge per dimension, output a single binary label after reasoning out loud — never a 1-10 score, because nobody (human or LLM) can define the difference between a 6 and a 7.
 - `INS-260605-71C3` With AI ROI still unproven, teams are actively engineering around token cost — Hampton cites a viral repo that makes chatbots 'talk like a pirate' purely because the terser style reduces token spend.
-- `INS-260403-7AD0` Prompts that specify role, output structure, and analytical framework can match institutional analyst output quality.
 - `INS-260605-2284` The hard problem in agents has shifted from writing good prompts to strategically choosing what the model sees.
 - `INS-260410-A1E9` Anthropic treats tool specs as a UI design problem — they iteratively probed for misunderstandings and rewrote descriptions to preempt them.
 - `INS-260627-16FE` Climb the optimization hierarchy — prompting, then task design, then RFT — and only fine-tune when cheaper levers are exhausted.
@@ -45,11 +45,11 @@
 - `INS-260605-510C` Assigning each character a distinct speaking style in parentheses makes one TTS voice sound like several seamless characters.
 - `INS-260627-B072` The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed.
 - `INS-260605-D659` Gen Media models are trained on Gemini-written prompts, so having Gemini author the prompts produces unusually faithful results.
-- `INS-260605-93B8` The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
 - `INS-260627-CEC6` Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context.
+- `INS-260605-93B8` The person with the most proximity to the problem — often non-technical — should seed the prompts and label agent traces, including the crucial 'why' a trace is good or bad.
 - `INS-260403-F664` Production system prompts that run millions of times must be hardened and optimized like code, representing a distinct discipline from conversational prompting.
+- `INS-260409-325B` Let Claude write the detailed prompt; you write the simple intent.
 - `INS-260327-0700` Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260625-0DD6` Application companies evolve from off-the-shelf models and prompting to fine-tuning, because the highest-leverage attributes—your user data, your harness, your tools—can only be partly captured by prompts.
 - `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260625-0750` Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product.
-- `INS-260409-325B` Let Claude write the detailed prompt; you write the simple intent.

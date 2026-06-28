@@ -3,6 +3,7 @@
 - `INS-260411-E6BD` AI can computationally monitor and regulate itself (functional self-awareness) but lacks subjective experience (phenomenal self-awareness), setting a hard epistemic boundary.
 - `INS-260403-E5D4` Asking the AI to analyze the disconnect between your stated preferences and actual conversation patterns reveals configuration improvements you cannot anticipate upfront.
 - `INS-260411-D67E` AI metacognition progresses through eleven tiers — from reactive completion (tier 0) to substrate-level awareness (tier 11) — with exponentially increasing safety requirements at each level.
+- `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
 - `INS-260404-50F7` Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260327-1313` Too much self-examination creates a hall of mirrors: the self watching the self watching the self, producing fragmentation rather than the clarity it promises.
@@ -40,10 +41,10 @@
 - `INS-260330-59A4` Self-awareness without self-acceptance makes the gap between who you are and who you want to be more painful, not less.
 - `INS-260329-8CA3` Distinguishing shame (violating others' rules) from guilt (violating your own) reveals that most inaction is driven by rules you never consciously chose.
 - `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
-- `INS-260403-BE93` Founders must honestly distinguish whether stealth is protecting their process or their pride — ego is the denominator that destroys stealth value.
 - `INS-260323-F9AC` Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
 - `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
+- `INS-260403-BE93` Founders must honestly distinguish whether stealth is protecting their process or their pride — ego is the denominator that destroys stealth value.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
 - `INS-260321-C14C` The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
 - `INS-260328-F303` The startup game is already nearly impossible when taking a real shot — not even taking a real shot is a guaranteed waste of time.
@@ -63,4 +64,3 @@
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
 - `INS-260322-C6CE` Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
 - `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
-- `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.

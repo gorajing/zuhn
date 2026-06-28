@@ -16,6 +16,7 @@
 - `INS-260329-72AC` Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
+- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260325-03D5` Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260330-30E8` The inverse Pythagorean theorem lets you split one lighthouse into two while preserving total brightness — transforming the problem without losing information.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
@@ -26,7 +27,6 @@
 - `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
 - `INS-260329-76B8` The squeeze theorem shows that if you can trap an unknown function between two functions that both approach the same limit, the unknown must approach that limit too — even if you can never evaluate it directly.
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
-- `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260329-3763` The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
@@ -43,7 +43,6 @@
 - `INS-260330-64D8` If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260412-E146` The information paradox was resolved by asking 'what do black holes do with information in the meantime' instead of debating whether it's lost or preserved at the end.
 - `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
-- `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260323-A14D` Problems that appear impossible often result from the wrong framing, not the wrong physics.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
@@ -51,6 +50,7 @@
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
 - `INS-260322-9C84` Problems that seem inescapable may simply be artifacts of the dimensional framework you're operating within.
 - `INS-260325-C724` When you can't find an answer directly, discovering constraints the answer must satisfy often lets you work backward to it.
+- `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260412-FD95` The wind-shear crisis killed the 737 plan but led to the Airlink E190 solution with connecting routes from both Johannesburg and Cape Town — arguably better than the original single-origin Comair service.
 - `INS-260327-A608` Great products start by identifying real problems, not by showcasing technology capabilities.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.

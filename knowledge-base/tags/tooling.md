@@ -11,14 +11,14 @@
 - `INS-260605-BAB5` MCP gives agents the tools to act; skills give them the knowledge to act correctly, and the second is the actual bottleneck.
 - `INS-260626-40DF` Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
 - `INS-260624-E878` Security agents need curated vulnerability knowledge and code-analysis tools in context.
-- `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 - `INS-260627-342A` In both self-driving and agents the model is roughly 1% of the work and the offline stack is the other 99%, so invest there to ship reliably.
 - `INS-260627-045B` In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model.
+- `INS-260627-F578` Once agents write most of the code, reading and reviewing their output becomes the rate limiter, so review tooling — not generation — is where parallelism is won or lost.
 - `INS-260625-20D7` Agents want the same primitives as engineers — feature flags, version control, observability, fork/branch, file systems — but at 1000x concurrency, which makes CI/CD 'melt' and forces replacements for Kubernetes, Envoy, and the push-pull-rebuild loop.
 - `INS-260626-81BB` Unlike compilers or assembly — where knowing the mechanism makes you more effective — knowing attention and token probabilities won't improve your AI workflow; it's a tacit skill earned only by continuously using the tools and revising your approach.
 - `INS-260605-3490` The most-adopted benchmarks invest in making it trivial to run models against them, contribute new tasks, and reuse their signals for RL — treating researchers as core users.
-- `INS-260605-E706` Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 - `INS-260627-B2C4` Replace flat tool exposure with lazy discovery when the available tool surface is larger than the task needs.
+- `INS-260605-E706` Express agent specs in a versioned, framework-neutral form (e.g. a GitHub repo) so integration, unit, and penetration tests survive an infrastructure change.
 - `INS-260605-25B2` Wrap your agent in a CLI with build/test/CI so long-running coding agents can modify and end-to-end test it on their own, forming a pseudo-RL loop.
 - `INS-260625-4559` Because the host rewrites the nested iframe's CSP from your declared metadata, any external API, script, image, or frame domain you forget to list is blocked — a leading cause of ChatGPT app-store rejections and production failures.
 - `INS-260625-81E1` The talk's explicit takeaway: long-context bottlenecks show up where you least expect, so lean on tooling like the PyTorch profiler rather than guessing.
