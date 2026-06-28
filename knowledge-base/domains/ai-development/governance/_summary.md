@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 59 insights
+> 60 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -56,6 +56,7 @@
 - `INS-260625-7365` [medium] Pick MCP servers from the vetted VS Code/GitHub registry instead of grabbing a random server off the internet that may carry malicious code.
 - `INS-260423-31A1` [medium] Hinton: if the Chinese figured out how to prevent AI from ever wanting to take control away from people, they would immediately tell the Americans, because they don't want AI taking control in America either.
 - `INS-260605-A2B7` [medium] When access is enforced at the network rather than by a key, saying 'no' is a hard stop — there is no 'this key stopped working, let me try another endpoint' helpful-agent workaround.
+- `INS-260628-0607` [medium] Executive AI ownership can be a scaling mechanism when it funds and rewires the work, not just usage mandates.
 - `INS-260625-0297` [medium] Let a new model 'settle on fire' for a couple of weeks and prove it stands the test of real use before you switch to it.
 - `INS-260405-5113` [medium] Khosla and Andreessen represent two ideological poles on AI's future — concentrated safety vs. unfettered advancement — and their influence shapes policy and capital flows.
 - `INS-260409-EA56` [medium] Plaintiffs' lawyers successfully used product liability law to sidestep Section 230 protection for the first time, creating a replicable map that will produce sustained tort pressure on social media platforms and likely force age verification at the handset layer.

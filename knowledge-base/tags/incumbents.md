@@ -13,9 +13,6 @@
 - `INS-260412-6B75` Argentine ants conquered six continents because native ant species had defenses evolved against local competitors, not against swarm-and-overwhelm tactics.
 - `INS-260410-FECA` When a rival consortium finally built a long-distance pipeline to bypass Standard's refining chokehold, Rockefeller ordered his captive railroads to ship oil below cost on the parallel routes until the pipeline ran out of capital.
 - `INS-260405-A671` Massive acquisition activity in software startups (2024) reflects incumbents buying growth rather than building it, creating exit opportunities for founders.
-- `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
-- `INS-260625-286E` A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
-- `INS-260625-57B0` The minor warlord who systematized warfare and used the latest guns beat the famously invincible cavalry — bet on systematized adoption of new tech over inherited prestige.
 - `INS-260410-8AF0` Britain could have weighed in against Prussia at any point in Bismarck's three wars and didn't, because each war individually looked too minor to merit intervention.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260404-EF67` Big Tech's structural incentives and organizational design make it the wrong founder for many innovation categories.
@@ -39,6 +36,9 @@
 - `INS-260403-2318` Large companies protect profitable lines, creating structural openings for startups with lower costs and fresh approaches.
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260405-7B7C` Companies like Ross, Aldi, Dollar General, and Costco thrived during the 'retail apocalypse,' suggesting Amazon punished bad strategy rather than killed an industry.
+- `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
+- `INS-260625-286E` A tiny startup can now build something as valuable as a large company and compete head-to-head because incumbents must retrain everyone and overcome internal resistance.
+- `INS-260625-57B0` The minor warlord who systematized warfare and used the latest guns beat the famously invincible cavalry — bet on systematized adoption of new tech over inherited prestige.
 - `INS-260404-8D91` McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
 - `INS-260404-00CD` Patent trolls are parasites seeking rent, but incumbents suing startups are deliberately trying to kill superior products — a far worse outcome for innovation.
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.

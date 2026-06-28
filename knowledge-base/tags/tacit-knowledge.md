@@ -23,8 +23,8 @@
 - `INS-260325-B974` A hairdresser, survivalists, and indigenous communities have all corrected academic archaeologists because practical craft knowledge reveals what artifact analysis misses.
 - `INS-260410-95BC` Sam Walton walked into competitor stores with a yellow legal pad for 50 years — and claimed to have spent more time in Kmarts than any Kmart employee outside of senior management.
 - `INS-260626-75DA` You can't prompt your way to a winning company because customers give you a local-optimum answer shaped by their worldview, not a clean prompt — the unspoken signal is the alpha, and the remaining bottleneck is the wisdom to choose.
-- `INS-260403-802D` The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
 - `INS-260330-E670` Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
+- `INS-260403-802D` The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
 - `INS-260412-4499` Anker beat western competitors to market with PowerIQ charging technology because Shenzhen's engineer network transmitted the information faster than formal channels.
 - `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
 - `INS-260325-A070` Traditional archaeology tells you what the past looked like; experimental archaeology — physically making and doing things — reveals what it sounded, tasted, and smelled like, and answers questions theory cannot.

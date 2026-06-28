@@ -1,13 +1,13 @@
 # Tag: narrative
 
 - `INS-260626-313E` Recursive names its category 'designless' by explicit analogy to 'fabless'—just as TSMC let companies stop owning fabrication, Recursive wants companies to stop owning chip design.
-- `INS-260325-8729` Zen teaches that pain is inevitable but the stories we tell about it — how unfair it is, how permanent it feels — are optional suffering we inflict on ourselves.
 - `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
 - `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260412-C97E` Emotionally satisfying unfalsifiable narratives outcompete empirically grounded ones in memetic spread.
+- `INS-260325-8729` Zen teaches that pain is inevitable but the stories we tell about it — how unfair it is, how permanent it feels — are optional suffering we inflict on ourselves.
 - `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260330-1D61` The myth that pre-Columbus Europeans believed in a flat Earth was a modern-era insult repeated until it became accepted fact.
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
@@ -27,12 +27,12 @@
 - `INS-260409-B9A1` If you don't believe in your own ending, no one else can be recruited to help you get there.
 - `INS-260325-B4CB` Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.
 - `INS-260403-02CE` Page's silence let the media credit Schmidt for Google's success, demonstrating that work does not speak for itself at scale.
-- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
-- `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260402-9DBC` Defining the vocabulary of your market (roles, categories, workflows) anchors your brand in every conversation about that space in ways features never can.
 - `INS-260330-F527` Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
+- `INS-260412-1C32` Javice's core skill was generating media coverage and crafting narratives — ink magazine, Forbes 30 Under 30, podcasts — while her actual products consistently failed to deliver on claims.
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
+- `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260403-05B8` The winning pitch in VC 3.0 isn't that you use AI — it's that your product fundamentally could not exist without it.
 - `INS-260405-A596` Find the one variable that governs your market and organize everything—strategy, pitch, and milestones—around it.
 - `INS-260404-8DEE` Coinbase pitched Bitcoin at $6.25 like a manifesto, and Dropbox's pristine deck worked because founder conviction came through on every slide.

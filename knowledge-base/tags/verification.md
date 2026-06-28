@@ -75,9 +75,9 @@
 - `INS-260627-0723` Readable summaries and machine-readable ledgers should be checked against each other before a run closes.
 - `INS-260605-C223` A markdown spec doesn't prove the product adheres to it, so insert an executable, human-readable BDD layer (Cucumber) that is reviewable in natural language and linked to PRDs.
 - `INS-260626-B7EB` NOVA's cascade checks architecture semantics, local executability, offline metrics, and only then online impact.
+- `INS-260627-E3D2` Do not accept agent-infra savings unless task correctness survives the optimization.
+- `INS-260627-47A6` An eval task is not just an intent; it is the runnable environment around the intent.
 - `INS-260410-81DC` Prout's atomic-weight hypothesis was correct but looked falsified for 85 years until isotopes were discovered; science progresses by protecting theories against their own current evidence.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
-- `INS-260627-E3D2` Do not accept agent-infra savings unless task correctness survives the optimization.
-- `INS-260627-47A6` An eval task is not just an intent; it is the runnable environment around the intent.
 - `INS-260403-5953` A simple verification checklist — Crunchbase history, WHOIS lookup, reference calls with portfolio founders — blocks most fundraising fraud.

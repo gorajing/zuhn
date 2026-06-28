@@ -15,14 +15,14 @@
 - `INS-260626-4564` The paper frames better automatic context generation as future work but its results imply the objective should be concise, outcome-improving guidance.
 - `INS-260605-C33F` Treat every agent failure as a harness bug and feed it into a retrospective + memory system, so the next run avoids the same roadblock.
 - `INS-260605-D818` Make harness components file-visible before asking agents to improve them.
-- `INS-260325-ED84` Shunryu Suzuki taught 'there is no enlightened person, only enlightened activity' — pursuing a permanent state of arrival is a self-improvement delusion.
-- `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
-- `INS-260325-537A` Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
-- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
-- `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260605-3163` A new 'traces' dataset repo type lets you push Codex/Claude Code/agent sessions and later train a model on them—turning everyday agent runs into a self-improvement flywheel.
 - `INS-260605-2793` Capture the exact transition where friction resolves into success, then ask what context could have skipped the friction entirely.
 - `INS-260625-9721` Treat your saved session transcripts as gold and run scheduled passes that find where you struggled, then build the missing skills.
 - `INS-260624-911B` Security self-improvement loops need realistic evals and reliable novelty verification.
 - `INS-260619-675F` Self-improving software may be real while still being hard to productize as its own startup.
+- `INS-260325-ED84` Shunryu Suzuki taught 'there is no enlightened person, only enlightened activity' — pursuing a permanent state of arrival is a self-improvement delusion.
+- `INS-260325-537A` Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
+- `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
+- `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
+- `INS-260405-AAB7` Wanting to want the new behavior is a prerequisite for lasting habit change.
+- `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.

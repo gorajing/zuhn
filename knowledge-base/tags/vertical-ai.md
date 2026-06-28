@@ -24,8 +24,8 @@
 - `INS-260404-8CA8` Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.
 - `INS-260403-ABC5` Vertical AI startups must build data loops and lock-in strategies from day one because speed alone provides no lasting moat.
 - `INS-260626-3DE4` The AI Consult trial supports a narrower commercialization claim: safe workflow support with documentation and cost signals, not proven patient-outcome transformation.
-- `INS-260403-2A92` ChatGPT's generalist capabilities are fragmenting into specialized vertical tools, repeating the Excel-to-SaaS evolution pattern.
 - `INS-260605-AEAC` For a medical-coding product, you need someone who has actually done medical coding — not just any doctor.
+- `INS-260403-2A92` ChatGPT's generalist capabilities are fragmenting into specialized vertical tools, repeating the Excel-to-SaaS evolution pattern.
 - `INS-260625-FDA1` The moat in applied AI is often the proprietary loop between decisions and domain feedback.
 - `INS-260403-2D39` Redpoint's framework demands a narrow high-urgency use case with real user love that naturally expands into larger product surfaces where quality sustains pricing power.
 - `INS-260626-8727` Strong vertical AI wedges replace an expensive missing measurement with ranked, testable candidates.

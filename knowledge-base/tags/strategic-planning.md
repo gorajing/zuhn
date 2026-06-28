@@ -2,8 +2,8 @@
 
 - `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260403-97F5` When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
-- `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260330-570F` Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.
+- `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260410-6D83` Start building your defensive option years before you deploy it — by the time the threat is real, you won't have time to stand up a world-class team from scratch.
 - `INS-260404-29EC` Strategic pillars should be scored across four dimensions: expected impact, certainty of impact, clarity of levers, and lever uniqueness/differentiation.
 - `INS-260404-0022` Mapping all business models on return-vs-risk and evidence-vs-potential axes reveals disruption vulnerability at a glance.

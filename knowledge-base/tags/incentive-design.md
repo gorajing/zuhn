@@ -3,22 +3,22 @@
 - `INS-260625-D1F9` Put eval creation and model optimization on different teams so the eval team is incentivized to build benchmarks that are hard for the model, not to flatter it.
 - `INS-260605-4597` GPQA's quiet contribution was an adversarial multi-reviewer protocol with agreement-based payouts, ensuring tasks are well-posed, tractable for other experts, and verifiable.
 - `INS-260404-D654` Tesla's $1T pay package only vests if the company hits $8.5T valuation through AI, robotics, and energy milestones — aligning Musk's payout with transformative value creation.
-- `INS-260627-5D31` Tenex pays engineers per story point but pays strategists on net revenue and customer happiness, so the person scoping and approving tickets has the opposite incentive to the person earning per ticket.
-- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
-- `INS-260410-F026` The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
-- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
 - `INS-260330-1EAC` China's 70-year land leases and GDP-linked official promotions incentivize developers to build low-quality housing that will need rebuilding, boosting future GDP cycles.
 - `INS-260330-3BBD` Trump's provocative approach to NATO allies finally broke the 50-year free-rider equilibrium that conventional diplomacy could not.
+- `INS-260410-F026` The eBay deal likely included 1.5M of founder secondary — and that may have been what prevented Pierre from selling to Knight Ridder for 50M instead of building a 21B company.
+- `INS-260410-4627` Rentech's 5-and-44 fee structure on a closed insider fund functions as a tenured university department would: senior partners (LPs) automatically transfer economic value to the current working team (GPs) through carry, keeping active researchers richly incentivized without requiring arbitrary annual bonus decisions.
+- `INS-260627-5D31` Tenex pays engineers per story point but pays strategists on net revenue and customer happiness, so the person scoping and approving tickets has the opposite incentive to the person earning per ticket.
+- `INS-260330-5C6E` The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260627-4EB7` Each historical pay model fails on its own terms: hourly punishes speed, fixed-bid invites padded estimates, salary-plus-bonus invites clock-watching, and equity only motivates the rare risk-tolerant person at a company that actually exits.
 - `INS-260412-BBF8` Manufacturers stripped JIT down to pure inventory elimination because that showed immediate savings, while resilience mechanisms only prove their value during rare disruptions.
 - `INS-260412-9F1D` Competitive dynamics within a crowd destroy cooperative behavior and are the primary driver of crowd crush risk.
 - `INS-260403-FF74` Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - `INS-260330-3879` The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - `INS-260404-78E6` When downvotes affect karma, users delete wisecracks but stubbornly leave up substantive controversial opinions.
-- `INS-260330-AE70` Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
 - `INS-260404-2365` Auto-retrieving filters wouldn't kill spam outright but would force spammers to add unsubscribe links, progressively improving the ecosystem.
 - `INS-260403-86DF` Removing the economic incentive for a behavior (prosecuting employers) is more effective than trying to physically prevent the behavior (ICE raids).
+- `INS-260330-AE70` Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260412-2DEF` The US foreign service's tiered hardship and danger pay system voluntarily fills the worst postings by transparently pricing difficulty into compensation.
 - `INS-260404-886C` Intrapreneurs who create billion-dollar internal ventures deserve compensation and career tracks equivalent to salespeople who generate comparable revenue.

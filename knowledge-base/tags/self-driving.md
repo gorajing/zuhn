@@ -1,8 +1,8 @@
 # Tag: self-driving
 
 - `INS-260627-4072` Build the eval set as a loop — start with a small dev CSV, ship when the team is confident, then mine production for the hard cases you couldn't anticipate and feed them back into the data set.
-- `INS-260410-8DDD` Self-driving stagnated for 15+ years because you cannot let a car make-and-correct mistakes at 60mph; manipulation is different because dishes can break and the robot just tries again — which turns each failure into training data.
 - `INS-260328-8FC9` Self-driving utopians were right about the destination but off by nearly a decade on timing -- and the current reality still involves significant human operators managing fleets, suggesting AGI will follow the same pattern.
+- `INS-260410-8DDD` Self-driving stagnated for 15+ years because you cannot let a car make-and-correct mistakes at 60mph; manipulation is different because dishes can break and the robot just tries again — which turns each failure into training data.
 - `INS-260627-342A` In both self-driving and agents the model is roughly 1% of the work and the offline stack is the other 99%, so invest there to ship reliably.
 - `INS-260514-C4CF` Supervised ML works only when 3 constraints hold: clean labeled data, measurable goal, defined parameters. Edge cases (situations breaking those constraints) cause catastrophic failure. Not a temporary problem — a fundamental architectural limit.
 - `INS-260405-5617` When regulations prevent informed, consenting adults from voluntarily joining early-stage experiments, the cost is paid in slower iteration cycles and delayed learning — not just in lost individual freedom.

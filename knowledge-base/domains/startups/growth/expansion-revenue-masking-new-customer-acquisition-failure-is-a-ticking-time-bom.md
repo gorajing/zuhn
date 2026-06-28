@@ -58,6 +58,7 @@ related:
   - PRI-260406-E371
   - INS-260410-797C
   - INS-260403-91A1
+  - INS-260628-C1BB
 ---
 As growth decelerated post-pandemic, many SaaS companies began leaning heavily on existing accounts through price increases, bundled features, and add-on modules to maintain reported expansion numbers. This masked a critical weakness: net new logo growth was slowing and sales cycles were stretching.
 

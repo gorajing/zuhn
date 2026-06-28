@@ -52,7 +52,7 @@ related:
   - INS-260327-95D3
   - INS-260403-EEDF
   - INS-260410-022B
-  - PRI-260413-A957
+  - INS-260628-405C
 ---
 Carina Hong: research math problems often have proof loads scaling with problem difficulty — Olympiad problems might need 5x what undergraduate problems need; research problems might need 500x or more. The empirical observation is that the same inference-time-compute scaling laws that improved Olympiad performance transfer to research-level math. You can scale inference compute and continue to extract more accurate proof generation. Numina's deep-reasoning agent (LeanOS-style) demonstrated this with researcher-prompted problems — the level 0-2 inference scaling shows the same pattern at the research level as at the Olympiad level.
 

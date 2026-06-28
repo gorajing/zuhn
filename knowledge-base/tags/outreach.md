@@ -1,7 +1,7 @@
 # Tag: outreach
 
-- `INS-260409-E65B` Three unsolicited moves — compliment, congratulate, console — turn shallow contacts into durable allies because almost no one else bothers.
 - `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
+- `INS-260409-E65B` Three unsolicited moves — compliment, congratulate, console — turn shallow contacts into durable allies because almost no one else bothers.
 - `INS-260405-2A34` Filtering for fund size and vintage before outreach converts fundraising from a numbers game into a precision exercise.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260405-270B` Cold outreach succeeds when personalization demonstrates genuine knowledge of the recipient's context rather than mass-blast generic pitches.

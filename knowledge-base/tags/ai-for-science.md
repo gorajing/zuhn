@@ -17,6 +17,6 @@
 - `INS-260627-C757` The paper's credibility comes partly from naming the physics it has not solved yet.
 - `INS-260625-8CE3` The field bottleneck is not molecule imagination alone; it is deciding which tiny subset of millions of compounds deserves scarce wet-lab testing.
 - `INS-260628-940A` AdsMind's reusable value comes from structured chemical-slip histories, benchmark manifests, frozen runtime settings, and DFT validation, not from any single hosted LLM backend.
-- `INS-260327-2C5F` Language is universal — once AI can process language, it can in principle do anything humans can do, because we are all information processors communicating through language.
 - `INS-260626-E822` Radical AI open-sources its models because in materials science the moat is proprietary experimental data and the closed-loop lab, not the model weights.
+- `INS-260327-2C5F` Language is universal — once AI can process language, it can in principle do anything humans can do, because we are all information processors communicating through language.
 - `INS-260327-77E5` AI for science progresses through three levels: co-pilot assistance, autonomous AI scientists, and virtual research environments that make biology as fast as computer science.

@@ -60,6 +60,7 @@ related:
   - INS-260330-78B1
   - INS-260325-4846
   - INS-260327-B302
+  - INS-260628-F9EB
 ---
 Shipper claims a '10x difference' between an org where 90% of engineers use AI and one where 100% do. The mechanism is not the marginal productivity of the last 10% of people, but a coordination constraint: if even a tenth of the team works in a traditional code-editor flow, the org must 'lean all the way back over into that world,' preserving review norms, handoff rituals, and shared assumptions that block the genuinely new workflows (parallel agents, demo culture, cross-repo agent reading) the other 90% could otherwise adopt.
 

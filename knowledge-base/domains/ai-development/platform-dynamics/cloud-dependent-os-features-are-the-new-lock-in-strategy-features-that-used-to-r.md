@@ -58,8 +58,8 @@ related:
   - INS-260405-4D81
   - INS-260410-9EFC
   - INS-260323-5C25
+  - INS-260628-0607
   - PRI-260403-4612
-  - INS-260514-118A
 ---
 Innovation Uncovered: Microsoft's 2024 push to Windows 365 (cloud-hosted Windows) signals the long-term direction — make OS local-execution optional or impossible. Features that used to run locally now require cloud processing. Recall (the screenshot-AI feature) tried to ship in 2024 storing everything locally in plain text, was pulled after backlash, but the intent to ship it is the signal. Telemetry is now mandatory in Pro editions. Default app preferences reset after updates. The strategy is gradual migration of execution from local to cloud, making the OS-as-product less important than the cloud-services-attachment.
 

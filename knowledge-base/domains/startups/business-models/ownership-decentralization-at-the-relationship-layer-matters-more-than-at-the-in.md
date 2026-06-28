@@ -57,9 +57,9 @@ stance: >-
 related:
   - PRI-260326-DB67
   - PRI-260328-FD47
+  - INS-260628-0607
   - INS-260410-7075
   - INS-260405-33CD
-  - INS-260409-8DDE
 ---
 Chris Best frames Substack as 'decentralized at the layer that actually matters — ownership.' Writers own their subscriber lists. Readers pay creators directly. There's no algorithmic middleman deciding who sees what. This achieves the stated goals of the web3 creator economy movement — creator sovereignty, direct monetization, censorship resistance through portability — without tokens, wallets, or chain infrastructure.
 

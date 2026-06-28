@@ -46,7 +46,6 @@ stance: >-
   branch isolation, and handoff state rather than flattening all work into one
   session.
 related:
-  - INS-260329-5F19
   - INS-260605-738E
   - INS-260605-D055
   - INS-260322-A367

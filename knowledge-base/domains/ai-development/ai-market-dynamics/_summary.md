@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 194 insights
+> 195 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260627-8781` [high] Agent operating systems need embedded control before workflow replacement scales.
@@ -129,6 +129,7 @@
 - `INS-260327-DE27` [medium] AI that designs better chips faster creates a recursive loop: better chips enable better AI, which designs even better chips.
 - `INS-260410-F536` [medium] Greg Abel on Berkshire Hathaway Energy: 'That responsibility has grown as the industry enters a significant investment cycle, driven by rising electricity demand from artificial intelligence computing and by increasing wildfire risk... Infrastructure built for hyperscalers and data centers must be paid for by those customers and reflect the risks tied to step-changes in long-term demand.'
 - `INS-260403-9CA6` [medium] AI development follows a polytheistic pattern of competing specialized systems rather than converging toward a single dominant model.
+- `INS-260628-F9EB` [medium] The rare AI winners look like transformation programs, not passive adoption curves.
 - `INS-260322-8BD1` [medium] The AI industry will likely cascade like the computer industry — a few supercomputer-class god models at the top, with the real volume in smaller models deployed down to embedded systems in every physical object.
 - `INS-260409-C14E` [medium] AI is a platform shift — daily use now compounds into intuition that late adopters cannot buy later.
 - `INS-260403-3760` [medium] AI is enabling outcome-based legal services that bypass the traditional billable-hour model, creating a massive new market.

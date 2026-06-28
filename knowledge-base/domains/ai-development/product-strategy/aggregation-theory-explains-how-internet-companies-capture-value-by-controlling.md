@@ -47,11 +47,11 @@ stance: >-
   exponential value on the internet, and this dynamic is now reshaping the AI
   value chain as open-source models commoditize LLM providers
 related:
-  - INS-260328-D826
   - INS-260403-C200
+  - INS-260328-D826
+  - INS-260628-0607
   - PRI-260328-DF2D
   - INS-260402-C98A
-  - INS-260330-4F2A
 evidence:
   - id: INS-260330-4F2A
     type: EXTENDS

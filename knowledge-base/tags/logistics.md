@@ -13,10 +13,10 @@
 - `INS-260412-18B7` Russia's truck fleet could only sustain operations ~90 miles from railyards, creating a hard distance ceiling on effective force projection.
 - `INS-260327-CB71` Austrian relief armies in Italy were consistently hampered by supply difficulties through Alpine passes, while Napoleon's shorter supply lines from France gave him a logistical advantage.
 - `INS-260412-9DEE` The US-China trade deficit made westbound Pacific shipping near-free, enabling an entire global recycling industry that collapsed when China closed the receiving end.
-- `INS-260327-500C` Zipline's biggest realization was that designing a cool autonomous aircraft was only 15% of building a national-scale delivery system.
 - `INS-260410-3022` Barnes & Noble couldn't match Amazon's fulfillment centers because doing so meant admitting their existing distribution network was obsolete.
 - `INS-260328-75B8` Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
 - `INS-260412-D031` Express shipping requires such massive hub-and-spoke networks that new entrants are locked out — unless, like Amazon, they ship enough of their own packages to fill planes without external customers.
+- `INS-260327-500C` Zipline's biggest realization was that designing a cool autonomous aircraft was only 15% of building a national-scale delivery system.
 - `INS-260412-3978` Eliminating ground transport forces all physical goods through air freight, creating massive cost premiums proportional to weight and bulk rather than intrinsic value.
 - `INS-260412-CFF6` Antarctica uses intercontinental jets to coastal McMurdo, ski-equipped LC-130s inland, and 40-day tractor convoys for bulk cargo—each mode optimized for its leg.
 - `INS-260412-8DF5` FedEx chose Memphis for its SuperHub not because it's the geographic center of the US, but because it's near the mean population center — minimizing average delivery distance to the most people.

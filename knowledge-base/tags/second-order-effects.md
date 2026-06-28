@@ -4,10 +4,10 @@
 - `INS-260628-449A` With translation effectively solved, a founder can run founder-quality Japanese customer support without speaking Japanese — small teams now reach any market.
 - `INS-260626-690F` The reason agent code review earns enough trust to gate every PR is that it contextualizes the diff against the full codebase and flags breakages in untouched modules, not just lines in the diff.
 - `INS-260628-52EA` Anyone could predict cars would replace horses; almost no one predicted traffic — so the real strategic edge is forecasting the second-order effects of a shift.
-- `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
 - `INS-260410-3A01` Eisenhower armed Pakistan to contain the Soviets, but since Pakistan's primary enemy was India, the weapons were aimed at India — poisoning US–India relations for the duration of the Cold War, a decision Eisenhower later called 'perhaps the worst kind of plan and decision we could ever have made.'
 - `INS-260403-213C` Wars of choice that impose costs on allies damage long-term economic relationships in ways that outlast the immediate commodity shock.
 - `INS-260410-7E29` Pearl Harbor was an A+ military operation that converted isolationist America into Japan's destroyer — proving tactical perfection is worthless if it mobilizes a vastly stronger opponent.
+- `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
 - `INS-260412-8111` The asteroid's direct impact was devastating, but it was the chain of earthquakes, tsunamis, atmospheric heating, wildfires, and nuclear winter that actually killed 75% of species.
 - `INS-260403-E9DB` Many of America's most-discussed problems — sprawl, bad transit, housing costs — are actually second-order effects of its uniquely high crime rates.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.

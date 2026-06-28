@@ -4,6 +4,7 @@
 - `INS-260514-FCC8` The 1972→1980s→2017 Bell-test history shows how to rule out alternatives definitively: identify each loophole, design an experiment that closes it, repeat until no loophole remains. Then the conclusion is ironclad.
 - `INS-260605-80D0` ContextBench scores whether an agent located the human-labeled golden files, lines, and symbols during its trajectory, not just whether it ultimately solved the problem.
 - `INS-260627-F6BD` The paper layers evidence from model benchmarks, gradient analysis, dataflow ablations, and post-layout simulations rather than relying only on accuracy.
+- `INS-260628-405C` Treat the McKinsey result as a scaling-condition update, not a causal falsification of bottom-up discovery.
 - `INS-260626-36F0` Use the P&G field experiment to update creative-collaboration beliefs, not to generalize across all human-AI teaming.
 - `INS-260603-4387` Satish: people create lat/long grids and throw them at a model expecting it to learn — but 1° of latitude is ~111km at the equator and near-0 at the poles, so the representation itself is distorted; his team instead represents Earth as a dense triangular geodesic grid so information density per cell is consistent.
 - `INS-260627-C757` The paper's credibility comes partly from naming the physics it has not solved yet.
