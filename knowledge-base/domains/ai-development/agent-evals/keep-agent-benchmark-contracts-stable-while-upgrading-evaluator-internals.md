@@ -46,10 +46,10 @@ stance: >-
   contract stays fixed while evaluator internals mature behind it.
 related:
   - INS-260624-A121
+  - INS-260627-6031
   - INS-260605-27CC
   - INS-260605-2186
   - INS-260605-6444
-  - INS-260627-3D9A
 ---
 The benchmark fixes a JSON contract: task files specify inputs, schemas, constraints, metrics, and provenance; agents write structured solutions; evaluators emit feasibility, score, violations, and evidence. The paper then defines an evaluator maturity ladder from closed-form or graph surrogates through deterministic engineering models and simulator-backed checks.
 

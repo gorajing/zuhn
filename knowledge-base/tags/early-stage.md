@@ -2,6 +2,7 @@
 
 - `INS-260404-C6AB` Effective early-stage AI investing requires a structured framework at the $100-500M fund scale, as generalist AI exposure fails to differentiate.
 - `INS-260405-963B` Chamath argues AI is still early-stage even after two years of mainstream adoption and a trillion in investment.
+- `INS-260405-6EE5` Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
 - `INS-260404-15B8` Early-stage VCs show AI fatigue despite $30B raised in 2024, suggesting a coming selectivity filter.
 - `INS-260404-51A2` Pitchbook data shows early-stage SaaS has the best expected exit success rate among VC investment categories.
 - `INS-260410-EFB8` Stop trying to DCF a napkin — early-stage VC values the magnitude and probability distribution of outcomes, like an option.
@@ -12,9 +13,8 @@
 - `INS-260403-E44E` Pre-seed due diligence must focus on founder qualities and market insight rather than traditional business metrics that don't yet exist.
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-AB11` Major VC firms are shifting toward later-stage de-risked investments, making micro-VCs and operator-angels the fastest path to early-stage capital in 2026.
-- `INS-260405-6EE5` Gulf investors are becoming structurally active in European pre-seed and early-stage deals, diversifying the European funding ecosystem beyond traditional US and local capital.
-- `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
+- `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
 - `INS-260405-7196` Focus on how fast your work is improving, not where it currently stands — the trajectory is what matters, not the position.
 - `INS-260404-CD3E` Ambitious projects universally look unimpressive early on, so premature judgment kills more great work than lack of talent.
 - `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
@@ -22,9 +22,9 @@
 - `INS-260404-21AA` Most people never start ambitious projects because they cannot tolerate the inevitably poor quality of early versions.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
-- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260404-1E35` Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
+- `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
 - `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.

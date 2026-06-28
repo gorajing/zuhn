@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 96 insights
+> 98 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -12,6 +12,7 @@
 - `INS-260505-02F8` [high] Protein Data Bank: 200K experimental structures over 50 years (1971-2021) → AlphaFold predicts 200M structures in 4 years. AI couldn't do this without the 200K.
 - `INS-260405-567D` [high] NVIDIA's Vera Rubin platform delivers 10x inference efficiency gains, signaling the industry's pivot from training to inference as the dominant workload.
 - `INS-260410-1159` [high] A gigawatt of Rubin-class compute takes ~3.5 EUV tools of annual output, and ASML can only make ~70 now, scaling to ~100 by 2030 — mathematically capping total AI capacity at ~200 GW/year.
+- `INS-260627-A954` [high] Cursor's three ML scaling challenges — train/inference parity, bursty heterogeneous rollouts, and tool-format consistency — all turned out to have infrastructure solutions, and they note the same correlation held for framework 'magic moments' back at Vercel.
 - `INS-260410-0DA5` [high] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
 - `INS-260410-B1A9` [high] Microsoft paused leases not because demand was weak, but to avoid 4-5 years of depreciation stuck on one chip generation in one location for one workload type.
 - `INS-260605-F383` [high] Network latency between geographically separated models can dominate engine latency; co-locating all models and the orchestrator in one data center can drop a 75ms hop to ~5ms for a ~30% total latency reduction.
@@ -54,6 +55,7 @@
 - `INS-260625-E7CD` [high] Agents need an addressable, hibernating, persistent compute unit — not a stateless function that vanishes after each request.
 - `INS-260605-434D` [high] Switching from a dynamic to a static KV cache lets you CUDA-graph-capture an autoregressive TTS model, taking real-time factor from 0.8 to ~5x.
 - `INS-260410-ED34` [high] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
+- `INS-260627-FF6C` [high] In synchronous RL, step time is dictated by the longest sample, so a heavy completion-time tail leaves most GPUs idle.
 - `INS-260605-5159` [high] Persistent state and warm caches across iterations are mandatory because restarting work from scratch each loop multiplies latency in a high-frequency cycle.
 - `INS-260625-5BF4` [high] Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect.
 - `INS-260505-A38E` [high] Markets fund 5-year ROI; protein databases that take 50 years to build don't qualify. Federal funding fills that specific gap.

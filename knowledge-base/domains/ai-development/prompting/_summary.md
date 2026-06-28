@@ -1,6 +1,6 @@
 # Topic: prompting
 
-> 38 insights
+> 40 insights
 
 - `INS-260605-705B` [high] Codify what the agent must never do, not every step it should take, and let it reason at runtime.
 - `INS-260410-AB4A` [high] Anthropic built a tool-testing agent that used a flawed MCP tool, then rewrote its description — future agents using the new description completed tasks 40% faster.
@@ -15,6 +15,7 @@
 - `INS-260410-096F` [high] When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260410-B8EB` [high] The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - `INS-260405-880C` [high] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+- `INS-260627-2BA7` [high] Reusing another model's prompts and over-instructing thoroughness can make a capable model slower and worse, not better.
 - `INS-260605-510C` [high] Assigning each character a distinct speaking style in parentheses makes one TTS voice sound like several seamless characters.
 - `INS-260605-9402` [high] Context is a soft guardrail you shape; with abundant windows the new engineering challenge is exclusion and noise reduction, not inclusion.
 - `INS-260410-87B5` [high] Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
@@ -34,6 +35,7 @@
 - `INS-260627-5785` [medium] A skill/prompt that explicitly acknowledges slop and tells the model not to produce it visibly improves the output, so 'don't produce slop' is a usable, concrete instruction.
 - `INS-260626-EB91` [medium] Render soft human context before the numeric guard block so the model sets tone first and then satisfies constraints — reversing the order makes prose feel mechanically slotted.
 - `INS-260626-1D80` [medium] A Jaccard drift score can flag suspicious prompt edits, but the threshold is not proof of behavior change without an eval.
+- `INS-260627-3035` [medium] 'Dog sitting on a chair' beats 'dog should not sit on the floor' because models are trained on positive image-text pairs and have little representation of negation.
 - `INS-260605-F512` [medium] Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
 - `INS-260627-E8B8` [medium] How structured inputs/outputs are serialized into the prompt is a swappable lever that measurably affects accuracy and token cost.
 - `INS-260626-A928` [medium] Use a 'grill me' interrogation loop (the AI asks you one decision question at a time, with its recommendation) to build a shared design concept; afterward skip reviewing the PRD because you're only checking the LLM's summarization, which it does well.

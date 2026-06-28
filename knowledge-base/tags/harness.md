@@ -5,6 +5,7 @@
 - `INS-260525-3A9A` Walmart data scientist: 'what determines the performance is what you put in' — HIG, screenshots-to-agent for frontend, and a designer.md of references made the output good.
 - `INS-260501-E377` Amjad Masad: when we released agent v2, we had to delete a lot of that code because the models got a lot better at staying consistent — autonomy is now built into the model, not the infrastructure.
 - `INS-260605-0312` A harness must deterministically inspect the trace of tool calls to confirm what actually happened, because the model will claim it succeeded even when it failed.
+- `INS-260627-4CF5` Building the model and the harness together gives you tacit knowledge of the model's habits that an external harness-builder has to reverse-engineer.
 - `INS-260626-CC4A` Record harness adapter identity whenever comparing agent runs.
 - `INS-260605-07E5` Build a state machine with gates between agents so steps can't be skipped, instead of trusting prompt instructions the model can ignore.
 - `INS-260605-C9E8` Agents must produce a PR via git, so run the same linting/architecture/dedup checks as both git hooks and CI — if an agent skips a hook to be lazy, CI catches it and links it back to the rule's document.
@@ -15,6 +16,8 @@
 - `INS-260605-8AFF` Scope the model's tools and the runtime's direct command permissions separately.
 - `INS-260605-8F42` The economic payoff of harness engineering is doing more with less — running cheap or free models like GPT-OSS or Qwen reliably instead of renting expensive frontier inference.
 - `INS-260626-C412` Fine-tuning locks you to a model that the next frontier release makes obsolete; a harness that sits on top inherits every future model's gains for free.
+- `INS-260627-B3FF` The old 'the model is the product' is inverting into 'the product is the model' — and the option to customize a model where it matters is the durable differentiator.
 - `INS-260605-1066` Default parameters like reasoning level and caching silently drift across model versions even within a family, so calibrate your harness against a known benchmark first.
 - `INS-260605-4856` Frontier models cluster within a few points on SWE-bench Pro while the harness alone swings results ~22%, so you may be measuring the harness, not the model.
+- `INS-260627-4253` A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.
 - `INS-260626-E990` Most RSI proposals require training a new model per improvement step (hundreds of millions, months); doing it at the harness level skips the weights entirely and runs in days for under six figures.

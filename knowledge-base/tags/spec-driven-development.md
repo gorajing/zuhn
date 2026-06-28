@@ -1,5 +1,6 @@
 # Tag: spec-driven-development
 
+- `INS-260627-E230` Verification is only as good as its specification — anything you forget to check is an opening for bugs — so as agents nail implementation, the spec becomes the bottleneck.
 - `INS-260605-03A6` Persist the plan as a markdown spec, then run a dumb bash loop that picks one small task, implements it, and exits with fresh context each iteration — avoiding the de-optimization that comes from cramming multiple tasks into one context window.
 - `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260627-3053` With strong validators in place, you stop hand-coding and instead specify constraints, let agents generate, then verify against automation plus intuition and iterate.

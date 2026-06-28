@@ -56,7 +56,7 @@ related:
   - INS-260625-DD6B
   - INS-260605-F064
   - INS-260423-9225
-  - INS-260501-DAD0
+  - INS-260627-342A
 ---
 Android's AI Core exists because a capable on-device model is 1GB at the smallest and 3-4GB in practice — far too large for each app to bundle and justify to an end user. By placing the model in a single system service, the OS pays that storage and download cost once and amortizes it across every app on the device. The team explicitly framed this as removing any concern about 'hundreds of apps using this,' because the marginal cost of an additional app consumer is near zero once the model is centralized.
 

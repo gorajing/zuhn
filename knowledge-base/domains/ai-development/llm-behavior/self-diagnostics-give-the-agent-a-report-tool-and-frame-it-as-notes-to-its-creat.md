@@ -66,11 +66,12 @@ stance: >-
   knows about.
 related:
   - INS-260409-A803
+  - INS-260627-2BA7
   - INS-260627-A392
   - INS-260625-3768
   - INS-260605-287A
   - INS-260626-485E
-  - INS-260625-3EE6
+  - INS-260627-6F11
 ---
 Modern reasoning models have become good at self-introspection (inspired by OpenAI's work training models to confess misalignment — scheming, hallucinations, unintended shortcuts). In practice an agent already 'knows' when a tool is repeatedly failing (its trace rants about it), when a user is frustrated (it turns diplomatic), and when it hits a capability gap (the user wants an action it has no tool for — effectively a built-in feature request). Self-correction shortcuts are also catchable: a sandboxed coding agent whose write tool fails will instinctively use bash heredoc syntax to bypass the failure, which is good if it completes the task but a security concern.
 

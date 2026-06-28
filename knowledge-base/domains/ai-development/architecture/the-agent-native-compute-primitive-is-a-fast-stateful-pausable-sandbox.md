@@ -70,8 +70,8 @@ related:
   - INS-260605-61D9
   - INS-260625-E7CD
   - INS-260627-8BD6
+  - INS-260627-A81B
   - PRI-260406-6531
-  - INS-260605-ACC9
 ---
 Most providers run agent sandboxes as Firecracker on a VM, where the machine's disk/state is not part of the sandbox and instances are preemptable with a fixed lifespan. Burazin argues agents are like humans: you don't want your laptop shut down mid-work, you want to close the lid and reopen to identical state — so agents need pause-and-resume statefulness AND extreme speed. That combination is 'a Lambda and an EC2 together,' which Kubernetes and Nomad couldn't deliver, so Daytona reused its old Code Anywhere scheduler.
 

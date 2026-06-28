@@ -1,6 +1,6 @@
 # Topic: system-design
 
-> 115 insights
+> 117 insights
 
 - `INS-260514-3100` [high] AV1 codec: 79.9% assembly, 19.6% C, 0.5% other. Running on ~3 billion devices nonstop. At that scale, every cycle saved = billions of CPU-seconds. The 'compilers can do it' argument collapses. Scale justifies low-level.
 - `INS-260605-AABE` [high] ML engineers obsess over precision/recall/F1, but evaluating an agent means evaluating functional performance across a much wider surface than those classification metrics cover.
@@ -55,9 +55,11 @@
 - `INS-260626-AAD8` [high] Offloading conversation state to the server preserves the prompt-prefix cache that client-side history edits (stripping whitespace, line breaks) quietly invalidate.
 - `INS-260514-1659` [high] One engineer writes 'how to write a good follow-up email' once. Every agent on the team writes good follow-up emails forever. Compounds.
 - `INS-260627-F3B6` [high] Don't make an agent push to version control and wait minutes for a workflow to fail — validate up front locally by calling the same APIs or wrappers, so the agent's iteration loop stays tight.
+- `INS-260627-9BB0` [high] Model sampling throughput (roofline latency curve), training throughput, and the response-length distribution, then sweep GPU splits to find the layout that balances production with consumption while staying under the staleness limit.
 - `INS-260514-5914` [high] Skills = how-to knowledge loaded just-in-time. Sub-agents = task delegation that returns only the result. Wrong primitive = wasted context.
 - `INS-260522-EB3C` [high] YC Root Access: store all data preciously (Gary Tan keeps every email in markdown, never deletes), treat the software on top as ephemeral — regenerate it from your instructions when the models get smarter in a month or two.
 - `INS-260605-E16A` [high] Because SSE is strictly one-way, a client closing the connection is ambiguous — buffer-to-resume or cancel-the-LLM — so you cannot support both resume and a stop button.
+- `INS-260627-CB5C` [high] The speaker explicitly recommends NOT starting with the fancy vision-retrieval model — begin with the cheaper traditional pipeline and only switch when your actual data proves it inadequate.
 - `INS-260605-204E` [high] Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.
 - `INS-260626-5375` [high] The same structure that makes a codebase easy for a new human to onboard makes it easy for an agent — collocated, modular code and conventional patterns let agents discover relevant files by listing a folder instead of grepping everywhere.
 - `INS-260412-41A5` [high] Superradiant scattering shows that exponential amplification requires both an energy source and a reflective boundary working together.

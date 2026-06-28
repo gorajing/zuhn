@@ -52,8 +52,8 @@ related:
   - INS-260405-4803
   - INS-260409-E6F3
   - INS-260405-880C
+  - INS-260627-D580
   - INS-260410-ED68
-  - INS-260412-C28A
 ---
 The video draws an analogy between general-purpose AI and Newtonian physics as platform technologies—foundational layers that enable entire categories of applications their creators couldn't foresee. Newton didn't predict rockets, but his physics made them possible. Similarly, general-purpose reinforcement learning may enable applications we can't currently imagine.
 

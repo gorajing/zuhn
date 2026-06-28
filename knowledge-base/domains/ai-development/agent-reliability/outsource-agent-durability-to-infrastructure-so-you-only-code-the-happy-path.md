@@ -69,8 +69,9 @@ related:
   - INS-260605-8D12
   - INS-260624-223D
   - INS-260627-E7AE
+  - INS-260627-1443
   - INS-260627-B44E
-  - INS-260626-2F2E
+  - INS-260627-5F5A
 ---
 The central argument for production agents is that durability is a distributed-systems concern that does not belong in the agent's business logic. With a durable-execution backing service, the developer programs only the 'happy path' — call the LLM, run a tool, loop back — while the service transparently provides configurable retries (exponential backoff, retry caps, max windows), queue-based message passing, and state persistence. The mechanism is event sourcing: every activity call and result is recorded, so the execution can be reconstituted from event history after any failure.
 

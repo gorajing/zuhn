@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 168 insights
+> 173 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -68,6 +68,7 @@
 - `INS-260330-BB53` [high] Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260329-B4E7` [high] Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260605-DC7C` [high] Different roles need structurally different outputs, so segment prompts by role instead of chasing one prompt that serves everyone.
+- `INS-260627-A842` [high] Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 - `INS-260626-7F76` [high] GitHub built tool-sets, dynamic discovery, and a RAG tool-search to tame context bloat, but 'everyone used the default settings,' so the only fix that mattered was tightening the default itself.
 - `INS-260327-112B` [high] Lowering creation barriers through AI generates stronger social dynamics than optimizing content consumption feeds.
 - `INS-260409-94D6` [high] Don't ask 'should I hire an editor' — list the 6-10 things an editor actually does with their hands and ask which of those can become workflows.
@@ -103,6 +104,7 @@
 - `INS-260605-7A70` [high] Customers who already built agents (evals, RAG, tool calling) reject rebuilds, so the product that wraps their work beats the one that replaces it.
 - `INS-260625-4B92` [high] The most powerful RL environment is your own product, because that is exactly where the model will be used, so RL against production rather than wrapping it in a generic container.
 - `INS-260605-2623` [medium] Models can now write better frontend code than most engineers, yet apps stay static — the gap is interface paradigm, not raw capability.
+- `INS-260627-C7D2` [medium] Treat the vendor's harness as a new abstraction layer so model upgrades stop forcing prompt and tool rewrites, and spend the saved effort on your product.
 - `INS-260625-C3B0` [medium] Flip a coin at each step to pick which model to call; the models cover each other's mistakes like pair programmers.
 - `INS-260327-E41B` [medium] When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
 - `INS-260625-4248` [medium] The hard problem in retrieval is not what to store but knowing what to query for, and the unprompted associations that make an expert valuable can only happen in weights, not in a RAG lookup.
@@ -142,6 +144,7 @@
 - `INS-260626-4A96` [medium] Cursor accepted that the skill-based worktree feature is harder to discover because it serves power users, and minimizing maintenance on an advanced feature mattered more than surfacing it in the UI.
 - `INS-260626-ACD0` [medium] For local, file-based tools, you can unlock far more agent capability by giving users sharp tools and owning the risk rather than sandboxing the agent.
 - `INS-260405-4091` [medium] AI tooling lowers the cost of building but not the cost of building the wrong thing.
+- `INS-260627-B3FF` [medium] The old 'the model is the product' is inverting into 'the product is the model' — and the option to customize a model where it matters is the durable differentiator.
 - `INS-260624-5865` [medium] A production agent is not ready until model behavior, runtime reliability, safety boundary, and business value all hold at once.
 - `INS-260424-5759` [medium] Logan Kilpatrick: every product is going to become agentic — Gmail becomes an agent, Google search becomes an agent, all the foundational pieces all become agentic.
 - `INS-260626-80F1` [medium] Static models make the same mistakes tomorrow they made today; products that learn from user signal compound a flywheel competitors can't replicate.
@@ -152,6 +155,7 @@
 - `INS-260625-0686` [medium] Frontier labs optimize for rational, objectively-correct 'CPU of intelligence' models, but simulating irrational humans needs a different 'GPU of intelligence' frontier, and the two diverge as scale increases.
 - `INS-260605-50FB` [medium] Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260625-03A6` [medium] RunPod ships pre-built skills 'ready for your agent so you don't have to read our documents,' treating the AI agent rather than the human as a first-class platform consumer.
+- `INS-260627-A224` [medium] Artifacts performed poorly on early model versions because that interaction pattern wasn't in the training distribution, so the team built it anyway to give research 'a hill to climb' and steadily improve the capability.
 - `INS-260327-5F10` [medium] Programs are written for people to read and only incidentally for machines to execute; as long as humans need to understand what AI agents do to their code, visual code interfaces remain essential.
 - `INS-260421-536F` [medium] MemMachine's entire positioning ('Own Your Memory') leads with sovereignty; FalkorDB runs in your environment; Cognee ships open-source; enterprise buyers ranked this highly at AI Agents SF #12.
 - `INS-260626-44E6` [medium] AlphaChip's AI-generated chip placements are 'organic, curved' rather than the aligned, regular layouts human engineers produce—shocking to physical-design experts but minimizing wire length and improving performance.
@@ -171,4 +175,5 @@
 - `INS-260329-8DC5` [medium] Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - `INS-260405-3805` [low] AI is eating software faster in Europe, shortening competitive windows for cloud companies.
 - `INS-260329-F84E` [low] Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
+- `INS-260627-20C1` [low] If taste can be learned and serialized, it becomes a distributable artifact you install ('npx taste'), compose, and share across a team or the open-source ecosystem.
 - `INS-260605-1CC3` [low] Design for a shared canvas the human and agent both manipulate — like the Excalidraw MCP app — rather than UI the agent generates and hands over.

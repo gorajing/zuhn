@@ -66,9 +66,9 @@ related:
   - INS-260403-0C2E
   - PRI-260405-6A4E
   - PRI-260403-35FE
+  - INS-260627-3245
   - INS-260330-0C49
   - PRI-260406-AFA7
-  - INS-260410-61CE
 ---
 A common bearish argument against Levine's timelines is 'self-driving took 15+ years despite Google starting in 2009 — robotics will be the same.' Levine counters with a structural asymmetry: driving has almost no tolerance for mistakes. You would never drop a 5-year-old into a car and tell them to go. But you would let a child do the dishes alone — mistakes are cheap, recoverable, and instructive.
 

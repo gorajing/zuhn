@@ -56,6 +56,6 @@ related:
   - INS-260329-14AE
   - INS-260403-2A0F
   - INS-260410-F41F
-  - INS-260403-9A0C
+  - INS-260627-8DBA
 ---
 The AI Index 2026 Chapter 4 documents that generative AI reached 53% US population-level adoption within three years of its mass-market introduction, faster than the personal computer or the internet. Organizational adoption reached 88% in 2025, with generative AI used in at least one business function at 70% of organizations. China and Europe posted the highest year-over-year increases in organizational adoption. Agent deployment is still in the single digits across nearly all business functions — a signal that agentic workflows are at the pre-inflection point. On a country level, adoption varies widely and correlates strongly with GDP per capita, though some outpace what income would predict. Singapore leads at 61%, UAE at 54%, and the US ranks 24th at 28.3% despite leading in AI investment and model development. This adoption-vs-investment mismatch means US AI leadership is a production-side phenomenon, not a consumption-side one — and countries leading in consumer adoption may accrue data and workflow advantages that investment leaders do not automatically capture.

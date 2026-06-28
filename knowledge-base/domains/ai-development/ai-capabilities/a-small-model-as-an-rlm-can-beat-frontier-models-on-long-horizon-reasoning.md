@@ -58,7 +58,7 @@ related:
   - INS-260626-BC32
   - INS-260413-C040
   - INS-260625-35C5
-  - INS-260625-C700
+  - INS-260627-C44E
 ---
 Weitekamp positions RLMs as the next paradigm of test-time / inference-time compute, where reasoning and code execution are unified — chain-of-thought became reasoning models, function-calling became parallel tool-calling, and RLMs put them together. The striking empirical claim: on the Long-CoT benchmark (designed so problems are hard specifically because they need many sequential reasoning steps that frontier models can't hold the thread for), a small Qwen-3 8B model runnable on a laptop, wrapped as an RLM with recursive sub-agent calls, beat Opus and GPT-5 running as plain LLMs.
 

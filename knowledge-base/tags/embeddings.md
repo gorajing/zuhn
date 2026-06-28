@@ -12,6 +12,7 @@
 - `INS-260330-3B6C` A linear transformation is completely described by recording where each basis vector maps to — everything else follows by linearity.
 - `INS-260410-2067` Run BM25 and vector search in parallel, then merge results with rank fusion — embeddings catch meaning, BM25 catches exact strings like 'TS-999'.
 - `INS-260605-FB77` Repos with strong function-level comments showed a big retrieval boost because embedding the bytes is easy — extracting the chunk's true meaning is the bottleneck, and comments hand it over.
+- `INS-260627-1589` MaxSim scoring — dot-product every query token against every page patch, take the max per token, sum them — ranks pages by whole-query relevance rather than single-keyword presence.
 - `INS-260627-30CD` Matryoshka representation learning produces nested embeddings so you can retrieve with 256 dims cheaply, then expand to more dimensions for precision — one network, many operating points.
 - `INS-260410-72EC` A one-hot vector at index i times matrix W selects row i of W — so the fancy 'input layer' of a character-level neural net is mechanically the same operation as row indexing into a count table.
 - `INS-260627-41BE` Encoding text, video, audio, and PDFs through one omnimodal model into a unified semantic vector preserves cross-modal information that separate encoders lose when merged.
@@ -25,4 +26,5 @@
 - `INS-260625-48FA` Gemma's 'effective vs active parameters' split works because per-layer embeddings are lookups, not matrix multiplies, so they can live off the GPU.
 - `INS-260626-BCC7` Gemma 4's 'effective' small models gain capacity by keeping a small (256-dim) per-layer embedding table in flash memory rather than VRAM, since VRAM is the binding on-device constraint.
 - `INS-260605-77D8` Semantic IDs turn a ~1000-dim content embedding into 4-6 hierarchical tokens, so an LLM can autoregressively generate the next song or episode the way it generates the next word.
+- `INS-260627-3035` 'Dog sitting on a chair' beats 'dog should not sit on the floor' because models are trained on positive image-text pairs and have little representation of negation.
 - `INS-260412-9414` Black holes encode 3D objects as 2D information on their event horizon — a natural analogue to how embeddings flatten rich semantic content into fixed-dimension vectors.

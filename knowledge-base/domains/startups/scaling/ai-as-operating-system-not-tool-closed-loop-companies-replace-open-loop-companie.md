@@ -62,10 +62,10 @@ stance: >-
   the operating system the company runs on, not a tool the company uses.
 related:
   - INS-260522-2CE8
+  - INS-260627-5DC4
   - INS-260627-4072
   - INS-260605-09E0
   - INS-260330-0102
-  - INS-260603-6B3D
 ---
 Hu's structural reframe: most companies historically run as open-loop control systems — make a decision, execute it, don't systematically measure the outcome and adjust. Open loops are inherently lossy. The new company shape is closed-loop: continuously monitor output, adjust process to better meet the goal, self-regulating via intelligence at the center.
 

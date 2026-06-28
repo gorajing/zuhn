@@ -57,9 +57,9 @@ stance: >-
   non-deterministic AI system routinely introduces two or three regressions you
   cannot see.
 related:
-  - INS-260605-0BA3
   - INS-260625-36DF
   - INS-260625-C08B
+  - INS-260627-A81B
   - INS-260605-2186
   - INS-260605-09E0
   - INS-260627-2524

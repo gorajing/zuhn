@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 87 insights
+> 88 insights
 
 - `INS-260409-8DDA` [high] Despite massive latent AI value, ~95% of enterprise AI pilots fail because organizations don't know how to operationalize the technology — throwing AI 'over a wall' doesn't work.
 - `INS-260403-A9CC` [high] Companies fail at AI adoption because they issue vague 'be AI-first' mandates without concrete tactics for daily workflows.
@@ -19,6 +19,7 @@
 - `INS-260322-3263` [high] ChatGPT has 900M weekly active users but only 10-15% use it daily — 5x more people know how to use AI than can think of something to do with it, revealing a product-market fit gap not a technology gap.
 - `INS-260323-9492` [high] Companies adopt AI because competitors are adopting it, not because ROI is proven — employees are measured on chatbot usage, not actual productivity.
 - `INS-260403-8EF3` [high] Creator AI tool usage surged from 33% to 92% in 18 months, though 90% feel they're not using AI to its full potential.
+- `INS-260627-8DBA` [high] Track AI adoption rate (fraction of coding sessions using AI) rather than percent-of-code-AI-wrote, because adoption correlates most directly with productivity gains and captures real behavior change.
 - `INS-260410-797C` [high] Slow enterprise AI adoption is revealing capability shortfalls, not normal technology-diffusion lag.
 - `INS-260404-3714` [high] Early AI adoption creates compounding advantages that late movers struggle to close.
 - `INS-260627-6BAD` [high] Bring the business into the research loop early so adoption becomes pull, not push.

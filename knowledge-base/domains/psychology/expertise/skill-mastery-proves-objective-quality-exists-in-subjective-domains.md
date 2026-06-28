@@ -43,13 +43,11 @@ stance: >-
   The ability to measurably improve at a craft through deliberate practice is
   sufficient proof that objective quality standards exist in that domain.
 related:
-  - INS-260328-EBBC
-  - INS-260330-B153
+  - INS-260627-BF35
   - INS-260322-A928
   - INS-260322-C6CE
   - INS-260403-3D8C
   - INS-260625-9644
-  - INS-260410-5E92
 evidence:
   - id: INS-260330-B153
     type: SUPPORTS

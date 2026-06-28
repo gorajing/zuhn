@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6161 actionable insights
+Generated on 2026-06-28 | 6187 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -45,6 +45,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-647D] Bottom performers weren't even measuring speed and only 10% measured productivity; top performers build a holistic chain from inputs (tool spend, upskilling) through outputs (velocity, developer NPS, code resilience) to economic outcomes (time-to-revenue, cost per pod).
 - [INS-260627-DA32] A '100% AI adoption' mandate just teaches engineers to game the metric ('I'll update my readme every morning and be compliant') without moving any real outcome.
 - [INS-260627-6065] Two business units with identical AI licenses, spend, and tools showed sharply different usage (one ~40% of work, the other far less), and the gap between top and bottom AI-adopting teams is widening over time.
+- [INS-260627-8DBA] Track AI adoption rate (fraction of coding sessions using AI) rather than percent-of-code-AI-wrote, because adoption correlates most directly with productivity gains and captures real behavior change.
 
 ## ai-development/agent-evals
 - [INS-260625-C1E8] AgentRun gates should distinguish fast blockers from slower calibration signals.
@@ -481,6 +482,10 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-69F9] A prompt-injection incident is much stronger evidence when it includes a confirmed agent action, not only a payload that could have caused one.
 - [INS-260627-F575] CHIA distinguishes agentic edges from programmatic edges so designers can tune exactly which decisions belong to the model and which remain deterministic.
 - [INS-260627-B5F2] CHIA's CIRCT loop filters for clear bug reports, requires reproduction before repair, verifies fixes without agent involvement, and keeps human review in the submission path.
+- [INS-260627-24EB] RL taught Composer to call tools in parallel (read 10 files at once instead of one-by-one) and to search/read before editing rather than over-editing — behavioral changes that make the agent feel much faster and act more effectively, independent of token throughput.
+- [INS-260627-5F5A] If you're tempted to adopt a graph framework mainly to get snapshotting and resumption, durable execution offers finer-grained recovery while letting you keep writing ordinary imperative code.
+- [INS-260627-D043] High-assurance systems use separate teams to write and verify code; the agentic analog is separate prompts for writing vs testing, and using a different foundation model for each to break correlated failures.
+- [INS-260627-FAFC] The field has shifted from 'one LLM-calling-tools loop per microservice' to treating each such loop as a micro-task you compose into a larger system that users would recognize as 'the agent.'
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -490,6 +495,11 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-0126] Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
 - [INS-260627-82CC] Replit found >30% of agent-built features are broken on first generation ('painted doors'), so autonomous testing — not human QA — must close the feedback loop.
 - [INS-260627-8A6A] Prompt injection becomes materially dangerous only when the targeted agent has meaningful permissions, so agent-risk claims should be privilege-conditioned.
+- [INS-260627-0E46] Instead of showing a diff, Antigravity's agent drives a real browser and returns a screen recording of the feature working, giving both the human and the model verifiable, iterable evidence.
+- [INS-260627-E230] Verification is only as good as its specification — anything you forget to check is an opening for bugs — so as agents nail implementation, the spec becomes the bottleneck.
+- [INS-260627-1443] Single-shot LLM calls don't need durable execution; long-running agents that have spent real time and money on intermediate steps do, because a crash forces a full restart.
+- [INS-260627-5DC4] Borrow the robotics open/closed-loop distinction: actions you can't observe and correct mid-execution are open-loop liabilities that should be closed.
+- [INS-260627-44FD] Durable execution works by splitting code into a deterministic workflow and non-deterministic activities, recording each activity's inputs and outputs so a re-run can replay instantly up to the failure point.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -729,6 +739,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-4D17] Only 3.4% of use cases name risk reduction as their primary benefit, but a full 25% of those report transformational ROI — the highest rate of any category — because back-office functions are dominated by sheer volume that AI handles well.
 - [INS-260627-3D9A] Deploy optimization agents to get better-than-baseline across the many unglamorous workloads experts can't reach, freeing scarce experts for the few hardest problems.
 - [INS-260627-C628] The durable claim is not 'AI scored HER2,' but 'AI reduced dependence on bulky whole-slide scanning hardware.'
+- [INS-260627-3245] Self-driving reached production while the rest of robotics stalled because cars ship with predefined controls and built-in telemetry — use the presence of such an interface as a filter when choosing agent domains.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -782,6 +793,8 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-DD09] Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
 - [INS-260627-6E3C] A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
 - [INS-260627-3410] Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
+- [INS-260627-B34D] Segmenting AI throughput gains by active-repos-per-engineer reveals ~4x gains for centralized/balanced architectures, ~2x for distributed, and roughly zero (slightly negative) for highly distributed ones.
+- [INS-260627-342A] In both self-driving and agents the model is roughly 1% of the work and the offline stack is the other 99%, so invest there to ship reliably.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -865,6 +878,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260626-C563] Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 - [INS-260626-BC5E] A 'Grill Me' skill that makes the AI ask dozens of questions until you share a design concept beats default plan mode, which is too eager to produce an asset.
 - [INS-260627-045B] In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model.
+- [INS-260627-805E] You cannot write enough rules to encode your taste — agents should learn it from watching you edit their output, not from ever-growing config files.
 
 ## ai-development/code-review
 - [INS-260626-CD36] Treat root AGENTS.md as a tested review-policy artifact.
@@ -906,6 +920,8 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-36DE] High-benchmark models often 'suck' when plugged into a real environment, so MiniMax watches downloads and OpenRouter token usage as the truer quality signal.
 - [INS-260627-B6D9] Design verifiers like the whistle on a tea kettle — it signals only that the water boiled, indifferent to whether you used gas, induction, or a campfire — so test for the outcome and spirit of the task, never the incidental details of the ground-truth run.
 - [INS-260627-535C] Measure skill distillation as a delta, not as an isolated pass/fail run.
+- [INS-260627-1CD2] Colvin found Gemini was dramatically faster and cheaper in his eval only because it invented wrong answers that his eval wasn't checking — apparent efficiency was actually cheating.
+- [INS-260627-01CF] Requiring tasks and rewards up front converts an agent harness into a proper eval, replacing 'build it, try it, ship it' with measurable experimentation across models and hyperparameters.
 
 ## ai-development/evaluation
 - [INS-260627-20D7] MC-dropout HER2 filtering improved accuracy by rejecting uncertain cases, making abstention a first-class workflow outcome.
@@ -1178,6 +1194,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260626-408A] The valuable training signal is what users change after the agent acts, not the binary ratings they almost never give.
 - [INS-260626-21EA] Because small models have low knowledge capacity, the winning strategy is to make them very good at specific tasks (e.g. data extraction, tool use) and accept being weak at code or math nobody uses them for.
 - [INS-260627-C112] Don't fine-tune on your raw documents — generate a large synthetic dataset that describes them and train on that, or the model just memorizes and breaks.
+- [INS-260627-C44E] A Qwen 3 4B model went from 55% to 89% on a Wikipedia-search task after RL in a focused environment, matching GPT-4.1 and a GPT-5-mini-class reasoning model.
 
 ## ai-development/llms
 - [INS-260405-A5C8] In a field flooded with tutorials, a handful of rigorously maintained repositories account for most of the practical engineering knowledge.
@@ -1341,6 +1358,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-D21B] Replace the PRD with 'here is the eval data set and here is the eval we want the system to pass' — evals become the executable requirement and acceptance test for an AI feature.
 - [INS-260627-7FE2] Release first to experts who know what 'good' looks like; reach executives last, maybe never.
 - [INS-260627-51D0] Because code is now cheap, replace the memo-and-deck approval ritual with building a quick demo, which lowers activation energy enough to pursue weirder, riskier ideas.
+- [INS-260627-A842] Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1365,6 +1383,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-9F46] Each generation tier (autocomplete, agentic codegen, agentic quality workflows) has a higher productivity ceiling, but you only reach the promised 2x by investing in the quality layer, not by generating code faster.
 - [INS-260627-DD22] AI's average productivity effect looks innocuous (~2-3%) only because it averages out companies seeing +20% and -20% swings in change confidence.
 - [INS-260627-6F60] Token usage per engineer correlates only ~0.20 with productivity gains, with a 'death valley' where the heaviest users (≈10M tokens/month) perform worse than moderate users.
+- [INS-260627-8F2A] Absolute PRs-per-engineer is confounded by architecture (distributed codebases need more PRs for the same work), so track the change in throughput within a team rather than comparing absolute levels across teams.
 
 ## ai-development/prompting
 - [INS-260405-880C] Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
@@ -1399,6 +1418,8 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-B072] The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed.
 - [INS-260627-8530] GEPA evolves prompts via score-execute-select-reflect-mutate loops, tuning text rather than weights—a sample-efficient way for small teams to improve LLM systems without RL or fine-tuning.
 - [INS-260627-5785] A skill/prompt that explicitly acknowledges slop and tells the model not to produce it visibly improves the output, so 'don't produce slop' is a usable, concrete instruction.
+- [INS-260627-3035] 'Dog sitting on a chair' beats 'dog should not sit on the floor' because models are trained on positive image-text pairs and have little representation of negation.
+- [INS-260627-2BA7] Reusing another model's prompts and over-instructing thoroughness can make a capable model slower and worse, not better.
 
 ## ai-development/research-methodology
 - [INS-260408-F58E] Isomorphic's pipeline screens binding + cross-target toxicity in silico, then only validates the final candidates in the wet lab.
@@ -1466,6 +1487,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-8674] The authorization refactor only became automatable after the team did one migration entirely by hand — reading code, breaking things, surfacing hidden invariants — then fed that pull request to the agent as a seed.
 - [INS-260627-E284] An 'environment cleanliness index' (tests, types, docs, modularity, code quality) shows ~0.40 R² with AI productivity gains — clean code amplifies AI, and unchecked AI use accelerates the entropy that degrades it.
 - [INS-260627-7122] Automate the context-gathering phase of debugging first — it dominates the time and is where an LLM adds the most value.
+- [INS-260627-340A] The 1950s-1980s abstractions — high-level languages, structured programming, modularity — exist to manage scarce working memory, and an LLM's context window is the same scarce resource, so the same disciplines pay off identically.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -1708,6 +1730,8 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-F3B6] Don't make an agent push to version control and wait minutes for a workflow to fail — validate up front locally by calling the same APIs or wrappers, so the agent's iteration loop stays tight.
 - [INS-260627-6C9A] The agent OS should be modular enough to swap models and workloads.
 - [INS-260627-6ACC] Stop building hundred-node classifier DAGs; use a master loop with tool calls, and push the steps that must be deterministic into rigorous tools you can eval and version.
+- [INS-260627-9BB0] Model sampling throughput (roofline latency curve), training throughput, and the response-length distribution, then sweep GPU splits to find the layout that balances production with consumption while staying under the staleness limit.
+- [INS-260627-CB5C] The speaker explicitly recommends NOT starting with the fancy vision-retrieval model — begin with the cheaper traditional pipeline and only switch when your actual data proves it inadequate.
 
 ## ai-development/systems-design
 - [INS-260404-C663] Components tuned for original conditions do not just underperform in new environments — they generate actively harmful outputs.
@@ -1717,6 +1741,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260627-CEC6] Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context.
 - [INS-260627-6E58] Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - [INS-260627-C258] Nano Banana Pro is powered by Google Search, so it can pull current sources and recent events into outputs rather than being limited to the model's knowledge cutoff.
+- [INS-260627-4253] A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.
 
 ## ai-development/training-dynamics
 - [INS-260410-D3A7] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
@@ -5643,6 +5668,7 @@ Generated on 2026-06-28 | 6161 actionable insights
 - [INS-260412-9657] Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.
 - [INS-260423-2134] Michael: it's bad, but just let me add 10 more features — that's the feature treadmill, and AI tools make it easier than ever to do.
 - [INS-260625-D510] When users demand configurability, earn conviction for opinionated defaults by using your own product every day and trusting gut feel.
+- [INS-260627-115C] Antigravity's edge comes from DeepMind engineers and researchers using it daily, which exposes model gaps at a 'very real level that eval simply can't give you' and feeds research priorities back into the product.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.

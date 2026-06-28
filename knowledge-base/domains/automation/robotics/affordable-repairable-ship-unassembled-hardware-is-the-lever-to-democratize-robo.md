@@ -62,6 +62,7 @@ related:
   - INS-260603-2FB1
   - INS-260412-3A70
   - INS-260410-56F7
+  - INS-260627-5DC4
 ---
 Today's impressive robots — humanoids at $50K+, Waymo in the six figures — are too expensive to prototype with and too closed to adapt; no high school orders ten 50K humanoids for students. Marafioti frames Reachy Mini as a response: at $300-450, sold in bulk to schools, with the cheaper SKU dropping the Raspberry Pi and battery so you supply your own laptop or hardware.
 

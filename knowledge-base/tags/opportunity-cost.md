@@ -7,8 +7,8 @@
 - `INS-260329-55DC` Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
-- `INS-260410-6E01` Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
 - `INS-260403-8DD4` With rates near zero in 2021, the U.S. could have refinanced its national debt cheaply but didn't, now facing 5%+ rates on trillions in rolling maturities.
+- `INS-260410-6E01` Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260403-D294` Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.

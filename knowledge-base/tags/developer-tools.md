@@ -9,6 +9,7 @@
 - `INS-260625-23CF` A CLI with 40 arguments and 600 flags overwhelms a human but delights an agent — so agent interfaces should maximize handles, and telemetry on where agents deviate from the happy path should drive which handles you add.
 - `INS-260627-F5A8` Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260626-5053` A wall of parallel coding agents on one person's machine optimizes the individual, but individual output is rarely what limits software teams.
+- `INS-260627-B34D` Segmenting AI throughput gains by active-repos-per-engineer reveals ~4x gains for centralized/balanced architectures, ~2x for distributed, and roughly zero (slightly negative) for highly distributed ones.
 - `INS-260625-E02C` The hard part of AI development is reconciling CUDA versions, PyTorch compatibility, and which GPU SKUs actually work — not training or building the model.
 - `INS-260605-0C5C` The PR encodes assumptions of delayed human feedback and serialized handoffs that break when agents produce thousands of short-lived branches.
 - `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.

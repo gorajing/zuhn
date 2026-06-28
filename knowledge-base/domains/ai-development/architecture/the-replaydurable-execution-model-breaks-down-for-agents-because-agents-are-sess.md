@@ -61,10 +61,10 @@ stance: >-
   replay log grows without bound.
 related:
   - INS-260627-E496
+  - INS-260627-1443
   - INS-260619-90F6
   - INS-260625-DF35
   - INS-260605-83DA
-  - INS-260627-6418
   - INS-260605-DF08
   - INS-260625-2088
 ---

@@ -9,6 +9,7 @@
 - `INS-260625-25D6` Treat every production interaction as evaluation data, because production traffic is the largest and most representative eval set you will ever have.
 - `INS-260626-F335` OpenGov treats shipping as the start: thumbs up/down user signal plus automated evals in CI that check real completions hit the right tools drive fast iteration.
 - `INS-260626-EDB3` Anyone can vibe-code the eval UI; the real engineering moat is a data layer that handles huge, unstructured, high-velocity agent traces under two conflicting query patterns.
+- `INS-260627-5DC4` Borrow the robotics open/closed-loop distinction: actions you can't observe and correct mid-execution are open-loop liabilities that should be closed.
 - `INS-260605-809A` Traditional observability asks 'is the system up?'; agent observability must also ask 'was the response grounded, did it use the right tools, did it match the brand voice?'
 - `INS-260605-E9A6` Build observability on OpenTelemetry so any agent — LangGraph, custom, or platform-native — can be traced and evaluated through a common endpoint.
 - `INS-260605-E18B` The point of observability is shortening the gap between detecting a failure and diagnosing it, which requires evals linked back to the exact trace.
@@ -31,6 +32,7 @@
 - `INS-260605-09E0` Capture production (or UAT) traces into your eval dataset and run evals as a replay of production, closing a flywheel from observation to improvement.
 - `INS-260619-D4F6` For voice agents, compare the low-latency live transcript to a richer offline transcript, then use the mismatch as evidence in failure triage.
 - `INS-260626-E7C4` Invert the container model — begin with a sandbox that can only execute code (no fetches, no APIs) and explicitly grant each capability, instead of starting permissive and adding security from outside.
+- `INS-260627-A698` A self-updating model of actual deployed systems and their drift — reality, not the wiki — is the precondition for data-backed architecture decisions instead of planning by opinion.
 - `INS-260626-6767` Native sound-token-to-sound-token models give natural conversational flow but no intervention points; cascading pipelines expose each stage, which most business use cases still need.
 - `INS-260625-36DF` Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
 - `INS-260605-98BD` The first thing organizations want from an agent gateway is not enforcement but an answer to 'what are people even doing?' — a guaranteed, complete record of every tool call, bash command, and request.

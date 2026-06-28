@@ -8,9 +8,9 @@
 - `INS-260627-51D0` Because code is now cheap, replace the memo-and-deck approval ritual with building a quick demo, which lowers activation energy enough to pursue weirder, riskier ideas.
 - `INS-260409-0EEE` Prototyping a basic LLM-wiki in Claude Code takes about an hour — the scarce resource is knowing what to build it for.
 - `INS-260405-32BB` Call it a sketch. Call it a quick hack. The label you apply to your work changes the internal standards you apply — and once momentum exists, you can quietly convert it to something real.
+- `INS-260627-8378` When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
 - `INS-260404-55E1` Calling ambitious work 'just a sketch' or 'just a hack' sidesteps perfectionism paralysis while preserving the option to upgrade scope later.
 - `INS-260403-C428` Deliberately downgrading the perceived status of your work ('just a sketch') disarms perfectionism and lets you start.
-- `INS-260627-8378` When the team manually 'jammed' on a feature they'd have constrained themselves to existing AI Studio patterns; telling the model to 'be creative, think outside the box' from a screenshot surfaced novel interactions like a CLI-style export they wouldn't have considered.
 - `INS-260405-7B8D` Calling a project a 'sketch' isn't lowering your standards — it's applying the right standards for the stage.
 - `INS-260404-D66A` Calling your ambitious project 'just a sketch' or 'just a hack' lowers the internal quality bar enough to start, then momentum converts it into real work.
 - `INS-260403-1A6B` Deliberately framing ambitious work as sketches, hacks, or experiments lowers the psychological barrier to starting and sustaining it.
@@ -31,7 +31,6 @@
 - `INS-260403-649C` Deliberately labeling early ambitious work as a lower-stakes artifact (sketch, hack, experiment) disarms the internal critic long enough for the project to gain momentum.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-AD21` Calling serious work 'just a hack' or 'just a sketch' lets you start by applying lower standards, then sneakily converting it once momentum builds.
-- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260403-FFBD` When functional prototypes cost minutes instead of weeks, the constraint on product discovery shifts from engineering bandwidth to hypothesis quality.
 - `INS-260412-1F30` Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
 - `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
@@ -41,6 +40,7 @@
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260403-D4E1` Stay in low-fidelity block frames as long as possible — the first detailed design becomes an anchor that limits all subsequent exploration.
 - `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
+- `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea.
 - `INS-260405-DF08` Early uncertainty is irreducible by analysis — only experiments generate the evidence that reduces it.
 - `INS-260404-FF0B` Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - `INS-260403-49D1` AI prototyping success depends more on precise follow-up prompts describing exact changes than on the quality of the initial generation prompt.

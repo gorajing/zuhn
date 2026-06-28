@@ -10,6 +10,8 @@
 - `INS-260412-BA99` Each prestigious partner a fraudulent company signs makes the next partner less likely to investigate, creating a cascade of unearned credibility.
 - `INS-260327-D1BB` Epstein charged tens of millions for tax advice without being a CPA, hundreds of millions for wealth management without a Series 7, and consulting fees without a college degree - and nobody questioned it for decades.
 - `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
+- `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
+- `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260412-C69B` JP Morgan's $175M acquisition of Frank collapsed because the bank accepted indirect evidence of 4.25M users without independently verifying the customer database.
 - `INS-260405-11EA` Flybridge's AI memo generator is an early signal that VC's information-processing work is automatable, concentrating value on the parts that aren't.
 - `INS-260403-402F` A messy cap table during due diligence signals broader operational dysfunction and is one of the fastest deal-killers in venture financing.
@@ -24,8 +26,6 @@
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-35A6` VCs filter investments through five consistent criteria: market size, traction, unit economics, team, and competitive moat.
 - `INS-260403-6EC8` VCs face structural information disadvantages vs public market investors because private companies control what gets reported and many VCs lack accounting expertise.
-- `INS-260412-C33C` Sam's 'humble billionaire who drives a Toyota' persona neutralized scrutiny from investors, media, and regulators who should have seen obvious structural problems.
-- `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260329-DE17` Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - `INS-260412-71C6` Trevor Milton's pattern of defrauding buyers and partners repeated identically across four companies over 15 years, escalating in scale each time.
 - `INS-260402-E148` Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.

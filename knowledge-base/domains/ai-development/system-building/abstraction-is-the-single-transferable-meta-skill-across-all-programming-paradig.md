@@ -57,10 +57,10 @@ stance: >-
   paradigms.
 related:
   - INS-260329-A461
+  - INS-260627-340A
   - INS-260402-06DB
   - INS-260329-DEA1
   - INS-260329-2F63
-  - PRI-260403-ABDE
 ---
 CS50 Python's curriculum arc reveals that functions, OOP, libraries, and APIs are not separate topics — they are the same cognitive operation (name a thing, hide its internals, interact through its interface) applied at increasing scales. A function abstracts a sequence of statements. A class abstracts data and behavior. A library abstracts a collection of classes. An API abstracts an entire system. The student who grasps this meta-pattern once can apply it everywhere.
 

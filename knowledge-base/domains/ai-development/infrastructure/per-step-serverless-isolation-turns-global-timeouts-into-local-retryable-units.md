@@ -67,9 +67,9 @@ related:
   - INS-260330-A260
   - INS-260625-E19F
   - INS-260627-AA19
+  - INS-260627-FF6C
   - INS-260404-D646
   - INS-260327-B9AD
-  - INS-260405-CA27
 ---
 In this architecture the orchestration layer is invoked only briefly to dispatch each step; every step then executes on its own serverless instance. That has two consequences. First, the platform's function timeout (5–15 min on typical serverless) applies to individual steps, not the whole workflow — so a workflow can run for a year while no single execution exceeds the limit. If a step risks timing out, you split it into two steps; if it fails, it retries in isolation, and the observability UI shows that one step retrying rather than the whole run failing.
 

@@ -1,5 +1,6 @@
 # Tag: leading-indicators
 
+- `INS-260627-8DBA` Track AI adoption rate (fraction of coding sessions using AI) rather than percent-of-code-AI-wrote, because adoption correlates most directly with productivity gains and captures real behavior change.
 - `INS-260409-A4F0` Porn is a leading indicator for consumer tech — if AI avatars, chatbot characters, and generated content are working there, they're coming to mainstream markets soon.
 - `INS-260412-2C3F` Nissan making more money from speculative investments than manufacturing cars was a clear signal that Japan's economy had detached from productive activity.
 - `INS-260412-2D60` China's tang ping and bai lan movements signal a broken social contract where effort no longer yields proportional reward, degrading future human capital formation.

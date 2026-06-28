@@ -1,6 +1,7 @@
 # Tag: unit-economics
 
 - `INS-260329-0D70` AI inference creates variable cost exposure per interaction, compressing traditional SaaS margins
+- `INS-260627-3207` Customer commitments depend on predictable delivery, so low-variance training-time estimates are as business-critical as raw speed — and that constraint defines which research problems are worth solving.
 - `INS-260403-5DAD` AI is shifting SaaS from process automation to intelligent, self-compounding growth systems that rewrite GTM playbooks.
 - `INS-260405-3240` AI's variable inference costs prevent it from achieving the gross margins that made software companies so valuable.
 - `INS-260410-069C` When labs split compute ~50/50 between training and inference with >50% gross margins, profit or loss each year is basically whether they bought ahead of or behind the next year's demand.
@@ -17,10 +18,10 @@
 - `INS-260328-D826` AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
 - `INS-260626-715B` Generate code once, then run the deterministic artifact on every request instead of regenerating with an LLM each time.
 - `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
-- `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
-- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
 - `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
+- `INS-260412-A9C3` The Concorde burned only 2.5x more total fuel per mile than the Dreamliner, but per-passenger fuel economy was 14 vs 104 mpg — a 7.4x gap.
+- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
 - `INS-260404-19C2` Only 13 of Europe's 50 fintech unicorns are profitable, exposing a systemic gap between valuations and business fundamentals.
 - `INS-260404-2C23` Rubrik's 133% net retention rate proved to investors that growth was organic and sustainable, not acquisition-dependent.
 - `INS-260404-47F3` At $40-50K per implant with 10K units/year target, Neuralink is building a $400-500M/year premium medical device business, not a consumer product.
@@ -44,6 +45,7 @@
 - `INS-260405-9E7D` Landing a rocket once proves engineering; landing and relaunching it cheaply proves the business.
 - `INS-260405-E155` In hybrid hardware+SaaS models, blended margin is the single metric most likely to hide a fatal business problem.
 - `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
+- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-6D8C` Cohort-level CAC payback reveals which acquisition channels and time periods produce self-funding growth versus cash-burning growth.
 - `INS-260403-1817` Each churned customer destroys not just current revenue but years of future compounding profit.
@@ -55,7 +57,6 @@
 - `INS-260403-91A1` Growing revenue from existing customers through upsells and expansion is more efficient than acquiring new ones.
 - `INS-260403-53B0` Net retention above 100% means upsell revenue from existing customers exceeds churn losses, creating compounding growth independent of new acquisition.
 - `INS-260403-3A72` ZIRP-era companies like Uber and Snapchat have never achieved sustained profitability, while high-rate-era companies like Microsoft and Google were profitable at IPO.
-- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
@@ -83,6 +84,8 @@
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260404-1C01` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 of them to regenerate its starting materials, netting only 1 — a pattern that mirrors sustainable business unit economics.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
+- `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
 - `INS-260410-0D14` Every new store had to clear a 2:1 sales-to-investment ratio and 20% operating margin — no exceptions, for decades.
 - `INS-260626-B3FD` Unlike SaaS's stable 80-85% gross margins, AI margins are low and move with usage, so 5-10% of users consuming 80% of compute plus unpredictable infrastructure costs make flat pricing structurally unsafe.
 - `INS-260625-FA05` The core bet is that the more product you build, the lower your COGS (model + hosting + humans-in-the-loop) and the higher your gross margin — so price on value (per-unit or outcome-based), never cost-plus or undercutting.
@@ -91,6 +94,4 @@
 - `INS-260405-4B5D` The 3:1 LTV:CAC threshold is the minimum ratio at which SaaS unit economics justify growth spend.
 - `INS-260412-31A6` First class generates $403/sq ft versus business class at $605/sq ft, which is why airlines are eliminating first class despite its higher ticket price.
 - `INS-260626-4D31` Vibe Kanban shut down despite 30k MAU and 25k GitHub stars because users paid it ~$30 to then spend ~$3,000 on Codex — the value capture was upside down.
-- `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
-- `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
 - `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

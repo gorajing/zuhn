@@ -58,6 +58,7 @@ related:
   - INS-260404-1C9D
   - INS-260405-DFBC
   - INS-260405-3F0F
+  - INS-260627-1589
 ---
 The article identifies an emerging metric framework for AI-era content visibility: featured citations in SGE or AI summaries, brand mentions in AI chatbot references, engagement depth metrics (time on page, scroll depth, return visits), search visibility across multiple channels, and zero-click visibility (impressions without clicks). This represents a fundamental shift from position-based metrics to recognition-based metrics.
 

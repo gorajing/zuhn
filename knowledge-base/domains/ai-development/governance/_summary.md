@@ -1,6 +1,6 @@
 # Topic: governance
 
-> 57 insights
+> 58 insights
 
 - `INS-260409-B005` [high] 80% of Americans want AI regulated — a rare civic consensus — and frontier labs are spending hundreds of millions to kill it; the organizing opening is real.
 - `INS-260605-A46E` [high] Agent guardrails are defense-in-depth, not the security model.
@@ -48,6 +48,7 @@
 - `INS-260410-230E` [medium] Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
 - `INS-260501-B53D` [medium] The vocabulary of AI safety regulation is the toolkit a wannabe despot needs — vague terms become whatever the government wants them to mean.
 - `INS-260410-7AC1` [medium] Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
+- `INS-260627-0D57` [medium] Autonomy without alignment creates chaos and gates without autonomy kill productivity; embedding standards into the AI that advises developers makes output compliant by construction instead of by review.
 - `INS-260603-6C2A` [medium] The panel's security tiering: safest is the model running on your own physical infrastructure (no data leaves), next is a model inside your existing cloud (nothing leaves the cloud environment), riskiest is data leaving the environment — and an over-permissioned cloud agent can read all your emails and send on your behalf, so both the machine and whoever operates it can see that data.
 - `INS-260412-837F` [medium] DeepMind required Google to establish an AI ethics board as a condition of its $500M acquisition, setting an early precedent for AI governance.
 - `INS-260501-2759` [medium] Wider diffusion = more vendors willing to comply, not more places for resistance to take root.

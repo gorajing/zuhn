@@ -59,7 +59,7 @@ related:
   - INS-260627-6757
   - INS-260625-447A
   - INS-260626-2170
-  - INS-260626-13FB
+  - INS-260627-6031
 ---
 An under-guided agent will find a weird path through the problem space, and at 15,000 integrations a month that means potentially 15,000 different ways PostHog gets set up — technically 'automated,' but an unmanageable support burden. Telling the agent exactly where to go is also counterproductive: like Claude Code making a goal-shaped hole through the first four tasks and then 'rock-polishing' the fifth, over-specification distorts effort allocation.
 

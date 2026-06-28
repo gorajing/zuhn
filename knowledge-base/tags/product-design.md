@@ -11,6 +11,7 @@
 - `INS-260625-8333` Gemini ships ~30 base voices that you 'direct' with a scene and a performance note, rather than a huge filterable library of fixed voices.
 - `INS-260605-5BAD` Spotify's 'taste profile' exposes what the model knows about you as editable text — you can chat to adjust it, choose what to keep or forget — feeding your edits back into the generative model.
 - `INS-260605-C122` Surface agent output as a draft inside the tool the user already lives in, so the heavy agent machinery stays invisible.
+- `INS-260627-A842` Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 - `INS-260626-7F76` GitHub built tool-sets, dynamic discovery, and a RAG tool-search to tame context bloat, but 'everyone used the default settings,' so the only fix that mattered was tightening the default itself.
 - `INS-260327-112B` Lowering creation barriers through AI generates stronger social dynamics than optimizing content consumption feeds.
 - `INS-260530-7FE2` Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
@@ -31,7 +32,6 @@
 - `INS-260405-95D1` Removing friction meets the baseline; gains require going beyond what customers already expect.
 - `INS-260405-787F` Apple Pay succeeded not by adding a new payment method but by eliminating the friction and exposure of existing ones.
 - `INS-260405-7305` Beyond a threshold, optimizing further on a valued attribute inverts into a pain — faster, hotter, louder all have inflection points.
-- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260412-1F30` Apple's iPhone emerged through iterative demos where 'first prototypes are never any good' but contain kernels that get selected and refined — a process engineer Bas Ording called 'creative selection.'
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260403-6C38` Design tenets are opinionated, falsifiable statements that guide real decisions — unlike vague principles that no one would disagree with.
@@ -54,3 +54,4 @@
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260404-E5EB` Delight operates through three pillars: removing friction, anticipating needs, and exceeding expectations.
+- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.

@@ -58,13 +58,13 @@ related:
   - INS-260320-CDE4
   - INS-260329-3AE5
   - INS-260330-A25A
-  - INS-260403-990E
   - INS-260409-A0B4
   - INS-260514-8F90
   - INS-260605-743D
   - INS-260605-7B83
   - INS-260619-C9B1
   - INS-260625-13E1
+  - INS-260403-7B04
 ---
 David Soria Para attributes MCP's growth to a need for 'connective tissue' between frontier models/AI applications and the data and systems that power enterprises. The economic core is the N-by-M problem: with N AI applications and M enterprise systems, point-to-point integration costs scale with N*M, and nobody wants to rebuild that wiring per app. A protocol turns it into N+M — each system exposes one MCP server, each app speaks MCP once. He explicitly analogizes this to SQL's invention ~50 years ago standardizing how applications talk to databases.
 

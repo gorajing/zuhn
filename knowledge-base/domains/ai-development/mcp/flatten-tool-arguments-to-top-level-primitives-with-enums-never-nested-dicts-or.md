@@ -63,7 +63,7 @@ related:
   - INS-260626-9AEB
   - INS-260626-15F3
   - INS-260514-4436
-  - INS-260626-239A
+  - INS-260627-805E
 ---
 A frequent failure is exposing a tool whose input is a configuration dictionary, documented somewhere far from the call site — in a docstring, system prompt, or sub-agent definition. This creates a doubly-documented tool: when the schema and the prose drift, one is wrong and only error messages save you. Even a fully-annotated Pydantic model is hard for the agent; better to flatten to top-level primitives the model names directly (email: str, include_cancelled: bool, limit: int) so there's nothing to assemble and little to get wrong.
 

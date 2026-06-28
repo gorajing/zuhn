@@ -74,6 +74,7 @@ related:
   - INS-260625-EF29
   - INS-260625-DA23
   - INS-260627-B5F2
+  - INS-260627-5F5A
   - INS-260627-DF16
 ---
 Calvin's demo on the OpenHands codebase (380 files, 60,000 lines) shows a concrete, reusable architecture for scale refactors. First, build and visualize the dependency graph where nodes are files and edges are imports. Then batch files into PR-sized, human-comprehensible chunks — they use the existing directory structure so semantically related files land in the same batch, noting that graph-theoretic algorithms give stronger guarantees but directory structure is a pragmatic proxy. A second, coarser graph is then built where nodes are batches and edges are inherited cross-batch dependencies, which fits on a single screen and makes the whole structure legible.

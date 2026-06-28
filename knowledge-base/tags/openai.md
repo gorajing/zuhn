@@ -12,6 +12,7 @@
 - `INS-260403-6705` OpenAI's 2019 restructuring to attract Microsoft's $1B investment made rapid commercialization a structural inevitability, not a choice individual leaders could resist.
 - `INS-260403-7868` AI market competition is increasingly about deployment philosophy (speed vs safety) rather than raw model capability.
 - `INS-260403-02E2` Treating AGI arrival as an instant winner-take-all event is faith-based reasoning that substitutes for sound business fundamentals.
+- `INS-260627-4CF5` Building the model and the harness together gives you tacit knowledge of the model's habits that an external harness-builder has to reverse-engineer.
 - `INS-260410-C63C` Anthropic's fiscal conservatism on compute — 'we don't want to go bankrupt' — cost them roughly a 50% revenue-share markup on last-minute capacity that OpenAI locked in years ago at pre-inflection prices.
 - `INS-260409-5B7B` AGI has no stable definition — OpenAI redefines it per audience to serve the specific mobilization need in front of them.
 - `INS-260501-4B6F` Greg Brockman on launch day: my team asked how much compute should we buy, I said all of it. They said no seriously how much. I said no matter how fast we ramp, we won't keep up with demand. That's been true ever since.
@@ -21,9 +22,6 @@
 - `INS-260328-896B` OpenAI's board tried to exercise its nonprofit mission authority and was immediately overridden by financial stakeholders — proving money wins over governance.
 - `INS-260403-84E1` OpenAI is moving beyond API provider into direct enterprise SaaS competition with incumbents like Salesforce and HubSpot.
 - `INS-260514-8413` Each engineer has access to 5, 50, or 5,000 engineers' worth of capacity 24/7. Code is free. Human attention is what's scarce.
-- `INS-260403-F6D2` An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
-- `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
-- `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
 - `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260327-E1EB` OpenAI spent hundreds of billions developing AI capabilities that competitors can now replicate at a fraction of the cost, potentially turning pioneering investment into a structural disadvantage.
@@ -31,6 +29,9 @@
 - `INS-260403-56BB` Microsoft relinquished veto powers and right-of-first-refusal in exchange for extended IP rights through 2032 including post-AGI models, signaling that guaranteed model access is worth more than governance control.
 - `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260403-88F2` OpenAI's conversion to a for-profit PBC at $500B valuation, with nonprofit retaining control and a $25B commitment, establishes a new governance playbook for AI companies balancing mission with scale.
+- `INS-260403-F6D2` An entire industry can succeed wildly while flagship companies within it fail, leaving concentrated investors holding the bag.
+- `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
+- `INS-260324-5C53` OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
 - `INS-260403-0BE9` AI venture funding hit $225.8B in 2025 but mega-rounds dominated, with OpenAI, Anthropic, and xAI capturing 38% of total investment.
 - `INS-260404-8881` OpenAI's $40B raise drove US VC funding to $85.5B in Q1 2025, masking a tough environment for early-stage startups.
 - `INS-260403-BA1B` OpenAI's Miqdad Jaffer argues AI features get copied fast while costs outrun revenue, making data, distribution, and trust the real moats.

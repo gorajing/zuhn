@@ -62,7 +62,6 @@ related:
   - INS-260323-AF7B
   - INS-260330-579B
   - INS-260625-E02C
-  - INS-260626-B5A6
 ---
 Kalanick draws a sharp distinction between digital AI (which compounds fastest against businesses whose core value can be reproduced in a prompt) and physical AI (which requires tolerances, material science, and operational iteration that current models cannot shortcut). His bet on atoms — specialized robots with wheels rather than humanoids, real estate density rather than software scale — is a deliberate choice to run toward difficulty.
 

@@ -49,7 +49,6 @@ stance: >-
   Agent runtime and orchestration are effectively solved problems, and the real
   bottleneck for scaling agent swarms is coordination.
 related:
-  - INS-260321-18D0
   - INS-260326-7F79
   - INS-260327-C1A4
   - INS-260327-EDF0
@@ -59,6 +58,7 @@ related:
   - PRI-260328-A65A
   - INS-260329-422F
   - INS-260330-8F07
+  - INS-260330-77BB
 ---
 Bichard decomposes the infrastructure of an autonomous 'software factory' into three pillars: a runtime (somewhere for the agent to run), orchestration (scaling agents up and down, triggering them), and coordination (how agents interact, pick up tasks from each other, and collaborate). He argues the first two are effectively solved — there are many sandbox, container, and VM solutions for runtime, and webhook infrastructure already handles triggering on PRs or tickets.
 

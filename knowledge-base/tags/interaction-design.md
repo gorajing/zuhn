@@ -1,9 +1,11 @@
 # Tag: interaction-design
 
 - `INS-260605-303C` Agents look less autonomous than they are because you can only reach them in their native environment, not because the models are weak.
+- `INS-260627-6031` Reviewing agents by scrolling through ten blocks of raw reasoning tokens does not scale; structured, model-generated artifacts (plans, task lists, diagrams, recordings) are the right primitive for supervising long-running agents.
 - `INS-260605-E023` MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260403-AEF7` AI systems with multiple interacting configuration layers require all layers to be set intentionally or higher layers will override lower ones.
 - `INS-260605-AA2B` Reeve argues screens tacked onto exhibits feel like 'sticking technology on', so he is commissioning a statue with the mic, speaker, and phone built inside it.
 - `INS-260605-9688` Multiple practitioners agreed voice output lacks information density and feels rude when concise, pointing toward speaking your intent in while receiving diagrams, UI, or text back.
 - `INS-260605-7B00` Voice is omni-channel: once an agent can speak and listen, it can join a Zoom call, answer a phone line, or assist users who struggle with keyboards — interaction paradigms a text box can't reach.
 - `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
+- `INS-260627-A842` Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.

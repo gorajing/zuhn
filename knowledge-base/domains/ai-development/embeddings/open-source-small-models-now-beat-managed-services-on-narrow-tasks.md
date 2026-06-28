@@ -62,8 +62,8 @@ related:
   - INS-260405-CA27
   - INS-260410-ED4D
   - INS-260423-55A7
-  - INS-260605-71E7
   - INS-260605-A0BC
+  - PRI-260406-9D48
 ---
 The old framing treated open-source models as the budget option you accepted with a quality penalty. That framing is now obsolete for narrow tasks. Hugging Face hosts millions (approaching ~3 million) of models, and open source is advancing on both size and accuracy simultaneously. On MTEB and similar benchmarks, narrowly specialized open-source models beat managed services, and even general-purpose low-parameter releases like Gemma's small models post ELO scores higher than much larger models. 
 

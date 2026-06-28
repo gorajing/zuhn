@@ -61,6 +61,7 @@ related:
   - INS-260327-6E57
   - INS-260403-141E
   - INS-260626-5E7E
+  - INS-260627-C2AF
 ---
 On a Google IO arithmetic demo (answer: 39), Gemini Diffusion guessed '60' after one forward pass, '49' after two, then — having completed the reasoning chain — went back and corrected the answer to '39' by the third. Crucially, much larger autoregressive models failed the same prompt: GPT-4o committed to '40,' and Gemini 2.5 Flash said '42' and then baked that error into its subsequent reasoning rather than fixing it.
 

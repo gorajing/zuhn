@@ -63,9 +63,9 @@ stance: >-
 related:
   - INS-260605-5159
   - INS-260619-16EF
+  - INS-260627-44FD
   - INS-260627-51BE
   - INS-260627-8BD6
-  - INS-260626-B5A6
   - INS-260627-718B
 ---
 Conventionally, an agent that must wait — for a human approval, a scheduled time, an external event — either holds an expensive long-lived process open or is bolted onto queues and a database with hand-written retry and state-persistence code. The workflow model eliminates the wait cost entirely: calling `sleep('3 days')` inside the orchestration layer pauses the workflow and consumes nothing while paused. When the time elapses (or a webhook fires), the runtime replays the deterministic loop, rehydrates state from cached step outputs, and continues from exactly the line it left off.

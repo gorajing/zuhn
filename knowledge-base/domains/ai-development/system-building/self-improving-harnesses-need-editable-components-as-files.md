@@ -43,11 +43,11 @@ stance: >-
   A harness cannot evolve safely unless every editable component is represented
   as a file-level, explicit, revertible action surface.
 related:
-  - INS-260514-4FDC
   - INS-260605-013A
+  - INS-260514-4FDC
   - PRI-260426-890F
+  - INS-260627-C7D2
   - INS-260514-283E
-  - INS-260605-15B8
 ---
 Agentic Harness Engineering identifies heterogeneous editable components as a core blocker to automated harness improvement. Its first pillar, component observability, turns each editable harness component into a file-level representation so the action space is explicit and changes are revertible.
 

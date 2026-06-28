@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 21 insights
+> 22 insights
 
 - `INS-260424-E832` [high] Logan Kilpatrick: there is way more demand than there is supply across every Google product surface — over the next 2-3 years you'll end up with a fixed amount of tokens, where do you deploy them in your own life and your business?
 - `INS-260423-B612` [high] Rory: what do you do when you can sell more if you had more, but you can't make more? You start allocating capacity based on money — exactly what anyone in economics would say to do.
@@ -18,6 +18,7 @@
 - `INS-260626-4005` [medium] A spoken prompt produced a working bookshelf-cataloging app — image upload, search-grounded enrichment, Google login, persistent database, one-click Cloud Run deploy — that Bailey notes 'would have been a startup 3-4 years ago.'
 - `INS-260627-9B00` [medium] Amp ships subtle developer-tool ads in the terminal and editor to sponsor cheap-tier inference, betting that cost — not interest — is what keeps students and hobbyists from using agents.
 - `INS-260625-5929` [medium] Outcome pricing is not just a billing choice; the product must create self-contained, attributable outcomes before the model works.
+- `INS-260627-3207` [medium] Customer commitments depend on predictable delivery, so low-variance training-time estimates are as business-critical as raw speed — and that constraint defines which research problems are worth solving.
 - `INS-260505-2467` [medium] LLMs ship with Silicon Valley's logic baked in: opacity over openness, efficiency over journey, cost-cutting over apprenticeship. Academia gets that logic when it adopts the tools.
 - `INS-260505-F164` [medium] Balanced AI answers feel good but degrade your thinking. Multi-agent biased answers improve your thinking AND your experience.
 - `INS-260625-EFCC` [medium] Cole open-sourced OpenInspect rather than monetize it because the middle orchestration layer is easy to copy and squeezed between paid sandbox providers (Daytona, E2B, Modal) and paid model labs — so the winning move is to bundle the agent with the infrastructure underneath it.

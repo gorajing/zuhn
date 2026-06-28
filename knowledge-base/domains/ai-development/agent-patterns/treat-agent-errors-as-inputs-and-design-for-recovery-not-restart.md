@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260320-9FD5
   - INS-260605-1A2D
+  - INS-260627-1443
   - INS-260605-E9A7
   - INS-260323-F68A
-  - INS-260605-29BD
 ---
 Traditionally a failed HTTP/product-search request was cheap to retry — you redid all the work and moved on. With agents that run 5 to 15 minutes, restarting from a mid-flow failure wastes enormous compute redoing prior steps and, worse, can lose accumulated context. The model Schmid borrows is Go's error-as-value convention: a call returns either a value or an error and both are handled as normal flow.
 

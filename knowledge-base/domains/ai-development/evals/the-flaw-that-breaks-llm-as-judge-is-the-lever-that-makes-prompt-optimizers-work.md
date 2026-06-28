@@ -57,9 +57,9 @@ related:
   - INS-260605-4FE3
   - INS-260625-13F0
   - INS-260627-6846
+  - INS-260627-2BA7
   - INS-260625-ED7E
   - INS-260403-E6F0
-  - INS-260627-54A4
 ---
 Madura relays a point from a Karpathy/Dwarkesh discussion: LLM-as-judge has a ceiling because the model being evaluated can find adversarial examples — spurious cracks in the giant judge model — that let it cheat the score without genuinely improving. The judge can only go so far before the candidate model games it. Inverting that observation reframes prompt optimization: the optimizer is deliberately searching the same nooks and crannies of the model, but to find prompt phrasings that improve real performance against your dataset rather than to cheat.
 

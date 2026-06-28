@@ -45,16 +45,16 @@ stance: >-
   An agent wrapped in a CLI with CI/CD becomes a pseudo-RL pipeline that other
   coding agents can iterate on autonomously.
 related:
-  - INS-260330-D5CD
   - INS-260424-FE8E
   - INS-260501-3502
   - INS-260501-D6B8
   - INS-260524-63C9
-  - INS-260605-86F6
   - INS-260625-814D
   - INS-260605-6444
   - INS-260605-9E46
   - INS-260530-D34F
+  - INS-260605-159E
+  - INS-260619-1512
 ---
 The relationship has inverted: humans used to guide AI, but now you should architect your systems so AI can work through them easily. For agent development specifically, that means exposing a CLI that can build and test the agent, plus an AGENTS.md and CI/CD that let other coding agents make changes and run them end-to-end.
 

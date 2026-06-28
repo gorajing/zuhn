@@ -64,7 +64,7 @@ related:
   - INS-260626-B833
   - INS-260603-6FE3
   - INS-260625-3768
-  - INS-260627-EEDE
+  - INS-260627-899A
 ---
 When designing how an agent gathers context and takes action, the highest-leverage move is to translate a domain-specific or proprietary data source into an interface the model has seen massively during training. The workshop's worked example: to search a spreadsheet, you can query a CSV directly through SQLite — because the agent knows SQL extremely well, far better than any custom search API you would invent. The same logic extends to representing xlsx files as XML (which they natively are) for structured XML queries, or using spreadsheet range syntax like B3:B5 that the model recognizes. Your real problem is almost always out-of-distribution in some way (unique data not on the internet); the engineering job is to massage it to be as in-distribution as possible.
 

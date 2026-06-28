@@ -42,12 +42,11 @@ stance: >-
   persistence, secure code execution, durable messaging, and task-specific agent
   loops because raw SDK swaps do not solve production agent complexity.
 related:
-  - INS-260325-F981
   - INS-260605-CA2B
   - INS-260624-5865
   - PRI-260328-8317
+  - INS-260627-6031
   - INS-260410-F910
-  - INS-260403-4D80
 ---
 The Vercel segment described moving from swapping SDK code for each new provider toward an AI gateway with a single key, automatic fallbacks, persistence, and utilities for durability, secure code execution, and messaging. Their internal data-agent story also moved from giant prompts, to sub-agents, to larger-context single runs, then back toward simpler agent SDK execution when model/tooling capabilities changed.
 

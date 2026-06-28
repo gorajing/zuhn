@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260324-E785
   - INS-260409-D012
+  - INS-260627-A842
   - INS-260412-1E19
   - INS-260329-4B07
-  - INS-260327-2386
 ---
 The presidential transport system achieves a White House to UN Headquarters trip in almost exactly one hour by obsessing over transition times between modes: 8 minutes on Marine One, 5 minutes transferring to Air Force One (the president is always last aboard so the door closes immediately), 30 minutes flying, 7 minutes on Marine One again, 6 minutes by motorcade. The individual transport modes are fast but not extraordinary — what's exceptional is that transfer latency approaches zero.
 

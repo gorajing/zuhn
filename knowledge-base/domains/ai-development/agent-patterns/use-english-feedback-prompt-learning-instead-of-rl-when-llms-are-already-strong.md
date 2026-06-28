@@ -58,7 +58,6 @@ stance: >-
 related:
   - INS-260323-584D
   - INS-260329-DAD1
-  - INS-260320-96C9
   - INS-260410-684D
   - INS-260501-FDF0
   - INS-260605-564D
@@ -66,6 +65,7 @@ related:
   - INS-260625-0A08
   - INS-260625-0961
   - INS-260626-BA05
+  - INS-260627-6A8B
 ---
 The talk frames the choice with a student-exam analogy. RL is like a student who gets back only a score (70%, 80%) and must figure out how to improve from that scalar alone — a valid but sample-inefficient, data-hungry, time-intensive path that typically needs a dedicated data-science team. Prompt learning is like a student who also gets written feedback: why answers were wrong, which concepts to study. That richer signal lets improvement happen with far less data.
 

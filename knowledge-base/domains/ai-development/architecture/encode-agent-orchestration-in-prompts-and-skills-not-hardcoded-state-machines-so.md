@@ -55,6 +55,6 @@ related:
   - INS-260625-36DF
   - INS-260320-A745
   - INS-260625-76F5
-  - INS-260627-0BC1
+  - INS-260627-44FD
 ---
 Every team building multi-agent systems fears the next model release making their architecture obsolete—an instance of the bitter lesson. Factory's response was to design Missions to get better with each model improvement. Almost all orchestration logic lives in prompts and skills rather than a hardcoded state machine: how the system decomposes features and handles failures is ~700 lines of text, where four sentences can dramatically alter execution strategy. Worker behavior is driven by skills the orchestrator defines per mission, yielding customized behavior. The only deterministic logic is thin and focused on bookkeeping—running validation, blocking progress when handoff issues are unaddressed. 'Missions ensure the discipline, and the models provide the intelligence,' using primitives models already know like AGENTS.md and skills. The design lesson: let structure handle what must be reliable, and let prompts—not code—handle what models are getting better at, so improvements compound rather than break you.

@@ -46,13 +46,13 @@ stance: >-
   adoption even when it increases error rates, because humans value agency over
   accuracy.
 related:
-  - INS-260321-1A0B
   - INS-260330-BCD8
   - INS-260403-9B5D
   - INS-260403-8EF3
+  - INS-260321-1A0B
   - INS-260403-29AC
-  - INS-260328-91A1
-  - INS-260403-19C9
+  - INS-260627-3B20
+  - INS-260627-8DBA
   - INS-260404-BEAA
   - INS-260329-7F3D
   - INS-260410-0B73

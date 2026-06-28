@@ -60,9 +60,10 @@ related:
   - INS-260424-3176
   - INS-260605-EF9D
   - INS-260627-C559
+  - INS-260627-DC49
   - INS-260626-1B29
-  - INS-260410-CD01
-  - INS-260330-3EFC
+  - INS-260627-A842
+  - INS-260627-9BB0
 ---
 RL post-training has a classic producer-consumer problem: samplers produce trajectories that trainers consume, and naively the two must synchronize weights, creating stalls. CWM's answer is extreme asynchrony. Trainers eagerly ship checkpoints to samplers; samplers eagerly ship trajectories back to trainers; and crucially, both sides maintain deep queues — many models queued for sampling, many trajectories queued for scoring and gradient updates. Nothing waits on anything being 'done,' which is what unlocks strong throughput.
 

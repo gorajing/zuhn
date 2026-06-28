@@ -52,5 +52,6 @@ related:
   - INS-260330-7DAA
   - INS-260409-1E3C
   - PRI-260406-426E
+  - INS-260627-805E
 ---
 Asked how he builds conviction behind Conductor's opinionated, low-configuration choices — against an audience that wants lots of configurability — Holtz answers that the team isn't big on analytics or A/B testing; it's 'very much a gut feel.' The mechanism is forced (actually unforced) daily use: 'we just use it every day, and so if it doesn't feel right, we can quickly decide.' Concrete example: opening the chat in the center feels right because it unifies the composer and message input, so no separate composer is needed. He even bought a low-spec MacBook deliberately to force himself onto the lowest common denominator. The principle: for a tool you yourself are the target user of, lived friction is a higher-bandwidth signal than aggregate metrics, and a strong opinionated default beats infinite configuration — though he concedes the tool still needs to 'feel like yours' through modding-style flexibility at the edges.

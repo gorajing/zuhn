@@ -70,7 +70,6 @@ stance: >-
   IC effectively becomes a manager of agents, making founder-mentality, critical
   thinking, and evaluation the durable human skills
 related:
-  - INS-260325-DB7D
   - INS-260323-FE69
   - INS-260327-0762
   - INS-260403-1E5A

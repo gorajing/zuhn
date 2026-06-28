@@ -44,14 +44,14 @@ resolutions:
 related:
   - INS-260322-3D21
   - INS-260323-F204
-  - INS-260321-2241
   - PRI-260321-7307
   - PRI-260323-00C6
+  - INS-260627-8DBA
   - INS-260403-C10D
   - INS-260330-856B
-  - INS-260325-EE14
   - INS-260327-7F32
   - INS-260327-AC8E
+  - INS-260327-7B05
 stance: >-
   The biggest risk of AI adoption isn't that it fails — it's that it works so
   well that humans stop learning

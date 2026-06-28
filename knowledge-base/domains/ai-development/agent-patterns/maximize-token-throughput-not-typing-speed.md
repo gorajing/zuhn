@@ -36,10 +36,10 @@ resolutions:
     are wasted capability.
 related:
   - INS-260605-A847
+  - INS-260627-24EB
   - INS-260626-DA0A
   - INS-260626-411D
   - INS-260626-9732
-  - INS-260605-A803
   - INS-260329-4696
   - INS-260405-3B54
   - INS-260410-566F

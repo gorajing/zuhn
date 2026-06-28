@@ -8,6 +8,7 @@
 - `INS-260626-8116` Give the model a REPL/execution environment (V8 isolate, Lua, etc.) and let it write code that chains tools, instead of call-result-call-result orchestration that burns inference and latency.
 - `INS-260626-AC8E` Replace JSON tool-call round-trips with model-generated code executed in one run to get typed APIs, type-checking, looping, state, and parallelism for free.
 - `INS-260410-CD01` Code-driven orchestration unlocks asyncio.gather across independent tool calls, collapsing sequential round-trips into one concurrent batch.
+- `INS-260627-24EB` RL taught Composer to call tools in parallel (read 10 files at once instead of one-by-one) and to search/read before editing rather than over-editing — behavioral changes that make the agent feel much faster and act more effectively, independent of token throughput.
 - `INS-260410-E658` Let agents write while-loops and if-statements as code rather than rerunning the model to evaluate each branch.
 - `INS-260624-D8C3` Speculation helps latency, but side-effectful actions need commit barriers.
 - `INS-260624-9A4B` Speculation only works safely when the agent treats in-flight work as cancellable until user intent and side-effect boundaries are clear.
@@ -35,6 +36,7 @@
 - `INS-260625-7530` Gemini 3.1 Flash Live runs sound-to-sound with intelligence inside the audio model, unlike a cascade that routes audio through text and a separate LLM.
 - `INS-260605-C9EB` Flux Klein edits in ~0.5s and generates in ~0.3s versus ~15-20s for competitors — fast enough that generation becomes interactive (render as you think) rather than request-and-wait.
 - `INS-260605-8691` Use Gemini Flash for the sub-3-second post-game review; save reasoning models for the patient 'chat with your coach' experience.
+- `INS-260627-A842` Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 - `INS-260514-F74B` Skip slow LLM compaction — instantly drop tool-call contents and thinking blocks while keeping user+assistant turns. Saves 30s-2min per compaction and preserves the decision chain.
 - `INS-260627-FDB3` Default to an automatic router that picks simple-chat vs full-agent by query complexity, while still exposing the tier as an override for callers who want fine-grained control.
 - `INS-260605-204E` Emit the first audio packet immediately and the conversation feels responsive even if the full audio finishes computing seconds later.

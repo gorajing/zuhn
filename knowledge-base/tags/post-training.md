@@ -10,6 +10,7 @@
 - `INS-260320-C65B` The Smol Training Playbook is a 200+ page open guide covering the full LLM pipeline from strategic planning through post-training, based on training SmolLM3 (3B params, 11T tokens).
 - `INS-260625-84D0` If the deployment harness matters, put it in the training loop before tuning rather than bolting it on afterward.
 - `INS-260605-564D` Prompting, SFT, and RL all steer model behavior, but RL integrates feedback as a reward signal by design and reaches the same quality with a much smaller model.
+- `INS-260627-D580` Cursor isn't trying to build AGI — they applied RL with high-quality data and 'a decent amount of compute' to one narrow task (coding) and got a model close to the frontier, suggesting RL on specialized verticals is a viable path for non-frontier labs.
 - `INS-260627-EEDE` SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided.
 - `INS-260625-D772` Diffusion distillation runs on H100/H200/B200-class GPUs (not just GB200s) and small models need little compute, but garbage-in-garbage-out applies — specialized domains require your own data distribution and the ability to evaluate quality differences.
 - `INS-260605-278E` Labs spend enormous sums on expert-labeled golden datasets (e.g. contract physicists through Scale AI) because even small dataset issues 'literally make or break your model,' and they verify with human QA hierarchies, not LLM evaluation.

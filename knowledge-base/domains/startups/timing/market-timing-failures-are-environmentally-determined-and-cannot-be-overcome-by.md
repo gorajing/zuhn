@@ -52,7 +52,6 @@ stance: >-
   outside founder control
 related:
   - INS-260329-5924
-  - INS-260330-D483
   - INS-260404-D40E
   - PRI-260405-64B2
   - INS-260625-C735

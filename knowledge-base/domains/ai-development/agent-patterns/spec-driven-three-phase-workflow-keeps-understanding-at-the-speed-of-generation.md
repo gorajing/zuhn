@@ -59,7 +59,6 @@ stance: >-
   prompts or models — is what keeps human comprehension from falling behind AI's
   generation speed.
 related:
-  - INS-260320-2DDE
   - INS-260410-2F8D
   - INS-260605-6A32
   - INS-260605-C223

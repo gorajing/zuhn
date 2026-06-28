@@ -60,6 +60,7 @@ related:
   - INS-260605-B82E
   - INS-260501-FDF0
   - INS-260626-46B9
+  - INS-260627-056F
 ---
 Prompting, instruction fine-tuning, and reinforcement learning all aim at the same goal — steering a model's behavior — but they are not equally effective. RL is disproportionately more effective because it absorbs feedback from heterogeneous sources (client feedback, business metrics, environmental reward) into a reward signal almost by construction, rather than forcing you to manually edit prompts or regenerate training data every week.
 

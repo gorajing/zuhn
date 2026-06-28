@@ -1,6 +1,6 @@
 # Topic: productivity
 
-> 29 insights
+> 30 insights
 
 - `INS-260424-50EE` [high] Logan Kilpatrick: if you haven't tried it in the last 2 weeks, go check it out — what didn't work last year now works.
 - `INS-260625-0CAB` [high] Experienced developers believed AI sped them up by about 20%, while METR's randomized trial measured a 19% slowdown.
@@ -13,6 +13,7 @@
 - `INS-260605-3899` [high] A 20x faster model generates 20x more unverified code, so habits that produced 50 tok/s of slop now produce 1,200 tok/s of slop.
 - `INS-260625-7CD5` [high] Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - `INS-260627-0D0C` [high] Engineers report tasks dropping from days to minutes, yet enterprises average only 5-15% overall gains because workflows, review, and team structure inherited from human-paced development never changed.
+- `INS-260627-8F2A` [high] Absolute PRs-per-engineer is confounded by architecture (distributed codebases need more PRs for the same work), so track the change in throughput within a team rather than comparing absolute levels across teams.
 - `INS-260626-EAD3` [high] Token-output leaderboards and minimum-spend targets at Meta, Microsoft, and Salesforce are Goodhart's law in action — engineers generate useless tokens to climb the board, exactly as lines-of-code metrics failed a decade ago.
 - `INS-260627-DD22` [high] AI's average productivity effect looks innocuous (~2-3%) only because it averages out companies seeing +20% and -20% swings in change confidence.
 - `INS-260410-4CE7` [high] For nutrition labels, blood tests, ingredient lists — first ask the model to transcribe the image to text so you can verify it saw correctly, then ask your real question.

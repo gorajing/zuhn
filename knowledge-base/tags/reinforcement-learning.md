@@ -15,15 +15,18 @@
 - `INS-260327-79E8` OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
 - `INS-260627-8A88` RL gives only a scalar reward and forces the model to improve blindly; prompt learning hands back English feedback explaining what went wrong, so it learns from far fewer examples.
 - `INS-260625-0961` When you reward 'tests pass' instead of 'problem solved,' a capable model learns to force the tests to pass.
+- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
+- `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
+- `INS-260627-FF6C` In synchronous RL, step time is dictated by the longest sample, so a heavy completion-time tail leaves most GPUs idle.
 - `INS-260625-ECB6` Because SWE-RL scores patches against the one merged PR, it may penalize correct fixes that differ from how the human originally solved it.
 - `INS-260410-9FE6` Without a goal and without ground truth from the world responding to your actions, you cannot have prior knowledge or continual learning — only imitation of people who do.
 - `INS-260410-B7B1` Lab spending on pre-baked skill training is revealed-preference evidence that current models lack humanlike on-the-job learning.
-- `INS-260605-1CEB` As models secure against known issues via RL, the bugs that remain become finer and harder for a human to spot.
-- `INS-260410-1248` Squirrels don't go to school — animal learning is prediction and trial-and-error, and supervised learning is a special human exception we have built entire AI paradigms around.
 - `INS-260605-C1A5` An agent harness plus eval data you've already collected is most of what's needed to train a model via reinforcement learning.
 - `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
 - `INS-260410-E1D9` Imitation learning is RL where the episode is one token long and reward is how well the next token was predicted.
+- `INS-260627-899A` The DAgger/out-of-distribution problem from robotics explains why a browser agent that meets an unseen pop-up gets catastrophically confused: small deviations compound because actions change future states.
+- `INS-260627-D73F` Pipeline RL dedicates separate GPU pools to sampling and training and pushes new weights to samplers mid-sample, so GPUs never wait.
 - `INS-260410-CDE9` Frontier RL post-training uses a simpler algorithm than 2015-era Atari agents, and it works — but nobody knows why.
 - `INS-260605-5A8E` Supervised fine-tuning or RL is now ~300 lines of Python with open-source libraries, plus standard serving stacks (vLLM, SGLang, Triton) for the model afterward.
 - `INS-260625-8613` A conjecturer rewarded only for stumping the solver learns to emit messy, overly-complex problems (like a three-page calculus problem you'll slip on) that don't transfer; grounding tasks in real problems plus a relevance 'guide' reward fixes it.
@@ -33,6 +36,7 @@
 - `INS-260410-8E1C` RL broadcasts a single final-reward bit across an entire trajectory, upweighting tokens from wrong paths that happened to end in the right answer — it's terrible, just less terrible than imitation.
 - `INS-260605-564D` Prompting, SFT, and RL all steer model behavior, but RL integrates feedback as a reward signal by design and reaches the same quality with a much smaller model.
 - `INS-260410-46CA` Capabilities unlock domain by domain based on how cleanly you can construct a verifiable reward signal, not on general intelligence improvements.
+- `INS-260627-D580` Cursor isn't trying to build AGI — they applied RL with high-quality data and 'a decent amount of compute' to one narrow task (coding) and got a model close to the frontier, suggesting RL on specialized verticals is a viable path for non-frontier labs.
 - `INS-260627-EEDE` SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided.
 - `INS-260403-B73D` RL training exhibits the same scaling dynamics as pre-training, meaning the compute exponential that's driven 23 years of progress continues unbroken.
 - `INS-260625-3768` RL is better for behavior than for changing the core data and knowledge inside a model, so reach for it when the problem is how the model acts — tool use, error correction, discipline — not what it knows.
@@ -47,8 +51,10 @@
 - `INS-260627-6A8B` Because an RL reward is just one bit (right/wrong) while SFT supervises every token, RL can reach the same accuracy with vastly fewer trainable parameters — even single digits.
 - `INS-260625-D790` The SWE-RL model beats both the base model and an SFT model trained on the same PR data, even on tasks never seen in training.
 - `INS-260412-88B6` AlphaGo bootstrapped from 100K human games then improved via 30 million self-play games, beating its prior version 80-90% of the time.
+- `INS-260627-DC49` More tolerated staleness means fewer idle GPUs but higher importance-ratio variance, which can make RL learning diverge — so the speed ceiling is set by the algorithm, not the hardware.
 - `INS-260627-699E` RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
 - `INS-260605-33FA` In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
+- `INS-260627-C70B` Cursor's RL goal was to mirror the production cursor environment 'as close as we possibly can' — same tools, same tool format, same tool responses — and the payoff is a model that becomes a 'power user' of tools like semantic search because it trained in exactly the environment it runs in.
 - `INS-260627-01E1` Microrobot autonomy improves when RL is trained against the deployment physics, not toy channels.
 - `INS-260410-8F8C` Humans learn through a blend of imitation and reward-seeking, so ML paradigms that insist on purity are chasing an idealization biology never honored.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.

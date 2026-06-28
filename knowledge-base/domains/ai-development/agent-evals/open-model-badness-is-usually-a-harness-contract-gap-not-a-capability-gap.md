@@ -62,7 +62,6 @@ stance: >-
   model.
 related:
   - INS-260402-3C79
-  - INS-260410-A1E9
   - INS-260410-14E5
   - INS-260410-B0D6
   - INS-260602-EA48
@@ -71,6 +70,7 @@ related:
   - INS-260605-D0A0
   - INS-260605-6752
   - INS-260605-0312
+  - INS-260605-320E
 ---
 A large share of public 'is DeepSeek good or bad?' disagreement, Awais argues, traces to people hacking Claude Code (swapping the base URL and API key) to drive open models. Claude Code hides tool-call errors behind a collapsed Ctrl-O view, so a user racks up 50+ tool-call failures per session without seeing them, experiences the model as slow, and blames the model. The harness was never built for open models and has no incentive to fix their tool-calling, so the failure is structural and invisible.
 

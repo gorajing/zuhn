@@ -51,7 +51,7 @@ related:
   - PRI-260406-D8C3
   - INS-260404-EEA7
   - INS-260403-ABC5
-  - PRI-260405-BFAC
+  - INS-260627-09DE
 ---
 In any industry where large incumbents hold massive datasets and distribution (real estate marketplaces, mortgage platforms, construction software), AI improvements will make their existing platforms incrementally better. Startups cannot win this incremental game.
 

@@ -9,14 +9,15 @@
 - `INS-260627-5447` Agents 'can do anything except know what you value,' so your leverage shifts entirely to articulating preferences, brand, and quality bars.
 - `INS-260501-D9D1` Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why.
 - `INS-260626-0FA9` AI interacts with software timelessly — via screenshots and the DOM — so it can't feel that a click took two seconds or that an animation eases wrong, leaving taste as a human-only capability.
+- `INS-260627-BF35` Code quality is the sum of stylistic and structural choices a developer accumulates over a career, not whether the code is correct.
 - `INS-260627-F893` Slop is a quality and taste failure that humans produce as readily as AI, so anti-slop discipline is about judgment, not about banning AI.
 - `INS-260625-F9B2` Building a great vibe-coded game is blocked not by model quality but by someone who knows games assembling the right scaffolding — sprite generation, orchestration, replayability, taste.
 - `INS-260626-EA1D` Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
+- `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
+- `INS-260404-5AEB` Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260404-0570` You must develop your own quality judgments because institutional gatekeepers' incentives often diverge from honest evaluation.
 - `INS-260403-DE28` Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
-- `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
-- `INS-260404-5AEB` Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - `INS-260404-8A87` Only copy work you authentically enjoy, not work you admire for its status.
 - `INS-260501-93DD` Taste = honest evaluation of quality. No honesty, no taste. No taste, no excellence. Taste isn't optional.

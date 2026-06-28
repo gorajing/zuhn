@@ -65,8 +65,8 @@ related:
   - INS-260626-411D
   - INS-260605-D37A
   - INS-260410-B282
-  - INS-260410-18CF
   - INS-260421-3E99
+  - INS-260605-C859
 ---
 The standard explanation for poor non-English LLM performance is 'less training data in those languages.' Karpathy points out a second, often overlooked cause: the tokenizer itself was trained mostly on English, so its BPE merges are optimized for English character sequences. When you tokenize Korean or Japanese or any non-Latin script, the same semantic content becomes 3-5x as many tokens because the tokenizer never learned long merges for those scripts.
 

@@ -57,9 +57,9 @@ related:
   - INS-260403-2DF9
   - INS-260402-3866
   - INS-260410-DABE
-  - INS-260605-824F
   - INS-260625-B6E8
   - INS-260626-E636
   - INS-260627-BBD1
+  - PRI-260406-3EF8
 ---
 Zakariasson argues the area teams underinvest in is verifiable systems: how can the agent verify its own work via unit, integration, or UI tests? This is the lever that lets a manager move 'way less code, looking at less code' without losing confidence. Verification is harder for UI than backend — backends have clear contracts and boundaries, while web UIs require actually clicking around in the DOM to confirm a button has a loading spinner. Cursor's answers include agents writing their own Playwright end-to-end tests, automated code review (Bugbot), and cloud agents that control the computer to record a video of themselves testing the change. An audience member reframed it sharply: instead of using AI for velocity, use AI to improve the tests and make the codebase 'completely AI ready' — because once a human trusts the tests, they trust the output even without reading the code. The longer you want agents to run autonomously, the more non-negotiable self-verification becomes.

@@ -1,5 +1,6 @@
 # Tag: artifacts
 
+- `INS-260627-6031` Reviewing agents by scrolling through ten blocks of raw reasoning tokens does not scale; structured, model-generated artifacts (plans, task lists, diagrams, recordings) are the right primitive for supervising long-running agents.
 - `INS-260626-7F5B` Use chat as a flexible input channel, but make the main human-agent collaboration happen in persistent, high-bandwidth artifacts like documents and review tables.
 - `INS-260320-6F8E` SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
 - `INS-260409-7DB7` Document the struggle now — the shame you feel about early work is exactly what makes future-you want that record.

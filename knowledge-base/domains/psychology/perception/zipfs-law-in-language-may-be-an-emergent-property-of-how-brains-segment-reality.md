@@ -55,7 +55,6 @@ stance: >-
   inherent to how minds model complexity.
 related:
   - INS-260323-F963
-  - INS-260404-673B
   - INS-260326-3B43
   - PRI-260407-1D23
   - INS-260524-B6B3

@@ -50,13 +50,14 @@ stance: >-
   invisible side effects that make systems harder to reason about and debug
 related:
   - INS-260329-CF16
+  - INS-260627-44FD
   - INS-260329-2F63
   - INS-260626-2F2E
   - INS-260402-06DB
-  - INS-260627-6E58
   - INS-260409-53A1
   - INS-260501-4903
   - INS-260625-B67E
+  - INS-260627-6E58
 evidence:
   - id: INS-260325-0FED
     type: TRANSFERS_TO

@@ -68,13 +68,13 @@ stance: >-
   hallucination, context overload, wrong tool selection, non-terminating loops,
   no evaluation), and teams that blame the model misdiagnose the fix
 related:
-  - INS-260321-D370
   - INS-260321-E2FC
   - INS-260626-485E
   - INS-260626-B5A6
   - INS-260410-FD24
   - INS-260625-E9A9
   - INS-260625-63AF
+  - INS-260627-056F
 ---
 The workshop's central operational claim pushes back on a common reflex: when an AI feature misbehaves in production, teams reach for a better/different model. The speaker's taxonomy argues the real causes are usually elsewhere:
 

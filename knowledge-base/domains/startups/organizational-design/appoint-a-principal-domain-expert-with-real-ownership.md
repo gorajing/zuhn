@@ -46,9 +46,9 @@ stance: >-
   committee of advisory experts.
 related:
   - INS-260327-B5C9
+  - INS-260627-BF35
   - INS-260327-0C4A
   - INS-260405-DB32
   - PRI-260403-E023
-  - INS-260402-D2C9
 ---
 Lovejoy's first leverage principle is defining a principal domain expert: a single individual ultimately accountable for AI performance who can therefore make decisions. This avoids consensus-by-committee, where everyone is responsible so no one is, and the company moves slowly. The second principle is genuine ownership — treat the expert as a decision-maker in the room, not a consultant you occasionally ask for advice; otherwise it's much harder to build a differentiated product from their expertise. He cites a failure mode: a company with two senior clinicians, neither clearly the principal, both kept advisory, produced very slow progress and both left within 12–18 months — taking irreplaceable context with them. Accountability concentrated in one empowered person is the organizational unlock.

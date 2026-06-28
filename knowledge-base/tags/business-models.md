@@ -6,9 +6,9 @@
 - `INS-260403-BB5E` AI agents expand addressable market beyond software budgets into the 35x-larger labor budget pool.
 - `INS-260605-AA03` Flat subscriptions assume bounded usage, but agents consume tokens without ceiling, forcing a pricing reckoning.
 - `INS-260403-3C6D` Curated prompt packages that encode professional workflows represent a transitional business model that will shrink as models become more capable at self-structuring.
-- `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
 - `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
+- `INS-260412-24DB` WorldCom's entire growth engine was serial acquisition; when the Sprint merger was blocked, the company had no organic playbook and resorted to fraud.
 - `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260327-68C1` 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.
 - `INS-260325-FADB` Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.

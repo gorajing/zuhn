@@ -54,7 +54,7 @@ related:
   - INS-260627-455A
   - INS-260403-F6F6
   - INS-260627-C727
-  - INS-260403-8779
+  - INS-260627-1443
 ---
 Richman notes (echoing Matt Pocock and Simon Willison) that the cognitive load of managing multiple agent sessions is very high and genuinely exhausting. The naive reading of 'always-available agents' is that you should always be working; his inversion is that the paradigm actually highlights the importance of time away from your agents.
 

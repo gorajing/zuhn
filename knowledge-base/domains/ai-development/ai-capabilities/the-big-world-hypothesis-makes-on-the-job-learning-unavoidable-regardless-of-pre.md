@@ -68,6 +68,7 @@ related:
   - PRI-260407-2ACF
   - INS-260423-6172
   - INS-260410-B7B1
+  - INS-260627-D73F
 ---
 The big world hypothesis says the world is so large that you cannot anticipate everything in advance. The LLM dream — train once, know everything, deploy without further learning — crashes into the reality that every job, every client, every environment has idiosyncrasies that no pre-training corpus captures. A human onboarding at a job rapidly absorbs preferences, company conventions, and tacit context. That absorption has to go somewhere.
 

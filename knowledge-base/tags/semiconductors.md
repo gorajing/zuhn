@@ -3,9 +3,9 @@
 - `INS-260321-53E2` All AI computation is matrix multiplication (word relationships scored as points in matrices) — Hinton discovered GPUs excelled at this by accident in 2012, winning ImageNet overwhelmingly.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
 - `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
-- `INS-260412-22A6` Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
 - `INS-260410-CA89` Qualcomm's $120B franchise exists because it owns the patents AND the chip designs while treating handsets and base stations as commodity steps to spin off.
 - `INS-260410-F96E` Nvidia's decision to write its own drivers in the 1990s — a costly move most chip companies outsourced — planted the low-level software expertise that became CUDA and eventually enabled 66% gross margins on hardware.
+- `INS-260412-22A6` Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
 - `INS-260405-DA83` TSMC's record $52-56B capex guidance reflects hyperscalers reserving capacity years ahead, de-risking the investment case.
 - `INS-260322-02A6` Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and Korean semiconductors — a dual-purpose mission validating both biological and industrial readiness for space.
 - `INS-260403-C621` China's expanding rare earth export controls create chokepoint leverage over every major technology supply chain.

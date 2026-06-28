@@ -1,6 +1,6 @@
 # Topic: economics
 
-> 21 insights
+> 22 insights
 
 - `INS-260627-91B3` [high] Agent systems need spend control as much as capability control.
 - `INS-260625-02A3` [high] Every token an agent consumes in Claude Code, Codex, or any harness is already real money spent — the agent economy isn't coming, it's running.
@@ -16,6 +16,7 @@
 - `INS-260625-A503` [high] Railway's payback period on owned metal versus renting the equivalent cloud capacity is ~3 months against 4 years of depreciable hardware, yielding ~70% metal margins that can subsidize cloud bursting.
 - `INS-260626-739E` [high] When agents can do the work cheaply, the scarce, expensive activities become specifying it up front and reviewing it afterward.
 - `INS-260410-069C` [medium] When labs split compute ~50/50 between training and inference with >50% gross margins, profit or loss each year is basically whether they bought ahead of or behind the next year's demand.
+- `INS-260627-AC65` [medium] High-assurance code costs ~100x typical software, but agentic generation is ~1,000-10,000x cheaper per line, so agents could produce formally-verified-grade reliability ~100x cheaper than typical software is built today.
 - `INS-260626-76B5` [medium] The cheaper software is to make, the more of it gets made, so agent-driven productivity expands the total addressable software market and net demand for engineers.
 - `INS-260603-915A` [medium] Navish (Salesforce): 'nobody is trying to monitor how much token you are using' — they measure how performant you are, how fast you ship, because the company makes money from what it sells; cutting a month-long build to a week is the success metric.
 - `INS-260413-9769` [medium] Estimated US consumer surplus from generative AI tools reached $172B annually by early 2026 with median per-user value tripling between 2025 and 2026 — mostly captured through free access.

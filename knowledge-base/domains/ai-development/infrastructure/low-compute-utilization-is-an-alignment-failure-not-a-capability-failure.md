@@ -52,6 +52,5 @@ related:
   - PRI-260412-52DA
   - PRI-260405-F20C
   - INS-260404-5684
-  - INS-260627-6065
 ---
 Midha frames the puzzle of cash-rich, compute-rich labs that still can't ship as a leadership and alignment question rather than an engineering one. The benchmark exists and is achievable: Google treats 95% node allocation as the floor (anything lower is 'an outage') and best-in-class MFU runs 60-70%. Most single-tenant clusters fall far short. The mechanism is the 'radian metaphor' — two lines off by a few degrees at the origin diverge enormously at scale. The more handoffs between capital, deployment, operations, and output measurement, the more the small initial misalignments compound. The practical fix is mundane and borrowed from the semiconductor industry: do iterative bring-ups instead of scaling fast, because forced rapid scaling makes wastage compound before anyone can correct it. The lesson is that AI scaling raises the premium on infrastructure common sense rather than excusing its absence — the margin of error is lower and the cost of waste is higher.

@@ -56,7 +56,6 @@ related:
   - INS-260330-B4DA
   - INS-260330-DEF7
   - INS-260330-C0D1
-  - INS-260330-5A2A
   - INS-260330-CCA2
 evidence:
   - id: INS-260330-B4DA

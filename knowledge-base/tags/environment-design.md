@@ -1,6 +1,7 @@
 # Tag: environment-design
 
 - `INS-260325-9BBC` AlphaProof frames theorem proving as an RL environment with states (proof states), actions (tactics), and machine-verified rewards — enabling self-play learning on 80M auto-formalized problems.
+- `INS-260627-C70B` Cursor's RL goal was to mirror the production cursor environment 'as close as we possibly can' — same tools, same tool format, same tool responses — and the payoff is a model that becomes a 'power user' of tools like semantic search because it trained in exactly the environment it runs in.
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260403-D16C` Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260514-F5CC` Don't rely on willpower when stressed/tired/hungry. Purge the kitchen of junk food. Stack the odds.

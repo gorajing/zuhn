@@ -50,7 +50,6 @@ stance: >-
   Letting the model write code against a typed SDK beats discrete per-endpoint
   tool calls for exposing large APIs to agents.
 related:
-  - INS-260323-A5EC
   - INS-260410-2F8D
   - INS-260410-264E
   - INS-260501-F0E5

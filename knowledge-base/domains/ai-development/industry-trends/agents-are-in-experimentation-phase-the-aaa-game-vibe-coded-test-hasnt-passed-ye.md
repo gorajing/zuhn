@@ -55,11 +55,11 @@ stance: >-
   adding sustained value beyond demos — the breakthrough product is 6-12 months
   out.
 related:
+  - INS-260627-AAC2
   - INS-260627-C727
   - INS-260625-6A67
   - INS-260403-4120
   - INS-260424-2F93
-  - INS-260626-D768
 ---
 Hassabis's calibrated take on agent maturity: he agrees agents are 'just getting started' rather than overhyped, but argues we're still in the experimentation phase. The diagnostic test: 'why haven't we seen a kid making a hit game that sells 10 million copies?' Given the effort that's gone into vibe coding tools, a breakthrough product should already exist. That it doesn't suggests something is still missing — possibly tools, possibly process, possibly the human craft/taste/soul that the agents can't yet supply.
 

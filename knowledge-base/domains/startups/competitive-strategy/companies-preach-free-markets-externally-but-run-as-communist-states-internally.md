@@ -50,11 +50,11 @@ stance: >-
   compete with bottom-up open source efforts.
 related:
   - INS-260323-53BF
+  - INS-260627-0D57
   - PRI-260328-7A4D
   - INS-260403-21AF
   - PRI-260406-DD8C
   - PRI-260406-1993
-  - INS-260403-4F1B
 evidence:
   - id: INS-260327-77E7
     type: CONTRADICTS

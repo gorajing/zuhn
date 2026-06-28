@@ -55,7 +55,6 @@ stance: >-
   usually wasted effort because the next model release erases the weakness.
 related:
   - INS-260328-3446
-  - INS-260330-4AD5
   - INS-260409-FA5E
   - INS-260514-AC43
   - INS-260522-EB3C
@@ -64,6 +63,7 @@ related:
   - INS-260605-E9E2
   - INS-260605-1CEB
   - INS-260625-0297
+  - INS-260626-9AEB
 ---
 Zoneraich calls this Anthropic's 'AGI pill': the instinct to prevent hallucinations or edge-case failures by stacking prompt-after-prompt and if-statement-after-if-statement is the wrong reflex, because the specific flaw you're patching tends to disappear with the next model. The empirically better move is 'less scaffolding, more model' — a simple loop that lets the model explore and fix its own mistakes, which is more robust precisely because it improves for free as models improve.
 

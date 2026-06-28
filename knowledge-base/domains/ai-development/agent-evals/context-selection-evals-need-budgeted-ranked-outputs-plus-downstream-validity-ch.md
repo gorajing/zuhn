@@ -40,7 +40,6 @@ stance: >-
   appearing early under a fixed budget and correlates with downstream repair
   success.
 related:
-  - INS-260405-3F0F
   - PRI-260426-9E23
   - INS-260626-6AF4
   - INS-260403-A1B6

@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260320-A4BF
   - INS-260320-8DBD
-  - INS-260410-0FC1
   - INS-260605-6444
   - INS-260605-B6BC
   - INS-260605-D3C7
@@ -61,6 +60,7 @@ related:
   - INS-260605-6722
   - INS-260605-9276
   - INS-260605-3B8B
+  - INS-260605-C86D
 ---
 Supabase tested their skill the way you'd test code: evals. Instead of evaluating code, evals evaluate an agent's behavior — which tools it calls, its reasoning, and a graded completeness score. They built six Supabase-specific scenarios (ongoing projects in varied states), ran them across four agents from two vendors in three conditions (baseline, MCP-only, MCP+skill), and scored on Braintrust.
 

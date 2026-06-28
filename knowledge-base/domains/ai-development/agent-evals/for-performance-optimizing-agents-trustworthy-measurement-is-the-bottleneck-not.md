@@ -71,6 +71,7 @@ related:
   - INS-260627-54A4
   - INS-260627-0503
   - INS-260627-3D9A
+  - INS-260627-1CD2
 ---
 Serrino's system can cheaply propose many kernel optimizations, but the difficulty is knowing whether a candidate is actually correct and actually faster. Correctness under floating point requires deliberate tolerance choices; input sizes must be large enough that you measure the kernel rather than launch overhead as the critical path; naive timers measure launch time instead of execution time; and you must be 'neurotic' about warm-ups and cache clearing, because the baseline's cached result can be silently fetched by the new implementation and corrupt the comparison.
 

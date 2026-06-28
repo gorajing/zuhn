@@ -53,6 +53,5 @@ related:
   - PRI-260406-EBDB
   - INS-260403-26D4
   - INS-260320-E6DD
-  - INS-260619-8D68
 ---
 The deepest implication of Karpathy's framing: the durable asset in a personal AI setup is the compiled, curated, cross-referenced knowledge, not the specific model or retrieval mechanism sitting on top. Models will turn over every few months. RAG techniques will evolve. Vector databases will be replaced. But the compiled wiki — summaries, concept pages, flagged contradictions, human-directed questions, entity graphs — is expensive to build, slow to decay, and portable to any future LLM. This inverts the usual framing that AI is the valuable layer and knowledge is just input. In the LLM-wiki pattern it is the opposite: knowledge is the capital good, the AI is the labor. This matches Zuhn's architecture — the knowledge base is the source of truth in markdown + YAML, and every script (embed, search, learn) is replaceable around it.

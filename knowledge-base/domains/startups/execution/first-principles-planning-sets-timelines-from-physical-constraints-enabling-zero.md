@@ -66,6 +66,7 @@ related:
   - INS-260410-7224
   - PRI-260323-0654
   - INS-260626-A322
+  - INS-260627-3207
 ---
 He describes building Grok Imagine zero-to-one in three months under a culture of 'move fast, build, no goal is too ambitious, first principles.' The deadlines felt impossible when first considered, but they were derived first-principles: how fast can we acquire the videos, what is the end-to-end iteration speed for training a model, how would adding GPUs accelerate that, and what is the turnaround for human-labeled data. Put those physical constraints together and you get the minimum number of days in which the goal is achievable — that minimum becomes the deadline. This inverts the usual practice of negotiating a deadline against desired scope.
 

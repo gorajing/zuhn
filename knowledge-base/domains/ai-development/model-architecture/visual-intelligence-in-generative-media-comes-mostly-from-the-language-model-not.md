@@ -64,9 +64,9 @@ related:
   - INS-260625-A02C
   - PRI-260320-6847
   - INS-260408-C572
+  - INS-260627-2BA7
   - INS-260323-539C
   - INS-260403-B8AA
-  - INS-260330-4AD5
 ---
 Because text-to-video training pairs are 100% synthetic — a VLM captions internet videos 'so a blind person can reconstruct the scene' — the diffusion model learns to expect exhaustive, literal descriptions. Feed it 'a cat' and it renders a static cat on a white background, because you didn't describe motion or setting. The actual intelligence lives in a separate, larger language model (in Cosmos, Llama/Mixtral, bigger than the 7B video model) that rewrites a user's terse prompt into a detailed scene description, and increasingly performs agentic steps (fetching today's news, organizing layout) before generation. He's example: a 'happy sheep' looks CGI without rewriting and beautiful with it — no joint training required.
 

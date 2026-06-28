@@ -59,9 +59,9 @@ related:
   - INS-260322-2E33
   - INS-260325-2FC1
   - INS-260327-13B3
+  - INS-260627-AAC2
   - INS-260403-4120
   - INS-260409-04C8
-  - INS-260605-25B2
   - INS-260626-A922
 ---
 Evaluation today splits into two extremes: research labs and enterprises with sophisticated tooling on one end, and consumer agent builders on the other — and the consumer end mostly ships without testing. The speakers note these builders hand agents real authority (running an inbox, operating Amazon accounts) yet skip even a baseline check, the same population that 'filed 1,100 security advisories this morning.' The democratization of agent-building has outpaced the democratization of agent-testing.

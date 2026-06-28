@@ -64,7 +64,7 @@ related:
   - INS-260404-29AF
   - INS-260410-098A
   - PRI-260321-7307
-  - INS-260410-B6EA
+  - INS-260627-AAC2
 ---
 The article presents a nuanced counterpoint to the 'replace everything with AI' narrative. McKinsey's finding that hybrid AI-human approaches are 20% more successful suggests that the optimal startup structure isn't minimum headcount—it's the right ratio of human judgment to AI automation. Enterprise sales, regulatory compliance, and customer relationship building remain domains where human skills are irreplaceable.
 

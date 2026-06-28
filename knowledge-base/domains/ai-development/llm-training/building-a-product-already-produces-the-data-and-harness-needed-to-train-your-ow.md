@@ -46,8 +46,9 @@ stance: >-
 related:
   - INS-260325-2FC1
   - INS-260327-E07C
+  - INS-260627-01CF
   - INS-260625-9096
   - PRI-260426-890F
-  - INS-260605-6444
+  - INS-260627-0F8C
 ---
 Cowen's central takeaway is that training is far closer than teams assume. If you have built an agent harness, you already have the environment a model needs to learn your service through reinforcement learning. If you evaluate your product and log what's working and what isn't, that evaluation data is training data. The decades-old 'garbage in, garbage out' rule still holds — so if you lack mature evals and haven't collected data, it's not yet time to train; collecting that data is the prerequisite. But teams that have shipped and instrumented a real product have typically already 'touched' everything required, often without realizing it.

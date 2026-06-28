@@ -1,12 +1,13 @@
 # Topic: architecture
 
-> 128 insights
+> 134 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
 - `INS-260605-1821` [high] MCP Apps span a generation spectrum — predefined vendor UI, declarative host-rendered UI, fully generative model UI — and the protocol assumes none of them, so Claude's on-the-fly generative UI runs through the same pipe.
 - `INS-260605-0A68` [high] MCP gives tools to the model; ACP standardizes how a client (human or another agent) drives an agent — two orthogonal layers, not competitors.
 - `INS-260625-4DDB` [high] The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
+- `INS-260627-09DE` [high] Coding copilots multiply output along whatever direction is already chosen, so the higher-leverage tool is the one that chooses the direction — architecture.
 - `INS-260625-05FF` [high] Per Jeff Dean, even a trillion-token context window needs stage retrieval — 'you don't need a trillion at once, you need the right million' — so retrieval becomes an iterative search-reason-fetch loop, not a one-shot vector call.
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260625-25AC` [high] The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
@@ -15,6 +16,7 @@
 - `INS-260605-C965` [high] Use manager orchestration for synthesis; use handoffs for full takeover.
 - `INS-260409-E366` [high] The clock cannot tick faster than the slowest signal path settles — performance is gated by physics, not by design ambition.
 - `INS-260409-C1B2` [high] Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
+- `INS-260627-B34D` [high] Segmenting AI throughput gains by active-repos-per-engineer reveals ~4x gains for centralized/balanced architectures, ~2x for distributed, and roughly zero (slightly negative) for highly distributed ones.
 - `INS-260514-268F` [high] Code churn in one area predicts future complexity — intervene architecturally when you first notice the pattern, not when the mess is already unmaintainable.
 - `INS-260330-DE16` [high] Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
 - `INS-260514-37AA` [high] Optimal complex systems live at the critical point between order and chaos — scale-free hub-and-spoke organization at every scale. Too ordered = unresponsive (depression, ossified org). Too chaotic = falls apart (psychosis, chaos).
@@ -33,6 +35,7 @@
 - `INS-260627-DD09` [high] Self-service can take many forms — buttons, text, CLIs, MCP servers — but underneath them all should sit a well-defined API, because that gives agents discoverability, schema validation, and built-in auth.
 - `INS-260605-C132` [high] Every production voice agent converges on a voice engine (STT/TTS/turn-taking) sitting in front of an agent orchestration layer (LLM/RAG/tools), and keeping them separable is what makes wrapping possible.
 - `INS-260421-8004` [high] 4 of 6 speakers at AI Agents SF #12 use graph primitives (Neo4j, FalkorDB, Cognee's own) with vector embeddings layered inside graph nodes rather than as the top-level store.
+- `INS-260627-A698` [high] A self-updating model of actual deployed systems and their drift — reality, not the wiki — is the precondition for data-backed architecture decisions instead of planning by opinion.
 - `INS-260404-5440` [high] Fortran's expression/statement distinction existed because of punch cards, but persisted in languages long after that constraint vanished.
 - `INS-260605-90FB` [high] Human turn-taking needs the full STT→LLM→TTS loop under ~200ms, but a fast TTS alone is already >200ms, so cascaded systems can't sound human.
 - `INS-260625-DCE4` [high] Most sandboxes start from a full VM and add security around it; the safer model starts from nothing — only JavaScript, no fetch, no env vars — and grants explicit capabilities.
@@ -76,6 +79,7 @@
 - `INS-260605-ACCD` [high] Cascade speech-to-text, an LLM, and text-to-speech as separate orchestrated models, because unified speech-to-speech models can't yet follow instructions or call tools reliably enough for production.
 - `INS-260501-8A1F` [high] AlphaFold won't be absorbed into Gemini — Gemini will call AlphaFold as a tool. That's the architecture for AGI.
 - `INS-260514-AE82` [high] Harness engineering (system-prompt design, tool-call orchestration) can lift a model's performance 30-40% — invest there before chasing a better model.
+- `INS-260627-342A` [high] In both self-driving and agents the model is roughly 1% of the work and the offline stack is the other 99%, so invest there to ship reliably.
 - `INS-260605-CA2B` [high] Replay-based durable execution suits bounded start-to-end workflows, but an agent is a long-lived session whose ever-growing replay journal eventually exceeds the system's entry-count or entry-size limits.
 - `INS-260410-346B` [high] If losing a single container loses the session, you have adopted a pet — externalize state so any component can die and be replaced without human nursing.
 - `INS-260625-D1D5` [high] Validate inputs, grant least privilege, and draw boundaries — treat content from strangers as evidence not instructions, and wall risky actions behind your approval to reduce the blast radius.
@@ -123,10 +127,12 @@
 - `INS-260605-BECA` [medium] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - `INS-260605-D0C0` [medium] Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
 - `INS-260626-5B28` [medium] Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
+- `INS-260627-A81B` [medium] Because LLMs are non-deterministic with an enormous state space, formal methods, model checking, and type systems have essentially no bearing on prompt-driven software — but LLMs' tolerance for unanticipated inputs creates a new resilience worth designing around.
 - `INS-260605-E174` [medium] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - `INS-260404-E91F` [medium] Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.
 - `INS-260625-057C` [medium] In a Recursive Language Model the context itself is the object of computation — the prompt is a variable in a REPL, not text read into the window.
 - `INS-260605-E023` [medium] MCP Apps put interactions on a spectrum — notification (UI keeps most control), tool call (UI directs the host), prompt (UI cedes all control) — making the control tradeoff explicit.
 - `INS-260626-39CE` [medium] OpenGov modeled their back-end agent routes on Google's A2A protocol, using the rigorous spec as the contract that drove front-end/back-end alignment.
 - `INS-260605-B176` [medium] The same question means different things from different people, and when main-branch code conflicts with a CTO's Slack message, a social graph lets the system pivot on identity and weigh the CTO as the authority.
+- `INS-260627-3D38` [medium] ColPali-style retrieval embeds whole pages as images, avoiding the lossy step of segregating text, tables, and images that fails on scanned forms, IKEA-style manuals, and image-embedded PDFs.
 - `INS-260605-4B12` [low] Agents are fluent with Linux file navigation, so exposing your docs as a remote filesystem (e.g. over SSH) may beat hoping they fetch the right URL.

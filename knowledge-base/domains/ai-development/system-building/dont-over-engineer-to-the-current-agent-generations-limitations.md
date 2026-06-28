@@ -76,7 +76,7 @@ related:
   - INS-260410-43E4
   - INS-260424-4111
   - INS-260424-9544
-  - INS-260501-E377
+  - INS-260501-DC5D
 ---
 A practical warning from someone who spends heavily on coding agents: the strong temptation is to build elaborate scaffolding around the current model generation's specific failure modes — prompt gymnastics, guardrails, workarounds for known weaknesses. The caution: that investment depreciates fast. A new generation arrives in roughly three months that doesn't have those problems (and introduces new ones), so the workarounds become dead weight or active impediments.
 

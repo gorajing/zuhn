@@ -51,10 +51,10 @@ stance: >-
   for active AI management.
 related:
   - PRI-260406-C4D0
+  - INS-260627-24EB
   - INS-260602-EA48
   - INS-260626-05D4
   - INS-260325-EE14
-  - INS-260627-84F1
 evidence:
   - id: INS-260323-05B5
     type: EXTENDS

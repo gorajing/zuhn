@@ -5,6 +5,7 @@
 - `INS-260409-56A3` Enterprise buyers are asking for natural-language 'shims' that strangle existing SaaS UIs and let agents handle the backend complexity, collapsing the defensibility of UI-layer SaaS products.
 - `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
 - `INS-260603-B7BA` Harvey (keynote, ~30yr enterprise software): no Fortune 500 switches off Salesforce despite bad UX because switching cost is enormous — but swapping Anthropic→OpenAI→Google is cheap (not zero, but low), so when Codex pushed hard on price/perf, 'many companies switched in a split second' as a top-down decision.
+- `INS-260627-0CF8` The frontier capability is not a chatbot with tools but a chatbot that writes the tools it doesn't yet have, on demand, per customer.
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
 - `INS-260403-CC59` ERP systems are unbundling into specialized tools, opening market entry windows for focused startups.
 - `INS-260423-EFC0` Chamath: org charts are a vestige of enterprise software sold to somebody — they celebrate the politician, not the technical genius.

@@ -22,17 +22,17 @@
 - `INS-260626-EA1D` Engineering difficulty used to gate bad ideas; once AI removes that gate, taste and saying no become the differentiator.
 - `INS-260605-4FE3` Frontier models are good enough; the gap is how organizations operationalize expert judgment around them.
 - `INS-260412-1F14` AI displacement follows a clear sequence — translation professionals fell first, then artists, with white-collar knowledge workers next in line.
+- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
 - `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260411-2B1D` The value stick (WTP minus Price minus Cost minus WTS) breaks value creation into consumer surplus, firm value, and supplier surplus, revealing precisely where a company's strategy creates and captures value.
-- `INS-260411-CBCF` Interbrand's top 25 global brand rankings show weak correlation with ROIC-WACC spreads, proving that brand recognition alone does not constitute a competitive advantage.
-- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
 - `INS-260411-FE7B` The capital requirements for AI infrastructure, supply chain resilience, and government capabilities are raising barriers to entry and making scale advantages more durable, not less.
+- `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
+- `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
 - `INS-260403-CDC9` Winning deals matters more than picking them because access compounds faster than analytical skill.
 - `INS-260403-F642` Nearly 300 private capital professionals report firms doubling down on data consolidation and AI to sharpen sourcing and evaluation as a competitive differentiator.
 - `INS-260403-A7D6` Fixing deal-breakers others walk away from is the most defensible form of VC value-add.
-- `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
-- `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
 - `INS-260410-F5B6` Nike pioneered Asian outsourced manufacturing and then was caught completely off guard by the sweatshop labor crisis that its own strength invited.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
 - `INS-260329-93AE` Stop treating goal-setting as a strategy — focus instead on committing to the daily activities that produce goals, since everyone already shares the same goals.
@@ -100,13 +100,13 @@
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260412-FB49` Apple's iPhone profits funded chip R&D that improved 300% in five years while Intel improved only 28%, demonstrating how adjacent-market cash flows can fuel disruption.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260403-E099` Top builders embed AI into daily workflows through small systems while others wait for clarity, creating a compounding execution gap.
 - `INS-260323-8392` Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260330-7CC0` Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260410-D926` Rolex's 30% market share isn't the result of a single bold contrarian bet — it's the compound interest of making logical decisions (hold prices in 2008, maintain mechanical focus in 1980, standardize global SKUs) while Omega and peers made panicked ones.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
 - `INS-260403-6D4F` The founders who achieve outsized outcomes are distinguished primarily by their refusal to quit during the inevitable multi-year low points, not by superior initial vision.
@@ -120,10 +120,10 @@
 - `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260412-F414` Aircraft carriers restock fuel, food, and mail while underway, avoiding the vulnerability of port stops — a pattern applicable to any organization that cannot afford downtime.
 - `INS-260403-1D92` When AI makes building cheap, taste and design become the scarce differentiator.
-- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
-- `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
+- `INS-260403-868F` Spending tens of hours on primary research per post produces insights readers can't find elsewhere, which is what makes content worth sharing.
+- `INS-260412-1358` When US automakers downsized cars after the 1970s oil crisis, cost-cutting degraded their quality — while Toyota's systematic Total Quality Control maintained standards at any scale.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260625-B17D` Big labs have an obligation to do many things and therefore can't focus, so a startup with domain expertise and focus can run laps around them in a vertical.
 - `INS-260403-CC97` Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.

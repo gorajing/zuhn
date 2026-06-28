@@ -48,10 +48,10 @@ resolutions:
     never interesting for software) is the opportunity.
 related:
   - INS-260327-89AE
+  - INS-260627-D580
   - INS-260410-BB93
   - INS-260404-016F
   - INS-260403-EDFB
-  - INS-260530-18D5
   - INS-260403-204E
   - INS-260404-277E
   - INS-260501-DAD0

@@ -49,6 +49,7 @@ related:
   - INS-260403-9BBA
   - INS-260403-EF20
   - INS-260327-9EFE
+  - INS-260627-3245
 stance: >-
   Natural language interfaces change who can program a robot, not just what it
   can do

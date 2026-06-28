@@ -65,6 +65,7 @@ related:
   - INS-260325-4FF3
   - INS-260410-C022
   - INS-260625-2906
+  - INS-260627-AC65
 ---
 The dominant pattern for agent capability is the tool call: each API becomes a named function with a schema the model must read and select. This scales badly — Cloudflare's full surface is ~2,600 endpoints, and stuffing those into a tool list bloats context and degrades selection. 'Code mode' inverts it: instead of N tool definitions, give the model a code-execution primitive and let it write a short program that calls whatever endpoints it needs. The claim is that all 2,600 endpoints become reachable in roughly 1,000 tokens.
 

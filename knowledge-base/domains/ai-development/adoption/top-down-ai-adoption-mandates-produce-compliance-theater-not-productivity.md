@@ -53,8 +53,8 @@ stance: >-
   Mandating AI-tool adoption from the top destroys the signal it's meant to
   create; psychological safety and protected time to learn drive real adoption.
 related:
-  - INS-260323-9492
   - INS-260403-A9CC
+  - INS-260627-8DBA
   - INS-260626-AE0C
   - INS-260321-1A0B
   - INS-260404-8E0D

@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260323-2E51
   - PRI-260328-A65A
-  - INS-260501-5582
   - INS-260603-73D5
   - INS-260605-A847
   - INS-260605-2D70
@@ -56,5 +55,6 @@ related:
   - INS-260626-5053
   - INS-260626-8080
   - INS-260627-765B
+  - INS-260530-D34F
 ---
 When you drive nearly all your edits through an agent panel and barely touch the code manually, your editor becomes a reader more than a writer, and you spend most of your time doing code review. That review effort is precisely what caps how many agents you can run concurrently — it is the bottleneck preventing a developer from 2-3x'ing their parallel agent count. The strategic response is to invest in review-specific tooling: a custom diff viewer built for how people consume agentic output, arbitrary commit-range selection, editable diffs with full code navigation (go-to-definition, find-references), and a guided 'tour of the change' that tells the reviewer which files to read first — because half the battle in reviewing a large change is figuring out where to start. As generation gets cheap, the leverage shifts to making human verification faster.

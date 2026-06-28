@@ -53,7 +53,7 @@ related:
   - INS-260603-C8AF
   - INS-260626-C51E
   - INS-260403-E5D4
-  - INS-260410-699C
+  - INS-260627-D73F
 ---
 The context window is the model's working memory — everything in it gets attended to during next-token prediction. Karpathy points out two costs to letting conversations grow: (1) irrelevant tokens from earlier topics can distract the model and measurably degrade accuracy on the current task, and (2) every additional token makes sampling the next token slightly more expensive and slower. Users default to treating chats like Slack threads, but the correct mental model is closer to RAM: load only what the current task needs.
 

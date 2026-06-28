@@ -43,7 +43,6 @@ stance: >-
   foundations and adding proprietary value at the specificity layer, not by
   replacing OSS entirely.
 related:
-  - INS-260327-26BF
   - PRI-260328-5464
   - INS-260410-49D7
   - PRI-260328-FD47

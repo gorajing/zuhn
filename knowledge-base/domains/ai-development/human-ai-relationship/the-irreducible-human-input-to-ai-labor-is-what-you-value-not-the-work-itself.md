@@ -57,7 +57,6 @@ stance: >-
   becomes communicating your values, taste, and standards — not doing or even
   directing the tasks.
 related:
-  - INS-260330-1282
   - INS-260402-9DBC
   - INS-260405-5B4D
   - INS-260327-1795

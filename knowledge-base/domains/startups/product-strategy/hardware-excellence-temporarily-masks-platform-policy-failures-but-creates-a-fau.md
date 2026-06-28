@@ -54,6 +54,7 @@ related:
   - PRI-260403-2024
   - INS-260405-ABE0
   - INS-260330-CCF0
+  - INS-260627-DC49
 evidence:
   - id: INS-260329-CD02
     type: CHALLENGES

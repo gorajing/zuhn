@@ -46,7 +46,7 @@ related:
   - INS-260321-A56C
   - INS-260627-8738
   - INS-260627-01E1
+  - INS-260627-FAFC
   - INS-260626-8C66
-  - INS-260625-D729
 ---
 The same Run-and-Rotate policy, trained for chemotactic navigation, is reused without retraining for targeted blocking and unblocking of simulated capillary flow. The intervention is specified by placing chemical sources; the policy only follows local gradient changes. That is the field-specific mechanism: task programming shifts from rewriting controllers to shaping the signal landscape. For system builders, this resembles designing stable primitives whose goals are retargeted through configuration, constraints, or external state rather than new training runs.

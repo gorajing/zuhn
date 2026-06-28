@@ -42,10 +42,10 @@ stance: >-
   extraction discards.
 related:
   - INS-260409-EA75
+  - INS-260627-3D38
   - PRI-260406-E880
   - INS-260403-D20A
   - INS-260605-1C4E
-  - INS-260409-003A
 ---
 The LlamaIndex segment framed document processing as a prerequisite for agents that reason over company knowledge. Most knowledge is not in clean tables; it lives in PDFs, contracts, spreadsheets, slide decks, and scans. To code, a PDF is often just a digital printout with no explicit paragraph boundaries, table semantics, or reading order.
 

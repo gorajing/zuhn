@@ -50,9 +50,9 @@ resolutions:
 related:
   - PRI-260323-2E5A
   - INS-260403-9A0C
+  - INS-260627-8DBA
   - INS-260403-2A0F
   - INS-260403-29AC
-  - INS-260627-DA32
   - INS-260322-D7B1
   - INS-260410-A365
 stance: >-

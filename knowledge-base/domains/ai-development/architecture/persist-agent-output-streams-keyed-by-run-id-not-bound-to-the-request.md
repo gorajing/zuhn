@@ -64,10 +64,10 @@ stance: >-
 related:
   - INS-260605-E16A
   - INS-260625-B67E
+  - INS-260627-44FD
   - INS-260627-AA19
   - INS-260627-F5A8
   - INS-260624-5ACA
-  - INS-260410-0E26
 ---
 In a naive agent server, the response stream lives and dies with the API handler: lose the connection and you lose the session. The workflow model decouples them. Calling `getWritable()` creates a stream associated with the workflow's run ID — backed by a file in local dev, by something like Redis in production — that any step can write to and any client can attach to. The run ID is returned to the UI (e.g., as a header), and a dedicated reconnect endpoint streams from the stored stream, optionally from a given chunk index so a client can resume mid-stream.
 

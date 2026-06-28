@@ -50,11 +50,11 @@ stance: >-
   agents can call them reliably.
 related:
   - INS-260323-7424
-  - INS-260603-6FE3
   - INS-260605-E706
+  - INS-260627-E230
+  - INS-260603-6FE3
   - INS-260627-214C
   - INS-260625-B985
-  - PRI-260405-3080
 ---
 Most enterprise APIs are not 'agent ready' — they lack the rich, accurate specifications an LLM needs to understand how to interact with them, because documentation has always been a P2 afterthought for engineers. When an agent tries to call such an API, it starts hallucinating parameters or the call simply fails. You cannot run a governed, enterprise-scale AI product if humans must constantly hand-update docs to keep agents working.
 

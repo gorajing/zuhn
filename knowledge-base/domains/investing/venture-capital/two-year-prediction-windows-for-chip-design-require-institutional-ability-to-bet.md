@@ -58,11 +58,12 @@ stance: >-
   DeepMind, OpenAI research) — companies without research depth cannot make
   these bets reliably and will buy commodity silicon at higher cost
 related:
-  - INS-260325-2FC1
   - INS-260424-7A03
   - INS-260424-9760
+  - INS-260325-2FC1
   - INS-260410-8767
   - INS-260424-0554
+  - INS-260627-AAC2
   - INS-260501-9C3F
   - INS-260501-1FC3
   - INS-260505-058D

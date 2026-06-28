@@ -14,6 +14,7 @@
 - `INS-260626-983E` The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260627-1319` Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
 - `INS-260605-BA6A` What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
+- `INS-260627-AAC2` Only ~44% of companies have touched autonomous agents in the last 3 months — mostly experimentation — amounting to under 2% of merged PRs, while interactive tools like Copilot, Cursor, and Claude Code produce the measured 2x gains.
 - `INS-260626-9732` When agents cross the ~5-minute run threshold, the job becomes parallel-managing multiple agents while minimizing brain-frying context switches.
 - `INS-260605-A28F` Invest in stable sandboxes, retry policies, and noise reduction rather than elaborate agent scaffolding, since modern models already use simple tools well.
 - `INS-260325-D540` Expert developers already use different coding agents for ideation, testing, and debugging — not one agent for everything.
@@ -23,6 +24,7 @@
 - `INS-260627-0D20` Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - `INS-260605-6444` Point a coding agent (with an 'observe' skill) at a bare agent endpoint and it generates an eval dataset, runs a baseline batch eval, optimizes the prompt, and versions/rolls back automatically.
 - `INS-260605-9523` Add the dependency's source as a squashed git subtree in your repo so the agent extracts patterns from real code instead of relying on docs or MCP servers it was never trained to use.
+- `INS-260627-4CF5` Building the model and the harness together gives you tacit knowledge of the model's habits that an external harness-builder has to reverse-engineer.
 - `INS-260626-CC4A` Record harness adapter identity whenever comparing agent runs.
 - `INS-260626-8C3C` Five minutes of planning saves roughly thirty minutes of reviewing AI-generated code.
 - `INS-260625-814D` Before invoking a coding agent, verify the problem is specific enough to act on — otherwise the agent will 'fix' something arbitrary and produce noisy PRs.
@@ -40,6 +42,7 @@
 - `INS-260325-031F` Linda from Minimax outlined three coding eras: GUI copilots where humans supervise, CLI agents where humans trust but cannot inspect every step, and fully autonomous agents spawning sub-agents.
 - `INS-260605-E2D9` Wrap your eval suite in a small CLI (list/add/edit/replace test cases) so agents can manipulate it without boosting megabytes of YAML into context.
 - `INS-260605-AFCF` Each capability jump produced a new cheating route — reading future git history, then a web-fetch tool, then curl — so eval sandboxes must be hardened against information leakage, not just task difficulty.
+- `INS-260627-3245` Self-driving reached production while the rest of robotics stalled because cars ship with predefined controls and built-in telemetry — use the presence of such an interface as a filter when choosing agent domains.
 - `INS-260627-045B` In 2026 the question stopped being 'can AI code my app' and became 'how do I configure skills to get the best results' — the differentiator is tooling, not the model.
 - `INS-260626-C563` Agent rules files deserve hashes, provenance, and review because they are executable influence over tool-using agents.
 - `INS-260603-50B1` Harvey (keynote, ~1500 engineers): 'I don't even know how to measure their performance or efficiency gain' in tokens — coding agents matured too fast, decades of software-engineering practice got thrown out, and the heuristic floated (a $500K engineer should consume ~$250K in tokens) is roughly right for many companies but nobody actually knows.
@@ -50,7 +53,10 @@
 - `INS-260325-3F86` AI self-improvement is real but narrow: coding agents improving AI systems create genuine recursive loops.
 - `INS-260626-13FB` Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260626-14E0` Don't tell the agent the whole destination at once; lead it through discovery steps so 15,000 runs converge on a supportable handful of patterns instead of 15,000 unique ones.
+- `INS-260627-2BA7` Reusing another model's prompts and over-instructing thoroughness can make a capable model slower and worse, not better.
 - `INS-260627-B072` The long, leaked system prompts of Claude/Cursor/Cline aren't static — they're repeatedly iterated, and that iteration is what makes top coding agents succeed.
+- `INS-260627-C7D2` Treat the vendor's harness as a new abstraction layer so model upgrades stop forcing prompt and tool rewrites, and spend the saved effort on your product.
+- `INS-260627-A842` Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
 - `INS-260605-50FB` Bundling a coding-agent skill and Shadcn/Vercel-style UI components lets a developer point their coding agent at the repo and convert a chat agent to voice in roughly one prompt.
 - `INS-260605-9CE2` Use freshly collected post-training-cutoff problems each evaluation cycle, because any released benchmark eventually leaks into the next model's pre-training set.
 - `INS-260605-4A94` Report tokens-per-problem, tries-per-problem, and multiple runs to expose pass@5 (potential) and pass-all-5 (reliability) alongside the mean.
@@ -60,3 +66,4 @@
 - `INS-260626-B449` Despite many generated and developer context files including overview sections, agents did not interact with relevant patch files sooner.
 - `INS-260626-F3AC` If the agent must call the trace tool itself, the control plane can flag missing links later but cannot prevent the edit upfront.
 - `INS-260627-8735` The useful artifact is the parseable evidence block, not just the explorer's explanation.
+- `INS-260627-4253` A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.

@@ -15,6 +15,7 @@
 - `INS-260605-61D9` The shared-nothing 'request + DB = response' paradigm that ran backends for 30 years is giving way to stateful compute, because agents carry meaningful state in the compute layer itself.
 - `INS-260625-25AC` The valuable layer to own in agent infrastructure is the uniform interface that maps every harness and model to one API, so swapping them doesn't break sessions.
 - `INS-260625-E4F0` Running a separate search platform forces ETL pipelines, duplicate copies, and stale results — co-locating search inside the operational database eliminates that entire tax.
+- `INS-260627-342A` In both self-driving and agents the model is roughly 1% of the work and the offline stack is the other 99%, so invest there to ship reliably.
 - `INS-260626-FEA0` Every good MCP server helps all agents in the company, so infrastructure that lowers the cost of building servers yields compounding, not linear, returns.
 - `INS-260625-A503` Railway's payback period on owned metal versus renting the equivalent cloud capacity is ~3 months against 4 years of depreciable hardware, yielding ~70% metal margins that can subsidize cloud bursting.
 - `INS-260405-3061` ChatGPT's retention improves after month one, bucking the typical viral app decay curve as users embed it into daily work.
@@ -52,19 +53,19 @@
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260325-5CB1` Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
 - `INS-260405-E34C` Doorways, staircases, and tools are built for human dimensions — a humanoid robot inherits compatibility with all existing infrastructure at no cost.
+- `INS-260329-C754` Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital.
+- `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
+- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
+- `INS-260403-A691` Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue, concentrating RPO risk in a single customer.
 - `INS-260405-ECD2` Retail food prices are the last output of an infrastructure system shaped far upstream by inputs, water, labor, and policy.
 - `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-6DD9` Heathrow's $19 per-passenger cost is covered by $29 in airline fees plus $13.32 in retail, but retail is where the margin lives.
 - `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
 - `INS-260405-7576` Data center capex is matching dot-com-era contributions to GDP growth, raising legitimate bubble-pattern concerns.
 - `INS-260412-3A35` The electrical revolution created a startup investment bubble far exceeding the 1990s dot-com bubble in relative economic impact.
+- `INS-260405-39FA` When Mastercard formalizes a 85-firm coalition including Circle, Binance, and PayPal around stablecoin payments, it's infrastructure convergence, not a pilot program.
 - `INS-260412-C668` Drought in Panama restricts canal throughput by limiting lock water, directly impacting global shipping costs and schedules in ways disconnected from the drought's geographic location.
 - `INS-260412-021A` EV cost and range already meet consumer tipping-point thresholds, but charging speed and station density do not.
-- `INS-260405-39FA` When Mastercard formalizes a 85-firm coalition including Circle, Binance, and PayPal around stablecoin payments, it's infrastructure convergence, not a pilot program.
-- `INS-260329-C754` Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital.
-- `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
-- `INS-260404-2F49` Coinbase's standardization of USDC as the core funding rail across all products is more strategically important than any individual product launch.
-- `INS-260403-A691` Oracle's $300B OpenAI deal dwarfs OpenAI's $12.7B projected revenue, concentrating RPO risk in a single customer.
 - `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
 - `INS-260403-8991` Equity tokens address 24/7 trading, reduced settlement friction, and democratized private market access as a bundled value proposition.
 - `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
@@ -78,8 +79,6 @@
 - `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy.
 - `INS-260322-B8E6` Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
 - `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
-- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
-- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260412-F17D` Russia's Siberian airspace control lets it extract ~$100/ticket on Europe-Asia routes by being the only direct path between $20T+ economies.
 - `INS-260327-B064` 92% of Americans depend on cars for daily life because of car-centric infrastructure, but cars have become so expensive that responsible ownership is beyond reach for growing millions.
 - `INS-260403-0789` China installed more solar in one year (278GW) than the US has installed all-time (177GW), creating a structural energy advantage for AI compute.
@@ -100,6 +99,8 @@
 - `INS-260403-6016` US electricity generation has flatlined at ~4,000-4,200 TWh since 2000 after a century of exponential growth, creating the decade's biggest infrastructure bottleneck.
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
 - `INS-260412-CC17` Earth's atmosphere silently prevents nuclear shockwaves from being replaced by worse unimpeded radiation — we only notice this protection by imagining its absence.
+- `INS-260403-7483` Recent $100M+ AI rounds center on infrastructure and inference startups rather than general-purpose model builders.
+- `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260412-8F97` Regardless of the triggering catastrophe, infrastructure collapses in a predictable sequence determined by dependency chains — ports first, then communications, then energy, then food supply.
 - `INS-260412-8401` Peachtree, Georgia built 90 miles of golf-cart roads, and the infrastructure itself — not any mandate — transformed golf carts from novelty into a community identity where 12-year-olds commute to school.
 - `INS-260409-3E53` CERN's BASE team built a portable antimatter trap — not because CERN couldn't do more experiments, but because background magnetic noise at CERN itself capped precision.
@@ -121,12 +122,12 @@
 - `INS-260403-F4D3` Plausible alternatives erode incumbent control more effectively than head-on competition because they expand buyer optionality without triggering defensive responses.
 - `INS-260403-D8C1` Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260412-D103` Bitfinex's reliance on BitGo to secure user wallets created the single vulnerability that enabled the entire $4.5B hack.
-- `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260412-2EA9` The Northeast Corridor's 1800s rail layout created such dense development around it that rebuilding straighter high-speed tracks is now prohibitively expensive.
 - `INS-260412-F93A` F1 forbids teams from touching freight until all teams' equipment has arrived, ensuring no one gets a head start on assembly.
 - `INS-260403-F4D7` Best-in-class infrastructure components are now commodity plug-and-play, so building custom infra is almost always wrong for early-stage startups.
 - `INS-260412-8780` China built more high-speed rail than the rest of the world combined not through superior technology but by making it the government's top priority.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
+- `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260403-86BF` MUMPS fused three layers into one, making healthcare IT migration an all-or-nothing proposition that no one has attempted.
 - `INS-260405-85B5` EHRs serve billing and compliance, not communication — the gap between their purpose and provider needs is where healthcare AI value concentrates.
 - `INS-260626-A922` Agent Mail won by building email designed for agents instead of fighting Gmail's anti-automation defenses.

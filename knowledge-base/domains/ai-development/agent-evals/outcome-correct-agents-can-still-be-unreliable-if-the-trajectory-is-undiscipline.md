@@ -48,11 +48,11 @@ stance: >-
   because final success can hide brittle trial-and-error behavior that will not
   generalize in production.
 related:
-  - INS-260410-A27C
   - INS-260501-3502
+  - INS-260410-A27C
+  - INS-260627-1443
   - INS-260605-C436
   - INS-260410-3601
-  - INS-260501-9465
 ---
 RigorBench formalizes a gap in coding-agent benchmarks: most score whether code passes tests or resolves an issue, but not whether the agent planned, verified, recovered, abstained, or preserved codebase health along the way. The same green result can come from a targeted hypothesis plus regression test or from random patch churn that happens to satisfy a weak oracle.
 

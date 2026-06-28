@@ -49,7 +49,7 @@ related:
   - INS-260501-8A1F
   - INS-260605-E7AD
   - INS-260403-A2E9
+  - INS-260627-5482
   - INS-260326-163A
-  - INS-260514-7628
 ---
 Even with Holtz writing almost no code by hand, he insists humans owned the core abstractions of Conductor — the 'workspace' concept (a wrapper around a git work tree), the three-pane layout, and details as small as how the 'open in' button behaves. His claim is that letting the AI make architecture and UI choices produces software that 'just doesn't feel crafted,' and craft is a competitive moat. The discipline he'd push further: build the core around human-written APIs and contracts the AI contributes to minimally, then carve out large free-reign regions where the AI can experiment without touching core infrastructure. The boundary between human-owned core and AI-free-reign periphery is the key architectural decision, and getting it explicit (rather than murky) is itself ongoing human work.

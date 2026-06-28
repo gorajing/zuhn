@@ -3,6 +3,7 @@
 - `INS-260626-8747` Starting evals in a spreadsheet is the right first move, but it's documenting, not experimenting — it can't compare experiments over time, run analytics, or bring non-technical SMEs into the loop.
 - `INS-260605-A03E` Evals and observability are the same scoring problem — evals just know the inputs ahead of time and run in batch, while observability scores unknown inputs in real time.
 - `INS-260505-82B8` A digital brain that predicts neural activity lets you run millions of years of experiments in days, then close the loop with real validation.
+- `INS-260627-01CF` Requiring tasks and rewards up front converts an agent harness into a proper eval, replacing 'build it, try it, ship it' with measurable experimentation across models and hyperparameters.
 - `INS-260625-2906` Treat tokens as free while experimenting — run the agent on the same problem 100 times to surface patterns, then distill the expensive step into a one-shot call or a trained model.
 - `INS-260320-7682` Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
 - `INS-260627-51D0` Because code is now cheap, replace the memo-and-deck approval ritual with building a quick demo, which lowers activation energy enough to pursue weirder, riskier ideas.
@@ -19,21 +20,19 @@
 - `INS-260325-A006` Experimental archaeology hasn't solved how the pyramids were built, but it has definitively ruled out ramp theories -- the ramps would require more material than the pyramids themselves.
 - `INS-260323-AEA7` Michelson and Morley built the most precise instrument of their era, found no evidence of the ether, and believed their own experiment had failed -- because the null result contradicted consensus so deeply.
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
-- `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
-- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260403-E63B` Lenny had no plan for the newsletter but weekly consistency for 18 months made the path obvious.
 - `INS-260410-161E` Rolex's Tudor sub-brand is less about downmarket volume and more about testing ideas — ceramic bezels, titanium, new dial colors, Tiger Woods endorsements — that might flop; the phrase is 'the shield protects the crown.'
 - `INS-260410-84DA` Facebook's internal tooling — monolithic codebase with portable engineers, feature flags with auto-rollback, HipHop compiler, Hack language, real-time experimentation — produced a decade of shipping velocity that competitors could not replicate, and it exists because the company built for itself rather than buying off-the-shelf.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260404-3D14` Competitor tactics are outputs of invisible context you don't have — use them for pattern inspiration but run your own experiments.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260404-A46A` Treating projects as experiments ensures you gain knowledge even if the project itself fails.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260404-88D8` If you can't reach statistical significance within a month, use pre/post analysis and trust intuition — waiting for perfect data is its own form of failure.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260410-86A5` YouTube Shorts drove at least half of Dwarkesh's podcast growth — a channel he would never have predicted for a long-form deep-dive AI show.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
 - `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
@@ -63,3 +62,5 @@
 - `INS-260405-9460` Without a structured process to capture what experiments taught you, you run the same tests twice and make the same bets twice.
 - `INS-260405-B673` A flawed experiment doesn't just waste time — it produces misleading signal that can kill a good idea or zombie a bad one.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
+- `INS-260409-6656` Tools that save every render to disk by default convert experimentation into asset accumulation, eliminating the fear of losing a happy accident.
+- `INS-260409-DC8C` Poking at a tool from partial understanding produces happy accidents that full understanding would systematically avoid.

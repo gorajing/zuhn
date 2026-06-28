@@ -65,6 +65,7 @@ related:
   - INS-260405-E4FC
   - INS-260327-0875
   - INS-260412-16CE
+  - INS-260627-C2AF
 ---
 Dwarkesh notes it is 'shocking that a second of context is enough to execute on a minute-long task' — a hand-off that would be impossible for a human with one second of memory. Levine's answer is Moravec's paradox: in AI, the easy things are hard and the hard things are easy. Perception and fine motor control — things humans do effortlessly — are where the heavy lifting actually happens.
 

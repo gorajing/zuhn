@@ -62,10 +62,10 @@ related:
   - INS-260330-CCF0
   - INS-260404-D149
   - INS-260404-177F
-  - INS-260404-4434
   - INS-260403-7D1D
   - INS-260404-D6F7
   - INS-260412-4499
+  - INS-260603-50B1
 ---
 The METER blind study found developers felt 20% more productive but were actually ~20% less productive on existing codebases — and the one genuine outlier was the exception, not the rule. Orosz's interlocutor offers a sharper frame: measuring individual engineer PR throughput is the wrong unit of analysis. The compounding gain appears when you enable non-coding collaborators (PMs, designers, analysts) to write and ship code themselves, removing the engineer as a serialization bottleneck — 'suddenly you have serverless developers.'
 

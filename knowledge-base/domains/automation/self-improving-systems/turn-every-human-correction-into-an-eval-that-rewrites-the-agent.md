@@ -66,7 +66,7 @@ related:
   - INS-260626-9155
   - INS-260627-09D8
   - INS-260605-6444
-  - INS-260403-0350
+  - INS-260627-01CF
 ---
 Franceschi's biggest critique of how companies deploy agents: 'they spend a lot of time getting an agent working but never think about how to make the agent improve every day.' The fix is to make every human interaction become an eval. When Brex's onboarding agent hits a KYC exception it can't resolve, the manual human resolution is captured as a 'breaking change' — a new eval case. When someone has a rough conversation with the expense agent, that flagged issue becomes a bug, and the bug triggers an agent to modify the codebase and prompts to make the eval pass; if the automated fix doesn't work, an engineer steps in.
 

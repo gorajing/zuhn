@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260329-B4E7
   - INS-260605-1FD9
+  - INS-260627-B3FF
   - INS-260530-D34F
   - INS-260327-1FA1
-  - INS-260602-EA48
 ---
 The speakers argue that developers who complain AI 'never gets it exactly right' are mostly missing the skills layer, not hitting a model ceiling. Skills are lightweight, text-format plugins built on an open specification supported by most coding agents; they add domain expertise, new capabilities not built into the agent, and—critically—encode repeatable workflows. Their demo agent used skills for GitHub CLI access, front-end design, Playwright video recording, and a custom Telegram-notification tunnel, all composed into one autonomous feature-implementation flow.
 

@@ -52,11 +52,11 @@ stance: >-
   Products that only achieve functional correctness without emotional resonance
   will lose to competitors who invest in delight at every interaction point
 related:
+  - INS-260627-BF35
   - INS-260329-CEC5
   - INS-260410-5E92
   - INS-260327-F7BD
   - INS-260323-2E49
-  - INS-260522-2CE8
 evidence:
   - id: INS-260321-F864
     type: TRANSFERS_TO

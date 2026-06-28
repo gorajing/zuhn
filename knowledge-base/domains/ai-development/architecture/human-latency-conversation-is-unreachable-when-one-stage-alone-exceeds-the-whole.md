@@ -48,9 +48,9 @@ related:
   - INS-260501-4646
   - INS-260505-8E0B
   - PRI-260406-2D38
+  - INS-260627-A842
   - INS-260605-C9EB
   - INS-260626-0D4B
   - INS-260605-048B
-  - INS-260329-AA2C
 ---
 In human conversation the entire stack of understanding speech, producing an answer, and pronouncing it must complete in roughly 200 milliseconds. Yet even a best-in-class streaming TTS consumes more than 200ms on its own — and that measurement is for pure text-to-text conversation with no tool call and no task performed. The implication is structural, not incremental: you cannot shave your way to human latency in a cascade where one component already blows the whole budget. This reframes the latency problem from 'optimize each stage' to 'the architecture itself caps how natural the interaction can feel,' which is why fundamentally different designs (speech-to-speech, full-duplex) matter rather than faster cascades.

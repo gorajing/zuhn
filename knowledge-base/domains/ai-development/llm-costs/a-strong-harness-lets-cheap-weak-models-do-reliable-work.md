@@ -47,7 +47,6 @@ stance: >-
   A well-built harness makes small or outdated models reliable enough to replace
   expensive frontier models for many tasks.
 related:
-  - INS-260409-0846
   - INS-260626-4E80
   - INS-260625-93FC
   - PRI-260426-890F

@@ -1,9 +1,10 @@
 # Topic: product
 
-> 28 insights
+> 29 insights
 
 - `INS-260403-6CE6` [high] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
 - `INS-260403-8DA1` [high] Never assume other teams see your project as a priority — explicitly demonstrate impact on their specific goals.
+- `INS-260627-115C` [high] Antigravity's edge comes from DeepMind engineers and researchers using it daily, which exposes model gaps at a 'very real level that eval simply can't give you' and feeds research priorities back into the product.
 - `INS-260403-1A08` [high] Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - `INS-260403-1D92` [high] When AI makes building cheap, taste and design become the scarce differentiator.
 - `INS-260412-9657` [high] Solving one bottleneck in a complex system without addressing the whole system just moves the failure point downstream.

@@ -52,10 +52,10 @@ stance: >-
   an opaque model into a steerable product users can correct and control.
 related:
   - INS-260325-175B
+  - INS-260627-805E
   - INS-260329-2EB1
+  - INS-260627-20C1
   - PRI-260406-1A55
-  - INS-260320-D972
-  - INS-260403-A101
   - INS-260625-3E47
 ---
 Historically the user representation was a hidden internal artifact; the recommender inferred your taste and you could only influence it indirectly through behavior. Spotify's taste profile inverts this by exposing the model's understanding of you as legible text and letting you edit it directly — telling Spotify you want more Justin Bieber, or that you dislike a recommended podcast — with that signal flowing back to upgrade the generative model's understanding.

@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 33 insights
+> 34 insights
 
 - `INS-260605-71E7` [high] DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260514-13B6` [high] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
@@ -16,6 +16,7 @@
 - `INS-260330-F493` [high] Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260330-BF2A` [high] Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-9FCF` [high] Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
+- `INS-260627-BF35` [high] Code quality is the sum of stylistic and structural choices a developer accumulates over a career, not whether the code is correct.
 - `INS-260410-06DB` [high] LLMs are ethereal spirits mimicking human internet text, not evolved animals — pretraining is 'crappy evolution' that instills knowledge rather than learning algorithms.
 - `INS-260330-2EC0` [high] On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
 - `INS-260330-FF5B` [high] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.

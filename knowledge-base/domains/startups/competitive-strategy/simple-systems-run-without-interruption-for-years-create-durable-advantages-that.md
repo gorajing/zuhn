@@ -54,8 +54,8 @@ related:
   - INS-260404-82B2
   - PRI-260323-50FE
   - PRI-260406-6B63
+  - INS-260627-115C
   - INS-260403-294D
-  - PRI-260406-2B11
 ---
 Sequoia's competitive advantage isn't any single brilliant practice — it's the compound effect of running multiple simple systems consistently for over a decade. Talent tracking, forced conviction scoring, structured debriefs, cognitive bias catalogs, and graceful pass processes are each straightforward on their own. Together, maintained over years, they create organizational memory and judgment that cannot be replicated by firms who start and stop.
 

@@ -6,6 +6,7 @@
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260410-3271` Jeff Dean envisions a single 'organic blob' model where 100 teams independently train specialized modules (Southeast Asian languages, Haskell reasoning, medical imaging) that attach to a base, with continuous distillation cycling between big exploration and small efficient serving.
 
+- `INS-260627-340A` The 1950s-1980s abstractions — high-level languages, structured programming, modularity — exist to manage scarce working memory, and an LLM's context window is the same scarce resource, so the same disciplines pay off identically.
 - `INS-260627-6C9A` The agent OS should be modular enough to swap models and workloads.
 - `INS-260404-9C57` Photosynthesis converts chaotic photon energy into standardized ATP and NADPH currencies before the Calvin Cycle consumes them, enabling the two stages to evolve independently.
 - `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.

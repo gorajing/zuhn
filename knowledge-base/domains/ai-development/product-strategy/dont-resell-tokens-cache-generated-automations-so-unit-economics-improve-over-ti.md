@@ -66,9 +66,9 @@ related:
   - INS-260625-FE3E
   - INS-260625-E1CB
   - INS-260626-158E
+  - INS-260627-44FD
   - INS-260522-EB3C
   - INS-260329-7B1D
-  - INS-260627-0A69
 ---
 Serval's unit economics look much better than most AI companies because, in Stauch's words, 'we are not in the business of reselling tokens.' Automations are built as TypeScript; once a password-reset workflow is generated, every subsequent reset runs the existing code rather than re-invoking expensive code-gen. Over time users generate less and less new code because a growing library already covers the long tail, so the most expensive token consumption declines per request even with no explicit optimization.
 

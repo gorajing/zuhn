@@ -1,6 +1,6 @@
 # Topic: llm-training
 
-> 102 insights
+> 107 insights
 
 - `INS-260326-8201` [very_high] At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
 - `INS-260625-E292` [high] Two rounds of rejection-sampling fine-tuning let a model generate, filter, and learn from its own tool-use traces, escalating from a small seed set to a large self-curated dataset with no hand-authored tool demonstrations.
@@ -34,6 +34,8 @@
 - `INS-260325-8F49` [high] Hugging Face hosts roughly as many private models as their 1 million public models, created by 350,000 organizations doing custom fine-tuning, evaluation, and reinforcement learning.
 - `INS-260320-C65B` [high] The Smol Training Playbook is a 200+ page open guide covering the full LLM pipeline from strategic planning through post-training, based on training SmolLM3 (3B params, 11T tokens).
 - `INS-260410-E1D9` [high] Imitation learning is RL where the episode is one token long and reward is how well the next token was predicted.
+- `INS-260627-899A` [high] The DAgger/out-of-distribution problem from robotics explains why a browser agent that meets an unseen pop-up gets catastrophically confused: small deviations compound because actions change future states.
+- `INS-260627-D73F` [high] Pipeline RL dedicates separate GPU pools to sampling and training and pushes new weights to samplers mid-sample, so GPUs never wait.
 - `INS-260410-58D6` [high] Pushing weights toward zero makes logits uniform, which makes softmax output a uniform distribution — exactly what adding large fake counts does in the count-based framework.
 - `INS-260327-1631` [high] KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.
 - `INS-260321-1F9F` [high] Scary stories about LLMs trying to deceive or resist shutdown are reflections of training data patterns, not emergent architectural properties — the objective function is purely next-token prediction.
@@ -57,6 +59,7 @@
 - `INS-260322-3616` [high] Supervised fine-tuning only changed tone and instruction-following; reinforcement fine-tuning lets companies train models to domain-expert level on their proprietary data, creating the first real moat from model customization.
 - `INS-260410-8E1C` [high] RL broadcasts a single final-reward bit across an entire trajectory, upweighting tokens from wrong paths that happened to end in the right answer — it's terrible, just less terrible than imitation.
 - `INS-260410-46CA` [high] Capabilities unlock domain by domain based on how cleanly you can construct a verifiable reward signal, not on general intelligence improvements.
+- `INS-260627-C44E` [high] A Qwen 3 4B model went from 55% to 89% on a Wikipedia-search task after RL in a focused environment, matching GPT-4.1 and a GPT-5-mini-class reasoning model.
 - `INS-260627-EEDE` [high] SFT makes a model imitate curated examples and stay near their distribution; RLVR lets it explore its own trajectories and discover strategies better than any human example provided.
 - `INS-260412-9777` [high] ChatGPT's RLHF training produced a model 100x smaller than GPT-3 but with better performance, proving human feedback matters more than raw scale.
 - `INS-260321-8C35` [high] AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
@@ -84,6 +87,7 @@
 - `INS-260410-AA93` [medium] Karpathy matches GPT-2 124M HellaSwag on 10B tokens of FineWeb-Edu and nearly matches GPT-3 124M on 40B — versus 100B and 300B for the originals respectively.
 - `INS-260501-EBDD` [medium] Don't back-prop through all 16 recursion steps; do them, then back-prop through just the last one — fixed-point iteration in latent space.
 - `INS-260625-57C1` [medium] Distribution-based distillation (match where the teacher ends up) currently yields better quality than trajectory-based distillation (mimic each denoising step), and hybrids of the two give the best stability-quality balance.
+- `INS-260627-DF51` [medium] SFT-era fine-tuning died on the difficulty of creating labeled examples; environments sidestep this by asking only for a way to score outcomes, so data is created on the fly during training.
 - `INS-260403-F4C7` [medium] Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 - `INS-260625-B5AD` [medium] Partners increasingly find base models 'work too well out of the box' for general tasks, so fine-tuning excitement has shifted from behavior-shaping to injecting domain data the model lacks.
 - `INS-260605-C627` [medium] You can tell a coding agent 'train Qwen on this dataset' and a Skill does the VRAM/batch-size/cost napkin math and launches the job for you.
@@ -97,6 +101,7 @@
 - `INS-260403-CDB9` [medium] Proprietary real-time data sources like social media feeds create defensible advantages over competitors relying on static web scrapes.
 - `INS-260403-CDB0` [medium] DeepSeek's R1-Zero model learned complex reasoning entirely through reinforcement learning without human data, discovering novel problem-solving approaches.
 - `INS-260605-564D` [medium] Prompting, SFT, and RL all steer model behavior, but RL integrates feedback as a reward signal by design and reaches the same quality with a much smaller model.
+- `INS-260627-D580` [medium] Cursor isn't trying to build AGI — they applied RL with high-quality data and 'a decent amount of compute' to one narrow task (coding) and got a model close to the frontier, suggesting RL on specialized verticals is a viable path for non-frontier labs.
 - `INS-260410-656B` [medium] Going from 3 to 8 characters of context in the same flat MLP moved validation loss from 2.10 to 2.02 — a bigger gain than the later hierarchical WaveNet rewrite produced at matched parameter count.
 - `INS-260605-3860` [medium] The cues that reveal a speaker is uncomfortable or challenging are present in speech-to-speech input but get ignored if the model was trained on audio-fied factual Q&A that never needed them.
 - `INS-260409-8D86` [medium] The 'scale to AGI' strategy depends on Hinton and Sutskever's hypothesis that brains are statistical engines — a hypothesis neuroscientists actively dispute.

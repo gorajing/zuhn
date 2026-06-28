@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260405-567D
   - INS-260625-9228
+  - INS-260627-AAC2
   - INS-260424-2F93
   - INS-260522-2CE8
-  - INS-260409-647D
 ---
 Observation across the healthcare/AI talk and lightning talks: the methodological sophistication of student-led work has risen sharply. RL off-policy evaluation with valid confidence intervals (CPGen, DRPPI). Causal text-effect estimation with residualization. Terminal-Bench Science as a community benchmarking effort. CDP-scale climate corpus analysis with state-of-art language models. This is research-frontier work being done in 5-minute lightning-talk slots by graduate students. Implications: the talent floor at top universities for AI+domain research has risen substantially in 2025-2026.
 

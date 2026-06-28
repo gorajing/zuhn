@@ -1,6 +1,6 @@
 # Topic: embeddings
 
-> 31 insights
+> 32 insights
 
 - `INS-260330-4B84` [high] Every vector maps to exactly one coordinate tuple and vice versa — this bijection is what makes embedding spaces work.
 - `INS-260625-3A20` [high] Exact KNN works great for small corpora, highly-filtered result sets, and partitioned queries; reach for approximate (ANN) indexing only when vector search is your primary mechanism over a large corpus.
@@ -31,5 +31,6 @@
 - `INS-260409-3230` [medium] Jerry Liu: fine-tuning embedding models 'you're going to have to reindex all your documents. For a lot of people, that's not feasible' — and the performance gains are typically modest (~5-10%), not large enough to justify the full-corpus reindex that fine-tuning requires.
 - `INS-260605-FB77` [medium] Repos with strong function-level comments showed a big retrieval boost because embedding the bytes is easy — extracting the chunk's true meaning is the bottleneck, and comments hand it over.
 - `INS-260625-1022` [medium] Semantic search gave Cursor 12.5–13.5% answer-accuracy gains across models (≈24% on the pre-Composer-2 model), yet online AB metrics looked small (2.6% retention, 2.2% fewer dissatisfied requests) only because most queries don't trigger the tool.
+- `INS-260627-1589` [medium] MaxSim scoring — dot-product every query token against every page patch, take the max per token, sum them — ranks pages by whole-query relevance rather than single-keyword presence.
 - `INS-260605-0C13` [medium] On benchmarks like MTEB, open-source models tuned for narrow tasks beat managed services, and low-parameter models (e.g. Gemma) post ELO scores above much larger models — so choosing open source is no longer a tradeoff against quality.
 - `INS-260627-FC86` [medium] Because embeddings keep improving and last year's model goes stale, design the index to do vector search over multiple embedding models so migration is gradual, not a hard cutover.

@@ -43,10 +43,10 @@ stance: >-
   first-class variable.
 related:
   - INS-260625-9096
+  - INS-260627-4CF5
   - INS-260605-4856
   - INS-260619-6E08
   - INS-260410-9DB0
-  - INS-260514-4FDC
 ---
 The paper's public-split grid tested OpenCode and Aider driving the same four models and found every model scored lower under Aider, with a gap as large as 0.34 for GLM-4.6. The authors frame this as evidence that the same model becomes a different agent under different scaffolding.
 

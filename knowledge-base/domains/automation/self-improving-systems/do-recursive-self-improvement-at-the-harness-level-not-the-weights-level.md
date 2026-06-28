@@ -61,7 +61,7 @@ related:
   - INS-260410-B0D6
   - INS-260625-8C41
   - PRI-260426-890F
-  - INS-260410-9DB0
+  - INS-260627-4CF5
 ---
 Fischer frames recursive self-improvement as AI's 'holy grail' but argues the expensive path is the one the big labs take: train a new model for every step of self-improvement, at hundreds of millions of dollars and months per cycle. Poetiq's bet is that you can run the same loop far faster and cheaper by improving the system that sits on top of fixed models — a 'meta-system' whose outputs are harnesses that solve hard problems.
 

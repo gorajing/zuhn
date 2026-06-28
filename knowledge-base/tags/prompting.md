@@ -4,6 +4,7 @@
 - `INS-260329-5ECD` Feed AI code editors one screen at a time with explicit spatial descriptions because they misplace UI elements when given multiple screens at once.
 - `INS-260403-042B` AI democratizes equity research by making public data analysis match institutional quality when properly orchestrated.
 - `INS-260410-BBC1` Prompt every session to run the same opening sequence: pwd, read progress file, read feature list, check git log, run init.sh, run a basic end-to-end smoke test, then pick a feature.
+- `INS-260627-6F11` Strands' 'model-first' philosophy is just model + tools with no scaffolding — the demo shows the agent honoring 'explain in a male voice' and routing it to the speak tool even after the system prompt is deleted entirely.
 - `INS-260626-7F36` LLMs already have design capability cooked in; give them intent-first composition (e.g. 'a dashboard is a monitor surface', 7 surface patterns) and force OKLCH over HSL, and ~90% of design slop disappears.
 - `INS-260501-C59A` Software 3.0 = the agent is the interpreter; the context window is your lever; precise instructions become a prompt.
 - `INS-260410-BBEA` Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
@@ -42,6 +43,7 @@
 - `INS-260410-096F` When the lead agent delegates with instructions as terse as 'research the semiconductor shortage,' subagents duplicate each other's work or wander off-topic — detailed task contracts are mandatory.
 - `INS-260410-B8EB` The same structured data in YAML costs roughly 15% fewer tokens than JSON, which matters for context length and API bills.
 - `INS-260405-880C` Prompt engineering has an accumulating body of research-backed techniques that reward systematic study over ad-hoc experimentation.
+- `INS-260627-3035` 'Dog sitting on a chair' beats 'dog should not sit on the floor' because models are trained on positive image-text pairs and have little representation of negation.
 - `INS-260605-F512` Never write instructions in uppercase for GPT — it 'gets scared,' de-optimizes, and becomes passively agreeable — whereas the same uppercase makes Claude pay closer attention, so pattern files should be generated with the model you actually use.
 - `INS-260410-87B5` Bare think tool: +7pts. Think tool + optimized prompt with reasoning examples: +20pts (54% relative). The prompt is the lever.
 - `INS-260410-18CF` Start a new chat whenever you switch topics — leftover tokens distract the model and slow sampling without improving answers.

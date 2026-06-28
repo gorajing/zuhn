@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260626-BA87
   - INS-260410-49C5
+  - INS-260627-340A
   - INS-260627-3543
   - PRI-260406-66BA
-  - INS-260403-449D
 ---
 Surya's framing in the closing: papers compress out the pain and suffering and learnings that happened along the way to a result. They tell a polished story. If we could document every single step of the scientific process across an entire institution and download that into the context window or skills files of an AI, we could transfer institutional knowledge — not just findings — to other institutions. We become a society of institutions of science sharing 'codecs' for solving big institutional problems.
 

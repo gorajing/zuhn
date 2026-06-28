@@ -49,11 +49,11 @@ stance: >-
   universal defaults within 30-50 years, suggesting that theoretically grounded
   design beats pragmatic incrementalism long-term
 related:
+  - INS-260627-340A
   - INS-260325-C7FA
   - INS-260330-9A46
   - INS-260404-86DE
   - INS-260327-9377
-  - INS-260329-ACE6
 ---
 McCarthy designed Lisp not to fix Fortran's mistakes but as a byproduct of axiomatizing computation — a purely theoretical exercise. Yet five of his nine innovations are now universal (conditionals, first-class functions, recursion, dynamic variables, garbage collection), and expression-based composition is spreading. This pattern suggests that building from first principles, even when impractical for current hardware, produces designs that outlast pragmatic compromises.
 

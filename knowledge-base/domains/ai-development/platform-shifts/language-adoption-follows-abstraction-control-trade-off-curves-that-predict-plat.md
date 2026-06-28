@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260328-5F64
   - INS-260329-E839
+  - INS-260627-340A
   - INS-260322-5678
   - INS-260402-06DB
-  - INS-260329-A461
 evidence:
   - id: INS-260404-673B
     type: EXTENDS

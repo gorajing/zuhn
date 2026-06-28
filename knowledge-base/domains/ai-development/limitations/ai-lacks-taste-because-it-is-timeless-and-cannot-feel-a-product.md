@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260320-5A6F
   - INS-260409-6AEB
+  - INS-260627-20C1
   - INS-260329-2EB1
   - PRI-260328-AC85
   - INS-260327-B403
   - INS-260403-A101
-  - INS-260403-10CE
 ---
 Artman argues that despite agents writing unit tests and having feedback loops, we rarely say 'quality' and 'AI agents' in the same sentence because agents have no taste — they are not human and do not feel a product. Two concrete mechanisms explain why. First, AI has no concept of time: it interacts with a browser through screenshots or the DOM in an effectively timeless way, so while it knows one second is better than two, it never gets frustrated that a click took two seconds and cannot judge whether two seconds is 'slow enough' to matter. It can recite performance best-practices (use caching, host on Vercel) but cannot feel the latency. Second, it lacks a sense of what makes an animation feel natural — a Linear design engineer's experiment showed agents could build pop-ups and button highlights that did 'all the right things' yet felt unnatural (eased in wrong, too slow or too fast), requiring a manual human pass to feel good. The implication for builders: agents can be trusted with the mechanical, design-free work (bug fixes, data plumbing), but purpose-built, feeling-aware UI design remains the 'last bastion' requiring human taste — at least for now.

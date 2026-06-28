@@ -1,5 +1,6 @@
 # Tag: autonomous-agents
 
+- `INS-260627-AAC2` Only ~44% of companies have touched autonomous agents in the last 3 months — mostly experimentation — amounting to under 2% of merged PRs, while interactive tools like Copilot, Cursor, and Claude Code produce the measured 2x gains.
 - `INS-260403-D51A` AGI is arriving not as a single breakthrough but as agents that reason and act autonomously over extended task horizons.
 - `INS-260403-2609` The market has moved from AI-enhanced SaaS that helps humans to AI-native systems of action that autonomously execute entire workflows on their behalf.
 - `INS-260327-CED9` Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.

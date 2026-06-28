@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 83 insights
+> 85 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -38,11 +38,13 @@
 - `INS-260505-4FEF` [high] Forget chatbots and image generation — AI software engineering is rewriting how companies are run, what teams look like, who gets hired.
 - `INS-260514-93C2` [high] For PPT generation, use standard Claude (produces editable Excel-linked charts), NOT Claude Design (bakes charts as images). The Design version is prettier but operationally broken.
 - `INS-260505-68D3` [high] Need-to-understand fields (astronomy, math, fundamental physics) won't accept opaque AI answers; need-the-answer fields (medicine, engineering) will.
+- `INS-260627-3245` [high] Self-driving reached production while the rest of robotics stalled because cars ship with predefined controls and built-in telemetry — use the presence of such an interface as a filter when choosing agent domains.
 - `INS-260501-DBDB` [high] Wireframe first = constraint generation + cheap iteration. One-shotting hi-fi designs burns tokens and locks in random feature choices.
 - `INS-260626-B098` [high] AI Consult was deployed as an EMR-embedded assistant that preserved clinician control, making safety and adoption possible before proving outcome lift.
 - `INS-260626-BA87` [medium] Feeding a multimodal LLM the audio plus surrounding context (e.g., a screenshot, code symbols) yields transcripts grounded in the right vocabulary, where a pure STT model would mis-hear domain terms.
 - `INS-260525-9B7B` [medium] Walmart data scientist: built a full-stack restaurant-logging app in ~3 hours with no app-dev experience — PRD first, a .claude agent workspace, a borrowed template, and managed services (Railway/Vercel/Supabase, Google ADK).
 - `INS-260524-460B` [medium] Woosang: an AlphaEvolve-class agent improved a high-dimensional packing bound that had stood for ~25-30 years — a result no mathematician had cracked.
+- `INS-260627-0CF8` [medium] The frontier capability is not a chatbot with tools but a chatbot that writes the tools it doesn't yet have, on demand, per customer.
 - `INS-260605-237C` [medium] An agent can probe, brute-force, and reverse-engineer an undocumented hardware protocol, removing the need for the manufacturer's proprietary interface.
 - `INS-260514-E627` [medium] $0.20 per high-quality SEO blog post via two-evaluator humanization loop. ROI is 100x. Content marketing economics inverted.
 - `INS-260624-A338` [medium] Security agents need executable proof paths, not just plausible reports.

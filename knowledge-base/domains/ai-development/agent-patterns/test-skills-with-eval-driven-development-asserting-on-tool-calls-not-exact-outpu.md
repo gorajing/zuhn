@@ -61,7 +61,6 @@ stance: >-
   design and assertions on agent behavior rather than on non-deterministic final
   text.
 related:
-  - INS-260403-9C60
   - INS-260404-1C9D
   - INS-260627-9981
   - PRI-260405-2DE5

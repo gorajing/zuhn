@@ -68,6 +68,7 @@ related:
   - INS-260403-1F1B
   - PRI-260407-7FB7
   - INS-260625-2F7C
+  - INS-260627-DF51
 ---
 François Chaubard frames the limit precisely: if the full solution space is F, training on known human solutions confines you to some typical set H, and despite any feasible amount of test-time compute or recursive self-improvement you won't sample F minus H (infinite compute might, but we are a finite-horizon MDP, not an infinite one). This is the alpha-go versus alpha-zero distinction made general: alpha-go was bootstrapped from human games, while alpha-zero, 'unbiased by human meandering,' surpassed it through pure self-play. The bet is that the alpha-zero style is the path to much more intelligent systems, maybe even AGI.
 

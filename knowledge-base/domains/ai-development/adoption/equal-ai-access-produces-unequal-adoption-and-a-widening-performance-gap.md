@@ -51,11 +51,11 @@ stance: >-
   Giving teams identical AI tools produces wildly different adoption and a
   compounding gap between top and bottom performers.
 related:
+  - INS-260627-3B20
   - PRI-260328-C581
   - PRI-260323-00C6
   - INS-260413-6CE0
   - INS-260403-9F49
-  - INS-260625-6E01
 ---
 When the benchmark was applied to one company, two business units with exactly equal access — same licenses, same spend, same tools — showed very different adoption and usage rates (one used AI for nearly 40% of its work, the other lagged badly). Access to AI, and even raw usage, does not guarantee AI is used the same way across an organization. Leaders must understand not just *whether* engineers use AI but *how*.
 

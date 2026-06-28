@@ -2,9 +2,9 @@
 
 - `INS-260626-374E` AI users in the P&G experiment performed better and felt better, but were less confident their work was top-tier.
 - `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
-- `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260403-4363` When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260405-76E4` Investors without technical depth use founder confidence as a proxy for product quality.
+- `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260405-80B0` Being slightly overconfident armors you against both others' skepticism and your own harsh early-work judgments.
 - `INS-260330-A3AF` Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area.

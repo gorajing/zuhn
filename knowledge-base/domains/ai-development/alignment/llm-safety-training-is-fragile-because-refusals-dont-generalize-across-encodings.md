@@ -67,6 +67,7 @@ related:
   - INS-260403-9774
   - INS-260404-3D14
   - INS-260626-6D35
+  - INS-260627-3035
 ---
 Karpathy walks through a catalog of jailbreak classes — grandma roleplay, base64 encoding, optimized universal suffixes, adversarial noise on input images — and draws a unifying lesson: safety fine-tuning is a shallow behavior layer that learned to refuse specific surface patterns rather than the underlying harmful intent. Models fluent in base64 refuse harmful English queries but comply with the same queries encoded in base64, because nearly all refusal training data was in English.
 

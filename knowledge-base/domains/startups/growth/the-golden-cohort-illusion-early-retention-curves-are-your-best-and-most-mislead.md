@@ -56,7 +56,6 @@ related:
   - PRI-260406-D017
   - INS-260325-4846
   - INS-260605-3490
-  - INS-260625-1022
 ---
 The Golden Cohort consists of earliest adopters who arrived with high intent and found immediate product-fit. Their retention curve flattens high and early, creating a misleading sense of product-market fit. As acquisition channels shift from organic word-of-mouth to paid ads and broader targeting, user intent softens and retention degrades.
 

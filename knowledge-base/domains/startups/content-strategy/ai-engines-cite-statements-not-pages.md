@@ -51,7 +51,7 @@ related:
   - PRI-260406-88DD
   - INS-260402-E040
   - INS-260605-1C4E
-  - INS-260625-869B
+  - INS-260627-1589
 ---
 Traditional SEO optimizes at the page level: meta titles, backlinks, domain authority, keyword density. AI answer engines operate differently — they scan for discrete, citable claims that directly answer a query and can be attributed. A well-structured paragraph with a clear factual assertion is more valuable to AI citation than a comprehensive but meandering article.
 

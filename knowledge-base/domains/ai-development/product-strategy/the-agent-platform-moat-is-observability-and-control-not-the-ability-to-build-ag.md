@@ -58,7 +58,6 @@ stance: >-
   seeing what an agent is doing, diagnosing what went wrong, and tweaking it.
 related:
   - INS-260410-71B9
-  - INS-260501-1FC3
   - INS-260605-1B0B
   - INS-260605-ACB3
   - INS-260625-679B

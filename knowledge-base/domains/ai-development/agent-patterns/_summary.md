@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 471 insights
+> 481 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -29,6 +29,7 @@
 - `INS-260627-F5A8` [high] Embed AI tools into the user's existing workflow rather than asking them to visit a separate destination.
 - `INS-260627-C940` [high] The real failure of feature-rich harnesses is that 'your context isn't your context' — they silently change system prompts, tool definitions, and inject 'may or may not be relevant' reminders that confuse the model.
 - `INS-260625-08E5` [high] The unaudited code from your most gung-ho, least-careful AI user cements into the repo and becomes the pattern the agent imitates, so slop grows exponentially unless you actively garbage-collect it.
+- `INS-260627-0F8C` [high] Environments collapse evals, synthetic-data generation, RL/distillation training, and live agent deployment into a single reusable abstraction: harness + tasks + rewards.
 - `INS-260627-0D20` [high] Clever agent scaffolding was invented to cope with weak models; frontier models now bulldoze it, so capability beats scaffolding and you should stop overthinking the harness.
 - `INS-260627-0719` [high] A wrong read is ignored; a wrong write can nuke your relationships, career, or reputation — so the asymmetry favors observation.
 - `INS-260625-FE3E` [high] Don't run the LLM over 10,000 pages — have the agent inspect the structure once and generate a deterministic parser to run instead.
@@ -86,6 +87,7 @@
 - `INS-260627-277A` [high] When in doubt, delete scaffolding and trust the model to explore — most workarounds you build for model flaws will be obsolete in 3-6 months.
 - `INS-260605-1A50` [high] Export your AI system's traces, prompts, and UI state as a self-documenting file system and drop it into a sandboxed Claude Code, rather than putting an MCP layer on top.
 - `INS-260627-D190` [high] Batch files into PR-sized chunks via the dependency graph, run a verifier to flag problems, spin up fixer agents that emit reviewable PRs, and process leaf-first until the whole graph turns green.
+- `INS-260627-6031` [high] Reviewing agents by scrolling through ten blocks of raw reasoning tokens does not scale; structured, model-generated artifacts (plans, task lists, diagrams, recordings) are the right primitive for supervising long-running agents.
 - `INS-260327-368D` [high] Just as security changed fundamentally when economic activity moved from physical to digital, it must change again as it moves from digital to autonomous AI interactions.
 - `INS-260410-2C51` [high] Constrain agents to one feature per session and require a git commit plus progress-file update before stopping, so the next session inherits a clean baseline.
 - `INS-260327-9EFE` [high] The classical robotics pipeline failed not because individual components were bad, but because the hand-designed interfaces between them could not capture real-world complexity.
@@ -187,6 +189,7 @@
 - `INS-260410-7ED2` [high] When 16 agents all hit the same bug compiling one giant artifact, decompose by using a known-good oracle to narrow the failing subset per agent.
 - `INS-260625-A668` [high] Constrain the agent's action surface to passing parameters into pre-written logic, rather than generating the logic, to trade flexibility for determinism.
 - `INS-260626-9A2A` [high] A trained model is a 6-18 month-old snapshot, so serve it current docs from your own site rather than letting it invent APIs and keys.
+- `INS-260627-24EB` [high] RL taught Composer to call tools in parallel (read 10 files at once instead of one-by-one) and to search/read before editing rather than over-editing — behavioral changes that make the agent feel much faster and act more effectively, independent of token throughput.
 - `INS-260626-F490` [high] Do not rely on prompt text alone for permissions; compile agent definitions into allowlists and reject invalid privilege states early.
 - `INS-260405-82DD` [high] Context windows are RAM-like quick access, but persistent agents also need hard-drive-like selective memory systems that choose what to retain.
 - `INS-260410-545A` [high] Have the initializer write a comprehensive JSON feature list with each feature marked failing, and forbid the coding agent from editing anything except the passes field.
@@ -238,6 +241,7 @@
 - `INS-260627-A999` [high] A read-only explorer subagent protects the solver from context pollution while still giving it precise evidence.
 - `INS-260410-53C2` [high] Use a specialized first-session initializer agent to create scaffolding (feature list, progress file, init.sh, git repo), then run identical coding agents on subsequent sessions that only do incremental work.
 - `INS-260605-C536` [high] Use a separate, harshly-tuned evaluator agent rather than asking the generator to grade itself, because critiquing is tractable to tune while self-criticism is not.
+- `INS-260627-D043` [high] High-assurance systems use separate teams to write and verify code; the agentic analog is separate prompts for writing vs testing, and using a different foundation model for each to break correlated failures.
 - `INS-260410-BBEA` [high] Agent frameworks hide the underlying prompts and make debugging harder, so start with direct LLM API calls — most patterns are a few lines of code — and adopt frameworks only when their value exceeds the opacity cost.
 - `INS-260411-BCB0` [high] Build and debug a sequential agent chain first, then add parallelism, loops, or routing only when the simple version works.
 - `INS-260626-40DF` [high] Most software people still cage the LLM in if-statements because they think it's expensive and precious; the leverage is to give it broad read access and tools and let it rip.
@@ -328,6 +332,7 @@
 - `INS-260605-F5F7` [medium] The honest gap in AI evaluation is the absence of a chaos-engineering equivalent that actively stresses the system to find where it breaks.
 - `INS-260605-CE25` [medium] Agents make TDD's red and green phases nearly free, so the developer's time and attention should move to the refactor phase.
 - `INS-260605-1B0B` [medium] Because no scrapeable dataset of agents-using-tools exists, an RL environment plus a reward lets you generate good trajectories by rejection sampling and bootstrap training from them.
+- `INS-260627-5482` [medium] Because architecture is interconnected and not a one-shot decision, decomposing it across collaborating agents that each own part of the problem mirrors human design review at higher computational intensity.
 - `INS-260619-F7E3` [medium] Agent safety is mainly a capability-boundary problem: constrain the sandbox, filesystem, runtime, and API keys before trusting model behavior.
 - `INS-260403-3587` [medium] Smartphones moved computing from desks to pockets but kept the attention tax; AI agents finally break that dependency by working without being watched.
 - `INS-260605-5C58` [medium] 'Bash is all you need' — one bash tool let the agent ls, grep, find, glob, store files, and run code, covering an entire workshop's worth of capability.
@@ -341,6 +346,7 @@
 - `INS-260625-6FC0` [medium] Orchestrator-worker gives you one central control/log plane; choreography (agents listening to a shared message bus) gives you parallel, independent agents and lower latency but no single point of observability.
 - `INS-260625-0A7D` [medium] MCP is just an interface over an API (it fetches), whereas a CLI lets the agent actually run scripts, analysis, and computation against data — and you win whenever more agency is pushed into the workflow.
 - `INS-260605-9719` [medium] User 'report bad commentary' taps post to Slack and into a live Claude Code channel that fixes the issue and asks the engineer to approve from their phone.
+- `INS-260627-4CF5` [medium] Building the model and the harness together gives you tacit knowledge of the model's habits that an external harness-builder has to reverse-engineer.
 - `INS-260626-CC4A` [medium] Record harness adapter identity whenever comparing agent runs.
 - `INS-260501-B7BC` [medium] We can't yet teach AI to move a mouse, but we taught it to write code — so coding became the workaround for computer-use that doesn't work yet.
 - `INS-260605-A705` [medium] Always commit before an agent starts changing code, because it may not remember what the code looked like before.
@@ -400,6 +406,7 @@
 - `INS-260627-0503` [medium] The agent often knew the physics but needed humans to recognize when an optimization framing had saturated.
 - `INS-260627-4130` [medium] A generate → unit-test → judge-with-explanation → meta-prompt → append-rules loop raised Claude Code by 5% and Cline by 15% on 150 SWE-bench examples, no fine-tuning involved.
 - `INS-260625-CF6B` [medium] Update the visible UI on each tool call so the user can follow along, and route money-spending or other irreversible steps to manual human confirmation.
+- `INS-260627-6F11` [medium] Strands' 'model-first' philosophy is just model + tools with no scaffolding — the demo shows the agent honoring 'explain in a male voice' and routing it to the speak tool even after the system prompt is deleted entirely.
 - `INS-260625-3EE6` [medium] Give a model a baseline set of tools and it will sensibly add or drop ones it under-uses; ask it to build its toolset from scratch and it over-engineers and fails to iterate.
 - `INS-260627-E3EC` [medium] Greg Brockman's modularity principle — humans set clear boundaries on what is human-designed and let AI code everything in between — is swyx's frame for keeping AI-scale code from degenerating into slop.
 - `INS-260605-BC6F` [medium] If the agent's permissions ride on the network connection rather than an API key inside the box, there is no secret for a long-running model to leak, misuse, or route around.
@@ -418,6 +425,7 @@
 - `INS-260627-E0AE` [medium] Look at the policy, not only the path it happened to take.
 - `INS-260627-0009` [medium] A week-long video task became a 5-minute afterthought not because of a smarter model but because the brand guide, live stats, dashboard, and Remotion skill were already wired into the system.
 - `INS-260626-43C9` [medium] Developer-provided context files significantly outperform LLM-generated ones, even though their own absolute gains are small and costly.
+- `INS-260627-5F5A` [medium] If you're tempted to adopt a graph framework mainly to get snapshotting and resumption, durable execution offers finer-grained recovery while letting you keep writing ordinary imperative code.
 - `INS-260627-453E` [medium] Proactivity is built from four hard ingredients — observation, personalization, timeliness, and seamless workflow integration — and missing any one breaks the 'magic'.
 - `INS-260605-8D12` [medium] The reliable agent is software first, LLM loop second.
 - `INS-260626-2F2E` [medium] Record the exact code-execution tool version whenever an agent composes tools through code.
@@ -462,9 +470,11 @@
 - `INS-260605-FC00` [medium] Let the model choose the next action; let code execute it.
 - `INS-260626-DA0A` [medium] Feeding an agent more context isn't the bottleneck — the bottleneck is being able to leverage what you gave it in future sessions.
 - `INS-260626-2727` [medium] GitHub cut from 100+ tools to ~40 to fight context bloat, but its MCP lead expects to reverse 'many of the fewer-tools decisions' as compositional tool use and tool-search APIs make thousands of tools normal.
+- `INS-260627-C2AF` [medium] Agents implicitly discretize time into turns while robotics samples the world continuously at high frequency; the turn choice buys easy reasoning but loses real-time response.
 - `INS-260605-52E4` [medium] Local tools and remote tools should not share the same credential assumptions.
 - `INS-260603-23B1` [medium] Frans (Amazon): integrations fail when people treat GenAI 'as an API, an SLA, or some piece of software' — the proper frame is to think of the agent as an employee you onboard, with guardrails and cultural shift; their multi-agent CAD example had a mechanical-engineer agent, a cost agent, and a functional-safety agent arbitrated by an orchestrator.
 - `INS-260605-320E` [medium] The worst notification is 'we ran out of quota' — the harness should reroute to flash/local models and keep working.
+- `INS-260627-FAFC` [medium] The field has shifted from 'one LLM-calling-tools loop per microservice' to treating each such loop as a micro-task you compose into a larger system that users would recognize as 'the agent.'
 - `INS-260405-F3C0` [medium] Photosynthesis separates light capture (producing ATP/NADPH) from carbon fixation (the Calvin Cycle) because raw photon input is too volatile to drive complex chemistry directly.
 - `INS-260626-59D9` [medium] Throwing more fresh context windows at a problem is a form of test-time compute; scale the number of subagents up with task difficulty.
 - `INS-260627-8A88` [medium] RL gives only a scalar reward and forces the model to improve blindly; prompt learning hands back English feedback explaining what went wrong, so it learns from far fewer examples.

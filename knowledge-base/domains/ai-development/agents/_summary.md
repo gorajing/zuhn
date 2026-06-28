@@ -1,6 +1,6 @@
 # Topic: agents
 
-> 83 insights
+> 84 insights
 
 - `INS-260605-BA6A` [high] What looks like a coding agent learning a new skill is really it discovering and chaining existing CLI tools through its shell and runtime.
 - `INS-260605-AE67` [high] The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
@@ -12,6 +12,7 @@
 - `INS-260405-FE94` [high] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
 - `INS-260626-8EAC` [high] Feeding the agent a years-deep, interlinked markdown vault—with good search and memory—is the inflection point where it starts running your life, not just answering questions.
 - `INS-260410-F0EF` [high] Manual approval prompts fail at scale because users stop paying attention — Anthropic measured 93% acceptance rates.
+- `INS-260627-AAC2` [high] Only ~44% of companies have touched autonomous agents in the last 3 months — mostly experimentation — amounting to under 2% of merged PRs, while interactive tools like Copilot, Cursor, and Claude Code produce the measured 2x gains.
 - `INS-260410-E73E` [high] Anthropic found environment setup issues, double-applied patches, and hidden tests the model couldn't see all caused failures that weren't really about model skill.
 - `INS-260410-F40F` [high] One-sided evals create one-sided optimization — if you only test when the agent should search, you'll get an agent that searches for everything.
 - `INS-260605-72C4` [high] A built-in correctness eval scored 0/13 on agent outputs while faithfulness scored 13/13 on the same outputs — the eval type, not the tuning, was the difference.

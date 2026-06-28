@@ -14,6 +14,7 @@
 - `INS-260405-AFF7` MiniMax's Linda frames three coding eras — GUI copilots, CLI agents, and autonomous agent swarms — all emerging within months and coexisting rather than replacing each other.
 - `INS-260625-89B3` Because a 100-engineer team mostly opens the same few codebases, Cursor uses Merkle (crypto hash) trees to detect near-identical indexes, copies the shared embedding data, and only re-chunks/re-embeds the changed files.
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
+- `INS-260627-4253` A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.
 - `INS-260323-0539` Cursor forked VS Code rather than building an extension because plugin APIs limit what you can build — when AI changes how software is built, you need full control of the editing surface.
 - `INS-260328-03BB` You will be judged by investors relative to your direct peers, not relative to the fastest-growing company in all of AI.
 - `INS-260501-63E7` Cursor at $60B is the largest private venture acquisition ever — but it's structured as a post-IPO option because both companies need each other to look like a real business.

@@ -60,7 +60,7 @@ related:
   - INS-260627-110A
   - INS-260627-0D0C
   - INS-260627-68CA
-  - PRI-260321-14D8
+  - INS-260627-8DBA
 ---
 A 350-person org adopted AI and saw pull requests increase 14% — which, measured naively, reads as a productivity win worth millions that easily offsets AI licenses. But deeper measurement told the opposite story: maintainability (code quality) dropped ~9% and became more erratic, rework increased 2.5×, and 'effective output' (a productivity proxy net of rework/refactoring) didn't meaningfully change. The actual ROI may be negative.
 

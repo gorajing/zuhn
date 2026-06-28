@@ -60,10 +60,10 @@ related:
   - INS-260605-C436
   - INS-260627-C727
   - INS-260627-E496
+  - INS-260627-1443
   - INS-260403-4120
   - INS-260624-5865
   - INS-260625-E4EF
-  - INS-260625-E3A2
   - INS-260627-E7AE
 ---
 The technical AGI debate (does the model understand, does it generalize, is it conscious) has stalled because each side defines AGI to make their position win. Sequoia's commercial-functional reframe sidesteps the debate: AGI is not a property of the model but a property of the system delivering work, and the test is behavioral. Three behaviors compose the test: dispatch (can you hand it a job and walk away), recover (can it handle the failure modes that arise during execution), persist (does it actually finish, or does it stall partway). By this standard, late 2025 / early 2026 systems crossed the threshold for many job categories. The implication for product strategy: if you're building a product, evaluate it against the dispatch-recover-persist test in your specific domain. If your product fails any of the three, you're not yet at AGI for that workflow and your competitive position depends on faster improvement than competitors. If you pass all three, you're competing on quality, cost, and speed — a much different competitive surface. The implication for buyers: discount any vendor's AGI claim that doesn't survive a dispatch-recover-persist test in their actual workflow.

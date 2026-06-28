@@ -61,7 +61,6 @@ stance: >-
   Google moved from Scholar to Search to enterprise — the niche entry is a
   wedge, not a ceiling
 related:
-  - INS-260322-EDC2
   - PRI-260323-49F8
   - INS-260327-DBAD
   - INS-260327-CA1C
@@ -71,6 +70,7 @@ related:
   - INS-260404-93CD
   - INS-260327-5690
   - INS-260404-E4C3
+  - INS-260404-6914
 ---
 The current snapshot of vertical AI looks crowded with single-function tools — a chatbot for legal contracts, an extractor for construction documents, a copilot for medical scribing. The panel's predictive framing: this snapshot is misleading because it captures the wedge phase, not the steady state. Each tool's actual long-term scope is the full value chain of its vertical, not the entry workflow step.
 

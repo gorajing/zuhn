@@ -56,7 +56,6 @@ stance: >-
   Improving organizational validation infrastructure yields more agent ROI than
   spending weeks selecting the marginally-best coding tool.
 related:
-  - INS-260403-9B5D
   - INS-260410-CD79
   - INS-260410-AB4A
   - INS-260323-4457

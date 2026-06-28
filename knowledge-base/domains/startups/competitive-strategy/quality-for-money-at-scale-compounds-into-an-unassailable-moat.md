@@ -62,13 +62,12 @@ stance: >-
   close.
 related:
   - INS-260330-DBE6
-  - INS-260403-9DE0
   - INS-260403-087F
+  - INS-260627-BF35
   - PRI-260328-70D9
   - PRI-260406-6D04
   - INS-260329-ADCD
   - PRI-260322-94C4
-  - PRI-260328-F0B4
 ---
 Mars's first principle isn't 'quality' — it's 'quality for money' at a given price point. Forrest Mars understood that in scale-economy categories like candy (or furniture in Ikea's case), the winner isn't who makes the best product in absolute terms. It's who can deliver meaningfully higher quality at the same price as competitors. That small per-unit advantage compounds through volume: higher demand → larger production runs → lower unit costs → ability to either drop prices or reinvest the savings into even more quality at the same price.
 

@@ -43,7 +43,6 @@ stance: >-
   channels, and keep working while humans are away.
 related:
   - INS-260605-E230
-  - INS-260605-013A
   - INS-260605-B930
   - INS-260625-9096
   - INS-260514-4FDC

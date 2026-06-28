@@ -60,10 +60,10 @@ stance: >-
   is pushed into isolated, individually-retryable steps.
 related:
   - INS-260625-9C3B
+  - INS-260627-44FD
   - INS-260627-0A69
   - INS-260625-FA31
   - INS-260625-36DF
-  - INS-260522-2CE8
 ---
 The workflow pattern separates an agent into two distinct kinds of code: an orchestration layer (the LLM-call/tool-call loop) and steps (the actual LLM calls and tool executions). The orchestration layer must be deterministic — it gets replayed every time the workflow resumes, so any non-determinism or side effect there would corrupt state. Steps, by contrast, are *meant* to have side effects; their inputs and outputs are cached so they run exactly once and can be retried in isolation on failure.
 

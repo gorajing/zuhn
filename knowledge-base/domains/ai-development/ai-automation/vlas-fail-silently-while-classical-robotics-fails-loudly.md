@@ -43,13 +43,14 @@ resolutions:
     describes for math AI — VLAs are either on-rails or producing confident
     nonsense.
 related:
+  - INS-260627-899A
   - INS-260327-9EFE
   - INS-260605-726C
   - PRI-260328-1ED1
   - INS-260625-0021
-  - INS-260602-E2BD
   - INS-260605-320E
   - INS-260626-8F3D
+  - INS-260627-C2AF
 stance: >-
   Classical robotics systems fail loudly (joint limit hit, object not detected,
   planner infeasible)

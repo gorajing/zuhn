@@ -24,9 +24,9 @@
 - `INS-260329-2A70` Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260324-748A` The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
-- `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
 - `INS-260410-66E4` Lalit Modi orchestrated a $1B media deal, $400M+ in franchise auctions, and Bollywood ownership for a sports league that had never existed by capping every party's year-one cash exposure to the smallest amount that signaled credible commitment.
 - `INS-260330-EBFD` Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260402-3D00` Making the platform useful to hosts even without buyers solves the marketplace cold-start problem.
 - `INS-260329-82B1` When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260403-F28B` Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.

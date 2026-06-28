@@ -66,7 +66,6 @@ related:
   - INS-260322-EDC2
   - PRI-260406-0ACE
   - INS-260501-723C
-  - INS-260605-7B83
 ---
 Calacanis's structural diagnosis: Cursor was 'walking down the street saying we have an exploding business with $3B ARR but bad gross margins because we need our own model and we need compute.' xAI was walking down the same street with compute and a model but no revenue. Marriage made in heaven — but specifically because Cursor's lack of model ownership made it strategically dependent on whoever owns the next leap in coding capability.
 

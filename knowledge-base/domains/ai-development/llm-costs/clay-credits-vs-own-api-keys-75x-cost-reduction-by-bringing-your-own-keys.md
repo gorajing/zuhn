@@ -52,11 +52,11 @@ stance: >-
   reduces marginal cost per company-enrichment from ~$0.075 (Clay credits) to
   ~$0.004 (BYO keys), a ~20x reduction.
 related:
+  - INS-260627-AC65
   - PRI-260407-C8FE
   - INS-260403-E78C
   - INS-260626-77D0
   - PRI-260328-DF2D
-  - INS-260403-008F
 ---
 Parsa's cost math: Clay's 2K-credit tier costs $75. A typical company enrichment burns 5-6 credits (LLM calls, research, cleanup, etc.). At 100 leads, you've spent ~500-600 credits = ~$20. At scale this becomes the dominant operating cost. Solution: Clay supports BYO API keys for OpenAI, Anthropic, etc. Replace Clay's internal API calls with direct API calls to your accounts at API-native pricing. Combined with Apify or Rapid API for LinkedIn scraping (cookieless, no account-ban risk), enrichment per company drops from ~$0.075 to ~$0.004. Caveat: requires more technical setup; the 'just-use-Clay-defaults' shortcut is what Clay's business model depends on.
 

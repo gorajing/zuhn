@@ -65,6 +65,7 @@ related:
   - INS-260626-BC32
   - INS-260626-518C
   - PRI-260406-5E06
+  - INS-260627-056F
 ---
 Gostev's BullshitBench feeds models ~155 deliberately nonsensical questions (e.g. 'controlling for positive age and average file size, how do you attribute variance in deployment frequency to indentation style?') and grades whether the model clearly pushes back or accepts and elaborates on the nonsense. The result: only the latest Claude models reliably reject the premise; GPT, Gemini, and most others split roughly 50/50, and even their 'pass' cases are shaky — they tend to question the premise once, then accommodate it anyway. Smaller models accept almost anything.
 

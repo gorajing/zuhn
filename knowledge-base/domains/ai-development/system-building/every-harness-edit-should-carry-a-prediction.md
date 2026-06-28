@@ -48,7 +48,6 @@ related:
   - PRI-260426-890F
   - INS-260625-2563
   - INS-260605-E193
-  - INS-260605-D818
 ---
 AHE's decision observability pairs every harness edit with a self-declared prediction that is later verified against the next round's task-level outcomes. This is the move that prevents self-evolving harnesses from becoming trial-and-error churn.
 

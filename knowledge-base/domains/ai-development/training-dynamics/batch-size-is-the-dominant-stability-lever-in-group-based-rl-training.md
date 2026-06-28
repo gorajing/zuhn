@@ -61,6 +61,7 @@ related:
   - PRI-260403-EA13
   - INS-260326-0AB4
   - INS-260625-9B0C
+  - INS-260627-D73F
 ---
 Fiorucci learned 'the hard way' that batch size was the key parameter: with values below 256 he observed unstable training and model collapse. The intuition is that batch size is the number of games used per weight update — update on too few matches and opponent types and the model learns from an unrepresentative sample, reinforcing suboptimal strategies. A large batch learns more slowly per step but stays stable.
 

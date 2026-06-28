@@ -55,7 +55,7 @@ related:
   - INS-260413-36B4
   - INS-260413-EB7C
   - INS-260405-62F8
-  - INS-260321-1A0B
+  - INS-260627-8DBA
   - INS-260413-DAEA
 stance: >-
   Singapore, Hong Kong, and UAE lead per-capita AI adoption, while the US ranks

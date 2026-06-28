@@ -59,8 +59,8 @@ related:
   - INS-260519-7744
   - PRI-260406-7A21
   - INS-260626-BA87
+  - INS-260627-0CF8
   - INS-260626-7F5B
-  - INS-260403-CBB2
 ---
 Karpathy proposes the 'LLM OS' framing: the language model is the kernel process, the context window is RAM, retrieval-augmented generation is disk access, tool use (browser, calculator, Python, image generators) is peripheral I/O, and an App Store of specialized fine-tuned models is the application layer. Proprietary models (GPT, Claude, Gemini) are the Windows/macOS equivalents; the Llama-based open ecosystem is the emerging Linux.
 

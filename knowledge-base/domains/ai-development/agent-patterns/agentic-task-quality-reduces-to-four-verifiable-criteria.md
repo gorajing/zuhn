@@ -51,7 +51,6 @@ stance: >-
   correct, and run in a reliable environment — and each criterion should be
   machine-tested before acceptance.
 related:
-  - INS-260411-F590
   - INS-260605-3A60
   - INS-260625-A5E7
   - INS-260410-E977

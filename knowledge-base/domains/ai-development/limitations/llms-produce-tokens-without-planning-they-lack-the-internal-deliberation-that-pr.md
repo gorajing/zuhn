@@ -51,10 +51,10 @@ resolutions:
     token-by-token generation.
 related:
   - PRI-260328-D893
+  - INS-260627-6031
   - INS-260626-69EF
   - INS-260625-2906
   - INS-260403-141E
-  - INS-260626-5D7C
   - INS-260410-1789
   - INS-260627-DC30
 stance: >-

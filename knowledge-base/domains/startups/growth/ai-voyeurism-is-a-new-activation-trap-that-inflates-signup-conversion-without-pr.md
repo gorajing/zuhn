@@ -44,9 +44,9 @@ stance: >-
 related:
   - INS-260519-7402
   - INS-260605-D659
+  - INS-260627-623A
   - INS-260625-E1AA
   - INS-260605-287A
-  - INS-260625-B09C
   - INS-260626-9A39
 ---
 Pastan: AI compresses time-to-value but muddies the funnel via 'AI voyeurism' — users acquired by curiosity about a new AI-native experience who watch the model build something but have no product intent. Voyeurism can be its own aha ('I can't believe I typed this and got that') but it's an aha on the model, not the product; prompt boxes massively raise landing-to-signup conversion yet there is such a thing as healthy friction, and separating AI-intent from service-intent is a data discipline most teams lack. A useful caution to the KB's PLG/activation cluster (frictionless is not free).
