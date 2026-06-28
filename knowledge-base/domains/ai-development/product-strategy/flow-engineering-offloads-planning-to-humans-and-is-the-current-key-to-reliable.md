@@ -52,7 +52,6 @@ stance: >-
   more reliable results than relying on LLMs to implicitly plan their own next
   steps in a loop.
 related:
-  - INS-260326-9402
   - INS-260405-CC9D
   - PRI-260328-F723
   - INS-260405-9285
@@ -62,6 +61,7 @@ related:
   - INS-260403-F2A2
   - INS-260410-25AC
   - INS-260410-D03C
+  - INS-260605-E693
 ---
 Chase identifies a tension in agent design: running an LLM in a loop (ask what to do, execute, repeat) requires implicit planning ability that current models don't reliably have. The practical solution is 'flow engineering' (from the AlphaCodium paper): explicitly designing the graph or state machine of agent actions, effectively offloading planning from the model to human engineers.
 

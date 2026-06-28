@@ -51,7 +51,6 @@ stance: >-
   effect appears strongest for creative exceptional-output tasks.
 related:
   - INS-260325-9C2F
-  - INS-260325-3EF4
   - INS-260325-19E9
   - INS-260325-4793
   - INS-260326-841D
@@ -60,5 +59,6 @@ related:
   - INS-260404-B863
   - INS-260412-1A10
   - INS-260626-374E
+  - INS-260626-D9EA
 ---
 The P&G/NBER Cybernetic Teammate field experiment creates a real tension with the broad version of PRI-260403-7E5E. The original principle correctly warns that naive human-AI combinations average negative synergy across many studies, but P&G's creative product-development setting found that Team+AI was especially strong for exceptional output: a 9.2 percentage-point lift in top-decile solutions against a 5.8% control mean, roughly tripling the chance of a breakout idea. The right update is to keep the default warning while carving out a stronger exception for open-ended creative work where humans and AI can generate, critique, and integrate across perspectives.

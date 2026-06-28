@@ -1,6 +1,6 @@
 # Topic: mcp
 
-> 27 insights
+> 30 insights
 
 - `INS-260627-962C` [high] Poor MCP design and poor MCP security compound each other; you cannot patch a bad interface with authentication.
 - `INS-260626-3492` [high] A correctly-executed prompt-injection exfil attack against GitHub's MCP server is not GitHub-specific — it stems from the lethal trifecta, and 'the utility of agents is in direct conflict with protecting this stuff,' which remains unsolved.
@@ -17,6 +17,7 @@
 - `INS-260627-6217` [high] A third-party MCP tool's description is integration code written by someone who doesn't know your use case, so vanilla descriptions like 'Press a key on the keyboard' give agents too little to act well.
 - `INS-260627-46EB` [high] MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
 - `INS-260627-1B54` [high] MCP exposes an asymmetry — the user approves a one-line tool summary while the LLM consumes the full description, which can hide exfiltration instructions the user never sees.
+- `INS-260627-2831` [high] Pair MCP servers (the connection to the outside world) with skills (the expertise to orchestrate that connectivity) rather than treating either as a substitute for the other.
 - `INS-260627-ADB1` [high] Auth0 maps the agent as a client and APIs as traditional OAuth resource servers; the MCP server is itself a client, and Dynamic Client Registration lets agents register against it automatically.
 - `INS-260626-6F00` [high] Registries and the protocol are sound; what blocks enterprises is the un-built operational triad of observability, access control, and security.
 - `INS-260627-F2AE` [high] An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
@@ -27,5 +28,7 @@
 - `INS-260627-A0EE` [medium] Thorough tool descriptions are a defensive layer: ambiguity in your docs is the gap an attacker-controlled neighboring tool uses to shadow yours.
 - `INS-260626-13FB` [medium] Coding agents thrived because they're local, verifiable, and compiler-checkable; general knowledge-worker agents instead need to connect to five SaaS apps and a shared drive — making connectivity the 2026 bottleneck.
 - `INS-260627-1B11` [medium] The agent never talks directly to artiq-mcp; it talks to a safety-filter proxy that authorizes or blocks each call before forwarding it.
+- `INS-260627-68FC` [medium] Use MCP resources to ship the workflow guides (overview → create → execute → complete) that instruct an agent how to use your tools, not only the tools.
+- `INS-260627-E34D` [medium] MCP gives an agent access to external tools and context, while agent skills give it the domain expertise to actually use that access well — and they compose.
 - `INS-260627-FE77` [medium] CHIA registers nodes as MCP tools while allowing the tool server and the actual tool execution to run on different workers with different resources.
 - `INS-260627-4446` [medium] Web MCP lets a site register typed tools on the navigator object so agents call named actions directly, instead of mimicking human clicks via screenshots and coordinate-guessing.

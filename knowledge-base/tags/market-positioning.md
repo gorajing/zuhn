@@ -6,5 +6,5 @@
 - `INS-260327-E2BC` AI startups either help professionals do their jobs, replace tasks entirely, or make previously impossible work feasible.
 - `INS-260625-940D` The founders' worldview deliberately diverges from frontier labs: instead of one increasingly intelligent generic model, everyone gets their own model trained on private, often conflicting context that no shared post-training set could capture.
 - `INS-260403-E16F` AI startups command ~$19M median seed valuations vs $15M for non-AI, but 41.7% of seed capital targeting AI means brutal competition within the category.
-- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
+- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.

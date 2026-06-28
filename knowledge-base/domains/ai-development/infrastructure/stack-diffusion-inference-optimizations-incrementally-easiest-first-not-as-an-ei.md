@@ -51,10 +51,10 @@ stance: >-
   technique.
 related:
   - INS-260326-AE6C
+  - INS-260627-16FE
   - PRI-260406-72B3
   - PRI-260406-8B75
   - INS-260329-4696
   - PRI-260406-9FA8
-  - INS-260410-AC0B
 ---
 The teams at Nvidia treat diffusion inference optimization as a ladder of independent, composable techniques rather than a single architectural bet. The recommended escalation path is quantization first (lowest effort, low-hanging fruit on modern Blackwell-class hardware), then caching, then multi-GPU context parallelism, then distillation as the most impactful and most complex final step. Crucially, you do not have to pick one: quantization + caching + distillation all compound. The practical consequence is that you should deploy the simplest optimization that hits your latency and quality budget and stop there — only reaching for distillation (which requires post-training compute, data, and proficiency) when the cheaper levers are exhausted. This 'easiest-first, stack as needed' discipline avoids over-investing in heavyweight techniques before confirming the lighter ones are insufficient.

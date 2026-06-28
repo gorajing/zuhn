@@ -1,5 +1,7 @@
 # Tag: physical-ai
 
+- `INS-260603-C102` Ichi (Meta): collecting real-world data is hard and limited, so the path is to generate visual worlds (3D-mesh environments via tools like a Spoke-style generator, Gaussian-splat captures from a phone walkthrough, or video-based world models) and use them as sandboxes to train robots at unlimited scale.
+- `INS-260603-DDE4` William Santana Lee (Knightscope, 13yr autonomous): physical AI is 'pain, suffering, and tears' — the reality check where everything that worked in the conference room fails in the real world; the only way to make it work is to deploy and bump your head until you figure it out, not to perfect it in code/simulation.
 - `INS-260424-9544` Logan Kilpatrick: robotics is at this crossroads that I think a lot of the coding models were at 18 months ago — we're probably 12-18 months from a bunch of significant breakthroughs.
 - `INS-260325-EF79` Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
 - `INS-260530-86E3` Brian Wong (VC, 11 years frontier tech): 'Have you heard about one single commercial deal with over 100 robots being deployed? Not necessarily.' Multi-billion-dollar valuations are riding on a deployment pipeline that doesn't yet exist.
@@ -14,8 +16,6 @@
 - `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
 - `INS-260327-9C56` Fan envisions a Physical API that gives software a physical actuator, enabling a skill economy where experts teach robots and deliver their expertise as a service at scale.
 - `INS-260627-B093` Reward peaks and deployment success peaks are not the same surface.
-- `INS-260603-C102` Ichi (Meta): collecting real-world data is hard and limited, so the path is to generate visual worlds (3D-mesh environments via tools like a Spoke-style generator, Gaussian-splat captures from a phone walkthrough, or video-based world models) and use them as sandboxes to train robots at unlimited scale.
-- `INS-260603-DDE4` William Santana Lee (Knightscope, 13yr autonomous): physical AI is 'pain, suffering, and tears' — the reality check where everything that worked in the conference room fails in the real world; the only way to make it work is to deploy and bump your head until you figure it out, not to perfect it in code/simulation.
 - `INS-260403-2F40` Physical AI requires tolerances, material science, and operational iteration that software models cannot replicate, making the difficulty itself the competitive moat.
 - `INS-260403-165F` Applied Intuition reached $15B valuation by serving 18 of 20 top automakers while preserving capital and expanding to multi-product within a year.
 - `INS-260603-2FB1` Bedrock retrofits autonomy onto excavators that slot into existing construction sites (working with human OR autonomous dump trucks); Knightscope, a robotics company, bought a human-guarding firm so a chief security officer would accept the contract — then backfills with technology. Meet customers where they are; don't make them redesign.

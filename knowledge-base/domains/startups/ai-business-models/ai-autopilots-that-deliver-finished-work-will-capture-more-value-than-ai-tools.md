@@ -49,7 +49,6 @@ stance: >-
   dollar of software spend supports several dollars of human labor in services.
 related:
   - INS-260329-5257
-  - INS-260404-250E
   - INS-260404-5AC8
   - INS-260403-8256
   - INS-260403-32BA

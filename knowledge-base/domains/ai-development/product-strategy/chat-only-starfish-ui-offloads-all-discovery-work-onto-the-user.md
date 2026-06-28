@@ -49,10 +49,10 @@ stance: >-
   already know what the system can do.
 related:
   - INS-260325-175B
+  - INS-260627-9FDC
   - INS-260403-699A
   - INS-260625-ED79
   - INS-260402-8D38
-  - INS-260409-5CC6
 ---
 Nabors frames chat as 'the lowest common denominator of the user experience' — what the CLI was to software. It works if you already know the system (you land on Linear knowing it's a ticketing tool), but otherwise gives no visual cues or guidance, like doing your taxes through a text adventure ('check mailbox. is there mail?'). She calls the bare chatbox landing the 'starfish' design because it just sits there and offloads all the discovery onto the customer.
 

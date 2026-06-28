@@ -1,5 +1,10 @@
 # Tag: determinism
 
+- `INS-260410-F682` Lane argues that on billions of wet rocky planets, the same carbon chemistry, proton gradients, and Krebs cycle intermediates will keep appearing because the substrate is deterministic—and the same logic applies to any system where underlying constraints are fixed and alternatives have been thoroughly searched.
+- `INS-260325-BE19` Even in a deterministic universe, modeling yourself and others as choice-making agents is the right approach because no one can be Laplace's demon.
+- `INS-260405-8584` You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
+- `INS-260403-0769` The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
+- `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260627-8B75` Before building an agent, ask whether its work can be verified and undone — strong verification and reversible state are what make agents general and safe.
 - `INS-260627-02F2` EARS-style 'when/then/shall' requirements are a structured natural-language representation that classic automated-reasoning techniques can parse deterministically — to detect ambiguity, find conflicting constraints, and reduce reliance on the model.
 - `INS-260627-44FD` Durable execution works by splitting code into a deterministic workflow and non-deterministic activities, recording each activity's inputs and outputs so a re-run can replay instantly up to the failure point.
@@ -25,8 +30,3 @@
 - `INS-260605-BD54` The textbook five-step SDLC is a human abstraction agents ignore — to automate it you must decompose each coarse stage (e.g. 'plan') into the many deterministic micro-steps it actually contains.
 - `INS-260603-1BC0` Joe (RocketRide): the industry is very agent-focused (ADEs — agentic development environments), but 'there's a lot more going on in a software stack than just agents' — there are deterministic parts you want exact every time, so they pitch an 'AI development environment' that's a superset of agent frameworks rather than agent-only.
 - `INS-260626-DB00` Use deterministic gates for hashes, permissions, state transitions, and blocklists instead of asking another model to police the agent.
-- `INS-260410-F682` Lane argues that on billions of wet rocky planets, the same carbon chemistry, proton gradients, and Krebs cycle intermediates will keep appearing because the substrate is deterministic—and the same logic applies to any system where underlying constraints are fixed and alternatives have been thoroughly searched.
-- `INS-260325-BE19` Even in a deterministic universe, modeling yourself and others as choice-making agents is the right approach because no one can be Laplace's demon.
-- `INS-260405-8584` You can keep adding 'want to' layers, but you always bottom out at a desire you didn't choose.
-- `INS-260403-0769` The belief that history guarantees your victory makes you stop doing the strategic work required to actually win.
-- `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.

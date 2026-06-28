@@ -51,7 +51,6 @@ related:
   - INS-260329-5975
   - INS-260405-131B
   - INS-260327-1B9A
-  - INS-260327-26BF
 stance: >-
   Altman identifies GPT-5's most striking capability as generating working
   software instantly from natural language, transforming programming from a ...

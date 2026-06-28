@@ -67,10 +67,10 @@ stance: >-
   knows so context stays minimal and never stale.
 related:
   - INS-260605-C223
+  - INS-260627-A19B
   - INS-260626-A08F
   - PRI-260406-598F
   - INS-260605-A557
-  - INS-260625-DF0F
 ---
 CommandCode's 'Taste' learns a developer's micro-preferences automatically — preferring pnpm but npm for local CLI linking, Vitest over other test runners, a specific PR workflow (fetch main, rebase, branch, PR, return to main) — by observing accepts, edits, and rejects, especially at merge-to-main. Crucially these are not the grandiose rules humans write when they sit down to author a config; they're small, repeated patterns that compound (one user built a second Android app far faster because the skill carried over). A 70+ developer study showed measurable drops in how often users had to edit or re-steer the LLM.
 

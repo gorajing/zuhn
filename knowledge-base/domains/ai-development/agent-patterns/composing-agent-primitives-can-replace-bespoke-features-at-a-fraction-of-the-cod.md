@@ -54,7 +54,6 @@ stance: >-
   Re-implementing a complex feature as markdown skills plus sub-agents replaces
   thousands of lines of bespoke code with hundreds.
 related:
-  - INS-260605-158D
   - INS-260626-4A96
   - INS-260626-E45C
   - INS-260605-9276

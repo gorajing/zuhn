@@ -62,6 +62,7 @@ related:
   - INS-260605-3553
   - INS-260605-0C88
   - INS-260605-2DD5
+  - INS-260627-1FAE
   - INS-260627-9298
 ---
 Zoneraich argues you could delete almost every specialized tool in Claude Code and keep only bash, because bash is the universal adapter — through it the model can write a Python script, run it, and delete it, spin up local environments, and chain thousands of shell utilities. But the deeper, less obvious reason bash wins is data abundance: there is an enormous amount of training data on shell commands because that is what developers actually use. This is the same mechanism that makes models weaker at Rust or uncommon languages — fewer humans doing it means less training signal.

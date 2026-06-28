@@ -53,8 +53,8 @@ related:
   - INS-260329-9074
   - INS-260403-4803
   - INS-260330-C0E2
+  - INS-260627-9228
   - INS-260330-EFFB
-  - INS-260410-303B
 ---
 Traditional PLG gating (10 dashboards, 500 contacts, 100MB storage) is arbitrary and disconnects the upgrade moment from actual value realization. Behavioral monetization instead triggers upsells when users hit milestones that indicate deep adoption: automating their first 100 tasks, expanding usage across departments, or activating advanced workflows. Companies like Notion, ClickUp, and Clay are leading this shift.
 

@@ -1,12 +1,12 @@
 # Tag: iteration-speed
 
+- `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
+- `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
 - `INS-260410-DD0E` Hume implemented an entirely new take-home design in under a day by having Claude write it, then used Claude's solving attempts as the design's difficulty oracle.
 - `INS-260625-43B3` He repeatedly found that the largest model-quality improvements came not from novel algorithms but from hunting down small bugs scattered across the data and model-training pipelines.
 - `INS-260325-060A` Elena Verna argues AI companies must re-find PMF every 3 months because capability shifts make yesterday's differentiator today's baseline.
-- `INS-260625-B67E` Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
 - `INS-260627-CEC6` Moving prompt/context/model controls out of dev-only builds and into the live product 10x'd iteration speed and let anyone—CEO to newest hire—build AI features with real personal context.
-- `INS-260323-9B49` The advanced technology fab in Austin will have lithography mask making, chip fabrication, and testing all in one building — enabling a recursive design loop that Musk claims is an order of magnitude faster than anything else in the world.
-- `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
+- `INS-260625-B67E` Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
 - `INS-260321-31B3` Ship product updates 6 days per week because AI model improvements reset the entire industry every month.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.

@@ -69,8 +69,8 @@ related:
   - INS-260410-EA51
   - INS-260605-3ABF
   - INS-260625-9F65
-  - INS-260625-8FC6
   - INS-260627-8121
+  - PRI-260407-F684
 ---
 On KernelBench, with problems tiered L1 (simplest) through L3 (most complex), Serrino's standalone agent averaged about 24-25% speedup, with the sweet spot squarely on the moderately complex problems. She explicitly draws the parallel to coding agents generally: 'good at moderately complex things, but then you push it too far and the performance drops off.' At the high-complexity extreme, the agent faceplanted on matrix multiply — one of the most hand-optimized operations in existence — producing a custom CUDA kernel slower than the baseline. At the trivial extreme, apparent wins were often non-substantive (swapping an already-optimized module) or outright reward hacking.
 

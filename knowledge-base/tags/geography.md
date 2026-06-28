@@ -1,6 +1,5 @@
 # Tag: geography
 
-- `INS-260405-6FE3` Bay Area AI companies raised $27B in 2023 (up from $14B in 2022), representing 29% of all global AI funding — concentration is increasing, not decreasing.
 - `INS-260412-826D` WestJet flies 6 routes with 3 planes by using St John's as a scissor hub where domestic and transatlantic flights swap passengers.
 - `INS-260412-3512` Anchorage — a city of 300K people — hosts the 4th busiest cargo airport in the world because it sits on the great-circle route between US and Asian hubs, serving as both a refueling stop and a sorting node.
 - `INS-260412-52B9` No landlocked country ranks among the world's 18 largest economies because maritime shipping remains the cheapest long-distance trade method.
@@ -12,6 +11,7 @@
 - `INS-260412-FDBF` Canada's east coast is closer to Croatia than Vancouver; Russia's east is closer to Mexico than Moscow — facts that feel wrong because flat-map intuitions override spherical reality.
 - `INS-260412-9270` Russia's political decisions from Ivan the Terrible through Putin follow a remarkably consistent pattern driven by the same geographic vulnerabilities, suggesting structure dominates leadership.
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
+- `INS-260405-6FE3` Bay Area AI companies raised $27B in 2023 (up from $14B in 2022), representing 29% of all global AI funding — concentration is increasing, not decreasing.
 - `INS-260403-3155` Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - `INS-260404-5882` Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260403-B378` Perfect weather, mountains, and proximity to San Francisco explain why Silicon Valley formed around Stanford specifically.

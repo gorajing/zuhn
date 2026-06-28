@@ -1,7 +1,7 @@
 # Tag: customer-discovery
 
-- `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
 - `INS-260403-359D` Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
+- `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
 - `INS-260625-E7F2` RunPod's founders turned the spare GPUs from a failed crypto-mining venture into an AI cloud by offering free compute on Reddit in exchange for feedback — and were revenue-generating from the very beginning.
 - `INS-260405-A742` You cannot identify gains until you've mapped the expectation floor — everything below it is pain, everything at it is neutral.
 - `INS-260625-86CA` When customers phone you demanding access right now and follow up the next day if you haven't delivered, that pull — not polite praise — is the unmistakable PMF signal.
@@ -25,8 +25,6 @@
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260405-A2A2` Strategyzer's Value Proposition Canvas makes explicit what most product teams leave implicit: the specific pains a product relieves and gains it creates, mapped against real customer jobs.
 - `INS-260403-21BD` Palantir builds what clients ought to want rather than what they explicitly ask for, accepting initial friction for long-term loyalty.
-- `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
-- `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-902F` AI can mine forums, Reddit threads, and product reviews at scale to uncover unmet needs that manual research would miss.
 - `INS-260405-EE92` Use card sorting with real customers to rank their jobs and pains before designing any solution.
 - `INS-260404-F8B7` When compliance prevents direct customer conversations, innovation teams collect lower-quality secondhand evidence that leads to worse strategic decisions.
@@ -53,3 +51,5 @@
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
 - `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-3745` Interview three distinct groups — your users, competitors' users, and non-users — because each reveals different strategic insights.
+- `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
+- `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.

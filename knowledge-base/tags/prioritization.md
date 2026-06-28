@@ -1,16 +1,16 @@
 # Tag: prioritization
 
+- `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
+- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
+- `INS-260412-9958` Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
+- `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
+- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
+- `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
+- `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260625-DE8E` Position against tools that surface possible problems by answering the question they can't: is it actually exploitable, and how far can it spread?
 - `INS-260626-4C42` The hard question is no longer how to build it but whether we should build it — and agreeing on that is the new bottleneck.
 - `INS-260627-F6CA` Find the deepest unsolved problem in a space ('root node') and solve it to unlock everything downstream, instead of polishing the 'leaves'.
 - `INS-260625-8A55` Just because you can eval something doesn't mean you should — find the minimum set of evals that yields decision-grade signal, because each eval costs money to run.
-- `INS-260412-AC11` Abstract awareness of mortality rarely changes behavior, but seeing '2,340 weeks left' creates visceral urgency that does.
-- `INS-260412-9958` Documents that identify every problem but fail to ruthlessly rank them by urgency produce paralysis on the most critical issues.
-- `INS-260412-6F0E` When multiple systems fail simultaneously, the hardest decision is which failure to address first.
-- `INS-260410-DB1D` Paine's practical advice: check alignments before committing, reassess early and often, don't get hung up about changing your mind, and recognize that part of good strategy is accepting that some problems cannot be solved and routing scarce resources to ones that can.
-- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
-- `INS-260330-BFD0` The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
-- `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
 - `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
@@ -40,7 +40,6 @@
 - `INS-260403-9BEB` Defining success as '10% increase in X within 3 months' creates a decision filter that vague directional goals cannot provide.
 - `INS-260404-2BDA` Effective product strategy must include explicit 'not in focus' areas alongside strategic pillars to force real tradeoffs.
 - `INS-260519-961A` James Pastan (Framer): the question isn't 'how do we increase TAM' — it's 'how do we deepen our most important audience and the communities adjacent to them.'
-- `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.
 - `INS-260514-C1B3` Start GTM engineering as a centralized hit-team that intakes feedback and prioritizes across the org — embedding is easier to do later than to undo.
 - `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260403-32E9` Identify your sector's primary risk layer and retire it first before addressing downstream risks.
@@ -50,3 +49,4 @@
 - `INS-260403-1E4A` Use one Value Proposition Canvas per customer segment — never combine payers, users, and other segments.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260330-F268` If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260519-4BC8` Roniesha Copeland (Vercel): fit and intent tell you who to pursue; revenue tells you how much to invest in the pursuit.

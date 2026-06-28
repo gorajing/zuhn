@@ -60,7 +60,7 @@ related:
   - INS-260519-7744
   - INS-260605-90CF
   - INS-260605-2795
-  - INS-260605-90E5
   - INS-260625-3DDC
+  - INS-260625-8A5F
 ---
 Zakariasson's closing thesis: identify the flywheels and loops where you can automate yourself away by building systems. Concretely, ask an agent to scan your chat history for repetitive tasks, then look for every place a human copy-pastes between tools (Datadog logs into the codebase, Twitter feedback into Slack, Notion specs into markdown) and automate that handoff. Cursor's examples: a scheduled daily review summarizing Slack and GitHub activity; a 'read merged PR comments' automation that captures high-signal human review feedback so agents learn over time; an agentic code owner that risk-assesses PRs and auto-approves low-risk ones while pulling in the right humans for high-risk ones; and 'continual learning' that extracts memories and rules from past transcripts automatically (solving the 'I'm too lazy to write the rule' gap). The framing principle is that storing context — transcripts, artifacts of good outputs — and keeping the tools current is more important than doing the work, because that context is the framework and guardrails the agents run on, and it lets agents learn what good and bad look like as standards shift.

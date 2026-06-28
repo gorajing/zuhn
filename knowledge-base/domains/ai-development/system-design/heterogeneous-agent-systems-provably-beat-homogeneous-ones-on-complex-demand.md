@@ -55,10 +55,10 @@ stance: >-
   skill demand.
 related:
   - INS-260330-B28C
-  - INS-260330-16B1
   - INS-260402-C4FF
   - PRI-260406-32FE
-  - PRI-260328-F0B4
+  - INS-260330-16B1
+  - INS-260627-D042
 ---
 Real-world problems are complex, multi-step, and open-ended; they decompose into sub-problems requiring vastly different types of intelligence. Scaling a single type of intelligence to cover all of them is inefficient. Callosum formalizes this as a 'production function' over a skill space: heterogeneous agents communicating (e.g., in a ring topology) collectively supply a skill distribution that can match demand shapes a homogeneous system cannot.
 

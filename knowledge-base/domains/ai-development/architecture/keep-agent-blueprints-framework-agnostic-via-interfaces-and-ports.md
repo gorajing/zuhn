@@ -60,7 +60,7 @@ related:
   - INS-260625-25AC
   - INS-260605-0A68
   - INS-260603-1BC0
-  - INS-260625-23CF
+  - INS-260627-1FAE
   - INS-260627-3E8A
 ---
 Amplifon's A2A server blueprint is deliberately framework-agnostic. Instead of standardizing on LangChain, Agno, or any single agent framework, the blueprint is composed of interfaces and ports — a ports-and-adapters (hexagonal) design — so each team can implement its agent in whatever framework fits, as long as it satisfies the same interface the blueprint defines. The platform standardizes the contract, not the implementation.

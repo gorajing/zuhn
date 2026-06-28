@@ -1,5 +1,7 @@
 # Tag: platform-shifts
 
+- `INS-260412-22A6` Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
+- `INS-260410-2B55` AlexNet happened in 2012 and Nvidia was at the center of it, yet Nvidia stock didn't reclaim its 2007 market cap until 2016 — four full years of mispricing despite Jensen openly telling investors what was happening on earnings calls.
 - `INS-260625-A4DE` Enterprises deploy voice agents faster than any other agent because IVR trees, call flows, and customer-service SOPs already exist, making the gap from human call to autonomous agent small.
 - `INS-260409-C14E` AI is a platform shift — daily use now compounds into intuition that late adopters cannot buy later.
 - `INS-260605-D0C0` Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
@@ -10,8 +12,6 @@
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260410-0430` The printing press kept firing off new revolutionary applications — pamphlets enabling the Reformation, newspapers, magazines — for 150 years; the computer is doing the same thing now.
 - `INS-260330-AB62` Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
-- `INS-260412-22A6` Samsung's failure to produce qualifying HBM3E chips for Nvidia — despite being a major semiconductor manufacturer — triggered a $122B market cap loss precisely because memory chips are Samsung's supposed core competency.
-- `INS-260410-2B55` AlexNet happened in 2012 and Nvidia was at the center of it, yet Nvidia stock didn't reclaim its 2007 market cap until 2016 — four full years of mispricing despite Jensen openly telling investors what was happening on earnings calls.
 - `INS-260405-CF27` Driving the marginal cost of any scarce input to zero historically creates platform-scale winners; humanness is next.
 - `INS-260412-8BE0` Smartphones grew at 4x the PC industry's peak growth rate, selling 1 billion units in a single year versus PCs taking 33 years to reach the same cumulative total.
 - `INS-260403-AC5E` AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic.

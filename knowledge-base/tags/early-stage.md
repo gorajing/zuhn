@@ -13,8 +13,8 @@
 - `INS-260403-E44E` Pre-seed due diligence must focus on founder qualities and market insight rather than traditional business metrics that don't yet exist.
 - `INS-260403-87D9` Most deal-killing risks at early stage live outside the financial model.
 - `INS-260403-AB11` Major VC firms are shifting toward later-stage de-risked investments, making micro-VCs and operator-angels the fastest path to early-stage capital in 2026.
-- `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
 - `INS-260404-FADE` Early versions of ambitious projects look worse than they are because we lack cultural norms for evaluating unfinished work.
+- `INS-260405-7A7C` The fear that your early work looks lame is real but wrong — ambitious projects necessarily pass through a low-status phase that doesn't predict their ceiling.
 - `INS-260405-7196` Focus on how fast your work is improving, not where it currently stands — the trajectory is what matters, not the position.
 - `INS-260404-CD3E` Ambitious projects universally look unimpressive early on, so premature judgment kills more great work than lack of talent.
 - `INS-260404-056D` Great work requires pushing through an early phase where your output looks embarrassingly bad.
@@ -26,8 +26,8 @@
 - `INS-260404-1E35` Startups peak in productivity at founding and spend the rest of their existence decelerating — winners just decelerate less.
 - `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260405-6F45` Before PMF, your job is to discover, not to deliver — treating a startup like a Fortune 500 kills the learning loop.
-- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
+- `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260403-BACA` AI agents trained on VC hiring frameworks can provide contextual hiring guidance that previously required expensive recruiting professionals.
 - `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
@@ -52,12 +52,12 @@
 - `INS-260625-088A` Databricks built foundational products like Delta Lake and clean rooms for just one or two specific customers first; once it worked for them, it worked for everyone, and they argue the feared downside of overfitting is far smaller than the real risk of ambition with no users.
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260404-C720` Start by making a few users love you rather than many users tolerate you.
+- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
+- `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
+- `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
+- `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.
 - `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
 - `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
 - `INS-260329-9F8D` Start free, then raise your price incrementally with each batch of customers as your testimonial stack and confidence grow.
 - `INS-260327-18D4` Maggie's first OpenAI hire was Molly — Stanford MBA, 8 years at Google — who accepted an SDR role when 49 other candidates refused it, then built the global sales dev org within months because she had zero ego.
 - `INS-260405-6317` AMI's $1.03B seed — Europe's largest ever — shows sophisticated investors concentrating capital at inception when the paradigm bet is clear.
-- `INS-260404-A6D4` Substack's first version had no CMS, no onboarding, and no design tools — Chris Best manually typed the first user into a database, and that user made six figures on day one.
-- `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
-- `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
-- `INS-260403-CD74` Level 1 PMF requires finding just 3-5 customers with a problem worth solving, engaging deeply, delivering a solution, and validating it — not broad market traction.

@@ -1,6 +1,6 @@
 # Topic: agent-evals
 
-> 103 insights
+> 105 insights
 
 - `INS-260627-27E0` [high] A benchmark is an environment — a container with a starting code snapshot, a starting prompt, and an end-state verifier — and an RL environment is the exact same thing, just with the score wired back into the policy weights.
 - `INS-260625-A99C` [high] An automated metric operates on the model alone and can only see fluency and personality; it cannot see the archive, so it cannot judge fidelity to it.
@@ -95,6 +95,7 @@
 - `INS-260625-1920` [medium] Model identity is not enough; the harness is part of the measured system.
 - `INS-260625-722D` [medium] Raw judge agreement is a weak certificate unless chance and bias are accounted for.
 - `INS-260625-77F8` [medium] For workflow agents, the answer is the mutated state, not the transcript.
+- `INS-260627-6792` [medium] Give credit only when the real goal is met (tests pass), but make the surrounding signal continuous so the model has a gradient to climb.
 - `INS-260625-206A` [medium] A repeatable judge can still be repeatably biased.
 - `INS-260625-E3A2` [medium] Passing the final test is not enough if the agent got there through a non-repeatable process.
 - `INS-260625-D938` [medium] SWE-EVO's Fix Rate captures agents that fix some failing tests without fully resolving a release-sized task.
@@ -105,3 +106,4 @@
 - `INS-260625-2B5A` [medium] Correctness gates should encode behavior, not proximity to one historical patch.
 - `INS-260626-8747` [medium] Starting evals in a spreadsheet is the right first move, but it's documenting, not experimenting — it can't compare experiments over time, run analytics, or bring non-technical SMEs into the loop.
 - `INS-260625-FFDF` [medium] SWE-EVO shows that benchmark saturation on isolated tasks can hide a large capability gap on release-sized work.
+- `INS-260627-CFAC` [medium] Structure verification as an escalating cascade — cheap self-check, then model consensus, then execution validation — so cost scales with doubt.

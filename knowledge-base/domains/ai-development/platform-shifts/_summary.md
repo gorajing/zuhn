@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 70 insights
+> 71 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260403-AC02` [high] The AI vs SaaS narrative mirrors the SaaS vs on-premise transition — incumbents adapt and absorb the new paradigm rather than disappearing.
@@ -59,6 +59,7 @@
 - `INS-260626-55E0` [medium] If ~60% of your users are already bots (as Vercel reports), your dashboards stop mattering and your APIs, CLIs, and MCPs become the real product surface.
 - `INS-260405-77C9` [medium] Canva's acquisition of Leonardo AI demonstrates that incumbent platforms are buying rather than building AI model capabilities.
 - `INS-260403-1085` [medium] Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
+- `INS-260627-F4F9` [medium] Models are processors and agent runtimes are the emerging OS, so the application-layer value — and the compounding moat — lives in the skills that encode domain expertise.
 - `INS-260330-E5F7` [medium] Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260403-88DA` [medium] Previous healthcare IT reforms required rebuilding infrastructure; LLMs can interpret unstructured clinical data on top of existing systems.
 - `INS-260409-35EC` [medium] Hassabis disagrees with Yann LeCun — LLMs are the substrate, not a dead-end, and AGI comes from building on them rather than replacing them.

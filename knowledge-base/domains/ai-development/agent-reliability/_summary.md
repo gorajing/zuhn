@@ -1,6 +1,6 @@
 # Topic: agent-reliability
 
-> 21 insights
+> 26 insights
 
 - `INS-260627-0444` [high] Below ~95-99% reliability, the cost of checking and fixing AI output exceeds the time the AI saves, producing a net slowdown.
 - `INS-260627-E230` [high] Verification is only as good as its specification — anything you forget to check is an opening for bugs — so as agents nail implementation, the spec becomes the bottleneck.
@@ -14,12 +14,17 @@
 - `INS-260627-E496` [high] Let a durable-execution layer like Temporal own retries and crash recovery so agent code expresses only business logic, never failure plumbing.
 - `INS-260627-5DC4` [high] Borrow the robotics open/closed-loop distinction: actions you can't observe and correct mid-execution are open-loop liabilities that should be closed.
 - `INS-260627-44FD` [high] Durable execution works by splitting code into a deterministic workflow and non-deterministic activities, recording each activity's inputs and outputs so a re-run can replay instantly up to the failure point.
+- `INS-260627-9228` [high] Insert review checkpoints after task creation and after the implementation plan — not just after the code — to catch a drifting agent early.
+- `INS-260627-D03E` [high] RFT tightens the distribution of tool-call counts, killing the slow, erratic long-tail runs that dominate production pain.
 - `INS-260627-D35C` [high] Aim for ~90% automation with human review of each agent's intermediate output; partial completion (90-95% solved) still delivers an order-of-magnitude lift.
 - `INS-260627-0126` [high] Fully autonomous bug-to-production is technically feasible today; the limiter is your org's verification criteria, not the coding agent.
+- `INS-260627-A5D1` [medium] Don't let one reflector gate your agent's learning; add quality gates, ensemble reflection, and a fallback route when reflection degrades.
 - `INS-260627-917D` [medium] An agent generalizes when it tolerates perturbations across its entire operational space — tools, system prompts, user prompts, chat template, environment, tool responses — not just when it has seen many tools.
 - `INS-260627-1319` [medium] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
 - `INS-260627-0E46` [medium] Instead of showing a diff, Antigravity's agent drives a real browser and returns a screen recording of the feature working, giving both the human and the model verifiable, iterable evidence.
 - `INS-260627-C237` [medium] Enterprise agents are already creating incident load that pulls humans back in.
 - `INS-260627-1EF5` [medium] Even if AI generates code with no more bugs per line, 3x more code means roughly 3x more bugs and 3x more security incidents in absolute terms — and the review bottleneck makes them harder to catch.
+- `INS-260627-3BE0` [medium] Because each task is small and self-contained, a bad result means discarding that task's work, tweaking the spec, and restarting from the plan — not surgery on a giant diff.
 - `INS-260627-02F2` [medium] EARS-style 'when/then/shall' requirements are a structured natural-language representation that classic automated-reasoning techniques can parse deterministically — to detect ambiguity, find conflicting constraints, and reduce reliance on the model.
 - `INS-260627-3963` [medium] Model 'the agent needs more input' as a real task state and persist a task ID, so clarification and multi-turn follow-ups resume the same session rather than spawning a fresh one.
+- `INS-260627-1D6C` [medium] What limits enterprise deep research is how well-grounded and hallucination-resistant the retrieval is, not how clever the multi-agent loop is.

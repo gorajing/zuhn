@@ -61,5 +61,6 @@ related:
   - INS-260626-21EA
   - INS-260625-E9A9
   - PRI-260328-A82C
+  - INS-260627-1D6C
 ---
 Labonne reframes the core weakness of small models — low knowledge capacity from being memory-bound, which causes hallucination — as a problem solvable outside the weights. A tiny model that can Google any knowledge question performs far better than one relying on parametric memory. Similarly, poor long-context handling is sidestepped by giving the model a recursive/Python environment to take computational shortcuts. His stronger claim: small models are actually very good at agentic tasks, and that is how they should be used. What they need is not more stored knowledge but strong reasoning to use tools reliably. This inverts the usual framing — agentic workloads are typically assigned to the biggest models, but Labonne argues that's often not the best fit, and that capable-small-model-plus-tools is an underexplored, well-suited combination. The design lesson: for capacity-constrained models, invest in reasoning and tool-use reliability rather than trying to cram in knowledge, and treat retrieval/execution as the substitute for parameters.

@@ -1,3 +1,3 @@
 # Tag: compiler-design
 
-- `INS-260329-761A` C++ braced initialization rejects narrowing conversions at compile time while functional initialization silently truncates data, demonstrating how language design choices prevent entire bug categories.
+- `INS-260627-0127` You don't need to translate every possible Python function — only the base set of elementary operations, because all variety is composition and permutation of that small set.

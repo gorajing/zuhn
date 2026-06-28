@@ -52,11 +52,12 @@ stance: >-
   can fluidly combine information gathering, analysis, and output creation.
 related:
   - INS-260627-C70B
+  - INS-260627-8867
   - INS-260327-2C5F
   - INS-260627-FEB4
   - INS-260323-8DE7
-  - INS-260323-042C
   - INS-260605-C699
+  - INS-260627-3133
 evidence:
   - id: INS-260327-2C5F
     type: SUPPORTS

@@ -46,7 +46,6 @@ stance: >-
   Any exploration that reads many files should run in a subagent, because
   context is the scarce resource and subagents return only summaries.
 related:
-  - INS-260320-63D3
   - INS-260409-086A
   - INS-260627-85C7
   - INS-260627-A999

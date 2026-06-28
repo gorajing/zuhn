@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260403-FF74
   - PRI-260324-3AAE
+  - INS-260627-C0F1
   - INS-260514-8F90
   - INS-260321-D01E
-  - INS-260626-8D48
 ---
 As AI systems approach recursive self-improvement capabilities, software-based guardrails face a fundamental problem: a sufficiently capable system could potentially modify its own constraints. Cryptographic capability escrow addresses this by embedding restrictions at the hardware level — requiring multi-party cryptographic keys from independent oversight groups to unlock substrate-level editing or major recursive enhancements.
 

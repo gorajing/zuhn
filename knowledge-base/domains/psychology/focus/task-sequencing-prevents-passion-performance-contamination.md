@@ -53,7 +53,6 @@ stance: >-
   task excitement levels produces better overall output.
 related:
   - INS-260323-334D
-  - INS-260327-E3DE
   - INS-260327-BE49
   - INS-260329-4293
   - INS-260402-D9D0

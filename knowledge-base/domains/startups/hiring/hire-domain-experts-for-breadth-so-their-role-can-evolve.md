@@ -55,7 +55,7 @@ related:
   - INS-260405-6433
   - INS-260514-3FBE
   - INS-260519-746D
+  - INS-260627-D042
   - INS-260626-AC56
-  - PRI-260406-4B8E
 ---
 Because role needs evolve as products scale, Lovejoy recommends hiring an expert who, beyond the required domain base, carries breadth: data-science intuition for the evaluator phase (defining and collecting metrics is fundamentally a data-science skill), plus statistics, product management, leadership, and LLM-product experience for the architect phase. The failure mode of hiring a 'just a domain expert' is that they struggle to grow from oracle into evaluator/architect, forcing the org to bring in someone new and lose continuity. Crucially, having served as the oracle gives a person unmatched insight into how the AI fails — making them exceptionally well-placed to become the evaluator who knows what to measure. Where a skill is missing, pair the expert with a complementary hire (e.g., a statistician) rather than replacing them.

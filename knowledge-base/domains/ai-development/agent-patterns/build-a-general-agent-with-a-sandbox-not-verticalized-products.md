@@ -64,10 +64,10 @@ related:
   - INS-260605-3206
   - INS-260625-0492
   - INS-260626-A05F
+  - INS-260627-1FAE
   - INS-260325-D540
   - INS-260627-917D
   - INS-260530-D34F
-  - INS-260405-9285
 ---
 Manus's core architectural bet is that you build a general agent first and layer capabilities (web app generation, browser operation, integrations) on top second — rather than shipping narrow verticalized products. The demonstrated payoff: building a conference-events site six months ago meant standing up a web app, configuring a Chroma vector DB, wiring an embeddings key, finding and running a coding agent, then solving deployment. With a general agent it 'just works' from one prompt, because the agent owns a full Docker sandbox where it can install anything (Redis, BullMQ, Stripe webhooks), write a Python script, run it, and test it.
 

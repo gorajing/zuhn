@@ -58,7 +58,6 @@ stance: >-
   correct as quickly as possible, and that default is actively wrong for code
   and writing.
 related:
-  - INS-260626-BF18
   - INS-260626-BCC3
   - INS-260605-564D
   - INS-260605-4D1D

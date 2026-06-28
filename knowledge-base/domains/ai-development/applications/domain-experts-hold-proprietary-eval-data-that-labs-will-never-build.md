@@ -60,8 +60,8 @@ related:
   - INS-260514-96FE
   - INS-260501-0662
   - INS-260603-50B1
+  - INS-260627-4EAD
   - INS-260525-9B7B
-  - INS-260330-BEF8
 ---
 Roughly 30,000 AI researchers author nearly all evals, yet AI is meant to serve all of humanity. Whatever isn't benchmarked can't be hill-climbed, so capability stays jagged: superhuman in the narrow areas researchers happen to test, mediocre everywhere else. The illustrative case is a Turkish wastewater treatment engineer who, after fatal safety-protocol failures in his country, built a benchmark to measure whether AI could help prevent such incidents — a proprietary dataset drawn from 20 years of experience that exists nowhere else and that no frontier lab would create because it isn't economically productive for them.
 

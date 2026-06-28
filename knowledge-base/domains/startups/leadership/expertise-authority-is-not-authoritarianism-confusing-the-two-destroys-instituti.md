@@ -51,7 +51,6 @@ related:
   - INS-260327-5547
   - INS-260404-89C3
   - INS-260605-AAA1
-  - INS-260330-7E3F
 stance: >-
   Valuing expert knowledge is fundamentally different from blind deference to
   authority — but public confusion between the two erodes trust in both.

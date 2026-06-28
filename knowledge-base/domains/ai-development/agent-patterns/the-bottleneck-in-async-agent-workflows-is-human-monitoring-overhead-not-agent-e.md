@@ -52,7 +52,6 @@ stance: >-
   mental load of tracking and babysitting them, so the next gain comes from
   making agents proactive rather than faster.
 related:
-  - INS-260514-2E48
   - INS-260605-51AE
   - INS-260605-159E
   - INS-260625-1C5E

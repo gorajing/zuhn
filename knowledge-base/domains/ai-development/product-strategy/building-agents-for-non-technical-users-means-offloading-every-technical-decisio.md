@@ -64,6 +64,7 @@ related:
   - INS-260625-1654
   - INS-260625-D295
   - INS-260625-3866
+  - INS-260627-C0F1
 ---
 Catasta distinguishes two kinds of autonomy. Supervised autonomy is the Tesla FSD model: you still need a driving license and sit at the wheel to handle the long tail, even if you intervene 1% of the time — analogous to coding agents that require technical savvy to use correctly. Unsupervised autonomy is the Waymo model: you sit in the back with no access to the wheel and no license required. Replit is deliberately building the Waymo experience because their goal is to empower every knowledge worker to create software, and a knowledge worker cannot be expected to know what technical decisions an agent should make. 
 

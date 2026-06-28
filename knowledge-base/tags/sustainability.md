@@ -1,14 +1,14 @@
 # Tag: sustainability
 
-- `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
-- `INS-260405-3753` US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260410-F366` MTM on illiquid assets pulls all future revenue forward, leaving zero recurring base and forcing ever-bigger fake deals to maintain growth.
 - `INS-260325-A8E6` Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
+- `INS-260405-3753` US agricultural water sources are being drawn down at 10x their natural replenishment rate, creating a non-negotiable physical constraint on food production.
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260412-DAC5` Consumers and municipal leaders were satisfied by the act of recycling without ever verifying that materials were actually recycled, enabling a broken system to persist for 50+ years.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
 - `INS-260412-FCDC` At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
+- `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260403-0A20` The startup ecosystem's growth obsession obscures that staying intentionally small often produces better founder outcomes in wealth, freedom, and sustainability.
 - `INS-260403-0414` Durable competitive advantage comes from business model design, not product or technology superiority alone.
 - `INS-260403-9F5A` Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.

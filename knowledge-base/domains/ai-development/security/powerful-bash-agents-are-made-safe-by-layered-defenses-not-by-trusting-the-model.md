@@ -62,11 +62,10 @@ stance: >-
 related:
   - INS-260320-949A
   - INS-260514-283E
-  - INS-260605-5C58
   - INS-260605-3553
   - INS-260627-A41A
+  - INS-260627-1FAE
   - INS-260605-0C88
-  - INS-260627-9BC5
 ---
 Giving an agent generic bash power raises the obvious objection: how do you stop it from doing harm? Anthropic's answer is the Swiss-cheese defense — each layer has holes, but stacked independent layers together block attacks. Layer one is model alignment (Claude models are trained to be aligned; reward-hacking research feeds this). Layer two is the harness: permissioning, prompting, and notably an AST parser on the bash tool so the system reliably knows what a command actually does — a genuinely hard problem you should not build yourself. Layer three is sandboxing: restricting network requests and file-system operations outside the working directory, so even a fully hijacked agent is contained.
 

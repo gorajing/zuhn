@@ -62,6 +62,7 @@ related:
   - INS-260602-EA48
   - PRI-260406-B9B4
   - INS-260403-8EF3
+  - INS-260627-CD65
 ---
 Reyes frames the core organizational decision as a choice: spend 45 days comparing every coding tool to find one that's 10% better on SWE-bench, or change organizational practices (linters, tests, AGENTS.md files, docs) that let *all* coding agents succeed — and then let developers pick whichever tool they like. The second path dominates because the environment investment is tool-agnostic: a better validation loop enhances every tool you procure, whether it's a code-review tool, a coding agent, or something else. This is the new DevX loop leaders can invest in, distinct from the old opex model of 'we need 10 more people.'
 

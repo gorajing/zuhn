@@ -1,5 +1,11 @@
 # Tag: commoditization
 
+- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
+- `INS-260409-BE4C` Chamath's hot take: brand-based pricing power is going to zero because cheaper/faster/better products now dominate on every dimension, as Tesla did to German luxury and BYD is doing to global automakers.
+- `INS-260412-E3CC` In 1974 it was illegal to fly NYC-LA for less than $1,442 (inflation-adjusted); deregulation enabled a 50% real price drop over three decades.
+- `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
+- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
+- `INS-260403-6EA6` Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.
 - `INS-260403-7BC6` LLMs threaten financial analyst roles because the analytical frameworks were always public — only the execution was scarce.
 - `INS-260625-1F93` Ask whether, as models get better, your service gets stronger or the model commoditizes you — only build where you're in the first camp.
 - `INS-260423-81C4` Seth Godin: when AI is the buyer, you're going to lose — it's hard to teach an AI why the non-cheapest is worth it, so it buys the cheap one.
@@ -12,12 +18,7 @@
 - `INS-260410-ED4D` Meta open-sources the layers that don't differentiate it (Open Compute, Llama) precisely *because* the resulting ecosystem standardization lowers its costs and improves component quality.
 - `INS-260405-3805` AI is eating software faster in Europe, shortening competitive windows for cloud companies.
 - `INS-260627-3543` Assume general-purpose platforms will commoditize parts of your internal AI tooling; defend the layer they can't replicate — orchestration plus your own context.
-- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
-- `INS-260409-BE4C` Chamath's hot take: brand-based pricing power is going to zero because cheaper/faster/better products now dominate on every dimension, as Tesla did to German luxury and BYD is doing to global automakers.
-- `INS-260412-E3CC` In 1974 it was illegal to fly NYC-LA for less than $1,442 (inflation-adjusted); deregulation enabled a 50% real price drop over three decades.
-- `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
-- `INS-260403-06E2` Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.
-- `INS-260403-6EA6` Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.
+- `INS-260627-73B8` Every major consumer provider already ships a deep-research loop, so enterprise defensibility comes from grounding accuracy plus enterprise-grade deployment, not from the agent loop itself.
 - `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260403-F62E` Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260403-3725` AI features get cloned in weeks rather than years, so founders must build strategic moats immediately rather than planning to add them later.

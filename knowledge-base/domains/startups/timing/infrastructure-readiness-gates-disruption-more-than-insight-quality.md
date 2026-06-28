@@ -52,10 +52,10 @@ stance: >-
   three converged.
 related:
   - INS-260325-2BDB
+  - INS-260627-9FDC
   - PRI-260405-D6F5
   - INS-260410-0E77
   - PRI-260328-A1AA
-  - INS-260403-E93A
   - INS-260403-FCEA
   - INS-260409-EA75
   - INS-260409-6C62

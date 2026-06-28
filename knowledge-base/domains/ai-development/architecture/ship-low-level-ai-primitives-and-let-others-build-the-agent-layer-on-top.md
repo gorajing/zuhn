@@ -58,9 +58,9 @@ related:
   - INS-260501-F90F
   - INS-260625-03A6
   - INS-260605-9276
+  - INS-260627-E34D
   - INS-260329-4D06
   - INS-260603-1BC0
-  - INS-260605-50FB
 ---
 When asked whether developers could write 'skills' to improve responses, the team explained that a skill is fundamentally 'just something you stick into the prompt alongside the rest of your query' — there's no separate magic. So the platform's role is to provide the low-level primitives (the Prompt API accepting text and image input), and higher-level constructs like skill composition are left to frameworks built on top. They pointed to agent runtimes like Pocket Claw / Open Claw as the layer that takes skills, composes them into a prompt, and runs them through the underlying API.
 

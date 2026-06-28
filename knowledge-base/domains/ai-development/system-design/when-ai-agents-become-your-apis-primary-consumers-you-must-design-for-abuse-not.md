@@ -57,8 +57,8 @@ related:
   - INS-260605-41AE
   - INS-260626-A05F
   - INS-260605-74CC
+  - INS-260627-C0F1
   - INS-260627-FEB4
   - INS-260626-7D73
-  - INS-260627-F578
 ---
 Carey's framing is that 'your users are AI' and AI is very good at writing code, so agents will interact with your platform by generating and running code against it — through MCP, CLIs, or raw HTTP. The consequence for service owners: an agent can trivially run your API in a for-loop across multiple sandboxes simultaneously and hammer you, so your endpoints 'have to be ready to take a beating' with robust rate limiting and load protection. This inverts the assumption that API consumers are bounded, well-behaved human-driven clients. On the client side he predicts further shifts — programmatic tool calling, saved 'mini-scripts' (e.g. a self-healing web-scraping cron the agent rewrites when it breaks), and a move to stateless, cloud-native agent loops as agent counts explode to ~100 per person. The actionable core: if you publish an API in the agent era, budget for adversarial, high-concurrency, code-driven traffic as the default case rather than the exception.

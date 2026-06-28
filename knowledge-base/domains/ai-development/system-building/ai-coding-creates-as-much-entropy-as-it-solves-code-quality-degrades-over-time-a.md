@@ -59,7 +59,6 @@ stance: >-
   multiplier 2-3x rather than 5-10x once you account for review, security, and
   maintenance overhead.
 related:
-  - INS-260402-CC68
   - INS-260412-B69B
   - INS-260626-3F6D
   - INS-260627-765B

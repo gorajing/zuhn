@@ -1,5 +1,8 @@
 # Tag: foundation-models
 
+- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
+- `INS-260505-1165` Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text.
+- `INS-260403-5CBD` The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260413-0992` Most AI foundation models for science originate from academia and government with international collaborations, inverting the 91.58% industry dominance in general-purpose frontier AI.
 - `INS-260626-6D2E` Models lack network effects, durable differentiation, and OS-level control, so value moves up the stack and providers behave like chips/ISPs/telcos rather than Windows/iOS.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
@@ -24,9 +27,6 @@
 - `INS-260626-B134` Seo's lesson from the AI revolution — 'impossible without scale, inevitable with scale' — already shows up at Neuralink, where a neural foundation model fine-tuned on just ~20 patients' data surfaces counterintuitive patterns.
 - `INS-260408-C572` Foundation models are world models without the search/reasoning layer AlphaZero had; combining them is the next breakthrough, not bigger pretraining.
 - `INS-260605-80B6` Anthropic/OpenAI already did the data-pipeline-train-deploy work, so your lever is the inputs you feed the model, not feature engineering or retraining.
-- `INS-260505-1165` Evolution has imprinted phenotype information into DNA via natural selection, the way the world has imprinted itself on internet text.
-- `INS-260404-F62A` Foundation model businesses are booming in revenue but the path to sustainable profitability remains unclear.
-- `INS-260403-5CBD` The top 1% of AI companies now absorb over a third of total VC funding, creating extreme capital concentration reminiscent of early internet dynamics.
 - `INS-260322-54F3` The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
 - `INS-260409-22CD` Perfection is impossible when the capability ceiling moves every month — optimize for adaptation, not polish.
 - `INS-260327-30E4` Competing with OpenAI and Anthropic on models is capital-intensive and futile — surf the wave of their improvements by building applications on top.

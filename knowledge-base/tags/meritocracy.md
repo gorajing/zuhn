@@ -12,5 +12,5 @@
 - `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
-- `INS-260327-4416` Giving the best leads to the best closers and worst leads to the worst closers minimizes net waste and can 5x a location's revenue output.
 - `INS-260403-0B14` Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
+- `INS-260327-4416` Giving the best leads to the best closers and worst leads to the worst closers minimizes net waste and can 5x a location's revenue output.

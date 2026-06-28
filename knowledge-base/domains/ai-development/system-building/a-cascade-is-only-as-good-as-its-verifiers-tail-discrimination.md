@@ -53,9 +53,9 @@ related:
   - INS-260605-738E
   - INS-260626-B7EB
   - INS-260627-FFCB
+  - INS-260627-CFAC
   - INS-260605-A558
   - INS-260627-8392
   - INS-260625-C08B
-  - INS-260524-9100
 ---
 Cascades save money only when escalation is targeted. If the verifier cannot separate likely cheap-model failures from successes, the cascade approaches random mixing and loses its advantage. The engineering check is held-out tail calibration: plot escalation quality against verifier AUC or precision on cheap-model failures, and compare against random escalation at the same budget. A cascade whose confidence signal is uncalibrated is just latency and branching logic.

@@ -60,8 +60,8 @@ related:
   - INS-260605-C86D
   - INS-260605-5B0A
   - INS-260605-2032
-  - INS-260605-205E
   - INS-260627-050C
+  - INS-260627-A19B
 ---
 The speakers emphasize that the description in a skill.md is 'the important part' because skills are not always loaded into the agent—they are pulled in depending on what's needed for the current task. The description exists to tell the agent when the skill is useful and when it needs to fetch the skill's full instructions (commands, examples) into context. This is progressive disclosure applied to agent tooling: the agent sees a cheap index of capabilities and only pays the context cost of the full instructions when a task actually warrants it.
 

@@ -48,9 +48,9 @@ related:
   - INS-260402-72EF
   - INS-260403-A360
   - INS-260403-1202
-  - INS-260405-89E7
   - INS-260405-6BBC
   - INS-260327-0C4A
   - INS-260423-7396
+  - INS-260627-D042
 ---
 Norton: once you have good data, build a deterministic or ML lead score and keep filling in the map of the target market — but this only works if one person owns the centralization. Per-rep DIY lead lists fail; somebody must take all the good ideas, build them to higher production quality, and deploy one version at scale to every rep, and it must be a trained specialist because expert output is not 50–100% better but ~20x better. Strongly corroborates the KB's centralized-owner / GTM-engineering-as-the-multiplier principle (one owner, evergreen architecture).

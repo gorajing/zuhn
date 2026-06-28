@@ -1,17 +1,11 @@
 # Tag: pattern-recognition
 
-- `INS-260403-A3E4` Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.
-- `INS-260330-0C0C` Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
-- `INS-260514-F565` AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
-- `INS-260627-F193` 'It works' isn't enough — every time you skip thinking to keep up with generation speed, you don't just add code you don't understand, you lose the instinct that says 'this is getting complex.'
-- `INS-260410-4EB9` Opus enumerated 9 specific benchmark names (GAIA, BrowseComp, FRAMES, SimpleQA, WebArena, AgentBench, FanOutQA, MuSR, HLE) unprompted — it has an internal catalog of what evals look like.
-- `INS-260330-2EC0` On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
-- `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
-- `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
+- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
+- `INS-260405-638B` Neural networks with no sleep schedule and superior pattern recognition are coming for the VC analyst layer first.
+- `INS-260410-FC55` eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
+- `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
 - `INS-260403-CF23` Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
-- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
-- `INS-260412-37B2` The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
@@ -19,20 +13,18 @@
 - `INS-260403-C0D4` Failure is a better teacher than success because failure modes cluster predictably while success depends on unrepeatable context.
 - `INS-260326-A7CB` The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260403-AEF2` We judge early versions of ambitious projects by finished-work standards because we have no cultural customs for evaluating them correctly.
-- `INS-260405-638B` Neural networks with no sleep schedule and superior pattern recognition are coming for the VC analyst layer first.
-- `INS-260410-FC55` eBay returned 92x the fund because it was already working at the time of investment — the 'risk' was purely in how the UI looked and what people were selling (beanie babies).
-- `INS-260403-AAC8` Harry Stebbings missed $400M+ in gains on Deel and Vanta by letting market concerns override his conviction in generational founders, permanently changing his investment framework.
+- `INS-260412-37B2` The same atoms arranged differently produce coal, diamond, banana, or squirrel — identity is pure pattern.
 - `INS-260403-FE8D` Stebbings observes that 90% of great founders show entrepreneurial behavior before age 13, and that gaming clan leadership is more predictive of startup success than college prestige.
 - `INS-260403-B08E` Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 - `INS-260404-AB0F` When copying good work, deliberately identify what makes it good rather than defaulting to its most visible and easily copied surface features.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
-- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
-- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260404-8908` Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-DECB` The prime number spirals arise from rational approximations of 2pi in the coordinate system, not from any property of primes themselves.
+- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260403-9DB6` Steady accumulation of documented incidents shifts opinion more than any single dramatic event because patterns resist counter-narrative.
 - `INS-260412-C71D` Bukele's path from emergency legislative session to marching soldiers into congress to dismissing Supreme Court judges to reinterpreting term limits followed a step-by-step escalation where each move had plausible justification.
 - `INS-260403-7EB2` Keep a running notes document tracking exec questions and feedback to anticipate their reactions in future discussions.
@@ -42,6 +34,14 @@
 - `INS-260403-9BBA` The Uncanny Valley is best understood not as a robot-specific phenomenon but as what happens when anything straddles the boundary between two categories our brain needs to resolve.
 - `INS-260329-F51D` The Google engineer observes that excellent programmers are distinguished not by knowing more data structures but by knowing when each one is the right choice for the task.
 - `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
+- `INS-260403-A3E4` Human specialization in sparse-data pattern recognition may represent a near-optimal solution that AI cannot meaningfully surpass.
+- `INS-260330-0C0C` Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
+- `INS-260514-F565` AI cheating rates haven't risen (still 5-10%), but the 'smoking gun' is gone — AI code is amalgamated, not copied from a URL. Prosecution shifts from source-attribution to pattern recognition: 'this isn't this student's work.'
+- `INS-260627-F193` 'It works' isn't enough — every time you skip thinking to keep up with generation speed, you don't just add code you don't understand, you lose the instinct that says 'this is getting complex.'
+- `INS-260410-4EB9` Opus enumerated 9 specific benchmark names (GAIA, BrowseComp, FRAMES, SimpleQA, WebArena, AgentBench, FanOutQA, MuSR, HLE) unprompted — it has an internal catalog of what evals look like.
+- `INS-260330-2EC0` On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
+- `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
+- `INS-260404-93CD` Building bottom-up forces continuous pattern recognition that simplifies the overall design in ways upfront planning cannot.
 - `INS-260410-95BC` Sam Walton walked into competitor stores with a yellow legal pad for 50 years — and claimed to have spent more time in Kmarts than any Kmart employee outside of senior management.
 - `INS-260403-5762` PMF is unrecognizable in real-time because founders are too deep in operational chaos to see the macro signal.
 - `INS-260323-5F8A` Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.

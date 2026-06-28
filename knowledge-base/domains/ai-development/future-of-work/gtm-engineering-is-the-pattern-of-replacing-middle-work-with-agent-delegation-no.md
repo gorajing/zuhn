@@ -56,7 +56,7 @@ related:
   - INS-260330-D61A
   - INS-260403-83E2
   - INS-260403-DF37
-  - INS-260423-72D0
   - INS-260424-90E6
+  - INS-260327-2627
 ---
 Most AI adopters apply Claude Code to their existing task list and report speed gains. This underestimates the shift. The operative change is topological: the human stops doing the middle work (scraping, filling forms, writing first drafts, transforming data, uploading assets) and becomes an ideator-plus-polisher. Claude Code becomes the engine running 10-15 parallel tasks while the human jockeys context across windows. This is not merely 2-3x faster — it is fundamentally a different kind of job, with different skills rewarded (clear articulation, context-switching, quality evaluation) and different skills obsoleted (task execution, data massaging, manual integration). Founders and operators who continue to do middle work themselves will find their per-hour output 10-20x below competitors who have made the topological shift.

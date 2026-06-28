@@ -63,7 +63,6 @@ stance: >-
   feature-heavy one because the model already knows how to be a coding agent
   from post-training.
 related:
-  - PRI-260426-890F
   - INS-260514-4FDC
   - INS-260524-63C9
   - INS-260605-8C71
@@ -72,7 +71,8 @@ related:
   - INS-260626-09E1
   - INS-260626-5D7C
   - INS-260626-9A39
-  - INS-260404-CE26
+  - PRI-260426-890F
+  - INS-260627-D2EF
 ---
 Zechner points to the Terminal Bench leaderboard (December 2025) where Terminus — the most minimal harness imaginable, exposing only a tool to send keystrokes to a tmux session and read the output — scores higher than the native harnesses of the same model families. No file tools, no sub-agents, no orchestration. This inverts the prevailing assumption that more scaffolding produces better agents.
 

@@ -1,5 +1,7 @@
 # Tag: product-design
 
+- `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
+- `INS-260405-9409` Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match.
 - `INS-260405-670E` Map your AI product on determinism vs. emotional intelligence before designing it, or you'll optimize for the wrong axis.
 - `INS-260605-5DE9` DeepMind built a fake Wikipedia, Reddit, and an entire OS where every page, comment, and HTML element is generated live on each click — possible only because latency is low enough to feel like a real app.
 - `INS-260410-CC1F` Zuckerberg grounds the AI-companion product thesis in a concrete social statistic: Americans average fewer than three close friends but want around fifteen — the gap is the market, and AI fills it when physical connection is unavailable.
@@ -17,8 +19,6 @@
 - `INS-260530-7FE2` Abhije: At YouTube, PMs use Google AI Studio to bring 5 working prototypes to team meetings — the team picks one to develop further, replacing the old PM-writes-PRD-then-UX-makes-wireframe flow.
 - `INS-260327-45B4` A user created sketch notes of his chemist father's lectures using Nano Banana, enabling their first real conversation about the work in decades, a use case Google never anticipated.
 - `INS-260403-AFBB` AI products should optimize for user absence, not presence — the best product is one you never have to look at.
-- `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
-- `INS-260405-9409` Triggering the human 'being-to-being' interaction mode produces engagement that productivity tools are constitutionally unable to match.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-CC35` Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
@@ -45,6 +45,7 @@
 - `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
 - `INS-260403-CEB7` The best products come from teams of 4-6, not 40-60 — the original Mac was 20 people, the iPhone was 24.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - `INS-260410-BED1` A tabletop needs a harder-wearing finish than a bookshelf's interior shelf — spending equally on both just hurts the customer through higher price.
 - `INS-260403-E86E` The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
@@ -54,4 +55,3 @@
 - `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260404-E5EB` Delight operates through three pillars: removing friction, anticipating needs, and exceeding expectations.
-- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.

@@ -71,7 +71,7 @@ related:
   - INS-260514-F2D5
   - PRI-260405-0676
   - PRI-260406-3EF8
-  - PRI-260407-9DDF
+  - INS-260627-D042
 ---
 Coding agents thrive partly because their users are technical and the workflow is mistake-tolerant: a developer can read the agent's output, catch errors, and steer it the rest of the way. Malde points out this tolerance does not transfer to fields like legal, where 'getting 80% of the way there is the same thing as zero.' A contract redline that is mostly right is not usable; it must be fully right, and only a domain expert can certify that.
 

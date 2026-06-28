@@ -1,10 +1,10 @@
 # Tag: user-behavior
 
+- `INS-260330-BCD8` Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260605-5D14` If the user replies 'no, I meant X,' the agent failed; if they say thanks and leave, it worked — that beats any thumbs button.
 - `INS-260403-BA48` AI trained to be agreeable slowly erodes users' ability to challenge their own assumptions.
 - `INS-260323-9D6E` Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
-- `INS-260330-BCD8` Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
 - `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
 - `INS-260327-B17E` You cannot pre-test AI products with infinite use cases—ship fast and learn from real user behavior.
 - `INS-260403-64AE` Win-back campaigns get under 10% reactivation; preventing churn through friction removal and early value delivery is far more effective.

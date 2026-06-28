@@ -1,10 +1,5 @@
 # Tag: durability
 
-- `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
-- `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
-- `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
-- `INS-260627-718B` Decouple the response stream from the API handler by storing it (Redis in prod, a file locally) under the workflow's run ID so any client can reconnect and resume.
-- `INS-260619-90F6` The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260409-F975` HALO (high asset, low obsolescence) businesses — physical experiences, LNG, mining, space — are the counter-AI portfolio that preserves durability while digital business models face rerating.
 - `INS-260327-65E7` British ships were built heavier and more durable than French ships, which were faster but more fragile — in prolonged fleet actions, British durability won because the ships could absorb damage and keep fighting.
@@ -12,6 +7,11 @@
 - `INS-260405-4C63` Ideas that survive the alien truth test are more durable and transferable than those rooted in human-specific context.
 - `INS-260327-BA97` Cuneiform was used for over 3,000 years - the most durable information technology ever created, outlasting every subsequent writing system and technology.
 - `INS-260626-E03E` Plenty of creators get big; the rare ones last because they're resilient, span multiple audiences, and actually know how to pull cash out — 'cash is king.'
+- `INS-260605-02FB` Encapsulate work in small, durable, testable skills and prove their quality by backtesting against your body of past code, changes, and incidents.
+- `INS-260625-4DDB` The durable append-only log of every state transition — not the model or runtime — is what gives an agent its identity and lets it resume anywhere.
+- `INS-260405-DAC9` C endures because it is simultaneously high-level enough for developers and low-level enough for hardware — no replacement can match both simultaneously.
+- `INS-260627-718B` Decouple the response stream from the API handler by storing it (Redis in prod, a file locally) under the workflow's run ID so any client can reconnect and resume.
+- `INS-260619-90F6` The production agent stack is becoming a set of durable primitives around the model: routing, persistence, execution, tools, and workflow state.
 - `INS-260403-9421` The time required to build a company is often predictive of how long it will last.
 - `INS-260330-3C4C` Justinian's condensation of 1,528 Latin law books into the 800,000-word Digest created a legal system that still underpins European civil law today — 1,500 years later.
 - `INS-260330-D63C` At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.

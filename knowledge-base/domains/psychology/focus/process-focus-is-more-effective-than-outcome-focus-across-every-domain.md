@@ -47,10 +47,11 @@ stance: >-
   and anxiety-generating.
 related:
   - INS-260322-A928
-  - INS-260327-3A15
   - INS-260329-F2E1
   - INS-260403-E365
   - INS-260323-DA91
+  - INS-260327-3A15
+  - INS-260627-3BE0
 evidence:
   - id: INS-260329-F2E1
     type: SUPPORTS

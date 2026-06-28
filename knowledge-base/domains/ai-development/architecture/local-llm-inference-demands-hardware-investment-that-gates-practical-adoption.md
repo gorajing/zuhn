@@ -45,9 +45,9 @@ stance: >-
 related:
   - INS-260605-8E08
   - INS-260514-D023
+  - INS-260627-7648
   - INS-260605-86BE
   - INS-260327-DECA
-  - INS-260404-CE26
 evidence:
   - id: INS-260327-DECA
     type: SUPPORTS

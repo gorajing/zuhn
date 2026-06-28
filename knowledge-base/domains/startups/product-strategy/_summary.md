@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 102 insights
+> 103 insights
 
 - `INS-260405-4AAD` [high] Juicero raised $120M for technology that was immediately undermined when customers realized the same outcome was achievable by hand.
 - `INS-260626-04B1` [high] Kitze spent 3-4 years adding 60 features to Benji and never shipped it, while others took one of those features (photo-to-calorie tracking) and made millions.
@@ -98,6 +98,7 @@
 - `INS-260403-35CB` [medium] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260404-A850` [medium] Dynamic, AI-driven posture adjustment beats static security configurations because threat landscapes change faster than humans can respond.
 - `INS-260330-C95F` [medium] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
+- `INS-260627-8867` [medium] Enterprise deep research is just consumer deep research aimed at private data — a template for spotting enterprise opportunities by re-pointing validated consumer capabilities inward.
 - `INS-260423-2C05` [medium] Jason Lemkin: in the AI era you literally probably have to build five distinct products to get to that billion — not a little feature, not a little enhancement. Stuart Butterfieldesque reluctance to go multi-product is much less excusable today.
 - `INS-260625-0750` [medium] Let people who can code do the building and people who know the domain own the evals and prompt engineering — two personas that must converge on a good AI product.
 - `INS-260405-28DF` [medium] Viability is table stakes; competitive differentiation must be designed in from day one.

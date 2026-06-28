@@ -57,7 +57,6 @@ stance: >-
   A handful of researchers optimizing a harness around a cheaper model can beat
   foundation labs on hard benchmarks at a fraction of the cost.
 related:
-  - INS-260322-31F8
   - INS-260410-5951
   - INS-260514-BB1C
   - INS-260605-8F42

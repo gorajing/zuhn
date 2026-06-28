@@ -1,6 +1,5 @@
 # Tag: monetary-policy
 
-- `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.
 - `INS-260403-988C` Banks that chased yield in long-duration bonds during zero-rate years faced catastrophic unrealized losses when the Fed hiked aggressively, triggering depositor runs.
 - `INS-260412-3EFA` Japan's window guidance system first directed capital into productive sectors, then became the engine of reckless lending that created the bubble.
 - `INS-260412-B2FC` Because fiat money creation is inflationary by design, rational actors will always seek assets outside the system — gold historically, crypto increasingly.
@@ -24,3 +23,4 @@
 - `INS-260330-AACC` Zimbabwe's redenominations (removing 10 and then 12 zeros) failed because citizens' inflation expectations were self-fulfilling without credible institutional reform.
 - `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260403-CFBD` Weaponizing legal institutions against independent economic bodies trades durable stability for short-term political leverage.
+- `INS-260404-C5B7` The Fed's January 2026 minutes explicitly cite AI as driving investment strength while simultaneously creating hiring uncertainty and financial concentration risk.

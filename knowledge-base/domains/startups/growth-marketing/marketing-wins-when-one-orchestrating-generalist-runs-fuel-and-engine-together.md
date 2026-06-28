@@ -42,9 +42,9 @@ stance: >-
   fuel from the engine is the core failure mode.
 related:
   - INS-260410-91A6
+  - INS-260627-D042
   - INS-260403-FF65
   - PRI-260406-F9AC
   - PRI-260406-80E7
-  - INS-260323-1CA4
 ---
 Kramer argues you must tightly combine 'fuel' (content, messaging, creative) and 'engine' (distribution); if the people on fuel are detached from the engine you cannot win, and handoffs between teams add friction in a faster world. She calls the needed person a 'gen marketer': a generalist who orchestrates across sub-functions, runs differentiated big-bet campaigns, and is deep in agentic AI workflows. Maps to the KB's centralized-owner / one-specialist theme and the gen-marketer↔GTM-engineer family of roles.

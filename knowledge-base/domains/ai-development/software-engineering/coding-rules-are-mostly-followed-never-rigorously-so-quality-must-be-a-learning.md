@@ -64,6 +64,7 @@ related:
   - INS-260605-77EB
   - PRI-260403-67FC
   - PRI-260405-6867
+  - INS-260627-C750
 ---
 When surveyed, developers said their generation rules land somewhere in 'mostly followed' — not completely, not rigorously, not at the technical depth they intended. This is the core unreliability of declarative rules: they shape output probabilistically, not deterministically, so a rule like 'no nested ifs' still ships violations.
 

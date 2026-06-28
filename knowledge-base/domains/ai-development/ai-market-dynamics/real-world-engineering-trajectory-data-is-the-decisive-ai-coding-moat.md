@@ -66,13 +66,13 @@ related:
   - INS-260405-A5C8
   - INS-260409-7731
   - INS-260409-8181
-  - INS-260410-46BB
   - INS-260410-59F4
   - INS-260410-991B
   - INS-260410-D0F5
   - INS-260501-A550
   - INS-260505-2FFB
   - INS-260505-3CA0
+  - INS-260505-CDAE
 ---
 Pash's 'truth nuke': every major agent lab captures real-world coding trajectory data behind the scenes, but no one talks about it or publishes it, and they cite unstudiable internal benchmarks to justify legacy systems. The strategic claim is that this data — captured sessions of real engineers working on real tasks — is the only thing that actually moves model capability, which makes it a deeper moat than prompts, tools, or harness design. Better prompts and tools don't improve the underlying model; the data does. Standing between real engineers and the models gives agent labs a singular position in history, and keeping that data closed actively slows frontier research.
 

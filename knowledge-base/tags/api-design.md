@@ -26,3 +26,5 @@
 - `INS-260329-ACEB` Using tuples for coordinates signals 'this data is fixed' at the type level, making the constraint impossible to violate rather than merely documented.
 - `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
 - `INS-260626-3C9A` Krause's non-fundamental wish: tool vendors should restart their stack and build instruments for agents and robots, the way software moved to CLIs and MCP, so you train people to run the system rather than the instrument.
+- `INS-260627-7648` The compiled local models are exposed through a client.embeddings.create surface that mirrors the official OpenAI client, so adopting any open-source model costs only a changed model argument.
+- `INS-260627-9FDC` Anthropic's platform philosophy is a tight loop: research trains Claude to be good at something, then the platform exposes that something as a tunable API feature so developers can harness it.

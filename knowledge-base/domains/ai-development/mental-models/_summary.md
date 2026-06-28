@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 34 insights
+> 35 insights
 
 - `INS-260605-71E7` [high] DinoV3 is a strictly better encoder than DinoV2, yet generative models aligned to DinoV3 perform worse — component quality doesn't compose into system quality when objectives differ.
 - `INS-260514-13B6` [high] AI is alien intelligence — powerful but qualitatively different. Direct it like a conductor directs an orchestra. The 'AI as smarter version of yourself' mental model misjudges its failure modes; the 'alien-but-directable' model harnesses its strengths.
@@ -10,6 +10,7 @@
 - `INS-260330-5A2A` [high] All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
 - `INS-260627-102F` [high] Prioritize DevEx investments that help humans and agents equally — they are guaranteed to pay off no matter how AI evolves.
 - `INS-260330-798D` [high] Computing the 100th power of a matrix is a nightmare in standard coordinates but trivial in an eigenbasis — just raise each diagonal eigenvalue to the 100th power.
+- `INS-260627-0127` [high] You don't need to translate every possible Python function — only the base set of elementary operations, because all variety is composition and permutation of that small set.
 - `INS-260410-DA81` [high] Because d(loss)/d(logits) equals softmax(logits) − onehot(y), the gradient row sums to zero — every incorrect class is pushed down by exactly the amount the correct class is pushed up, with force scaling as the prediction's confidence in wrong answers.
 - `INS-260514-A0AC` [high] Quantum effects aren't rare — they're ubiquitous, but every system entangles with so many environmental particles that the correlations spread out and become invisible. Classical reality is an emergent layer hiding the quantum substrate.
 - `INS-260626-5E7E` [high] Adding Gaussian noise drowns out high frequencies first and low frequencies last, so diffusion effectively generates images coarse-to-fine — a 'spectral autoregression.'

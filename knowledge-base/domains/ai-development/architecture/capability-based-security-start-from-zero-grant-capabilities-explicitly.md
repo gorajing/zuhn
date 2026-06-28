@@ -65,6 +65,7 @@ related:
   - INS-260619-F7E3
   - INS-260625-DCE4
   - INS-260626-5671
+  - INS-260627-C0F1
   - INS-260627-9478
 ---
 The emerging agent 'harness' is not just a code generator — it is a safe execution space into which capabilities are deliberately exposed. The key architectural inversion is against the container mental model: a container ships with all sorts of features that you then surround with external security. A capability-based sandbox starts with nothing — the only thing it can do is execute code. No outgoing fetches, no exposed APIs, nothing. You then grant capabilities one at a time, as APIs.

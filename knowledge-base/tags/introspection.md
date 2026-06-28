@@ -1,6 +1,5 @@
 # Tag: introspection
 
-- `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.
 - `INS-260330-3491` Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
 - `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-DE69` The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising.
@@ -11,3 +10,4 @@
 - `INS-260405-1CAA` You know what you believe but rarely why you believe it — the source code is gone.
 - `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260501-F021` Time, introspection, honesty. No shortcut to knowing yourself. Lose money in stocks? Own it, don't blame the market.
+- `INS-260605-6752` Reasoning models are good enough at self-introspection that a simple report tool, encouraged in the system prompt and framed as giving feedback to its creators, surfaces tool failures, capability gaps, user frustration, and self-correction hacks — but RLHF politeness makes naming and framing critical.

@@ -47,8 +47,8 @@ related:
   - INS-260627-FC32
   - INS-260404-6BD6
   - INS-260627-6031
+  - INS-260627-EFD5
   - INS-260501-91C2
   - INS-260405-A992
-  - INS-260625-447A
 ---
 The successful policies use only local concentration-change observations and individual rewards during deployment. Yet the swarm can collectively block or unblock flow because chemical sources define task-relevant gradients and each robot follows the same local policy. This matters for medical microrobots because inter-robot communication at micron scale is unrealistic; coordination must be encoded in the environment and task signal. The broader automation lesson is that many multi-agent systems should first ask whether the workspace can provide shared structure before adding explicit communication, negotiation, or planning layers.

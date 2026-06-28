@@ -1,10 +1,5 @@
 # Tag: understanding
 
-- `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
-- `INS-260423-55B2` Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words.
-- `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
-- `INS-260501-D9D1` Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why.
-- `INS-260627-8674` The authorization refactor only became automatable after the team did one migration entirely by hand — reading code, breaking things, surfacing hidden invariants — then fed that pull request to the agent as a seed.
 - `INS-260327-AEFA` Some mysteries aren't problems to solve but sources of wonder that analysis would destroy rather than enhance.
 - `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
 - `INS-260327-4C73` A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.
@@ -17,3 +12,8 @@
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
 - `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260327-6021` Spinoza didn't say stop feeling - he said understand why you feel, because understanding transforms overwhelming emotions into manageable ones.
+- `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
+- `INS-260423-55B2` Hinton: I asked GPT-4 why a compost heap is like an atom bomb, and it explained both generate their outputs faster as they heat up — that requires understanding chain reaction structure, not just finding juxtaposed words.
+- `INS-260625-9C3D` Gemini's speech and conversational generation are powered by the same audio-understanding research, because you can only generate what the model already comprehends.
+- `INS-260501-D9D1` Agents are interns with great recall; humans own the spec, the unique-user-ID decision, and the why.
+- `INS-260627-8674` The authorization refactor only became automatable after the team did one migration entirely by hand — reading code, breaking things, surfacing hidden invariants — then fed that pull request to the agent as a seed.

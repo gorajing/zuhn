@@ -60,13 +60,13 @@ related:
   - INS-260325-BA76
   - INS-260325-C830
   - INS-260330-0FBF
-  - INS-260330-8901
   - INS-260403-F76E
   - INS-260404-F32F
   - INS-260330-8EC6
   - PRI-260406-1437
   - INS-260409-2663
   - INS-260409-FB26
+  - PRI-260406-C60B
 ---
 Functional self-awareness involves explicit computational capacity for self-monitoring, evaluation, and adjustment — capabilities already implemented through critic layers, feedback mechanisms, and confidence calibration in current models. Phenomenal self-awareness involves subjective experience with intrinsic 'feel' — conscious states that current AI systems do not possess. Their self-descriptive behaviors are computationally generated statements without experiential grounding.
 

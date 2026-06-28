@@ -1,10 +1,5 @@
 # Tag: market-structure
 
-- `INS-260403-9CA6` AI development follows a polytheistic pattern of competing specialized systems rather than converging toward a single dominant model.
-- `INS-260410-8E02` Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
-- `INS-260404-3D17` AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
-- `INS-260626-2B7F` Whether there are a couple or five frontier labs sets token prices, and token prices in turn govern how value is split between labs, applications, and labor — making lab market structure the biggest knowable-unknown in AI.
-- `INS-260403-A52D` Competitive fragmentation in AI markets creates natural redundancy that limits any single rogue AI's ability to permanently harm humanity.
 - `INS-260409-5FBA` OpenAI is a consumer-subscription business and Anthropic is an API/enterprise business; comparing headline revenue numbers is apples-to-oranges until both normalize for public markets.
 - `INS-260410-0118` Pork and egg production look like commodity businesses but concentrate into handful-of-firm oligopolies whose price-fixing and inelastic demand let them earn outsized profits.
 - `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
@@ -18,6 +13,11 @@
 - `INS-260404-2250` High-resolution fundraising rewards bold investors with better prices and deal access while penalizing passive 'who else is investing?' followers.
 - `INS-260403-5031` Seed VCs face tighter ownership, higher prices, and tougher differentiation as mega-funds move downmarket and AI startups demand more capital.
 - `INS-260404-109D` The US VC playbook assumes capital market infrastructure that most global markets lack, making direct transplantation a structural mistake.
+- `INS-260403-A52D` Competitive fragmentation in AI markets creates natural redundancy that limits any single rogue AI's ability to permanently harm humanity.
+- `INS-260403-9CA6` AI development follows a polytheistic pattern of competing specialized systems rather than converging toward a single dominant model.
+- `INS-260410-8E02` Whenever the buyer is a corporation, IT department, or government, market structure forecloses winner-take-all outcomes — the buyer will force multiple suppliers to exist.
+- `INS-260404-3D17` AI's highest-value opportunities are shifting from horizontal platforms to deep industry-specific solutions.
+- `INS-260626-2B7F` Whether there are a couple or five frontier labs sets token prices, and token prices in turn govern how value is split between labs, applications, and labor — making lab market structure the biggest knowable-unknown in AI.
 - `INS-260404-A2C4` AI companies appear at every valuation tier from $10B to $157B across radically different verticals, confirming AI as a horizontal platform shift.
 - `INS-260409-62E0` AI's market structure will look like a barbell with hyper-micro entrepreneurs on one end, ~25 supercalers on the other, and a crushed middle of SaaS and mid-market service businesses.
 - `INS-260330-95F3` Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.

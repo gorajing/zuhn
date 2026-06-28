@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260403-7AD0
   - INS-260403-5365
+  - INS-260627-42AE
+  - INS-260627-8867
   - PRI-260406-2546
   - INS-260514-838D
-  - INS-260403-A3B2
-  - INS-260403-FCF7
 ---
 The historical moat in equity research was access—proprietary data feeds, expert networks, analyst coverage. AI collapses this advantage because public data combined with structured prompting can now replicate much of what institutional research desks produce. The edge shifts from 'what data do you have' to 'how effectively do you synthesize and test hypotheses.'
 

@@ -1,7 +1,5 @@
 # Tag: fintech
 
-- `INS-260626-AE0C` Finance adopts AI by running the new system alongside the proven one until it's verified, because unlike consumer tech it isn't allowed to make mistakes.
-- `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
 - `INS-260403-14C7` Better ML models achieving greater accuracy from smaller datasets allow startup marketplaces to match incumbent underwriting capabilities without decades of historical data.
 - `INS-260322-2D2F` Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
 - `INS-260404-EC16` Fintech investment is recovering unevenly, with infrastructure plays attracting capital while consumer fintech struggles.
@@ -13,6 +11,8 @@
 - `INS-260322-96F1` The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
 - `INS-260405-5514` Onfido's acquisition delivered a reported 320x return to its first backer, demonstrating that early conviction in infrastructure fintech compounds dramatically regardless of how the exit occurs.
 - `INS-260404-9FBC` Ramp's 153% YoY growth at $1B revenue is 10x the median public SaaS growth rate, suggesting AI-native business models resist typical growth deceleration.
+- `INS-260626-AE0C` Finance adopts AI by running the new system alongside the proven one until it's verified, because unlike consumer tech it isn't allowed to make mistakes.
+- `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260404-8CA8` Ramp reached $1B revenue with 153% YoY growth by using AI to automate 26 million financial decisions across $10B in customer spend.
 - `INS-260325-B8CB` BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.

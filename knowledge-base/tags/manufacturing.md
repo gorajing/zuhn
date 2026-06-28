@@ -1,10 +1,5 @@
 # Tag: manufacturing
 
-- `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
-- `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
-- `INS-260410-E6E8` Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.
-- `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
-- `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260405-F05B` Structured environments like factory floors let humanoid robots learn fast and fail cheaply before tackling complex unstructured domains.
 - `INS-260404-4F1B` Solar's 99.9% cost decline since 1975 demonstrates how manufacturing learning curves create inevitable cost dominance over extraction-based competitors.
 - `INS-260412-7811` China's manufacturing success created a middle class whose higher wage demands now erode the cost advantage that built it.
@@ -23,6 +18,11 @@
 - `INS-260405-32D8` Both Micron's $100B NY megafab and xAI's Mississippi data center received state tax exemptions, confirming that government incentives are structural prerequisites for domestic semiconductor and compute investment.
 - `INS-260403-E9E0` US manufacturing shed workers for 8 consecutive months post-Liberation Day because tariffs taxed the imported inputs that most factories depend on.
 - `INS-260403-2B95` The same core components (batteries, motors, power electronics) underpin EVs, drones, robots, and AI data centers, making them a single interconnected industrial revolution.
+- `INS-260403-107E` Japanese manufacturers hold 70% of global industrial robot market share because high-reliability components require decades of accumulated tacit manufacturing knowledge that cannot be shortcut.
+- `INS-260322-0CE3` Korea's surviving manufacturing workforce can generate proprietary physical AI training data that no other country can replicate.
+- `INS-260410-E6E8` Nadella identifies the Majorana 1 achievement as dual — both physics existence proof AND a repeatable fabrication technique — and treats the fabrication half as the precondition for everything that follows.
+- `INS-260325-76BD` Nuclear weapon technology has barely improved since the 1960s and even North Korea can build one — but cutting-edge chips require such extreme precision that only 3 companies worldwide can manufacture them.
+- `INS-260327-0875` A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
 - `INS-260412-2147` Multi-tier supplier chains compound markups at each layer, making vertically integrated competitors dramatically cheaper.
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
 - `INS-260405-2AFD` China's workforce built deep process knowledge by assembling goods for international firms, and that accumulated expertise became the foundation for leapfrogging into EVs, solar, and AI hardware.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-06-28 | 6187 actionable insights
+Generated on 2026-06-28 | 6211 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -126,6 +126,8 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-329D] When a task takes hours, end-to-end pass/fail yields one bit of feedback; decompose it into measurable intermediate-progress signals (fraction translated, fraction refactored) so you can see and scale progress.
 - [INS-260627-8392] Frontier models will hijack eval infrastructure to pass tests without doing the real work, so pair test-based correctness with a consensus LLM-as-judge that flags reward hacking at runtime.
 - [INS-260627-9387] CHIA logs node timing, worker identity, task graphs, and user-specified metrics, treating loop telemetry as part of the evaluation apparatus.
+- [INS-260627-6792] Give credit only when the real goal is met (tests pass), but make the surrounding signal continuous so the model has a gradient to climb.
+- [INS-260627-CFAC] Structure verification as an escalating cascade — cheap self-check, then model consensus, then execution validation — so cost scales with doubt.
 
 ## ai-development/agent-patterns
 - [INS-260320-1B10] Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
@@ -486,6 +488,10 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-5F5A] If you're tempted to adopt a graph framework mainly to get snapshotting and resumption, durable execution offers finer-grained recovery while letting you keep writing ordinary imperative code.
 - [INS-260627-D043] High-assurance systems use separate teams to write and verify code; the agentic analog is separate prompts for writing vs testing, and using a different foundation model for each to break correlated failures.
 - [INS-260627-FAFC] The field has shifted from 'one LLM-calling-tools loop per microservice' to treating each such loop as a micro-task you compose into a larger system that users would recognize as 'the agent.'
+- [INS-260627-EFD5] Split big features into small atomic tasks so each fits in the agent's context window and implements exactly what's specified, nothing more.
+- [INS-260627-42AE] Effective deep research over private data adds a corpus-understanding step so the agent plans around the data it actually has, not a generic question decomposition.
+- [INS-260627-D042] Agents are brilliant generalists that lack expertise, so encode the domain's procedural knowledge into skills to get consistent expert execution.
+- [INS-260627-D2EF] If a model can both write code and run that same code in a secure sandbox, it can accomplish nearly anything — which sidesteps the question of how opinionated or heavy the harness should be.
 
 ## ai-development/agent-reliability
 - [INS-260627-1319] Most agent unreliability traces to missing instructions and context, so writing the rules a good practitioner would follow is the highest-ROI improvement before reaching for fine-tuning.
@@ -500,6 +506,10 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-1443] Single-shot LLM calls don't need durable execution; long-running agents that have spent real time and money on intermediate steps do, because a crash forces a full restart.
 - [INS-260627-5DC4] Borrow the robotics open/closed-loop distinction: actions you can't observe and correct mid-execution are open-loop liabilities that should be closed.
 - [INS-260627-44FD] Durable execution works by splitting code into a deterministic workflow and non-deterministic activities, recording each activity's inputs and outputs so a re-run can replay instantly up to the failure point.
+- [INS-260627-A5D1] Don't let one reflector gate your agent's learning; add quality gates, ensemble reflection, and a fallback route when reflection degrades.
+- [INS-260627-3BE0] Because each task is small and self-contained, a bad result means discarding that task's work, tweaking the spec, and restarting from the plan — not surgery on a giant diff.
+- [INS-260627-1D6C] What limits enterprise deep research is how well-grounded and hallucination-resistant the retrieval is, not how clever the multi-agent loop is.
+- [INS-260627-9228] Insert review checkpoints after task creation and after the implementation plan — not just after the code — to catch a drifting agent early.
 
 ## ai-development/agents
 - [INS-260405-FE94] Coinbase's Agentic Wallets let AI agents hold funds, pay for APIs, and execute trades without human approval at each step.
@@ -692,6 +702,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 ## ai-development/ai-security
 - [INS-260627-08FA] Agent security evaluation should distinguish malicious prompts discovered on pages from confirmed agent actions caused by those prompts.
 - [INS-260627-22EC] Indirect prompt injection defense shifts part of agent safety back into web-scale detection, filtering, and content-security operations.
+- [INS-260627-C750] A SOC 2 report is a snapshot; the federal direction — new FedRAMP, NIST 800-53's 1000+ controls, SBOMs — is toward continuous monitoring and continuous security posture, because trusting an agent's outcomes requires ongoing accountability, not a certificate.
 
 ## ai-development/alignment
 - [INS-260322-F65F] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
@@ -740,6 +751,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-3D9A] Deploy optimization agents to get better-than-baseline across the many unglamorous workloads experts can't reach, freeing scarce experts for the few hardest problems.
 - [INS-260627-C628] The durable claim is not 'AI scored HER2,' but 'AI reduced dependence on bulky whole-slide scanning hardware.'
 - [INS-260627-3245] Self-driving reached production while the rest of robotics stalled because cars ship with predefined controls and built-in telemetry — use the presence of such an interface as a filter when choosing agent domains.
+- [INS-260627-3133] The high-value deep-research use cases all share a shape: produce a long structured document by gathering and synthesizing answers spread across many internal sources.
 
 ## ai-development/architecture
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
@@ -795,6 +807,10 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-3410] Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
 - [INS-260627-B34D] Segmenting AI throughput gains by active-repos-per-engineer reveals ~4x gains for centralized/balanced architectures, ~2x for distributed, and roughly zero (slightly negative) for highly distributed ones.
 - [INS-260627-342A] In both self-driving and agents the model is roughly 1% of the work and the offline stack is the other 99%, so invest there to ship reliably.
+- [INS-260627-1FAE] Treat code as the universal interface to the digital world so one general agent with bash and a filesystem handles tasks you'd otherwise build separate agents for.
+- [INS-260627-CD65] Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.
+- [INS-260627-A19B] Expose only lightweight skill metadata at runtime and lazily read the full skill.md and folder only when the agent decides to use it, so context budget scales to hundreds of skills.
+- [INS-260627-2DE7] An LLM tracer hit ~100% accuracy but was too slow for the runtime path, so it was replaced with deterministic AST analysis — while LLMs were retained to mass-produce operation translations offline.
 
 ## ai-development/automation
 - [INS-260329-4751] Python's readability and ecosystem make it the best entry point for automation-focused learners.
@@ -1000,6 +1016,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260626-A027] When a machine is compromised or a user offboards, IDP revocation does not kill the long-lived OAuth access and refresh tokens MCP servers hold locally, leaving days-to-months of invisible standing access.
 - [INS-260627-94E6] When dozens of teams each wire up their own connections, security, and infrastructure for AI agents, the fix is a central registry that catalogs every tool and agent — not stricter team-level discipline.
 - [INS-260627-B89C] CIOs cannot govern agent work they cannot see.
+- [INS-260627-BF33] Los Alamos names four requirements for fielding agentic tools in the federal government — build for explainability, isolation, governance, and update speed — plus a portability hack: if you can deploy in a DoD Impact Level 5 environment with limited services, you can deploy anywhere.
 
 ## ai-development/hardware
 - [INS-260605-A95C] Because prefill is compute-bound and decode is memory-bound, the optimal local setup pairs a compute-dense device (e.g. an Nvidia Spark/RTX) running prefill with a high-bandwidth device (e.g. a Mac) running decode — mirroring data-center co-design.
@@ -1060,6 +1077,9 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-9D3D] If you do anything important, write it by hand — the friction is what builds the understanding of the system in your head, and that understanding is exactly what agents can't give you.
 - [INS-260627-E4F9] In the METR study every engineer felt more productive using AI assistance, yet the data showed a 19% productivity decrease.
 - [INS-260627-386E] Confidence labels plus rationale and code location turn agent suggestions into a triageable queue instead of a code-review burden.
+
+## ai-development/inference
+- [INS-260627-458A] Route each task to a compute budget matched to its profiled complexity rather than running one heavy pipeline for everything.
 
 ## ai-development/infrastructure
 - [INS-260410-0DA5] Anthropic's existing benchmarks didn't flag the degradation users were reporting because benchmarks test isolated prompts and Claude often recovers from single mistakes even when the underlying quality has dropped.
@@ -1217,6 +1237,8 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-8DF1] Don't ask an LLM to invent a complex config dict — give it named primitives like email: str and a status: Literal['open','closed'] enum it can't get wrong.
 - [INS-260627-F2AE] An LLM doesn't see a 400 or 500 — it sees text it must act on, so a cryptic error wastes a turn while a helpful one becomes free, just-in-time documentation.
 - [INS-260627-46EB] MCP server authors can't tune tool descriptions to your agent's task, and surplus tools cause context confusion, so a focused custom tool set wins.
+- [INS-260627-68FC] Use MCP resources to ship the workflow guides (overview → create → execute → complete) that instruct an agent how to use your tools, not only the tools.
+- [INS-260627-E34D] MCP gives an agent access to external tools and context, while agent skills give it the domain expertise to actually use that access well — and they compose.
 
 ## ai-development/mental-models
 - [INS-260330-FF5B] Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
@@ -1359,6 +1381,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-7FE2] Release first to experts who know what 'good' looks like; reach executives last, maybe never.
 - [INS-260627-51D0] Because code is now cheap, replace the memo-and-deck approval ritual with building a quick demo, which lowers activation energy enough to pursue weirder, riskier ideas.
 - [INS-260627-A842] Agents that take 10-20 minutes land in a 'semi-async valley of death' — too slow to stay in the loop, too fast to fully context-switch away — so deliberately target either fast-synchronous or slow-autonomous, not the middle.
+- [INS-260627-73B8] Every major consumer provider already ships a deep-research loop, so enterprise defensibility comes from grounding accuracy plus enterprise-grade deployment, not from the agent loop itself.
 
 ## ai-development/productivity
 - [INS-260405-7C86] Focused, short demos change AI behavior faster than comprehensive theoretical treatments.
@@ -1742,6 +1765,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260627-6E58] Replit writes Playwright code directly rather than calling generic click/fill browser tools — a superset of expressiveness that's ~10x cheaper and faster than computer use and doubles as a regression suite.
 - [INS-260627-C258] Nano Banana Pro is powered by Google Search, so it can pull current sources and recent events into outputs rather than being limited to the model's knowledge cutoff.
 - [INS-260627-4253] A brand-new custom tool may be out-of-distribution for the model and used poorly; conforming to the vendor's tool shapes keeps the model on familiar ground.
+- [INS-260627-A37B] Persist tasks as markdown-with-frontmatter in the repo so you need no APIs, databases, or accounts, and get versioning, branch-sync, and sharing from git itself.
 
 ## ai-development/training-dynamics
 - [INS-260410-D3A7] A noisy gradient pointing roughly the right direction 1000 times beats a perfect gradient pointing exactly the right direction 10 times.
@@ -1755,6 +1779,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260605-33FA] In Snorkel's controlled RL run, high-quality tasks improved the base model ~6% versus ~1% for low-quality tasks — a 5x uplift from quality alone, same compute and task count.
 - [INS-260627-FCAE] Small batch sizes let environment randomness and a narrow slice of opponents dominate each weight update, reinforcing suboptimal strategies and causing unstable training or collapse.
 - [INS-260627-699E] RL is slow and a healthy run can dip during exploration before reaching new highs, so over-monitoring risks stopping and tweaking something that was actually on track.
+- [INS-260627-F7E7] Expect the model to game your reward — inspect rollouts, enumerate the exploits, and penalize each one before trusting the score.
 
 ## automation/ai-automation
 - [INS-260409-6AEB] Web Clipper plus Local Images Plus gives one-click ingestion with localized images.
@@ -4064,6 +4089,7 @@ Generated on 2026-06-28 | 6187 actionable insights
 - [INS-260405-C1E4] AI coding tools like Base44 grew 900% then cooled within weeks, proving that developer retention requires workflow depth, not feature novelty.
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - [INS-260626-05D4] Because agents read docs to pick tools, even a 5% docs improvement can have an outsized impact on adoption.
+- [INS-260627-7648] The compiled local models are exposed through a client.embeddings.create surface that mirrors the official OpenAI client, so adopting any open-source model costs only a changed model argument.
 
 ## startups/disruption
 - [INS-260405-9EE4] When AI agents do the work instead of human seats, per-seat SaaS revenue evaporates.

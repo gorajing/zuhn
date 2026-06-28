@@ -54,13 +54,12 @@ stance: >-
   tasks, making the old router-to-specialist-workflow pattern obsolete.
 related:
   - PRI-260320-D5B7
-  - INS-260501-F90F
   - INS-260514-4436
   - INS-260522-213D
   - INS-260605-B6BC
+  - INS-260627-E34D
   - PRI-260328-A65A
-  - INS-260626-B38C
-  - INS-260626-DD33
+  - INS-260627-F4F9
   - INS-260626-E45C
   - INS-260627-FDB3
 ---

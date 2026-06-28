@@ -47,10 +47,10 @@ stance: >-
   outcomes.
 related:
   - INS-260404-60A6
+  - INS-260627-D042
   - INS-260404-CCB1
   - PRI-260406-F9AC
   - INS-260403-FF65
-  - INS-260403-EF2C
 evidence:
   - id: INS-260326-0AB4
     type: EXTENDS

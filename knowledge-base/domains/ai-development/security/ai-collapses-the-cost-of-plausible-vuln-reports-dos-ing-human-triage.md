@@ -57,13 +57,13 @@ stance: >-
   while verification stays human-bound, imposing an asymmetric triage burden
   that can crush open-source maintainers.
 related:
-  - INS-260322-F891
   - PRI-260321-14D8
   - PRI-260406-9780
   - INS-260330-E282
   - INS-260410-5740
   - PRI-260406-72B3
   - INS-260627-C628
+  - INS-260627-CFAC
 ---
 OpenClaw received 1,142 security advisories (~16.6/day, 99 critical) — roughly twice the rate of the Linux kernel and twice curl's all-time total — and most are AI-generated 'slop.' Steinberger's heuristic captures the asymmetry: 'the higher they're screaming how critical they are, the more likely it's slop,' and a report that is unusually polite or apologetic is 'very likely AI, because people in security don't apologize.' The structural problem is that an agent can generate a confident, well-formatted report in seconds, but a human must still 'use your brain to actually read it' because you can't yet fully trust an agent to triage — so the cost of attack/noise collapses while the cost of verification stays fixed and human. 
 

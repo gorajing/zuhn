@@ -1,5 +1,10 @@
 # Tag: ai-economics
 
+- `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
+- `INS-260322-D079` All inputs to AI are falling in cost faster than Moore's law predicted for chips, creating hyperdeflation in per-unit intelligence costs that will drive enormous elastic demand growth.
+- `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
+- `INS-260514-639F` Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game.
+- `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260625-71F4` More than 80% of surveyed SaaS companies still use seats somewhere in pricing, warning that simplicity can slow migration to usage or outcome metrics.
 - `INS-260322-770D` AI labs are already profitable on current models — the bubble risk lies entirely in whether future capex on larger models will produce proportionally larger returns.
 - `INS-260327-1D37` Dario predicts models matching Nobel Prize-level intelligence in 2-4 years, eventually doing all remote work, and argues the critical policy challenge is managing this transition before it randomly divides humanity into 'useful' and 'useless' categories.
@@ -15,11 +20,6 @@
 - `INS-260626-A927` Flops get exponentially cheaper and compute is a homogeneous market you can simply buy, while data is fragmented, regulated, and negotiated case-by-case — so a model 1000x more data-efficient is roughly 1000x easier to deploy.
 - `INS-260626-742C` Frontier model training is concentrated in few hands partly because of data centralization — labs buying out distressed bookstores and scouring rare libraries — so making models data-efficient is what would let more companies participate in the AI economy.
 - `INS-260328-0932` Stress-test every AI feature against power-user economics — if the answer is margin-negative with no fix path, it belongs in experiments, not the roadmap.
-- `INS-260403-ABB7` AI companies operate at structurally lower margins than SaaS, requiring different growth levers to achieve comparable profitability.
-- `INS-260322-D079` All inputs to AI are falling in cost faster than Moore's law predicted for chips, creating hyperdeflation in per-unit intelligence costs that will drive enormous elastic demand growth.
-- `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
-- `INS-260514-639F` Google pours $100B+ a year into AI and still makes money. Anthropic and OpenAI raise capital and burn it. Different game.
-- `INS-260410-5981` Because AI businesses run at ~50% gross margins instead of the ~80% typical of software, chip cost differentials flow directly to the bottom line, making vertical integration a durable advantage.
 - `INS-260403-101D` The shift from selling tools ($1K/person/year) to replacing labor ($100K/person/year) expands the addressable market by roughly 50x.
 - `INS-260325-BEAC` Open Router data shows 60-80% of top AI app operating costs are inference, and this ratio is growing as agentic usage explodes.
 - `INS-260402-24B0` Unlike SaaS where marginal cost trends to zero, every AI user incurs real compute cost, making undisciplined distribution a path to margin collapse.

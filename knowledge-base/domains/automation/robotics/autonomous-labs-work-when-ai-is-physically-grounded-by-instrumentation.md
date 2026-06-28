@@ -44,15 +44,15 @@ stance: >-
   preparation, controlled reactors, automated product analysis, and an
   optimizer; the AI alone is not the laboratory.
 related:
-  - INS-260328-5431
   - INS-260330-82B2
   - INS-260410-A9CE
   - INS-260605-DC65
   - INS-260605-BA4B
+  - INS-260627-C0F1
   - INS-260501-E377
   - INS-260627-00BE
   - INS-260627-01E1
-  - INS-260404-292E
   - INS-260627-1EC5
+  - INS-260627-A698
 ---
 The system could prepare catalysts, run high-pressure gas-liquid reactions, analyze products, and choose the next experiments. Each part matters: without reactors and analysis the optimizer has no trustworthy observations; without the optimizer the robot is just scripted automation. The bottleneck is the integration surface between physical execution and adaptive decision-making.

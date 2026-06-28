@@ -52,7 +52,6 @@ stance: >-
   domains require deep expertise that generalist partners cannot credibly
   provide to portfolio companies.
 related:
-  - INS-260403-028F
   - INS-260403-04FF
   - INS-260404-016F
   - INS-260403-FF65
@@ -62,6 +61,7 @@ related:
   - INS-260405-7ABE
   - INS-260404-D8D8
   - PRI-260405-E9C5
+  - INS-260625-B17D
 ---
 The VC industry is undergoing a structural shift from generalist mega-funds toward specialist vehicles focused on specific verticals like AI-powered healthcare, climate tech, or defense. This is driven by the reality that vertical AI companies need investors who understand regulatory landscapes, customer acquisition in specialized markets, and domain-specific technical nuances.
 

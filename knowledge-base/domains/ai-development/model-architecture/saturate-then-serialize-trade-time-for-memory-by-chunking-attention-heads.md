@@ -61,11 +61,11 @@ related:
   - INS-260329-818A
   - INS-260329-4696
   - INS-260329-A86F
-  - INS-260329-BC6C
   - INS-260330-B4F1
   - INS-260330-A660
   - INS-260403-0902
   - INS-260404-7060
+  - PRI-260407-5465
 ---
 The core research contribution ('Untitled Ulysses' / U-Pipe) starts from an empirical observation: computing attention for just one set of heads is already enough to saturate the GPU's compute within an iteration. That means scheduling multiple head-groups to run simultaneously buys no speed — the hardware is already busy. So instead of allocating one huge buffer sized to the full set of heads, you divide the heads into chunks, iterate through them over time, store partial results, and reuse the same smaller buffer across iterations. The result matches the most memory-optimized transformer implementations at the 8B and 32B scales while scaling to 5M tokens, sometimes even faster at shorter contexts. Chunk size is a direct memory/speed dial: larger chunks use more memory but run faster.
 

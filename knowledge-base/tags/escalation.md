@@ -1,6 +1,5 @@
 # Tag: escalation
 
-- `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
 - `INS-260327-7A27` The Decembrists' crushed uprising didn't end reform pressure in Russia — it radicalized the next generation, who moved from constitutional reform to revolutionary socialism and eventually Bolshevism.
 - `INS-260327-08E7` The assassination of one archduke triggered a world war because rigid alliance commitments (Triple Alliance, Triple Entente) created automatic escalation from a local Balkan crisis to a continental conflict.
 - `INS-260323-493D` Tactical nuclear weapons — designed for battlefield use — are the most dangerous category because their use almost certainly triggers full strategic nuclear exchange.
@@ -9,4 +8,5 @@
 - `INS-260412-95DD` Ken Lay's decision to keep rogue Valhalla traders because they were profitable established the cultural norm that profit excuses misconduct.
 - `INS-260410-0065` 85% of Japanese WWII deaths and 43% of German deaths happened in the last year of the war — after the outcome was already decided — because regimes optimize for their own survival, not their populations'.
 - `INS-260410-24DA` Paine notes that World War I started with modest territorial objectives but, as casualties mounted into the millions, escalated to demands for regime change that the original goals never contemplated.
+- `INS-260605-F828` One agent's only job is to surface alternatives with pros and cons; a separate agent decides whether it has the authority to act or must escalate.
 - `INS-260412-B25A` The immune system uses cheap macrophages to handle most threats and only escalates to expensive adaptive immunity when the first layer fails, a pattern directly applicable to organizational design.

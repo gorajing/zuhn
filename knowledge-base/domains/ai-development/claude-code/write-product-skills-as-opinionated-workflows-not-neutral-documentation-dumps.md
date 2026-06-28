@@ -58,6 +58,7 @@ related:
   - PRI-260501-1E66
   - INS-260605-E642
   - INS-260605-205E
+  - INS-260627-68FC
   - INS-260410-F910
 ---
 Pedro's third principle is to be opinionated. The vendor knows the product and how users actually use it, so the skill should guide the agent toward the workflows the vendor considers most effective rather than presenting neutral documentation. Supabase's example: for schema management, run direct DDL freely against dev/staging, then run their advisor to surface security/performance issues and fix them, and only THEN generate a migration file — which prevents the agent from spamming a migration file on every schema change.

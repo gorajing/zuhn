@@ -1,6 +1,12 @@
 # Tag: latency
 
+- `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
+- `INS-260329-AA2C` FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
+- `INS-260329-CD02` FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
+- `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
+- `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260627-8F78` Acceptance of code completions collapses once latency exceeds ~1 second, so any in-the-wild model comparison must balance latency across models or it measures speed, not quality.
+- `INS-260627-D03E` RFT tightens the distribution of tool-call counts, killing the slow, erratic long-tail runs that dominate production pain.
 - `INS-260605-1A2D` Teams fight for 10–20ms in TTS while tool calls cost 500ms–4s and are unpredictable; split the LLM so it speaks naturally during the wait, then inserts the result back into the conversation.
 - `INS-260410-376A` Gate expensive chain-of-thought reasoning behind a cheap single-token filter tuned for high recall.
 - `INS-260624-B6EA` Independent agent tool calls should run concurrently even if the model emits them sequentially.
@@ -17,6 +23,7 @@
 - `INS-260605-90FB` Human turn-taking needs the full STT→LLM→TTS loop under ~200ms, but a fast TTS alone is already >200ms, so cascaded systems can't sound human.
 - `INS-260627-6E3C` A dedicated 'oracle' reasoning sub-agent keeps the main agent fast and tool-capable, dropping into deep reasoning only when a tricky problem demands it.
 - `INS-260410-0B73` Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
+- `INS-260627-2DE7` An LLM tracer hit ~100% accuracy but was too slow for the runtime path, so it was replaced with deterministic AST analysis — while LLMs were retained to mass-produce operation translations offline.
 - `INS-260605-90CF` Client-side chat mode re-uploads the entire context every turn; stateful interaction APIs return an ID that recovers context server-side and auto-caches it.
 - `INS-260627-B1B2` Users judge an LLM app as instant-or-broken by when the first streamed token arrives, so measure TTFT separately from throughput and total latency.
 - `INS-260605-D430` Choose on-device inference when latency, privacy, offline operation, or per-token cost dominate — not when you need maximum capability.
@@ -48,12 +55,7 @@
 - `INS-260330-D483` Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
 - `INS-260329-C1A4` Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
 - `INS-260330-C06E` Real-time AI latency is solved in the serving infrastructure (caching, batching), not in the model architecture
-- `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
-- `INS-260329-AA2C` FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
-- `INS-260329-CD02` FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
-- `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
-- `INS-260405-5670` Moon's 2.3-second round-trip latency allows synchronous coordination with Earth; Mars's 10-30 minute latency forces asynchronous civilization — and asynchronous civilizations can declare independence.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
+- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
-- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).

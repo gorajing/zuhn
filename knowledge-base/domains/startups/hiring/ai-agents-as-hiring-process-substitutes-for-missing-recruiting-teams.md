@@ -48,7 +48,6 @@ stance: >-
   experienced recruiters or HR professionals
 related:
   - INS-260323-D41A
-  - INS-260323-3C7B
   - INS-260403-DC4A
   - PRI-260328-E870
   - INS-260605-800F

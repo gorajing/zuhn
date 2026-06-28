@@ -47,10 +47,11 @@ stance: >-
   Sending reasoning traces in anything but the exact format a frontier API
   expects silently degrades output with no error signal.
 related:
-  - INS-260327-9D50
   - INS-260605-1523
   - INS-260605-A2AD
   - INS-260627-AA29
+  - INS-260327-9D50
+  - INS-260627-2DE7
   - INS-260605-C0BF
   - INS-260626-14AE
 ---

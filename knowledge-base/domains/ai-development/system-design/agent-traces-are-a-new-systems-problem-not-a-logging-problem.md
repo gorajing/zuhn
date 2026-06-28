@@ -51,11 +51,12 @@ related:
   - INS-260403-410A
   - INS-260514-23D6
   - INS-260605-1A50
-  - INS-260605-58DA
   - INS-260605-7711
+  - INS-260605-58DA
   - INS-260626-BE0D
   - INS-260605-2ECD
   - INS-260625-06B3
   - INS-260626-6F8E
+  - INS-260627-2DE7
 ---
 Agent traces are 'nasty': highly semi-structured with large volumes of unstructured text embedded inside, and enormous — Braintrust reports individual spans of 20MB and full traces over 1GB. On top of size, users demand true real-time ingest (see the interaction instantly via a write-ahead log) AND heavy analytical read patterns (SQL queries, CLI access, filtering across traces). Critically, people want to full-text search traces ('show me every trace containing the word Amazon'), which conventional metric stores can't do well. Braintrust moved off ClickHouse and built a database from scratch incorporating a forked Tantivy index (a Rust analog to Apache Lucene) for text search, because OLAP engines couldn't serve the text-indexing workload. The lesson for builders: agent telemetry is a genuinely new infrastructure problem; treating it as ordinary metrics ingestion will fail at scale.

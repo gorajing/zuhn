@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260322-37EE
   - INS-260423-9225
+  - INS-260627-C0F1
   - INS-260514-8F90
   - INS-260403-C7E3
-  - INS-260626-E5E5
 ---
 Local stdio MCP is a walled garden: a single local process, one user, no network exposure, no auth needed. It works beautifully for single-player developer productivity but cannot scale; StackLock's load test showed 20 of 22 requests failing at just 20 simultaneous connections. The moment you add concurrency, stdio falls over, so to serve a team or a fleet of agents you must adopt the streamable HTTP transport.
 

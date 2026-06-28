@@ -66,8 +66,8 @@ related:
   - INS-260605-A0D2
   - INS-260603-A506
   - INS-260605-DC65
+  - INS-260627-C0F1
   - INS-260626-239A
-  - INS-260605-D37A
 ---
 When Sanseviero enumerates where open models shine, the through-line is not price but control: offline use where there is no connectivity, 'offline use cases where you don't want your data to leave your servers,' on-device screen understanding via a Chrome extension, and sovereign-AI efforts where governments (India's Sarvam, AI Singapore) train national models on open bases. Specialized variants like ShieldGemma (safety/moderation) and MedGemma (radiology, chest X-ray) extend this into regulated verticals where sending data to a third-party API is often a non-starter.
 

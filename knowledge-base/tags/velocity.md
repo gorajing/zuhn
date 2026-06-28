@@ -1,8 +1,8 @@
 # Tag: velocity
 
+- `INS-260330-30F0` Drag scales with velocity squared, so eliminating resistance produces exponentially larger gains at higher speeds — true in physics and in execution.
 - `INS-260627-8CFF` Since AI lets you write code 10x faster, throw it out 10x faster too — build for what models can do today, not what they might do in a year.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
-- `INS-260330-30F0` Drag scales with velocity squared, so eliminating resistance produces exponentially larger gains at higher speeds — true in physics and in execution.
 - `INS-260327-FC6F` There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260330-2CE5` YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260404-88D8` If you can't reach statistical significance within a month, use pre/post analysis and trust intuition — waiting for perfect data is its own form of failure.

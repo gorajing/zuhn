@@ -54,10 +54,10 @@ stance: >-
   alignment onto the pull request, which was never designed to carry it.
 related:
   - INS-260625-6E19
+  - INS-260627-9228
   - INS-260625-6127
   - INS-260403-D531
   - INS-260619-F1E3
-  - INS-260627-E7AE
 ---
 The old development process had planning, building, and review phases with many alignment touchpoints along the way — Slack threads, Zoom meetings, issue comments, draft PRs — slow enough that the whole team saw the work happening and stayed roughly on the same page by merge time. Because implementation was expensive, that pace was tolerable. Cheap, instant generation collapses the implementation window: teams plan less, early touchpoints vanish, and local agent 'plan mode' is unshared, so nobody reviews the plan before code ships.
 

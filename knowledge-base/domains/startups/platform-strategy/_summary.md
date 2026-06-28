@@ -1,6 +1,6 @@
 # Topic: platform-strategy
 
-> 19 insights
+> 20 insights
 
 - `INS-260410-A17B` [high] Bezos's beer-brewery analogy was a marketing pitch for AWS, but the deeper lesson was that being the unregulated utility is the great hidden business model.
 - `INS-260410-4D1F` [high] Sony won the PS1 generation by telling third-party developers 'we need you' while Nintendo told them 'we have Mario, we don't need you' — and by letting them develop on PCs instead of expensive Silicon Graphics workstations.
@@ -21,3 +21,4 @@
 - `INS-260627-3311` [medium] AI Studio lets shared apps run on each visitor's free quota, so a builder never fears a 'crazy surprise API bill' when their app goes viral — removing a hidden friction that blocks people from shipping.
 - `INS-260410-91C0` [medium] Giant bacteria scale by copying their entire genome tens of thousands of times—a brute-force approach that stalls—while eukaryotes scaled by absorbing a specialized energy partner and offloading the work, which is the template for how any complex system breaks through a scaling ceiling.
 - `INS-260410-81E8` [medium] Nadella argues the most important feature of American AI isn't capability but trust — countries are deploying based on whether the supplier and its institutions will still be around in 20 years.
+- `INS-260627-9FDC` [medium] Anthropic's platform philosophy is a tight loop: research trains Claude to be good at something, then the platform exposes that something as a tunable API feature so developers can harness it.

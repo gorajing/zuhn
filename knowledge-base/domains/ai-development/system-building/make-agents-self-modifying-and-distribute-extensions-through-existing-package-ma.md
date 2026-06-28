@@ -68,9 +68,9 @@ stance: >-
 related:
   - INS-260403-80A0
   - INS-260627-05AD
+  - INS-260627-1FAE
   - PRI-260320-BC72
   - INS-260627-F9F3
-  - INS-260605-D710
 ---
 pi's architecture is a deliberate bet on malleability: a stripped-down core (an AI provider abstraction, an agent loop with tool calling, a flicker-free TUI, and the coding agent) made maximally extensible. The mechanism that lets the agent modify itself is almost trivial — ship the documentation (handcrafted by the author and an agent) plus code examples of extensions, then tell the agent 'here's the docs, here's how to write extensions,' and it writes its own. Extensions are just TypeScript modules (in the simplest case a single file on disk) that hot-reload within the session, giving the game-developer's prized low-iteration loop.
 

@@ -53,10 +53,10 @@ stance: >-
   new priority.
 related:
   - INS-260321-A56C
-  - INS-260325-809A
   - INS-260329-ADC4
+  - INS-260325-809A
   - INS-260330-F6B1
-  - PRI-260405-E628
+  - INS-260627-3BE0
 evidence:
   - id: INS-260321-A56C
     type: TRANSFERS_TO

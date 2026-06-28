@@ -58,8 +58,8 @@ related:
   - INS-260624-5ACA
   - INS-260626-7F55
   - INS-260627-718B
+  - INS-260627-68FC
   - INS-260402-543E
-  - INS-260605-988D
 ---
 Zapier built a web playground ('autocode') exposing a suite of LLM-backed diagnosis and codegen APIs and asked engineers to come try them. Adoption was near-zero: it was 'just one more window to go to,' and the team's value proposition (saving engineers from crawling docs and logs for context) was undercut by forcing them to leave their IDE to use it. The one tool that took off — a context-gathering 'diagnosis' API — only did so after support asked to embed it directly into the Zap that already creates their Jira tickets. The general lesson Orr draws explicitly: 'embedding tools is the key to usage.' MCP later generalized this by letting the same APIs surface inside engineers' Cursor sessions, so builders left the IDE less and stayed in one window.
 

@@ -63,10 +63,10 @@ related:
   - PRI-260328-D893
   - INS-260410-2FEE
   - INS-260410-0FC1
-  - PRI-260411-9CB1
   - INS-260605-37FB
   - INS-260619-90F6
   - INS-260625-52C0
+  - INS-260625-F775
 ---
 Hou's core argument against the chain-of-thought review pattern is ergonomic: a long-running agent produces 'a lot a lot of strings, a lot of tokens' across ten-plus reasoning blocks, and a human cannot reconstruct 'what the heck did this agent do' from that. His framing — 'the reason I'm not giving you a stream of consciousness is because I have a PowerPoint' — reframes agent output as something that should be compressed into a dynamic representation fit for the human's actual decision.
 

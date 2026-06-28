@@ -1,10 +1,8 @@
 # Tag: power-law
 
-- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
 - `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260330-7DA5` In both the US and China, the vast majority of economic power concentrates in a few coastal corridors — 37 of 75 top-earning US counties in the Northeast, 54% of startup funding in just 5 metro areas.
-- `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260605-8A48` Traditional business cases assume scope, value, and cost are knowable up front — but with AI you learn the solution by doing the work, so the CFO must think like a VC backing a portfolio.
 - `INS-260410-6E01` Missing Google or Facebook costs more than a dozen Webvans, so the correct bias in venture is toward aggressive pursuit of any plausible outlier.
 - `INS-260403-3562` Larger venture funds require exponentially larger exits to deliver target returns, creating a structural disadvantage.
@@ -25,8 +23,10 @@
 - `INS-260403-4227` More VC money doesn't produce more great startups — it inflates prices, spreads talent thin, and compresses exit multiples.
 - `INS-260403-CB97` Top-quartile venture funds consistently outpace median returns across vintages, reinforcing concentration of capital with repeat winners.
 - `INS-260404-74DD` Even the worst Demo Day investors (3.3x TVPI) outperform the best quartile of traditional VC, validating accelerator-stage portfolio strategies.
+- `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260403-A868` Elite developer talent is qualitatively different from average, following power-law rather than normal distribution.
 - `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
+- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
 - `INS-260329-4B99` Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260410-537E` Acquired's Nintendo episode underperformed the benchmark but landed with one Meta exec who forwarded it to Zuckerberg — which unlocked the 6,000-seat Chase Center show.

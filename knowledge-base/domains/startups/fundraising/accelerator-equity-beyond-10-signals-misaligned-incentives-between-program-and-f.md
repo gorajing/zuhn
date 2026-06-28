@@ -51,7 +51,6 @@ stance: >-
   resources are extractive rather than additive, and founders should treat this
   threshold as a hard filter.
 related:
-  - INS-260403-042B
   - INS-260330-855A
   - INS-260403-85DE
   - INS-260403-D880

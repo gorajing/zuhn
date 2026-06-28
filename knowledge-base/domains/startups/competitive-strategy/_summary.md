@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 644 insights
+> 645 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -529,6 +529,7 @@
 - `INS-260330-1C50` [high] Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-DF31` [medium] 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge.
 - `INS-260330-2064` [medium] A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities.
+- `INS-260627-4EAD` [medium] Frontier labs that 'can't afford to hire anyone they want' still come to Los Alamos because it's a 'safe place to do dangerous things' — chem/bio safety testing, classified data, and decades of expertise that money alone can't replicate.
 - `INS-260329-5B18` [medium] Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
 - `INS-260626-FC81` [medium] Shopify deliberately absorbed years of bugs, churn, and unlimited tool spend to stay roughly six months ahead of competitors — a trade that only pays off for firms whose edge is innovation velocity and hiring, not for businesses competing on something physical.
 - `INS-260501-1774` [medium] Twice a year a foundation model lab ships a step change. Don't roadmap around incremental capability — roadmap around the next inflection.

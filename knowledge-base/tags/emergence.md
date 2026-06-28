@@ -1,17 +1,5 @@
 # Tag: emergence
 
-- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
-- `INS-260403-AC01` Multi-layered optimization produces emergent capabilities irreducible to any single layer's objective.
-- `INS-260330-0C0C` Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
-- `INS-260412-09A7` Quantum fluctuations stretched during cosmic inflation became the density variations that determined where all galaxies, stars, and gravitationally bound groups would form.
-- `INS-260326-97C9` Searching the space of possible programs yields more sophisticated results than designing them from scratch.
-- `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
-- `INS-260410-7933` LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
-- `INS-260330-9FCF` Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
-- `INS-260514-BD41` Leonard Suskin's point: you can know everything about an entangled system and still know nothing about its individual components. Reductionism fails when parts are deeply relational.
-- `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
-- `INS-260412-5965` Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
-- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260412-DE2D` Under neutron star pressures, electrons and protons fuse into neutrons, and nuclei deform into pasta-like structures that may be the strongest material in the universe.
@@ -29,6 +17,18 @@
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
 - `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
 - `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
+- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260403-AC01` Multi-layered optimization produces emergent capabilities irreducible to any single layer's objective.
+- `INS-260330-0C0C` Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
+- `INS-260412-09A7` Quantum fluctuations stretched during cosmic inflation became the density variations that determined where all galaxies, stars, and gravitationally bound groups would form.
+- `INS-260326-97C9` Searching the space of possible programs yields more sophisticated results than designing them from scratch.
+- `INS-260410-966F` Human labelers cannot write ideal chains of thought for an LLM because LLM cognition differs from human cognition — only RL can discover token sequences that reliably work for the model itself.
+- `INS-260410-7933` LLMs below ~10B parameters were mostly nonsense generators; the same architecture at 100B+ started reasoning about the world in ways no researcher predicted.
+- `INS-260330-9FCF` Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
+- `INS-260514-BD41` Leonard Suskin's point: you can know everything about an entangled system and still know nothing about its individual components. Reductionism fails when parts are deeply relational.
+- `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
+- `INS-260412-5965` Any system that builds replication infrastructure creates an ecological niche for parasites of that infrastructure.
+- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260423-3459` Chamath: the best way to be great is to be incredible at what you're building — the org will build itself around your capability.

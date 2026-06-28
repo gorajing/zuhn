@@ -55,12 +55,12 @@ stance: >-
   turns on-device models into drop-in substitutes for cloud APIs.
 related:
   - INS-260410-09B4
-  - INS-260605-738E
   - INS-260605-F064
   - INS-260625-B67E
   - INS-260626-34FB
   - INS-260626-BAE9
   - INS-260626-3796
+  - INS-260627-7648
   - INS-260423-85B3
   - INS-260605-0748
   - INS-260627-8F84

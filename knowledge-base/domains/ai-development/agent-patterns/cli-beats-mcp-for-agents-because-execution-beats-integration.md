@@ -66,9 +66,9 @@ related:
   - INS-260327-4CB3
   - INS-260329-6A60
   - INS-260627-FEB4
+  - INS-260627-1FAE
   - INS-260605-0C88
   - INS-260405-F26B
-  - INS-260410-F910
 ---
 Burazin's framing: 'MCP is an interface against an API, whereas the CLI is like you can actually go do things.' An agent given API access pulls data and hands it back; an agent given a CLI inside a sandbox can invoke tools, run analysis on that data, and return an actual computed result. He calls this the difference between integrations and running scripts/analysis against the thing — a layer of indirection that is structurally the same advantage as agentic search over RAG.
 

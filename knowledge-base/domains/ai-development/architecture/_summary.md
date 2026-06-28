@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 134 insights
+> 139 insights
 
 - `INS-260409-5D67` [high] The control unit of a CPU is a ROM — a lookup table — and every 'decision' a computer appears to make is a deterministic table read.
 - `INS-260625-2E48` [high] A 4B model trained with RL roughly doubled pass@1 over a 235B model on FinQA tool use, in a 21-hour job costing under $500 per run, and runs fully self-contained on-premise with no external dependencies.
@@ -18,8 +18,10 @@
 - `INS-260409-C1B2` [high] Memory is a flat tape of bits with no intrinsic type — whether a byte is code or data is determined entirely by how the CPU decides to read it next.
 - `INS-260627-B34D` [high] Segmenting AI throughput gains by active-repos-per-engineer reveals ~4x gains for centralized/balanced architectures, ~2x for distributed, and roughly zero (slightly negative) for highly distributed ones.
 - `INS-260514-268F` [high] Code churn in one area predicts future complexity — intervene architecturally when you first notice the pattern, not when the mess is already unmaintainable.
+- `INS-260627-1FAE` [high] Treat code as the universal interface to the digital world so one general agent with bash and a filesystem handles tasks you'd otherwise build separate agents for.
 - `INS-260330-DE16` [high] Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
 - `INS-260514-37AA` [high] Optimal complex systems live at the critical point between order and chaos — scale-free hub-and-spoke organization at every scale. Too ordered = unresponsive (depression, ossified org). Too chaotic = falls apart (psychosis, chaos).
+- `INS-260627-CD65` [high] Anthropic saw a 39% benchmark gain on internal evals by combining a memory tool with context editing that clears stale tool results out of the window.
 - `INS-260501-835A` [high] Decode amortizes weights across one token; prefill amortizes them across many — flipping which bottleneck dominates.
 - `INS-260405-64C5` [high] Photosynthesis solves the intermittency of sunlight by converting photon energy into a proton gradient (a charged thylakoid membrane acting as a battery), which then drives ATP synthesis on demand — completely decoupling capture from use.
 - `INS-260626-7AB8` [high] Deep modules — lots of functionality behind a simple interface — are easy to test and let you own the interface while treating the implementation as a gray box the AI fills in.
@@ -55,7 +57,9 @@
 - `INS-260605-9877` [high] Knowing who spoke, when, and how (interruptions, backchannels, pauses, stress) often determines conversational meaning that plain transcription discards.
 - `INS-260627-05AD` [high] If the code needs a file system, processes, or package installs, use a container; otherwise use a lightweight isolate — and most agents will use both at different steps.
 - `INS-260625-36DF` [high] Layer evaluation into deterministic (format/regex/classic-ML), non-deterministic semantic (LLM-as-judge), and behavioral (tool-call efficiency, loop detection) — the behavioral layer is the one most teams skip and it catches the costly bugs.
+- `INS-260627-A19B` [high] Expose only lightweight skill metadata at runtime and lazily read the full skill.md and folder only when the agent decides to use it, so context budget scales to hundreds of skills.
 - `INS-260410-0B73` [high] Move container provisioning behind the first tool call so sessions that don't need a sandbox never wait for one — Anthropic saw p50 TTFT drop ~60% and p95 drop >90% from this change alone.
+- `INS-260627-2DE7` [high] An LLM tracer hit ~100% accuracy but was too slow for the runtime path, so it was replaced with deterministic AST analysis — while LLMs were retained to mass-produce operation translations offline.
 - `INS-260627-0691` [high] The 'just dump everything in the context window' argument fails on token cost and ignores that RAG is hard for different reasons in every project.
 - `INS-260625-07CB` [high] ChatGPT/MCP apps nest a srcdoc content iframe inside an outer iframe served on a host-owned proxy domain (e.g. openaiusercontent.com) so isolation scales without per-app CSP whitelisting.
 - `INS-260627-3410` [high] Start by routing to certified reports, not generating SQL — you deliver the same trusted asset, just faster.
@@ -127,6 +131,7 @@
 - `INS-260605-BECA` [medium] Strict type safety, explicit null (Option), and compiler-checked concurrency mean the AI literally cannot compile a whole category of mistakes.
 - `INS-260605-D0C0` [medium] Spotify is collapsing dozens of team-owned, multi-stage candidate-generation-and-ranking pipelines into one transformer-backbone generative recommender shared across surfaces.
 - `INS-260626-5B28` [medium] Keep the agent harness decoupled from the data/MCP layer so agents can be swapped in and out without re-architecting, with the gateway as the invariant.
+- `INS-260627-E0C0` [medium] Treat agent optimization as a multi-dimensional allocation problem orchestrated by a meta-layer, not a single knob like context.
 - `INS-260627-A81B` [medium] Because LLMs are non-deterministic with an enormous state space, formal methods, model checking, and type systems have essentially no bearing on prompt-driven software — but LLMs' tolerance for unanticipated inputs creates a new resilience worth designing around.
 - `INS-260605-E174` [medium] The dynamic flexibility that makes Python/TS easy for LLMs to write is the same flexibility that makes it easy for them to ship mistakes.
 - `INS-260404-E91F` [medium] Figure AI's System 0/1/2 architecture separates reflexive balance, sensorimotor control, and semantic reasoning into distinct neural layers.

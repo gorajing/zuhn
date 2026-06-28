@@ -55,7 +55,7 @@ related:
   - INS-260327-2386
   - INS-260412-3A50
   - INS-260330-7C05
-  - INS-260410-361B
+  - INS-260627-7298
 ---
 Fei-Fei Li at the reception, pushing back on Hennessy: universities should be patient (long-horizon research is genuinely valuable), but patience needs bureaucratic freedom to be effective. Just because we should be patient doesn't mean we should be bureaucratic and suffocating. Academic structures — faculty mobility rules, hiring categories, talent flow restrictions — frequently make it impossible to act on patient research opportunities. The complaints she lists: visa policy, talent classification rules, exhausting wars between universities and companies for talent (which raises everyone's costs). Academia needs to update institutional structures to allow faster talent flow, faster decision-making, more open-mindedness.
 

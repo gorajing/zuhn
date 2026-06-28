@@ -63,7 +63,6 @@ stance: >-
   Good strategy requires early and frequent reassessment of assumptions, and
   explicit recognition that some problems are not feasible to solve at all.
 related:
-  - INS-260320-6CCE
   - INS-260328-0345
   - INS-260330-F500
   - PRI-260406-A6A2

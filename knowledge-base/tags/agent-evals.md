@@ -43,6 +43,7 @@
 - `INS-260625-EC9A` The evaluator needs its own evidence path, not just the agent's final artifact.
 - `INS-260626-983E` The paper tests context files as an experimental condition and finds they consistently increase steps and cost without statistically significant task-success gains.
 - `INS-260625-2A4F` Shared failures are often benchmark QA signals before they are leaderboard facts.
+- `INS-260627-CFAC` Structure verification as an escalating cascade — cheap self-check, then model consensus, then execution validation — so cost scales with doubt.
 - `INS-260627-A4DD` Run two co-evolving loops — one optimizing the agent, one optimizing the evaluators — because the agent loop only works as well as the eval feeding it.
 - `INS-260625-E10F` People overindex on computer use (emitting click coordinates) when the actual challenge is reasoning through how to run interdependent services at the right code version and make the feature fire — which demands deep codebase context.
 - `INS-260626-B04D` AgentRun evals should include effort metrics, detours, and environment revisions.

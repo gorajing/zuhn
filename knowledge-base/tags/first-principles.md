@@ -1,30 +1,20 @@
 # Tag: first-principles
 
-- `INS-260625-B6E9` Reasoning from first principles about what a computer means to an agent yields a primitive that pauses and resumes with full state (like closing a laptop lid) yet spins up in milliseconds — which standard preemptable, stateless VMs cannot provide.
-- `INS-260410-D593` Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
-- `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
-- `INS-260627-74E5` Zhang's most exciting takeaway: gen AI changes the cost function of software engineering, so the trade-off of whether to build something at all shifts as some work gets much cheaper and other work much more expensive.
-- `INS-260410-CB46` Strip neural networks to individual scalar operations so the chain rule is visible; tensor parallelism is an efficiency add-on that obscures the mechanics.
-- `INS-260410-5EE7` A neural net with one linear layer + softmax trained on NLL converges to exp(W) equal to the explicit bigram count matrix, so the two frameworks are the same model reached by different paths.
-- `INS-260501-5B48` Pat Grady: there are two basic kinds of revolutions in technology — revolutions of communication (information distribution) and revolutions of computation (information processing). The internet, cloud, mobile were all communication. AI is computation.
-- `INS-260625-5694` World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
-- `INS-260323-36A8` The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
-- `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
+- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260410-BE5A` If you're reaching 65 at 1% rates throughout human history, evolution can't select alleles that preserve late-life function, which is why anti-aging should be relatively tractable versus problems evolution iterated on.
-- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260405-0D9F` Doing diligence well means returning to fundamental analysis — market size, unit economics, team quality — rather than momentum-chasing.
 - `INS-260412-491A` Neutron star cores recreate Big Bang conditions, letting physicists study the universe's founding rules — extremes are windows to origins.
 - `INS-260625-6260` An axiom can be proven from internal consistency; a heuristic is just a shortcut — and in uncertain times people dress up old-era heuristics as axioms and use them to dismiss companies and people.
-- `INS-260405-0D9F` Doing diligence well means returning to fundamental analysis — market size, unit economics, team quality — rather than momentum-chasing.
 - `INS-260403-CF46` Most China analyses reach contradictory conclusions (China will dominate vs. China has peaked) because they cherry-pick output metrics instead of examining the underlying systems that produce those outputs.
-- `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
-- `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
-- `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
-- `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260329-6773` The number e is defined by the property that d/dx(e^x) = e^x, illustrating how mathematical constants are constructed from desired functional properties rather than discovered empirically.
 - `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
+- `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
+- `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
+- `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
+- `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260409-3138` Computers are fully explainable bottom-up from electricity through logic gates to instructions — there is no magical layer, only layers of abstraction humans haven't personally traversed.
 - `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
 - `INS-260330-8544` The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
@@ -40,6 +30,16 @@
 - `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260326-AB92` Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
+- `INS-260625-B6E9` Reasoning from first principles about what a computer means to an agent yields a primitive that pauses and resumes with full state (like closing a laptop lid) yet spins up in milliseconds — which standard preemptable, stateless VMs cannot provide.
+- `INS-260405-89E7` MiniMax hires for first-principles thinking across all backgrounds because AI handles execution — the scarce skill is knowing which questions to ask.
+- `INS-260410-D593` Nothing in Optimus comes from a catalog — the human hand is electromechanically harder than everything else combined and required custom motors, gears, and sensors designed from scratch.
+- `INS-260627-74E5` Zhang's most exciting takeaway: gen AI changes the cost function of software engineering, so the trade-off of whether to build something at all shifts as some work gets much cheaper and other work much more expensive.
+- `INS-260410-CB46` Strip neural networks to individual scalar operations so the chain rule is visible; tensor parallelism is an efficiency add-on that obscures the mechanics.
+- `INS-260410-5EE7` A neural net with one linear layer + softmax trained on NLL converges to exp(W) equal to the explicit bigram count matrix, so the two frameworks are the same model reached by different paths.
+- `INS-260501-5B48` Pat Grady: there are two basic kinds of revolutions in technology — revolutions of communication (information distribution) and revolutions of computation (information processing). The internet, cloud, mobile were all communication. AI is computation.
+- `INS-260625-5694` World models trace to Sutton 1990, generalization 'mysteries' dissolve into PAC-Bayes, and infinite-compute wins come from ensembling and distillation — the archive is an underexploited research edge.
+- `INS-260323-36A8` The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
+- `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260514-7628` Engineers understand every layer. Coders assemble abstractions. The distinction matters: engineers diagnose from first principles and design new systems; coders only output what AI already outputs. AI is hollowing out the coder rung.
 - `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.

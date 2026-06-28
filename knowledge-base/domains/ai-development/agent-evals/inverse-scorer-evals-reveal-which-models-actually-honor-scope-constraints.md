@@ -56,8 +56,8 @@ related:
   - INS-260626-7F55
   - INS-260403-22BB
   - INS-260605-09B1
+  - INS-260627-F7E7
   - INS-260627-6846
-  - INS-260627-056F
 ---
 Gomes, early in his eval-writing journey, built a simple harness by spinning up the headless Cursor CLI and attaching two scorers: one confirming the model did its work inside the assigned worktree, and the inverse one checking whether it did any work in the primary checkout where it shouldn't. The paired positive/negative design matters — passing the 'did the right work' check is not enough; you also need the 'did no forbidden work' check to catch scope leakage.
 

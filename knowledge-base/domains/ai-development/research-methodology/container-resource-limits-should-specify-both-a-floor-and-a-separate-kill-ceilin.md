@@ -52,7 +52,6 @@ stance: >-
   and hard kill limit — rather than a single pinned spec.
 related:
   - INS-260329-818A
-  - INS-260403-2174
   - INS-260329-3423
   - INS-260514-C4CF
   - PRI-260405-2A95

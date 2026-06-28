@@ -1,24 +1,7 @@
 # Tag: regulation
 
-- `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
-- `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
-- `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
-- `INS-260403-225F` Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
-- `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
-- `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
-- `INS-260403-F7A9` Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
-- `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
-- `INS-260404-5CFB` Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
-- `INS-260322-A14D` a16z's AI policy framework: don't regulate mathematical models themselves, regulate their applications — and prevent 50 states from creating incompatible AI laws that would make innovation impossible for startups.
-- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
-- `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
-- `INS-260410-230E` Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
-- `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
-- `INS-260403-5BCF` Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
-- `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
-- `INS-260412-737B` You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
-- `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
 - `INS-260412-0846` The same speculative instruments get banned after crashes and re-legalized once the generation that lived through them is gone.
+- `INS-260412-46A7` Russia's policy of granting Siberian overflight to only one airline per European country creates de facto monopolies on Asia routes for legacy carriers.
 - `INS-260405-6E5F` The SEC issued an interpretive release separating crypto into five categories—four of which are not securities—ending the default 'everything is a security' enforcement posture.
 - `INS-260327-BF93` BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
@@ -36,6 +19,24 @@
 - `INS-260403-8C92` Without trademarking USD for digital use, any entity — including hostile nations — can create counterfeit digital dollars backed by foreign currencies.
 - `INS-260410-5D08` Innovation ecosystems depend on risk-tolerant investors; one arbitrary crackdown — or even the credible threat of one — can wreck the whole stack for a decade.
 - `INS-260403-8002` Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
+- `INS-260412-737B` You'd need ~5,000 liters of milk to match the hormone dose in a single birth control pill, and most would be destroyed by digestion anyway.
+- `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
+- `INS-260403-4A16` AI agents that can autonomously execute multi-step tasks in the physical world cross the line from information hazard to actual weapon.
+- `INS-260403-225F` Humanity consistently fails to regulate powerful technologies preemptively, and AI agents will likely follow this pattern with potentially civilization-scale consequences.
+- `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
+- `INS-260403-5616` AI labs cannot slow down unilaterally because competitors (including state actors) will simply fill the gap, making regulation the only viable brake.
+- `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
+- `INS-260403-F7A9` Apple and Google's app review processes — sandbox testing, risk assessment, distribution control — already demonstrate how AI models could be evaluated before public deployment.
+- `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
+- `INS-260404-5CFB` Generative AI's emergent and dual-use properties make existing tech regulation insufficient, demanding purpose-built governance frameworks.
+- `INS-260627-7298` The April 2026 OMB memoranda (M-25-21/22) tell agencies to push deeper into AI faster, and the 180-day rulemaking period means AI governance is 'still on the drawing board' — a clean sheet vendors can help write.
+- `INS-260322-A14D` a16z's AI policy framework: don't regulate mathematical models themselves, regulate their applications — and prevent 50 states from creating incompatible AI laws that would make innovation impossible for startups.
+- `INS-260403-33DF` Regulation and capitalism are co-dependent, not adversarial — historically, oversight has enabled rather than blocked economic scaling.
+- `INS-260403-5BCF` Section 230 locked in rules before anyone understood social media's impact, leaving AI regulation as the chance to avoid repeating that mistake.
+- `INS-260405-A23B` Self-governance of generative AI by individual firms is insufficient; coordinated institutional frameworks are required for responsible deployment at scale.
+- `INS-260410-230E` Regulate AI like factories after the industrial revolution — ban chemical weapons and aerial bombardment, not steel mills.
+- `INS-260410-7AC1` Vague AI safety terminology in regulation is a loaded weapon waiting for an authoritarian to pick up.
+- `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
 - `INS-260410-58A5` F1's durability isn't mostly brand or network effects — it's that the FIA explicitly calls it 'the pinnacle,' a regulatory grant no rival motorsport can replicate with money.
 - `INS-260324-2244` Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
 - `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.

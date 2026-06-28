@@ -55,8 +55,10 @@ stance: >-
   reads on demand than by hand-coding every integration.
 related:
   - INS-260605-CEB5
+  - INS-260627-E34D
   - INS-260605-6591
   - INS-260605-9276
+  - INS-260627-A19B
   - INS-260605-C86D
   - INS-260625-D2E3
   - INS-260627-6744

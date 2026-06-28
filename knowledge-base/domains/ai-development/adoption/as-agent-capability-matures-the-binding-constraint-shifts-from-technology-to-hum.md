@@ -57,11 +57,11 @@ stance: >-
   human upskilling, workflow integration, and overcoming resistance.
 related:
   - INS-260410-C329
+  - INS-260627-C0F1
   - PRI-260407-A13C
   - INS-260625-EC7C
   - INS-260627-3245
   - INS-260605-A28F
-  - INS-260605-9976
 ---
 Many expected this to be 'the year of agents' in the sense of mass workforce automation, and that didn't happen. But the quieter shift is more telling: full production agent deployment (not pilots, not experiments) among $1B+ enterprises in KPMG's pulse survey jumped from 11% in Q1 to 42% in Q3. Agents moved through the experimental phase faster than most predicted.
 

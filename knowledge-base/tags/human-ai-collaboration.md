@@ -1,8 +1,8 @@
 # Tag: human-ai-collaboration
 
+- `INS-260627-E3EC` Greg Brockman's modularity principle — humans set clear boundaries on what is human-designed and let AI code everything in between — is swyx's frame for keeping AI-scale code from degenerating into slop.
 - `INS-260327-1795` AI can execute everything but cannot know your values -- the competitive moat shifts from execution ability to values articulation and taste.
 - `INS-260320-5A6F` AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
-- `INS-260627-E3EC` Greg Brockman's modularity principle — humans set clear boundaries on what is human-designed and let AI code everything in between — is swyx's frame for keeping AI-scale code from degenerating into slop.
 - `INS-260320-E683` Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
 - `INS-260403-A2E9` As AI collapses implementation costs, the human role shifts from engine to editor-in-chief — the scarce skill becomes deciding what to build and evaluating quality, not writing code.
 - `INS-260626-7DD4` Putting agents on the canvas with visible thinking, location, and mutual awareness reframes them as collaborators rather than a sidebar that takes over.

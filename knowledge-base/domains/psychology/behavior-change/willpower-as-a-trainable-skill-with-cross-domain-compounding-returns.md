@@ -54,6 +54,7 @@ related:
   - PRI-260328-39FA
   - INS-260403-C501
   - INS-260625-AB58
+  - INS-260627-AFD7
 evidence:
   - id: INS-260325-EF79
     type: TRANSFERS_TO

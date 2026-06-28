@@ -52,12 +52,13 @@ stance: >-
   upfront.
 related:
   - INS-260605-D710
+  - INS-260627-2831
   - INS-260627-FE77
   - INS-260627-B416
   - INS-260627-ADB1
-  - INS-260627-46EB
   - INS-260605-D2C7
   - INS-260625-7365
+  - INS-260627-46EB
 ---
 Most MCP clients load every tool definition into the model's context upfront, so an agent connected to thousands of tools burns hundreds of thousands of tokens before reading the request. Anthropic's alternative is to present each MCP server as a directory of TypeScript files (e.g. ./servers/google-drive/getDocument.ts), each wrapping a callMCPTool invocation behind a typed interface.
 

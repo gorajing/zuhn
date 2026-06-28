@@ -1,5 +1,6 @@
 # Tag: model-selection
 
+- `INS-260327-A22D` After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.
 - `INS-260626-BF18` Two scorers — did the model work in its worktree, and did it wrongly touch the primary checkout — surfaced that Haiku deviates often while Composer and Grok stay on track.
 - `INS-260605-AE67` The right agent runs on a model good enough to perform the task but not capable of arbitrary harm — bigger is not automatically better or safer.
 - `INS-260605-21A5` Use a large model (e.g. GPT-5.x) for planning and long-horizon reasoning, then spawn fast models (e.g. Codex Spark) as executors to run the plan's steps.
@@ -32,4 +33,3 @@
 - `INS-260625-1187` Drop a candidate model into your real workflows and build evals on your own tasks — benchmarks only indicate general capability, not fitness for your specific work.
 - `INS-260625-407C` Default to the smallest model that clears the task's quality bar, because frontier intelligence is overkill — and far more expensive — for summarization, refactoring, and structured agentic work.
 - `INS-260627-DB17` Treat oracle routing gain as an upper bound, not as evidence that a deployable router can capture the gain.
-- `INS-260327-A22D` After weeks of dialing in AI agents on Claude, enterprises would rather pay more for tokens than invest in requalifying a different model.

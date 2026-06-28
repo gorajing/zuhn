@@ -1,6 +1,5 @@
 # Tag: adaptability
 
-- `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
 - `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
 - `INS-260412-9E81` Russia's push-based resupply model, where leadership decides what goes where on a schedule, collapsed when the war didn't end in 3-5 days as planned.
 - `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
@@ -9,6 +8,7 @@
 - `INS-260327-F55A` Adaptability to novel situations, not deep expertise in any domain, is the only AI-proof career strategy.
 - `INS-260330-66F7` Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260403-DFBD` Expecting difficulty as the default state prevents the psychological fracture that occurs when optimistic leaders encounter inevitable friction.
+- `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260410-A671` Meta has won or neutralized every major threat — MySpace, Google+, Twitter, Snapchat, TikTok, Vine, Periscope — because it holds its connect-the-world mission rigidly but treats every product, technology, and strategy as disposable.

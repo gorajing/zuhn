@@ -45,12 +45,13 @@ stance: >-
   overeager collaborator—not a technical prompt engineering skill.
 related:
   - INS-260329-4D06
+  - INS-260627-E34D
   - INS-260329-11AB
   - PRI-260406-1AC6
   - INS-260412-DD1D
-  - PRI-260403-FBA8
   - INS-260501-6453
   - INS-260605-988D
+  - INS-260627-2831
 evidence:
   - id: INS-260320-8DBD
     type: EXTENDS

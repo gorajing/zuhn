@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-06-28 | 3317 sources
+Generated on 2026-06-28 | 3325 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -797,6 +797,7 @@ Generated on 2026-06-28 | 3317 sources
 | ADHD & How Anyone Can Improve Their Focus | youtube | 5 | 2026-03-30 |
 | Agent development and AgentOps with BigQuery, ADK, and MCP | youtube | 5 | 2026-06-25 |
 | Agent Optimization with Pydantic AI: GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic | youtube | 5 | 2026-06-05 |
+| Agent Reinforcement Fine Tuning – Will Hang & Cathy Zhou, OpenAI | youtube | 5 | 2026-06-28 |
 | AgentCraft: Putting the Orc in Orchestration — Ido Salomon | youtube | 5 | 2026-06-27 |
 | Agentic Engineering: Working With AI, Not Just Using It — Brendan O'Leary | youtube | 5 | 2026-06-27 |
 | Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind | youtube | 5 | 2026-06-05 |
@@ -834,6 +835,7 @@ Generated on 2026-06-28 | 3317 sources
 | Artificial meat is harder than artificial intelligence — Lewis Bollard | youtube | 5 | 2026-04-10 |
 | Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next | youtube | 5 | 2026-03-22 |
 | Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands | youtube | 5 | 2026-06-27 |
+| Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — Alex Gavrilescu, Funstage | youtube | 5 | 2026-06-28 |
 | BDD, ADR, PRD, WTF: Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence | youtube | 5 | 2026-06-05 |
 | Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years | youtube | 5 | 2026-03-22 |
 | Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast #336 | youtube | 5 | 2026-03-30 |
@@ -900,6 +902,7 @@ Generated on 2026-06-28 | 3317 sources
 | Cognitive Exhaust Fumes, or: Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint | youtube | 5 | 2026-06-27 |
 | Collaborative AI Engineering: One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub | youtube | 5 | 2026-06-27 |
 | Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase | youtube | 5 | 2026-06-05 |
+| Compilers in the Age of LLMs — Yusuf Olokoba, Muna | youtube | 5 | 2026-06-28 |
 | Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup | youtube | 5 | 2026-06-26 |
 | Conflict in Israel and Palestine through 2015: Crash Course World History #223 | youtube | 5 | 2026-03-30 |
 | Connecting the Dots with Context Graphs — Stephen Chin, Neo4j | youtube | 5 | 2026-06-05 |
@@ -925,6 +928,7 @@ Generated on 2026-06-28 | 3317 sources
 | Does GenAI "belong" to data scientists? — Phil Hetzel, Braintrust | youtube | 5 | 2026-06-05 |
 | Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293 | youtube | 5 | 2026-03-30 |
 | Donald Trump Interview | Lex Fridman Podcast #442 | youtube | 5 | 2026-03-30 |
+| Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic | youtube | 5 | 2026-06-28 |
 | Don't Build Slop (4 Levels of AI Agent Maturity) - Ara Khan, Cline | youtube | 5 | 2026-06-05 |
 | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat | Huberman Lab Guest Series | youtube | 5 | 2026-03-30 |
 | Dr. Andy Galpin: How to Build Strength, Muscle Size & Endurance | youtube | 5 | 2026-03-30 |
@@ -939,6 +943,7 @@ Generated on 2026-06-28 | 3317 sources
 | Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show | youtube | 5 | 2026-03-22 |
 | Engineering voice agents: Latency, quality, and scale — Rishabh Bhargava, Together AI | youtube | 5 | 2026-06-05 |
 | Enron | youtube | 5 | 2026-04-11 |
+| Enterprise Deep Research: The Next Killer App for Enterprise AI — Ofer Mendelevitch, Vectara | youtube | 5 | 2026-06-28 |
 | Epic Systems (MyChart) | youtube | 5 | 2026-04-11 |
 | Evals Are Broken, Use Them Anyway — Ara Khan, Cline | youtube | 5 | 2026-06-25 |
 | Every Country in the World (Part 1) | youtube | 5 | 2026-04-12 |
@@ -986,6 +991,7 @@ Generated on 2026-06-28 | 3317 sources
 | Google Part III: The AI Company. Google is amazingly well-positioned... will they win in AI? (audio) | youtube | 5 | 2026-04-11 |
 | Google's Deep Mind Explained! - Self Learning A.I. | youtube | 5 | 2026-04-12 |
 | ⚡️ Google's Open AI Strategy — Omar Sanseviero, Google DeepMind | youtube | 5 | 2026-06-26 |
+| Government Agents: AI Agents Meet Tough Regulations — Mark Myshatyn, Los Alamos National Lab | youtube | 5 | 2026-06-28 |
 | GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod | youtube | 5 | 2026-06-25 |
 | Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History | Lex Fridman Podcast #449 | youtube | 5 | 2026-03-30 |
 | Hard Won Lessons from Building Effective AI Coding Agents – Nik Pash, Cline | youtube | 5 | 2026-06-27 |
@@ -1098,6 +1104,7 @@ Generated on 2026-06-28 | 3317 sources
 | J.P. Morgan: The Man Who Owned America | youtube | 5 | 2026-03-30 |
 | Judge the Judge: Building LLM Evaluators That Actually Work with GEPA — Mahmoud Mabrouk, Agenta AI | youtube | 5 | 2026-06-27 |
 | Kapil Gupta: Conquering the Mind | youtube | 5 | 2026-03-30 |
+| Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic | youtube | 5 | 2026-06-28 |
 | Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassian) | youtube | 5 | 2026-06-27 |
 | Lecture 10 - Culture (Brian Chesky, Alfred Lin) | youtube | 5 | 2026-03-31 |
 | Lecture 11 - Hiring and Culture, Part 2 (Patrick and John Collison, Ben Silbermann) | youtube | 5 | 2026-03-31 |
@@ -1341,6 +1348,7 @@ Generated on 2026-06-28 | 3317 sources
 | The Surprising Secret of Synchronization | youtube | 5 | 2026-03-30 |
 | The Timeless Business of Steakhouses | youtube | 5 | 2026-03-24 |
 | The Uber Story: Fraud, Betrayal, Death & Cars | youtube | 5 | 2026-03-30 |
+| The Unbearable Lightness of Agent Optimization — Alberto Romero, Jointly | youtube | 5 | 2026-06-28 |
 | The Unicorn Founder Who Delegated Everything. | youtube | 5 | 2026-03-22 |
 | The Unicorn Hunter: The Craziest Billionaire EVER | youtube | 5 | 2026-03-30 |
 | The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize | youtube | 5 | 2026-06-27 |
@@ -3104,7 +3112,9 @@ Generated on 2026-06-28 | 3317 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-25 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -3120,6 +3130,7 @@ Generated on 2026-06-28 | 3317 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -3132,7 +3143,9 @@ Generated on 2026-06-28 | 3317 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
@@ -3148,6 +3161,7 @@ Generated on 2026-06-28 | 3317 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -3194,6 +3208,7 @@ Generated on 2026-06-28 | 3317 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
@@ -3208,6 +3223,7 @@ Generated on 2026-06-28 | 3317 sources
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-27 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
+| Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-28 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-26 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
 | Extract insights from a source file. Your ONLY output is a JSON file. | session | 0 | 2026-06-05 |
@@ -3250,27 +3266,22 @@ Generated on 2026-06-28 | 3317 sources
 | A closer look at Agents CLI | youtube | 0 | 2026-04-24 |
 | A closer look at Gemma 4 with Baseten and NVIDIA | youtube | 0 | 2026-04-24 |
 | Adam Marblestone – AI is missing something fundamental about the brain | youtube | 0 | 2026-04-23 |
-| Agent Reinforcement Fine Tuning – Will Hang & Cathy Zhou, OpenAI | youtube | 0 | 2026-06-28 |
 | 뇌과학자가 말하는 AI 시대에도 끝까지 살아남는 5가지 능력 ㅣ 김대식 교수님의 고전 책 5권 추천 ㅣ도서리뷰 | youtube | 0 | 2026-04-23 |
 | AI Is Unlocking Millions Of New Builders | youtube | 0 | 2026-04-23 |
 | Anthropic's Raise & What It Means for Potential IPO? Mag7: Google & Amazon Up, Meta & Microsoft Down | youtube | 0 | 2026-05-14 |
 | Automating Creativity: Building Gen Media Agents with ADK and MCP | youtube | 0 | 2026-04-24 |
-| Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — Alex Gavrilescu, Funstage | youtube | 0 | 2026-06-28 |
 | Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z | youtube | 0 | 2026-04-23 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 0 | 2026-04-23 |
 | BillionToOne Is Solving One of Biotech’s Hardest Problems | youtube | 0 | 2026-04-23 |
 | Box CEO on the AI Adoption Gap | The a16z Show | youtube | 0 | 2026-04-23 |
 | Building Agents at Home: Homeschooling, Parenting and More | The a16z Show | youtube | 0 | 2026-04-23 |
 | CI/CD Breaks at AI Speed: Tangle, Graphite Stacks, Pro-Model PR Review — Mikhail Parakhin, Shopify | youtube | 0 | 2026-04-23 |
-| Compilers in the Age of LLMs — Yusuf Olokoba, Muna | youtube | 0 | 2026-06-28 |
 | Dario Amodei — “We are near the end of the exponential” | youtube | 0 | 2026-04-23 |
 | Darwin Gödel Machine Explained: Self-Improving AI Agents | youtube | 0 | 2026-04-23 |
 | DINOv3 Paper Explained: The Computer Vision Foundation Model | youtube | 0 | 2026-04-23 |
-| Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic | youtube | 0 | 2026-06-28 |
 | Dylan Patel — The single biggest bottleneck to scaling AI compute | youtube | 0 | 2026-04-23 |
 | ElevenLabs: Building an AI Sales Machine & Why We Set a 20x Sales Quota | youtube | 0 | 2026-04-23 |
 | Elon Musk – "In 36 months, the cheapest place to put AI will be space” | youtube | 0 | 2026-04-23 |
-| Enterprise Deep Research: The Next Killer App for Enterprise AI — Ofer Mendelevitch, Vectara | youtube | 0 | 2026-06-28 |
 | Everyday Foods that Feed CANCER Cells | youtube | 0 | 2026-04-23 |
 | Extreme Harness Engineering: 1M LOC, 1B toks/day, 0% human code or review — Ryan Lopopolo, OpenAI | youtube | 0 | 2026-04-23 |
 | Former Warner Records President REVEALS How Great Artists Are Built | youtube | 0 | 2026-04-23 |
@@ -3282,7 +3293,6 @@ Generated on 2026-06-28 | 3317 sources
 | From systems of intelligence to systems ofaAction: Yasmeen Ahmad on the agentic data cloud | youtube | 0 | 2026-04-24 |
 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | youtube | 0 | 2026-04-23 |
 | Google Dorking (Find Everything Online!) | youtube | 0 | 2026-04-23 |
-| Government Agents: AI Agents Meet Tough Regulations — Mark Myshatyn, Los Alamos National Lab | youtube | 0 | 2026-06-28 |
 | How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly | youtube | 0 | 2026-04-23 |
 | How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z | youtube | 0 | 2026-04-23 |
 | How Stripe Built Their New Website | youtube | 0 | 2026-04-23 |
@@ -3294,7 +3304,6 @@ Generated on 2026-06-28 | 3317 sources
 | Jack Dorsey: Every Company Can Now Be a Mini-AGI | youtube | 0 | 2026-04-23 |
 | Jake Paul: Traditional VC is Toast & Attention is More Valuable than Cash | youtube | 0 | 2026-04-23 |
 | Jensen Huang – Will Nvidia’s moat persist? | youtube | 0 | 2026-04-23 |
-| Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic | youtube | 0 | 2026-06-28 |
 | Marc Andreessen introspects on Death of the Browser, Pi + OpenClaw, and Why "This Time Is Different" | youtube | 0 | 2026-04-23 |
 | Marc Andreessen on The Future of VC: Will a16z Go Public & Why Introspection is Dangerous? | youtube | 0 | 2026-04-23 |
 | mHC Explained: How DeepSeek Rewires LLMs for 2026 | youtube | 0 | 2026-04-23 |
@@ -3313,7 +3322,6 @@ Generated on 2026-06-28 | 3317 sources
 | The Era of Hierarchical Reasoning Models | youtube | 0 | 2026-04-23 |
 | The GPT Moment for Robotics Is Here | youtube | 0 | 2026-04-23 |
 | The Most Founder Mode CEO Working Today Isn’t the Founder: Opendoor’s Kaz Nejatian | youtube | 0 | 2026-04-23 |
-| The Unbearable Lightness of Agent Optimization — Alberto Romero, Jointly | youtube | 0 | 2026-06-28 |
 | Tiny Recursive Model (TRM) Paper Explained | youtube | 0 | 2026-04-23 |
 | What are we scaling? | youtube | 0 | 2026-04-23 |
 | What Founders Can Learn About Excellence From MIT President Sally Kornbluth | youtube | 0 | 2026-04-23 |

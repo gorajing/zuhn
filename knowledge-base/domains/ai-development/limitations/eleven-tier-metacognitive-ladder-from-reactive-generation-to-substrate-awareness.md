@@ -58,7 +58,6 @@ stance: >-
   distinct tiers, and current frontier models operate primarily at tiers 2-4,
   with significant safety implications at each transition.
 related:
-  - INS-260403-68E9
   - INS-260403-4803
   - INS-260514-3974
   - PRI-260407-A13C

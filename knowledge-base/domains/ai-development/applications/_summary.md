@@ -1,6 +1,6 @@
 # Topic: applications
 
-> 85 insights
+> 86 insights
 
 - `INS-260501-A748` [high] Claude + dynamic content script = launch AB tests in 30 seconds without bothering engineering. Most marketers still ask devs to push code.
 - `INS-260625-4462` [high] AI-for-science compounds fastest when it chooses the next measurement in a real experimental loop.
@@ -50,6 +50,7 @@
 - `INS-260624-A338` [medium] Security agents need executable proof paths, not just plausible reports.
 - `INS-260505-2053` [medium] Physics-based climate models only run forward; AI models can run backward — start at a hurricane landfall, simulate trajectories that lead to it.
 - `INS-260624-EA6B` [medium] A useful CRS owns the whole vulnerability lifecycle from project understanding through proof, patch, and validation.
+- `INS-260627-3133` [medium] The high-value deep-research use cases all share a shape: produce a long structured document by gathering and synthesizing answers spread across many internal sources.
 - `INS-260514-E860` [medium] OatMilk is their Discord bot serving 1500 community members. Uses the same skills as their internal sales tooling. Different interface, same primitives.
 - `INS-260619-8D68` [medium] PDFs and slide decks are not just text containers; document AI must recover structure before retrieval or reasoning is trustworthy.
 - `INS-260605-8664` [medium] A 20-year wastewater-plant engineer built a safety benchmark from incidents that killed people — data that exists nowhere on the web and no AI lab would prioritize.

@@ -47,7 +47,7 @@ related:
   - INS-260522-213D
   - INS-260404-CCB1
   - PRI-260405-608A
-  - INS-260403-BACA
+  - INS-260627-F4F9
 stance: >-
   Prioritize curiosity and learning velocity over domain expertise when hiring,
   especially in fast-changing industries.

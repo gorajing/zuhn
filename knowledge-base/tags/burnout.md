@@ -1,7 +1,5 @@
 # Tag: burnout
 
-- `INS-260325-C59D` AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
-- `INS-260625-7CD5` Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - `INS-260404-EE01` Stress is not the silent killer — lack of recovery from stress is.
 - `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-DC8B` Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
@@ -14,6 +12,8 @@
 - `INS-260327-37C8` Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260403-2A8A` Second-time founders develop calibrated emotional distance that turns churn, failed features, and funding pressure into data points rather than identity crises.
 - `INS-260412-FCDC` At abyssal depths, every surviving species moves in slow motion and conserves energy as its primary survival strategy.
+- `INS-260325-C59D` AI networks never rest, never sleep, and never need privacy — but forcing organic humans to match this inorganic pace will collapse them.
+- `INS-260625-7CD5` Agents scale infinitely but human attention degrades under load, so attention is the bottleneck to design around.
 - `INS-260403-5EEA` Topic selection should prioritize what gives you energy to think and write about for years, not what the market says it wants.
 - `INS-260423-9F96` Chamath: in the pre-PMF years you have to find different ways of feeling rewarded that are not revenue or valuation — usually technical progress.
 - `INS-260404-CC66` Founders avoiding vacations face diminishing returns as burnout degrades the decision-making quality that matters most.

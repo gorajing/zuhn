@@ -67,8 +67,8 @@ related:
   - INS-260625-0492
   - INS-260627-02E1
   - INS-260530-D34F
+  - INS-260627-9228
   - INS-260626-18A3
-  - INS-260424-FE8E
 ---
 PostHog frames the status quo of observability as a slow, low-value loop: a signal changes a metric, a human notices it hours or days later, investigates, files a Linear issue, eventually writes a PR, reviews, and ships — a multi-day cycle that represents a large fraction of an engineer's work but is rarely interesting. Their bet is to remove the human dashboard-interpretation step entirely.
 

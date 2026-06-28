@@ -50,8 +50,8 @@ stance: >-
 related:
   - INS-260627-DD09
   - INS-260626-C623
+  - INS-260627-2831
   - INS-260327-38D8
   - INS-260625-ACBC
-  - INS-260605-BC6F
 ---
 Because Tailscale's identity primitives (exposed via the open-source tsnet library) let any program read the user, groups, and tags of each incoming connection, you can build an internal MCP server or API endpoint without 'thinking about OAuth or opening it up to everybody.' The service just asks 'who made this request?' and forwards that verified identity into whatever it proxies. You can even attach arbitrary metadata — application capabilities — guaranteed by the control plane and defined in the same policy/ACL file via grants, with everything expressible in JSON for GitOps workflows. The architectural point: when identity is a property of the transport rather than something each app re-implements, the security boundary collapses from N bespoke auth integrations to one network policy, dramatically lowering the cost of standing up trustworthy internal tooling.

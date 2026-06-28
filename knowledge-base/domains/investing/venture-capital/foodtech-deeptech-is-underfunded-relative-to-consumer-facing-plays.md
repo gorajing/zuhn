@@ -49,8 +49,8 @@ related:
   - INS-260404-277E
   - INS-260404-E55F
   - INS-260403-7B04
+  - INS-260627-8867
   - PRI-260328-1D90
-  - INS-260403-C6C3
 ---
 Despite foodtech VC investment growing fivefold in a decade to $13B in 2023, the overwhelming majority has funded consumer-facing apps and digital distribution—leading to unicorns in delivery and restaurant tech. Deeptech foodtech (alternative proteins, precision fermentation, novel farming) remains relatively underfunded because it requires investors who understand long R&D cycles and can assess technical risk.
 

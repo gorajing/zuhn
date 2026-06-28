@@ -1,6 +1,6 @@
 # Topic: agent-patterns
 
-> 481 insights
+> 487 insights
 
 - `INS-260321-18D0` [very_high] Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260605-B5A2` [high] An agent that writes its objective and plan to a plan file and checks items off as it works stays on-task and stops hallucinating, where the same agent with 5-10 tools and no file system did not.
@@ -13,6 +13,7 @@
 - `INS-260626-DD33` [high] Skills should carry high-level orientation plus a link to markdown docs the agent web-fetches, so capabilities update centrally instead of forcing every user to redistribute the skill.
 - `INS-260327-77E7` [high] Sustained quality from AI agents comes from organizational design patterns (QA loops, approval gates, role specialization) rather than model selection.
 - `INS-260605-3285` [high] Snorkel accepts an agentic task only if it passes tests for all four criteria: achievable, non-trivial, functionally correct logic, and a reliable containerized environment.
+- `INS-260627-FAEC` [high] The Los Alamos fusion-capsule agent is powerful because it executes 50–60 years of validated physics code on HPC, not because the LLM is smart — the shift is from 'what a model knows' to 'what we can let a model know.'
 - `INS-260501-C4AA` [high] Models don't think. They predict tokens. They feel like they think because of training data. They mimic what you show them — perfectly, but only that.
 - `INS-260410-E977` [high] Use true agents only when the task is open-ended enough that you can't hardcode the path, and the environment provides ground-truth feedback at each step to keep errors from compounding.
 - `INS-260605-124F` [high] Claude didn't just guess the checksum formula — it confirmed the recovered one-byte offset by feeding additional known data through it and checking the outputs.
@@ -75,6 +76,7 @@
 - `INS-260501-9E23` [high] Don't be an artist about your agent setup. Customization isn't the skill. What you ship with it is.
 - `INS-260627-69ED` [high] Effective agent decomposition mirrors splitting work for human engineers: independent, parallelizable, one-shot, cheaply-verifiable units with clear dependency order.
 - `INS-260626-8F57` [high] Split a single prompt into staged sub-tasks (collect context, triage, policy-check, draft reply, finalize) so you can see exactly which stage failed.
+- `INS-260627-EFD5` [high] Split big features into small atomic tasks so each fits in the agent's context window and implements exactly what's specified, nothing more.
 - `INS-260627-9968` [high] Choreography (agents coordinate via events on a message bus) scales and decouples but is a debugging nightmare without bulletproof event observability; orchestration (a central coordinator calls each agent, manages parallelism, state, retries, and logging) trades autonomy for debuggability and rollback — choose by workflow complexity vs. autonomy need.
 - `INS-260626-5545` [high] Move along the autonomy slider (prompt → workflow → agent) only as far as the task forces you to; reach for an agent only when the system must branch dynamically or react to its environment.
 - `INS-260626-181F` [high] Give the model a tool-loading tool and let it pull tools on demand — progressive discovery cut tool context usage dramatically in Claude Code.
@@ -109,6 +111,7 @@
 - `INS-260625-86CF` [high] Replace the brittle parse-DOM, read-a11y-tree, screenshot, measure-and-click loop with declared tools the agent can call directly.
 - `INS-260605-6A32` [high] At 1,200 tokens/second, test suites, linting, pre-commit hooks, diff reviews, and browser-based QA become near-instant, removing the excuse to defer them to the end.
 - `INS-260410-01BC` [high] When a tool returns large data, filter and aggregate it in the code execution sandbox and only log the relevant slice.
+- `INS-260627-16FE` [high] Climb the optimization hierarchy — prompting, then task design, then RFT — and only fine-tune when cheaper levers are exhausted.
 - `INS-260514-EA9E` [high] A 5-narrow-agent chain (news → researcher → career-page poller → scorer → resume writer) is more reliable than one general agent — narrow agents with single jobs chain better and are easier to debug.
 - `INS-260625-1CB8` [high] A document in the context window stays a document you can return to and audit; fine-tuning consumes the archive into parameters and breaks the chain of provenance.
 - `INS-260410-85AD` [high] Give the agent browser automation (e.g., Puppeteer MCP) and explicitly prompt it to verify every feature as a human user would, end-to-end.
@@ -143,6 +146,7 @@
 - `INS-260327-7F56` [high] ChatGPT Agent was designed to mirror Slack-style human delegation: both parties can initiate communication, the agent asks clarifying questions, and users can interrupt with corrections mid-task.
 - `INS-260411-27AA` [high] Gate human approval on irreversible or high-consequence actions only — routine gating causes approval fatigue that defeats the safety purpose.
 - `INS-260626-A645` [high] Put the human-review step in the execution path as a brick wall the agent cannot route around, instead of trusting the model to ask first.
+- `INS-260627-D042` [high] Agents are brilliant generalists that lack expertise, so encode the domain's procedural knowledge into skills to get consistent expert execution.
 - `INS-260605-E7AD` [high] Use inline functions when the host, not the model, must retain decision authority.
 - `INS-260403-834C` [high] Human-readable inter-agent communication channels are a critical safety mechanism because they enable behavioral monitoring that opaque formats prevent.
 - `INS-260627-A392` [high] Real environments are noisy, so the model should think again after each tool response rather than reason once and commit to a plan.
@@ -375,6 +379,7 @@
 - `INS-260625-1E07` [medium] Savkin prefers pulling the real Vitest repo into a session over a docs tool like Context7, because with real code the agent can go really deep.
 - `INS-260625-5351` [medium] Give the agent a cron-synced read-only copy of your codebase and DB so it can derive answers like subscription logic by reading the actual source.
 - `INS-260625-0141` [medium] Traditional RAG routes known relationships through the embedding model as a bottleneck; graph RAG models those relationships explicitly as a knowledge graph and expands context by traversal after a vector seed, improving recall and precision.
+- `INS-260627-42AE` [medium] Effective deep research over private data adds a corpus-understanding step so the agent plans around the data it actually has, not a generic question decomposition.
 - `INS-260605-E9A7` [medium] A paid API call can become observe-pay-retry, not a human onboarding flow.
 - `INS-260605-5404` [medium] GitHub and Linear were built for humans and break down as agent coordination layers — at swarm scale the stream of PRs, conflicts, and CI failures becomes too noisy for a human to know when to intervene.
 - `INS-260605-2795` [medium] Asked how an agent could know when to interject, Reeve proposed an async process that repeatedly asks the transcript 'do you have anything to add?' rather than wiring it as a tool call.
@@ -481,6 +486,7 @@
 - `INS-260605-295D` [medium] Quality degrades as context grows, so use small models (NER, rerankers, classifiers) to preprocess and filter data before it enters the agent's context window.
 - `INS-260619-6E08` [medium] Once a harness is useful, pressure builds to make it persistent, event-driven, reachable across channels, and scarce enough to compete for user attention.
 - `INS-260605-B136` [medium] Run static analysis on agent output in 1-5 seconds via MCP before commit, so the agent fixes issues before they reach the PR.
+- `INS-260627-D2EF` [medium] If a model can both write code and run that same code in a secure sandbox, it can accomplish nearly anything — which sidesteps the question of how opinionated or heavy the harness should be.
 - `INS-260605-5D66` [low] If 2025 was the year of agents and 2026 the year of harnesses, 2027 may bring agents that self-generate harnesses on the fly before doing work.
 - `INS-260605-8409` [low] Treat an agent as a publicly-routable HTTP service over a tolerant event stream, so Slack webhooks, web-form submissions, and third-party plugins all become events instead of requiring a bespoke connector concept.
 - `INS-260603-DFA6` [low] Joe (RocketRide): the progression is prompt engineering (instructions to the model) → context engineering (the contextual data you give it) → 'harness engineering' (the ecosystem around the agent that makes it observable, cost-optimized, performant, and manageable at scale).

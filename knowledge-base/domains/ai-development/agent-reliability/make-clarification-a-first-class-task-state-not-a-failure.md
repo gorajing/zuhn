@@ -66,12 +66,12 @@ related:
   - INS-260410-2C51
   - INS-260411-D060
   - INS-260501-247C
-  - INS-260501-C59A
   - INS-260605-0AD6
   - INS-260605-B5A2
   - INS-260605-2795
   - INS-260605-8BEA
   - INS-260605-75BB
+  - INS-260605-46A8
 ---
 The Manus task lifecycle has four states — running, pending, completed, error — and 'pending' specifically means the agent needs more input from the caller. In the weather demo, the agent paused and asked the user to choose indoor vs outdoor before continuing. Crucially, the returned task ID is the handle that lets you push a follow-up answer back into the *same* session, preserving all accumulated context, rather than re-prompting from a blank slate.
 

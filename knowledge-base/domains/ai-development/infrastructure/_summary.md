@@ -1,6 +1,6 @@
 # Topic: infrastructure
 
-> 98 insights
+> 99 insights
 
 - `INS-260625-6127` [high] When the log is the state, any worker can claim a session, advance it one step, write the result, and vanish — so processes can crash freely and one process can advance thousands of agents.
 - `INS-260625-7996` [high] GitHub's 14x growth broke it in new ways because services assumed the size of each push/PR/commit was fixed and only the number of users would grow.
@@ -57,6 +57,7 @@
 - `INS-260410-ED34` [high] When LLM routing is sticky, a 0.8% misroute rate becomes a 100% bad experience for the unlucky users rather than a rare glitch for everyone.
 - `INS-260627-FF6C` [high] In synchronous RL, step time is dictated by the longest sample, so a heavy completion-time tail leaves most GPUs idle.
 - `INS-260605-5159` [high] Persistent state and warm caches across iterations are mandatory because restarting work from scratch each loop multiplies latency in a high-frequency cycle.
+- `INS-260627-C0F1` [high] Shipping Claude Code on web and mobile forced Anthropic to solve secure remote sandboxes, container orchestration at scale, and session persistence — the hard parts of autonomy are operational, not cognitive.
 - `INS-260625-5BF4` [high] Serving every app from one static loader script on host subdomains (rather than proxying each app's dynamic HTML on the host's own domain) keeps infrastructure light and avoids the host being liable for code it didn't write and can't inspect.
 - `INS-260505-A38E` [high] Markets fund 5-year ROI; protein databases that take 50 years to build don't qualify. Federal funding fills that specific gap.
 - `INS-260505-BD9E` [high] Genesis Mission: integrate compute + AI + quantum + experimental facilities across 17 national labs as one platform — 10-100x acceleration, double productivity in a decade.

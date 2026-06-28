@@ -64,14 +64,14 @@ stance: >-
   best freeform prompt — because the skill encodes the configuration logic that
   non-designers don't know to specify.
 related:
-  - INS-260320-8DBD
   - INS-260409-A0B4
-  - INS-260501-F90F
+  - INS-260627-D042
   - INS-260605-90E5
   - INS-260626-A08F
-  - INS-260626-0704
-  - INS-260605-9276
+  - INS-260320-8DBD
+  - INS-260627-E34D
   - INS-260605-D129
+  - INS-260626-0704
   - INS-260627-8DF1
 ---
 The pattern demonstrated with Taste Skills (an open-source skill library on GitHub): for design tasks like brand kit creation, you can write a freeform prompt with all the brand information (personality, target users, core keywords, logo direction, color tones), and you'll get decent output — but you'll miss the configuration logic that a designer would automatically include (what materials need to be in a brand kit, how typography systems should be organized, how logos should vary across contexts). The Taste Skills Brand Kit skill is a markdown file encoding these design conventions. Download the .md file, attach it to your GPT conversation, then run your brand-kit prompt — output is meaningfully more complete and professional. The same applies to Frontend Web skills (encoding SaaS landing-page conventions) and Mobile App skills (encoding mobile UI patterns). Why this works: the LLM has seen many brand kits in training but doesn't reliably structure its outputs to designer conventions without explicit guidance; the skill provides that guidance in a reusable, attachable form. The architectural pattern is identical to Hai Nghiem's Claude Code skills (codifying knowledge as folder + markdown + optional scripts), just applied to a different domain (design instead of GTM). This generalizes: any vertical where 'expertise' is encodable as conventions and rules (legal templates, medical chart notes, financial model structure) is a candidate for a domain-skill file. The non-obvious implication: 'taste' in many fields turns out to be tacit but encodable, and the skill-file ecosystem is the long-tail democratization of domain expertise.

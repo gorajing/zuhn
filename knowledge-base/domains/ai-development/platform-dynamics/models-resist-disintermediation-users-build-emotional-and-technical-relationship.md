@@ -54,10 +54,10 @@ resolutions:
     product experience, making it inherently sticky.
 related:
   - INS-260327-FDF4
+  - INS-260627-422D
   - INS-260329-3383
   - INS-260320-DEAF
   - INS-260625-3EE6
-  - INS-260325-2BDB
   - INS-260327-4E8E
   - INS-260329-5F19
   - INS-260329-9BC0

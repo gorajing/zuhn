@@ -49,11 +49,11 @@ stance: >-
   platform engineering becomes a scaling bottleneck rather than an optional
   support layer.
 related:
+  - INS-260627-9FDC
   - INS-260325-2BDB
   - PRI-260406-ED43
   - INS-260403-F148
   - INS-260514-AE82
-  - PRI-260328-A82C
 ---
 The DORA 2025 announcement says 90% of organizations have adopted at least one platform and that high-quality internal platforms correlate directly with the ability to unlock AI value. That is a concrete constraint on the 'AI breaks the Mythical Man-Month' thesis: the bottleneck shifts from raw implementation labor to the platform layer that lets AI-assisted work land safely and repeatably.
 

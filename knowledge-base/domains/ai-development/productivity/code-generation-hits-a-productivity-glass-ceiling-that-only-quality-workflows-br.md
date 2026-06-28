@@ -64,6 +64,7 @@ related:
   - INS-260327-33FA
   - INS-260605-A803
   - PRI-260406-9FA8
+  - INS-260627-F4F9
   - INS-260627-AC65
 ---
 Friedman frames AI-assisted development as a stack of glass ceilings. Out-of-the-box autocomplete gives a modest boost. Agentic code generation (gen 2.0) with rules and investment raises the ceiling further. But the McKinsey/Stanford-hyped 2x-10x for the *entire* software lifecycle never materializes from generation alone — because generation only addresses one phase of the SDLC.

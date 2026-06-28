@@ -1,5 +1,7 @@
 # Tag: gpu
 
+- `INS-260403-FCB6` AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
+- `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.
 - `INS-260403-64F4` While AI models commoditize, proprietary data for training and low-latency inference infrastructure will capture disproportionate value.
 - `INS-260605-4835` MLX deliberately runs on the GPU rather than the Neural Engine because reaching the Neural Engine requires Core ML, whose private-API friction makes it impractical for developers today.
 - `INS-260605-C873` Optimize kernels for memory movement, not flops, because a modern GPU spends most of its time idle waiting on tensors to arrive from slow memory.
@@ -19,5 +21,3 @@
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
 - `INS-260627-3F18` The largest agent speedups came not from new kernels but from rewriting the problem to call faster existing operations.
 - `INS-260625-B67E` Decorate just the function that needs a GPU to run in the cloud; let helper and main code run locally with hot reload so iteration is instant.
-- `INS-260403-FCB6` AI labs are using structured finance vehicles to fund massive GPU buildouts, turning compute hardware into securitized financial assets.
-- `INS-260404-183A` Meta choosing NVIDIA Grace CPUs over Intel/AMD shows GPU vendors are expanding into full compute stacks, threatening incumbent CPU makers.

@@ -66,7 +66,7 @@ related:
   - INS-260626-BCC7
   - INS-260626-4D5F
   - INS-260627-FC86
-  - INS-260409-3230
+  - INS-260627-7648
 ---
 Gemma E2B ('effectively 2 billion') actually holds ~4 billion parameters, but its per-layer-embedding architecture stores most of them as a lookup table rather than as weights involved in matrix multiplication. Because a table lookup is cheap and does not need fast compute-adjacent memory, those parameters can live in CPU RAM or even on disk while only ~2B parameters occupy the GPU. In llama.cpp this is a single `--override-tensor` flag that relocates the per-layer embeddings to slower memory.
 

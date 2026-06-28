@@ -64,9 +64,9 @@ related:
   - INS-260403-A3E4
   - INS-260625-211E
   - INS-260626-A927
+  - INS-260627-0EEE
   - INS-260605-B8DD
   - INS-260327-BE4E
-  - INS-260627-3D9A
 ---
 The Spectors observe that LLMs have become extraordinary at a narrow set of tasks — search and coding — precisely because those tasks are exceptionally well-resourced with data: search has the entire internet, coding has a large fraction of it plus the ability to generate near-unlimited synthetic data. This abundance, not some special property of the tasks, is what drove the capability.
 
